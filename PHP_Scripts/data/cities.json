@@ -49956,12 +49956,6 @@
         "country_id": 59
     },
     {
-        "id": "8329",
-        "name": "N\u00c3\u0192\u00c2\u0192\u00c3\u2020\u00c2\u2019\u00c3\u0192\u00c2\u201a\u00c3\u2020\u00c2\u2019\u00c3\u0192\u00c2\u0192\u00c3\u00a2\u00c2\u20ac\u00c2\u0161\u00c3\u0192\u00c2\u201a\u00c3\u201a\u00c2\u00b8rresundby",
-        "state_id": "833",
-        "country_id": 59
-    },
-    {
         "id": "8327",
         "name": "Nibe",
         "state_id": "833",
@@ -62035,7 +62029,7 @@
     },
     {
         "id": "10340",
-        "name": "Saint Martin d\u00c3\u0192\u00c2\u0192\u00c3\u2020\u00c2\u2019\u00c3\u0192\u00c2\u201a\u00c3\u201a\u00c2\u00a2\u00c3\u0192\u00c2\u0192\u00c3\u00a2\u00c2\u20ac\u00c2\u0161\u00c3\u0192\u00c2\u201a\u00c3\u00a2\u00c2\u201a\u00c2\u00ac\u00c3\u0192\u00c2\u0192\u00c3\u00a2\u00c2\u20ac\u00c2\u0161\u00c3\u0192\u00c2\u201a\u00c3\u00a2\u00c2\u201e\u00c2\u00a2Here",
+        "name": "Saint Martin",
         "state_id": "1069",
         "country_id": 75
     },
@@ -66115,7 +66109,7 @@
     },
     {
         "id": "11020",
-        "name": "Noirmoutier-en-l\\'\u00c3\u0192\u00c2\u0192\u00c3\u2020\u00c2\u2019\u00c3\u0192\u00c2\u201a\u00c3\u2026\u00c2\u00bdle",
+        "name": "Noirmoutier-en-l\\'\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c5\u00bdle",
         "state_id": "1162",
         "country_id": 75
     },
@@ -74095,7 +74089,7 @@
     },
     {
         "id": "12350",
-        "name": "Alsbach-H\u00c3\u0192\u00c2\u0192\u00c3\u2020\u00c2\u2019\u00c3\u0192\u00c2\u201a\u00c3\u201a\u00c2\u00a4hnlein",
+        "name": "Alsbach-H\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c2\u00a4hnlein",
         "state_id": "1248",
         "country_id": 82
     },
@@ -127213,7 +127207,7 @@
     },
     {
         "id": "21203",
-        "name": "Canicatt\u00c3\u0192\u00c2\u0192\u00c3\u2020\u00c2\u2019\u00c3\u0192\u00c2\u201a\u00c3\u201a\u00c2\u00ac",
+        "name": "Canicatt\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c2\u00ac",
         "state_id": "1726",
         "country_id": 107
     },
@@ -134197,7 +134191,7 @@
     },
     {
         "id": "22368",
-        "name": "Lusigli\u00c3\u0192\u00c2\u0192\u00c3\u2020\u00c2\u2019\u00c3\u0192\u00c2\u201a\u00c3\u201a\u00c2\u00a8",
+        "name": "Lusigli\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c2\u00a8",
         "state_id": "1790",
         "country_id": 107
     },
