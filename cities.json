@@ -66109,7 +66109,7 @@
     },
     {
         "id": "11020",
-        "name": "Noirmoutier-en-l\\'\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c5\u00bdle",
+        "name": "Noirmoutier-en-l\\'\u00c3\u0083\u00c2\u0083\u00c3\u0086\u00c2\u0092\u00c3\u0083\u00c2\u0082\u00c3\u0085\u00c2\u00bdle",
         "state_id": "1162",
         "country_id": 75
     },
@@ -74089,7 +74089,7 @@
     },
     {
         "id": "12350",
-        "name": "Alsbach-H\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c2\u00a4hnlein",
+        "name": "Alsbach-H\u00c3\u0083\u00c2\u0083\u00c3\u0086\u00c2\u0092\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a4hnlein",
         "state_id": "1248",
         "country_id": 82
     },
@@ -127207,7 +127207,7 @@
     },
     {
         "id": "21203",
-        "name": "Canicatt\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c2\u00ac",
+        "name": "Canicatt\u00c3\u0083\u00c2\u0083\u00c3\u0086\u00c2\u0092\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00ac",
         "state_id": "1726",
         "country_id": 107
     },
@@ -130722,6 +130722,156 @@
         "country_id": 107
     },
     {
+        "id": "47960",
+        "name": "De\u00e7an",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47959",
+        "name": "Ferizaj",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47956",
+        "name": "Gjakova",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47957",
+        "name": "Gnjilane",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47961",
+        "name": "Istok",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47962",
+        "name": "Ka\u00e7anik",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47963",
+        "name": "Kamenica",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47964",
+        "name": "Klina",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47966",
+        "name": "Leposavi?",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47967",
+        "name": "Mali\u009aevo",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47958",
+        "name": "Mitrovica",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47968",
+        "name": "Obili?",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47969",
+        "name": "Orahovac",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47955",
+        "name": "Pe?",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47970",
+        "name": "Podujevo",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47965",
+        "name": "Polje",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47953",
+        "name": "Pristina",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47954",
+        "name": "Prizren",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47971",
+        "name": "Skenderaj",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47972",
+        "name": "\u008atimlje",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47973",
+        "name": "\u008atrpce",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47974",
+        "name": "Suva Reka",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47975",
+        "name": "Vitina",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47976",
+        "name": "Vu?itrn",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
+        "id": "47977",
+        "name": "Zubin Potok",
+        "state_id": "4029",
+        "country_id": 107
+    },
+    {
         "id": "21791",
         "name": "Alatri",
         "state_id": "1763",
@@ -134191,7 +134341,7 @@
     },
     {
         "id": "22368",
-        "name": "Lusigli\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c2\u00a8",
+        "name": "Lusigli\u00c3\u0083\u00c2\u0083\u00c3\u0086\u00c2\u0092\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a8",
         "state_id": "1790",
         "country_id": 107
     },

@@ -22646,7 +22646,7 @@
             "Marolles-les-Braults",
             "Mortagne-sur-Sevre",
             "Mouzillon",
-            "Noirmoutier-en-l\\'\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c5\u00bdle"
+            "Noirmoutier-en-l\\'\u00c3\u0083\u00c2\u0083\u00c3\u0086\u00c2\u0092\u00c3\u0083\u00c2\u0082\u00c3\u0085\u00c2\u00bdle"
         ]
     },
     {
@@ -24956,7 +24956,7 @@
         "country_id": 82,
         "cities": [
             "ABlar",
-            "Alsbach-H\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c2\u00a4hnlein",
+            "Alsbach-H\u00c3\u0083\u00c2\u0083\u00c3\u0086\u00c2\u0092\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a4hnlein",
             "Alsfeld",
             "Altenstadt",
             "Angelburg",
@@ -38151,7 +38151,7 @@
             "Camastra",
             "Cammarata",
             "Campobello di Licata",
-            "Canicatt\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c2\u00ac",
+            "Canicatt\u00c3\u0083\u00c2\u0083\u00c3\u0086\u00c2\u0092\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00ac",
             "Casteltermini",
             "Castrofilippo",
             "Cattolica Eraclea",
@@ -38996,6 +38996,38 @@
         ]
     },
     {
+        "id": "4029",
+        "name": "Kosovo",
+        "country_id": 107,
+        "cities": [
+            "De\u00e7an",
+            "Ferizaj",
+            "Gjakova",
+            "Gnjilane",
+            "Istok",
+            "Ka\u00e7anik",
+            "Kamenica",
+            "Klina",
+            "Leposavi?",
+            "Mali\u009aevo",
+            "Mitrovica",
+            "Obili?",
+            "Orahovac",
+            "Pe?",
+            "Podujevo",
+            "Polje",
+            "Pristina",
+            "Prizren",
+            "Skenderaj",
+            "\u008atimlje",
+            "\u008atrpce",
+            "Suva Reka",
+            "Vitina",
+            "Vu?itrn",
+            "Zubin Potok"
+        ]
+    },
+    {
         "id": "1763",
         "name": "Lazio",
         "country_id": 107,
@@ -39781,7 +39813,7 @@
             "Grugliasco",
             "Ivrea",
             "Leini",
-            "Lusigli\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c2\u00a8",
+            "Lusigli\u00c3\u0083\u00c2\u0083\u00c3\u0086\u00c2\u0092\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a8",
             "Marano Ticino",
             "Mergozzo",
             "Moncalieri",
@@ -114811,7 +114843,7 @@
     },
     {
         "id": "2620",
-        "name": "\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00cb\u009cstfold",
+        "name": "\u00c3\u0083\u00c2\u0083\u00c3\u0086\u00c2\u0092\u00c3\u0083\u00c2\u0082\u00c3\u008b\u00c2\u009cstfold",
         "country_id": 165,
         "cities": [
             "Acquaviva delle Fonti",
