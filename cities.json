@@ -188832,6 +188832,12 @@
         "country_id": 233
     },
     {
+        "id": "31450",
+        "name": "Lexington",
+        "state_id": 3844,
+        "country_id": 233
+    },
+    {
         "id": "31451",
         "name": "Liberty",
         "state_id": 3844,
