@@ -3,10 +3,11 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: May 01, 2020 at 01:43 PM
+-- Generation Time: May 16, 2020 at 11:50 AM
 -- Server version: 5.7.25
 -- PHP Version: 7.3.1
 
+SET FOREIGN_KEY_CHECKS=0;
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
@@ -25,25 +26,22 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `cities`
 --
--- Creation: May 01, 2020 at 09:03 AM
--- Last update: May 01, 2020 at 01:23 PM
---
 
 DROP TABLE IF EXISTS `cities`;
 CREATE TABLE `cities` (
   `id` mediumint(8) UNSIGNED NOT NULL,
-  `name` varchar(255) NOT NULL,
+  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `state_id` mediumint(8) UNSIGNED NOT NULL,
-  `state_code` varchar(255) NOT NULL,
+  `state_code` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `country_id` mediumint(8) UNSIGNED NOT NULL,
-  `country_code` char(2) NOT NULL,
+  `country_code` char(2) COLLATE utf8mb4_unicode_ci NOT NULL,
   `latitude` decimal(10,8) NOT NULL,
   `longitude` decimal(11,8) NOT NULL,
   `created_at` timestamp NOT NULL DEFAULT '2014-01-01 01:01:01',
   `updated_on` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   `flag` tinyint(1) NOT NULL DEFAULT '1',
-  `wikiDataId` varchar(255) DEFAULT NULL COMMENT 'Rapid API GeoDB Cities'
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 ROW_FORMAT=COMPACT;
+  `wikiDataId` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL COMMENT 'Rapid API GeoDB Cities'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci ROW_FORMAT=COMPACT;
 
 --
 -- Dumping data for table `cities`
@@ -132809,7 +132807,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (132396, 'Karauli', 4014, 'RJ', 101, 'IN', '26.58000000', '77.10000000', '2019-10-05 19:38:41', '2019-10-05 19:38:41', 1, 'Q1419668'),
 (132397, 'Kareli', 4039, 'MP', 101, 'IN', '22.91533000', '79.06378000', '2019-10-05 19:38:41', '2019-10-05 19:38:41', 1, 'Q1419668'),
 (132398, 'Karera', 4039, 'MP', 101, 'IN', '25.45815000', '78.13583000', '2019-10-05 19:38:41', '2019-10-05 19:38:41', 1, 'Q2313234'),
-(132399, 'Kargil', 4029, 'JK', 101, 'IN', '34.55765000', '76.12622000', '2019-10-05 19:38:41', '2019-10-05 19:38:41', 1, 'Q2088176'),
+(132399, 'Kargil', 4852, 'LA', 101, 'IN', '34.55765000', '76.12622000', '2019-10-05 19:38:41', '2020-05-16 11:46:34', 1, 'Q2088176'),
 (132400, 'Karhal', 4022, 'UP', 101, 'IN', '27.00089000', '78.93935000', '2019-10-05 19:38:41', '2019-10-05 19:38:41', 1, 'Q2441548'),
 (132401, 'Kariapatti', 4035, 'TN', 101, 'IN', '9.67505000', '78.09992000', '2019-10-05 19:38:41', '2019-10-05 19:38:41', 1, 'Q2441061'),
 (132402, 'Karimganj', 4027, 'AS', 101, 'IN', '24.60000000', '92.40000000', '2019-10-05 19:38:41', '2019-10-05 19:38:41', 1, 'Q42542'),
@@ -133173,7 +133171,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (132759, 'Latur', 4008, 'MH', 101, 'IN', '18.40000000', '76.80000000', '2019-10-05 19:38:44', '2019-10-05 19:38:44', 1, 'Q1948713'),
 (132760, 'Laungowāl', 4015, 'PB', 101, 'IN', '30.19393000', '75.68089000', '2019-10-05 19:38:44', '2020-05-01 13:22:53', 1, 'Q1948713'),
 (132761, 'Lawngtlai', 4036, 'MZ', 101, 'IN', '22.53000000', '92.90000000', '2019-10-05 19:38:45', '2019-10-05 19:38:45', 1, 'Q1948713'),
-(132762, 'Leh', 4029, 'JK', 101, 'IN', '34.16504000', '77.58402000', '2019-10-05 19:38:45', '2019-10-05 19:38:45', 1, 'Q230818'),
+(132762, 'Leh', 4852, 'LA', 101, 'IN', '34.16504000', '77.58402000', '2019-10-05 19:38:45', '2020-05-16 11:44:47', 1, 'Q230818'),
 (132763, 'Leteri', 4039, 'MP', 101, 'IN', '24.05979000', '77.40858000', '2019-10-05 19:38:45', '2019-10-05 19:38:45', 1, 'Q230818'),
 (132764, 'Limbdi', 4030, 'GJ', 101, 'IN', '22.56507000', '71.81076000', '2019-10-05 19:38:45', '2019-10-05 19:38:45', 1, 'Q715228'),
 (132765, 'Lingsugūr', 4026, 'KA', 101, 'IN', '16.15876000', '76.52174000', '2019-10-05 19:38:45', '2020-05-01 13:22:52', 1, 'Q46641'),
@@ -142309,7 +142307,7 @@ ALTER TABLE `cities`
 -- AUTO_INCREMENT for table `cities`
 --
 ALTER TABLE `cities`
-  MODIFY `id` mediumint(8) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=141852;
+  MODIFY `id` mediumint(8) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=141853;
 
 --
 -- Constraints for dumped tables
@@ -142321,6 +142319,7 @@ ALTER TABLE `cities`
 ALTER TABLE `cities`
   ADD CONSTRAINT `cities_ibfk_1` FOREIGN KEY (`state_id`) REFERENCES `states` (`id`),
   ADD CONSTRAINT `cities_ibfk_2` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`);
+SET FOREIGN_KEY_CHECKS=1;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
