@@ -222,7 +222,7 @@
   </city>
   <city>
     <id>50</id>
-    <name>Andkhōy</name>
+    <name>Andkhoy</name>
     <state_id>3889</state_id>
     <state_code>FYB</state_code>
     <country_id>1</country_id>
@@ -532,7 +532,7 @@
   </city>
   <city>
     <id>51</id>
-    <name>Asadābād</name>
+    <name>Asadabad</name>
     <state_id>3876</state_id>
     <state_code>KNR</state_code>
     <country_id>1</country_id>
@@ -450422,7 +450422,7 @@
   </city>
   <city>
     <id>57709</id>
-    <name>Anjār</name>
+    <name>Anjar</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450442,13 +450442,23 @@
   </city>
   <city>
     <id>58104</id>
-    <name>Bābra</name>
+    <name>Babra</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>21.84577000</latitude>
     <longitude>71.30544000</longitude>
+  </city>
+  <city>
+    <id>142125</id>
+    <name>Bagasara</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>21.48333333</latitude>
+    <longitude>70.95000000</longitude>
   </city>
   <city>
     <id>57799</id>
@@ -450462,7 +450472,7 @@
   </city>
   <city>
     <id>57858</id>
-    <name>Banās Kāntha</name>
+    <name>Banas Kantha</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450472,7 +450482,7 @@
   </city>
   <city>
     <id>58135</id>
-    <name>Bāntva</name>
+    <name>Bantva</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450482,7 +450492,7 @@
   </city>
   <city>
     <id>58140</id>
-    <name>Bārdoli</name>
+    <name>Bardoli</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450502,7 +450512,7 @@
   </city>
   <city>
     <id>57948</id>
-    <name>Bhachāu</name>
+    <name>Bhachau</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450512,7 +450522,7 @@
   </city>
   <city>
     <id>58014</id>
-    <name>Bhānvad</name>
+    <name>Bhanvad</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450522,7 +450532,7 @@
   </city>
   <city>
     <id>57967</id>
-    <name>Bharūch</name>
+    <name>Bharuch</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450542,7 +450552,7 @@
   </city>
   <city>
     <id>58016</id>
-    <name>Bhāvnagar</name>
+    <name>Bhavnagar</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450552,7 +450562,7 @@
   </city>
   <city>
     <id>58017</id>
-    <name>Bhāyāvadar</name>
+    <name>Bhayavadar</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450602,7 +450612,7 @@
   </city>
   <city>
     <id>58085</id>
-    <name>Botād</name>
+    <name>Botad</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450612,7 +450622,7 @@
   </city>
   <city>
     <id>58174</id>
-    <name>Chaklāsi</name>
+    <name>Chaklasi</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450622,7 +450632,7 @@
   </city>
   <city>
     <id>58180</id>
-    <name>Chalāla</name>
+    <name>Chalala</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450632,7 +450642,7 @@
   </city>
   <city>
     <id>131595</id>
-    <name>Chānasma</name>
+    <name>Chanasma</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450692,7 +450702,7 @@
   </city>
   <city>
     <id>131642</id>
-    <name>Dahegām</name>
+    <name>Dahegam</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450701,8 +450711,18 @@
     <longitude>72.82161000</longitude>
   </city>
   <city>
+    <id>142126</id>
+    <name>Dahod</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.52000000</latitude>
+    <longitude>74.15000000</longitude>
+  </city>
+  <city>
     <id>131808</id>
-    <name>Dākor</name>
+    <name>Dakor</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450712,13 +450732,23 @@
   </city>
   <city>
     <id>131809</id>
-    <name>Dāmnagar</name>
+    <name>Damnagar</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>21.69232000</latitude>
     <longitude>71.51747000</longitude>
+  </city>
+  <city>
+    <id>142127</id>
+    <name>Dangs (India)</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>20.75000000</latitude>
+    <longitude>73.75000000</longitude>
   </city>
   <city>
     <id>131673</id>
@@ -450732,13 +450762,23 @@
   </city>
   <city>
     <id>131680</id>
-    <name>Delvāda</name>
+    <name>Delvada</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>20.77544000</latitude>
     <longitude>71.04646000</longitude>
+  </city>
+  <city>
+    <id>142128</id>
+    <name>Delwada</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>20.78330000</latitude>
+    <longitude>71.05000000</longitude>
   </city>
   <city>
     <id>131704</id>
@@ -450752,7 +450792,7 @@
   </city>
   <city>
     <id>131705</id>
-    <name>Devgadh Bāriya</name>
+    <name>Devgadh Bariya</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450822,7 +450862,7 @@
   </city>
   <city>
     <id>131741</id>
-    <name>Dhorāji</name>
+    <name>Dhoraji</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450832,7 +450872,7 @@
   </city>
   <city>
     <id>131743</id>
-    <name>Dhrāngadhra</name>
+    <name>Dhrangadhra</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450862,7 +450902,7 @@
   </city>
   <city>
     <id>131817</id>
-    <name>Dīsa</name>
+    <name>Disa</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450892,7 +450932,7 @@
   </city>
   <city>
     <id>131803</id>
-    <name>Dwārka</name>
+    <name>Dwarka</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450922,7 +450962,7 @@
   </city>
   <city>
     <id>132046</id>
-    <name>Gāndhīdhām</name>
+    <name>Gandhidham</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -450942,7 +450982,7 @@
   </city>
   <city>
     <id>132047</id>
-    <name>Gāndhīnagar</name>
+    <name>Gandhinagar</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451002,7 +451042,7 @@
   </city>
   <city>
     <id>132139</id>
-    <name>Hālol</name>
+    <name>Halol</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451032,7 +451072,7 @@
   </city>
   <city>
     <id>132143</id>
-    <name>Hārij</name>
+    <name>Harij</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451051,8 +451091,18 @@
     <longitude>72.96602000</longitude>
   </city>
   <city>
+    <id>142129</id>
+    <name>Jalalpore</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>20.94910000</latitude>
+    <longitude>72.91360000</longitude>
+  </city>
+  <city>
     <id>132219</id>
-    <name>Jalālpur</name>
+    <name>Jalalpur</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451082,7 +451132,7 @@
   </city>
   <city>
     <id>132310</id>
-    <name>Jāmnagar</name>
+    <name>Jamnagar</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451141,6 +451191,16 @@
     <longitude>70.03270000</longitude>
   </city>
   <city>
+    <id>142130</id>
+    <name>Jodia</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.71667000</latitude>
+    <longitude>70.28333000</longitude>
+  </city>
+  <city>
     <id>132287</id>
     <name>Jodiya Bandar</name>
     <state_id>4030</state_id>
@@ -451152,7 +451212,7 @@
   </city>
   <city>
     <id>132317</id>
-    <name>Jūnāgadh</name>
+    <name>Junagadh</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451192,7 +451252,7 @@
   </city>
   <city>
     <id>132689</id>
-    <name>Kālāvad</name>
+    <name>Kalavad</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451212,7 +451272,7 @@
   </city>
   <city>
     <id>132698</id>
-    <name>Kāndla</name>
+    <name>Kandla</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451222,7 +451282,7 @@
   </city>
   <city>
     <id>132708</id>
-    <name>Kānodar</name>
+    <name>Kanodar</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451252,7 +451312,7 @@
   </city>
   <city>
     <id>132723</id>
-    <name>Kāthor</name>
+    <name>Kathor</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451271,8 +451331,18 @@
     <longitude>71.79457000</longitude>
   </city>
   <city>
+    <id>142131</id>
+    <name>Kavant</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.09282000</latitude>
+    <longitude>74.05078000</longitude>
+  </city>
+  <city>
     <id>132434</id>
-    <name>Kawānt</name>
+    <name>Kawant</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451291,8 +451361,18 @@
     <longitude>70.24861000</longitude>
   </city>
   <city>
+    <id>142132</id>
+    <name>Khambhalia</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.20000000</latitude>
+    <longitude>69.65000000</longitude>
+  </city>
+  <city>
     <id>132461</id>
-    <name>Khambhāliya</name>
+    <name>Khambhaliya</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451302,7 +451382,7 @@
   </city>
   <city>
     <id>132462</id>
-    <name>Khambhāt</name>
+    <name>Khambhat</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451332,7 +451412,7 @@
   </city>
   <city>
     <id>132494</id>
-    <name>Kherālu</name>
+    <name>Kheralu</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451371,8 +451451,18 @@
     <longitude>71.30633000</longitude>
   </city>
   <city>
+    <id>142133</id>
+    <name>Kutch district</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.91500000</latitude>
+    <longitude>70.36700000</longitude>
+  </city>
+  <city>
     <id>132670</id>
-    <name>Kutiyāna</name>
+    <name>Kutiyana</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451392,7 +451482,7 @@
   </city>
   <city>
     <id>132797</id>
-    <name>Lālpur</name>
+    <name>Lalpur</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451402,7 +451492,7 @@
   </city>
   <city>
     <id>132802</id>
-    <name>Lāthi</name>
+    <name>Lathi</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451422,7 +451512,7 @@
   </city>
   <city>
     <id>132804</id>
-    <name>Lūnāvāda</name>
+    <name>Lunavada</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451432,7 +451522,7 @@
   </city>
   <city>
     <id>132831</id>
-    <name>Mahemdāvād</name>
+    <name>Mahemdavad</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451442,7 +451532,7 @@
   </city>
   <city>
     <id>132834</id>
-    <name>Mahesāna</name>
+    <name>Mahesana</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451462,7 +451552,7 @@
   </city>
   <city>
     <id>133068</id>
-    <name>Mālpur</name>
+    <name>Malpur</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451472,7 +451562,7 @@
   </city>
   <city>
     <id>133085</id>
-    <name>Mānāvadar</name>
+    <name>Manavadar</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451492,7 +451582,7 @@
   </city>
   <city>
     <id>133076</id>
-    <name>Māndvi</name>
+    <name>Mandvi</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451501,8 +451591,18 @@
     <longitude>69.35237000</longitude>
   </city>
   <city>
+    <id>142134</id>
+    <name>Mandvi (Surat)</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>21.25526000</latitude>
+    <longitude>73.30412000</longitude>
+  </city>
+  <city>
     <id>133077</id>
-    <name>Māngrol</name>
+    <name>Mangrol</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451512,7 +451612,7 @@
   </city>
   <city>
     <id>133081</id>
-    <name>Mānsa</name>
+    <name>Mansa</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451531,6 +451631,16 @@
     <longitude>73.51352000</longitude>
   </city>
   <city>
+    <id>142135</id>
+    <name>Mehsana</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.60000000</latitude>
+    <longitude>72.40000000</longitude>
+  </city>
+  <city>
     <id>132966</id>
     <name>Mendarda</name>
     <state_id>4030</state_id>
@@ -451542,7 +451652,7 @@
   </city>
   <city>
     <id>132978</id>
-    <name>Modāsa</name>
+    <name>Modasa</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451559,6 +451669,16 @@
     <country_code>IN</country_code>
     <latitude>22.81731000</latitude>
     <longitude>70.83770000</longitude>
+  </city>
+  <city>
+    <id>142136</id>
+    <name>Morva (Hadaf)</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.90469000</latitude>
+    <longitude>73.83912000</longitude>
   </city>
   <city>
     <id>133000</id>
@@ -451582,7 +451702,7 @@
   </city>
   <city>
     <id>133106</id>
-    <name>Nadiād</name>
+    <name>Nadiad</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451632,7 +451752,7 @@
   </city>
   <city>
     <id>133188</id>
-    <name>Navsāri</name>
+    <name>Navsari</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451652,7 +451772,7 @@
   </city>
   <city>
     <id>133298</id>
-    <name>Olpād</name>
+    <name>Olpad</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451682,7 +451802,7 @@
   </city>
   <city>
     <id>133526</id>
-    <name>Pālanpur</name>
+    <name>Palanpur</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451692,7 +451812,7 @@
   </city>
   <city>
     <id>133532</id>
-    <name>Pālitāna</name>
+    <name>Palitana</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451702,7 +451822,7 @@
   </city>
   <city>
     <id>133533</id>
-    <name>Pāliyād</name>
+    <name>Paliyad</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451712,7 +451832,17 @@
   </city>
   <city>
     <id>133536</id>
-    <name>Pānch Mahāls</name>
+    <name>Panch Mahals</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.75000000</latitude>
+    <longitude>73.60000000</longitude>
+  </city>
+  <city>
+    <id>142137</id>
+    <name>Panchmahal district</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451722,7 +451852,7 @@
   </city>
   <city>
     <id>133548</id>
-    <name>Pārdi</name>
+    <name>Pardi</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451752,7 +451882,7 @@
   </city>
   <city>
     <id>133553</id>
-    <name>Pātan</name>
+    <name>Patan</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451761,8 +451891,18 @@
     <longitude>72.12963000</longitude>
   </city>
   <city>
+    <id>142138</id>
+    <name>Pavi Jetpur</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.34472000</latitude>
+    <longitude>73.84093000</longitude>
+  </city>
+  <city>
     <id>133429</id>
-    <name>Petlād</name>
+    <name>Petlad</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451782,7 +451922,7 @@
   </city>
   <city>
     <id>133657</id>
-    <name>Rādhanpur</name>
+    <name>Radhanpur</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451792,7 +451932,7 @@
   </city>
   <city>
     <id>133679</id>
-    <name>Rājkot</name>
+    <name>Rajkot</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451802,7 +451942,7 @@
   </city>
   <city>
     <id>133682</id>
-    <name>Rājpīpla</name>
+    <name>Rajpipla</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451812,7 +451952,7 @@
   </city>
   <city>
     <id>133684</id>
-    <name>Rājula</name>
+    <name>Rajula</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451822,7 +451962,7 @@
   </city>
   <city>
     <id>133718</id>
-    <name>Rānāvāv</name>
+    <name>Ranavav</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451832,7 +451972,7 @@
   </city>
   <city>
     <id>133722</id>
-    <name>Rāpar</name>
+    <name>Rapar</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451852,7 +451992,7 @@
   </city>
   <city>
     <id>133739</id>
-    <name>Sabar Kāntha</name>
+    <name>Sabar Kantha</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451862,7 +452002,7 @@
   </city>
   <city>
     <id>133742</id>
-    <name>Sachīn</name>
+    <name>Sachin</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451872,7 +452012,7 @@
   </city>
   <city>
     <id>133766</id>
-    <name>Salāya</name>
+    <name>Salaya</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451882,7 +452022,7 @@
   </city>
   <city>
     <id>134069</id>
-    <name>Sānand</name>
+    <name>Sanand</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451922,7 +452062,7 @@
   </city>
   <city>
     <id>134085</id>
-    <name>Sāyla</name>
+    <name>Sayla</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451932,7 +452072,7 @@
   </city>
   <city>
     <id>133900</id>
-    <name>Shāhpur</name>
+    <name>Shahpur</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451942,7 +452082,7 @@
   </city>
   <city>
     <id>133882</id>
-    <name>Shivrājpur</name>
+    <name>Shivrajpur</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -451959,6 +452099,16 @@
     <country_code>IN</country_code>
     <latitude>23.91783000</latitude>
     <longitude>72.37212000</longitude>
+  </city>
+  <city>
+    <id>142139</id>
+    <name>Siddhpur</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.91670000</latitude>
+    <longitude>72.38330000</longitude>
   </city>
   <city>
     <id>133925</id>
@@ -451992,7 +452142,7 @@
   </city>
   <city>
     <id>133984</id>
-    <name>Sojītra</name>
+    <name>Sojitra</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452012,7 +452162,7 @@
   </city>
   <city>
     <id>134096</id>
-    <name>Sūrat</name>
+    <name>Surat</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452032,7 +452182,7 @@
   </city>
   <city>
     <id>134107</id>
-    <name>Talāja</name>
+    <name>Talaja</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452042,7 +452192,7 @@
   </city>
   <city>
     <id>134112</id>
-    <name>Tankāra</name>
+    <name>Tankara</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452062,7 +452212,7 @@
   </city>
   <city>
     <id>134164</id>
-    <name>Thān</name>
+    <name>Than</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452071,8 +452221,18 @@
     <longitude>71.19942000</longitude>
   </city>
   <city>
+    <id>142140</id>
+    <name>Thangadh</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.56666667</latitude>
+    <longitude>71.18333333</longitude>
+  </city>
+  <city>
     <id>134144</id>
-    <name>Tharād</name>
+    <name>Tharad</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452082,7 +452242,7 @@
   </city>
   <city>
     <id>134168</id>
-    <name>Thāsra</name>
+    <name>Thasra</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452102,7 +452262,7 @@
   </city>
   <city>
     <id>134277</id>
-    <name>Umrāla</name>
+    <name>Umrala</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452162,7 +452322,7 @@
   </city>
   <city>
     <id>134297</id>
-    <name>Utrān</name>
+    <name>Utran</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452192,7 +452352,7 @@
   </city>
   <city>
     <id>134381</id>
-    <name>Vāghodia</name>
+    <name>Vaghodia</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452202,7 +452362,7 @@
   </city>
   <city>
     <id>134315</id>
-    <name>Valabhīpur</name>
+    <name>Valabhipur</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452221,8 +452381,18 @@
     <longitude>72.90000000</longitude>
   </city>
   <city>
+    <id>142141</id>
+    <name>Vallabhipur</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>21.88780000</latitude>
+    <longitude>71.87950000</longitude>
+  </city>
+  <city>
     <id>134322</id>
-    <name>Valsād</name>
+    <name>Valsad</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452232,13 +452402,23 @@
   </city>
   <city>
     <id>134382</id>
-    <name>Vānsada</name>
+    <name>Vansada</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>20.75817000</latitude>
     <longitude>73.36389000</longitude>
+  </city>
+  <city>
+    <id>142142</id>
+    <name>Vansda</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>20.45000000</latitude>
+    <longitude>73.22000000</longitude>
   </city>
   <city>
     <id>134326</id>
@@ -452271,6 +452451,16 @@
     <longitude>72.75519000</longitude>
   </city>
   <city>
+    <id>142143</id>
+    <name>Vaso</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.66079000</latitude>
+    <longitude>72.75519000</longitude>
+  </city>
+  <city>
     <id>134339</id>
     <name>Vejalpur</name>
     <state_id>4030</state_id>
@@ -452282,7 +452472,7 @@
   </city>
   <city>
     <id>134349</id>
-    <name>Verāval</name>
+    <name>Veraval</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452292,13 +452482,23 @@
   </city>
   <city>
     <id>134357</id>
-    <name>Vijāpur</name>
+    <name>Vijapur</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>23.56230000</latitude>
     <longitude>72.74848000</longitude>
+  </city>
+  <city>
+    <id>142144</id>
+    <name>Vinchhiya</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.21027000</latitude>
+    <longitude>71.37967000</longitude>
   </city>
   <city>
     <id>134363</id>
@@ -452322,7 +452522,7 @@
   </city>
   <city>
     <id>134387</id>
-    <name>Vīsāvadar</name>
+    <name>Visavadar</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452342,7 +452542,7 @@
   </city>
   <city>
     <id>134378</id>
-    <name>Vyāra</name>
+    <name>Vyara</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452351,8 +452551,28 @@
     <longitude>73.39365000</longitude>
   </city>
   <city>
+    <id>142145</id>
+    <name>Wadhai</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>20.76666667</latitude>
+    <longitude>73.48333333</longitude>
+  </city>
+  <city>
+    <id>142146</id>
+    <name>Wadhwan</name>
+    <state_id>4030</state_id>
+    <state_code>GJ</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.70000000</latitude>
+    <longitude>71.68333333</longitude>
+  </city>
+  <city>
     <id>134389</id>
-    <name>Waghāi</name>
+    <name>Waghai</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -452362,7 +452582,7 @@
   </city>
   <city>
     <id>134416</id>
-    <name>Wānkāner</name>
+    <name>Wankaner</name>
     <state_id>4030</state_id>
     <state_code>GJ</state_code>
     <country_id>101</country_id>
@@ -469022,7 +469242,7 @@
   </city>
   <city>
     <id>133078</id>
-    <name>Māngrol</name>
+    <name>Mangrol</name>
     <state_id>4014</state_id>
     <state_code>RJ</state_code>
     <country_id>101</country_id>
@@ -480259,6 +480479,2616 @@
     <country_code>IN</country_code>
     <latitude>30.46944000</latitude>
     <longitude>77.77275000</longitude>
+  </city>
+  <city>
+    <id>141852</id>
+    <name>Ahmedpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.83009000</latitude>
+    <longitude>87.68661000</longitude>
+  </city>
+  <city>
+    <id>141853</id>
+    <name>Aistala</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.18000000</latitude>
+    <longitude>88.58000000</longitude>
+  </city>
+  <city>
+    <id>141854</id>
+    <name>Aknapur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>18.38576389</latitude>
+    <longitude>77.27225278</longitude>
+  </city>
+  <city>
+    <id>141856</id>
+    <name>Alīpur Duār</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.48350000</latitude>
+    <longitude>89.52286000</longitude>
+  </city>
+  <city>
+    <id>141855</id>
+    <name>Alipurduar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.49136000</latitude>
+    <longitude>89.52796000</longitude>
+  </city>
+  <city>
+    <id>142112</id>
+    <name>Āmlāgora</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.84616000</latitude>
+    <longitude>87.33559000</longitude>
+  </city>
+  <city>
+    <id>141857</id>
+    <name>Amta</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.57333333</latitude>
+    <longitude>88.01611111</longitude>
+  </city>
+  <city>
+    <id>141858</id>
+    <name>Amtala</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.22000000</latitude>
+    <longitude>88.17000000</longitude>
+  </city>
+  <city>
+    <id>141859</id>
+    <name>Andal</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.60000000</latitude>
+    <longitude>87.20000000</longitude>
+  </city>
+  <city>
+    <id>141860</id>
+    <name>Arambagh community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.88000000</latitude>
+    <longitude>87.78000000</longitude>
+  </city>
+  <city>
+    <id>141861</id>
+    <name>Asansol</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.68333333</latitude>
+    <longitude>86.96666667</longitude>
+  </city>
+  <city>
+    <id>141862</id>
+    <name>Ashoknagar Kalyangarh</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.83300000</latitude>
+    <longitude>88.63300000</longitude>
+  </city>
+  <city>
+    <id>141863</id>
+    <name>Badkulla</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.28000000</latitude>
+    <longitude>88.53000000</longitude>
+  </city>
+  <city>
+    <id>141864</id>
+    <name>Baduria</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.74000000</latitude>
+    <longitude>88.79000000</longitude>
+  </city>
+  <city>
+    <id>141865</id>
+    <name>Bagdogra</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.69980400</latitude>
+    <longitude>88.31939200</longitude>
+  </city>
+  <city>
+    <id>141866</id>
+    <name>Bagnan</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.47000000</latitude>
+    <longitude>87.97000000</longitude>
+  </city>
+  <city>
+    <id>141867</id>
+    <name>Bagula</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.33500000</latitude>
+    <longitude>88.64400000</longitude>
+  </city>
+  <city>
+    <id>141868</id>
+    <name>Bahula</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.65741900</latitude>
+    <longitude>87.19597400</longitude>
+  </city>
+  <city>
+    <id>141869</id>
+    <name>Baidyabati</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.79000000</latitude>
+    <longitude>88.32000000</longitude>
+  </city>
+  <city>
+    <id>141870</id>
+    <name>Bakreswar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.88320000</latitude>
+    <longitude>87.37265000</longitude>
+  </city>
+  <city>
+    <id>141871</id>
+    <name>Balarāmpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.09714000</latitude>
+    <longitude>86.22292000</longitude>
+  </city>
+  <city>
+    <id>141903</id>
+    <name>Bāli Chak</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.36482000</latitude>
+    <longitude>87.55304000</longitude>
+  </city>
+  <city>
+    <id>141872</id>
+    <name>Bally</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.65000000</latitude>
+    <longitude>88.34000000</longitude>
+  </city>
+  <city>
+    <id>141873</id>
+    <name>Balurghat</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.21666667</latitude>
+    <longitude>88.76666667</longitude>
+  </city>
+  <city>
+    <id>141874</id>
+    <name>Bamangola community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.17000000</latitude>
+    <longitude>88.33500000</longitude>
+  </city>
+  <city>
+    <id>141875</id>
+    <name>Baneswar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.65000000</latitude>
+    <longitude>89.81666667</longitude>
+  </city>
+  <city>
+    <id>141876</id>
+    <name>Bangaon</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.07000000</latitude>
+    <longitude>88.82000000</longitude>
+  </city>
+  <city>
+    <id>141877</id>
+    <name>Bankra</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.63000000</latitude>
+    <longitude>88.30000000</longitude>
+  </city>
+  <city>
+    <id>141878</id>
+    <name>Bankura</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.25000000</latitude>
+    <longitude>87.06666667</longitude>
+  </city>
+  <city>
+    <id>141879</id>
+    <name>Bansberia</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.97000000</latitude>
+    <longitude>88.40000000</longitude>
+  </city>
+  <city>
+    <id>141880</id>
+    <name>Bansihari community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.40000000</latitude>
+    <longitude>88.41670000</longitude>
+  </city>
+  <city>
+    <id>141881</id>
+    <name>Barabazar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.36000000</latitude>
+    <longitude>86.65000000</longitude>
+  </city>
+  <city>
+    <id>141882</id>
+    <name>Baranagar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.64000000</latitude>
+    <longitude>88.37000000</longitude>
+  </city>
+  <city>
+    <id>141883</id>
+    <name>Barasat</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.23333333</latitude>
+    <longitude>88.45000000</longitude>
+  </city>
+  <city>
+    <id>141884</id>
+    <name>Bardhaman</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.25000000</latitude>
+    <longitude>87.85000000</longitude>
+  </city>
+  <city>
+    <id>141885</id>
+    <name>Barjora</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.43333333</latitude>
+    <longitude>87.28333333</longitude>
+  </city>
+  <city>
+    <id>141886</id>
+    <name>Barrackpore</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.75000000</latitude>
+    <longitude>88.36666667</longitude>
+  </city>
+  <city>
+    <id>141887</id>
+    <name>Baruipur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.35000000</latitude>
+    <longitude>88.44000000</longitude>
+  </city>
+  <city>
+    <id>141888</id>
+    <name>Basanti</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.18915340</latitude>
+    <longitude>88.67056850</longitude>
+  </city>
+  <city>
+    <id>141889</id>
+    <name>Basirhat</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.65722222</latitude>
+    <longitude>88.89416667</longitude>
+  </city>
+  <city>
+    <id>141904</id>
+    <name>Bāwāli</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.42563000</latitude>
+    <longitude>88.19336000</longitude>
+  </city>
+  <city>
+    <id>141890</id>
+    <name>Begampur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.74000000</latitude>
+    <longitude>88.24000000</longitude>
+  </city>
+  <city>
+    <id>141891</id>
+    <name>Belda</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.08000000</latitude>
+    <longitude>87.35000000</longitude>
+  </city>
+  <city>
+    <id>141892</id>
+    <name>Beldanga</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.93000000</latitude>
+    <longitude>88.25000000</longitude>
+  </city>
+  <city>
+    <id>141893</id>
+    <name>Beliatore</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.33333333</latitude>
+    <longitude>87.21666667</longitude>
+  </city>
+  <city>
+    <id>141894</id>
+    <name>Berhampore</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.10000000</latitude>
+    <longitude>88.25000000</longitude>
+  </city>
+  <city>
+    <id>141895</id>
+    <name>Bhadreswar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.82000000</latitude>
+    <longitude>88.35000000</longitude>
+  </city>
+  <city>
+    <id>141896</id>
+    <name>Bhandardaha</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.62000000</latitude>
+    <longitude>88.21000000</longitude>
+  </city>
+  <city>
+    <id>141897</id>
+    <name>Bhatpara</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.86666667</latitude>
+    <longitude>88.41666667</longitude>
+  </city>
+  <city>
+    <id>141898</id>
+    <name>Birbhum district</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.00000000</latitude>
+    <longitude>87.58333000</longitude>
+  </city>
+  <city>
+    <id>141899</id>
+    <name>Birpara</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.50000000</latitude>
+    <longitude>89.50000000</longitude>
+  </city>
+  <city>
+    <id>141900</id>
+    <name>Bishnupur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.38000000</latitude>
+    <longitude>88.27000000</longitude>
+  </city>
+  <city>
+    <id>141901</id>
+    <name>Bolpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.67000000</latitude>
+    <longitude>87.72000000</longitude>
+  </city>
+  <city>
+    <id>141902</id>
+    <name>Budge Budge</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.47000000</latitude>
+    <longitude>88.17000000</longitude>
+  </city>
+  <city>
+    <id>141905</id>
+    <name>Canning</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.32000000</latitude>
+    <longitude>88.67000000</longitude>
+  </city>
+  <city>
+    <id>141906</id>
+    <name>Chakapara</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.63000000</latitude>
+    <longitude>88.35000000</longitude>
+  </city>
+  <city>
+    <id>141907</id>
+    <name>Chakdaha</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.08000000</latitude>
+    <longitude>88.52000000</longitude>
+  </city>
+  <city>
+    <id>141908</id>
+    <name>Champadanga</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.83000000</latitude>
+    <longitude>87.96000000</longitude>
+  </city>
+  <city>
+    <id>141914</id>
+    <name>Chāmpāhāti</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.40026000</latitude>
+    <longitude>88.49209000</longitude>
+  </city>
+  <city>
+    <id>141909</id>
+    <name>Champdani</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.80000000</latitude>
+    <longitude>88.37000000</longitude>
+  </city>
+  <city>
+    <id>141910</id>
+    <name>Chandannagar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.86666667</latitude>
+    <longitude>88.38333333</longitude>
+  </city>
+  <city>
+    <id>141911</id>
+    <name>Chandrakona</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.73000000</latitude>
+    <longitude>87.52000000</longitude>
+  </city>
+  <city>
+    <id>141912</id>
+    <name>Chittaranjan</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.87000000</latitude>
+    <longitude>86.87000000</longitude>
+  </city>
+  <city>
+    <id>141913</id>
+    <name>Churulia</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.78000000</latitude>
+    <longitude>87.08000000</longitude>
+  </city>
+  <city>
+    <id>141915</id>
+    <name>Contai</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>21.78000000</latitude>
+    <longitude>87.75000000</longitude>
+  </city>
+  <city>
+    <id>141916</id>
+    <name>Cooch Behar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.31666667</latitude>
+    <longitude>89.43333333</longitude>
+  </city>
+  <city>
+    <id>141917</id>
+    <name>Cossimbazar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.12000000</latitude>
+    <longitude>88.28000000</longitude>
+  </city>
+  <city>
+    <id>141918</id>
+    <name>Dakshin Dinajpur district</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.22000000</latitude>
+    <longitude>88.76000000</longitude>
+  </city>
+  <city>
+    <id>141919</id>
+    <name>Dalkola</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.87577000</latitude>
+    <longitude>87.84009000</longitude>
+  </city>
+  <city>
+    <id>141920</id>
+    <name>Dam Dam</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.63333333</latitude>
+    <longitude>88.42277778</longitude>
+  </city>
+  <city>
+    <id>141921</id>
+    <name>Darjeeling</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>27.04166667</latitude>
+    <longitude>88.26305556</longitude>
+  </city>
+  <city>
+    <id>141922</id>
+    <name>Daulatpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.32605000</latitude>
+    <longitude>88.32989000</longitude>
+  </city>
+  <city>
+    <id>141923</id>
+    <name>Debagram</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.68333333</latitude>
+    <longitude>88.28333333</longitude>
+  </city>
+  <city>
+    <id>141924</id>
+    <name>Debīpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.25029000</latitude>
+    <longitude>88.61824000</longitude>
+  </city>
+  <city>
+    <id>141925</id>
+    <name>Dhaniakhali community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.97000000</latitude>
+    <longitude>88.10000000</longitude>
+  </city>
+  <city>
+    <id>141926</id>
+    <name>Dhulagari</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.58222222</latitude>
+    <longitude>88.17111111</longitude>
+  </city>
+  <city>
+    <id>141927</id>
+    <name>Dhulian</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.68000000</latitude>
+    <longitude>87.97000000</longitude>
+  </city>
+  <city>
+    <id>141928</id>
+    <name>Dhupguri</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.60000000</latitude>
+    <longitude>89.02000000</longitude>
+  </city>
+  <city>
+    <id>141929</id>
+    <name>Diamond Harbour</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.20000000</latitude>
+    <longitude>88.20000000</longitude>
+  </city>
+  <city>
+    <id>141930</id>
+    <name>Digha</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>21.68000000</latitude>
+    <longitude>87.55000000</longitude>
+  </city>
+  <city>
+    <id>141931</id>
+    <name>Dinhata</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.13000000</latitude>
+    <longitude>89.47000000</longitude>
+  </city>
+  <city>
+    <id>141932</id>
+    <name>Domjur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.64000000</latitude>
+    <longitude>88.22000000</longitude>
+  </city>
+  <city>
+    <id>141933</id>
+    <name>Dubrajpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.80000000</latitude>
+    <longitude>87.38000000</longitude>
+  </city>
+  <city>
+    <id>141934</id>
+    <name>Durgapur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.55000000</latitude>
+    <longitude>87.32000000</longitude>
+  </city>
+  <city>
+    <id>141935</id>
+    <name>Egra</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>21.90000000</latitude>
+    <longitude>87.53000000</longitude>
+  </city>
+  <city>
+    <id>141936</id>
+    <name>Falakata</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.53000000</latitude>
+    <longitude>89.20000000</longitude>
+  </city>
+  <city>
+    <id>141937</id>
+    <name>Farakka</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.81667000</latitude>
+    <longitude>87.90000000</longitude>
+  </city>
+  <city>
+    <id>141938</id>
+    <name>Fort Gloster</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.50444444</latitude>
+    <longitude>88.18333333</longitude>
+  </city>
+  <city>
+    <id>141939</id>
+    <name>Gaighata community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.93000000</latitude>
+    <longitude>88.73000000</longitude>
+  </city>
+  <city>
+    <id>141940</id>
+    <name>Gairkata</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.68000000</latitude>
+    <longitude>89.03000000</longitude>
+  </city>
+  <city>
+    <id>141941</id>
+    <name>Gangadharpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.76040000</latitude>
+    <longitude>88.22180000</longitude>
+  </city>
+  <city>
+    <id>141942</id>
+    <name>Gangarampur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.40000000</latitude>
+    <longitude>88.52000000</longitude>
+  </city>
+  <city>
+    <id>141943</id>
+    <name>Garui</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.63333333</latitude>
+    <longitude>88.40000000</longitude>
+  </city>
+  <city>
+    <id>141944</id>
+    <name>Garulia</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.82000000</latitude>
+    <longitude>88.37000000</longitude>
+  </city>
+  <city>
+    <id>141945</id>
+    <name>Ghatal</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.67000000</latitude>
+    <longitude>87.72000000</longitude>
+  </city>
+  <city>
+    <id>141946</id>
+    <name>Giria</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.51666667</latitude>
+    <longitude>88.06666667</longitude>
+  </city>
+  <city>
+    <id>141947</id>
+    <name>Gobardanga</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.87000000</latitude>
+    <longitude>88.76000000</longitude>
+  </city>
+  <city>
+    <id>141948</id>
+    <name>Gobindapur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.59306000</latitude>
+    <longitude>88.09139000</longitude>
+  </city>
+  <city>
+    <id>141950</id>
+    <name>Gopālpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.61845000</latitude>
+    <longitude>88.75119000</longitude>
+  </city>
+  <city>
+    <id>141949</id>
+    <name>Gopinathpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.22000000</latitude>
+    <longitude>88.15000000</longitude>
+  </city>
+  <city>
+    <id>141951</id>
+    <name>Gorubathan</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.97000000</latitude>
+    <longitude>88.70000000</longitude>
+  </city>
+  <city>
+    <id>141952</id>
+    <name>Gosaba</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.16000000</latitude>
+    <longitude>88.80000000</longitude>
+  </city>
+  <city>
+    <id>141953</id>
+    <name>Gosanimari</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.15000000</latitude>
+    <longitude>89.36666667</longitude>
+  </city>
+  <city>
+    <id>141954</id>
+    <name>Gurdaha</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.73472222</latitude>
+    <longitude>88.75944444</longitude>
+  </city>
+  <city>
+    <id>141955</id>
+    <name>Guskhara</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.49277778</latitude>
+    <longitude>87.73472222</longitude>
+  </city>
+  <city>
+    <id>141956</id>
+    <name>Habra</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.83000000</latitude>
+    <longitude>88.63000000</longitude>
+  </city>
+  <city>
+    <id>141957</id>
+    <name>Haldia</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.06046000</latitude>
+    <longitude>88.10975000</longitude>
+  </city>
+  <city>
+    <id>141958</id>
+    <name>Haldibari</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.33000000</latitude>
+    <longitude>88.77000000</longitude>
+  </city>
+  <city>
+    <id>141959</id>
+    <name>Halisahar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.95000000</latitude>
+    <longitude>88.42000000</longitude>
+  </city>
+  <city>
+    <id>141960</id>
+    <name>Harindanga</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.03333333</latitude>
+    <longitude>88.31666667</longitude>
+  </city>
+  <city>
+    <id>141961</id>
+    <name>Haringhata</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.95000000</latitude>
+    <longitude>88.57000000</longitude>
+  </city>
+  <city>
+    <id>141962</id>
+    <name>Haripur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.93611000</latitude>
+    <longitude>88.23194000</longitude>
+  </city>
+  <city>
+    <id>141963</id>
+    <name>Hasimara</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.75000000</latitude>
+    <longitude>89.35000000</longitude>
+  </city>
+  <city>
+    <id>141964</id>
+    <name>Hindusthan Cables Town</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.82000000</latitude>
+    <longitude>86.90000000</longitude>
+  </city>
+  <city>
+    <id>141965</id>
+    <name>Hooghly district</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.91000000</latitude>
+    <longitude>88.39000000</longitude>
+  </city>
+  <city>
+    <id>141966</id>
+    <name>Howrah</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.57688000</latitude>
+    <longitude>88.31857000</longitude>
+  </city>
+  <city>
+    <id>141967</id>
+    <name>Ichapur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.80499000</latitude>
+    <longitude>88.37088000</longitude>
+  </city>
+  <city>
+    <id>141968</id>
+    <name>Indpur community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.16670000</latitude>
+    <longitude>86.93330000</longitude>
+  </city>
+  <city>
+    <id>141969</id>
+    <name>Ingrāj Bāzār</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.00447000</latitude>
+    <longitude>88.14573000</longitude>
+  </city>
+  <city>
+    <id>141970</id>
+    <name>Islampur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.27000000</latitude>
+    <longitude>88.20000000</longitude>
+  </city>
+  <city>
+    <id>141971</id>
+    <name>Jafarpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.32000000</latitude>
+    <longitude>88.23000000</longitude>
+  </city>
+  <city>
+    <id>141972</id>
+    <name>Jaigaon</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.86666667</latitude>
+    <longitude>89.38333333</longitude>
+  </city>
+  <city>
+    <id>141973</id>
+    <name>Jalpaiguri</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.51666667</latitude>
+    <longitude>88.73333333</longitude>
+  </city>
+  <city>
+    <id>141974</id>
+    <name>Jamuria</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.70000000</latitude>
+    <longitude>87.08000000</longitude>
+  </city>
+  <city>
+    <id>141975</id>
+    <name>Jangipur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.47001000</latitude>
+    <longitude>88.07659000</longitude>
+  </city>
+  <city>
+    <id>141976</id>
+    <name>Jaynagar Majilpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.17722222</latitude>
+    <longitude>88.42583333</longitude>
+  </city>
+  <city>
+    <id>141977</id>
+    <name>Jejur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.88000000</latitude>
+    <longitude>88.12000000</longitude>
+  </city>
+  <city>
+    <id>141978</id>
+    <name>Jhalida</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.36541000</latitude>
+    <longitude>85.97581000</longitude>
+  </city>
+  <city>
+    <id>141979</id>
+    <name>Jhargram</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.45000000</latitude>
+    <longitude>86.98000000</longitude>
+  </city>
+  <city>
+    <id>141980</id>
+    <name>Jhilimili</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.81670000</latitude>
+    <longitude>86.61670000</longitude>
+  </city>
+  <city>
+    <id>141981</id>
+    <name>Kakdwip</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>21.88330000</latitude>
+    <longitude>88.18330000</longitude>
+  </city>
+  <city>
+    <id>141982</id>
+    <name>Kalaikunda</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.33916667</latitude>
+    <longitude>87.22638889</longitude>
+  </city>
+  <city>
+    <id>141983</id>
+    <name>Kaliaganj</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.63000000</latitude>
+    <longitude>88.32000000</longitude>
+  </city>
+  <city>
+    <id>141984</id>
+    <name>Kalimpong</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>27.07059000</latitude>
+    <longitude>88.47529000</longitude>
+  </city>
+  <city>
+    <id>141985</id>
+    <name>Kalna</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.22000000</latitude>
+    <longitude>88.37000000</longitude>
+  </city>
+  <city>
+    <id>141986</id>
+    <name>Kalyani</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.97500000</latitude>
+    <longitude>88.43444444</longitude>
+  </city>
+  <city>
+    <id>141987</id>
+    <name>Kamarhati</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.67000000</latitude>
+    <longitude>88.37000000</longitude>
+  </city>
+  <city>
+    <id>141988</id>
+    <name>Kamarpukur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.91000000</latitude>
+    <longitude>87.65000000</longitude>
+  </city>
+  <city>
+    <id>141989</id>
+    <name>Kanchrapara</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.97000000</latitude>
+    <longitude>88.43000000</longitude>
+  </city>
+  <city>
+    <id>141990</id>
+    <name>Kandi</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.95000000</latitude>
+    <longitude>88.03000000</longitude>
+  </city>
+  <city>
+    <id>141991</id>
+    <name>Karimpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.96666667</latitude>
+    <longitude>88.61666667</longitude>
+  </city>
+  <city>
+    <id>141992</id>
+    <name>Katwa</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.65000000</latitude>
+    <longitude>88.13000000</longitude>
+  </city>
+  <city>
+    <id>141993</id>
+    <name>Kenda</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.20000000</latitude>
+    <longitude>86.53000000</longitude>
+  </city>
+  <city>
+    <id>141994</id>
+    <name>Keshabpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.97000000</latitude>
+    <longitude>88.26000000</longitude>
+  </city>
+  <city>
+    <id>141995</id>
+    <name>Kharagpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.33023900</latitude>
+    <longitude>87.32365300</longitude>
+  </city>
+  <city>
+    <id>141996</id>
+    <name>Kharar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.70000000</latitude>
+    <longitude>87.68000000</longitude>
+  </city>
+  <city>
+    <id>141997</id>
+    <name>Kharba</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.42000000</latitude>
+    <longitude>88.07000000</longitude>
+  </city>
+  <city>
+    <id>141998</id>
+    <name>Khardaha</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.72000000</latitude>
+    <longitude>88.38000000</longitude>
+  </city>
+  <city>
+    <id>141999</id>
+    <name>Khatra</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.98000000</latitude>
+    <longitude>86.85000000</longitude>
+  </city>
+  <city>
+    <id>142000</id>
+    <name>Kirnahar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.75000000</latitude>
+    <longitude>87.87000000</longitude>
+  </city>
+  <city>
+    <id>142001</id>
+    <name>Kolkata</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.54111111</latitude>
+    <longitude>88.33777778</longitude>
+  </city>
+  <city>
+    <id>142002</id>
+    <name>Konnagar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.70000000</latitude>
+    <longitude>88.35000000</longitude>
+  </city>
+  <city>
+    <id>142003</id>
+    <name>Krishnanagar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.40000000</latitude>
+    <longitude>88.50000000</longitude>
+  </city>
+  <city>
+    <id>142004</id>
+    <name>Krishnapur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.67000000</latitude>
+    <longitude>88.26000000</longitude>
+  </city>
+  <city>
+    <id>142005</id>
+    <name>Kshirpai</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.71096640</latitude>
+    <longitude>87.61740380</longitude>
+  </city>
+  <city>
+    <id>142006</id>
+    <name>Kulpi</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.08000000</latitude>
+    <longitude>88.24000000</longitude>
+  </city>
+  <city>
+    <id>142007</id>
+    <name>Kultali</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>21.90000000</latitude>
+    <longitude>88.40000000</longitude>
+  </city>
+  <city>
+    <id>142008</id>
+    <name>Kulti</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.73000000</latitude>
+    <longitude>86.85000000</longitude>
+  </city>
+  <city>
+    <id>142009</id>
+    <name>Kurseong</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.88000000</latitude>
+    <longitude>88.28000000</longitude>
+  </city>
+  <city>
+    <id>142010</id>
+    <name>Lalgarh</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.58000000</latitude>
+    <longitude>87.05000000</longitude>
+  </city>
+  <city>
+    <id>142011</id>
+    <name>Lalgola</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.42000000</latitude>
+    <longitude>88.25000000</longitude>
+  </city>
+  <city>
+    <id>142012</id>
+    <name>Loyabad</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.67000000</latitude>
+    <longitude>86.67000000</longitude>
+  </city>
+  <city>
+    <id>142013</id>
+    <name>Madanpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.02000000</latitude>
+    <longitude>88.48000000</longitude>
+  </city>
+  <city>
+    <id>142014</id>
+    <name>Madhyamgram</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.70000000</latitude>
+    <longitude>88.45000000</longitude>
+  </city>
+  <city>
+    <id>142015</id>
+    <name>Mahiari</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.59000000</latitude>
+    <longitude>88.24000000</longitude>
+  </city>
+  <city>
+    <id>142016</id>
+    <name>Mahishadal community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.18333300</latitude>
+    <longitude>87.98333300</longitude>
+  </city>
+  <city>
+    <id>142017</id>
+    <name>Mainaguri</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.57000000</latitude>
+    <longitude>88.82000000</longitude>
+  </city>
+  <city>
+    <id>142018</id>
+    <name>Manikpara</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.36666667</latitude>
+    <longitude>87.11666667</longitude>
+  </city>
+  <city>
+    <id>142019</id>
+    <name>Masila</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.58083000</latitude>
+    <longitude>88.23278000</longitude>
+  </city>
+  <city>
+    <id>142020</id>
+    <name>Mathabhanga</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.34197000</latitude>
+    <longitude>89.21555000</longitude>
+  </city>
+  <city>
+    <id>142021</id>
+    <name>Matiali community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.92715900</latitude>
+    <longitude>88.81330490</longitude>
+  </city>
+  <city>
+    <id>142022</id>
+    <name>Matigara community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.71666700</latitude>
+    <longitude>88.38333300</longitude>
+  </city>
+  <city>
+    <id>142023</id>
+    <name>Medinipur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.43333333</latitude>
+    <longitude>87.33333333</longitude>
+  </city>
+  <city>
+    <id>142024</id>
+    <name>Mejia community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.57000000</latitude>
+    <longitude>87.10000000</longitude>
+  </city>
+  <city>
+    <id>142025</id>
+    <name>Memari</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.20000000</latitude>
+    <longitude>88.12000000</longitude>
+  </city>
+  <city>
+    <id>142026</id>
+    <name>Mirik</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.88700000</latitude>
+    <longitude>88.18700000</longitude>
+  </city>
+  <city>
+    <id>142027</id>
+    <name>Mohanpur community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>21.83856000</latitude>
+    <longitude>87.43145000</longitude>
+  </city>
+  <city>
+    <id>142028</id>
+    <name>Monoharpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.68000000</latitude>
+    <longitude>88.30000000</longitude>
+  </city>
+  <city>
+    <id>142029</id>
+    <name>Muragācha</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.53631000</latitude>
+    <longitude>88.39425000</longitude>
+  </city>
+  <city>
+    <id>142030</id>
+    <name>Muri</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.37000000</latitude>
+    <longitude>85.86000000</longitude>
+  </city>
+  <city>
+    <id>142031</id>
+    <name>Murshidabad</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.18000000</latitude>
+    <longitude>88.27000000</longitude>
+  </city>
+  <city>
+    <id>142032</id>
+    <name>Nabadwip</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.40722222</latitude>
+    <longitude>88.37777778</longitude>
+  </city>
+  <city>
+    <id>142033</id>
+    <name>Nabagram</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.29000000</latitude>
+    <longitude>88.51000000</longitude>
+  </city>
+  <city>
+    <id>142034</id>
+    <name>Nadia district</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.40000000</latitude>
+    <longitude>88.50000000</longitude>
+  </city>
+  <city>
+    <id>142035</id>
+    <name>Nagarukhra</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.94099000</latitude>
+    <longitude>88.63701000</longitude>
+  </city>
+  <city>
+    <id>142036</id>
+    <name>Nagrakata</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.90000000</latitude>
+    <longitude>88.96670000</longitude>
+  </city>
+  <city>
+    <id>142037</id>
+    <name>Naihati</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.90000000</latitude>
+    <longitude>88.42000000</longitude>
+  </city>
+  <city>
+    <id>142038</id>
+    <name>Naksalbari</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.68333333</latitude>
+    <longitude>88.21666667</longitude>
+  </city>
+  <city>
+    <id>142039</id>
+    <name>Nalhati</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.30000000</latitude>
+    <longitude>87.82000000</longitude>
+  </city>
+  <city>
+    <id>142040</id>
+    <name>Nalpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.53000000</latitude>
+    <longitude>88.19000000</longitude>
+  </city>
+  <city>
+    <id>142041</id>
+    <name>Namkhana community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>21.70000000</latitude>
+    <longitude>88.14000000</longitude>
+  </city>
+  <city>
+    <id>142042</id>
+    <name>Nandigram</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.01000000</latitude>
+    <longitude>87.99000000</longitude>
+  </city>
+  <city>
+    <id>142043</id>
+    <name>Nangi</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.50833333</latitude>
+    <longitude>88.21527778</longitude>
+  </city>
+  <city>
+    <id>142044</id>
+    <name>Nayagram community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.03190000</latitude>
+    <longitude>87.17810000</longitude>
+  </city>
+  <city>
+    <id>142045</id>
+    <name>North 24 Parganas district</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.13000000</latitude>
+    <longitude>88.50000000</longitude>
+  </city>
+  <city>
+    <id>142046</id>
+    <name>Odlabari</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.83638889</latitude>
+    <longitude>88.62944444</longitude>
+  </city>
+  <city>
+    <id>142047</id>
+    <name>Paikpara</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.77121000</latitude>
+    <longitude>87.92251000</longitude>
+  </city>
+  <city>
+    <id>142048</id>
+    <name>Panagarh</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.45000000</latitude>
+    <longitude>87.43000000</longitude>
+  </city>
+  <city>
+    <id>142049</id>
+    <name>Panchla</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.54000000</latitude>
+    <longitude>88.14000000</longitude>
+  </city>
+  <city>
+    <id>142050</id>
+    <name>Panchmura</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.96670000</latitude>
+    <longitude>87.16670000</longitude>
+  </city>
+  <city>
+    <id>142051</id>
+    <name>Pandua</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.08000000</latitude>
+    <longitude>88.28000000</longitude>
+  </city>
+  <city>
+    <id>142052</id>
+    <name>Panihati</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.69000000</latitude>
+    <longitude>88.37000000</longitude>
+  </city>
+  <city>
+    <id>142053</id>
+    <name>Panskura</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.42000000</latitude>
+    <longitude>87.70000000</longitude>
+  </city>
+  <city>
+    <id>142054</id>
+    <name>Parbatipur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.66250000</latitude>
+    <longitude>88.22222000</longitude>
+  </city>
+  <city>
+    <id>142055</id>
+    <name>Paschim Medinipur district</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.43333333</latitude>
+    <longitude>87.33333333</longitude>
+  </city>
+  <city>
+    <id>142056</id>
+    <name>Patiram</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.31666667</latitude>
+    <longitude>88.75000000</longitude>
+  </city>
+  <city>
+    <id>142062</id>
+    <name>Pātrasāer</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.19697000</latitude>
+    <longitude>87.53319000</longitude>
+  </city>
+  <city>
+    <id>142057</id>
+    <name>Patuli</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.55000000</latitude>
+    <longitude>88.25000000</longitude>
+  </city>
+  <city>
+    <id>142058</id>
+    <name>Pujali</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.47000000</latitude>
+    <longitude>88.15000000</longitude>
+  </city>
+  <city>
+    <id>142059</id>
+    <name>Puncha community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.12300000</latitude>
+    <longitude>86.65300000</longitude>
+  </city>
+  <city>
+    <id>142060</id>
+    <name>Purba Medinipur district</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.30000000</latitude>
+    <longitude>87.91666667</longitude>
+  </city>
+  <city>
+    <id>142061</id>
+    <name>Purulia</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.33333333</latitude>
+    <longitude>86.36666667</longitude>
+  </city>
+  <city>
+    <id>142063</id>
+    <name>Raghudebbati</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.53000000</latitude>
+    <longitude>88.20000000</longitude>
+  </city>
+  <city>
+    <id>142064</id>
+    <name>Raghunathpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.55000000</latitude>
+    <longitude>86.67000000</longitude>
+  </city>
+  <city>
+    <id>142065</id>
+    <name>Raiganj</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.61666667</latitude>
+    <longitude>88.11666667</longitude>
+  </city>
+  <city>
+    <id>142066</id>
+    <name>Rajmahal</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.05000000</latitude>
+    <longitude>87.84000000</longitude>
+  </city>
+  <city>
+    <id>142067</id>
+    <name>Rajnagar community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.94720000</latitude>
+    <longitude>87.36250000</longitude>
+  </city>
+  <city>
+    <id>142068</id>
+    <name>Ramchandrapur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.90000000</latitude>
+    <longitude>88.48000000</longitude>
+  </city>
+  <city>
+    <id>142069</id>
+    <name>Ramjibanpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.83000000</latitude>
+    <longitude>87.62000000</longitude>
+  </city>
+  <city>
+    <id>142075</id>
+    <name>Rāmnagar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.77778000</latitude>
+    <longitude>88.24639000</longitude>
+  </city>
+  <city>
+    <id>142070</id>
+    <name>Rampur Hat</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.17737000</latitude>
+    <longitude>87.78275000</longitude>
+  </city>
+  <city>
+    <id>142071</id>
+    <name>Ranaghat</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.18000000</latitude>
+    <longitude>88.58000000</longitude>
+  </city>
+  <city>
+    <id>142072</id>
+    <name>Raniganj</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.62000000</latitude>
+    <longitude>87.13000000</longitude>
+  </city>
+  <city>
+    <id>142073</id>
+    <name>Raypur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.41083000</latitude>
+    <longitude>88.50944000</longitude>
+  </city>
+  <city>
+    <id>142074</id>
+    <name>Rishra</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.71000000</latitude>
+    <longitude>88.35000000</longitude>
+  </city>
+  <city>
+    <id>142076</id>
+    <name>Sahapur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.52000000</latitude>
+    <longitude>88.17000000</longitude>
+  </city>
+  <city>
+    <id>142077</id>
+    <name>Sainthia</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.95000000</latitude>
+    <longitude>87.67000000</longitude>
+  </city>
+  <city>
+    <id>142078</id>
+    <name>Salanpur community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.76702000</latitude>
+    <longitude>86.87492000</longitude>
+  </city>
+  <city>
+    <id>142079</id>
+    <name>Sankarpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.60000000</latitude>
+    <longitude>87.20000000</longitude>
+  </city>
+  <city>
+    <id>142080</id>
+    <name>Sankrail</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.57000000</latitude>
+    <longitude>88.24000000</longitude>
+  </city>
+  <city>
+    <id>142081</id>
+    <name>Santipur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.25000000</latitude>
+    <longitude>88.43000000</longitude>
+  </city>
+  <city>
+    <id>142082</id>
+    <name>Santoshpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.50000000</latitude>
+    <longitude>88.17000000</longitude>
+  </city>
+  <city>
+    <id>142083</id>
+    <name>Santuri community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.52720000</latitude>
+    <longitude>86.85709000</longitude>
+  </city>
+  <city>
+    <id>142084</id>
+    <name>Sarenga</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.54000000</latitude>
+    <longitude>88.21000000</longitude>
+  </city>
+  <city>
+    <id>142085</id>
+    <name>Serampore</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.75000000</latitude>
+    <longitude>88.34000000</longitude>
+  </city>
+  <city>
+    <id>142086</id>
+    <name>Serpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>24.13000000</latitude>
+    <longitude>88.00000000</longitude>
+  </city>
+  <city>
+    <id>142087</id>
+    <name>Shyamnagar, West Bengal</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.83000000</latitude>
+    <longitude>88.37000000</longitude>
+  </city>
+  <city>
+    <id>142088</id>
+    <name>Siliguri</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.71004000</latitude>
+    <longitude>88.42851000</longitude>
+  </city>
+  <city>
+    <id>142089</id>
+    <name>Singur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.81000000</latitude>
+    <longitude>88.23000000</longitude>
+  </city>
+  <city>
+    <id>142090</id>
+    <name>Sodpur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.70416667</latitude>
+    <longitude>88.39166667</longitude>
+  </city>
+  <city>
+    <id>142091</id>
+    <name>Solap</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.12777778</latitude>
+    <longitude>88.15861111</longitude>
+  </city>
+  <city>
+    <id>142092</id>
+    <name>Sonada</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>27.00000000</latitude>
+    <longitude>88.14000000</longitude>
+  </city>
+  <city>
+    <id>142093</id>
+    <name>Sonamukhi</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.30000000</latitude>
+    <longitude>87.42000000</longitude>
+  </city>
+  <city>
+    <id>142094</id>
+    <name>Sonarpur community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.44259000</latitude>
+    <longitude>88.43044000</longitude>
+  </city>
+  <city>
+    <id>142095</id>
+    <name>South 24 Parganas district</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.16197000</latitude>
+    <longitude>88.43170000</longitude>
+  </city>
+  <city>
+    <id>142096</id>
+    <name>Srikhanda</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.60000000</latitude>
+    <longitude>88.08330000</longitude>
+  </city>
+  <city>
+    <id>142097</id>
+    <name>Srirampur</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.35000000</latitude>
+    <longitude>88.12000000</longitude>
+  </city>
+  <city>
+    <id>142098</id>
+    <name>Suri</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.91666667</latitude>
+    <longitude>87.53333333</longitude>
+  </city>
+  <city>
+    <id>142099</id>
+    <name>Swarupnagar community development block</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.83330000</latitude>
+    <longitude>88.86670000</longitude>
+  </city>
+  <city>
+    <id>142100</id>
+    <name>Takdah</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>27.03330000</latitude>
+    <longitude>88.36670000</longitude>
+  </city>
+  <city>
+    <id>142101</id>
+    <name>Taki</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.59000000</latitude>
+    <longitude>88.92000000</longitude>
+  </city>
+  <city>
+    <id>142102</id>
+    <name>Tamluk</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.30000000</latitude>
+    <longitude>87.91666667</longitude>
+  </city>
+  <city>
+    <id>142103</id>
+    <name>Tarakeswar</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.89000000</latitude>
+    <longitude>88.02000000</longitude>
+  </city>
+  <city>
+    <id>142104</id>
+    <name>Titagarh</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.74000000</latitude>
+    <longitude>88.37000000</longitude>
+  </city>
+  <city>
+    <id>142105</id>
+    <name>Tufanganj</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>26.32000000</latitude>
+    <longitude>89.67000000</longitude>
+  </city>
+  <city>
+    <id>142106</id>
+    <name>Tulin</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.37000000</latitude>
+    <longitude>85.90000000</longitude>
+  </city>
+  <city>
+    <id>142107</id>
+    <name>Uchalan</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>23.03330000</latitude>
+    <longitude>87.78330000</longitude>
+  </city>
+  <city>
+    <id>142108</id>
+    <name>Ula</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.72250000</latitude>
+    <longitude>88.55556000</longitude>
+  </city>
+  <city>
+    <id>142109</id>
+    <name>Uluberia</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.47000000</latitude>
+    <longitude>88.11000000</longitude>
+  </city>
+  <city>
+    <id>142110</id>
+    <name>Uttar Dinajpur district</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>25.62000000</latitude>
+    <longitude>88.12000000</longitude>
+  </city>
+  <city>
+    <id>142111</id>
+    <name>Uttarpara Kotrung</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>22.67000000</latitude>
+    <longitude>88.35000000</longitude>
   </city>
   <city>
     <id>56193</id>
@@ -1150379,6 +1153209,126 @@
     <country_code>TR</country_code>
     <latitude>37.94962000</latitude>
     <longitude>42.01147000</longitude>
+  </city>
+  <city>
+    <id>142113</id>
+    <name>Boyabat</name>
+    <state_id>4854</state_id>
+    <state_code>57</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>41.46889000</latitude>
+    <longitude>34.76667000</longitude>
+  </city>
+  <city>
+    <id>142114</id>
+    <name>Boyabat İlçesi</name>
+    <state_id>4854</state_id>
+    <state_code>57</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>41.47914000</latitude>
+    <longitude>34.77175000</longitude>
+  </city>
+  <city>
+    <id>142115</id>
+    <name>Dikmen</name>
+    <state_id>4854</state_id>
+    <state_code>57</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>41.66000000</latitude>
+    <longitude>35.27055556</longitude>
+  </city>
+  <city>
+    <id>142116</id>
+    <name>Durağan</name>
+    <state_id>4854</state_id>
+    <state_code>57</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>41.42555556</latitude>
+    <longitude>35.05777778</longitude>
+  </city>
+  <city>
+    <id>142117</id>
+    <name>Erfelek</name>
+    <state_id>4854</state_id>
+    <state_code>57</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>41.87926000</latitude>
+    <longitude>34.91838000</longitude>
+  </city>
+  <city>
+    <id>142118</id>
+    <name>Erfelek İlçesi</name>
+    <state_id>4854</state_id>
+    <state_code>57</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>41.88907000</latitude>
+    <longitude>34.92652000</longitude>
+  </city>
+  <city>
+    <id>142119</id>
+    <name>Gerze</name>
+    <state_id>4854</state_id>
+    <state_code>57</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>41.81000000</latitude>
+    <longitude>35.19027778</longitude>
+  </city>
+  <city>
+    <id>142120</id>
+    <name>Merkez</name>
+    <state_id>4854</state_id>
+    <state_code>57</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>41.91835000</latitude>
+    <longitude>35.00687000</longitude>
+  </city>
+  <city>
+    <id>142121</id>
+    <name>Saraydüzü</name>
+    <state_id>4854</state_id>
+    <state_code>57</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>41.33722222</latitude>
+    <longitude>34.85361111</longitude>
+  </city>
+  <city>
+    <id>142122</id>
+    <name>Sinop</name>
+    <state_id>4854</state_id>
+    <state_code>57</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>42.02719200</latitude>
+    <longitude>35.15044100</longitude>
+  </city>
+  <city>
+    <id>142123</id>
+    <name>Türkeli</name>
+    <state_id>4854</state_id>
+    <state_code>57</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>41.94777778</latitude>
+    <longitude>34.33861111</longitude>
+  </city>
+  <city>
+    <id>142124</id>
+    <name>Türkeli İlçesi</name>
+    <state_id>4854</state_id>
+    <state_code>57</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>41.94197000</latitude>
+    <longitude>34.34821000</longitude>
   </city>
   <city>
     <id>107113</id>
