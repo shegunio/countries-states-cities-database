@@ -420707,6 +420707,4937 @@
       </cities>
     </states>
     <states>
+      <id>4857</id>
+      <name>Jalisco</name>
+      <state_code>JAL</state_code>
+      <cities>
+        <id>142147</id>
+        <name>Acatlán de Juárez Municipality</name>
+        <latitude>20.42416667</latitude>
+        <longitude>-103.60138889</longitude>
+      </cities>
+      <cities>
+        <id>142148</id>
+        <name>Acueducto Fraccionamiento</name>
+        <latitude>19.47917000</latitude>
+        <longitude>-103.31806000</longitude>
+      </cities>
+      <cities>
+        <id>142149</id>
+        <name>Agua Bermeja</name>
+        <latitude>20.66750000</latitude>
+        <longitude>-102.97056000</longitude>
+      </cities>
+      <cities>
+        <id>142150</id>
+        <name>Agua Caliente</name>
+        <latitude>21.77250000</latitude>
+        <longitude>-103.78806000</longitude>
+      </cities>
+      <cities>
+        <id>142151</id>
+        <name>Agua Colorada</name>
+        <latitude>20.94694000</latitude>
+        <longitude>-103.20611000</longitude>
+      </cities>
+      <cities>
+        <id>142152</id>
+        <name>Agua Delgada</name>
+        <latitude>20.16222000</latitude>
+        <longitude>-103.82750000</longitude>
+      </cities>
+      <cities>
+        <id>142153</id>
+        <name>Agua Escondida</name>
+        <latitude>20.86083000</latitude>
+        <longitude>-102.72500000</longitude>
+      </cities>
+      <cities>
+        <id>142154</id>
+        <name>Agua Fría</name>
+        <latitude>20.58778000</latitude>
+        <longitude>-102.55833000</longitude>
+      </cities>
+      <cities>
+        <id>142155</id>
+        <name>Agua Nueva</name>
+        <latitude>20.67889000</latitude>
+        <longitude>-102.45111000</longitude>
+      </cities>
+      <cities>
+        <id>142156</id>
+        <name>Agua Paloma</name>
+        <latitude>19.67799000</latitude>
+        <longitude>-105.18473000</longitude>
+      </cities>
+      <cities>
+        <id>142157</id>
+        <name>Agua Prieta</name>
+        <latitude>20.79361000</latitude>
+        <longitude>-102.89194000</longitude>
+      </cities>
+      <cities>
+        <id>142158</id>
+        <name>Agua Rica</name>
+        <latitude>20.83639000</latitude>
+        <longitude>-103.18778000</longitude>
+      </cities>
+      <cities>
+        <id>142159</id>
+        <name>Agua Salada</name>
+        <latitude>19.73111000</latitude>
+        <longitude>-103.19639000</longitude>
+      </cities>
+      <cities>
+        <id>142160</id>
+        <name>Agua Zarca</name>
+        <latitude>21.85035000</latitude>
+        <longitude>-103.49102000</longitude>
+      </cities>
+      <cities>
+        <id>142161</id>
+        <name>Ahualulco de Mercado Municipality</name>
+        <latitude>20.61666667</latitude>
+        <longitude>-103.86666667</longitude>
+      </cities>
+      <cities>
+        <id>142162</id>
+        <name>Ahuatlán</name>
+        <latitude>20.41836000</latitude>
+        <longitude>-102.88759000</longitude>
+      </cities>
+      <cities>
+        <id>142163</id>
+        <name>Ahuetita de Abajo</name>
+        <latitude>21.41972000</latitude>
+        <longitude>-102.65278000</longitude>
+      </cities>
+      <cities>
+        <id>142164</id>
+        <name>Ahuisculco</name>
+        <latitude>20.56875000</latitude>
+        <longitude>-103.70313000</longitude>
+      </cities>
+      <cities>
+        <id>142165</id>
+        <name>Ajijic</name>
+        <latitude>20.29944444</latitude>
+        <longitude>-103.25805556</longitude>
+      </cities>
+      <cities>
+        <id>142166</id>
+        <name>Alfredo V. Bonfil</name>
+        <latitude>20.66278000</latitude>
+        <longitude>-103.72278000</longitude>
+      </cities>
+      <cities>
+        <id>142167</id>
+        <name>Alista</name>
+        <latitude>19.63401000</latitude>
+        <longitude>-103.78890000</longitude>
+      </cities>
+      <cities>
+        <id>142168</id>
+        <name>Allende</name>
+        <latitude>20.72054000</latitude>
+        <longitude>-102.08557000</longitude>
+      </cities>
+      <cities>
+        <id>142169</id>
+        <name>Altavista de Ramos</name>
+        <latitude>20.43333333</latitude>
+        <longitude>-104.01666667</longitude>
+      </cities>
+      <cities>
+        <id>142170</id>
+        <name>Altus Bosques</name>
+        <latitude>20.56806000</latitude>
+        <longitude>-103.37250000</longitude>
+      </cities>
+      <cities>
+        <id>142171</id>
+        <name>Amacuautitlán</name>
+        <latitude>19.81619000</latitude>
+        <longitude>-104.02078000</longitude>
+      </cities>
+      <cities>
+        <id>142172</id>
+        <name>Amacueca Municipality</name>
+        <latitude>19.93333333</latitude>
+        <longitude>-103.06666667</longitude>
+      </cities>
+      <cities>
+        <id>142173</id>
+        <name>Amajaquillo</name>
+        <latitude>20.92750000</latitude>
+        <longitude>-104.60028000</longitude>
+      </cities>
+      <cities>
+        <id>142174</id>
+        <name>Amatanejo</name>
+        <latitude>20.95241000</latitude>
+        <longitude>-104.73775000</longitude>
+      </cities>
+      <cities>
+        <id>142175</id>
+        <name>Amatitán</name>
+        <latitude>20.83333333</latitude>
+        <longitude>-103.71666667</longitude>
+      </cities>
+      <cities>
+        <id>142176</id>
+        <name>Ambrosio</name>
+        <latitude>20.27605000</latitude>
+        <longitude>-103.97092000</longitude>
+      </cities>
+      <cities>
+        <id>142177</id>
+        <name>Ameca</name>
+        <latitude>20.67000000</latitude>
+        <longitude>-103.70000000</longitude>
+      </cities>
+      <cities>
+        <id>142178</id>
+        <name>Ameca Municipality</name>
+        <latitude>20.54831370</latitude>
+        <longitude>-104.04750230</longitude>
+      </cities>
+      <cities>
+        <id>142179</id>
+        <name>Analco</name>
+        <latitude>21.38500000</latitude>
+        <longitude>-102.63417000</longitude>
+      </cities>
+      <cities>
+        <id>142180</id>
+        <name>Anoca</name>
+        <latitude>20.09222000</latitude>
+        <longitude>-103.54556000</longitude>
+      </cities>
+      <cities>
+        <id>142181</id>
+        <name>Antonio Escobedo</name>
+        <latitude>20.80000000</latitude>
+        <longitude>-104.01667000</longitude>
+      </cities>
+      <cities>
+        <id>142182</id>
+        <name>Apazulco</name>
+        <latitude>19.36972000</latitude>
+        <longitude>-104.87889000</longitude>
+      </cities>
+      <cities>
+        <id>142183</id>
+        <name>Apozol de Gutiérrez</name>
+        <latitude>21.01778000</latitude>
+        <longitude>-102.82556000</longitude>
+      </cities>
+      <cities>
+        <id>142184</id>
+        <name>Aquiles Serdán</name>
+        <latitude>20.30019000</latitude>
+        <longitude>-105.62230000</longitude>
+      </cities>
+      <cities>
+        <id>142185</id>
+        <name>Arandas</name>
+        <latitude>20.70519000</latitude>
+        <longitude>-102.34635000</longitude>
+      </cities>
+      <cities>
+        <id>142186</id>
+        <name>Arroyo Hondo</name>
+        <latitude>19.68222000</latitude>
+        <longitude>-103.30000000</longitude>
+      </cities>
+      <cities>
+        <id>142187</id>
+        <name>Atacco</name>
+        <latitude>19.92662000</latitude>
+        <longitude>-103.74249000</longitude>
+      </cities>
+      <cities>
+        <id>142188</id>
+        <name>Atarjeas de Covarrubias</name>
+        <latitude>19.91944000</latitude>
+        <longitude>-103.94333000</longitude>
+      </cities>
+      <cities>
+        <id>142189</id>
+        <name>Atemanica</name>
+        <latitude>21.07528000</latitude>
+        <longitude>-103.75028000</longitude>
+      </cities>
+      <cities>
+        <id>142190</id>
+        <name>Atengo</name>
+        <latitude>20.21666667</latitude>
+        <longitude>-104.08333333</longitude>
+      </cities>
+      <cities>
+        <id>142191</id>
+        <name>Atenguillo</name>
+        <latitude>20.41553000</latitude>
+        <longitude>-104.49387000</longitude>
+      </cities>
+      <cities>
+        <id>142192</id>
+        <name>Atequiza</name>
+        <latitude>20.39006000</latitude>
+        <longitude>-103.14065000</longitude>
+      </cities>
+      <cities>
+        <id>142193</id>
+        <name>Atotonilco el Alto Municipality</name>
+        <latitude>20.53333333</latitude>
+        <longitude>-102.50000000</longitude>
+      </cities>
+      <cities>
+        <id>142194</id>
+        <name>Atotonilco el Bajo</name>
+        <latitude>20.34833333</latitude>
+        <longitude>-103.67083333</longitude>
+      </cities>
+      <cities>
+        <id>142195</id>
+        <name>Atotonilquillo</name>
+        <latitude>20.39287000</latitude>
+        <longitude>-103.12356000</longitude>
+      </cities>
+      <cities>
+        <id>142196</id>
+        <name>Atoyac</name>
+        <latitude>20.01700000</latitude>
+        <longitude>-103.53300000</longitude>
+      </cities>
+      <cities>
+        <id>142197</id>
+        <name>Atzcatlán</name>
+        <latitude>20.40306000</latitude>
+        <longitude>-102.97111000</longitude>
+      </cities>
+      <cities>
+        <id>142198</id>
+        <name>Autlán de Navarro</name>
+        <latitude>19.76666667</latitude>
+        <longitude>-104.36666667</longitude>
+      </cities>
+      <cities>
+        <id>142199</id>
+        <name>Ayotitlán</name>
+        <latitude>20.22048000</latitude>
+        <longitude>-103.94397000</longitude>
+      </cities>
+      <cities>
+        <id>142200</id>
+        <name>Ayotlán Municipality</name>
+        <latitude>20.49388889</latitude>
+        <longitude>-102.35083333</longitude>
+      </cities>
+      <cities>
+        <id>142201</id>
+        <name>Ayuquila</name>
+        <latitude>19.84001000</latitude>
+        <longitude>-104.27156000</longitude>
+      </cities>
+      <cities>
+        <id>142202</id>
+        <name>Ayutla, Jalisco</name>
+        <latitude>20.81666667</latitude>
+        <longitude>-104.20000000</longitude>
+      </cities>
+      <cities>
+        <id>142204</id>
+        <name>Bajío de Ratones</name>
+        <latitude>20.71306000</latitude>
+        <longitude>-102.42861000</longitude>
+      </cities>
+      <cities>
+        <id>142205</id>
+        <name>Bajío de San José</name>
+        <latitude>21.67525000</latitude>
+        <longitude>-102.11606000</longitude>
+      </cities>
+      <cities>
+        <id>142203</id>
+        <name>Bajío Seco</name>
+        <latitude>20.70889000</latitude>
+        <longitude>-102.39028000</longitude>
+      </cities>
+      <cities>
+        <id>142206</id>
+        <name>Balcones de la Calera</name>
+        <latitude>20.44250000</latitude>
+        <longitude>-103.26722000</longitude>
+      </cities>
+      <cities>
+        <id>142207</id>
+        <name>Banus Vallarta</name>
+        <latitude>20.71611000</latitude>
+        <longitude>-105.22306000</longitude>
+      </cities>
+      <cities>
+        <id>142208</id>
+        <name>Barra de Navidad</name>
+        <latitude>19.20805556</latitude>
+        <longitude>-104.68055556</longitude>
+      </cities>
+      <cities>
+        <id>142211</id>
+        <name>Barranca de los Laureles</name>
+        <latitude>20.23333333</latitude>
+        <longitude>-103.63333333</longitude>
+      </cities>
+      <cities>
+        <id>142209</id>
+        <name>Barranca de Otates</name>
+        <latitude>20.26806000</latitude>
+        <longitude>-103.66472000</longitude>
+      </cities>
+      <cities>
+        <id>142210</id>
+        <name>Barranca de Santa Clara</name>
+        <latitude>20.25566000</latitude>
+        <longitude>-103.65560000</longitude>
+      </cities>
+      <cities>
+        <id>142212</id>
+        <name>Barranca del Tule</name>
+        <latitude>21.98028000</latitude>
+        <longitude>-103.90694000</longitude>
+      </cities>
+      <cities>
+        <id>142213</id>
+        <name>Barrio de Reyes</name>
+        <latitude>21.29194000</latitude>
+        <longitude>-102.50556000</longitude>
+      </cities>
+      <cities>
+        <id>142214</id>
+        <name>Barrio de Tapias</name>
+        <latitude>22.18361000</latitude>
+        <longitude>-103.22667000</longitude>
+      </cities>
+      <cities>
+        <id>142215</id>
+        <name>Belem del Refugio</name>
+        <latitude>21.53023000</latitude>
+        <longitude>-102.43515000</longitude>
+      </cities>
+      <cities>
+        <id>142216</id>
+        <name>Bellavista</name>
+        <latitude>20.43408000</latitude>
+        <longitude>-103.63742000</longitude>
+      </cities>
+      <cities>
+        <id>142217</id>
+        <name>Benito Juárez</name>
+        <latitude>20.03639000</latitude>
+        <longitude>-105.26806000</longitude>
+      </cities>
+      <cities>
+        <id>142218</id>
+        <name>Betania</name>
+        <latitude>20.58199000</latitude>
+        <longitude>-102.37914000</longitude>
+      </cities>
+      <cities>
+        <id>142219</id>
+        <name>Betulia</name>
+        <latitude>21.75935000</latitude>
+        <longitude>-102.01940000</longitude>
+      </cities>
+      <cities>
+        <id>142220</id>
+        <name>Bicercio</name>
+        <latitude>20.65944000</latitude>
+        <longitude>-102.98389000</longitude>
+      </cities>
+      <cities>
+        <id>142221</id>
+        <name>Boca de Tomatlán</name>
+        <latitude>20.51211000</latitude>
+        <longitude>-105.31442000</longitude>
+      </cities>
+      <cities>
+        <id>142222</id>
+        <name>Bolaños Municipality</name>
+        <latitude>21.83055556</latitude>
+        <longitude>-103.78055556</longitude>
+      </cities>
+      <cities>
+        <id>142223</id>
+        <name>Bosque Real Fraccionamiento</name>
+        <latitude>20.56833000</latitude>
+        <longitude>-103.49389000</longitude>
+      </cities>
+      <cities>
+        <id>142224</id>
+        <name>Brisas de la Navidad</name>
+        <latitude>19.22444000</latitude>
+        <longitude>-104.65639000</longitude>
+      </cities>
+      <cities>
+        <id>142225</id>
+        <name>Brizuela</name>
+        <latitude>20.18333333</latitude>
+        <longitude>-103.70000000</longitude>
+      </cities>
+      <cities>
+        <id>142226</id>
+        <name>Buena Vista</name>
+        <latitude>20.77722000</latitude>
+        <longitude>-102.75778000</longitude>
+      </cities>
+      <cities>
+        <id>142227</id>
+        <name>Buenavista</name>
+        <latitude>21.55889000</latitude>
+        <longitude>-102.55639000</longitude>
+      </cities>
+      <cities>
+        <id>142228</id>
+        <name>Buenos Aires</name>
+        <latitude>20.54056000</latitude>
+        <longitude>-102.93444000</longitude>
+      </cities>
+      <cities>
+        <id>142229</id>
+        <name>Cabo Corrientes</name>
+        <latitude>20.34394000</latitude>
+        <longitude>-105.39322000</longitude>
+      </cities>
+      <cities>
+        <id>142230</id>
+        <name>Cajititlán</name>
+        <latitude>20.43174000</latitude>
+        <longitude>-103.30940000</longitude>
+      </cities>
+      <cities>
+        <id>142231</id>
+        <name>Calerita</name>
+        <latitude>21.46000000</latitude>
+        <longitude>-102.58806000</longitude>
+      </cities>
+      <cities>
+        <id>142232</id>
+        <name>Callejones</name>
+        <latitude>19.66833000</latitude>
+        <longitude>-103.26278000</longitude>
+      </cities>
+      <cities>
+        <id>142233</id>
+        <name>Camajapita</name>
+        <latitude>20.35000000</latitude>
+        <longitude>-103.91666667</longitude>
+      </cities>
+      <cities>
+        <id>142234</id>
+        <name>Campestre las Palomas Fraccionamiento</name>
+        <latitude>20.81778000</latitude>
+        <longitude>-103.45167000</longitude>
+      </cities>
+      <cities>
+        <id>142235</id>
+        <name>Campo Acosta</name>
+        <latitude>19.77061000</latitude>
+        <longitude>-105.24917000</longitude>
+      </cities>
+      <cities>
+        <id>142236</id>
+        <name>Campo Real</name>
+        <latitude>20.78722000</latitude>
+        <longitude>-103.44306000</longitude>
+      </cities>
+      <cities>
+        <id>142252</id>
+        <name>Cañada de Islas</name>
+        <latitude>21.24139000</latitude>
+        <longitude>-102.83722000</longitude>
+      </cities>
+      <cities>
+        <id>142253</id>
+        <name>Cañada de Ricos</name>
+        <latitude>21.37140000</latitude>
+        <longitude>-101.87653000</longitude>
+      </cities>
+      <cities>
+        <id>142254</id>
+        <name>Cañada de San Ignacio</name>
+        <latitude>20.55222000</latitude>
+        <longitude>-102.35333000</longitude>
+      </cities>
+      <cities>
+        <id>142251</id>
+        <name>Cañada Grande</name>
+        <latitude>21.03889000</latitude>
+        <longitude>-102.59278000</longitude>
+      </cities>
+      <cities>
+        <id>142255</id>
+        <name>Cañadas de Obregón</name>
+        <latitude>21.14685000</latitude>
+        <longitude>-102.68616111</longitude>
+      </cities>
+      <cities>
+        <id>142237</id>
+        <name>Canchol</name>
+        <latitude>19.30028000</latitude>
+        <longitude>-102.94889000</longitude>
+      </cities>
+      <cities>
+        <id>142238</id>
+        <name>Canoas</name>
+        <latitude>21.27222000</latitude>
+        <longitude>-101.80694000</longitude>
+      </cities>
+      <cities>
+        <id>142239</id>
+        <name>Canoas de Arriba</name>
+        <latitude>22.12333000</latitude>
+        <longitude>-103.24556000</longitude>
+      </cities>
+      <cities>
+        <id>142240</id>
+        <name>Capilla de Guadalupe</name>
+        <latitude>20.82694444</latitude>
+        <longitude>-102.59222222</longitude>
+      </cities>
+      <cities>
+        <id>142241</id>
+        <name>Capilla de Milpillas</name>
+        <latitude>20.66331000</latitude>
+        <longitude>-102.84295000</longitude>
+      </cities>
+      <cities>
+        <id>142242</id>
+        <name>Capulín</name>
+        <latitude>20.47802000</latitude>
+        <longitude>-103.26947000</longitude>
+      </cities>
+      <cities>
+        <id>142243</id>
+        <name>Caquixtle de Arriba</name>
+        <latitude>21.51250000</latitude>
+        <longitude>-102.07472000</longitude>
+      </cities>
+      <cities>
+        <id>142244</id>
+        <name>Carrasqueño</name>
+        <latitude>20.37917000</latitude>
+        <longitude>-102.61889000</longitude>
+      </cities>
+      <cities>
+        <id>142245</id>
+        <name>Carretas</name>
+        <latitude>20.44222000</latitude>
+        <longitude>-102.42417000</longitude>
+      </cities>
+      <cities>
+        <id>142246</id>
+        <name>Carrizal</name>
+        <latitude>22.21306000</latitude>
+        <longitude>-104.30389000</longitude>
+      </cities>
+      <cities>
+        <id>142247</id>
+        <name>Casa de Teja</name>
+        <latitude>20.45639000</latitude>
+        <longitude>-103.13583000</longitude>
+      </cities>
+      <cities>
+        <id>142248</id>
+        <name>Casas Viejas</name>
+        <latitude>21.18972000</latitude>
+        <longitude>-102.25389000</longitude>
+      </cities>
+      <cities>
+        <id>142249</id>
+        <name>Casimiro Castillo</name>
+        <latitude>19.60429000</latitude>
+        <longitude>-104.43572000</longitude>
+      </cities>
+      <cities>
+        <id>142250</id>
+        <name>Castro Urdiales</name>
+        <latitude>20.59754000</latitude>
+        <longitude>-103.82046000</longitude>
+      </cities>
+      <cities>
+        <id>142256</id>
+        <name>Ceja de Bolitas</name>
+        <latitude>21.31083000</latitude>
+        <longitude>-102.02861000</longitude>
+      </cities>
+      <cities>
+        <id>142257</id>
+        <name>Centro de Readaptación Social</name>
+        <latitude>20.55444000</latitude>
+        <longitude>-103.19361000</longitude>
+      </cities>
+      <cities>
+        <id>142258</id>
+        <name>Cerrito de Buenos Aires</name>
+        <latitude>20.52778000</latitude>
+        <longitude>-102.93889000</longitude>
+      </cities>
+      <cities>
+        <id>142259</id>
+        <name>Cerrito de Tierra</name>
+        <latitude>20.88861000</latitude>
+        <longitude>-103.10389000</longitude>
+      </cities>
+      <cities>
+        <id>142260</id>
+        <name>Cerro Santa Fe</name>
+        <latitude>20.52599000</latitude>
+        <longitude>-103.08448000</longitude>
+      </cities>
+      <cities>
+        <id>142261</id>
+        <name>Chacala</name>
+        <latitude>20.42833000</latitude>
+        <longitude>-105.46778000</longitude>
+      </cities>
+      <cities>
+        <id>142262</id>
+        <name>Chachahuatlán</name>
+        <latitude>19.63361000</latitude>
+        <longitude>-103.98750000</longitude>
+      </cities>
+      <cities>
+        <id>142263</id>
+        <name>Chalpicote</name>
+        <latitude>20.30972000</latitude>
+        <longitude>-102.91615000</longitude>
+      </cities>
+      <cities>
+        <id>142264</id>
+        <name>Chamacuero</name>
+        <latitude>20.10793000</latitude>
+        <longitude>-103.29326000</longitude>
+      </cities>
+      <cities>
+        <id>142265</id>
+        <name>Chamela, Jalisco</name>
+        <latitude>19.52722222</latitude>
+        <longitude>-105.07333333</longitude>
+      </cities>
+      <cities>
+        <id>142266</id>
+        <name>Chancol</name>
+        <latitude>19.48056000</latitude>
+        <longitude>-104.17194000</longitude>
+      </cities>
+      <cities>
+        <id>142267</id>
+        <name>Chancuellar</name>
+        <latitude>19.50972000</latitude>
+        <longitude>-103.83111000</longitude>
+      </cities>
+      <cities>
+        <id>142268</id>
+        <name>Chapala</name>
+        <latitude>20.29333333</latitude>
+        <longitude>-103.18972222</longitude>
+      </cities>
+      <cities>
+        <id>142269</id>
+        <name>Chayotillo</name>
+        <latitude>21.74972000</latitude>
+        <longitude>-101.93861000</longitude>
+      </cities>
+      <cities>
+        <id>142270</id>
+        <name>Chilacayote</name>
+        <latitude>20.13861000</latitude>
+        <longitude>-104.64861000</longitude>
+      </cities>
+      <cities>
+        <id>142271</id>
+        <name>Chimaltitán</name>
+        <latitude>21.74805556</latitude>
+        <longitude>-103.69472222</longitude>
+      </cities>
+      <cities>
+        <id>142272</id>
+        <name>Chinampas</name>
+        <latitude>21.83686000</latitude>
+        <longitude>-101.81564000</longitude>
+      </cities>
+      <cities>
+        <id>142273</id>
+        <name>Chipinque de Arriba</name>
+        <latitude>21.43194000</latitude>
+        <longitude>-101.90667000</longitude>
+      </cities>
+      <cities>
+        <id>142274</id>
+        <name>Chiquihuitillo</name>
+        <latitude>20.74556000</latitude>
+        <longitude>-102.98722000</longitude>
+      </cities>
+      <cities>
+        <id>142275</id>
+        <name>Chiquilistlán</name>
+        <latitude>20.20000000</latitude>
+        <longitude>-103.81667000</longitude>
+      </cities>
+      <cities>
+        <id>142276</id>
+        <name>Chiquilistlán, Jalisco</name>
+        <latitude>20.08555556</latitude>
+        <longitude>-103.89388889</longitude>
+      </cities>
+      <cities>
+        <id>142277</id>
+        <name>Chome</name>
+        <latitude>20.89528000</latitude>
+        <longitude>-103.73528000</longitude>
+      </cities>
+      <cities>
+        <id>142278</id>
+        <name>Churintzio</name>
+        <latitude>21.26167000</latitude>
+        <longitude>-102.01444000</longitude>
+      </cities>
+      <cities>
+        <id>142284</id>
+        <name>Ciénega de Galvanes</name>
+        <latitude>20.57500000</latitude>
+        <longitude>-101.97000000</longitude>
+      </cities>
+      <cities>
+        <id>142285</id>
+        <name>Ciénega del Pastor</name>
+        <latitude>20.52060000</latitude>
+        <longitude>-102.65710000</longitude>
+      </cities>
+      <cities>
+        <id>142279</id>
+        <name>Cihuatlán, Jalisco</name>
+        <latitude>19.25000000</latitude>
+        <longitude>-104.56666667</longitude>
+      </cities>
+      <cities>
+        <id>142280</id>
+        <name>Cima del Sol</name>
+        <latitude>20.46889000</latitude>
+        <longitude>-103.41722000</longitude>
+      </cities>
+      <cities>
+        <id>142281</id>
+        <name>Citala</name>
+        <latitude>20.10454000</latitude>
+        <longitude>-103.26194000</longitude>
+      </cities>
+      <cities>
+        <id>142282</id>
+        <name>Ciudad Guzmán</name>
+        <latitude>19.70861111</latitude>
+        <longitude>-103.46416667</longitude>
+      </cities>
+      <cities>
+        <id>142283</id>
+        <name>Ciudad Guzmán CERESO</name>
+        <latitude>19.65194000</latitude>
+        <longitude>-103.50000000</longitude>
+      </cities>
+      <cities>
+        <id>142286</id>
+        <name>Coamostita</name>
+        <latitude>21.92833000</latitude>
+        <longitude>-103.99083000</longitude>
+      </cities>
+      <cities>
+        <id>142287</id>
+        <name>Coatlancillo</name>
+        <latitude>19.89314000</latitude>
+        <longitude>-103.96414000</longitude>
+      </cities>
+      <cities>
+        <id>142288</id>
+        <name>Cocuasco</name>
+        <latitude>21.83444000</latitude>
+        <longitude>-103.64389000</longitude>
+      </cities>
+      <cities>
+        <id>142289</id>
+        <name>Cocula, Jalisco</name>
+        <latitude>20.36516667</latitude>
+        <longitude>-103.82214167</longitude>
+      </cities>
+      <cities>
+        <id>142290</id>
+        <name>Codorniz</name>
+        <latitude>22.14528000</latitude>
+        <longitude>-104.31694000</longitude>
+      </cities>
+      <cities>
+        <id>142291</id>
+        <name>Cofradía</name>
+        <latitude>19.51667000</latitude>
+        <longitude>-104.71667000</longitude>
+      </cities>
+      <cities>
+        <id>142292</id>
+        <name>Cofradía Santa Cruz de Camotlán</name>
+        <latitude>20.93086000</latitude>
+        <longitude>-104.64303000</longitude>
+      </cities>
+      <cities>
+        <id>142293</id>
+        <name>Colinas del Roble</name>
+        <latitude>20.50417000</latitude>
+        <longitude>-103.39833000</longitude>
+      </cities>
+      <cities>
+        <id>142294</id>
+        <name>Colinas del Valle</name>
+        <latitude>20.75694000</latitude>
+        <longitude>-105.15917000</longitude>
+      </cities>
+      <cities>
+        <id>142295</id>
+        <name>Colonia Agua Caliente</name>
+        <latitude>21.37778000</latitude>
+        <longitude>-101.91611000</longitude>
+      </cities>
+      <cities>
+        <id>142296</id>
+        <name>Colonia Bosques del Sol</name>
+        <latitude>20.59944000</latitude>
+        <longitude>-103.21778000</longitude>
+      </cities>
+      <cities>
+        <id>142297</id>
+        <name>Colonia Capilla de Rayo</name>
+        <latitude>20.14806000</latitude>
+        <longitude>-104.34639000</longitude>
+      </cities>
+      <cities>
+        <id>142298</id>
+        <name>Colonia Cuisillos</name>
+        <latitude>20.72417000</latitude>
+        <longitude>-103.65528000</longitude>
+      </cities>
+      <cities>
+        <id>142299</id>
+        <name>Colonia Ganadera</name>
+        <latitude>21.15611000</latitude>
+        <longitude>-102.89944000</longitude>
+      </cities>
+      <cities>
+        <id>142300</id>
+        <name>Colonia Guadalupana</name>
+        <latitude>20.56667000</latitude>
+        <longitude>-103.21889000</longitude>
+      </cities>
+      <cities>
+        <id>142301</id>
+        <name>Colonia Hatmasie</name>
+        <latitude>22.39278000</latitude>
+        <longitude>-103.99111000</longitude>
+      </cities>
+      <cities>
+        <id>142313</id>
+        <name>Colonia la Granjena</name>
+        <latitude>20.35167000</latitude>
+        <longitude>-102.79639000</longitude>
+      </cities>
+      <cities>
+        <id>142314</id>
+        <name>Colonia las Granjas</name>
+        <latitude>22.61583000</latitude>
+        <longitude>-103.89639000</longitude>
+      </cities>
+      <cities>
+        <id>142315</id>
+        <name>Colonia las Palmas Campamento SAGAR</name>
+        <latitude>19.97139000</latitude>
+        <longitude>-105.32389000</longitude>
+      </cities>
+      <cities>
+        <id>142303</id>
+        <name>Colonia Lázaro Cárdenas</name>
+        <latitude>20.42778000</latitude>
+        <longitude>-103.68083000</longitude>
+      </cities>
+      <cities>
+        <id>142304</id>
+        <name>Colonia Lázaro Cárdenas del Río</name>
+        <latitude>19.98917000</latitude>
+        <longitude>-103.25583000</longitude>
+      </cities>
+      <cities>
+        <id>142302</id>
+        <name>Colonia Loma Alta</name>
+        <latitude>19.44583000</latitude>
+        <longitude>-104.36556000</longitude>
+      </cities>
+      <cities>
+        <id>142316</id>
+        <name>Colonia los Robles</name>
+        <latitude>20.59194000</latitude>
+        <longitude>-105.21500000</longitude>
+      </cities>
+      <cities>
+        <id>142317</id>
+        <name>Colonia los Sauces</name>
+        <latitude>20.55028000</latitude>
+        <longitude>-103.35167000</longitude>
+      </cities>
+      <cities>
+        <id>142305</id>
+        <name>Colonia Madero</name>
+        <latitude>20.07056000</latitude>
+        <longitude>-103.08917000</longitude>
+      </cities>
+      <cities>
+        <id>142306</id>
+        <name>Colonia Niños Héroes</name>
+        <latitude>20.55917000</latitude>
+        <longitude>-103.43083000</longitude>
+      </cities>
+      <cities>
+        <id>142307</id>
+        <name>Colonia Paso del Molino</name>
+        <latitude>20.59278000</latitude>
+        <longitude>-105.21833000</longitude>
+      </cities>
+      <cities>
+        <id>142308</id>
+        <name>Colonia Pinal Villa</name>
+        <latitude>19.23806000</latitude>
+        <longitude>-104.69389000</longitude>
+      </cities>
+      <cities>
+        <id>142309</id>
+        <name>Colonia Santa Cecilia</name>
+        <latitude>21.25250000</latitude>
+        <longitude>-102.35139000</longitude>
+      </cities>
+      <cities>
+        <id>142310</id>
+        <name>Colonia Trigomil</name>
+        <latitude>19.94222000</latitude>
+        <longitude>-104.24917000</longitude>
+      </cities>
+      <cities>
+        <id>142311</id>
+        <name>Colonia Veintitrés de Mayo</name>
+        <latitude>21.01000000</latitude>
+        <longitude>-102.19778000</longitude>
+      </cities>
+      <cities>
+        <id>142312</id>
+        <name>Colonia Veintiuno de Marzo</name>
+        <latitude>22.23710000</latitude>
+        <longitude>-103.08390000</longitude>
+      </cities>
+      <cities>
+        <id>142318</id>
+        <name>Colotlán</name>
+        <latitude>22.11343000</latitude>
+        <longitude>-103.26664000</longitude>
+      </cities>
+      <cities>
+        <id>142319</id>
+        <name>Colotlán Municipality</name>
+        <latitude>22.20000000</latitude>
+        <longitude>-103.30000000</longitude>
+      </cities>
+      <cities>
+        <id>142320</id>
+        <name>Comanja de Corona</name>
+        <latitude>21.32520000</latitude>
+        <longitude>-101.71379000</longitude>
+      </cities>
+      <cities>
+        <id>142321</id>
+        <name>Concepción de Buenos Aires</name>
+        <latitude>19.86666667</latitude>
+        <longitude>-103.15000000</longitude>
+      </cities>
+      <cities>
+        <id>142322</id>
+        <name>Concepción del Bramador</name>
+        <latitude>20.24460000</latitude>
+        <longitude>-105.07807000</longitude>
+      </cities>
+      <cities>
+        <id>142342</id>
+        <name>Cópala</name>
+        <latitude>19.92333000</latitude>
+        <longitude>-103.74806000</longitude>
+      </cities>
+      <cities>
+        <id>142323</id>
+        <name>Copales</name>
+        <latitude>20.85278000</latitude>
+        <longitude>-104.74778000</longitude>
+      </cities>
+      <cities>
+        <id>142324</id>
+        <name>Corral Blanco</name>
+        <latitude>21.56778000</latitude>
+        <longitude>-102.37139000</longitude>
+      </cities>
+      <cities>
+        <id>142325</id>
+        <name>Corral de Piedra</name>
+        <latitude>21.48333000</latitude>
+        <longitude>-102.11806000</longitude>
+      </cities>
+      <cities>
+        <id>142326</id>
+        <name>Corralillos</name>
+        <latitude>20.64944000</latitude>
+        <longitude>-102.91056000</longitude>
+      </cities>
+      <cities>
+        <id>142327</id>
+        <name>Coyamel</name>
+        <latitude>19.49806000</latitude>
+        <longitude>-104.52306000</longitude>
+      </cities>
+      <cities>
+        <id>142328</id>
+        <name>Coyula</name>
+        <latitude>20.65881000</latitude>
+        <longitude>-103.22654000</longitude>
+      </cities>
+      <cities>
+        <id>142329</id>
+        <name>Cristeros Fraccionamiento</name>
+        <latitude>21.32111000</latitude>
+        <longitude>-101.97333000</longitude>
+      </cities>
+      <cities>
+        <id>142330</id>
+        <name>Cuauhtémoc</name>
+        <latitude>19.63306000</latitude>
+        <longitude>-103.92722000</longitude>
+      </cities>
+      <cities>
+        <id>142331</id>
+        <name>Cuautitlán</name>
+        <latitude>21.73639000</latitude>
+        <longitude>-101.96917000</longitude>
+      </cities>
+      <cities>
+        <id>142332</id>
+        <name>Cuautitlán de García Barragán</name>
+        <latitude>19.43333333</latitude>
+        <longitude>-104.30000000</longitude>
+      </cities>
+      <cities>
+        <id>142333</id>
+        <name>Cuautla</name>
+        <latitude>20.20139000</latitude>
+        <longitude>-104.40750000</longitude>
+      </cities>
+      <cities>
+        <id>142334</id>
+        <name>Cuesta Chica</name>
+        <latitude>20.56444000</latitude>
+        <longitude>-102.67167000</longitude>
+      </cities>
+      <cities>
+        <id>142335</id>
+        <name>Cuesta de Ovejas</name>
+        <latitude>20.55222000</latitude>
+        <longitude>-102.66750000</longitude>
+      </cities>
+      <cities>
+        <id>142336</id>
+        <name>Cuexcomatitlán</name>
+        <latitude>20.42810000</latitude>
+        <longitude>-103.36189000</longitude>
+      </cities>
+      <cities>
+        <id>142337</id>
+        <name>Cuisillos</name>
+        <latitude>20.60948000</latitude>
+        <longitude>-103.77441000</longitude>
+      </cities>
+      <cities>
+        <id>142338</id>
+        <name>Cuitzeo</name>
+        <latitude>20.34278000</latitude>
+        <longitude>-102.78389000</longitude>
+      </cities>
+      <cities>
+        <id>142339</id>
+        <name>Cuquío</name>
+        <latitude>20.92750000</latitude>
+        <longitude>-103.02388889</longitude>
+      </cities>
+      <cities>
+        <id>142340</id>
+        <name>Custique</name>
+        <latitude>21.62000000</latitude>
+        <longitude>-102.49111000</longitude>
+      </cities>
+      <cities>
+        <id>142341</id>
+        <name>Cuxpala</name>
+        <latitude>20.55935000</latitude>
+        <longitude>-103.64510000</longitude>
+      </cities>
+      <cities>
+        <id>142343</id>
+        <name>Degollado</name>
+        <latitude>20.46702000</latitude>
+        <longitude>-102.14976000</longitude>
+      </cities>
+      <cities>
+        <id>142344</id>
+        <name>Dieciocho de Marzo</name>
+        <latitude>21.48238000</latitude>
+        <longitude>-101.79880000</longitude>
+      </cities>
+      <cities>
+        <id>142345</id>
+        <name>Ejido Agua Zarca</name>
+        <latitude>19.83611000</latitude>
+        <longitude>-103.26917000</longitude>
+      </cities>
+      <cities>
+        <id>142346</id>
+        <name>Ejido Ciénega de Mora</name>
+        <latitude>21.50389000</latitude>
+        <longitude>-102.35000000</longitude>
+      </cities>
+      <cities>
+        <id>142347</id>
+        <name>Ejido Modelo</name>
+        <latitude>19.53750000</latitude>
+        <longitude>-104.51361000</longitude>
+      </cities>
+      <cities>
+        <id>142348</id>
+        <name>Ejido Poblado Atenquique</name>
+        <latitude>19.56639000</latitude>
+        <longitude>-103.51722000</longitude>
+      </cities>
+      <cities>
+        <id>142349</id>
+        <name>Ejido Uno de Febrero</name>
+        <latitude>19.81417000</latitude>
+        <longitude>-103.49139000</longitude>
+      </cities>
+      <cities>
+        <id>142350</id>
+        <name>Ejutla</name>
+        <latitude>19.90000000</latitude>
+        <longitude>-104.15000000</longitude>
+      </cities>
+      <cities>
+        <id>142351</id>
+        <name>El Agostadero</name>
+        <latitude>19.14493000</latitude>
+        <longitude>-103.38721000</longitude>
+      </cities>
+      <cities>
+        <id>142352</id>
+        <name>El Aguacate</name>
+        <latitude>20.70172000</latitude>
+        <longitude>-103.20799000</longitude>
+      </cities>
+      <cities>
+        <id>142353</id>
+        <name>El Alto</name>
+        <latitude>20.77472000</latitude>
+        <longitude>-102.49583000</longitude>
+      </cities>
+      <cities>
+        <id>142354</id>
+        <name>El Amarillo</name>
+        <latitude>20.91333000</latitude>
+        <longitude>-103.72500000</longitude>
+      </cities>
+      <cities>
+        <id>142355</id>
+        <name>El Amarradero</name>
+        <latitude>20.65306000</latitude>
+        <longitude>-102.01278000</longitude>
+      </cities>
+      <cities>
+        <id>142356</id>
+        <name>El Arca</name>
+        <latitude>20.37167000</latitude>
+        <longitude>-102.17611000</longitude>
+      </cities>
+      <cities>
+        <id>142357</id>
+        <name>El Arco, Ameca</name>
+        <latitude>20.60944000</latitude>
+        <longitude>-104.07333000</longitude>
+      </cities>
+      <cities>
+        <id>142358</id>
+        <name>El Arenal</name>
+        <latitude>20.77538000</latitude>
+        <longitude>-103.69353000</longitude>
+      </cities>
+      <cities>
+        <id>142359</id>
+        <name>El Asoleadero</name>
+        <latitude>21.36389000</latitude>
+        <longitude>-102.38222000</longitude>
+      </cities>
+      <cities>
+        <id>142360</id>
+        <name>El Bajío</name>
+        <latitude>21.37944000</latitude>
+        <longitude>-101.95028000</longitude>
+      </cities>
+      <cities>
+        <id>142362</id>
+        <name>El Bajío de Plascencia</name>
+        <latitude>20.71583000</latitude>
+        <longitude>-102.79278000</longitude>
+      </cities>
+      <cities>
+        <id>142361</id>
+        <name>El Bajío Lomas del Club</name>
+        <latitude>20.58361000</latitude>
+        <longitude>-103.29583000</longitude>
+      </cities>
+      <cities>
+        <id>142363</id>
+        <name>El Banco del Venado</name>
+        <latitude>21.85083000</latitude>
+        <longitude>-103.98722000</longitude>
+      </cities>
+      <cities>
+        <id>142364</id>
+        <name>El Barrio</name>
+        <latitude>21.40056000</latitude>
+        <longitude>-102.55444000</longitude>
+      </cities>
+      <cities>
+        <id>142365</id>
+        <name>El Brillante Fraccionamiento</name>
+        <latitude>20.55750000</latitude>
+        <longitude>-104.03194000</longitude>
+      </cities>
+      <cities>
+        <id>142366</id>
+        <name>El Briseño</name>
+        <latitude>20.23889000</latitude>
+        <longitude>-103.59500000</longitude>
+      </cities>
+      <cities>
+        <id>142367</id>
+        <name>El Cabezón</name>
+        <latitude>20.49569000</latitude>
+        <longitude>-103.95144000</longitude>
+      </cities>
+      <cities>
+        <id>142368</id>
+        <name>El Cacalote</name>
+        <latitude>19.84417000</latitude>
+        <longitude>-104.28083000</longitude>
+      </cities>
+      <cities>
+        <id>142369</id>
+        <name>El Camichín</name>
+        <latitude>19.64194000</latitude>
+        <longitude>-104.04452000</longitude>
+      </cities>
+      <cities>
+        <id>142370</id>
+        <name>El Cantón</name>
+        <latitude>20.74268000</latitude>
+        <longitude>-105.18052000</longitude>
+      </cities>
+      <cities>
+        <id>142371</id>
+        <name>El Capulín de Chávez</name>
+        <latitude>20.65806000</latitude>
+        <longitude>-102.20583000</longitude>
+      </cities>
+      <cities>
+        <id>142372</id>
+        <name>El Carmen</name>
+        <latitude>21.70111000</latitude>
+        <longitude>-101.99250000</longitude>
+      </cities>
+      <cities>
+        <id>142373</id>
+        <name>El Carricillo</name>
+        <latitude>20.73000000</latitude>
+        <longitude>-103.03056000</longitude>
+      </cities>
+      <cities>
+        <id>142374</id>
+        <name>El Carrizal</name>
+        <latitude>19.99750000</latitude>
+        <longitude>-103.38750000</longitude>
+      </cities>
+      <cities>
+        <id>142375</id>
+        <name>El Cedazo</name>
+        <latitude>20.70583000</latitude>
+        <longitude>-102.69222000</longitude>
+      </cities>
+      <cities>
+        <id>142376</id>
+        <name>El Cerrito</name>
+        <latitude>19.85394000</latitude>
+        <longitude>-103.93187000</longitude>
+      </cities>
+      <cities>
+        <id>142377</id>
+        <name>El Cerro, Jalisco</name>
+        <latitude>22.18639000</latitude>
+        <longitude>-103.39944000</longitude>
+      </cities>
+      <cities>
+        <id>142378</id>
+        <name>El Chalate</name>
+        <latitude>22.13556000</latitude>
+        <longitude>-104.27944000</longitude>
+      </cities>
+      <cities>
+        <id>142379</id>
+        <name>El Chante</name>
+        <latitude>19.71800000</latitude>
+        <longitude>-104.20025000</longitude>
+      </cities>
+      <cities>
+        <id>142380</id>
+        <name>El Chaveño</name>
+        <latitude>20.44056000</latitude>
+        <longitude>-102.31333000</longitude>
+      </cities>
+      <cities>
+        <id>142381</id>
+        <name>El Chilar</name>
+        <latitude>20.83667000</latitude>
+        <longitude>-103.29528000</longitude>
+      </cities>
+      <cities>
+        <id>142382</id>
+        <name>El Chispeadero</name>
+        <latitude>20.77083000</latitude>
+        <longitude>-102.80000000</longitude>
+      </cities>
+      <cities>
+        <id>142383</id>
+        <name>El Chivatillo</name>
+        <latitude>20.29733000</latitude>
+        <longitude>-103.78934000</longitude>
+      </cities>
+      <cities>
+        <id>142384</id>
+        <name>El Coahuayote</name>
+        <latitude>19.61028000</latitude>
+        <longitude>-103.35611000</longitude>
+      </cities>
+      <cities>
+        <id>142385</id>
+        <name>El Colomo</name>
+        <latitude>20.86962000</latitude>
+        <longitude>-105.15597000</longitude>
+      </cities>
+      <cities>
+        <id>142386</id>
+        <name>El Colorado</name>
+        <latitude>20.77029000</latitude>
+        <longitude>-105.15651000</longitude>
+      </cities>
+      <cities>
+        <id>142387</id>
+        <name>El Columpio</name>
+        <latitude>20.39861000</latitude>
+        <longitude>-105.31056000</longitude>
+      </cities>
+      <cities>
+        <id>142388</id>
+        <name>El Conde</name>
+        <latitude>20.38250000</latitude>
+        <longitude>-103.85389000</longitude>
+      </cities>
+      <cities>
+        <id>142389</id>
+        <name>El Conejo</name>
+        <latitude>21.46528000</latitude>
+        <longitude>-101.86944000</longitude>
+      </cities>
+      <cities>
+        <id>142390</id>
+        <name>El Corcovado</name>
+        <latitude>19.84525000</latitude>
+        <longitude>-104.28566000</longitude>
+      </cities>
+      <cities>
+        <id>142391</id>
+        <name>El Cortijo</name>
+        <latitude>20.46917000</latitude>
+        <longitude>-103.42194000</longitude>
+      </cities>
+      <cities>
+        <id>142392</id>
+        <name>El Coyotillo</name>
+        <latitude>20.94611000</latitude>
+        <longitude>-103.11250000</longitude>
+      </cities>
+      <cities>
+        <id>142393</id>
+        <name>El Crucero</name>
+        <latitude>20.73306000</latitude>
+        <longitude>-103.60333000</longitude>
+      </cities>
+      <cities>
+        <id>142394</id>
+        <name>El Crucero de Arandas</name>
+        <latitude>20.88861000</latitude>
+        <longitude>-102.70972000</longitude>
+      </cities>
+      <cities>
+        <id>142395</id>
+        <name>El Crucero de Santa María</name>
+        <latitude>20.38398611</latitude>
+        <longitude>-103.86053333</longitude>
+      </cities>
+      <cities>
+        <id>142396</id>
+        <name>El Cuatro</name>
+        <latitude>20.85611000</latitude>
+        <longitude>-103.02583000</longitude>
+      </cities>
+      <cities>
+        <id>142397</id>
+        <name>El Derramadero</name>
+        <latitude>21.00417000</latitude>
+        <longitude>-102.97472000</longitude>
+      </cities>
+      <cities>
+        <id>142398</id>
+        <name>El Dique</name>
+        <latitude>20.45694000</latitude>
+        <longitude>-102.73861000</longitude>
+      </cities>
+      <cities>
+        <id>142399</id>
+        <name>El Fraile</name>
+        <latitude>22.26646000</latitude>
+        <longitude>-103.23881000</longitude>
+      </cities>
+      <cities>
+        <id>142400</id>
+        <name>El Gato</name>
+        <latitude>20.60444000</latitude>
+        <longitude>-102.89722000</longitude>
+      </cities>
+      <cities>
+        <id>142401</id>
+        <name>El Grullo Municipality</name>
+        <latitude>19.79388889</latitude>
+        <longitude>-104.20166667</longitude>
+      </cities>
+      <cities>
+        <id>142402</id>
+        <name>El Hollejo</name>
+        <latitude>20.63750000</latitude>
+        <longitude>-104.50389000</longitude>
+      </cities>
+      <cities>
+        <id>142403</id>
+        <name>El Huiroche</name>
+        <latitude>21.77722000</latitude>
+        <longitude>-102.00583000</longitude>
+      </cities>
+      <cities>
+        <id>142404</id>
+        <name>El Jabalí</name>
+        <latitude>20.46583000</latitude>
+        <longitude>-102.97528000</longitude>
+      </cities>
+      <cities>
+        <id>142405</id>
+        <name>El Jagüey</name>
+        <latitude>20.92889000</latitude>
+        <longitude>-103.19611000</longitude>
+      </cities>
+      <cities>
+        <id>142406</id>
+        <name>El Jaral</name>
+        <latitude>21.17444000</latitude>
+        <longitude>-101.97139000</longitude>
+      </cities>
+      <cities>
+        <id>142407</id>
+        <name>El Jaralillo</name>
+        <latitude>21.64056000</latitude>
+        <longitude>-102.27278000</longitude>
+      </cities>
+      <cities>
+        <id>142408</id>
+        <name>El Jaralito</name>
+        <latitude>21.44389000</latitude>
+        <longitude>-101.80556000</longitude>
+      </cities>
+      <cities>
+        <id>142409</id>
+        <name>El Jardín</name>
+        <latitude>19.77528000</latitude>
+        <longitude>-103.89667000</longitude>
+      </cities>
+      <cities>
+        <id>142410</id>
+        <name>El Jazmín</name>
+        <latitude>19.65344000</latitude>
+        <longitude>-103.71006000</longitude>
+      </cities>
+      <cities>
+        <id>142411</id>
+        <name>El Jomate</name>
+        <latitude>21.81278000</latitude>
+        <longitude>-104.16111000</longitude>
+      </cities>
+      <cities>
+        <id>142412</id>
+        <name>El Laurel</name>
+        <latitude>20.63194000</latitude>
+        <longitude>-102.38889000</longitude>
+      </cities>
+      <cities>
+        <id>142413</id>
+        <name>El Lazo</name>
+        <latitude>20.79639000</latitude>
+        <longitude>-103.32806000</longitude>
+      </cities>
+      <cities>
+        <id>142414</id>
+        <name>El Limón</name>
+        <latitude>19.75000000</latitude>
+        <longitude>-104.01666667</longitude>
+      </cities>
+      <cities>
+        <id>142415</id>
+        <name>El Llano de Barajas</name>
+        <latitude>20.87583000</latitude>
+        <longitude>-103.03722000</longitude>
+      </cities>
+      <cities>
+        <id>142417</id>
+        <name>El Llano de los Toros</name>
+        <latitude>19.93500000</latitude>
+        <longitude>-103.00944000</longitude>
+      </cities>
+      <cities>
+        <id>142416</id>
+        <name>El Llano de Plascencia</name>
+        <latitude>20.92889000</latitude>
+        <longitude>-103.09917000</longitude>
+      </cities>
+      <cities>
+        <id>142418</id>
+        <name>El Lobo</name>
+        <latitude>21.17361000</latitude>
+        <longitude>-101.79361000</longitude>
+      </cities>
+      <cities>
+        <id>142419</id>
+        <name>El Lopeño</name>
+        <latitude>20.39639000</latitude>
+        <longitude>-102.56139000</longitude>
+      </cities>
+      <cities>
+        <id>142420</id>
+        <name>El Loreto Occidental</name>
+        <latitude>20.34222000</latitude>
+        <longitude>-102.47093000</longitude>
+      </cities>
+      <cities>
+        <id>142421</id>
+        <name>El Macuchi</name>
+        <latitude>20.37882000</latitude>
+        <longitude>-104.26388000</longitude>
+      </cities>
+      <cities>
+        <id>142422</id>
+        <name>El Maestranzo</name>
+        <latitude>20.72444000</latitude>
+        <longitude>-103.14528000</longitude>
+      </cities>
+      <cities>
+        <id>142423</id>
+        <name>El Manantial</name>
+        <latitude>20.52694000</latitude>
+        <longitude>-103.35750000</longitude>
+      </cities>
+      <cities>
+        <id>142424</id>
+        <name>El Mastranzo</name>
+        <latitude>20.88917000</latitude>
+        <longitude>-102.39528000</longitude>
+      </cities>
+      <cities>
+        <id>142425</id>
+        <name>El Mayoral de Abajo</name>
+        <latitude>21.21056000</latitude>
+        <longitude>-102.45222000</longitude>
+      </cities>
+      <cities>
+        <id>142426</id>
+        <name>El Medineño</name>
+        <latitude>20.86722000</latitude>
+        <longitude>-103.77917000</longitude>
+      </cities>
+      <cities>
+        <id>142427</id>
+        <name>El Mentidero</name>
+        <latitude>19.77070000</latitude>
+        <longitude>-104.29313000</longitude>
+      </cities>
+      <cities>
+        <id>142428</id>
+        <name>El Mesoncito</name>
+        <latitude>21.41583000</latitude>
+        <longitude>-101.85250000</longitude>
+      </cities>
+      <cities>
+        <id>142429</id>
+        <name>El Mezquite Grande</name>
+        <latitude>20.68611000</latitude>
+        <longitude>-103.12583000</longitude>
+      </cities>
+      <cities>
+        <id>142430</id>
+        <name>El Mirador</name>
+        <latitude>21.16722000</latitude>
+        <longitude>-102.87111000</longitude>
+      </cities>
+      <cities>
+        <id>142431</id>
+        <name>El Molino</name>
+        <latitude>22.01750000</latitude>
+        <longitude>-101.85389000</longitude>
+      </cities>
+      <cities>
+        <id>142432</id>
+        <name>El Moral</name>
+        <latitude>19.92667000</latitude>
+        <longitude>-102.93750000</longitude>
+      </cities>
+      <cities>
+        <id>142433</id>
+        <name>El Muey</name>
+        <latitude>20.50278000</latitude>
+        <longitude>-103.22083000</longitude>
+      </cities>
+      <cities>
+        <id>142434</id>
+        <name>El Nacimiento</name>
+        <latitude>20.53828000</latitude>
+        <longitude>-102.55107000</longitude>
+      </cities>
+      <cities>
+        <id>142435</id>
+        <name>El Nacimiento de Abajo</name>
+        <latitude>20.65361000</latitude>
+        <longitude>-102.28444000</longitude>
+      </cities>
+      <cities>
+        <id>142436</id>
+        <name>El Naranjo</name>
+        <latitude>20.53417000</latitude>
+        <longitude>-104.06028000</longitude>
+      </cities>
+      <cities>
+        <id>142437</id>
+        <name>El Nuevo Poblado</name>
+        <latitude>19.52778000</latitude>
+        <longitude>-103.40111000</longitude>
+      </cities>
+      <cities>
+        <id>142438</id>
+        <name>El Ocote</name>
+        <latitude>20.74028000</latitude>
+        <longitude>-102.51556000</longitude>
+      </cities>
+      <cities>
+        <id>142439</id>
+        <name>El Ocotillo</name>
+        <latitude>20.60306000</latitude>
+        <longitude>-103.20722000</longitude>
+      </cities>
+      <cities>
+        <id>142440</id>
+        <name>El Ojo de Agua</name>
+        <latitude>20.66361000</latitude>
+        <longitude>-102.35500000</longitude>
+      </cities>
+      <cities>
+        <id>142441</id>
+        <name>El Ojuelo</name>
+        <latitude>21.40167000</latitude>
+        <longitude>-101.83750000</longitude>
+      </cities>
+      <cities>
+        <id>142442</id>
+        <name>El Olvido</name>
+        <latitude>20.96583000</latitude>
+        <longitude>-103.65556000</longitude>
+      </cities>
+      <cities>
+        <id>142443</id>
+        <name>El Padre Juan</name>
+        <latitude>21.36000000</latitude>
+        <longitude>-102.36583000</longitude>
+      </cities>
+      <cities>
+        <id>142444</id>
+        <name>El Palmar de San Antonio</name>
+        <latitude>19.89083000</latitude>
+        <longitude>-104.03972000</longitude>
+      </cities>
+      <cities>
+        <id>142445</id>
+        <name>El Pantano</name>
+        <latitude>20.58000000</latitude>
+        <longitude>-104.75472000</longitude>
+      </cities>
+      <cities>
+        <id>142446</id>
+        <name>El Paso Real</name>
+        <latitude>19.60457000</latitude>
+        <longitude>-103.95977000</longitude>
+      </cities>
+      <cities>
+        <id>142447</id>
+        <name>El Pino</name>
+        <latitude>20.57667000</latitude>
+        <longitude>-103.39389000</longitude>
+      </cities>
+      <cities>
+        <id>142448</id>
+        <name>El Plan</name>
+        <latitude>20.41836000</latitude>
+        <longitude>-103.60667000</longitude>
+      </cities>
+      <cities>
+        <id>142449</id>
+        <name>El Platanar</name>
+        <latitude>20.44387000</latitude>
+        <longitude>-103.05006000</longitude>
+      </cities>
+      <cities>
+        <id>142450</id>
+        <name>El Pochote</name>
+        <latitude>20.81778000</latitude>
+        <longitude>-102.80639000</longitude>
+      </cities>
+      <cities>
+        <id>142451</id>
+        <name>El Popote</name>
+        <latitude>21.91639000</latitude>
+        <longitude>-104.16972000</longitude>
+      </cities>
+      <cities>
+        <id>142452</id>
+        <name>El Portezuelo</name>
+        <latitude>20.60004000</latitude>
+        <longitude>-104.04624000</longitude>
+      </cities>
+      <cities>
+        <id>142453</id>
+        <name>El Porvenir</name>
+        <latitude>20.75379000</latitude>
+        <longitude>-105.24196000</longitude>
+      </cities>
+      <cities>
+        <id>142454</id>
+        <name>El Pozo Santo</name>
+        <latitude>19.32611000</latitude>
+        <longitude>-103.38611000</longitude>
+      </cities>
+      <cities>
+        <id>142455</id>
+        <name>El Pueblito</name>
+        <latitude>21.46250000</latitude>
+        <longitude>-102.46056000</longitude>
+      </cities>
+      <cities>
+        <id>142456</id>
+        <name>El Puente</name>
+        <latitude>21.76389000</latitude>
+        <longitude>-102.02306000</longitude>
+      </cities>
+      <cities>
+        <id>142457</id>
+        <name>El Puerto</name>
+        <latitude>20.49222000</latitude>
+        <longitude>-103.45944000</longitude>
+      </cities>
+      <cities>
+        <id>142458</id>
+        <name>El Puerto de Amolero</name>
+        <latitude>20.96639000</latitude>
+        <longitude>-102.12889000</longitude>
+      </cities>
+      <cities>
+        <id>142459</id>
+        <name>El Puesto</name>
+        <latitude>21.62448000</latitude>
+        <longitude>-101.96540000</longitude>
+      </cities>
+      <cities>
+        <id>142460</id>
+        <name>El Quemado</name>
+        <latitude>20.79639000</latitude>
+        <longitude>-103.42722000</longitude>
+      </cities>
+      <cities>
+        <id>142461</id>
+        <name>El Quince</name>
+        <latitude>20.54388000</latitude>
+        <longitude>-103.28467000</longitude>
+      </cities>
+      <cities>
+        <id>142462</id>
+        <name>El Ranchito</name>
+        <latitude>20.07806000</latitude>
+        <longitude>-103.86861000</longitude>
+      </cities>
+      <cities>
+        <id>142463</id>
+        <name>El Rayo</name>
+        <latitude>19.38083000</latitude>
+        <longitude>-103.16028000</longitude>
+      </cities>
+      <cities>
+        <id>142464</id>
+        <name>El Rebalse</name>
+        <latitude>19.18750000</latitude>
+        <longitude>-104.59352000</longitude>
+      </cities>
+      <cities>
+        <id>142465</id>
+        <name>El Rebalsito de Apazulco</name>
+        <latitude>19.30556000</latitude>
+        <longitude>-104.88667000</longitude>
+      </cities>
+      <cities>
+        <id>142466</id>
+        <name>El Refugio</name>
+        <latitude>20.12231000</latitude>
+        <longitude>-103.14516000</longitude>
+      </cities>
+      <cities>
+        <id>142469</id>
+        <name>El Refugio de los Altos</name>
+        <latitude>20.63083000</latitude>
+        <longitude>-102.57944000</longitude>
+      </cities>
+      <cities>
+        <id>142468</id>
+        <name>El Refugio de Vázquez</name>
+        <latitude>20.39806000</latitude>
+        <longitude>-102.19306000</longitude>
+      </cities>
+      <cities>
+        <id>142467</id>
+        <name>El Refugio Suchitlán</name>
+        <latitude>20.44333000</latitude>
+        <longitude>-105.54583000</longitude>
+      </cities>
+      <cities>
+        <id>142470</id>
+        <name>El Refugio, Jalisco</name>
+        <latitude>20.11670000</latitude>
+        <longitude>-103.13300000</longitude>
+      </cities>
+      <cities>
+        <id>142471</id>
+        <name>El Reparo</name>
+        <latitude>21.79028000</latitude>
+        <longitude>-102.04944000</longitude>
+      </cities>
+      <cities>
+        <id>142472</id>
+        <name>El Rincón</name>
+        <latitude>19.34083000</latitude>
+        <longitude>-103.08972000</longitude>
+      </cities>
+      <cities>
+        <id>142473</id>
+        <name>El Rodeo</name>
+        <latitude>19.58194000</latitude>
+        <longitude>-103.18611000</longitude>
+      </cities>
+      <cities>
+        <id>142474</id>
+        <name>El Rodeo Viejo</name>
+        <latitude>20.20417000</latitude>
+        <longitude>-103.86500000</longitude>
+      </cities>
+      <cities>
+        <id>142475</id>
+        <name>El Romereño</name>
+        <latitude>20.38083000</latitude>
+        <longitude>-102.94944000</longitude>
+      </cities>
+      <cities>
+        <id>142476</id>
+        <name>El Rosario</name>
+        <latitude>21.04528000</latitude>
+        <longitude>-102.58944000</longitude>
+      </cities>
+      <cities>
+        <id>142477</id>
+        <name>El Sabino</name>
+        <latitude>22.61528000</latitude>
+        <longitude>-103.90389000</longitude>
+      </cities>
+      <cities>
+        <id>142478</id>
+        <name>El Sacrificio</name>
+        <latitude>20.40806000</latitude>
+        <longitude>-103.19667000</longitude>
+      </cities>
+      <cities>
+        <id>142479</id>
+        <name>El Salero</name>
+        <latitude>20.76250000</latitude>
+        <longitude>-102.50917000</longitude>
+      </cities>
+      <cities>
+        <id>142480</id>
+        <name>El Salitre</name>
+        <latitude>20.51000000</latitude>
+        <longitude>-103.85800000</longitude>
+      </cities>
+      <cities>
+        <id>142481</id>
+        <name>El Salto</name>
+        <latitude>20.33333000</latitude>
+        <longitude>-104.50000000</longitude>
+      </cities>
+      <cities>
+        <id>142484</id>
+        <name>El Salto de las Peñas</name>
+        <latitude>20.65250000</latitude>
+        <longitude>-103.04222000</longitude>
+      </cities>
+      <cities>
+        <id>142483</id>
+        <name>El Salto de San Antonio</name>
+        <latitude>21.17833000</latitude>
+        <longitude>-101.82389000</longitude>
+      </cities>
+      <cities>
+        <id>142482</id>
+        <name>El Salto Municipality</name>
+        <latitude>20.51666667</latitude>
+        <longitude>-103.18333333</longitude>
+      </cities>
+      <cities>
+        <id>142485</id>
+        <name>El Salvador</name>
+        <latitude>21.01659000</latitude>
+        <longitude>-103.71568000</longitude>
+      </cities>
+      <cities>
+        <id>142486</id>
+        <name>El Salvial</name>
+        <latitude>20.83917000</latitude>
+        <longitude>-103.26306000</longitude>
+      </cities>
+      <cities>
+        <id>142487</id>
+        <name>El Saucillo</name>
+        <latitude>20.31389000</latitude>
+        <longitude>-103.91333000</longitude>
+      </cities>
+      <cities>
+        <id>142488</id>
+        <name>El Saucillo de los Pérez</name>
+        <latitude>22.02861000</latitude>
+        <longitude>-103.23444000</longitude>
+      </cities>
+      <cities>
+        <id>142489</id>
+        <name>El Saucito</name>
+        <latitude>20.73194000</latitude>
+        <longitude>-102.50889000</longitude>
+      </cities>
+      <cities>
+        <id>142490</id>
+        <name>El Sauz de Ibarra</name>
+        <latitude>21.33083000</latitude>
+        <longitude>-102.23222000</longitude>
+      </cities>
+      <cities>
+        <id>142491</id>
+        <name>El Seminario</name>
+        <latitude>21.27333000</latitude>
+        <longitude>-102.30806000</longitude>
+      </cities>
+      <cities>
+        <id>142492</id>
+        <name>El Sitio</name>
+        <latitude>21.33306000</latitude>
+        <longitude>-102.04056000</longitude>
+      </cities>
+      <cities>
+        <id>142493</id>
+        <name>El Sopial</name>
+        <latitude>20.58278000</latitude>
+        <longitude>-102.62806000</longitude>
+      </cities>
+      <cities>
+        <id>142494</id>
+        <name>El Soyate</name>
+        <latitude>21.50667000</latitude>
+        <longitude>-101.89250000</longitude>
+      </cities>
+      <cities>
+        <id>142495</id>
+        <name>El Tablero</name>
+        <latitude>21.47472000</latitude>
+        <longitude>-102.41639000</longitude>
+      </cities>
+      <cities>
+        <id>142496</id>
+        <name>El Taray</name>
+        <latitude>19.62361000</latitude>
+        <longitude>-103.26806000</longitude>
+      </cities>
+      <cities>
+        <id>142497</id>
+        <name>El Tarengo Nuevo</name>
+        <latitude>20.43121000</latitude>
+        <longitude>-102.49508000</longitude>
+      </cities>
+      <cities>
+        <id>142498</id>
+        <name>El Tecolote</name>
+        <latitude>21.20056000</latitude>
+        <longitude>-102.24583000</longitude>
+      </cities>
+      <cities>
+        <id>142499</id>
+        <name>El Tecuán</name>
+        <latitude>20.31389000</latitude>
+        <longitude>-103.73083000</longitude>
+      </cities>
+      <cities>
+        <id>142500</id>
+        <name>El Tempisque</name>
+        <latitude>20.77861000</latitude>
+        <longitude>-103.32667000</longitude>
+      </cities>
+      <cities>
+        <id>142501</id>
+        <name>El Tepame</name>
+        <latitude>20.56972000</latitude>
+        <longitude>-103.19444000</longitude>
+      </cities>
+      <cities>
+        <id>142502</id>
+        <name>El Tepec</name>
+        <latitude>21.84111000</latitude>
+        <longitude>-103.77389000</longitude>
+      </cities>
+      <cities>
+        <id>142503</id>
+        <name>El Tepetate</name>
+        <latitude>21.06472000</latitude>
+        <longitude>-103.77333000</longitude>
+      </cities>
+      <cities>
+        <id>142504</id>
+        <name>El Tepozán</name>
+        <latitude>20.79194000</latitude>
+        <longitude>-102.52917000</longitude>
+      </cities>
+      <cities>
+        <id>142505</id>
+        <name>El Tequesquite</name>
+        <latitude>20.06613000</latitude>
+        <longitude>-105.30064000</longitude>
+      </cities>
+      <cities>
+        <id>142506</id>
+        <name>El Terrerito de Sevilla</name>
+        <latitude>20.45417000</latitude>
+        <longitude>-102.08000000</longitude>
+      </cities>
+      <cities>
+        <id>142507</id>
+        <name>El Terrero</name>
+        <latitude>19.29917000</latitude>
+        <longitude>-102.87806000</longitude>
+      </cities>
+      <cities>
+        <id>142508</id>
+        <name>El Torque</name>
+        <latitude>21.37056000</latitude>
+        <longitude>-102.36667000</longitude>
+      </cities>
+      <cities>
+        <id>142509</id>
+        <name>El Torreón</name>
+        <latitude>21.78583000</latitude>
+        <longitude>-102.00139000</longitude>
+      </cities>
+      <cities>
+        <id>142510</id>
+        <name>El Tuito</name>
+        <latitude>20.32042000</latitude>
+        <longitude>-105.32469000</longitude>
+      </cities>
+      <cities>
+        <id>142511</id>
+        <name>El Tule</name>
+        <latitude>20.71667000</latitude>
+        <longitude>-102.44083000</longitude>
+      </cities>
+      <cities>
+        <id>142512</id>
+        <name>El Tulillo</name>
+        <latitude>21.20472000</latitude>
+        <longitude>-102.90222000</longitude>
+      </cities>
+      <cities>
+        <id>142513</id>
+        <name>El Uvalano</name>
+        <latitude>20.43861000</latitude>
+        <longitude>-102.79028000</longitude>
+      </cities>
+      <cities>
+        <id>142514</id>
+        <name>El Verde</name>
+        <latitude>20.55567000</latitude>
+        <longitude>-103.27901000</longitude>
+      </cities>
+      <cities>
+        <id>142515</id>
+        <name>El Vergel</name>
+        <latitude>21.62139000</latitude>
+        <longitude>-102.30639000</longitude>
+      </cities>
+      <cities>
+        <id>142516</id>
+        <name>El Vigía</name>
+        <latitude>19.50417000</latitude>
+        <longitude>-104.29639000</longitude>
+      </cities>
+      <cities>
+        <id>142517</id>
+        <name>El Zancudo</name>
+        <latitude>20.77972000</latitude>
+        <longitude>-105.15333000</longitude>
+      </cities>
+      <cities>
+        <id>142518</id>
+        <name>El Zapatero</name>
+        <latitude>19.86778000</latitude>
+        <longitude>-103.07556000</longitude>
+      </cities>
+      <cities>
+        <id>142519</id>
+        <name>El Zapote</name>
+        <latitude>21.11257000</latitude>
+        <longitude>-102.80555000</longitude>
+      </cities>
+      <cities>
+        <id>142520</id>
+        <name>El Zapote de Chávez</name>
+        <latitude>20.21972000</latitude>
+        <longitude>-104.32639000</longitude>
+      </cities>
+      <cities>
+        <id>142521</id>
+        <name>El Zapotillo</name>
+        <latitude>19.96611000</latitude>
+        <longitude>-104.39889000</longitude>
+      </cities>
+      <cities>
+        <id>142522</id>
+        <name>Emiliano Zapata</name>
+        <latitude>19.24278000</latitude>
+        <longitude>-104.71778000</longitude>
+      </cities>
+      <cities>
+        <id>142523</id>
+        <name>Emiliano Zapata, Jalisco</name>
+        <latitude>19.38305556</latitude>
+        <longitude>-104.96583333</longitude>
+      </cities>
+      <cities>
+        <id>142524</id>
+        <name>Encarnación de Díaz</name>
+        <latitude>21.51666667</latitude>
+        <longitude>-102.23333333</longitude>
+      </cities>
+      <cities>
+        <id>142525</id>
+        <name>Epeche Chico</name>
+        <latitude>19.93917000</latitude>
+        <longitude>-103.01972000</longitude>
+      </cities>
+      <cities>
+        <id>142526</id>
+        <name>Epeche Grande</name>
+        <latitude>19.92333000</latitude>
+        <longitude>-103.10667000</longitude>
+      </cities>
+      <cities>
+        <id>142528</id>
+        <name>Estancia de San Nicolás</name>
+        <latitude>20.38417000</latitude>
+        <longitude>-102.83750000</longitude>
+      </cities>
+      <cities>
+        <id>142527</id>
+        <name>Estancia Vieja de Arriba</name>
+        <latitude>21.16722000</latitude>
+        <longitude>-102.32389000</longitude>
+      </cities>
+      <cities>
+        <id>142529</id>
+        <name>Estanzuela</name>
+        <latitude>20.52306000</latitude>
+        <longitude>-104.34000000</longitude>
+      </cities>
+      <cities>
+        <id>142530</id>
+        <name>Estipa</name>
+        <latitude>20.36199000</latitude>
+        <longitude>-103.72345000</longitude>
+      </cities>
+      <cities>
+        <id>142531</id>
+        <name>Etzatlán Municipality</name>
+        <latitude>20.76666667</latitude>
+        <longitude>-104.08333333</longitude>
+      </cities>
+      <cities>
+        <id>142532</id>
+        <name>Ferrería de Tula</name>
+        <latitude>20.06529000</latitude>
+        <longitude>-103.72980000</longitude>
+      </cities>
+      <cities>
+        <id>142533</id>
+        <name>Francisco I. Madero</name>
+        <latitude>19.56000000</latitude>
+        <longitude>-104.55917000</longitude>
+      </cities>
+      <cities>
+        <id>142534</id>
+        <name>Francisco Primo de Verdad</name>
+        <latitude>21.74472000</latitude>
+        <longitude>-101.82611000</longitude>
+      </cities>
+      <cities>
+        <id>142535</id>
+        <name>Galaxia Bonito Jalisco</name>
+        <latitude>20.50500000</latitude>
+        <longitude>-103.20472000</longitude>
+      </cities>
+      <cities>
+        <id>142536</id>
+        <name>Galaxia la Noria</name>
+        <latitude>20.45722000</latitude>
+        <longitude>-103.41889000</longitude>
+      </cities>
+      <cities>
+        <id>142537</id>
+        <name>Gargantillo</name>
+        <latitude>20.01747000</latitude>
+        <longitude>-105.34619000</longitude>
+      </cities>
+      <cities>
+        <id>142538</id>
+        <name>General Andrés Figueroa</name>
+        <latitude>20.30396000</latitude>
+        <longitude>-103.60923000</longitude>
+      </cities>
+      <cities>
+        <id>142539</id>
+        <name>General Gabriel Leyva</name>
+        <latitude>20.42889000</latitude>
+        <longitude>-102.47111000</longitude>
+      </cities>
+      <cities>
+        <id>142540</id>
+        <name>Geovillas Laureles del Campanario</name>
+        <latitude>21.33056000</latitude>
+        <longitude>-101.92361000</longitude>
+      </cities>
+      <cities>
+        <id>142541</id>
+        <name>Getsemaní</name>
+        <latitude>20.72778000</latitude>
+        <longitude>-105.20639000</longitude>
+      </cities>
+      <cities>
+        <id>142549</id>
+        <name>Gómez Farías Municipality</name>
+        <latitude>19.80000000</latitude>
+        <longitude>-103.48333333</longitude>
+      </cities>
+      <cities>
+        <id>142542</id>
+        <name>Granadillas</name>
+        <latitude>21.37972000</latitude>
+        <longitude>-101.90139000</longitude>
+      </cities>
+      <cities>
+        <id>142543</id>
+        <name>Guachinango</name>
+        <latitude>20.56700000</latitude>
+        <longitude>-104.36700000</longitude>
+      </cities>
+      <cities>
+        <id>142544</id>
+        <name>Guadalajara</name>
+        <latitude>20.67666667</latitude>
+        <longitude>-103.34750000</longitude>
+      </cities>
+      <cities>
+        <id>142546</id>
+        <name>Guadalupe de Lerma</name>
+        <latitude>20.34077000</latitude>
+        <longitude>-102.36090000</longitude>
+      </cities>
+      <cities>
+        <id>142545</id>
+        <name>Guadalupe Victoria</name>
+        <latitude>21.70106000</latitude>
+        <longitude>-101.61778000</longitude>
+      </cities>
+      <cities>
+        <id>142547</id>
+        <name>Guamuchilillo</name>
+        <latitude>22.05028000</latitude>
+        <longitude>-104.31583000</longitude>
+      </cities>
+      <cities>
+        <id>142548</id>
+        <name>Guayabitos</name>
+        <latitude>20.42611000</latitude>
+        <longitude>-104.73111000</longitude>
+      </cities>
+      <cities>
+        <id>142553</id>
+        <name>Hacienda de la Labor</name>
+        <latitude>20.31639000</latitude>
+        <longitude>-103.17333000</longitude>
+      </cities>
+      <cities>
+        <id>142554</id>
+        <name>Hacienda los Fresnos</name>
+        <latitude>20.51944000</latitude>
+        <longitude>-103.39306000</longitude>
+      </cities>
+      <cities>
+        <id>142550</id>
+        <name>Hacienda Santa Fe</name>
+        <latitude>20.51806000</latitude>
+        <longitude>-103.38056000</longitude>
+      </cities>
+      <cities>
+        <id>142551</id>
+        <name>Hacienda Vieja</name>
+        <latitude>19.60083000</latitude>
+        <longitude>-103.21444000</longitude>
+      </cities>
+      <cities>
+        <id>142552</id>
+        <name>Hacienda Vieja del Castillo</name>
+        <latitude>20.54000000</latitude>
+        <longitude>-103.24417000</longitude>
+      </cities>
+      <cities>
+        <id>142555</id>
+        <name>Haciendas la Herradura</name>
+        <latitude>20.77250000</latitude>
+        <longitude>-103.60861000</longitude>
+      </cities>
+      <cities>
+        <id>142556</id>
+        <name>Hierba de Matancillas</name>
+        <latitude>21.86528000</latitude>
+        <longitude>-101.67333000</longitude>
+      </cities>
+      <cities>
+        <id>142557</id>
+        <name>Higueras San Miguel</name>
+        <latitude>19.59472000</latitude>
+        <longitude>-103.17944000</longitude>
+      </cities>
+      <cities>
+        <id>142558</id>
+        <name>Higuerillas</name>
+        <latitude>20.76083000</latitude>
+        <longitude>-102.47417000</longitude>
+      </cities>
+      <cities>
+        <id>142559</id>
+        <name>Hostotipaquillo</name>
+        <latitude>21.06035000</latitude>
+        <longitude>-104.05091000</longitude>
+      </cities>
+      <cities>
+        <id>142560</id>
+        <name>Huajacatlán</name>
+        <latitude>21.04444000</latitude>
+        <longitude>-103.95222000</longitude>
+      </cities>
+      <cities>
+        <id>142561</id>
+        <name>Huascato</name>
+        <latitude>20.47951000</latitude>
+        <longitude>-102.24806000</longitude>
+      </cities>
+      <cities>
+        <id>142562</id>
+        <name>Huaxtla</name>
+        <latitude>20.73179000</latitude>
+        <longitude>-103.66291000</longitude>
+      </cities>
+      <cities>
+        <id>142564</id>
+        <name>Huejotitán</name>
+        <latitude>20.35524000</latitude>
+        <longitude>-103.48742000</longitude>
+      </cities>
+      <cities>
+        <id>142563</id>
+        <name>Huejotitlán</name>
+        <latitude>20.65694000</latitude>
+        <longitude>-103.04222000</longitude>
+      </cities>
+      <cities>
+        <id>142566</id>
+        <name>Huejúcar</name>
+        <latitude>22.33409000</latitude>
+        <longitude>-103.25253000</longitude>
+      </cities>
+      <cities>
+        <id>142565</id>
+        <name>Huejuquilla El Alto Municipality</name>
+        <latitude>22.61666667</latitude>
+        <longitude>-103.88333333</longitude>
+      </cities>
+      <cities>
+        <id>142567</id>
+        <name>Huertas Familiares San Pedro</name>
+        <latitude>21.32750000</latitude>
+        <longitude>-101.97444000</longitude>
+      </cities>
+      <cities>
+        <id>142568</id>
+        <name>Huisichi</name>
+        <latitude>19.56611000</latitude>
+        <longitude>-103.86556000</longitude>
+      </cities>
+      <cities>
+        <id>142569</id>
+        <name>Huitzometl</name>
+        <latitude>19.51000000</latitude>
+        <longitude>-103.75250000</longitude>
+      </cities>
+      <cities>
+        <id>142570</id>
+        <name>Huizaches</name>
+        <latitude>19.17167000</latitude>
+        <longitude>-103.49000000</longitude>
+      </cities>
+      <cities>
+        <id>142572</id>
+        <name>Ipazoltic</name>
+        <latitude>20.43330000</latitude>
+        <longitude>-103.98300000</longitude>
+      </cities>
+      <cities>
+        <id>142571</id>
+        <name>IPROVIPE I</name>
+        <latitude>20.88639000</latitude>
+        <longitude>-103.82444000</longitude>
+      </cities>
+      <cities>
+        <id>142573</id>
+        <name>Ixtapa</name>
+        <latitude>20.71623000</latitude>
+        <longitude>-105.20408000</longitude>
+      </cities>
+      <cities>
+        <id>142574</id>
+        <name>Ixtlahuacán de los Membrillos</name>
+        <latitude>20.34666667</latitude>
+        <longitude>-103.19138889</longitude>
+      </cities>
+      <cities>
+        <id>142575</id>
+        <name>Ixtlahuacán del Río</name>
+        <latitude>20.86666667</latitude>
+        <longitude>-103.25000000</longitude>
+      </cities>
+      <cities>
+        <id>142576</id>
+        <name>Izolta</name>
+        <latitude>22.01000000</latitude>
+        <longitude>-103.74639000</longitude>
+      </cities>
+      <cities>
+        <id>142577</id>
+        <name>J. Isabel Flores</name>
+        <latitude>20.63750000</latitude>
+        <longitude>-103.07806000</longitude>
+      </cities>
+      <cities>
+        <id>142578</id>
+        <name>Jalostotitlan</name>
+        <latitude>21.16741000</latitude>
+        <longitude>-102.46386000</longitude>
+      </cities>
+      <cities>
+        <id>142579</id>
+        <name>Jaluco</name>
+        <latitude>19.23089000</latitude>
+        <longitude>-104.68527000</longitude>
+      </cities>
+      <cities>
+        <id>142580</id>
+        <name>Jamay</name>
+        <latitude>20.29444444</latitude>
+        <longitude>-102.70972222</longitude>
+      </cities>
+      <cities>
+        <id>142581</id>
+        <name>Jardines de San Sebastián</name>
+        <latitude>20.51889000</latitude>
+        <longitude>-103.42222000</longitude>
+      </cities>
+      <cities>
+        <id>142582</id>
+        <name>Jardines del Edén</name>
+        <latitude>20.53250000</latitude>
+        <longitude>-103.36278000</longitude>
+      </cities>
+      <cities>
+        <id>142583</id>
+        <name>Jaritas</name>
+        <latitude>21.31167000</latitude>
+        <longitude>-101.99750000</longitude>
+      </cities>
+      <cities>
+        <id>142584</id>
+        <name>Jesús María</name>
+        <latitude>20.66666667</latitude>
+        <longitude>-103.35027778</longitude>
+      </cities>
+      <cities>
+        <id>142585</id>
+        <name>Jesús María, Nayarit</name>
+        <latitude>20.66667000</latitude>
+        <longitude>-104.26670000</longitude>
+      </cities>
+      <cities>
+        <id>142586</id>
+        <name>Jilotlán de los Dolores</name>
+        <latitude>19.37083333</latitude>
+        <longitude>-103.01972222</longitude>
+      </cities>
+      <cities>
+        <id>142587</id>
+        <name>Jiquilpan</name>
+        <latitude>19.77889000</latitude>
+        <longitude>-103.77895000</longitude>
+      </cities>
+      <cities>
+        <id>142588</id>
+        <name>Joconoxtle</name>
+        <latitude>20.45222000</latitude>
+        <longitude>-102.67639000</longitude>
+      </cities>
+      <cities>
+        <id>142589</id>
+        <name>Jocotepec</name>
+        <latitude>20.16666667</latitude>
+        <longitude>-103.28333333</longitude>
+      </cities>
+      <cities>
+        <id>142592</id>
+        <name>José de Jesús Aguirre, Teocaltiche</name>
+        <latitude>21.52167000</latitude>
+        <longitude>-102.47139000</longitude>
+      </cities>
+      <cities>
+        <id>142591</id>
+        <name>José María Pino Suárez</name>
+        <latitude>19.94889000</latitude>
+        <longitude>-105.32778000</longitude>
+      </cities>
+      <cities>
+        <id>142590</id>
+        <name>Josefa Ortíz de Domínguez</name>
+        <latitude>20.90000000</latitude>
+        <longitude>-103.83306000</longitude>
+      </cities>
+      <cities>
+        <id>142593</id>
+        <name>Juan Gil Preciado</name>
+        <latitude>20.37269000</latitude>
+        <longitude>-103.72752000</longitude>
+      </cities>
+      <cities>
+        <id>142594</id>
+        <name>Juanacatlán</name>
+        <latitude>20.50000000</latitude>
+        <longitude>-103.16666667</longitude>
+      </cities>
+      <cities>
+        <id>142595</id>
+        <name>La Alameda</name>
+        <latitude>20.49528000</latitude>
+        <longitude>-103.24833000</longitude>
+      </cities>
+      <cities>
+        <id>142596</id>
+        <name>La Aldaba</name>
+        <latitude>19.74964000</latitude>
+        <longitude>-104.23306000</longitude>
+      </cities>
+      <cities>
+        <id>142597</id>
+        <name>La Angostura de los Altos</name>
+        <latitude>20.56194000</latitude>
+        <longitude>-102.43500000</longitude>
+      </cities>
+      <cities>
+        <id>142598</id>
+        <name>La Arbolada Plus</name>
+        <latitude>20.53694000</latitude>
+        <longitude>-103.36389000</longitude>
+      </cities>
+      <cities>
+        <id>142599</id>
+        <name>La Barca</name>
+        <latitude>20.28333333</latitude>
+        <longitude>-102.56666667</longitude>
+      </cities>
+      <cities>
+        <id>142600</id>
+        <name>La Barranca</name>
+        <latitude>20.51639000</latitude>
+        <longitude>-103.07306000</longitude>
+      </cities>
+      <cities>
+        <id>142601</id>
+        <name>La Calera</name>
+        <latitude>21.49694000</latitude>
+        <longitude>-102.58556000</longitude>
+      </cities>
+      <cities>
+        <id>142602</id>
+        <name>La Calera Fraccionamiento</name>
+        <latitude>21.26889000</latitude>
+        <longitude>-102.33778000</longitude>
+      </cities>
+      <cities>
+        <id>142604</id>
+        <name>La Cañada</name>
+        <latitude>20.48222000</latitude>
+        <longitude>-102.94306000</longitude>
+      </cities>
+      <cities>
+        <id>142605</id>
+        <name>La Cañada Tezcaltilti</name>
+        <latitude>20.01167000</latitude>
+        <longitude>-103.71278000</longitude>
+      </cities>
+      <cities>
+        <id>142603</id>
+        <name>La Cantera</name>
+        <latitude>21.34333000</latitude>
+        <longitude>-102.01972000</longitude>
+      </cities>
+      <cities>
+        <id>142606</id>
+        <name>La Cebadilla</name>
+        <latitude>20.89028000</latitude>
+        <longitude>-102.74250000</longitude>
+      </cities>
+      <cities>
+        <id>142607</id>
+        <name>La Ceja de la Capilla</name>
+        <latitude>20.73583000</latitude>
+        <longitude>-102.41833000</longitude>
+      </cities>
+      <cities>
+        <id>142608</id>
+        <name>La Cerca Blanca</name>
+        <latitude>21.15806000</latitude>
+        <longitude>-102.88361000</longitude>
+      </cities>
+      <cities>
+        <id>142610</id>
+        <name>La Ciénega</name>
+        <latitude>20.66056000</latitude>
+        <longitude>-102.71333000</longitude>
+      </cities>
+      <cities>
+        <id>142611</id>
+        <name>La Ciénega de Huaistita</name>
+        <latitude>22.06306000</latitude>
+        <longitude>-104.32583000</longitude>
+      </cities>
+      <cities>
+        <id>142609</id>
+        <name>La Cieneguita</name>
+        <latitude>20.75611000</latitude>
+        <longitude>-102.29944000</longitude>
+      </cities>
+      <cities>
+        <id>142612</id>
+        <name>La Cofradía</name>
+        <latitude>22.61361000</latitude>
+        <longitude>-103.92417000</longitude>
+      </cities>
+      <cities>
+        <id>142613</id>
+        <name>La Cofradía del Rosario</name>
+        <latitude>19.88861000</latitude>
+        <longitude>-103.72444000</longitude>
+      </cities>
+      <cities>
+        <id>142614</id>
+        <name>La Colonia San Juanito</name>
+        <latitude>21.19361000</latitude>
+        <longitude>-102.90472000</longitude>
+      </cities>
+      <cities>
+        <id>142615</id>
+        <name>La Concepción</name>
+        <latitude>20.35171000</latitude>
+        <longitude>-102.32959000</longitude>
+      </cities>
+      <cities>
+        <id>142616</id>
+        <name>La Conchilla</name>
+        <latitude>20.90528000</latitude>
+        <longitude>-103.73861000</longitude>
+      </cities>
+      <cities>
+        <id>142617</id>
+        <name>La Conchita</name>
+        <latitude>19.49972000</latitude>
+        <longitude>-104.56139000</longitude>
+      </cities>
+      <cities>
+        <id>142618</id>
+        <name>La Constancia</name>
+        <latitude>20.40333000</latitude>
+        <longitude>-102.98361000</longitude>
+      </cities>
+      <cities>
+        <id>142619</id>
+        <name>La Cruz</name>
+        <latitude>20.25083000</latitude>
+        <longitude>-103.59111000</longitude>
+      </cities>
+      <cities>
+        <id>142620</id>
+        <name>La Cruz de Loreto</name>
+        <latitude>20.00755000</latitude>
+        <longitude>-105.45508000</longitude>
+      </cities>
+      <cities>
+        <id>142621</id>
+        <name>La Cuchilla</name>
+        <latitude>20.78000000</latitude>
+        <longitude>-103.46222000</longitude>
+      </cities>
+      <cities>
+        <id>142622</id>
+        <name>La Cuesta de Medina</name>
+        <latitude>21.22583000</latitude>
+        <longitude>-102.33056000</longitude>
+      </cities>
+      <cities>
+        <id>142623</id>
+        <name>La Cueva</name>
+        <latitude>21.24056000</latitude>
+        <longitude>-102.59444000</longitude>
+      </cities>
+      <cities>
+        <id>142624</id>
+        <name>La Estacada</name>
+        <latitude>19.93528000</latitude>
+        <longitude>-103.03472000</longitude>
+      </cities>
+      <cities>
+        <id>142625</id>
+        <name>La Estancia</name>
+        <latitude>21.04694000</latitude>
+        <longitude>-102.84167000</longitude>
+      </cities>
+      <cities>
+        <id>142626</id>
+        <name>La Estancia de Arriba</name>
+        <latitude>22.61972000</latitude>
+        <longitude>-103.90861000</longitude>
+      </cities>
+      <cities>
+        <id>142627</id>
+        <name>La Estancia de Ayones</name>
+        <latitude>20.88220000</latitude>
+        <longitude>-104.08717000</longitude>
+      </cities>
+      <cities>
+        <id>142628</id>
+        <name>La Estancia de Navarro</name>
+        <latitude>20.54917000</latitude>
+        <longitude>-102.60944000</longitude>
+      </cities>
+      <cities>
+        <id>142629</id>
+        <name>La Estancita</name>
+        <latitude>20.56722000</latitude>
+        <longitude>-104.01083000</longitude>
+      </cities>
+      <cities>
+        <id>142630</id>
+        <name>La Estanzuela</name>
+        <latitude>20.66892000</latitude>
+        <longitude>-103.82609000</longitude>
+      </cities>
+      <cities>
+        <id>142631</id>
+        <name>La Floreña</name>
+        <latitude>20.46750000</latitude>
+        <longitude>-102.73500000</longitude>
+      </cities>
+      <cities>
+        <id>142632</id>
+        <name>La Fortuna Fraccionamiento</name>
+        <latitude>20.48472000</latitude>
+        <longitude>-103.39583000</longitude>
+      </cities>
+      <cities>
+        <id>142633</id>
+        <name>La Frontera</name>
+        <latitude>19.96083000</latitude>
+        <longitude>-103.71139000</longitude>
+      </cities>
+      <cities>
+        <id>142634</id>
+        <name>La Garita, Jalisco</name>
+        <latitude>19.76666667</latitude>
+        <longitude>-103.11666667</longitude>
+      </cities>
+      <cities>
+        <id>142635</id>
+        <name>La Garruña</name>
+        <latitude>20.95556000</latitude>
+        <longitude>-103.13944000</longitude>
+      </cities>
+      <cities>
+        <id>142636</id>
+        <name>La Gila</name>
+        <latitude>20.61444000</latitude>
+        <longitude>-102.20472000</longitude>
+      </cities>
+      <cities>
+        <id>142637</id>
+        <name>La Gloria</name>
+        <latitude>20.61222000</latitude>
+        <longitude>-102.38389000</longitude>
+      </cities>
+      <cities>
+        <id>142638</id>
+        <name>La Granjena</name>
+        <latitude>20.70694000</latitude>
+        <longitude>-102.44361000</longitude>
+      </cities>
+      <cities>
+        <id>142639</id>
+        <name>La Guadalupe</name>
+        <latitude>19.73556000</latitude>
+        <longitude>-103.78083000</longitude>
+      </cities>
+      <cities>
+        <id>142640</id>
+        <name>La Guásima</name>
+        <latitude>22.11889000</latitude>
+        <longitude>-103.74111000</longitude>
+      </cities>
+      <cities>
+        <id>142641</id>
+        <name>La Hermosura</name>
+        <latitude>20.11333000</latitude>
+        <longitude>-103.60139000</longitude>
+      </cities>
+      <cities>
+        <id>142642</id>
+        <name>La Higuera</name>
+        <latitude>19.42358000</latitude>
+        <longitude>-103.40955000</longitude>
+      </cities>
+      <cities>
+        <id>142643</id>
+        <name>La Huerta</name>
+        <latitude>19.48444444</latitude>
+        <longitude>-104.64388889</longitude>
+      </cities>
+      <cities>
+        <id>142644</id>
+        <name>La Huevera</name>
+        <latitude>19.88917000</latitude>
+        <longitude>-103.12000000</longitude>
+      </cities>
+      <cities>
+        <id>142645</id>
+        <name>La Isla</name>
+        <latitude>21.39472000</latitude>
+        <longitude>-101.92278000</longitude>
+      </cities>
+      <cities>
+        <id>142646</id>
+        <name>La Jarrilla</name>
+        <latitude>21.05444000</latitude>
+        <longitude>-102.95417000</longitude>
+      </cities>
+      <cities>
+        <id>142647</id>
+        <name>La Joya</name>
+        <latitude>19.94472000</latitude>
+        <longitude>-102.86944000</longitude>
+      </cities>
+      <cities>
+        <id>142648</id>
+        <name>La Joya Chica</name>
+        <latitude>20.71021000</latitude>
+        <longitude>-103.00250000</longitude>
+      </cities>
+      <cities>
+        <id>142649</id>
+        <name>La Joya Grande</name>
+        <latitude>20.70861000</latitude>
+        <longitude>-103.04444000</longitude>
+      </cities>
+      <cities>
+        <id>142650</id>
+        <name>La Labor de la Concepción</name>
+        <latitude>21.23306000</latitude>
+        <longitude>-102.78333000</longitude>
+      </cities>
+      <cities>
+        <id>142651</id>
+        <name>La Labor de los Alba</name>
+        <latitude>21.37722000</latitude>
+        <longitude>-102.31639000</longitude>
+      </cities>
+      <cities>
+        <id>142652</id>
+        <name>La Ladera</name>
+        <latitude>20.20722000</latitude>
+        <longitude>-104.15139000</longitude>
+      </cities>
+      <cities>
+        <id>142653</id>
+        <name>La Ladera Grande</name>
+        <latitude>20.52417000</latitude>
+        <longitude>-102.35167000</longitude>
+      </cities>
+      <cities>
+        <id>142654</id>
+        <name>La Laguna</name>
+        <latitude>22.25417000</latitude>
+        <longitude>-104.20667000</longitude>
+      </cities>
+      <cities>
+        <id>142655</id>
+        <name>La Laguna Grande</name>
+        <latitude>20.93611000</latitude>
+        <longitude>-103.06111000</longitude>
+      </cities>
+      <cities>
+        <id>142656</id>
+        <name>La Laja</name>
+        <latitude>19.85481000</latitude>
+        <longitude>-104.28520000</longitude>
+      </cities>
+      <cities>
+        <id>142657</id>
+        <name>La Lobera</name>
+        <latitude>21.08694000</latitude>
+        <longitude>-103.56583000</longitude>
+      </cities>
+      <cities>
+        <id>142658</id>
+        <name>La Loma</name>
+        <latitude>20.44139000</latitude>
+        <longitude>-102.08833000</longitude>
+      </cities>
+      <cities>
+        <id>142659</id>
+        <name>La Loma de los Rizo</name>
+        <latitude>20.72444000</latitude>
+        <longitude>-102.22222000</longitude>
+      </cities>
+      <cities>
+        <id>142660</id>
+        <name>La Loma del Nopal</name>
+        <latitude>20.73000000</latitude>
+        <longitude>-102.40167000</longitude>
+      </cities>
+      <cities>
+        <id>142661</id>
+        <name>La Lomita</name>
+        <latitude>21.44056000</latitude>
+        <longitude>-102.31278000</longitude>
+      </cities>
+      <cities>
+        <id>142662</id>
+        <name>La Luz</name>
+        <latitude>20.44917000</latitude>
+        <longitude>-102.71750000</longitude>
+      </cities>
+      <cities>
+        <id>142663</id>
+        <name>La Manzanilla</name>
+        <latitude>19.28111111</latitude>
+        <longitude>-104.78750000</longitude>
+      </cities>
+      <cities>
+        <id>142664</id>
+        <name>La Manzanilla de La Paz</name>
+        <latitude>19.91666667</latitude>
+        <longitude>-102.01666667</longitude>
+      </cities>
+      <cities>
+        <id>142665</id>
+        <name>La Mata</name>
+        <latitude>20.89528000</latitude>
+        <longitude>-103.74889000</longitude>
+      </cities>
+      <cities>
+        <id>142666</id>
+        <name>La Merced</name>
+        <latitude>21.48250000</latitude>
+        <longitude>-101.86722000</longitude>
+      </cities>
+      <cities>
+        <id>142667</id>
+        <name>La Mesa</name>
+        <latitude>20.54944000</latitude>
+        <longitude>-103.11918000</longitude>
+      </cities>
+      <cities>
+        <id>142668</id>
+        <name>La Mesa del Guitarrero</name>
+        <latitude>20.66972000</latitude>
+        <longitude>-102.76667000</longitude>
+      </cities>
+      <cities>
+        <id>142669</id>
+        <name>La Mesita</name>
+        <latitude>20.83889000</latitude>
+        <longitude>-103.50667000</longitude>
+      </cities>
+      <cities>
+        <id>142670</id>
+        <name>La Mezcalilla</name>
+        <latitude>20.45250000</latitude>
+        <longitude>-103.12306000</longitude>
+      </cities>
+      <cities>
+        <id>142671</id>
+        <name>La Mezquitera</name>
+        <latitude>20.55833000</latitude>
+        <longitude>-103.11250000</longitude>
+      </cities>
+      <cities>
+        <id>142672</id>
+        <name>La Mial</name>
+        <latitude>20.58639000</latitude>
+        <longitude>-103.27500000</longitude>
+      </cities>
+      <cities>
+        <id>142673</id>
+        <name>La Mina</name>
+        <latitude>20.94750000</latitude>
+        <longitude>-102.72250000</longitude>
+      </cities>
+      <cities>
+        <id>142674</id>
+        <name>La Mojarra</name>
+        <latitude>20.84944000</latitude>
+        <longitude>-103.04250000</longitude>
+      </cities>
+      <cities>
+        <id>142675</id>
+        <name>La Mora</name>
+        <latitude>20.70575000</latitude>
+        <longitude>-104.03409000</longitude>
+      </cities>
+      <cities>
+        <id>142676</id>
+        <name>La Mota</name>
+        <latitude>20.70556000</latitude>
+        <longitude>-102.69028000</longitude>
+      </cities>
+      <cities>
+        <id>142677</id>
+        <name>La Nance</name>
+        <latitude>19.48667000</latitude>
+        <longitude>-104.39639000</longitude>
+      </cities>
+      <cities>
+        <id>142678</id>
+        <name>La Nopalera</name>
+        <latitude>20.47750000</latitude>
+        <longitude>-102.40056000</longitude>
+      </cities>
+      <cities>
+        <id>142679</id>
+        <name>La Noria</name>
+        <latitude>21.10972000</latitude>
+        <longitude>-101.83750000</longitude>
+      </cities>
+      <cities>
+        <id>142680</id>
+        <name>La Orilla de la Cerca</name>
+        <latitude>20.36556000</latitude>
+        <longitude>-102.71667000</longitude>
+      </cities>
+      <cities>
+        <id>142681</id>
+        <name>La Orilla del Agua</name>
+        <latitude>21.38389000</latitude>
+        <longitude>-101.95250000</longitude>
+      </cities>
+      <cities>
+        <id>142682</id>
+        <name>La Palma</name>
+        <latitude>21.38778000</latitude>
+        <longitude>-101.92167000</longitude>
+      </cities>
+      <cities>
+        <id>142683</id>
+        <name>La Palmita</name>
+        <latitude>21.76833000</latitude>
+        <longitude>-101.91778000</longitude>
+      </cities>
+      <cities>
+        <id>142684</id>
+        <name>La Parota</name>
+        <latitude>19.55944000</latitude>
+        <longitude>-103.89028000</longitude>
+      </cities>
+      <cities>
+        <id>142685</id>
+        <name>La Parrita</name>
+        <latitude>21.54722000</latitude>
+        <longitude>-102.55056000</longitude>
+      </cities>
+      <cities>
+        <id>142686</id>
+        <name>La Paz</name>
+        <latitude>21.81608000</latitude>
+        <longitude>-101.76793000</longitude>
+      </cities>
+      <cities>
+        <id>142687</id>
+        <name>La Paz de Ordaz</name>
+        <latitude>20.34489000</latitude>
+        <longitude>-102.53059000</longitude>
+      </cities>
+      <cities>
+        <id>142688</id>
+        <name>La Peña, Jalisco</name>
+        <latitude>20.32722000</latitude>
+        <longitude>-102.97556000</longitude>
+      </cities>
+      <cities>
+        <id>142689</id>
+        <name>La Playa</name>
+        <latitude>21.82278000</latitude>
+        <longitude>-103.78861000</longitude>
+      </cities>
+      <cities>
+        <id>142690</id>
+        <name>La Presa</name>
+        <latitude>21.77589000</latitude>
+        <longitude>-101.81477000</longitude>
+      </cities>
+      <cities>
+        <id>142691</id>
+        <name>La Primavera</name>
+        <latitude>20.72302000</latitude>
+        <longitude>-103.56543000</longitude>
+      </cities>
+      <cities>
+        <id>142692</id>
+        <name>La Providencia</name>
+        <latitude>21.02556000</latitude>
+        <longitude>-102.60444000</longitude>
+      </cities>
+      <cities>
+        <id>142693</id>
+        <name>La Puerta de San Pedro</name>
+        <latitude>20.92778000</latitude>
+        <longitude>-103.84389000</longitude>
+      </cities>
+      <cities>
+        <id>142694</id>
+        <name>La Puerta del Coche</name>
+        <latitude>20.80400000</latitude>
+        <longitude>-104.22577000</longitude>
+      </cities>
+      <cities>
+        <id>142695</id>
+        <name>La Punta</name>
+        <latitude>20.57156000</latitude>
+        <longitude>-103.21147000</longitude>
+      </cities>
+      <cities>
+        <id>142696</id>
+        <name>La Purísima</name>
+        <latitude>19.49162000</latitude>
+        <longitude>-103.32896000</longitude>
+      </cities>
+      <cities>
+        <id>142697</id>
+        <name>La Quemada</name>
+        <latitude>20.97127000</latitude>
+        <longitude>-104.04914000</longitude>
+      </cities>
+      <cities>
+        <id>142698</id>
+        <name>La Rana</name>
+        <latitude>20.81056000</latitude>
+        <longitude>-102.42444000</longitude>
+      </cities>
+      <cities>
+        <id>142699</id>
+        <name>La Raya</name>
+        <latitude>20.53639000</latitude>
+        <longitude>-102.51944000</longitude>
+      </cities>
+      <cities>
+        <id>142700</id>
+        <name>La Red</name>
+        <latitude>20.71861000</latitude>
+        <longitude>-102.81333000</longitude>
+      </cities>
+      <cities>
+        <id>142701</id>
+        <name>La Resolana</name>
+        <latitude>20.74139000</latitude>
+        <longitude>-102.92528000</longitude>
+      </cities>
+      <cities>
+        <id>142702</id>
+        <name>La Ribera</name>
+        <latitude>20.34908000</latitude>
+        <longitude>-102.28273000</longitude>
+      </cities>
+      <cities>
+        <id>142703</id>
+        <name>La Roca</name>
+        <latitude>20.51278000</latitude>
+        <longitude>-103.42639000</longitude>
+      </cities>
+      <cities>
+        <id>142704</id>
+        <name>La Rosa</name>
+        <latitude>19.46278000</latitude>
+        <longitude>-104.31556000</longitude>
+      </cities>
+      <cities>
+        <id>142705</id>
+        <name>La Rosa Amarilla</name>
+        <latitude>20.08404000</latitude>
+        <longitude>-103.10903000</longitude>
+      </cities>
+      <cities>
+        <id>142706</id>
+        <name>La Rosa de Castilla</name>
+        <latitude>20.70806000</latitude>
+        <longitude>-102.25083000</longitude>
+      </cities>
+      <cities>
+        <id>142707</id>
+        <name>La Rueda</name>
+        <latitude>20.10167000</latitude>
+        <longitude>-103.26250000</longitude>
+      </cities>
+      <cities>
+        <id>142708</id>
+        <name>La Sanguijuela</name>
+        <latitude>20.49222000</latitude>
+        <longitude>-102.04417000</longitude>
+      </cities>
+      <cities>
+        <id>142709</id>
+        <name>La Sauceda</name>
+        <latitude>20.45251000</latitude>
+        <longitude>-103.80681000</longitude>
+      </cities>
+      <cities>
+        <id>142710</id>
+        <name>La Soledad</name>
+        <latitude>20.63528000</latitude>
+        <longitude>-102.55444000</longitude>
+      </cities>
+      <cities>
+        <id>142711</id>
+        <name>La Teja</name>
+        <latitude>20.44611000</latitude>
+        <longitude>-103.48306000</longitude>
+      </cities>
+      <cities>
+        <id>142712</id>
+        <name>La Tijera</name>
+        <latitude>20.58167000</latitude>
+        <longitude>-103.44056000</longitude>
+      </cities>
+      <cities>
+        <id>142713</id>
+        <name>La Tinajera</name>
+        <latitude>20.46972000</latitude>
+        <longitude>-102.18778000</longitude>
+      </cities>
+      <cities>
+        <id>142714</id>
+        <name>La Tiricia</name>
+        <latitude>20.47833000</latitude>
+        <longitude>-102.72306000</longitude>
+      </cities>
+      <cities>
+        <id>142715</id>
+        <name>La Tortuga</name>
+        <latitude>20.90139000</latitude>
+        <longitude>-104.61583000</longitude>
+      </cities>
+      <cities>
+        <id>142716</id>
+        <name>La Trinidad</name>
+        <latitude>21.27389000</latitude>
+        <longitude>-101.99250000</longitude>
+      </cities>
+      <cities>
+        <id>142717</id>
+        <name>La Unión del Cuatro</name>
+        <latitude>20.53148000</latitude>
+        <longitude>-103.36812000</longitude>
+      </cities>
+      <cities>
+        <id>142718</id>
+        <name>La Vaquera</name>
+        <latitude>20.85611000</latitude>
+        <longitude>-102.22056000</longitude>
+      </cities>
+      <cities>
+        <id>142719</id>
+        <name>La Vega</name>
+        <latitude>20.58331000</latitude>
+        <longitude>-103.85830000</longitude>
+      </cities>
+      <cities>
+        <id>142720</id>
+        <name>La Venta del Astillero</name>
+        <latitude>20.72795000</latitude>
+        <longitude>-103.54509000</longitude>
+      </cities>
+      <cities>
+        <id>142721</id>
+        <name>La Verdolaga</name>
+        <latitude>21.68917000</latitude>
+        <longitude>-102.03778000</longitude>
+      </cities>
+      <cities>
+        <id>142722</id>
+        <name>La Villa</name>
+        <latitude>20.62806000</latitude>
+        <longitude>-102.94667000</longitude>
+      </cities>
+      <cities>
+        <id>142723</id>
+        <name>La Virgencita</name>
+        <latitude>20.72889000</latitude>
+        <longitude>-102.53389000</longitude>
+      </cities>
+      <cities>
+        <id>142724</id>
+        <name>La Yerbabuena</name>
+        <latitude>20.53722000</latitude>
+        <longitude>-103.09722000</longitude>
+      </cities>
+      <cities>
+        <id>142725</id>
+        <name>La Zapotera</name>
+        <latitude>20.30611000</latitude>
+        <longitude>-102.89778000</longitude>
+      </cities>
+      <cities>
+        <id>142726</id>
+        <name>Labor de Medina</name>
+        <latitude>20.46666667</latitude>
+        <longitude>-103.91666667</longitude>
+      </cities>
+      <cities>
+        <id>142727</id>
+        <name>Labor de Montoya</name>
+        <latitude>21.36722000</latitude>
+        <longitude>-102.21917000</longitude>
+      </cities>
+      <cities>
+        <id>142728</id>
+        <name>Ladera Chica</name>
+        <latitude>20.52167000</latitude>
+        <longitude>-102.34694000</longitude>
+      </cities>
+      <cities>
+        <id>142729</id>
+        <name>Lagos de Moreno</name>
+        <latitude>21.35638889</latitude>
+        <longitude>-101.92916667</longitude>
+      </cities>
+      <cities>
+        <id>142730</id>
+        <name>Laguna Colorada</name>
+        <latitude>20.75917000</latitude>
+        <longitude>-102.83111000</longitude>
+      </cities>
+      <cities>
+        <id>142731</id>
+        <name>Laguna de Piedra</name>
+        <latitude>20.82028000</latitude>
+        <longitude>-102.13778000</longitude>
+      </cities>
+      <cities>
+        <id>142732</id>
+        <name>Lagunillas, Jalisco</name>
+        <latitude>20.33972222</latitude>
+        <longitude>-103.99583333</longitude>
+      </cities>
+      <cities>
+        <id>142733</id>
+        <name>Las Alfalfas</name>
+        <latitude>21.32861000</latitude>
+        <longitude>-101.91056000</longitude>
+      </cities>
+      <cities>
+        <id>142734</id>
+        <name>Las Amarillas</name>
+        <latitude>21.58918000</latitude>
+        <longitude>-101.65548000</longitude>
+      </cities>
+      <cities>
+        <id>142735</id>
+        <name>Las Asturias Fraccionamiento</name>
+        <latitude>20.52222000</latitude>
+        <longitude>-103.29083000</longitude>
+      </cities>
+      <cities>
+        <id>142736</id>
+        <name>Las Azules</name>
+        <latitude>20.89194000</latitude>
+        <longitude>-102.79167000</longitude>
+      </cities>
+      <cities>
+        <id>142737</id>
+        <name>Las Calaveras</name>
+        <latitude>20.19944000</latitude>
+        <longitude>-104.02250000</longitude>
+      </cities>
+      <cities>
+        <id>142740</id>
+        <name>Las Cañadas</name>
+        <latitude>21.14000000</latitude>
+        <longitude>-102.46167000</longitude>
+      </cities>
+      <cities>
+        <id>142738</id>
+        <name>Las Canoas</name>
+        <latitude>19.61028000</latitude>
+        <longitude>-103.47389000</longitude>
+      </cities>
+      <cities>
+        <id>142739</id>
+        <name>Las Carretas</name>
+        <latitude>20.44861000</latitude>
+        <longitude>-103.24639000</longitude>
+      </cities>
+      <cities>
+        <id>142741</id>
+        <name>Las Golondrinas [Fraccionamiento]</name>
+        <latitude>22.10528000</latitude>
+        <longitude>-103.25417000</longitude>
+      </cities>
+      <cities>
+        <id>142742</id>
+        <name>Las Juntas</name>
+        <latitude>19.43061000</latitude>
+        <longitude>-104.70646000</longitude>
+      </cities>
+      <cities>
+        <id>142743</id>
+        <name>Las Pintas de Arriba</name>
+        <latitude>20.57376000</latitude>
+        <longitude>-103.32345000</longitude>
+      </cities>
+      <cities>
+        <id>142744</id>
+        <name>Las Pintitas</name>
+        <latitude>20.56444000</latitude>
+        <longitude>-103.30222000</longitude>
+      </cities>
+      <cities>
+        <id>142745</id>
+        <name>Las Primaveras [Invernadero]</name>
+        <latitude>19.69472000</latitude>
+        <longitude>-103.83333000</longitude>
+      </cities>
+      <cities>
+        <id>142760</id>
+        <name>Lázaro Cárdenas, Jalisco</name>
+        <latitude>20.44166667</latitude>
+        <longitude>-103.96888889</longitude>
+      </cities>
+      <cities>
+        <id>142746</id>
+        <name>Lo Arado</name>
+        <latitude>19.62139000</latitude>
+        <longitude>-104.53444000</longitude>
+      </cities>
+      <cities>
+        <id>142747</id>
+        <name>Lomas de San Agustín</name>
+        <latitude>20.52750000</latitude>
+        <longitude>-103.46778000</longitude>
+      </cities>
+      <cities>
+        <id>142748</id>
+        <name>Lomas de Tejeda</name>
+        <latitude>20.46658000</latitude>
+        <longitude>-103.40202000</longitude>
+      </cities>
+      <cities>
+        <id>142749</id>
+        <name>Lomas del Sur</name>
+        <latitude>20.49250000</latitude>
+        <longitude>-103.41750000</longitude>
+      </cities>
+      <cities>
+        <id>142750</id>
+        <name>Los Azulitos</name>
+        <latitude>21.84610000</latitude>
+        <longitude>-101.96527000</longitude>
+      </cities>
+      <cities>
+        <id>142751</id>
+        <name>Los Cedros</name>
+        <latitude>20.38980000</latitude>
+        <longitude>-103.23250000</longitude>
+      </cities>
+      <cities>
+        <id>142752</id>
+        <name>Los Gavilanes</name>
+        <latitude>20.57456000</latitude>
+        <longitude>-103.44881000</longitude>
+      </cities>
+      <cities>
+        <id>142753</id>
+        <name>Los Guerrero</name>
+        <latitude>20.43333333</latitude>
+        <longitude>-103.88333333</longitude>
+      </cities>
+      <cities>
+        <id>142754</id>
+        <name>Los Mazos</name>
+        <latitude>19.57000000</latitude>
+        <longitude>-103.50000000</longitude>
+      </cities>
+      <cities>
+        <id>142755</id>
+        <name>Los Olivos</name>
+        <latitude>20.43917000</latitude>
+        <longitude>-103.23778000</longitude>
+      </cities>
+      <cities>
+        <id>142756</id>
+        <name>Los Pocitos</name>
+        <latitude>20.53724000</latitude>
+        <longitude>-103.93721000</longitude>
+      </cities>
+      <cities>
+        <id>142757</id>
+        <name>Los Ruiseñores</name>
+        <latitude>20.71083000</latitude>
+        <longitude>-103.69139000</longitude>
+      </cities>
+      <cities>
+        <id>142758</id>
+        <name>Los Sauces</name>
+        <latitude>21.57425000</latitude>
+        <longitude>-102.13827000</longitude>
+      </cities>
+      <cities>
+        <id>142759</id>
+        <name>Los Vergara</name>
+        <latitude>20.45000000</latitude>
+        <longitude>-103.91666667</longitude>
+      </cities>
+      <cities>
+        <id>142761</id>
+        <name>Magdalena</name>
+        <latitude>20.90916667</latitude>
+        <longitude>-103.98027778</longitude>
+      </cities>
+      <cities>
+        <id>142762</id>
+        <name>Manalisco</name>
+        <latitude>21.05928000</latitude>
+        <longitude>-102.92203000</longitude>
+      </cities>
+      <cities>
+        <id>142763</id>
+        <name>Margaritas</name>
+        <latitude>20.45306000</latitude>
+        <longitude>-102.47417000</longitude>
+      </cities>
+      <cities>
+        <id>142764</id>
+        <name>Mascota Municipality</name>
+        <latitude>20.52611111</latitude>
+        <longitude>-104.78777778</longitude>
+      </cities>
+      <cities>
+        <id>142765</id>
+        <name>Matancillas (San Isidro Matancillas)</name>
+        <latitude>21.89036000</latitude>
+        <longitude>-101.65059000</longitude>
+      </cities>
+      <cities>
+        <id>142766</id>
+        <name>Matanzas</name>
+        <latitude>21.63333000</latitude>
+        <longitude>-101.65528000</longitude>
+      </cities>
+      <cities>
+        <id>142767</id>
+        <name>Matatlán</name>
+        <latitude>20.70978000</latitude>
+        <longitude>-103.15009000</longitude>
+      </cities>
+      <cities>
+        <id>142768</id>
+        <name>Mazamitlongo</name>
+        <latitude>19.91555556</latitude>
+        <longitude>-103.01944444</longitude>
+      </cities>
+      <cities>
+        <id>142769</id>
+        <name>Mechoacanejo</name>
+        <latitude>21.54038000</latitude>
+        <longitude>-102.59587000</longitude>
+      </cities>
+      <cities>
+        <id>142770</id>
+        <name>Mexticacán</name>
+        <latitude>21.21666667</latitude>
+        <longitude>-102.71666667</longitude>
+      </cities>
+      <cities>
+        <id>142771</id>
+        <name>Mezcala</name>
+        <latitude>20.95278000</latitude>
+        <longitude>-102.84611000</longitude>
+      </cities>
+      <cities>
+        <id>142773</id>
+        <name>Mezquitic de la Magdalena</name>
+        <latitude>21.22111000</latitude>
+        <longitude>-102.30444000</longitude>
+      </cities>
+      <cities>
+        <id>142772</id>
+        <name>Mezquitic Municipality</name>
+        <latitude>22.20609000</latitude>
+        <longitude>-104.04531000</longitude>
+      </cities>
+      <cities>
+        <id>142774</id>
+        <name>Milpillas</name>
+        <latitude>20.50111000</latitude>
+        <longitude>-102.53418000</longitude>
+      </cities>
+      <cities>
+        <id>142775</id>
+        <name>Misión San Luis Gonzaga Chiriyaqui</name>
+        <latitude>21.78333000</latitude>
+        <longitude>-101.97278000</longitude>
+      </cities>
+      <cities>
+        <id>142776</id>
+        <name>Mismaloya</name>
+        <latitude>20.53101800</latitude>
+        <longitude>-105.29262500</longitude>
+      </cities>
+      <cities>
+        <id>142777</id>
+        <name>Mismaloya (Fraccionamiento Pedregal de Santa Martha)</name>
+        <latitude>20.60694000</latitude>
+        <longitude>-103.17139000</longitude>
+      </cities>
+      <cities>
+        <id>142778</id>
+        <name>Mixtlán</name>
+        <latitude>20.36666667</latitude>
+        <longitude>-104.25000000</longitude>
+      </cities>
+      <cities>
+        <id>142779</id>
+        <name>Moras</name>
+        <latitude>20.32622000</latitude>
+        <longitude>-102.59254000</longitude>
+      </cities>
+      <cities>
+        <id>142780</id>
+        <name>Navajas</name>
+        <latitude>20.53318000</latitude>
+        <longitude>-103.67972000</longitude>
+      </cities>
+      <cities>
+        <id>142781</id>
+        <name>Nextipac</name>
+        <latitude>20.76725000</latitude>
+        <longitude>-103.52405000</longitude>
+      </cities>
+      <cities>
+        <id>142782</id>
+        <name>Nicolás R Casillas</name>
+        <latitude>20.54638000</latitude>
+        <longitude>-103.46622000</longitude>
+      </cities>
+      <cities>
+        <id>142783</id>
+        <name>Nuevo México, Jalisco</name>
+        <latitude>20.75777778</latitude>
+        <longitude>-103.43416667</longitude>
+      </cities>
+      <cities>
+        <id>142784</id>
+        <name>Nuevo Refugio de Afuera (Nuevo Refugio)</name>
+        <latitude>20.54889000</latitude>
+        <longitude>-102.70722000</longitude>
+      </cities>
+      <cities>
+        <id>142785</id>
+        <name>Oconahua, Jalisco</name>
+        <latitude>20.74373667</latitude>
+        <longitude>-104.16384278</longitude>
+      </cities>
+      <cities>
+        <id>142786</id>
+        <name>Ocotlán, Jalisco</name>
+        <latitude>20.35138889</latitude>
+        <longitude>-102.76805556</longitude>
+      </cities>
+      <cities>
+        <id>142787</id>
+        <name>Ojo de Agua de Morán, Jalisco</name>
+        <latitude>20.53333333</latitude>
+        <longitude>-102.50000000</longitude>
+      </cities>
+      <cities>
+        <id>142788</id>
+        <name>Ojuelos de Jalisco</name>
+        <latitude>21.86416667</latitude>
+        <longitude>-101.59333333</longitude>
+      </cities>
+      <cities>
+        <id>142789</id>
+        <name>Otatlán</name>
+        <latitude>20.44084000</latitude>
+        <longitude>-102.80389000</longitude>
+      </cities>
+      <cities>
+        <id>142790</id>
+        <name>Palomar</name>
+        <latitude>20.59250000</latitude>
+        <longitude>-103.46056000</longitude>
+      </cities>
+      <cities>
+        <id>142791</id>
+        <name>Palos Altos</name>
+        <latitude>20.87143000</latitude>
+        <longitude>-103.15296000</longitude>
+      </cities>
+      <cities>
+        <id>142793</id>
+        <name>Paseo de las Cañadas</name>
+        <latitude>20.62139000</latitude>
+        <longitude>-103.19778000</longitude>
+      </cities>
+      <cities>
+        <id>142794</id>
+        <name>Paseo del Prado</name>
+        <latitude>20.56444000</latitude>
+        <longitude>-103.38917000</longitude>
+      </cities>
+      <cities>
+        <id>142792</id>
+        <name>Paseo Puente Viejo</name>
+        <latitude>20.56917000</latitude>
+        <longitude>-103.19056000</longitude>
+      </cities>
+      <cities>
+        <id>142795</id>
+        <name>Paseos del Valle [Fraccionamiento]</name>
+        <latitude>20.52222000</latitude>
+        <longitude>-103.33333000</longitude>
+      </cities>
+      <cities>
+        <id>142796</id>
+        <name>Paso de Cuarenta</name>
+        <latitude>21.50344000</latitude>
+        <longitude>-101.75236000</longitude>
+      </cities>
+      <cities>
+        <id>142797</id>
+        <name>Pegueros</name>
+        <latitude>20.95353000</latitude>
+        <longitude>-102.66762000</longitude>
+      </cities>
+      <cities>
+        <id>142798</id>
+        <name>Piedra Pesada</name>
+        <latitude>19.55056000</latitude>
+        <longitude>-104.47683000</longitude>
+      </cities>
+      <cities>
+        <id>142799</id>
+        <name>Pihuamo</name>
+        <latitude>18.95000000</latitude>
+        <longitude>-103.16700000</longitude>
+      </cities>
+      <cities>
+        <id>142800</id>
+        <name>Pochotita</name>
+        <latitude>22.27306000</latitude>
+        <longitude>-104.11611000</longitude>
+      </cities>
+      <cities>
+        <id>142801</id>
+        <name>Poncitlán Municipality</name>
+        <latitude>20.30000000</latitude>
+        <longitude>-102.26666667</longitude>
+      </cities>
+      <cities>
+        <id>142802</id>
+        <name>Portes Gil</name>
+        <latitude>20.65812000</latitude>
+        <longitude>-103.93838000</longitude>
+      </cities>
+      <cities>
+        <id>142803</id>
+        <name>Potrerillos</name>
+        <latitude>20.33837000</latitude>
+        <longitude>-103.37762000</longitude>
+      </cities>
+      <cities>
+        <id>142804</id>
+        <name>Primero de Mayo (Chupaderos)</name>
+        <latitude>21.46611000</latitude>
+        <longitude>-101.82722000</longitude>
+      </cities>
+      <cities>
+        <id>142806</id>
+        <name>Puente de Camotlán</name>
+        <latitude>21.69870000</latitude>
+        <longitude>-104.07996000</longitude>
+      </cities>
+      <cities>
+        <id>142805</id>
+        <name>Puente Grande</name>
+        <latitude>20.56977000</latitude>
+        <longitude>-103.15377000</longitude>
+      </cities>
+      <cities>
+        <id>142807</id>
+        <name>Puerta del Llano</name>
+        <latitude>20.78528000</latitude>
+        <longitude>-103.46139000</longitude>
+      </cities>
+      <cities>
+        <id>142808</id>
+        <name>Puerto Vallarta</name>
+        <latitude>20.61666667</latitude>
+        <longitude>-105.23333333</longitude>
+      </cities>
+      <cities>
+        <id>142809</id>
+        <name>Punta de la Vega</name>
+        <latitude>20.59070000</latitude>
+        <longitude>-103.89831000</longitude>
+      </cities>
+      <cities>
+        <id>142810</id>
+        <name>Purificación</name>
+        <latitude>19.71738000</latitude>
+        <longitude>-104.60534000</longitude>
+      </cities>
+      <cities>
+        <id>142811</id>
+        <name>Quitupan</name>
+        <latitude>19.65000000</latitude>
+        <longitude>-102.75000000</longitude>
+      </cities>
+      <cities>
+        <id>142812</id>
+        <name>Rancho Alegre [Fraccionamiento]</name>
+        <latitude>20.47361000</latitude>
+        <longitude>-103.25778000</longitude>
+      </cities>
+      <cities>
+        <id>142813</id>
+        <name>Real del Valle (El Paraíso) [Fraccionamiento]</name>
+        <latitude>20.54556000</latitude>
+        <longitude>-103.36972000</longitude>
+      </cities>
+      <cities>
+        <id>142814</id>
+        <name>Rinconada la Loma [Fraccionamiento]</name>
+        <latitude>20.45417000</latitude>
+        <longitude>-103.21917000</longitude>
+      </cities>
+      <cities>
+        <id>142815</id>
+        <name>San Agustín</name>
+        <latitude>20.28557000</latitude>
+        <longitude>-102.63293000</longitude>
+      </cities>
+      <cities>
+        <id>142816</id>
+        <name>San Andrés Cohamiata</name>
+        <latitude>22.18944000</latitude>
+        <longitude>-104.24083000</longitude>
+      </cities>
+      <cities>
+        <id>142817</id>
+        <name>San Andrés Ixtlán</name>
+        <latitude>19.82059000</latitude>
+        <longitude>-103.47144000</longitude>
+      </cities>
+      <cities>
+        <id>142818</id>
+        <name>San Antonio</name>
+        <latitude>20.55186000</latitude>
+        <longitude>-102.61761000</longitude>
+      </cities>
+      <cities>
+        <id>142820</id>
+        <name>San Antonio de los Barrera</name>
+        <latitude>21.38944000</latitude>
+        <longitude>-102.25528000</longitude>
+      </cities>
+      <cities>
+        <id>142821</id>
+        <name>San Antonio de los Vázquez</name>
+        <latitude>20.81767000</latitude>
+        <longitude>-103.14623000</longitude>
+      </cities>
+      <cities>
+        <id>142819</id>
+        <name>San Antonio de Rivas</name>
+        <latitude>20.35015000</latitude>
+        <longitude>-102.42786000</longitude>
+      </cities>
+      <cities>
+        <id>142822</id>
+        <name>San Clemente</name>
+        <latitude>20.08433000</latitude>
+        <longitude>-104.25161000</longitude>
+      </cities>
+      <cities>
+        <id>142823</id>
+        <name>San Cristóbal</name>
+        <latitude>21.68159000</latitude>
+        <longitude>-101.94093000</longitude>
+      </cities>
+      <cities>
+        <id>142825</id>
+        <name>San Cristóbal de la Barranca Municipality</name>
+        <latitude>21.04472222</latitude>
+        <longitude>-103.42805556</longitude>
+      </cities>
+      <cities>
+        <id>142824</id>
+        <name>San Cristóbal Zapotitlán</name>
+        <latitude>20.22453000</latitude>
+        <longitude>-103.36969000</longitude>
+      </cities>
+      <cities>
+        <id>142826</id>
+        <name>San Diego de Alejandría</name>
+        <latitude>20.86666667</latitude>
+        <longitude>-101.90000000</longitude>
+      </cities>
+      <cities>
+        <id>142827</id>
+        <name>San Esteban (San Miguel Tateposco)</name>
+        <latitude>20.79889000</latitude>
+        <longitude>-103.37444000</longitude>
+      </cities>
+      <cities>
+        <id>142828</id>
+        <name>San Felipe de Híjar</name>
+        <latitude>20.90171000</latitude>
+        <longitude>-104.72172000</longitude>
+      </cities>
+      <cities>
+        <id>142829</id>
+        <name>San Francisco de Asís</name>
+        <latitude>20.53333333</latitude>
+        <longitude>-102.50000000</longitude>
+      </cities>
+      <cities>
+        <id>142830</id>
+        <name>San Francisco de Rivas</name>
+        <latitude>20.34053000</latitude>
+        <longitude>-102.57208000</longitude>
+      </cities>
+      <cities>
+        <id>142831</id>
+        <name>San Gabriel,  Jalisco</name>
+        <latitude>19.74750000</latitude>
+        <longitude>-103.76527778</longitude>
+      </cities>
+      <cities>
+        <id>142832</id>
+        <name>San Gaspar</name>
+        <latitude>20.51056000</latitude>
+        <longitude>-102.62361000</longitude>
+      </cities>
+      <cities>
+        <id>142833</id>
+        <name>San Gaspar de los Reyes</name>
+        <latitude>21.28333333</latitude>
+        <longitude>-102.50000000</longitude>
+      </cities>
+      <cities>
+        <id>142834</id>
+        <name>San Ignacio Municipality, Jalisco</name>
+        <latitude>20.73330000</latitude>
+        <longitude>-102.51700000</longitude>
+      </cities>
+      <cities>
+        <id>142835</id>
+        <name>San Isidro</name>
+        <latitude>20.79111000</latitude>
+        <longitude>-103.35111000</longitude>
+      </cities>
+      <cities>
+        <id>142836</id>
+        <name>San Isidro Mazatepec</name>
+        <latitude>20.52284000</latitude>
+        <longitude>-103.61294000</longitude>
+      </cities>
+      <cities>
+        <id>142837</id>
+        <name>San Jacintito</name>
+        <latitude>20.35400000</latitude>
+        <longitude>-103.92400000</longitude>
+      </cities>
+      <cities>
+        <id>142838</id>
+        <name>San Jacinto, Jalisco</name>
+        <latitude>20.35900000</latitude>
+        <longitude>-103.93300000</longitude>
+      </cities>
+      <cities>
+        <id>142839</id>
+        <name>San Joaquín Zorrillos</name>
+        <latitude>20.62070000</latitude>
+        <longitude>-103.01546000</longitude>
+      </cities>
+      <cities>
+        <id>142840</id>
+        <name>San Jorge</name>
+        <latitude>21.37167000</latitude>
+        <longitude>-101.86556000</longitude>
+      </cities>
+      <cities>
+        <id>142842</id>
+        <name>San José Casas Caídas</name>
+        <latitude>20.42108000</latitude>
+        <longitude>-102.44066000</longitude>
+      </cities>
+      <cities>
+        <id>142841</id>
+        <name>San Jose de Gracia, Jalisco</name>
+        <latitude>20.67444444</latitude>
+        <longitude>-102.56694444</longitude>
+      </cities>
+      <cities>
+        <id>142843</id>
+        <name>San José de la Paz</name>
+        <latitude>20.55094000</latitude>
+        <longitude>-102.05858000</longitude>
+      </cities>
+      <cities>
+        <id>142844</id>
+        <name>San José de las Flores</name>
+        <latitude>20.64851000</latitude>
+        <longitude>-102.96616000</longitude>
+      </cities>
+      <cities>
+        <id>142845</id>
+        <name>San José de los Reynoso</name>
+        <latitude>21.02361111</latitude>
+        <longitude>-102.40583333</longitude>
+      </cities>
+      <cities>
+        <id>142846</id>
+        <name>San José del Caliche (El Caliche)</name>
+        <latitude>21.12528000</latitude>
+        <longitude>-101.93000000</longitude>
+      </cities>
+      <cities>
+        <id>142847</id>
+        <name>San José del Castillo</name>
+        <latitude>20.53333333</latitude>
+        <longitude>-103.23333333</longitude>
+      </cities>
+      <cities>
+        <id>142848</id>
+        <name>San José del Valle</name>
+        <latitude>20.76376000</latitude>
+        <longitude>-105.22813000</longitude>
+      </cities>
+      <cities>
+        <id>142849</id>
+        <name>San Juan Cosalá</name>
+        <latitude>20.28756000</latitude>
+        <longitude>-103.34109000</longitude>
+      </cities>
+      <cities>
+        <id>142851</id>
+        <name>San Juan de los Arcos</name>
+        <latitude>20.60508000</latitude>
+        <longitude>-103.71947000</longitude>
+      </cities>
+      <cities>
+        <id>142852</id>
+        <name>San Juan de los Lagos</name>
+        <latitude>21.24583333</latitude>
+        <longitude>-102.33083333</longitude>
+      </cities>
+      <cities>
+        <id>142850</id>
+        <name>San Juan Tecomatlán</name>
+        <latitude>20.32838000</latitude>
+        <longitude>-103.10035000</longitude>
+      </cities>
+      <cities>
+        <id>142853</id>
+        <name>San Juanito de Escobedo</name>
+        <latitude>20.80000000</latitude>
+        <longitude>-104.00000000</longitude>
+      </cities>
+      <cities>
+        <id>142854</id>
+        <name>San Julián</name>
+        <latitude>21.01666667</latitude>
+        <longitude>-102.16666667</longitude>
+      </cities>
+      <cities>
+        <id>142855</id>
+        <name>San Lucas Evangelista</name>
+        <latitude>20.40815000</latitude>
+        <longitude>-103.36080000</longitude>
+      </cities>
+      <cities>
+        <id>142856</id>
+        <name>San Luciano</name>
+        <latitude>20.31426000</latitude>
+        <longitude>-103.41693000</longitude>
+      </cities>
+      <cities>
+        <id>142858</id>
+        <name>San Luis de Agua Caliente</name>
+        <latitude>20.38317000</latitude>
+        <longitude>-102.82447000</longitude>
+      </cities>
+      <cities>
+        <id>142857</id>
+        <name>San Luis Soyatlán</name>
+        <latitude>20.19834000</latitude>
+        <longitude>-103.30720000</longitude>
+      </cities>
+      <cities>
+        <id>142859</id>
+        <name>San Marcos</name>
+        <latitude>20.78333333</latitude>
+        <longitude>-104.18333333</longitude>
+      </cities>
+      <cities>
+        <id>142860</id>
+        <name>San Martín de Bolaños</name>
+        <latitude>21.50000000</latitude>
+        <longitude>-103.80000000</longitude>
+      </cities>
+      <cities>
+        <id>142861</id>
+        <name>San Martín de Hidalgo</name>
+        <latitude>20.43538000</latitude>
+        <longitude>-103.92878000</longitude>
+      </cities>
+      <cities>
+        <id>142862</id>
+        <name>San Miguel Cuyutlán</name>
+        <latitude>20.41633000</latitude>
+        <longitude>-103.38987000</longitude>
+      </cities>
+      <cities>
+        <id>142864</id>
+        <name>San Miguel de la Paz</name>
+        <latitude>20.37051000</latitude>
+        <longitude>-102.66267000</longitude>
+      </cities>
+      <cities>
+        <id>142865</id>
+        <name>San Miguel de la Sierra, Ayutla</name>
+        <latitude>20.09934000</latitude>
+        <longitude>-104.60035000</longitude>
+      </cities>
+      <cities>
+        <id>142866</id>
+        <name>San Miguel el Alto</name>
+        <latitude>21.02361111</latitude>
+        <longitude>-102.40583333</longitude>
+      </cities>
+      <cities>
+        <id>142863</id>
+        <name>San Miguel Zapotitlán</name>
+        <latitude>20.39085000</latitude>
+        <longitude>-102.99428000</longitude>
+      </cities>
+      <cities>
+        <id>142867</id>
+        <name>San Nicolas</name>
+        <latitude>20.32982000</latitude>
+        <longitude>-103.12881000</longitude>
+      </cities>
+      <cities>
+        <id>142868</id>
+        <name>San Nicolás de las Flores</name>
+        <latitude>21.29055556</latitude>
+        <longitude>-102.55138889</longitude>
+      </cities>
+      <cities>
+        <id>142869</id>
+        <name>San Patricio, Jalisco</name>
+        <latitude>19.22527778</latitude>
+        <longitude>-104.70111111</longitude>
+      </cities>
+      <cities>
+        <id>142870</id>
+        <name>San Pedro</name>
+        <latitude>20.22687000</latitude>
+        <longitude>-103.41488000</longitude>
+      </cities>
+      <cities>
+        <id>142871</id>
+        <name>San Pedro Itzicán</name>
+        <latitude>20.31724000</latitude>
+        <longitude>-102.95406000</longitude>
+      </cities>
+      <cities>
+        <id>142872</id>
+        <name>San Sebastian</name>
+        <latitude>20.53274000</latitude>
+        <longitude>-103.42804000</longitude>
+      </cities>
+      <cities>
+        <id>142873</id>
+        <name>San Sebastián del Oeste</name>
+        <latitude>20.85110000</latitude>
+        <longitude>-104.81903000</longitude>
+      </cities>
+      <cities>
+        <id>142874</id>
+        <name>San Vicente</name>
+        <latitude>20.42833000</latitude>
+        <longitude>-102.65443000</longitude>
+      </cities>
+      <cities>
+        <id>142875</id>
+        <name>Santa Anita</name>
+        <latitude>20.55090000</latitude>
+        <longitude>-103.44396000</longitude>
+      </cities>
+      <cities>
+        <id>142876</id>
+        <name>Santa Cruz de Barcenas</name>
+        <latitude>20.66868000</latitude>
+        <longitude>-104.00161000</longitude>
+      </cities>
+      <cities>
+        <id>142877</id>
+        <name>Santa Cruz de la Loma (Tepetates)</name>
+        <latitude>20.48806000</latitude>
+        <longitude>-103.54972000</longitude>
+      </cities>
+      <cities>
+        <id>142878</id>
+        <name>Santa Cruz de la Soledad</name>
+        <latitude>20.31746000</latitude>
+        <longitude>-103.15860000</longitude>
+      </cities>
+      <cities>
+        <id>142879</id>
+        <name>Santa Cruz de las Flores, Tlajomulco de Zúñiga, Jalisco</name>
+        <latitude>20.48056000</latitude>
+        <longitude>-103.50278000</longitude>
+      </cities>
+      <cities>
+        <id>142880</id>
+        <name>Santa Cruz del Astillero</name>
+        <latitude>20.74661000</latitude>
+        <longitude>-103.64281000</longitude>
+      </cities>
+      <cities>
+        <id>142881</id>
+        <name>Santa Cruz del Valle</name>
+        <latitude>20.53333000</latitude>
+        <longitude>-103.43333000</longitude>
+      </cities>
+      <cities>
+        <id>142882</id>
+        <name>Santa Cruz el Grande</name>
+        <latitude>20.37514000</latitude>
+        <longitude>-102.86382000</longitude>
+      </cities>
+      <cities>
+        <id>142884</id>
+        <name>Santa María de Enmedio</name>
+        <latitude>21.41938000</latitude>
+        <longitude>-102.22231000</longitude>
+      </cities>
+      <cities>
+        <id>142885</id>
+        <name>Santa María de los Ángeles</name>
+        <latitude>22.30000000</latitude>
+        <longitude>-103.03333333</longitude>
+      </cities>
+      <cities>
+        <id>142886</id>
+        <name>Santa María del Valle</name>
+        <latitude>20.87837000</latitude>
+        <longitude>-102.37983000</longitude>
+      </cities>
+      <cities>
+        <id>142883</id>
+        <name>Santa María Transpontina</name>
+        <latitude>21.41490000</latitude>
+        <longitude>-102.25720000</longitude>
+      </cities>
+      <cities>
+        <id>142887</id>
+        <name>Santa Rita</name>
+        <latitude>20.44150000</latitude>
+        <longitude>-102.39016000</longitude>
+      </cities>
+      <cities>
+        <id>142888</id>
+        <name>Santa Rosa</name>
+        <latitude>20.41440000</latitude>
+        <longitude>-103.23534000</longitude>
+      </cities>
+      <cities>
+        <id>142889</id>
+        <name>Santa Rosalía, Jalisco</name>
+        <latitude>20.81805556</latitude>
+        <longitude>-104.08472222</longitude>
+      </cities>
+      <cities>
+        <id>142890</id>
+        <name>Santa Teresa</name>
+        <latitude>20.91587000</latitude>
+        <longitude>-103.89208000</longitude>
+      </cities>
+      <cities>
+        <id>142891</id>
+        <name>Santiaguito</name>
+        <latitude>20.77992000</latitude>
+        <longitude>-103.72394000</longitude>
+      </cities>
+      <cities>
+        <id>142892</id>
+        <name>Santiaguito (Santiaguito de Velázquez)</name>
+        <latitude>20.72533000</latitude>
+        <longitude>-102.23716000</longitude>
+      </cities>
+      <cities>
+        <id>142893</id>
+        <name>Sayula</name>
+        <latitude>19.88361111</latitude>
+        <longitude>-103.59722222</longitude>
+      </cities>
+      <cities>
+        <id>142894</id>
+        <name>Soyatlán de Afuera</name>
+        <latitude>19.69083000</latitude>
+        <longitude>-103.28278000</longitude>
+      </cities>
+      <cities>
+        <id>142895</id>
+        <name>Soyatlán del Oro</name>
+        <latitude>20.30194000</latitude>
+        <longitude>-104.28056000</longitude>
+      </cities>
+      <cities>
+        <id>142896</id>
+        <name>Talpa de Allende</name>
+        <latitude>20.38084000</latitude>
+        <longitude>-104.82213000</longitude>
+      </cities>
+      <cities>
+        <id>142897</id>
+        <name>Tamazula de Gordiano</name>
+        <latitude>19.67638889</latitude>
+        <longitude>-103.25000000</longitude>
+      </cities>
+      <cities>
+        <id>142898</id>
+        <name>Tamazulita, Jalisco</name>
+        <latitude>20.20000000</latitude>
+        <longitude>-103.96700000</longitude>
+      </cities>
+      <cities>
+        <id>142899</id>
+        <name>Tapalpa</name>
+        <latitude>19.94452080</latitude>
+        <longitude>-103.75854800</longitude>
+      </cities>
+      <cities>
+        <id>142900</id>
+        <name>Tazumbo</name>
+        <latitude>19.29401000</latitude>
+        <longitude>-102.64513000</longitude>
+      </cities>
+      <cities>
+        <id>142901</id>
+        <name>Tecalitlán Municipality</name>
+        <latitude>19.46666667</latitude>
+        <longitude>-103.30000000</longitude>
+      </cities>
+      <cities>
+        <id>142902</id>
+        <name>Techaluta de Montenegro</name>
+        <latitude>20.07416667</latitude>
+        <longitude>-103.55277778</longitude>
+      </cities>
+      <cities>
+        <id>142903</id>
+        <name>Tecolotlán</name>
+        <latitude>20.10000000</latitude>
+        <longitude>-103.83333333</longitude>
+      </cities>
+      <cities>
+        <id>142904</id>
+        <name>Tecomates</name>
+        <latitude>19.54998000</latitude>
+        <longitude>-104.48528000</longitude>
+      </cities>
+      <cities>
+        <id>142905</id>
+        <name>Tecuattitan</name>
+        <latitude>20.42545000</latitude>
+        <longitude>-103.02801000</longitude>
+      </cities>
+      <cities>
+        <id>142906</id>
+        <name>Telcruz</name>
+        <latitude>19.47665000</latitude>
+        <longitude>-104.12581000</longitude>
+      </cities>
+      <cities>
+        <id>142907</id>
+        <name>Temastián (La Cantera)</name>
+        <latitude>21.97722000</latitude>
+        <longitude>-103.52500000</longitude>
+      </cities>
+      <cities>
+        <id>142908</id>
+        <name>Tenamaxtlán</name>
+        <latitude>20.21670000</latitude>
+        <longitude>-104.16700000</longitude>
+      </cities>
+      <cities>
+        <id>142909</id>
+        <name>Tenayuca</name>
+        <latitude>21.50318000</latitude>
+        <longitude>-102.65799000</longitude>
+      </cities>
+      <cities>
+        <id>142910</id>
+        <name>Teocaltiche</name>
+        <latitude>21.13330000</latitude>
+        <longitude>-102.85000000</longitude>
+      </cities>
+      <cities>
+        <id>142911</id>
+        <name>Teocuitatlán de Corona</name>
+        <latitude>20.09183333</latitude>
+        <longitude>-103.37847222</longitude>
+      </cities>
+      <cities>
+        <id>142912</id>
+        <name>Tepatitlán de Morelos</name>
+        <latitude>20.81700000</latitude>
+        <longitude>-102.73300000</longitude>
+      </cities>
+      <cities>
+        <id>142913</id>
+        <name>Tepec</name>
+        <latitude>19.98964000</latitude>
+        <longitude>-103.64116000</longitude>
+      </cities>
+      <cities>
+        <id>142914</id>
+        <name>Tepusco</name>
+        <latitude>21.61291000</latitude>
+        <longitude>-102.60211000</longitude>
+      </cities>
+      <cities>
+        <id>142915</id>
+        <name>Tequesquitlán</name>
+        <latitude>19.38755000</latitude>
+        <longitude>-104.52037000</longitude>
+      </cities>
+      <cities>
+        <id>142916</id>
+        <name>Tequila</name>
+        <latitude>20.88205000</latitude>
+        <longitude>-103.83599000</longitude>
+      </cities>
+      <cities>
+        <id>142917</id>
+        <name>Tesistán</name>
+        <latitude>20.80051000</latitude>
+        <longitude>-103.46993000</longitude>
+      </cities>
+      <cities>
+        <id>142918</id>
+        <name>Teuchitlán, Jalisco</name>
+        <latitude>20.68527778</latitude>
+        <longitude>-103.84916667</longitude>
+      </cities>
+      <cities>
+        <id>142919</id>
+        <name>Tierras Coloradas</name>
+        <latitude>20.72889000</latitude>
+        <longitude>-102.86083000</longitude>
+      </cities>
+      <cities>
+        <id>142920</id>
+        <name>Tizapán el Alto</name>
+        <latitude>20.03333333</latitude>
+        <longitude>-102.60000000</longitude>
+      </cities>
+      <cities>
+        <id>142921</id>
+        <name>Tlacuitapan</name>
+        <latitude>21.19829000</latitude>
+        <longitude>-102.12416000</longitude>
+      </cities>
+      <cities>
+        <id>142922</id>
+        <name>Tlajomulco de Zuñiga</name>
+        <latitude>20.47361111</latitude>
+        <longitude>-103.44305556</longitude>
+      </cities>
+      <cities>
+        <id>142923</id>
+        <name>Tlaquepaque</name>
+        <latitude>20.65000000</latitude>
+        <longitude>-103.31666667</longitude>
+      </cities>
+      <cities>
+        <id>142924</id>
+        <name>Tolimán Municipality</name>
+        <latitude>19.40000000</latitude>
+        <longitude>-103.73333333</longitude>
+      </cities>
+      <cities>
+        <id>142925</id>
+        <name>Tomatlán</name>
+        <latitude>19.93333333</latitude>
+        <longitude>-105.23333333</longitude>
+      </cities>
+      <cities>
+        <id>142926</id>
+        <name>Tonalá</name>
+        <latitude>20.60990000</latitude>
+        <longitude>-103.20230000</longitude>
+      </cities>
+      <cities>
+        <id>142927</id>
+        <name>Tonaya</name>
+        <latitude>19.78333333</latitude>
+        <longitude>-103.96666667</longitude>
+      </cities>
+      <cities>
+        <id>142928</id>
+        <name>Tonila</name>
+        <latitude>19.42611111</latitude>
+        <longitude>-103.53194444</longitude>
+      </cities>
+      <cities>
+        <id>142929</id>
+        <name>Totatiche Municipality</name>
+        <latitude>21.80000000</latitude>
+        <longitude>-103.33333333</longitude>
+      </cities>
+      <cities>
+        <id>142930</id>
+        <name>Tototlán</name>
+        <latitude>20.53333333</latitude>
+        <longitude>-102.78333333</longitude>
+      </cities>
+      <cities>
+        <id>142931</id>
+        <name>Trapiche de Abra</name>
+        <latitude>20.53900000</latitude>
+        <longitude>-103.82000000</longitude>
+      </cities>
+      <cities>
+        <id>142932</id>
+        <name>Trejos</name>
+        <latitude>20.79439000</latitude>
+        <longitude>-103.19711000</longitude>
+      </cities>
+      <cities>
+        <id>142933</id>
+        <name>Tultitlán</name>
+        <latitude>19.98378000</latitude>
+        <longitude>-103.52237000</longitude>
+      </cities>
+      <cities>
+        <id>142934</id>
+        <name>Tuxcacuesco</name>
+        <latitude>19.55000000</latitude>
+        <longitude>-103.86666667</longitude>
+      </cities>
+      <cities>
+        <id>142935</id>
+        <name>Tuxcueca</name>
+        <latitude>20.06666667</latitude>
+        <longitude>-103.36666667</longitude>
+      </cities>
+      <cities>
+        <id>142936</id>
+        <name>Tuxpan</name>
+        <latitude>19.55388889</latitude>
+        <longitude>-103.37555556</longitude>
+      </cities>
+      <cities>
+        <id>142937</id>
+        <name>Tuxpan de Bolaños</name>
+        <latitude>21.87500000</latitude>
+        <longitude>-104.01300000</longitude>
+      </cities>
+      <cities>
+        <id>142938</id>
+        <name>Unión de San Antonio</name>
+        <latitude>21.12800000</latitude>
+        <longitude>-102.00600000</longitude>
+      </cities>
+      <cities>
+        <id>142939</id>
+        <name>Unión de Tula</name>
+        <latitude>19.68333333</latitude>
+        <longitude>-104.11666667</longitude>
+      </cities>
+      <cities>
+        <id>142940</id>
+        <name>Usmajac</name>
+        <latitude>19.87458000</latitude>
+        <longitude>-103.54085000</longitude>
+      </cities>
+      <cities>
+        <id>142942</id>
+        <name>Valle de Guadalupe Municipality</name>
+        <latitude>21.00000000</latitude>
+        <longitude>-102.61666667</longitude>
+      </cities>
+      <cities>
+        <id>142943</id>
+        <name>Valle de Juárez</name>
+        <latitude>19.86666667</latitude>
+        <longitude>-102.81666667</longitude>
+      </cities>
+      <cities>
+        <id>142944</id>
+        <name>Valle de los Girasoles [Fraccionamiento]</name>
+        <latitude>20.42667000</latitude>
+        <longitude>-103.19889000</longitude>
+      </cities>
+      <cities>
+        <id>142941</id>
+        <name>Valle Dorado Inn</name>
+        <latitude>20.52444000</latitude>
+        <longitude>-103.36194000</longitude>
+      </cities>
+      <cities>
+        <id>142945</id>
+        <name>Vaquerias</name>
+        <latitude>21.76831000</latitude>
+        <longitude>-101.65385000</longitude>
+      </cities>
+      <cities>
+        <id>142946</id>
+        <name>Villa Corona</name>
+        <latitude>20.39888889</latitude>
+        <longitude>-103.68888889</longitude>
+      </cities>
+      <cities>
+        <id>142951</id>
+        <name>Villa de los Niños</name>
+        <latitude>20.40667000</latitude>
+        <longitude>-103.54167000</longitude>
+      </cities>
+      <cities>
+        <id>142947</id>
+        <name>Villa Emiliano Zapata</name>
+        <latitude>20.16651000</latitude>
+        <longitude>-102.99123000</longitude>
+      </cities>
+      <cities>
+        <id>142948</id>
+        <name>Villa Guerrero Municipality</name>
+        <latitude>21.88133333</latitude>
+        <longitude>-103.59604167</longitude>
+      </cities>
+      <cities>
+        <id>142949</id>
+        <name>Villa Hidalgo</name>
+        <latitude>21.66670000</latitude>
+        <longitude>-102.60000000</longitude>
+      </cities>
+      <cities>
+        <id>142952</id>
+        <name>Villa las Flores</name>
+        <latitude>20.48111000</latitude>
+        <longitude>-103.53083000</longitude>
+      </cities>
+      <cities>
+        <id>142950</id>
+        <name>Villa Purificación</name>
+        <latitude>19.78583333</latitude>
+        <longitude>-104.70777778</longitude>
+      </cities>
+      <cities>
+        <id>142953</id>
+        <name>Villas de la Hacienda [Fraccionamiento]</name>
+        <latitude>20.53111000</latitude>
+        <longitude>-103.38278000</longitude>
+      </cities>
+      <cities>
+        <id>142954</id>
+        <name>Vista Hermosa</name>
+        <latitude>19.69391000</latitude>
+        <longitude>-103.33933000</longitude>
+      </cities>
+      <cities>
+        <id>142955</id>
+        <name>Vistas del Maguey [Fraccionamiento]</name>
+        <latitude>20.52806000</latitude>
+        <longitude>-102.52333000</longitude>
+      </cities>
+      <cities>
+        <id>142956</id>
+        <name>Xochitlán</name>
+        <latitude>19.83333333</latitude>
+        <longitude>-103.98333333</longitude>
+      </cities>
+      <cities>
+        <id>142957</id>
+        <name>Yahualica de González Gallo</name>
+        <latitude>21.17978000</latitude>
+        <longitude>-102.88611000</longitude>
+      </cities>
+      <cities>
+        <id>142958</id>
+        <name>Zacoalco de Torres</name>
+        <latitude>20.23333333</latitude>
+        <longitude>-103.58333333</longitude>
+      </cities>
+      <cities>
+        <id>142959</id>
+        <name>Zalamea</name>
+        <latitude>20.31371000</latitude>
+        <longitude>-102.50967000</longitude>
+      </cities>
+      <cities>
+        <id>142960</id>
+        <name>Zapopan</name>
+        <latitude>20.72027778</latitude>
+        <longitude>-103.39194444</longitude>
+      </cities>
+      <cities>
+        <id>142961</id>
+        <name>Zapotiltic</name>
+        <latitude>19.63333333</latitude>
+        <longitude>-103.16666667</longitude>
+      </cities>
+      <cities>
+        <id>142963</id>
+        <name>Zapotitán de Hidalgo</name>
+        <latitude>20.32641000</latitude>
+        <longitude>-103.47841000</longitude>
+      </cities>
+      <cities>
+        <id>142962</id>
+        <name>Zapotitlán de Vadillo</name>
+        <latitude>19.41666667</latitude>
+        <longitude>-103.60000000</longitude>
+      </cities>
+      <cities>
+        <id>142966</id>
+        <name>Zapotlán del Rey</name>
+        <latitude>20.45500000</latitude>
+        <longitude>-102.91444444</longitude>
+      </cities>
+      <cities>
+        <id>142965</id>
+        <name>Zapotlán El Grande Municipality</name>
+        <latitude>19.70360000</latitude>
+        <longitude>-103.46500000</longitude>
+      </cities>
+      <cities>
+        <id>142964</id>
+        <name>Zapotlanejo</name>
+        <latitude>20.62248000</latitude>
+        <longitude>-103.06766000</longitude>
+      </cities>
+      <cities>
+        <id>142967</id>
+        <name>Zula</name>
+        <latitude>20.40931000</latitude>
+        <longitude>-102.72816000</longitude>
+      </cities>
+    </states>
+    <states>
       <id>3450</id>
       <name>México</name>
       <state_code>MEX</state_code>
