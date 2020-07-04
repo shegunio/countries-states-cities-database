@@ -243115,17 +243115,17 @@ state_city:
         longitude: '76.70000000'
       -
         id: 57615
-        name: Ajnāla
+        name: Ajnala
         latitude: '31.84473000'
         longitude: '74.76295000'
       -
         id: 57629
-        name: Akālgarh
+        name: Akalgarh
         latitude: '29.82074000'
         longitude: '75.89078000'
       -
         id: 57651
-        name: Alāwalpur
+        name: Alawalpur
         latitude: '31.43161000'
         longitude: '75.65614000'
       -
@@ -243140,17 +243140,17 @@ state_city:
         longitude: '74.84000000'
       -
         id: 57697
-        name: Anandpur
+        name: 'Anandpur Sahib'
         latitude: '31.23926000'
         longitude: '76.50253000'
       -
         id: 57791
-        name: 'Badhni Kalān'
+        name: 'Badhni Kalan'
         latitude: '30.68130000'
         longitude: '75.29087000'
       -
         id: 58109
-        name: 'Bāgha Purāna'
+        name: 'Bagha Purana'
         latitude: '30.68809000'
         longitude: '75.09838000'
       -
@@ -243160,7 +243160,7 @@ state_city:
         longitude: '75.91874000'
       -
         id: 58118
-        name: Bālāchor
+        name: Balachor
         latitude: '31.06062000'
         longitude: '76.30166000'
       -
@@ -243170,37 +243170,22 @@ state_city:
         longitude: '75.99495000'
       -
         id: 57859
-        name: Banūr
+        name: Banur
         latitude: '30.55407000'
         longitude: '76.71948000'
       -
-        id: 57881
-        name: Barnala
-        latitude: '30.38000000'
-        longitude: '75.50000000'
-      -
         id: 57882
-        name: Barnāla
+        name: Barnala
         latitude: '30.37451000'
         longitude: '75.54870000'
       -
-        id: 57896
-        name: Basi
-        latitude: '30.58813000'
-        longitude: '76.84498000'
-      -
         id: 57906
-        name: Batāla
+        name: Batala
         latitude: '31.80921000'
         longitude: '75.20294000'
       -
-        id: 57904
-        name: Bathinda
-        latitude: '30.21000000'
-        longitude: '75.03000000'
-      -
         id: 57914
-        name: Begowāl
+        name: Begowal
         latitude: '31.61152000'
         longitude: '75.52135000'
       -
@@ -243209,13 +243194,18 @@ state_city:
         latitude: '30.47651000'
         longitude: '75.33049000'
       -
+        id: 57904
+        name: Bhatinda
+        latitude: '30.20747000'
+        longitude: '74.93893000'
+      -
         id: 57977
-        name: Bhawānīgarh
+        name: Bhawanigarh
         latitude: '30.26685000'
         longitude: '76.03854000'
       -
         id: 58018
-        name: Bhīkhi
+        name: Bhikhi
         latitude: '30.05918000'
         longitude: '75.53500000'
       -
@@ -243224,30 +243214,35 @@ state_city:
         latitude: '31.55442000'
         longitude: '75.64271000'
       -
-        id: 58003
-        name: 'Bhulath Gharbi'
-        latitude: '31.54279000'
-        longitude: '75.50755000'
+        id: 143761
+        name: Bholath
+        latitude: '31.54277778'
+        longitude: '75.50750000'
       -
         id: 58090
-        name: Budhlāda
+        name: Budhlada
         latitude: '29.92799000'
         longitude: '75.56205000'
       -
         id: 131610
-        name: Chīma
+        name: Chima
         latitude: '30.68540000'
         longitude: '76.08643000'
       -
         id: 131661
-        name: Dasūya
+        name: Dasuya
         latitude: '31.81679000'
         longitude: '75.65310000'
       -
         id: 131696
-        name: 'Derā Nānak'
+        name: 'Dera Baba Nanak'
         latitude: '32.03733000'
         longitude: '75.02787000'
+      -
+        id: 143763
+        name: 'Dera Bassi'
+        latitude: '30.58720000'
+        longitude: '76.84280000'
       -
         id: 131713
         name: Dhanaula
@@ -243255,7 +243250,7 @@ state_city:
         longitude: '75.57341000'
       -
         id: 131756
-        name: Dhāriwāl
+        name: Dhariwal
         latitude: '31.95616000'
         longitude: '75.32386000'
       -
@@ -243264,13 +243259,18 @@ state_city:
         latitude: '31.51432000'
         longitude: '75.34574000'
       -
+        id: 143762
+        name: Dhudi
+        latitude: '30.69636000'
+        longitude: '74.85246000'
+      -
         id: 131760
-        name: Dhūri
+        name: Dhuri
         latitude: '30.36846000'
         longitude: '75.86791000'
       -
         id: 131816
-        name: Dīnānagar
+        name: 'Dina Nagar'
         latitude: '32.13664000'
         longitude: '75.47291000'
       -
@@ -243280,22 +243280,17 @@ state_city:
         longitude: '75.99607000'
       -
         id: 131790
-        name: Dorāha
+        name: Doraha
         latitude: '30.79953000'
         longitude: '76.02355000'
       -
-        id: 131855
-        name: Faridkot
-        latitude: '30.65000000'
-        longitude: '74.75000000'
-      -
         id: 131859
-        name: Farīdkot
+        name: Faridkot
         latitude: '30.67399000'
         longitude: '74.75579000'
       -
         id: 131865
-        name: 'Fatehgarh Chūriān'
+        name: 'Fatehgarh Churian'
         latitude: '31.86431000'
         longitude: '74.95665000'
       -
@@ -243305,22 +243300,22 @@ state_city:
         longitude: '76.34787000'
       -
         id: 131881
-        name: Fāzilka
+        name: Fazilka
         latitude: '30.40207000'
         longitude: '74.02836000'
       -
         id: 131875
-        name: Ferozepore
+        name: Firozpur
         latitude: '30.92574000'
         longitude: '74.61311000'
       -
         id: 131877
-        name: Firozpur
+        name: 'Firozpur District'
         latitude: '30.89000000'
         longitude: '74.56000000'
       -
         id: 131918
-        name: Garhdiwāla
+        name: Gardhiwala
         latitude: '31.74147000'
         longitude: '75.75567000'
       -
@@ -243335,7 +243330,7 @@ state_city:
         longitude: '76.61203000'
       -
         id: 131956
-        name: Giddarbāha
+        name: Giddarbaha
         latitude: '30.19953000'
         longitude: '74.66627000'
       -
@@ -243345,29 +243340,29 @@ state_city:
         longitude: '75.27000000'
       -
         id: 132037
-        name: 'Guru Har Sahāi'
+        name: 'Guru Har Sahai'
         latitude: '30.70862000'
         longitude: '74.40407000'
       -
         id: 132136
-        name: Hājipur
+        name: Hajipur
         latitude: '31.97714000'
         longitude: '75.75438000'
       -
         id: 132077
-        name: Hariāna
+        name: Hariana
         latitude: '31.63512000'
         longitude: '75.83887000'
       -
-        id: 132121
-        name: Hoshiarpur
-        latitude: '31.66000000'
-        longitude: '75.85000000'
-      -
         id: 132122
-        name: Hoshiārpur
+        name: Hoshiarpur
         latitude: '31.53723000'
         longitude: '75.91269000'
+      -
+        id: 143764
+        name: Ishanpur
+        latitude: '30.63929000'
+        longitude: '76.11761000'
       -
         id: 132192
         name: Jagraon
@@ -243380,7 +243375,7 @@ state_city:
         longitude: '74.89189000'
       -
         id: 132223
-        name: Jalālābād
+        name: Jalalabad
         latitude: '30.60622000'
         longitude: '74.25727000'
       -
@@ -243390,12 +243385,12 @@ state_city:
         longitude: '75.61667000'
       -
         id: 132236
-        name: Jandiāla
+        name: Jandiala
         latitude: '31.15930000'
         longitude: '75.61755000'
       -
         id: 132237
-        name: 'Jandiāla Gurū'
+        name: 'Jandiala Guru'
         latitude: '31.56198000'
         longitude: '75.02770000'
       -
@@ -243404,23 +243399,18 @@ state_city:
         latitude: '32.01227000'
         longitude: '75.15063000'
       -
-        id: 132391
-        name: Kapurthala
-        latitude: '31.40000000'
-        longitude: '75.31000000'
-      -
         id: 132392
-        name: Kapūrthala
+        name: Kapurthala
         latitude: '31.38011000'
         longitude: '75.38105000'
       -
         id: 132408
-        name: Kartārpur
+        name: Kartarpur
         latitude: '31.44268000'
         longitude: '75.49847000'
       -
         id: 132465
-        name: 'Khamānon Kalān'
+        name: Khamanon
         latitude: '30.81725000'
         longitude: '76.35478000'
       -
@@ -243435,12 +243425,12 @@ state_city:
         longitude: '76.64689000'
       -
         id: 132491
-        name: 'Khem Karan'
+        name: Khemkaran
         latitude: '31.14443000'
         longitude: '74.55938000'
       -
         id: 132591
-        name: 'Kot Īsa Khān'
+        name: 'Kot Isa Khan'
         latitude: '30.94659000'
         longitude: '75.13780000'
       -
@@ -243450,27 +243440,22 @@ state_city:
         longitude: '74.83298000'
       -
         id: 132760
-        name: Laungowāl
+        name: Laungowal
         latitude: '30.19393000'
         longitude: '75.68089000'
       -
-        id: 132784
-        name: Ludhiana
-        latitude: '30.84000000'
-        longitude: '75.82000000'
-      -
         id: 132785
-        name: Ludhiāna
+        name: Ludhiana
         latitude: '30.91204000'
         longitude: '75.85379000'
       -
         id: 133056
-        name: Māchhīwāra
+        name: Machhiwara
         latitude: '30.91557000'
         longitude: '76.20016000'
       -
         id: 132861
-        name: Majītha
+        name: Majitha
         latitude: '31.75711000'
         longitude: '74.95891000'
       -
@@ -243485,22 +243470,17 @@ state_city:
         longitude: '74.48180000'
       -
         id: 133066
-        name: 'Māler Kotla'
+        name: Malerkotla
         latitude: '30.53090000'
         longitude: '75.87949000'
       -
-        id: 132925
-        name: Mansa
-        latitude: '29.94000000'
-        longitude: '75.43000000'
-      -
         id: 133082
-        name: Mānsa
+        name: Mansa
         latitude: '29.98844000'
         longitude: '75.40167000'
       -
         id: 132948
-        name: Maur
+        name: 'Maur Mandi'
         latitude: '30.08333000'
         longitude: '75.25000000'
       -
@@ -243520,17 +243500,12 @@ state_city:
         longitude: '76.49883000'
       -
         id: 133017
-        name: Mukeriān
+        name: Mukerian
         latitude: '31.95394000'
         longitude: '75.61716000'
       -
-        id: 133019
-        name: Muktsar
-        latitude: '30.47426000'
-        longitude: '74.51660000'
-      -
         id: 133250
-        name: Nābha
+        name: Nabha
         latitude: '30.37577000'
         longitude: '76.15292000'
       -
@@ -243550,27 +243525,22 @@ state_city:
         longitude: '76.11613000'
       -
         id: 133291
-        name: Nūrmahal
+        name: Nurmahal
         latitude: '31.09662000'
         longitude: '75.59386000'
       -
         id: 133293
-        name: 'Nūrpur Kalān'
+        name: 'Nurpur Kalan'
         latitude: '31.16667000'
         longitude: '76.48333000'
       -
         id: 133382
-        name: Pathānkot
+        name: Pathankot
         latitude: '32.27484000'
         longitude: '75.65287000'
       -
-        id: 133383
-        name: Patiala
-        latitude: '30.35000000'
-        longitude: '76.40000000'
-      -
         id: 133384
-        name: Patiāla
+        name: Patiala
         latitude: '30.33625000'
         longitude: '76.39220000'
       -
@@ -243580,7 +243550,7 @@ state_city:
         longitude: '74.85849000'
       -
         id: 133431
-        name: Phagwāra
+        name: Phagwara
         latitude: '31.22452000'
         longitude: '75.77387000'
       -
@@ -243590,44 +243560,39 @@ state_city:
         longitude: '75.79111000'
       -
         id: 133575
-        name: Qādiān
+        name: Qadian
         latitude: '31.82198000'
         longitude: '75.37663000'
       -
         id: 133662
-        name: Rāhon
+        name: Rahon
         latitude: '31.05275000'
         longitude: '76.11907000'
       -
         id: 133665
-        name: Rāikot
+        name: Raikot
         latitude: '30.65000000'
         longitude: '75.60000000'
       -
         id: 133670
-        name: 'Rāja Sānsi'
+        name: Rajasansi
         latitude: '31.72021000'
         longitude: '74.80080000'
       -
         id: 133681
-        name: Rājpura
+        name: Rajpura
         latitude: '30.47856000'
         longitude: '76.59284000'
       -
         id: 133690
-        name: 'Rām Dās'
+        name: 'Ram Das'
         latitude: '31.96739000'
         longitude: '74.90870000'
       -
         id: 133708
-        name: Rāmpura
+        name: Rampura
         latitude: '30.25600000'
         longitude: '75.24116000'
-      -
-        id: 133651
-        name: Ropar
-        latitude: '30.96896000'
-        longitude: '76.52695000'
       -
         id: 133654
         name: Rupnagar
@@ -243635,7 +243600,7 @@ state_city:
         longitude: '76.52000000'
       -
         id: 133772
-        name: Samrāla
+        name: Samrala
         latitude: '30.83601000'
         longitude: '76.19324000'
       -
@@ -243644,13 +243609,8 @@ state_city:
         latitude: '30.30182000'
         longitude: '76.45786000'
       -
-        id: 133784
-        name: Sangrur
-        latitude: '30.25000000'
-        longitude: '75.85000000'
-      -
         id: 133785
-        name: Sangrūr
+        name: Sangrur
         latitude: '30.24506000'
         longitude: '75.84488000'
       -
@@ -243665,27 +243625,32 @@ state_city:
         longitude: '76.13328000'
       -
         id: 133897
-        name: Shāhkot
+        name: Shahkot
         latitude: '31.08173000'
         longitude: '75.33708000'
       -
         id: 133911
-        name: 'Shām Churāsi'
+        name: 'Sham Churasi'
         latitude: '31.50028000'
         longitude: '75.74917000'
       -
         id: 133955
-        name: Sirhind
+        name: Sirhind-Fategarh
         latitude: '30.64321000'
         longitude: '76.38421000'
       -
+        id: 133019
+        name: 'Sri Muktsar Sahib'
+        latitude: '30.47426000'
+        longitude: '74.51660000'
+      -
         id: 134037
-        name: Sultanpur
+        name: 'Sultanpur Lodhi'
         latitude: '31.21468000'
         longitude: '75.19602000'
       -
         id: 134048
-        name: Sunām
+        name: Sunam
         latitude: '30.12883000'
         longitude: '75.79943000'
       -
@@ -243695,17 +243660,12 @@ state_city:
         longitude: '74.92979000'
       -
         id: 134106
-        name: Talwāra
+        name: Talwara
         latitude: '31.93760000'
         longitude: '75.88657000'
       -
-        id: 134117
-        name: 'Tarn Taran'
-        latitude: '31.32692000'
-        longitude: '74.81643000'
-      -
         id: 134118
-        name: 'Tarn Tāran'
+        name: 'Tarn Taran Sahib'
         latitude: '31.45191000'
         longitude: '74.92777000'
       -
@@ -409272,18 +409232,18 @@ state_city:
     country_id: 167
     cities:
       -
-        id: 85331
-        name: 'Ahmadpur East'
-        latitude: '29.14269000'
-        longitude: '71.25771000'
-      -
         id: 85332
         name: 'Ahmadpur Sial'
         latitude: '30.67791000'
         longitude: '71.74344000'
       -
+        id: 85331
+        name: 'Ahmedpur East'
+        latitude: '29.14269000'
+        longitude: '71.25771000'
+      -
         id: 85335
-        name: Alipur
+        name: 'Alipur Chatha'
         latitude: '29.38242000'
         longitude: '70.91106000'
       -
@@ -409293,7 +409253,7 @@ state_city:
         longitude: '73.06574000'
       -
         id: 85341
-        name: 'Attock City'
+        name: 'Attock Tehsil'
         latitude: '33.76671000'
         longitude: '72.35977000'
       -
@@ -409358,19 +409318,14 @@ state_city:
         longitude: '74.36350000'
       -
         id: 85376
-        name: Būrewāla
+        name: Burewala
         latitude: '30.16667000'
         longitude: '72.65000000'
       -
         id: 85378
-        name: 'Chak Azam Sahu'
+        name: 'Chak Azam Saffo'
         latitude: '30.75202000'
         longitude: '73.02834000'
-      -
-        id: 85379
-        name: 'Chak Five Hundred Seventy-five'
-        latitude: '31.54514000'
-        longitude: '73.82891000'
       -
         id: 85380
         name: 'Chak Jhumra'
@@ -409388,7 +409343,7 @@ state_city:
         longitude: '72.69737000'
       -
         id: 85383
-        name: 'Chak Two Hundred Forty-nine Thal Development Authority'
+        name: 'Chak Two Hundred Forty-Nine TDA'
         latitude: '31.17772000'
         longitude: '71.20480000'
       -
@@ -409401,11 +409356,6 @@ state_city:
         name: Chawinda
         latitude: '32.34434000'
         longitude: '74.70507000'
-      -
-        id: 85389
-        name: 'Chenab Nagar'
-        latitude: '31.75511000'
-        longitude: '72.91403000'
       -
         id: 85392
         name: Chichawatni
@@ -409423,12 +409373,12 @@ state_city:
         longitude: '72.85772000'
       -
         id: 85396
-        name: 'Choa Saidan Shah'
+        name: 'Choa Saidanshah'
         latitude: '32.71962000'
         longitude: '72.98625000'
       -
-        id: 85398
-        name: 'Chuchar-kana Mandi'
+        id: 143765
+        name: 'Chuhar Kana'
         latitude: '31.75000000'
         longitude: '73.80000000'
       -
@@ -409458,14 +409408,14 @@ state_city:
         longitude: '71.10197000'
       -
         id: 85411
-        name: 'Daska Kalan'
+        name: Daska
         latitude: '32.32422000'
         longitude: '74.35039000'
       -
-        id: 85412
+        id: 143767
         name: 'Daud Khel'
-        latitude: '32.87533000'
-        longitude: '71.57118000'
+        latitude: '32.87498000'
+        longitude: '71.57013000'
       -
         id: 85414
         name: Daultala
@@ -409486,6 +409436,11 @@ state_city:
         name: Dhaunkal
         latitude: '32.40613000'
         longitude: '74.13706000'
+      -
+        id: 143766
+        name: 'Dhok Awan'
+        latitude: '32.84452000'
+        longitude: '72.52357000'
       -
         id: 85425
         name: Dijkot
@@ -409547,6 +409502,11 @@ state_city:
         latitude: '32.17629000'
         longitude: '75.06583000'
       -
+        id: 143768
+        name: Ferozewala
+        latitude: '29.30000000'
+        longitude: '70.43333333'
+      -
         id: 85441
         name: 'Fort Abbas'
         latitude: '29.19344000'
@@ -409571,6 +409531,11 @@ state_city:
         name: Gujranwala
         latitude: '32.15567000'
         longitude: '74.18705000'
+      -
+        id: 143769
+        name: 'Gujranwala Division'
+        latitude: '32.45000000'
+        longitude: '74.13333000'
       -
         id: 85457
         name: Gujrat
@@ -409597,6 +409562,11 @@ state_city:
         latitude: '29.61206000'
         longitude: '73.13802000'
       -
+        id: 143770
+        name: 'Hasan Abdal'
+        latitude: '33.81948611'
+        longitude: '72.68902778'
+      -
         id: 85468
         name: Hasilpur
         latitude: '29.69221000'
@@ -409608,12 +409578,12 @@ state_city:
         longitude: '73.69371000'
       -
         id: 85471
-        name: 'Hazro City'
+        name: Hazro
         latitude: '33.90990000'
         longitude: '72.49179000'
       -
         id: 85473
-        name: 'Hujra Shah Muqim'
+        name: 'Hujra Shah Muqeem'
         latitude: '30.74168000'
         longitude: '73.82327000'
       -
@@ -409663,12 +409633,12 @@ state_city:
         longitude: '72.28182000'
       -
         id: 85490
-        name: 'Jhang City'
+        name: Jhang
         latitude: '31.30568000'
         longitude: '72.32594000'
       -
         id: 85491
-        name: 'Jhang Sadr'
+        name: 'Jhang Sadar'
         latitude: '31.26981000'
         longitude: '72.31687000'
       -
@@ -409691,11 +409661,6 @@ state_city:
         name: 'Kahna Nau'
         latitude: '31.36709000'
         longitude: '74.36899000'
-      -
-        id: 85502
-        name: 'Kahror Pakka'
-        latitude: '29.62430000'
-        longitude: '71.91437000'
       -
         id: 85503
         name: Kahuta
@@ -409768,7 +409733,7 @@ state_city:
         longitude: '72.50000000'
       -
         id: 85535
-        name: 'Khairpur Tamewah'
+        name: 'Khairpur Tamiwali'
         latitude: '29.58139000'
         longitude: '72.23804000'
       -
@@ -409783,7 +409748,7 @@ state_city:
         longitude: '71.93212000'
       -
         id: 85539
-        name: 'Khangah Dogran'
+        name: 'Khanga Dogran'
         latitude: '31.83294000'
         longitude: '73.62213000'
       -
@@ -409813,12 +409778,17 @@ state_city:
         longitude: '73.26763000'
       -
         id: 85547
-        name: Khushāb
+        name: Khushab
         latitude: '32.29667000'
         longitude: '72.35250000'
       -
+        id: 143771
+        name: 'Kohror Pakka'
+        latitude: '29.62382000'
+        longitude: '71.91673000'
+      -
         id: 85553
-        name: 'Kot Addu'
+        name: 'Kot Addu Tehsil'
         latitude: '30.46907000'
         longitude: '70.96699000'
       -
@@ -409937,6 +409907,11 @@ state_city:
         latitude: '32.58704000'
         longitude: '73.49123000'
       -
+        id: 143772
+        name: 'Mandi Bahauddin District'
+        latitude: '32.58333333'
+        longitude: '73.50000000'
+      -
         id: 85595
         name: Mangla
         latitude: '31.89306000'
@@ -409968,7 +409943,7 @@ state_city:
         longitude: '71.52847000'
       -
         id: 85609
-        name: Minchianabad
+        name: Minchinabad
         latitude: '30.16356000'
         longitude: '73.56858000'
       -
@@ -409987,6 +409962,11 @@ state_city:
         latitude: '30.19679000'
         longitude: '71.47824000'
       -
+        id: 143773
+        name: 'Multan District'
+        latitude: '30.08333333'
+        longitude: '71.66666667'
+      -
         id: 85624
         name: Muridke
         latitude: '31.80258000'
@@ -409998,7 +409978,7 @@ state_city:
         longitude: '73.39030000'
       -
         id: 85626
-        name: Mustafābād
+        name: Mustafabad
         latitude: '30.89222000'
         longitude: '73.49889000'
       -
@@ -410022,11 +410002,6 @@ state_city:
         latitude: '32.10197000'
         longitude: '74.87303000'
       -
-        id: 85649
-        name: 'Nārowāl District'
-        latitude: '32.21114000'
-        longitude: '74.95318000'
-      -
         id: 85638
         name: 'Naushahra Virkan'
         latitude: '31.96258000'
@@ -410041,6 +410016,11 @@ state_city:
         name: Okara
         latitude: '30.81029000'
         longitude: '73.45155000'
+      -
+        id: 143774
+        name: 'Pakki Shagwanwali'
+        latitude: '30.79033000'
+        longitude: '70.87139000'
       -
         id: 85655
         name: Pakpattan
@@ -410087,10 +410067,25 @@ state_city:
         latitude: '30.29184000'
         longitude: '71.67164000'
       -
+        id: 143775
+        name: 'Qila Didar Singh'
+        latitude: '32.80000000'
+        longitude: '74.10000000'
+      -
+        id: 85389
+        name: Rabwah
+        latitude: '31.75511000'
+        longitude: '72.91403000'
+      -
         id: 85674
         name: 'Rahim Yar Khan'
         latitude: '28.41987000'
         longitude: '70.30345000'
+      -
+        id: 143776
+        name: 'Rahimyar Khan District'
+        latitude: '28.46020000'
+        longitude: '70.52837000'
       -
         id: 85675
         name: Raiwind
@@ -410133,7 +410128,7 @@ state_city:
         longitude: '69.95350000'
       -
         id: 85690
-        name: Saddiqabad
+        name: Sadiqabad
         latitude: '28.30910000'
         longitude: '70.12652000'
       -
@@ -410172,10 +410167,10 @@ state_city:
         latitude: '32.08586000'
         longitude: '72.67418000'
       -
-        id: 85708
-        name: Shahkot
-        latitude: '31.57090000'
-        longitude: '73.48531000'
+        id: 143777
+        name: 'Shahkot Tehsil'
+        latitude: '31.56166667'
+        longitude: '73.48750000'
       -
         id: 85709
         name: Shahpur
@@ -410193,14 +410188,19 @@ state_city:
         longitude: '75.16008000'
       -
         id: 85713
-        name: 'Sharqpur Sharif'
+        name: Sharqpur
         latitude: '31.46116000'
         longitude: '74.10091000'
       -
         id: 85714
-        name: Shekhupura
+        name: Sheikhupura
         latitude: '31.71287000'
         longitude: '73.98556000'
+      -
+        id: 85708
+        name: Shorkot
+        latitude: '30.50000000'
+        longitude: '72.40000000'
       -
         id: 85719
         name: Shujaabad
@@ -410218,7 +410218,7 @@ state_city:
         longitude: '72.54064000'
       -
         id: 85726
-        name: Sodhri
+        name: Sodhra
         latitude: '32.46211000'
         longitude: '74.18207000'
       -
@@ -410257,15 +410257,35 @@ state_city:
         latitude: '30.97127000'
         longitude: '72.48275000'
       -
+        id: 143778
+        name: Umerkot
+        latitude: '25.36138889'
+        longitude: '69.73611111'
+      -
         id: 85763
         name: Vihari
         latitude: '30.04450000'
         longitude: '72.35560000'
       -
+        id: 143779
+        name: Wah
+        latitude: '33.81000000'
+        longitude: '72.70972222'
+      -
+        id: 143780
+        name: Warburton
+        latitude: '31.55000000'
+        longitude: '73.83330000'
+      -
         id: 85766
         name: Wazirabad
         latitude: '32.44324000'
         longitude: '74.12000000'
+      -
+        id: 143781
+        name: 'West Punjab'
+        latitude: '31.00000000'
+        longitude: '72.00000000'
       -
         id: 85767
         name: Yazman

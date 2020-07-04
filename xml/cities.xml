@@ -467102,7 +467102,7 @@
   </city>
   <city>
     <id>57615</id>
-    <name>Ajnāla</name>
+    <name>Ajnala</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467112,7 +467112,7 @@
   </city>
   <city>
     <id>57629</id>
-    <name>Akālgarh</name>
+    <name>Akalgarh</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467122,7 +467122,7 @@
   </city>
   <city>
     <id>57651</id>
-    <name>Alāwalpur</name>
+    <name>Alawalpur</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467152,7 +467152,7 @@
   </city>
   <city>
     <id>57697</id>
-    <name>Anandpur</name>
+    <name>Anandpur Sahib</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467162,7 +467162,7 @@
   </city>
   <city>
     <id>57791</id>
-    <name>Badhni Kalān</name>
+    <name>Badhni Kalan</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467172,7 +467172,7 @@
   </city>
   <city>
     <id>58109</id>
-    <name>Bāgha Purāna</name>
+    <name>Bagha Purana</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467192,7 +467192,7 @@
   </city>
   <city>
     <id>58118</id>
-    <name>Bālāchor</name>
+    <name>Balachor</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467212,7 +467212,7 @@
   </city>
   <city>
     <id>57859</id>
-    <name>Banūr</name>
+    <name>Banur</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467221,18 +467221,8 @@
     <longitude>76.71948000</longitude>
   </city>
   <city>
-    <id>57881</id>
-    <name>Barnala</name>
-    <state_id>4015</state_id>
-    <state_code>PB</state_code>
-    <country_id>101</country_id>
-    <country_code>IN</country_code>
-    <latitude>30.38000000</latitude>
-    <longitude>75.50000000</longitude>
-  </city>
-  <city>
     <id>57882</id>
-    <name>Barnāla</name>
+    <name>Barnala</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467241,18 +467231,8 @@
     <longitude>75.54870000</longitude>
   </city>
   <city>
-    <id>57896</id>
-    <name>Basi</name>
-    <state_id>4015</state_id>
-    <state_code>PB</state_code>
-    <country_id>101</country_id>
-    <country_code>IN</country_code>
-    <latitude>30.58813000</latitude>
-    <longitude>76.84498000</longitude>
-  </city>
-  <city>
     <id>57906</id>
-    <name>Batāla</name>
+    <name>Batala</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467261,18 +467241,8 @@
     <longitude>75.20294000</longitude>
   </city>
   <city>
-    <id>57904</id>
-    <name>Bathinda</name>
-    <state_id>4015</state_id>
-    <state_code>PB</state_code>
-    <country_id>101</country_id>
-    <country_code>IN</country_code>
-    <latitude>30.21000000</latitude>
-    <longitude>75.03000000</longitude>
-  </city>
-  <city>
     <id>57914</id>
-    <name>Begowāl</name>
+    <name>Begowal</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467291,8 +467261,18 @@
     <longitude>75.33049000</longitude>
   </city>
   <city>
+    <id>57904</id>
+    <name>Bhatinda</name>
+    <state_id>4015</state_id>
+    <state_code>PB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>30.20747000</latitude>
+    <longitude>74.93893000</longitude>
+  </city>
+  <city>
     <id>57977</id>
-    <name>Bhawānīgarh</name>
+    <name>Bhawanigarh</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467302,7 +467282,7 @@
   </city>
   <city>
     <id>58018</id>
-    <name>Bhīkhi</name>
+    <name>Bhikhi</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467321,18 +467301,18 @@
     <longitude>75.64271000</longitude>
   </city>
   <city>
-    <id>58003</id>
-    <name>Bhulath Gharbi</name>
+    <id>143761</id>
+    <name>Bholath</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
-    <latitude>31.54279000</latitude>
-    <longitude>75.50755000</longitude>
+    <latitude>31.54277778</latitude>
+    <longitude>75.50750000</longitude>
   </city>
   <city>
     <id>58090</id>
-    <name>Budhlāda</name>
+    <name>Budhlada</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467342,7 +467322,7 @@
   </city>
   <city>
     <id>131610</id>
-    <name>Chīma</name>
+    <name>Chima</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467352,7 +467332,7 @@
   </city>
   <city>
     <id>131661</id>
-    <name>Dasūya</name>
+    <name>Dasuya</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467362,13 +467342,23 @@
   </city>
   <city>
     <id>131696</id>
-    <name>Derā Nānak</name>
+    <name>Dera Baba Nanak</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>32.03733000</latitude>
     <longitude>75.02787000</longitude>
+  </city>
+  <city>
+    <id>143763</id>
+    <name>Dera Bassi</name>
+    <state_id>4015</state_id>
+    <state_code>PB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>30.58720000</latitude>
+    <longitude>76.84280000</longitude>
   </city>
   <city>
     <id>131713</id>
@@ -467382,7 +467372,7 @@
   </city>
   <city>
     <id>131756</id>
-    <name>Dhāriwāl</name>
+    <name>Dhariwal</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467401,8 +467391,18 @@
     <longitude>75.34574000</longitude>
   </city>
   <city>
+    <id>143762</id>
+    <name>Dhudi</name>
+    <state_id>4015</state_id>
+    <state_code>PB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>30.69636000</latitude>
+    <longitude>74.85246000</longitude>
+  </city>
+  <city>
     <id>131760</id>
-    <name>Dhūri</name>
+    <name>Dhuri</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467412,7 +467412,7 @@
   </city>
   <city>
     <id>131816</id>
-    <name>Dīnānagar</name>
+    <name>Dina Nagar</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467432,7 +467432,7 @@
   </city>
   <city>
     <id>131790</id>
-    <name>Dorāha</name>
+    <name>Doraha</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467441,18 +467441,8 @@
     <longitude>76.02355000</longitude>
   </city>
   <city>
-    <id>131855</id>
-    <name>Faridkot</name>
-    <state_id>4015</state_id>
-    <state_code>PB</state_code>
-    <country_id>101</country_id>
-    <country_code>IN</country_code>
-    <latitude>30.65000000</latitude>
-    <longitude>74.75000000</longitude>
-  </city>
-  <city>
     <id>131859</id>
-    <name>Farīdkot</name>
+    <name>Faridkot</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467462,7 +467452,7 @@
   </city>
   <city>
     <id>131865</id>
-    <name>Fatehgarh Chūriān</name>
+    <name>Fatehgarh Churian</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467482,7 +467472,7 @@
   </city>
   <city>
     <id>131881</id>
-    <name>Fāzilka</name>
+    <name>Fazilka</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467492,7 +467482,7 @@
   </city>
   <city>
     <id>131875</id>
-    <name>Ferozepore</name>
+    <name>Firozpur</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467502,7 +467492,7 @@
   </city>
   <city>
     <id>131877</id>
-    <name>Firozpur</name>
+    <name>Firozpur District</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467512,7 +467502,7 @@
   </city>
   <city>
     <id>131918</id>
-    <name>Garhdiwāla</name>
+    <name>Gardhiwala</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467542,7 +467532,7 @@
   </city>
   <city>
     <id>131956</id>
-    <name>Giddarbāha</name>
+    <name>Giddarbaha</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467562,7 +467552,7 @@
   </city>
   <city>
     <id>132037</id>
-    <name>Guru Har Sahāi</name>
+    <name>Guru Har Sahai</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467572,7 +467562,7 @@
   </city>
   <city>
     <id>132136</id>
-    <name>Hājipur</name>
+    <name>Hajipur</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467582,7 +467572,7 @@
   </city>
   <city>
     <id>132077</id>
-    <name>Hariāna</name>
+    <name>Hariana</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467591,24 +467581,24 @@
     <longitude>75.83887000</longitude>
   </city>
   <city>
-    <id>132121</id>
-    <name>Hoshiarpur</name>
-    <state_id>4015</state_id>
-    <state_code>PB</state_code>
-    <country_id>101</country_id>
-    <country_code>IN</country_code>
-    <latitude>31.66000000</latitude>
-    <longitude>75.85000000</longitude>
-  </city>
-  <city>
     <id>132122</id>
-    <name>Hoshiārpur</name>
+    <name>Hoshiarpur</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>31.53723000</latitude>
     <longitude>75.91269000</longitude>
+  </city>
+  <city>
+    <id>143764</id>
+    <name>Ishanpur</name>
+    <state_id>4015</state_id>
+    <state_code>PB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>30.63929000</latitude>
+    <longitude>76.11761000</longitude>
   </city>
   <city>
     <id>132192</id>
@@ -467632,7 +467622,7 @@
   </city>
   <city>
     <id>132223</id>
-    <name>Jalālābād</name>
+    <name>Jalalabad</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467652,7 +467642,7 @@
   </city>
   <city>
     <id>132236</id>
-    <name>Jandiāla</name>
+    <name>Jandiala</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467662,7 +467652,7 @@
   </city>
   <city>
     <id>132237</id>
-    <name>Jandiāla Gurū</name>
+    <name>Jandiala Guru</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467681,18 +467671,8 @@
     <longitude>75.15063000</longitude>
   </city>
   <city>
-    <id>132391</id>
-    <name>Kapurthala</name>
-    <state_id>4015</state_id>
-    <state_code>PB</state_code>
-    <country_id>101</country_id>
-    <country_code>IN</country_code>
-    <latitude>31.40000000</latitude>
-    <longitude>75.31000000</longitude>
-  </city>
-  <city>
     <id>132392</id>
-    <name>Kapūrthala</name>
+    <name>Kapurthala</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467702,7 +467682,7 @@
   </city>
   <city>
     <id>132408</id>
-    <name>Kartārpur</name>
+    <name>Kartarpur</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467712,7 +467692,7 @@
   </city>
   <city>
     <id>132465</id>
-    <name>Khamānon Kalān</name>
+    <name>Khamanon</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467742,7 +467722,7 @@
   </city>
   <city>
     <id>132491</id>
-    <name>Khem Karan</name>
+    <name>Khemkaran</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467752,7 +467732,7 @@
   </city>
   <city>
     <id>132591</id>
-    <name>Kot Īsa Khān</name>
+    <name>Kot Isa Khan</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467772,7 +467752,7 @@
   </city>
   <city>
     <id>132760</id>
-    <name>Laungowāl</name>
+    <name>Laungowal</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467781,18 +467761,8 @@
     <longitude>75.68089000</longitude>
   </city>
   <city>
-    <id>132784</id>
-    <name>Ludhiana</name>
-    <state_id>4015</state_id>
-    <state_code>PB</state_code>
-    <country_id>101</country_id>
-    <country_code>IN</country_code>
-    <latitude>30.84000000</latitude>
-    <longitude>75.82000000</longitude>
-  </city>
-  <city>
     <id>132785</id>
-    <name>Ludhiāna</name>
+    <name>Ludhiana</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467802,7 +467772,7 @@
   </city>
   <city>
     <id>133056</id>
-    <name>Māchhīwāra</name>
+    <name>Machhiwara</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467812,7 +467782,7 @@
   </city>
   <city>
     <id>132861</id>
-    <name>Majītha</name>
+    <name>Majitha</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467842,7 +467812,7 @@
   </city>
   <city>
     <id>133066</id>
-    <name>Māler Kotla</name>
+    <name>Malerkotla</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467851,18 +467821,8 @@
     <longitude>75.87949000</longitude>
   </city>
   <city>
-    <id>132925</id>
-    <name>Mansa</name>
-    <state_id>4015</state_id>
-    <state_code>PB</state_code>
-    <country_id>101</country_id>
-    <country_code>IN</country_code>
-    <latitude>29.94000000</latitude>
-    <longitude>75.43000000</longitude>
-  </city>
-  <city>
     <id>133082</id>
-    <name>Mānsa</name>
+    <name>Mansa</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467872,7 +467832,7 @@
   </city>
   <city>
     <id>132948</id>
-    <name>Maur</name>
+    <name>Maur Mandi</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467912,7 +467872,7 @@
   </city>
   <city>
     <id>133017</id>
-    <name>Mukeriān</name>
+    <name>Mukerian</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467921,18 +467881,8 @@
     <longitude>75.61716000</longitude>
   </city>
   <city>
-    <id>133019</id>
-    <name>Muktsar</name>
-    <state_id>4015</state_id>
-    <state_code>PB</state_code>
-    <country_id>101</country_id>
-    <country_code>IN</country_code>
-    <latitude>30.47426000</latitude>
-    <longitude>74.51660000</longitude>
-  </city>
-  <city>
     <id>133250</id>
-    <name>Nābha</name>
+    <name>Nabha</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467972,7 +467922,7 @@
   </city>
   <city>
     <id>133291</id>
-    <name>Nūrmahal</name>
+    <name>Nurmahal</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467982,7 +467932,7 @@
   </city>
   <city>
     <id>133293</id>
-    <name>Nūrpur Kalān</name>
+    <name>Nurpur Kalan</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -467992,7 +467942,7 @@
   </city>
   <city>
     <id>133382</id>
-    <name>Pathānkot</name>
+    <name>Pathankot</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468001,18 +467951,8 @@
     <longitude>75.65287000</longitude>
   </city>
   <city>
-    <id>133383</id>
-    <name>Patiala</name>
-    <state_id>4015</state_id>
-    <state_code>PB</state_code>
-    <country_id>101</country_id>
-    <country_code>IN</country_code>
-    <latitude>30.35000000</latitude>
-    <longitude>76.40000000</longitude>
-  </city>
-  <city>
     <id>133384</id>
-    <name>Patiāla</name>
+    <name>Patiala</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468032,7 +467972,7 @@
   </city>
   <city>
     <id>133431</id>
-    <name>Phagwāra</name>
+    <name>Phagwara</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468052,7 +467992,7 @@
   </city>
   <city>
     <id>133575</id>
-    <name>Qādiān</name>
+    <name>Qadian</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468062,7 +468002,7 @@
   </city>
   <city>
     <id>133662</id>
-    <name>Rāhon</name>
+    <name>Rahon</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468072,7 +468012,7 @@
   </city>
   <city>
     <id>133665</id>
-    <name>Rāikot</name>
+    <name>Raikot</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468082,7 +468022,7 @@
   </city>
   <city>
     <id>133670</id>
-    <name>Rāja Sānsi</name>
+    <name>Rajasansi</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468092,7 +468032,7 @@
   </city>
   <city>
     <id>133681</id>
-    <name>Rājpura</name>
+    <name>Rajpura</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468102,7 +468042,7 @@
   </city>
   <city>
     <id>133690</id>
-    <name>Rām Dās</name>
+    <name>Ram Das</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468112,23 +468052,13 @@
   </city>
   <city>
     <id>133708</id>
-    <name>Rāmpura</name>
+    <name>Rampura</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>30.25600000</latitude>
     <longitude>75.24116000</longitude>
-  </city>
-  <city>
-    <id>133651</id>
-    <name>Ropar</name>
-    <state_id>4015</state_id>
-    <state_code>PB</state_code>
-    <country_id>101</country_id>
-    <country_code>IN</country_code>
-    <latitude>30.96896000</latitude>
-    <longitude>76.52695000</longitude>
   </city>
   <city>
     <id>133654</id>
@@ -468142,7 +468072,7 @@
   </city>
   <city>
     <id>133772</id>
-    <name>Samrāla</name>
+    <name>Samrala</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468161,18 +468091,8 @@
     <longitude>76.45786000</longitude>
   </city>
   <city>
-    <id>133784</id>
-    <name>Sangrur</name>
-    <state_id>4015</state_id>
-    <state_code>PB</state_code>
-    <country_id>101</country_id>
-    <country_code>IN</country_code>
-    <latitude>30.25000000</latitude>
-    <longitude>75.85000000</longitude>
-  </city>
-  <city>
     <id>133785</id>
-    <name>Sangrūr</name>
+    <name>Sangrur</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468202,7 +468122,7 @@
   </city>
   <city>
     <id>133897</id>
-    <name>Shāhkot</name>
+    <name>Shahkot</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468212,7 +468132,7 @@
   </city>
   <city>
     <id>133911</id>
-    <name>Shām Churāsi</name>
+    <name>Sham Churasi</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468222,7 +468142,7 @@
   </city>
   <city>
     <id>133955</id>
-    <name>Sirhind</name>
+    <name>Sirhind-Fategarh</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468231,8 +468151,18 @@
     <longitude>76.38421000</longitude>
   </city>
   <city>
+    <id>133019</id>
+    <name>Sri Muktsar Sahib</name>
+    <state_id>4015</state_id>
+    <state_code>PB</state_code>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <latitude>30.47426000</latitude>
+    <longitude>74.51660000</longitude>
+  </city>
+  <city>
     <id>134037</id>
-    <name>Sultanpur</name>
+    <name>Sultanpur Lodhi</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468242,7 +468172,7 @@
   </city>
   <city>
     <id>134048</id>
-    <name>Sunām</name>
+    <name>Sunam</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468262,7 +468192,7 @@
   </city>
   <city>
     <id>134106</id>
-    <name>Talwāra</name>
+    <name>Talwara</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -468271,18 +468201,8 @@
     <longitude>75.88657000</longitude>
   </city>
   <city>
-    <id>134117</id>
-    <name>Tarn Taran</name>
-    <state_id>4015</state_id>
-    <state_code>PB</state_code>
-    <country_id>101</country_id>
-    <country_code>IN</country_code>
-    <latitude>31.32692000</latitude>
-    <longitude>74.81643000</longitude>
-  </city>
-  <city>
     <id>134118</id>
-    <name>Tarn Tāran</name>
+    <name>Tarn Taran Sahib</name>
     <state_id>4015</state_id>
     <state_code>PB</state_code>
     <country_id>101</country_id>
@@ -782761,16 +782681,6 @@
     <longitude>72.46690000</longitude>
   </city>
   <city>
-    <id>85331</id>
-    <name>Ahmadpur East</name>
-    <state_id>3176</state_id>
-    <state_code>PB</state_code>
-    <country_id>167</country_id>
-    <country_code>PK</country_code>
-    <latitude>29.14269000</latitude>
-    <longitude>71.25771000</longitude>
-  </city>
-  <city>
     <id>85332</id>
     <name>Ahmadpur Sial</name>
     <state_id>3176</state_id>
@@ -782781,8 +782691,18 @@
     <longitude>71.74344000</longitude>
   </city>
   <city>
+    <id>85331</id>
+    <name>Ahmedpur East</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>29.14269000</latitude>
+    <longitude>71.25771000</longitude>
+  </city>
+  <city>
     <id>85335</id>
-    <name>Alipur</name>
+    <name>Alipur Chatha</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -782802,7 +782722,7 @@
   </city>
   <city>
     <id>85341</id>
-    <name>Attock City</name>
+    <name>Attock Tehsil</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -782932,7 +782852,7 @@
   </city>
   <city>
     <id>85376</id>
-    <name>Būrewāla</name>
+    <name>Burewala</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -782942,23 +782862,13 @@
   </city>
   <city>
     <id>85378</id>
-    <name>Chak Azam Sahu</name>
+    <name>Chak Azam Saffo</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
     <country_code>PK</country_code>
     <latitude>30.75202000</latitude>
     <longitude>73.02834000</longitude>
-  </city>
-  <city>
-    <id>85379</id>
-    <name>Chak Five Hundred Seventy-five</name>
-    <state_id>3176</state_id>
-    <state_code>PB</state_code>
-    <country_id>167</country_id>
-    <country_code>PK</country_code>
-    <latitude>31.54514000</latitude>
-    <longitude>73.82891000</longitude>
   </city>
   <city>
     <id>85380</id>
@@ -782992,7 +782902,7 @@
   </city>
   <city>
     <id>85383</id>
-    <name>Chak Two Hundred Forty-nine Thal Development Authority</name>
+    <name>Chak Two Hundred Forty-Nine TDA</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -783019,16 +782929,6 @@
     <country_code>PK</country_code>
     <latitude>32.34434000</latitude>
     <longitude>74.70507000</longitude>
-  </city>
-  <city>
-    <id>85389</id>
-    <name>Chenab Nagar</name>
-    <state_id>3176</state_id>
-    <state_code>PB</state_code>
-    <country_id>167</country_id>
-    <country_code>PK</country_code>
-    <latitude>31.75511000</latitude>
-    <longitude>72.91403000</longitude>
   </city>
   <city>
     <id>85392</id>
@@ -783062,7 +782962,7 @@
   </city>
   <city>
     <id>85396</id>
-    <name>Choa Saidan Shah</name>
+    <name>Choa Saidanshah</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -783071,8 +782971,8 @@
     <longitude>72.98625000</longitude>
   </city>
   <city>
-    <id>85398</id>
-    <name>Chuchar-kana Mandi</name>
+    <id>143765</id>
+    <name>Chuhar Kana</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -783132,7 +783032,7 @@
   </city>
   <city>
     <id>85411</id>
-    <name>Daska Kalan</name>
+    <name>Daska</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -783141,14 +783041,14 @@
     <longitude>74.35039000</longitude>
   </city>
   <city>
-    <id>85412</id>
+    <id>143767</id>
     <name>Daud Khel</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
     <country_code>PK</country_code>
-    <latitude>32.87533000</latitude>
-    <longitude>71.57118000</longitude>
+    <latitude>32.87498000</latitude>
+    <longitude>71.57013000</longitude>
   </city>
   <city>
     <id>85414</id>
@@ -783189,6 +783089,16 @@
     <country_code>PK</country_code>
     <latitude>32.40613000</latitude>
     <longitude>74.13706000</longitude>
+  </city>
+  <city>
+    <id>143766</id>
+    <name>Dhok Awan</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>32.84452000</latitude>
+    <longitude>72.52357000</longitude>
   </city>
   <city>
     <id>85425</id>
@@ -783311,6 +783221,16 @@
     <longitude>75.06583000</longitude>
   </city>
   <city>
+    <id>143768</id>
+    <name>Ferozewala</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>29.30000000</latitude>
+    <longitude>70.43333333</longitude>
+  </city>
+  <city>
     <id>85441</id>
     <name>Fort Abbas</name>
     <state_id>3176</state_id>
@@ -783359,6 +783279,16 @@
     <country_code>PK</country_code>
     <latitude>32.15567000</latitude>
     <longitude>74.18705000</longitude>
+  </city>
+  <city>
+    <id>143769</id>
+    <name>Gujranwala Division</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>32.45000000</latitude>
+    <longitude>74.13333000</longitude>
   </city>
   <city>
     <id>85457</id>
@@ -783411,6 +783341,16 @@
     <longitude>73.13802000</longitude>
   </city>
   <city>
+    <id>143770</id>
+    <name>Hasan Abdal</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>33.81948611</latitude>
+    <longitude>72.68902778</longitude>
+  </city>
+  <city>
     <id>85468</id>
     <name>Hasilpur</name>
     <state_id>3176</state_id>
@@ -783432,7 +783372,7 @@
   </city>
   <city>
     <id>85471</id>
-    <name>Hazro City</name>
+    <name>Hazro</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -783442,7 +783382,7 @@
   </city>
   <city>
     <id>85473</id>
-    <name>Hujra Shah Muqim</name>
+    <name>Hujra Shah Muqeem</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -783542,7 +783482,7 @@
   </city>
   <city>
     <id>85490</id>
-    <name>Jhang City</name>
+    <name>Jhang</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -783552,7 +783492,7 @@
   </city>
   <city>
     <id>85491</id>
-    <name>Jhang Sadr</name>
+    <name>Jhang Sadar</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -783599,16 +783539,6 @@
     <country_code>PK</country_code>
     <latitude>31.36709000</latitude>
     <longitude>74.36899000</longitude>
-  </city>
-  <city>
-    <id>85502</id>
-    <name>Kahror Pakka</name>
-    <state_id>3176</state_id>
-    <state_code>PB</state_code>
-    <country_id>167</country_id>
-    <country_code>PK</country_code>
-    <latitude>29.62430000</latitude>
-    <longitude>71.91437000</longitude>
   </city>
   <city>
     <id>85503</id>
@@ -783752,7 +783682,7 @@
   </city>
   <city>
     <id>85535</id>
-    <name>Khairpur Tamewah</name>
+    <name>Khairpur Tamiwali</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -783782,7 +783712,7 @@
   </city>
   <city>
     <id>85539</id>
-    <name>Khangah Dogran</name>
+    <name>Khanga Dogran</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -783842,7 +783772,7 @@
   </city>
   <city>
     <id>85547</id>
-    <name>Khushāb</name>
+    <name>Khushab</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -783851,8 +783781,18 @@
     <longitude>72.35250000</longitude>
   </city>
   <city>
+    <id>143771</id>
+    <name>Kohror Pakka</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>29.62382000</latitude>
+    <longitude>71.91673000</longitude>
+  </city>
+  <city>
     <id>85553</id>
-    <name>Kot Addu</name>
+    <name>Kot Addu Tehsil</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -784091,6 +784031,16 @@
     <longitude>73.49123000</longitude>
   </city>
   <city>
+    <id>143772</id>
+    <name>Mandi Bahauddin District</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>32.58333333</latitude>
+    <longitude>73.50000000</longitude>
+  </city>
+  <city>
     <id>85595</id>
     <name>Mangla</name>
     <state_id>3176</state_id>
@@ -784152,7 +784102,7 @@
   </city>
   <city>
     <id>85609</id>
-    <name>Minchianabad</name>
+    <name>Minchinabad</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -784191,6 +784141,16 @@
     <longitude>71.47824000</longitude>
   </city>
   <city>
+    <id>143773</id>
+    <name>Multan District</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>30.08333333</latitude>
+    <longitude>71.66666667</longitude>
+  </city>
+  <city>
     <id>85624</id>
     <name>Muridke</name>
     <state_id>3176</state_id>
@@ -784212,7 +784172,7 @@
   </city>
   <city>
     <id>85626</id>
-    <name>Mustafābād</name>
+    <name>Mustafabad</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -784261,16 +784221,6 @@
     <longitude>74.87303000</longitude>
   </city>
   <city>
-    <id>85649</id>
-    <name>Nārowāl District</name>
-    <state_id>3176</state_id>
-    <state_code>PB</state_code>
-    <country_id>167</country_id>
-    <country_code>PK</country_code>
-    <latitude>32.21114000</latitude>
-    <longitude>74.95318000</longitude>
-  </city>
-  <city>
     <id>85638</id>
     <name>Naushahra Virkan</name>
     <state_id>3176</state_id>
@@ -784299,6 +784249,16 @@
     <country_code>PK</country_code>
     <latitude>30.81029000</latitude>
     <longitude>73.45155000</longitude>
+  </city>
+  <city>
+    <id>143774</id>
+    <name>Pakki Shagwanwali</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>30.79033000</latitude>
+    <longitude>70.87139000</longitude>
   </city>
   <city>
     <id>85655</id>
@@ -784391,6 +784351,26 @@
     <longitude>71.67164000</longitude>
   </city>
   <city>
+    <id>143775</id>
+    <name>Qila Didar Singh</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>32.80000000</latitude>
+    <longitude>74.10000000</longitude>
+  </city>
+  <city>
+    <id>85389</id>
+    <name>Rabwah</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>31.75511000</latitude>
+    <longitude>72.91403000</longitude>
+  </city>
+  <city>
     <id>85674</id>
     <name>Rahim Yar Khan</name>
     <state_id>3176</state_id>
@@ -784399,6 +784379,16 @@
     <country_code>PK</country_code>
     <latitude>28.41987000</latitude>
     <longitude>70.30345000</longitude>
+  </city>
+  <city>
+    <id>143776</id>
+    <name>Rahimyar Khan District</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>28.46020000</latitude>
+    <longitude>70.52837000</longitude>
   </city>
   <city>
     <id>85675</id>
@@ -784482,7 +784472,7 @@
   </city>
   <city>
     <id>85690</id>
-    <name>Saddiqabad</name>
+    <name>Sadiqabad</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -784561,14 +784551,14 @@
     <longitude>72.67418000</longitude>
   </city>
   <city>
-    <id>85708</id>
-    <name>Shahkot</name>
+    <id>143777</id>
+    <name>Shahkot Tehsil</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
     <country_code>PK</country_code>
-    <latitude>31.57090000</latitude>
-    <longitude>73.48531000</longitude>
+    <latitude>31.56166667</latitude>
+    <longitude>73.48750000</longitude>
   </city>
   <city>
     <id>85709</id>
@@ -784602,7 +784592,7 @@
   </city>
   <city>
     <id>85713</id>
-    <name>Sharqpur Sharif</name>
+    <name>Sharqpur</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -784612,13 +784602,23 @@
   </city>
   <city>
     <id>85714</id>
-    <name>Shekhupura</name>
+    <name>Sheikhupura</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
     <country_code>PK</country_code>
     <latitude>31.71287000</latitude>
     <longitude>73.98556000</longitude>
+  </city>
+  <city>
+    <id>85708</id>
+    <name>Shorkot</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>30.50000000</latitude>
+    <longitude>72.40000000</longitude>
   </city>
   <city>
     <id>85719</id>
@@ -784652,7 +784652,7 @@
   </city>
   <city>
     <id>85726</id>
-    <name>Sodhri</name>
+    <name>Sodhra</name>
     <state_id>3176</state_id>
     <state_code>PB</state_code>
     <country_id>167</country_id>
@@ -784731,6 +784731,16 @@
     <longitude>72.48275000</longitude>
   </city>
   <city>
+    <id>143778</id>
+    <name>Umerkot</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>25.36138889</latitude>
+    <longitude>69.73611111</longitude>
+  </city>
+  <city>
     <id>85763</id>
     <name>Vihari</name>
     <state_id>3176</state_id>
@@ -784741,6 +784751,26 @@
     <longitude>72.35560000</longitude>
   </city>
   <city>
+    <id>143779</id>
+    <name>Wah</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>33.81000000</latitude>
+    <longitude>72.70972222</longitude>
+  </city>
+  <city>
+    <id>143780</id>
+    <name>Warburton</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>31.55000000</latitude>
+    <longitude>73.83330000</longitude>
+  </city>
+  <city>
     <id>85766</id>
     <name>Wazirabad</name>
     <state_id>3176</state_id>
@@ -784749,6 +784779,16 @@
     <country_code>PK</country_code>
     <latitude>32.44324000</latitude>
     <longitude>74.12000000</longitude>
+  </city>
+  <city>
+    <id>143781</id>
+    <name>West Punjab</name>
+    <state_id>3176</state_id>
+    <state_code>PB</state_code>
+    <country_id>167</country_id>
+    <country_code>PK</country_code>
+    <latitude>31.00000000</latitude>
+    <longitude>72.00000000</longitude>
   </city>
   <city>
     <id>85767</id>

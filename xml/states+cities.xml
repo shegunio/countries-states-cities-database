@@ -290290,19 +290290,19 @@
     </cities>
     <cities>
       <id>57615</id>
-      <name>Ajnāla</name>
+      <name>Ajnala</name>
       <latitude>31.84473000</latitude>
       <longitude>74.76295000</longitude>
     </cities>
     <cities>
       <id>57629</id>
-      <name>Akālgarh</name>
+      <name>Akalgarh</name>
       <latitude>29.82074000</latitude>
       <longitude>75.89078000</longitude>
     </cities>
     <cities>
       <id>57651</id>
-      <name>Alāwalpur</name>
+      <name>Alawalpur</name>
       <latitude>31.43161000</latitude>
       <longitude>75.65614000</longitude>
     </cities>
@@ -290320,19 +290320,19 @@
     </cities>
     <cities>
       <id>57697</id>
-      <name>Anandpur</name>
+      <name>Anandpur Sahib</name>
       <latitude>31.23926000</latitude>
       <longitude>76.50253000</longitude>
     </cities>
     <cities>
       <id>57791</id>
-      <name>Badhni Kalān</name>
+      <name>Badhni Kalan</name>
       <latitude>30.68130000</latitude>
       <longitude>75.29087000</longitude>
     </cities>
     <cities>
       <id>58109</id>
-      <name>Bāgha Purāna</name>
+      <name>Bagha Purana</name>
       <latitude>30.68809000</latitude>
       <longitude>75.09838000</longitude>
     </cities>
@@ -290344,7 +290344,7 @@
     </cities>
     <cities>
       <id>58118</id>
-      <name>Bālāchor</name>
+      <name>Balachor</name>
       <latitude>31.06062000</latitude>
       <longitude>76.30166000</longitude>
     </cities>
@@ -290356,43 +290356,25 @@
     </cities>
     <cities>
       <id>57859</id>
-      <name>Banūr</name>
+      <name>Banur</name>
       <latitude>30.55407000</latitude>
       <longitude>76.71948000</longitude>
     </cities>
     <cities>
-      <id>57881</id>
-      <name>Barnala</name>
-      <latitude>30.38000000</latitude>
-      <longitude>75.50000000</longitude>
-    </cities>
-    <cities>
       <id>57882</id>
-      <name>Barnāla</name>
+      <name>Barnala</name>
       <latitude>30.37451000</latitude>
       <longitude>75.54870000</longitude>
     </cities>
     <cities>
-      <id>57896</id>
-      <name>Basi</name>
-      <latitude>30.58813000</latitude>
-      <longitude>76.84498000</longitude>
-    </cities>
-    <cities>
       <id>57906</id>
-      <name>Batāla</name>
+      <name>Batala</name>
       <latitude>31.80921000</latitude>
       <longitude>75.20294000</longitude>
     </cities>
     <cities>
-      <id>57904</id>
-      <name>Bathinda</name>
-      <latitude>30.21000000</latitude>
-      <longitude>75.03000000</longitude>
-    </cities>
-    <cities>
       <id>57914</id>
-      <name>Begowāl</name>
+      <name>Begowal</name>
       <latitude>31.61152000</latitude>
       <longitude>75.52135000</longitude>
     </cities>
@@ -290403,14 +290385,20 @@
       <longitude>75.33049000</longitude>
     </cities>
     <cities>
+      <id>57904</id>
+      <name>Bhatinda</name>
+      <latitude>30.20747000</latitude>
+      <longitude>74.93893000</longitude>
+    </cities>
+    <cities>
       <id>57977</id>
-      <name>Bhawānīgarh</name>
+      <name>Bhawanigarh</name>
       <latitude>30.26685000</latitude>
       <longitude>76.03854000</longitude>
     </cities>
     <cities>
       <id>58018</id>
-      <name>Bhīkhi</name>
+      <name>Bhikhi</name>
       <latitude>30.05918000</latitude>
       <longitude>75.53500000</longitude>
     </cities>
@@ -290421,34 +290409,40 @@
       <longitude>75.64271000</longitude>
     </cities>
     <cities>
-      <id>58003</id>
-      <name>Bhulath Gharbi</name>
-      <latitude>31.54279000</latitude>
-      <longitude>75.50755000</longitude>
+      <id>143761</id>
+      <name>Bholath</name>
+      <latitude>31.54277778</latitude>
+      <longitude>75.50750000</longitude>
     </cities>
     <cities>
       <id>58090</id>
-      <name>Budhlāda</name>
+      <name>Budhlada</name>
       <latitude>29.92799000</latitude>
       <longitude>75.56205000</longitude>
     </cities>
     <cities>
       <id>131610</id>
-      <name>Chīma</name>
+      <name>Chima</name>
       <latitude>30.68540000</latitude>
       <longitude>76.08643000</longitude>
     </cities>
     <cities>
       <id>131661</id>
-      <name>Dasūya</name>
+      <name>Dasuya</name>
       <latitude>31.81679000</latitude>
       <longitude>75.65310000</longitude>
     </cities>
     <cities>
       <id>131696</id>
-      <name>Derā Nānak</name>
+      <name>Dera Baba Nanak</name>
       <latitude>32.03733000</latitude>
       <longitude>75.02787000</longitude>
+    </cities>
+    <cities>
+      <id>143763</id>
+      <name>Dera Bassi</name>
+      <latitude>30.58720000</latitude>
+      <longitude>76.84280000</longitude>
     </cities>
     <cities>
       <id>131713</id>
@@ -290458,7 +290452,7 @@
     </cities>
     <cities>
       <id>131756</id>
-      <name>Dhāriwāl</name>
+      <name>Dhariwal</name>
       <latitude>31.95616000</latitude>
       <longitude>75.32386000</longitude>
     </cities>
@@ -290469,14 +290463,20 @@
       <longitude>75.34574000</longitude>
     </cities>
     <cities>
+      <id>143762</id>
+      <name>Dhudi</name>
+      <latitude>30.69636000</latitude>
+      <longitude>74.85246000</longitude>
+    </cities>
+    <cities>
       <id>131760</id>
-      <name>Dhūri</name>
+      <name>Dhuri</name>
       <latitude>30.36846000</latitude>
       <longitude>75.86791000</longitude>
     </cities>
     <cities>
       <id>131816</id>
-      <name>Dīnānagar</name>
+      <name>Dina Nagar</name>
       <latitude>32.13664000</latitude>
       <longitude>75.47291000</longitude>
     </cities>
@@ -290488,25 +290488,19 @@
     </cities>
     <cities>
       <id>131790</id>
-      <name>Dorāha</name>
+      <name>Doraha</name>
       <latitude>30.79953000</latitude>
       <longitude>76.02355000</longitude>
     </cities>
     <cities>
-      <id>131855</id>
-      <name>Faridkot</name>
-      <latitude>30.65000000</latitude>
-      <longitude>74.75000000</longitude>
-    </cities>
-    <cities>
       <id>131859</id>
-      <name>Farīdkot</name>
+      <name>Faridkot</name>
       <latitude>30.67399000</latitude>
       <longitude>74.75579000</longitude>
     </cities>
     <cities>
       <id>131865</id>
-      <name>Fatehgarh Chūriān</name>
+      <name>Fatehgarh Churian</name>
       <latitude>31.86431000</latitude>
       <longitude>74.95665000</longitude>
     </cities>
@@ -290518,25 +290512,25 @@
     </cities>
     <cities>
       <id>131881</id>
-      <name>Fāzilka</name>
+      <name>Fazilka</name>
       <latitude>30.40207000</latitude>
       <longitude>74.02836000</longitude>
     </cities>
     <cities>
       <id>131875</id>
-      <name>Ferozepore</name>
+      <name>Firozpur</name>
       <latitude>30.92574000</latitude>
       <longitude>74.61311000</longitude>
     </cities>
     <cities>
       <id>131877</id>
-      <name>Firozpur</name>
+      <name>Firozpur District</name>
       <latitude>30.89000000</latitude>
       <longitude>74.56000000</longitude>
     </cities>
     <cities>
       <id>131918</id>
-      <name>Garhdiwāla</name>
+      <name>Gardhiwala</name>
       <latitude>31.74147000</latitude>
       <longitude>75.75567000</longitude>
     </cities>
@@ -290554,7 +290548,7 @@
     </cities>
     <cities>
       <id>131956</id>
-      <name>Giddarbāha</name>
+      <name>Giddarbaha</name>
       <latitude>30.19953000</latitude>
       <longitude>74.66627000</longitude>
     </cities>
@@ -290566,33 +290560,33 @@
     </cities>
     <cities>
       <id>132037</id>
-      <name>Guru Har Sahāi</name>
+      <name>Guru Har Sahai</name>
       <latitude>30.70862000</latitude>
       <longitude>74.40407000</longitude>
     </cities>
     <cities>
       <id>132136</id>
-      <name>Hājipur</name>
+      <name>Hajipur</name>
       <latitude>31.97714000</latitude>
       <longitude>75.75438000</longitude>
     </cities>
     <cities>
       <id>132077</id>
-      <name>Hariāna</name>
+      <name>Hariana</name>
       <latitude>31.63512000</latitude>
       <longitude>75.83887000</longitude>
     </cities>
     <cities>
-      <id>132121</id>
-      <name>Hoshiarpur</name>
-      <latitude>31.66000000</latitude>
-      <longitude>75.85000000</longitude>
-    </cities>
-    <cities>
       <id>132122</id>
-      <name>Hoshiārpur</name>
+      <name>Hoshiarpur</name>
       <latitude>31.53723000</latitude>
       <longitude>75.91269000</longitude>
+    </cities>
+    <cities>
+      <id>143764</id>
+      <name>Ishanpur</name>
+      <latitude>30.63929000</latitude>
+      <longitude>76.11761000</longitude>
     </cities>
     <cities>
       <id>132192</id>
@@ -290608,7 +290602,7 @@
     </cities>
     <cities>
       <id>132223</id>
-      <name>Jalālābād</name>
+      <name>Jalalabad</name>
       <latitude>30.60622000</latitude>
       <longitude>74.25727000</longitude>
     </cities>
@@ -290620,13 +290614,13 @@
     </cities>
     <cities>
       <id>132236</id>
-      <name>Jandiāla</name>
+      <name>Jandiala</name>
       <latitude>31.15930000</latitude>
       <longitude>75.61755000</longitude>
     </cities>
     <cities>
       <id>132237</id>
-      <name>Jandiāla Gurū</name>
+      <name>Jandiala Guru</name>
       <latitude>31.56198000</latitude>
       <longitude>75.02770000</longitude>
     </cities>
@@ -290637,26 +290631,20 @@
       <longitude>75.15063000</longitude>
     </cities>
     <cities>
-      <id>132391</id>
-      <name>Kapurthala</name>
-      <latitude>31.40000000</latitude>
-      <longitude>75.31000000</longitude>
-    </cities>
-    <cities>
       <id>132392</id>
-      <name>Kapūrthala</name>
+      <name>Kapurthala</name>
       <latitude>31.38011000</latitude>
       <longitude>75.38105000</longitude>
     </cities>
     <cities>
       <id>132408</id>
-      <name>Kartārpur</name>
+      <name>Kartarpur</name>
       <latitude>31.44268000</latitude>
       <longitude>75.49847000</longitude>
     </cities>
     <cities>
       <id>132465</id>
-      <name>Khamānon Kalān</name>
+      <name>Khamanon</name>
       <latitude>30.81725000</latitude>
       <longitude>76.35478000</longitude>
     </cities>
@@ -290674,13 +290662,13 @@
     </cities>
     <cities>
       <id>132491</id>
-      <name>Khem Karan</name>
+      <name>Khemkaran</name>
       <latitude>31.14443000</latitude>
       <longitude>74.55938000</longitude>
     </cities>
     <cities>
       <id>132591</id>
-      <name>Kot Īsa Khān</name>
+      <name>Kot Isa Khan</name>
       <latitude>30.94659000</latitude>
       <longitude>75.13780000</longitude>
     </cities>
@@ -290692,31 +290680,25 @@
     </cities>
     <cities>
       <id>132760</id>
-      <name>Laungowāl</name>
+      <name>Laungowal</name>
       <latitude>30.19393000</latitude>
       <longitude>75.68089000</longitude>
     </cities>
     <cities>
-      <id>132784</id>
-      <name>Ludhiana</name>
-      <latitude>30.84000000</latitude>
-      <longitude>75.82000000</longitude>
-    </cities>
-    <cities>
       <id>132785</id>
-      <name>Ludhiāna</name>
+      <name>Ludhiana</name>
       <latitude>30.91204000</latitude>
       <longitude>75.85379000</longitude>
     </cities>
     <cities>
       <id>133056</id>
-      <name>Māchhīwāra</name>
+      <name>Machhiwara</name>
       <latitude>30.91557000</latitude>
       <longitude>76.20016000</longitude>
     </cities>
     <cities>
       <id>132861</id>
-      <name>Majītha</name>
+      <name>Majitha</name>
       <latitude>31.75711000</latitude>
       <longitude>74.95891000</longitude>
     </cities>
@@ -290734,25 +290716,19 @@
     </cities>
     <cities>
       <id>133066</id>
-      <name>Māler Kotla</name>
+      <name>Malerkotla</name>
       <latitude>30.53090000</latitude>
       <longitude>75.87949000</longitude>
     </cities>
     <cities>
-      <id>132925</id>
-      <name>Mansa</name>
-      <latitude>29.94000000</latitude>
-      <longitude>75.43000000</longitude>
-    </cities>
-    <cities>
       <id>133082</id>
-      <name>Mānsa</name>
+      <name>Mansa</name>
       <latitude>29.98844000</latitude>
       <longitude>75.40167000</longitude>
     </cities>
     <cities>
       <id>132948</id>
-      <name>Maur</name>
+      <name>Maur Mandi</name>
       <latitude>30.08333000</latitude>
       <longitude>75.25000000</longitude>
     </cities>
@@ -290776,19 +290752,13 @@
     </cities>
     <cities>
       <id>133017</id>
-      <name>Mukeriān</name>
+      <name>Mukerian</name>
       <latitude>31.95394000</latitude>
       <longitude>75.61716000</longitude>
     </cities>
     <cities>
-      <id>133019</id>
-      <name>Muktsar</name>
-      <latitude>30.47426000</latitude>
-      <longitude>74.51660000</longitude>
-    </cities>
-    <cities>
       <id>133250</id>
-      <name>Nābha</name>
+      <name>Nabha</name>
       <latitude>30.37577000</latitude>
       <longitude>76.15292000</longitude>
     </cities>
@@ -290812,31 +290782,25 @@
     </cities>
     <cities>
       <id>133291</id>
-      <name>Nūrmahal</name>
+      <name>Nurmahal</name>
       <latitude>31.09662000</latitude>
       <longitude>75.59386000</longitude>
     </cities>
     <cities>
       <id>133293</id>
-      <name>Nūrpur Kalān</name>
+      <name>Nurpur Kalan</name>
       <latitude>31.16667000</latitude>
       <longitude>76.48333000</longitude>
     </cities>
     <cities>
       <id>133382</id>
-      <name>Pathānkot</name>
+      <name>Pathankot</name>
       <latitude>32.27484000</latitude>
       <longitude>75.65287000</longitude>
     </cities>
     <cities>
-      <id>133383</id>
-      <name>Patiala</name>
-      <latitude>30.35000000</latitude>
-      <longitude>76.40000000</longitude>
-    </cities>
-    <cities>
       <id>133384</id>
-      <name>Patiāla</name>
+      <name>Patiala</name>
       <latitude>30.33625000</latitude>
       <longitude>76.39220000</longitude>
     </cities>
@@ -290848,7 +290812,7 @@
     </cities>
     <cities>
       <id>133431</id>
-      <name>Phagwāra</name>
+      <name>Phagwara</name>
       <latitude>31.22452000</latitude>
       <longitude>75.77387000</longitude>
     </cities>
@@ -290860,51 +290824,45 @@
     </cities>
     <cities>
       <id>133575</id>
-      <name>Qādiān</name>
+      <name>Qadian</name>
       <latitude>31.82198000</latitude>
       <longitude>75.37663000</longitude>
     </cities>
     <cities>
       <id>133662</id>
-      <name>Rāhon</name>
+      <name>Rahon</name>
       <latitude>31.05275000</latitude>
       <longitude>76.11907000</longitude>
     </cities>
     <cities>
       <id>133665</id>
-      <name>Rāikot</name>
+      <name>Raikot</name>
       <latitude>30.65000000</latitude>
       <longitude>75.60000000</longitude>
     </cities>
     <cities>
       <id>133670</id>
-      <name>Rāja Sānsi</name>
+      <name>Rajasansi</name>
       <latitude>31.72021000</latitude>
       <longitude>74.80080000</longitude>
     </cities>
     <cities>
       <id>133681</id>
-      <name>Rājpura</name>
+      <name>Rajpura</name>
       <latitude>30.47856000</latitude>
       <longitude>76.59284000</longitude>
     </cities>
     <cities>
       <id>133690</id>
-      <name>Rām Dās</name>
+      <name>Ram Das</name>
       <latitude>31.96739000</latitude>
       <longitude>74.90870000</longitude>
     </cities>
     <cities>
       <id>133708</id>
-      <name>Rāmpura</name>
+      <name>Rampura</name>
       <latitude>30.25600000</latitude>
       <longitude>75.24116000</longitude>
-    </cities>
-    <cities>
-      <id>133651</id>
-      <name>Ropar</name>
-      <latitude>30.96896000</latitude>
-      <longitude>76.52695000</longitude>
     </cities>
     <cities>
       <id>133654</id>
@@ -290914,7 +290872,7 @@
     </cities>
     <cities>
       <id>133772</id>
-      <name>Samrāla</name>
+      <name>Samrala</name>
       <latitude>30.83601000</latitude>
       <longitude>76.19324000</longitude>
     </cities>
@@ -290925,14 +290883,8 @@
       <longitude>76.45786000</longitude>
     </cities>
     <cities>
-      <id>133784</id>
-      <name>Sangrur</name>
-      <latitude>30.25000000</latitude>
-      <longitude>75.85000000</longitude>
-    </cities>
-    <cities>
       <id>133785</id>
-      <name>Sangrūr</name>
+      <name>Sangrur</name>
       <latitude>30.24506000</latitude>
       <longitude>75.84488000</longitude>
     </cities>
@@ -290950,31 +290902,37 @@
     </cities>
     <cities>
       <id>133897</id>
-      <name>Shāhkot</name>
+      <name>Shahkot</name>
       <latitude>31.08173000</latitude>
       <longitude>75.33708000</longitude>
     </cities>
     <cities>
       <id>133911</id>
-      <name>Shām Churāsi</name>
+      <name>Sham Churasi</name>
       <latitude>31.50028000</latitude>
       <longitude>75.74917000</longitude>
     </cities>
     <cities>
       <id>133955</id>
-      <name>Sirhind</name>
+      <name>Sirhind-Fategarh</name>
       <latitude>30.64321000</latitude>
       <longitude>76.38421000</longitude>
     </cities>
     <cities>
+      <id>133019</id>
+      <name>Sri Muktsar Sahib</name>
+      <latitude>30.47426000</latitude>
+      <longitude>74.51660000</longitude>
+    </cities>
+    <cities>
       <id>134037</id>
-      <name>Sultanpur</name>
+      <name>Sultanpur Lodhi</name>
       <latitude>31.21468000</latitude>
       <longitude>75.19602000</longitude>
     </cities>
     <cities>
       <id>134048</id>
-      <name>Sunām</name>
+      <name>Sunam</name>
       <latitude>30.12883000</latitude>
       <longitude>75.79943000</longitude>
     </cities>
@@ -290986,19 +290944,13 @@
     </cities>
     <cities>
       <id>134106</id>
-      <name>Talwāra</name>
+      <name>Talwara</name>
       <latitude>31.93760000</latitude>
       <longitude>75.88657000</longitude>
     </cities>
     <cities>
-      <id>134117</id>
-      <name>Tarn Taran</name>
-      <latitude>31.32692000</latitude>
-      <longitude>74.81643000</longitude>
-    </cities>
-    <cities>
       <id>134118</id>
-      <name>Tarn Tāran</name>
+      <name>Tarn Taran Sahib</name>
       <latitude>31.45191000</latitude>
       <longitude>74.92777000</longitude>
     </cities>
@@ -488389,20 +488341,20 @@
     <state_code>PB</state_code>
     <country_id>167</country_id>
     <cities>
-      <id>85331</id>
-      <name>Ahmadpur East</name>
-      <latitude>29.14269000</latitude>
-      <longitude>71.25771000</longitude>
-    </cities>
-    <cities>
       <id>85332</id>
       <name>Ahmadpur Sial</name>
       <latitude>30.67791000</latitude>
       <longitude>71.74344000</longitude>
     </cities>
     <cities>
+      <id>85331</id>
+      <name>Ahmedpur East</name>
+      <latitude>29.14269000</latitude>
+      <longitude>71.25771000</longitude>
+    </cities>
+    <cities>
       <id>85335</id>
-      <name>Alipur</name>
+      <name>Alipur Chatha</name>
       <latitude>29.38242000</latitude>
       <longitude>70.91106000</longitude>
     </cities>
@@ -488414,7 +488366,7 @@
     </cities>
     <cities>
       <id>85341</id>
-      <name>Attock City</name>
+      <name>Attock Tehsil</name>
       <latitude>33.76671000</latitude>
       <longitude>72.35977000</longitude>
     </cities>
@@ -488492,21 +488444,15 @@
     </cities>
     <cities>
       <id>85376</id>
-      <name>Būrewāla</name>
+      <name>Burewala</name>
       <latitude>30.16667000</latitude>
       <longitude>72.65000000</longitude>
     </cities>
     <cities>
       <id>85378</id>
-      <name>Chak Azam Sahu</name>
+      <name>Chak Azam Saffo</name>
       <latitude>30.75202000</latitude>
       <longitude>73.02834000</longitude>
-    </cities>
-    <cities>
-      <id>85379</id>
-      <name>Chak Five Hundred Seventy-five</name>
-      <latitude>31.54514000</latitude>
-      <longitude>73.82891000</longitude>
     </cities>
     <cities>
       <id>85380</id>
@@ -488528,7 +488474,7 @@
     </cities>
     <cities>
       <id>85383</id>
-      <name>Chak Two Hundred Forty-nine Thal Development Authority</name>
+      <name>Chak Two Hundred Forty-Nine TDA</name>
       <latitude>31.17772000</latitude>
       <longitude>71.20480000</longitude>
     </cities>
@@ -488543,12 +488489,6 @@
       <name>Chawinda</name>
       <latitude>32.34434000</latitude>
       <longitude>74.70507000</longitude>
-    </cities>
-    <cities>
-      <id>85389</id>
-      <name>Chenab Nagar</name>
-      <latitude>31.75511000</latitude>
-      <longitude>72.91403000</longitude>
     </cities>
     <cities>
       <id>85392</id>
@@ -488570,13 +488510,13 @@
     </cities>
     <cities>
       <id>85396</id>
-      <name>Choa Saidan Shah</name>
+      <name>Choa Saidanshah</name>
       <latitude>32.71962000</latitude>
       <longitude>72.98625000</longitude>
     </cities>
     <cities>
-      <id>85398</id>
-      <name>Chuchar-kana Mandi</name>
+      <id>143765</id>
+      <name>Chuhar Kana</name>
       <latitude>31.75000000</latitude>
       <longitude>73.80000000</longitude>
     </cities>
@@ -488612,15 +488552,15 @@
     </cities>
     <cities>
       <id>85411</id>
-      <name>Daska Kalan</name>
+      <name>Daska</name>
       <latitude>32.32422000</latitude>
       <longitude>74.35039000</longitude>
     </cities>
     <cities>
-      <id>85412</id>
+      <id>143767</id>
       <name>Daud Khel</name>
-      <latitude>32.87533000</latitude>
-      <longitude>71.57118000</longitude>
+      <latitude>32.87498000</latitude>
+      <longitude>71.57013000</longitude>
     </cities>
     <cities>
       <id>85414</id>
@@ -488645,6 +488585,12 @@
       <name>Dhaunkal</name>
       <latitude>32.40613000</latitude>
       <longitude>74.13706000</longitude>
+    </cities>
+    <cities>
+      <id>143766</id>
+      <name>Dhok Awan</name>
+      <latitude>32.84452000</latitude>
+      <longitude>72.52357000</longitude>
     </cities>
     <cities>
       <id>85425</id>
@@ -488719,6 +488665,12 @@
       <longitude>75.06583000</longitude>
     </cities>
     <cities>
+      <id>143768</id>
+      <name>Ferozewala</name>
+      <latitude>29.30000000</latitude>
+      <longitude>70.43333333</longitude>
+    </cities>
+    <cities>
       <id>85441</id>
       <name>Fort Abbas</name>
       <latitude>29.19344000</latitude>
@@ -488747,6 +488699,12 @@
       <name>Gujranwala</name>
       <latitude>32.15567000</latitude>
       <longitude>74.18705000</longitude>
+    </cities>
+    <cities>
+      <id>143769</id>
+      <name>Gujranwala Division</name>
+      <latitude>32.45000000</latitude>
+      <longitude>74.13333000</longitude>
     </cities>
     <cities>
       <id>85457</id>
@@ -488779,6 +488737,12 @@
       <longitude>73.13802000</longitude>
     </cities>
     <cities>
+      <id>143770</id>
+      <name>Hasan Abdal</name>
+      <latitude>33.81948611</latitude>
+      <longitude>72.68902778</longitude>
+    </cities>
+    <cities>
       <id>85468</id>
       <name>Hasilpur</name>
       <latitude>29.69221000</latitude>
@@ -488792,13 +488756,13 @@
     </cities>
     <cities>
       <id>85471</id>
-      <name>Hazro City</name>
+      <name>Hazro</name>
       <latitude>33.90990000</latitude>
       <longitude>72.49179000</longitude>
     </cities>
     <cities>
       <id>85473</id>
-      <name>Hujra Shah Muqim</name>
+      <name>Hujra Shah Muqeem</name>
       <latitude>30.74168000</latitude>
       <longitude>73.82327000</longitude>
     </cities>
@@ -488858,13 +488822,13 @@
     </cities>
     <cities>
       <id>85490</id>
-      <name>Jhang City</name>
+      <name>Jhang</name>
       <latitude>31.30568000</latitude>
       <longitude>72.32594000</longitude>
     </cities>
     <cities>
       <id>85491</id>
-      <name>Jhang Sadr</name>
+      <name>Jhang Sadar</name>
       <latitude>31.26981000</latitude>
       <longitude>72.31687000</longitude>
     </cities>
@@ -488891,12 +488855,6 @@
       <name>Kahna Nau</name>
       <latitude>31.36709000</latitude>
       <longitude>74.36899000</longitude>
-    </cities>
-    <cities>
-      <id>85502</id>
-      <name>Kahror Pakka</name>
-      <latitude>29.62430000</latitude>
-      <longitude>71.91437000</longitude>
     </cities>
     <cities>
       <id>85503</id>
@@ -488984,7 +488942,7 @@
     </cities>
     <cities>
       <id>85535</id>
-      <name>Khairpur Tamewah</name>
+      <name>Khairpur Tamiwali</name>
       <latitude>29.58139000</latitude>
       <longitude>72.23804000</longitude>
     </cities>
@@ -489002,7 +488960,7 @@
     </cities>
     <cities>
       <id>85539</id>
-      <name>Khangah Dogran</name>
+      <name>Khanga Dogran</name>
       <latitude>31.83294000</latitude>
       <longitude>73.62213000</longitude>
     </cities>
@@ -489038,13 +488996,19 @@
     </cities>
     <cities>
       <id>85547</id>
-      <name>Khushāb</name>
+      <name>Khushab</name>
       <latitude>32.29667000</latitude>
       <longitude>72.35250000</longitude>
     </cities>
     <cities>
+      <id>143771</id>
+      <name>Kohror Pakka</name>
+      <latitude>29.62382000</latitude>
+      <longitude>71.91673000</longitude>
+    </cities>
+    <cities>
       <id>85553</id>
-      <name>Kot Addu</name>
+      <name>Kot Addu Tehsil</name>
       <latitude>30.46907000</latitude>
       <longitude>70.96699000</longitude>
     </cities>
@@ -489187,6 +489151,12 @@
       <longitude>73.49123000</longitude>
     </cities>
     <cities>
+      <id>143772</id>
+      <name>Mandi Bahauddin District</name>
+      <latitude>32.58333333</latitude>
+      <longitude>73.50000000</longitude>
+    </cities>
+    <cities>
       <id>85595</id>
       <name>Mangla</name>
       <latitude>31.89306000</latitude>
@@ -489224,7 +489194,7 @@
     </cities>
     <cities>
       <id>85609</id>
-      <name>Minchianabad</name>
+      <name>Minchinabad</name>
       <latitude>30.16356000</latitude>
       <longitude>73.56858000</longitude>
     </cities>
@@ -489247,6 +489217,12 @@
       <longitude>71.47824000</longitude>
     </cities>
     <cities>
+      <id>143773</id>
+      <name>Multan District</name>
+      <latitude>30.08333333</latitude>
+      <longitude>71.66666667</longitude>
+    </cities>
+    <cities>
       <id>85624</id>
       <name>Muridke</name>
       <latitude>31.80258000</latitude>
@@ -489260,7 +489236,7 @@
     </cities>
     <cities>
       <id>85626</id>
-      <name>Mustafābād</name>
+      <name>Mustafabad</name>
       <latitude>30.89222000</latitude>
       <longitude>73.49889000</longitude>
     </cities>
@@ -489289,12 +489265,6 @@
       <longitude>74.87303000</longitude>
     </cities>
     <cities>
-      <id>85649</id>
-      <name>Nārowāl District</name>
-      <latitude>32.21114000</latitude>
-      <longitude>74.95318000</longitude>
-    </cities>
-    <cities>
       <id>85638</id>
       <name>Naushahra Virkan</name>
       <latitude>31.96258000</latitude>
@@ -489311,6 +489281,12 @@
       <name>Okara</name>
       <latitude>30.81029000</latitude>
       <longitude>73.45155000</longitude>
+    </cities>
+    <cities>
+      <id>143774</id>
+      <name>Pakki Shagwanwali</name>
+      <latitude>30.79033000</latitude>
+      <longitude>70.87139000</longitude>
     </cities>
     <cities>
       <id>85655</id>
@@ -489367,10 +489343,28 @@
       <longitude>71.67164000</longitude>
     </cities>
     <cities>
+      <id>143775</id>
+      <name>Qila Didar Singh</name>
+      <latitude>32.80000000</latitude>
+      <longitude>74.10000000</longitude>
+    </cities>
+    <cities>
+      <id>85389</id>
+      <name>Rabwah</name>
+      <latitude>31.75511000</latitude>
+      <longitude>72.91403000</longitude>
+    </cities>
+    <cities>
       <id>85674</id>
       <name>Rahim Yar Khan</name>
       <latitude>28.41987000</latitude>
       <longitude>70.30345000</longitude>
+    </cities>
+    <cities>
+      <id>143776</id>
+      <name>Rahimyar Khan District</name>
+      <latitude>28.46020000</latitude>
+      <longitude>70.52837000</longitude>
     </cities>
     <cities>
       <id>85675</id>
@@ -489422,7 +489416,7 @@
     </cities>
     <cities>
       <id>85690</id>
-      <name>Saddiqabad</name>
+      <name>Sadiqabad</name>
       <latitude>28.30910000</latitude>
       <longitude>70.12652000</longitude>
     </cities>
@@ -489469,10 +489463,10 @@
       <longitude>72.67418000</longitude>
     </cities>
     <cities>
-      <id>85708</id>
-      <name>Shahkot</name>
-      <latitude>31.57090000</latitude>
-      <longitude>73.48531000</longitude>
+      <id>143777</id>
+      <name>Shahkot Tehsil</name>
+      <latitude>31.56166667</latitude>
+      <longitude>73.48750000</longitude>
     </cities>
     <cities>
       <id>85709</id>
@@ -489494,15 +489488,21 @@
     </cities>
     <cities>
       <id>85713</id>
-      <name>Sharqpur Sharif</name>
+      <name>Sharqpur</name>
       <latitude>31.46116000</latitude>
       <longitude>74.10091000</longitude>
     </cities>
     <cities>
       <id>85714</id>
-      <name>Shekhupura</name>
+      <name>Sheikhupura</name>
       <latitude>31.71287000</latitude>
       <longitude>73.98556000</longitude>
+    </cities>
+    <cities>
+      <id>85708</id>
+      <name>Shorkot</name>
+      <latitude>30.50000000</latitude>
+      <longitude>72.40000000</longitude>
     </cities>
     <cities>
       <id>85719</id>
@@ -489524,7 +489524,7 @@
     </cities>
     <cities>
       <id>85726</id>
-      <name>Sodhri</name>
+      <name>Sodhra</name>
       <latitude>32.46211000</latitude>
       <longitude>74.18207000</longitude>
     </cities>
@@ -489571,16 +489571,40 @@
       <longitude>72.48275000</longitude>
     </cities>
     <cities>
+      <id>143778</id>
+      <name>Umerkot</name>
+      <latitude>25.36138889</latitude>
+      <longitude>69.73611111</longitude>
+    </cities>
+    <cities>
       <id>85763</id>
       <name>Vihari</name>
       <latitude>30.04450000</latitude>
       <longitude>72.35560000</longitude>
     </cities>
     <cities>
+      <id>143779</id>
+      <name>Wah</name>
+      <latitude>33.81000000</latitude>
+      <longitude>72.70972222</longitude>
+    </cities>
+    <cities>
+      <id>143780</id>
+      <name>Warburton</name>
+      <latitude>31.55000000</latitude>
+      <longitude>73.83330000</longitude>
+    </cities>
+    <cities>
       <id>85766</id>
       <name>Wazirabad</name>
       <latitude>32.44324000</latitude>
       <longitude>74.12000000</longitude>
+    </cities>
+    <cities>
+      <id>143781</id>
+      <name>West Punjab</name>
+      <latitude>31.00000000</latitude>
+      <longitude>72.00000000</longitude>
     </cities>
     <cities>
       <id>85767</id>

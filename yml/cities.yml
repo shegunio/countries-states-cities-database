@@ -420391,7 +420391,7 @@ city:
     longitude: '76.70000000'
   -
     id: 57615
-    name: Ajnāla
+    name: Ajnala
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420400,7 +420400,7 @@ city:
     longitude: '74.76295000'
   -
     id: 57629
-    name: Akālgarh
+    name: Akalgarh
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420409,7 +420409,7 @@ city:
     longitude: '75.89078000'
   -
     id: 57651
-    name: Alāwalpur
+    name: Alawalpur
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420436,7 +420436,7 @@ city:
     longitude: '74.84000000'
   -
     id: 57697
-    name: Anandpur
+    name: 'Anandpur Sahib'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420445,7 +420445,7 @@ city:
     longitude: '76.50253000'
   -
     id: 57791
-    name: 'Badhni Kalān'
+    name: 'Badhni Kalan'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420454,7 +420454,7 @@ city:
     longitude: '75.29087000'
   -
     id: 58109
-    name: 'Bāgha Purāna'
+    name: 'Bagha Purana'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420472,7 +420472,7 @@ city:
     longitude: '75.91874000'
   -
     id: 58118
-    name: Bālāchor
+    name: Balachor
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420490,7 +420490,7 @@ city:
     longitude: '75.99495000'
   -
     id: 57859
-    name: Banūr
+    name: Banur
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420498,17 +420498,8 @@ city:
     latitude: '30.55407000'
     longitude: '76.71948000'
   -
-    id: 57881
-    name: Barnala
-    state_id: 4015
-    state_code: PB
-    country_id: 101
-    country_code: IN
-    latitude: '30.38000000'
-    longitude: '75.50000000'
-  -
     id: 57882
-    name: Barnāla
+    name: Barnala
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420516,17 +420507,8 @@ city:
     latitude: '30.37451000'
     longitude: '75.54870000'
   -
-    id: 57896
-    name: Basi
-    state_id: 4015
-    state_code: PB
-    country_id: 101
-    country_code: IN
-    latitude: '30.58813000'
-    longitude: '76.84498000'
-  -
     id: 57906
-    name: Batāla
+    name: Batala
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420534,17 +420516,8 @@ city:
     latitude: '31.80921000'
     longitude: '75.20294000'
   -
-    id: 57904
-    name: Bathinda
-    state_id: 4015
-    state_code: PB
-    country_id: 101
-    country_code: IN
-    latitude: '30.21000000'
-    longitude: '75.03000000'
-  -
     id: 57914
-    name: Begowāl
+    name: Begowal
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420561,8 +420534,17 @@ city:
     latitude: '30.47651000'
     longitude: '75.33049000'
   -
+    id: 57904
+    name: Bhatinda
+    state_id: 4015
+    state_code: PB
+    country_id: 101
+    country_code: IN
+    latitude: '30.20747000'
+    longitude: '74.93893000'
+  -
     id: 57977
-    name: Bhawānīgarh
+    name: Bhawanigarh
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420571,7 +420553,7 @@ city:
     longitude: '76.03854000'
   -
     id: 58018
-    name: Bhīkhi
+    name: Bhikhi
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420588,17 +420570,17 @@ city:
     latitude: '31.55442000'
     longitude: '75.64271000'
   -
-    id: 58003
-    name: 'Bhulath Gharbi'
+    id: 143761
+    name: Bholath
     state_id: 4015
     state_code: PB
     country_id: 101
     country_code: IN
-    latitude: '31.54279000'
-    longitude: '75.50755000'
+    latitude: '31.54277778'
+    longitude: '75.50750000'
   -
     id: 58090
-    name: Budhlāda
+    name: Budhlada
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420607,7 +420589,7 @@ city:
     longitude: '75.56205000'
   -
     id: 131610
-    name: Chīma
+    name: Chima
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420616,7 +420598,7 @@ city:
     longitude: '76.08643000'
   -
     id: 131661
-    name: Dasūya
+    name: Dasuya
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420625,13 +420607,22 @@ city:
     longitude: '75.65310000'
   -
     id: 131696
-    name: 'Derā Nānak'
+    name: 'Dera Baba Nanak'
     state_id: 4015
     state_code: PB
     country_id: 101
     country_code: IN
     latitude: '32.03733000'
     longitude: '75.02787000'
+  -
+    id: 143763
+    name: 'Dera Bassi'
+    state_id: 4015
+    state_code: PB
+    country_id: 101
+    country_code: IN
+    latitude: '30.58720000'
+    longitude: '76.84280000'
   -
     id: 131713
     name: Dhanaula
@@ -420643,7 +420634,7 @@ city:
     longitude: '75.57341000'
   -
     id: 131756
-    name: Dhāriwāl
+    name: Dhariwal
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420660,8 +420651,17 @@ city:
     latitude: '31.51432000'
     longitude: '75.34574000'
   -
+    id: 143762
+    name: Dhudi
+    state_id: 4015
+    state_code: PB
+    country_id: 101
+    country_code: IN
+    latitude: '30.69636000'
+    longitude: '74.85246000'
+  -
     id: 131760
-    name: Dhūri
+    name: Dhuri
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420670,7 +420670,7 @@ city:
     longitude: '75.86791000'
   -
     id: 131816
-    name: Dīnānagar
+    name: 'Dina Nagar'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420688,7 +420688,7 @@ city:
     longitude: '75.99607000'
   -
     id: 131790
-    name: Dorāha
+    name: Doraha
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420696,17 +420696,8 @@ city:
     latitude: '30.79953000'
     longitude: '76.02355000'
   -
-    id: 131855
-    name: Faridkot
-    state_id: 4015
-    state_code: PB
-    country_id: 101
-    country_code: IN
-    latitude: '30.65000000'
-    longitude: '74.75000000'
-  -
     id: 131859
-    name: Farīdkot
+    name: Faridkot
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420715,7 +420706,7 @@ city:
     longitude: '74.75579000'
   -
     id: 131865
-    name: 'Fatehgarh Chūriān'
+    name: 'Fatehgarh Churian'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420733,7 +420724,7 @@ city:
     longitude: '76.34787000'
   -
     id: 131881
-    name: Fāzilka
+    name: Fazilka
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420742,7 +420733,7 @@ city:
     longitude: '74.02836000'
   -
     id: 131875
-    name: Ferozepore
+    name: Firozpur
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420751,7 +420742,7 @@ city:
     longitude: '74.61311000'
   -
     id: 131877
-    name: Firozpur
+    name: 'Firozpur District'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420760,7 +420751,7 @@ city:
     longitude: '74.56000000'
   -
     id: 131918
-    name: Garhdiwāla
+    name: Gardhiwala
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420787,7 +420778,7 @@ city:
     longitude: '76.61203000'
   -
     id: 131956
-    name: Giddarbāha
+    name: Giddarbaha
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420805,7 +420796,7 @@ city:
     longitude: '75.27000000'
   -
     id: 132037
-    name: 'Guru Har Sahāi'
+    name: 'Guru Har Sahai'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420814,7 +420805,7 @@ city:
     longitude: '74.40407000'
   -
     id: 132136
-    name: Hājipur
+    name: Hajipur
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420823,7 +420814,7 @@ city:
     longitude: '75.75438000'
   -
     id: 132077
-    name: Hariāna
+    name: Hariana
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420831,23 +420822,23 @@ city:
     latitude: '31.63512000'
     longitude: '75.83887000'
   -
-    id: 132121
-    name: Hoshiarpur
-    state_id: 4015
-    state_code: PB
-    country_id: 101
-    country_code: IN
-    latitude: '31.66000000'
-    longitude: '75.85000000'
-  -
     id: 132122
-    name: Hoshiārpur
+    name: Hoshiarpur
     state_id: 4015
     state_code: PB
     country_id: 101
     country_code: IN
     latitude: '31.53723000'
     longitude: '75.91269000'
+  -
+    id: 143764
+    name: Ishanpur
+    state_id: 4015
+    state_code: PB
+    country_id: 101
+    country_code: IN
+    latitude: '30.63929000'
+    longitude: '76.11761000'
   -
     id: 132192
     name: Jagraon
@@ -420868,7 +420859,7 @@ city:
     longitude: '74.89189000'
   -
     id: 132223
-    name: Jalālābād
+    name: Jalalabad
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420886,7 +420877,7 @@ city:
     longitude: '75.61667000'
   -
     id: 132236
-    name: Jandiāla
+    name: Jandiala
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420895,7 +420886,7 @@ city:
     longitude: '75.61755000'
   -
     id: 132237
-    name: 'Jandiāla Gurū'
+    name: 'Jandiala Guru'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420912,17 +420903,8 @@ city:
     latitude: '32.01227000'
     longitude: '75.15063000'
   -
-    id: 132391
-    name: Kapurthala
-    state_id: 4015
-    state_code: PB
-    country_id: 101
-    country_code: IN
-    latitude: '31.40000000'
-    longitude: '75.31000000'
-  -
     id: 132392
-    name: Kapūrthala
+    name: Kapurthala
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420931,7 +420913,7 @@ city:
     longitude: '75.38105000'
   -
     id: 132408
-    name: Kartārpur
+    name: Kartarpur
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420940,7 +420922,7 @@ city:
     longitude: '75.49847000'
   -
     id: 132465
-    name: 'Khamānon Kalān'
+    name: Khamanon
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420967,7 +420949,7 @@ city:
     longitude: '76.64689000'
   -
     id: 132491
-    name: 'Khem Karan'
+    name: Khemkaran
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420976,7 +420958,7 @@ city:
     longitude: '74.55938000'
   -
     id: 132591
-    name: 'Kot Īsa Khān'
+    name: 'Kot Isa Khan'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -420994,7 +420976,7 @@ city:
     longitude: '74.83298000'
   -
     id: 132760
-    name: Laungowāl
+    name: Laungowal
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421002,17 +420984,8 @@ city:
     latitude: '30.19393000'
     longitude: '75.68089000'
   -
-    id: 132784
-    name: Ludhiana
-    state_id: 4015
-    state_code: PB
-    country_id: 101
-    country_code: IN
-    latitude: '30.84000000'
-    longitude: '75.82000000'
-  -
     id: 132785
-    name: Ludhiāna
+    name: Ludhiana
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421021,7 +420994,7 @@ city:
     longitude: '75.85379000'
   -
     id: 133056
-    name: Māchhīwāra
+    name: Machhiwara
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421030,7 +421003,7 @@ city:
     longitude: '76.20016000'
   -
     id: 132861
-    name: Majītha
+    name: Majitha
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421057,7 +421030,7 @@ city:
     longitude: '74.48180000'
   -
     id: 133066
-    name: 'Māler Kotla'
+    name: Malerkotla
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421065,17 +421038,8 @@ city:
     latitude: '30.53090000'
     longitude: '75.87949000'
   -
-    id: 132925
-    name: Mansa
-    state_id: 4015
-    state_code: PB
-    country_id: 101
-    country_code: IN
-    latitude: '29.94000000'
-    longitude: '75.43000000'
-  -
     id: 133082
-    name: Mānsa
+    name: Mansa
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421084,7 +421048,7 @@ city:
     longitude: '75.40167000'
   -
     id: 132948
-    name: Maur
+    name: 'Maur Mandi'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421120,7 +421084,7 @@ city:
     longitude: '76.49883000'
   -
     id: 133017
-    name: Mukeriān
+    name: Mukerian
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421128,17 +421092,8 @@ city:
     latitude: '31.95394000'
     longitude: '75.61716000'
   -
-    id: 133019
-    name: Muktsar
-    state_id: 4015
-    state_code: PB
-    country_id: 101
-    country_code: IN
-    latitude: '30.47426000'
-    longitude: '74.51660000'
-  -
     id: 133250
-    name: Nābha
+    name: Nabha
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421174,7 +421129,7 @@ city:
     longitude: '76.11613000'
   -
     id: 133291
-    name: Nūrmahal
+    name: Nurmahal
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421183,7 +421138,7 @@ city:
     longitude: '75.59386000'
   -
     id: 133293
-    name: 'Nūrpur Kalān'
+    name: 'Nurpur Kalan'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421192,7 +421147,7 @@ city:
     longitude: '76.48333000'
   -
     id: 133382
-    name: Pathānkot
+    name: Pathankot
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421200,17 +421155,8 @@ city:
     latitude: '32.27484000'
     longitude: '75.65287000'
   -
-    id: 133383
-    name: Patiala
-    state_id: 4015
-    state_code: PB
-    country_id: 101
-    country_code: IN
-    latitude: '30.35000000'
-    longitude: '76.40000000'
-  -
     id: 133384
-    name: Patiāla
+    name: Patiala
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421228,7 +421174,7 @@ city:
     longitude: '74.85849000'
   -
     id: 133431
-    name: Phagwāra
+    name: Phagwara
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421246,7 +421192,7 @@ city:
     longitude: '75.79111000'
   -
     id: 133575
-    name: Qādiān
+    name: Qadian
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421255,7 +421201,7 @@ city:
     longitude: '75.37663000'
   -
     id: 133662
-    name: Rāhon
+    name: Rahon
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421264,7 +421210,7 @@ city:
     longitude: '76.11907000'
   -
     id: 133665
-    name: Rāikot
+    name: Raikot
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421273,7 +421219,7 @@ city:
     longitude: '75.60000000'
   -
     id: 133670
-    name: 'Rāja Sānsi'
+    name: Rajasansi
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421282,7 +421228,7 @@ city:
     longitude: '74.80080000'
   -
     id: 133681
-    name: Rājpura
+    name: Rajpura
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421291,7 +421237,7 @@ city:
     longitude: '76.59284000'
   -
     id: 133690
-    name: 'Rām Dās'
+    name: 'Ram Das'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421300,22 +421246,13 @@ city:
     longitude: '74.90870000'
   -
     id: 133708
-    name: Rāmpura
+    name: Rampura
     state_id: 4015
     state_code: PB
     country_id: 101
     country_code: IN
     latitude: '30.25600000'
     longitude: '75.24116000'
-  -
-    id: 133651
-    name: Ropar
-    state_id: 4015
-    state_code: PB
-    country_id: 101
-    country_code: IN
-    latitude: '30.96896000'
-    longitude: '76.52695000'
   -
     id: 133654
     name: Rupnagar
@@ -421327,7 +421264,7 @@ city:
     longitude: '76.52000000'
   -
     id: 133772
-    name: Samrāla
+    name: Samrala
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421344,17 +421281,8 @@ city:
     latitude: '30.30182000'
     longitude: '76.45786000'
   -
-    id: 133784
-    name: Sangrur
-    state_id: 4015
-    state_code: PB
-    country_id: 101
-    country_code: IN
-    latitude: '30.25000000'
-    longitude: '75.85000000'
-  -
     id: 133785
-    name: Sangrūr
+    name: Sangrur
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421381,7 +421309,7 @@ city:
     longitude: '76.13328000'
   -
     id: 133897
-    name: Shāhkot
+    name: Shahkot
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421390,7 +421318,7 @@ city:
     longitude: '75.33708000'
   -
     id: 133911
-    name: 'Shām Churāsi'
+    name: 'Sham Churasi'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421399,7 +421327,7 @@ city:
     longitude: '75.74917000'
   -
     id: 133955
-    name: Sirhind
+    name: Sirhind-Fategarh
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421407,8 +421335,17 @@ city:
     latitude: '30.64321000'
     longitude: '76.38421000'
   -
+    id: 133019
+    name: 'Sri Muktsar Sahib'
+    state_id: 4015
+    state_code: PB
+    country_id: 101
+    country_code: IN
+    latitude: '30.47426000'
+    longitude: '74.51660000'
+  -
     id: 134037
-    name: Sultanpur
+    name: 'Sultanpur Lodhi'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421417,7 +421354,7 @@ city:
     longitude: '75.19602000'
   -
     id: 134048
-    name: Sunām
+    name: Sunam
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421435,7 +421372,7 @@ city:
     longitude: '74.92979000'
   -
     id: 134106
-    name: Talwāra
+    name: Talwara
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -421443,17 +421380,8 @@ city:
     latitude: '31.93760000'
     longitude: '75.88657000'
   -
-    id: 134117
-    name: 'Tarn Taran'
-    state_id: 4015
-    state_code: PB
-    country_id: 101
-    country_code: IN
-    latitude: '31.32692000'
-    longitude: '74.81643000'
-  -
     id: 134118
-    name: 'Tarn Tāran'
+    name: 'Tarn Taran Sahib'
     state_id: 4015
     state_code: PB
     country_id: 101
@@ -704484,15 +704412,6 @@ city:
     latitude: '34.05950000'
     longitude: '72.46690000'
   -
-    id: 85331
-    name: 'Ahmadpur East'
-    state_id: 3176
-    state_code: PB
-    country_id: 167
-    country_code: PK
-    latitude: '29.14269000'
-    longitude: '71.25771000'
-  -
     id: 85332
     name: 'Ahmadpur Sial'
     state_id: 3176
@@ -704502,8 +704421,17 @@ city:
     latitude: '30.67791000'
     longitude: '71.74344000'
   -
+    id: 85331
+    name: 'Ahmedpur East'
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '29.14269000'
+    longitude: '71.25771000'
+  -
     id: 85335
-    name: Alipur
+    name: 'Alipur Chatha'
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -704521,7 +704449,7 @@ city:
     longitude: '73.06574000'
   -
     id: 85341
-    name: 'Attock City'
+    name: 'Attock Tehsil'
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -704638,7 +704566,7 @@ city:
     longitude: '74.36350000'
   -
     id: 85376
-    name: Būrewāla
+    name: Burewala
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -704647,22 +704575,13 @@ city:
     longitude: '72.65000000'
   -
     id: 85378
-    name: 'Chak Azam Sahu'
+    name: 'Chak Azam Saffo'
     state_id: 3176
     state_code: PB
     country_id: 167
     country_code: PK
     latitude: '30.75202000'
     longitude: '73.02834000'
-  -
-    id: 85379
-    name: 'Chak Five Hundred Seventy-five'
-    state_id: 3176
-    state_code: PB
-    country_id: 167
-    country_code: PK
-    latitude: '31.54514000'
-    longitude: '73.82891000'
   -
     id: 85380
     name: 'Chak Jhumra'
@@ -704692,7 +704611,7 @@ city:
     longitude: '72.69737000'
   -
     id: 85383
-    name: 'Chak Two Hundred Forty-nine Thal Development Authority'
+    name: 'Chak Two Hundred Forty-Nine TDA'
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -704717,15 +704636,6 @@ city:
     country_code: PK
     latitude: '32.34434000'
     longitude: '74.70507000'
-  -
-    id: 85389
-    name: 'Chenab Nagar'
-    state_id: 3176
-    state_code: PB
-    country_id: 167
-    country_code: PK
-    latitude: '31.75511000'
-    longitude: '72.91403000'
   -
     id: 85392
     name: Chichawatni
@@ -704755,7 +704665,7 @@ city:
     longitude: '72.85772000'
   -
     id: 85396
-    name: 'Choa Saidan Shah'
+    name: 'Choa Saidanshah'
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -704763,8 +704673,8 @@ city:
     latitude: '32.71962000'
     longitude: '72.98625000'
   -
-    id: 85398
-    name: 'Chuchar-kana Mandi'
+    id: 143765
+    name: 'Chuhar Kana'
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -704818,7 +704728,7 @@ city:
     longitude: '71.10197000'
   -
     id: 85411
-    name: 'Daska Kalan'
+    name: Daska
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -704826,14 +704736,14 @@ city:
     latitude: '32.32422000'
     longitude: '74.35039000'
   -
-    id: 85412
+    id: 143767
     name: 'Daud Khel'
     state_id: 3176
     state_code: PB
     country_id: 167
     country_code: PK
-    latitude: '32.87533000'
-    longitude: '71.57118000'
+    latitude: '32.87498000'
+    longitude: '71.57013000'
   -
     id: 85414
     name: Daultala
@@ -704870,6 +704780,15 @@ city:
     country_code: PK
     latitude: '32.40613000'
     longitude: '74.13706000'
+  -
+    id: 143766
+    name: 'Dhok Awan'
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '32.84452000'
+    longitude: '72.52357000'
   -
     id: 85425
     name: Dijkot
@@ -704979,6 +704898,15 @@ city:
     latitude: '32.17629000'
     longitude: '75.06583000'
   -
+    id: 143768
+    name: Ferozewala
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '29.30000000'
+    longitude: '70.43333333'
+  -
     id: 85441
     name: 'Fort Abbas'
     state_id: 3176
@@ -705023,6 +704951,15 @@ city:
     country_code: PK
     latitude: '32.15567000'
     longitude: '74.18705000'
+  -
+    id: 143769
+    name: 'Gujranwala Division'
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '32.45000000'
+    longitude: '74.13333000'
   -
     id: 85457
     name: Gujrat
@@ -705069,6 +705006,15 @@ city:
     latitude: '29.61206000'
     longitude: '73.13802000'
   -
+    id: 143770
+    name: 'Hasan Abdal'
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '33.81948611'
+    longitude: '72.68902778'
+  -
     id: 85468
     name: Hasilpur
     state_id: 3176
@@ -705088,7 +705034,7 @@ city:
     longitude: '73.69371000'
   -
     id: 85471
-    name: 'Hazro City'
+    name: Hazro
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -705097,7 +705043,7 @@ city:
     longitude: '72.49179000'
   -
     id: 85473
-    name: 'Hujra Shah Muqim'
+    name: 'Hujra Shah Muqeem'
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -705187,7 +705133,7 @@ city:
     longitude: '72.28182000'
   -
     id: 85490
-    name: 'Jhang City'
+    name: Jhang
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -705196,7 +705142,7 @@ city:
     longitude: '72.32594000'
   -
     id: 85491
-    name: 'Jhang Sadr'
+    name: 'Jhang Sadar'
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -705239,15 +705185,6 @@ city:
     country_code: PK
     latitude: '31.36709000'
     longitude: '74.36899000'
-  -
-    id: 85502
-    name: 'Kahror Pakka'
-    state_id: 3176
-    state_code: PB
-    country_id: 167
-    country_code: PK
-    latitude: '29.62430000'
-    longitude: '71.91437000'
   -
     id: 85503
     name: Kahuta
@@ -705376,7 +705313,7 @@ city:
     longitude: '72.50000000'
   -
     id: 85535
-    name: 'Khairpur Tamewah'
+    name: 'Khairpur Tamiwali'
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -705403,7 +705340,7 @@ city:
     longitude: '71.93212000'
   -
     id: 85539
-    name: 'Khangah Dogran'
+    name: 'Khanga Dogran'
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -705457,7 +705394,7 @@ city:
     longitude: '73.26763000'
   -
     id: 85547
-    name: Khushāb
+    name: Khushab
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -705465,8 +705402,17 @@ city:
     latitude: '32.29667000'
     longitude: '72.35250000'
   -
+    id: 143771
+    name: 'Kohror Pakka'
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '29.62382000'
+    longitude: '71.91673000'
+  -
     id: 85553
-    name: 'Kot Addu'
+    name: 'Kot Addu Tehsil'
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -705681,6 +705627,15 @@ city:
     latitude: '32.58704000'
     longitude: '73.49123000'
   -
+    id: 143772
+    name: 'Mandi Bahauddin District'
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '32.58333333'
+    longitude: '73.50000000'
+  -
     id: 85595
     name: Mangla
     state_id: 3176
@@ -705736,7 +705691,7 @@ city:
     longitude: '71.52847000'
   -
     id: 85609
-    name: Minchianabad
+    name: Minchinabad
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -705771,6 +705726,15 @@ city:
     latitude: '30.19679000'
     longitude: '71.47824000'
   -
+    id: 143773
+    name: 'Multan District'
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '30.08333333'
+    longitude: '71.66666667'
+  -
     id: 85624
     name: Muridke
     state_id: 3176
@@ -705790,7 +705754,7 @@ city:
     longitude: '73.39030000'
   -
     id: 85626
-    name: Mustafābād
+    name: Mustafabad
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -705834,15 +705798,6 @@ city:
     latitude: '32.10197000'
     longitude: '74.87303000'
   -
-    id: 85649
-    name: 'Nārowāl District'
-    state_id: 3176
-    state_code: PB
-    country_id: 167
-    country_code: PK
-    latitude: '32.21114000'
-    longitude: '74.95318000'
-  -
     id: 85638
     name: 'Naushahra Virkan'
     state_id: 3176
@@ -705869,6 +705824,15 @@ city:
     country_code: PK
     latitude: '30.81029000'
     longitude: '73.45155000'
+  -
+    id: 143774
+    name: 'Pakki Shagwanwali'
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '30.79033000'
+    longitude: '70.87139000'
   -
     id: 85655
     name: Pakpattan
@@ -705951,6 +705915,24 @@ city:
     latitude: '30.29184000'
     longitude: '71.67164000'
   -
+    id: 143775
+    name: 'Qila Didar Singh'
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '32.80000000'
+    longitude: '74.10000000'
+  -
+    id: 85389
+    name: Rabwah
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '31.75511000'
+    longitude: '72.91403000'
+  -
     id: 85674
     name: 'Rahim Yar Khan'
     state_id: 3176
@@ -705959,6 +705941,15 @@ city:
     country_code: PK
     latitude: '28.41987000'
     longitude: '70.30345000'
+  -
+    id: 143776
+    name: 'Rahimyar Khan District'
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '28.46020000'
+    longitude: '70.52837000'
   -
     id: 85675
     name: Raiwind
@@ -706033,7 +706024,7 @@ city:
     longitude: '69.95350000'
   -
     id: 85690
-    name: Saddiqabad
+    name: Sadiqabad
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -706104,14 +706095,14 @@ city:
     latitude: '32.08586000'
     longitude: '72.67418000'
   -
-    id: 85708
-    name: Shahkot
+    id: 143777
+    name: 'Shahkot Tehsil'
     state_id: 3176
     state_code: PB
     country_id: 167
     country_code: PK
-    latitude: '31.57090000'
-    longitude: '73.48531000'
+    latitude: '31.56166667'
+    longitude: '73.48750000'
   -
     id: 85709
     name: Shahpur
@@ -706141,7 +706132,7 @@ city:
     longitude: '75.16008000'
   -
     id: 85713
-    name: 'Sharqpur Sharif'
+    name: Sharqpur
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -706150,13 +706141,22 @@ city:
     longitude: '74.10091000'
   -
     id: 85714
-    name: Shekhupura
+    name: Sheikhupura
     state_id: 3176
     state_code: PB
     country_id: 167
     country_code: PK
     latitude: '31.71287000'
     longitude: '73.98556000'
+  -
+    id: 85708
+    name: Shorkot
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '30.50000000'
+    longitude: '72.40000000'
   -
     id: 85719
     name: Shujaabad
@@ -706186,7 +706186,7 @@ city:
     longitude: '72.54064000'
   -
     id: 85726
-    name: Sodhri
+    name: Sodhra
     state_id: 3176
     state_code: PB
     country_id: 167
@@ -706257,6 +706257,15 @@ city:
     latitude: '30.97127000'
     longitude: '72.48275000'
   -
+    id: 143778
+    name: Umerkot
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '25.36138889'
+    longitude: '69.73611111'
+  -
     id: 85763
     name: Vihari
     state_id: 3176
@@ -706266,6 +706275,24 @@ city:
     latitude: '30.04450000'
     longitude: '72.35560000'
   -
+    id: 143779
+    name: Wah
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '33.81000000'
+    longitude: '72.70972222'
+  -
+    id: 143780
+    name: Warburton
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '31.55000000'
+    longitude: '73.83330000'
+  -
     id: 85766
     name: Wazirabad
     state_id: 3176
@@ -706274,6 +706301,15 @@ city:
     country_code: PK
     latitude: '32.44324000'
     longitude: '74.12000000'
+  -
+    id: 143781
+    name: 'West Punjab'
+    state_id: 3176
+    state_code: PB
+    country_id: 167
+    country_code: PK
+    latitude: '31.00000000'
+    longitude: '72.00000000'
   -
     id: 85767
     name: Yazman
