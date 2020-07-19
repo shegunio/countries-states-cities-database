@@ -401589,18 +401589,6 @@
 	</dict>
 	<dict>
 		<key>cities</key>
-		<array/>
-		<key>country_id</key>
-		<integer>82</integer>
-		<key>id</key>
-		<integer>3012</integer>
-		<key>name</key>
-		<string>Neufahrn in Niederbayern</string>
-		<key>state_code</key>
-		<string>LA</string>
-	</dict>
-	<dict>
-		<key>cities</key>
 		<array>
 			<dict>
 				<key>id</key>
@@ -487357,7 +487345,7 @@
 				<key>longitude</key>
 				<string>74.76295000</string>
 				<key>name</key>
-				<string>Ajnāla</string>
+				<string>Ajnala</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487367,7 +487355,7 @@
 				<key>longitude</key>
 				<string>75.89078000</string>
 				<key>name</key>
-				<string>Akālgarh</string>
+				<string>Akalgarh</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487377,7 +487365,7 @@
 				<key>longitude</key>
 				<string>75.65614000</string>
 				<key>name</key>
-				<string>Alāwalpur</string>
+				<string>Alawalpur</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487407,7 +487395,7 @@
 				<key>longitude</key>
 				<string>76.50253000</string>
 				<key>name</key>
-				<string>Anandpur</string>
+				<string>Anandpur Sahib</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487417,7 +487405,7 @@
 				<key>longitude</key>
 				<string>75.29087000</string>
 				<key>name</key>
-				<string>Badhni Kalān</string>
+				<string>Badhni Kalan</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487427,7 +487415,7 @@
 				<key>longitude</key>
 				<string>75.09838000</string>
 				<key>name</key>
-				<string>Bāgha Purāna</string>
+				<string>Bagha Purana</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487447,7 +487435,7 @@
 				<key>longitude</key>
 				<string>76.30166000</string>
 				<key>name</key>
-				<string>Bālāchor</string>
+				<string>Balachor</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487467,17 +487455,7 @@
 				<key>longitude</key>
 				<string>76.71948000</string>
 				<key>name</key>
-				<string>Banūr</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>57881</integer>
-				<key>latitude</key>
-				<string>30.38000000</string>
-				<key>longitude</key>
-				<string>75.50000000</string>
-				<key>name</key>
-				<string>Barnala</string>
+				<string>Banur</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487487,17 +487465,7 @@
 				<key>longitude</key>
 				<string>75.54870000</string>
 				<key>name</key>
-				<string>Barnāla</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>57896</integer>
-				<key>latitude</key>
-				<string>30.58813000</string>
-				<key>longitude</key>
-				<string>76.84498000</string>
-				<key>name</key>
-				<string>Basi</string>
+				<string>Barnala</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487507,17 +487475,7 @@
 				<key>longitude</key>
 				<string>75.20294000</string>
 				<key>name</key>
-				<string>Batāla</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>57904</integer>
-				<key>latitude</key>
-				<string>30.21000000</string>
-				<key>longitude</key>
-				<string>75.03000000</string>
-				<key>name</key>
-				<string>Bathinda</string>
+				<string>Batala</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487527,7 +487485,7 @@
 				<key>longitude</key>
 				<string>75.52135000</string>
 				<key>name</key>
-				<string>Begowāl</string>
+				<string>Begowal</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487541,13 +487499,23 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>57904</integer>
+				<key>latitude</key>
+				<string>30.20747000</string>
+				<key>longitude</key>
+				<string>74.93893000</string>
+				<key>name</key>
+				<string>Bhatinda</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>57977</integer>
 				<key>latitude</key>
 				<string>30.26685000</string>
 				<key>longitude</key>
 				<string>76.03854000</string>
 				<key>name</key>
-				<string>Bhawānīgarh</string>
+				<string>Bhawanigarh</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487557,7 +487525,7 @@
 				<key>longitude</key>
 				<string>75.53500000</string>
 				<key>name</key>
-				<string>Bhīkhi</string>
+				<string>Bhikhi</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487571,13 +487539,13 @@
 			</dict>
 			<dict>
 				<key>id</key>
-				<integer>58003</integer>
+				<integer>143761</integer>
 				<key>latitude</key>
-				<string>31.54279000</string>
+				<string>31.54277778</string>
 				<key>longitude</key>
-				<string>75.50755000</string>
+				<string>75.50750000</string>
 				<key>name</key>
-				<string>Bhulath Gharbi</string>
+				<string>Bholath</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487587,7 +487555,7 @@
 				<key>longitude</key>
 				<string>75.56205000</string>
 				<key>name</key>
-				<string>Budhlāda</string>
+				<string>Budhlada</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487597,7 +487565,7 @@
 				<key>longitude</key>
 				<string>76.08643000</string>
 				<key>name</key>
-				<string>Chīma</string>
+				<string>Chima</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487607,7 +487575,7 @@
 				<key>longitude</key>
 				<string>75.65310000</string>
 				<key>name</key>
-				<string>Dasūya</string>
+				<string>Dasuya</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487617,7 +487585,17 @@
 				<key>longitude</key>
 				<string>75.02787000</string>
 				<key>name</key>
-				<string>Derā Nānak</string>
+				<string>Dera Baba Nanak</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143763</integer>
+				<key>latitude</key>
+				<string>30.58720000</string>
+				<key>longitude</key>
+				<string>76.84280000</string>
+				<key>name</key>
+				<string>Dera Bassi</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487637,7 +487615,7 @@
 				<key>longitude</key>
 				<string>75.32386000</string>
 				<key>name</key>
-				<string>Dhāriwāl</string>
+				<string>Dhariwal</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487651,13 +487629,23 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143762</integer>
+				<key>latitude</key>
+				<string>30.69636000</string>
+				<key>longitude</key>
+				<string>74.85246000</string>
+				<key>name</key>
+				<string>Dhudi</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>131760</integer>
 				<key>latitude</key>
 				<string>30.36846000</string>
 				<key>longitude</key>
 				<string>75.86791000</string>
 				<key>name</key>
-				<string>Dhūri</string>
+				<string>Dhuri</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487667,7 +487655,7 @@
 				<key>longitude</key>
 				<string>75.47291000</string>
 				<key>name</key>
-				<string>Dīnānagar</string>
+				<string>Dina Nagar</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487687,17 +487675,7 @@
 				<key>longitude</key>
 				<string>76.02355000</string>
 				<key>name</key>
-				<string>Dorāha</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>131855</integer>
-				<key>latitude</key>
-				<string>30.65000000</string>
-				<key>longitude</key>
-				<string>74.75000000</string>
-				<key>name</key>
-				<string>Faridkot</string>
+				<string>Doraha</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487707,7 +487685,7 @@
 				<key>longitude</key>
 				<string>74.75579000</string>
 				<key>name</key>
-				<string>Farīdkot</string>
+				<string>Faridkot</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487717,7 +487695,7 @@
 				<key>longitude</key>
 				<string>74.95665000</string>
 				<key>name</key>
-				<string>Fatehgarh Chūriān</string>
+				<string>Fatehgarh Churian</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487737,7 +487715,7 @@
 				<key>longitude</key>
 				<string>74.02836000</string>
 				<key>name</key>
-				<string>Fāzilka</string>
+				<string>Fazilka</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487747,7 +487725,7 @@
 				<key>longitude</key>
 				<string>74.61311000</string>
 				<key>name</key>
-				<string>Ferozepore</string>
+				<string>Firozpur</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487757,7 +487735,7 @@
 				<key>longitude</key>
 				<string>74.56000000</string>
 				<key>name</key>
-				<string>Firozpur</string>
+				<string>Firozpur District</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487767,7 +487745,7 @@
 				<key>longitude</key>
 				<string>75.75567000</string>
 				<key>name</key>
-				<string>Garhdiwāla</string>
+				<string>Gardhiwala</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487797,7 +487775,7 @@
 				<key>longitude</key>
 				<string>74.66627000</string>
 				<key>name</key>
-				<string>Giddarbāha</string>
+				<string>Giddarbaha</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487817,7 +487795,7 @@
 				<key>longitude</key>
 				<string>74.40407000</string>
 				<key>name</key>
-				<string>Guru Har Sahāi</string>
+				<string>Guru Har Sahai</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487827,7 +487805,7 @@
 				<key>longitude</key>
 				<string>75.75438000</string>
 				<key>name</key>
-				<string>Hājipur</string>
+				<string>Hajipur</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487837,17 +487815,7 @@
 				<key>longitude</key>
 				<string>75.83887000</string>
 				<key>name</key>
-				<string>Hariāna</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>132121</integer>
-				<key>latitude</key>
-				<string>31.66000000</string>
-				<key>longitude</key>
-				<string>75.85000000</string>
-				<key>name</key>
-				<string>Hoshiarpur</string>
+				<string>Hariana</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487857,7 +487825,17 @@
 				<key>longitude</key>
 				<string>75.91269000</string>
 				<key>name</key>
-				<string>Hoshiārpur</string>
+				<string>Hoshiarpur</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143764</integer>
+				<key>latitude</key>
+				<string>30.63929000</string>
+				<key>longitude</key>
+				<string>76.11761000</string>
+				<key>name</key>
+				<string>Ishanpur</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487887,7 +487865,7 @@
 				<key>longitude</key>
 				<string>74.25727000</string>
 				<key>name</key>
-				<string>Jalālābād</string>
+				<string>Jalalabad</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487907,7 +487885,7 @@
 				<key>longitude</key>
 				<string>75.61755000</string>
 				<key>name</key>
-				<string>Jandiāla</string>
+				<string>Jandiala</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487917,7 +487895,7 @@
 				<key>longitude</key>
 				<string>75.02770000</string>
 				<key>name</key>
-				<string>Jandiāla Gurū</string>
+				<string>Jandiala Guru</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487931,23 +487909,13 @@
 			</dict>
 			<dict>
 				<key>id</key>
-				<integer>132391</integer>
-				<key>latitude</key>
-				<string>31.40000000</string>
-				<key>longitude</key>
-				<string>75.31000000</string>
-				<key>name</key>
-				<string>Kapurthala</string>
-			</dict>
-			<dict>
-				<key>id</key>
 				<integer>132392</integer>
 				<key>latitude</key>
 				<string>31.38011000</string>
 				<key>longitude</key>
 				<string>75.38105000</string>
 				<key>name</key>
-				<string>Kapūrthala</string>
+				<string>Kapurthala</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487957,7 +487925,7 @@
 				<key>longitude</key>
 				<string>75.49847000</string>
 				<key>name</key>
-				<string>Kartārpur</string>
+				<string>Kartarpur</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487967,7 +487935,7 @@
 				<key>longitude</key>
 				<string>76.35478000</string>
 				<key>name</key>
-				<string>Khamānon Kalān</string>
+				<string>Khamanon</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -487997,7 +487965,7 @@
 				<key>longitude</key>
 				<string>74.55938000</string>
 				<key>name</key>
-				<string>Khem Karan</string>
+				<string>Khemkaran</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488007,7 +487975,7 @@
 				<key>longitude</key>
 				<string>75.13780000</string>
 				<key>name</key>
-				<string>Kot Īsa Khān</string>
+				<string>Kot Isa Khan</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488027,17 +487995,7 @@
 				<key>longitude</key>
 				<string>75.68089000</string>
 				<key>name</key>
-				<string>Laungowāl</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>132784</integer>
-				<key>latitude</key>
-				<string>30.84000000</string>
-				<key>longitude</key>
-				<string>75.82000000</string>
-				<key>name</key>
-				<string>Ludhiana</string>
+				<string>Laungowal</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488047,7 +488005,7 @@
 				<key>longitude</key>
 				<string>75.85379000</string>
 				<key>name</key>
-				<string>Ludhiāna</string>
+				<string>Ludhiana</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488057,7 +488015,7 @@
 				<key>longitude</key>
 				<string>76.20016000</string>
 				<key>name</key>
-				<string>Māchhīwāra</string>
+				<string>Machhiwara</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488067,7 +488025,7 @@
 				<key>longitude</key>
 				<string>74.95891000</string>
 				<key>name</key>
-				<string>Majītha</string>
+				<string>Majitha</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488097,17 +488055,7 @@
 				<key>longitude</key>
 				<string>75.87949000</string>
 				<key>name</key>
-				<string>Māler Kotla</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>132925</integer>
-				<key>latitude</key>
-				<string>29.94000000</string>
-				<key>longitude</key>
-				<string>75.43000000</string>
-				<key>name</key>
-				<string>Mansa</string>
+				<string>Malerkotla</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488117,7 +488065,7 @@
 				<key>longitude</key>
 				<string>75.40167000</string>
 				<key>name</key>
-				<string>Mānsa</string>
+				<string>Mansa</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488127,7 +488075,7 @@
 				<key>longitude</key>
 				<string>75.25000000</string>
 				<key>name</key>
-				<string>Maur</string>
+				<string>Maur Mandi</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488167,17 +488115,7 @@
 				<key>longitude</key>
 				<string>75.61716000</string>
 				<key>name</key>
-				<string>Mukeriān</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>133019</integer>
-				<key>latitude</key>
-				<string>30.47426000</string>
-				<key>longitude</key>
-				<string>74.51660000</string>
-				<key>name</key>
-				<string>Muktsar</string>
+				<string>Mukerian</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488187,7 +488125,7 @@
 				<key>longitude</key>
 				<string>76.15292000</string>
 				<key>name</key>
-				<string>Nābha</string>
+				<string>Nabha</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488227,7 +488165,7 @@
 				<key>longitude</key>
 				<string>75.59386000</string>
 				<key>name</key>
-				<string>Nūrmahal</string>
+				<string>Nurmahal</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488237,7 +488175,7 @@
 				<key>longitude</key>
 				<string>76.48333000</string>
 				<key>name</key>
-				<string>Nūrpur Kalān</string>
+				<string>Nurpur Kalan</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488247,17 +488185,7 @@
 				<key>longitude</key>
 				<string>75.65287000</string>
 				<key>name</key>
-				<string>Pathānkot</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>133383</integer>
-				<key>latitude</key>
-				<string>30.35000000</string>
-				<key>longitude</key>
-				<string>76.40000000</string>
-				<key>name</key>
-				<string>Patiala</string>
+				<string>Pathankot</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488267,7 +488195,7 @@
 				<key>longitude</key>
 				<string>76.39220000</string>
 				<key>name</key>
-				<string>Patiāla</string>
+				<string>Patiala</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488287,7 +488215,7 @@
 				<key>longitude</key>
 				<string>75.77387000</string>
 				<key>name</key>
-				<string>Phagwāra</string>
+				<string>Phagwara</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488307,7 +488235,7 @@
 				<key>longitude</key>
 				<string>75.37663000</string>
 				<key>name</key>
-				<string>Qādiān</string>
+				<string>Qadian</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488317,7 +488245,7 @@
 				<key>longitude</key>
 				<string>76.11907000</string>
 				<key>name</key>
-				<string>Rāhon</string>
+				<string>Rahon</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488327,7 +488255,7 @@
 				<key>longitude</key>
 				<string>75.60000000</string>
 				<key>name</key>
-				<string>Rāikot</string>
+				<string>Raikot</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488337,7 +488265,7 @@
 				<key>longitude</key>
 				<string>74.80080000</string>
 				<key>name</key>
-				<string>Rāja Sānsi</string>
+				<string>Rajasansi</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488347,7 +488275,7 @@
 				<key>longitude</key>
 				<string>76.59284000</string>
 				<key>name</key>
-				<string>Rājpura</string>
+				<string>Rajpura</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488357,7 +488285,7 @@
 				<key>longitude</key>
 				<string>74.90870000</string>
 				<key>name</key>
-				<string>Rām Dās</string>
+				<string>Ram Das</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488367,17 +488295,7 @@
 				<key>longitude</key>
 				<string>75.24116000</string>
 				<key>name</key>
-				<string>Rāmpura</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>133651</integer>
-				<key>latitude</key>
-				<string>30.96896000</string>
-				<key>longitude</key>
-				<string>76.52695000</string>
-				<key>name</key>
-				<string>Ropar</string>
+				<string>Rampura</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488397,7 +488315,7 @@
 				<key>longitude</key>
 				<string>76.19324000</string>
 				<key>name</key>
-				<string>Samrāla</string>
+				<string>Samrala</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488411,23 +488329,13 @@
 			</dict>
 			<dict>
 				<key>id</key>
-				<integer>133784</integer>
-				<key>latitude</key>
-				<string>30.25000000</string>
-				<key>longitude</key>
-				<string>75.85000000</string>
-				<key>name</key>
-				<string>Sangrur</string>
-			</dict>
-			<dict>
-				<key>id</key>
 				<integer>133785</integer>
 				<key>latitude</key>
 				<string>30.24506000</string>
 				<key>longitude</key>
 				<string>75.84488000</string>
 				<key>name</key>
-				<string>Sangrūr</string>
+				<string>Sangrur</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488457,7 +488365,7 @@
 				<key>longitude</key>
 				<string>75.33708000</string>
 				<key>name</key>
-				<string>Shāhkot</string>
+				<string>Shahkot</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488467,7 +488375,7 @@
 				<key>longitude</key>
 				<string>75.74917000</string>
 				<key>name</key>
-				<string>Shām Churāsi</string>
+				<string>Sham Churasi</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488477,7 +488385,17 @@
 				<key>longitude</key>
 				<string>76.38421000</string>
 				<key>name</key>
-				<string>Sirhind</string>
+				<string>Sirhind-Fategarh</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>133019</integer>
+				<key>latitude</key>
+				<string>30.47426000</string>
+				<key>longitude</key>
+				<string>74.51660000</string>
+				<key>name</key>
+				<string>Sri Muktsar Sahib</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488487,7 +488405,7 @@
 				<key>longitude</key>
 				<string>75.19602000</string>
 				<key>name</key>
-				<string>Sultanpur</string>
+				<string>Sultanpur Lodhi</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488497,7 +488415,7 @@
 				<key>longitude</key>
 				<string>75.79943000</string>
 				<key>name</key>
-				<string>Sunām</string>
+				<string>Sunam</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488517,17 +488435,7 @@
 				<key>longitude</key>
 				<string>75.88657000</string>
 				<key>name</key>
-				<string>Talwāra</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>134117</integer>
-				<key>latitude</key>
-				<string>31.32692000</string>
-				<key>longitude</key>
-				<string>74.81643000</string>
-				<key>name</key>
-				<string>Tarn Taran</string>
+				<string>Talwara</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -488537,7 +488445,7 @@
 				<key>longitude</key>
 				<string>74.92777000</string>
 				<key>name</key>
-				<string>Tarn Tāran</string>
+				<string>Tarn Taran Sahib</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -820679,16 +820587,6 @@
 		<array>
 			<dict>
 				<key>id</key>
-				<integer>85331</integer>
-				<key>latitude</key>
-				<string>29.14269000</string>
-				<key>longitude</key>
-				<string>71.25771000</string>
-				<key>name</key>
-				<string>Ahmadpur East</string>
-			</dict>
-			<dict>
-				<key>id</key>
 				<integer>85332</integer>
 				<key>latitude</key>
 				<string>30.67791000</string>
@@ -820699,13 +820597,23 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>85331</integer>
+				<key>latitude</key>
+				<string>29.14269000</string>
+				<key>longitude</key>
+				<string>71.25771000</string>
+				<key>name</key>
+				<string>Ahmedpur East</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>85335</integer>
 				<key>latitude</key>
 				<string>29.38242000</string>
 				<key>longitude</key>
 				<string>70.91106000</string>
 				<key>name</key>
-				<string>Alipur</string>
+				<string>Alipur Chatha</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -820725,7 +820633,7 @@
 				<key>longitude</key>
 				<string>72.35977000</string>
 				<key>name</key>
-				<string>Attock City</string>
+				<string>Attock Tehsil</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -820855,7 +820763,7 @@
 				<key>longitude</key>
 				<string>72.65000000</string>
 				<key>name</key>
-				<string>Būrewāla</string>
+				<string>Burewala</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -820865,17 +820773,7 @@
 				<key>longitude</key>
 				<string>73.02834000</string>
 				<key>name</key>
-				<string>Chak Azam Sahu</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>85379</integer>
-				<key>latitude</key>
-				<string>31.54514000</string>
-				<key>longitude</key>
-				<string>73.82891000</string>
-				<key>name</key>
-				<string>Chak Five Hundred Seventy-five</string>
+				<string>Chak Azam Saffo</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -820915,7 +820813,7 @@
 				<key>longitude</key>
 				<string>71.20480000</string>
 				<key>name</key>
-				<string>Chak Two Hundred Forty-nine Thal Development Authority</string>
+				<string>Chak Two Hundred Forty-Nine TDA</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -820936,16 +820834,6 @@
 				<string>74.70507000</string>
 				<key>name</key>
 				<string>Chawinda</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>85389</integer>
-				<key>latitude</key>
-				<string>31.75511000</string>
-				<key>longitude</key>
-				<string>72.91403000</string>
-				<key>name</key>
-				<string>Chenab Nagar</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -820985,17 +820873,17 @@
 				<key>longitude</key>
 				<string>72.98625000</string>
 				<key>name</key>
-				<string>Choa Saidan Shah</string>
+				<string>Choa Saidanshah</string>
 			</dict>
 			<dict>
 				<key>id</key>
-				<integer>85398</integer>
+				<integer>143765</integer>
 				<key>latitude</key>
 				<string>31.75000000</string>
 				<key>longitude</key>
 				<string>73.80000000</string>
 				<key>name</key>
-				<string>Chuchar-kana Mandi</string>
+				<string>Chuhar Kana</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -821055,15 +820943,15 @@
 				<key>longitude</key>
 				<string>74.35039000</string>
 				<key>name</key>
-				<string>Daska Kalan</string>
+				<string>Daska</string>
 			</dict>
 			<dict>
 				<key>id</key>
-				<integer>85412</integer>
+				<integer>143767</integer>
 				<key>latitude</key>
-				<string>32.87533000</string>
+				<string>32.87498000</string>
 				<key>longitude</key>
-				<string>71.57118000</string>
+				<string>71.57013000</string>
 				<key>name</key>
 				<string>Daud Khel</string>
 			</dict>
@@ -821106,6 +820994,16 @@
 				<string>74.13706000</string>
 				<key>name</key>
 				<string>Dhaunkal</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143766</integer>
+				<key>latitude</key>
+				<string>32.84452000</string>
+				<key>longitude</key>
+				<string>72.52357000</string>
+				<key>name</key>
+				<string>Dhok Awan</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -821229,6 +821127,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143768</integer>
+				<key>latitude</key>
+				<string>29.30000000</string>
+				<key>longitude</key>
+				<string>70.43333333</string>
+				<key>name</key>
+				<string>Ferozewala</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>85441</integer>
 				<key>latitude</key>
 				<string>29.19344000</string>
@@ -821276,6 +821184,16 @@
 				<string>74.18705000</string>
 				<key>name</key>
 				<string>Gujranwala</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143769</integer>
+				<key>latitude</key>
+				<string>32.45000000</string>
+				<key>longitude</key>
+				<string>74.13333000</string>
+				<key>name</key>
+				<string>Gujranwala Division</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -821329,6 +821247,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143770</integer>
+				<key>latitude</key>
+				<string>33.81948611</string>
+				<key>longitude</key>
+				<string>72.68902778</string>
+				<key>name</key>
+				<string>Hasan Abdal</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>85468</integer>
 				<key>latitude</key>
 				<string>29.69221000</string>
@@ -821355,7 +821283,7 @@
 				<key>longitude</key>
 				<string>72.49179000</string>
 				<key>name</key>
-				<string>Hazro City</string>
+				<string>Hazro</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -821365,7 +821293,7 @@
 				<key>longitude</key>
 				<string>73.82327000</string>
 				<key>name</key>
-				<string>Hujra Shah Muqim</string>
+				<string>Hujra Shah Muqeem</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -821465,7 +821393,7 @@
 				<key>longitude</key>
 				<string>72.32594000</string>
 				<key>name</key>
-				<string>Jhang City</string>
+				<string>Jhang</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -821475,7 +821403,7 @@
 				<key>longitude</key>
 				<string>72.31687000</string>
 				<key>name</key>
-				<string>Jhang Sadr</string>
+				<string>Jhang Sadar</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -821516,16 +821444,6 @@
 				<string>74.36899000</string>
 				<key>name</key>
 				<string>Kahna Nau</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>85502</integer>
-				<key>latitude</key>
-				<string>29.62430000</string>
-				<key>longitude</key>
-				<string>71.91437000</string>
-				<key>name</key>
-				<string>Kahror Pakka</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -821675,7 +821593,7 @@
 				<key>longitude</key>
 				<string>72.23804000</string>
 				<key>name</key>
-				<string>Khairpur Tamewah</string>
+				<string>Khairpur Tamiwali</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -821705,7 +821623,7 @@
 				<key>longitude</key>
 				<string>73.62213000</string>
 				<key>name</key>
-				<string>Khangah Dogran</string>
+				<string>Khanga Dogran</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -821765,7 +821683,17 @@
 				<key>longitude</key>
 				<string>72.35250000</string>
 				<key>name</key>
-				<string>Khushāb</string>
+				<string>Khushab</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143771</integer>
+				<key>latitude</key>
+				<string>29.62382000</string>
+				<key>longitude</key>
+				<string>71.91673000</string>
+				<key>name</key>
+				<string>Kohror Pakka</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -821775,7 +821703,7 @@
 				<key>longitude</key>
 				<string>70.96699000</string>
 				<key>name</key>
-				<string>Kot Addu</string>
+				<string>Kot Addu Tehsil</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -822009,6 +821937,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143772</integer>
+				<key>latitude</key>
+				<string>32.58333333</string>
+				<key>longitude</key>
+				<string>73.50000000</string>
+				<key>name</key>
+				<string>Mandi Bahauddin District</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>85595</integer>
 				<key>latitude</key>
 				<string>31.89306000</string>
@@ -822075,7 +822013,7 @@
 				<key>longitude</key>
 				<string>73.56858000</string>
 				<key>name</key>
-				<string>Minchianabad</string>
+				<string>Minchinabad</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -822109,6 +822047,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143773</integer>
+				<key>latitude</key>
+				<string>30.08333333</string>
+				<key>longitude</key>
+				<string>71.66666667</string>
+				<key>name</key>
+				<string>Multan District</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>85624</integer>
 				<key>latitude</key>
 				<string>31.80258000</string>
@@ -822135,7 +822083,7 @@
 				<key>longitude</key>
 				<string>73.49889000</string>
 				<key>name</key>
-				<string>Mustafābād</string>
+				<string>Mustafabad</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -822179,16 +822127,6 @@
 			</dict>
 			<dict>
 				<key>id</key>
-				<integer>85649</integer>
-				<key>latitude</key>
-				<string>32.21114000</string>
-				<key>longitude</key>
-				<string>74.95318000</string>
-				<key>name</key>
-				<string>Nārowāl District</string>
-			</dict>
-			<dict>
-				<key>id</key>
 				<integer>85638</integer>
 				<key>latitude</key>
 				<string>31.96258000</string>
@@ -822216,6 +822154,16 @@
 				<string>73.45155000</string>
 				<key>name</key>
 				<string>Okara</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143774</integer>
+				<key>latitude</key>
+				<string>30.79033000</string>
+				<key>longitude</key>
+				<string>70.87139000</string>
+				<key>name</key>
+				<string>Pakki Shagwanwali</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -822309,6 +822257,26 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143775</integer>
+				<key>latitude</key>
+				<string>32.80000000</string>
+				<key>longitude</key>
+				<string>74.10000000</string>
+				<key>name</key>
+				<string>Qila Didar Singh</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>85389</integer>
+				<key>latitude</key>
+				<string>31.75511000</string>
+				<key>longitude</key>
+				<string>72.91403000</string>
+				<key>name</key>
+				<string>Rabwah</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>85674</integer>
 				<key>latitude</key>
 				<string>28.41987000</string>
@@ -822316,6 +822284,16 @@
 				<string>70.30345000</string>
 				<key>name</key>
 				<string>Rahim Yar Khan</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143776</integer>
+				<key>latitude</key>
+				<string>28.46020000</string>
+				<key>longitude</key>
+				<string>70.52837000</string>
+				<key>name</key>
+				<string>Rahimyar Khan District</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -822405,7 +822383,7 @@
 				<key>longitude</key>
 				<string>70.12652000</string>
 				<key>name</key>
-				<string>Saddiqabad</string>
+				<string>Sadiqabad</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -822479,13 +822457,13 @@
 			</dict>
 			<dict>
 				<key>id</key>
-				<integer>85708</integer>
+				<integer>143777</integer>
 				<key>latitude</key>
-				<string>31.57090000</string>
+				<string>31.56166667</string>
 				<key>longitude</key>
-				<string>73.48531000</string>
+				<string>73.48750000</string>
 				<key>name</key>
-				<string>Shahkot</string>
+				<string>Shahkot Tehsil</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -822525,7 +822503,7 @@
 				<key>longitude</key>
 				<string>74.10091000</string>
 				<key>name</key>
-				<string>Sharqpur Sharif</string>
+				<string>Sharqpur</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -822535,7 +822513,17 @@
 				<key>longitude</key>
 				<string>73.98556000</string>
 				<key>name</key>
-				<string>Shekhupura</string>
+				<string>Sheikhupura</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>85708</integer>
+				<key>latitude</key>
+				<string>30.50000000</string>
+				<key>longitude</key>
+				<string>72.40000000</string>
+				<key>name</key>
+				<string>Shorkot</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -822575,7 +822563,7 @@
 				<key>longitude</key>
 				<string>74.18207000</string>
 				<key>name</key>
-				<string>Sodhri</string>
+				<string>Sodhra</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -822649,6 +822637,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143778</integer>
+				<key>latitude</key>
+				<string>25.36138889</string>
+				<key>longitude</key>
+				<string>69.73611111</string>
+				<key>name</key>
+				<string>Umerkot</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>85763</integer>
 				<key>latitude</key>
 				<string>30.04450000</string>
@@ -822659,6 +822657,26 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143779</integer>
+				<key>latitude</key>
+				<string>33.81000000</string>
+				<key>longitude</key>
+				<string>72.70972222</string>
+				<key>name</key>
+				<string>Wah</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143780</integer>
+				<key>latitude</key>
+				<string>31.55000000</string>
+				<key>longitude</key>
+				<string>73.83330000</string>
+				<key>name</key>
+				<string>Warburton</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>85766</integer>
 				<key>latitude</key>
 				<string>32.44324000</string>
@@ -822666,6 +822684,16 @@
 				<string>74.12000000</string>
 				<key>name</key>
 				<string>Wazirabad</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143781</integer>
+				<key>latitude</key>
+				<string>31.00000000</string>
+				<key>longitude</key>
+				<string>72.00000000</string>
+				<key>name</key>
+				<string>West Punjab</string>
 			</dict>
 			<dict>
 				<key>id</key>
