@@ -37882,6 +37882,12 @@
       <name>Carinthia</name>
       <state_code>2</state_code>
       <cities>
+        <id>143783</id>
+        <name>Albeck</name>
+        <latitude>46.81666667</latitude>
+        <longitude>14.10000000</longitude>
+      </cities>
+      <cities>
         <id>1646</id>
         <name>Althofen</name>
         <latitude>46.87298000</latitude>
@@ -37900,6 +37906,12 @@
         <longitude>13.71000000</longitude>
       </cities>
       <cities>
+        <id>143784</id>
+        <name>Arnoldstein</name>
+        <latitude>46.55055556</latitude>
+        <longitude>13.70388889</longitude>
+      </cities>
+      <cities>
         <id>1681</id>
         <name>Arriach</name>
         <latitude>46.72921000</latitude>
@@ -37910,6 +37922,30 @@
         <name>Auen</name>
         <latitude>46.59963000</latitude>
         <longitude>13.84389000</longitude>
+      </cities>
+      <cities>
+        <id>143785</id>
+        <name>Bad Bleiberg</name>
+        <latitude>46.62416667</latitude>
+        <longitude>13.68777778</longitude>
+      </cities>
+      <cities>
+        <id>143786</id>
+        <name>Bad Eisenkappel</name>
+        <latitude>46.48333333</latitude>
+        <longitude>14.60000000</longitude>
+      </cities>
+      <cities>
+        <id>143787</id>
+        <name>Bad Kleinkirchheim</name>
+        <latitude>46.81361111</latitude>
+        <longitude>13.79277778</longitude>
+      </cities>
+      <cities>
+        <id>143788</id>
+        <name>Bad Kleinkirchheim</name>
+        <latitude>46.84279000</latitude>
+        <longitude>13.79123000</longitude>
       </cities>
       <cities>
         <id>1733</id>
@@ -37931,7 +37967,7 @@
       </cities>
       <cities>
         <id>1781</id>
-        <name>Bleiburg/Pliberk</name>
+        <name>Bleiburg</name>
         <latitude>46.59000000</latitude>
         <longitude>14.79889000</longitude>
       </cities>
@@ -37948,10 +37984,22 @@
         <longitude>14.53667000</longitude>
       </cities>
       <cities>
+        <id>143789</id>
+        <name>Brückl</name>
+        <latitude>46.75305556</latitude>
+        <longitude>14.53583333</longitude>
+      </cities>
+      <cities>
         <id>1833</id>
         <name>Dellach</name>
         <latitude>46.66175000</latitude>
         <longitude>13.07965000</longitude>
+      </cities>
+      <cities>
+        <id>143790</id>
+        <name>Dellach</name>
+        <latitude>46.66138889</latitude>
+        <longitude>13.07944444</longitude>
       </cities>
       <cities>
         <id>1834</id>
@@ -37964,6 +38012,12 @@
         <name>Deutsch Griffen</name>
         <latitude>46.85606000</latitude>
         <longitude>14.07501000</longitude>
+      </cities>
+      <cities>
+        <id>143791</id>
+        <name>Deutsch-Griffen</name>
+        <latitude>46.85500000</latitude>
+        <longitude>14.07388889</longitude>
       </cities>
       <cities>
         <id>1854</id>
@@ -38002,10 +38056,28 @@
         <longitude>14.56000000</longitude>
       </cities>
       <cities>
+        <id>143792</id>
+        <name>Ebriach</name>
+        <latitude>46.46667000</latitude>
+        <longitude>14.51667000</longitude>
+      </cities>
+      <cities>
+        <id>143793</id>
+        <name>Eisenkappel-Vellach</name>
+        <latitude>46.48638889</latitude>
+        <longitude>14.59611111</longitude>
+      </cities>
+      <cities>
         <id>1957</id>
         <name>Faak am See</name>
         <latitude>46.56806000</latitude>
         <longitude>13.90972000</longitude>
+      </cities>
+      <cities>
+        <id>143794</id>
+        <name>Feffernitz</name>
+        <latitude>46.68333333</latitude>
+        <longitude>13.70000000</longitude>
       </cities>
       <cities>
         <id>1966</id>
@@ -38026,6 +38098,12 @@
         <longitude>14.16667000</longitude>
       </cities>
       <cities>
+        <id>143795</id>
+        <name>Feistritz im Rosental</name>
+        <latitude>46.52250000</latitude>
+        <longitude>14.17166667</longitude>
+      </cities>
+      <cities>
         <id>1970</id>
         <name>Feistritz ob Bleiburg</name>
         <latitude>46.55000000</latitude>
@@ -38038,6 +38116,12 @@
         <longitude>13.74778000</longitude>
       </cities>
       <cities>
+        <id>2998</id>
+        <name>Feldkirchen District</name>
+        <latitude>46.72127000</latitude>
+        <longitude>14.09683000</longitude>
+      </cities>
+      <cities>
         <id>1976</id>
         <name>Feldkirchen in Kärnten</name>
         <latitude>46.72368000</latitude>
@@ -38048,6 +38132,12 @@
         <name>Ferlach</name>
         <latitude>46.52694000</latitude>
         <longitude>14.30194000</longitude>
+      </cities>
+      <cities>
+        <id>143796</id>
+        <name>Ferndorf</name>
+        <latitude>46.73611111</latitude>
+        <longitude>13.62638889</longitude>
       </cities>
       <cities>
         <id>1981</id>
@@ -38080,6 +38170,18 @@
         <longitude>13.96128000</longitude>
       </cities>
       <cities>
+        <id>143797</id>
+        <name>Frantschach-Sankt Gertraud</name>
+        <latitude>46.86111111</latitude>
+        <longitude>14.86027778</longitude>
+      </cities>
+      <cities>
+        <id>143798</id>
+        <name>Frauenstein</name>
+        <latitude>46.81361111</latitude>
+        <longitude>14.36750000</longitude>
+      </cities>
+      <cities>
         <id>2015</id>
         <name>Frauenstein</name>
         <latitude>46.81417000</latitude>
@@ -38096,6 +38198,12 @@
         <name>Fresen</name>
         <latitude>46.70516000</latitude>
         <longitude>14.04513000</longitude>
+      </cities>
+      <cities>
+        <id>143799</id>
+        <name>Friesach</name>
+        <latitude>46.95250000</latitude>
+        <longitude>14.40972222</longitude>
       </cities>
       <cities>
         <id>2024</id>
@@ -38122,6 +38230,24 @@
         <longitude>14.51667000</longitude>
       </cities>
       <cities>
+        <id>143800</id>
+        <name>Gemmersdorf</name>
+        <latitude>46.75740000</latitude>
+        <longitude>14.90220000</longitude>
+      </cities>
+      <cities>
+        <id>143801</id>
+        <name>Gerlamoos</name>
+        <latitude>46.76391000</latitude>
+        <longitude>13.27200000</longitude>
+      </cities>
+      <cities>
+        <id>143802</id>
+        <name>Gitschtal</name>
+        <latitude>46.67972222</latitude>
+        <longitude>13.26055556</longitude>
+      </cities>
+      <cities>
         <id>2083</id>
         <name>Glanegg</name>
         <latitude>46.72259000</latitude>
@@ -38146,16 +38272,34 @@
         <longitude>13.52944000</longitude>
       </cities>
       <cities>
+        <id>143803</id>
+        <name>Gmünd in Kärnten</name>
+        <latitude>46.91472000</latitude>
+        <longitude>13.54670000</longitude>
+      </cities>
+      <cities>
         <id>2099</id>
         <name>Gnesau</name>
         <latitude>46.77544000</latitude>
         <longitude>13.96251000</longitude>
       </cities>
       <cities>
+        <id>143806</id>
+        <name>Görtschach</name>
+        <latitude>46.61278000</latitude>
+        <longitude>13.46500000</longitude>
+      </cities>
+      <cities>
         <id>2113</id>
         <name>Grafenstein</name>
         <latitude>46.61393000</latitude>
         <longitude>14.46719000</longitude>
+      </cities>
+      <cities>
+        <id>143804</id>
+        <name>Grafenstein</name>
+        <latitude>46.61500000</latitude>
+        <longitude>14.46722222</longitude>
       </cities>
       <cities>
         <id>2124</id>
@@ -38188,6 +38332,12 @@
         <longitude>14.29167000</longitude>
       </cities>
       <cities>
+        <id>143805</id>
+        <name>Gurk</name>
+        <latitude>46.87527778</latitude>
+        <longitude>14.28888889</longitude>
+      </cities>
+      <cities>
         <id>2182</id>
         <name>Guttaring</name>
         <latitude>46.88536000</latitude>
@@ -38204,6 +38354,18 @@
         <name>Hermagor</name>
         <latitude>46.62722000</latitude>
         <longitude>13.36722000</longitude>
+      </cities>
+      <cities>
+        <id>3008</id>
+        <name>Hermagor District</name>
+        <latitude>46.63137000</latitude>
+        <longitude>13.13246000</longitude>
+      </cities>
+      <cities>
+        <id>143807</id>
+        <name>Hermagor-Pressegger See</name>
+        <latitude>46.62722222</latitude>
+        <longitude>13.36722222</longitude>
       </cities>
       <cities>
         <id>2282</id>
@@ -38230,6 +38392,12 @@
         <longitude>14.55000000</longitude>
       </cities>
       <cities>
+        <id>143808</id>
+        <name>Hüttenberg</name>
+        <latitude>46.93972222</latitude>
+        <longitude>14.54861111</longitude>
+      </cities>
+      <cities>
         <id>2367</id>
         <name>Irschen</name>
         <latitude>46.75694000</latitude>
@@ -38254,10 +38422,34 @@
         <longitude>13.18454000</longitude>
       </cities>
       <cities>
+        <id>143809</id>
+        <name>Kirchbach</name>
+        <latitude>46.64111111</latitude>
+        <longitude>13.18333333</longitude>
+      </cities>
+      <cities>
+        <id>143810</id>
+        <name>Klagenfurt</name>
+        <latitude>46.63873000</latitude>
+        <longitude>14.29730000</longitude>
+      </cities>
+      <cities>
         <id>2446</id>
         <name>Klagenfurt am Wörthersee</name>
         <latitude>46.63333000</latitude>
         <longitude>14.30000000</longitude>
+      </cities>
+      <cities>
+        <id>3016</id>
+        <name>Klagenfurt-Land District</name>
+        <latitude>46.56722000</latitude>
+        <longitude>14.29295000</longitude>
+      </cities>
+      <cities>
+        <id>143811</id>
+        <name>Kleblach-Lind</name>
+        <latitude>46.76722222</latitude>
+        <longitude>13.35805556</longitude>
       </cities>
       <cities>
         <id>2449</id>
@@ -38278,10 +38470,22 @@
         <longitude>13.00694000</longitude>
       </cities>
       <cities>
+        <id>143813</id>
+        <name>Kötschach-Mauthen</name>
+        <latitude>46.66666667</latitude>
+        <longitude>13.00000000</longitude>
+      </cities>
+      <cities>
         <id>2515</id>
         <name>Köttmannsdorf</name>
         <latitude>46.56139000</latitude>
         <longitude>14.23389000</longitude>
+      </cities>
+      <cities>
+        <id>143812</id>
+        <name>Krems</name>
+        <latitude>46.92250000</latitude>
+        <longitude>13.56750000</longitude>
       </cities>
       <cities>
         <id>2500</id>
@@ -38294,6 +38498,12 @@
         <name>Kühnsdorf</name>
         <latitude>46.62194000</latitude>
         <longitude>14.63639000</longitude>
+      </cities>
+      <cities>
+        <id>143814</id>
+        <name>Lamnitz</name>
+        <latitude>46.86666667</latitude>
+        <longitude>12.98333333</longitude>
       </cities>
       <cities>
         <id>2533</id>
@@ -38326,6 +38536,24 @@
         <longitude>13.43028000</longitude>
       </cities>
       <cities>
+        <id>143815</id>
+        <name>Lendorf</name>
+        <latitude>46.83333333</latitude>
+        <longitude>13.41666667</longitude>
+      </cities>
+      <cities>
+        <id>143816</id>
+        <name>Leppen</name>
+        <latitude>46.48333000</latitude>
+        <longitude>14.63333000</longitude>
+      </cities>
+      <cities>
+        <id>143817</id>
+        <name>Lesachtal</name>
+        <latitude>46.69388889</latitude>
+        <longitude>12.81583333</longitude>
+      </cities>
+      <cities>
         <id>2594</id>
         <name>Liebenfels</name>
         <latitude>46.73778000</latitude>
@@ -38338,16 +38566,52 @@
         <longitude>13.84715000</longitude>
       </cities>
       <cities>
+        <id>143818</id>
+        <name>Lobersberg</name>
+        <latitude>46.86500000</latitude>
+        <longitude>12.91111111</longitude>
+      </cities>
+      <cities>
         <id>2618</id>
         <name>Ludmannsdorf</name>
         <latitude>46.54139000</latitude>
         <longitude>14.13425000</longitude>
       </cities>
       <cities>
+        <id>143819</id>
+        <name>Lurnfeld</name>
+        <latitude>46.83333333</latitude>
+        <longitude>13.36666667</longitude>
+      </cities>
+      <cities>
+        <id>143820</id>
+        <name>Magdalensberg</name>
+        <latitude>46.70111111</latitude>
+        <longitude>14.43111111</longitude>
+      </cities>
+      <cities>
+        <id>143821</id>
+        <name>Mallnitz</name>
+        <latitude>46.98972222</latitude>
+        <longitude>13.17000000</longitude>
+      </cities>
+      <cities>
+        <id>143822</id>
+        <name>Malta</name>
+        <latitude>46.96666667</latitude>
+        <longitude>13.51666667</longitude>
+      </cities>
+      <cities>
         <id>2646</id>
         <name>Maria Rain</name>
         <latitude>46.55389000</latitude>
         <longitude>14.29556000</longitude>
+      </cities>
+      <cities>
+        <id>143823</id>
+        <name>Maria Rain</name>
+        <latitude>46.55527778</latitude>
+        <longitude>14.29583333</longitude>
       </cities>
       <cities>
         <id>2647</id>
@@ -38360,6 +38624,12 @@
         <name>Maria Wörth</name>
         <latitude>46.61639000</latitude>
         <longitude>14.16306000</longitude>
+      </cities>
+      <cities>
+        <id>143824</id>
+        <name>Maria Wörth</name>
+        <latitude>46.61638889</latitude>
+        <longitude>14.16138889</longitude>
       </cities>
       <cities>
         <id>2678</id>
@@ -38380,10 +38650,22 @@
         <longitude>14.41667000</longitude>
       </cities>
       <cities>
+        <id>143825</id>
+        <name>Micheldorf</name>
+        <latitude>46.91388889</latitude>
+        <longitude>14.42777778</longitude>
+      </cities>
+      <cities>
         <id>2702</id>
         <name>Millstatt</name>
         <latitude>46.80417000</latitude>
         <longitude>13.58056000</longitude>
+      </cities>
+      <cities>
+        <id>143826</id>
+        <name>Millstatt</name>
+        <latitude>46.80416667</latitude>
+        <longitude>13.58055556</longitude>
       </cities>
       <cities>
         <id>2742</id>
@@ -38404,6 +38686,12 @@
         <longitude>14.17472000</longitude>
       </cities>
       <cities>
+        <id>143827</id>
+        <name>Moosburg</name>
+        <latitude>46.65777778</latitude>
+        <longitude>14.17361111</longitude>
+      </cities>
+      <cities>
         <id>2749</id>
         <name>Mörtschach</name>
         <latitude>46.92389000</latitude>
@@ -38414,6 +38702,12 @@
         <name>Mühldorf</name>
         <latitude>46.86028000</latitude>
         <longitude>13.35361000</longitude>
+      </cities>
+      <cities>
+        <id>143828</id>
+        <name>Mühldorf</name>
+        <latitude>46.85750000</latitude>
+        <longitude>13.35194444</longitude>
       </cities>
       <cities>
         <id>2782</id>
@@ -38434,10 +38728,28 @@
         <longitude>14.40000000</longitude>
       </cities>
       <cities>
+        <id>143829</id>
+        <name>Nötsch im Gailtal</name>
+        <latitude>46.59000000</latitude>
+        <longitude>13.62277778</longitude>
+      </cities>
+      <cities>
+        <id>143830</id>
+        <name>Oberdörfl</name>
+        <latitude>46.55528000</latitude>
+        <longitude>14.10806000</longitude>
+      </cities>
+      <cities>
         <id>2849</id>
         <name>Oberdrauburg</name>
         <latitude>46.74306000</latitude>
         <longitude>12.97028000</longitude>
+      </cities>
+      <cities>
+        <id>143831</id>
+        <name>Obermillstatt</name>
+        <latitude>46.81060000</latitude>
+        <longitude>13.59080000</longitude>
       </cities>
       <cities>
         <id>2879</id>
@@ -38458,58 +38770,22 @@
         <longitude>13.63611000</longitude>
       </cities>
       <cities>
+        <id>143832</id>
+        <name>Pischeldorf</name>
+        <latitude>46.68333000</latitude>
+        <longitude>14.45000000</longitude>
+      </cities>
+      <cities>
+        <id>143834</id>
+        <name>Pöckau</name>
+        <latitude>46.55000000</latitude>
+        <longitude>13.73330000</longitude>
+      </cities>
+      <cities>
         <id>2986</id>
         <name>Poggersdorf</name>
         <latitude>46.65000000</latitude>
         <longitude>14.45000000</longitude>
-      </cities>
-      <cities>
-        <id>2998</id>
-        <name>Politischer Bezirk Feldkirchen</name>
-        <latitude>46.72127000</latitude>
-        <longitude>14.09683000</longitude>
-      </cities>
-      <cities>
-        <id>3008</id>
-        <name>Politischer Bezirk Hermagor</name>
-        <latitude>46.63137000</latitude>
-        <longitude>13.13246000</longitude>
-      </cities>
-      <cities>
-        <id>3016</id>
-        <name>Politischer Bezirk Klagenfurt Land</name>
-        <latitude>46.56722000</latitude>
-        <longitude>14.29295000</longitude>
-      </cities>
-      <cities>
-        <id>3044</id>
-        <name>Politischer Bezirk Sankt Veit an der Glan</name>
-        <latitude>46.83333000</latitude>
-        <longitude>14.40000000</longitude>
-      </cities>
-      <cities>
-        <id>3048</id>
-        <name>Politischer Bezirk Spittal an der Drau</name>
-        <latitude>46.85000000</latitude>
-        <longitude>13.33333000</longitude>
-      </cities>
-      <cities>
-        <id>3054</id>
-        <name>Politischer Bezirk Villach Land</name>
-        <latitude>46.65308000</latitude>
-        <longitude>13.77287000</longitude>
-      </cities>
-      <cities>
-        <id>3057</id>
-        <name>Politischer Bezirk Völkermarkt</name>
-        <latitude>46.59641000</latitude>
-        <longitude>14.66664000</longitude>
-      </cities>
-      <cities>
-        <id>3061</id>
-        <name>Politischer Bezirk Wolfsberg</name>
-        <latitude>46.83333000</latitude>
-        <longitude>14.83333000</longitude>
       </cities>
       <cities>
         <id>3108</id>
@@ -38528,6 +38804,12 @@
         <name>Priel</name>
         <latitude>46.82758000</latitude>
         <longitude>14.83330000</longitude>
+      </cities>
+      <cities>
+        <id>143833</id>
+        <name>Pusarnitz</name>
+        <latitude>46.83333000</latitude>
+        <longitude>13.40000000</longitude>
       </cities>
       <cities>
         <id>3123</id>
@@ -38554,16 +38836,34 @@
         <longitude>14.85000000</longitude>
       </cities>
       <cities>
+        <id>143835</id>
+        <name>Reichenau</name>
+        <latitude>46.85416667</latitude>
+        <longitude>13.89305556</longitude>
+      </cities>
+      <cities>
         <id>3165</id>
         <name>Reichenfels</name>
         <latitude>47.00718000</latitude>
         <longitude>14.74425000</longitude>
       </cities>
       <cities>
+        <id>143836</id>
+        <name>Reißeck</name>
+        <latitude>46.87694444</latitude>
+        <longitude>13.30555556</longitude>
+      </cities>
+      <cities>
         <id>3178</id>
         <name>Rennweg am Katschberg</name>
         <latitude>47.01667000</latitude>
         <longitude>13.61667000</longitude>
+      </cities>
+      <cities>
+        <id>143837</id>
+        <name>Rittersdorf</name>
+        <latitude>46.75111000</latitude>
+        <longitude>13.03444000</longitude>
       </cities>
       <cities>
         <id>3210</id>
@@ -38578,6 +38878,12 @@
         <longitude>14.77639000</longitude>
       </cities>
       <cities>
+        <id>143838</id>
+        <name>Ruden</name>
+        <latitude>46.65638889</latitude>
+        <longitude>14.76972222</longitude>
+      </cities>
+      <cities>
         <id>3231</id>
         <name>Sachsenburg</name>
         <latitude>46.82917000</latitude>
@@ -38588,6 +38894,42 @@
         <name>Sankt Andrä</name>
         <latitude>46.76829000</latitude>
         <longitude>14.81991000</longitude>
+      </cities>
+      <cities>
+        <id>143839</id>
+        <name>Sankt Egyden an der Drau</name>
+        <latitude>46.57722000</latitude>
+        <longitude>14.06167000</longitude>
+      </cities>
+      <cities>
+        <id>3484</id>
+        <name>Sankt Georgen am Längsee</name>
+        <latitude>46.78061000</latitude>
+        <longitude>14.43033000</longitude>
+      </cities>
+      <cities>
+        <id>143840</id>
+        <name>Sankt Georgen im Lavanttal</name>
+        <latitude>46.71666667</latitude>
+        <longitude>14.91666667</longitude>
+      </cities>
+      <cities>
+        <id>143841</id>
+        <name>Sankt Jakob</name>
+        <latitude>46.54777778</latitude>
+        <longitude>14.05722222</longitude>
+      </cities>
+      <cities>
+        <id>143842</id>
+        <name>Sankt Jakob im Rosental</name>
+        <latitude>46.54777778</latitude>
+        <longitude>14.05722222</longitude>
+      </cities>
+      <cities>
+        <id>143843</id>
+        <name>Sankt Kanzian am Klopeiner See</name>
+        <latitude>46.61444444</latitude>
+        <longitude>14.57583333</longitude>
       </cities>
       <cities>
         <id>3279</id>
@@ -38615,7 +38957,7 @@
       </cities>
       <cities>
         <id>3319</id>
-        <name>Sankt Paul im Levanttal</name>
+        <name>Sankt Paul im Lavanttal</name>
         <latitude>46.70056000</latitude>
         <longitude>14.87556000</longitude>
       </cities>
@@ -38638,16 +38980,40 @@
         <longitude>14.85167000</longitude>
       </cities>
       <cities>
+        <id>143844</id>
+        <name>Sankt Stefan im Gailtal</name>
+        <latitude>46.61666667</latitude>
+        <longitude>13.51666667</longitude>
+      </cities>
+      <cities>
+        <id>143845</id>
+        <name>Sankt Urban</name>
+        <latitude>46.75027778</latitude>
+        <longitude>14.16916667</longitude>
+      </cities>
+      <cities>
         <id>3343</id>
         <name>Sankt Veit an der Glan</name>
         <latitude>46.76806000</latitude>
         <longitude>14.36028000</longitude>
       </cities>
       <cities>
+        <id>3044</id>
+        <name>Sankt Veit an der Glan District</name>
+        <latitude>46.83333000</latitude>
+        <longitude>14.40000000</longitude>
+      </cities>
+      <cities>
         <id>3369</id>
         <name>Schiefling am See</name>
         <latitude>46.60444000</latitude>
         <longitude>14.09750000</longitude>
+      </cities>
+      <cities>
+        <id>143846</id>
+        <name>Schiefling am See</name>
+        <latitude>46.60166667</latitude>
+        <longitude>14.09777778</longitude>
       </cities>
       <cities>
         <id>3374</id>
@@ -38668,10 +39034,22 @@
         <longitude>13.51430000</longitude>
       </cities>
       <cities>
+        <id>143847</id>
+        <name>Seeboden</name>
+        <latitude>46.81888889</latitude>
+        <longitude>13.51833333</longitude>
+      </cities>
+      <cities>
         <id>3439</id>
         <name>Seitenberg</name>
         <latitude>46.74801000</latitude>
         <longitude>14.08825000</longitude>
+      </cities>
+      <cities>
+        <id>143848</id>
+        <name>Sirnitz</name>
+        <latitude>46.82361000</latitude>
+        <longitude>14.05944000</longitude>
       </cities>
       <cities>
         <id>3464</id>
@@ -38686,16 +39064,52 @@
         <longitude>13.50000000</longitude>
       </cities>
       <cities>
+        <id>3048</id>
+        <name>Spittal an der Drau District</name>
+        <latitude>46.85000000</latitude>
+        <longitude>13.33333000</longitude>
+      </cities>
+      <cities>
         <id>3483</id>
         <name>St. Agathen und Perau</name>
         <latitude>46.60627000</latitude>
         <longitude>13.85615000</longitude>
       </cities>
       <cities>
-        <id>3484</id>
-        <name>St. Georgen am Längsee</name>
-        <latitude>46.78061000</latitude>
-        <longitude>14.43033000</longitude>
+        <id>143849</id>
+        <name>St. Andrä</name>
+        <latitude>46.76473000</latitude>
+        <longitude>14.82442000</longitude>
+      </cities>
+      <cities>
+        <id>143850</id>
+        <name>St. Margareten im Rosental</name>
+        <latitude>46.52498000</latitude>
+        <longitude>14.41600000</longitude>
+      </cities>
+      <cities>
+        <id>143851</id>
+        <name>St. Paul im Lavanttal</name>
+        <latitude>46.69869000</latitude>
+        <longitude>14.84877000</longitude>
+      </cities>
+      <cities>
+        <id>143852</id>
+        <name>St. Stefan im Gailtal</name>
+        <latitude>46.60796000</latitude>
+        <longitude>13.50973000</longitude>
+      </cities>
+      <cities>
+        <id>143853</id>
+        <name>St. Urban</name>
+        <latitude>46.76128000</latitude>
+        <longitude>14.16658000</longitude>
+      </cities>
+      <cities>
+        <id>143854</id>
+        <name>St. Veit an der Glan</name>
+        <latitude>46.73536000</latitude>
+        <longitude>14.35404000</longitude>
       </cities>
       <cities>
         <id>3486</id>
@@ -38710,6 +39124,12 @@
         <longitude>13.03694000</longitude>
       </cities>
       <cities>
+        <id>143855</id>
+        <name>Stall</name>
+        <latitude>46.88694444</latitude>
+        <longitude>13.03472222</longitude>
+      </cities>
+      <cities>
         <id>3517</id>
         <name>Steindorf am Ossiacher See</name>
         <latitude>46.69833000</latitude>
@@ -38720,6 +39140,12 @@
         <name>Steinfeld</name>
         <latitude>46.75812000</latitude>
         <longitude>13.24934000</longitude>
+      </cities>
+      <cities>
+        <id>143856</id>
+        <name>Steinfeld</name>
+        <latitude>46.75777778</latitude>
+        <longitude>13.25000000</longitude>
       </cities>
       <cities>
         <id>3526</id>
@@ -38734,10 +39160,34 @@
         <longitude>13.52306000</longitude>
       </cities>
       <cities>
+        <id>143857</id>
+        <name>Straßburg</name>
+        <latitude>46.89555556</latitude>
+        <longitude>14.33083333</longitude>
+      </cities>
+      <cities>
         <id>3548</id>
         <name>Straßburg-Stadt</name>
         <latitude>46.89444000</latitude>
         <longitude>14.32861000</longitude>
+      </cities>
+      <cities>
+        <id>143858</id>
+        <name>Suetschach</name>
+        <latitude>46.52694444</latitude>
+        <longitude>14.15638889</longitude>
+      </cities>
+      <cities>
+        <id>143859</id>
+        <name>Techelsberg</name>
+        <latitude>46.65861111</latitude>
+        <longitude>14.10194444</longitude>
+      </cities>
+      <cities>
+        <id>143860</id>
+        <name>Timenitz</name>
+        <latitude>46.68333000</latitude>
+        <longitude>14.41667000</longitude>
       </cities>
       <cities>
         <id>3618</id>
@@ -38746,16 +39196,46 @@
         <longitude>13.51028000</longitude>
       </cities>
       <cities>
+        <id>143861</id>
+        <name>Trebesing</name>
+        <latitude>46.88305556</latitude>
+        <longitude>13.51055556</longitude>
+      </cities>
+      <cities>
+        <id>143862</id>
+        <name>Treffen</name>
+        <latitude>46.66833333</latitude>
+        <longitude>13.85555556</longitude>
+      </cities>
+      <cities>
         <id>3620</id>
         <name>Treibach</name>
         <latitude>46.86667000</latitude>
         <longitude>14.46667000</longitude>
       </cities>
       <cities>
+        <id>143863</id>
+        <name>Tschachoritsch</name>
+        <latitude>46.55352000</latitude>
+        <longitude>14.21461000</longitude>
+      </cities>
+      <cities>
+        <id>143864</id>
+        <name>Umberg</name>
+        <latitude>46.64833000</latitude>
+        <longitude>13.95750000</longitude>
+      </cities>
+      <cities>
         <id>3649</id>
         <name>Untere Fellach</name>
         <latitude>46.62504000</latitude>
         <longitude>13.82681000</longitude>
+      </cities>
+      <cities>
+        <id>143865</id>
+        <name>Velden am Wörther See</name>
+        <latitude>46.61250000</latitude>
+        <longitude>14.04194444</longitude>
       </cities>
       <cities>
         <id>3675</id>
@@ -38783,7 +39263,7 @@
       </cities>
       <cities>
         <id>3687</id>
-        <name>Villach Stadt</name>
+        <name>Villach</name>
         <latitude>46.60900000</latitude>
         <longitude>13.85136000</longitude>
       </cities>
@@ -38792,6 +39272,12 @@
         <name>Villach-Innere Stadt</name>
         <latitude>46.61275000</latitude>
         <longitude>13.84638000</longitude>
+      </cities>
+      <cities>
+        <id>3054</id>
+        <name>Villach-Land District</name>
+        <latitude>46.65308000</latitude>
+        <longitude>13.77287000</longitude>
       </cities>
       <cities>
         <id>3689</id>
@@ -38812,6 +39298,12 @@
         <longitude>14.63444000</longitude>
       </cities>
       <cities>
+        <id>3057</id>
+        <name>Völkermarkt District</name>
+        <latitude>46.59641000</latitude>
+        <longitude>14.66664000</longitude>
+      </cities>
+      <cities>
         <id>3707</id>
         <name>Völkermarkter Vorstadt</name>
         <latitude>46.62418000</latitude>
@@ -38830,16 +39322,40 @@
         <longitude>13.82241000</longitude>
       </cities>
       <cities>
+        <id>143867</id>
+        <name>Weißensee</name>
+        <latitude>46.71666667</latitude>
+        <longitude>13.30000000</longitude>
+      </cities>
+      <cities>
+        <id>143868</id>
+        <name>Weißenstein</name>
+        <latitude>46.68222222</latitude>
+        <longitude>13.72361111</longitude>
+      </cities>
+      <cities>
         <id>3776</id>
         <name>Weitensfeld</name>
         <latitude>46.84743000</latitude>
         <longitude>14.19213000</longitude>
       </cities>
       <cities>
+        <id>143866</id>
+        <name>Weitensfeld im Gurktal</name>
+        <latitude>46.84861111</latitude>
+        <longitude>14.19166667</longitude>
+      </cities>
+      <cities>
         <id>3794</id>
         <name>Wernberg</name>
         <latitude>46.61667000</latitude>
         <longitude>13.93333000</longitude>
+      </cities>
+      <cities>
+        <id>143869</id>
+        <name>Wernberg</name>
+        <latitude>46.62305556</latitude>
+        <longitude>13.93944444</longitude>
       </cities>
       <cities>
         <id>3833</id>
@@ -38860,10 +39376,28 @@
         <longitude>14.84417000</longitude>
       </cities>
       <cities>
+        <id>143870</id>
+        <name>Wolfsberg</name>
+        <latitude>46.84194444</latitude>
+        <longitude>14.84083333</longitude>
+      </cities>
+      <cities>
+        <id>3061</id>
+        <name>Wolfsberg District</name>
+        <latitude>46.83333000</latitude>
+        <longitude>14.83333000</longitude>
+      </cities>
+      <cities>
         <id>3849</id>
         <name>Wudmath</name>
         <latitude>46.59634000</latitude>
         <longitude>13.98067000</longitude>
+      </cities>
+      <cities>
+        <id>143871</id>
+        <name>Zell</name>
+        <latitude>46.47222222</latitude>
+        <longitude>14.38888889</longitude>
       </cities>
     </states>
     <states>
@@ -42876,12 +43410,6 @@
         <name>Politischer Bezirk Tamsweg</name>
         <latitude>47.15000000</latitude>
         <longitude>13.70000000</longitude>
-      </cities>
-      <cities>
-        <id>3062</id>
-        <name>Politischer Bezirk Zell am See</name>
-        <latitude>47.28333000</latitude>
-        <longitude>12.70000000</longitude>
       </cities>
       <cities>
         <id>3088</id>
@@ -49386,7 +49914,7 @@
       </cities>
       <cities>
         <id>3205</id>
-        <name>Rohrbach in Oberösterreich</name>
+        <name>Rohrbach-Berg</name>
         <latitude>48.57275000</latitude>
         <longitude>13.98834000</longitude>
       </cities>
