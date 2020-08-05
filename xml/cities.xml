@@ -798581,6 +798581,16 @@
     <longitude>-77.04583000</longitude>
   </city>
   <city>
+    <id>80701</id>
+    <name>Lima</name>
+    <state_id>3695</state_id>
+    <state_code>LIM</state_code>
+    <country_id>173</country_id>
+    <country_code>PE</country_code>
+    <latitude>-12.04318000</latitude>
+    <longitude>-77.02824000</longitude>
+  </city>
+  <city>
     <id>80708</id>
     <name>Mala</name>
     <state_id>3695</state_id>
@@ -798839,16 +798849,6 @@
     <country_code>PE</country_code>
     <latitude>-11.02253000</latitude>
     <longitude>-77.64378000</longitude>
-  </city>
-  <city>
-    <id>80701</id>
-    <name>Lima</name>
-    <state_id>3690</state_id>
-    <state_code>LMA</state_code>
-    <country_id>173</country_id>
-    <country_code>PE</country_code>
-    <latitude>-12.04318000</latitude>
-    <longitude>-77.02824000</longitude>
   </city>
   <city>
     <id>80666</id>
@@ -1034454,7 +1034454,7 @@
     <id>131017</id>
     <name>Alberton</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.26786000</latitude>
@@ -1034464,7 +1034464,7 @@
     <id>131032</id>
     <name>Benoni</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.18848000</latitude>
@@ -1034474,7 +1034474,7 @@
     <id>131042</id>
     <name>Boksburg</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.21197000</latitude>
@@ -1034484,7 +1034484,7 @@
     <id>131045</id>
     <name>Brakpan</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.23656000</latitude>
@@ -1034494,7 +1034494,7 @@
     <id>131051</id>
     <name>Bronkhorstspruit</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-25.81015000</latitude>
@@ -1034504,7 +1034504,7 @@
     <id>131062</id>
     <name>Carletonville</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.36094000</latitude>
@@ -1034514,7 +1034514,7 @@
     <id>131066</id>
     <name>Centurion</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-25.85891000</latitude>
@@ -1034524,7 +1034524,7 @@
     <id>131071</id>
     <name>City of Johannesburg Metropolitan Municipality</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.17673000</latitude>
@@ -1034534,7 +1034534,7 @@
     <id>131072</id>
     <name>City of Tshwane Metropolitan Municipality</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-25.65985000</latitude>
@@ -1034544,7 +1034544,7 @@
     <id>131079</id>
     <name>Cullinan</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-25.67088000</latitude>
@@ -1034554,7 +1034554,7 @@
     <id>131085</id>
     <name>Diepsloot</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-25.93312000</latitude>
@@ -1034564,7 +1034564,7 @@
     <id>131094</id>
     <name>Eastleigh</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.12965000</latitude>
@@ -1034574,7 +1034574,7 @@
     <id>131096</id>
     <name>Eden Glen</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.13230000</latitude>
@@ -1034584,7 +1034584,7 @@
     <id>131097</id>
     <name>Eden Glen Ext 60</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.12593000</latitude>
@@ -1034594,7 +1034594,7 @@
     <id>131098</id>
     <name>Edenvale</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.14095000</latitude>
@@ -1034604,7 +1034604,7 @@
     <id>131100</id>
     <name>Ekangala</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-25.69619000</latitude>
@@ -1034614,7 +1034614,7 @@
     <id>131101</id>
     <name>Ekurhuleni Metropolitan Municipality</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.19890000</latitude>
@@ -1034624,7 +1034624,7 @@
     <id>131125</id>
     <name>Heidelberg</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.50476000</latitude>
@@ -1034634,7 +1034634,7 @@
     <id>131136</id>
     <name>Johannesburg</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.20227000</latitude>
@@ -1034644,7 +1034644,7 @@
     <id>131151</id>
     <name>Krugersdorp</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.08577000</latitude>
@@ -1034654,7 +1034654,7 @@
     <id>131166</id>
     <name>Mabopane</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-25.49768000</latitude>
@@ -1034664,7 +1034664,7 @@
     <id>131176</id>
     <name>Midrand</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-25.98953000</latitude>
@@ -1034674,7 +1034674,7 @@
     <id>131177</id>
     <name>Midstream</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-25.91849000</latitude>
@@ -1034684,7 +1034684,7 @@
     <id>131179</id>
     <name>Modderfontein</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.08909000</latitude>
@@ -1034694,7 +1034694,7 @@
     <id>131193</id>
     <name>Muldersdriseloop</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.03673000</latitude>
@@ -1034704,7 +1034704,7 @@
     <id>131202</id>
     <name>Nigel</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.43138000</latitude>
@@ -1034714,7 +1034714,7 @@
     <id>131207</id>
     <name>Orange Farm</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.48333000</latitude>
@@ -1034724,7 +1034724,7 @@
     <id>131230</id>
     <name>Pretoria</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-25.74486000</latitude>
@@ -1034734,7 +1034734,7 @@
     <id>131235</id>
     <name>Randburg</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.09410000</latitude>
@@ -1034744,7 +1034744,7 @@
     <id>131236</id>
     <name>Randfontein</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.18440000</latitude>
@@ -1034754,7 +1034754,7 @@
     <id>131245</id>
     <name>Roodepoort</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.16250000</latitude>
@@ -1034764,7 +1034764,7 @@
     <id>131253</id>
     <name>Sedibeng District Municipality</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.56686000</latitude>
@@ -1034774,7 +1034774,7 @@
     <id>131260</id>
     <name>Soweto</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.26781000</latitude>
@@ -1034784,7 +1034784,7 @@
     <id>131262</id>
     <name>Springs</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.25000000</latitude>
@@ -1034794,7 +1034794,7 @@
     <id>131270</id>
     <name>Tembisa</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-25.99636000</latitude>
@@ -1034804,7 +1034804,7 @@
     <id>131284</id>
     <name>Vanderbijlpark</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.71171000</latitude>
@@ -1034814,7 +1034814,7 @@
     <id>131286</id>
     <name>Vereeniging</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.67313000</latitude>
@@ -1034824,7 +1034824,7 @@
     <id>131305</id>
     <name>West Rand District Municipality</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.24565000</latitude>
@@ -1034834,7 +1034834,7 @@
     <id>131306</id>
     <name>Westonaria</name>
     <state_id>936</state_id>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-26.31905000</latitude>
@@ -1034844,7 +1034844,7 @@
     <id>131022</id>
     <name>Amajuba District Municipality</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-27.73558000</latitude>
@@ -1034854,7 +1034854,7 @@
     <id>131027</id>
     <name>Ballito</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.53897000</latitude>
@@ -1034864,7 +1034864,7 @@
     <id>131033</id>
     <name>Berea</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.85185000</latitude>
@@ -1034874,7 +1034874,7 @@
     <id>131091</id>
     <name>Dundee</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-28.16678000</latitude>
@@ -1034884,7 +1034884,7 @@
     <id>131092</id>
     <name>Durban</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.85790000</latitude>
@@ -1034894,7 +1034894,7 @@
     <id>131102</id>
     <name>Ekuvukeni</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-28.46752000</latitude>
@@ -1034904,7 +1034904,7 @@
     <id>131320</id>
     <name>eMkhomazi</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-30.20674000</latitude>
@@ -1034914,7 +1034914,7 @@
     <id>131104</id>
     <name>Empangeni</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-28.76197000</latitude>
@@ -1034924,7 +1034924,7 @@
     <id>131106</id>
     <name>Eshowe</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-28.88649000</latitude>
@@ -1034934,7 +1034934,7 @@
     <id>131321</id>
     <name>eSikhaleni</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-28.87097000</latitude>
@@ -1034944,7 +1034944,7 @@
     <id>131322</id>
     <name>eThekwini Metropolitan Municipality</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.86670000</latitude>
@@ -1034954,7 +1034954,7 @@
     <id>131118</id>
     <name>Glencoe</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-28.17827000</latitude>
@@ -1034964,7 +1034964,7 @@
     <id>131122</id>
     <name>Greytown</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.06415000</latitude>
@@ -1034974,7 +1034974,7 @@
     <id>131130</id>
     <name>Hluhluwe</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-28.01895000</latitude>
@@ -1034984,7 +1034984,7 @@
     <id>131132</id>
     <name>Howick</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.47795000</latitude>
@@ -1034994,7 +1034994,7 @@
     <id>131323</id>
     <name>iLembe District Municipality</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.27326000</latitude>
@@ -1035004,7 +1035004,7 @@
     <id>131144</id>
     <name>Kokstad</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-30.54723000</latitude>
@@ -1035014,7 +1035014,7 @@
     <id>131155</id>
     <name>KwaDukuza</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.32816000</latitude>
@@ -1035024,7 +1035024,7 @@
     <id>131172</id>
     <name>Margate</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-30.86360000</latitude>
@@ -1035034,7 +1035034,7 @@
     <id>131183</id>
     <name>Mondlo</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-27.98299000</latitude>
@@ -1035044,7 +1035044,7 @@
     <id>131185</id>
     <name>Mooirivier</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.20824000</latitude>
@@ -1035054,7 +1035054,7 @@
     <id>131189</id>
     <name>Mpophomeni</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.56822000</latitude>
@@ -1035064,7 +1035064,7 @@
     <id>131190</id>
     <name>Mpumalanga</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.81292000</latitude>
@@ -1035074,7 +1035074,7 @@
     <id>131192</id>
     <name>Mtubatuba</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-28.41789000</latitude>
@@ -1035084,7 +1035084,7 @@
     <id>131196</id>
     <name>Ndwedwe</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.51686000</latitude>
@@ -1035094,7 +1035094,7 @@
     <id>131199</id>
     <name>Newcastle</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-27.75796000</latitude>
@@ -1035104,7 +1035104,7 @@
     <id>131218</id>
     <name>Pietermaritzburg</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.61679000</latitude>
@@ -1035114,7 +1035114,7 @@
     <id>131227</id>
     <name>Port Shepstone</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-30.74137000</latitude>
@@ -1035124,7 +1035124,7 @@
     <id>131239</id>
     <name>Richards Bay</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-28.78301000</latitude>
@@ -1035134,7 +1035134,7 @@
     <id>131240</id>
     <name>Richmond</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.87196000</latitude>
@@ -1035144,7 +1035144,7 @@
     <id>131251</id>
     <name>Scottburgh</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-30.28666000</latitude>
@@ -1035154,7 +1035154,7 @@
     <id>131256</id>
     <name>Sisonke District Municipality</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-30.11082000</latitude>
@@ -1035164,7 +1035164,7 @@
     <id>131267</id>
     <name>Sundumbili</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.13371000</latitude>
@@ -1035174,7 +1035174,7 @@
     <id>131278</id>
     <name>Ugu District Municipality</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-30.54365000</latitude>
@@ -1035184,7 +1035184,7 @@
     <id>131280</id>
     <name>Ulundi</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-28.33523000</latitude>
@@ -1035194,7 +1035194,7 @@
     <id>131324</id>
     <name>uMgungundlovu District Municipality</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-29.50927000</latitude>
@@ -1035204,7 +1035204,7 @@
     <id>131325</id>
     <name>uMkhanyakude District Municipality</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-27.62236000</latitude>
@@ -1035214,7 +1035214,7 @@
     <id>131326</id>
     <name>uMzinyathi District Municipality</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-28.58570000</latitude>
@@ -1035224,7 +1035224,7 @@
     <id>131327</id>
     <name>uThukela District Municipality</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-28.71920000</latitude>
@@ -1035234,7 +1035234,7 @@
     <id>131328</id>
     <name>uThungulu District Municipality</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-28.70046000</latitude>
@@ -1035244,7 +1035244,7 @@
     <id>131282</id>
     <name>Utrecht</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-27.65862000</latitude>
@@ -1035254,7 +1035254,7 @@
     <id>131297</id>
     <name>Vryheid</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-27.76952000</latitude>
@@ -1035264,7 +1035264,7 @@
     <id>131318</id>
     <name>Zululand District Municipality</name>
     <state_id>935</state_id>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <country_code>ZA</country_code>
     <latitude>-27.81139000</latitude>

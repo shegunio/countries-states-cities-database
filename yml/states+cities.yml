@@ -50875,6 +50875,72 @@ state_city:
         latitude: '7.22097000'
         longitude: '2.34017000'
   -
+    id: 4860
+    name: 'Devonshire Parish'
+    state_code: DEV
+    country_id: 25
+    cities: {  }
+  -
+    id: 4862
+    name: 'Hamilton Municipality'
+    state_code: HAM
+    country_id: 25
+    cities: {  }
+  -
+    id: 4861
+    name: 'Hamilton Parish'
+    state_code: HA
+    country_id: 25
+    cities: {  }
+  -
+    id: 4863
+    name: 'Paget Parish'
+    state_code: PAG
+    country_id: 25
+    cities: {  }
+  -
+    id: 4864
+    name: 'Pembroke Parish'
+    state_code: PEM
+    country_id: 25
+    cities: {  }
+  -
+    id: 4865
+    name: 'Saint George''s Municipality'
+    state_code: SG
+    country_id: 25
+    cities: {  }
+  -
+    id: 4866
+    name: 'Saint George''s Parish'
+    state_code: SGE
+    country_id: 25
+    cities: {  }
+  -
+    id: 4867
+    name: 'Sandys Parish'
+    state_code: SAN
+    country_id: 25
+    cities: {  }
+  -
+    id: 4868
+    name: 'Smith''s Parish,'
+    state_code: SMI
+    country_id: 25
+    cities: {  }
+  -
+    id: 4869
+    name: 'Southampton Parish'
+    state_code: SOU
+    country_id: 25
+    cities: {  }
+  -
+    id: 4870
+    name: 'Warwick Parish'
+    state_code: WAR
+    country_id: 25
+    cities: {  }
+  -
     id: 240
     name: 'Bumthang District'
     state_code: '33'
@@ -417674,6 +417740,11 @@ state_city:
         latitude: '-11.99000000'
         longitude: '-77.04583000'
       -
+        id: 80701
+        name: Lima
+        latitude: '-12.04318000'
+        longitude: '-77.02824000'
+      -
         id: 80708
         name: Mala
         latitude: '-12.65806000'
@@ -417803,17 +417874,6 @@ state_city:
         name: Végueta
         latitude: '-11.02253000'
         longitude: '-77.64378000'
-  -
-    id: 3690
-    name: 'Lima Province'
-    state_code: LMA
-    country_id: 173
-    cities:
-      -
-        id: 80701
-        name: Lima
-        latitude: '-12.04318000'
-        longitude: '-77.02824000'
   -
     id: 3678
     name: 'Madre de Dios'
@@ -539655,7 +539715,7 @@ state_city:
   -
     id: 936
     name: Gauteng
-    state_code: GT
+    state_code: GP
     country_id: 204
     cities:
       -
@@ -539856,7 +539916,7 @@ state_city:
   -
     id: 935
     name: KwaZulu-Natal
-    state_code: NL
+    state_code: KZN
     country_id: 204
     cities:
       -

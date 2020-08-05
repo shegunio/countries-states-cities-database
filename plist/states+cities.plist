@@ -63745,6 +63745,16 @@
 		<array>
 			<dict>
 				<key>id</key>
+				<integer>143783</integer>
+				<key>latitude</key>
+				<string>46.81666667</string>
+				<key>longitude</key>
+				<string>14.10000000</string>
+				<key>name</key>
+				<string>Albeck</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>1646</integer>
 				<key>latitude</key>
 				<string>46.87298000</string>
@@ -63775,6 +63785,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143784</integer>
+				<key>latitude</key>
+				<string>46.55055556</string>
+				<key>longitude</key>
+				<string>13.70388889</string>
+				<key>name</key>
+				<string>Arnoldstein</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>1681</integer>
 				<key>latitude</key>
 				<string>46.72921000</string>
@@ -63792,6 +63812,46 @@
 				<string>13.84389000</string>
 				<key>name</key>
 				<string>Auen</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143785</integer>
+				<key>latitude</key>
+				<string>46.62416667</string>
+				<key>longitude</key>
+				<string>13.68777778</string>
+				<key>name</key>
+				<string>Bad Bleiberg</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143786</integer>
+				<key>latitude</key>
+				<string>46.48333333</string>
+				<key>longitude</key>
+				<string>14.60000000</string>
+				<key>name</key>
+				<string>Bad Eisenkappel</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143787</integer>
+				<key>latitude</key>
+				<string>46.81361111</string>
+				<key>longitude</key>
+				<string>13.79277778</string>
+				<key>name</key>
+				<string>Bad Kleinkirchheim</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143788</integer>
+				<key>latitude</key>
+				<string>46.84279000</string>
+				<key>longitude</key>
+				<string>13.79123000</string>
+				<key>name</key>
+				<string>Bad Kleinkirchheim</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -63831,7 +63891,7 @@
 				<key>longitude</key>
 				<string>14.79889000</string>
 				<key>name</key>
-				<string>Bleiburg/Pliberk</string>
+				<string>Bleiburg</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -63855,11 +63915,31 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143789</integer>
+				<key>latitude</key>
+				<string>46.75305556</string>
+				<key>longitude</key>
+				<string>14.53583333</string>
+				<key>name</key>
+				<string>Brückl</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>1833</integer>
 				<key>latitude</key>
 				<string>46.66175000</string>
 				<key>longitude</key>
 				<string>13.07965000</string>
+				<key>name</key>
+				<string>Dellach</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143790</integer>
+				<key>latitude</key>
+				<string>46.66138889</string>
+				<key>longitude</key>
+				<string>13.07944444</string>
 				<key>name</key>
 				<string>Dellach</string>
 			</dict>
@@ -63882,6 +63962,16 @@
 				<string>14.07501000</string>
 				<key>name</key>
 				<string>Deutsch Griffen</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143791</integer>
+				<key>latitude</key>
+				<string>46.85500000</string>
+				<key>longitude</key>
+				<string>14.07388889</string>
+				<key>name</key>
+				<string>Deutsch-Griffen</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -63945,6 +64035,26 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143792</integer>
+				<key>latitude</key>
+				<string>46.46667000</string>
+				<key>longitude</key>
+				<string>14.51667000</string>
+				<key>name</key>
+				<string>Ebriach</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143793</integer>
+				<key>latitude</key>
+				<string>46.48638889</string>
+				<key>longitude</key>
+				<string>14.59611111</string>
+				<key>name</key>
+				<string>Eisenkappel-Vellach</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>1957</integer>
 				<key>latitude</key>
 				<string>46.56806000</string>
@@ -63952,6 +64062,16 @@
 				<string>13.90972000</string>
 				<key>name</key>
 				<string>Faak am See</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143794</integer>
+				<key>latitude</key>
+				<string>46.68333333</string>
+				<key>longitude</key>
+				<string>13.70000000</string>
+				<key>name</key>
+				<string>Feffernitz</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -63985,6 +64105,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143795</integer>
+				<key>latitude</key>
+				<string>46.52250000</string>
+				<key>longitude</key>
+				<string>14.17166667</string>
+				<key>name</key>
+				<string>Feistritz im Rosental</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>1970</integer>
 				<key>latitude</key>
 				<string>46.55000000</string>
@@ -64005,6 +64135,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>2998</integer>
+				<key>latitude</key>
+				<string>46.72127000</string>
+				<key>longitude</key>
+				<string>14.09683000</string>
+				<key>name</key>
+				<string>Feldkirchen District</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>1976</integer>
 				<key>latitude</key>
 				<string>46.72368000</string>
@@ -64022,6 +64162,16 @@
 				<string>14.30194000</string>
 				<key>name</key>
 				<string>Ferlach</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143796</integer>
+				<key>latitude</key>
+				<string>46.73611111</string>
+				<key>longitude</key>
+				<string>13.62638889</string>
+				<key>name</key>
+				<string>Ferndorf</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -64075,6 +64225,26 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143797</integer>
+				<key>latitude</key>
+				<string>46.86111111</string>
+				<key>longitude</key>
+				<string>14.86027778</string>
+				<key>name</key>
+				<string>Frantschach-Sankt Gertraud</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143798</integer>
+				<key>latitude</key>
+				<string>46.81361111</string>
+				<key>longitude</key>
+				<string>14.36750000</string>
+				<key>name</key>
+				<string>Frauenstein</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2015</integer>
 				<key>latitude</key>
 				<string>46.81417000</string>
@@ -64102,6 +64272,16 @@
 				<string>14.04513000</string>
 				<key>name</key>
 				<string>Fresen</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143799</integer>
+				<key>latitude</key>
+				<string>46.95250000</string>
+				<key>longitude</key>
+				<string>14.40972222</string>
+				<key>name</key>
+				<string>Friesach</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -64145,6 +64325,36 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143800</integer>
+				<key>latitude</key>
+				<string>46.75740000</string>
+				<key>longitude</key>
+				<string>14.90220000</string>
+				<key>name</key>
+				<string>Gemmersdorf</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143801</integer>
+				<key>latitude</key>
+				<string>46.76391000</string>
+				<key>longitude</key>
+				<string>13.27200000</string>
+				<key>name</key>
+				<string>Gerlamoos</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143802</integer>
+				<key>latitude</key>
+				<string>46.67972222</string>
+				<key>longitude</key>
+				<string>13.26055556</string>
+				<key>name</key>
+				<string>Gitschtal</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2083</integer>
 				<key>latitude</key>
 				<string>46.72259000</string>
@@ -64185,6 +64395,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143803</integer>
+				<key>latitude</key>
+				<string>46.91472000</string>
+				<key>longitude</key>
+				<string>13.54670000</string>
+				<key>name</key>
+				<string>Gmünd in Kärnten</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2099</integer>
 				<key>latitude</key>
 				<string>46.77544000</string>
@@ -64195,11 +64415,31 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143806</integer>
+				<key>latitude</key>
+				<string>46.61278000</string>
+				<key>longitude</key>
+				<string>13.46500000</string>
+				<key>name</key>
+				<string>Görtschach</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2113</integer>
 				<key>latitude</key>
 				<string>46.61393000</string>
 				<key>longitude</key>
 				<string>14.46719000</string>
+				<key>name</key>
+				<string>Grafenstein</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143804</integer>
+				<key>latitude</key>
+				<string>46.61500000</string>
+				<key>longitude</key>
+				<string>14.46722222</string>
 				<key>name</key>
 				<string>Grafenstein</string>
 			</dict>
@@ -64255,6 +64495,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143805</integer>
+				<key>latitude</key>
+				<string>46.87527778</string>
+				<key>longitude</key>
+				<string>14.28888889</string>
+				<key>name</key>
+				<string>Gurk</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2182</integer>
 				<key>latitude</key>
 				<string>46.88536000</string>
@@ -64282,6 +64532,26 @@
 				<string>13.36722000</string>
 				<key>name</key>
 				<string>Hermagor</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>3008</integer>
+				<key>latitude</key>
+				<string>46.63137000</string>
+				<key>longitude</key>
+				<string>13.13246000</string>
+				<key>name</key>
+				<string>Hermagor District</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143807</integer>
+				<key>latitude</key>
+				<string>46.62722222</string>
+				<key>longitude</key>
+				<string>13.36722222</string>
+				<key>name</key>
+				<string>Hermagor-Pressegger See</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -64320,6 +64590,16 @@
 				<string>46.94139000</string>
 				<key>longitude</key>
 				<string>14.55000000</string>
+				<key>name</key>
+				<string>Hüttenberg</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143808</integer>
+				<key>latitude</key>
+				<string>46.93972222</string>
+				<key>longitude</key>
+				<string>14.54861111</string>
 				<key>name</key>
 				<string>Hüttenberg</string>
 			</dict>
@@ -64365,6 +64645,26 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143809</integer>
+				<key>latitude</key>
+				<string>46.64111111</string>
+				<key>longitude</key>
+				<string>13.18333333</string>
+				<key>name</key>
+				<string>Kirchbach</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143810</integer>
+				<key>latitude</key>
+				<string>46.63873000</string>
+				<key>longitude</key>
+				<string>14.29730000</string>
+				<key>name</key>
+				<string>Klagenfurt</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2446</integer>
 				<key>latitude</key>
 				<string>46.63333000</string>
@@ -64372,6 +64672,26 @@
 				<string>14.30000000</string>
 				<key>name</key>
 				<string>Klagenfurt am Wörthersee</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>3016</integer>
+				<key>latitude</key>
+				<string>46.56722000</string>
+				<key>longitude</key>
+				<string>14.29295000</string>
+				<key>name</key>
+				<string>Klagenfurt-Land District</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143811</integer>
+				<key>latitude</key>
+				<string>46.76722222</string>
+				<key>longitude</key>
+				<string>13.35805556</string>
+				<key>name</key>
+				<string>Kleblach-Lind</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -64405,6 +64725,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143813</integer>
+				<key>latitude</key>
+				<string>46.66666667</string>
+				<key>longitude</key>
+				<string>13.00000000</string>
+				<key>name</key>
+				<string>Kötschach-Mauthen</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2515</integer>
 				<key>latitude</key>
 				<string>46.56139000</string>
@@ -64412,6 +64742,16 @@
 				<string>14.23389000</string>
 				<key>name</key>
 				<string>Köttmannsdorf</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143812</integer>
+				<key>latitude</key>
+				<string>46.92250000</string>
+				<key>longitude</key>
+				<string>13.56750000</string>
+				<key>name</key>
+				<string>Krems</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -64432,6 +64772,16 @@
 				<string>14.63639000</string>
 				<key>name</key>
 				<string>Kühnsdorf</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143814</integer>
+				<key>latitude</key>
+				<string>46.86666667</string>
+				<key>longitude</key>
+				<string>12.98333333</string>
+				<key>name</key>
+				<string>Lamnitz</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -64485,6 +64835,36 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143815</integer>
+				<key>latitude</key>
+				<string>46.83333333</string>
+				<key>longitude</key>
+				<string>13.41666667</string>
+				<key>name</key>
+				<string>Lendorf</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143816</integer>
+				<key>latitude</key>
+				<string>46.48333000</string>
+				<key>longitude</key>
+				<string>14.63333000</string>
+				<key>name</key>
+				<string>Leppen</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143817</integer>
+				<key>latitude</key>
+				<string>46.69388889</string>
+				<key>longitude</key>
+				<string>12.81583333</string>
+				<key>name</key>
+				<string>Lesachtal</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2594</integer>
 				<key>latitude</key>
 				<string>46.73778000</string>
@@ -64505,6 +64885,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143818</integer>
+				<key>latitude</key>
+				<string>46.86500000</string>
+				<key>longitude</key>
+				<string>12.91111111</string>
+				<key>name</key>
+				<string>Lobersberg</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2618</integer>
 				<key>latitude</key>
 				<string>46.54139000</string>
@@ -64515,11 +64905,61 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143819</integer>
+				<key>latitude</key>
+				<string>46.83333333</string>
+				<key>longitude</key>
+				<string>13.36666667</string>
+				<key>name</key>
+				<string>Lurnfeld</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143820</integer>
+				<key>latitude</key>
+				<string>46.70111111</string>
+				<key>longitude</key>
+				<string>14.43111111</string>
+				<key>name</key>
+				<string>Magdalensberg</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143821</integer>
+				<key>latitude</key>
+				<string>46.98972222</string>
+				<key>longitude</key>
+				<string>13.17000000</string>
+				<key>name</key>
+				<string>Mallnitz</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143822</integer>
+				<key>latitude</key>
+				<string>46.96666667</string>
+				<key>longitude</key>
+				<string>13.51666667</string>
+				<key>name</key>
+				<string>Malta</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2646</integer>
 				<key>latitude</key>
 				<string>46.55389000</string>
 				<key>longitude</key>
 				<string>14.29556000</string>
+				<key>name</key>
+				<string>Maria Rain</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143823</integer>
+				<key>latitude</key>
+				<string>46.55527778</string>
+				<key>longitude</key>
+				<string>14.29583333</string>
 				<key>name</key>
 				<string>Maria Rain</string>
 			</dict>
@@ -64540,6 +64980,16 @@
 				<string>46.61639000</string>
 				<key>longitude</key>
 				<string>14.16306000</string>
+				<key>name</key>
+				<string>Maria Wörth</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143824</integer>
+				<key>latitude</key>
+				<string>46.61638889</string>
+				<key>longitude</key>
+				<string>14.16138889</string>
 				<key>name</key>
 				<string>Maria Wörth</string>
 			</dict>
@@ -64575,11 +65025,31 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143825</integer>
+				<key>latitude</key>
+				<string>46.91388889</string>
+				<key>longitude</key>
+				<string>14.42777778</string>
+				<key>name</key>
+				<string>Micheldorf</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2702</integer>
 				<key>latitude</key>
 				<string>46.80417000</string>
 				<key>longitude</key>
 				<string>13.58056000</string>
+				<key>name</key>
+				<string>Millstatt</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143826</integer>
+				<key>latitude</key>
+				<string>46.80416667</string>
+				<key>longitude</key>
+				<string>13.58055556</string>
 				<key>name</key>
 				<string>Millstatt</string>
 			</dict>
@@ -64615,6 +65085,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143827</integer>
+				<key>latitude</key>
+				<string>46.65777778</string>
+				<key>longitude</key>
+				<string>14.17361111</string>
+				<key>name</key>
+				<string>Moosburg</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2749</integer>
 				<key>latitude</key>
 				<string>46.92389000</string>
@@ -64630,6 +65110,16 @@
 				<string>46.86028000</string>
 				<key>longitude</key>
 				<string>13.35361000</string>
+				<key>name</key>
+				<string>Mühldorf</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143828</integer>
+				<key>latitude</key>
+				<string>46.85750000</string>
+				<key>longitude</key>
+				<string>13.35194444</string>
 				<key>name</key>
 				<string>Mühldorf</string>
 			</dict>
@@ -64665,6 +65155,26 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143829</integer>
+				<key>latitude</key>
+				<string>46.59000000</string>
+				<key>longitude</key>
+				<string>13.62277778</string>
+				<key>name</key>
+				<string>Nötsch im Gailtal</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143830</integer>
+				<key>latitude</key>
+				<string>46.55528000</string>
+				<key>longitude</key>
+				<string>14.10806000</string>
+				<key>name</key>
+				<string>Oberdörfl</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2849</integer>
 				<key>latitude</key>
 				<string>46.74306000</string>
@@ -64672,6 +65182,16 @@
 				<string>12.97028000</string>
 				<key>name</key>
 				<string>Oberdrauburg</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143831</integer>
+				<key>latitude</key>
+				<string>46.81060000</string>
+				<key>longitude</key>
+				<string>13.59080000</string>
+				<key>name</key>
+				<string>Obermillstatt</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -64705,6 +65225,26 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143832</integer>
+				<key>latitude</key>
+				<string>46.68333000</string>
+				<key>longitude</key>
+				<string>14.45000000</string>
+				<key>name</key>
+				<string>Pischeldorf</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143834</integer>
+				<key>latitude</key>
+				<string>46.55000000</string>
+				<key>longitude</key>
+				<string>13.73330000</string>
+				<key>name</key>
+				<string>Pöckau</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>2986</integer>
 				<key>latitude</key>
 				<string>46.65000000</string>
@@ -64712,86 +65252,6 @@
 				<string>14.45000000</string>
 				<key>name</key>
 				<string>Poggersdorf</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>2998</integer>
-				<key>latitude</key>
-				<string>46.72127000</string>
-				<key>longitude</key>
-				<string>14.09683000</string>
-				<key>name</key>
-				<string>Politischer Bezirk Feldkirchen</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>3008</integer>
-				<key>latitude</key>
-				<string>46.63137000</string>
-				<key>longitude</key>
-				<string>13.13246000</string>
-				<key>name</key>
-				<string>Politischer Bezirk Hermagor</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>3016</integer>
-				<key>latitude</key>
-				<string>46.56722000</string>
-				<key>longitude</key>
-				<string>14.29295000</string>
-				<key>name</key>
-				<string>Politischer Bezirk Klagenfurt Land</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>3044</integer>
-				<key>latitude</key>
-				<string>46.83333000</string>
-				<key>longitude</key>
-				<string>14.40000000</string>
-				<key>name</key>
-				<string>Politischer Bezirk Sankt Veit an der Glan</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>3048</integer>
-				<key>latitude</key>
-				<string>46.85000000</string>
-				<key>longitude</key>
-				<string>13.33333000</string>
-				<key>name</key>
-				<string>Politischer Bezirk Spittal an der Drau</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>3054</integer>
-				<key>latitude</key>
-				<string>46.65308000</string>
-				<key>longitude</key>
-				<string>13.77287000</string>
-				<key>name</key>
-				<string>Politischer Bezirk Villach Land</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>3057</integer>
-				<key>latitude</key>
-				<string>46.59641000</string>
-				<key>longitude</key>
-				<string>14.66664000</string>
-				<key>name</key>
-				<string>Politischer Bezirk Völkermarkt</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>3061</integer>
-				<key>latitude</key>
-				<string>46.83333000</string>
-				<key>longitude</key>
-				<string>14.83333000</string>
-				<key>name</key>
-				<string>Politischer Bezirk Wolfsberg</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -64822,6 +65282,16 @@
 				<string>14.83330000</string>
 				<key>name</key>
 				<string>Priel</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143833</integer>
+				<key>latitude</key>
+				<string>46.83333000</string>
+				<key>longitude</key>
+				<string>13.40000000</string>
+				<key>name</key>
+				<string>Pusarnitz</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -64865,6 +65335,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143835</integer>
+				<key>latitude</key>
+				<string>46.85416667</string>
+				<key>longitude</key>
+				<string>13.89305556</string>
+				<key>name</key>
+				<string>Reichenau</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3165</integer>
 				<key>latitude</key>
 				<string>47.00718000</string>
@@ -64875,6 +65355,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143836</integer>
+				<key>latitude</key>
+				<string>46.87694444</string>
+				<key>longitude</key>
+				<string>13.30555556</string>
+				<key>name</key>
+				<string>Reißeck</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3178</integer>
 				<key>latitude</key>
 				<string>47.01667000</string>
@@ -64882,6 +65372,16 @@
 				<string>13.61667000</string>
 				<key>name</key>
 				<string>Rennweg am Katschberg</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143837</integer>
+				<key>latitude</key>
+				<string>46.75111000</string>
+				<key>longitude</key>
+				<string>13.03444000</string>
+				<key>name</key>
+				<string>Rittersdorf</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -64905,6 +65405,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143838</integer>
+				<key>latitude</key>
+				<string>46.65638889</string>
+				<key>longitude</key>
+				<string>14.76972222</string>
+				<key>name</key>
+				<string>Ruden</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3231</integer>
 				<key>latitude</key>
 				<string>46.82917000</string>
@@ -64922,6 +65432,66 @@
 				<string>14.81991000</string>
 				<key>name</key>
 				<string>Sankt Andrä</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143839</integer>
+				<key>latitude</key>
+				<string>46.57722000</string>
+				<key>longitude</key>
+				<string>14.06167000</string>
+				<key>name</key>
+				<string>Sankt Egyden an der Drau</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>3484</integer>
+				<key>latitude</key>
+				<string>46.78061000</string>
+				<key>longitude</key>
+				<string>14.43033000</string>
+				<key>name</key>
+				<string>Sankt Georgen am Längsee</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143840</integer>
+				<key>latitude</key>
+				<string>46.71666667</string>
+				<key>longitude</key>
+				<string>14.91666667</string>
+				<key>name</key>
+				<string>Sankt Georgen im Lavanttal</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143841</integer>
+				<key>latitude</key>
+				<string>46.54777778</string>
+				<key>longitude</key>
+				<string>14.05722222</string>
+				<key>name</key>
+				<string>Sankt Jakob</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143842</integer>
+				<key>latitude</key>
+				<string>46.54777778</string>
+				<key>longitude</key>
+				<string>14.05722222</string>
+				<key>name</key>
+				<string>Sankt Jakob im Rosental</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143843</integer>
+				<key>latitude</key>
+				<string>46.61444444</string>
+				<key>longitude</key>
+				<string>14.57583333</string>
+				<key>name</key>
+				<string>Sankt Kanzian am Klopeiner See</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -64971,7 +65541,7 @@
 				<key>longitude</key>
 				<string>14.87556000</string>
 				<key>name</key>
-				<string>Sankt Paul im Levanttal</string>
+				<string>Sankt Paul im Lavanttal</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -65005,6 +65575,26 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143844</integer>
+				<key>latitude</key>
+				<string>46.61666667</string>
+				<key>longitude</key>
+				<string>13.51666667</string>
+				<key>name</key>
+				<string>Sankt Stefan im Gailtal</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143845</integer>
+				<key>latitude</key>
+				<string>46.75027778</string>
+				<key>longitude</key>
+				<string>14.16916667</string>
+				<key>name</key>
+				<string>Sankt Urban</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3343</integer>
 				<key>latitude</key>
 				<string>46.76806000</string>
@@ -65015,11 +65605,31 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>3044</integer>
+				<key>latitude</key>
+				<string>46.83333000</string>
+				<key>longitude</key>
+				<string>14.40000000</string>
+				<key>name</key>
+				<string>Sankt Veit an der Glan District</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3369</integer>
 				<key>latitude</key>
 				<string>46.60444000</string>
 				<key>longitude</key>
 				<string>14.09750000</string>
+				<key>name</key>
+				<string>Schiefling am See</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143846</integer>
+				<key>latitude</key>
+				<string>46.60166667</string>
+				<key>longitude</key>
+				<string>14.09777778</string>
 				<key>name</key>
 				<string>Schiefling am See</string>
 			</dict>
@@ -65055,6 +65665,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143847</integer>
+				<key>latitude</key>
+				<string>46.81888889</string>
+				<key>longitude</key>
+				<string>13.51833333</string>
+				<key>name</key>
+				<string>Seeboden</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3439</integer>
 				<key>latitude</key>
 				<string>46.74801000</string>
@@ -65062,6 +65682,16 @@
 				<string>14.08825000</string>
 				<key>name</key>
 				<string>Seitenberg</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143848</integer>
+				<key>latitude</key>
+				<string>46.82361000</string>
+				<key>longitude</key>
+				<string>14.05944000</string>
+				<key>name</key>
+				<string>Sirnitz</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -65085,6 +65715,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>3048</integer>
+				<key>latitude</key>
+				<string>46.85000000</string>
+				<key>longitude</key>
+				<string>13.33333000</string>
+				<key>name</key>
+				<string>Spittal an der Drau District</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3483</integer>
 				<key>latitude</key>
 				<string>46.60627000</string>
@@ -65095,13 +65735,63 @@
 			</dict>
 			<dict>
 				<key>id</key>
-				<integer>3484</integer>
+				<integer>143849</integer>
 				<key>latitude</key>
-				<string>46.78061000</string>
+				<string>46.76473000</string>
 				<key>longitude</key>
-				<string>14.43033000</string>
+				<string>14.82442000</string>
 				<key>name</key>
-				<string>St. Georgen am Längsee</string>
+				<string>St. Andrä</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143850</integer>
+				<key>latitude</key>
+				<string>46.52498000</string>
+				<key>longitude</key>
+				<string>14.41600000</string>
+				<key>name</key>
+				<string>St. Margareten im Rosental</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143851</integer>
+				<key>latitude</key>
+				<string>46.69869000</string>
+				<key>longitude</key>
+				<string>14.84877000</string>
+				<key>name</key>
+				<string>St. Paul im Lavanttal</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143852</integer>
+				<key>latitude</key>
+				<string>46.60796000</string>
+				<key>longitude</key>
+				<string>13.50973000</string>
+				<key>name</key>
+				<string>St. Stefan im Gailtal</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143853</integer>
+				<key>latitude</key>
+				<string>46.76128000</string>
+				<key>longitude</key>
+				<string>14.16658000</string>
+				<key>name</key>
+				<string>St. Urban</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143854</integer>
+				<key>latitude</key>
+				<string>46.73536000</string>
+				<key>longitude</key>
+				<string>14.35404000</string>
+				<key>name</key>
+				<string>St. Veit an der Glan</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -65120,6 +65810,16 @@
 				<string>46.89056000</string>
 				<key>longitude</key>
 				<string>13.03694000</string>
+				<key>name</key>
+				<string>Stall</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143855</integer>
+				<key>latitude</key>
+				<string>46.88694444</string>
+				<key>longitude</key>
+				<string>13.03472222</string>
 				<key>name</key>
 				<string>Stall</string>
 			</dict>
@@ -65145,6 +65845,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143856</integer>
+				<key>latitude</key>
+				<string>46.75777778</string>
+				<key>longitude</key>
+				<string>13.25000000</string>
+				<key>name</key>
+				<string>Steinfeld</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3526</integer>
 				<key>latitude</key>
 				<string>46.78804000</string>
@@ -65165,6 +65875,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143857</integer>
+				<key>latitude</key>
+				<string>46.89555556</string>
+				<key>longitude</key>
+				<string>14.33083333</string>
+				<key>name</key>
+				<string>Straßburg</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3548</integer>
 				<key>latitude</key>
 				<string>46.89444000</string>
@@ -65172,6 +65892,36 @@
 				<string>14.32861000</string>
 				<key>name</key>
 				<string>Straßburg-Stadt</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143858</integer>
+				<key>latitude</key>
+				<string>46.52694444</string>
+				<key>longitude</key>
+				<string>14.15638889</string>
+				<key>name</key>
+				<string>Suetschach</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143859</integer>
+				<key>latitude</key>
+				<string>46.65861111</string>
+				<key>longitude</key>
+				<string>14.10194444</string>
+				<key>name</key>
+				<string>Techelsberg</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143860</integer>
+				<key>latitude</key>
+				<string>46.68333000</string>
+				<key>longitude</key>
+				<string>14.41667000</string>
+				<key>name</key>
+				<string>Timenitz</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -65185,6 +65935,26 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143861</integer>
+				<key>latitude</key>
+				<string>46.88305556</string>
+				<key>longitude</key>
+				<string>13.51055556</string>
+				<key>name</key>
+				<string>Trebesing</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143862</integer>
+				<key>latitude</key>
+				<string>46.66833333</string>
+				<key>longitude</key>
+				<string>13.85555556</string>
+				<key>name</key>
+				<string>Treffen</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3620</integer>
 				<key>latitude</key>
 				<string>46.86667000</string>
@@ -65195,6 +65965,26 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143863</integer>
+				<key>latitude</key>
+				<string>46.55352000</string>
+				<key>longitude</key>
+				<string>14.21461000</string>
+				<key>name</key>
+				<string>Tschachoritsch</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143864</integer>
+				<key>latitude</key>
+				<string>46.64833000</string>
+				<key>longitude</key>
+				<string>13.95750000</string>
+				<key>name</key>
+				<string>Umberg</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3649</integer>
 				<key>latitude</key>
 				<string>46.62504000</string>
@@ -65202,6 +65992,16 @@
 				<string>13.82681000</string>
 				<key>name</key>
 				<string>Untere Fellach</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143865</integer>
+				<key>latitude</key>
+				<string>46.61250000</string>
+				<key>longitude</key>
+				<string>14.04194444</string>
+				<key>name</key>
+				<string>Velden am Wörther See</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -65251,7 +66051,7 @@
 				<key>longitude</key>
 				<string>13.85136000</string>
 				<key>name</key>
-				<string>Villach Stadt</string>
+				<string>Villach</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -65262,6 +66062,16 @@
 				<string>13.84638000</string>
 				<key>name</key>
 				<string>Villach-Innere Stadt</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>3054</integer>
+				<key>latitude</key>
+				<string>46.65308000</string>
+				<key>longitude</key>
+				<string>13.77287000</string>
+				<key>name</key>
+				<string>Villach-Land District</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -65295,6 +66105,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>3057</integer>
+				<key>latitude</key>
+				<string>46.59641000</string>
+				<key>longitude</key>
+				<string>14.66664000</string>
+				<key>name</key>
+				<string>Völkermarkt District</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3707</integer>
 				<key>latitude</key>
 				<string>46.62418000</string>
@@ -65325,6 +66145,26 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143867</integer>
+				<key>latitude</key>
+				<string>46.71666667</string>
+				<key>longitude</key>
+				<string>13.30000000</string>
+				<key>name</key>
+				<string>Weißensee</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143868</integer>
+				<key>latitude</key>
+				<string>46.68222222</string>
+				<key>longitude</key>
+				<string>13.72361111</string>
+				<key>name</key>
+				<string>Weißenstein</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3776</integer>
 				<key>latitude</key>
 				<string>46.84743000</string>
@@ -65335,11 +66175,31 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143866</integer>
+				<key>latitude</key>
+				<string>46.84861111</string>
+				<key>longitude</key>
+				<string>14.19166667</string>
+				<key>name</key>
+				<string>Weitensfeld im Gurktal</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3794</integer>
 				<key>latitude</key>
 				<string>46.61667000</string>
 				<key>longitude</key>
 				<string>13.93333000</string>
+				<key>name</key>
+				<string>Wernberg</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143869</integer>
+				<key>latitude</key>
+				<string>46.62305556</string>
+				<key>longitude</key>
+				<string>13.93944444</string>
 				<key>name</key>
 				<string>Wernberg</string>
 			</dict>
@@ -65375,6 +66235,26 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>143870</integer>
+				<key>latitude</key>
+				<string>46.84194444</string>
+				<key>longitude</key>
+				<string>14.84083333</string>
+				<key>name</key>
+				<string>Wolfsberg</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>3061</integer>
+				<key>latitude</key>
+				<string>46.83333000</string>
+				<key>longitude</key>
+				<string>14.83333000</string>
+				<key>name</key>
+				<string>Wolfsberg District</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>3849</integer>
 				<key>latitude</key>
 				<string>46.59634000</string>
@@ -65382,6 +66262,16 @@
 				<string>13.98067000</string>
 				<key>name</key>
 				<string>Wudmath</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<integer>143871</integer>
+				<key>latitude</key>
+				<string>46.47222222</string>
+				<key>longitude</key>
+				<string>14.38888889</string>
+				<key>name</key>
+				<string>Zell</string>
 			</dict>
 		</array>
 		<key>country_id</key>
@@ -72078,16 +72968,6 @@
 				<string>13.70000000</string>
 				<key>name</key>
 				<string>Politischer Bezirk Tamsweg</string>
-			</dict>
-			<dict>
-				<key>id</key>
-				<integer>3062</integer>
-				<key>latitude</key>
-				<string>47.28333000</string>
-				<key>longitude</key>
-				<string>12.70000000</string>
-				<key>name</key>
-				<string>Politischer Bezirk Zell am See</string>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -82946,7 +83826,7 @@
 				<key>longitude</key>
 				<string>13.98834000</string>
 				<key>name</key>
-				<string>Rohrbach in Oberösterreich</string>
+				<string>Rohrbach-Berg</string>
 			</dict>
 			<dict>
 				<key>id</key>

@@ -60657,6 +60657,83 @@
     </cities>
   </state_city>
   <state_city>
+    <id>4860</id>
+    <name>Devonshire Parish</name>
+    <state_code>DEV</state_code>
+    <country_id>25</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4862</id>
+    <name>Hamilton Municipality</name>
+    <state_code>HAM</state_code>
+    <country_id>25</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4861</id>
+    <name>Hamilton Parish</name>
+    <state_code>HA</state_code>
+    <country_id>25</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4863</id>
+    <name>Paget Parish</name>
+    <state_code>PAG</state_code>
+    <country_id>25</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4864</id>
+    <name>Pembroke Parish</name>
+    <state_code>PEM</state_code>
+    <country_id>25</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4865</id>
+    <name>Saint George's Municipality</name>
+    <state_code>SG</state_code>
+    <country_id>25</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4866</id>
+    <name>Saint George's Parish</name>
+    <state_code>SGE</state_code>
+    <country_id>25</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4867</id>
+    <name>Sandys Parish</name>
+    <state_code>SAN</state_code>
+    <country_id>25</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4868</id>
+    <name>Smith's Parish,</name>
+    <state_code>SMI</state_code>
+    <country_id>25</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4869</id>
+    <name>Southampton Parish</name>
+    <state_code>SOU</state_code>
+    <country_id>25</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4870</id>
+    <name>Warwick Parish</name>
+    <state_code>WAR</state_code>
+    <country_id>25</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
     <id>240</id>
     <name>Bumthang District</name>
     <state_code>33</state_code>
@@ -498373,6 +498450,12 @@
       <longitude>-77.04583000</longitude>
     </cities>
     <cities>
+      <id>80701</id>
+      <name>Lima</name>
+      <latitude>-12.04318000</latitude>
+      <longitude>-77.02824000</longitude>
+    </cities>
+    <cities>
       <id>80708</id>
       <name>Mala</name>
       <latitude>-12.65806000</latitude>
@@ -498527,18 +498610,6 @@
       <name>Végueta</name>
       <latitude>-11.02253000</latitude>
       <longitude>-77.64378000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>3690</id>
-    <name>Lima Province</name>
-    <state_code>LMA</state_code>
-    <country_id>173</country_id>
-    <cities>
-      <id>80701</id>
-      <name>Lima</name>
-      <latitude>-12.04318000</latitude>
-      <longitude>-77.02824000</longitude>
     </cities>
   </state_city>
   <state_city>
@@ -644094,7 +644165,7 @@
   <state_city>
     <id>936</id>
     <name>Gauteng</name>
-    <state_code>GT</state_code>
+    <state_code>GP</state_code>
     <country_id>204</country_id>
     <cities>
       <id>131017</id>
@@ -644334,7 +644405,7 @@
   <state_city>
     <id>935</id>
     <name>KwaZulu-Natal</name>
-    <state_code>NL</state_code>
+    <state_code>KZN</state_code>
     <country_id>204</country_id>
     <cities>
       <id>131022</id>

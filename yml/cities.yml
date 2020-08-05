@@ -718722,6 +718722,15 @@ city:
     latitude: '-11.99000000'
     longitude: '-77.04583000'
   -
+    id: 80701
+    name: Lima
+    state_id: 3695
+    state_code: LIM
+    country_id: 173
+    country_code: PE
+    latitude: '-12.04318000'
+    longitude: '-77.02824000'
+  -
     id: 80708
     name: Mala
     state_id: 3695
@@ -718955,15 +718964,6 @@ city:
     country_code: PE
     latitude: '-11.02253000'
     longitude: '-77.64378000'
-  -
-    id: 80701
-    name: Lima
-    state_id: 3690
-    state_code: LMA
-    country_id: 173
-    country_code: PE
-    latitude: '-12.04318000'
-    longitude: '-77.02824000'
   -
     id: 80666
     name: Iberia
@@ -931008,7 +931008,7 @@ city:
     id: 131017
     name: Alberton
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.26786000'
@@ -931017,7 +931017,7 @@ city:
     id: 131032
     name: Benoni
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.18848000'
@@ -931026,7 +931026,7 @@ city:
     id: 131042
     name: Boksburg
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.21197000'
@@ -931035,7 +931035,7 @@ city:
     id: 131045
     name: Brakpan
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.23656000'
@@ -931044,7 +931044,7 @@ city:
     id: 131051
     name: Bronkhorstspruit
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-25.81015000'
@@ -931053,7 +931053,7 @@ city:
     id: 131062
     name: Carletonville
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.36094000'
@@ -931062,7 +931062,7 @@ city:
     id: 131066
     name: Centurion
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-25.85891000'
@@ -931071,7 +931071,7 @@ city:
     id: 131071
     name: 'City of Johannesburg Metropolitan Municipality'
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.17673000'
@@ -931080,7 +931080,7 @@ city:
     id: 131072
     name: 'City of Tshwane Metropolitan Municipality'
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-25.65985000'
@@ -931089,7 +931089,7 @@ city:
     id: 131079
     name: Cullinan
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-25.67088000'
@@ -931098,7 +931098,7 @@ city:
     id: 131085
     name: Diepsloot
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-25.93312000'
@@ -931107,7 +931107,7 @@ city:
     id: 131094
     name: Eastleigh
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.12965000'
@@ -931116,7 +931116,7 @@ city:
     id: 131096
     name: 'Eden Glen'
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.13230000'
@@ -931125,7 +931125,7 @@ city:
     id: 131097
     name: 'Eden Glen Ext 60'
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.12593000'
@@ -931134,7 +931134,7 @@ city:
     id: 131098
     name: Edenvale
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.14095000'
@@ -931143,7 +931143,7 @@ city:
     id: 131100
     name: Ekangala
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-25.69619000'
@@ -931152,7 +931152,7 @@ city:
     id: 131101
     name: 'Ekurhuleni Metropolitan Municipality'
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.19890000'
@@ -931161,7 +931161,7 @@ city:
     id: 131125
     name: Heidelberg
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.50476000'
@@ -931170,7 +931170,7 @@ city:
     id: 131136
     name: Johannesburg
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.20227000'
@@ -931179,7 +931179,7 @@ city:
     id: 131151
     name: Krugersdorp
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.08577000'
@@ -931188,7 +931188,7 @@ city:
     id: 131166
     name: Mabopane
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-25.49768000'
@@ -931197,7 +931197,7 @@ city:
     id: 131176
     name: Midrand
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-25.98953000'
@@ -931206,7 +931206,7 @@ city:
     id: 131177
     name: Midstream
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-25.91849000'
@@ -931215,7 +931215,7 @@ city:
     id: 131179
     name: Modderfontein
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.08909000'
@@ -931224,7 +931224,7 @@ city:
     id: 131193
     name: Muldersdriseloop
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.03673000'
@@ -931233,7 +931233,7 @@ city:
     id: 131202
     name: Nigel
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.43138000'
@@ -931242,7 +931242,7 @@ city:
     id: 131207
     name: 'Orange Farm'
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.48333000'
@@ -931251,7 +931251,7 @@ city:
     id: 131230
     name: Pretoria
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-25.74486000'
@@ -931260,7 +931260,7 @@ city:
     id: 131235
     name: Randburg
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.09410000'
@@ -931269,7 +931269,7 @@ city:
     id: 131236
     name: Randfontein
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.18440000'
@@ -931278,7 +931278,7 @@ city:
     id: 131245
     name: Roodepoort
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.16250000'
@@ -931287,7 +931287,7 @@ city:
     id: 131253
     name: 'Sedibeng District Municipality'
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.56686000'
@@ -931296,7 +931296,7 @@ city:
     id: 131260
     name: Soweto
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.26781000'
@@ -931305,7 +931305,7 @@ city:
     id: 131262
     name: Springs
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.25000000'
@@ -931314,7 +931314,7 @@ city:
     id: 131270
     name: Tembisa
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-25.99636000'
@@ -931323,7 +931323,7 @@ city:
     id: 131284
     name: Vanderbijlpark
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.71171000'
@@ -931332,7 +931332,7 @@ city:
     id: 131286
     name: Vereeniging
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.67313000'
@@ -931341,7 +931341,7 @@ city:
     id: 131305
     name: 'West Rand District Municipality'
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.24565000'
@@ -931350,7 +931350,7 @@ city:
     id: 131306
     name: Westonaria
     state_id: 936
-    state_code: GT
+    state_code: GP
     country_id: 204
     country_code: ZA
     latitude: '-26.31905000'
@@ -931359,7 +931359,7 @@ city:
     id: 131022
     name: 'Amajuba District Municipality'
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-27.73558000'
@@ -931368,7 +931368,7 @@ city:
     id: 131027
     name: Ballito
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.53897000'
@@ -931377,7 +931377,7 @@ city:
     id: 131033
     name: Berea
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.85185000'
@@ -931386,7 +931386,7 @@ city:
     id: 131091
     name: Dundee
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-28.16678000'
@@ -931395,7 +931395,7 @@ city:
     id: 131092
     name: Durban
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.85790000'
@@ -931404,7 +931404,7 @@ city:
     id: 131102
     name: Ekuvukeni
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-28.46752000'
@@ -931413,7 +931413,7 @@ city:
     id: 131320
     name: eMkhomazi
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-30.20674000'
@@ -931422,7 +931422,7 @@ city:
     id: 131104
     name: Empangeni
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-28.76197000'
@@ -931431,7 +931431,7 @@ city:
     id: 131106
     name: Eshowe
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-28.88649000'
@@ -931440,7 +931440,7 @@ city:
     id: 131321
     name: eSikhaleni
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-28.87097000'
@@ -931449,7 +931449,7 @@ city:
     id: 131322
     name: 'eThekwini Metropolitan Municipality'
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.86670000'
@@ -931458,7 +931458,7 @@ city:
     id: 131118
     name: Glencoe
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-28.17827000'
@@ -931467,7 +931467,7 @@ city:
     id: 131122
     name: Greytown
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.06415000'
@@ -931476,7 +931476,7 @@ city:
     id: 131130
     name: Hluhluwe
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-28.01895000'
@@ -931485,7 +931485,7 @@ city:
     id: 131132
     name: Howick
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.47795000'
@@ -931494,7 +931494,7 @@ city:
     id: 131323
     name: 'iLembe District Municipality'
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.27326000'
@@ -931503,7 +931503,7 @@ city:
     id: 131144
     name: Kokstad
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-30.54723000'
@@ -931512,7 +931512,7 @@ city:
     id: 131155
     name: KwaDukuza
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.32816000'
@@ -931521,7 +931521,7 @@ city:
     id: 131172
     name: Margate
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-30.86360000'
@@ -931530,7 +931530,7 @@ city:
     id: 131183
     name: Mondlo
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-27.98299000'
@@ -931539,7 +931539,7 @@ city:
     id: 131185
     name: Mooirivier
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.20824000'
@@ -931548,7 +931548,7 @@ city:
     id: 131189
     name: Mpophomeni
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.56822000'
@@ -931557,7 +931557,7 @@ city:
     id: 131190
     name: Mpumalanga
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.81292000'
@@ -931566,7 +931566,7 @@ city:
     id: 131192
     name: Mtubatuba
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-28.41789000'
@@ -931575,7 +931575,7 @@ city:
     id: 131196
     name: Ndwedwe
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.51686000'
@@ -931584,7 +931584,7 @@ city:
     id: 131199
     name: Newcastle
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-27.75796000'
@@ -931593,7 +931593,7 @@ city:
     id: 131218
     name: Pietermaritzburg
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.61679000'
@@ -931602,7 +931602,7 @@ city:
     id: 131227
     name: 'Port Shepstone'
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-30.74137000'
@@ -931611,7 +931611,7 @@ city:
     id: 131239
     name: 'Richards Bay'
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-28.78301000'
@@ -931620,7 +931620,7 @@ city:
     id: 131240
     name: Richmond
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.87196000'
@@ -931629,7 +931629,7 @@ city:
     id: 131251
     name: Scottburgh
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-30.28666000'
@@ -931638,7 +931638,7 @@ city:
     id: 131256
     name: 'Sisonke District Municipality'
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-30.11082000'
@@ -931647,7 +931647,7 @@ city:
     id: 131267
     name: Sundumbili
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.13371000'
@@ -931656,7 +931656,7 @@ city:
     id: 131278
     name: 'Ugu District Municipality'
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-30.54365000'
@@ -931665,7 +931665,7 @@ city:
     id: 131280
     name: Ulundi
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-28.33523000'
@@ -931674,7 +931674,7 @@ city:
     id: 131324
     name: 'uMgungundlovu District Municipality'
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-29.50927000'
@@ -931683,7 +931683,7 @@ city:
     id: 131325
     name: 'uMkhanyakude District Municipality'
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-27.62236000'
@@ -931692,7 +931692,7 @@ city:
     id: 131326
     name: 'uMzinyathi District Municipality'
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-28.58570000'
@@ -931701,7 +931701,7 @@ city:
     id: 131327
     name: 'uThukela District Municipality'
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-28.71920000'
@@ -931710,7 +931710,7 @@ city:
     id: 131328
     name: 'uThungulu District Municipality'
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-28.70046000'
@@ -931719,7 +931719,7 @@ city:
     id: 131282
     name: Utrecht
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-27.65862000'
@@ -931728,7 +931728,7 @@ city:
     id: 131297
     name: Vryheid
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-27.76952000'
@@ -931737,7 +931737,7 @@ city:
     id: 131318
     name: 'Zululand District Municipality'
     state_id: 935
-    state_code: NL
+    state_code: KZN
     country_id: 204
     country_code: ZA
     latitude: '-27.81139000'

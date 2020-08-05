@@ -61080,7 +61080,74 @@
         "phone_code": "+1-441",
         "capital": "Hamilton",
         "currency": "BMD",
-        "states": []
+        "states": [
+            {
+                "id": 4860,
+                "name": "Devonshire Parish",
+                "state_code": "DEV",
+                "cities": []
+            },
+            {
+                "id": 4862,
+                "name": "Hamilton Municipality",
+                "state_code": "HAM",
+                "cities": []
+            },
+            {
+                "id": 4861,
+                "name": "Hamilton Parish",
+                "state_code": "HA",
+                "cities": []
+            },
+            {
+                "id": 4863,
+                "name": "Paget Parish",
+                "state_code": "PAG",
+                "cities": []
+            },
+            {
+                "id": 4864,
+                "name": "Pembroke Parish",
+                "state_code": "PEM",
+                "cities": []
+            },
+            {
+                "id": 4865,
+                "name": "Saint George's Municipality",
+                "state_code": "SG",
+                "cities": []
+            },
+            {
+                "id": 4866,
+                "name": "Saint George's Parish",
+                "state_code": "SGE",
+                "cities": []
+            },
+            {
+                "id": 4867,
+                "name": "Sandys Parish",
+                "state_code": "SAN",
+                "cities": []
+            },
+            {
+                "id": 4868,
+                "name": "Smith's Parish,",
+                "state_code": "SMI",
+                "cities": []
+            },
+            {
+                "id": 4869,
+                "name": "Southampton Parish",
+                "state_code": "SOU",
+                "cities": []
+            },
+            {
+                "id": 4870,
+                "name": "Warwick Parish",
+                "state_code": "WAR",
+                "cities": []
+            }
+        ]
     },
     {
         "id": 26,
@@ -501617,6 +501684,12 @@
                         "longitude": "-77.04583000"
                     },
                     {
+                        "id": 80701,
+                        "name": "Lima",
+                        "latitude": "-12.04318000",
+                        "longitude": "-77.02824000"
+                    },
+                    {
                         "id": 80708,
                         "name": "Mala",
                         "latitude": "-12.65806000",
@@ -501771,19 +501844,6 @@
                         "name": "Végueta",
                         "latitude": "-11.02253000",
                         "longitude": "-77.64378000"
-                    }
-                ]
-            },
-            {
-                "id": 3690,
-                "name": "Lima Province",
-                "state_code": "LMA",
-                "cities": [
-                    {
-                        "id": 80701,
-                        "name": "Lima",
-                        "latitude": "-12.04318000",
-                        "longitude": "-77.02824000"
                     }
                 ]
             },
@@ -648043,7 +648103,7 @@
             {
                 "id": 936,
                 "name": "Gauteng",
-                "state_code": "GT",
+                "state_code": "GP",
                 "cities": [
                     {
                         "id": 131017,
@@ -648284,7 +648344,7 @@
             {
                 "id": 935,
                 "name": "KwaZulu-Natal",
-                "state_code": "NL",
+                "state_code": "KZN",
                 "cities": [
                     {
                         "id": 131022,
