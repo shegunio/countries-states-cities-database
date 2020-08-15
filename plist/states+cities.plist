@@ -102058,6 +102058,138 @@
 	</dict>
 	<dict>
 		<key>cities</key>
+		<array/>
+		<key>country_id</key>
+		<integer>25</integer>
+		<key>id</key>
+		<integer>4860</integer>
+		<key>name</key>
+		<string>Devonshire Parish</string>
+		<key>state_code</key>
+		<string>DEV</string>
+	</dict>
+	<dict>
+		<key>cities</key>
+		<array/>
+		<key>country_id</key>
+		<integer>25</integer>
+		<key>id</key>
+		<integer>4862</integer>
+		<key>name</key>
+		<string>Hamilton Municipality</string>
+		<key>state_code</key>
+		<string>HAM</string>
+	</dict>
+	<dict>
+		<key>cities</key>
+		<array/>
+		<key>country_id</key>
+		<integer>25</integer>
+		<key>id</key>
+		<integer>4861</integer>
+		<key>name</key>
+		<string>Hamilton Parish</string>
+		<key>state_code</key>
+		<string>HA</string>
+	</dict>
+	<dict>
+		<key>cities</key>
+		<array/>
+		<key>country_id</key>
+		<integer>25</integer>
+		<key>id</key>
+		<integer>4863</integer>
+		<key>name</key>
+		<string>Paget Parish</string>
+		<key>state_code</key>
+		<string>PAG</string>
+	</dict>
+	<dict>
+		<key>cities</key>
+		<array/>
+		<key>country_id</key>
+		<integer>25</integer>
+		<key>id</key>
+		<integer>4864</integer>
+		<key>name</key>
+		<string>Pembroke Parish</string>
+		<key>state_code</key>
+		<string>PEM</string>
+	</dict>
+	<dict>
+		<key>cities</key>
+		<array/>
+		<key>country_id</key>
+		<integer>25</integer>
+		<key>id</key>
+		<integer>4865</integer>
+		<key>name</key>
+		<string>Saint George's Municipality</string>
+		<key>state_code</key>
+		<string>SG</string>
+	</dict>
+	<dict>
+		<key>cities</key>
+		<array/>
+		<key>country_id</key>
+		<integer>25</integer>
+		<key>id</key>
+		<integer>4866</integer>
+		<key>name</key>
+		<string>Saint George's Parish</string>
+		<key>state_code</key>
+		<string>SGE</string>
+	</dict>
+	<dict>
+		<key>cities</key>
+		<array/>
+		<key>country_id</key>
+		<integer>25</integer>
+		<key>id</key>
+		<integer>4867</integer>
+		<key>name</key>
+		<string>Sandys Parish</string>
+		<key>state_code</key>
+		<string>SAN</string>
+	</dict>
+	<dict>
+		<key>cities</key>
+		<array/>
+		<key>country_id</key>
+		<integer>25</integer>
+		<key>id</key>
+		<integer>4868</integer>
+		<key>name</key>
+		<string>Smith's Parish,</string>
+		<key>state_code</key>
+		<string>SMI</string>
+	</dict>
+	<dict>
+		<key>cities</key>
+		<array/>
+		<key>country_id</key>
+		<integer>25</integer>
+		<key>id</key>
+		<integer>4869</integer>
+		<key>name</key>
+		<string>Southampton Parish</string>
+		<key>state_code</key>
+		<string>SOU</string>
+	</dict>
+	<dict>
+		<key>cities</key>
+		<array/>
+		<key>country_id</key>
+		<integer>25</integer>
+		<key>id</key>
+		<integer>4870</integer>
+		<key>name</key>
+		<string>Warwick Parish</string>
+		<key>state_code</key>
+		<string>WAR</string>
+	</dict>
+	<dict>
+		<key>cities</key>
 		<array>
 			<dict>
 				<key>id</key>
@@ -837565,6 +837697,16 @@
 			</dict>
 			<dict>
 				<key>id</key>
+				<integer>80701</integer>
+				<key>latitude</key>
+				<string>-12.04318000</string>
+				<key>longitude</key>
+				<string>-77.02824000</string>
+				<key>name</key>
+				<string>Lima</string>
+			</dict>
+			<dict>
+				<key>id</key>
 				<integer>80708</integer>
 				<key>latitude</key>
 				<string>-12.65806000</string>
@@ -837832,29 +837974,6 @@
 		<string>Lima</string>
 		<key>state_code</key>
 		<string>LIM</string>
-	</dict>
-	<dict>
-		<key>cities</key>
-		<array>
-			<dict>
-				<key>id</key>
-				<integer>80701</integer>
-				<key>latitude</key>
-				<string>-12.04318000</string>
-				<key>longitude</key>
-				<string>-77.02824000</string>
-				<key>name</key>
-				<string>Lima</string>
-			</dict>
-		</array>
-		<key>country_id</key>
-		<integer>173</integer>
-		<key>id</key>
-		<integer>3690</integer>
-		<key>name</key>
-		<string>Lima Province</string>
-		<key>state_code</key>
-		<string>LMA</string>
 	</dict>
 	<dict>
 		<key>cities</key>
@@ -1082454,7 +1082573,7 @@
 		<key>name</key>
 		<string>Gauteng</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 	</dict>
 	<dict>
 		<key>cities</key>
@@ -1082897,7 +1083016,7 @@
 		<key>name</key>
 		<string>KwaZulu-Natal</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 	</dict>
 	<dict>
 		<key>cities</key>

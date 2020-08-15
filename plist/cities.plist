@@ -1437452,6 +1437452,24 @@
 		<key>country_id</key>
 		<integer>173</integer>
 		<key>id</key>
+		<integer>80701</integer>
+		<key>latitude</key>
+		<string>-12.04318000</string>
+		<key>longitude</key>
+		<string>-77.02824000</string>
+		<key>name</key>
+		<string>Lima</string>
+		<key>state_code</key>
+		<string>LIM</string>
+		<key>state_id</key>
+		<integer>3695</integer>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>PE</string>
+		<key>country_id</key>
+		<integer>173</integer>
+		<key>id</key>
 		<integer>80708</integer>
 		<key>latitude</key>
 		<string>-12.65806000</string>
@@ -1437913,24 +1437931,6 @@
 		<string>LIM</string>
 		<key>state_id</key>
 		<integer>3695</integer>
-	</dict>
-	<dict>
-		<key>country_code</key>
-		<string>PE</string>
-		<key>country_id</key>
-		<integer>173</integer>
-		<key>id</key>
-		<integer>80701</integer>
-		<key>latitude</key>
-		<string>-12.04318000</string>
-		<key>longitude</key>
-		<string>-77.02824000</string>
-		<key>name</key>
-		<string>Lima</string>
-		<key>state_code</key>
-		<string>LMA</string>
-		<key>state_id</key>
-		<integer>3690</integer>
 	</dict>
 	<dict>
 		<key>country_code</key>
@@ -1862026,7 +1862026,7 @@
 		<key>name</key>
 		<string>Alberton</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862044,7 +1862044,7 @@
 		<key>name</key>
 		<string>Benoni</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862062,7 +1862062,7 @@
 		<key>name</key>
 		<string>Boksburg</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862080,7 +1862080,7 @@
 		<key>name</key>
 		<string>Brakpan</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862098,7 +1862098,7 @@
 		<key>name</key>
 		<string>Bronkhorstspruit</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862116,7 +1862116,7 @@
 		<key>name</key>
 		<string>Carletonville</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862134,7 +1862134,7 @@
 		<key>name</key>
 		<string>Centurion</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862152,7 +1862152,7 @@
 		<key>name</key>
 		<string>City of Johannesburg Metropolitan Municipality</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862170,7 +1862170,7 @@
 		<key>name</key>
 		<string>City of Tshwane Metropolitan Municipality</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862188,7 +1862188,7 @@
 		<key>name</key>
 		<string>Cullinan</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862206,7 +1862206,7 @@
 		<key>name</key>
 		<string>Diepsloot</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862224,7 +1862224,7 @@
 		<key>name</key>
 		<string>Eastleigh</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862242,7 +1862242,7 @@
 		<key>name</key>
 		<string>Eden Glen</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862260,7 +1862260,7 @@
 		<key>name</key>
 		<string>Eden Glen Ext 60</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862278,7 +1862278,7 @@
 		<key>name</key>
 		<string>Edenvale</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862296,7 +1862296,7 @@
 		<key>name</key>
 		<string>Ekangala</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862314,7 +1862314,7 @@
 		<key>name</key>
 		<string>Ekurhuleni Metropolitan Municipality</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862332,7 +1862332,7 @@
 		<key>name</key>
 		<string>Heidelberg</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862350,7 +1862350,7 @@
 		<key>name</key>
 		<string>Johannesburg</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862368,7 +1862368,7 @@
 		<key>name</key>
 		<string>Krugersdorp</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862386,7 +1862386,7 @@
 		<key>name</key>
 		<string>Mabopane</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862404,7 +1862404,7 @@
 		<key>name</key>
 		<string>Midrand</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862422,7 +1862422,7 @@
 		<key>name</key>
 		<string>Midstream</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862440,7 +1862440,7 @@
 		<key>name</key>
 		<string>Modderfontein</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862458,7 +1862458,7 @@
 		<key>name</key>
 		<string>Muldersdriseloop</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862476,7 +1862476,7 @@
 		<key>name</key>
 		<string>Nigel</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862494,7 +1862494,7 @@
 		<key>name</key>
 		<string>Orange Farm</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862512,7 +1862512,7 @@
 		<key>name</key>
 		<string>Pretoria</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862530,7 +1862530,7 @@
 		<key>name</key>
 		<string>Randburg</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862548,7 +1862548,7 @@
 		<key>name</key>
 		<string>Randfontein</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862566,7 +1862566,7 @@
 		<key>name</key>
 		<string>Roodepoort</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862584,7 +1862584,7 @@
 		<key>name</key>
 		<string>Sedibeng District Municipality</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862602,7 +1862602,7 @@
 		<key>name</key>
 		<string>Soweto</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862620,7 +1862620,7 @@
 		<key>name</key>
 		<string>Springs</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862638,7 +1862638,7 @@
 		<key>name</key>
 		<string>Tembisa</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862656,7 +1862656,7 @@
 		<key>name</key>
 		<string>Vanderbijlpark</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862674,7 +1862674,7 @@
 		<key>name</key>
 		<string>Vereeniging</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862692,7 +1862692,7 @@
 		<key>name</key>
 		<string>West Rand District Municipality</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862710,7 +1862710,7 @@
 		<key>name</key>
 		<string>Westonaria</string>
 		<key>state_code</key>
-		<string>GT</string>
+		<string>GP</string>
 		<key>state_id</key>
 		<integer>936</integer>
 	</dict>
@@ -1862728,7 +1862728,7 @@
 		<key>name</key>
 		<string>Amajuba District Municipality</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862746,7 +1862746,7 @@
 		<key>name</key>
 		<string>Ballito</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862764,7 +1862764,7 @@
 		<key>name</key>
 		<string>Berea</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862782,7 +1862782,7 @@
 		<key>name</key>
 		<string>Dundee</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862800,7 +1862800,7 @@
 		<key>name</key>
 		<string>Durban</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862818,7 +1862818,7 @@
 		<key>name</key>
 		<string>Ekuvukeni</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862836,7 +1862836,7 @@
 		<key>name</key>
 		<string>eMkhomazi</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862854,7 +1862854,7 @@
 		<key>name</key>
 		<string>Empangeni</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862872,7 +1862872,7 @@
 		<key>name</key>
 		<string>Eshowe</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862890,7 +1862890,7 @@
 		<key>name</key>
 		<string>eSikhaleni</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862908,7 +1862908,7 @@
 		<key>name</key>
 		<string>eThekwini Metropolitan Municipality</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862926,7 +1862926,7 @@
 		<key>name</key>
 		<string>Glencoe</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862944,7 +1862944,7 @@
 		<key>name</key>
 		<string>Greytown</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862962,7 +1862962,7 @@
 		<key>name</key>
 		<string>Hluhluwe</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862980,7 +1862980,7 @@
 		<key>name</key>
 		<string>Howick</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1862998,7 +1862998,7 @@
 		<key>name</key>
 		<string>iLembe District Municipality</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863016,7 +1863016,7 @@
 		<key>name</key>
 		<string>Kokstad</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863034,7 +1863034,7 @@
 		<key>name</key>
 		<string>KwaDukuza</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863052,7 +1863052,7 @@
 		<key>name</key>
 		<string>Margate</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863070,7 +1863070,7 @@
 		<key>name</key>
 		<string>Mondlo</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863088,7 +1863088,7 @@
 		<key>name</key>
 		<string>Mooirivier</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863106,7 +1863106,7 @@
 		<key>name</key>
 		<string>Mpophomeni</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863124,7 +1863124,7 @@
 		<key>name</key>
 		<string>Mpumalanga</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863142,7 +1863142,7 @@
 		<key>name</key>
 		<string>Mtubatuba</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863160,7 +1863160,7 @@
 		<key>name</key>
 		<string>Ndwedwe</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863178,7 +1863178,7 @@
 		<key>name</key>
 		<string>Newcastle</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863196,7 +1863196,7 @@
 		<key>name</key>
 		<string>Pietermaritzburg</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863214,7 +1863214,7 @@
 		<key>name</key>
 		<string>Port Shepstone</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863232,7 +1863232,7 @@
 		<key>name</key>
 		<string>Richards Bay</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863250,7 +1863250,7 @@
 		<key>name</key>
 		<string>Richmond</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863268,7 +1863268,7 @@
 		<key>name</key>
 		<string>Scottburgh</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863286,7 +1863286,7 @@
 		<key>name</key>
 		<string>Sisonke District Municipality</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863304,7 +1863304,7 @@
 		<key>name</key>
 		<string>Sundumbili</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863322,7 +1863322,7 @@
 		<key>name</key>
 		<string>Ugu District Municipality</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863340,7 +1863340,7 @@
 		<key>name</key>
 		<string>Ulundi</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863358,7 +1863358,7 @@
 		<key>name</key>
 		<string>uMgungundlovu District Municipality</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863376,7 +1863376,7 @@
 		<key>name</key>
 		<string>uMkhanyakude District Municipality</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863394,7 +1863394,7 @@
 		<key>name</key>
 		<string>uMzinyathi District Municipality</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863412,7 +1863412,7 @@
 		<key>name</key>
 		<string>uThukela District Municipality</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863430,7 +1863430,7 @@
 		<key>name</key>
 		<string>uThungulu District Municipality</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863448,7 +1863448,7 @@
 		<key>name</key>
 		<string>Utrecht</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863466,7 +1863466,7 @@
 		<key>name</key>
 		<string>Vryheid</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>
@@ -1863484,7 +1863484,7 @@
 		<key>name</key>
 		<string>Zululand District Municipality</string>
 		<key>state_code</key>
-		<string>NL</string>
+		<string>KZN</string>
 		<key>state_id</key>
 		<integer>935</integer>
 	</dict>

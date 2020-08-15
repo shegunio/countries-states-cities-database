@@ -4188,9 +4188,15 @@
     <capital>Buenos Aires</capital>
     <currency>ARS</currency>
     <states>
-      <id>3656</id>
-      <name>Buenos Aires</name>
+      <id>4880</id>
+      <name>Autonomous City Of Buenos Aires</name>
       <state_code>C</state_code>
+      <cities/>
+    </states>
+    <states>
+      <id>3656</id>
+      <name>Buenos Aires Province</name>
+      <state_code>B</state_code>
       <cities>
         <id>682</id>
         <name>Balvanera</name>
@@ -54624,7 +54630,7 @@
     <iso2>BY</iso2>
     <phone_code>375</phone_code>
     <capital>Minsk</capital>
-    <currency>BYR</currency>
+    <currency>BYN</currency>
     <states>
       <id>2959</id>
       <name>Brest Region</name>
@@ -123889,6 +123895,12 @@
         <longitude>-74.41464000</longitude>
       </cities>
       <cities>
+        <id>143872</id>
+        <name>Barrio San Luis</name>
+        <latitude>4.66779000</latitude>
+        <longitude>-74.02150000</longitude>
+      </cities>
+      <cities>
         <id>20581</id>
         <name>Beltrán</name>
         <latitude>4.71947000</latitude>
@@ -123899,6 +123911,12 @@
         <name>Bituima</name>
         <latitude>4.87252000</latitude>
         <longitude>-74.53925000</longitude>
+      </cities>
+      <cities>
+        <id>143873</id>
+        <name>Bogota</name>
+        <latitude>4.61263889</latitude>
+        <longitude>-74.07050000</longitude>
       </cities>
       <cities>
         <id>20595</id>
@@ -124003,6 +124021,12 @@
         <longitude>-74.42614000</longitude>
       </cities>
       <cities>
+        <id>21159</id>
+        <name>El Maríachi</name>
+        <latitude>5.13278000</latitude>
+        <longitude>-74.15977000</longitude>
+      </cities>
+      <cities>
         <id>20817</id>
         <name>El Peñón</name>
         <latitude>5.25264000</latitude>
@@ -124093,12 +124117,6 @@
         <longitude>-74.83504000</longitude>
       </cities>
       <cities>
-        <id>20887</id>
-        <name>Girardot City</name>
-        <latitude>4.30079000</latitude>
-        <longitude>-74.80754000</longitude>
-      </cities>
-      <cities>
         <id>20892</id>
         <name>Granada</name>
         <latitude>5.06667000</latitude>
@@ -124181,6 +124199,12 @@
         <name>La Mesa</name>
         <latitude>4.65374000</latitude>
         <longitude>-74.47316000</longitude>
+      </cities>
+      <cities>
+        <id>143874</id>
+        <name>La Mesa</name>
+        <latitude>5.26666667</latitude>
+        <longitude>-73.91666667</longitude>
       </cities>
       <cities>
         <id>20995</id>
@@ -124271,12 +124295,6 @@
         <name>Nocaima</name>
         <latitude>5.06696000</latitude>
         <longitude>-74.38439000</longitude>
-      </cities>
-      <cities>
-        <id>21159</id>
-        <name>Pacho</name>
-        <latitude>5.13278000</latitude>
-        <longitude>-74.15977000</longitude>
       </cities>
       <cities>
         <id>21165</id>
@@ -124471,6 +124489,12 @@
         <longitude>-74.14435000</longitude>
       </cities>
       <cities>
+        <id>143875</id>
+        <name>Tibacuy</name>
+        <latitude>4.35111111</latitude>
+        <longitude>-72.45638889</longitude>
+      </cities>
+      <cities>
         <id>21522</id>
         <name>Tibacuy</name>
         <latitude>4.30606000</latitude>
@@ -124517,6 +124541,12 @@
         <name>Une</name>
         <latitude>4.30691000</latitude>
         <longitude>-74.07104000</longitude>
+      </cities>
+      <cities>
+        <id>143876</id>
+        <name>Útica</name>
+        <latitude>5.18861111</latitude>
+        <longitude>-74.48111111</longitude>
       </cities>
       <cities>
         <id>21640</id>
@@ -124683,6 +124713,227 @@
         <name>San José del Guaviare</name>
         <latitude>2.57286000</latitude>
         <longitude>-72.64591000</longitude>
+      </cities>
+    </states>
+    <states>
+      <id>4871</id>
+      <name>Huila Department</name>
+      <state_code>HUI</state_code>
+      <cities>
+        <id>143877</id>
+        <name>Acevedo</name>
+        <latitude>1.83611111</latitude>
+        <longitude>-75.85500000</longitude>
+      </cities>
+      <cities>
+        <id>143878</id>
+        <name>Aipe</name>
+        <latitude>3.22194444</latitude>
+        <longitude>-75.23750000</longitude>
+      </cities>
+      <cities>
+        <id>143879</id>
+        <name>Algeciras</name>
+        <latitude>2.52194444</latitude>
+        <longitude>-75.31444444</longitude>
+      </cities>
+      <cities>
+        <id>143880</id>
+        <name>Altamira</name>
+        <latitude>2.06333333</latitude>
+        <longitude>-75.78777778</longitude>
+      </cities>
+      <cities>
+        <id>143881</id>
+        <name>Baraya</name>
+        <latitude>3.15305556</latitude>
+        <longitude>-75.05250000</longitude>
+      </cities>
+      <cities>
+        <id>143882</id>
+        <name>Campoalegre</name>
+        <latitude>2.68666667</latitude>
+        <longitude>-75.32555556</longitude>
+      </cities>
+      <cities>
+        <id>143883</id>
+        <name>Colombia</name>
+        <latitude>3.37500000</latitude>
+        <longitude>-74.80194444</longitude>
+      </cities>
+      <cities>
+        <id>143884</id>
+        <name>El Agrado</name>
+        <latitude>2.25833056</latitude>
+        <longitude>-75.77250000</longitude>
+      </cities>
+      <cities>
+        <id>143885</id>
+        <name>Elias</name>
+        <latitude>2.01361111</latitude>
+        <longitude>-75.93972222</longitude>
+      </cities>
+      <cities>
+        <id>143886</id>
+        <name>Garzón</name>
+        <latitude>2.19611111</latitude>
+        <longitude>-75.62916667</longitude>
+      </cities>
+      <cities>
+        <id>143887</id>
+        <name>Gigante</name>
+        <latitude>2.38666944</latitude>
+        <longitude>-75.54610000</longitude>
+      </cities>
+      <cities>
+        <id>143888</id>
+        <name>Guadalupe</name>
+        <latitude>2.02500000</latitude>
+        <longitude>-75.75638889</longitude>
+      </cities>
+      <cities>
+        <id>143889</id>
+        <name>Hobo</name>
+        <latitude>2.58250000</latitude>
+        <longitude>-75.45111111</longitude>
+      </cities>
+      <cities>
+        <id>143890</id>
+        <name>Iquira</name>
+        <latitude>2.64833333</latitude>
+        <longitude>-75.63638889</longitude>
+      </cities>
+      <cities>
+        <id>143891</id>
+        <name>Isnos</name>
+        <latitude>1.92888889</latitude>
+        <longitude>-76.21583333</longitude>
+      </cities>
+      <cities>
+        <id>143892</id>
+        <name>La Plata</name>
+        <latitude>2.39000000</latitude>
+        <longitude>-75.89194444</longitude>
+      </cities>
+      <cities>
+        <id>143893</id>
+        <name>Nataga</name>
+        <latitude>2.54388889</latitude>
+        <longitude>-75.80861111</longitude>
+      </cities>
+      <cities>
+        <id>143894</id>
+        <name>Neiva</name>
+        <latitude>2.92750000</latitude>
+        <longitude>-75.28750000</longitude>
+      </cities>
+      <cities>
+        <id>143895</id>
+        <name>Oporapa</name>
+        <latitude>2.02305556</latitude>
+        <longitude>-75.99527778</longitude>
+      </cities>
+      <cities>
+        <id>143896</id>
+        <name>Paicol</name>
+        <latitude>2.44972222</latitude>
+        <longitude>-75.77388889</longitude>
+      </cities>
+      <cities>
+        <id>143897</id>
+        <name>Palermo</name>
+        <latitude>2.88833333</latitude>
+        <longitude>-75.43388889</longitude>
+      </cities>
+      <cities>
+        <id>143898</id>
+        <name>Palestina</name>
+        <latitude>1.72250000</latitude>
+        <longitude>-76.13055556</longitude>
+      </cities>
+      <cities>
+        <id>143899</id>
+        <name>Pital</name>
+        <latitude>2.26638889</latitude>
+        <longitude>-75.80444444</longitude>
+      </cities>
+      <cities>
+        <id>143900</id>
+        <name>Pitalito</name>
+        <latitude>1.85388889</latitude>
+        <longitude>-76.05138889</longitude>
+      </cities>
+      <cities>
+        <id>143901</id>
+        <name>Rivera</name>
+        <latitude>2.77722222</latitude>
+        <longitude>-75.25638889</longitude>
+      </cities>
+      <cities>
+        <id>143902</id>
+        <name>Saladoblanco</name>
+        <latitude>1.99333333</latitude>
+        <longitude>-76.04527778</longitude>
+      </cities>
+      <cities>
+        <id>143903</id>
+        <name>San Agustín</name>
+        <latitude>1.87916667</latitude>
+        <longitude>-76.26833333</longitude>
+      </cities>
+      <cities>
+        <id>143904</id>
+        <name>Santa María</name>
+        <latitude>2.93777778</latitude>
+        <longitude>-75.58694444</longitude>
+      </cities>
+      <cities>
+        <id>143905</id>
+        <name>Suaza</name>
+        <latitude>1.97500000</latitude>
+        <longitude>-75.79555556</longitude>
+      </cities>
+      <cities>
+        <id>143906</id>
+        <name>Tarqui</name>
+        <latitude>2.11055556</latitude>
+        <longitude>-75.82305556</longitude>
+      </cities>
+      <cities>
+        <id>143907</id>
+        <name>Tello</name>
+        <latitude>3.06666667</latitude>
+        <longitude>-75.13861111</longitude>
+      </cities>
+      <cities>
+        <id>143908</id>
+        <name>Teruel</name>
+        <latitude>2.74055556</latitude>
+        <longitude>-75.56833333</longitude>
+      </cities>
+      <cities>
+        <id>143909</id>
+        <name>Tesalia</name>
+        <latitude>2.48472222</latitude>
+        <longitude>-75.73000000</longitude>
+      </cities>
+      <cities>
+        <id>143910</id>
+        <name>Timana</name>
+        <latitude>1.97136000</latitude>
+        <longitude>-75.93123000</longitude>
+      </cities>
+      <cities>
+        <id>143911</id>
+        <name>Villavieja</name>
+        <latitude>3.21888889</latitude>
+        <longitude>-75.21833333</longitude>
+      </cities>
+      <cities>
+        <id>143912</id>
+        <name>Yaguará</name>
+        <latitude>2.66361111</latitude>
+        <longitude>-75.51750000</longitude>
       </cities>
     </states>
     <states>
@@ -394247,6 +394498,57 @@
     </states>
   </country_state_city>
   <country_state_city>
+    <id>248</id>
+    <name>Kosovo</name>
+    <iso3>XKX</iso3>
+    <iso2>XK</iso2>
+    <phone_code>383</phone_code>
+    <capital>Pristina</capital>
+    <currency>EUR</currency>
+    <states>
+      <id>4876</id>
+      <name>Đakovica District (Gjakove)</name>
+      <state_code></state_code>
+      <cities/>
+    </states>
+    <states>
+      <id>4877</id>
+      <name>Gjilan District</name>
+      <state_code></state_code>
+      <cities/>
+    </states>
+    <states>
+      <id>4878</id>
+      <name>Kosovska Mitrovica District</name>
+      <state_code></state_code>
+      <cities/>
+    </states>
+    <states>
+      <id>3738</id>
+      <name>Peć District</name>
+      <state_code></state_code>
+      <cities/>
+    </states>
+    <states>
+      <id>4879</id>
+      <name>Pristina (Priştine)</name>
+      <state_code></state_code>
+      <cities/>
+    </states>
+    <states>
+      <id>3723</id>
+      <name>Prizren District</name>
+      <state_code></state_code>
+      <cities/>
+    </states>
+    <states>
+      <id>4874</id>
+      <name>Uroševac District (Ferizaj)</name>
+      <state_code></state_code>
+      <cities/>
+    </states>
+  </country_state_city>
+  <country_state_city>
     <id>117</id>
     <name>Kuwait</name>
     <iso3>KWT</iso3>
@@ -397814,7 +398116,7 @@
     <iso2>LT</iso2>
     <phone_code>370</phone_code>
     <capital>Vilnius</capital>
-    <currency>LTL</currency>
+    <currency>EUR</currency>
     <states>
       <id>1561</id>
       <name>Akmenė District Municipality</name>
@@ -633944,12 +634246,6 @@
     <capital>Belgrade</capital>
     <currency>RSD</currency>
     <states>
-      <id>3730</id>
-      <name>Autonomous Province of Kosovo and Metohija</name>
-      <state_code>KM</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>3728</id>
       <name>Belgrade</name>
       <state_code>00</state_code>
@@ -634843,18 +635139,6 @@
       <cities/>
     </states>
     <states>
-      <id>3739</id>
-      <name>Kosovo-Pomoravlje District</name>
-      <state_code>29</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>3735</id>
-      <name>Kosovska Mitrovica District</name>
-      <state_code>28</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>3719</id>
       <name>Mačva District</name>
       <state_code>08</state_code>
@@ -634891,12 +635175,6 @@
       <cities/>
     </states>
     <states>
-      <id>3738</id>
-      <name>Peć District</name>
-      <state_code>26</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>3712</id>
       <name>Pirot District</name>
       <state_code>22</state_code>
@@ -634912,12 +635190,6 @@
       <id>3737</id>
       <name>Pomoravlje District</name>
       <state_code>13</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>3723</id>
-      <name>Prizren District</name>
-      <state_code>27</state_code>
       <cities/>
     </states>
     <states>
@@ -890011,7 +890283,7 @@
     <iso2>ZM</iso2>
     <phone_code>260</phone_code>
     <capital>Lusaka</capital>
-    <currency>ZMK</currency>
+    <currency>ZMW</currency>
     <states>
       <id>1986</id>
       <name>Central Province</name>
