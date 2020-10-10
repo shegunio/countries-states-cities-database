@@ -399219,12 +399219,6 @@
     <state_code>02</state_code>
     <country_id>126</country_id>
     <cities>
-      <id>66580</id>
-      <name>Alytaus rajonas</name>
-      <latitude>54.40000000</latitude>
-      <longitude>24.05000000</longitude>
-    </cities>
-    <cities>
       <id>66581</id>
       <name>Alytus</name>
       <latitude>54.39635000</latitude>
@@ -399435,12 +399429,6 @@
       <longitude>23.90961000</longitude>
     </cities>
     <cities>
-      <id>66616</id>
-      <name>Kauno rajonas</name>
-      <latitude>54.92410000</latitude>
-      <longitude>23.96145000</longitude>
-    </cities>
-    <cities>
       <id>66629</id>
       <name>Kėdainiai</name>
       <latitude>55.28333000</latitude>
@@ -399566,12 +399554,6 @@
       <name>Klaipėda</name>
       <latitude>55.71667000</latitude>
       <longitude>21.11667000</longitude>
-    </cities>
-    <cities>
-      <id>66621</id>
-      <name>Klaipėdos rajonas</name>
-      <latitude>55.71667000</latitude>
-      <longitude>21.40000000</longitude>
     </cities>
     <cities>
       <id>66622</id>
@@ -399979,12 +399961,6 @@
       <longitude>22.75000000</longitude>
     </cities>
     <cities>
-      <id>66578</id>
-      <name>Akmenės Rajonas</name>
-      <latitude>56.31667000</latitude>
-      <longitude>22.90000000</longitude>
-    </cities>
-    <cities>
       <id>66607</id>
       <name>Joniškis</name>
       <latitude>56.23333000</latitude>
@@ -400041,12 +400017,6 @@
     <cities>
       <id>66712</id>
       <name>Šiauliai</name>
-      <latitude>55.93333000</latitude>
-      <longitude>23.31667000</longitude>
-    </cities>
-    <cities>
-      <id>66713</id>
-      <name>Šiaulių rajonas</name>
       <latitude>55.93333000</latitude>
       <longitude>23.31667000</longitude>
     </cities>
