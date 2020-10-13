@@ -85281,6 +85281,16 @@
     <longitude>-72.96667000</longitude>
   </city>
   <city>
+    <id>143913</id>
+    <name>Nassau</name>
+    <state_id>4881</state_id>
+    <state_code>NP</state_code>
+    <country_id>17</country_id>
+    <country_code>BS</country_code>
+    <latitude>25.06666667</latitude>
+    <longitude>-77.33333333</longitude>
+  </city>
+  <city>
     <id>15692</id>
     <name>Cooper’s Town</name>
     <state_id>3616</state_id>

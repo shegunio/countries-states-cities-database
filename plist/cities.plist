@@ -153512,6 +153512,24 @@
 		<key>country_id</key>
 		<string>17</string>
 		<key>id</key>
+		<string>143913</string>
+		<key>latitude</key>
+		<string>25.06666667</string>
+		<key>longitude</key>
+		<string>-77.33333333</string>
+		<key>name</key>
+		<string>Nassau</string>
+		<key>state_code</key>
+		<string>NP</string>
+		<key>state_id</key>
+		<string>4881</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>BS</string>
+		<key>country_id</key>
+		<string>17</string>
+		<key>id</key>
 		<string>15692</string>
 		<key>latitude</key>
 		<string>26.87137000</string>

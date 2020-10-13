@@ -85280,6 +85280,16 @@
         "longitude": "-72.96667000"
     },
     {
+        "id": 143913,
+        "name": "Nassau",
+        "state_id": 4881,
+        "state_code": "NP",
+        "country_id": 17,
+        "country_code": "BS",
+        "latitude": "25.06666667",
+        "longitude": "-77.33333333"
+    },
+    {
         "id": 15692,
         "name": "Cooper’s Town",
         "state_id": 3616,
