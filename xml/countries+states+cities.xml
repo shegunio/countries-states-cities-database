@@ -8,6 +8,11 @@
     <phone_code>93</phone_code>
     <capital>Kabul</capital>
     <currency>AFN</currency>
+    <native>افغانستان</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <emoji>🇦🇫</emoji>
+    <emojiU>U+1F1E6 U+1F1EB</emojiU>
     <states>
       <id>3901</id>
       <name>Badakhshan</name>
@@ -734,6 +739,11 @@
     <phone_code>+358-18</phone_code>
     <capital>Mariehamn</capital>
     <currency>EUR</currency>
+    <native>Åland</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇦🇽</emoji>
+    <emojiU>U+1F1E6 U+1F1FD</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -744,6 +754,11 @@
     <phone_code>355</phone_code>
     <capital>Tirana</capital>
     <currency>ALL</currency>
+    <native>Shqipëria</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇦🇱</emoji>
+    <emojiU>U+1F1E6 U+1F1F1</emojiU>
     <states>
       <id>603</id>
       <name>Berat County</name>
@@ -1804,6 +1819,11 @@
     <phone_code>213</phone_code>
     <capital>Algiers</capital>
     <currency>DZD</currency>
+    <native>الجزائر</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <emoji>🇩🇿</emoji>
+    <emojiU>U+1F1E9 U+1F1FF</emojiU>
     <states>
       <id>1118</id>
       <name>Adrar Province</name>
@@ -3566,6 +3586,11 @@
     <phone_code>+1-684</phone_code>
     <capital>Pago Pago</capital>
     <currency>USD</currency>
+    <native>American Samoa</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <emoji>🇦🇸</emoji>
+    <emojiU>U+1F1E6 U+1F1F8</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -3576,6 +3601,11 @@
     <phone_code>376</phone_code>
     <capital>Andorra la Vella</capital>
     <currency>EUR</currency>
+    <native>Andorra</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇦🇩</emoji>
+    <emojiU>U+1F1E6 U+1F1E9</emojiU>
     <states>
       <id>488</id>
       <name>Andorra la Vella</name>
@@ -3680,6 +3710,11 @@
     <phone_code>244</phone_code>
     <capital>Luanda</capital>
     <currency>AOA</currency>
+    <native>Angola</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <emoji>🇦🇴</emoji>
+    <emojiU>U+1F1E6 U+1F1F4</emojiU>
     <states>
       <id>221</id>
       <name>Bengo Province</name>
@@ -4062,6 +4097,11 @@
     <phone_code>+1-264</phone_code>
     <capital>The Valley</capital>
     <currency>XCD</currency>
+    <native>Anguilla</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇦🇮</emoji>
+    <emojiU>U+1F1E6 U+1F1EE</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -4072,6 +4112,11 @@
     <phone_code></phone_code>
     <capital></capital>
     <currency></currency>
+    <native>Antarctica</native>
+    <region>Polar</region>
+    <subregion></subregion>
+    <emoji>🇦🇶</emoji>
+    <emojiU>U+1F1E6 U+1F1F6</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -4082,6 +4127,11 @@
     <phone_code>+1-268</phone_code>
     <capital>St. John's</capital>
     <currency>XCD</currency>
+    <native>Antigua and Barbuda</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇦🇬</emoji>
+    <emojiU>U+1F1E6 U+1F1EC</emojiU>
     <states>
       <id>3708</id>
       <name>Barbuda</name>
@@ -4187,6 +4237,11 @@
     <phone_code>54</phone_code>
     <capital>Buenos Aires</capital>
     <currency>ARS</currency>
+    <native>Argentina</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇦🇷</emoji>
+    <emojiU>U+1F1E6 U+1F1F7</emojiU>
     <states>
       <id>4880</id>
       <name>Autonomous City Of Buenos Aires</name>
@@ -10095,6 +10150,11 @@
     <phone_code>374</phone_code>
     <capital>Yerevan</capital>
     <currency>AMD</currency>
+    <native>Հայաստան</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇦🇲</emoji>
+    <emojiU>U+1F1E6 U+1F1F2</emojiU>
     <states>
       <id>2023</id>
       <name>Aragatsotn Region</name>
@@ -12007,6 +12067,11 @@
     <phone_code>297</phone_code>
     <capital>Oranjestad</capital>
     <currency>AWG</currency>
+    <native>Aruba</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇦🇼</emoji>
+    <emojiU>U+1F1E6 U+1F1FC</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -12017,6 +12082,11 @@
     <phone_code>61</phone_code>
     <capital>Canberra</capital>
     <currency>AUD</currency>
+    <native>Australia</native>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <emoji>🇦🇺</emoji>
+    <emojiU>U+1F1E6 U+1F1FA</emojiU>
     <states>
       <id>3907</id>
       <name>Australian Capital Territory</name>
@@ -36876,6 +36946,11 @@
     <phone_code>43</phone_code>
     <capital>Vienna</capital>
     <currency>EUR</currency>
+    <native>Österreich</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <emoji>🇦🇹</emoji>
+    <emojiU>U+1F1E6 U+1F1F9</emojiU>
     <states>
       <id>2062</id>
       <name>Burgenland</name>
@@ -51270,6 +51345,11 @@
     <phone_code>994</phone_code>
     <capital>Baku</capital>
     <currency>AZN</currency>
+    <native>Azərbaycan</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇦🇿</emoji>
+    <emojiU>U+1F1E6 U+1F1FF</emojiU>
     <states>
       <id>540</id>
       <name>Absheron District</name>
@@ -52730,6 +52810,11 @@
     <phone_code>+1-242</phone_code>
     <capital>Nassau</capital>
     <currency>BSD</currency>
+    <native>Bahamas</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇧🇸</emoji>
+    <emojiU>U+1F1E7 U+1F1F8</emojiU>
     <states>
       <id>3601</id>
       <name>Acklins</name>
@@ -53098,6 +53183,11 @@
     <phone_code>973</phone_code>
     <capital>Manama</capital>
     <currency>BHD</currency>
+    <native>‏البحرين</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇧🇭</emoji>
+    <emojiU>U+1F1E7 U+1F1ED</emojiU>
     <states>
       <id>1992</id>
       <name>Capital Governorate</name>
@@ -53187,6 +53277,11 @@
     <phone_code>880</phone_code>
     <capital>Dhaka</capital>
     <currency>BDT</currency>
+    <native>Bangladesh</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <emoji>🇧🇩</emoji>
+    <emojiU>U+1F1E7 U+1F1E9</emojiU>
     <states>
       <id>796</id>
       <name>Bagerhat District</name>
@@ -54532,6 +54627,11 @@
     <phone_code>+1-246</phone_code>
     <capital>Bridgetown</capital>
     <currency>BBD</currency>
+    <native>Barbados</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇧🇧</emoji>
+    <emojiU>U+1F1E7 U+1F1E7</emojiU>
     <states>
       <id>1228</id>
       <name>Christ Church</name>
@@ -54642,6 +54742,11 @@
     <phone_code>375</phone_code>
     <capital>Minsk</capital>
     <currency>BYN</currency>
+    <native>Белару́сь</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <emoji>🇧🇾</emoji>
+    <emojiU>U+1F1E7 U+1F1FE</emojiU>
     <states>
       <id>2959</id>
       <name>Brest Region</name>
@@ -56660,6 +56765,11 @@
     <phone_code>32</phone_code>
     <capital>Brussels</capital>
     <currency>EUR</currency>
+    <native>België</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <emoji>🇧🇪</emoji>
+    <emojiU>U+1F1E7 U+1F1EA</emojiU>
     <states>
       <id>1381</id>
       <name>Antwerp</name>
@@ -60044,6 +60154,11 @@
     <phone_code>501</phone_code>
     <capital>Belmopan</capital>
     <currency>BZD</currency>
+    <native>Belize</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <emoji>🇧🇿</emoji>
+    <emojiU>U+1F1E7 U+1F1FF</emojiU>
     <states>
       <id>264</id>
       <name>Belize District</name>
@@ -60161,6 +60276,11 @@
     <phone_code>229</phone_code>
     <capital>Porto-Novo</capital>
     <currency>XOF</currency>
+    <native>Bénin</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇧🇯</emoji>
+    <emojiU>U+1F1E7 U+1F1EF</emojiU>
     <states>
       <id>3077</id>
       <name>Alibori Department</name>
@@ -60452,6 +60572,11 @@
     <phone_code>+1-441</phone_code>
     <capital>Hamilton</capital>
     <currency>BMD</currency>
+    <native>Bermuda</native>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <emoji>🇧🇲</emoji>
+    <emojiU>U+1F1E7 U+1F1F2</emojiU>
     <states>
       <id>4860</id>
       <name>Devonshire Parish</name>
@@ -60527,6 +60652,11 @@
     <phone_code>975</phone_code>
     <capital>Thimphu</capital>
     <currency>BTN</currency>
+    <native>ʼbrug-yul</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <emoji>🇧🇹</emoji>
+    <emojiU>U+1F1E7 U+1F1F9</emojiU>
     <states>
       <id>240</id>
       <name>Bumthang District</name>
@@ -60776,6 +60906,11 @@
     <phone_code>591</phone_code>
     <capital>Sucre</capital>
     <currency>BOB</currency>
+    <native>Bolivia</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇧🇴</emoji>
+    <emojiU>U+1F1E7 U+1F1F4</emojiU>
     <states>
       <id>3375</id>
       <name>Beni Department</name>
@@ -62198,6 +62333,11 @@
     <phone_code>387</phone_code>
     <capital>Sarajevo</capital>
     <currency>BAM</currency>
+    <native>Bosna i Hercegovina</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇧🇦</emoji>
+    <emojiU>U+1F1E7 U+1F1E6</emojiU>
     <states>
       <id>472</id>
       <name>Bosnian Podrinje Canton</name>
@@ -63674,6 +63814,11 @@
     <phone_code>267</phone_code>
     <capital>Gaborone</capital>
     <currency>BWP</currency>
+    <native>Botswana</native>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <emoji>🇧🇼</emoji>
+    <emojiU>U+1F1E7 U+1F1FC</emojiU>
     <states>
       <id>3067</id>
       <name>Central District</name>
@@ -64184,6 +64329,11 @@
     <phone_code></phone_code>
     <capital></capital>
     <currency>NOK</currency>
+    <native>Bouvetøya</native>
+    <region></region>
+    <subregion></subregion>
+    <emoji>🇧🇻</emoji>
+    <emojiU>U+1F1E7 U+1F1FB</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -64194,6 +64344,11 @@
     <phone_code>55</phone_code>
     <capital>Brasilia</capital>
     <currency>BRL</currency>
+    <native>Brasil</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇧🇷</emoji>
+    <emojiU>U+1F1E7 U+1F1F7</emojiU>
     <states>
       <id>2012</id>
       <name>Acre</name>
@@ -98214,6 +98369,11 @@
     <phone_code>246</phone_code>
     <capital>Diego Garcia</capital>
     <currency>USD</currency>
+    <native>British Indian Ocean Territory</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇮🇴</emoji>
+    <emojiU>U+1F1EE U+1F1F4</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -98224,6 +98384,11 @@
     <phone_code>673</phone_code>
     <capital>Bandar Seri Begawan</capital>
     <currency>BND</currency>
+    <native>Negara Brunei Darussalam</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <emoji>🇧🇳</emoji>
+    <emojiU>U+1F1E7 U+1F1F3</emojiU>
     <states>
       <id>1217</id>
       <name>Belait District</name>
@@ -98307,6 +98472,11 @@
     <phone_code>359</phone_code>
     <capital>Sofia</capital>
     <currency>BGN</currency>
+    <native>България</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <emoji>🇧🇬</emoji>
+    <emojiU>U+1F1E7 U+1F1EC</emojiU>
     <states>
       <id>4699</id>
       <name>Blagoevgrad Province</name>
@@ -101469,6 +101639,11 @@
     <phone_code>226</phone_code>
     <capital>Ouagadougou</capital>
     <currency>XOF</currency>
+    <native>Burkina Faso</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇧🇫</emoji>
+    <emojiU>U+1F1E7 U+1F1EB</emojiU>
     <states>
       <id>3160</id>
       <name>Balé Province</name>
@@ -102359,6 +102534,11 @@
     <phone_code>257</phone_code>
     <capital>Bujumbura</capital>
     <currency>BIF</currency>
+    <native>Burundi</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇧🇮</emoji>
+    <emojiU>U+1F1E7 U+1F1EE</emojiU>
     <states>
       <id>3196</id>
       <name>Bubanza Province</name>
@@ -102561,6 +102741,11 @@
     <phone_code>855</phone_code>
     <capital>Phnom Penh</capital>
     <currency>KHR</currency>
+    <native>Kâmpŭchéa</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <emoji>🇰🇭</emoji>
+    <emojiU>U+1F1F0 U+1F1ED</emojiU>
     <states>
       <id>3984</id>
       <name>Banteay Meanchey Province</name>
@@ -103321,6 +103506,11 @@
     <phone_code>237</phone_code>
     <capital>Yaounde</capital>
     <currency>XAF</currency>
+    <native>Cameroon</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <emoji>🇨🇲</emoji>
+    <emojiU>U+1F1E8 U+1F1F2</emojiU>
     <states>
       <id>2663</id>
       <name>Adamawa</name>
@@ -104214,6 +104404,11 @@
     <phone_code>1</phone_code>
     <capital>Ottawa</capital>
     <currency>CAD</currency>
+    <native>Canada</native>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <emoji>🇨🇦</emoji>
+    <emojiU>U+1F1E8 U+1F1E6</emojiU>
     <states>
       <id>872</id>
       <name>Alberta</name>
@@ -110762,6 +110957,11 @@
     <phone_code>238</phone_code>
     <capital>Praia</capital>
     <currency>CVE</currency>
+    <native>Cabo Verde</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇨🇻</emoji>
+    <emojiU>U+1F1E8 U+1F1FB</emojiU>
     <states>
       <id>2994</id>
       <name>Barlavento Islands</name>
@@ -111032,6 +111232,11 @@
     <phone_code>+1-345</phone_code>
     <capital>George Town</capital>
     <currency>KYD</currency>
+    <native>Cayman Islands</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇰🇾</emoji>
+    <emojiU>U+1F1F0 U+1F1FE</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -111042,6 +111247,11 @@
     <phone_code>236</phone_code>
     <capital>Bangui</capital>
     <currency>XAF</currency>
+    <native>Ködörösêse tî Bêafrîka</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <emoji>🇨🇫</emoji>
+    <emojiU>U+1F1E8 U+1F1EB</emojiU>
     <states>
       <id>1259</id>
       <name>Bamingui-Bangoran Prefecture</name>
@@ -111406,6 +111616,11 @@
     <phone_code>235</phone_code>
     <capital>N'Djamena</capital>
     <currency>XAF</currency>
+    <native>Tchad</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <emoji>🇹🇩</emoji>
+    <emojiU>U+1F1F9 U+1F1E9</emojiU>
     <states>
       <id>3583</id>
       <name>Bahr el Gazel</name>
@@ -111779,6 +111994,11 @@
     <phone_code>56</phone_code>
     <capital>Santiago</capital>
     <currency>CLP</currency>
+    <native>Chile</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇨🇱</emoji>
+    <emojiU>U+1F1E8 U+1F1F1</emojiU>
     <states>
       <id>2832</id>
       <name>Antofagasta Region</name>
@@ -112996,6 +113216,11 @@
     <phone_code>86</phone_code>
     <capital>Beijing</capital>
     <currency>CNY</currency>
+    <native>中国</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <emoji>🇨🇳</emoji>
+    <emojiU>U+1F1E8 U+1F1F3</emojiU>
     <states>
       <id>2251</id>
       <name>Anhui</name>
@@ -120463,6 +120688,11 @@
     <phone_code>61</phone_code>
     <capital>Flying Fish Cove</capital>
     <currency>AUD</currency>
+    <native>Christmas Island</native>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <emoji>🇨🇽</emoji>
+    <emojiU>U+1F1E8 U+1F1FD</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -120473,6 +120703,11 @@
     <phone_code>61</phone_code>
     <capital>West Island</capital>
     <currency>AUD</currency>
+    <native>Cocos (Keeling) Islands</native>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <emoji>🇨🇨</emoji>
+    <emojiU>U+1F1E8 U+1F1E8</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -120483,6 +120718,11 @@
     <phone_code>57</phone_code>
     <capital>Bogota</capital>
     <currency>COP</currency>
+    <native>Colombia</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇨🇴</emoji>
+    <emojiU>U+1F1E8 U+1F1F4</emojiU>
     <states>
       <id>2895</id>
       <name>Amazonas Department</name>
@@ -127828,6 +128068,11 @@
     <phone_code>269</phone_code>
     <capital>Moroni</capital>
     <currency>KMF</currency>
+    <native>Komori</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇰🇲</emoji>
+    <emojiU>U+1F1F0 U+1F1F2</emojiU>
     <states>
       <id>2821</id>
       <name>Anjouan</name>
@@ -128380,6 +128625,11 @@
     <phone_code>242</phone_code>
     <capital>Brazzaville</capital>
     <currency>XAF</currency>
+    <native>République du Congo</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <emoji>🇨🇬</emoji>
+    <emojiU>U+1F1E8 U+1F1EC</emojiU>
     <states>
       <id>2866</id>
       <name>Bouenza Department</name>
@@ -128552,6 +128802,11 @@
     <phone_code>243</phone_code>
     <capital>Kinshasa</capital>
     <currency>CDF</currency>
+    <native>République démocratique du Congo</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <emoji>🇨🇩</emoji>
+    <emojiU>U+1F1E8 U+1F1E9</emojiU>
     <states>
       <id>2754</id>
       <name>Bandundu Province</name>
@@ -129119,6 +129374,11 @@
     <phone_code>682</phone_code>
     <capital>Avarua</capital>
     <currency>NZD</currency>
+    <native>Cook Islands</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <emoji>🇨🇰</emoji>
+    <emojiU>U+1F1E8 U+1F1F0</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -129129,6 +129389,11 @@
     <phone_code>506</phone_code>
     <capital>San Jose</capital>
     <currency>CRC</currency>
+    <native>Costa Rica</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <emoji>🇨🇷</emoji>
+    <emojiU>U+1F1E8 U+1F1F7</emojiU>
     <states>
       <id>1215</id>
       <name>Alajuela Province</name>
@@ -130127,6 +130392,11 @@
     <phone_code>225</phone_code>
     <capital>Yamoussoukro</capital>
     <currency>XOF</currency>
+    <native></native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇨🇮</emoji>
+    <emojiU>U+1F1E8 U+1F1EE</emojiU>
     <states>
       <id>2634</id>
       <name>Abidjan</name>
@@ -130820,6 +131090,11 @@
     <phone_code>385</phone_code>
     <capital>Zagreb</capital>
     <currency>HRK</currency>
+    <native>Hrvatska</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇭🇷</emoji>
+    <emojiU>U+1F1ED U+1F1F7</emojiU>
     <states>
       <id>734</id>
       <name>Bjelovar-Bilogora County</name>
@@ -134913,6 +135188,11 @@
     <phone_code>53</phone_code>
     <capital>Havana</capital>
     <currency>CUP</currency>
+    <native>Cuba</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇨🇺</emoji>
+    <emojiU>U+1F1E8 U+1F1FA</emojiU>
     <states>
       <id>283</id>
       <name>Artemisa Province</name>
@@ -136117,6 +136397,21 @@
     </states>
   </country_state_city>
   <country_state_city>
+    <id>249</id>
+    <name>Curaçao</name>
+    <iso3>CUW</iso3>
+    <iso2>CW</iso2>
+    <phone_code>599</phone_code>
+    <capital>Willemstad</capital>
+    <currency>ANG</currency>
+    <native>Curaçao</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇨🇼</emoji>
+    <emojiU>U+1F1E8 U+1F1FC</emojiU>
+    <states/>
+  </country_state_city>
+  <country_state_city>
     <id>57</id>
     <name>Cyprus</name>
     <iso3>CYP</iso3>
@@ -136124,6 +136419,11 @@
     <phone_code>357</phone_code>
     <capital>Nicosia</capital>
     <currency>EUR</currency>
+    <native>Κύπρος</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇨🇾</emoji>
+    <emojiU>U+1F1E8 U+1F1FE</emojiU>
     <states>
       <id>749</id>
       <name>Famagusta District</name>
@@ -136733,6 +137033,11 @@
     <phone_code>420</phone_code>
     <capital>Prague</capital>
     <currency>CZK</currency>
+    <native>Česká republika</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <emoji>🇨🇿</emoji>
+    <emojiU>U+1F1E8 U+1F1FF</emojiU>
     <states>
       <id>4627</id>
       <name>Benešov District</name>
@@ -145500,6 +145805,11 @@
     <phone_code>45</phone_code>
     <capital>Copenhagen</capital>
     <currency>DKK</currency>
+    <native>Danmark</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇩🇰</emoji>
+    <emojiU>U+1F1E9 U+1F1F0</emojiU>
     <states>
       <id>1530</id>
       <name>Capital Region of Denmark</name>
@@ -148108,6 +148418,11 @@
     <phone_code>253</phone_code>
     <capital>Djibouti</capital>
     <currency>DJF</currency>
+    <native>Djibouti</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇩🇯</emoji>
+    <emojiU>U+1F1E9 U+1F1EF</emojiU>
     <states>
       <id>2933</id>
       <name>Ali Sabieh Region</name>
@@ -148219,6 +148534,11 @@
     <phone_code>+1-767</phone_code>
     <capital>Roseau</capital>
     <currency>XCD</currency>
+    <native>Dominica</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇩🇲</emoji>
+    <emojiU>U+1F1E9 U+1F1F2</emojiU>
     <states>
       <id>4082</id>
       <name>Saint Andrew Parish</name>
@@ -148380,6 +148700,11 @@
     <phone_code>+1-809 and 1-829</phone_code>
     <capital>Santo Domingo</capital>
     <currency>DOP</currency>
+    <native>República Dominicana</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇩🇴</emoji>
+    <emojiU>U+1F1E9 U+1F1F4</emojiU>
     <states>
       <id>4114</id>
       <name>Azua Province</name>
@@ -149786,6 +150111,11 @@
     <phone_code>670</phone_code>
     <capital>Dili</capital>
     <currency>USD</currency>
+    <native>Timor-Leste</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <emoji>🇹🇱</emoji>
+    <emojiU>U+1F1F9 U+1F1F1</emojiU>
     <states>
       <id>4520</id>
       <name>Aileu municipality</name>
@@ -150155,6 +150485,11 @@
     <phone_code>593</phone_code>
     <capital>Quito</capital>
     <currency>USD</currency>
+    <native>Ecuador</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇪🇨</emoji>
+    <emojiU>U+1F1EA U+1F1E8</emojiU>
     <states>
       <id>2923</id>
       <name>Azuay Province</name>
@@ -150963,6 +151298,11 @@
     <phone_code>20</phone_code>
     <capital>Cairo</capital>
     <currency>EGP</currency>
+    <native>مصر‎</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <emoji>🇪🇬</emoji>
+    <emojiU>U+1F1EA U+1F1EC</emojiU>
     <states>
       <id>3235</id>
       <name>Alexandria Governorate</name>
@@ -151858,6 +152198,11 @@
     <phone_code>503</phone_code>
     <capital>San Salvador</capital>
     <currency>USD</currency>
+    <native>El Salvador</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <emoji>🇸🇻</emoji>
+    <emojiU>U+1F1F8 U+1F1FB</emojiU>
     <states>
       <id>4139</id>
       <name>Ahuachapán Department</name>
@@ -152537,6 +152882,11 @@
     <phone_code>240</phone_code>
     <capital>Malabo</capital>
     <currency>XAF</currency>
+    <native>Guinea Ecuatorial</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <emoji>🇬🇶</emoji>
+    <emojiU>U+1F1EC U+1F1F6</emojiU>
     <states>
       <id>3444</id>
       <name>Annobón Province</name>
@@ -152737,6 +153087,11 @@
     <phone_code>291</phone_code>
     <capital>Asmara</capital>
     <currency>ERN</currency>
+    <native>ኤርትራ</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇪🇷</emoji>
+    <emojiU>U+1F1EA U+1F1F7</emojiU>
     <states>
       <id>3425</id>
       <name>Anseba Region</name>
@@ -152842,6 +153197,11 @@
     <phone_code>372</phone_code>
     <capital>Tallinn</capital>
     <currency>EUR</currency>
+    <native>Eesti</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇪🇪</emoji>
+    <emojiU>U+1F1EA U+1F1EA</emojiU>
     <states>
       <id>3567</id>
       <name>Harju County</name>
@@ -153898,6 +154258,11 @@
     <phone_code>251</phone_code>
     <capital>Addis Ababa</capital>
     <currency>ETB</currency>
+    <native>ኢትዮጵያ</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇪🇹</emoji>
+    <emojiU>U+1F1EA U+1F1F9</emojiU>
     <states>
       <id>11</id>
       <name>Addis Ababa</name>
@@ -154832,6 +155197,11 @@
     <phone_code>500</phone_code>
     <capital>Stanley</capital>
     <currency>FKP</currency>
+    <native>Falkland Islands</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇫🇰</emoji>
+    <emojiU>U+1F1EB U+1F1F0</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -154842,6 +155212,11 @@
     <phone_code>298</phone_code>
     <capital>Torshavn</capital>
     <currency>DKK</currency>
+    <native>Føroyar</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇫🇴</emoji>
+    <emojiU>U+1F1EB U+1F1F4</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -154852,6 +155227,11 @@
     <phone_code>679</phone_code>
     <capital>Suva</capital>
     <currency>FJD</currency>
+    <native>Fiji</native>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <emoji>🇫🇯</emoji>
+    <emojiU>U+1F1EB U+1F1EF</emojiU>
     <states>
       <id>1917</id>
       <name>Ba</name>
@@ -155091,6 +155471,11 @@
     <phone_code>358</phone_code>
     <capital>Helsinki</capital>
     <currency>EUR</currency>
+    <native>Suomi</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇫🇮</emoji>
+    <emojiU>U+1F1EB U+1F1EE</emojiU>
     <states>
       <id>1509</id>
       <name>Åland Islands</name>
@@ -157627,6 +158012,11 @@
     <phone_code>33</phone_code>
     <capital>Paris</capital>
     <currency>EUR</currency>
+    <native>France</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <emoji>🇫🇷</emoji>
+    <emojiU>U+1F1EB U+1F1F7</emojiU>
     <states>
       <id>4800</id>
       <name>Alo</name>
@@ -211245,6 +211635,11 @@
     <phone_code>594</phone_code>
     <capital>Cayenne</capital>
     <currency>EUR</currency>
+    <native>Guyane française</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇬🇫</emoji>
+    <emojiU>U+1F1EC U+1F1EB</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -211255,6 +211650,11 @@
     <phone_code>689</phone_code>
     <capital>Papeete</capital>
     <currency>XPF</currency>
+    <native>Polynésie française</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <emoji>🇵🇫</emoji>
+    <emojiU>U+1F1F5 U+1F1EB</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -211265,6 +211665,11 @@
     <phone_code></phone_code>
     <capital>Port-aux-Francais</capital>
     <currency>EUR</currency>
+    <native>Territoire des Terres australes et antarctiques fr</native>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <emoji>🇹🇫</emoji>
+    <emojiU>U+1F1F9 U+1F1EB</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -211275,6 +211680,11 @@
     <phone_code>241</phone_code>
     <capital>Libreville</capital>
     <currency>XAF</currency>
+    <native>Gabon</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <emoji>🇬🇦</emoji>
+    <emojiU>U+1F1EC U+1F1E6</emojiU>
     <states>
       <id>2727</id>
       <name>Estuaire Province</name>
@@ -211497,6 +211907,11 @@
     <phone_code>220</phone_code>
     <capital>Banjul</capital>
     <currency>GMD</currency>
+    <native>Gambia</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇬🇲</emoji>
+    <emojiU>U+1F1EC U+1F1F2</emojiU>
     <states>
       <id>2666</id>
       <name>Banjul</name>
@@ -212160,6 +212575,11 @@
     <phone_code>995</phone_code>
     <capital>Tbilisi</capital>
     <currency>GEL</currency>
+    <native>საქართველო</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇬🇪</emoji>
+    <emojiU>U+1F1EC U+1F1EA</emojiU>
     <states>
       <id>900</id>
       <name>Adjara</name>
@@ -212913,6 +213333,11 @@
     <phone_code>49</phone_code>
     <capital>Berlin</capital>
     <currency>EUR</currency>
+    <native>Deutschland</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <emoji>🇩🇪</emoji>
+    <emojiU>U+1F1E9 U+1F1EA</emojiU>
     <states>
       <id>3006</id>
       <name>Baden-Württemberg</name>
@@ -255602,6 +256027,11 @@
     <phone_code>233</phone_code>
     <capital>Accra</capital>
     <currency>GHS</currency>
+    <native>Ghana</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇬🇭</emoji>
+    <emojiU>U+1F1EC U+1F1ED</emojiU>
     <states>
       <id>48</id>
       <name>Ashanti Region</name>
@@ -256081,6 +256511,11 @@
     <phone_code>350</phone_code>
     <capital>Gibraltar</capital>
     <currency>GIP</currency>
+    <native>Gibraltar</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇬🇮</emoji>
+    <emojiU>U+1F1EC U+1F1EE</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -256091,6 +256526,11 @@
     <phone_code>30</phone_code>
     <capital>Athens</capital>
     <currency>EUR</currency>
+    <native>Ελλάδα</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇬🇷</emoji>
+    <emojiU>U+1F1EC U+1F1F7</emojiU>
     <states>
       <id>2116</id>
       <name>Achaea Regional Unit</name>
@@ -262470,6 +262910,11 @@
     <phone_code>299</phone_code>
     <capital>Nuuk</capital>
     <currency>DKK</currency>
+    <native>Kalaallit Nunaat</native>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <emoji>🇬🇱</emoji>
+    <emojiU>U+1F1EC U+1F1F1</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -262480,6 +262925,11 @@
     <phone_code>+1-473</phone_code>
     <capital>St. George's</capital>
     <currency>XCD</currency>
+    <native>Grenada</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇬🇩</emoji>
+    <emojiU>U+1F1EC U+1F1E9</emojiU>
     <states>
       <id>3867</id>
       <name>Carriacou and Petite Martinique</name>
@@ -262566,6 +263016,11 @@
     <phone_code>590</phone_code>
     <capital>Basse-Terre</capital>
     <currency>EUR</currency>
+    <native>Guadeloupe</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇬🇵</emoji>
+    <emojiU>U+1F1EC U+1F1F5</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -262576,6 +263031,11 @@
     <phone_code>+1-671</phone_code>
     <capital>Hagatna</capital>
     <currency>USD</currency>
+    <native>Guam</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <emoji>🇬🇺</emoji>
+    <emojiU>U+1F1EC U+1F1FA</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -262586,6 +263046,11 @@
     <phone_code>502</phone_code>
     <capital>Guatemala City</capital>
     <currency>GTQ</currency>
+    <native>Guatemala</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <emoji>🇬🇹</emoji>
+    <emojiU>U+1F1EC U+1F1F9</emojiU>
     <states>
       <id>3671</id>
       <name>Alta Verapaz Department</name>
@@ -264992,6 +265457,11 @@
     <phone_code>+44-1481</phone_code>
     <capital>St Peter Port</capital>
     <currency>GBP</currency>
+    <native>Guernsey</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇬🇬</emoji>
+    <emojiU>U+1F1EC U+1F1EC</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -265002,6 +265472,11 @@
     <phone_code>224</phone_code>
     <capital>Conakry</capital>
     <currency>GNF</currency>
+    <native>Guinée</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇬🇳</emoji>
+    <emojiU>U+1F1EC U+1F1F3</emojiU>
     <states>
       <id>2672</id>
       <name>Beyla Prefecture</name>
@@ -265568,6 +266043,11 @@
     <phone_code>245</phone_code>
     <capital>Bissau</capital>
     <currency>XOF</currency>
+    <native>Guiné-Bissau</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇬🇼</emoji>
+    <emojiU>U+1F1EC U+1F1FC</emojiU>
     <states>
       <id>2720</id>
       <name>Bafatá</name>
@@ -265719,6 +266199,11 @@
     <phone_code>592</phone_code>
     <capital>Georgetown</capital>
     <currency>GYD</currency>
+    <native>Guyana</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇬🇾</emoji>
+    <emojiU>U+1F1EC U+1F1FE</emojiU>
     <states>
       <id>2764</id>
       <name>Barima-Waini</name>
@@ -265862,6 +266347,11 @@
     <phone_code>509</phone_code>
     <capital>Port-au-Prince</capital>
     <currency>HTG</currency>
+    <native>Haïti</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇭🇹</emoji>
+    <emojiU>U+1F1ED U+1F1F9</emojiU>
     <states>
       <id>4123</id>
       <name>Artibonite</name>
@@ -266665,6 +267155,11 @@
     <phone_code> </phone_code>
     <capital></capital>
     <currency>AUD</currency>
+    <native>Heard Island and McDonald Islands</native>
+    <region></region>
+    <subregion></subregion>
+    <emoji>🇭🇲</emoji>
+    <emojiU>U+1F1ED U+1F1F2</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -266675,6 +267170,11 @@
     <phone_code>504</phone_code>
     <capital>Tegucigalpa</capital>
     <currency>HNL</currency>
+    <native>Honduras</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <emoji>🇭🇳</emoji>
+    <emojiU>U+1F1ED U+1F1F3</emojiU>
     <states>
       <id>4047</id>
       <name>Atlántida Department</name>
@@ -270044,6 +270544,11 @@
     <phone_code>852</phone_code>
     <capital>Hong Kong</capital>
     <currency>HKD</currency>
+    <native>香港</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <emoji>🇭🇰</emoji>
+    <emojiU>U+1F1ED U+1F1F0</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -270054,6 +270559,11 @@
     <phone_code>36</phone_code>
     <capital>Budapest</capital>
     <currency>HUF</currency>
+    <native>Magyarország</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <emoji>🇭🇺</emoji>
+    <emojiU>U+1F1ED U+1F1FA</emojiU>
     <states>
       <id>1048</id>
       <name>Bács-Kiskun County</name>
@@ -276326,6 +276836,11 @@
     <phone_code>354</phone_code>
     <capital>Reykjavik</capital>
     <currency>ISK</currency>
+    <native>Ísland</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇮🇸</emoji>
+    <emojiU>U+1F1EE U+1F1F8</emojiU>
     <states>
       <id>3431</id>
       <name>Capital Region</name>
@@ -276819,6 +277334,11 @@
     <phone_code>91</phone_code>
     <capital>New Delhi</capital>
     <currency>INR</currency>
+    <native>भारत</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <emoji>🇮🇳</emoji>
+    <emojiU>U+1F1EE U+1F1F3</emojiU>
     <states>
       <id>4023</id>
       <name>Andaman and Nicobar Islands</name>
@@ -300149,6 +300669,11 @@
     <phone_code>62</phone_code>
     <capital>Jakarta</capital>
     <currency>IDR</currency>
+    <native>Indonesia</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <emoji>🇮🇩</emoji>
+    <emojiU>U+1F1EE U+1F1E9</emojiU>
     <states>
       <id>1822</id>
       <name>Aceh</name>
@@ -305687,6 +306212,11 @@
     <phone_code>98</phone_code>
     <capital>Tehran</capital>
     <currency>IRR</currency>
+    <native>ایران</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <emoji>🇮🇷</emoji>
+    <emojiU>U+1F1EE U+1F1F7</emojiU>
     <states>
       <id>3929</id>
       <name>Alborz Province</name>
@@ -309482,6 +310012,11 @@
     <phone_code>964</phone_code>
     <capital>Baghdad</capital>
     <currency>IQD</currency>
+    <native>العراق</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇮🇶</emoji>
+    <emojiU>U+1F1EE U+1F1F6</emojiU>
     <states>
       <id>3964</id>
       <name>Al Anbar Governorate</name>
@@ -310073,6 +310608,11 @@
     <phone_code>353</phone_code>
     <capital>Dublin</capital>
     <currency>EUR</currency>
+    <native>Éire</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇮🇪</emoji>
+    <emojiU>U+1F1EE U+1F1EA</emojiU>
     <states>
       <id>1087</id>
       <name>Connacht</name>
@@ -312484,6 +313024,11 @@
     <phone_code>972</phone_code>
     <capital>Jerusalem</capital>
     <currency>ILS</currency>
+    <native>יִשְׂרָאֵל</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇮🇱</emoji>
+    <emojiU>U+1F1EE U+1F1F1</emojiU>
     <states>
       <id>1367</id>
       <name>Central District</name>
@@ -313423,6 +313968,11 @@
     <phone_code>39</phone_code>
     <capital>Rome</capital>
     <currency>EUR</currency>
+    <native>Italia</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇮🇹</emoji>
+    <emojiU>U+1F1EE U+1F1F9</emojiU>
     <states>
       <id>1679</id>
       <name>Abruzzo</name>
@@ -373868,6 +374418,11 @@
     <phone_code>+1-876</phone_code>
     <capital>Kingston</capital>
     <currency>JMD</currency>
+    <native>Jamaica</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇯🇲</emoji>
+    <emojiU>U+1F1EF U+1F1F2</emojiU>
     <states>
       <id>3753</id>
       <name>Clarendon Parish</name>
@@ -378987,6 +379542,11 @@
     <phone_code>81</phone_code>
     <capital>Tokyo</capital>
     <currency>JPY</currency>
+    <native>日本</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <emoji>🇯🇵</emoji>
+    <emojiU>U+1F1EF U+1F1F5</emojiU>
     <states>
       <id>827</id>
       <name>Aichi Prefecture</name>
@@ -388592,6 +389152,11 @@
     <phone_code>+44-1534</phone_code>
     <capital>Saint Helier</capital>
     <currency>GBP</currency>
+    <native>Jersey</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇯🇪</emoji>
+    <emojiU>U+1F1EF U+1F1EA</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -388602,6 +389167,11 @@
     <phone_code>962</phone_code>
     <capital>Amman</capital>
     <currency>JOD</currency>
+    <native>الأردن</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇯🇴</emoji>
+    <emojiU>U+1F1EF U+1F1F4</emojiU>
     <states>
       <id>963</id>
       <name>Ajloun Governorate</name>
@@ -389163,6 +389733,11 @@
     <phone_code>7</phone_code>
     <capital>Astana</capital>
     <currency>KZT</currency>
+    <native>Қазақстан</native>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <emoji>🇰🇿</emoji>
+    <emojiU>U+1F1F0 U+1F1FF</emojiU>
     <states>
       <id>145</id>
       <name>Akmola Region</name>
@@ -390817,6 +391392,11 @@
     <phone_code>254</phone_code>
     <capital>Nairobi</capital>
     <currency>KES</currency>
+    <native>Kenya</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇰🇪</emoji>
+    <emojiU>U+1F1F0 U+1F1EA</emojiU>
     <states>
       <id>181</id>
       <name>Baringo County</name>
@@ -391766,6 +392346,11 @@
     <phone_code>686</phone_code>
     <capital>Tarawa</capital>
     <currency>AUD</currency>
+    <native>Kiribati</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <emoji>🇰🇮</emoji>
+    <emojiU>U+1F1F0 U+1F1EE</emojiU>
     <states>
       <id>1831</id>
       <name>Gilbert Islands</name>
@@ -392018,6 +392603,11 @@
     <phone_code>850</phone_code>
     <capital>Pyongyang</capital>
     <currency>KPW</currency>
+    <native>북한</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <emoji>🇰🇵</emoji>
+    <emojiU>U+1F1F0 U+1F1F5</emojiU>
     <states>
       <id>3998</id>
       <name>Chagang Province</name>
@@ -392562,6 +393152,11 @@
     <phone_code>82</phone_code>
     <capital>Seoul</capital>
     <currency>KRW</currency>
+    <native>대한민국</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <emoji>🇰🇷</emoji>
+    <emojiU>U+1F1F0 U+1F1F7</emojiU>
     <states>
       <id>3860</id>
       <name>Busan</name>
@@ -394510,6 +395105,11 @@
     <phone_code>383</phone_code>
     <capital>Pristina</capital>
     <currency>EUR</currency>
+    <native>Republika e Kosovës</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <emoji>🇽🇰</emoji>
+    <emojiU>U+1F1FD U+1F1F0</emojiU>
     <states>
       <id>4876</id>
       <name>Đakovica District (Gjakove)</name>
@@ -394561,6 +395161,11 @@
     <phone_code>965</phone_code>
     <capital>Kuwait City</capital>
     <currency>KWD</currency>
+    <native>الكويت</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇰🇼</emoji>
+    <emojiU>U+1F1F0 U+1F1FC</emojiU>
     <states>
       <id>977</id>
       <name>Al Ahmadi Governorate</name>
@@ -394750,6 +395355,11 @@
     <phone_code>996</phone_code>
     <capital>Bishkek</capital>
     <currency>KGS</currency>
+    <native>Кыргызстан</native>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <emoji>🇰🇬</emoji>
+    <emojiU>U+1F1F0 U+1F1EC</emojiU>
     <states>
       <id>998</id>
       <name>Batken Region</name>
@@ -395123,6 +395733,11 @@
     <phone_code>856</phone_code>
     <capital>Vientiane</capital>
     <currency>LAK</currency>
+    <native>ສປປລາວ</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <emoji>🇱🇦</emoji>
+    <emojiU>U+1F1F1 U+1F1E6</emojiU>
     <states>
       <id>982</id>
       <name>Attapeu Province</name>
@@ -395684,6 +396299,11 @@
     <phone_code>371</phone_code>
     <capital>Riga</capital>
     <currency>EUR</currency>
+    <native>Latvija</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇱🇻</emoji>
+    <emojiU>U+1F1F1 U+1F1FB</emojiU>
     <states>
       <id>4445</id>
       <name>Aglona Municipality</name>
@@ -397044,6 +397664,11 @@
     <phone_code>961</phone_code>
     <capital>Beirut</capital>
     <currency>LBP</currency>
+    <native>لبنان</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇱🇧</emoji>
+    <emojiU>U+1F1F1 U+1F1E7</emojiU>
     <states>
       <id>2285</id>
       <name>Akkar Governorate</name>
@@ -397249,6 +397874,11 @@
     <phone_code>266</phone_code>
     <capital>Maseru</capital>
     <currency>LSL</currency>
+    <native>Lesotho</native>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <emoji>🇱🇸</emoji>
+    <emojiU>U+1F1F1 U+1F1F8</emojiU>
     <states>
       <id>3030</id>
       <name>Berea District</name>
@@ -397380,6 +398010,11 @@
     <phone_code>231</phone_code>
     <capital>Monrovia</capital>
     <currency>LRD</currency>
+    <native>Liberia</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇱🇷</emoji>
+    <emojiU>U+1F1F1 U+1F1F7</emojiU>
     <states>
       <id>3041</id>
       <name>Bomi County</name>
@@ -397572,6 +398207,11 @@
     <phone_code>218</phone_code>
     <capital>Tripolis</capital>
     <currency>LYD</currency>
+    <native>‏ليبيا</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <emoji>🇱🇾</emoji>
+    <emojiU>U+1F1F1 U+1F1FE</emojiU>
     <states>
       <id>2964</id>
       <name>Al Wahat District</name>
@@ -397992,6 +398632,11 @@
     <phone_code>423</phone_code>
     <capital>Vaduz</capital>
     <currency>CHF</currency>
+    <native>Liechtenstein</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <emoji>🇱🇮</emoji>
+    <emojiU>U+1F1F1 U+1F1EE</emojiU>
     <states>
       <id>458</id>
       <name>Balzers</name>
@@ -398122,6 +398767,11 @@
     <phone_code>370</phone_code>
     <capital>Vilnius</capital>
     <currency>EUR</currency>
+    <native>Lietuva</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇱🇹</emoji>
+    <emojiU>U+1F1F1 U+1F1F9</emojiU>
     <states>
       <id>1561</id>
       <name>Akmenė District Municipality</name>
@@ -399393,6 +400043,11 @@
     <phone_code>352</phone_code>
     <capital>Luxembourg</capital>
     <currency>EUR</currency>
+    <native>Luxembourg</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <emoji>🇱🇺</emoji>
+    <emojiU>U+1F1F1 U+1F1FA</emojiU>
     <states>
       <id>1518</id>
       <name>Canton of Capellen</name>
@@ -400344,6 +400999,11 @@
     <phone_code>853</phone_code>
     <capital>Macao</capital>
     <currency>MOP</currency>
+    <native>澳門</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <emoji>🇲🇴</emoji>
+    <emojiU>U+1F1F2 U+1F1F4</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -400354,6 +401014,11 @@
     <phone_code>389</phone_code>
     <capital>Skopje</capital>
     <currency>MKD</currency>
+    <native>Северна Македонија</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇲🇰</emoji>
+    <emojiU>U+1F1F2 U+1F1F0</emojiU>
     <states>
       <id>703</id>
       <name>Aerodrom Municipality</name>
@@ -401971,6 +402636,11 @@
     <phone_code>261</phone_code>
     <capital>Antananarivo</capital>
     <currency>MGA</currency>
+    <native>Madagasikara</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇲🇬</emoji>
+    <emojiU>U+1F1F2 U+1F1EC</emojiU>
     <states>
       <id>2951</id>
       <name>Antananarivo Province</name>
@@ -402069,6 +402739,11 @@
     <phone_code>265</phone_code>
     <capital>Lilongwe</capital>
     <currency>MWK</currency>
+    <native>Malawi</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇲🇼</emoji>
+    <emojiU>U+1F1F2 U+1F1FC</emojiU>
     <states>
       <id>3096</id>
       <name>Balaka District</name>
@@ -402621,6 +403296,11 @@
     <phone_code>60</phone_code>
     <capital>Kuala Lumpur</capital>
     <currency>MYR</currency>
+    <native>Malaysia</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <emoji>🇲🇾</emoji>
+    <emojiU>U+1F1F2 U+1F1FE</emojiU>
     <states>
       <id>1950</id>
       <name>Johor</name>
@@ -403784,6 +404464,11 @@
     <phone_code>960</phone_code>
     <capital>Male</capital>
     <currency>MVR</currency>
+    <native>Maldives</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <emoji>🇲🇻</emoji>
+    <emojiU>U+1F1F2 U+1F1FB</emojiU>
     <states>
       <id>2594</id>
       <name>Addu Atoll</name>
@@ -404058,6 +404743,11 @@
     <phone_code>223</phone_code>
     <capital>Bamako</capital>
     <currency>XOF</currency>
+    <native>Mali</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇲🇱</emoji>
+    <emojiU>U+1F1F2 U+1F1F1</emojiU>
     <states>
       <id>253</id>
       <name>Bamako</name>
@@ -404412,6 +405102,11 @@
     <phone_code>356</phone_code>
     <capital>Valletta</capital>
     <currency>EUR</currency>
+    <native>Malta</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇲🇹</emoji>
+    <emojiU>U+1F1F2 U+1F1F9</emojiU>
     <states>
       <id>110</id>
       <name>Attard</name>
@@ -405173,6 +405868,11 @@
     <phone_code>+44-1624</phone_code>
     <capital>Douglas, Isle of Man</capital>
     <currency>GBP</currency>
+    <native>Isle of Man</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇮🇲</emoji>
+    <emojiU>U+1F1EE U+1F1F2</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -405183,6 +405883,11 @@
     <phone_code>692</phone_code>
     <capital>Majuro</capital>
     <currency>USD</currency>
+    <native>M̧ajeļ</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <emoji>🇲🇭</emoji>
+    <emojiU>U+1F1F2 U+1F1ED</emojiU>
     <states>
       <id>2574</id>
       <name>Ralik Chain</name>
@@ -405204,6 +405909,11 @@
     <phone_code>596</phone_code>
     <capital>Fort-de-France</capital>
     <currency>EUR</currency>
+    <native>Martinique</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇲🇶</emoji>
+    <emojiU>U+1F1F2 U+1F1F6</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -405214,6 +405924,11 @@
     <phone_code>222</phone_code>
     <capital>Nouakchott</capital>
     <currency>MRO</currency>
+    <native>موريتانيا</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇲🇷</emoji>
+    <emojiU>U+1F1F2 U+1F1F7</emojiU>
     <states>
       <id>3344</id>
       <name>Adrar Region</name>
@@ -405392,6 +406107,11 @@
     <phone_code>230</phone_code>
     <capital>Port Louis</capital>
     <currency>MUR</currency>
+    <native>Maurice</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇲🇺</emoji>
+    <emojiU>U+1F1F2 U+1F1FA</emojiU>
     <states>
       <id>3248</id>
       <name>Agaléga</name>
@@ -406073,6 +406793,11 @@
     <phone_code>262</phone_code>
     <capital>Mamoudzou</capital>
     <currency>EUR</currency>
+    <native>Mayotte</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇾🇹</emoji>
+    <emojiU>U+1F1FE U+1F1F9</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -406083,6 +406808,11 @@
     <phone_code>52</phone_code>
     <capital>Mexico City</capital>
     <currency>MXN</currency>
+    <native>México</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <emoji>🇲🇽</emoji>
+    <emojiU>U+1F1F2 U+1F1FD</emojiU>
     <states>
       <id>3456</id>
       <name>Aguascalientes</name>
@@ -461602,6 +462332,11 @@
     <phone_code>691</phone_code>
     <capital>Palikir</capital>
     <currency>USD</currency>
+    <native>Micronesia</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <emoji>🇫🇲</emoji>
+    <emojiU>U+1F1EB U+1F1F2</emojiU>
     <states>
       <id>2580</id>
       <name>Chuuk State</name>
@@ -462117,6 +462852,11 @@
     <phone_code>373</phone_code>
     <capital>Chisinau</capital>
     <currency>MDL</currency>
+    <native>Moldova</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <emoji>🇲🇩</emoji>
+    <emojiU>U+1F1F2 U+1F1E9</emojiU>
     <states>
       <id>4368</id>
       <name>Anenii Noi District</name>
@@ -462738,6 +463478,11 @@
     <phone_code>377</phone_code>
     <capital>Monaco</capital>
     <currency>EUR</currency>
+    <native>Monaco</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <emoji>🇲🇨</emoji>
+    <emojiU>U+1F1F2 U+1F1E8</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -462748,6 +463493,11 @@
     <phone_code>976</phone_code>
     <capital>Ulan Bator</capital>
     <currency>MNT</currency>
+    <native>Монгол улс</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <emoji>🇲🇳</emoji>
+    <emojiU>U+1F1F2 U+1F1F3</emojiU>
     <states>
       <id>1973</id>
       <name>Arkhangai Province</name>
@@ -463091,6 +463841,11 @@
     <phone_code>382</phone_code>
     <capital>Podgorica</capital>
     <currency>EUR</currency>
+    <native>Црна Гора</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇲🇪</emoji>
+    <emojiU>U+1F1F2 U+1F1EA</emojiU>
     <states>
       <id>23</id>
       <name>Andrijevica Municipality</name>
@@ -463415,6 +464170,11 @@
     <phone_code>+1-664</phone_code>
     <capital>Plymouth</capital>
     <currency>XCD</currency>
+    <native>Montserrat</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇲🇸</emoji>
+    <emojiU>U+1F1F2 U+1F1F8</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -463425,6 +464185,11 @@
     <phone_code>212</phone_code>
     <capital>Rabat</capital>
     <currency>MAD</currency>
+    <native>المغرب</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <emoji>🇲🇦</emoji>
+    <emojiU>U+1F1F2 U+1F1E6</emojiU>
     <states>
       <id>3320</id>
       <name>Al Haouz Province</name>
@@ -465156,6 +465921,11 @@
     <phone_code>258</phone_code>
     <capital>Maputo</capital>
     <currency>MZN</currency>
+    <native>Moçambique</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇲🇿</emoji>
+    <emojiU>U+1F1F2 U+1F1FF</emojiU>
     <states>
       <id>3327</id>
       <name>Cabo Delgado Province</name>
@@ -465448,6 +466218,11 @@
     <phone_code>95</phone_code>
     <capital>Nay Pyi Taw</capital>
     <currency>MMK</currency>
+    <native>မြန်မာ</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <emoji>🇲🇲</emoji>
+    <emojiU>U+1F1F2 U+1F1F2</emojiU>
     <states>
       <id>2142</id>
       <name>Ayeyarwady Region</name>
@@ -465976,6 +466751,11 @@
     <phone_code>264</phone_code>
     <capital>Windhoek</capital>
     <currency>NAD</currency>
+    <native>Namibia</native>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <emoji>🇳🇦</emoji>
+    <emojiU>U+1F1F3 U+1F1E6</emojiU>
     <states>
       <id>43</id>
       <name>Erongo Region</name>
@@ -466344,6 +467124,11 @@
     <phone_code>674</phone_code>
     <capital>Yaren</capital>
     <currency>AUD</currency>
+    <native>Nauru</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <emoji>🇳🇷</emoji>
+    <emojiU>U+1F1F3 U+1F1F7</emojiU>
     <states>
       <id>4656</id>
       <name>Aiwo District</name>
@@ -466472,6 +467257,11 @@
     <phone_code>977</phone_code>
     <capital>Kathmandu</capital>
     <currency>NPR</currency>
+    <native>नपल</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <emoji>🇳🇵</emoji>
+    <emojiU>U+1F1F3 U+1F1F5</emojiU>
     <states>
       <id>2082</id>
       <name>Bagmati Zone</name>
@@ -466926,6 +467716,11 @@
     <phone_code></phone_code>
     <capital></capital>
     <currency></currency>
+    <native></native>
+    <region></region>
+    <subregion></subregion>
+    <emoji></emoji>
+    <emojiU></emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -466936,6 +467731,11 @@
     <phone_code>31</phone_code>
     <capital>Amsterdam</capital>
     <currency>EUR</currency>
+    <native>Nederland</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <emoji>🇳🇱</emoji>
+    <emojiU>U+1F1F3 U+1F1F1</emojiU>
     <states>
       <id>2624</id>
       <name>Bonaire</name>
@@ -477463,6 +478263,11 @@
     <phone_code>687</phone_code>
     <capital>Noumea</capital>
     <currency>XPF</currency>
+    <native>Nouvelle-Calédonie</native>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <emoji>🇳🇨</emoji>
+    <emojiU>U+1F1F3 U+1F1E8</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -477473,6 +478278,11 @@
     <phone_code>64</phone_code>
     <capital>Wellington</capital>
     <currency>NZD</currency>
+    <native>New Zealand</native>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <emoji>🇳🇿</emoji>
+    <emojiU>U+1F1F3 U+1F1FF</emojiU>
     <states>
       <id>4072</id>
       <name>Auckland Region</name>
@@ -478515,6 +479325,11 @@
     <phone_code>505</phone_code>
     <capital>Managua</capital>
     <currency>NIO</currency>
+    <native>Nicaragua</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <emoji>🇳🇮</emoji>
+    <emojiU>U+1F1F3 U+1F1EE</emojiU>
     <states>
       <id>946</id>
       <name>Boaco Department</name>
@@ -479462,6 +480277,11 @@
     <phone_code>227</phone_code>
     <capital>Niamey</capital>
     <currency>XOF</currency>
+    <native>Niger</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇳🇪</emoji>
+    <emojiU>U+1F1F3 U+1F1EA</emojiU>
     <states>
       <id>71</id>
       <name>Agadez Region</name>
@@ -479926,6 +480746,11 @@
     <phone_code>234</phone_code>
     <capital>Abuja</capital>
     <currency>NGN</currency>
+    <native>Nigeria</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇳🇬</emoji>
+    <emojiU>U+1F1F3 U+1F1EC</emojiU>
     <states>
       <id>303</id>
       <name>Abia State</name>
@@ -482575,6 +483400,11 @@
     <phone_code>683</phone_code>
     <capital>Alofi</capital>
     <currency>NZD</currency>
+    <native>Niuē</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <emoji>🇳🇺</emoji>
+    <emojiU>U+1F1F3 U+1F1FA</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -482585,6 +483415,11 @@
     <phone_code>672</phone_code>
     <capital>Kingston</capital>
     <currency>AUD</currency>
+    <native>Norfolk Island</native>
+    <region>Oceania</region>
+    <subregion>Australia and New Zealand</subregion>
+    <emoji>🇳🇫</emoji>
+    <emojiU>U+1F1F3 U+1F1EB</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -482595,6 +483430,11 @@
     <phone_code>+1-670</phone_code>
     <capital>Saipan</capital>
     <currency>USD</currency>
+    <native>Northern Mariana Islands</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <emoji>🇲🇵</emoji>
+    <emojiU>U+1F1F2 U+1F1F5</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -482605,6 +483445,11 @@
     <phone_code>47</phone_code>
     <capital>Oslo</capital>
     <currency>NOK</currency>
+    <native>Norge</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇳🇴</emoji>
+    <emojiU>U+1F1F3 U+1F1F4</emojiU>
     <states>
       <id>1017</id>
       <name>Akershus</name>
@@ -486731,6 +487576,11 @@
     <phone_code>968</phone_code>
     <capital>Muscat</capital>
     <currency>OMR</currency>
+    <native>عمان</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇴🇲</emoji>
+    <emojiU>U+1F1F4 U+1F1F2</emojiU>
     <states>
       <id>3058</id>
       <name>Ad Dakhiliyah Governorate</name>
@@ -486976,6 +487826,11 @@
     <phone_code>92</phone_code>
     <capital>Islamabad</capital>
     <currency>PKR</currency>
+    <native>Pakistan</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <emoji>🇵🇰</emoji>
+    <emojiU>U+1F1F5 U+1F1F0</emojiU>
     <states>
       <id>3172</id>
       <name>Azad Kashmir</name>
@@ -489773,6 +490628,11 @@
     <phone_code>680</phone_code>
     <capital>Melekeok</capital>
     <currency>USD</currency>
+    <native>Palau</native>
+    <region>Oceania</region>
+    <subregion>Micronesia</subregion>
+    <emoji>🇵🇼</emoji>
+    <emojiU>U+1F1F5 U+1F1FC</emojiU>
     <states>
       <id>4540</id>
       <name>Aimeliik</name>
@@ -489959,6 +490819,11 @@
     <phone_code>970</phone_code>
     <capital>East Jerusalem</capital>
     <currency>ILS</currency>
+    <native>فلسطين</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇵🇸</emoji>
+    <emojiU>U+1F1F5 U+1F1F8</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -489969,6 +490834,11 @@
     <phone_code>507</phone_code>
     <capital>Panama City</capital>
     <currency>PAB</currency>
+    <native>Panamá</native>
+    <region>Americas</region>
+    <subregion>Central America</subregion>
+    <emoji>🇵🇦</emoji>
+    <emojiU>U+1F1F5 U+1F1E6</emojiU>
     <states>
       <id>1393</id>
       <name>Bocas del Toro Province</name>
@@ -493643,6 +494513,11 @@
     <phone_code>675</phone_code>
     <capital>Port Moresby</capital>
     <currency>PGK</currency>
+    <native>Papua Niugini</native>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <emoji>🇵🇬</emoji>
+    <emojiU>U+1F1F5 U+1F1EC</emojiU>
     <states>
       <id>4831</id>
       <name>Bougainville</name>
@@ -494363,6 +495238,11 @@
     <phone_code>595</phone_code>
     <capital>Asuncion</capital>
     <currency>PYG</currency>
+    <native>Paraguay</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇵🇾</emoji>
+    <emojiU>U+1F1F5 U+1F1FE</emojiU>
     <states>
       <id>2785</id>
       <name>Alto Paraguay Department</name>
@@ -495297,6 +496177,11 @@
     <phone_code>51</phone_code>
     <capital>Lima</capital>
     <currency>PEN</currency>
+    <native>Perú</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇵🇪</emoji>
+    <emojiU>U+1F1F5 U+1F1EA</emojiU>
     <states>
       <id>3685</id>
       <name>Amazonas</name>
@@ -498246,6 +499131,11 @@
     <phone_code>63</phone_code>
     <capital>Manila</capital>
     <currency>PHP</currency>
+    <native>Pilipinas</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <emoji>🇵🇭</emoji>
+    <emojiU>U+1F1F5 U+1F1ED</emojiU>
     <states>
       <id>1324</id>
       <name>Abra</name>
@@ -537349,6 +538239,11 @@
     <phone_code>870</phone_code>
     <capital>Adamstown</capital>
     <currency>NZD</currency>
+    <native>Pitcairn Islands</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <emoji>🇵🇳</emoji>
+    <emojiU>U+1F1F5 U+1F1F3</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -537359,6 +538254,11 @@
     <phone_code>48</phone_code>
     <capital>Warsaw</capital>
     <currency>PLN</currency>
+    <native>Polska</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <emoji>🇵🇱</emoji>
+    <emojiU>U+1F1F5 U+1F1F1</emojiU>
     <states>
       <id>1634</id>
       <name>Greater Poland Voivodeship</name>
@@ -556228,6 +557128,11 @@
     <phone_code>351</phone_code>
     <capital>Lisbon</capital>
     <currency>EUR</currency>
+    <native>Portugal</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇵🇹</emoji>
+    <emojiU>U+1F1F5 U+1F1F9</emojiU>
     <states>
       <id>2235</id>
       <name>Aveiro District</name>
@@ -564257,6 +565162,11 @@
     <phone_code>+1-787 and 1-939</phone_code>
     <capital>San Juan</capital>
     <currency>USD</currency>
+    <native>Puerto Rico</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇵🇷</emoji>
+    <emojiU>U+1F1F5 U+1F1F7</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -564267,6 +565177,11 @@
     <phone_code>974</phone_code>
     <capital>Doha</capital>
     <currency>QAR</currency>
+    <native>قطر</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇶🇦</emoji>
+    <emojiU>U+1F1F6 U+1F1E6</emojiU>
     <states>
       <id>3182</id>
       <name>Al Daayen</name>
@@ -564407,6 +565322,11 @@
     <phone_code>262</phone_code>
     <capital>Saint-Denis</capital>
     <currency>EUR</currency>
+    <native>La Réunion</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇷🇪</emoji>
+    <emojiU>U+1F1F7 U+1F1EA</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -564417,6 +565337,11 @@
     <phone_code>40</phone_code>
     <capital>Bucharest</capital>
     <currency>RON</currency>
+    <native>România</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <emoji>🇷🇴</emoji>
+    <emojiU>U+1F1F7 U+1F1F4</emojiU>
     <states>
       <id>4724</id>
       <name>Alba</name>
@@ -609457,6 +610382,11 @@
     <phone_code>7</phone_code>
     <capital>Moscow</capital>
     <currency>RUB</currency>
+    <native>Россия</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <emoji>🇷🇺</emoji>
+    <emojiU>U+1F1F7 U+1F1FA</emojiU>
     <states>
       <id>1911</id>
       <name>Altai Krai</name>
@@ -642660,6 +643590,11 @@
     <phone_code>250</phone_code>
     <capital>Kigali</capital>
     <currency>RWF</currency>
+    <native>Rwanda</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇷🇼</emoji>
+    <emojiU>U+1F1F7 U+1F1FC</emojiU>
     <states>
       <id>261</id>
       <name>Eastern Province</name>
@@ -642766,6 +643701,11 @@
     <phone_code>290</phone_code>
     <capital>Jamestown</capital>
     <currency>SHP</currency>
+    <native>Saint Helena</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇸🇭</emoji>
+    <emojiU>U+1F1F8 U+1F1ED</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -642776,6 +643716,11 @@
     <phone_code>+1-869</phone_code>
     <capital>Basseterre</capital>
     <currency>XCD</currency>
+    <native>Saint Kitts and Nevis</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇰🇳</emoji>
+    <emojiU>U+1F1F0 U+1F1F3</emojiU>
     <states>
       <id>3833</id>
       <name>Christ Church Nichola Town Parish</name>
@@ -642940,6 +643885,11 @@
     <phone_code>+1-758</phone_code>
     <capital>Castries</capital>
     <currency>XCD</currency>
+    <native>Saint Lucia</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇱🇨</emoji>
+    <emojiU>U+1F1F1 U+1F1E8</emojiU>
     <states>
       <id>3757</id>
       <name>Anse la Raye Quarter</name>
@@ -645897,6 +646847,11 @@
     <phone_code>508</phone_code>
     <capital>Saint-Pierre</capital>
     <currency>EUR</currency>
+    <native>Saint-Pierre-et-Miquelon</native>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <emoji>🇵🇲</emoji>
+    <emojiU>U+1F1F5 U+1F1F2</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -645907,6 +646862,11 @@
     <phone_code>+1-784</phone_code>
     <capital>Kingstown</capital>
     <currency>XCD</currency>
+    <native>Saint Vincent and the Grenadines</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇻🇨</emoji>
+    <emojiU>U+1F1FB U+1F1E8</emojiU>
     <states>
       <id>3389</id>
       <name>Charlotte Parish</name>
@@ -646000,6 +646960,11 @@
     <phone_code>590</phone_code>
     <capital>Gustavia</capital>
     <currency>EUR</currency>
+    <native>Saint-Barthélemy</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇧🇱</emoji>
+    <emojiU>U+1F1E7 U+1F1F1</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -646010,6 +646975,11 @@
     <phone_code>590</phone_code>
     <capital>Marigot</capital>
     <currency>EUR</currency>
+    <native>Saint-Martin</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇲🇫</emoji>
+    <emojiU>U+1F1F2 U+1F1EB</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -646020,6 +646990,11 @@
     <phone_code>685</phone_code>
     <capital>Apia</capital>
     <currency>WST</currency>
+    <native>Samoa</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <emoji>🇼🇸</emoji>
+    <emojiU>U+1F1FC U+1F1F8</emojiU>
     <states>
       <id>4763</id>
       <name>A'ana</name>
@@ -646207,6 +647182,11 @@
     <phone_code>378</phone_code>
     <capital>San Marino</capital>
     <currency>EUR</currency>
+    <native>San Marino</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇸🇲</emoji>
+    <emojiU>U+1F1F8 U+1F1F2</emojiU>
     <states>
       <id>59</id>
       <name>Acquaviva</name>
@@ -646315,6 +647295,11 @@
     <phone_code>239</phone_code>
     <capital>Sao Tome</capital>
     <currency>STD</currency>
+    <native>São Tomé e Príncipe</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <emoji>🇸🇹</emoji>
+    <emojiU>U+1F1F8 U+1F1F9</emojiU>
     <states>
       <id>270</id>
       <name>Príncipe Province</name>
@@ -646364,6 +647349,11 @@
     <phone_code>966</phone_code>
     <capital>Riyadh</capital>
     <currency>SAR</currency>
+    <native>العربية السعودية</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇸🇦</emoji>
+    <emojiU>U+1F1F8 U+1F1E6</emojiU>
     <states>
       <id>2853</id>
       <name>'Asir Region</name>
@@ -647008,6 +647998,11 @@
     <phone_code>221</phone_code>
     <capital>Dakar</capital>
     <currency>XOF</currency>
+    <native>Sénégal</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇸🇳</emoji>
+    <emojiU>U+1F1F8 U+1F1F3</emojiU>
     <states>
       <id>473</id>
       <name>Dakar</name>
@@ -647525,6 +648520,11 @@
     <phone_code>381</phone_code>
     <capital>Belgrade</capital>
     <currency>RSD</currency>
+    <native>Србија</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇷🇸</emoji>
+    <emojiU>U+1F1F7 U+1F1F8</emojiU>
     <states>
       <id>3728</id>
       <name>Belgrade</name>
@@ -649692,6 +650692,11 @@
     <phone_code>248</phone_code>
     <capital>Victoria</capital>
     <currency>SCR</currency>
+    <native>Seychelles</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇸🇨</emoji>
+    <emojiU>U+1F1F8 U+1F1E8</emojiU>
     <states>
       <id>513</id>
       <name>Anse Boileau</name>
@@ -649885,6 +650890,11 @@
     <phone_code>232</phone_code>
     <capital>Freetown</capital>
     <currency>SLL</currency>
+    <native>Sierra Leone</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇸🇱</emoji>
+    <emojiU>U+1F1F8 U+1F1F1</emojiU>
     <states>
       <id>914</id>
       <name>Eastern Province</name>
@@ -650454,6 +651464,11 @@
     <phone_code>65</phone_code>
     <capital>Singapur</capital>
     <currency>SGD</currency>
+    <native>Singapore</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <emoji>🇸🇬</emoji>
+    <emojiU>U+1F1F8 U+1F1EC</emojiU>
     <states>
       <id>4651</id>
       <name>Central Singapore Community Development Council</name>
@@ -650503,6 +651518,11 @@
     <phone_code>421</phone_code>
     <capital>Bratislava</capital>
     <currency>EUR</currency>
+    <native>Slovensko</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <emoji>🇸🇰</emoji>
+    <emojiU>U+1F1F8 U+1F1F0</emojiU>
     <states>
       <id>4352</id>
       <name>Banská Bystrica Region</name>
@@ -651950,6 +652970,11 @@
     <phone_code>386</phone_code>
     <capital>Ljubljana</capital>
     <currency>EUR</currency>
+    <native>Slovenija</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇸🇮</emoji>
+    <emojiU>U+1F1F8 U+1F1EE</emojiU>
     <states>
       <id>4183</id>
       <name>Ajdovščina Municipality</name>
@@ -654890,6 +655915,11 @@
     <phone_code>677</phone_code>
     <capital>Honiara</capital>
     <currency>SBD</currency>
+    <native>Solomon Islands</native>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <emoji>🇸🇧</emoji>
+    <emojiU>U+1F1F8 U+1F1E7</emojiU>
     <states>
       <id>4784</id>
       <name>Central Province</name>
@@ -654994,6 +656024,11 @@
     <phone_code>252</phone_code>
     <capital>Mogadishu</capital>
     <currency>SOS</currency>
+    <native>Soomaaliya</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇸🇴</emoji>
+    <emojiU>U+1F1F8 U+1F1F4</emojiU>
     <states>
       <id>925</id>
       <name>Awdal Region</name>
@@ -655360,6 +656395,11 @@
     <phone_code>27</phone_code>
     <capital>Pretoria</capital>
     <currency>ZAR</currency>
+    <native>South Africa</native>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <emoji>🇿🇦</emoji>
+    <emojiU>U+1F1FF U+1F1E6</emojiU>
     <states>
       <id>938</id>
       <name>Eastern Cape</name>
@@ -657298,6 +658338,11 @@
     <phone_code></phone_code>
     <capital>Grytviken</capital>
     <currency>GBP</currency>
+    <native>South Georgia</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇬🇸</emoji>
+    <emojiU>U+1F1EC U+1F1F8</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -657308,6 +658353,11 @@
     <phone_code>211</phone_code>
     <capital>Juba</capital>
     <currency>SSP</currency>
+    <native>South Sudan</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <emoji>🇸🇸</emoji>
+    <emojiU>U+1F1F8 U+1F1F8</emojiU>
     <states>
       <id>2092</id>
       <name>Central Equatoria</name>
@@ -657382,6 +658432,11 @@
     <phone_code>34</phone_code>
     <capital>Madrid</capital>
     <currency>EUR</currency>
+    <native>España</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇪🇸</emoji>
+    <emojiU>U+1F1EA U+1F1F8</emojiU>
     <states>
       <id>1179</id>
       <name>A Coruña Province</name>
@@ -697915,6 +698970,11 @@
     <phone_code>94</phone_code>
     <capital>Colombo</capital>
     <currency>LKR</currency>
+    <native>śrī laṃkāva</native>
+    <region>Asia</region>
+    <subregion>Southern Asia</subregion>
+    <emoji>🇱🇰</emoji>
+    <emojiU>U+1F1F1 U+1F1F0</emojiU>
     <states>
       <id>2799</id>
       <name>Ampara District</name>
@@ -698701,6 +699761,11 @@
     <phone_code>249</phone_code>
     <capital>Khartoum</capital>
     <currency>SDG</currency>
+    <native>السودان</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <emoji>🇸🇩</emoji>
+    <emojiU>U+1F1F8 U+1F1E9</emojiU>
     <states>
       <id>885</id>
       <name>Al Jazirah</name>
@@ -699226,6 +700291,11 @@
     <phone_code>597</phone_code>
     <capital>Paramaribo</capital>
     <currency>SRD</currency>
+    <native>Suriname</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇸🇷</emoji>
+    <emojiU>U+1F1F8 U+1F1F7</emojiU>
     <states>
       <id>2846</id>
       <name>Brokopondo District</name>
@@ -699364,6 +700434,11 @@
     <phone_code>47</phone_code>
     <capital>Longyearbyen</capital>
     <currency>NOK</currency>
+    <native>Svalbard og Jan Mayen</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇸🇯</emoji>
+    <emojiU>U+1F1F8 U+1F1EF</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -699374,6 +700449,11 @@
     <phone_code>268</phone_code>
     <capital>Mbabane</capital>
     <currency>SZL</currency>
+    <native>Swaziland</native>
+    <region>Africa</region>
+    <subregion>Southern Africa</subregion>
+    <emoji>🇸🇿</emoji>
+    <emojiU>U+1F1F8 U+1F1FF</emojiU>
     <states>
       <id>969</id>
       <name>Hhohho District</name>
@@ -699607,6 +700687,11 @@
     <phone_code>46</phone_code>
     <capital>Stockholm</capital>
     <currency>SEK</currency>
+    <native>Sverige</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇸🇪</emoji>
+    <emojiU>U+1F1F8 U+1F1EA</emojiU>
     <states>
       <id>1537</id>
       <name>Blekinge</name>
@@ -706148,6 +707233,11 @@
     <phone_code>41</phone_code>
     <capital>Berne</capital>
     <currency>CHF</currency>
+    <native>Schweiz</native>
+    <region>Europe</region>
+    <subregion>Western Europe</subregion>
+    <emoji>🇨🇭</emoji>
+    <emojiU>U+1F1E8 U+1F1ED</emojiU>
     <states>
       <id>1639</id>
       <name>Aargau</name>
@@ -715300,6 +716390,11 @@
     <phone_code>963</phone_code>
     <capital>Damascus</capital>
     <currency>SYP</currency>
+    <native>سوريا</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇸🇾</emoji>
+    <emojiU>U+1F1F8 U+1F1FE</emojiU>
     <states>
       <id>2941</id>
       <name>Al-Hasakah Governorate</name>
@@ -716231,6 +717326,11 @@
     <phone_code>886</phone_code>
     <capital>Taipei</capital>
     <currency>TWD</currency>
+    <native>臺灣</native>
+    <region>Asia</region>
+    <subregion>Eastern Asia</subregion>
+    <emoji>🇹🇼</emoji>
+    <emojiU>U+1F1F9 U+1F1FC</emojiU>
     <states>
       <id>3404</id>
       <name>Changhua County</name>
@@ -716598,6 +717698,11 @@
     <phone_code>992</phone_code>
     <capital>Dushanbe</capital>
     <currency>TJS</currency>
+    <native>Тоҷикистон</native>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <emoji>🇹🇯</emoji>
+    <emojiU>U+1F1F9 U+1F1EF</emojiU>
     <states>
       <id>3397</id>
       <name>districts of Republican Subordination</name>
@@ -717047,6 +718152,11 @@
     <phone_code>255</phone_code>
     <capital>Dodoma</capital>
     <currency>TZS</currency>
+    <native>Tanzania</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇹🇿</emoji>
+    <emojiU>U+1F1F9 U+1F1FF</emojiU>
     <states>
       <id>1491</id>
       <name>Arusha Region</name>
@@ -718779,6 +719889,11 @@
     <phone_code>66</phone_code>
     <capital>Bangkok</capital>
     <currency>THB</currency>
+    <native>ประเทศไทย</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <emoji>🇹🇭</emoji>
+    <emojiU>U+1F1F9 U+1F1ED</emojiU>
     <states>
       <id>3523</id>
       <name>Amnat Charoen</name>
@@ -726578,6 +727693,11 @@
     <phone_code>228</phone_code>
     <capital>Lome</capital>
     <currency>XOF</currency>
+    <native>Togo</native>
+    <region>Africa</region>
+    <subregion>Western Africa</subregion>
+    <emoji>🇹🇬</emoji>
+    <emojiU>U+1F1F9 U+1F1EC</emojiU>
     <states>
       <id>2575</id>
       <name>Centrale Region</name>
@@ -726744,6 +727864,11 @@
     <phone_code>690</phone_code>
     <capital></capital>
     <currency>NZD</currency>
+    <native>Tokelau</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <emoji>🇹🇰</emoji>
+    <emojiU>U+1F1F9 U+1F1F0</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -726754,6 +727879,11 @@
     <phone_code>676</phone_code>
     <capital>Nuku'alofa</capital>
     <currency>TOP</currency>
+    <native>Tonga</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <emoji>🇹🇴</emoji>
+    <emojiU>U+1F1F9 U+1F1F4</emojiU>
     <states>
       <id>3913</id>
       <name>Haʻapai</name>
@@ -726836,6 +727966,11 @@
     <phone_code>+1-868</phone_code>
     <capital>Port of Spain</capital>
     <currency>TTD</currency>
+    <native>Trinidad and Tobago</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇹🇹</emoji>
+    <emojiU>U+1F1F9 U+1F1F9</emojiU>
     <states>
       <id>3362</id>
       <name>Arima</name>
@@ -727076,6 +728211,11 @@
     <phone_code>216</phone_code>
     <capital>Tunis</capital>
     <currency>TND</currency>
+    <native>تونس</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <emoji>🇹🇳</emoji>
+    <emojiU>U+1F1F9 U+1F1F3</emojiU>
     <states>
       <id>2550</id>
       <name>Ariana Governorate</name>
@@ -728004,6 +729144,11 @@
     <phone_code>90</phone_code>
     <capital>Ankara</capital>
     <currency>TRY</currency>
+    <native>Türkiye</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇹🇷</emoji>
+    <emojiU>U+1F1F9 U+1F1F7</emojiU>
     <states>
       <id>2212</id>
       <name>Adana Province</name>
@@ -739986,6 +741131,11 @@
     <phone_code>993</phone_code>
     <capital>Ashgabat</capital>
     <currency>TMT</currency>
+    <native>Türkmenistan</native>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <emoji>🇹🇲</emoji>
+    <emojiU>U+1F1F9 U+1F1F2</emojiU>
     <states>
       <id>3374</id>
       <name>Ahal Region</name>
@@ -740205,6 +741355,11 @@
     <phone_code>+1-649</phone_code>
     <capital>Cockburn Town</capital>
     <currency>USD</currency>
+    <native>Turks and Caicos Islands</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇹🇨</emoji>
+    <emojiU>U+1F1F9 U+1F1E8</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -740215,6 +741370,11 @@
     <phone_code>688</phone_code>
     <capital>Funafuti</capital>
     <currency>AUD</currency>
+    <native>Tuvalu</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <emoji>🇹🇻</emoji>
+    <emojiU>U+1F1F9 U+1F1FB</emojiU>
     <states>
       <id>3951</id>
       <name>Funafuti</name>
@@ -740320,6 +741480,11 @@
     <phone_code>256</phone_code>
     <capital>Kampala</capital>
     <currency>UGX</currency>
+    <native>Uganda</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇺🇬</emoji>
+    <emojiU>U+1F1FA U+1F1EC</emojiU>
     <states>
       <id>329</id>
       <name>Abim District</name>
@@ -741621,6 +742786,11 @@
     <phone_code>380</phone_code>
     <capital>Kiev</capital>
     <currency>UAH</currency>
+    <native>Україна</native>
+    <region>Europe</region>
+    <subregion>Eastern Europe</subregion>
+    <emoji>🇺🇦</emoji>
+    <emojiU>U+1F1FA U+1F1E6</emojiU>
     <states>
       <id>4689</id>
       <name>Autonomous Republic of Crimea</name>
@@ -751169,6 +752339,11 @@
     <phone_code>971</phone_code>
     <capital>Abu Dhabi</capital>
     <currency>AED</currency>
+    <native>دولة الإمارات العربية المتحدة</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇦🇪</emoji>
+    <emojiU>U+1F1E6 U+1F1EA</emojiU>
     <states>
       <id>3396</id>
       <name>Abu Dhabi Emirate</name>
@@ -751447,6 +752622,11 @@
     <phone_code>44</phone_code>
     <capital>London</capital>
     <currency>GBP</currency>
+    <native>United Kingdom</native>
+    <region>Europe</region>
+    <subregion>Northern Europe</subregion>
+    <emoji>🇬🇧</emoji>
+    <emojiU>U+1F1EC U+1F1E7</emojiU>
     <states>
       <id>2463</id>
       <name>Aberdeen</name>
@@ -776160,6 +777340,11 @@
     <phone_code>1</phone_code>
     <capital>Washington</capital>
     <currency>USD</currency>
+    <native>United States</native>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <emoji>🇺🇸</emoji>
+    <emojiU>U+1F1FA U+1F1F8</emojiU>
     <states>
       <id>1456</id>
       <name>Alabama</name>
@@ -895415,6 +896600,11 @@
     <phone_code>1</phone_code>
     <capital></capital>
     <currency>USD</currency>
+    <native>United States Minor Outlying Islands</native>
+    <region>Americas</region>
+    <subregion>Northern America</subregion>
+    <emoji>🇺🇲</emoji>
+    <emojiU>U+1F1FA U+1F1F2</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -895425,6 +896615,11 @@
     <phone_code>598</phone_code>
     <capital>Montevideo</capital>
     <currency>UYU</currency>
+    <native>Uruguay</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇺🇾</emoji>
+    <emojiU>U+1F1FA U+1F1FE</emojiU>
     <states>
       <id>3205</id>
       <name>Artigas Department</name>
@@ -896267,6 +897462,11 @@
     <phone_code>998</phone_code>
     <capital>Tashkent</capital>
     <currency>UZS</currency>
+    <native>O‘zbekiston</native>
+    <region>Asia</region>
+    <subregion>Central Asia</subregion>
+    <emoji>🇺🇿</emoji>
+    <emojiU>U+1F1FA U+1F1FF</emojiU>
     <states>
       <id>2540</id>
       <name>Andijan Region</name>
@@ -897156,6 +898356,11 @@
     <phone_code>678</phone_code>
     <capital>Port Vila</capital>
     <currency>VUV</currency>
+    <native>Vanuatu</native>
+    <region>Oceania</region>
+    <subregion>Melanesia</subregion>
+    <emoji>🇻🇺</emoji>
+    <emojiU>U+1F1FB U+1F1FA</emojiU>
     <states>
       <id>4775</id>
       <name>Malampa</name>
@@ -897238,6 +898443,11 @@
     <phone_code>379</phone_code>
     <capital>Vatican City</capital>
     <currency>EUR</currency>
+    <native>Vaticano</native>
+    <region>Europe</region>
+    <subregion>Southern Europe</subregion>
+    <emoji>🇻🇦</emoji>
+    <emojiU>U+1F1FB U+1F1E6</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -897248,6 +898458,11 @@
     <phone_code>58</phone_code>
     <capital>Caracas</capital>
     <currency>VEF</currency>
+    <native>Venezuela</native>
+    <region>Americas</region>
+    <subregion>South America</subregion>
+    <emoji>🇻🇪</emoji>
+    <emojiU>U+1F1FB U+1F1EA</emojiU>
     <states>
       <id>2044</id>
       <name>Amazonas</name>
@@ -898189,6 +899404,11 @@
     <phone_code>84</phone_code>
     <capital>Hanoi</capital>
     <currency>VND</currency>
+    <native>Việt Nam</native>
+    <region>Asia</region>
+    <subregion>South-Eastern Asia</subregion>
+    <emoji>🇻🇳</emoji>
+    <emojiU>U+1F1FB U+1F1F3</emojiU>
     <states>
       <id>3794</id>
       <name>An Giang</name>
@@ -901297,6 +902517,11 @@
     <phone_code>+1-284</phone_code>
     <capital>Road Town</capital>
     <currency>USD</currency>
+    <native>British Virgin Islands</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇻🇬</emoji>
+    <emojiU>U+1F1FB U+1F1EC</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -901307,6 +902532,11 @@
     <phone_code>+1-340</phone_code>
     <capital>Charlotte Amalie</capital>
     <currency>USD</currency>
+    <native>United States Virgin Islands</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <emoji>🇻🇮</emoji>
+    <emojiU>U+1F1FB U+1F1EE</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -901317,6 +902547,11 @@
     <phone_code>681</phone_code>
     <capital>Mata Utu</capital>
     <currency>XPF</currency>
+    <native>Wallis et Futuna</native>
+    <region>Oceania</region>
+    <subregion>Polynesia</subregion>
+    <emoji>🇼🇫</emoji>
+    <emojiU>U+1F1FC U+1F1EB</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -901327,6 +902562,11 @@
     <phone_code>212</phone_code>
     <capital>El-Aaiun</capital>
     <currency>MAD</currency>
+    <native>الصحراء الغربية</native>
+    <region>Africa</region>
+    <subregion>Northern Africa</subregion>
+    <emoji>🇪🇭</emoji>
+    <emojiU>U+1F1EA U+1F1ED</emojiU>
     <states/>
   </country_state_city>
   <country_state_city>
@@ -901337,6 +902577,11 @@
     <phone_code>967</phone_code>
     <capital>Sanaa</capital>
     <currency>YER</currency>
+    <native>اليَمَن</native>
+    <region>Asia</region>
+    <subregion>Western Asia</subregion>
+    <emoji>🇾🇪</emoji>
+    <emojiU>U+1F1FE U+1F1EA</emojiU>
     <states>
       <id>1242</id>
       <name>'Adan Governorate</name>
@@ -903564,6 +904809,11 @@
     <phone_code>260</phone_code>
     <capital>Lusaka</capital>
     <currency>ZMW</currency>
+    <native>Zambia</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇿🇲</emoji>
+    <emojiU>U+1F1FF U+1F1F2</emojiU>
     <states>
       <id>1986</id>
       <name>Central Province</name>
@@ -904049,6 +905299,11 @@
     <phone_code>263</phone_code>
     <capital>Harare</capital>
     <currency>ZWL</currency>
+    <native>Zimbabwe</native>
+    <region>Africa</region>
+    <subregion>Eastern Africa</subregion>
+    <emoji>🇿🇼</emoji>
+    <emojiU>U+1F1FF U+1F1FC</emojiU>
     <states>
       <id>1956</id>
       <name>Bulawayo Province</name>
