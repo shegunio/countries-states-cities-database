@@ -11,6 +11,13 @@
     <native>افغانستان</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Kabul</zoneName>
+      <gmtOffset>16200</gmtOffset>
+      <gmtOffsetName>UTC+04:30</gmtOffsetName>
+      <abbreviation>AFT</abbreviation>
+      <tzName>Afghanistan Time</tzName>
+    </timezones>
     <emoji>🇦🇫</emoji>
     <emojiU>U+1F1E6 U+1F1EB</emojiU>
     <states>
@@ -742,6 +749,13 @@
     <native>Åland</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Mariehamn</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇦🇽</emoji>
     <emojiU>U+1F1E6 U+1F1FD</emojiU>
     <states/>
@@ -757,6 +771,13 @@
     <native>Shqipëria</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Tirane</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇦🇱</emoji>
     <emojiU>U+1F1E6 U+1F1F1</emojiU>
     <states>
@@ -1822,6 +1843,13 @@
     <native>الجزائر</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Algiers</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇩🇿</emoji>
     <emojiU>U+1F1E9 U+1F1FF</emojiU>
     <states>
@@ -3589,6 +3617,13 @@
     <native>American Samoa</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Pago_Pago</zoneName>
+      <gmtOffset>-39600</gmtOffset>
+      <gmtOffsetName>UTC-11:00</gmtOffsetName>
+      <abbreviation>SST</abbreviation>
+      <tzName>Samoa Standard Time</tzName>
+    </timezones>
     <emoji>🇦🇸</emoji>
     <emojiU>U+1F1E6 U+1F1F8</emojiU>
     <states/>
@@ -3604,6 +3639,13 @@
     <native>Andorra</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Andorra</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇦🇩</emoji>
     <emojiU>U+1F1E6 U+1F1E9</emojiU>
     <states>
@@ -3713,6 +3755,13 @@
     <native>Angola</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Luanda</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
     <emoji>🇦🇴</emoji>
     <emojiU>U+1F1E6 U+1F1F4</emojiU>
     <states>
@@ -4100,6 +4149,13 @@
     <native>Anguilla</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Anguilla</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇦🇮</emoji>
     <emojiU>U+1F1E6 U+1F1EE</emojiU>
     <states/>
@@ -4115,6 +4171,76 @@
     <native>Antarctica</native>
     <region>Polar</region>
     <subregion></subregion>
+    <timezones>
+      <zoneName>Antarctica/Casey</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>AWST</abbreviation>
+      <tzName>Australian Western Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Davis</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>DAVT</abbreviation>
+      <tzName>Davis Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/DumontDUrville</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>DDUT</abbreviation>
+      <tzName>Dumont d'Urville Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Mawson</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>MAWT</abbreviation>
+      <tzName>Mawson Station Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/McMurdo</zoneName>
+      <gmtOffset>46800</gmtOffset>
+      <gmtOffsetName>UTC+13:00</gmtOffsetName>
+      <abbreviation>NZDT</abbreviation>
+      <tzName>New Zealand Daylight Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Palmer</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>CLST</abbreviation>
+      <tzName>Chile Summer Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Rothera</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ROTT</abbreviation>
+      <tzName>Rothera Research Station Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Syowa</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>SYOT</abbreviation>
+      <tzName>Showa Station Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Troll</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Antarctica/Vostok</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>VOST</abbreviation>
+      <tzName>Vostok Station Time</tzName>
+    </timezones>
     <emoji>🇦🇶</emoji>
     <emojiU>U+1F1E6 U+1F1F6</emojiU>
     <states/>
@@ -4130,6 +4256,13 @@
     <native>Antigua and Barbuda</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Antigua</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇦🇬</emoji>
     <emojiU>U+1F1E6 U+1F1EC</emojiU>
     <states>
@@ -4240,6 +4373,90 @@
     <native>Argentina</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Argentina/Buenos_Aires</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Catamarca</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Cordoba</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Jujuy</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/La_Rioja</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Mendoza</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Rio_Gallegos</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Salta</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/San_Juan</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/San_Luis</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Tucuman</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Argentina/Ushuaia</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>ART</abbreviation>
+      <tzName>Argentina Time</tzName>
+    </timezones>
     <emoji>🇦🇷</emoji>
     <emojiU>U+1F1E6 U+1F1F7</emojiU>
     <states>
@@ -10153,6 +10370,13 @@
     <native>Հայաստան</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Yerevan</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>AMT</abbreviation>
+      <tzName>Armenia Time</tzName>
+    </timezones>
     <emoji>🇦🇲</emoji>
     <emojiU>U+1F1E6 U+1F1F2</emojiU>
     <states>
@@ -12070,6 +12294,13 @@
     <native>Aruba</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Aruba</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇦🇼</emoji>
     <emojiU>U+1F1E6 U+1F1FC</emojiU>
     <states/>
@@ -12085,6 +12316,97 @@
     <native>Australia</native>
     <region>Oceania</region>
     <subregion>Australia and New Zealand</subregion>
+    <timezones>
+      <zoneName>Antarctica/Macquarie</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>MIST</abbreviation>
+      <tzName>Macquarie Island Station Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Adelaide</zoneName>
+      <gmtOffset>37800</gmtOffset>
+      <gmtOffsetName>UTC+10:30</gmtOffsetName>
+      <abbreviation>ACDT</abbreviation>
+      <tzName>Australian Central Daylight Saving Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Brisbane</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>AEST</abbreviation>
+      <tzName>Australian Eastern Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Broken_Hill</zoneName>
+      <gmtOffset>37800</gmtOffset>
+      <gmtOffsetName>UTC+10:30</gmtOffsetName>
+      <abbreviation>ACDT</abbreviation>
+      <tzName>Australian Central Daylight Saving Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Currie</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>AEDT</abbreviation>
+      <tzName>Australian Eastern Daylight Saving Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Darwin</zoneName>
+      <gmtOffset>34200</gmtOffset>
+      <gmtOffsetName>UTC+09:30</gmtOffsetName>
+      <abbreviation>ACST</abbreviation>
+      <tzName>Australian Central Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Eucla</zoneName>
+      <gmtOffset>31500</gmtOffset>
+      <gmtOffsetName>UTC+08:45</gmtOffsetName>
+      <abbreviation>ACWST</abbreviation>
+      <tzName>Australian Central Western Standard Time (Unofficial)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Hobart</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>AEDT</abbreviation>
+      <tzName>Australian Eastern Daylight Saving Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Lindeman</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>AEST</abbreviation>
+      <tzName>Australian Eastern Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Lord_Howe</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>LHST</abbreviation>
+      <tzName>Lord Howe Summer Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Melbourne</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>AEDT</abbreviation>
+      <tzName>Australian Eastern Daylight Saving Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Perth</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>AWST</abbreviation>
+      <tzName>Australian Western Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Australia/Sydney</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>AEDT</abbreviation>
+      <tzName>Australian Eastern Daylight Saving Time</tzName>
+    </timezones>
     <emoji>🇦🇺</emoji>
     <emojiU>U+1F1E6 U+1F1FA</emojiU>
     <states>
@@ -36949,6 +37271,13 @@
     <native>Österreich</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Vienna</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇦🇹</emoji>
     <emojiU>U+1F1E6 U+1F1F9</emojiU>
     <states>
@@ -51348,6 +51677,13 @@
     <native>Azərbaycan</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Baku</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>AZT</abbreviation>
+      <tzName>Azerbaijan Time</tzName>
+    </timezones>
     <emoji>🇦🇿</emoji>
     <emojiU>U+1F1E6 U+1F1FF</emojiU>
     <states>
@@ -52813,6 +53149,13 @@
     <native>Bahamas</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Nassau</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America)</tzName>
+    </timezones>
     <emoji>🇧🇸</emoji>
     <emojiU>U+1F1E7 U+1F1F8</emojiU>
     <states>
@@ -53186,6 +53529,13 @@
     <native>‏البحرين</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Bahrain</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Arabia Standard Time</tzName>
+    </timezones>
     <emoji>🇧🇭</emoji>
     <emojiU>U+1F1E7 U+1F1ED</emojiU>
     <states>
@@ -53280,6 +53630,13 @@
     <native>Bangladesh</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Dhaka</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>BDT</abbreviation>
+      <tzName>Bangladesh Standard Time</tzName>
+    </timezones>
     <emoji>🇧🇩</emoji>
     <emojiU>U+1F1E7 U+1F1E9</emojiU>
     <states>
@@ -54630,6 +54987,13 @@
     <native>Barbados</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Barbados</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇧🇧</emoji>
     <emojiU>U+1F1E7 U+1F1E7</emojiU>
     <states>
@@ -54745,6 +55109,13 @@
     <native>Белару́сь</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Minsk</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Time</tzName>
+    </timezones>
     <emoji>🇧🇾</emoji>
     <emojiU>U+1F1E7 U+1F1FE</emojiU>
     <states>
@@ -56768,6 +57139,13 @@
     <native>België</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Brussels</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇧🇪</emoji>
     <emojiU>U+1F1E7 U+1F1EA</emojiU>
     <states>
@@ -60157,6 +60535,13 @@
     <native>Belize</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Belize</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America)</tzName>
+    </timezones>
     <emoji>🇧🇿</emoji>
     <emojiU>U+1F1E7 U+1F1FF</emojiU>
     <states>
@@ -60279,6 +60664,13 @@
     <native>Bénin</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Porto-Novo</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
     <emoji>🇧🇯</emoji>
     <emojiU>U+1F1E7 U+1F1EF</emojiU>
     <states>
@@ -60575,6 +60967,13 @@
     <native>Bermuda</native>
     <region>Americas</region>
     <subregion>Northern America</subregion>
+    <timezones>
+      <zoneName>Atlantic/Bermuda</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇧🇲</emoji>
     <emojiU>U+1F1E7 U+1F1F2</emojiU>
     <states>
@@ -60655,6 +61054,13 @@
     <native>ʼbrug-yul</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Thimphu</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>BTT</abbreviation>
+      <tzName>Bhutan Time</tzName>
+    </timezones>
     <emoji>🇧🇹</emoji>
     <emojiU>U+1F1E7 U+1F1F9</emojiU>
     <states>
@@ -60909,6 +61315,13 @@
     <native>Bolivia</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/La_Paz</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>BOT</abbreviation>
+      <tzName>Bolivia Time</tzName>
+    </timezones>
     <emoji>🇧🇴</emoji>
     <emojiU>U+1F1E7 U+1F1F4</emojiU>
     <states>
@@ -62336,6 +62749,13 @@
     <native>Bosna i Hercegovina</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Sarajevo</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇧🇦</emoji>
     <emojiU>U+1F1E7 U+1F1E6</emojiU>
     <states>
@@ -63817,6 +64237,13 @@
     <native>Botswana</native>
     <region>Africa</region>
     <subregion>Southern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Gaborone</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
     <emoji>🇧🇼</emoji>
     <emojiU>U+1F1E7 U+1F1FC</emojiU>
     <states>
@@ -64332,6 +64759,7 @@
     <native>Bouvetøya</native>
     <region></region>
     <subregion></subregion>
+    <timezones></timezones>
     <emoji>🇧🇻</emoji>
     <emojiU>U+1F1E7 U+1F1FB</emojiU>
     <states/>
@@ -64347,6 +64775,118 @@
     <native>Brasil</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Araguaina</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Bahia</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Belem</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Boa_Vista</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AMT</abbreviation>
+      <tzName>Amazon Time (Brazil)[3</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Campo_Grande</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AMT</abbreviation>
+      <tzName>Amazon Time (Brazil)[3</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Cuiaba</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasilia Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Eirunepe</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>ACT</abbreviation>
+      <tzName>Acre Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Fortaleza</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Maceio</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Manaus</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AMT</abbreviation>
+      <tzName>Amazon Time (Brazil)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Noronha</zoneName>
+      <gmtOffset>-7200</gmtOffset>
+      <gmtOffsetName>UTC-02:00</gmtOffsetName>
+      <abbreviation>FNT</abbreviation>
+      <tzName>Fernando de Noronha Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Porto_Velho</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AMT</abbreviation>
+      <tzName>Amazon Time (Brazil)[3</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Recife</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Rio_Branco</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>ACT</abbreviation>
+      <tzName>Acre Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Santarem</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Sao_Paulo</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>BRT</abbreviation>
+      <tzName>Brasília Time</tzName>
+    </timezones>
     <emoji>🇧🇷</emoji>
     <emojiU>U+1F1E7 U+1F1F7</emojiU>
     <states>
@@ -98372,6 +98912,13 @@
     <native>British Indian Ocean Territory</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Chagos</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>IOT</abbreviation>
+      <tzName>Indian Ocean Time</tzName>
+    </timezones>
     <emoji>🇮🇴</emoji>
     <emojiU>U+1F1EE U+1F1F4</emojiU>
     <states/>
@@ -98387,6 +98934,13 @@
     <native>Negara Brunei Darussalam</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Brunei</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>BNT</abbreviation>
+      <tzName>Brunei Darussalam Time</tzName>
+    </timezones>
     <emoji>🇧🇳</emoji>
     <emojiU>U+1F1E7 U+1F1F3</emojiU>
     <states>
@@ -98475,6 +99029,13 @@
     <native>България</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Sofia</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇧🇬</emoji>
     <emojiU>U+1F1E7 U+1F1EC</emojiU>
     <states>
@@ -101642,6 +102203,13 @@
     <native>Burkina Faso</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Ouagadougou</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇧🇫</emoji>
     <emojiU>U+1F1E7 U+1F1EB</emojiU>
     <states>
@@ -102537,6 +103105,13 @@
     <native>Burundi</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Bujumbura</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
     <emoji>🇧🇮</emoji>
     <emojiU>U+1F1E7 U+1F1EE</emojiU>
     <states>
@@ -102744,6 +103319,13 @@
     <native>Kâmpŭchéa</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Phnom_Penh</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>ICT</abbreviation>
+      <tzName>Indochina Time</tzName>
+    </timezones>
     <emoji>🇰🇭</emoji>
     <emojiU>U+1F1F0 U+1F1ED</emojiU>
     <states>
@@ -103509,6 +104091,13 @@
     <native>Cameroon</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Douala</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
     <emoji>🇨🇲</emoji>
     <emojiU>U+1F1E8 U+1F1F2</emojiU>
     <states>
@@ -104407,6 +104996,202 @@
     <native>Canada</native>
     <region>Americas</region>
     <subregion>Northern America</subregion>
+    <timezones>
+      <zoneName>America/Atikokan</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Blanc-Sablon</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Cambridge_Bay</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Creston</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Dawson</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Dawson_Creek</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Edmonton</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Fort_Nelson</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America)</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Glace_Bay</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Goose_Bay</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Halifax</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Inuvik</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Iqaluit</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Moncton</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Nipigon</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Pangnirtung</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Rainy_River</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Rankin_Inlet</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Regina</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Resolute</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/St_Johns</zoneName>
+      <gmtOffset>-12600</gmtOffset>
+      <gmtOffsetName>UTC-03:30</gmtOffsetName>
+      <abbreviation>NST</abbreviation>
+      <tzName>Newfoundland Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Swift_Current</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Thunder_Bay</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Toronto</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Vancouver</zoneName>
+      <gmtOffset>-28800</gmtOffset>
+      <gmtOffsetName>UTC-08:00</gmtOffsetName>
+      <abbreviation>PST</abbreviation>
+      <tzName>Pacific Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Whitehorse</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Winnipeg</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Yellowknife</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
     <emoji>🇨🇦</emoji>
     <emojiU>U+1F1E8 U+1F1E6</emojiU>
     <states>
@@ -110960,6 +111745,13 @@
     <native>Cabo Verde</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Atlantic/Cape_Verde</zoneName>
+      <gmtOffset>-3600</gmtOffset>
+      <gmtOffsetName>UTC-01:00</gmtOffsetName>
+      <abbreviation>CVT</abbreviation>
+      <tzName>Cape Verde Time</tzName>
+    </timezones>
     <emoji>🇨🇻</emoji>
     <emojiU>U+1F1E8 U+1F1FB</emojiU>
     <states>
@@ -111235,6 +112027,13 @@
     <native>Cayman Islands</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Cayman</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
     <emoji>🇰🇾</emoji>
     <emojiU>U+1F1F0 U+1F1FE</emojiU>
     <states/>
@@ -111250,6 +112049,13 @@
     <native>Ködörösêse tî Bêafrîka</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Bangui</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
     <emoji>🇨🇫</emoji>
     <emojiU>U+1F1E8 U+1F1EB</emojiU>
     <states>
@@ -111619,6 +112425,13 @@
     <native>Tchad</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Ndjamena</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
     <emoji>🇹🇩</emoji>
     <emojiU>U+1F1F9 U+1F1E9</emojiU>
     <states>
@@ -111997,6 +112810,27 @@
     <native>Chile</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Punta_Arenas</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>CLST</abbreviation>
+      <tzName>Chile Summer Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Santiago</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>CLST</abbreviation>
+      <tzName>Chile Summer Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Easter</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EASST</abbreviation>
+      <tzName>Easter Island Summer Time</tzName>
+    </timezones>
     <emoji>🇨🇱</emoji>
     <emojiU>U+1F1E8 U+1F1F1</emojiU>
     <states>
@@ -113219,6 +114053,20 @@
     <native>中国</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Shanghai</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>China Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Urumqi</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>XJT</abbreviation>
+      <tzName>China Standard Time</tzName>
+    </timezones>
     <emoji>🇨🇳</emoji>
     <emojiU>U+1F1E8 U+1F1F3</emojiU>
     <states>
@@ -120691,6 +121539,13 @@
     <native>Christmas Island</native>
     <region>Oceania</region>
     <subregion>Australia and New Zealand</subregion>
+    <timezones>
+      <zoneName>Indian/Christmas</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>CXT</abbreviation>
+      <tzName>Christmas Island Time</tzName>
+    </timezones>
     <emoji>🇨🇽</emoji>
     <emojiU>U+1F1E8 U+1F1FD</emojiU>
     <states/>
@@ -120706,6 +121561,13 @@
     <native>Cocos (Keeling) Islands</native>
     <region>Oceania</region>
     <subregion>Australia and New Zealand</subregion>
+    <timezones>
+      <zoneName>Indian/Cocos</zoneName>
+      <gmtOffset>23400</gmtOffset>
+      <gmtOffsetName>UTC+06:30</gmtOffsetName>
+      <abbreviation>CCT</abbreviation>
+      <tzName>Cocos Islands Time</tzName>
+    </timezones>
     <emoji>🇨🇨</emoji>
     <emojiU>U+1F1E8 U+1F1E8</emojiU>
     <states/>
@@ -120721,6 +121583,13 @@
     <native>Colombia</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Bogota</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>COT</abbreviation>
+      <tzName>Colombia Time</tzName>
+    </timezones>
     <emoji>🇨🇴</emoji>
     <emojiU>U+1F1E8 U+1F1F4</emojiU>
     <states>
@@ -128071,6 +128940,13 @@
     <native>Komori</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Comoro</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
     <emoji>🇰🇲</emoji>
     <emojiU>U+1F1F0 U+1F1F2</emojiU>
     <states>
@@ -128628,6 +129504,13 @@
     <native>République du Congo</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Brazzaville</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
     <emoji>🇨🇬</emoji>
     <emojiU>U+1F1E8 U+1F1EC</emojiU>
     <states>
@@ -128805,6 +129688,20 @@
     <native>République démocratique du Congo</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Kinshasa</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Africa/Lubumbashi</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
     <emoji>🇨🇩</emoji>
     <emojiU>U+1F1E8 U+1F1E9</emojiU>
     <states>
@@ -129377,6 +130274,13 @@
     <native>Cook Islands</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Rarotonga</zoneName>
+      <gmtOffset>-36000</gmtOffset>
+      <gmtOffsetName>UTC-10:00</gmtOffsetName>
+      <abbreviation>CKT</abbreviation>
+      <tzName>Cook Island Time</tzName>
+    </timezones>
     <emoji>🇨🇰</emoji>
     <emojiU>U+1F1E8 U+1F1F0</emojiU>
     <states/>
@@ -129392,6 +130296,13 @@
     <native>Costa Rica</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Costa_Rica</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
     <emoji>🇨🇷</emoji>
     <emojiU>U+1F1E8 U+1F1F7</emojiU>
     <states>
@@ -130395,6 +131306,13 @@
     <native></native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Abidjan</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇨🇮</emoji>
     <emojiU>U+1F1E8 U+1F1EE</emojiU>
     <states>
@@ -131093,6 +132011,13 @@
     <native>Hrvatska</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Zagreb</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇭🇷</emoji>
     <emojiU>U+1F1ED U+1F1F7</emojiU>
     <states>
@@ -135191,6 +136116,13 @@
     <native>Cuba</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Havana</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Cuba Standard Time</tzName>
+    </timezones>
     <emoji>🇨🇺</emoji>
     <emojiU>U+1F1E8 U+1F1FA</emojiU>
     <states>
@@ -136407,6 +137339,13 @@
     <native>Curaçao</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Curacao</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇨🇼</emoji>
     <emojiU>U+1F1E8 U+1F1FC</emojiU>
     <states/>
@@ -136422,6 +137361,20 @@
     <native>Κύπρος</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Asia/Famagusta</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Nicosia</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇨🇾</emoji>
     <emojiU>U+1F1E8 U+1F1FE</emojiU>
     <states>
@@ -137036,6 +137989,13 @@
     <native>Česká republika</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Prague</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇨🇿</emoji>
     <emojiU>U+1F1E8 U+1F1FF</emojiU>
     <states>
@@ -145808,6 +146768,13 @@
     <native>Danmark</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Copenhagen</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇩🇰</emoji>
     <emojiU>U+1F1E9 U+1F1F0</emojiU>
     <states>
@@ -148421,6 +149388,13 @@
     <native>Djibouti</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Djibouti</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
     <emoji>🇩🇯</emoji>
     <emojiU>U+1F1E9 U+1F1EF</emojiU>
     <states>
@@ -148537,6 +149511,13 @@
     <native>Dominica</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Dominica</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇩🇲</emoji>
     <emojiU>U+1F1E9 U+1F1F2</emojiU>
     <states>
@@ -148703,6 +149684,13 @@
     <native>República Dominicana</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Santo_Domingo</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇩🇴</emoji>
     <emojiU>U+1F1E9 U+1F1F4</emojiU>
     <states>
@@ -150114,6 +151102,13 @@
     <native>Timor-Leste</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Dili</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>TLT</abbreviation>
+      <tzName>Timor Leste Time</tzName>
+    </timezones>
     <emoji>🇹🇱</emoji>
     <emojiU>U+1F1F9 U+1F1F1</emojiU>
     <states>
@@ -150488,6 +151483,20 @@
     <native>Ecuador</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Guayaquil</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>ECT</abbreviation>
+      <tzName>Ecuador Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Galapagos</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>GALT</abbreviation>
+      <tzName>Galápagos Time</tzName>
+    </timezones>
     <emoji>🇪🇨</emoji>
     <emojiU>U+1F1EA U+1F1E8</emojiU>
     <states>
@@ -151301,6 +152310,13 @@
     <native>مصر‎</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Cairo</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇪🇬</emoji>
     <emojiU>U+1F1EA U+1F1EC</emojiU>
     <states>
@@ -152201,6 +153217,13 @@
     <native>El Salvador</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/El_Salvador</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
     <emoji>🇸🇻</emoji>
     <emojiU>U+1F1F8 U+1F1FB</emojiU>
     <states>
@@ -152885,6 +153908,13 @@
     <native>Guinea Ecuatorial</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Malabo</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
     <emoji>🇬🇶</emoji>
     <emojiU>U+1F1EC U+1F1F6</emojiU>
     <states>
@@ -153090,6 +154120,13 @@
     <native>ኤርትራ</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Asmara</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
     <emoji>🇪🇷</emoji>
     <emojiU>U+1F1EA U+1F1F7</emojiU>
     <states>
@@ -153200,6 +154237,13 @@
     <native>Eesti</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Tallinn</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇪🇪</emoji>
     <emojiU>U+1F1EA U+1F1EA</emojiU>
     <states>
@@ -154261,6 +155305,13 @@
     <native>ኢትዮጵያ</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Addis_Ababa</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
     <emoji>🇪🇹</emoji>
     <emojiU>U+1F1EA U+1F1F9</emojiU>
     <states>
@@ -155200,6 +156251,13 @@
     <native>Falkland Islands</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>Atlantic/Stanley</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>FKST</abbreviation>
+      <tzName>Falkland Islands Summer Time</tzName>
+    </timezones>
     <emoji>🇫🇰</emoji>
     <emojiU>U+1F1EB U+1F1F0</emojiU>
     <states/>
@@ -155215,6 +156273,13 @@
     <native>Føroyar</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Atlantic/Faroe</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>WET</abbreviation>
+      <tzName>Western European Time</tzName>
+    </timezones>
     <emoji>🇫🇴</emoji>
     <emojiU>U+1F1EB U+1F1F4</emojiU>
     <states/>
@@ -155230,6 +156295,13 @@
     <native>Fiji</native>
     <region>Oceania</region>
     <subregion>Melanesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Fiji</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>FJT</abbreviation>
+      <tzName>Fiji Time</tzName>
+    </timezones>
     <emoji>🇫🇯</emoji>
     <emojiU>U+1F1EB U+1F1EF</emojiU>
     <states>
@@ -155474,6 +156546,13 @@
     <native>Suomi</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Helsinki</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇫🇮</emoji>
     <emojiU>U+1F1EB U+1F1EE</emojiU>
     <states>
@@ -158015,6 +159094,13 @@
     <native>France</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Paris</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇫🇷</emoji>
     <emojiU>U+1F1EB U+1F1F7</emojiU>
     <states>
@@ -211638,6 +212724,13 @@
     <native>Guyane française</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Cayenne</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>GFT</abbreviation>
+      <tzName>French Guiana Time</tzName>
+    </timezones>
     <emoji>🇬🇫</emoji>
     <emojiU>U+1F1EC U+1F1EB</emojiU>
     <states/>
@@ -211653,6 +212746,27 @@
     <native>Polynésie française</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Gambier</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>GAMT</abbreviation>
+      <tzName>Gambier Islands Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Marquesas</zoneName>
+      <gmtOffset>-34200</gmtOffset>
+      <gmtOffsetName>UTC-09:30</gmtOffsetName>
+      <abbreviation>MART</abbreviation>
+      <tzName>Marquesas Islands Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Tahiti</zoneName>
+      <gmtOffset>-36000</gmtOffset>
+      <gmtOffsetName>UTC-10:00</gmtOffsetName>
+      <abbreviation>TAHT</abbreviation>
+      <tzName>Tahiti Time</tzName>
+    </timezones>
     <emoji>🇵🇫</emoji>
     <emojiU>U+1F1F5 U+1F1EB</emojiU>
     <states/>
@@ -211668,6 +212782,13 @@
     <native>Territoire des Terres australes et antarctiques fr</native>
     <region>Africa</region>
     <subregion>Southern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Kerguelen</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>TFT</abbreviation>
+      <tzName>French Southern and Antarctic Time</tzName>
+    </timezones>
     <emoji>🇹🇫</emoji>
     <emojiU>U+1F1F9 U+1F1EB</emojiU>
     <states/>
@@ -211683,6 +212804,13 @@
     <native>Gabon</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Libreville</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
     <emoji>🇬🇦</emoji>
     <emojiU>U+1F1EC U+1F1E6</emojiU>
     <states>
@@ -211910,6 +213038,13 @@
     <native>Gambia</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Banjul</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇬🇲</emoji>
     <emojiU>U+1F1EC U+1F1F2</emojiU>
     <states>
@@ -212578,6 +213713,13 @@
     <native>საქართველო</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Tbilisi</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>GET</abbreviation>
+      <tzName>Georgia Standard Time</tzName>
+    </timezones>
     <emoji>🇬🇪</emoji>
     <emojiU>U+1F1EC U+1F1EA</emojiU>
     <states>
@@ -213336,6 +214478,20 @@
     <native>Deutschland</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Berlin</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Busingen</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇩🇪</emoji>
     <emojiU>U+1F1E9 U+1F1EA</emojiU>
     <states>
@@ -256030,6 +257186,13 @@
     <native>Ghana</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Accra</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇬🇭</emoji>
     <emojiU>U+1F1EC U+1F1ED</emojiU>
     <states>
@@ -256514,6 +257677,13 @@
     <native>Gibraltar</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Gibraltar</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇬🇮</emoji>
     <emojiU>U+1F1EC U+1F1EE</emojiU>
     <states/>
@@ -256529,6 +257699,13 @@
     <native>Ελλάδα</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Athens</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇬🇷</emoji>
     <emojiU>U+1F1EC U+1F1F7</emojiU>
     <states>
@@ -262913,6 +264090,34 @@
     <native>Kalaallit Nunaat</native>
     <region>Americas</region>
     <subregion>Northern America</subregion>
+    <timezones>
+      <zoneName>America/Danmarkshavn</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Nuuk</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>WGT</abbreviation>
+      <tzName>West Greenland Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Scoresbysund</zoneName>
+      <gmtOffset>-3600</gmtOffset>
+      <gmtOffsetName>UTC-01:00</gmtOffsetName>
+      <abbreviation>EGT</abbreviation>
+      <tzName>Eastern Greenland Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Thule</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇬🇱</emoji>
     <emojiU>U+1F1EC U+1F1F1</emojiU>
     <states/>
@@ -262928,6 +264133,13 @@
     <native>Grenada</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Grenada</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇬🇩</emoji>
     <emojiU>U+1F1EC U+1F1E9</emojiU>
     <states>
@@ -263019,6 +264231,13 @@
     <native>Guadeloupe</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Guadeloupe</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇬🇵</emoji>
     <emojiU>U+1F1EC U+1F1F5</emojiU>
     <states/>
@@ -263034,6 +264253,13 @@
     <native>Guam</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Guam</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>CHST</abbreviation>
+      <tzName>Chamorro Standard Time</tzName>
+    </timezones>
     <emoji>🇬🇺</emoji>
     <emojiU>U+1F1EC U+1F1FA</emojiU>
     <states/>
@@ -263049,6 +264275,13 @@
     <native>Guatemala</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Guatemala</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
     <emoji>🇬🇹</emoji>
     <emojiU>U+1F1EC U+1F1F9</emojiU>
     <states>
@@ -265460,6 +266693,13 @@
     <native>Guernsey</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Guernsey</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇬🇬</emoji>
     <emojiU>U+1F1EC U+1F1EC</emojiU>
     <states/>
@@ -265475,6 +266715,13 @@
     <native>Guinée</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Conakry</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇬🇳</emoji>
     <emojiU>U+1F1EC U+1F1F3</emojiU>
     <states>
@@ -266046,6 +267293,13 @@
     <native>Guiné-Bissau</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Bissau</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇬🇼</emoji>
     <emojiU>U+1F1EC U+1F1FC</emojiU>
     <states>
@@ -266202,6 +267456,13 @@
     <native>Guyana</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Guyana</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>GYT</abbreviation>
+      <tzName>Guyana Time</tzName>
+    </timezones>
     <emoji>🇬🇾</emoji>
     <emojiU>U+1F1EC U+1F1FE</emojiU>
     <states>
@@ -266350,6 +267611,13 @@
     <native>Haïti</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Port-au-Prince</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
     <emoji>🇭🇹</emoji>
     <emojiU>U+1F1ED U+1F1F9</emojiU>
     <states>
@@ -267158,6 +268426,7 @@
     <native>Heard Island and McDonald Islands</native>
     <region></region>
     <subregion></subregion>
+    <timezones></timezones>
     <emoji>🇭🇲</emoji>
     <emojiU>U+1F1ED U+1F1F2</emojiU>
     <states/>
@@ -267173,6 +268442,13 @@
     <native>Honduras</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Tegucigalpa</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
     <emoji>🇭🇳</emoji>
     <emojiU>U+1F1ED U+1F1F3</emojiU>
     <states>
@@ -270547,6 +271823,13 @@
     <native>香港</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Hong_Kong</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>HKT</abbreviation>
+      <tzName>Hong Kong Time</tzName>
+    </timezones>
     <emoji>🇭🇰</emoji>
     <emojiU>U+1F1ED U+1F1F0</emojiU>
     <states/>
@@ -270562,6 +271845,13 @@
     <native>Magyarország</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Budapest</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇭🇺</emoji>
     <emojiU>U+1F1ED U+1F1FA</emojiU>
     <states>
@@ -276839,6 +278129,13 @@
     <native>Ísland</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Atlantic/Reykjavik</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇮🇸</emoji>
     <emojiU>U+1F1EE U+1F1F8</emojiU>
     <states>
@@ -277337,6 +278634,13 @@
     <native>भारत</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Kolkata</zoneName>
+      <gmtOffset>19800</gmtOffset>
+      <gmtOffsetName>UTC+05:30</gmtOffsetName>
+      <abbreviation>IST</abbreviation>
+      <tzName>Indian Standard Time</tzName>
+    </timezones>
     <emoji>🇮🇳</emoji>
     <emojiU>U+1F1EE U+1F1F3</emojiU>
     <states>
@@ -300672,6 +301976,34 @@
     <native>Indonesia</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Jakarta</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>WIB</abbreviation>
+      <tzName>Western Indonesian Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Jayapura</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>WIT</abbreviation>
+      <tzName>Eastern Indonesian Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Makassar</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>WITA</abbreviation>
+      <tzName>Central Indonesia Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Pontianak</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>WIB</abbreviation>
+      <tzName>Western Indonesian Time</tzName>
+    </timezones>
     <emoji>🇮🇩</emoji>
     <emojiU>U+1F1EE U+1F1E9</emojiU>
     <states>
@@ -306215,6 +307547,13 @@
     <native>ایران</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Tehran</zoneName>
+      <gmtOffset>12600</gmtOffset>
+      <gmtOffsetName>UTC+03:30</gmtOffsetName>
+      <abbreviation>IRDT</abbreviation>
+      <tzName>Iran Daylight Time</tzName>
+    </timezones>
     <emoji>🇮🇷</emoji>
     <emojiU>U+1F1EE U+1F1F7</emojiU>
     <states>
@@ -310015,6 +311354,13 @@
     <native>العراق</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Baghdad</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Arabia Standard Time</tzName>
+    </timezones>
     <emoji>🇮🇶</emoji>
     <emojiU>U+1F1EE U+1F1F6</emojiU>
     <states>
@@ -310611,6 +311957,13 @@
     <native>Éire</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Dublin</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇮🇪</emoji>
     <emojiU>U+1F1EE U+1F1EA</emojiU>
     <states>
@@ -313027,6 +314380,13 @@
     <native>יִשְׂרָאֵל</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Jerusalem</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>IST</abbreviation>
+      <tzName>Israel Standard Time</tzName>
+    </timezones>
     <emoji>🇮🇱</emoji>
     <emojiU>U+1F1EE U+1F1F1</emojiU>
     <states>
@@ -313971,6 +315331,13 @@
     <native>Italia</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Rome</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇮🇹</emoji>
     <emojiU>U+1F1EE U+1F1F9</emojiU>
     <states>
@@ -374421,6 +375788,13 @@
     <native>Jamaica</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Jamaica</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
     <emoji>🇯🇲</emoji>
     <emojiU>U+1F1EF U+1F1F2</emojiU>
     <states>
@@ -379545,6 +380919,13 @@
     <native>日本</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Tokyo</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>JST</abbreviation>
+      <tzName>Japan Standard Time</tzName>
+    </timezones>
     <emoji>🇯🇵</emoji>
     <emojiU>U+1F1EF U+1F1F5</emojiU>
     <states>
@@ -389155,6 +390536,13 @@
     <native>Jersey</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Jersey</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇯🇪</emoji>
     <emojiU>U+1F1EF U+1F1EA</emojiU>
     <states/>
@@ -389170,6 +390558,13 @@
     <native>الأردن</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Amman</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇯🇴</emoji>
     <emojiU>U+1F1EF U+1F1F4</emojiU>
     <states>
@@ -389736,6 +391131,55 @@
     <native>Қазақстан</native>
     <region>Asia</region>
     <subregion>Central Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Almaty</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>ALMT</abbreviation>
+      <tzName>Alma-Ata Time[1</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Aqtau</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>AQTT</abbreviation>
+      <tzName>Aqtobe Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Aqtobe</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>AQTT</abbreviation>
+      <tzName>Aqtobe Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Atyrau</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>MSD+1</abbreviation>
+      <tzName>Moscow Daylight Time+1</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Oral</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>ORAT</abbreviation>
+      <tzName>Oral Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Qostanay</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>QYZST</abbreviation>
+      <tzName>Qyzylorda Summer Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Qyzylorda</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>QYZT</abbreviation>
+      <tzName>Qyzylorda Summer Time</tzName>
+    </timezones>
     <emoji>🇰🇿</emoji>
     <emojiU>U+1F1F0 U+1F1FF</emojiU>
     <states>
@@ -391395,6 +392839,13 @@
     <native>Kenya</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Nairobi</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
     <emoji>🇰🇪</emoji>
     <emojiU>U+1F1F0 U+1F1EA</emojiU>
     <states>
@@ -392349,6 +393800,27 @@
     <native>Kiribati</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Enderbury</zoneName>
+      <gmtOffset>46800</gmtOffset>
+      <gmtOffsetName>UTC+13:00</gmtOffsetName>
+      <abbreviation>PHOT</abbreviation>
+      <tzName>Phoenix Island Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Kiritimati</zoneName>
+      <gmtOffset>50400</gmtOffset>
+      <gmtOffsetName>UTC+14:00</gmtOffsetName>
+      <abbreviation>LINT</abbreviation>
+      <tzName>Line Islands Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Tarawa</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>GILT</abbreviation>
+      <tzName>Gilbert Island Time</tzName>
+    </timezones>
     <emoji>🇰🇮</emoji>
     <emojiU>U+1F1F0 U+1F1EE</emojiU>
     <states>
@@ -392606,6 +394078,13 @@
     <native>북한</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Pyongyang</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>KST</abbreviation>
+      <tzName>Korea Standard Time</tzName>
+    </timezones>
     <emoji>🇰🇵</emoji>
     <emojiU>U+1F1F0 U+1F1F5</emojiU>
     <states>
@@ -393155,6 +394634,13 @@
     <native>대한민국</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Seoul</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>KST</abbreviation>
+      <tzName>Korea Standard Time</tzName>
+    </timezones>
     <emoji>🇰🇷</emoji>
     <emojiU>U+1F1F0 U+1F1F7</emojiU>
     <states>
@@ -395108,6 +396594,7 @@
     <native>Republika e Kosovës</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
+    <timezones></timezones>
     <emoji>🇽🇰</emoji>
     <emojiU>U+1F1FD U+1F1F0</emojiU>
     <states>
@@ -395164,6 +396651,13 @@
     <native>الكويت</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Kuwait</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Arabia Standard Time</tzName>
+    </timezones>
     <emoji>🇰🇼</emoji>
     <emojiU>U+1F1F0 U+1F1FC</emojiU>
     <states>
@@ -395358,6 +396852,13 @@
     <native>Кыргызстан</native>
     <region>Asia</region>
     <subregion>Central Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Bishkek</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>KGT</abbreviation>
+      <tzName>Kyrgyzstan Time</tzName>
+    </timezones>
     <emoji>🇰🇬</emoji>
     <emojiU>U+1F1F0 U+1F1EC</emojiU>
     <states>
@@ -395736,6 +397237,13 @@
     <native>ສປປລາວ</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Vientiane</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>ICT</abbreviation>
+      <tzName>Indochina Time</tzName>
+    </timezones>
     <emoji>🇱🇦</emoji>
     <emojiU>U+1F1F1 U+1F1E6</emojiU>
     <states>
@@ -396302,6 +397810,13 @@
     <native>Latvija</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Riga</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇱🇻</emoji>
     <emojiU>U+1F1F1 U+1F1FB</emojiU>
     <states>
@@ -397667,6 +399182,13 @@
     <native>لبنان</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Beirut</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇱🇧</emoji>
     <emojiU>U+1F1F1 U+1F1E7</emojiU>
     <states>
@@ -397877,6 +399399,13 @@
     <native>Lesotho</native>
     <region>Africa</region>
     <subregion>Southern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Maseru</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>SAST</abbreviation>
+      <tzName>South African Standard Time</tzName>
+    </timezones>
     <emoji>🇱🇸</emoji>
     <emojiU>U+1F1F1 U+1F1F8</emojiU>
     <states>
@@ -398013,6 +399542,13 @@
     <native>Liberia</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Monrovia</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇱🇷</emoji>
     <emojiU>U+1F1F1 U+1F1F7</emojiU>
     <states>
@@ -398210,6 +399746,13 @@
     <native>‏ليبيا</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Tripoli</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇱🇾</emoji>
     <emojiU>U+1F1F1 U+1F1FE</emojiU>
     <states>
@@ -398635,6 +400178,13 @@
     <native>Liechtenstein</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Vaduz</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇱🇮</emoji>
     <emojiU>U+1F1F1 U+1F1EE</emojiU>
     <states>
@@ -398770,6 +400320,13 @@
     <native>Lietuva</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Vilnius</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇱🇹</emoji>
     <emojiU>U+1F1F1 U+1F1F9</emojiU>
     <states>
@@ -400046,6 +401603,13 @@
     <native>Luxembourg</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Luxembourg</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇱🇺</emoji>
     <emojiU>U+1F1F1 U+1F1FA</emojiU>
     <states>
@@ -401002,6 +402566,13 @@
     <native>澳門</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Macau</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>China Standard Time</tzName>
+    </timezones>
     <emoji>🇲🇴</emoji>
     <emojiU>U+1F1F2 U+1F1F4</emojiU>
     <states/>
@@ -401017,6 +402588,13 @@
     <native>Северна Македонија</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Skopje</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇲🇰</emoji>
     <emojiU>U+1F1F2 U+1F1F0</emojiU>
     <states>
@@ -402639,6 +404217,13 @@
     <native>Madagasikara</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Antananarivo</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
     <emoji>🇲🇬</emoji>
     <emojiU>U+1F1F2 U+1F1EC</emojiU>
     <states>
@@ -402742,6 +404327,13 @@
     <native>Malawi</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Blantyre</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
     <emoji>🇲🇼</emoji>
     <emojiU>U+1F1F2 U+1F1FC</emojiU>
     <states>
@@ -403299,6 +404891,20 @@
     <native>Malaysia</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Kuala_Lumpur</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>MYT</abbreviation>
+      <tzName>Malaysia Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Kuching</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>MYT</abbreviation>
+      <tzName>Malaysia Time</tzName>
+    </timezones>
     <emoji>🇲🇾</emoji>
     <emojiU>U+1F1F2 U+1F1FE</emojiU>
     <states>
@@ -404467,6 +406073,13 @@
     <native>Maldives</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Indian/Maldives</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>MVT</abbreviation>
+      <tzName>Maldives Time</tzName>
+    </timezones>
     <emoji>🇲🇻</emoji>
     <emojiU>U+1F1F2 U+1F1FB</emojiU>
     <states>
@@ -404746,6 +406359,13 @@
     <native>Mali</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Bamako</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇲🇱</emoji>
     <emojiU>U+1F1F2 U+1F1F1</emojiU>
     <states>
@@ -405105,6 +406725,13 @@
     <native>Malta</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Malta</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇲🇹</emoji>
     <emojiU>U+1F1F2 U+1F1F9</emojiU>
     <states>
@@ -405871,6 +407498,13 @@
     <native>Isle of Man</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Isle_of_Man</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇮🇲</emoji>
     <emojiU>U+1F1EE U+1F1F2</emojiU>
     <states/>
@@ -405886,6 +407520,20 @@
     <native>M̧ajeļ</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Kwajalein</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>MHT</abbreviation>
+      <tzName>Marshall Islands Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Majuro</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>MHT</abbreviation>
+      <tzName>Marshall Islands Time</tzName>
+    </timezones>
     <emoji>🇲🇭</emoji>
     <emojiU>U+1F1F2 U+1F1ED</emojiU>
     <states>
@@ -405912,6 +407560,13 @@
     <native>Martinique</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Martinique</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇲🇶</emoji>
     <emojiU>U+1F1F2 U+1F1F6</emojiU>
     <states/>
@@ -405927,6 +407582,13 @@
     <native>موريتانيا</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Nouakchott</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇲🇷</emoji>
     <emojiU>U+1F1F2 U+1F1F7</emojiU>
     <states>
@@ -406110,6 +407772,13 @@
     <native>Maurice</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Mauritius</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>MUT</abbreviation>
+      <tzName>Mauritius Time</tzName>
+    </timezones>
     <emoji>🇲🇺</emoji>
     <emojiU>U+1F1F2 U+1F1FA</emojiU>
     <states>
@@ -406796,6 +408465,13 @@
     <native>Mayotte</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Mayotte</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
     <emoji>🇾🇹</emoji>
     <emojiU>U+1F1FE U+1F1F9</emojiU>
     <states/>
@@ -406811,6 +408487,83 @@
     <native>México</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Bahia_Banderas</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Cancun</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Chihuahua</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Hermosillo</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Matamoros</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Mazatlan</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Merida</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Mexico_City</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Monterrey</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Ojinaga</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Tijuana</zoneName>
+      <gmtOffset>-28800</gmtOffset>
+      <gmtOffsetName>UTC-08:00</gmtOffsetName>
+      <abbreviation>PST</abbreviation>
+      <tzName>Pacific Standard Time (North America</tzName>
+    </timezones>
     <emoji>🇲🇽</emoji>
     <emojiU>U+1F1F2 U+1F1FD</emojiU>
     <states>
@@ -462335,6 +464088,27 @@
     <native>Micronesia</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Chuuk</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>CHUT</abbreviation>
+      <tzName>Chuuk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Kosrae</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>KOST</abbreviation>
+      <tzName>Kosrae Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Pohnpei</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>PONT</abbreviation>
+      <tzName>Pohnpei Standard Time</tzName>
+    </timezones>
     <emoji>🇫🇲</emoji>
     <emojiU>U+1F1EB U+1F1F2</emojiU>
     <states>
@@ -462855,6 +464629,13 @@
     <native>Moldova</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Chisinau</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇲🇩</emoji>
     <emojiU>U+1F1F2 U+1F1E9</emojiU>
     <states>
@@ -463481,6 +465262,13 @@
     <native>Monaco</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Monaco</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇲🇨</emoji>
     <emojiU>U+1F1F2 U+1F1E8</emojiU>
     <states/>
@@ -463496,6 +465284,27 @@
     <native>Монгол улс</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Choibalsan</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>CHOT</abbreviation>
+      <tzName>Choibalsan Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Hovd</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>HOVT</abbreviation>
+      <tzName>Hovd Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Ulaanbaatar</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>ULAT</abbreviation>
+      <tzName>Ulaanbaatar Standard Time</tzName>
+    </timezones>
     <emoji>🇲🇳</emoji>
     <emojiU>U+1F1F2 U+1F1F3</emojiU>
     <states>
@@ -463844,6 +465653,13 @@
     <native>Црна Гора</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Podgorica</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇲🇪</emoji>
     <emojiU>U+1F1F2 U+1F1EA</emojiU>
     <states>
@@ -464173,6 +465989,13 @@
     <native>Montserrat</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Montserrat</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇲🇸</emoji>
     <emojiU>U+1F1F2 U+1F1F8</emojiU>
     <states/>
@@ -464188,6 +466011,13 @@
     <native>المغرب</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Casablanca</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WEST</abbreviation>
+      <tzName>Western European Summer Time</tzName>
+    </timezones>
     <emoji>🇲🇦</emoji>
     <emojiU>U+1F1F2 U+1F1E6</emojiU>
     <states>
@@ -465924,6 +467754,13 @@
     <native>Moçambique</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Maputo</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
     <emoji>🇲🇿</emoji>
     <emojiU>U+1F1F2 U+1F1FF</emojiU>
     <states>
@@ -466221,6 +468058,13 @@
     <native>မြန်မာ</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Yangon</zoneName>
+      <gmtOffset>23400</gmtOffset>
+      <gmtOffsetName>UTC+06:30</gmtOffsetName>
+      <abbreviation>MMT</abbreviation>
+      <tzName>Myanmar Standard Time</tzName>
+    </timezones>
     <emoji>🇲🇲</emoji>
     <emojiU>U+1F1F2 U+1F1F2</emojiU>
     <states>
@@ -466754,6 +468598,13 @@
     <native>Namibia</native>
     <region>Africa</region>
     <subregion>Southern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Windhoek</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>WAST</abbreviation>
+      <tzName>West Africa Summer Time</tzName>
+    </timezones>
     <emoji>🇳🇦</emoji>
     <emojiU>U+1F1F3 U+1F1E6</emojiU>
     <states>
@@ -467127,6 +468978,13 @@
     <native>Nauru</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Nauru</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>NRT</abbreviation>
+      <tzName>Nauru Time</tzName>
+    </timezones>
     <emoji>🇳🇷</emoji>
     <emojiU>U+1F1F3 U+1F1F7</emojiU>
     <states>
@@ -467260,6 +469118,13 @@
     <native>नपल</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Kathmandu</zoneName>
+      <gmtOffset>20700</gmtOffset>
+      <gmtOffsetName>UTC+05:45</gmtOffsetName>
+      <abbreviation>NPT</abbreviation>
+      <tzName>Nepal Time</tzName>
+    </timezones>
     <emoji>🇳🇵</emoji>
     <emojiU>U+1F1F3 U+1F1F5</emojiU>
     <states>
@@ -467719,6 +469584,7 @@
     <native></native>
     <region></region>
     <subregion></subregion>
+    <timezones></timezones>
     <emoji></emoji>
     <emojiU></emojiU>
     <states/>
@@ -467734,6 +469600,13 @@
     <native>Nederland</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Amsterdam</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇳🇱</emoji>
     <emojiU>U+1F1F3 U+1F1F1</emojiU>
     <states>
@@ -478266,6 +480139,13 @@
     <native>Nouvelle-Calédonie</native>
     <region>Oceania</region>
     <subregion>Melanesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Noumea</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>NCT</abbreviation>
+      <tzName>New Caledonia Time</tzName>
+    </timezones>
     <emoji>🇳🇨</emoji>
     <emojiU>U+1F1F3 U+1F1E8</emojiU>
     <states/>
@@ -478281,6 +480161,20 @@
     <native>New Zealand</native>
     <region>Oceania</region>
     <subregion>Australia and New Zealand</subregion>
+    <timezones>
+      <zoneName>Pacific/Auckland</zoneName>
+      <gmtOffset>46800</gmtOffset>
+      <gmtOffsetName>UTC+13:00</gmtOffsetName>
+      <abbreviation>NZDT</abbreviation>
+      <tzName>New Zealand Daylight Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Chatham</zoneName>
+      <gmtOffset>49500</gmtOffset>
+      <gmtOffsetName>UTC+13:45</gmtOffsetName>
+      <abbreviation>CHAST</abbreviation>
+      <tzName>Chatham Standard Time</tzName>
+    </timezones>
     <emoji>🇳🇿</emoji>
     <emojiU>U+1F1F3 U+1F1FF</emojiU>
     <states>
@@ -479328,6 +481222,13 @@
     <native>Nicaragua</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Managua</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
     <emoji>🇳🇮</emoji>
     <emojiU>U+1F1F3 U+1F1EE</emojiU>
     <states>
@@ -480280,6 +482181,13 @@
     <native>Niger</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Niamey</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
     <emoji>🇳🇪</emoji>
     <emojiU>U+1F1F3 U+1F1EA</emojiU>
     <states>
@@ -480749,6 +482657,13 @@
     <native>Nigeria</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Lagos</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
     <emoji>🇳🇬</emoji>
     <emojiU>U+1F1F3 U+1F1EC</emojiU>
     <states>
@@ -483403,6 +485318,13 @@
     <native>Niuē</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Niue</zoneName>
+      <gmtOffset>-39600</gmtOffset>
+      <gmtOffsetName>UTC-11:00</gmtOffsetName>
+      <abbreviation>NUT</abbreviation>
+      <tzName>Niue Time</tzName>
+    </timezones>
     <emoji>🇳🇺</emoji>
     <emojiU>U+1F1F3 U+1F1FA</emojiU>
     <states/>
@@ -483418,6 +485340,13 @@
     <native>Norfolk Island</native>
     <region>Oceania</region>
     <subregion>Australia and New Zealand</subregion>
+    <timezones>
+      <zoneName>Pacific/Norfolk</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>NFT</abbreviation>
+      <tzName>Norfolk Time</tzName>
+    </timezones>
     <emoji>🇳🇫</emoji>
     <emojiU>U+1F1F3 U+1F1EB</emojiU>
     <states/>
@@ -483433,6 +485362,13 @@
     <native>Northern Mariana Islands</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Saipan</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>ChST</abbreviation>
+      <tzName>Chamorro Standard Time</tzName>
+    </timezones>
     <emoji>🇲🇵</emoji>
     <emojiU>U+1F1F2 U+1F1F5</emojiU>
     <states/>
@@ -483448,6 +485384,13 @@
     <native>Norge</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Oslo</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇳🇴</emoji>
     <emojiU>U+1F1F3 U+1F1F4</emojiU>
     <states>
@@ -487579,6 +489522,13 @@
     <native>عمان</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Muscat</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>GST</abbreviation>
+      <tzName>Gulf Standard Time</tzName>
+    </timezones>
     <emoji>🇴🇲</emoji>
     <emojiU>U+1F1F4 U+1F1F2</emojiU>
     <states>
@@ -487829,6 +489779,13 @@
     <native>Pakistan</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Karachi</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>PKT</abbreviation>
+      <tzName>Pakistan Standard Time</tzName>
+    </timezones>
     <emoji>🇵🇰</emoji>
     <emojiU>U+1F1F5 U+1F1F0</emojiU>
     <states>
@@ -490631,6 +492588,13 @@
     <native>Palau</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Palau</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>PWT</abbreviation>
+      <tzName>Palau Time</tzName>
+    </timezones>
     <emoji>🇵🇼</emoji>
     <emojiU>U+1F1F5 U+1F1FC</emojiU>
     <states>
@@ -490822,6 +492786,20 @@
     <native>فلسطين</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Gaza</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Hebron</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇵🇸</emoji>
     <emojiU>U+1F1F5 U+1F1F8</emojiU>
     <states/>
@@ -490837,6 +492815,13 @@
     <native>Panamá</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
+    <timezones>
+      <zoneName>America/Panama</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
     <emoji>🇵🇦</emoji>
     <emojiU>U+1F1F5 U+1F1E6</emojiU>
     <states>
@@ -494516,6 +496501,20 @@
     <native>Papua Niugini</native>
     <region>Oceania</region>
     <subregion>Melanesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Bougainville</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>BST</abbreviation>
+      <tzName>Bougainville Standard Time[6</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Port_Moresby</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>PGT</abbreviation>
+      <tzName>Papua New Guinea Time</tzName>
+    </timezones>
     <emoji>🇵🇬</emoji>
     <emojiU>U+1F1F5 U+1F1EC</emojiU>
     <states>
@@ -495241,6 +497240,13 @@
     <native>Paraguay</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Asuncion</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>PYST</abbreviation>
+      <tzName>Paraguay Summer Time</tzName>
+    </timezones>
     <emoji>🇵🇾</emoji>
     <emojiU>U+1F1F5 U+1F1FE</emojiU>
     <states>
@@ -496180,6 +498186,13 @@
     <native>Perú</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Lima</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>PET</abbreviation>
+      <tzName>Peru Time</tzName>
+    </timezones>
     <emoji>🇵🇪</emoji>
     <emojiU>U+1F1F5 U+1F1EA</emojiU>
     <states>
@@ -499134,6 +501147,13 @@
     <native>Pilipinas</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Manila</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>PHT</abbreviation>
+      <tzName>Philippine Time</tzName>
+    </timezones>
     <emoji>🇵🇭</emoji>
     <emojiU>U+1F1F5 U+1F1ED</emojiU>
     <states>
@@ -538242,6 +540262,13 @@
     <native>Pitcairn Islands</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Pitcairn</zoneName>
+      <gmtOffset>-28800</gmtOffset>
+      <gmtOffsetName>UTC-08:00</gmtOffsetName>
+      <abbreviation>PST</abbreviation>
+      <tzName>Pacific Standard Time (North America</tzName>
+    </timezones>
     <emoji>🇵🇳</emoji>
     <emojiU>U+1F1F5 U+1F1F3</emojiU>
     <states/>
@@ -538257,6 +540284,13 @@
     <native>Polska</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Warsaw</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇵🇱</emoji>
     <emojiU>U+1F1F5 U+1F1F1</emojiU>
     <states>
@@ -557131,6 +559165,27 @@
     <native>Portugal</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Atlantic/Azores</zoneName>
+      <gmtOffset>-3600</gmtOffset>
+      <gmtOffsetName>UTC-01:00</gmtOffsetName>
+      <abbreviation>AZOT</abbreviation>
+      <tzName>Azores Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Atlantic/Madeira</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>WET</abbreviation>
+      <tzName>Western European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Lisbon</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>WET</abbreviation>
+      <tzName>Western European Time</tzName>
+    </timezones>
     <emoji>🇵🇹</emoji>
     <emojiU>U+1F1F5 U+1F1F9</emojiU>
     <states>
@@ -565165,6 +567220,13 @@
     <native>Puerto Rico</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Puerto_Rico</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇵🇷</emoji>
     <emojiU>U+1F1F5 U+1F1F7</emojiU>
     <states/>
@@ -565180,6 +567242,13 @@
     <native>قطر</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Qatar</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Arabia Standard Time</tzName>
+    </timezones>
     <emoji>🇶🇦</emoji>
     <emojiU>U+1F1F6 U+1F1E6</emojiU>
     <states>
@@ -565325,6 +567394,13 @@
     <native>La Réunion</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Reunion</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>RET</abbreviation>
+      <tzName>Réunion Time</tzName>
+    </timezones>
     <emoji>🇷🇪</emoji>
     <emojiU>U+1F1F7 U+1F1EA</emojiU>
     <states/>
@@ -565340,6 +567416,13 @@
     <native>România</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Bucharest</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇷🇴</emoji>
     <emojiU>U+1F1F7 U+1F1F4</emojiU>
     <states>
@@ -610385,6 +612468,188 @@
     <native>Россия</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Asia/Anadyr</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>ANAT</abbreviation>
+      <tzName>Anadyr Time[4</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Barnaul</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>KRAT</abbreviation>
+      <tzName>Krasnoyarsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Chita</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>YAKT</abbreviation>
+      <tzName>Yakutsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Irkutsk</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>IRKT</abbreviation>
+      <tzName>Irkutsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Kamchatka</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>PETT</abbreviation>
+      <tzName>Kamchatka Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Khandyga</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>YAKT</abbreviation>
+      <tzName>Yakutsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Krasnoyarsk</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>KRAT</abbreviation>
+      <tzName>Krasnoyarsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Magadan</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>MAGT</abbreviation>
+      <tzName>Magadan Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Novokuznetsk</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>KRAT</abbreviation>
+      <tzName>Krasnoyarsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Novosibirsk</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>NOVT</abbreviation>
+      <tzName>Novosibirsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Omsk</zoneName>
+      <gmtOffset>21600</gmtOffset>
+      <gmtOffsetName>UTC+06:00</gmtOffsetName>
+      <abbreviation>OMST</abbreviation>
+      <tzName>Omsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Sakhalin</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>SAKT</abbreviation>
+      <tzName>Sakhalin Island Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Srednekolymsk</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>SRET</abbreviation>
+      <tzName>Srednekolymsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Tomsk</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>MSD+3</abbreviation>
+      <tzName>Moscow Daylight Time+3</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Ust-Nera</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>VLAT</abbreviation>
+      <tzName>Vladivostok Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Vladivostok</zoneName>
+      <gmtOffset>36000</gmtOffset>
+      <gmtOffsetName>UTC+10:00</gmtOffsetName>
+      <abbreviation>VLAT</abbreviation>
+      <tzName>Vladivostok Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Yakutsk</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>YAKT</abbreviation>
+      <tzName>Yakutsk Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Yekaterinburg</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>YEKT</abbreviation>
+      <tzName>Yekaterinburg Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Astrakhan</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>SAMT</abbreviation>
+      <tzName>Samara Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Kaliningrad</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Kirov</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Moscow</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Samara</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>SAMT</abbreviation>
+      <tzName>Samara Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Saratov</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>MSD</abbreviation>
+      <tzName>Moscow Daylight Time+4</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Ulyanovsk</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>SAMT</abbreviation>
+      <tzName>Samara Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Volgograd</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Standard Time</tzName>
+    </timezones>
     <emoji>🇷🇺</emoji>
     <emojiU>U+1F1F7 U+1F1FA</emojiU>
     <states>
@@ -643593,6 +645858,13 @@
     <native>Rwanda</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Kigali</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
     <emoji>🇷🇼</emoji>
     <emojiU>U+1F1F7 U+1F1FC</emojiU>
     <states>
@@ -643704,6 +645976,13 @@
     <native>Saint Helena</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Atlantic/St_Helena</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇸🇭</emoji>
     <emojiU>U+1F1F8 U+1F1ED</emojiU>
     <states/>
@@ -643719,6 +645998,13 @@
     <native>Saint Kitts and Nevis</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/St_Kitts</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇰🇳</emoji>
     <emojiU>U+1F1F0 U+1F1F3</emojiU>
     <states>
@@ -643888,6 +646174,13 @@
     <native>Saint Lucia</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/St_Lucia</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇱🇨</emoji>
     <emojiU>U+1F1F1 U+1F1E8</emojiU>
     <states>
@@ -646850,6 +649143,13 @@
     <native>Saint-Pierre-et-Miquelon</native>
     <region>Americas</region>
     <subregion>Northern America</subregion>
+    <timezones>
+      <zoneName>America/Miquelon</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>PMDT</abbreviation>
+      <tzName>Pierre &amp; Miquelon Daylight Time</tzName>
+    </timezones>
     <emoji>🇵🇲</emoji>
     <emojiU>U+1F1F5 U+1F1F2</emojiU>
     <states/>
@@ -646865,6 +649165,13 @@
     <native>Saint Vincent and the Grenadines</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/St_Vincent</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇻🇨</emoji>
     <emojiU>U+1F1FB U+1F1E8</emojiU>
     <states>
@@ -646963,6 +649270,13 @@
     <native>Saint-Barthélemy</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/St_Barthelemy</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇧🇱</emoji>
     <emojiU>U+1F1E7 U+1F1F1</emojiU>
     <states/>
@@ -646978,6 +649292,13 @@
     <native>Saint-Martin</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Marigot</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇲🇫</emoji>
     <emojiU>U+1F1F2 U+1F1EB</emojiU>
     <states/>
@@ -646993,6 +649314,13 @@
     <native>Samoa</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Apia</zoneName>
+      <gmtOffset>50400</gmtOffset>
+      <gmtOffsetName>UTC+14:00</gmtOffsetName>
+      <abbreviation>WST</abbreviation>
+      <tzName>West Samoa Time</tzName>
+    </timezones>
     <emoji>🇼🇸</emoji>
     <emojiU>U+1F1FC U+1F1F8</emojiU>
     <states>
@@ -647185,6 +649513,13 @@
     <native>San Marino</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/San_Marino</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇸🇲</emoji>
     <emojiU>U+1F1F8 U+1F1F2</emojiU>
     <states>
@@ -647298,6 +649633,13 @@
     <native>São Tomé e Príncipe</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Sao_Tome</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇸🇹</emoji>
     <emojiU>U+1F1F8 U+1F1F9</emojiU>
     <states>
@@ -647352,6 +649694,13 @@
     <native>العربية السعودية</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Riyadh</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Arabia Standard Time</tzName>
+    </timezones>
     <emoji>🇸🇦</emoji>
     <emojiU>U+1F1F8 U+1F1E6</emojiU>
     <states>
@@ -648001,6 +650350,13 @@
     <native>Sénégal</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Dakar</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇸🇳</emoji>
     <emojiU>U+1F1F8 U+1F1F3</emojiU>
     <states>
@@ -648523,6 +650879,13 @@
     <native>Србија</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Belgrade</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇷🇸</emoji>
     <emojiU>U+1F1F7 U+1F1F8</emojiU>
     <states>
@@ -650695,6 +653058,13 @@
     <native>Seychelles</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Indian/Mahe</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>SCT</abbreviation>
+      <tzName>Seychelles Time</tzName>
+    </timezones>
     <emoji>🇸🇨</emoji>
     <emojiU>U+1F1F8 U+1F1E8</emojiU>
     <states>
@@ -650893,6 +653263,13 @@
     <native>Sierra Leone</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Freetown</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇸🇱</emoji>
     <emojiU>U+1F1F8 U+1F1F1</emojiU>
     <states>
@@ -651467,6 +653844,13 @@
     <native>Singapore</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Singapore</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>SGT</abbreviation>
+      <tzName>Singapore Time</tzName>
+    </timezones>
     <emoji>🇸🇬</emoji>
     <emojiU>U+1F1F8 U+1F1EC</emojiU>
     <states>
@@ -651521,6 +653905,13 @@
     <native>Slovensko</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Bratislava</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇸🇰</emoji>
     <emojiU>U+1F1F8 U+1F1F0</emojiU>
     <states>
@@ -652973,6 +655364,13 @@
     <native>Slovenija</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Ljubljana</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇸🇮</emoji>
     <emojiU>U+1F1F8 U+1F1EE</emojiU>
     <states>
@@ -655918,6 +658316,13 @@
     <native>Solomon Islands</native>
     <region>Oceania</region>
     <subregion>Melanesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Guadalcanal</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>SBT</abbreviation>
+      <tzName>Solomon Islands Time</tzName>
+    </timezones>
     <emoji>🇸🇧</emoji>
     <emojiU>U+1F1F8 U+1F1E7</emojiU>
     <states>
@@ -656027,6 +658432,13 @@
     <native>Soomaaliya</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Mogadishu</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
     <emoji>🇸🇴</emoji>
     <emojiU>U+1F1F8 U+1F1F4</emojiU>
     <states>
@@ -656398,6 +658810,13 @@
     <native>South Africa</native>
     <region>Africa</region>
     <subregion>Southern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Johannesburg</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>SAST</abbreviation>
+      <tzName>South African Standard Time</tzName>
+    </timezones>
     <emoji>🇿🇦</emoji>
     <emojiU>U+1F1FF U+1F1E6</emojiU>
     <states>
@@ -658341,6 +660760,13 @@
     <native>South Georgia</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>Atlantic/South_Georgia</zoneName>
+      <gmtOffset>-7200</gmtOffset>
+      <gmtOffsetName>UTC-02:00</gmtOffsetName>
+      <abbreviation>GST</abbreviation>
+      <tzName>South Georgia and the South Sandwich Islands Time</tzName>
+    </timezones>
     <emoji>🇬🇸</emoji>
     <emojiU>U+1F1EC U+1F1F8</emojiU>
     <states/>
@@ -658356,6 +660782,13 @@
     <native>South Sudan</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Juba</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
     <emoji>🇸🇸</emoji>
     <emojiU>U+1F1F8 U+1F1F8</emojiU>
     <states>
@@ -658435,6 +660868,27 @@
     <native>España</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Africa/Ceuta</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Atlantic/Canary</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>WET</abbreviation>
+      <tzName>Western European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Madrid</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇪🇸</emoji>
     <emojiU>U+1F1EA U+1F1F8</emojiU>
     <states>
@@ -698973,6 +701427,13 @@
     <native>śrī laṃkāva</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Colombo</zoneName>
+      <gmtOffset>19800</gmtOffset>
+      <gmtOffsetName>UTC+05:30</gmtOffsetName>
+      <abbreviation>IST</abbreviation>
+      <tzName>Indian Standard Time</tzName>
+    </timezones>
     <emoji>🇱🇰</emoji>
     <emojiU>U+1F1F1 U+1F1F0</emojiU>
     <states>
@@ -699764,6 +702225,13 @@
     <native>السودان</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Khartoum</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>Eastern African Time</tzName>
+    </timezones>
     <emoji>🇸🇩</emoji>
     <emojiU>U+1F1F8 U+1F1E9</emojiU>
     <states>
@@ -700294,6 +702762,13 @@
     <native>Suriname</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Paramaribo</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>SRT</abbreviation>
+      <tzName>Suriname Time</tzName>
+    </timezones>
     <emoji>🇸🇷</emoji>
     <emojiU>U+1F1F8 U+1F1F7</emojiU>
     <states>
@@ -700437,6 +702912,13 @@
     <native>Svalbard og Jan Mayen</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Arctic/Longyearbyen</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇸🇯</emoji>
     <emojiU>U+1F1F8 U+1F1EF</emojiU>
     <states/>
@@ -700452,6 +702934,13 @@
     <native>Swaziland</native>
     <region>Africa</region>
     <subregion>Southern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Mbabane</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>SAST</abbreviation>
+      <tzName>South African Standard Time</tzName>
+    </timezones>
     <emoji>🇸🇿</emoji>
     <emojiU>U+1F1F8 U+1F1FF</emojiU>
     <states>
@@ -700690,6 +703179,13 @@
     <native>Sverige</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Stockholm</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇸🇪</emoji>
     <emojiU>U+1F1F8 U+1F1EA</emojiU>
     <states>
@@ -707236,6 +709732,13 @@
     <native>Schweiz</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Zurich</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇨🇭</emoji>
     <emojiU>U+1F1E8 U+1F1ED</emojiU>
     <states>
@@ -716393,6 +718896,13 @@
     <native>سوريا</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Damascus</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇸🇾</emoji>
     <emojiU>U+1F1F8 U+1F1FE</emojiU>
     <states>
@@ -717329,6 +719839,13 @@
     <native>臺灣</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Taipei</zoneName>
+      <gmtOffset>28800</gmtOffset>
+      <gmtOffsetName>UTC+08:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>China Standard Time</tzName>
+    </timezones>
     <emoji>🇹🇼</emoji>
     <emojiU>U+1F1F9 U+1F1FC</emojiU>
     <states>
@@ -717701,6 +720218,13 @@
     <native>Тоҷикистон</native>
     <region>Asia</region>
     <subregion>Central Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Dushanbe</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>TJT</abbreviation>
+      <tzName>Tajikistan Time</tzName>
+    </timezones>
     <emoji>🇹🇯</emoji>
     <emojiU>U+1F1F9 U+1F1EF</emojiU>
     <states>
@@ -718155,6 +720679,13 @@
     <native>Tanzania</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Dar_es_Salaam</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
     <emoji>🇹🇿</emoji>
     <emojiU>U+1F1F9 U+1F1FF</emojiU>
     <states>
@@ -719892,6 +722423,13 @@
     <native>ประเทศไทย</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Bangkok</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>ICT</abbreviation>
+      <tzName>Indochina Time</tzName>
+    </timezones>
     <emoji>🇹🇭</emoji>
     <emojiU>U+1F1F9 U+1F1ED</emojiU>
     <states>
@@ -727696,6 +730234,13 @@
     <native>Togo</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Lome</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇹🇬</emoji>
     <emojiU>U+1F1F9 U+1F1EC</emojiU>
     <states>
@@ -727867,6 +730412,13 @@
     <native>Tokelau</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Fakaofo</zoneName>
+      <gmtOffset>46800</gmtOffset>
+      <gmtOffsetName>UTC+13:00</gmtOffsetName>
+      <abbreviation>TKT</abbreviation>
+      <tzName>Tokelau Time</tzName>
+    </timezones>
     <emoji>🇹🇰</emoji>
     <emojiU>U+1F1F9 U+1F1F0</emojiU>
     <states/>
@@ -727882,6 +730434,13 @@
     <native>Tonga</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Tongatapu</zoneName>
+      <gmtOffset>46800</gmtOffset>
+      <gmtOffsetName>UTC+13:00</gmtOffsetName>
+      <abbreviation>TOT</abbreviation>
+      <tzName>Tonga Time</tzName>
+    </timezones>
     <emoji>🇹🇴</emoji>
     <emojiU>U+1F1F9 U+1F1F4</emojiU>
     <states>
@@ -727969,6 +730528,13 @@
     <native>Trinidad and Tobago</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Port_of_Spain</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇹🇹</emoji>
     <emojiU>U+1F1F9 U+1F1F9</emojiU>
     <states>
@@ -728214,6 +730780,13 @@
     <native>تونس</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Tunis</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇹🇳</emoji>
     <emojiU>U+1F1F9 U+1F1F3</emojiU>
     <states>
@@ -729147,6 +731720,13 @@
     <native>Türkiye</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Europe/Istanbul</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇹🇷</emoji>
     <emojiU>U+1F1F9 U+1F1F7</emojiU>
     <states>
@@ -741134,6 +743714,13 @@
     <native>Türkmenistan</native>
     <region>Asia</region>
     <subregion>Central Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Ashgabat</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>TMT</abbreviation>
+      <tzName>Turkmenistan Time</tzName>
+    </timezones>
     <emoji>🇹🇲</emoji>
     <emojiU>U+1F1F9 U+1F1F2</emojiU>
     <states>
@@ -741358,6 +743945,13 @@
     <native>Turks and Caicos Islands</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Grand_Turk</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
     <emoji>🇹🇨</emoji>
     <emojiU>U+1F1F9 U+1F1E8</emojiU>
     <states/>
@@ -741373,6 +743967,13 @@
     <native>Tuvalu</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Funafuti</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>TVT</abbreviation>
+      <tzName>Tuvalu Time</tzName>
+    </timezones>
     <emoji>🇹🇻</emoji>
     <emojiU>U+1F1F9 U+1F1FB</emojiU>
     <states>
@@ -741483,6 +744084,13 @@
     <native>Uganda</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Kampala</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>EAT</abbreviation>
+      <tzName>East Africa Time</tzName>
+    </timezones>
     <emoji>🇺🇬</emoji>
     <emojiU>U+1F1FA U+1F1EC</emojiU>
     <states>
@@ -742789,6 +745397,34 @@
     <native>Україна</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Kiev</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Simferopol</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>MSK</abbreviation>
+      <tzName>Moscow Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Uzhgorod</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Europe/Zaporozhye</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>EET</abbreviation>
+      <tzName>Eastern European Time</tzName>
+    </timezones>
     <emoji>🇺🇦</emoji>
     <emojiU>U+1F1FA U+1F1E6</emojiU>
     <states>
@@ -752342,6 +754978,13 @@
     <native>دولة الإمارات العربية المتحدة</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Dubai</zoneName>
+      <gmtOffset>14400</gmtOffset>
+      <gmtOffsetName>UTC+04:00</gmtOffsetName>
+      <abbreviation>GST</abbreviation>
+      <tzName>Gulf Standard Time</tzName>
+    </timezones>
     <emoji>🇦🇪</emoji>
     <emojiU>U+1F1E6 U+1F1EA</emojiU>
     <states>
@@ -752625,6 +755268,13 @@
     <native>United Kingdom</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/London</zoneName>
+      <gmtOffset>0</gmtOffset>
+      <gmtOffsetName>UTC±00</gmtOffsetName>
+      <abbreviation>GMT</abbreviation>
+      <tzName>Greenwich Mean Time</tzName>
+    </timezones>
     <emoji>🇬🇧</emoji>
     <emojiU>U+1F1EC U+1F1E7</emojiU>
     <states>
@@ -777343,6 +779993,209 @@
     <native>United States</native>
     <region>Americas</region>
     <subregion>Northern America</subregion>
+    <timezones>
+      <zoneName>America/Adak</zoneName>
+      <gmtOffset>-36000</gmtOffset>
+      <gmtOffsetName>UTC-10:00</gmtOffsetName>
+      <abbreviation>HST</abbreviation>
+      <tzName>Hawaii–Aleutian Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Anchorage</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>AKST</abbreviation>
+      <tzName>Alaska Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Boise</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Chicago</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Denver</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Detroit</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Indianapolis</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Knox</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Marengo</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Petersburg</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Tell_City</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Vevay</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Vincennes</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Indiana/Winamac</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Juneau</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>AKST</abbreviation>
+      <tzName>Alaska Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Kentucky/Louisville</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Kentucky/Monticello</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Los_Angeles</zoneName>
+      <gmtOffset>-28800</gmtOffset>
+      <gmtOffsetName>UTC-08:00</gmtOffsetName>
+      <abbreviation>PST</abbreviation>
+      <tzName>Pacific Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Menominee</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Metlakatla</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>AKST</abbreviation>
+      <tzName>Alaska Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/New_York</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Nome</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>AKST</abbreviation>
+      <tzName>Alaska Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/North_Dakota/Beulah</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/North_Dakota/Center</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/North_Dakota/New_Salem</zoneName>
+      <gmtOffset>-21600</gmtOffset>
+      <gmtOffsetName>UTC-06:00</gmtOffsetName>
+      <abbreviation>CST</abbreviation>
+      <tzName>Central Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Phoenix</zoneName>
+      <gmtOffset>-25200</gmtOffset>
+      <gmtOffsetName>UTC-07:00</gmtOffsetName>
+      <abbreviation>MST</abbreviation>
+      <tzName>Mountain Standard Time (North America</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Sitka</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>AKST</abbreviation>
+      <tzName>Alaska Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>America/Yakutat</zoneName>
+      <gmtOffset>-32400</gmtOffset>
+      <gmtOffsetName>UTC-09:00</gmtOffsetName>
+      <abbreviation>AKST</abbreviation>
+      <tzName>Alaska Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Honolulu</zoneName>
+      <gmtOffset>-36000</gmtOffset>
+      <gmtOffsetName>UTC-10:00</gmtOffsetName>
+      <abbreviation>HST</abbreviation>
+      <tzName>Hawaii–Aleutian Standard Time</tzName>
+    </timezones>
     <emoji>🇺🇸</emoji>
     <emojiU>U+1F1FA U+1F1F8</emojiU>
     <states>
@@ -896603,6 +899456,20 @@
     <native>United States Minor Outlying Islands</native>
     <region>Americas</region>
     <subregion>Northern America</subregion>
+    <timezones>
+      <zoneName>Pacific/Midway</zoneName>
+      <gmtOffset>-39600</gmtOffset>
+      <gmtOffsetName>UTC-11:00</gmtOffsetName>
+      <abbreviation>SST</abbreviation>
+      <tzName>Samoa Standard Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Pacific/Wake</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>WAKT</abbreviation>
+      <tzName>Wake Island Time</tzName>
+    </timezones>
     <emoji>🇺🇲</emoji>
     <emojiU>U+1F1FA U+1F1F2</emojiU>
     <states/>
@@ -896618,6 +899485,13 @@
     <native>Uruguay</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Montevideo</zoneName>
+      <gmtOffset>-10800</gmtOffset>
+      <gmtOffsetName>UTC-03:00</gmtOffsetName>
+      <abbreviation>UYT</abbreviation>
+      <tzName>Uruguay Standard Time</tzName>
+    </timezones>
     <emoji>🇺🇾</emoji>
     <emojiU>U+1F1FA U+1F1FE</emojiU>
     <states>
@@ -897465,6 +900339,20 @@
     <native>O‘zbekiston</native>
     <region>Asia</region>
     <subregion>Central Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Samarkand</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>UZT</abbreviation>
+      <tzName>Uzbekistan Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Asia/Tashkent</zoneName>
+      <gmtOffset>18000</gmtOffset>
+      <gmtOffsetName>UTC+05:00</gmtOffsetName>
+      <abbreviation>UZT</abbreviation>
+      <tzName>Uzbekistan Time</tzName>
+    </timezones>
     <emoji>🇺🇿</emoji>
     <emojiU>U+1F1FA U+1F1FF</emojiU>
     <states>
@@ -898359,6 +901247,13 @@
     <native>Vanuatu</native>
     <region>Oceania</region>
     <subregion>Melanesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Efate</zoneName>
+      <gmtOffset>39600</gmtOffset>
+      <gmtOffsetName>UTC+11:00</gmtOffsetName>
+      <abbreviation>VUT</abbreviation>
+      <tzName>Vanuatu Time</tzName>
+    </timezones>
     <emoji>🇻🇺</emoji>
     <emojiU>U+1F1FB U+1F1FA</emojiU>
     <states>
@@ -898446,6 +901341,13 @@
     <native>Vaticano</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
+    <timezones>
+      <zoneName>Europe/Vatican</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
     <emoji>🇻🇦</emoji>
     <emojiU>U+1F1FB U+1F1E6</emojiU>
     <states/>
@@ -898461,6 +901363,13 @@
     <native>Venezuela</native>
     <region>Americas</region>
     <subregion>South America</subregion>
+    <timezones>
+      <zoneName>America/Caracas</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>VET</abbreviation>
+      <tzName>Venezuelan Standard Time</tzName>
+    </timezones>
     <emoji>🇻🇪</emoji>
     <emojiU>U+1F1FB U+1F1EA</emojiU>
     <states>
@@ -899407,6 +902316,13 @@
     <native>Việt Nam</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Ho_Chi_Minh</zoneName>
+      <gmtOffset>25200</gmtOffset>
+      <gmtOffsetName>UTC+07:00</gmtOffsetName>
+      <abbreviation>ICT</abbreviation>
+      <tzName>Indochina Time</tzName>
+    </timezones>
     <emoji>🇻🇳</emoji>
     <emojiU>U+1F1FB U+1F1F3</emojiU>
     <states>
@@ -902520,6 +905436,13 @@
     <native>British Virgin Islands</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Tortola</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇻🇬</emoji>
     <emojiU>U+1F1FB U+1F1EC</emojiU>
     <states/>
@@ -902535,6 +905458,13 @@
     <native>United States Virgin Islands</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/St_Thomas</zoneName>
+      <gmtOffset>-14400</gmtOffset>
+      <gmtOffsetName>UTC-04:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Atlantic Standard Time</tzName>
+    </timezones>
     <emoji>🇻🇮</emoji>
     <emojiU>U+1F1FB U+1F1EE</emojiU>
     <states/>
@@ -902550,6 +905480,13 @@
     <native>Wallis et Futuna</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
+    <timezones>
+      <zoneName>Pacific/Wallis</zoneName>
+      <gmtOffset>43200</gmtOffset>
+      <gmtOffsetName>UTC+12:00</gmtOffsetName>
+      <abbreviation>WFT</abbreviation>
+      <tzName>Wallis &amp; Futuna Time</tzName>
+    </timezones>
     <emoji>🇼🇫</emoji>
     <emojiU>U+1F1FC U+1F1EB</emojiU>
     <states/>
@@ -902565,6 +905502,13 @@
     <native>الصحراء الغربية</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/El_Aaiun</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WEST</abbreviation>
+      <tzName>Western European Summer Time</tzName>
+    </timezones>
     <emoji>🇪🇭</emoji>
     <emojiU>U+1F1EA U+1F1ED</emojiU>
     <states/>
@@ -902580,6 +905524,13 @@
     <native>اليَمَن</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
+    <timezones>
+      <zoneName>Asia/Aden</zoneName>
+      <gmtOffset>10800</gmtOffset>
+      <gmtOffsetName>UTC+03:00</gmtOffsetName>
+      <abbreviation>AST</abbreviation>
+      <tzName>Arabia Standard Time</tzName>
+    </timezones>
     <emoji>🇾🇪</emoji>
     <emojiU>U+1F1FE U+1F1EA</emojiU>
     <states>
@@ -904812,6 +907763,13 @@
     <native>Zambia</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Lusaka</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
     <emoji>🇿🇲</emoji>
     <emojiU>U+1F1FF U+1F1F2</emojiU>
     <states>
@@ -905302,6 +908260,13 @@
     <native>Zimbabwe</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Harare</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
     <emoji>🇿🇼</emoji>
     <emojiU>U+1F1FF U+1F1FC</emojiU>
     <states>
