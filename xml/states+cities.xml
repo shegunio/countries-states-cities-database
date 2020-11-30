@@ -699865,22 +699865,10 @@
       <longitude>80.65167000</longitude>
     </cities>
     <cities>
-      <id>66472</id>
-      <name>Gampola</name>
-      <latitude>7.16430000</latitude>
-      <longitude>80.56960000</longitude>
-    </cities>
-    <cities>
       <id>66476</id>
       <name>Hatton</name>
       <latitude>6.89160000</latitude>
       <longitude>80.59550000</longitude>
-    </cities>
-    <cities>
-      <id>66485</id>
-      <name>Kadugannawa</name>
-      <latitude>7.25470000</latitude>
-      <longitude>80.52420000</longitude>
     </cities>
     <cities>
       <id>66489</id>
@@ -699936,7 +699924,78 @@
     <name>Colombo District</name>
     <state_code>11</state_code>
     <country_id>208</country_id>
-    <cities/>
+    <cities>
+      <id>66464</id>
+      <name>Dehiwala-Mount Lavinia</name>
+      <latitude>6.84019000</latitude>
+      <longitude>79.87116000</longitude>
+    </cities>
+    <cities>
+      <id>66479</id>
+      <name>Homagama</name>
+      <latitude>6.84879896</latitude>
+      <longitude>80.00467300</longitude>
+    </cities>
+    <cities>
+      <id>146181</id>
+      <name>Kaduwela</name>
+      <latitude>6.93106260</latitude>
+      <longitude>79.97944220</longitude>
+    </cities>
+    <cities>
+      <id>146180</id>
+      <name>Kesbewa</name>
+      <latitude>6.78425894</latitude>
+      <longitude>79.94665276</longitude>
+    </cities>
+    <cities>
+      <id>66499</id>
+      <name>Kolonnawa</name>
+      <latitude>6.92893463</latitude>
+      <longitude>79.89495168</longitude>
+    </cities>
+    <cities>
+      <id>146176</id>
+      <name>Kotte</name>
+      <latitude>6.88932048</latitude>
+      <longitude>79.90359501</longitude>
+    </cities>
+    <cities>
+      <id>66504</id>
+      <name>Maharagama</name>
+      <latitude>6.84954886</latitude>
+      <longitude>79.92507313</longitude>
+    </cities>
+    <cities>
+      <id>66514</id>
+      <name>Moratuwa</name>
+      <latitude>6.78149272</latitude>
+      <longitude>79.88347117</longitude>
+    </cities>
+    <cities>
+      <id>146179</id>
+      <name>Padukka</name>
+      <latitude>6.84794680</latitude>
+      <longitude>80.10153292</longitude>
+    </cities>
+    <cities>
+      <id>146178</id>
+      <name>Ratmalana</name>
+      <latitude>6.82105987</latitude>
+      <longitude>79.88023083</longitude>
+    </cities>
+    <cities>
+      <id>146177</id>
+      <name>Seethawaka</name>
+      <latitude>6.92959912</latitude>
+      <longitude>80.14979867</longitude>
+    </cities>
+    <cities>
+      <id>146175</id>
+      <name>Thimbirigasyaya</name>
+      <latitude>6.90214217</latitude>
+      <longitude>79.86957578</longitude>
+    </cities>
   </state_city>
   <state_city>
     <id>2808</id>
@@ -700038,7 +700097,276 @@
     <name>Kandy District</name>
     <state_code>21</state_code>
     <country_id>208</country_id>
-    <cities/>
+    <cities>
+      <id>146174</id>
+      <name>Akurana</name>
+      <latitude>7.36500000</latitude>
+      <longitude>80.61722200</longitude>
+    </cities>
+    <cities>
+      <id>146150</id>
+      <name>Alawatugoda</name>
+      <latitude>7.41048962</latitude>
+      <longitude>80.60918933</longitude>
+    </cities>
+    <cities>
+      <id>146149</id>
+      <name>Ambatenna</name>
+      <latitude>7.35252855</latitude>
+      <longitude>80.61378113</longitude>
+    </cities>
+    <cities>
+      <id>146148</id>
+      <name>Daskara</name>
+      <latitude>7.20902217</latitude>
+      <longitude>80.57764643</longitude>
+    </cities>
+    <cities>
+      <id>146147</id>
+      <name>Daulagala</name>
+      <latitude>7.22882494</latitude>
+      <longitude>80.57756073</longitude>
+    </cities>
+    <cities>
+      <id>146173</id>
+      <name>Delthota</name>
+      <latitude>7.18491721</latitude>
+      <longitude>80.70488697</longitude>
+    </cities>
+    <cities>
+      <id>146172</id>
+      <name>Doluwa</name>
+      <latitude>7.18518536</latitude>
+      <longitude>80.60573450</longitude>
+    </cities>
+    <cities>
+      <id>146146</id>
+      <name>Galagedara</name>
+      <latitude>7.36833300</latitude>
+      <longitude>80.52750000</longitude>
+    </cities>
+    <cities>
+      <id>146145</id>
+      <name>Galhinna</name>
+      <latitude>7.41614200</latitude>
+      <longitude>80.56884200</longitude>
+    </cities>
+    <cities>
+      <id>66472</id>
+      <name>Gampola</name>
+      <latitude>7.16430000</latitude>
+      <longitude>80.56960000</longitude>
+    </cities>
+    <cities>
+      <id>146171</id>
+      <name>Ganga Ihala Korale</name>
+      <latitude>7.11455516</latitude>
+      <longitude>80.51448810</longitude>
+    </cities>
+    <cities>
+      <id>146144</id>
+      <name>Hanguranketa</name>
+      <latitude>7.16666700</latitude>
+      <longitude>80.78333300</longitude>
+    </cities>
+    <cities>
+      <id>146143</id>
+      <name>Hapugastalawa</name>
+      <latitude>7.05872498</latitude>
+      <longitude>80.57137014</longitude>
+    </cities>
+    <cities>
+      <id>146170</id>
+      <name>Harispattuwa</name>
+      <latitude>7.33016007</latitude>
+      <longitude>80.58765149</longitude>
+    </cities>
+    <cities>
+      <id>146169</id>
+      <name>Hatharaliyadda</name>
+      <latitude>7.33032982</latitude>
+      <longitude>80.47875881</longitude>
+    </cities>
+    <cities>
+      <id>66485</id>
+      <name>Kadugannawa</name>
+      <latitude>7.25470000</latitude>
+      <longitude>80.52420000</longitude>
+    </cities>
+    <cities>
+      <id>146168</id>
+      <name>Kandy Four Gravets</name>
+      <latitude>7.28318748</latitude>
+      <longitude>80.63527585</longitude>
+    </cities>
+    <cities>
+      <id>146153</id>
+      <name>Katugastota</name>
+      <latitude>7.33333300</latitude>
+      <longitude>80.61666700</longitude>
+    </cities>
+    <cities>
+      <id>146167</id>
+      <name>Kundasale</name>
+      <latitude>7.30391594</latitude>
+      <longitude>80.71230408</longitude>
+    </cities>
+    <cities>
+      <id>146142</id>
+      <name>Madawala</name>
+      <latitude>7.32833100</latitude>
+      <longitude>80.67355200</longitude>
+    </cities>
+    <cities>
+      <id>146166</id>
+      <name>Medadumbara</name>
+      <latitude>7.30425996</latitude>
+      <longitude>80.77519844</longitude>
+    </cities>
+    <cities>
+      <id>146141</id>
+      <name>Menikdiwela</name>
+      <latitude>7.08333300</latitude>
+      <longitude>80.73333300</longitude>
+    </cities>
+    <cities>
+      <id>146165</id>
+      <name>Minipe</name>
+      <latitude>7.22638754</latitude>
+      <longitude>81.00116732</longitude>
+    </cities>
+    <cities>
+      <id>146151</id>
+      <name>Nawalapitiya</name>
+      <latitude>7.03696481</latitude>
+      <longitude>80.51626688</longitude>
+    </cities>
+    <cities>
+      <id>146152</id>
+      <name>Pallekele</name>
+      <latitude>7.28333300</latitude>
+      <longitude>80.70000000</longitude>
+    </cities>
+    <cities>
+      <id>146164</id>
+      <name>Panvila</name>
+      <latitude>7.40929750</latitude>
+      <longitude>80.73966228</longitude>
+    </cities>
+    <cities>
+      <id>146163</id>
+      <name>Pasbage Korale</name>
+      <latitude>7.01510450</latitude>
+      <longitude>80.54078073</longitude>
+    </cities>
+    <cities>
+      <id>146162</id>
+      <name>Pathadumbara</name>
+      <latitude>7.34931196</latitude>
+      <longitude>80.66303689</longitude>
+    </cities>
+    <cities>
+      <id>146161</id>
+      <name>Pathahewaheta</name>
+      <latitude>7.23139207</latitude>
+      <longitude>80.70848937</longitude>
+    </cities>
+    <cities>
+      <id>146154</id>
+      <name>Peradeniya</name>
+      <latitude>7.26666700</latitude>
+      <longitude>80.60000000</longitude>
+    </cities>
+    <cities>
+      <id>146140</id>
+      <name>Pilimathalawa</name>
+      <latitude>7.27000000</latitude>
+      <longitude>80.57000000</longitude>
+    </cities>
+    <cities>
+      <id>146160</id>
+      <name>Poojapitiya</name>
+      <latitude>7.38093796</latitude>
+      <longitude>80.58913708</longitude>
+    </cities>
+    <cities>
+      <id>146139</id>
+      <name>Pussellawa</name>
+      <latitude>7.10533300</latitude>
+      <longitude>80.63666700</longitude>
+    </cities>
+    <cities>
+      <id>146138</id>
+      <name>Talatuoya</name>
+      <latitude>7.25000000</latitude>
+      <longitude>80.68333300</longitude>
+    </cities>
+    <cities>
+      <id>146137</id>
+      <name>Teldeniya</name>
+      <latitude>7.30000000</latitude>
+      <longitude>80.76666700</longitude>
+    </cities>
+    <cities>
+      <id>146159</id>
+      <name>Thumpane</name>
+      <latitude>7.36616728</latitude>
+      <longitude>80.51587048</longitude>
+    </cities>
+    <cities>
+      <id>146133</id>
+      <name>Udadumbara</name>
+      <latitude>7.35000000</latitude>
+      <longitude>80.83333300</longitude>
+    </cities>
+    <cities>
+      <id>146158</id>
+      <name>Udapalatha</name>
+      <latitude>7.11515526</latitude>
+      <longitude>80.60248340</longitude>
+    </cities>
+    <cities>
+      <id>146157</id>
+      <name>Ududumbara</name>
+      <latitude>7.31434839</latitude>
+      <longitude>80.87707756</longitude>
+    </cities>
+    <cities>
+      <id>146156</id>
+      <name>Udunuwara</name>
+      <latitude>7.22777866</latitude>
+      <longitude>80.55894578</longitude>
+    </cities>
+    <cities>
+      <id>146136</id>
+      <name>Ulapane</name>
+      <latitude>7.10277800</latitude>
+      <longitude>80.56111100</longitude>
+    </cities>
+    <cities>
+      <id>146135</id>
+      <name>Watadeniya</name>
+      <latitude>7.19501100</latitude>
+      <longitude>80.55249400</longitude>
+    </cities>
+    <cities>
+      <id>66542</id>
+      <name>Wattegama</name>
+      <latitude>7.35027800</latitude>
+      <longitude>80.68250000</longitude>
+    </cities>
+    <cities>
+      <id>146134</id>
+      <name>Welamboda</name>
+      <latitude>7.20000000</latitude>
+      <longitude>80.55000000</longitude>
+    </cities>
+    <cities>
+      <id>146155</id>
+      <name>Yatinuwara</name>
+      <latitude>7.28584509</latitude>
+      <longitude>80.53516168</longitude>
+    </cities>
   </state_city>
   <state_city>
     <id>2797</id>
@@ -700430,12 +700758,6 @@
       <longitude>81.33333000</longitude>
     </cities>
     <cities>
-      <id>66542</id>
-      <name>Wattegama</name>
-      <latitude>6.79890000</latitude>
-      <longitude>81.48080000</longitude>
-    </cities>
-    <cities>
       <id>66545</id>
       <name>Wellawaya</name>
       <latitude>6.73694000</latitude>
@@ -700479,12 +700801,6 @@
       <longitude>80.01660000</longitude>
     </cities>
     <cities>
-      <id>66464</id>
-      <name>Dehiwala-Mount Lavinia</name>
-      <latitude>6.84019000</latitude>
-      <longitude>79.87116000</longitude>
-    </cities>
-    <cities>
       <id>66470</id>
       <name>Gampaha</name>
       <latitude>7.08970000</latitude>
@@ -700507,12 +700823,6 @@
       <name>Hendala</name>
       <latitude>6.99090000</latitude>
       <longitude>79.88300000</longitude>
-    </cities>
-    <cities>
-      <id>66479</id>
-      <name>Homagama</name>
-      <latitude>6.84400000</latitude>
-      <longitude>80.00240000</longitude>
     </cities>
     <cities>
       <id>66480</id>
@@ -700557,34 +700867,16 @@
       <longitude>79.92200000</longitude>
     </cities>
     <cities>
-      <id>66499</id>
-      <name>Kolonnawa</name>
-      <latitude>6.93290000</latitude>
-      <longitude>79.88480000</longitude>
-    </cities>
-    <cities>
       <id>66500</id>
       <name>Kotikawatta</name>
       <latitude>6.92690000</latitude>
       <longitude>79.90950000</longitude>
     </cities>
     <cities>
-      <id>66504</id>
-      <name>Maharagama</name>
-      <latitude>6.84800000</latitude>
-      <longitude>79.92650000</longitude>
-    </cities>
-    <cities>
       <id>66510</id>
       <name>Minuwangoda</name>
       <latitude>7.16630000</latitude>
       <longitude>79.95330000</longitude>
-    </cities>
-    <cities>
-      <id>66514</id>
-      <name>Moratuwa</name>
-      <latitude>6.77300000</latitude>
-      <longitude>79.88160000</longitude>
     </cities>
     <cities>
       <id>66515</id>
