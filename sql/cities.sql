@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Nov 29, 2020 at 04:22 PM
+-- Generation Time: Dec 05, 2020 at 01:25 PM
 -- Server version: 5.7.26
 -- PHP Version: 7.4.2
 
@@ -146601,7 +146601,8 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (146178, 'Ratmalana', 2815, '11', 208, 'LK', '6.82105987', '79.88023083', '2020-10-29 13:51:31', '2020-10-29 15:41:45', 1, 'Q7295826'),
 (146179, 'Padukka', 2815, '11', 208, 'LK', '6.84794680', '80.10153292', '2020-10-29 13:51:31', '2020-10-29 15:41:45', 1, 'Q7124001'),
 (146180, 'Kesbewa', 2815, '11', 208, 'LK', '6.78425894', '79.94665276', '2020-10-29 13:51:31', '2020-10-29 15:39:34', 1, 'Q6394911'),
-(146181, 'Kaduwela', 2815, '11', 208, 'LK', '6.93106260', '79.97944220', '2020-10-29 13:51:31', '2020-10-29 15:31:18', 1, 'Q6345805');
+(146181, 'Kaduwela', 2815, '11', 208, 'LK', '6.93106260', '79.97944220', '2020-10-29 13:51:31', '2020-10-29 15:31:18', 1, 'Q6345805'),
+(146182, 'Reghin', 4760, 'MM', 181, 'RO', '46.77238770', '24.66945610', '2020-12-05 13:21:35', '2020-12-05 13:21:35', 1, 'Q572478');
 
 --
 -- Indexes for dumped tables
@@ -146623,7 +146624,7 @@ ALTER TABLE `cities`
 -- AUTO_INCREMENT for table `cities`
 --
 ALTER TABLE `cities`
-  MODIFY `id` mediumint(8) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=146182;
+  MODIFY `id` mediumint(8) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=146183;
 
 --
 -- Constraints for dumped tables
