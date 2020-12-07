@@ -100329,6 +100329,13 @@
     </cities>
   </state_city>
   <state_city>
+    <id>4882</id>
+    <name>Shumen</name>
+    <state_code>27</state_code>
+    <country_id>34</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
     <id>4708</id>
     <name>Silistra Province</name>
     <state_code>19</state_code>
@@ -593032,1110 +593039,6 @@
     </cities>
   </state_city>
   <state_city>
-    <id>4760</id>
-    <name>Maramureș County</name>
-    <state_code>MM</state_code>
-    <country_id>181</country_id>
-    <cities>
-      <id>89984</id>
-      <name>Ardusat</name>
-      <latitude>47.65000000</latitude>
-      <longitude>23.36667000</longitude>
-    </cities>
-    <cities>
-      <id>89994</id>
-      <name>Ariniş</name>
-      <latitude>47.50000000</latitude>
-      <longitude>23.23333000</longitude>
-    </cities>
-    <cities>
-      <id>90001</id>
-      <name>Asuaju de Sus</name>
-      <latitude>47.56667000</latitude>
-      <longitude>23.18333000</longitude>
-    </cities>
-    <cities>
-      <id>90029</id>
-      <name>Baia Mare</name>
-      <latitude>47.65729000</latitude>
-      <longitude>23.56808000</longitude>
-    </cities>
-    <cities>
-      <id>90030</id>
-      <name>Baia Sprie</name>
-      <latitude>47.66189000</latitude>
-      <longitude>23.69215000</longitude>
-    </cities>
-    <cities>
-      <id>90488</id>
-      <name>Băile Borșa</name>
-      <latitude>47.68416000</latitude>
-      <longitude>24.71391000</longitude>
-    </cities>
-    <cities>
-      <id>90500</id>
-      <name>Băița</name>
-      <latitude>47.70614000</latitude>
-      <longitude>23.49326000</longitude>
-    </cities>
-    <cities>
-      <id>90498</id>
-      <name>Băiţa de sub Codru</name>
-      <latitude>47.53333000</latitude>
-      <longitude>23.15000000</longitude>
-    </cities>
-    <cities>
-      <id>90495</id>
-      <name>Băiuţ</name>
-      <latitude>47.61667000</latitude>
-      <longitude>24.00000000</longitude>
-    </cities>
-    <cities>
-      <id>90455</id>
-      <name>Bârsana</name>
-      <latitude>47.81667000</latitude>
-      <longitude>24.06667000</longitude>
-    </cities>
-    <cities>
-      <id>90550</id>
-      <name>Băseşti</name>
-      <latitude>47.48333000</latitude>
-      <longitude>23.15000000</longitude>
-    </cities>
-    <cities>
-      <id>90096</id>
-      <name>Berbești</name>
-      <latitude>47.84865000</latitude>
-      <longitude>23.93448000</longitude>
-    </cities>
-    <cities>
-      <id>90125</id>
-      <name>Bicaz</name>
-      <latitude>47.46667000</latitude>
-      <longitude>23.03333000</longitude>
-    </cities>
-    <cities>
-      <id>90144</id>
-      <name>Bistra</name>
-      <latitude>47.86667000</latitude>
-      <longitude>24.20000000</longitude>
-    </cities>
-    <cities>
-      <id>90175</id>
-      <name>Bocicoiu Mare</name>
-      <latitude>47.96667000</latitude>
-      <longitude>24.00000000</longitude>
-    </cities>
-    <cities>
-      <id>90187</id>
-      <name>Bogdan Vodă</name>
-      <latitude>47.69197000</latitude>
-      <longitude>24.26605000</longitude>
-    </cities>
-    <cities>
-      <id>90205</id>
-      <name>Boiu Mare</name>
-      <latitude>47.40000000</latitude>
-      <longitude>23.58333000</longitude>
-    </cities>
-    <cities>
-      <id>90222</id>
-      <name>Borcut</name>
-      <latitude>47.48200000</latitude>
-      <longitude>23.84071000</longitude>
-    </cities>
-    <cities>
-      <id>90238</id>
-      <name>Borşa</name>
-      <latitude>47.65527000</latitude>
-      <longitude>24.66328000</longitude>
-    </cities>
-    <cities>
-      <id>90245</id>
-      <name>Botiza</name>
-      <latitude>47.66667000</latitude>
-      <longitude>24.15000000</longitude>
-    </cities>
-    <cities>
-      <id>90290</id>
-      <name>Breb</name>
-      <latitude>47.74854000</latitude>
-      <longitude>23.90494000</longitude>
-    </cities>
-    <cities>
-      <id>90381</id>
-      <name>Budeşti</name>
-      <latitude>47.73333000</latitude>
-      <longitude>23.95000000</longitude>
-    </cities>
-    <cities>
-      <id>93839</id>
-      <name>Călineşti</name>
-      <latitude>47.78423000</latitude>
-      <longitude>23.96961000</longitude>
-    </cities>
-    <cities>
-      <id>93802</id>
-      <name>Câmpulung la Tisa</name>
-      <latitude>47.98651000</latitude>
-      <longitude>23.77263000</longitude>
-    </cities>
-    <cities>
-      <id>90592</id>
-      <name>Cavnic</name>
-      <latitude>47.66667000</latitude>
-      <longitude>23.86667000</longitude>
-    </cities>
-    <cities>
-      <id>90633</id>
-      <name>Cerneşti</name>
-      <latitude>47.51667000</latitude>
-      <longitude>23.75000000</longitude>
-    </cities>
-    <cities>
-      <id>90654</id>
-      <name>Chelința</name>
-      <latitude>47.45311000</latitude>
-      <longitude>23.31799000</longitude>
-    </cities>
-    <cities>
-      <id>90698</id>
-      <name>Cicârlău</name>
-      <latitude>47.69155000</latitude>
-      <longitude>23.40380000</longitude>
-    </cities>
-    <cities>
-      <id>90774</id>
-      <name>Coaș</name>
-      <latitude>47.53957000</latitude>
-      <longitude>23.58584000</longitude>
-    </cities>
-    <cities>
-      <id>90801</id>
-      <name>Coltău</name>
-      <latitude>47.59837000</latitude>
-      <longitude>23.52459000</longitude>
-    </cities>
-    <cities>
-      <id>90887</id>
-      <name>Comuna Ardusat</name>
-      <latitude>47.63241000</latitude>
-      <longitude>23.39156000</longitude>
-    </cities>
-    <cities>
-      <id>90893</id>
-      <name>Comuna Ariniş</name>
-      <latitude>47.50757000</latitude>
-      <longitude>23.22435000</longitude>
-    </cities>
-    <cities>
-      <id>90899</id>
-      <name>Comuna Asuaju de Sus</name>
-      <latitude>47.55000000</latitude>
-      <longitude>23.20000000</longitude>
-    </cities>
-    <cities>
-      <id>91210</id>
-      <name>Comuna Băiţa de sub Codru</name>
-      <latitude>47.53333000</latitude>
-      <longitude>23.15000000</longitude>
-    </cities>
-    <cities>
-      <id>91207</id>
-      <name>Comuna Băiuţ</name>
-      <latitude>47.60191000</latitude>
-      <longitude>24.00180000</longitude>
-    </cities>
-    <cities>
-      <id>91192</id>
-      <name>Comuna Bârsana</name>
-      <latitude>47.81500000</latitude>
-      <longitude>24.05731000</longitude>
-    </cities>
-    <cities>
-      <id>91244</id>
-      <name>Comuna Băseşti</name>
-      <latitude>47.49608000</latitude>
-      <longitude>23.10786000</longitude>
-    </cities>
-    <cities>
-      <id>90982</id>
-      <name>Comuna Bicaz</name>
-      <latitude>47.46241000</latitude>
-      <longitude>23.01474000</longitude>
-    </cities>
-    <cities>
-      <id>90996</id>
-      <name>Comuna Bistra</name>
-      <latitude>47.86860000</latitude>
-      <longitude>24.19291000</longitude>
-    </cities>
-    <cities>
-      <id>91014</id>
-      <name>Comuna Bocicoiu Mare</name>
-      <latitude>47.94673000</latitude>
-      <longitude>24.01121000</longitude>
-    </cities>
-    <cities>
-      <id>91022</id>
-      <name>Comuna Bogdan Vodă</name>
-      <latitude>47.69480000</latitude>
-      <longitude>24.29548000</longitude>
-    </cities>
-    <cities>
-      <id>91034</id>
-      <name>Comuna Boiu Mare</name>
-      <latitude>47.40202000</latitude>
-      <longitude>23.59965000</longitude>
-    </cities>
-    <cities>
-      <id>91062</id>
-      <name>Comuna Botiza</name>
-      <latitude>47.66818000</latitude>
-      <longitude>24.15035000</longitude>
-    </cities>
-    <cities>
-      <id>91145</id>
-      <name>Comuna Budeşti</name>
-      <latitude>47.74615000</latitude>
-      <longitude>23.94569000</longitude>
-    </cities>
-    <cities>
-      <id>91571</id>
-      <name>Comuna Călineşti</name>
-      <latitude>47.78502000</latitude>
-      <longitude>23.97011000</longitude>
-    </cities>
-    <cities>
-      <id>91544</id>
-      <name>Comuna Câmpulung la Tisa</name>
-      <latitude>47.98651000</latitude>
-      <longitude>23.77263000</longitude>
-    </cities>
-    <cities>
-      <id>91292</id>
-      <name>Comuna Cerneşti</name>
-      <latitude>47.53576000</latitude>
-      <longitude>23.78366000</longitude>
-    </cities>
-    <cities>
-      <id>91334</id>
-      <name>Comuna Cicârlău</name>
-      <latitude>47.70582000</latitude>
-      <longitude>23.38142000</longitude>
-    </cities>
-    <cities>
-      <id>91383</id>
-      <name>Comuna Coaş</name>
-      <latitude>47.51282000</latitude>
-      <longitude>23.60046000</longitude>
-    </cities>
-    <cities>
-      <id>91401</id>
-      <name>Comuna Coltãu</name>
-      <latitude>47.60118000</latitude>
-      <longitude>23.53450000</longitude>
-    </cities>
-    <cities>
-      <id>91416</id>
-      <name>Comuna Copalnic Mănăştur</name>
-      <latitude>47.52250000</latitude>
-      <longitude>23.68782000</longitude>
-    </cities>
-    <cities>
-      <id>91446</id>
-      <name>Comuna Coroieni</name>
-      <latitude>47.36635000</latitude>
-      <longitude>23.77764000</longitude>
-    </cities>
-    <cities>
-      <id>91526</id>
-      <name>Comuna Cupşeni</name>
-      <latitude>47.53255000</latitude>
-      <longitude>23.94243000</longitude>
-    </cities>
-    <cities>
-      <id>91618</id>
-      <name>Comuna Deseşti</name>
-      <latitude>47.77004000</latitude>
-      <longitude>23.85900000</longitude>
-    </cities>
-    <cities>
-      <id>91719</id>
-      <name>Comuna Dumbrăviţa</name>
-      <latitude>47.60118000</latitude>
-      <longitude>23.65726000</longitude>
-    </cities>
-    <cities>
-      <id>91822</id>
-      <name>Comuna Fărcaşa</name>
-      <latitude>47.59482000</latitude>
-      <longitude>23.34826000</longitude>
-    </cities>
-    <cities>
-      <id>91972</id>
-      <name>Comuna Gârdani</name>
-      <latitude>47.55135000</latitude>
-      <longitude>23.30880000</longitude>
-    </cities>
-    <cities>
-      <id>91874</id>
-      <name>Comuna Giuleşti</name>
-      <latitude>47.82215000</latitude>
-      <longitude>23.92994000</longitude>
-    </cities>
-    <cities>
-      <id>91928</id>
-      <name>Comuna Groşi</name>
-      <latitude>47.61193000</latitude>
-      <longitude>23.58661000</longitude>
-    </cities>
-    <cities>
-      <id>91929</id>
-      <name>Comuna Groşii Ţibleşului</name>
-      <latitude>47.48983000</latitude>
-      <longitude>24.06368000</longitude>
-    </cities>
-    <cities>
-      <id>92065</id>
-      <name>Comuna Ieud</name>
-      <latitude>47.67739000</latitude>
-      <longitude>24.23378000</longitude>
-    </cities>
-    <cities>
-      <id>92221</id>
-      <name>Comuna Lăpuş</name>
-      <latitude>47.49363000</latitude>
-      <longitude>24.00646000</longitude>
-    </cities>
-    <cities>
-      <id>92153</id>
-      <name>Comuna Leordina</name>
-      <latitude>47.78306000</latitude>
-      <longitude>24.26401000</longitude>
-    </cities>
-    <cities>
-      <id>92298</id>
-      <name>Comuna Mireşu Mare</name>
-      <latitude>47.50011000</latitude>
-      <longitude>23.36420000</longitude>
-    </cities>
-    <cities>
-      <id>92323</id>
-      <name>Comuna Moisei</name>
-      <latitude>47.65612000</latitude>
-      <longitude>24.53988000</longitude>
-    </cities>
-    <cities>
-      <id>92469</id>
-      <name>Comuna Oarţa De Jos</name>
-      <latitude>47.45000000</latitude>
-      <longitude>23.10000000</longitude>
-    </cities>
-    <cities>
-      <id>92478</id>
-      <name>Comuna Ocna Şugatag</name>
-      <latitude>47.77493000</latitude>
-      <longitude>23.91268000</longitude>
-    </cities>
-    <cities>
-      <id>92499</id>
-      <name>Comuna Onceşti</name>
-      <latitude>47.84814000</latitude>
-      <longitude>23.98183000</longitude>
-    </cities>
-    <cities>
-      <id>92567</id>
-      <name>Comuna Petrova</name>
-      <latitude>47.83003000</latitude>
-      <longitude>24.21603000</longitude>
-    </cities>
-    <cities>
-      <id>92643</id>
-      <name>Comuna Poienile de sub Munte</name>
-      <latitude>47.82371000</latitude>
-      <longitude>24.43674000</longitude>
-    </cities>
-    <cities>
-      <id>92642</id>
-      <name>Comuna Poienile Izei</name>
-      <latitude>47.70309000</latitude>
-      <longitude>24.11276000</longitude>
-    </cities>
-    <cities>
-      <id>92754</id>
-      <name>Comuna Recea</name>
-      <latitude>47.63108000</latitude>
-      <longitude>23.48610000</longitude>
-    </cities>
-    <cities>
-      <id>92765</id>
-      <name>Comuna Remetea Chioarului</name>
-      <latitude>47.52129000</latitude>
-      <longitude>23.52891000</longitude>
-    </cities>
-    <cities>
-      <id>92767</id>
-      <name>Comuna Remeţi</name>
-      <latitude>47.99630000</latitude>
-      <longitude>23.58741000</longitude>
-    </cities>
-    <cities>
-      <id>92768</id>
-      <name>Comuna Repedea</name>
-      <latitude>47.83212000</latitude>
-      <longitude>24.40142000</longitude>
-    </cities>
-    <cities>
-      <id>92789</id>
-      <name>Comuna Rona de Jos</name>
-      <latitude>47.91667000</latitude>
-      <longitude>24.01667000</longitude>
-    </cities>
-    <cities>
-      <id>92790</id>
-      <name>Comuna Rona de Sus</name>
-      <latitude>47.90184000</latitude>
-      <longitude>24.03877000</longitude>
-    </cities>
-    <cities>
-      <id>92793</id>
-      <name>Comuna Rozavlea</name>
-      <latitude>47.73791000</latitude>
-      <longitude>24.20116000</longitude>
-    </cities>
-    <cities>
-      <id>92817</id>
-      <name>Comuna Ruşcova</name>
-      <latitude>47.79289000</latitude>
-      <longitude>24.28546000</longitude>
-    </cities>
-    <cities>
-      <id>93087</id>
-      <name>Comuna Săcălăşeni</name>
-      <latitude>47.57041000</latitude>
-      <longitude>23.57207000</longitude>
-    </cities>
-    <cities>
-      <id>93081</id>
-      <name>Comuna Săcel</name>
-      <latitude>47.63690000</latitude>
-      <longitude>24.43508000</longitude>
-    </cities>
-    <cities>
-      <id>93098</id>
-      <name>Comuna Sălsig</name>
-      <latitude>47.51934000</latitude>
-      <longitude>23.30270000</longitude>
-    </cities>
-    <cities>
-      <id>93077</id>
-      <name>Comuna Sãpânţa</name>
-      <latitude>47.96933000</latitude>
-      <longitude>23.69818000</longitude>
-    </cities>
-    <cities>
-      <id>93110</id>
-      <name>Comuna Sărăsău</name>
-      <latitude>47.95000000</latitude>
-      <longitude>23.81667000</longitude>
-    </cities>
-    <cities>
-      <id>92882</id>
-      <name>Comuna Satulung</name>
-      <latitude>47.57189000</latitude>
-      <longitude>23.41978000</longitude>
-    </cities>
-    <cities>
-      <id>93515</id>
-      <name>Comuna Şieu</name>
-      <latitude>47.72462000</latitude>
-      <longitude>24.22389000</longitude>
-    </cities>
-    <cities>
-      <id>93532</id>
-      <name>Comuna Şişeşti</name>
-      <latitude>47.61329000</latitude>
-      <longitude>23.74104000</longitude>
-    </cities>
-    <cities>
-      <id>93008</id>
-      <name>Comuna Strâmtura</name>
-      <latitude>47.75156000</latitude>
-      <longitude>24.10267000</longitude>
-    </cities>
-    <cities>
-      <id>93027</id>
-      <name>Comuna Suciu de Sus</name>
-      <latitude>47.44309000</latitude>
-      <longitude>24.04303000</longitude>
-    </cities>
-    <cities>
-      <id>93291</id>
-      <name>Comuna Vadu Izei</name>
-      <latitude>47.88131000</latitude>
-      <longitude>23.96081000</longitude>
-    </cities>
-    <cities>
-      <id>93299</id>
-      <name>Comuna Valea Chioarului</name>
-      <latitude>47.40706000</latitude>
-      <longitude>23.46101000</longitude>
-    </cities>
-    <cities>
-      <id>93363</id>
-      <name>Comuna Vima Micã</name>
-      <latitude>47.41766000</latitude>
-      <longitude>23.68841000</longitude>
-    </cities>
-    <cities>
-      <id>93375</id>
-      <name>Comuna Vişeu de Jos</name>
-      <latitude>47.72760000</latitude>
-      <longitude>24.36306000</longitude>
-    </cities>
-    <cities>
-      <id>93601</id>
-      <name>Copalnic Mănăştur</name>
-      <latitude>47.50000000</latitude>
-      <longitude>23.68333000</longitude>
-    </cities>
-    <cities>
-      <id>93647</id>
-      <name>Coroieni</name>
-      <latitude>47.36667000</latitude>
-      <longitude>23.76667000</longitude>
-    </cities>
-    <cities>
-      <id>93752</id>
-      <name>Crăciunești</name>
-      <latitude>47.95551000</latitude>
-      <longitude>23.98267000</longitude>
-    </cities>
-    <cities>
-      <id>93708</id>
-      <name>Crasna Vișeului</name>
-      <latitude>47.82869000</latitude>
-      <longitude>24.23000000</longitude>
-    </cities>
-    <cities>
-      <id>93771</id>
-      <name>Cupşeni</name>
-      <latitude>47.55000000</latitude>
-      <longitude>23.93333000</longitude>
-    </cities>
-    <cities>
-      <id>94122</id>
-      <name>Dămăcușeni</name>
-      <latitude>47.45709000</latitude>
-      <longitude>23.90914000</longitude>
-    </cities>
-    <cities>
-      <id>93926</id>
-      <name>Deseşti</name>
-      <latitude>47.76667000</latitude>
-      <longitude>23.85000000</longitude>
-    </cities>
-    <cities>
-      <id>94016</id>
-      <name>Dragomireşti</name>
-      <latitude>47.66839000</latitude>
-      <longitude>24.29111000</longitude>
-    </cities>
-    <cities>
-      <id>94089</id>
-      <name>Dumbrăviţa</name>
-      <latitude>47.60000000</latitude>
-      <longitude>23.65000000</longitude>
-    </cities>
-    <cities>
-      <id>94261</id>
-      <name>Fărcaşa</name>
-      <latitude>47.58333000</latitude>
-      <longitude>23.33333000</longitude>
-    </cities>
-    <cities>
-      <id>94490</id>
-      <name>Gârdani</name>
-      <latitude>47.55135000</latitude>
-      <longitude>23.30880000</longitude>
-    </cities>
-    <cities>
-      <id>94350</id>
-      <name>Giuleşti</name>
-      <latitude>47.81667000</latitude>
-      <longitude>23.93333000</longitude>
-    </cities>
-    <cities>
-      <id>94425</id>
-      <name>Groşi</name>
-      <latitude>47.61667000</latitude>
-      <longitude>23.61667000</longitude>
-    </cities>
-    <cities>
-      <id>94428</id>
-      <name>Groșii Țibleșului</name>
-      <latitude>47.48983000</latitude>
-      <longitude>24.06368000</longitude>
-    </cities>
-    <cities>
-      <id>94617</id>
-      <name>Iadăra</name>
-      <latitude>47.47927000</latitude>
-      <longitude>23.39893000</longitude>
-    </cities>
-    <cities>
-      <id>94623</id>
-      <name>Iapa</name>
-      <latitude>47.92513000</latitude>
-      <longitude>23.82539000</longitude>
-    </cities>
-    <cities>
-      <id>94644</id>
-      <name>Ieud</name>
-      <latitude>47.67796000</latitude>
-      <longitude>24.23399000</longitude>
-    </cities>
-    <cities>
-      <id>94653</id>
-      <name>Ilba</name>
-      <latitude>47.71280000</latitude>
-      <longitude>23.35765000</longitude>
-    </cities>
-    <cities>
-      <id>94896</id>
-      <name>Lăpuş</name>
-      <latitude>47.50000000</latitude>
-      <longitude>24.01667000</longitude>
-    </cities>
-    <cities>
-      <id>94899</id>
-      <name>Lăpușel</name>
-      <latitude>47.61830000</latitude>
-      <longitude>23.47913000</longitude>
-    </cities>
-    <cities>
-      <id>94780</id>
-      <name>Leordina</name>
-      <latitude>47.78333000</latitude>
-      <longitude>24.25000000</longitude>
-    </cities>
-    <cities>
-      <id>94792</id>
-      <name>Libotin</name>
-      <latitude>47.50541000</latitude>
-      <longitude>23.96833000</longitude>
-    </cities>
-    <cities>
-      <id>94873</id>
-      <name>Lunca la Tisa</name>
-      <latitude>47.95213000</latitude>
-      <longitude>24.05216000</longitude>
-    </cities>
-    <cities>
-      <id>95220</id>
-      <name>Mânău</name>
-      <latitude>47.48179000</latitude>
-      <longitude>23.26247000</longitude>
-    </cities>
-    <cities>
-      <id>94924</id>
-      <name>Mara</name>
-      <latitude>47.75552000</latitude>
-      <longitude>23.83126000</longitude>
-    </cities>
-    <cities>
-      <id>95016</id>
-      <name>Mireşu Mare</name>
-      <latitude>47.50000000</latitude>
-      <longitude>23.33333000</longitude>
-    </cities>
-    <cities>
-      <id>95059</id>
-      <name>Moisei</name>
-      <latitude>47.65562000</latitude>
-      <longitude>24.54011000</longitude>
-    </cities>
-    <cities>
-      <id>95111</id>
-      <name>Municipiul Baia Mare</name>
-      <latitude>47.74048000</latitude>
-      <longitude>23.60337000</longitude>
-    </cities>
-    <cities>
-      <id>95182</id>
-      <name>Municipiul Sighetu Marmaţiei</name>
-      <latitude>47.91914000</latitude>
-      <longitude>23.88679000</longitude>
-    </cities>
-    <cities>
-      <id>95351</id>
-      <name>Nistru</name>
-      <latitude>47.72088000</latitude>
-      <longitude>23.45495000</longitude>
-    </cities>
-    <cities>
-      <id>95385</id>
-      <name>Oarţa de Jos</name>
-      <latitude>47.45827000</latitude>
-      <longitude>23.12742000</longitude>
-    </cities>
-    <cities>
-      <id>95399</id>
-      <name>Ocna Şugatag</name>
-      <latitude>47.78333000</latitude>
-      <longitude>23.93333000</longitude>
-    </cities>
-    <cities>
-      <id>95437</id>
-      <name>Oncești</name>
-      <latitude>47.84814000</latitude>
-      <longitude>23.98183000</longitude>
-    </cities>
-    <cities>
-      <id>95455</id>
-      <name>Oraş Baia Sprie</name>
-      <latitude>47.66446000</latitude>
-      <longitude>23.66970000</longitude>
-    </cities>
-    <cities>
-      <id>95468</id>
-      <name>Oraş Borşa</name>
-      <latitude>47.66965000</latitude>
-      <longitude>24.68846000</longitude>
-    </cities>
-    <cities>
-      <id>95637</id>
-      <name>Oraș Cavnic</name>
-      <latitude>47.64989000</latitude>
-      <longitude>23.82547000</longitude>
-    </cities>
-    <cities>
-      <id>95639</id>
-      <name>Oraș Dragomireşti</name>
-      <latitude>47.66860000</latitude>
-      <longitude>24.29542000</longitude>
-    </cities>
-    <cities>
-      <id>95645</id>
-      <name>Oraș Săliştea de Sus</name>
-      <latitude>47.66019000</latitude>
-      <longitude>24.35336000</longitude>
-    </cities>
-    <cities>
-      <id>95644</id>
-      <name>Oraș Seini</name>
-      <latitude>47.75000000</latitude>
-      <longitude>23.28333000</longitude>
-    </cities>
-    <cities>
-      <id>95651</id>
-      <name>Oraș Şomcuta Mare</name>
-      <latitude>47.51667000</latitude>
-      <longitude>23.46667000</longitude>
-    </cities>
-    <cities>
-      <id>95648</id>
-      <name>Oraș Târgu Lăpuş</name>
-      <latitude>47.46124000</latitude>
-      <longitude>23.85353000</longitude>
-    </cities>
-    <cities>
-      <id>95649</id>
-      <name>Oraș Tăuţii-Măgherăuş</name>
-      <latitude>47.72129000</latitude>
-      <longitude>23.48601000</longitude>
-    </cities>
-    <cities>
-      <id>95611</id>
-      <name>Oraş Ulmeni</name>
-      <latitude>47.46209000</latitude>
-      <longitude>23.27925000</longitude>
-    </cities>
-    <cities>
-      <id>95619</id>
-      <name>Oraş Vişeu De Sus</name>
-      <latitude>47.71493000</latitude>
-      <longitude>24.41707000</longitude>
-    </cities>
-    <cities>
-      <id>95755</id>
-      <name>Petrova</name>
-      <latitude>47.82981000</latitude>
-      <longitude>24.21533000</longitude>
-    </cities>
-    <cities>
-      <id>95895</id>
-      <name>Poienile de sub Munte</name>
-      <latitude>47.81667000</latitude>
-      <longitude>24.43333000</longitude>
-    </cities>
-    <cities>
-      <id>95894</id>
-      <name>Poienile Izei</name>
-      <latitude>47.70000000</latitude>
-      <longitude>24.11667000</longitude>
-    </cities>
-    <cities>
-      <id>96070</id>
-      <name>Recea</name>
-      <latitude>47.63333000</latitude>
-      <longitude>23.51667000</longitude>
-    </cities>
-    <cities>
-      <id>96083</id>
-      <name>Remetea Chioarului</name>
-      <latitude>47.53333000</latitude>
-      <longitude>23.55000000</longitude>
-    </cities>
-    <cities>
-      <id>96085</id>
-      <name>Remeţi</name>
-      <latitude>47.98333000</latitude>
-      <longitude>23.63333000</longitude>
-    </cities>
-    <cities>
-      <id>96087</id>
-      <name>Repedea</name>
-      <latitude>47.83333000</latitude>
-      <longitude>24.40000000</longitude>
-    </cities>
-    <cities>
-      <id>96102</id>
-      <name>Rogoz</name>
-      <latitude>47.46749000</latitude>
-      <longitude>23.93214000</longitude>
-    </cities>
-    <cities>
-      <id>96116</id>
-      <name>Rona de Jos</name>
-      <latitude>47.91667000</latitude>
-      <longitude>24.01667000</longitude>
-    </cities>
-    <cities>
-      <id>96117</id>
-      <name>Rona de Sus</name>
-      <latitude>47.90000000</latitude>
-      <longitude>24.05000000</longitude>
-    </cities>
-    <cities>
-      <id>96124</id>
-      <name>Rozavlea</name>
-      <latitude>47.73333000</latitude>
-      <longitude>24.21667000</longitude>
-    </cities>
-    <cities>
-      <id>96160</id>
-      <name>Ruscova</name>
-      <latitude>47.79289000</latitude>
-      <longitude>24.28546000</longitude>
-    </cities>
-    <cities>
-      <id>106001</id>
-      <name>Săcălășeni</name>
-      <latitude>47.58180000</latitude>
-      <longitude>23.56432000</longitude>
-    </cities>
-    <cities>
-      <id>105990</id>
-      <name>Săcel</name>
-      <latitude>47.63333000</latitude>
-      <longitude>24.43333000</longitude>
-    </cities>
-    <cities>
-      <id>106018</id>
-      <name>Săliştea de Sus</name>
-      <latitude>47.65000000</latitude>
-      <longitude>24.35000000</longitude>
-    </cities>
-    <cities>
-      <id>106021</id>
-      <name>Sălsig</name>
-      <latitude>47.53333000</latitude>
-      <longitude>23.30000000</longitude>
-    </cities>
-    <cities>
-      <id>106029</id>
-      <name>Săpânţa</name>
-      <latitude>47.96667000</latitude>
-      <longitude>23.70000000</longitude>
-    </cities>
-    <cities>
-      <id>96244</id>
-      <name>Sarasău</name>
-      <latitude>47.95510000</latitude>
-      <longitude>23.82874000</longitude>
-    </cities>
-    <cities>
-      <id>105986</id>
-      <name>Sârbi</name>
-      <latitude>47.76184000</latitude>
-      <longitude>23.94490000</longitude>
-    </cities>
-    <cities>
-      <id>106038</id>
-      <name>Săsar</name>
-      <latitude>47.64406000</latitude>
-      <longitude>23.49869000</longitude>
-    </cities>
-    <cities>
-      <id>96251</id>
-      <name>Sat-Șugatag</name>
-      <latitude>47.79796000</latitude>
-      <longitude>23.90637000</longitude>
-    </cities>
-    <cities>
-      <id>96262</id>
-      <name>Satulung</name>
-      <latitude>47.56667000</latitude>
-      <longitude>23.43333000</longitude>
-    </cities>
-    <cities>
-      <id>96323</id>
-      <name>Seini</name>
-      <latitude>47.75000000</latitude>
-      <longitude>23.28333000</longitude>
-    </cities>
-    <cities>
-      <id>97122</id>
-      <name>Șieu</name>
-      <latitude>47.72462000</latitude>
-      <longitude>24.22389000</longitude>
-    </cities>
-    <cities>
-      <id>96336</id>
-      <name>Sighetu Marmaţiei</name>
-      <latitude>47.93195000</latitude>
-      <longitude>23.88603000</longitude>
-    </cities>
-    <cities>
-      <id>97129</id>
-      <name>Șisești</name>
-      <latitude>47.63506000</latitude>
-      <longitude>23.70794000</longitude>
-    </cities>
-    <cities>
-      <id>97069</id>
-      <name>Şomcuta Mare</name>
-      <latitude>47.51667000</latitude>
-      <longitude>23.46667000</longitude>
-    </cities>
-    <cities>
-      <id>96461</id>
-      <name>Strâmtura</name>
-      <latitude>47.78333000</latitude>
-      <longitude>24.13333000</longitude>
-    </cities>
-    <cities>
-      <id>96491</id>
-      <name>Suciu de Jos</name>
-      <latitude>47.44584000</latitude>
-      <longitude>23.98250000</longitude>
-    </cities>
-    <cities>
-      <id>96492</id>
-      <name>Suciu de Sus</name>
-      <latitude>47.43333000</latitude>
-      <longitude>24.03333000</longitude>
-    </cities>
-    <cities>
-      <id>97136</id>
-      <name>Șurdești</name>
-      <latitude>47.60215000</latitude>
-      <longitude>23.76899000</longitude>
-    </cities>
-    <cities>
-      <id>96585</id>
-      <name>Târgu Lăpuş</name>
-      <latitude>47.45261000</latitude>
-      <longitude>23.86539000</longitude>
-    </cities>
-    <cities>
-      <id>96628</id>
-      <name>Tăuții de Sus</name>
-      <latitude>47.65665000</latitude>
-      <longitude>23.65841000</longitude>
-    </cities>
-    <cities>
-      <id>96629</id>
-      <name>Tăuții-Măgherăuș</name>
-      <latitude>47.65000000</latitude>
-      <longitude>23.48333000</longitude>
-    </cities>
-    <cities>
-      <id>106106</id>
-      <name>Tisa</name>
-      <latitude>47.94844000</latitude>
-      <longitude>23.95768000</longitude>
-    </cities>
-    <cities>
-      <id>96646</id>
-      <name>Ulmeni</name>
-      <latitude>47.46667000</latitude>
-      <longitude>23.30000000</longitude>
-    </cities>
-    <cities>
-      <id>96660</id>
-      <name>Ungureni</name>
-      <latitude>47.54631000</latitude>
-      <longitude>23.95241000</longitude>
-    </cities>
-    <cities>
-      <id>96696</id>
-      <name>Vadu Izei</name>
-      <latitude>47.88821000</latitude>
-      <longitude>23.93209000</longitude>
-    </cities>
-    <cities>
-      <id>96714</id>
-      <name>Valea Chioarului</name>
-      <latitude>47.43333000</latitude>
-      <longitude>23.48333000</longitude>
-    </cities>
-    <cities>
-      <id>96764</id>
-      <name>Valea Vișeului</name>
-      <latitude>47.91203000</latitude>
-      <longitude>24.15842000</longitude>
-    </cities>
-    <cities>
-      <id>96959</id>
-      <name>Văleni</name>
-      <latitude>47.78559000</latitude>
-      <longitude>24.01625000</longitude>
-    </cities>
-    <cities>
-      <id>96966</id>
-      <name>Vălenii Șomcutei</name>
-      <latitude>47.47291000</latitude>
-      <longitude>23.45138000</longitude>
-    </cities>
-    <cities>
-      <id>96829</id>
-      <name>Vima Mică</name>
-      <latitude>47.40000000</latitude>
-      <longitude>23.71667000</longitude>
-    </cities>
-    <cities>
-      <id>96847</id>
-      <name>Vişeu de Jos</name>
-      <latitude>47.72558000</latitude>
-      <longitude>24.36613000</longitude>
-    </cities>
-    <cities>
-      <id>96852</id>
-      <name>Vișeu de Mijloc</name>
-      <latitude>47.71562000</latitude>
-      <longitude>24.40661000</longitude>
-    </cities>
-    <cities>
-      <id>96848</id>
-      <name>Vişeu de Sus</name>
-      <latitude>47.71667000</latitude>
-      <longitude>24.43333000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
     <id>4751</id>
     <name>Mehedinți County</name>
     <state_code>MH</state_code>
@@ -595063,6 +593966,1116 @@
       <name>Vrata</name>
       <latitude>44.19197000</latitude>
       <longitude>22.84928000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>4760</id>
+    <name>Mureș County</name>
+    <state_code>MM</state_code>
+    <country_id>181</country_id>
+    <cities>
+      <id>89984</id>
+      <name>Ardusat</name>
+      <latitude>47.65000000</latitude>
+      <longitude>23.36667000</longitude>
+    </cities>
+    <cities>
+      <id>89994</id>
+      <name>Ariniş</name>
+      <latitude>47.50000000</latitude>
+      <longitude>23.23333000</longitude>
+    </cities>
+    <cities>
+      <id>90001</id>
+      <name>Asuaju de Sus</name>
+      <latitude>47.56667000</latitude>
+      <longitude>23.18333000</longitude>
+    </cities>
+    <cities>
+      <id>90029</id>
+      <name>Baia Mare</name>
+      <latitude>47.65729000</latitude>
+      <longitude>23.56808000</longitude>
+    </cities>
+    <cities>
+      <id>90030</id>
+      <name>Baia Sprie</name>
+      <latitude>47.66189000</latitude>
+      <longitude>23.69215000</longitude>
+    </cities>
+    <cities>
+      <id>90488</id>
+      <name>Băile Borșa</name>
+      <latitude>47.68416000</latitude>
+      <longitude>24.71391000</longitude>
+    </cities>
+    <cities>
+      <id>90500</id>
+      <name>Băița</name>
+      <latitude>47.70614000</latitude>
+      <longitude>23.49326000</longitude>
+    </cities>
+    <cities>
+      <id>90498</id>
+      <name>Băiţa de sub Codru</name>
+      <latitude>47.53333000</latitude>
+      <longitude>23.15000000</longitude>
+    </cities>
+    <cities>
+      <id>90495</id>
+      <name>Băiuţ</name>
+      <latitude>47.61667000</latitude>
+      <longitude>24.00000000</longitude>
+    </cities>
+    <cities>
+      <id>90455</id>
+      <name>Bârsana</name>
+      <latitude>47.81667000</latitude>
+      <longitude>24.06667000</longitude>
+    </cities>
+    <cities>
+      <id>90550</id>
+      <name>Băseşti</name>
+      <latitude>47.48333000</latitude>
+      <longitude>23.15000000</longitude>
+    </cities>
+    <cities>
+      <id>90096</id>
+      <name>Berbești</name>
+      <latitude>47.84865000</latitude>
+      <longitude>23.93448000</longitude>
+    </cities>
+    <cities>
+      <id>90125</id>
+      <name>Bicaz</name>
+      <latitude>47.46667000</latitude>
+      <longitude>23.03333000</longitude>
+    </cities>
+    <cities>
+      <id>90144</id>
+      <name>Bistra</name>
+      <latitude>47.86667000</latitude>
+      <longitude>24.20000000</longitude>
+    </cities>
+    <cities>
+      <id>90175</id>
+      <name>Bocicoiu Mare</name>
+      <latitude>47.96667000</latitude>
+      <longitude>24.00000000</longitude>
+    </cities>
+    <cities>
+      <id>90187</id>
+      <name>Bogdan Vodă</name>
+      <latitude>47.69197000</latitude>
+      <longitude>24.26605000</longitude>
+    </cities>
+    <cities>
+      <id>90205</id>
+      <name>Boiu Mare</name>
+      <latitude>47.40000000</latitude>
+      <longitude>23.58333000</longitude>
+    </cities>
+    <cities>
+      <id>90222</id>
+      <name>Borcut</name>
+      <latitude>47.48200000</latitude>
+      <longitude>23.84071000</longitude>
+    </cities>
+    <cities>
+      <id>90238</id>
+      <name>Borşa</name>
+      <latitude>47.65527000</latitude>
+      <longitude>24.66328000</longitude>
+    </cities>
+    <cities>
+      <id>90245</id>
+      <name>Botiza</name>
+      <latitude>47.66667000</latitude>
+      <longitude>24.15000000</longitude>
+    </cities>
+    <cities>
+      <id>90290</id>
+      <name>Breb</name>
+      <latitude>47.74854000</latitude>
+      <longitude>23.90494000</longitude>
+    </cities>
+    <cities>
+      <id>90381</id>
+      <name>Budeşti</name>
+      <latitude>47.73333000</latitude>
+      <longitude>23.95000000</longitude>
+    </cities>
+    <cities>
+      <id>93839</id>
+      <name>Călineşti</name>
+      <latitude>47.78423000</latitude>
+      <longitude>23.96961000</longitude>
+    </cities>
+    <cities>
+      <id>93802</id>
+      <name>Câmpulung la Tisa</name>
+      <latitude>47.98651000</latitude>
+      <longitude>23.77263000</longitude>
+    </cities>
+    <cities>
+      <id>90592</id>
+      <name>Cavnic</name>
+      <latitude>47.66667000</latitude>
+      <longitude>23.86667000</longitude>
+    </cities>
+    <cities>
+      <id>90633</id>
+      <name>Cerneşti</name>
+      <latitude>47.51667000</latitude>
+      <longitude>23.75000000</longitude>
+    </cities>
+    <cities>
+      <id>90654</id>
+      <name>Chelința</name>
+      <latitude>47.45311000</latitude>
+      <longitude>23.31799000</longitude>
+    </cities>
+    <cities>
+      <id>90698</id>
+      <name>Cicârlău</name>
+      <latitude>47.69155000</latitude>
+      <longitude>23.40380000</longitude>
+    </cities>
+    <cities>
+      <id>90774</id>
+      <name>Coaș</name>
+      <latitude>47.53957000</latitude>
+      <longitude>23.58584000</longitude>
+    </cities>
+    <cities>
+      <id>90801</id>
+      <name>Coltău</name>
+      <latitude>47.59837000</latitude>
+      <longitude>23.52459000</longitude>
+    </cities>
+    <cities>
+      <id>90887</id>
+      <name>Comuna Ardusat</name>
+      <latitude>47.63241000</latitude>
+      <longitude>23.39156000</longitude>
+    </cities>
+    <cities>
+      <id>90893</id>
+      <name>Comuna Ariniş</name>
+      <latitude>47.50757000</latitude>
+      <longitude>23.22435000</longitude>
+    </cities>
+    <cities>
+      <id>90899</id>
+      <name>Comuna Asuaju de Sus</name>
+      <latitude>47.55000000</latitude>
+      <longitude>23.20000000</longitude>
+    </cities>
+    <cities>
+      <id>91210</id>
+      <name>Comuna Băiţa de sub Codru</name>
+      <latitude>47.53333000</latitude>
+      <longitude>23.15000000</longitude>
+    </cities>
+    <cities>
+      <id>91207</id>
+      <name>Comuna Băiuţ</name>
+      <latitude>47.60191000</latitude>
+      <longitude>24.00180000</longitude>
+    </cities>
+    <cities>
+      <id>91192</id>
+      <name>Comuna Bârsana</name>
+      <latitude>47.81500000</latitude>
+      <longitude>24.05731000</longitude>
+    </cities>
+    <cities>
+      <id>91244</id>
+      <name>Comuna Băseşti</name>
+      <latitude>47.49608000</latitude>
+      <longitude>23.10786000</longitude>
+    </cities>
+    <cities>
+      <id>90982</id>
+      <name>Comuna Bicaz</name>
+      <latitude>47.46241000</latitude>
+      <longitude>23.01474000</longitude>
+    </cities>
+    <cities>
+      <id>90996</id>
+      <name>Comuna Bistra</name>
+      <latitude>47.86860000</latitude>
+      <longitude>24.19291000</longitude>
+    </cities>
+    <cities>
+      <id>91014</id>
+      <name>Comuna Bocicoiu Mare</name>
+      <latitude>47.94673000</latitude>
+      <longitude>24.01121000</longitude>
+    </cities>
+    <cities>
+      <id>91022</id>
+      <name>Comuna Bogdan Vodă</name>
+      <latitude>47.69480000</latitude>
+      <longitude>24.29548000</longitude>
+    </cities>
+    <cities>
+      <id>91034</id>
+      <name>Comuna Boiu Mare</name>
+      <latitude>47.40202000</latitude>
+      <longitude>23.59965000</longitude>
+    </cities>
+    <cities>
+      <id>91062</id>
+      <name>Comuna Botiza</name>
+      <latitude>47.66818000</latitude>
+      <longitude>24.15035000</longitude>
+    </cities>
+    <cities>
+      <id>91145</id>
+      <name>Comuna Budeşti</name>
+      <latitude>47.74615000</latitude>
+      <longitude>23.94569000</longitude>
+    </cities>
+    <cities>
+      <id>91571</id>
+      <name>Comuna Călineşti</name>
+      <latitude>47.78502000</latitude>
+      <longitude>23.97011000</longitude>
+    </cities>
+    <cities>
+      <id>91544</id>
+      <name>Comuna Câmpulung la Tisa</name>
+      <latitude>47.98651000</latitude>
+      <longitude>23.77263000</longitude>
+    </cities>
+    <cities>
+      <id>91292</id>
+      <name>Comuna Cerneşti</name>
+      <latitude>47.53576000</latitude>
+      <longitude>23.78366000</longitude>
+    </cities>
+    <cities>
+      <id>91334</id>
+      <name>Comuna Cicârlău</name>
+      <latitude>47.70582000</latitude>
+      <longitude>23.38142000</longitude>
+    </cities>
+    <cities>
+      <id>91383</id>
+      <name>Comuna Coaş</name>
+      <latitude>47.51282000</latitude>
+      <longitude>23.60046000</longitude>
+    </cities>
+    <cities>
+      <id>91401</id>
+      <name>Comuna Coltãu</name>
+      <latitude>47.60118000</latitude>
+      <longitude>23.53450000</longitude>
+    </cities>
+    <cities>
+      <id>91416</id>
+      <name>Comuna Copalnic Mănăştur</name>
+      <latitude>47.52250000</latitude>
+      <longitude>23.68782000</longitude>
+    </cities>
+    <cities>
+      <id>91446</id>
+      <name>Comuna Coroieni</name>
+      <latitude>47.36635000</latitude>
+      <longitude>23.77764000</longitude>
+    </cities>
+    <cities>
+      <id>91526</id>
+      <name>Comuna Cupşeni</name>
+      <latitude>47.53255000</latitude>
+      <longitude>23.94243000</longitude>
+    </cities>
+    <cities>
+      <id>91618</id>
+      <name>Comuna Deseşti</name>
+      <latitude>47.77004000</latitude>
+      <longitude>23.85900000</longitude>
+    </cities>
+    <cities>
+      <id>91719</id>
+      <name>Comuna Dumbrăviţa</name>
+      <latitude>47.60118000</latitude>
+      <longitude>23.65726000</longitude>
+    </cities>
+    <cities>
+      <id>91822</id>
+      <name>Comuna Fărcaşa</name>
+      <latitude>47.59482000</latitude>
+      <longitude>23.34826000</longitude>
+    </cities>
+    <cities>
+      <id>91972</id>
+      <name>Comuna Gârdani</name>
+      <latitude>47.55135000</latitude>
+      <longitude>23.30880000</longitude>
+    </cities>
+    <cities>
+      <id>91874</id>
+      <name>Comuna Giuleşti</name>
+      <latitude>47.82215000</latitude>
+      <longitude>23.92994000</longitude>
+    </cities>
+    <cities>
+      <id>91928</id>
+      <name>Comuna Groşi</name>
+      <latitude>47.61193000</latitude>
+      <longitude>23.58661000</longitude>
+    </cities>
+    <cities>
+      <id>91929</id>
+      <name>Comuna Groşii Ţibleşului</name>
+      <latitude>47.48983000</latitude>
+      <longitude>24.06368000</longitude>
+    </cities>
+    <cities>
+      <id>92065</id>
+      <name>Comuna Ieud</name>
+      <latitude>47.67739000</latitude>
+      <longitude>24.23378000</longitude>
+    </cities>
+    <cities>
+      <id>92221</id>
+      <name>Comuna Lăpuş</name>
+      <latitude>47.49363000</latitude>
+      <longitude>24.00646000</longitude>
+    </cities>
+    <cities>
+      <id>92153</id>
+      <name>Comuna Leordina</name>
+      <latitude>47.78306000</latitude>
+      <longitude>24.26401000</longitude>
+    </cities>
+    <cities>
+      <id>92298</id>
+      <name>Comuna Mireşu Mare</name>
+      <latitude>47.50011000</latitude>
+      <longitude>23.36420000</longitude>
+    </cities>
+    <cities>
+      <id>92323</id>
+      <name>Comuna Moisei</name>
+      <latitude>47.65612000</latitude>
+      <longitude>24.53988000</longitude>
+    </cities>
+    <cities>
+      <id>92469</id>
+      <name>Comuna Oarţa De Jos</name>
+      <latitude>47.45000000</latitude>
+      <longitude>23.10000000</longitude>
+    </cities>
+    <cities>
+      <id>92478</id>
+      <name>Comuna Ocna Şugatag</name>
+      <latitude>47.77493000</latitude>
+      <longitude>23.91268000</longitude>
+    </cities>
+    <cities>
+      <id>92499</id>
+      <name>Comuna Onceşti</name>
+      <latitude>47.84814000</latitude>
+      <longitude>23.98183000</longitude>
+    </cities>
+    <cities>
+      <id>92567</id>
+      <name>Comuna Petrova</name>
+      <latitude>47.83003000</latitude>
+      <longitude>24.21603000</longitude>
+    </cities>
+    <cities>
+      <id>92643</id>
+      <name>Comuna Poienile de sub Munte</name>
+      <latitude>47.82371000</latitude>
+      <longitude>24.43674000</longitude>
+    </cities>
+    <cities>
+      <id>92642</id>
+      <name>Comuna Poienile Izei</name>
+      <latitude>47.70309000</latitude>
+      <longitude>24.11276000</longitude>
+    </cities>
+    <cities>
+      <id>92754</id>
+      <name>Comuna Recea</name>
+      <latitude>47.63108000</latitude>
+      <longitude>23.48610000</longitude>
+    </cities>
+    <cities>
+      <id>92765</id>
+      <name>Comuna Remetea Chioarului</name>
+      <latitude>47.52129000</latitude>
+      <longitude>23.52891000</longitude>
+    </cities>
+    <cities>
+      <id>92767</id>
+      <name>Comuna Remeţi</name>
+      <latitude>47.99630000</latitude>
+      <longitude>23.58741000</longitude>
+    </cities>
+    <cities>
+      <id>92768</id>
+      <name>Comuna Repedea</name>
+      <latitude>47.83212000</latitude>
+      <longitude>24.40142000</longitude>
+    </cities>
+    <cities>
+      <id>92789</id>
+      <name>Comuna Rona de Jos</name>
+      <latitude>47.91667000</latitude>
+      <longitude>24.01667000</longitude>
+    </cities>
+    <cities>
+      <id>92790</id>
+      <name>Comuna Rona de Sus</name>
+      <latitude>47.90184000</latitude>
+      <longitude>24.03877000</longitude>
+    </cities>
+    <cities>
+      <id>92793</id>
+      <name>Comuna Rozavlea</name>
+      <latitude>47.73791000</latitude>
+      <longitude>24.20116000</longitude>
+    </cities>
+    <cities>
+      <id>92817</id>
+      <name>Comuna Ruşcova</name>
+      <latitude>47.79289000</latitude>
+      <longitude>24.28546000</longitude>
+    </cities>
+    <cities>
+      <id>93087</id>
+      <name>Comuna Săcălăşeni</name>
+      <latitude>47.57041000</latitude>
+      <longitude>23.57207000</longitude>
+    </cities>
+    <cities>
+      <id>93081</id>
+      <name>Comuna Săcel</name>
+      <latitude>47.63690000</latitude>
+      <longitude>24.43508000</longitude>
+    </cities>
+    <cities>
+      <id>93098</id>
+      <name>Comuna Sălsig</name>
+      <latitude>47.51934000</latitude>
+      <longitude>23.30270000</longitude>
+    </cities>
+    <cities>
+      <id>93077</id>
+      <name>Comuna Sãpânţa</name>
+      <latitude>47.96933000</latitude>
+      <longitude>23.69818000</longitude>
+    </cities>
+    <cities>
+      <id>93110</id>
+      <name>Comuna Sărăsău</name>
+      <latitude>47.95000000</latitude>
+      <longitude>23.81667000</longitude>
+    </cities>
+    <cities>
+      <id>92882</id>
+      <name>Comuna Satulung</name>
+      <latitude>47.57189000</latitude>
+      <longitude>23.41978000</longitude>
+    </cities>
+    <cities>
+      <id>93515</id>
+      <name>Comuna Şieu</name>
+      <latitude>47.72462000</latitude>
+      <longitude>24.22389000</longitude>
+    </cities>
+    <cities>
+      <id>93532</id>
+      <name>Comuna Şişeşti</name>
+      <latitude>47.61329000</latitude>
+      <longitude>23.74104000</longitude>
+    </cities>
+    <cities>
+      <id>93008</id>
+      <name>Comuna Strâmtura</name>
+      <latitude>47.75156000</latitude>
+      <longitude>24.10267000</longitude>
+    </cities>
+    <cities>
+      <id>93027</id>
+      <name>Comuna Suciu de Sus</name>
+      <latitude>47.44309000</latitude>
+      <longitude>24.04303000</longitude>
+    </cities>
+    <cities>
+      <id>93291</id>
+      <name>Comuna Vadu Izei</name>
+      <latitude>47.88131000</latitude>
+      <longitude>23.96081000</longitude>
+    </cities>
+    <cities>
+      <id>93299</id>
+      <name>Comuna Valea Chioarului</name>
+      <latitude>47.40706000</latitude>
+      <longitude>23.46101000</longitude>
+    </cities>
+    <cities>
+      <id>93363</id>
+      <name>Comuna Vima Micã</name>
+      <latitude>47.41766000</latitude>
+      <longitude>23.68841000</longitude>
+    </cities>
+    <cities>
+      <id>93375</id>
+      <name>Comuna Vişeu de Jos</name>
+      <latitude>47.72760000</latitude>
+      <longitude>24.36306000</longitude>
+    </cities>
+    <cities>
+      <id>93601</id>
+      <name>Copalnic Mănăştur</name>
+      <latitude>47.50000000</latitude>
+      <longitude>23.68333000</longitude>
+    </cities>
+    <cities>
+      <id>93647</id>
+      <name>Coroieni</name>
+      <latitude>47.36667000</latitude>
+      <longitude>23.76667000</longitude>
+    </cities>
+    <cities>
+      <id>93752</id>
+      <name>Crăciunești</name>
+      <latitude>47.95551000</latitude>
+      <longitude>23.98267000</longitude>
+    </cities>
+    <cities>
+      <id>93708</id>
+      <name>Crasna Vișeului</name>
+      <latitude>47.82869000</latitude>
+      <longitude>24.23000000</longitude>
+    </cities>
+    <cities>
+      <id>93771</id>
+      <name>Cupşeni</name>
+      <latitude>47.55000000</latitude>
+      <longitude>23.93333000</longitude>
+    </cities>
+    <cities>
+      <id>94122</id>
+      <name>Dămăcușeni</name>
+      <latitude>47.45709000</latitude>
+      <longitude>23.90914000</longitude>
+    </cities>
+    <cities>
+      <id>93926</id>
+      <name>Deseşti</name>
+      <latitude>47.76667000</latitude>
+      <longitude>23.85000000</longitude>
+    </cities>
+    <cities>
+      <id>94016</id>
+      <name>Dragomireşti</name>
+      <latitude>47.66839000</latitude>
+      <longitude>24.29111000</longitude>
+    </cities>
+    <cities>
+      <id>94089</id>
+      <name>Dumbrăviţa</name>
+      <latitude>47.60000000</latitude>
+      <longitude>23.65000000</longitude>
+    </cities>
+    <cities>
+      <id>94261</id>
+      <name>Fărcaşa</name>
+      <latitude>47.58333000</latitude>
+      <longitude>23.33333000</longitude>
+    </cities>
+    <cities>
+      <id>94490</id>
+      <name>Gârdani</name>
+      <latitude>47.55135000</latitude>
+      <longitude>23.30880000</longitude>
+    </cities>
+    <cities>
+      <id>94350</id>
+      <name>Giuleşti</name>
+      <latitude>47.81667000</latitude>
+      <longitude>23.93333000</longitude>
+    </cities>
+    <cities>
+      <id>94425</id>
+      <name>Groşi</name>
+      <latitude>47.61667000</latitude>
+      <longitude>23.61667000</longitude>
+    </cities>
+    <cities>
+      <id>94428</id>
+      <name>Groșii Țibleșului</name>
+      <latitude>47.48983000</latitude>
+      <longitude>24.06368000</longitude>
+    </cities>
+    <cities>
+      <id>94617</id>
+      <name>Iadăra</name>
+      <latitude>47.47927000</latitude>
+      <longitude>23.39893000</longitude>
+    </cities>
+    <cities>
+      <id>94623</id>
+      <name>Iapa</name>
+      <latitude>47.92513000</latitude>
+      <longitude>23.82539000</longitude>
+    </cities>
+    <cities>
+      <id>94644</id>
+      <name>Ieud</name>
+      <latitude>47.67796000</latitude>
+      <longitude>24.23399000</longitude>
+    </cities>
+    <cities>
+      <id>94653</id>
+      <name>Ilba</name>
+      <latitude>47.71280000</latitude>
+      <longitude>23.35765000</longitude>
+    </cities>
+    <cities>
+      <id>94896</id>
+      <name>Lăpuş</name>
+      <latitude>47.50000000</latitude>
+      <longitude>24.01667000</longitude>
+    </cities>
+    <cities>
+      <id>94899</id>
+      <name>Lăpușel</name>
+      <latitude>47.61830000</latitude>
+      <longitude>23.47913000</longitude>
+    </cities>
+    <cities>
+      <id>94780</id>
+      <name>Leordina</name>
+      <latitude>47.78333000</latitude>
+      <longitude>24.25000000</longitude>
+    </cities>
+    <cities>
+      <id>94792</id>
+      <name>Libotin</name>
+      <latitude>47.50541000</latitude>
+      <longitude>23.96833000</longitude>
+    </cities>
+    <cities>
+      <id>94873</id>
+      <name>Lunca la Tisa</name>
+      <latitude>47.95213000</latitude>
+      <longitude>24.05216000</longitude>
+    </cities>
+    <cities>
+      <id>95220</id>
+      <name>Mânău</name>
+      <latitude>47.48179000</latitude>
+      <longitude>23.26247000</longitude>
+    </cities>
+    <cities>
+      <id>94924</id>
+      <name>Mara</name>
+      <latitude>47.75552000</latitude>
+      <longitude>23.83126000</longitude>
+    </cities>
+    <cities>
+      <id>95016</id>
+      <name>Mireşu Mare</name>
+      <latitude>47.50000000</latitude>
+      <longitude>23.33333000</longitude>
+    </cities>
+    <cities>
+      <id>95059</id>
+      <name>Moisei</name>
+      <latitude>47.65562000</latitude>
+      <longitude>24.54011000</longitude>
+    </cities>
+    <cities>
+      <id>95111</id>
+      <name>Municipiul Baia Mare</name>
+      <latitude>47.74048000</latitude>
+      <longitude>23.60337000</longitude>
+    </cities>
+    <cities>
+      <id>95182</id>
+      <name>Municipiul Sighetu Marmaţiei</name>
+      <latitude>47.91914000</latitude>
+      <longitude>23.88679000</longitude>
+    </cities>
+    <cities>
+      <id>95351</id>
+      <name>Nistru</name>
+      <latitude>47.72088000</latitude>
+      <longitude>23.45495000</longitude>
+    </cities>
+    <cities>
+      <id>95385</id>
+      <name>Oarţa de Jos</name>
+      <latitude>47.45827000</latitude>
+      <longitude>23.12742000</longitude>
+    </cities>
+    <cities>
+      <id>95399</id>
+      <name>Ocna Şugatag</name>
+      <latitude>47.78333000</latitude>
+      <longitude>23.93333000</longitude>
+    </cities>
+    <cities>
+      <id>95437</id>
+      <name>Oncești</name>
+      <latitude>47.84814000</latitude>
+      <longitude>23.98183000</longitude>
+    </cities>
+    <cities>
+      <id>95455</id>
+      <name>Oraş Baia Sprie</name>
+      <latitude>47.66446000</latitude>
+      <longitude>23.66970000</longitude>
+    </cities>
+    <cities>
+      <id>95468</id>
+      <name>Oraş Borşa</name>
+      <latitude>47.66965000</latitude>
+      <longitude>24.68846000</longitude>
+    </cities>
+    <cities>
+      <id>95637</id>
+      <name>Oraș Cavnic</name>
+      <latitude>47.64989000</latitude>
+      <longitude>23.82547000</longitude>
+    </cities>
+    <cities>
+      <id>95639</id>
+      <name>Oraș Dragomireşti</name>
+      <latitude>47.66860000</latitude>
+      <longitude>24.29542000</longitude>
+    </cities>
+    <cities>
+      <id>95645</id>
+      <name>Oraș Săliştea de Sus</name>
+      <latitude>47.66019000</latitude>
+      <longitude>24.35336000</longitude>
+    </cities>
+    <cities>
+      <id>95644</id>
+      <name>Oraș Seini</name>
+      <latitude>47.75000000</latitude>
+      <longitude>23.28333000</longitude>
+    </cities>
+    <cities>
+      <id>95651</id>
+      <name>Oraș Şomcuta Mare</name>
+      <latitude>47.51667000</latitude>
+      <longitude>23.46667000</longitude>
+    </cities>
+    <cities>
+      <id>95648</id>
+      <name>Oraș Târgu Lăpuş</name>
+      <latitude>47.46124000</latitude>
+      <longitude>23.85353000</longitude>
+    </cities>
+    <cities>
+      <id>95649</id>
+      <name>Oraș Tăuţii-Măgherăuş</name>
+      <latitude>47.72129000</latitude>
+      <longitude>23.48601000</longitude>
+    </cities>
+    <cities>
+      <id>95611</id>
+      <name>Oraş Ulmeni</name>
+      <latitude>47.46209000</latitude>
+      <longitude>23.27925000</longitude>
+    </cities>
+    <cities>
+      <id>95619</id>
+      <name>Oraş Vişeu De Sus</name>
+      <latitude>47.71493000</latitude>
+      <longitude>24.41707000</longitude>
+    </cities>
+    <cities>
+      <id>95755</id>
+      <name>Petrova</name>
+      <latitude>47.82981000</latitude>
+      <longitude>24.21533000</longitude>
+    </cities>
+    <cities>
+      <id>95895</id>
+      <name>Poienile de sub Munte</name>
+      <latitude>47.81667000</latitude>
+      <longitude>24.43333000</longitude>
+    </cities>
+    <cities>
+      <id>95894</id>
+      <name>Poienile Izei</name>
+      <latitude>47.70000000</latitude>
+      <longitude>24.11667000</longitude>
+    </cities>
+    <cities>
+      <id>96070</id>
+      <name>Recea</name>
+      <latitude>47.63333000</latitude>
+      <longitude>23.51667000</longitude>
+    </cities>
+    <cities>
+      <id>146182</id>
+      <name>Reghin</name>
+      <latitude>46.77238770</latitude>
+      <longitude>24.66945610</longitude>
+    </cities>
+    <cities>
+      <id>96083</id>
+      <name>Remetea Chioarului</name>
+      <latitude>47.53333000</latitude>
+      <longitude>23.55000000</longitude>
+    </cities>
+    <cities>
+      <id>96085</id>
+      <name>Remeţi</name>
+      <latitude>47.98333000</latitude>
+      <longitude>23.63333000</longitude>
+    </cities>
+    <cities>
+      <id>96087</id>
+      <name>Repedea</name>
+      <latitude>47.83333000</latitude>
+      <longitude>24.40000000</longitude>
+    </cities>
+    <cities>
+      <id>96102</id>
+      <name>Rogoz</name>
+      <latitude>47.46749000</latitude>
+      <longitude>23.93214000</longitude>
+    </cities>
+    <cities>
+      <id>96116</id>
+      <name>Rona de Jos</name>
+      <latitude>47.91667000</latitude>
+      <longitude>24.01667000</longitude>
+    </cities>
+    <cities>
+      <id>96117</id>
+      <name>Rona de Sus</name>
+      <latitude>47.90000000</latitude>
+      <longitude>24.05000000</longitude>
+    </cities>
+    <cities>
+      <id>96124</id>
+      <name>Rozavlea</name>
+      <latitude>47.73333000</latitude>
+      <longitude>24.21667000</longitude>
+    </cities>
+    <cities>
+      <id>96160</id>
+      <name>Ruscova</name>
+      <latitude>47.79289000</latitude>
+      <longitude>24.28546000</longitude>
+    </cities>
+    <cities>
+      <id>106001</id>
+      <name>Săcălășeni</name>
+      <latitude>47.58180000</latitude>
+      <longitude>23.56432000</longitude>
+    </cities>
+    <cities>
+      <id>105990</id>
+      <name>Săcel</name>
+      <latitude>47.63333000</latitude>
+      <longitude>24.43333000</longitude>
+    </cities>
+    <cities>
+      <id>106018</id>
+      <name>Săliştea de Sus</name>
+      <latitude>47.65000000</latitude>
+      <longitude>24.35000000</longitude>
+    </cities>
+    <cities>
+      <id>106021</id>
+      <name>Sălsig</name>
+      <latitude>47.53333000</latitude>
+      <longitude>23.30000000</longitude>
+    </cities>
+    <cities>
+      <id>106029</id>
+      <name>Săpânţa</name>
+      <latitude>47.96667000</latitude>
+      <longitude>23.70000000</longitude>
+    </cities>
+    <cities>
+      <id>96244</id>
+      <name>Sarasău</name>
+      <latitude>47.95510000</latitude>
+      <longitude>23.82874000</longitude>
+    </cities>
+    <cities>
+      <id>105986</id>
+      <name>Sârbi</name>
+      <latitude>47.76184000</latitude>
+      <longitude>23.94490000</longitude>
+    </cities>
+    <cities>
+      <id>106038</id>
+      <name>Săsar</name>
+      <latitude>47.64406000</latitude>
+      <longitude>23.49869000</longitude>
+    </cities>
+    <cities>
+      <id>96251</id>
+      <name>Sat-Șugatag</name>
+      <latitude>47.79796000</latitude>
+      <longitude>23.90637000</longitude>
+    </cities>
+    <cities>
+      <id>96262</id>
+      <name>Satulung</name>
+      <latitude>47.56667000</latitude>
+      <longitude>23.43333000</longitude>
+    </cities>
+    <cities>
+      <id>96323</id>
+      <name>Seini</name>
+      <latitude>47.75000000</latitude>
+      <longitude>23.28333000</longitude>
+    </cities>
+    <cities>
+      <id>97122</id>
+      <name>Șieu</name>
+      <latitude>47.72462000</latitude>
+      <longitude>24.22389000</longitude>
+    </cities>
+    <cities>
+      <id>96336</id>
+      <name>Sighetu Marmaţiei</name>
+      <latitude>47.93195000</latitude>
+      <longitude>23.88603000</longitude>
+    </cities>
+    <cities>
+      <id>97129</id>
+      <name>Șisești</name>
+      <latitude>47.63506000</latitude>
+      <longitude>23.70794000</longitude>
+    </cities>
+    <cities>
+      <id>97069</id>
+      <name>Şomcuta Mare</name>
+      <latitude>47.51667000</latitude>
+      <longitude>23.46667000</longitude>
+    </cities>
+    <cities>
+      <id>96461</id>
+      <name>Strâmtura</name>
+      <latitude>47.78333000</latitude>
+      <longitude>24.13333000</longitude>
+    </cities>
+    <cities>
+      <id>96491</id>
+      <name>Suciu de Jos</name>
+      <latitude>47.44584000</latitude>
+      <longitude>23.98250000</longitude>
+    </cities>
+    <cities>
+      <id>96492</id>
+      <name>Suciu de Sus</name>
+      <latitude>47.43333000</latitude>
+      <longitude>24.03333000</longitude>
+    </cities>
+    <cities>
+      <id>97136</id>
+      <name>Șurdești</name>
+      <latitude>47.60215000</latitude>
+      <longitude>23.76899000</longitude>
+    </cities>
+    <cities>
+      <id>96585</id>
+      <name>Târgu Lăpuş</name>
+      <latitude>47.45261000</latitude>
+      <longitude>23.86539000</longitude>
+    </cities>
+    <cities>
+      <id>96628</id>
+      <name>Tăuții de Sus</name>
+      <latitude>47.65665000</latitude>
+      <longitude>23.65841000</longitude>
+    </cities>
+    <cities>
+      <id>96629</id>
+      <name>Tăuții-Măgherăuș</name>
+      <latitude>47.65000000</latitude>
+      <longitude>23.48333000</longitude>
+    </cities>
+    <cities>
+      <id>106106</id>
+      <name>Tisa</name>
+      <latitude>47.94844000</latitude>
+      <longitude>23.95768000</longitude>
+    </cities>
+    <cities>
+      <id>96646</id>
+      <name>Ulmeni</name>
+      <latitude>47.46667000</latitude>
+      <longitude>23.30000000</longitude>
+    </cities>
+    <cities>
+      <id>96660</id>
+      <name>Ungureni</name>
+      <latitude>47.54631000</latitude>
+      <longitude>23.95241000</longitude>
+    </cities>
+    <cities>
+      <id>96696</id>
+      <name>Vadu Izei</name>
+      <latitude>47.88821000</latitude>
+      <longitude>23.93209000</longitude>
+    </cities>
+    <cities>
+      <id>96714</id>
+      <name>Valea Chioarului</name>
+      <latitude>47.43333000</latitude>
+      <longitude>23.48333000</longitude>
+    </cities>
+    <cities>
+      <id>96764</id>
+      <name>Valea Vișeului</name>
+      <latitude>47.91203000</latitude>
+      <longitude>24.15842000</longitude>
+    </cities>
+    <cities>
+      <id>96959</id>
+      <name>Văleni</name>
+      <latitude>47.78559000</latitude>
+      <longitude>24.01625000</longitude>
+    </cities>
+    <cities>
+      <id>96966</id>
+      <name>Vălenii Șomcutei</name>
+      <latitude>47.47291000</latitude>
+      <longitude>23.45138000</longitude>
+    </cities>
+    <cities>
+      <id>96829</id>
+      <name>Vima Mică</name>
+      <latitude>47.40000000</latitude>
+      <longitude>23.71667000</longitude>
+    </cities>
+    <cities>
+      <id>96847</id>
+      <name>Vişeu de Jos</name>
+      <latitude>47.72558000</latitude>
+      <longitude>24.36613000</longitude>
+    </cities>
+    <cities>
+      <id>96852</id>
+      <name>Vișeu de Mijloc</name>
+      <latitude>47.71562000</latitude>
+      <longitude>24.40661000</longitude>
+    </cities>
+    <cities>
+      <id>96848</id>
+      <name>Vişeu de Sus</name>
+      <latitude>47.71667000</latitude>
+      <longitude>24.43333000</longitude>
     </cities>
   </state_city>
   <state_city>
