@@ -7,7 +7,7 @@ country_state_city:
     phone_code: '93'
     capital: Kabul
     currency: AFN
-    currency_symbol: null
+    currency_symbol: ؋
     native: افغانستان
     region: Asia
     subregion: 'Southern Asia'
@@ -667,7 +667,7 @@ country_state_city:
     phone_code: +358-18
     capital: Mariehamn
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Åland
     region: Europe
     subregion: 'Northern Europe'
@@ -702,7 +702,7 @@ country_state_city:
     phone_code: '355'
     capital: Tirana
     currency: ALL
-    currency_symbol: null
+    currency_symbol: Lek
     native: Shqipëria
     region: Europe
     subregion: 'Southern Europe'
@@ -1622,7 +1622,7 @@ country_state_city:
     phone_code: '213'
     capital: Algiers
     currency: DZD
-    currency_symbol: null
+    currency_symbol: دج
     native: الجزائر
     region: Africa
     subregion: 'Northern Africa'
@@ -3157,7 +3157,7 @@ country_state_city:
     phone_code: +1-684
     capital: 'Pago Pago'
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: 'American Samoa'
     region: Oceania
     subregion: Polynesia
@@ -3192,7 +3192,7 @@ country_state_city:
     phone_code: '376'
     capital: 'Andorra la Vella'
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Andorra
     region: Europe
     subregion: 'Southern Europe'
@@ -3312,7 +3312,7 @@ country_state_city:
     phone_code: '244'
     capital: Luanda
     currency: AOA
-    currency_symbol: null
+    currency_symbol: Kz
     native: Angola
     region: Africa
     subregion: 'Middle Africa'
@@ -3672,7 +3672,7 @@ country_state_city:
     phone_code: +1-264
     capital: 'The Valley'
     currency: XCD
-    currency_symbol: null
+    currency_symbol: $
     native: Anguilla
     region: Americas
     subregion: Caribbean
@@ -3707,7 +3707,7 @@ country_state_city:
     phone_code: ''
     capital: ''
     currency: ''
-    currency_symbol: null
+    currency_symbol: $
     native: Antarctica
     region: Polar
     subregion: ''
@@ -3796,7 +3796,7 @@ country_state_city:
     phone_code: +1-268
     capital: 'St. John''s'
     currency: XCD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Antigua and Barbuda'
     region: Americas
     subregion: Caribbean
@@ -3916,7 +3916,7 @@ country_state_city:
     phone_code: '54'
     capital: 'Buenos Aires'
     currency: ARS
-    currency_symbol: null
+    currency_symbol: $
     native: Argentina
     region: Americas
     subregion: 'South America'
@@ -8952,7 +8952,7 @@ country_state_city:
     phone_code: '374'
     capital: Yerevan
     currency: AMD
-    currency_symbol: null
+    currency_symbol: ֏
     native: Հայաստան
     region: Asia
     subregion: 'Western Asia'
@@ -10582,7 +10582,7 @@ country_state_city:
     phone_code: '297'
     capital: Oranjestad
     currency: AWG
-    currency_symbol: null
+    currency_symbol: ƒ
     native: Aruba
     region: Americas
     subregion: Caribbean
@@ -10617,7 +10617,7 @@ country_state_city:
     phone_code: '61'
     capital: Canberra
     currency: AUD
-    currency_symbol: null
+    currency_symbol: $
     native: Australia
     region: Oceania
     subregion: 'Australia and New Zealand'
@@ -31439,7 +31439,7 @@ country_state_city:
     phone_code: '43'
     capital: Vienna
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Österreich
     region: Europe
     subregion: 'Western Europe'
@@ -43469,7 +43469,7 @@ country_state_city:
     phone_code: '994'
     capital: Baku
     currency: AZN
-    currency_symbol: null
+    currency_symbol: m
     native: Azərbaycan
     region: Asia
     subregion: 'Western Asia'
@@ -44769,7 +44769,7 @@ country_state_city:
     phone_code: +1-242
     capital: Nassau
     currency: BSD
-    currency_symbol: null
+    currency_symbol: B$
     native: Bahamas
     region: Americas
     subregion: Caribbean
@@ -45119,7 +45119,7 @@ country_state_city:
     phone_code: '973'
     capital: Manama
     currency: BHD
-    currency_symbol: null
+    currency_symbol: .د.ب
     native: ‏البحرين
     region: Asia
     subregion: 'Western Asia'
@@ -45224,7 +45224,7 @@ country_state_city:
     phone_code: '880'
     capital: Dhaka
     currency: BDT
-    currency_symbol: null
+    currency_symbol: ৳
     native: Bangladesh
     region: Asia
     subregion: 'Southern Asia'
@@ -46379,7 +46379,7 @@ country_state_city:
     phone_code: +1-246
     capital: Bridgetown
     currency: BBD
-    currency_symbol: null
+    currency_symbol: Bds$
     native: Barbados
     region: Americas
     subregion: Caribbean
@@ -46504,7 +46504,7 @@ country_state_city:
     phone_code: '375'
     capital: Minsk
     currency: BYN
-    currency_symbol: null
+    currency_symbol: Br
     native: Белару́сь
     region: Europe
     subregion: 'Eastern Europe'
@@ -48219,7 +48219,7 @@ country_state_city:
     phone_code: '32'
     capital: Brussels
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: België
     region: Europe
     subregion: 'Western Europe'
@@ -51069,7 +51069,7 @@ country_state_city:
     phone_code: '501'
     capital: Belmopan
     currency: BZD
-    currency_symbol: null
+    currency_symbol: $
     native: Belize
     region: Americas
     subregion: 'Central America'
@@ -51199,7 +51199,7 @@ country_state_city:
     phone_code: '229'
     capital: Porto-Novo
     currency: XOF
-    currency_symbol: null
+    currency_symbol: CFA
     native: Bénin
     region: Africa
     subregion: 'Western Africa'
@@ -51479,7 +51479,7 @@ country_state_city:
     phone_code: +1-441
     capital: Hamilton
     currency: BMD
-    currency_symbol: null
+    currency_symbol: $
     native: Bermuda
     region: Americas
     subregion: 'Northern America'
@@ -51569,7 +51569,7 @@ country_state_city:
     phone_code: '975'
     capital: Thimphu
     currency: BTN
-    currency_symbol: null
+    currency_symbol: Nu.
     native: ʼbrug-yul
     region: Asia
     subregion: 'Southern Asia'
@@ -51819,7 +51819,7 @@ country_state_city:
     phone_code: '591'
     capital: Sucre
     currency: BOB
-    currency_symbol: null
+    currency_symbol: Bs.
     native: Bolivia
     region: Americas
     subregion: 'South America'
@@ -53039,7 +53039,7 @@ country_state_city:
     phone_code: '599'
     capital: Kralendijk
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Caribisch Nederland'
     region: Americas
     subregion: Caribbean
@@ -53070,7 +53070,7 @@ country_state_city:
     phone_code: '387'
     capital: Sarajevo
     currency: BAM
-    currency_symbol: null
+    currency_symbol: KM
     native: 'Bosna i Hercegovina'
     region: Europe
     subregion: 'Southern Europe'
@@ -54330,7 +54330,7 @@ country_state_city:
     phone_code: '267'
     capital: Gaborone
     currency: BWP
-    currency_symbol: null
+    currency_symbol: P
     native: Botswana
     region: Africa
     subregion: 'Southern Africa'
@@ -54790,7 +54790,7 @@ country_state_city:
     phone_code: '0055'
     capital: ''
     currency: NOK
-    currency_symbol: null
+    currency_symbol: kr
     native: Bouvetøya
     region: ''
     subregion: ''
@@ -54825,7 +54825,7 @@ country_state_city:
     phone_code: '55'
     capital: Brasilia
     currency: BRL
-    currency_symbol: null
+    currency_symbol: R$
     native: Brasil
     region: Americas
     subregion: 'South America'
@@ -83315,7 +83315,7 @@ country_state_city:
     phone_code: '246'
     capital: 'Diego Garcia'
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: 'British Indian Ocean Territory'
     region: Africa
     subregion: 'Eastern Africa'
@@ -83350,7 +83350,7 @@ country_state_city:
     phone_code: '673'
     capital: 'Bandar Seri Begawan'
     currency: BND
-    currency_symbol: null
+    currency_symbol: B$
     native: 'Negara Brunei Darussalam'
     region: Asia
     subregion: 'South-Eastern Asia'
@@ -83450,7 +83450,7 @@ country_state_city:
     phone_code: '359'
     capital: Sofia
     currency: BGN
-    currency_symbol: null
+    currency_symbol: Лв.
     native: България
     region: Europe
     subregion: 'Eastern Europe'
@@ -86145,7 +86145,7 @@ country_state_city:
     phone_code: '226'
     capital: Ouagadougou
     currency: XOF
-    currency_symbol: null
+    currency_symbol: CFA
     native: 'Burkina Faso'
     region: Africa
     subregion: 'Western Africa'
@@ -86925,7 +86925,7 @@ country_state_city:
     phone_code: '257'
     capital: Bujumbura
     currency: BIF
-    currency_symbol: null
+    currency_symbol: FBu
     native: Burundi
     region: Africa
     subregion: 'Eastern Africa'
@@ -87135,7 +87135,7 @@ country_state_city:
     phone_code: '855'
     capital: 'Phnom Penh'
     currency: KHR
-    currency_symbol: null
+    currency_symbol: KHR
     native: Kâmpŭchéa
     region: Asia
     subregion: 'South-Eastern Asia'
@@ -87815,7 +87815,7 @@ country_state_city:
     phone_code: '237'
     capital: Yaounde
     currency: XAF
-    currency_symbol: null
+    currency_symbol: FCFA
     native: Cameroon
     region: Africa
     subregion: 'Middle Africa'
@@ -88595,7 +88595,7 @@ country_state_city:
     phone_code: '1'
     capital: Ottawa
     currency: CAD
-    currency_symbol: null
+    currency_symbol: $
     native: Canada
     region: Americas
     subregion: 'Northern America'
@@ -94252,7 +94252,7 @@ country_state_city:
     phone_code: '238'
     capital: Praia
     currency: CVE
-    currency_symbol: null
+    currency_symbol: $
     native: 'Cabo Verde'
     region: Africa
     subregion: 'Western Africa'
@@ -94522,7 +94522,7 @@ country_state_city:
     phone_code: +1-345
     capital: 'George Town'
     currency: KYD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Cayman Islands'
     region: Americas
     subregion: Caribbean
@@ -94557,7 +94557,7 @@ country_state_city:
     phone_code: '236'
     capital: Bangui
     currency: XAF
-    currency_symbol: null
+    currency_symbol: FCFA
     native: 'Ködörösêse tî Bêafrîka'
     region: Africa
     subregion: 'Middle Africa'
@@ -94902,7 +94902,7 @@ country_state_city:
     phone_code: '235'
     capital: 'N''Djamena'
     currency: XAF
-    currency_symbol: null
+    currency_symbol: FCFA
     native: Tchad
     region: Africa
     subregion: 'Middle Africa'
@@ -95257,7 +95257,7 @@ country_state_city:
     phone_code: '56'
     capital: Santiago
     currency: CLP
-    currency_symbol: null
+    currency_symbol: $
     native: Chile
     region: Americas
     subregion: 'South America'
@@ -96324,7 +96324,7 @@ country_state_city:
     phone_code: '86'
     capital: Beijing
     currency: CNY
-    currency_symbol: null
+    currency_symbol: ¥
     native: 中国
     region: Asia
     subregion: 'Eastern Asia'
@@ -102605,7 +102605,7 @@ country_state_city:
     phone_code: '61'
     capital: 'Flying Fish Cove'
     currency: AUD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Christmas Island'
     region: Oceania
     subregion: 'Australia and New Zealand'
@@ -102640,7 +102640,7 @@ country_state_city:
     phone_code: '61'
     capital: 'West Island'
     currency: AUD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Cocos (Keeling) Islands'
     region: Oceania
     subregion: 'Australia and New Zealand'
@@ -102675,7 +102675,7 @@ country_state_city:
     phone_code: '57'
     capital: Bogota
     currency: COP
-    currency_symbol: null
+    currency_symbol: $
     native: Colombia
     region: Americas
     subregion: 'South America'
@@ -108850,7 +108850,7 @@ country_state_city:
     phone_code: '269'
     capital: Moroni
     currency: KMF
-    currency_symbol: null
+    currency_symbol: CF
     native: Komori
     region: Africa
     subregion: 'Eastern Africa'
@@ -109340,7 +109340,7 @@ country_state_city:
     phone_code: '242'
     capital: Brazzaville
     currency: XAF
-    currency_symbol: null
+    currency_symbol: FC
     native: 'République du Congo'
     region: Africa
     subregion: 'Middle Africa'
@@ -109520,7 +109520,7 @@ country_state_city:
     phone_code: '243'
     capital: Kinshasa
     currency: CDF
-    currency_symbol: null
+    currency_symbol: FC
     native: 'République démocratique du Congo'
     region: Africa
     subregion: 'Middle Africa'
@@ -110046,7 +110046,7 @@ country_state_city:
     phone_code: '682'
     capital: Avarua
     currency: NZD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Cook Islands'
     region: Oceania
     subregion: Polynesia
@@ -110081,7 +110081,7 @@ country_state_city:
     phone_code: '506'
     capital: 'San Jose'
     currency: CRC
-    currency_symbol: null
+    currency_symbol: ₡
     native: 'Costa Rica'
     region: Americas
     subregion: 'Central America'
@@ -110946,7 +110946,7 @@ country_state_city:
     phone_code: '225'
     capital: Yamoussoukro
     currency: XOF
-    currency_symbol: null
+    currency_symbol: CFA
     native: null
     region: Africa
     subregion: 'Western Africa'
@@ -111561,7 +111561,7 @@ country_state_city:
     phone_code: '385'
     capital: Zagreb
     currency: HRK
-    currency_symbol: null
+    currency_symbol: kn
     native: Hrvatska
     region: Europe
     subregion: 'Southern Europe'
@@ -115016,7 +115016,7 @@ country_state_city:
     phone_code: '53'
     capital: Havana
     currency: CUP
-    currency_symbol: null
+    currency_symbol: $
     native: Cuba
     region: Americas
     subregion: Caribbean
@@ -116066,7 +116066,7 @@ country_state_city:
     phone_code: '599'
     capital: Willemstad
     currency: ANG
-    currency_symbol: null
+    currency_symbol: ƒ
     native: Curaçao
     region: Americas
     subregion: Caribbean
@@ -116098,7 +116098,7 @@ country_state_city:
     phone_code: '357'
     capital: Nicosia
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Κύπρος
     region: Europe
     subregion: 'Southern Europe'
@@ -116644,7 +116644,7 @@ country_state_city:
     phone_code: '420'
     capital: Prague
     currency: CZK
-    currency_symbol: null
+    currency_symbol: Kč
     native: 'Česká republika'
     region: Europe
     subregion: 'Eastern Europe'
@@ -123989,7 +123989,7 @@ country_state_city:
     phone_code: '45'
     capital: Copenhagen
     currency: DKK
-    currency_symbol: null
+    currency_symbol: Kr.
     native: Danmark
     region: Europe
     subregion: 'Northern Europe'
@@ -126194,7 +126194,7 @@ country_state_city:
     phone_code: '253'
     capital: Djibouti
     currency: DJF
-    currency_symbol: null
+    currency_symbol: Fdj
     native: Djibouti
     region: Africa
     subregion: 'Eastern Africa'
@@ -126319,7 +126319,7 @@ country_state_city:
     phone_code: +1-767
     capital: Roseau
     currency: XCD
-    currency_symbol: null
+    currency_symbol: $
     native: Dominica
     region: Americas
     subregion: Caribbean
@@ -126489,7 +126489,7 @@ country_state_city:
     phone_code: '+1-809 and 1-829'
     capital: 'Santo Domingo'
     currency: DOP
-    currency_symbol: null
+    currency_symbol: $
     native: 'República Dominicana'
     region: Americas
     subregion: Caribbean
@@ -127714,7 +127714,7 @@ country_state_city:
     phone_code: '670'
     capital: Dili
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: Timor-Leste
     region: Asia
     subregion: 'South-Eastern Asia'
@@ -128059,7 +128059,7 @@ country_state_city:
     phone_code: '593'
     capital: Quito
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: Ecuador
     region: Americas
     subregion: 'South America'
@@ -128785,7 +128785,7 @@ country_state_city:
     phone_code: '20'
     capital: Cairo
     currency: EGP
-    currency_symbol: null
+    currency_symbol: ج.م
     native: مصر‎
     region: Africa
     subregion: 'Northern Africa'
@@ -129580,7 +129580,7 @@ country_state_city:
     phone_code: '503'
     capital: 'San Salvador'
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: 'El Salvador'
     region: Americas
     subregion: 'Central America'
@@ -130185,7 +130185,7 @@ country_state_city:
     phone_code: '240'
     capital: Malabo
     currency: XAF
-    currency_symbol: null
+    currency_symbol: FCFA
     native: 'Guinea Ecuatorial'
     region: Africa
     subregion: 'Middle Africa'
@@ -130385,7 +130385,7 @@ country_state_city:
     phone_code: '291'
     capital: Asmara
     currency: ERN
-    currency_symbol: null
+    currency_symbol: Nfk
     native: ኤርትራ
     region: Africa
     subregion: 'Eastern Africa'
@@ -130505,7 +130505,7 @@ country_state_city:
     phone_code: '372'
     capital: Tallinn
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Eesti
     region: Europe
     subregion: 'Northern Europe'
@@ -131425,7 +131425,7 @@ country_state_city:
     phone_code: '251'
     capital: 'Addis Ababa'
     currency: ETB
-    currency_symbol: null
+    currency_symbol: Nkf
     native: ኢትዮጵያ
     region: Africa
     subregion: 'Eastern Africa'
@@ -132240,7 +132240,7 @@ country_state_city:
     phone_code: '500'
     capital: Stanley
     currency: FKP
-    currency_symbol: null
+    currency_symbol: £
     native: 'Falkland Islands'
     region: Americas
     subregion: 'South America'
@@ -132275,7 +132275,7 @@ country_state_city:
     phone_code: '298'
     capital: Torshavn
     currency: DKK
-    currency_symbol: null
+    currency_symbol: Kr.
     native: Føroyar
     region: Europe
     subregion: 'Northern Europe'
@@ -132310,7 +132310,7 @@ country_state_city:
     phone_code: '679'
     capital: Suva
     currency: FJD
-    currency_symbol: null
+    currency_symbol: FJ$
     native: Fiji
     region: Oceania
     subregion: Melanesia
@@ -132540,7 +132540,7 @@ country_state_city:
     phone_code: '358'
     capital: Helsinki
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Suomi
     region: Europe
     subregion: 'Northern Europe'
@@ -134695,7 +134695,7 @@ country_state_city:
     phone_code: '33'
     capital: Paris
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: France
     region: Europe
     subregion: 'Western Europe'
@@ -179415,7 +179415,7 @@ country_state_city:
     phone_code: '594'
     capital: Cayenne
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: 'Guyane française'
     region: Americas
     subregion: 'South America'
@@ -179450,7 +179450,7 @@ country_state_city:
     phone_code: '689'
     capital: Papeete
     currency: XPF
-    currency_symbol: null
+    currency_symbol: ₣
     native: 'Polynésie française'
     region: Oceania
     subregion: Polynesia
@@ -179497,7 +179497,7 @@ country_state_city:
     phone_code: ''
     capital: Port-aux-Francais
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: 'Territoire des Terres australes et antarctiques fr'
     region: Africa
     subregion: 'Southern Africa'
@@ -179532,7 +179532,7 @@ country_state_city:
     phone_code: '241'
     capital: Libreville
     currency: XAF
-    currency_symbol: null
+    currency_symbol: FCFA
     native: Gabon
     region: Africa
     subregion: 'Middle Africa'
@@ -179752,7 +179752,7 @@ country_state_city:
     phone_code: '220'
     capital: Banjul
     currency: GMD
-    currency_symbol: null
+    currency_symbol: D
     native: Gambia
     region: Africa
     subregion: 'Western Africa'
@@ -180337,7 +180337,7 @@ country_state_city:
     phone_code: '995'
     capital: Tbilisi
     currency: GEL
-    currency_symbol: null
+    currency_symbol: ლ
     native: საქართველო
     region: Asia
     subregion: 'Western Asia'
@@ -181002,7 +181002,7 @@ country_state_city:
     phone_code: '49'
     capital: Berlin
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Deutschland
     region: Europe
     subregion: 'Western Europe'
@@ -216623,7 +216623,7 @@ country_state_city:
     phone_code: '233'
     capital: Accra
     currency: GHS
-    currency_symbol: null
+    currency_symbol: GH₵
     native: Ghana
     region: Africa
     subregion: 'Western Africa'
@@ -217058,7 +217058,7 @@ country_state_city:
     phone_code: '350'
     capital: Gibraltar
     currency: GIP
-    currency_symbol: null
+    currency_symbol: £
     native: Gibraltar
     region: Europe
     subregion: 'Southern Europe'
@@ -217093,7 +217093,7 @@ country_state_city:
     phone_code: '30'
     capital: Athens
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Ελλάδα
     region: Europe
     subregion: 'Southern Europe'
@@ -222448,7 +222448,7 @@ country_state_city:
     phone_code: '299'
     capital: Nuuk
     currency: DKK
-    currency_symbol: null
+    currency_symbol: Kr.
     native: 'Kalaallit Nunaat'
     region: Americas
     subregion: 'Northern America'
@@ -222501,7 +222501,7 @@ country_state_city:
     phone_code: +1-473
     capital: 'St. George''s'
     currency: XCD
-    currency_symbol: null
+    currency_symbol: $
     native: Grenada
     region: Americas
     subregion: Caribbean
@@ -222606,7 +222606,7 @@ country_state_city:
     phone_code: '590'
     capital: Basse-Terre
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Guadeloupe
     region: Americas
     subregion: Caribbean
@@ -222641,7 +222641,7 @@ country_state_city:
     phone_code: +1-671
     capital: Hagatna
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: Guam
     region: Oceania
     subregion: Micronesia
@@ -222676,7 +222676,7 @@ country_state_city:
     phone_code: '502'
     capital: 'Guatemala City'
     currency: GTQ
-    currency_symbol: null
+    currency_symbol: Q
     native: Guatemala
     region: Americas
     subregion: 'Central America'
@@ -224726,7 +224726,7 @@ country_state_city:
     phone_code: +44-1481
     capital: 'St Peter Port'
     currency: GBP
-    currency_symbol: null
+    currency_symbol: £
     native: Guernsey
     region: Europe
     subregion: 'Northern Europe'
@@ -224761,7 +224761,7 @@ country_state_city:
     phone_code: '224'
     capital: Conakry
     currency: GNF
-    currency_symbol: null
+    currency_symbol: FG
     native: Guinée
     region: Africa
     subregion: 'Western Africa'
@@ -225266,7 +225266,7 @@ country_state_city:
     phone_code: '245'
     capital: Bissau
     currency: XOF
-    currency_symbol: null
+    currency_symbol: CFA
     native: Guiné-Bissau
     region: Africa
     subregion: 'Western Africa'
@@ -225426,7 +225426,7 @@ country_state_city:
     phone_code: '592'
     capital: Georgetown
     currency: GYD
-    currency_symbol: null
+    currency_symbol: $
     native: Guyana
     region: Americas
     subregion: 'South America'
@@ -225581,7 +225581,7 @@ country_state_city:
     phone_code: '509'
     capital: Port-au-Prince
     currency: HTG
-    currency_symbol: null
+    currency_symbol: G
     native: Haïti
     region: Americas
     subregion: Caribbean
@@ -226286,7 +226286,7 @@ country_state_city:
     phone_code: ''
     capital: ''
     currency: AUD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Heard Island and McDonald Islands'
     region: ''
     subregion: ''
@@ -226321,7 +226321,7 @@ country_state_city:
     phone_code: '504'
     capital: Tegucigalpa
     currency: HNL
-    currency_symbol: null
+    currency_symbol: L
     native: Honduras
     region: Americas
     subregion: 'Central America'
@@ -229171,7 +229171,7 @@ country_state_city:
     phone_code: '852'
     capital: 'Hong Kong'
     currency: HKD
-    currency_symbol: null
+    currency_symbol: $
     native: 香港
     region: Asia
     subregion: 'Eastern Asia'
@@ -229296,7 +229296,7 @@ country_state_city:
     phone_code: '36'
     capital: Budapest
     currency: HUF
-    currency_symbol: null
+    currency_symbol: Ft
     native: Magyarország
     region: Europe
     subregion: 'Eastern Europe'
@@ -234566,7 +234566,7 @@ country_state_city:
     phone_code: '354'
     capital: Reykjavik
     currency: ISK
-    currency_symbol: null
+    currency_symbol: kr
     native: Ísland
     region: Europe
     subregion: 'Northern Europe'
@@ -235011,7 +235011,7 @@ country_state_city:
     phone_code: '91'
     capital: 'New Delhi'
     currency: INR
-    currency_symbol: null
+    currency_symbol: ₹
     native: भारत
     region: Asia
     subregion: 'Southern Asia'
@@ -254511,7 +254511,7 @@ country_state_city:
     phone_code: '62'
     capital: Jakarta
     currency: IDR
-    currency_symbol: null
+    currency_symbol: Rp
     native: Indonesia
     region: Asia
     subregion: 'South-Eastern Asia'
@@ -259199,7 +259199,7 @@ country_state_city:
     phone_code: '98'
     capital: Tehran
     currency: IRR
-    currency_symbol: null
+    currency_symbol: ﷼
     native: ایران
     region: Asia
     subregion: 'Southern Asia'
@@ -262413,7 +262413,7 @@ country_state_city:
     phone_code: '964'
     capital: Baghdad
     currency: IQD
-    currency_symbol: null
+    currency_symbol: د.ع
     native: العراق
     region: Asia
     subregion: 'Western Asia'
@@ -262948,7 +262948,7 @@ country_state_city:
     phone_code: '353'
     capital: Dublin
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Éire
     region: Europe
     subregion: 'Northern Europe'
@@ -264988,7 +264988,7 @@ country_state_city:
     phone_code: '972'
     capital: Jerusalem
     currency: ILS
-    currency_symbol: null
+    currency_symbol: ₪
     native: יִשְׂרָאֵל
     region: Asia
     subregion: 'Western Asia'
@@ -265803,7 +265803,7 @@ country_state_city:
     phone_code: '39'
     capital: Rome
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Italia
     region: Europe
     subregion: 'Southern Europe'
@@ -316218,7 +316218,7 @@ country_state_city:
     phone_code: +1-876
     capital: Kingston
     currency: JMD
-    currency_symbol: null
+    currency_symbol: J$
     native: Jamaica
     region: Americas
     subregion: Caribbean
@@ -320523,7 +320523,7 @@ country_state_city:
     phone_code: '81'
     capital: Tokyo
     currency: JPY
-    currency_symbol: null
+    currency_symbol: ¥
     native: 日本
     region: Asia
     subregion: 'Eastern Asia'
@@ -328593,7 +328593,7 @@ country_state_city:
     phone_code: +44-1534
     capital: 'Saint Helier'
     currency: GBP
-    currency_symbol: null
+    currency_symbol: £
     native: Jersey
     region: Europe
     subregion: 'Northern Europe'
@@ -328628,7 +328628,7 @@ country_state_city:
     phone_code: '962'
     capital: Amman
     currency: JOD
-    currency_symbol: null
+    currency_symbol: ا.د
     native: الأردن
     region: Asia
     subregion: 'Western Asia'
@@ -329133,7 +329133,7 @@ country_state_city:
     phone_code: '7'
     capital: Astana
     currency: KZT
-    currency_symbol: null
+    currency_symbol: лв
     native: Қазақстан
     region: Asia
     subregion: 'Central Asia'
@@ -330589,7 +330589,7 @@ country_state_city:
     phone_code: '254'
     capital: Nairobi
     currency: KES
-    currency_symbol: null
+    currency_symbol: KSh
     native: Kenya
     region: Africa
     subregion: 'Eastern Africa'
@@ -331444,7 +331444,7 @@ country_state_city:
     phone_code: '686'
     capital: Tarawa
     currency: AUD
-    currency_symbol: null
+    currency_symbol: $
     native: Kiribati
     region: Oceania
     subregion: Micronesia
@@ -331696,7 +331696,7 @@ country_state_city:
     phone_code: '850'
     capital: Pyongyang
     currency: KPW
-    currency_symbol: null
+    currency_symbol: ₩
     native: 북한
     region: Asia
     subregion: 'Eastern Asia'
@@ -332186,7 +332186,7 @@ country_state_city:
     phone_code: '82'
     capital: Seoul
     currency: KRW
-    currency_symbol: null
+    currency_symbol: ₩
     native: 대한민국
     region: Asia
     subregion: 'Eastern Asia'
@@ -333851,7 +333851,7 @@ country_state_city:
     phone_code: '383'
     capital: Pristina
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: 'Republika e Kosovës'
     region: Europe
     subregion: 'Eastern Europe'
@@ -333911,7 +333911,7 @@ country_state_city:
     phone_code: '965'
     capital: 'Kuwait City'
     currency: KWD
-    currency_symbol: null
+    currency_symbol: ك.د
     native: الكويت
     region: Asia
     subregion: 'Western Asia'
@@ -334101,7 +334101,7 @@ country_state_city:
     phone_code: '996'
     capital: Bishkek
     currency: KGS
-    currency_symbol: null
+    currency_symbol: лв
     native: Кыргызстан
     region: Asia
     subregion: 'Central Asia'
@@ -334446,7 +334446,7 @@ country_state_city:
     phone_code: '856'
     capital: Vientiane
     currency: LAK
-    currency_symbol: null
+    currency_symbol: ₭
     native: ສປປລາວ
     region: Asia
     subregion: 'South-Eastern Asia'
@@ -334956,7 +334956,7 @@ country_state_city:
     phone_code: '371'
     capital: Riga
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Latvija
     region: Europe
     subregion: 'Northern Europe'
@@ -336206,7 +336206,7 @@ country_state_city:
     phone_code: '961'
     capital: Beirut
     currency: LBP
-    currency_symbol: null
+    currency_symbol: £
     native: لبنان
     region: Asia
     subregion: 'Western Asia'
@@ -336411,7 +336411,7 @@ country_state_city:
     phone_code: '266'
     capital: Maseru
     currency: LSL
-    currency_symbol: null
+    currency_symbol: L
     native: Lesotho
     region: Africa
     subregion: 'Southern Africa'
@@ -336556,7 +336556,7 @@ country_state_city:
     phone_code: '231'
     capital: Monrovia
     currency: LRD
-    currency_symbol: null
+    currency_symbol: $
     native: Liberia
     region: Africa
     subregion: 'Western Africa'
@@ -336756,7 +336756,7 @@ country_state_city:
     phone_code: '218'
     capital: Tripolis
     currency: LYD
-    currency_symbol: null
+    currency_symbol: د.ل
     native: ‏ليبيا
     region: Africa
     subregion: 'Northern Africa'
@@ -337151,7 +337151,7 @@ country_state_city:
     phone_code: '423'
     capital: Vaduz
     currency: CHF
-    currency_symbol: null
+    currency_symbol: CHf
     native: Liechtenstein
     region: Europe
     subregion: 'Western Europe'
@@ -337296,7 +337296,7 @@ country_state_city:
     phone_code: '370'
     capital: Vilnius
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Lietuva
     region: Europe
     subregion: 'Northern Europe'
@@ -338391,7 +338391,7 @@ country_state_city:
     phone_code: '352'
     capital: Luxembourg
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Luxembourg
     region: Europe
     subregion: 'Western Europe'
@@ -339221,7 +339221,7 @@ country_state_city:
     phone_code: '853'
     capital: Macao
     currency: MOP
-    currency_symbol: null
+    currency_symbol: $
     native: 澳門
     region: Asia
     subregion: 'Eastern Asia'
@@ -339256,7 +339256,7 @@ country_state_city:
     phone_code: '389'
     capital: Skopje
     currency: MKD
-    currency_symbol: null
+    currency_symbol: ден
     native: 'Северна Македонија'
     region: Europe
     subregion: 'Southern Europe'
@@ -340696,7 +340696,7 @@ country_state_city:
     phone_code: '261'
     capital: Antananarivo
     currency: MGA
-    currency_symbol: null
+    currency_symbol: Ar
     native: Madagasikara
     region: Africa
     subregion: 'Eastern Africa'
@@ -340806,7 +340806,7 @@ country_state_city:
     phone_code: '265'
     capital: Lilongwe
     currency: MWK
-    currency_symbol: null
+    currency_symbol: MK
     native: Malawi
     region: Africa
     subregion: 'Eastern Africa'
@@ -341296,7 +341296,7 @@ country_state_city:
     phone_code: '60'
     capital: 'Kuala Lumpur'
     currency: MYR
-    currency_symbol: null
+    currency_symbol: RM
     native: Malaysia
     region: Asia
     subregion: 'South-Eastern Asia'
@@ -342312,7 +342312,7 @@ country_state_city:
     phone_code: '960'
     capital: Male
     currency: MVR
-    currency_symbol: null
+    currency_symbol: Rf
     native: Maldives
     region: Asia
     subregion: 'Southern Asia'
@@ -342582,7 +342582,7 @@ country_state_city:
     phone_code: '223'
     capital: Bamako
     currency: XOF
-    currency_symbol: null
+    currency_symbol: CFA
     native: Mali
     region: Africa
     subregion: 'Western Africa'
@@ -342912,7 +342912,7 @@ country_state_city:
     phone_code: '356'
     capital: Valletta
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Malta
     region: Europe
     subregion: 'Southern Europe'
@@ -343622,7 +343622,7 @@ country_state_city:
     phone_code: +44-1624
     capital: 'Douglas, Isle of Man'
     currency: GBP
-    currency_symbol: null
+    currency_symbol: £
     native: 'Isle of Man'
     region: Europe
     subregion: 'Northern Europe'
@@ -343657,7 +343657,7 @@ country_state_city:
     phone_code: '692'
     capital: Majuro
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: M̧ajeļ
     region: Oceania
     subregion: Micronesia
@@ -343708,7 +343708,7 @@ country_state_city:
     phone_code: '596'
     capital: Fort-de-France
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Martinique
     region: Americas
     subregion: Caribbean
@@ -343743,7 +343743,7 @@ country_state_city:
     phone_code: '222'
     capital: Nouakchott
     currency: MRO
-    currency_symbol: null
+    currency_symbol: MRU
     native: موريتانيا
     region: Africa
     subregion: 'Western Africa'
@@ -343928,7 +343928,7 @@ country_state_city:
     phone_code: '230'
     capital: 'Port Louis'
     currency: MUR
-    currency_symbol: null
+    currency_symbol: ₨
     native: Maurice
     region: Africa
     subregion: 'Eastern Africa'
@@ -344533,7 +344533,7 @@ country_state_city:
     phone_code: '262'
     capital: Mamoudzou
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Mayotte
     region: Africa
     subregion: 'Eastern Africa'
@@ -344568,7 +344568,7 @@ country_state_city:
     phone_code: '52'
     capital: 'Mexico City'
     currency: MXN
-    currency_symbol: null
+    currency_symbol: $
     native: México
     region: Americas
     subregion: 'Central America'
@@ -390948,7 +390948,7 @@ country_state_city:
     phone_code: '691'
     capital: Palikir
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: Micronesia
     region: Oceania
     subregion: Micronesia
@@ -391420,7 +391420,7 @@ country_state_city:
     phone_code: '373'
     capital: Chisinau
     currency: MDL
-    currency_symbol: null
+    currency_symbol: L
     native: Moldova
     region: Europe
     subregion: 'Eastern Europe'
@@ -391995,7 +391995,7 @@ country_state_city:
     phone_code: '377'
     capital: Monaco
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Monaco
     region: Europe
     subregion: 'Western Europe'
@@ -392030,7 +392030,7 @@ country_state_city:
     phone_code: '976'
     capital: 'Ulan Bator'
     currency: MNT
-    currency_symbol: null
+    currency_symbol: ₮
     native: 'Монгол улс'
     region: Asia
     subregion: 'Eastern Asia'
@@ -392372,7 +392372,7 @@ country_state_city:
     phone_code: '382'
     capital: Podgorica
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: 'Црна Гора'
     region: Europe
     subregion: 'Southern Europe'
@@ -392687,7 +392687,7 @@ country_state_city:
     phone_code: +1-664
     capital: Plymouth
     currency: XCD
-    currency_symbol: null
+    currency_symbol: $
     native: Montserrat
     region: Americas
     subregion: Caribbean
@@ -392722,7 +392722,7 @@ country_state_city:
     phone_code: '212'
     capital: Rabat
     currency: MAD
-    currency_symbol: null
+    currency_symbol: DH
     native: المغرب
     region: Africa
     subregion: 'Northern Africa'
@@ -394202,7 +394202,7 @@ country_state_city:
     phone_code: '258'
     capital: Maputo
     currency: MZN
-    currency_symbol: null
+    currency_symbol: MT
     native: Moçambique
     region: Africa
     subregion: 'Eastern Africa'
@@ -394482,7 +394482,7 @@ country_state_city:
     phone_code: '95'
     capital: 'Nay Pyi Taw'
     currency: MMK
-    currency_symbol: null
+    currency_symbol: K
     native: မြန်မာ
     region: Asia
     subregion: 'South-Eastern Asia'
@@ -394962,7 +394962,7 @@ country_state_city:
     phone_code: '264'
     capital: Windhoek
     currency: NAD
-    currency_symbol: null
+    currency_symbol: $
     native: Namibia
     region: Africa
     subregion: 'Southern Africa'
@@ -395307,7 +395307,7 @@ country_state_city:
     phone_code: '674'
     capital: Yaren
     currency: AUD
-    currency_symbol: null
+    currency_symbol: $
     native: Nauru
     region: Oceania
     subregion: Micronesia
@@ -395447,7 +395447,7 @@ country_state_city:
     phone_code: '977'
     capital: Kathmandu
     currency: NPR
-    currency_symbol: null
+    currency_symbol: ₨
     native: नपल
     region: Asia
     subregion: 'Southern Asia'
@@ -395857,7 +395857,7 @@ country_state_city:
     phone_code: '31'
     capital: Amsterdam
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Nederland
     region: Europe
     subregion: 'Western Europe'
@@ -404667,7 +404667,7 @@ country_state_city:
     phone_code: '687'
     capital: Noumea
     currency: XPF
-    currency_symbol: null
+    currency_symbol: ₣
     native: Nouvelle-Calédonie
     region: Oceania
     subregion: Melanesia
@@ -404702,7 +404702,7 @@ country_state_city:
     phone_code: '64'
     capital: Wellington
     currency: NZD
-    currency_symbol: null
+    currency_symbol: $
     native: 'New Zealand'
     region: Oceania
     subregion: 'Australia and New Zealand'
@@ -405618,7 +405618,7 @@ country_state_city:
     phone_code: '505'
     capital: Managua
     currency: NIO
-    currency_symbol: null
+    currency_symbol: C$
     native: Nicaragua
     region: Americas
     subregion: 'Central America'
@@ -406448,7 +406448,7 @@ country_state_city:
     phone_code: '227'
     capital: Niamey
     currency: XOF
-    currency_symbol: null
+    currency_symbol: CFA
     native: Niger
     region: Africa
     subregion: 'Western Africa'
@@ -406868,7 +406868,7 @@ country_state_city:
     phone_code: '234'
     capital: Abuja
     currency: NGN
-    currency_symbol: null
+    currency_symbol: ₦
     native: Nigeria
     region: Africa
     subregion: 'Western Africa'
@@ -409133,7 +409133,7 @@ country_state_city:
     phone_code: '683'
     capital: Alofi
     currency: NZD
-    currency_symbol: null
+    currency_symbol: $
     native: Niuē
     region: Oceania
     subregion: Polynesia
@@ -409168,7 +409168,7 @@ country_state_city:
     phone_code: '672'
     capital: Kingston
     currency: AUD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Norfolk Island'
     region: Oceania
     subregion: 'Australia and New Zealand'
@@ -409203,7 +409203,7 @@ country_state_city:
     phone_code: +1-670
     capital: Saipan
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Northern Mariana Islands'
     region: Oceania
     subregion: Micronesia
@@ -409238,7 +409238,7 @@ country_state_city:
     phone_code: '47'
     capital: Oslo
     currency: NOK
-    currency_symbol: null
+    currency_symbol: kr
     native: Norge
     region: Europe
     subregion: 'Northern Europe'
@@ -412718,7 +412718,7 @@ country_state_city:
     phone_code: '968'
     capital: Muscat
     currency: OMR
-    currency_symbol: null
+    currency_symbol: .ع.ر
     native: عمان
     region: Asia
     subregion: 'Western Asia'
@@ -412958,7 +412958,7 @@ country_state_city:
     phone_code: '92'
     capital: Islamabad
     currency: PKR
-    currency_symbol: null
+    currency_symbol: ₨
     native: Pakistan
     region: Asia
     subregion: 'Southern Asia'
@@ -415323,7 +415323,7 @@ country_state_city:
     phone_code: '680'
     capital: Melekeok
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: Palau
     region: Oceania
     subregion: Micronesia
@@ -415518,7 +415518,7 @@ country_state_city:
     phone_code: '970'
     capital: 'East Jerusalem'
     currency: ILS
-    currency_symbol: null
+    currency_symbol: ₪
     native: فلسطين
     region: Asia
     subregion: 'Western Asia'
@@ -415559,7 +415559,7 @@ country_state_city:
     phone_code: '507'
     capital: 'Panama City'
     currency: PAB
-    currency_symbol: null
+    currency_symbol: B/.
     native: Panamá
     region: Americas
     subregion: 'Central America'
@@ -418659,7 +418659,7 @@ country_state_city:
     phone_code: '675'
     capital: 'Port Moresby'
     currency: PGK
-    currency_symbol: null
+    currency_symbol: K
     native: 'Papua Niugini'
     region: Oceania
     subregion: Melanesia
@@ -419310,7 +419310,7 @@ country_state_city:
     phone_code: '595'
     capital: Asuncion
     currency: PYG
-    currency_symbol: null
+    currency_symbol: ₲
     native: Paraguay
     region: Americas
     subregion: 'South America'
@@ -420130,7 +420130,7 @@ country_state_city:
     phone_code: '51'
     capital: Lima
     currency: PEN
-    currency_symbol: null
+    currency_symbol: S/.
     native: Perú
     region: Americas
     subregion: 'South America'
@@ -422635,7 +422635,7 @@ country_state_city:
     phone_code: '63'
     capital: Manila
     currency: PHP
-    currency_symbol: null
+    currency_symbol: ₱
     native: Pilipinas
     region: Asia
     subregion: 'South-Eastern Asia'
@@ -455270,7 +455270,7 @@ country_state_city:
     phone_code: '870'
     capital: Adamstown
     currency: NZD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Pitcairn Islands'
     region: Oceania
     subregion: Polynesia
@@ -455305,7 +455305,7 @@ country_state_city:
     phone_code: '48'
     capital: Warsaw
     currency: PLN
-    currency_symbol: null
+    currency_symbol: zł
     native: Polska
     region: Europe
     subregion: 'Eastern Europe'
@@ -471070,7 +471070,7 @@ country_state_city:
     phone_code: '351'
     capital: Lisbon
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Portugal
     region: Europe
     subregion: 'Southern Europe'
@@ -477817,7 +477817,7 @@ country_state_city:
     phone_code: '+1-787 and 1-939'
     capital: 'San Juan'
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Puerto Rico'
     region: Americas
     subregion: Caribbean
@@ -477852,7 +477852,7 @@ country_state_city:
     phone_code: '974'
     capital: Doha
     currency: QAR
-    currency_symbol: null
+    currency_symbol: ق.ر
     native: قطر
     region: Asia
     subregion: 'Western Asia'
@@ -478002,7 +478002,7 @@ country_state_city:
     phone_code: '262'
     capital: Saint-Denis
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: 'La Réunion'
     region: Africa
     subregion: 'Eastern Africa'
@@ -478037,7 +478037,7 @@ country_state_city:
     phone_code: '40'
     capital: Bucharest
     currency: RON
-    currency_symbol: null
+    currency_symbol: lei
     native: România
     region: Europe
     subregion: 'Eastern Europe'
@@ -515637,7 +515637,7 @@ country_state_city:
     phone_code: '7'
     capital: Moscow
     currency: RUB
-    currency_symbol: null
+    currency_symbol: ₽
     native: Россия
     region: Europe
     subregion: 'Eastern Europe'
@@ -543552,7 +543552,7 @@ country_state_city:
     phone_code: '250'
     capital: Kigali
     currency: RWF
-    currency_symbol: null
+    currency_symbol: FRw
     native: Rwanda
     region: Africa
     subregion: 'Eastern Africa'
@@ -543672,7 +543672,7 @@ country_state_city:
     phone_code: '290'
     capital: Jamestown
     currency: SHP
-    currency_symbol: null
+    currency_symbol: £
     native: 'Saint Helena'
     region: Africa
     subregion: 'Western Africa'
@@ -543707,7 +543707,7 @@ country_state_city:
     phone_code: +1-869
     capital: Basseterre
     currency: XCD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Saint Kitts and Nevis'
     region: Americas
     subregion: Caribbean
@@ -543882,7 +543882,7 @@ country_state_city:
     phone_code: +1-758
     capital: Castries
     currency: XCD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Saint Lucia'
     region: Americas
     subregion: Caribbean
@@ -546382,7 +546382,7 @@ country_state_city:
     phone_code: '508'
     capital: Saint-Pierre
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Saint-Pierre-et-Miquelon
     region: Americas
     subregion: 'Northern America'
@@ -546417,7 +546417,7 @@ country_state_city:
     phone_code: +1-784
     capital: Kingstown
     currency: XCD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Saint Vincent and the Grenadines'
     region: Americas
     subregion: Caribbean
@@ -546527,7 +546527,7 @@ country_state_city:
     phone_code: '590'
     capital: Gustavia
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Saint-Barthélemy
     region: Americas
     subregion: Caribbean
@@ -546562,7 +546562,7 @@ country_state_city:
     phone_code: '590'
     capital: Marigot
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Saint-Martin
     region: Americas
     subregion: Caribbean
@@ -546597,7 +546597,7 @@ country_state_city:
     phone_code: '685'
     capital: Apia
     currency: WST
-    currency_symbol: null
+    currency_symbol: SAT
     native: Samoa
     region: Oceania
     subregion: Polynesia
@@ -546787,7 +546787,7 @@ country_state_city:
     phone_code: '378'
     capital: 'San Marino'
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: 'San Marino'
     region: Europe
     subregion: 'Southern Europe'
@@ -546912,7 +546912,7 @@ country_state_city:
     phone_code: '239'
     capital: 'Sao Tome'
     currency: STD
-    currency_symbol: null
+    currency_symbol: Db
     native: 'São Tomé e Príncipe'
     region: Africa
     subregion: 'Middle Africa'
@@ -546982,7 +546982,7 @@ country_state_city:
     phone_code: '966'
     capital: Riyadh
     currency: SAR
-    currency_symbol: null
+    currency_symbol: ﷼
     native: 'العربية السعودية'
     region: Asia
     subregion: 'Western Asia'
@@ -547557,7 +547557,7 @@ country_state_city:
     phone_code: '221'
     capital: Dakar
     currency: XOF
-    currency_symbol: null
+    currency_symbol: CFA
     native: Sénégal
     region: Africa
     subregion: 'Western Africa'
@@ -548027,7 +548027,7 @@ country_state_city:
     phone_code: '381'
     capital: Belgrade
     currency: RSD
-    currency_symbol: null
+    currency_symbol: din
     native: Србија
     region: Europe
     subregion: 'Southern Europe'
@@ -549862,7 +549862,7 @@ country_state_city:
     phone_code: '248'
     capital: Victoria
     currency: SCR
-    currency_symbol: null
+    currency_symbol: SRe
     native: Seychelles
     region: Africa
     subregion: 'Eastern Africa'
@@ -550057,7 +550057,7 @@ country_state_city:
     phone_code: '232'
     capital: Freetown
     currency: SLL
-    currency_symbol: null
+    currency_symbol: Le
     native: 'Sierra Leone'
     region: Africa
     subregion: 'Western Africa'
@@ -550562,7 +550562,7 @@ country_state_city:
     phone_code: '65'
     capital: Singapur
     currency: SGD
-    currency_symbol: null
+    currency_symbol: $
     native: Singapore
     region: Asia
     subregion: 'South-Eastern Asia'
@@ -550632,7 +550632,7 @@ country_state_city:
     phone_code: '1721'
     capital: Philipsburg
     currency: ANG
-    currency_symbol: null
+    currency_symbol: ƒ
     native: 'Sint Maarten'
     region: Americas
     subregion: Caribbean
@@ -550664,7 +550664,7 @@ country_state_city:
     phone_code: '421'
     capital: Bratislava
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Slovensko
     region: Europe
     subregion: 'Eastern Europe'
@@ -551904,7 +551904,7 @@ country_state_city:
     phone_code: '386'
     capital: Ljubljana
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Slovenija
     region: Europe
     subregion: 'Southern Europe'
@@ -554549,7 +554549,7 @@ country_state_city:
     phone_code: '677'
     capital: Honiara
     currency: SBD
-    currency_symbol: null
+    currency_symbol: Si$
     native: 'Solomon Islands'
     region: Oceania
     subregion: Melanesia
@@ -554669,7 +554669,7 @@ country_state_city:
     phone_code: '252'
     capital: Mogadishu
     currency: SOS
-    currency_symbol: null
+    currency_symbol: Sh.so.
     native: Soomaaliya
     region: Africa
     subregion: 'Eastern Africa'
@@ -555014,7 +555014,7 @@ country_state_city:
     phone_code: '27'
     capital: Pretoria
     currency: ZAR
-    currency_symbol: null
+    currency_symbol: R
     native: 'South Africa'
     region: Africa
     subregion: 'Southern Africa'
@@ -556664,7 +556664,7 @@ country_state_city:
     phone_code: ''
     capital: Grytviken
     currency: GBP
-    currency_symbol: null
+    currency_symbol: £
     native: 'South Georgia'
     region: Americas
     subregion: 'South America'
@@ -556699,7 +556699,7 @@ country_state_city:
     phone_code: '211'
     capital: Juba
     currency: SSP
-    currency_symbol: null
+    currency_symbol: £
     native: 'South Sudan'
     region: Africa
     subregion: 'Middle Africa'
@@ -556789,7 +556789,7 @@ country_state_city:
     phone_code: '34'
     capital: Madrid
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: España
     region: Europe
     subregion: 'Southern Europe'
@@ -590621,7 +590621,7 @@ country_state_city:
     phone_code: '94'
     capital: Colombo
     currency: LKR
-    currency_symbol: null
+    currency_symbol: Rs
     native: 'śrī laṃkāva'
     region: Asia
     subregion: 'Southern Asia'
@@ -591556,7 +591556,7 @@ country_state_city:
     phone_code: '249'
     capital: Khartoum
     currency: SDG
-    currency_symbol: null
+    currency_symbol: .س.ج
     native: السودان
     region: Africa
     subregion: 'Northern Africa'
@@ -592036,7 +592036,7 @@ country_state_city:
     phone_code: '597'
     capital: Paramaribo
     currency: SRD
-    currency_symbol: null
+    currency_symbol: $
     native: Suriname
     region: Americas
     subregion: 'South America'
@@ -592186,7 +592186,7 @@ country_state_city:
     phone_code: '47'
     capital: Longyearbyen
     currency: NOK
-    currency_symbol: null
+    currency_symbol: kr
     native: 'Svalbard og Jan Mayen'
     region: Europe
     subregion: 'Northern Europe'
@@ -592221,7 +592221,7 @@ country_state_city:
     phone_code: '268'
     capital: Mbabane
     currency: SZL
-    currency_symbol: null
+    currency_symbol: E
     native: Swaziland
     region: Africa
     subregion: 'Southern Africa'
@@ -592446,7 +592446,7 @@ country_state_city:
     phone_code: '46'
     capital: Stockholm
     currency: SEK
-    currency_symbol: null
+    currency_symbol: kr
     native: Sverige
     region: Europe
     subregion: 'Northern Europe'
@@ -597941,7 +597941,7 @@ country_state_city:
     phone_code: '41'
     capital: Berne
     currency: CHF
-    currency_symbol: null
+    currency_symbol: CHf
     native: Schweiz
     region: Europe
     subregion: 'Western Europe'
@@ -605616,7 +605616,7 @@ country_state_city:
     phone_code: '963'
     capital: Damascus
     currency: SYP
-    currency_symbol: null
+    currency_symbol: LS
     native: سوريا
     region: Asia
     subregion: 'Western Asia'
@@ -606431,7 +606431,7 @@ country_state_city:
     phone_code: '886'
     capital: Taipei
     currency: TWD
-    currency_symbol: null
+    currency_symbol: $
     native: 臺灣
     region: Asia
     subregion: 'Eastern Asia'
@@ -606781,7 +606781,7 @@ country_state_city:
     phone_code: '992'
     capital: Dushanbe
     currency: TJS
-    currency_symbol: null
+    currency_symbol: SM
     native: Тоҷикистон
     region: Asia
     subregion: 'Central Asia'
@@ -607186,7 +607186,7 @@ country_state_city:
     phone_code: '255'
     capital: Dodoma
     currency: TZS
-    currency_symbol: null
+    currency_symbol: TSh
     native: Tanzania
     region: Africa
     subregion: 'Eastern Africa'
@@ -608681,7 +608681,7 @@ country_state_city:
     phone_code: '66'
     capital: Bangkok
     currency: THB
-    currency_symbol: null
+    currency_symbol: ฿
     native: ประเทศไทย
     region: Asia
     subregion: 'South-Eastern Asia'
@@ -615271,7 +615271,7 @@ country_state_city:
     phone_code: '228'
     capital: Lome
     currency: XOF
-    currency_symbol: null
+    currency_symbol: CFA
     native: Togo
     region: Africa
     subregion: 'Western Africa'
@@ -615441,7 +615441,7 @@ country_state_city:
     phone_code: '690'
     capital: ''
     currency: NZD
-    currency_symbol: null
+    currency_symbol: $
     native: Tokelau
     region: Oceania
     subregion: Polynesia
@@ -615476,7 +615476,7 @@ country_state_city:
     phone_code: '676'
     capital: 'Nuku''alofa'
     currency: TOP
-    currency_symbol: null
+    currency_symbol: $
     native: Tonga
     region: Oceania
     subregion: Polynesia
@@ -615576,7 +615576,7 @@ country_state_city:
     phone_code: +1-868
     capital: 'Port of Spain'
     currency: TTD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Trinidad and Tobago'
     region: Americas
     subregion: Caribbean
@@ -615816,7 +615816,7 @@ country_state_city:
     phone_code: '216'
     capital: Tunis
     currency: TND
-    currency_symbol: null
+    currency_symbol: ت.د
     native: تونس
     region: Africa
     subregion: 'Northern Africa'
@@ -616636,7 +616636,7 @@ country_state_city:
     phone_code: '90'
     capital: Ankara
     currency: TRY
-    currency_symbol: null
+    currency_symbol: ₺
     native: Türkiye
     region: Asia
     subregion: 'Western Asia'
@@ -626716,7 +626716,7 @@ country_state_city:
     phone_code: '993'
     capital: Ashgabat
     currency: TMT
-    currency_symbol: null
+    currency_symbol: T
     native: Türkmenistan
     region: Asia
     subregion: 'Central Asia'
@@ -626931,7 +626931,7 @@ country_state_city:
     phone_code: +1-649
     capital: 'Cockburn Town'
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: 'Turks and Caicos Islands'
     region: Americas
     subregion: Caribbean
@@ -626966,7 +626966,7 @@ country_state_city:
     phone_code: '688'
     capital: Funafuti
     currency: AUD
-    currency_symbol: null
+    currency_symbol: $
     native: Tuvalu
     region: Oceania
     subregion: Polynesia
@@ -627086,7 +627086,7 @@ country_state_city:
     phone_code: '256'
     capital: Kampala
     currency: UGX
-    currency_symbol: null
+    currency_symbol: USh
     native: Uganda
     region: Africa
     subregion: 'Eastern Africa'
@@ -628201,7 +628201,7 @@ country_state_city:
     phone_code: '380'
     capital: Kiev
     currency: UAH
-    currency_symbol: null
+    currency_symbol: ₴
     native: Україна
     region: Europe
     subregion: 'Eastern Europe'
@@ -636224,7 +636224,7 @@ country_state_city:
     phone_code: '971'
     capital: 'Abu Dhabi'
     currency: AED
-    currency_symbol: null
+    currency_symbol: إ.د
     native: 'دولة الإمارات العربية المتحدة'
     region: Asia
     subregion: 'Western Asia'
@@ -636489,7 +636489,7 @@ country_state_city:
     phone_code: '44'
     capital: London
     currency: GBP
-    currency_symbol: null
+    currency_symbol: £
     native: 'United Kingdom'
     region: Europe
     subregion: 'Northern Europe'
@@ -657114,7 +657114,7 @@ country_state_city:
     phone_code: '1'
     capital: Washington
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: 'United States'
     region: Americas
     subregion: 'Northern America'
@@ -756732,7 +756732,7 @@ country_state_city:
     phone_code: '1'
     capital: ''
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: 'United States Minor Outlying Islands'
     region: Americas
     subregion: 'Northern America'
@@ -756773,7 +756773,7 @@ country_state_city:
     phone_code: '598'
     capital: Montevideo
     currency: UYU
-    currency_symbol: null
+    currency_symbol: $
     native: Uruguay
     region: Americas
     subregion: 'South America'
@@ -757518,7 +757518,7 @@ country_state_city:
     phone_code: '998'
     capital: Tashkent
     currency: UZS
-    currency_symbol: null
+    currency_symbol: лв
     native: O‘zbekiston
     region: Asia
     subregion: 'Central Asia'
@@ -758304,7 +758304,7 @@ country_state_city:
     phone_code: '678'
     capital: 'Port Vila'
     currency: VUV
-    currency_symbol: null
+    currency_symbol: VT
     native: Vanuatu
     region: Oceania
     subregion: Melanesia
@@ -758404,7 +758404,7 @@ country_state_city:
     phone_code: '379'
     capital: 'Vatican City'
     currency: EUR
-    currency_symbol: null
+    currency_symbol: €
     native: Vaticano
     region: Europe
     subregion: 'Southern Europe'
@@ -758439,7 +758439,7 @@ country_state_city:
     phone_code: '58'
     capital: Caracas
     currency: VEF
-    currency_symbol: null
+    currency_symbol: Bs
     native: Venezuela
     region: Americas
     subregion: 'South America'
@@ -759269,7 +759269,7 @@ country_state_city:
     phone_code: '84'
     capital: Hanoi
     currency: VND
-    currency_symbol: null
+    currency_symbol: ₫
     native: 'Việt Nam'
     region: Asia
     subregion: 'South-Eastern Asia'
@@ -761939,7 +761939,7 @@ country_state_city:
     phone_code: +1-284
     capital: 'Road Town'
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: 'British Virgin Islands'
     region: Americas
     subregion: Caribbean
@@ -761974,7 +761974,7 @@ country_state_city:
     phone_code: +1-340
     capital: 'Charlotte Amalie'
     currency: USD
-    currency_symbol: null
+    currency_symbol: $
     native: 'United States Virgin Islands'
     region: Americas
     subregion: Caribbean
@@ -762008,7 +762008,7 @@ country_state_city:
     phone_code: '681'
     capital: 'Mata Utu'
     currency: XPF
-    currency_symbol: null
+    currency_symbol: ₣
     native: 'Wallis et Futuna'
     region: Oceania
     subregion: Polynesia
@@ -762043,7 +762043,7 @@ country_state_city:
     phone_code: '212'
     capital: El-Aaiun
     currency: MAD
-    currency_symbol: null
+    currency_symbol: MAD
     native: 'الصحراء الغربية'
     region: Africa
     subregion: 'Northern Africa'
@@ -762078,7 +762078,7 @@ country_state_city:
     phone_code: '967'
     capital: Sanaa
     currency: YER
-    currency_symbol: null
+    currency_symbol: ﷼
     native: اليَمَن
     region: Asia
     subregion: 'Western Asia'
@@ -763978,7 +763978,7 @@ country_state_city:
     phone_code: '260'
     capital: Lusaka
     currency: ZMW
-    currency_symbol: null
+    currency_symbol: ZK
     native: Zambia
     region: Africa
     subregion: 'Eastern Africa'
@@ -764418,7 +764418,7 @@ country_state_city:
     phone_code: '263'
     capital: Harare
     currency: ZWL
-    currency_symbol: null
+    currency_symbol: $
     native: Zimbabwe
     region: Africa
     subregion: 'Eastern Africa'

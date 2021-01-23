@@ -8,7 +8,7 @@
     <phone_code>93</phone_code>
     <capital>Kabul</capital>
     <currency>AFN</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>؋</currency_symbol>
     <native>افغانستان</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
@@ -596,7 +596,7 @@
     <phone_code>+358-18</phone_code>
     <capital>Mariehamn</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Åland</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -633,7 +633,7 @@
     <phone_code>355</phone_code>
     <capital>Tirana</capital>
     <currency>ALL</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Lek</currency_symbol>
     <native>Shqipëria</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -1449,7 +1449,7 @@
     <phone_code>213</phone_code>
     <capital>Algiers</capital>
     <currency>DZD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>دج</currency_symbol>
     <native>الجزائر</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
@@ -3003,7 +3003,7 @@
     <phone_code>+1-684</phone_code>
     <capital>Pago Pago</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>American Samoa</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
@@ -3040,7 +3040,7 @@
     <phone_code>376</phone_code>
     <capital>Andorra la Vella</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Andorra</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -3136,7 +3136,7 @@
     <phone_code>244</phone_code>
     <capital>Luanda</capital>
     <currency>AOA</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Kz</currency_symbol>
     <native>Angola</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
@@ -3460,7 +3460,7 @@
     <phone_code>+1-264</phone_code>
     <capital>The Valley</capital>
     <currency>XCD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Anguilla</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -3497,7 +3497,7 @@
     <phone_code></phone_code>
     <capital></capital>
     <currency></currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Antarctica</native>
     <region>Polar</region>
     <subregion></subregion>
@@ -3597,7 +3597,7 @@
     <phone_code>+1-268</phone_code>
     <capital>St. John's</capital>
     <currency>XCD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Antigua and Barbuda</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -3687,7 +3687,7 @@
     <phone_code>54</phone_code>
     <capital>Buenos Aires</capital>
     <currency>ARS</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Argentina</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -9578,7 +9578,7 @@
     <phone_code>374</phone_code>
     <capital>Yerevan</capital>
     <currency>AMD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>֏</currency_symbol>
     <native>Հայաստան</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -11462,7 +11462,7 @@
     <phone_code>297</phone_code>
     <capital>Oranjestad</capital>
     <currency>AWG</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>ƒ</currency_symbol>
     <native>Aruba</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -11499,7 +11499,7 @@
     <phone_code>61</phone_code>
     <capital>Canberra</capital>
     <currency>AUD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Australia</native>
     <region>Oceania</region>
     <subregion>Australia and New Zealand</subregion>
@@ -36429,7 +36429,7 @@
     <phone_code>43</phone_code>
     <capital>Vienna</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Österreich</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
@@ -50805,7 +50805,7 @@
     <phone_code>994</phone_code>
     <capital>Baku</capital>
     <currency>AZN</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>m</currency_symbol>
     <native>Azərbaycan</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -51909,7 +51909,7 @@
     <phone_code>+1-242</phone_code>
     <capital>Nassau</capital>
     <currency>BSD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>B$</currency_symbol>
     <native>Bahamas</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -52071,7 +52071,7 @@
     <phone_code>973</phone_code>
     <capital>Manama</capital>
     <currency>BHD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>.د.ب</currency_symbol>
     <native>‏البحرين</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -52161,7 +52161,7 @@
     <phone_code>880</phone_code>
     <capital>Dhaka</capital>
     <currency>BDT</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>৳</currency_symbol>
     <native>Bangladesh</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
@@ -53121,7 +53121,7 @@
     <phone_code>+1-246</phone_code>
     <capital>Bridgetown</capital>
     <currency>BBD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Bds$</currency_symbol>
     <native>Barbados</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -53199,7 +53199,7 @@
     <phone_code>375</phone_code>
     <capital>Minsk</capital>
     <currency>BYN</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Br</currency_symbol>
     <native>Белару́сь</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
@@ -55209,7 +55209,7 @@
     <phone_code>32</phone_code>
     <capital>Brussels</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>België</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
@@ -58545,7 +58545,7 @@
     <phone_code>501</phone_code>
     <capital>Belmopan</capital>
     <currency>BZD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Belize</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
@@ -58659,7 +58659,7 @@
     <phone_code>229</phone_code>
     <capital>Porto-Novo</capital>
     <currency>XOF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>CFA</currency_symbol>
     <native>Bénin</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -58917,7 +58917,7 @@
     <phone_code>+1-441</phone_code>
     <capital>Hamilton</capital>
     <currency>BMD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Bermuda</native>
     <region>Americas</region>
     <subregion>Northern America</subregion>
@@ -58954,7 +58954,7 @@
     <phone_code>975</phone_code>
     <capital>Thimphu</capital>
     <currency>BTN</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Nu.</currency_symbol>
     <native>ʼbrug-yul</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
@@ -59134,7 +59134,7 @@
     <phone_code>591</phone_code>
     <capital>Sucre</capital>
     <currency>BOB</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Bs.</currency_symbol>
     <native>Bolivia</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -60538,7 +60538,7 @@
     <phone_code>599</phone_code>
     <capital>Kralendijk</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Caribisch Nederland</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -60571,7 +60571,7 @@
     <phone_code>387</phone_code>
     <capital>Sarajevo</capital>
     <currency>BAM</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>KM</currency_symbol>
     <native>Bosna i Hercegovina</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -61999,7 +61999,7 @@
     <phone_code>267</phone_code>
     <capital>Gaborone</capital>
     <currency>BWP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>P</currency_symbol>
     <native>Botswana</native>
     <region>Africa</region>
     <subregion>Southern Africa</subregion>
@@ -62485,7 +62485,7 @@
     <phone_code>0055</phone_code>
     <capital></capital>
     <currency>NOK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>kr</currency_symbol>
     <native>Bouvetøya</native>
     <region></region>
     <subregion></subregion>
@@ -62522,7 +62522,7 @@
     <phone_code>55</phone_code>
     <capital>Brasilia</capital>
     <currency>BRL</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>R$</currency_symbol>
     <native>Brasil</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -96539,7 +96539,7 @@
     <phone_code>246</phone_code>
     <capital>Diego Garcia</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>British Indian Ocean Territory</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -96576,7 +96576,7 @@
     <phone_code>673</phone_code>
     <capital>Bandar Seri Begawan</capital>
     <currency>BND</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>B$</currency_symbol>
     <native>Negara Brunei Darussalam</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
@@ -96666,7 +96666,7 @@
     <phone_code>359</phone_code>
     <capital>Sofia</capital>
     <currency>BGN</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Лв.</currency_symbol>
     <native>България</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
@@ -99726,7 +99726,7 @@
     <phone_code>226</phone_code>
     <capital>Ouagadougou</capital>
     <currency>XOF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>CFA</currency_symbol>
     <native>Burkina Faso</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -100314,7 +100314,7 @@
     <phone_code>257</phone_code>
     <capital>Bujumbura</capital>
     <currency>BIF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>FBu</currency_symbol>
     <native>Burundi</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -100452,7 +100452,7 @@
     <phone_code>855</phone_code>
     <capital>Phnom Penh</capital>
     <currency>KHR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>KHR</currency_symbol>
     <native>Kâmpŭchéa</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
@@ -101124,7 +101124,7 @@
     <phone_code>237</phone_code>
     <capital>Yaounde</capital>
     <currency>XAF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>FCFA</currency_symbol>
     <native>Cameroon</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
@@ -101994,7 +101994,7 @@
     <phone_code>1</phone_code>
     <capital>Ottawa</capital>
     <currency>CAD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Canada</native>
     <region>Americas</region>
     <subregion>Northern America</subregion>
@@ -108693,7 +108693,7 @@
     <phone_code>238</phone_code>
     <capital>Praia</capital>
     <currency>CVE</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Cabo Verde</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -108873,7 +108873,7 @@
     <phone_code>+1-345</phone_code>
     <capital>George Town</capital>
     <currency>KYD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Cayman Islands</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -108910,7 +108910,7 @@
     <phone_code>236</phone_code>
     <capital>Bangui</capital>
     <currency>XAF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>FCFA</currency_symbol>
     <native>Ködörösêse tî Bêafrîka</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
@@ -109216,7 +109216,7 @@
     <phone_code>235</phone_code>
     <capital>N'Djamena</capital>
     <currency>XAF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>FCFA</currency_symbol>
     <native>Tchad</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
@@ -109498,7 +109498,7 @@
     <phone_code>56</phone_code>
     <capital>Santiago</capital>
     <currency>CLP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Chile</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -110676,7 +110676,7 @@
     <phone_code>86</phone_code>
     <capital>Beijing</capital>
     <currency>CNY</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>¥</currency_symbol>
     <native>中国</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
@@ -118003,7 +118003,7 @@
     <phone_code>61</phone_code>
     <capital>Flying Fish Cove</capital>
     <currency>AUD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Christmas Island</native>
     <region>Oceania</region>
     <subregion>Australia and New Zealand</subregion>
@@ -118040,7 +118040,7 @@
     <phone_code>61</phone_code>
     <capital>West Island</capital>
     <currency>AUD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Cocos (Keeling) Islands</native>
     <region>Oceania</region>
     <subregion>Australia and New Zealand</subregion>
@@ -118077,7 +118077,7 @@
     <phone_code>57</phone_code>
     <capital>Bogota</capital>
     <currency>COP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Colombia</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -125289,7 +125289,7 @@
     <phone_code>269</phone_code>
     <capital>Moroni</capital>
     <currency>KMF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>CF</currency_symbol>
     <native>Komori</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -125853,7 +125853,7 @@
     <phone_code>242</phone_code>
     <capital>Brazzaville</capital>
     <currency>XAF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>FC</currency_symbol>
     <native>République du Congo</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
@@ -125991,7 +125991,7 @@
     <phone_code>243</phone_code>
     <capital>Kinshasa</capital>
     <currency>CDF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>FC</currency_symbol>
     <native>République démocratique du Congo</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
@@ -126448,7 +126448,7 @@
     <phone_code>682</phone_code>
     <capital>Avarua</capital>
     <currency>NZD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Cook Islands</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
@@ -126485,7 +126485,7 @@
     <phone_code>506</phone_code>
     <capital>San Jose</capital>
     <currency>CRC</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₡</currency_symbol>
     <native>Costa Rica</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
@@ -127475,7 +127475,7 @@
     <phone_code>225</phone_code>
     <capital>Yamoussoukro</capital>
     <currency>XOF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>CFA</currency_symbol>
     <native></native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -128021,7 +128021,7 @@
     <phone_code>385</phone_code>
     <capital>Zagreb</capital>
     <currency>HRK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>kn</currency_symbol>
     <native>Hrvatska</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -132041,7 +132041,7 @@
     <phone_code>53</phone_code>
     <capital>Havana</capital>
     <currency>CUP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Cuba</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -133199,7 +133199,7 @@
     <phone_code>599</phone_code>
     <capital>Willemstad</capital>
     <currency>ANG</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>ƒ</currency_symbol>
     <native>Curaçao</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -133233,7 +133233,7 @@
     <phone_code>357</phone_code>
     <capital>Nicosia</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Κύπρος</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -133846,7 +133846,7 @@
     <phone_code>420</phone_code>
     <capital>Prague</capital>
     <currency>CZK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Kč</currency_symbol>
     <native>Česká republika</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
@@ -142012,7 +142012,7 @@
     <phone_code>45</phone_code>
     <capital>Copenhagen</capital>
     <currency>DKK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Kr.</currency_symbol>
     <native>Danmark</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -144622,7 +144622,7 @@
     <phone_code>253</phone_code>
     <capital>Djibouti</capital>
     <currency>DJF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Fdj</currency_symbol>
     <native>Djibouti</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -144730,7 +144730,7 @@
     <phone_code>+1-767</phone_code>
     <capital>Roseau</capital>
     <currency>XCD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Dominica</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -144868,7 +144868,7 @@
     <phone_code>+1-809 and 1-829</phone_code>
     <capital>Santo Domingo</capital>
     <currency>DOP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>República Dominicana</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -146146,7 +146146,7 @@
     <phone_code>670</phone_code>
     <capital>Dili</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Timor-Leste</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
@@ -146482,7 +146482,7 @@
     <phone_code>593</phone_code>
     <capital>Quito</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Ecuador</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -147209,7 +147209,7 @@
     <phone_code>20</phone_code>
     <capital>Cairo</capital>
     <currency>EGP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>ج.م</currency_symbol>
     <native>مصر‎</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
@@ -148001,7 +148001,7 @@
     <phone_code>503</phone_code>
     <capital>San Salvador</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>El Salvador</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
@@ -148637,7 +148637,7 @@
     <phone_code>240</phone_code>
     <capital>Malabo</capital>
     <currency>XAF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>FCFA</currency_symbol>
     <native>Guinea Ecuatorial</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
@@ -148817,7 +148817,7 @@
     <phone_code>291</phone_code>
     <capital>Asmara</capital>
     <currency>ERN</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Nfk</currency_symbol>
     <native>ኤርትራ</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -148919,7 +148919,7 @@
     <phone_code>372</phone_code>
     <capital>Tallinn</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Eesti</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -149927,7 +149927,7 @@
     <phone_code>251</phone_code>
     <capital>Addis Ababa</capital>
     <currency>ETB</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Nkf</currency_symbol>
     <native>ኢትዮጵያ</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -150833,7 +150833,7 @@
     <phone_code>500</phone_code>
     <capital>Stanley</capital>
     <currency>FKP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>£</currency_symbol>
     <native>Falkland Islands</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -150870,7 +150870,7 @@
     <phone_code>298</phone_code>
     <capital>Torshavn</capital>
     <currency>DKK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Kr.</currency_symbol>
     <native>Føroyar</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -150907,7 +150907,7 @@
     <phone_code>679</phone_code>
     <capital>Suva</capital>
     <currency>FJD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>FJ$</currency_symbol>
     <native>Fiji</native>
     <region>Oceania</region>
     <subregion>Melanesia</subregion>
@@ -151063,7 +151063,7 @@
     <phone_code>358</phone_code>
     <capital>Helsinki</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Suomi</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -153517,7 +153517,7 @@
     <phone_code>33</phone_code>
     <capital>Paris</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>France</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
@@ -206923,7 +206923,7 @@
     <phone_code>594</phone_code>
     <capital>Cayenne</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Guyane française</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -206960,7 +206960,7 @@
     <phone_code>689</phone_code>
     <capital>Papeete</capital>
     <currency>XPF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₣</currency_symbol>
     <native>Polynésie française</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
@@ -207011,7 +207011,7 @@
     <phone_code></phone_code>
     <capital>Port-aux-Francais</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Territoire des Terres australes et antarctiques fr</native>
     <region>Africa</region>
     <subregion>Southern Africa</subregion>
@@ -207048,7 +207048,7 @@
     <phone_code>241</phone_code>
     <capital>Libreville</capital>
     <currency>XAF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>FCFA</currency_symbol>
     <native>Gabon</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
@@ -207252,7 +207252,7 @@
     <phone_code>220</phone_code>
     <capital>Banjul</capital>
     <currency>GMD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>D</currency_symbol>
     <native>Gambia</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -207912,7 +207912,7 @@
     <phone_code>995</phone_code>
     <capital>Tbilisi</capital>
     <currency>GEL</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>ლ</currency_symbol>
     <native>საქართველო</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -208620,7 +208620,7 @@
     <phone_code>49</phone_code>
     <capital>Berlin</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Deutschland</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
@@ -251263,7 +251263,7 @@
     <phone_code>233</phone_code>
     <capital>Accra</capital>
     <currency>GHS</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>GH₵</currency_symbol>
     <native>Ghana</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -251719,7 +251719,7 @@
     <phone_code>350</phone_code>
     <capital>Gibraltar</capital>
     <currency>GIP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>£</currency_symbol>
     <native>Gibraltar</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -251756,7 +251756,7 @@
     <phone_code>30</phone_code>
     <capital>Athens</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Ελλάδα</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -257948,7 +257948,7 @@
     <phone_code>299</phone_code>
     <capital>Nuuk</capital>
     <currency>DKK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Kr.</currency_symbol>
     <native>Kalaallit Nunaat</native>
     <region>Americas</region>
     <subregion>Northern America</subregion>
@@ -258006,7 +258006,7 @@
     <phone_code>+1-473</phone_code>
     <capital>St. George's</capital>
     <currency>XCD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Grenada</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -258084,7 +258084,7 @@
     <phone_code>590</phone_code>
     <capital>Basse-Terre</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Guadeloupe</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -258121,7 +258121,7 @@
     <phone_code>+1-671</phone_code>
     <capital>Hagatna</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Guam</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
@@ -258158,7 +258158,7 @@
     <phone_code>502</phone_code>
     <capital>Guatemala City</capital>
     <currency>GTQ</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Q</currency_symbol>
     <native>Guatemala</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
@@ -260486,7 +260486,7 @@
     <phone_code>+44-1481</phone_code>
     <capital>St Peter Port</capital>
     <currency>GBP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>£</currency_symbol>
     <native>Guernsey</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -260523,7 +260523,7 @@
     <phone_code>224</phone_code>
     <capital>Conakry</capital>
     <currency>GNF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>FG</currency_symbol>
     <native>Guinée</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -260883,7 +260883,7 @@
     <phone_code>245</phone_code>
     <capital>Bissau</capital>
     <currency>XOF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>CFA</currency_symbol>
     <native>Guiné-Bissau</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -261003,7 +261003,7 @@
     <phone_code>592</phone_code>
     <capital>Georgetown</capital>
     <currency>GYD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Guyana</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -261123,7 +261123,7 @@
     <phone_code>509</phone_code>
     <capital>Port-au-Prince</capital>
     <currency>HTG</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>G</currency_symbol>
     <native>Haïti</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -261903,7 +261903,7 @@
     <phone_code></phone_code>
     <capital></capital>
     <currency>AUD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Heard Island and McDonald Islands</native>
     <region></region>
     <subregion></subregion>
@@ -261940,7 +261940,7 @@
     <phone_code>504</phone_code>
     <capital>Tegucigalpa</capital>
     <currency>HNL</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>L</currency_symbol>
     <native>Honduras</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
@@ -265246,7 +265246,7 @@
     <phone_code>852</phone_code>
     <capital>Hong Kong</capital>
     <currency>HKD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>香港</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
@@ -265283,7 +265283,7 @@
     <phone_code>36</phone_code>
     <capital>Budapest</capital>
     <currency>HUF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Ft</currency_symbol>
     <native>Magyarország</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
@@ -271349,7 +271349,7 @@
     <phone_code>354</phone_code>
     <capital>Reykjavik</capital>
     <currency>ISK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>kr</currency_symbol>
     <native>Ísland</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -271829,7 +271829,7 @@
     <phone_code>91</phone_code>
     <capital>New Delhi</capital>
     <currency>INR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₹</currency_symbol>
     <native>भारत</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
@@ -295001,7 +295001,7 @@
     <phone_code>62</phone_code>
     <capital>Jakarta</capital>
     <currency>IDR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Rp</currency_symbol>
     <native>Indonesia</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
@@ -300392,7 +300392,7 @@
     <phone_code>98</phone_code>
     <capital>Tehran</capital>
     <currency>IRR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>﷼</currency_symbol>
     <native>ایران</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
@@ -304063,7 +304063,7 @@
     <phone_code>964</phone_code>
     <capital>Baghdad</capital>
     <currency>IQD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>د.ع</currency_symbol>
     <native>العراق</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -304591,7 +304591,7 @@
     <phone_code>353</phone_code>
     <capital>Dublin</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Éire</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -306859,7 +306859,7 @@
     <phone_code>972</phone_code>
     <capital>Jerusalem</capital>
     <currency>ILS</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₪</currency_symbol>
     <native>יִשְׂרָאֵל</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -307795,7 +307795,7 @@
     <phone_code>39</phone_code>
     <capital>Rome</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Italia</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -367519,7 +367519,7 @@
     <phone_code>+1-876</phone_code>
     <capital>Kingston</capital>
     <currency>JMD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>J$</currency_symbol>
     <native>Jamaica</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -372595,7 +372595,7 @@
     <phone_code>81</phone_code>
     <capital>Tokyo</capital>
     <currency>JPY</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>¥</currency_symbol>
     <native>日本</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
@@ -381997,7 +381997,7 @@
     <phone_code>+44-1534</phone_code>
     <capital>Saint Helier</capital>
     <currency>GBP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>£</currency_symbol>
     <native>Jersey</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -382034,7 +382034,7 @@
     <phone_code>962</phone_code>
     <capital>Amman</capital>
     <currency>JOD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>ا.د</currency_symbol>
     <native>الأردن</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -382562,7 +382562,7 @@
     <phone_code>7</phone_code>
     <capital>Astana</capital>
     <currency>KZT</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>лв</currency_symbol>
     <native>Қазақстан</native>
     <region>Asia</region>
     <subregion>Central Asia</subregion>
@@ -384200,7 +384200,7 @@
     <phone_code>254</phone_code>
     <capital>Nairobi</capital>
     <currency>KES</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>KSh</currency_symbol>
     <native>Kenya</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -384896,7 +384896,7 @@
     <phone_code>686</phone_code>
     <capital>Tarawa</capital>
     <currency>AUD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Kiribati</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
@@ -385174,7 +385174,7 @@
     <phone_code>850</phone_code>
     <capital>Pyongyang</capital>
     <currency>KPW</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₩</currency_symbol>
     <native>북한</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
@@ -385690,7 +385690,7 @@
     <phone_code>82</phone_code>
     <capital>Seoul</capital>
     <currency>KRW</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₩</currency_symbol>
     <native>대한민국</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
@@ -387580,7 +387580,7 @@
     <phone_code>383</phone_code>
     <capital>Pristina</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Republika e Kosovës</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
@@ -387606,7 +387606,7 @@
     <phone_code>965</phone_code>
     <capital>Kuwait City</capital>
     <currency>KWD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>ك.د</currency_symbol>
     <native>الكويت</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -387792,7 +387792,7 @@
     <phone_code>996</phone_code>
     <capital>Bishkek</capital>
     <currency>KGS</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>лв</currency_symbol>
     <native>Кыргызстан</native>
     <region>Asia</region>
     <subregion>Central Asia</subregion>
@@ -388146,7 +388146,7 @@
     <phone_code>856</phone_code>
     <capital>Vientiane</capital>
     <currency>LAK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₭</currency_symbol>
     <native>ສປປລາວ</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
@@ -388638,7 +388638,7 @@
     <phone_code>371</phone_code>
     <capital>Riga</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Latvija</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -389424,7 +389424,7 @@
     <phone_code>961</phone_code>
     <capital>Beirut</capital>
     <currency>LBP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>£</currency_symbol>
     <native>لبنان</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -389616,7 +389616,7 @@
     <phone_code>266</phone_code>
     <capital>Maseru</capital>
     <currency>LSL</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>L</currency_symbol>
     <native>Lesotho</native>
     <region>Africa</region>
     <subregion>Southern Africa</subregion>
@@ -389724,7 +389724,7 @@
     <phone_code>231</phone_code>
     <capital>Monrovia</capital>
     <currency>LRD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Liberia</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -389868,7 +389868,7 @@
     <phone_code>218</phone_code>
     <capital>Tripolis</capital>
     <currency>LYD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>د.ل</currency_symbol>
     <native>‏ليبيا</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
@@ -390210,7 +390210,7 @@
     <phone_code>423</phone_code>
     <capital>Vaduz</capital>
     <currency>CHF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>CHf</currency_symbol>
     <native>Liechtenstein</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
@@ -390312,7 +390312,7 @@
     <phone_code>370</phone_code>
     <capital>Vilnius</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Lietuva</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -391206,7 +391206,7 @@
     <phone_code>352</phone_code>
     <capital>Luxembourg</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Luxembourg</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
@@ -392106,7 +392106,7 @@
     <phone_code>853</phone_code>
     <capital>Macao</capital>
     <currency>MOP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>澳門</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
@@ -392143,7 +392143,7 @@
     <phone_code>389</phone_code>
     <capital>Skopje</capital>
     <currency>MKD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>ден</currency_symbol>
     <native>Северна Македонија</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -393361,7 +393361,7 @@
     <phone_code>261</phone_code>
     <capital>Antananarivo</capital>
     <currency>MGA</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Ar</currency_symbol>
     <native>Madagasikara</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -393451,7 +393451,7 @@
     <phone_code>265</phone_code>
     <capital>Lilongwe</capital>
     <currency>MWK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>MK</currency_symbol>
     <native>Malawi</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -393853,7 +393853,7 @@
     <phone_code>60</phone_code>
     <capital>Kuala Lumpur</capital>
     <currency>MYR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>RM</currency_symbol>
     <native>Malaysia</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
@@ -394970,7 +394970,7 @@
     <phone_code>960</phone_code>
     <capital>Male</capital>
     <currency>MVR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Rf</currency_symbol>
     <native>Maldives</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
@@ -395132,7 +395132,7 @@
     <phone_code>223</phone_code>
     <capital>Bamako</capital>
     <currency>XOF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>CFA</currency_symbol>
     <native>Mali</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -395456,7 +395456,7 @@
     <phone_code>356</phone_code>
     <capital>Valletta</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Malta</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -395900,7 +395900,7 @@
     <phone_code>+44-1624</phone_code>
     <capital>Douglas, Isle of Man</capital>
     <currency>GBP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>£</currency_symbol>
     <native>Isle of Man</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -395937,7 +395937,7 @@
     <phone_code>692</phone_code>
     <capital>Majuro</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>M̧ajeļ</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
@@ -395981,7 +395981,7 @@
     <phone_code>596</phone_code>
     <capital>Fort-de-France</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Martinique</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -396018,7 +396018,7 @@
     <phone_code>222</phone_code>
     <capital>Nouakchott</capital>
     <currency>MRO</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>MRU</currency_symbol>
     <native>موريتانيا</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -396144,7 +396144,7 @@
     <phone_code>230</phone_code>
     <capital>Port Louis</capital>
     <currency>MUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₨</currency_symbol>
     <native>Maurice</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -396762,7 +396762,7 @@
     <phone_code>262</phone_code>
     <capital>Mamoudzou</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Mayotte</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -396799,7 +396799,7 @@
     <phone_code>52</phone_code>
     <capital>Mexico City</capital>
     <currency>MXN</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>México</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
@@ -452255,7 +452255,7 @@
     <phone_code>691</phone_code>
     <capital>Palikir</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Micronesia</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
@@ -452791,7 +452791,7 @@
     <phone_code>373</phone_code>
     <capital>Chisinau</capital>
     <currency>MDL</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>L</currency_symbol>
     <native>Moldova</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
@@ -453259,7 +453259,7 @@
     <phone_code>377</phone_code>
     <capital>Monaco</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Monaco</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
@@ -453296,7 +453296,7 @@
     <phone_code>976</phone_code>
     <capital>Ulan Bator</capital>
     <currency>MNT</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₮</currency_symbol>
     <native>Монгол улс</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
@@ -453574,7 +453574,7 @@
     <phone_code>382</phone_code>
     <capital>Podgorica</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Црна Гора</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -453814,7 +453814,7 @@
     <phone_code>+1-664</phone_code>
     <capital>Plymouth</capital>
     <currency>XCD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Montserrat</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -453851,7 +453851,7 @@
     <phone_code>212</phone_code>
     <capital>Rabat</capital>
     <currency>MAD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>DH</currency_symbol>
     <native>المغرب</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
@@ -455249,7 +455249,7 @@
     <phone_code>258</phone_code>
     <capital>Maputo</capital>
     <currency>MZN</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>MT</currency_symbol>
     <native>Moçambique</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -455513,7 +455513,7 @@
     <phone_code>95</phone_code>
     <capital>Nay Pyi Taw</capital>
     <currency>MMK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>K</currency_symbol>
     <native>မြန်မာ</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
@@ -455993,7 +455993,7 @@
     <phone_code>264</phone_code>
     <capital>Windhoek</capital>
     <currency>NAD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Namibia</native>
     <region>Africa</region>
     <subregion>Southern Africa</subregion>
@@ -456317,7 +456317,7 @@
     <phone_code>674</phone_code>
     <capital>Yaren</capital>
     <currency>AUD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Nauru</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
@@ -456395,7 +456395,7 @@
     <phone_code>977</phone_code>
     <capital>Kathmandu</capital>
     <currency>NPR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₨</currency_symbol>
     <native>नपल</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
@@ -456767,7 +456767,7 @@
     <phone_code>31</phone_code>
     <capital>Amsterdam</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Nederland</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
@@ -467243,7 +467243,7 @@
     <phone_code>687</phone_code>
     <capital>Noumea</capital>
     <currency>XPF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₣</currency_symbol>
     <native>Nouvelle-Calédonie</native>
     <region>Oceania</region>
     <subregion>Melanesia</subregion>
@@ -467280,7 +467280,7 @@
     <phone_code>64</phone_code>
     <capital>Wellington</capital>
     <currency>NZD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>New Zealand</native>
     <region>Oceania</region>
     <subregion>Australia and New Zealand</subregion>
@@ -468271,7 +468271,7 @@
     <phone_code>505</phone_code>
     <capital>Managua</capital>
     <currency>NIO</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>C$</currency_symbol>
     <native>Nicaragua</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
@@ -469165,7 +469165,7 @@
     <phone_code>227</phone_code>
     <capital>Niamey</capital>
     <currency>XOF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>CFA</currency_symbol>
     <native>Niger</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -469621,7 +469621,7 @@
     <phone_code>234</phone_code>
     <capital>Abuja</capital>
     <currency>NGN</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₦</currency_symbol>
     <native>Nigeria</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -472117,7 +472117,7 @@
     <phone_code>683</phone_code>
     <capital>Alofi</capital>
     <currency>NZD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Niuē</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
@@ -472154,7 +472154,7 @@
     <phone_code>672</phone_code>
     <capital>Kingston</capital>
     <currency>AUD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Norfolk Island</native>
     <region>Oceania</region>
     <subregion>Australia and New Zealand</subregion>
@@ -472191,7 +472191,7 @@
     <phone_code>+1-670</phone_code>
     <capital>Saipan</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Northern Mariana Islands</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
@@ -472228,7 +472228,7 @@
     <phone_code>47</phone_code>
     <capital>Oslo</capital>
     <currency>NOK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>kr</currency_symbol>
     <native>Norge</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -476272,7 +476272,7 @@
     <phone_code>968</phone_code>
     <capital>Muscat</capital>
     <currency>OMR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>.ع.ر</currency_symbol>
     <native>عمان</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -476476,7 +476476,7 @@
     <phone_code>92</phone_code>
     <capital>Islamabad</capital>
     <currency>PKR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₨</currency_symbol>
     <native>Pakistan</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
@@ -479260,7 +479260,7 @@
     <phone_code>680</phone_code>
     <capital>Melekeok</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Palau</native>
     <region>Oceania</region>
     <subregion>Micronesia</subregion>
@@ -479392,7 +479392,7 @@
     <phone_code>970</phone_code>
     <capital>East Jerusalem</capital>
     <currency>ILS</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₪</currency_symbol>
     <native>فلسطين</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -479436,7 +479436,7 @@
     <phone_code>507</phone_code>
     <capital>Panama City</capital>
     <currency>PAB</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>B/.</currency_symbol>
     <native>Panamá</native>
     <region>Americas</region>
     <subregion>Central America</subregion>
@@ -483072,7 +483072,7 @@
     <phone_code>675</phone_code>
     <capital>Port Moresby</capital>
     <currency>PGK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>K</currency_symbol>
     <native>Papua Niugini</native>
     <region>Oceania</region>
     <subregion>Melanesia</subregion>
@@ -483721,7 +483721,7 @@
     <phone_code>595</phone_code>
     <capital>Asuncion</capital>
     <currency>PYG</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₲</currency_symbol>
     <native>Paraguay</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -484597,7 +484597,7 @@
     <phone_code>51</phone_code>
     <capital>Lima</capital>
     <currency>PEN</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>S/.</currency_symbol>
     <native>Perú</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -487453,7 +487453,7 @@
     <phone_code>63</phone_code>
     <capital>Manila</capital>
     <currency>PHP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₱</currency_symbol>
     <native>Pilipinas</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
@@ -526027,7 +526027,7 @@
     <phone_code>870</phone_code>
     <capital>Adamstown</capital>
     <currency>NZD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Pitcairn Islands</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
@@ -526064,7 +526064,7 @@
     <phone_code>48</phone_code>
     <capital>Warsaw</capital>
     <currency>PLN</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>zł</currency_symbol>
     <native>Polska</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
@@ -544874,7 +544874,7 @@
     <phone_code>351</phone_code>
     <capital>Lisbon</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Portugal</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -552844,7 +552844,7 @@
     <phone_code>+1-787 and 1-939</phone_code>
     <capital>San Juan</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Puerto Rico</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -552881,7 +552881,7 @@
     <phone_code>974</phone_code>
     <capital>Doha</capital>
     <currency>QAR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>ق.ر</currency_symbol>
     <native>قطر</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -553007,7 +553007,7 @@
     <phone_code>262</phone_code>
     <capital>Saint-Denis</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>La Réunion</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -553044,7 +553044,7 @@
     <phone_code>40</phone_code>
     <capital>Bucharest</capital>
     <currency>RON</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>lei</currency_symbol>
     <native>România</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
@@ -597912,7 +597912,7 @@
     <phone_code>7</phone_code>
     <capital>Moscow</capital>
     <currency>RUB</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₽</currency_symbol>
     <native>Россия</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
@@ -630901,7 +630901,7 @@
     <phone_code>250</phone_code>
     <capital>Kigali</capital>
     <currency>RWF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>FRw</currency_symbol>
     <native>Rwanda</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -631009,7 +631009,7 @@
     <phone_code>290</phone_code>
     <capital>Jamestown</capital>
     <currency>SHP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>£</currency_symbol>
     <native>Saint Helena</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -631046,7 +631046,7 @@
     <phone_code>+1-869</phone_code>
     <capital>Basseterre</capital>
     <currency>XCD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Saint Kitts and Nevis</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -631160,7 +631160,7 @@
     <phone_code>+1-758</phone_code>
     <capital>Castries</capital>
     <currency>XCD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Saint Lucia</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -634082,7 +634082,7 @@
     <phone_code>508</phone_code>
     <capital>Saint-Pierre</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Saint-Pierre-et-Miquelon</native>
     <region>Americas</region>
     <subregion>Northern America</subregion>
@@ -634119,7 +634119,7 @@
     <phone_code>+1-784</phone_code>
     <capital>Kingstown</capital>
     <currency>XCD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Saint Vincent and the Grenadines</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -634209,7 +634209,7 @@
     <phone_code>590</phone_code>
     <capital>Gustavia</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Saint-Barthélemy</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -634246,7 +634246,7 @@
     <phone_code>590</phone_code>
     <capital>Marigot</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Saint-Martin</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -634283,7 +634283,7 @@
     <phone_code>685</phone_code>
     <capital>Apia</capital>
     <currency>WST</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>SAT</currency_symbol>
     <native>Samoa</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
@@ -634439,7 +634439,7 @@
     <phone_code>378</phone_code>
     <capital>San Marino</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>San Marino</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -634529,7 +634529,7 @@
     <phone_code>239</phone_code>
     <capital>Sao Tome</capital>
     <currency>STD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Db</currency_symbol>
     <native>São Tomé e Príncipe</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
@@ -634595,7 +634595,7 @@
     <phone_code>966</phone_code>
     <capital>Riyadh</capital>
     <currency>SAR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>﷼</currency_symbol>
     <native>العربية السعودية</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -635201,7 +635201,7 @@
     <phone_code>221</phone_code>
     <capital>Dakar</capital>
     <currency>XOF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>CFA</currency_symbol>
     <native>Sénégal</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -635675,7 +635675,7 @@
     <phone_code>381</phone_code>
     <capital>Belgrade</capital>
     <currency>RSD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>din</currency_symbol>
     <native>Србија</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -637715,7 +637715,7 @@
     <phone_code>248</phone_code>
     <capital>Victoria</capital>
     <currency>SCR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>SRe</currency_symbol>
     <native>Seychelles</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -637799,7 +637799,7 @@
     <phone_code>232</phone_code>
     <capital>Freetown</capital>
     <currency>SLL</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Le</currency_symbol>
     <native>Sierra Leone</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -638375,7 +638375,7 @@
     <phone_code>65</phone_code>
     <capital>Singapur</capital>
     <currency>SGD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Singapore</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
@@ -638423,7 +638423,7 @@
     <phone_code>1721</phone_code>
     <capital>Philipsburg</capital>
     <currency>ANG</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>ƒ</currency_symbol>
     <native>Sint Maarten</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -638457,7 +638457,7 @@
     <phone_code>421</phone_code>
     <capital>Bratislava</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Slovensko</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
@@ -639891,7 +639891,7 @@
     <phone_code>386</phone_code>
     <capital>Ljubljana</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Slovenija</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -641793,7 +641793,7 @@
     <phone_code>677</phone_code>
     <capital>Honiara</capital>
     <currency>SBD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Si$</currency_symbol>
     <native>Solomon Islands</native>
     <region>Oceania</region>
     <subregion>Melanesia</subregion>
@@ -641871,7 +641871,7 @@
     <phone_code>252</phone_code>
     <capital>Mogadishu</capital>
     <currency>SOS</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Sh.so.</currency_symbol>
     <native>Soomaaliya</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -642183,7 +642183,7 @@
     <phone_code>27</phone_code>
     <capital>Pretoria</capital>
     <currency>ZAR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>R</currency_symbol>
     <native>South Africa</native>
     <region>Africa</region>
     <subregion>Southern Africa</subregion>
@@ -644103,7 +644103,7 @@
     <phone_code></phone_code>
     <capital>Grytviken</capital>
     <currency>GBP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>£</currency_symbol>
     <native>South Georgia</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -644140,7 +644140,7 @@
     <phone_code>211</phone_code>
     <capital>Juba</capital>
     <currency>SSP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>£</currency_symbol>
     <native>South Sudan</native>
     <region>Africa</region>
     <subregion>Middle Africa</subregion>
@@ -644182,7 +644182,7 @@
     <phone_code>34</phone_code>
     <capital>Madrid</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>España</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -684390,7 +684390,7 @@
     <phone_code>94</phone_code>
     <capital>Colombo</capital>
     <currency>LKR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Rs</currency_symbol>
     <native>śrī laṃkāva</native>
     <region>Asia</region>
     <subregion>Southern Asia</subregion>
@@ -685308,7 +685308,7 @@
     <phone_code>249</phone_code>
     <capital>Khartoum</capital>
     <currency>SDG</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>.س.ج</currency_symbol>
     <native>السودان</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
@@ -685770,7 +685770,7 @@
     <phone_code>597</phone_code>
     <capital>Paramaribo</capital>
     <currency>SRD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Suriname</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -685884,7 +685884,7 @@
     <phone_code>47</phone_code>
     <capital>Longyearbyen</capital>
     <currency>NOK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>kr</currency_symbol>
     <native>Svalbard og Jan Mayen</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -685921,7 +685921,7 @@
     <phone_code>268</phone_code>
     <capital>Mbabane</capital>
     <currency>SZL</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>E</currency_symbol>
     <native>Swaziland</native>
     <region>Africa</region>
     <subregion>Southern Africa</subregion>
@@ -686161,7 +686161,7 @@
     <phone_code>46</phone_code>
     <capital>Stockholm</capital>
     <currency>SEK</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>kr</currency_symbol>
     <native>Sverige</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -692629,7 +692629,7 @@
     <phone_code>41</phone_code>
     <capital>Berne</capital>
     <currency>CHF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>CHf</currency_symbol>
     <native>Schweiz</native>
     <region>Europe</region>
     <subregion>Western Europe</subregion>
@@ -701683,7 +701683,7 @@
     <phone_code>963</phone_code>
     <capital>Damascus</capital>
     <currency>SYP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>LS</currency_symbol>
     <native>سوريا</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -702571,7 +702571,7 @@
     <phone_code>886</phone_code>
     <capital>Taipei</capital>
     <currency>TWD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>臺灣</native>
     <region>Asia</region>
     <subregion>Eastern Asia</subregion>
@@ -702847,7 +702847,7 @@
     <phone_code>992</phone_code>
     <capital>Dushanbe</capital>
     <currency>TJS</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>SM</currency_symbol>
     <native>Тоҷикистон</native>
     <region>Asia</region>
     <subregion>Central Asia</subregion>
@@ -703303,7 +703303,7 @@
     <phone_code>255</phone_code>
     <capital>Dodoma</capital>
     <currency>TZS</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>TSh</currency_symbol>
     <native>Tanzania</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -704917,7 +704917,7 @@
     <phone_code>66</phone_code>
     <capital>Bangkok</capital>
     <currency>THB</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>฿</currency_symbol>
     <native>ประเทศไทย</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
@@ -712357,7 +712357,7 @@
     <phone_code>228</phone_code>
     <capital>Lome</capital>
     <currency>XOF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>CFA</currency_symbol>
     <native>Togo</native>
     <region>Africa</region>
     <subregion>Western Africa</subregion>
@@ -712525,7 +712525,7 @@
     <phone_code>690</phone_code>
     <capital></capital>
     <currency>NZD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Tokelau</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
@@ -712562,7 +712562,7 @@
     <phone_code>676</phone_code>
     <capital>Nuku'alofa</capital>
     <currency>TOP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Tonga</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
@@ -712646,7 +712646,7 @@
     <phone_code>+1-868</phone_code>
     <capital>Port of Spain</capital>
     <currency>TTD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Trinidad and Tobago</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -712832,7 +712832,7 @@
     <phone_code>216</phone_code>
     <capital>Tunis</capital>
     <currency>TND</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>ت.د</currency_symbol>
     <native>تونس</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
@@ -713672,7 +713672,7 @@
     <phone_code>90</phone_code>
     <capital>Ankara</capital>
     <currency>TRY</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₺</currency_symbol>
     <native>Türkiye</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -725276,7 +725276,7 @@
     <phone_code>993</phone_code>
     <capital>Ashgabat</capital>
     <currency>TMT</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>T</currency_symbol>
     <native>Türkmenistan</native>
     <region>Asia</region>
     <subregion>Central Asia</subregion>
@@ -725492,7 +725492,7 @@
     <phone_code>+1-649</phone_code>
     <capital>Cockburn Town</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Turks and Caicos Islands</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -725529,7 +725529,7 @@
     <phone_code>688</phone_code>
     <capital>Funafuti</capital>
     <currency>AUD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Tuvalu</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
@@ -725619,7 +725619,7 @@
     <phone_code>256</phone_code>
     <capital>Kampala</capital>
     <currency>UGX</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>USh</currency_symbol>
     <native>Uganda</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -726201,7 +726201,7 @@
     <phone_code>380</phone_code>
     <capital>Kiev</capital>
     <currency>UAH</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₴</currency_symbol>
     <native>Україна</native>
     <region>Europe</region>
     <subregion>Eastern Europe</subregion>
@@ -735672,7 +735672,7 @@
     <phone_code>971</phone_code>
     <capital>Abu Dhabi</capital>
     <currency>AED</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>إ.د</currency_symbol>
     <native>دولة الإمارات العربية المتحدة</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -735942,7 +735942,7 @@
     <phone_code>44</phone_code>
     <capital>London</capital>
     <currency>GBP</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>£</currency_symbol>
     <native>United Kingdom</native>
     <region>Europe</region>
     <subregion>Northern Europe</subregion>
@@ -759204,7 +759204,7 @@
     <phone_code>1</phone_code>
     <capital>Washington</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>United States</native>
     <region>Americas</region>
     <subregion>Northern America</subregion>
@@ -878338,7 +878338,7 @@
     <phone_code>1</phone_code>
     <capital></capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>United States Minor Outlying Islands</native>
     <region>Americas</region>
     <subregion>Northern America</subregion>
@@ -878382,7 +878382,7 @@
     <phone_code>598</phone_code>
     <capital>Montevideo</capital>
     <currency>UYU</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Uruguay</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -879156,7 +879156,7 @@
     <phone_code>998</phone_code>
     <capital>Tashkent</capital>
     <currency>UZS</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>лв</currency_symbol>
     <native>O‘zbekiston</native>
     <region>Asia</region>
     <subregion>Central Asia</subregion>
@@ -880009,7 +880009,7 @@
     <phone_code>678</phone_code>
     <capital>Port Vila</capital>
     <currency>VUV</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>VT</currency_symbol>
     <native>Vanuatu</native>
     <region>Oceania</region>
     <subregion>Melanesia</subregion>
@@ -880087,7 +880087,7 @@
     <phone_code>379</phone_code>
     <capital>Vatican City</capital>
     <currency>EUR</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>€</currency_symbol>
     <native>Vaticano</native>
     <region>Europe</region>
     <subregion>Southern Europe</subregion>
@@ -880124,7 +880124,7 @@
     <phone_code>58</phone_code>
     <capital>Caracas</capital>
     <currency>VEF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>Bs</currency_symbol>
     <native>Venezuela</native>
     <region>Americas</region>
     <subregion>South America</subregion>
@@ -880964,7 +880964,7 @@
     <phone_code>84</phone_code>
     <capital>Hanoi</capital>
     <currency>VND</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₫</currency_symbol>
     <native>Việt Nam</native>
     <region>Asia</region>
     <subregion>South-Eastern Asia</subregion>
@@ -883784,7 +883784,7 @@
     <phone_code>+1-284</phone_code>
     <capital>Road Town</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>British Virgin Islands</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -883821,7 +883821,7 @@
     <phone_code>+1-340</phone_code>
     <capital>Charlotte Amalie</capital>
     <currency>USD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>United States Virgin Islands</native>
     <region>Americas</region>
     <subregion>Caribbean</subregion>
@@ -883857,7 +883857,7 @@
     <phone_code>681</phone_code>
     <capital>Mata Utu</capital>
     <currency>XPF</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>₣</currency_symbol>
     <native>Wallis et Futuna</native>
     <region>Oceania</region>
     <subregion>Polynesia</subregion>
@@ -883894,7 +883894,7 @@
     <phone_code>212</phone_code>
     <capital>El-Aaiun</capital>
     <currency>MAD</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>MAD</currency_symbol>
     <native>الصحراء الغربية</native>
     <region>Africa</region>
     <subregion>Northern Africa</subregion>
@@ -883931,7 +883931,7 @@
     <phone_code>967</phone_code>
     <capital>Sanaa</capital>
     <currency>YER</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>﷼</currency_symbol>
     <native>اليَمَن</native>
     <region>Asia</region>
     <subregion>Western Asia</subregion>
@@ -886079,7 +886079,7 @@
     <phone_code>260</phone_code>
     <capital>Lusaka</capital>
     <currency>ZMW</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>ZK</currency_symbol>
     <native>Zambia</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
@@ -886541,7 +886541,7 @@
     <phone_code>263</phone_code>
     <capital>Harare</capital>
     <currency>ZWL</currency>
-    <currency_symbol></currency_symbol>
+    <currency_symbol>$</currency_symbol>
     <native>Zimbabwe</native>
     <region>Africa</region>
     <subregion>Eastern Africa</subregion>
