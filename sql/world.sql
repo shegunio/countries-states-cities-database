@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Dec 21, 2020 at 03:52 PM
+-- Generation Time: Jan 23, 2021 at 11:53 AM
 -- Server version: 5.7.26
 -- PHP Version: 7.4.2
 
@@ -38,7 +38,7 @@ CREATE TABLE `cities` (
   `latitude` decimal(10,8) NOT NULL,
   `longitude` decimal(11,8) NOT NULL,
   `created_at` timestamp NOT NULL DEFAULT '2014-01-01 01:01:01',
-  `updated_on` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   `flag` tinyint(1) NOT NULL DEFAULT '1',
   `wikiDataId` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL COMMENT 'Rapid API GeoDB Cities'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci ROW_FORMAT=COMPACT;
@@ -47,7 +47,7 @@ CREATE TABLE `cities` (
 -- Dumping data for table `cities`
 --
 
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (1, 'Andorra la Vella', 488, '07', 6, 'AD', '42.50779000', '1.52109000', '2019-10-05 18:28:06', '2019-10-05 18:28:06', 1, 'Q1863'),
 (2, 'Arinsal', 493, '04', 6, 'AD', '42.57205000', '1.48453000', '2019-10-05 18:28:06', '2019-10-05 18:28:06', 1, 'Q24554'),
 (3, 'Canillo', 489, '02', 6, 'AD', '42.56760000', '1.59756000', '2019-10-05 18:28:06', '2019-10-05 18:28:06', 1, 'Q24554'),
@@ -430,7 +430,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (380, 'Dzoragyugh', 2028, 'GR', 12, 'AM', '40.16957000', '45.18337000', '2019-10-05 18:28:10', '2019-10-05 18:28:10', 1, 'Q2636104'),
 (381, 'Dzorastan', 2027, 'SU', 12, 'AM', '39.27059000', '46.35720000', '2019-10-05 18:28:10', '2019-10-05 18:28:10', 1, 'Q2701470'),
 (382, 'Fantan', 2033, 'KT', 12, 'AM', '40.39447000', '44.68610000', '2019-10-05 18:28:10', '2019-10-05 18:28:10', 1, 'Q2485210');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (383, 'Fioletovo', 2029, 'LO', 12, 'AM', '40.72241000', '44.71769000', '2019-10-05 18:28:10', '2019-10-05 18:28:10', 1, 'Q640674'),
 (384, 'Gagarin', 2028, 'GR', 12, 'AM', '40.54026000', '44.86962000', '2019-10-05 18:28:10', '2019-10-05 18:28:10', 1, 'Q5516814'),
 (385, 'Gandzak', 2028, 'GR', 12, 'AM', '40.31472000', '45.11139000', '2019-10-05 18:28:10', '2019-10-05 18:28:10', 1, 'Q1528536'),
@@ -812,7 +812,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (761, 'Chilecito', 3653, 'F', 11, 'AR', '-29.16195000', '-67.49740000', '2019-10-05 18:28:14', '2019-10-05 18:28:14', 1, 'Q1072833'),
 (762, 'Chimbas', 3634, 'J', 11, 'AR', '-31.48333000', '-68.53333000', '2019-10-05 18:28:14', '2019-10-05 18:28:14', 1, 'Q1072833'),
 (763, 'Chimpay', 3639, 'R', 11, 'AR', '-39.16482000', '-66.14236000', '2019-10-05 18:28:14', '2019-10-05 18:28:14', 1, 'Q4520581');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (764, 'Choele Choel', 3639, 'R', 11, 'AR', '-39.28941000', '-65.66060000', '2019-10-05 18:28:14', '2019-10-05 18:28:14', 1, 'Q52522'),
 (765, 'Chorotis', 3640, 'H', 11, 'AR', '-27.91578000', '-61.39982000', '2019-10-05 18:28:14', '2019-10-05 18:28:14', 1, 'Q1579594'),
 (766, 'Chos Malal', 3648, 'Q', 11, 'AR', '-37.37809000', '-70.27085000', '2019-10-05 18:28:14', '2019-10-05 18:28:14', 1, 'Q288993'),
@@ -1160,7 +1160,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (1108, 'General Pico', 3655, 'L', 11, 'AR', '-35.65662000', '-63.75682000', '2019-10-05 18:28:17', '2019-10-05 18:28:17', 1, 'Q58349'),
 (1109, 'General Pinedo', 3640, 'H', 11, 'AR', '-27.31667000', '-61.28333000', '2019-10-05 18:28:18', '2019-10-05 18:28:18', 1, 'Q611504'),
 (1110, 'General Ramírez', 3654, 'E', 11, 'AR', '-32.17601000', '-60.20079000', '2019-10-05 18:28:18', '2020-05-01 13:22:33', 1, 'Q5532145');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (1111, 'General Roca', 3642, 'X', 11, 'AR', '-32.73196000', '-61.91599000', '2019-10-05 18:28:18', '2019-10-05 18:28:18', 1, 'Q21839890'),
 (1112, 'General Roca', 3639, 'R', 11, 'AR', '-39.03333000', '-67.58333000', '2019-10-05 18:28:18', '2019-10-05 18:28:18', 1, 'Q52506'),
 (1113, 'General San Martín', 3655, 'L', 11, 'AR', '-37.97904000', '-63.60449000', '2019-10-05 18:28:18', '2020-05-01 13:22:33', 1, 'Q21839895'),
@@ -1528,7 +1528,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (1475, 'Santo Tomé', 3641, 'S', 11, 'AR', '-31.66274000', '-60.76530000', '2019-10-05 18:28:20', '2020-05-01 13:22:33', 1, 'Q2540118'),
 (1476, 'Santo Tomé', 3638, 'W', 11, 'AR', '-28.54939000', '-56.04077000', '2019-10-05 18:28:20', '2020-05-01 13:22:33', 1, 'Q2031463'),
 (1477, 'Sarmiento', 3651, 'U', 11, 'AR', '-45.58815000', '-69.06996000', '2019-10-05 18:28:20', '2019-10-05 18:28:20', 1, 'Q106034');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (1478, 'Sastre', 3641, 'S', 11, 'AR', '-31.76762000', '-61.82887000', '2019-10-05 18:28:20', '2019-10-05 18:28:20', 1, 'Q3473836'),
 (1479, 'Saturnino M. Laspiur', 3642, 'X', 11, 'AR', '-31.70287000', '-62.48202000', '2019-10-05 18:28:20', '2019-10-05 18:28:20', 1, 'Q21834167'),
 (1480, 'Sauce de Luna', 3654, 'E', 11, 'AR', '-31.23794000', '-59.21872000', '2019-10-05 18:28:20', '2019-10-05 18:28:20', 1, 'Q7427010'),
@@ -1903,7 +1903,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (1849, 'Diesseits', 2058, '4', 15, 'AT', '48.29216000', '13.43546000', '2019-10-05 18:28:22', '2019-10-05 18:28:22', 1, 'Q669855'),
 (1850, 'Dietach', 2058, '4', 15, 'AT', '48.09018000', '14.41647000', '2019-10-05 18:28:22', '2019-10-05 18:28:22', 1, 'Q684587'),
 (1851, 'Dietachdorf', 2058, '4', 15, 'AT', '48.08364000', '14.42874000', '2019-10-05 18:28:22', '2019-10-05 18:28:22', 1, 'Q684587');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (1852, 'Dietersdorf', 2059, '6', 15, 'AT', '47.20000000', '14.66667000', '2019-10-05 18:28:22', '2019-10-05 18:28:22', 1, 'Q684587'),
 (1853, 'Dietersdorf am Gnasbach', 2059, '6', 15, 'AT', '46.80917000', '15.81167000', '2019-10-05 18:28:22', '2019-10-05 18:28:22', 1, 'Q688242'),
 (1854, 'Diex', 2057, '2', 15, 'AT', '46.75000000', '14.60000000', '2019-10-05 18:28:22', '2019-10-05 18:28:22', 1, 'Q674672'),
@@ -2284,7 +2284,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (2229, 'Hard', 2063, '8', 15, 'AT', '47.48306000', '9.68306000', '2019-10-05 18:28:25', '2019-10-05 18:28:25', 1, 'Q603093'),
 (2230, 'Hardegg', 2065, '3', 15, 'AT', '48.85000000', '15.85000000', '2019-10-05 18:28:25', '2019-10-05 18:28:25', 1, 'Q603093'),
 (2231, 'Haringsee', 2065, '3', 15, 'AT', '48.19270000', '16.78741000', '2019-10-05 18:28:25', '2019-10-05 18:28:25', 1, 'Q603093');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (2232, 'Harland', 2065, '3', 15, 'AT', '48.16162000', '15.63835000', '2019-10-05 18:28:25', '2019-10-05 18:28:25', 1, 'Q872391'),
 (2233, 'Harmannsdorf', 2065, '3', 15, 'AT', '48.39724000', '16.37220000', '2019-10-05 18:28:25', '2019-10-05 18:28:25', 1, 'Q872391'),
 (2234, 'Hart', 2058, '4', 15, 'AT', '48.26526000', '14.25691000', '2019-10-05 18:28:25', '2019-10-05 18:28:25', 1, 'Q872391'),
@@ -2663,7 +2663,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (2607, 'Lochau', 2063, '8', 15, 'AT', '47.53333000', '9.75000000', '2019-10-05 18:28:27', '2019-10-05 18:28:27', 1, 'Q668055'),
 (2608, 'Lockenhaus', 2062, '1', 15, 'AT', '47.40753000', '16.41623000', '2019-10-05 18:28:27', '2019-10-05 18:28:27', 1, 'Q580045'),
 (2609, 'Lofer', 2061, '5', 15, 'AT', '47.58475000', '12.69333000', '2019-10-05 18:28:27', '2019-10-05 18:28:27', 1, 'Q252138');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (2610, 'Loich', 2065, '3', 15, 'AT', '47.99578000', '15.40163000', '2019-10-05 18:28:27', '2019-10-05 18:28:27', 1, 'Q674856'),
 (2611, 'Loipersbach im Burgenland', 2062, '1', 15, 'AT', '47.69656000', '16.47919000', '2019-10-05 18:28:27', '2019-10-05 18:28:27', 1, 'Q580762'),
 (2612, 'Loipersdorf bei Fürstenfeld', 2059, '6', 15, 'AT', '47.00000000', '16.10000000', '2019-10-05 18:28:27', '2020-05-01 13:22:35', 1, 'Q580762'),
@@ -3039,7 +3039,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (2982, 'Plainfeld', 2061, '5', 15, 'AT', '47.83333000', '13.18333000', '2019-10-05 18:28:30', '2019-10-05 18:28:30', 1, 'Q264803'),
 (2983, 'Plankenau', 2061, '5', 15, 'AT', '47.32673000', '13.19282000', '2019-10-05 18:28:30', '2019-10-05 18:28:30', 1, 'Q264803'),
 (2984, 'Plesching', 2058, '4', 15, 'AT', '48.32099000', '14.33802000', '2019-10-05 18:28:30', '2019-10-05 18:28:30', 1, 'Q264803');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (2985, 'Podersdorf am See', 2062, '1', 15, 'AT', '47.85412000', '16.83706000', '2019-10-05 18:28:30', '2019-10-05 18:28:30', 1, 'Q661040'),
 (2986, 'Poggersdorf', 2057, '2', 15, 'AT', '46.65000000', '14.45000000', '2019-10-05 18:28:30', '2019-10-05 18:28:30', 1, 'Q664423'),
 (2987, 'Politischer Bezirk Amstetten', 2065, '3', 15, 'AT', '48.00000000', '14.76667000', '2019-10-05 18:28:30', '2019-10-05 18:28:30', 1, 'Q694449'),
@@ -3398,7 +3398,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (3341, 'Sankt Valentin', 2065, '3', 15, 'AT', '48.16667000', '14.51667000', '2019-10-05 18:28:33', '2019-10-05 18:28:33', 1, 'Q661451'),
 (3342, 'Sankt Veit am Vogau', 2059, '6', 15, 'AT', '46.74048000', '15.64217000', '2019-10-05 18:28:33', '2019-10-05 18:28:33', 1, 'Q661451'),
 (3343, 'Sankt Veit an der Glan', 2057, '2', 15, 'AT', '46.76806000', '14.36028000', '2019-10-05 18:28:33', '2019-10-05 18:28:33', 1, 'Q494604');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (3344, 'Sankt Veit an der Gölsen', 2065, '3', 15, 'AT', '48.04320000', '15.66942000', '2019-10-05 18:28:33', '2020-05-01 13:22:34', 1, 'Q494604'),
 (3345, 'Sankt Veit im Pongau', 2061, '5', 15, 'AT', '47.33333000', '13.15000000', '2019-10-05 18:28:33', '2019-10-05 18:28:33', 1, 'Q259188'),
 (3346, 'Sankt Veit in Defereggen', 2064, '7', 15, 'AT', '46.92722000', '12.42972000', '2019-10-05 18:28:33', '2019-10-05 18:28:33', 1, 'Q690202'),
@@ -3776,7 +3776,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (3718, 'Waidhofen an der Ybbs Stadt', 2065, '3', 15, 'AT', '47.95999000', '14.77438000', '2019-10-05 18:28:35', '2019-10-05 18:28:35', 1, 'Q427385'),
 (3719, 'Waidmannsfeld', 2065, '3', 15, 'AT', '47.87042000', '15.98116000', '2019-10-05 18:28:35', '2019-10-05 18:28:35', 1, 'Q548941'),
 (3720, 'Waidring', 2064, '7', 15, 'AT', '47.58333000', '12.56667000', '2019-10-05 18:28:35', '2019-10-05 18:28:35', 1, 'Q548941');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (3721, 'Waiern', 2057, '2', 15, 'AT', '46.73028000', '14.08194000', '2019-10-05 18:28:35', '2019-10-05 18:28:35', 1, 'Q548941'),
 (3722, 'Waizenkirchen', 2058, '4', 15, 'AT', '48.33018000', '13.85754000', '2019-10-05 18:28:35', '2019-10-05 18:28:35', 1, 'Q681309'),
 (3723, 'Walchen', 2061, '5', 15, 'AT', '47.28822000', '12.68739000', '2019-10-05 18:28:35', '2019-10-05 18:28:35', 1, 'Q681309'),
@@ -4149,7 +4149,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (4090, 'Balranald', 3909, 'NSW', 14, 'AU', '-34.67839000', '143.56384000', '2019-10-05 18:28:37', '2019-10-05 18:28:37', 1, 'Q751598'),
 (4091, 'Balwyn', 3903, 'VIC', 14, 'AU', '-37.80914000', '145.07890000', '2019-10-05 18:28:37', '2019-10-05 18:28:37', 1, 'Q4853147'),
 (4092, 'Balwyn North', 3903, 'VIC', 14, 'AU', '-37.79086000', '145.09386000', '2019-10-05 18:28:37', '2019-10-05 18:28:37', 1, 'Q805854');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (4093, 'Bamaga', 3905, 'QLD', 14, 'AU', '-10.89197000', '142.38934000', '2019-10-05 18:28:37', '2019-10-05 18:28:37', 1, 'Q3604590'),
 (4094, 'Banana', 3905, 'QLD', 14, 'AU', '-24.80653000', '149.89838000', '2019-10-05 18:28:37', '2019-10-05 18:28:37', 1, 'Q806083'),
 (4095, 'Bangalow', 3909, 'NSW', 14, 'AU', '-28.68634000', '153.52153000', '2019-10-05 18:28:37', '2019-10-05 18:28:37', 1, 'Q4855087'),
@@ -4518,7 +4518,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (4458, 'Bullsbrook', 3906, 'WA', 14, 'AU', '-31.66905000', '115.99990000', '2019-10-05 18:28:39', '2019-10-05 18:28:39', 1, 'Q4997041'),
 (4459, 'Buloke', 3903, 'VIC', 14, 'AU', '-35.84638000', '143.05201000', '2019-10-05 18:28:39', '2019-10-05 18:28:39', 1, 'Q1004687'),
 (4460, 'Bunbury', 3906, 'WA', 14, 'AU', '-33.32711000', '115.64137000', '2019-10-05 18:28:39', '2019-10-05 18:28:39', 1, 'Q256711');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (4461, 'Bundaberg', 3905, 'QLD', 14, 'AU', '-24.97305000', '151.98442000', '2019-10-05 18:28:39', '2019-10-05 18:28:39', 1, 'Q1005343'),
 (4462, 'Bundaberg East', 3905, 'QLD', 14, 'AU', '-24.85860000', '152.38003000', '2019-10-05 18:28:39', '2019-10-05 18:28:39', 1, 'Q1005343'),
 (4463, 'Bundaberg North', 3905, 'QLD', 14, 'AU', '-24.84914000', '152.34638000', '2019-10-05 18:28:39', '2019-10-05 18:28:39', 1, 'Q1005343'),
@@ -4885,7 +4885,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (4824, 'Cooroibah', 3905, 'QLD', 14, 'AU', '-26.36316000', '152.98599000', '2019-10-05 18:28:42', '2019-10-05 18:28:42', 1, 'Q5168046'),
 (4825, 'Coorow', 3906, 'WA', 14, 'AU', '-29.97865000', '115.65613000', '2019-10-05 18:28:42', '2019-10-05 18:28:42', 1, 'Q1129901'),
 (4826, 'Cooroy', 3905, 'QLD', 14, 'AU', '-26.41778000', '152.91149000', '2019-10-05 18:28:42', '2019-10-05 18:28:42', 1, 'Q2221520');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (4827, 'Coorparoo', 3905, 'QLD', 14, 'AU', '-27.49325000', '153.05826000', '2019-10-05 18:28:42', '2019-10-05 18:28:42', 1, 'Q5168050'),
 (4828, 'Cootamundra', 3909, 'NSW', 14, 'AU', '-34.64095000', '148.02838000', '2019-10-05 18:28:42', '2019-10-05 18:28:42', 1, 'Q2595446'),
 (4829, 'Copacabana', 3909, 'NSW', 14, 'AU', '-33.48692000', '151.43587000', '2019-10-05 18:28:42', '2019-10-05 18:28:42', 1, 'Q2595446'),
@@ -5253,7 +5253,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (5191, 'Evandale', 3908, 'TAS', 14, 'AU', '-41.56858000', '147.25271000', '2019-10-05 18:28:44', '2019-10-05 18:28:44', 1, 'Q2123296'),
 (5192, 'Evandale', 3904, 'SA', 14, 'AU', '-34.90552000', '138.63542000', '2019-10-05 18:28:44', '2019-10-05 18:28:44', 1, 'Q5415588'),
 (5193, 'Evans Head', 3909, 'NSW', 14, 'AU', '-29.11777000', '153.43072000', '2019-10-05 18:28:44', '2019-10-05 18:28:44', 1, 'Q14208816');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (5194, 'Evanston', 3904, 'SA', 14, 'AU', '-34.61657000', '138.73369000', '2019-10-05 18:28:44', '2019-10-05 18:28:44', 1, 'Q5415991'),
 (5195, 'Evanston Gardens', 3904, 'SA', 14, 'AU', '-34.62323000', '138.72166000', '2019-10-05 18:28:44', '2019-10-05 18:28:44', 1, 'Q5416000'),
 (5196, 'Evanston Park', 3904, 'SA', 14, 'AU', '-34.62284000', '138.74123000', '2019-10-05 18:28:44', '2019-10-05 18:28:44', 1, 'Q5416000'),
@@ -5621,7 +5621,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (5558, 'Heatherton', 3903, 'VIC', 14, 'AU', '-37.96667000', '145.10000000', '2019-10-05 18:28:52', '2019-10-05 18:28:52', 1, 'Q1592513'),
 (5559, 'Heathmont', 3903, 'VIC', 14, 'AU', '-37.83333000', '145.25000000', '2019-10-05 18:28:52', '2019-10-05 18:28:52', 1, 'Q5694307'),
 (5560, 'Heathridge', 3906, 'WA', 14, 'AU', '-31.76244000', '115.75895000', '2019-10-05 18:28:52', '2019-10-05 18:28:52', 1, 'Q21924248');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (5561, 'Heathwood', 3905, 'QLD', 14, 'AU', '-27.63449000', '152.98814000', '2019-10-05 18:28:52', '2019-10-05 18:28:52', 1, 'Q5694384'),
 (5562, 'Heatley', 3905, 'QLD', 14, 'AU', '-19.29035000', '146.75355000', '2019-10-05 18:28:52', '2019-10-05 18:28:52', 1, 'Q5694384'),
 (5563, 'Hebersham', 3909, 'NSW', 14, 'AU', '-33.74582000', '150.82385000', '2019-10-05 18:28:52', '2019-10-05 18:28:52', 1, 'Q5694384'),
@@ -5990,7 +5990,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (5926, 'Kurnell', 3909, 'NSW', 14, 'AU', '-34.01088000', '151.20512000', '2019-10-05 18:29:02', '2019-10-05 18:29:02', 1, 'Q1637676'),
 (5927, 'Kurraba Point', 3909, 'NSW', 14, 'AU', '-33.84235000', '151.22256000', '2019-10-05 18:29:02', '2019-10-05 18:29:02', 1, 'Q6446475'),
 (5928, 'Kurrajong Heights', 3909, 'NSW', 14, 'AU', '-33.52772000', '150.62907000', '2019-10-05 18:29:02', '2019-10-05 18:29:02', 1, 'Q6446475');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (5929, 'Kurralta Park', 3904, 'SA', 14, 'AU', '-34.95142000', '138.56702000', '2019-10-05 18:29:02', '2019-10-05 18:29:02', 1, 'Q6446487'),
 (5930, 'Kurri Kurri', 3909, 'NSW', 14, 'AU', '-32.81933000', '151.47908000', '2019-10-05 18:29:02', '2019-10-05 18:29:02', 1, 'Q1793195'),
 (5931, 'Kurunjang', 3903, 'VIC', 14, 'AU', '-37.67587000', '144.59690000', '2019-10-05 18:29:02', '2019-10-05 18:29:02', 1, 'Q6447466'),
@@ -6359,7 +6359,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (6294, 'Millgrove', 3903, 'VIC', 14, 'AU', '-37.75527000', '145.65347000', '2019-10-05 18:29:06', '2019-10-05 18:29:06', 1, 'Q6859494'),
 (6295, 'Millicent', 3904, 'SA', 14, 'AU', '-37.59389000', '140.34947000', '2019-10-05 18:29:06', '2019-10-05 18:29:06', 1, 'Q2083195'),
 (6296, 'Millmerran', 3905, 'QLD', 14, 'AU', '-27.87913000', '151.27058000', '2019-10-05 18:29:06', '2019-10-05 18:29:06', 1, 'Q6859885');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (6297, 'Millner', 3910, 'NT', 14, 'AU', '-12.39186000', '130.86252000', '2019-10-05 18:29:06', '2019-10-05 18:29:06', 1, 'Q6859897'),
 (6298, 'Millstream', 3905, 'QLD', 14, 'AU', '-17.65318000', '145.41401000', '2019-10-05 18:29:06', '2019-10-05 18:29:06', 1, 'Q6859897'),
 (6299, 'Millswood', 3904, 'SA', 14, 'AU', '-34.95505000', '138.58888000', '2019-10-05 18:29:06', '2019-10-05 18:29:06', 1, 'Q6860057'),
@@ -6726,7 +6726,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (6660, 'North Wonthaggi', 3903, 'VIC', 14, 'AU', '-38.57769000', '145.59302000', '2019-10-05 18:29:09', '2019-10-05 18:29:09', 1, 'Q21905614'),
 (6661, 'Northam', 3906, 'WA', 14, 'AU', '-31.69898000', '116.64964000', '2019-10-05 18:29:10', '2019-10-05 18:29:10', 1, 'Q931111'),
 (6662, 'Northampton Shire', 3906, 'WA', 14, 'AU', '-28.04956000', '114.49589000', '2019-10-05 18:29:10', '2019-10-05 18:29:10', 1, 'Q1855392');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (6663, 'Northbridge', 3909, 'NSW', 14, 'AU', '-33.81313000', '151.21728000', '2019-10-05 18:29:10', '2019-10-05 18:29:10', 1, 'Q1855392'),
 (6664, 'Northbridge', 3906, 'WA', 14, 'AU', '-31.94784000', '115.85881000', '2019-10-05 18:29:10', '2019-10-05 18:29:10', 1, 'Q4327495'),
 (6665, 'Northcote', 3903, 'VIC', 14, 'AU', '-37.76667000', '145.00000000', '2019-10-05 18:29:10', '2019-10-05 18:29:10', 1, 'Q7057754'),
@@ -7093,7 +7093,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (7026, 'Riverton', 3906, 'WA', 14, 'AU', '-32.03468000', '115.89856000', '2019-10-05 18:29:13', '2019-10-05 18:29:13', 1, 'Q7338654'),
 (7027, 'Rivervale', 3906, 'WA', 14, 'AU', '-31.95546000', '115.91306000', '2019-10-05 18:29:13', '2019-10-05 18:29:13', 1, 'Q7338698'),
 (7028, 'Riverview', 3905, 'QLD', 14, 'AU', '-27.60000000', '152.85000000', '2019-10-05 18:29:13', '2019-10-05 18:29:13', 1, 'Q7338714');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (7029, 'Riverview', 3909, 'NSW', 14, 'AU', '-33.82465000', '151.16243000', '2019-10-05 18:29:13', '2019-10-05 18:29:13', 1, 'Q6271051'),
 (7030, 'Riverwood', 3909, 'NSW', 14, 'AU', '-33.94725000', '151.04973000', '2019-10-05 18:29:13', '2019-10-05 18:29:13', 1, 'Q6271095'),
 (7031, 'Rivett', 3907, 'ACT', 14, 'AU', '-35.34709000', '149.03790000', '2019-10-05 18:29:13', '2019-10-05 18:29:13', 1, 'Q7338840'),
@@ -7458,7 +7458,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (7390, 'Surf Coast', 3903, 'VIC', 14, 'AU', '-38.33997000', '144.11530000', '2019-10-05 18:29:16', '2019-10-05 18:29:16', 1, 'Q1476815'),
 (7391, 'Surfers Paradise', 3905, 'QLD', 14, 'AU', '-28.00274000', '153.42999000', '2019-10-05 18:29:16', '2019-10-05 18:29:16', 1, 'Q1024734'),
 (7392, 'Surfside', 3909, 'NSW', 14, 'AU', '-35.69531000', '150.19949000', '2019-10-05 18:29:16', '2019-10-05 18:29:16', 1, 'Q1024734');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (7393, 'Surrey Downs', 3904, 'SA', 14, 'AU', '-34.79951000', '138.71154000', '2019-10-05 18:29:16', '2019-10-05 18:29:16', 1, 'Q7646797'),
 (7394, 'Surrey Hills', 3903, 'VIC', 14, 'AU', '-37.81667000', '145.10000000', '2019-10-05 18:29:16', '2019-10-05 18:29:16', 1, 'Q7646797'),
 (7395, 'Surry Hills', 3909, 'NSW', 14, 'AU', '-33.88374000', '151.21282000', '2019-10-05 18:29:16', '2019-10-05 18:29:16', 1, 'Q2915698'),
@@ -7827,7 +7827,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (7758, 'Wellington', 3909, 'NSW', 14, 'AU', '-32.55588000', '148.94508000', '2019-10-05 18:29:20', '2019-10-05 18:29:20', 1, 'Q2728707'),
 (7759, 'Wellington Point', 3905, 'QLD', 14, 'AU', '-27.48333000', '153.25000000', '2019-10-05 18:29:20', '2019-10-05 18:29:20', 1, 'Q14935592'),
 (7760, 'Wembley', 3906, 'WA', 14, 'AU', '-31.93308000', '115.81783000', '2019-10-05 18:29:20', '2019-10-05 18:29:20', 1, 'Q7982172');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (7761, 'Wembley Downs', 3906, 'WA', 14, 'AU', '-31.91169000', '115.77358000', '2019-10-05 18:29:20', '2019-10-05 18:29:20', 1, 'Q7982179'),
 (7762, 'Wendouree', 3903, 'VIC', 14, 'AU', '-37.53078000', '143.82838000', '2019-10-05 18:29:20', '2019-10-05 18:29:20', 1, 'Q7982179'),
 (7763, 'Wentworth', 3909, 'NSW', 14, 'AU', '-33.67106000', '142.33675000', '2019-10-05 18:29:20', '2019-10-05 18:29:20', 1, 'Q820695'),
@@ -8198,7 +8198,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (8128, 'Orjonikidze', 554, 'BEY', 16, 'AZ', '39.63571000', '47.71199000', '2019-10-05 18:29:23', '2019-10-05 18:29:23', 1, 'Q21977623'),
 (8129, 'Oğlanqala', 562, 'NX', 16, 'AZ', '39.58694000', '45.04611000', '2019-10-05 18:29:23', '2020-05-01 13:22:35', 1, 'Q7116768'),
 (8130, 'Oğuz', 556, 'OGU', 16, 'AZ', '41.07128000', '47.46528000', '2019-10-05 18:29:23', '2020-05-01 13:22:35', 1, 'Q1017630');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (8131, 'Pirallahı', 552, 'BA', 16, 'AZ', '40.47013000', '50.32476000', '2019-10-05 18:29:23', '2020-05-01 13:22:35', 1, 'Q1017630'),
 (8132, 'Prishibinskoye', 578, 'CAL', 16, 'AZ', '39.11998000', '48.59383000', '2019-10-05 18:29:23', '2019-10-05 18:29:23', 1, 'Q2656617'),
 (8133, 'Pushkino', 532, 'BIL', 16, 'AZ', '39.45833000', '48.54500000', '2019-10-05 18:29:23', '2019-10-05 18:29:23', 1, 'Q2043938'),
@@ -8580,7 +8580,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (8509, 'Joypur Hāt', 813, '54', 19, 'BD', '25.10147000', '89.02734000', '2019-10-05 18:29:24', '2020-05-01 13:22:35', 1, 'Q2188750'),
 (8510, 'Joypurhat', 813, '54', 19, 'BD', '25.08333000', '89.10000000', '2019-10-05 18:29:24', '2019-10-05 18:29:24', 1, 'Q2348146'),
 (8511, 'Kesabpur', 811, '27', 19, 'BD', '22.90725000', '89.21954000', '2019-10-05 18:29:24', '2019-10-05 18:29:24', 1, 'Q2348146');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (8512, 'Khagrachhari', 803, 'B', 19, 'BD', '23.16667000', '91.90000000', '2019-10-05 18:29:24', '2019-10-05 18:29:24', 1, 'Q1429685'),
 (8513, 'Khanbaniara', 771, '13', 19, 'BD', '23.78225000', '90.18382000', '2019-10-05 18:29:24', '2019-10-05 18:29:24', 1, 'Q1429685'),
 (8514, 'Khulna', 811, '27', 19, 'BD', '22.50000000', '89.33333000', '2019-10-05 18:29:24', '2019-10-05 18:29:24', 1, 'Q2093344'),
@@ -8959,7 +8959,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (8887, 'Leopoldsburg', 1373, 'VLG', 22, 'BE', '51.11667000', '5.25000000', '2019-10-05 18:29:26', '2019-10-05 18:29:26', 1, 'Q21765544'),
 (8888, 'Lessines', 1380, 'WAL', 22, 'BE', '50.71104000', '3.83579000', '2019-10-05 18:29:26', '2019-10-05 18:29:26', 1, 'Q31824077'),
 (8889, 'Leuven', 1373, 'VLG', 22, 'BE', '50.87959000', '4.70093000', '2019-10-05 18:29:26', '2019-10-05 18:29:26', 1, 'Q21765562');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (8890, 'Libin', 1380, 'WAL', 22, 'BE', '49.98107000', '5.25612000', '2019-10-05 18:29:26', '2019-10-05 18:29:26', 1, 'Q21765567'),
 (8891, 'Lichtervelde', 1373, 'VLG', 22, 'BE', '51.03333000', '3.15000000', '2019-10-05 18:29:26', '2019-10-05 18:29:26', 1, 'Q21765568'),
 (8892, 'Liedekerke', 1373, 'VLG', 22, 'BE', '50.86892000', '4.08743000', '2019-10-05 18:29:26', '2019-10-05 18:29:26', 1, 'Q31824078'),
@@ -9333,7 +9333,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (9260, 'Asparuhovo', 4717, '03', 34, 'BG', '43.18067000', '27.88823000', '2019-10-05 18:29:28', '2019-10-05 18:29:28', 1, 'Q191871'),
 (9261, 'Aytos', 4715, '02', 34, 'BG', '42.70000000', '27.25000000', '2019-10-05 18:29:28', '2019-10-05 18:29:28', 1, 'Q275178'),
 (9262, 'Balchik', 4718, '08', 34, 'BG', '43.42166000', '28.15848000', '2019-10-05 18:29:28', '2019-10-05 18:29:28', 1, 'Q329437');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (9263, 'Balgarevo', 4717, '03', 34, 'BG', '43.40296000', '28.41189000', '2019-10-05 18:29:28', '2019-10-05 18:29:28', 1, 'Q2653330'),
 (9264, 'Banite', 4694, '21', 34, 'BG', '41.61667000', '25.01667000', '2019-10-05 18:29:28', '2019-10-05 18:29:28', 1, 'Q2444193'),
 (9265, 'Bansko', 4699, '01', 34, 'BG', '41.83830000', '23.48851000', '2019-10-05 18:29:28', '2019-10-05 18:29:28', 1, 'Q391159'),
@@ -9699,7 +9699,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (9625, 'Obshtina Varshets', 4696, '12', 34, 'BG', '43.21667000', '23.33333000', '2019-10-05 18:34:50', '2019-10-05 18:34:50', 1, 'Q2608803'),
 (9626, 'Obshtina Veliko Tŭrnovo', 4709, '04', 34, 'BG', '43.08241000', '25.63202000', '2019-10-05 18:34:50', '2020-05-01 13:22:39', 1, 'Q2991314'),
 (9627, 'Obshtina Velingrad', 4712, '13', 34, 'BG', '41.96667000', '23.93333000', '2019-10-05 18:34:50', '2019-10-05 18:34:50', 1, 'Q655383');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (9628, 'Obshtina Vetovo', 4713, '18', 34, 'BG', '43.71667000', '26.33333000', '2019-10-05 18:34:50', '2019-10-05 18:34:50', 1, 'Q2716767'),
 (9629, 'Obshtina Vetrino', 4717, '03', 34, 'BG', '43.31667000', '27.43333000', '2019-10-05 18:34:50', '2019-10-05 18:34:50', 1, 'Q2609648'),
 (9630, 'Obshtina Vidin', 4697, '05', 34, 'BG', '44.00000000', '22.83333000', '2019-10-05 18:34:50', '2019-10-05 18:34:50', 1, 'Q263709'),
@@ -10071,7 +10071,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (9996, 'Provincia Zudáñez', 3382, 'H', 27, 'BO', '-18.91667000', '-64.83333000', '2019-10-05 18:34:53', '2020-05-01 13:22:35', 1, 'Q1420314'),
 (9997, 'Provincia Ángel Sandoval', 3377, 'S', 27, 'BO', '-17.50000000', '-58.50000000', '2019-10-05 18:34:54', '2020-05-01 13:22:35', 1, 'Q1215599'),
 (9998, 'Provincia Ñuflo de Chávez', 3377, 'S', 27, 'BO', '-15.91667000', '-62.50000000', '2019-10-05 18:34:54', '2020-05-01 13:22:35', 1, 'Q1215592');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (9999, 'Puerto Quijarro', 3377, 'S', 27, 'BO', '-17.78333000', '-57.76667000', '2019-10-05 18:34:54', '2019-10-05 18:34:54', 1, 'Q2117434'),
 (10000, 'Puerto de Mejillones', 3376, 'O', 27, 'BO', '-18.99266000', '-68.68446000', '2019-10-05 18:34:54', '2019-10-05 18:34:54', 1, 'Q2117434'),
 (10001, 'Puesto de Pailas', 3377, 'S', 27, 'BO', '-17.65000000', '-62.80000000', '2019-10-05 18:34:54', '2019-10-05 18:34:54', 1, 'Q1506112'),
@@ -10439,7 +10439,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (10363, 'Araucária', 2022, 'PR', 31, 'BR', '-25.59306000', '-49.41028000', '2019-10-05 18:34:56', '2020-05-01 13:22:37', 1, 'Q1773313'),
 (10364, 'Arauá', 2003, 'SE', 31, 'BR', '-11.26222000', '-37.61972000', '2019-10-05 18:34:56', '2020-05-01 13:22:38', 1, 'Q1802037'),
 (10365, 'Araxá', 1998, 'MG', 31, 'BR', '-19.59333000', '-46.94056000', '2019-10-05 18:34:56', '2020-05-01 13:22:36', 1, 'Q586057');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (10366, 'Araçagi', 2005, 'PB', 31, 'BR', '-6.85419000', '-35.36047000', '2019-10-05 18:34:56', '2020-05-01 13:22:37', 1, 'Q586057'),
 (10367, 'Araçariguama', 2021, 'SP', 31, 'BR', '-23.42294000', '-47.07816000', '2019-10-05 18:34:56', '2020-05-01 13:22:38', 1, 'Q765185'),
 (10368, 'Araçatuba', 2021, 'SP', 31, 'BR', '-21.14986000', '-50.57470000', '2019-10-05 18:34:56', '2020-05-01 13:22:38', 1, 'Q626835'),
@@ -10803,7 +10803,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (10726, 'Bom Sucesso', 1998, 'MG', 31, 'BR', '-21.03029000', '-44.79501000', '2019-10-05 18:34:59', '2019-10-05 18:34:59', 1, 'Q1805732'),
 (10727, 'Bom Sucesso', 2022, 'PR', 31, 'BR', '-23.69506000', '-51.81945000', '2019-10-05 18:34:59', '2019-10-05 18:34:59', 1, 'Q2355826'),
 (10728, 'Bom Sucesso de Itararé', 2021, 'SP', 31, 'BR', '-24.31225000', '-49.16700000', '2019-10-05 18:34:59', '2020-05-01 13:22:38', 1, 'Q2355826');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (10729, 'Bom Sucesso do Sul', 2022, 'PR', 31, 'BR', '-26.08239000', '-52.85103000', '2019-10-05 18:34:59', '2019-10-05 18:34:59', 1, 'Q2004481'),
 (10730, 'Bombinhas', 2014, 'SC', 31, 'BR', '-27.17876000', '-48.50195000', '2019-10-05 18:34:59', '2019-10-05 18:34:59', 1, 'Q2004481'),
 (10731, 'Bonfim', 1998, 'MG', 31, 'BR', '-20.31591000', '-44.20740000', '2019-10-05 18:34:59', '2019-10-05 18:34:59', 1, 'Q22062759'),
@@ -11168,7 +11168,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (11090, 'Capivari do Sul', 2001, 'RS', 31, 'BR', '-30.17289000', '-50.48702000', '2019-10-05 18:35:01', '2019-10-05 18:35:01', 1, 'Q1750439'),
 (11091, 'Capixaba', 2012, 'AC', 31, 'BR', '-10.48782000', '-67.84831000', '2019-10-05 18:35:01', '2019-10-05 18:35:01', 1, 'Q1750439'),
 (11092, 'Capoeiras', 2006, 'PE', 31, 'BR', '-8.73472000', '-36.62667000', '2019-10-05 18:35:01', '2019-10-05 18:35:01', 1, 'Q2064882');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (11093, 'Caputira', 1998, 'MG', 31, 'BR', '-20.18512000', '-42.25284000', '2019-10-05 18:35:01', '2019-10-05 18:35:01', 1, 'Q2064882'),
 (11094, 'Capâo Bonito', 2021, 'SP', 31, 'BR', '-24.00583000', '-48.34944000', '2019-10-05 18:35:01', '2020-05-01 13:22:38', 1, 'Q1798802'),
 (11095, 'Capão Alto', 2014, 'SC', 31, 'BR', '-28.06834000', '-50.62921000', '2019-10-05 18:35:01', '2020-05-01 13:22:38', 1, 'Q1798802'),
@@ -11533,7 +11533,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (11454, 'Cotriguaçu', 2011, 'MT', 31, 'BR', '-9.50334000', '-58.79134000', '2019-10-05 18:35:02', '2020-05-01 13:22:36', 1, 'Q2013031'),
 (11455, 'Couto Magalhães', 2020, 'TO', 31, 'BR', '-8.50138000', '-49.17287000', '2019-10-05 18:35:02', '2020-05-01 13:22:38', 1, 'Q2013031'),
 (11456, 'Couto de Magalhães de Minas', 1998, 'MG', 31, 'BR', '-18.11856000', '-43.41813000', '2019-10-05 18:35:02', '2020-05-01 13:22:36', 1, 'Q2013031');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (11457, 'Coxilha', 2001, 'RS', 31, 'BR', '-28.10327000', '-52.36576000', '2019-10-05 18:35:02', '2019-10-05 18:35:02', 1, 'Q2013031'),
 (11458, 'Coxim', 2010, 'MS', 31, 'BR', '-18.50667000', '-54.76000000', '2019-10-05 18:35:02', '2019-10-05 18:35:02', 1, 'Q1793013'),
 (11459, 'Coxixola', 2005, 'PB', 31, 'BR', '-7.66749000', '-36.61824000', '2019-10-05 18:35:02', '2019-10-05 18:35:02', 1, 'Q1793013'),
@@ -11896,7 +11896,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (11816, 'Figueira', 2022, 'PR', 31, 'BR', '-23.86125000', '-50.42076000', '2019-10-05 18:35:04', '2019-10-05 18:35:04', 1, 'Q2029914'),
 (11817, 'Figueirão', 2010, 'MS', 31, 'BR', '-18.67500000', '-53.64250000', '2019-10-05 18:35:04', '2020-05-01 13:22:36', 1, 'Q2029914'),
 (11818, 'Figueirópolis', 2020, 'TO', 31, 'BR', '-12.26857000', '-49.28976000', '2019-10-05 18:35:04', '2020-05-01 13:22:38', 1, 'Q2029914');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (11819, 'Figueirópolis d\'Oeste', 2011, 'MT', 31, 'BR', '-15.48700000', '-58.69723000', '2019-10-05 18:35:04', '2020-05-01 13:22:36', 1, 'Q2013037'),
 (11820, 'Filadélfia', 2020, 'TO', 31, 'BR', '-7.48804000', '-47.85623000', '2019-10-05 18:35:04', '2020-05-01 13:22:38', 1, 'Q2013037'),
 (11821, 'Filadélfia', 2002, 'BA', 31, 'BR', '-10.76635000', '-40.20555000', '2019-10-05 18:35:04', '2020-05-01 13:22:36', 1, 'Q2019006'),
@@ -12263,7 +12263,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (12182, 'Igarapé Açu', 2009, 'PA', 31, 'BR', '-1.12889000', '-47.62000000', '2019-10-05 18:35:06', '2020-05-01 13:22:37', 1, 'Q22020893'),
 (12183, 'Igarapé Grande', 2015, 'MA', 31, 'BR', '-4.64974000', '-44.83905000', '2019-10-05 18:35:06', '2020-05-01 13:22:36', 1, 'Q22020893'),
 (12184, 'Igarapé Miri', 2009, 'PA', 31, 'BR', '-1.97500000', '-48.95972000', '2019-10-05 18:35:06', '2020-05-01 13:22:37', 1, 'Q22020894');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (12185, 'Igarapé do Meio', 2015, 'MA', 31, 'BR', '-3.72514000', '-45.10975000', '2019-10-05 18:35:06', '2020-05-01 13:22:36', 1, 'Q22020894'),
 (12186, 'Igarapé-Açu', 2009, 'PA', 31, 'BR', '-1.14164000', '-47.51366000', '2019-10-05 18:35:06', '2020-05-01 13:22:37', 1, 'Q2009058'),
 (12187, 'Igarapé-Miri', 2009, 'PA', 31, 'BR', '-2.07705000', '-49.14772000', '2019-10-05 18:35:06', '2020-05-01 13:22:37', 1, 'Q651613'),
@@ -12635,7 +12635,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (12553, 'Jambeiro', 2021, 'SP', 31, 'BR', '-23.28154000', '-45.71217000', '2019-10-05 18:35:09', '2019-10-05 18:35:09', 1, 'Q1649949'),
 (12554, 'Jampruca', 1998, 'MG', 31, 'BR', '-18.47226000', '-41.75735000', '2019-10-05 18:35:09', '2019-10-05 18:35:09', 1, 'Q1791230'),
 (12555, 'Janaúba', 1998, 'MG', 31, 'BR', '-15.77877000', '-43.36757000', '2019-10-05 18:35:09', '2020-05-01 13:22:37', 1, 'Q1791340');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (12556, 'Jandaia', 2000, 'GO', 31, 'BR', '-17.12900000', '-50.19476000', '2019-10-05 18:35:09', '2019-10-05 18:35:09', 1, 'Q1791340'),
 (12557, 'Jandaia do Sul', 2022, 'PR', 31, 'BR', '-23.60306000', '-51.64333000', '2019-10-05 18:35:09', '2019-10-05 18:35:09', 1, 'Q1779910'),
 (12558, 'Jandaíra', 2019, 'RN', 31, 'BR', '-5.37894000', '-36.09833000', '2019-10-05 18:35:09', '2020-05-01 13:22:37', 1, 'Q1779910'),
@@ -13003,7 +13003,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (12920, 'Major Gercino', 2014, 'SC', 31, 'BR', '-27.42331000', '-49.05744000', '2019-10-05 18:35:12', '2019-10-05 18:35:12', 1, 'Q931560'),
 (12921, 'Major Isidoro', 2007, 'AL', 31, 'BR', '-9.53222000', '-36.98500000', '2019-10-05 18:35:12', '2019-10-05 18:35:12', 1, 'Q1808271'),
 (12922, 'Major Sales', 2019, 'RN', 31, 'BR', '-6.40617000', '-38.30965000', '2019-10-05 18:35:12', '2019-10-05 18:35:12', 1, 'Q1808271');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (12923, 'Major Vieira', 2014, 'SC', 31, 'BR', '-26.49482000', '-50.32712000', '2019-10-05 18:35:12', '2019-10-05 18:35:12', 1, 'Q1808271'),
 (12924, 'Malacacheta', 1998, 'MG', 31, 'BR', '-17.83800000', '-42.08895000', '2019-10-05 18:35:12', '2019-10-05 18:35:12', 1, 'Q1755703'),
 (12925, 'Malhada', 2002, 'BA', 31, 'BR', '-14.19145000', '-43.63151000', '2019-10-05 18:35:12', '2019-10-05 18:35:12', 1, 'Q1755703'),
@@ -13369,7 +13369,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (13285, 'Mutum', 1998, 'MG', 31, 'BR', '-19.92677000', '-41.44835000', '2019-10-05 18:35:16', '2019-10-05 18:35:16', 1, 'Q945723'),
 (13286, 'Mutunópolis', 2000, 'GO', 31, 'BR', '-13.70257000', '-49.29995000', '2019-10-05 18:35:16', '2020-05-01 13:22:36', 1, 'Q945723'),
 (13287, 'Mutuípe', 2002, 'BA', 31, 'BR', '-13.22861000', '-39.50472000', '2019-10-05 18:35:16', '2020-05-01 13:22:36', 1, 'Q975660');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (13288, 'Muzambinho', 1998, 'MG', 31, 'BR', '-21.35240000', '-46.51842000', '2019-10-05 18:35:16', '2019-10-05 18:35:16', 1, 'Q1790124'),
 (13289, 'Muçum', 2001, 'RS', 31, 'BR', '-29.14017000', '-51.82330000', '2019-10-05 18:35:16', '2020-05-01 13:22:38', 1, 'Q1790124'),
 (13290, 'Mário Campos', 1998, 'MG', 31, 'BR', '-20.07230000', '-44.17602000', '2019-10-05 18:35:16', '2020-05-01 13:22:37', 1, 'Q1790124'),
@@ -13732,7 +13732,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (13647, 'Paranhos', 2010, 'MS', 31, 'BR', '-23.89278000', '-55.43111000', '2019-10-05 18:35:20', '2019-10-05 18:35:20', 1, 'Q522494'),
 (13648, 'Paraná', 2019, 'RN', 31, 'BR', '-6.44702000', '-38.29980000', '2019-10-05 18:35:20', '2020-05-01 13:22:38', 1, 'Q522494'),
 (13649, 'Paranã', 2020, 'TO', 31, 'BR', '-12.73875000', '-47.94338000', '2019-10-05 18:35:20', '2020-05-01 13:22:38', 1, 'Q522494');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (13650, 'Paraopeba', 1998, 'MG', 31, 'BR', '-19.27228000', '-44.45274000', '2019-10-05 18:35:20', '2019-10-05 18:35:20', 1, 'Q522494'),
 (13651, 'Parapuã', 2021, 'SP', 31, 'BR', '-21.84482000', '-50.83410000', '2019-10-05 18:35:20', '2020-05-01 13:22:38', 1, 'Q522494'),
 (13652, 'Parari', 2005, 'PB', 31, 'BR', '-7.31136000', '-36.67699000', '2019-10-05 18:35:20', '2019-10-05 18:35:20', 1, 'Q2103106'),
@@ -14099,7 +14099,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (14013, 'Porto Real', 1997, 'RJ', 31, 'BR', '-22.41972000', '-44.29028000', '2019-10-05 18:35:24', '2019-10-05 18:35:24', 1, 'Q765477'),
 (14014, 'Porto Real do Colégio', 2007, 'AL', 31, 'BR', '-10.10538000', '-36.72695000', '2019-10-05 18:35:24', '2020-05-01 13:22:36', 1, 'Q22036573'),
 (14015, 'Porto Rico', 2022, 'PR', 31, 'BR', '-22.82902000', '-53.31785000', '2019-10-05 18:35:24', '2019-10-05 18:35:24', 1, 'Q22036573');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (14016, 'Porto Rico do Maranhão', 2015, 'MA', 31, 'BR', '-1.85517000', '-44.60930000', '2019-10-05 18:35:24', '2020-05-01 13:22:36', 1, 'Q22036573'),
 (14017, 'Porto Seguro', 2002, 'BA', 31, 'BR', '-16.44972000', '-39.06472000', '2019-10-05 18:35:24', '2019-10-05 18:35:24', 1, 'Q499922'),
 (14018, 'Porto União', 2014, 'SC', 31, 'BR', '-26.23806000', '-51.07833000', '2019-10-05 18:35:24', '2020-05-01 13:22:38', 1, 'Q1784679'),
@@ -14462,7 +14462,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (14375, 'Sairé', 2006, 'PE', 31, 'BR', '-8.30128000', '-35.68372000', '2019-10-05 18:35:27', '2020-05-01 13:22:37', 1, 'Q1796404'),
 (14376, 'Saldanha Marinho', 2001, 'RS', 31, 'BR', '-28.38701000', '-53.09584000', '2019-10-05 18:35:27', '2019-10-05 18:35:27', 1, 'Q1796404'),
 (14377, 'Sales', 2021, 'SP', 31, 'BR', '-21.33848000', '-49.51847000', '2019-10-05 18:35:27', '2019-10-05 18:35:27', 1, 'Q1796404');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (14378, 'Sales Oliveira', 2021, 'SP', 31, 'BR', '-20.83364000', '-47.84079000', '2019-10-05 18:35:27', '2019-10-05 18:35:27', 1, 'Q1796404'),
 (14379, 'Salesópolis', 2021, 'SP', 31, 'BR', '-23.58753000', '-45.84743000', '2019-10-05 18:35:27', '2020-05-01 13:22:38', 1, 'Q1645107'),
 (14380, 'Salete', 2014, 'SC', 31, 'BR', '-26.93760000', '-49.99718000', '2019-10-05 18:35:27', '2019-10-05 18:35:27', 1, 'Q1645107'),
@@ -14814,7 +14814,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (14726, 'Serra Caiada', 2019, 'RN', 31, 'BR', '-6.14234000', '-35.66845000', '2019-10-05 18:35:29', '2019-10-05 18:35:29', 1, 'Q2298053'),
 (14727, 'Serra Dourada', 2002, 'BA', 31, 'BR', '-12.91499000', '-43.79600000', '2019-10-05 18:35:29', '2019-10-05 18:35:29', 1, 'Q2298053'),
 (14728, 'Serra Grande', 2005, 'PB', 31, 'BR', '-7.25090000', '-38.39588000', '2019-10-05 18:35:29', '2019-10-05 18:35:29', 1, 'Q2298053');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (14729, 'Serra Negra', 2021, 'SP', 31, 'BR', '-22.61222000', '-46.70056000', '2019-10-05 18:35:29', '2019-10-05 18:35:29', 1, 'Q1439179'),
 (14730, 'Serra Negra do Norte', 2019, 'RN', 31, 'BR', '-6.57598000', '-37.39418000', '2019-10-05 18:35:29', '2019-10-05 18:35:29', 1, 'Q1439179'),
 (14731, 'Serra Nova Dourada', 2011, 'MT', 31, 'BR', '-12.02901000', '-51.33412000', '2019-10-05 18:35:29', '2019-10-05 18:35:29', 1, 'Q2065364'),
@@ -15167,7 +15167,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (15078, 'São Miguel', 2019, 'RN', 31, 'BR', '-5.46667000', '-35.36667000', '2019-10-05 18:35:34', '2020-05-01 13:22:38', 1, 'Q22013968'),
 (15079, 'São Miguel Arcanjo', 2021, 'SP', 31, 'BR', '-23.93766000', '-47.99988000', '2019-10-05 18:35:34', '2020-05-01 13:22:38', 1, 'Q22013968'),
 (15080, 'São Miguel da Baixa Grande', 2008, 'PI', 31, 'BR', '-5.81791000', '-42.27077000', '2019-10-05 18:35:34', '2020-05-01 13:22:37', 1, 'Q22013968');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (15081, 'São Miguel da Boa Vista', 2014, 'SC', 31, 'BR', '-26.68603000', '-53.25718000', '2019-10-05 18:35:34', '2020-05-01 13:22:38', 1, 'Q22013968'),
 (15082, 'São Miguel das Matas', 2002, 'BA', 31, 'BR', '-13.04308000', '-39.43403000', '2019-10-05 18:35:34', '2020-05-01 13:22:36', 1, 'Q22013968'),
 (15083, 'São Miguel das Missões', 2001, 'RS', 31, 'BR', '-28.72430000', '-54.50818000', '2019-10-05 18:35:34', '2020-05-01 13:22:38', 1, 'Q2107884'),
@@ -15530,7 +15530,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (15440, 'Uibaí', 2002, 'BA', 31, 'BR', '-11.39060000', '-42.15615000', '2019-10-05 18:35:38', '2020-05-01 13:22:36', 1, 'Q1658522'),
 (15441, 'Uirapuru', 2000, 'GO', 31, 'BR', '-14.14128000', '-49.93396000', '2019-10-05 18:35:38', '2019-10-05 18:35:38', 1, 'Q1008332'),
 (15442, 'Uiraúna', 2005, 'PB', 31, 'BR', '-6.49650000', '-38.38015000', '2019-10-05 18:35:38', '2020-05-01 13:22:37', 1, 'Q2010393');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (15443, 'Ulianópolis', 2009, 'PA', 31, 'BR', '-3.81225000', '-47.50094000', '2019-10-05 18:35:38', '2020-05-01 13:22:37', 1, 'Q2010393'),
 (15444, 'Umari', 2016, 'CE', 31, 'BR', '-6.60924000', '-38.71952000', '2019-10-05 18:35:38', '2019-10-05 18:35:38', 1, 'Q2068917'),
 (15445, 'Umarizal', 2019, 'RN', 31, 'BR', '-6.00593000', '-37.80698000', '2019-10-05 18:35:38', '2019-10-05 18:35:38', 1, 'Q1802407'),
@@ -15899,7 +15899,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (15808, 'Asipovichy', 2954, 'MA', 21, 'BY', '53.30110000', '28.63860000', '2019-10-05 18:35:42', '2019-10-05 18:35:42', 1, 'Q742161'),
 (15809, 'Asipovitski Rayon', 2954, 'MA', 21, 'BY', '53.33333000', '28.75000000', '2019-10-05 18:35:42', '2019-10-05 18:35:42', 1, 'Q2025083'),
 (15810, 'Asnyezhytsy', 2959, 'BR', 21, 'BY', '52.18910000', '26.12990000', '2019-10-05 18:35:42', '2019-10-05 18:35:42', 1, 'Q4338083');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (15811, 'Astrashytski Haradok', 2957, 'MI', 21, 'BY', '54.06510000', '27.69500000', '2019-10-05 18:35:42', '2019-10-05 18:35:42', 1, 'Q13028169'),
 (15812, 'Astravyets', 2956, 'HR', 21, 'BY', '54.61378000', '25.95537000', '2019-10-05 18:35:42', '2019-10-05 18:35:42', 1, 'Q261024'),
 (15813, 'Astravyetski Rayon', 2956, 'HR', 21, 'BY', '54.66667000', '26.00000000', '2019-10-05 18:35:42', '2019-10-05 18:35:42', 1, 'Q1953368'),
@@ -16271,7 +16271,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (16179, 'Atikokan', 866, 'ON', 39, 'CA', '48.75667000', '-91.62409000', '2019-10-05 18:35:44', '2019-10-05 18:35:44', 1, 'Q754638'),
 (16180, 'Attawapiskat', 866, 'ON', 39, 'CA', '52.92774000', '-82.41669000', '2019-10-05 18:35:44', '2019-10-05 18:35:44', 1, 'Q1656303'),
 (16181, 'Aurora', 866, 'ON', 39, 'CA', '44.00011000', '-79.46632000', '2019-10-05 18:35:44', '2019-10-05 18:35:44', 1, 'Q266438');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (16182, 'Aylmer', 866, 'ON', 39, 'CA', '42.76679000', '-80.98302000', '2019-10-05 18:35:44', '2019-10-05 18:35:44', 1, 'Q2874907'),
 (16183, 'Azilda', 866, 'ON', 39, 'CA', '46.55008000', '-81.09975000', '2019-10-05 18:35:44', '2019-10-05 18:35:44', 1, 'Q2874907'),
 (16184, 'Baie Ste. Anne', 868, 'NB', 39, 'CA', '47.05231000', '-64.95355000', '2019-10-05 18:35:44', '2019-10-05 18:35:44', 1, 'Q2874907'),
@@ -16644,7 +16644,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (16551, 'Kirkland', 873, 'QC', 39, 'CA', '45.45008000', '-73.86586000', '2019-10-05 18:35:46', '2019-10-05 18:35:46', 1, 'Q142117'),
 (16552, 'Kirkland Lake', 866, 'ON', 39, 'CA', '48.14461000', '-80.03767000', '2019-10-05 18:35:46', '2019-10-05 18:35:46', 1, 'Q1362758'),
 (16553, 'Kitchener', 866, 'ON', 39, 'CA', '43.42537000', '-80.51120000', '2019-10-05 18:35:46', '2019-10-05 18:35:46', 1, 'Q200166');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (16554, 'Kitimat', 875, 'BC', 39, 'CA', '54.05244000', '-128.65342000', '2019-10-05 18:35:47', '2019-10-05 18:35:47', 1, 'Q1307936'),
 (16555, 'Kugluktuk', 876, 'NU', 39, 'CA', '67.82743000', '-115.09649000', '2019-10-05 18:35:47', '2019-10-05 18:35:47', 1, 'Q719707'),
 (16556, 'L\'Ancienne-Lorette', 873, 'QC', 39, 'CA', '46.79392000', '-71.35191000', '2019-10-05 18:35:47', '2019-10-05 18:35:47', 1, 'Q719707'),
@@ -17015,7 +17015,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (16921, 'Saint-Antoine', 868, 'NB', 39, 'CA', '46.36294000', '-64.74985000', '2019-10-05 18:35:49', '2019-10-05 18:35:49', 1, 'Q3461795'),
 (16922, 'Saint-Antoine-de-Tilly', 873, 'QC', 39, 'CA', '46.66346000', '-71.57335000', '2019-10-05 18:35:49', '2019-10-05 18:35:49', 1, 'Q932023'),
 (16923, 'Saint-Augustin', 873, 'QC', 39, 'CA', '51.22602000', '-58.65017000', '2019-10-05 18:35:49', '2019-10-05 18:35:49', 1, 'Q932023');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (16924, 'Saint-Augustin-de-Desmaures', 873, 'QC', 39, 'CA', '46.74064000', '-71.45131000', '2019-10-05 18:35:49', '2019-10-05 18:35:49', 1, 'Q142102'),
 (16925, 'Saint-Barnabé-Sud', 873, 'QC', 39, 'CA', '45.72977000', '-72.92244000', '2019-10-05 18:35:49', '2020-05-01 13:22:39', 1, 'Q142102'),
 (16926, 'Saint-Basile-le-Grand', 873, 'QC', 39, 'CA', '45.53338000', '-73.28246000', '2019-10-05 18:35:49', '2019-10-05 18:35:49', 1, 'Q142170'),
@@ -17386,7 +17386,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (17291, 'Wamba', 2734, 'HU', 51, 'CD', '2.14838000', '27.99466000', '2019-10-05 18:35:51', '2019-10-05 18:35:51', 1, 'Q277966'),
 (17292, 'Watsa', 2734, 'HU', 51, 'CD', '3.03716000', '29.53551000', '2019-10-05 18:35:51', '2019-10-05 18:35:51', 1, 'Q3566727'),
 (17293, 'Yangambi', 2756, 'TO', 51, 'CD', '0.76755000', '24.43973000', '2019-10-05 18:35:51', '2019-10-05 18:35:51', 1, 'Q1102132');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (17294, 'Alindao', 1264, 'BK', 42, 'CF', '5.02667000', '21.20876000', '2019-10-05 18:35:51', '2019-10-05 18:35:51', 1, 'Q153512'),
 (17295, 'Bambari', 1265, 'UK', 42, 'CF', '5.76795000', '20.67565000', '2019-10-05 18:35:51', '2019-10-05 18:35:51', 1, 'Q805946'),
 (17296, 'Bamingui', 1259, 'BB', 42, 'CF', '7.88897000', '20.04875000', '2019-10-05 18:35:51', '2019-10-05 18:35:51', 1, 'Q805946'),
@@ -17761,7 +17761,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (17665, 'Courtelary', 1645, 'BE', 214, 'CH', '47.17822000', '7.07236000', '2019-10-05 18:35:53', '2019-10-05 18:35:53', 1, 'Q22401642'),
 (17666, 'Courtételle', 1658, 'JU', 214, 'CH', '47.34074000', '7.31827000', '2019-10-05 18:35:53', '2020-05-01 13:23:18', 1, 'Q22401758'),
 (17667, 'Couvet', 1659, 'NE', 214, 'CH', '46.92525000', '6.63270000', '2019-10-05 18:35:53', '2019-10-05 18:35:53', 1, 'Q688493');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (17668, 'Crissier', 1651, 'VD', 214, 'CH', '46.54586000', '6.57567000', '2019-10-05 18:35:53', '2019-10-05 18:35:53', 1, 'Q22433033'),
 (17669, 'Cuarnens', 1651, 'VD', 214, 'CH', '46.62545000', '6.43713000', '2019-10-05 18:35:53', '2019-10-05 18:35:53', 1, 'Q68624'),
 (17670, 'Cugnasco', 1643, 'TI', 214, 'CH', '46.17473000', '8.91684000', '2019-10-05 18:35:53', '2019-10-05 18:35:53', 1, 'Q157344'),
@@ -18128,7 +18128,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (18031, 'Lake District', 1640, 'FR', 214, 'CH', '46.91016000', '7.14088000', '2019-10-05 18:35:55', '2019-10-05 18:35:55', 1, 'Q659778'),
 (18032, 'Lancy', 1647, 'GE', 214, 'CH', '46.18981000', '6.11441000', '2019-10-05 18:35:55', '2019-10-05 18:35:55', 1, 'Q22359172'),
 (18033, 'Landquart', 1660, 'GR', 214, 'CH', '46.95000000', '9.56667000', '2019-10-05 18:35:55', '2019-10-05 18:35:55', 1, 'Q70631');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (18034, 'Langenbruck', 1641, 'BL', 214, 'CH', '47.34917000', '7.76802000', '2019-10-05 18:35:55', '2019-10-05 18:35:55', 1, 'Q22362386'),
 (18035, 'Langendorf', 1662, 'SO', 214, 'CH', '47.21974000', '7.51469000', '2019-10-05 18:35:55', '2019-10-05 18:35:55', 1, 'Q22362425'),
 (18036, 'Langenthal', 1645, 'BE', 214, 'CH', '47.21526000', '7.79607000', '2019-10-05 18:35:55', '2019-10-05 18:35:55', 1, 'Q22362464'),
@@ -18496,7 +18496,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (18398, 'Rue', 1640, 'FR', 214, 'CH', '46.61916000', '6.82225000', '2019-10-05 18:35:59', '2019-10-05 18:35:59', 1, 'Q22475030'),
 (18399, 'Rupperswil', 1639, 'AG', 214, 'CH', '47.40131000', '8.12877000', '2019-10-05 18:35:59', '2019-10-05 18:35:59', 1, 'Q22360739'),
 (18400, 'Russikon', 1656, 'ZH', 214, 'CH', '47.39669000', '8.77515000', '2019-10-05 18:35:59', '2019-10-05 18:35:59', 1, 'Q22364982');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (18401, 'Ruswil', 1663, 'LU', 214, 'CH', '47.08425000', '8.12645000', '2019-10-05 18:35:59', '2019-10-05 18:35:59', 1, 'Q22365684'),
 (18402, 'Römerswil', 1663, 'LU', 214, 'CH', '47.16881000', '8.24528000', '2019-10-05 18:35:59', '2020-05-01 13:23:18', 1, 'Q22370978'),
 (18403, 'Röschenz', 1641, 'BL', 214, 'CH', '47.42366000', '7.48024000', '2019-10-05 18:35:59', '2020-05-01 13:23:18', 1, 'Q22371020'),
@@ -18863,7 +18863,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (18764, 'Wolfhausen', 1656, 'ZH', 214, 'CH', '47.25619000', '8.79910000', '2019-10-05 18:36:01', '2019-10-05 18:36:01', 1, 'Q22702548'),
 (18765, 'Wolfwil', 1662, 'SO', 214, 'CH', '47.26871000', '7.79652000', '2019-10-05 18:36:01', '2019-10-05 18:36:01', 1, 'Q22632420'),
 (18766, 'Wolhusen', 1663, 'LU', 214, 'CH', '47.05983000', '8.07389000', '2019-10-05 18:36:01', '2019-10-05 18:36:01', 1, 'Q22632439');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (18767, 'Wollerau', 1653, 'SZ', 214, 'CH', '47.19478000', '8.71903000', '2019-10-05 18:36:01', '2019-10-05 18:36:01', 1, 'Q22632539'),
 (18768, 'Worb', 1645, 'BE', 214, 'CH', '46.92984000', '7.56306000', '2019-10-05 18:36:01', '2019-10-05 18:36:01', 1, 'Q22637066'),
 (18769, 'Worben', 1645, 'BE', 214, 'CH', '47.10279000', '7.29518000', '2019-10-05 18:36:01', '2019-10-05 18:36:01', 1, 'Q22637087'),
@@ -19227,7 +19227,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (19127, 'Villa Alemana', 2830, 'VS', 44, 'CL', '-33.04222000', '-71.37333000', '2019-10-05 18:36:03', '2019-10-05 18:36:03', 1, 'Q174744'),
 (19128, 'Villa Presidente Frei, Ñuñoa, Santiago, Chile', 2824, 'RM', 44, 'CL', '-33.46069000', '-70.58024000', '2019-10-05 18:36:03', '2020-05-01 13:22:39', 1, 'Q23660095'),
 (19129, 'Villarrica', 2826, 'AR', 44, 'CL', '-39.28569000', '-72.22790000', '2019-10-05 18:36:03', '2019-10-05 18:36:03', 1, 'Q201019');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (19130, 'Viña del Mar', 2830, 'VS', 44, 'CL', '-33.02457000', '-71.55183000', '2019-10-05 18:36:03', '2020-05-01 13:22:39', 1, 'Q184345'),
 (19131, 'Yumbel', 2827, 'BI', 44, 'CL', '-37.09820000', '-72.56084000', '2019-10-05 18:36:03', '2019-10-05 18:36:03', 1, 'Q23660242'),
 (19132, 'Abong Mbang', 2661, 'ES', 38, 'CM', '3.98333000', '13.18333000', '2019-10-05 18:36:03', '2019-10-05 18:36:03', 1, 'Q322917'),
@@ -19608,7 +19608,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (19507, 'Fengkou', 2274, 'HB', 45, 'CN', '30.08268000', '113.33346000', '2019-10-05 18:39:36', '2019-10-05 18:39:36', 1, 'Q1362431'),
 (19508, 'Fengpu', 2248, 'FJ', 45, 'CN', '26.68276000', '118.76006000', '2019-10-05 18:39:36', '2019-10-05 18:39:36', 1, 'Q1362431'),
 (19509, 'Fengrun', 2280, 'HE', 45, 'CN', '39.83333000', '118.11667000', '2019-10-05 18:39:36', '2019-10-05 18:39:36', 1, 'Q1362431');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (19510, 'Fengxian', 2255, 'TW', 45, 'CN', '34.70388000', '116.58717000', '2019-10-05 18:39:36', '2019-10-05 18:39:36', 1, 'Q1362431'),
 (19511, 'Fengxiang', 2265, 'HL', 45, 'CN', '47.57549000', '130.82306000', '2019-10-05 18:39:36', '2019-10-05 18:39:36', 1, 'Q1362431'),
 (19512, 'Fengzhou', 2248, 'FJ', 45, 'CN', '24.95762000', '118.53365000', '2019-10-05 18:39:36', '2019-10-05 18:39:36', 1, 'Q1362431'),
@@ -19986,7 +19986,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (19884, 'Luohe Shi', 2259, 'HA', 45, 'CN', '33.68806000', '113.91306000', '2019-10-05 18:39:39', '2019-10-05 18:39:39', 1, 'Q404599'),
 (19885, 'Luojiu', 2258, 'HN', 45, 'CN', '27.51583000', '109.80889000', '2019-10-05 18:39:39', '2019-10-05 18:39:39', 1, 'Q404599'),
 (19886, 'Luoqiao', 2248, 'FJ', 45, 'CN', '26.47265000', '119.00392000', '2019-10-05 18:39:39', '2019-10-05 18:39:39', 1, 'Q404599');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (19887, 'Luorong', 2278, 'GX', 45, 'CN', '24.40583000', '109.60861000', '2019-10-05 18:39:39', '2019-10-05 18:39:39', 1, 'Q404599'),
 (19888, 'Luoyang', 2279, 'GD', 45, 'CN', '23.16244000', '114.27342000', '2019-10-05 18:39:39', '2019-10-05 18:39:39', 1, 'Q404599'),
 (19889, 'Luoyang', 2259, 'HA', 45, 'CN', '34.68361000', '112.45361000', '2019-10-05 18:39:39', '2019-10-05 18:39:39', 1, 'Q187136'),
@@ -20364,7 +20364,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (20261, 'Xianning', 2274, 'HB', 45, 'CN', '29.84347000', '114.32201000', '2019-10-05 18:39:42', '2019-10-05 18:39:42', 1, 'Q71284'),
 (20262, 'Xianning Prefecture', 2274, 'HB', 45, 'CN', '29.66609000', '114.26389000', '2019-10-05 18:39:42', '2019-10-05 18:39:42', 1, 'Q71373'),
 (20263, 'Xiannü', 2255, 'TW', 45, 'CN', '32.42806000', '119.56048000', '2019-10-05 18:39:42', '2020-05-01 13:22:40', 1, 'Q71373');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (20264, 'Xianrenwan', 2258, 'HN', 45, 'CN', '27.75444000', '110.32972000', '2019-10-05 18:39:42', '2019-10-05 18:39:42', 1, 'Q71373'),
 (20265, 'Xiantan', 2277, 'SC', 45, 'CN', '28.81859000', '106.19270000', '2019-10-05 18:39:42', '2019-10-05 18:39:42', 1, 'Q71373'),
 (20266, 'Xiantao', 2274, 'HB', 45, 'CN', '30.37080000', '113.44294000', '2019-10-05 18:39:42', '2019-10-05 18:39:42', 1, 'Q71455'),
@@ -20740,7 +20740,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (20636, 'Calima', 2904, 'VAC', 48, 'CO', '3.92511000', '-76.62654000', '2019-10-05 18:39:45', '2019-10-05 18:39:45', 1, 'Q1526288'),
 (20637, 'Caloto', 2884, 'CAU', 48, 'CO', '3.03586000', '-76.40788000', '2019-10-05 18:39:45', '2019-10-05 18:39:45', 1, 'Q2420491'),
 (20638, 'Campamento', 2890, 'ANT', 48, 'CO', '7.03910000', '-75.28938000', '2019-10-05 18:39:45', '2019-10-05 18:39:45', 1, 'Q546011');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (20639, 'Campo Alegre', 2883, 'TOL', 48, 'CO', '3.18917000', '-75.70361000', '2019-10-05 18:39:45', '2019-10-05 18:39:45', 1, 'Q546011'),
 (20640, 'Campo de la Cruz', 2880, 'ATL', 48, 'CO', '10.37844000', '-74.90258000', '2019-10-05 18:39:45', '2019-10-05 18:39:45', 1, 'Q546011'),
 (20641, 'Campohermoso', 2903, 'BOY', 48, 'CO', '4.97733000', '-73.16714000', '2019-10-05 18:39:45', '2019-10-05 18:39:45', 1, 'Q1656329'),
@@ -21114,7 +21114,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (21010, 'La Uvita', 2903, 'BOY', 48, 'CO', '6.24262000', '-72.56448000', '2019-10-05 18:39:52', '2019-10-05 18:39:52', 1, 'Q1654706'),
 (21011, 'La Vega', 2884, 'CAU', 48, 'CO', '2.06201000', '-76.76808000', '2019-10-05 18:39:52', '2019-10-05 18:39:52', 1, 'Q2309024'),
 (21012, 'La Vega', 2875, 'CUN', 48, 'CO', '4.97382000', '-74.34476000', '2019-10-05 18:39:52', '2019-10-05 18:39:52', 1, 'Q2022377');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (21013, 'La Victoria', 2904, 'VAC', 48, 'CO', '4.52483000', '-76.03921000', '2019-10-05 18:39:52', '2019-10-05 18:39:52', 1, 'Q1526230'),
 (21014, 'La Victoria', 2895, 'AMA', 48, 'CO', '-0.18311000', '-71.03760000', '2019-10-05 18:39:52', '2019-10-05 18:39:52', 1, 'Q1526230'),
 (21015, 'La Victoria', 2903, 'BOY', 48, 'CO', '5.52278000', '-74.23280000', '2019-10-05 18:39:52', '2019-10-05 18:39:52', 1, 'Q1526230'),
@@ -21484,7 +21484,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (21379, 'San Luis', 2883, 'TOL', 48, 'CO', '4.16667000', '-75.08333000', '2019-10-05 18:39:55', '2019-10-05 18:39:55', 1, 'Q1525328'),
 (21380, 'San Luis de Gaceno', 2903, 'BOY', 48, 'CO', '4.82052000', '-73.16851000', '2019-10-05 18:39:55', '2019-10-05 18:39:55', 1, 'Q1577001'),
 (21381, 'San Luis de Palenque', 2892, 'CAS', 48, 'CO', '5.42139000', '-71.73167000', '2019-10-05 18:39:55', '2019-10-05 18:39:55', 1, 'Q648843');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (21382, 'San Luis de Sincé', 2902, 'SUC', 48, 'CO', '9.24391000', '-75.14675000', '2019-10-05 18:39:55', '2020-05-01 13:22:40', 1, 'Q587626'),
 (21383, 'San Marcos', 2902, 'SUC', 48, 'CO', '8.58333000', '-75.16667000', '2019-10-05 18:39:55', '2019-10-05 18:39:55', 1, 'Q2434075'),
 (21384, 'San Martín', 2899, 'CES', 48, 'CO', '8.00151000', '-73.51126000', '2019-10-05 18:39:55', '2020-05-01 13:22:40', 1, 'Q545257'),
@@ -21858,7 +21858,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (21752, 'San Isidro', 1214, 'SJ', 53, 'CR', '9.36740000', '-83.69713000', '2019-10-05 18:40:00', '2019-10-05 18:40:00', 1, 'Q3947359'),
 (21753, 'San Isidro', 1212, 'H', 53, 'CR', '10.03333000', '-84.03333000', '2019-10-05 18:40:00', '2019-10-05 18:40:00', 1, 'Q2610270'),
 (21754, 'San Josecito', 1212, 'H', 53, 'CR', '10.01667000', '-84.10000000', '2019-10-05 18:40:00', '2019-10-05 18:40:00', 1, 'Q23736957');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (21755, 'San José', 1215, 'A', 53, 'CR', '10.95173000', '-85.13610000', '2019-10-05 18:40:00', '2020-05-01 13:22:40', 1, 'Q23736949'),
 (21756, 'San José', 1214, 'SJ', 53, 'CR', '9.93333000', '-84.08333000', '2019-10-05 18:40:00', '2020-05-01 13:22:40', 1, 'Q3070'),
 (21757, 'San Juan', 1214, 'SJ', 53, 'CR', '9.95974000', '-84.08165000', '2019-10-05 18:40:00', '2019-10-05 18:40:00', 1, 'Q23736960'),
@@ -22229,7 +22229,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (22122, 'Benešov nad Ploučnicí', 4576, '42', 58, 'CZ', '50.74159000', '14.31239000', '2019-10-05 18:40:03', '2020-05-01 13:22:41', 1, 'Q817141'),
 (22123, 'Benešov nad Černou', 4639, '31', 58, 'CZ', '48.72940000', '14.62737000', '2019-10-05 18:40:03', '2020-05-01 13:22:41', 1, 'Q817143'),
 (22124, 'Benátky nad Jizerou', 4554, '20', 58, 'CZ', '50.29085000', '14.82343000', '2019-10-05 18:40:03', '2020-05-01 13:22:41', 1, 'Q818540');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (22125, 'Bernartice', 4639, '31', 58, 'CZ', '49.36889000', '14.38101000', '2019-10-05 18:40:03', '2019-10-05 18:40:03', 1, 'Q823134'),
 (22126, 'Beroun', 4554, '20', 58, 'CZ', '49.96382000', '14.07200000', '2019-10-05 18:40:03', '2019-10-05 18:40:03', 1, 'Q827041'),
 (22127, 'Bezdružice', 4608, '324', 58, 'CZ', '49.90724000', '12.97110000', '2019-10-05 18:40:03', '2020-05-01 13:22:41', 1, 'Q616317'),
@@ -22602,7 +22602,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (22494, 'Kamenný Újezd', 4639, '31', 58, 'CZ', '48.89753000', '14.44638000', '2019-10-05 18:40:11', '2020-05-01 13:22:42', 1, 'Q1306068'),
 (22495, 'Kaplice', 4639, '31', 58, 'CZ', '48.73881000', '14.49449000', '2019-10-05 18:40:11', '2019-10-05 18:40:11', 1, 'Q954808'),
 (22496, 'Kardašova Řečice', 4639, '31', 58, 'CZ', '49.18478000', '14.85315000', '2019-10-05 18:40:11', '2020-05-01 13:22:42', 1, 'Q1729076');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (22497, 'Karlovice', 4600, '80', 58, 'CZ', '50.10564000', '17.44563000', '2019-10-05 18:40:11', '2019-10-05 18:40:11', 1, 'Q1495826'),
 (22498, 'Karlovy Vary', 4581, '41', 58, 'CZ', '50.23271000', '12.87117000', '2019-10-05 18:40:11', '2019-10-05 18:40:11', 1, 'Q384544'),
 (22499, 'Karlín', 4598, '10', 58, 'CZ', '50.09272000', '14.44711000', '2019-10-05 18:40:11', '2020-05-01 13:22:41', 1, 'Q1734030'),
@@ -22975,7 +22975,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (22866, 'Okres Trutnov', 4614, '52', 58, 'CZ', '50.58333000', '15.83333000', '2019-10-05 18:40:17', '2019-10-05 18:40:17', 1, 'Q517734'),
 (22867, 'Okres Tábor', 4639, '31', 58, 'CZ', '49.41667000', '14.66667000', '2019-10-05 18:40:17', '2020-05-01 13:22:42', 1, 'Q117503'),
 (22868, 'Okres Třebíč', 4575, '63', 58, 'CZ', '49.13333000', '15.93333000', '2019-10-05 18:40:17', '2020-05-01 13:22:42', 1, 'Q856857');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (22869, 'Okres Uherské Hradiště', 4563, '724', 58, 'CZ', '49.01667000', '17.55000000', '2019-10-05 18:40:17', '2020-05-01 13:22:42', 1, 'Q277873'),
 (22870, 'Okres Vsetín', 4563, '724', 58, 'CZ', '49.36667000', '18.08333000', '2019-10-05 18:40:17', '2020-05-01 13:22:42', 1, 'Q852541'),
 (22871, 'Okres Vyškov', 4602, '64', 58, 'CZ', '49.27844000', '16.99362000', '2019-10-05 18:40:17', '2020-05-01 13:22:42', 1, 'Q570682'),
@@ -23350,7 +23350,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (23240, 'Velké Hoštice', 4600, '80', 58, 'CZ', '49.93609000', '17.97380000', '2019-10-05 18:40:24', '2020-05-01 13:22:41', 1, 'Q165010'),
 (23241, 'Velké Karlovice', 4563, '724', 58, 'CZ', '49.36064000', '18.28355000', '2019-10-05 18:40:24', '2020-05-01 13:22:42', 1, 'Q1022317'),
 (23242, 'Velké Losiny', 4589, '71', 58, 'CZ', '50.03197000', '17.04058000', '2019-10-05 18:40:24', '2020-05-01 13:22:41', 1, 'Q780911');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (23243, 'Velké Meziříčí', 4575, '63', 58, 'CZ', '49.35522000', '16.01224000', '2019-10-05 18:40:24', '2020-05-01 13:22:42', 1, 'Q703158'),
 (23244, 'Velké Němčice', 4602, '64', 58, 'CZ', '48.99168000', '16.67208000', '2019-10-05 18:40:24', '2020-05-01 13:22:42', 1, 'Q1023862'),
 (23245, 'Velké Opatovice', 4602, '64', 58, 'CZ', '49.61237000', '16.67947000', '2019-10-05 18:40:24', '2020-05-01 13:22:42', 1, 'Q1422132'),
@@ -23728,7 +23728,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (23617, 'Altentreptow', 3007, 'MV', 82, 'DE', '53.69416000', '13.26504000', '2019-10-05 18:40:30', '2019-10-05 18:40:30', 1, 'Q53773'),
 (23618, 'Alterhofen', 3009, 'BY', 82, 'DE', '48.84659000', '12.62012000', '2019-10-05 18:40:30', '2019-10-05 18:40:30', 1, 'Q53773'),
 (23619, 'Altes Lager', 3006, 'BW', 82, 'DE', '48.41755000', '9.53606000', '2019-10-05 18:40:30', '2019-10-05 18:40:30', 1, 'Q53773');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (23620, 'Altfraunhofen', 3009, 'BY', 82, 'DE', '48.45000000', '12.16667000', '2019-10-05 18:40:30', '2019-10-05 18:40:30', 1, 'Q264385'),
 (23621, 'Altglienicke', 3010, 'BE', 82, 'DE', '52.41116000', '13.53550000', '2019-10-05 18:40:30', '2019-10-05 18:40:30', 1, 'Q641472'),
 (23622, 'Althegnenberg', 3009, 'BY', 82, 'DE', '48.23333000', '11.06667000', '2019-10-05 18:40:30', '2019-10-05 18:40:30', 1, 'Q31878126'),
@@ -24103,7 +24103,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (23991, 'Bei der Höhne', 3008, 'NI', 82, 'DE', '53.51351000', '9.11191000', '2019-10-05 18:40:38', '2020-05-01 13:22:48', 1, 'Q551981'),
 (23992, 'Beierfeld', 3021, 'SN', 82, 'DE', '50.56529000', '12.79049000', '2019-10-05 18:40:38', '2019-10-05 18:40:38', 1, 'Q814665'),
 (23993, 'Beiersdorf', 3021, 'SN', 82, 'DE', '51.07405000', '14.53828000', '2019-10-05 18:40:38', '2019-10-05 18:40:38', 1, 'Q814665');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (23994, 'Beilrode', 3021, 'SN', 82, 'DE', '51.56667000', '13.06667000', '2019-10-05 18:40:38', '2019-10-05 18:40:38', 1, 'Q814665'),
 (23995, 'Beilstein', 3006, 'BW', 82, 'DE', '49.04140000', '9.31370000', '2019-10-05 18:40:38', '2019-10-05 18:40:38', 1, 'Q31908847'),
 (23996, 'Beimerstetten', 3006, 'BW', 82, 'DE', '48.48333000', '9.98333000', '2019-10-05 18:40:38', '2019-10-05 18:40:38', 1, 'Q515002'),
@@ -24481,7 +24481,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (24368, 'Brügge', 3005, 'SH', 82, 'DE', '54.17578000', '10.06913000', '2019-10-05 18:40:40', '2020-05-01 13:22:49', 1, 'Q559019'),
 (24369, 'Brüggen', 3017, 'NW', 82, 'DE', '51.24053000', '6.18376000', '2019-10-05 18:40:40', '2020-05-01 13:22:49', 1, 'Q49281551'),
 (24370, 'Brüggen', 3008, 'NI', 82, 'DE', '52.04250000', '9.77450000', '2019-10-05 18:40:40', '2020-05-01 13:22:48', 1, 'Q49281551');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (24371, 'Brühl', 3006, 'BW', 82, 'DE', '49.39722000', '8.53361000', '2019-10-05 18:40:40', '2020-05-01 13:22:47', 1, 'Q22962'),
 (24372, 'Brühl', 3017, 'NW', 82, 'DE', '50.82928000', '6.90499000', '2019-10-05 18:40:40', '2020-05-01 13:22:49', 1, 'Q22962'),
 (24373, 'Brüsewitz', 3007, 'MV', 82, 'DE', '53.67588000', '11.24379000', '2019-10-05 18:40:40', '2020-05-01 13:22:48', 1, 'Q671724'),
@@ -24860,7 +24860,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (24746, 'Dorsten', 3017, 'NW', 82, 'DE', '51.66166000', '6.96514000', '2019-10-05 18:40:43', '2019-10-05 18:40:43', 1, 'Q3886'),
 (24747, 'Dortmund', 3017, 'NW', 82, 'DE', '51.51494000', '7.46600000', '2019-10-05 18:40:43', '2019-10-05 18:40:43', 1, 'Q3886'),
 (24748, 'Dorum', 3008, 'NI', 82, 'DE', '53.68790000', '8.56734000', '2019-10-05 18:40:43', '2019-10-05 18:40:43', 1, 'Q664811');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (24749, 'Dossenheim', 3006, 'BW', 82, 'DE', '49.45028000', '8.67472000', '2019-10-05 18:40:43', '2019-10-05 18:40:43', 1, 'Q83255'),
 (24750, 'Dotternhausen', 3006, 'BW', 82, 'DE', '48.22848000', '8.79228000', '2019-10-05 18:40:43', '2019-10-05 18:40:43', 1, 'Q507218'),
 (24751, 'Drachselsried', 3009, 'BY', 82, 'DE', '49.10759000', '13.01185000', '2019-10-05 18:40:43', '2019-10-05 18:40:43', 1, 'Q489152'),
@@ -25240,7 +25240,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (25125, 'Fachbach', 3019, 'RP', 82, 'DE', '50.33333000', '7.68333000', '2019-10-05 18:40:48', '2019-10-05 18:40:48', 1, 'Q573466'),
 (25126, 'Fahrdorf', 3005, 'SH', 82, 'DE', '54.50000000', '9.60000000', '2019-10-05 18:40:48', '2019-10-05 18:40:48', 1, 'Q117919'),
 (25127, 'Fahrenbach', 3006, 'BW', 82, 'DE', '49.43139000', '9.15056000', '2019-10-05 18:40:48', '2019-10-05 18:40:48', 1, 'Q534257');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (25128, 'Fahrenkrug', 3005, 'SH', 82, 'DE', '53.95000000', '10.25000000', '2019-10-05 18:40:48', '2019-10-05 18:40:48', 1, 'Q534257'),
 (25129, 'Fahrenzhausen', 3009, 'BY', 82, 'DE', '48.35317000', '11.55521000', '2019-10-05 18:40:48', '2019-10-05 18:40:48', 1, 'Q506233'),
 (25130, 'Faid', 3019, 'RP', 82, 'DE', '50.14454000', '7.11951000', '2019-10-05 18:40:48', '2019-10-05 18:40:48', 1, 'Q567212'),
@@ -25617,7 +25617,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (25501, 'Glan-Münchweiler', 3019, 'RP', 82, 'DE', '49.47222000', '7.44204000', '2019-10-05 18:40:54', '2020-05-01 13:22:49', 1, 'Q646584'),
 (25502, 'Glandorf', 3008, 'NI', 82, 'DE', '52.08474000', '7.99944000', '2019-10-05 18:40:54', '2019-10-05 18:40:54', 1, 'Q646584'),
 (25503, 'Glashütte', 3021, 'SN', 82, 'DE', '50.85196000', '13.77977000', '2019-10-05 18:40:54', '2020-05-01 13:22:49', 1, 'Q33438660');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (25504, 'Glashütten', 3009, 'BY', 82, 'DE', '49.88739000', '11.44870000', '2019-10-05 18:40:54', '2020-05-01 13:22:47', 1, 'Q33438660'),
 (25505, 'Glashütten', 3018, 'HE', 82, 'DE', '50.21667000', '8.40000000', '2019-10-05 18:40:55', '2020-05-01 13:22:48', 1, 'Q637032'),
 (25506, 'Glattbach', 3009, 'BY', 82, 'DE', '50.00000000', '9.15000000', '2019-10-05 18:40:55', '2019-10-05 18:40:55', 1, 'Q507364'),
@@ -25994,7 +25994,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (25877, 'Hammerbrook', 3016, 'HH', 82, 'DE', '53.54527000', '10.03042000', '2019-10-05 18:41:00', '2019-10-05 18:41:00', 1, 'Q1570'),
 (25878, 'Hammerbrücke', 3021, 'SN', 82, 'DE', '50.43504000', '12.41500000', '2019-10-05 18:41:00', '2020-05-01 13:22:49', 1, 'Q695636'),
 (25879, 'Hammersbach', 3018, 'HE', 82, 'DE', '50.21667000', '8.98333000', '2019-10-05 18:41:00', '2019-10-05 18:41:00', 1, 'Q695636');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (25880, 'Hamminkeln', 3017, 'NW', 82, 'DE', '51.73262000', '6.59031000', '2019-10-05 18:41:00', '2019-10-05 18:41:00', 1, 'Q22692196'),
 (25881, 'Hammoor', 3005, 'SH', 82, 'DE', '53.71378000', '10.32200000', '2019-10-05 18:41:00', '2019-10-05 18:41:00', 1, 'Q641623'),
 (25882, 'Hanau am Main', 3018, 'HE', 82, 'DE', '50.13423000', '8.91418000', '2019-10-05 18:41:00', '2019-10-05 18:41:00', 1, 'Q3802'),
@@ -26371,7 +26371,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (26253, 'Hoogstede', 3008, 'NI', 82, 'DE', '52.58333000', '6.95000000', '2019-10-05 18:41:05', '2019-10-05 18:41:05', 1, 'Q623853'),
 (26254, 'Hopferau', 3009, 'BY', 82, 'DE', '47.61667000', '10.63333000', '2019-10-05 18:41:05', '2019-10-05 18:41:05', 1, 'Q205497'),
 (26255, 'Hoppstädten-Weiersbach', 3019, 'RP', 82, 'DE', '49.61667000', '7.20000000', '2019-10-05 18:41:05', '2020-05-01 13:22:49', 1, 'Q473558');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (26256, 'Horb am Neckar', 3006, 'BW', 82, 'DE', '48.44423000', '8.69130000', '2019-10-05 18:41:05', '2019-10-05 18:41:05', 1, 'Q82690'),
 (26257, 'Horben', 3006, 'BW', 82, 'DE', '47.93333000', '7.86667000', '2019-10-05 18:41:05', '2019-10-05 18:41:05', 1, 'Q515988'),
 (26258, 'Hordel', 3017, 'NW', 82, 'DE', '51.49784000', '7.17620000', '2019-10-05 18:41:05', '2019-10-05 18:41:05', 1, 'Q162089'),
@@ -26749,7 +26749,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (26630, 'Kirchlinteln', 3008, 'NI', 82, 'DE', '52.94236000', '9.31811000', '2019-10-05 18:41:09', '2019-10-05 18:41:09', 1, 'Q504134'),
 (26631, 'Kirchroth', 3009, 'BY', 82, 'DE', '48.95000000', '12.55000000', '2019-10-05 18:41:09', '2019-10-05 18:41:09', 1, 'Q179520'),
 (26632, 'Kirchseelte', 3008, 'NI', 82, 'DE', '52.95000000', '8.68333000', '2019-10-05 18:41:09', '2019-10-05 18:41:09', 1, 'Q179520');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (26633, 'Kirchseeon', 3009, 'BY', 82, 'DE', '48.07143000', '11.88875000', '2019-10-05 18:41:09', '2019-10-05 18:41:09', 1, 'Q521078'),
 (26634, 'Kirchtimke', 3008, 'NI', 82, 'DE', '53.25000000', '9.15000000', '2019-10-05 18:41:09', '2019-10-05 18:41:09', 1, 'Q506804'),
 (26635, 'Kirchwald', 3019, 'RP', 82, 'DE', '50.36667000', '7.15000000', '2019-10-05 18:41:09', '2019-10-05 18:41:09', 1, 'Q629359'),
@@ -27126,7 +27126,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (27006, 'Lehe', 3005, 'SH', 82, 'DE', '54.34143000', '9.02374000', '2019-10-05 18:41:13', '2019-10-05 18:41:13', 1, 'Q32091276'),
 (27007, 'Lehesten', 3015, 'TH', 82, 'DE', '50.98333000', '11.58333000', '2019-10-05 18:41:13', '2019-10-05 18:41:13', 1, 'Q32091276'),
 (27008, 'Lehmen', 3019, 'RP', 82, 'DE', '50.28333000', '7.45000000', '2019-10-05 18:41:13', '2019-10-05 18:41:13', 1, 'Q567585');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (27009, 'Lehmkuhlen', 3005, 'SH', 82, 'DE', '54.23333000', '10.36667000', '2019-10-05 18:41:13', '2019-10-05 18:41:13', 1, 'Q686715'),
 (27010, 'Lehrberg', 3009, 'BY', 82, 'DE', '49.34568000', '10.51101000', '2019-10-05 18:41:13', '2019-10-05 18:41:13', 1, 'Q508257'),
 (27011, 'Lehre', 3008, 'NI', 82, 'DE', '52.33333000', '10.66667000', '2019-10-05 18:41:13', '2019-10-05 18:41:13', 1, 'Q508257'),
@@ -27505,7 +27505,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (27384, 'Meisenheim', 3019, 'RP', 82, 'DE', '49.70721000', '7.66765000', '2019-10-05 18:41:17', '2019-10-05 18:41:17', 1, 'Q520103'),
 (27385, 'Meissen', 3021, 'SN', 82, 'DE', '51.16158000', '13.47370000', '2019-10-05 18:41:17', '2019-10-05 18:41:17', 1, 'Q8738'),
 (27386, 'Meitingen', 3009, 'BY', 82, 'DE', '48.54586000', '10.85179000', '2019-10-05 18:41:17', '2019-10-05 18:41:17', 1, 'Q252494');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (27387, 'Meitzendorf', 3011, 'ST', 82, 'DE', '52.21308000', '11.56174000', '2019-10-05 18:41:17', '2019-10-05 18:41:17', 1, 'Q1918809'),
 (27388, 'Meißenheim', 3006, 'BW', 82, 'DE', '48.41035000', '7.77266000', '2019-10-05 18:41:17', '2020-05-01 13:22:47', 1, 'Q550767'),
 (27389, 'Melbach', 3018, 'HE', 82, 'DE', '50.37908000', '8.80926000', '2019-10-05 18:41:17', '2019-10-05 18:41:17', 1, 'Q550767'),
@@ -27882,7 +27882,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (27760, 'Neukirchen', 3005, 'SH', 82, 'DE', '54.21465000', '10.55381000', '2019-10-05 18:41:21', '2019-10-05 18:41:21', 1, 'Q32182796'),
 (27761, 'Neukirchen', 3018, 'HE', 82, 'DE', '50.86906000', '9.34655000', '2019-10-05 18:41:21', '2019-10-05 18:41:21', 1, 'Q624847'),
 (27762, 'Neukirchen', 3021, 'SN', 82, 'DE', '50.77955000', '12.86755000', '2019-10-05 18:41:21', '2019-10-05 18:41:21', 1, 'Q32182759');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (27763, 'Neukirchen-Balbini', 3009, 'BY', 82, 'DE', '49.29101000', '12.43643000', '2019-10-05 18:41:21', '2019-10-05 18:41:21', 1, 'Q558667'),
 (27764, 'Neukloster', 3007, 'MV', 82, 'DE', '53.86548000', '11.68512000', '2019-10-05 18:41:21', '2019-10-05 18:41:21', 1, 'Q540063'),
 (27765, 'Neukölln', 3010, 'BE', 82, 'DE', '52.47719000', '13.43126000', '2019-10-05 18:41:21', '2020-05-01 13:22:48', 1, 'Q169492'),
@@ -28256,7 +28256,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (28133, 'Ortrand', 3013, 'BB', 82, 'DE', '51.37505000', '13.75982000', '2019-10-05 18:41:26', '2019-10-05 18:41:26', 1, 'Q572503'),
 (28134, 'Osann-Monzel', 3019, 'RP', 82, 'DE', '49.91667000', '6.95000000', '2019-10-05 18:41:26', '2019-10-05 18:41:26', 1, 'Q648793'),
 (28135, 'Osburg', 3019, 'RP', 82, 'DE', '49.71667000', '6.78333000', '2019-10-05 18:41:26', '2019-10-05 18:41:26', 1, 'Q659819');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (28136, 'Oschatz', 3021, 'SN', 82, 'DE', '51.30001000', '13.10984000', '2019-10-05 18:41:26', '2019-10-05 18:41:26', 1, 'Q12056'),
 (28137, 'Oschersleben', 3011, 'ST', 82, 'DE', '52.03039000', '11.22898000', '2019-10-05 18:41:26', '2019-10-05 18:41:26', 1, 'Q525392'),
 (28138, 'Osdorf', 3005, 'SH', 82, 'DE', '54.43333000', '10.01667000', '2019-10-05 18:41:26', '2019-10-05 18:41:26', 1, 'Q525392'),
@@ -28634,7 +28634,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (28510, 'Rees', 3017, 'NW', 82, 'DE', '51.76263000', '6.39778000', '2019-10-05 18:41:32', '2019-10-05 18:41:32', 1, 'Q32250561'),
 (28511, 'Reeßum', 3008, 'NI', 82, 'DE', '53.13333000', '9.21667000', '2019-10-05 18:41:32', '2020-05-01 13:22:48', 1, 'Q32250561'),
 (28512, 'Regen', 3009, 'BY', 82, 'DE', '48.97190000', '13.12824000', '2019-10-05 18:41:32', '2019-10-05 18:41:32', 1, 'Q32250561');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (28513, 'Regensburg', 3009, 'BY', 82, 'DE', '49.01513000', '12.10161000', '2019-10-05 18:41:32', '2019-10-05 18:41:32', 1, 'Q2978'),
 (28514, 'Regenstauf', 3009, 'BY', 82, 'DE', '49.12014000', '12.13027000', '2019-10-05 18:41:32', '2019-10-05 18:41:32', 1, 'Q491641'),
 (28515, 'Regesbostel', 3008, 'NI', 82, 'DE', '53.38333000', '9.65000000', '2019-10-05 18:41:32', '2019-10-05 18:41:32', 1, 'Q491641'),
@@ -29010,7 +29010,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (28885, 'Sarstedt', 3008, 'NI', 82, 'DE', '52.23495000', '9.85411000', '2019-10-05 18:41:36', '2019-10-05 18:41:36', 1, 'Q32280279'),
 (28886, 'Sasbach', 3006, 'BW', 82, 'DE', '48.63971000', '8.09375000', '2019-10-05 18:41:36', '2019-10-05 18:41:36', 1, 'Q32280279'),
 (28887, 'Sasbachwalden', 3006, 'BW', 82, 'DE', '48.61667000', '8.13333000', '2019-10-05 18:41:36', '2019-10-05 18:41:36', 1, 'Q533808');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (28888, 'Sasel', 3016, 'HH', 82, 'DE', '53.65385000', '10.11184000', '2019-10-05 18:41:36', '2019-10-05 18:41:36', 1, 'Q533808'),
 (28889, 'Sassenberg', 3017, 'NW', 82, 'DE', '51.99223000', '8.04068000', '2019-10-05 18:41:36', '2019-10-05 18:41:36', 1, 'Q2794'),
 (28890, 'Sassenburg', 3008, 'NI', 82, 'DE', '52.51667000', '10.63333000', '2019-10-05 18:41:36', '2019-10-05 18:41:36', 1, 'Q475659'),
@@ -29386,7 +29386,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (29260, 'Solms', 3018, 'HE', 82, 'DE', '50.53620000', '8.40704000', '2019-10-05 18:44:48', '2019-10-05 18:44:48', 1, 'Q1615197'),
 (29261, 'Solnhofen', 3009, 'BY', 82, 'DE', '48.89582000', '10.99560000', '2019-10-05 18:44:48', '2019-10-05 18:44:48', 1, 'Q572949'),
 (29262, 'Soltau', 3008, 'NI', 82, 'DE', '52.98638000', '9.84338000', '2019-10-05 18:44:48', '2019-10-05 18:44:48', 1, 'Q33491041');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (29263, 'Soltendieck', 3008, 'NI', 82, 'DE', '52.87369000', '10.76162000', '2019-10-05 18:44:49', '2019-10-05 18:44:49', 1, 'Q686912'),
 (29264, 'Sommerach', 3009, 'BY', 82, 'DE', '49.82923000', '10.20792000', '2019-10-05 18:44:49', '2019-10-05 18:44:49', 1, 'Q316088'),
 (29265, 'Sommerhausen', 3009, 'BY', 82, 'DE', '49.70361000', '10.02605000', '2019-10-05 18:44:49', '2019-10-05 18:44:49', 1, 'Q511929'),
@@ -29764,7 +29764,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (29637, 'Trabitz', 3009, 'BY', 82, 'DE', '49.80000000', '11.90000000', '2019-10-05 18:44:55', '2019-10-05 18:44:55', 1, 'Q504667'),
 (29638, 'Train', 3009, 'BY', 82, 'DE', '48.73333000', '11.83333000', '2019-10-05 18:44:55', '2019-10-05 18:44:55', 1, 'Q504667'),
 (29639, 'Traitsching', 3009, 'BY', 82, 'DE', '49.15000000', '12.65000000', '2019-10-05 18:44:55', '2019-10-05 18:44:55', 1, 'Q503985');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (29640, 'Trappenkamp', 3005, 'SH', 82, 'DE', '54.03988000', '10.21496000', '2019-10-05 18:44:55', '2019-10-05 18:44:55', 1, 'Q549151'),
 (29641, 'Trappstadt', 3009, 'BY', 82, 'DE', '50.31880000', '10.56995000', '2019-10-05 18:44:55', '2019-10-05 18:44:55', 1, 'Q558891'),
 (29642, 'Trassem', 3019, 'RP', 82, 'DE', '49.57849000', '6.52540000', '2019-10-05 18:44:55', '2019-10-05 18:44:55', 1, 'Q656830'),
@@ -30142,7 +30142,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (30014, 'Wardow', 3007, 'MV', 82, 'DE', '53.93054000', '12.40818000', '2019-10-05 18:45:02', '2019-10-05 18:45:02', 1, 'Q699192'),
 (30015, 'Waren', 3007, 'MV', 82, 'DE', '53.52040000', '12.67985000', '2019-10-05 18:45:02', '2019-10-05 18:45:02', 1, 'Q4346'),
 (30016, 'Warendorf', 3017, 'NW', 82, 'DE', '51.95109000', '7.98756000', '2019-10-05 18:45:02', '2019-10-05 18:45:02', 1, 'Q2769');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (30017, 'Warin', 3007, 'MV', 82, 'DE', '53.80026000', '11.70504000', '2019-10-05 18:45:02', '2019-10-05 18:45:02', 1, 'Q536697'),
 (30018, 'Warmensteinach', 3009, 'BY', 82, 'DE', '49.99348000', '11.77866000', '2019-10-05 18:45:03', '2019-10-05 18:45:03', 1, 'Q504438'),
 (30019, 'Warmsen', 3008, 'NI', 82, 'DE', '52.45695000', '8.84949000', '2019-10-05 18:45:03', '2019-10-05 18:45:03', 1, 'Q561156'),
@@ -30520,7 +30520,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (30391, 'Wolkenstein', 3021, 'SN', 82, 'DE', '50.65552000', '13.07132000', '2019-10-05 18:45:10', '2019-10-05 18:45:10', 1, 'Q492543'),
 (30392, 'Wolkramshausen', 3015, 'TH', 82, 'DE', '51.42185000', '10.73815000', '2019-10-05 18:45:10', '2019-10-05 18:45:10', 1, 'Q559982'),
 (30393, 'Wollbach', 3009, 'BY', 82, 'DE', '50.36667000', '10.23333000', '2019-10-05 18:45:10', '2019-10-05 18:45:10', 1, 'Q559982');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (30394, 'Wolmirsleben', 3011, 'ST', 82, 'DE', '51.95000000', '11.48333000', '2019-10-05 18:45:10', '2019-10-05 18:45:10', 1, 'Q554743'),
 (30395, 'Wolmirstedt', 3011, 'ST', 82, 'DE', '52.24856000', '11.62945000', '2019-10-05 18:45:10', '2019-10-05 18:45:10', 1, 'Q653962'),
 (30396, 'Wolnzach', 3009, 'BY', 82, 'DE', '48.60380000', '11.62568000', '2019-10-05 18:45:10', '2019-10-05 18:45:10', 1, 'Q491958'),
@@ -30897,7 +30897,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (30767, 'Korsør', 1528, '85', 59, 'DK', '55.32993000', '11.13857000', '2019-10-05 18:45:15', '2020-05-01 13:22:42', 1, 'Q1784816'),
 (30768, 'Kruså', 1529, '83', 59, 'DK', '54.85097000', '9.40129000', '2019-10-05 18:45:15', '2020-05-01 13:22:42', 1, 'Q570436'),
 (30769, 'Kås', 1532, '81', 59, 'DK', '57.19774000', '9.67173000', '2019-10-05 18:45:15', '2020-05-01 13:22:42', 1, 'Q3643248');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (30770, 'København', 1530, '84', 59, 'DK', '55.67110000', '12.56529000', '2019-10-05 18:45:15', '2020-05-01 13:22:42', 1, 'Q504125'),
 (30771, 'Køge', 1528, '85', 59, 'DK', '55.45802000', '12.18214000', '2019-10-05 18:45:15', '2020-05-01 13:22:42', 1, 'Q21184'),
 (30772, 'Køge Kommune', 1528, '85', 59, 'DK', '55.45668000', '12.07332000', '2019-10-05 18:45:15', '2020-05-01 13:22:42', 1, 'Q504664'),
@@ -31272,7 +31272,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (31141, 'Oviedo', 4101, '16', 62, 'DO', '17.80136000', '-71.40100000', '2019-10-05 18:45:24', '2019-10-05 18:45:24', 1, 'Q1770802'),
 (31142, 'Padre Las Casas', 4114, '02', 62, 'DO', '18.75000000', '-70.88333000', '2019-10-05 18:45:24', '2019-10-05 18:45:24', 1, 'Q966782'),
 (31143, 'Palmar Arriba', 4108, '25', 62, 'DO', '19.53957000', '-70.73826000', '2019-10-05 18:45:24', '2019-10-05 18:45:24', 1, 'Q7128130');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (31144, 'Palmar de Ocoa', 4114, '02', 62, 'DO', '18.29656000', '-70.58635000', '2019-10-05 18:45:24', '2019-10-05 18:45:24', 1, 'Q7128144'),
 (31145, 'Paraíso', 4090, '04', 62, 'DO', '18.02652000', '-71.20889000', '2019-10-05 18:45:24', '2020-05-01 13:22:42', 1, 'Q1988637'),
 (31146, 'Partido', 4107, '05', 62, 'DO', '19.48403000', '-71.54730000', '2019-10-05 18:45:24', '2019-10-05 18:45:24', 1, 'Q3896653'),
@@ -31648,7 +31648,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (31516, 'La Libertad', 2914, 'G', 64, 'EC', '-2.23300000', '-80.91039000', '2019-10-05 18:45:27', '2019-10-05 18:45:27', 1, 'Q1798895'),
 (31517, 'La Maná', 2921, 'X', 64, 'EC', '-0.94094000', '-79.22506000', '2019-10-05 18:45:27', '2020-05-01 13:22:42', 1, 'Q2523409'),
 (31518, 'La Troncal', 2917, 'F', 64, 'EC', '-2.42355000', '-79.33977000', '2019-10-05 18:45:27', '2019-10-05 18:45:27', 1, 'Q6465543');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (31519, 'La Unión', 2923, 'A', 64, 'EC', '-2.85000000', '-78.78333000', '2019-10-05 18:45:27', '2020-05-01 13:22:42', 1, 'Q6465577'),
 (31520, 'Latacunga', 2921, 'X', 64, 'EC', '-0.93521000', '-78.61554000', '2019-10-05 18:45:27', '2019-10-05 18:45:27', 1, 'Q379338'),
 (31521, 'Llacao', 2923, 'A', 64, 'EC', '-2.86667000', '-78.88333000', '2019-10-05 18:45:27', '2019-10-05 18:45:27', 1, 'Q379338'),
@@ -32025,7 +32025,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (31892, 'A Baña', 1167, 'GA', 207, 'ES', '42.96180000', '-8.75784000', '2019-10-05 18:45:32', '2020-05-01 13:23:16', 1, 'Q1183411'),
 (31893, 'A Coruña', 1167, 'GA', 207, 'ES', '43.37135000', '-8.39600000', '2019-10-05 18:45:32', '2020-05-01 13:23:16', 1, 'Q8757'),
 (31894, 'A Estrada', 1167, 'GA', 207, 'ES', '42.68911000', '-8.48842000', '2019-10-05 18:45:32', '2019-10-05 18:45:32', 1, 'Q1621191');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (31895, 'A Pobra do Brollon', 1167, 'GA', 207, 'ES', '42.55612000', '-7.39140000', '2019-10-05 18:45:32', '2019-10-05 18:45:32', 1, 'Q1621191'),
 (31896, 'A Pobra do Caramiñal', 1167, 'GA', 207, 'ES', '42.60295000', '-8.93824000', '2019-10-05 18:45:32', '2020-05-01 13:23:16', 1, 'Q1621191'),
 (31897, 'A Rúa', 1167, 'GA', 207, 'ES', '42.40048000', '-7.10268000', '2019-10-05 18:45:32', '2020-05-01 13:23:16', 1, 'Q1607619'),
@@ -32393,7 +32393,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (32259, 'Almacelles', 1203, 'CT', 207, 'ES', '41.73216000', '0.43722000', '2019-10-05 18:45:34', '2019-10-05 18:45:34', 1, 'Q1626921'),
 (32260, 'Almadrones', 1205, 'CM', 207, 'ES', '40.90096000', '-2.77406000', '2019-10-05 18:45:34', '2019-10-05 18:45:34', 1, 'Q634230'),
 (32261, 'Almadén', 1205, 'CM', 207, 'ES', '38.77541000', '-4.83156000', '2019-10-05 18:45:34', '2020-05-01 13:23:15', 1, 'Q465085');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (32262, 'Almadén de la Plata', 1193, 'AN', 207, 'ES', '37.87221000', '-6.08085000', '2019-10-05 18:45:34', '2020-05-01 13:23:15', 1, 'Q1605533'),
 (32263, 'Almagro', 1205, 'CM', 207, 'ES', '38.88941000', '-3.71131000', '2019-10-05 18:45:34', '2019-10-05 18:45:34', 1, 'Q23988849'),
 (32264, 'Almajano', 1200, 'LE', 207, 'ES', '41.85095000', '-2.33830000', '2019-10-05 18:45:34', '2019-10-05 18:45:34', 1, 'Q829600'),
@@ -32765,7 +32765,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (32630, 'Baltar', 1167, 'GA', 207, 'ES', '41.95200000', '-7.71581000', '2019-10-05 18:45:36', '2019-10-05 18:45:36', 1, 'Q1646404'),
 (32631, 'Banastás', 1177, 'AR', 207, 'ES', '42.18089000', '-0.45191000', '2019-10-05 18:45:36', '2020-05-01 13:23:15', 1, 'Q2047646'),
 (32632, 'Bande', 1167, 'GA', 207, 'ES', '42.03120000', '-7.97489000', '2019-10-05 18:45:36', '2019-10-05 18:45:36', 1, 'Q2047646');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (32633, 'Banyalbufar', 1174, 'PM', 207, 'ES', '39.68734000', '2.51409000', '2019-10-05 18:45:36', '2019-10-05 18:45:36', 1, 'Q616408'),
 (32634, 'Banyoles', 1203, 'CT', 207, 'ES', '42.11667000', '2.76667000', '2019-10-05 18:45:36', '2019-10-05 18:45:36', 1, 'Q616408'),
 (32635, 'Baquerín de Campos', 1200, 'LE', 207, 'ES', '42.01600000', '-4.78185000', '2019-10-05 18:45:36', '2020-05-01 13:23:16', 1, 'Q1778120'),
@@ -33136,7 +33136,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (33000, 'Buenache de Alarcón', 1205, 'CM', 207, 'ES', '39.65000000', '-2.16667000', '2019-10-05 18:45:38', '2020-05-01 13:23:15', 1, 'Q1902599'),
 (33001, 'Buenamadre', 1200, 'LE', 207, 'ES', '40.85705000', '-6.24987000', '2019-10-05 18:45:38', '2019-10-05 18:45:38', 1, 'Q1650519'),
 (33002, 'Buenaventura', 1205, 'CM', 207, 'ES', '40.17705000', '-4.85003000', '2019-10-05 18:45:38', '2019-10-05 18:45:38', 1, 'Q1983162');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (33003, 'Buenavista', 1200, 'LE', 207, 'ES', '40.76763000', '-5.61139000', '2019-10-05 18:45:38', '2019-10-05 18:45:38', 1, 'Q2000956'),
 (33004, 'Buenavista de Valdavia', 1200, 'LE', 207, 'ES', '42.63788000', '-4.61446000', '2019-10-05 18:45:38', '2019-10-05 18:45:38', 1, 'Q1923852'),
 (33005, 'Buenavista del Norte', 1185, 'CN', 207, 'ES', '28.37458000', '-16.86098000', '2019-10-05 18:45:38', '2019-10-05 18:45:38', 1, 'Q594961'),
@@ -33501,7 +33501,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (33364, 'Casas de Guijarro', 1205, 'CM', 207, 'ES', '39.35000000', '-2.16667000', '2019-10-05 18:45:40', '2019-10-05 18:45:40', 1, 'Q1903489'),
 (33365, 'Casas de Haro', 1205, 'CM', 207, 'ES', '39.33355000', '-2.27273000', '2019-10-05 18:45:40', '2019-10-05 18:45:40', 1, 'Q1920004'),
 (33366, 'Casas de Juan Núñez', 1205, 'CM', 207, 'ES', '39.10190000', '-1.55821000', '2019-10-05 18:45:40', '2020-05-01 13:23:15', 1, 'Q574366');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (33367, 'Casas de Lázaro', 1205, 'CM', 207, 'ES', '38.77056000', '-2.24044000', '2019-10-05 18:45:40', '2020-05-01 13:23:15', 1, 'Q574370'),
 (33368, 'Casas de Millán', 1190, 'EX', 207, 'ES', '39.81757000', '-6.32966000', '2019-10-05 18:45:40', '2020-05-01 13:23:16', 1, 'Q1658755'),
 (33369, 'Casas de Miravete', 1190, 'EX', 207, 'ES', '39.72687000', '-5.74363000', '2019-10-05 18:45:40', '2019-10-05 18:45:40', 1, 'Q1645489'),
@@ -33864,7 +33864,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (33726, 'Colera', 1203, 'CT', 207, 'ES', '42.40394000', '3.15153000', '2019-10-05 18:45:42', '2019-10-05 18:45:42', 1, 'Q11296'),
 (33727, 'Coles', 1167, 'GA', 207, 'ES', '42.40000000', '-7.83333000', '2019-10-05 18:45:42', '2019-10-05 18:45:42', 1, 'Q1605474'),
 (33728, 'Colindres', 1170, 'S', 207, 'ES', '43.39667000', '-3.45361000', '2019-10-05 18:45:42', '2019-10-05 18:45:42', 1, 'Q1443892');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (33729, 'Coll d\'en Rabassa', 1174, 'PM', 207, 'ES', '39.55083000', '2.69468000', '2019-10-05 18:45:42', '2019-10-05 18:45:42', 1, 'Q1443892'),
 (33730, 'Coll de Nargó', 1203, 'CT', 207, 'ES', '42.17473000', '1.31694000', '2019-10-05 18:45:42', '2020-05-01 13:23:16', 1, 'Q1443892'),
 (33731, 'Collado', 1190, 'EX', 207, 'ES', '40.05729000', '-5.72052000', '2019-10-05 18:45:42', '2019-10-05 18:45:42', 1, 'Q1637534'),
@@ -34232,7 +34232,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (34093, 'Escurial de la Sierra', 1200, 'LE', 207, 'ES', '40.61731000', '-5.95520000', '2019-10-05 18:45:44', '2019-10-05 18:45:44', 1, 'Q1648441'),
 (34094, 'Escúzar', 1193, 'AN', 207, 'ES', '37.06219000', '-3.76126000', '2019-10-05 18:45:44', '2020-05-01 13:23:15', 1, 'Q559286'),
 (34095, 'Esgos', 1167, 'GA', 207, 'ES', '42.32549000', '-7.69691000', '2019-10-05 18:45:44', '2019-10-05 18:45:44', 1, 'Q559286');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (34096, 'Esguevillas de Esgueva', 1200, 'LE', 207, 'ES', '41.75018000', '-4.38062000', '2019-10-05 18:45:44', '2019-10-05 18:45:44', 1, 'Q614231'),
 (34097, 'Eskoriatza', 1191, 'PV', 207, 'ES', '43.01829000', '-2.52598000', '2019-10-05 18:45:44', '2019-10-05 18:45:44', 1, 'Q1633894'),
 (34098, 'Eskuernaga / Villabuena de Álava', 1191, 'PV', 207, 'ES', '42.54787000', '-2.66552000', '2019-10-05 18:45:44', '2020-05-01 13:23:15', 1, 'Q1633894'),
@@ -34598,7 +34598,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (34458, 'Gestalgar', 1175, 'VC', 207, 'ES', '39.60000000', '-0.83333000', '2019-10-05 18:45:48', '2019-10-05 18:45:48', 1, 'Q189848'),
 (34459, 'Getafe', 1158, 'MD', 207, 'ES', '40.30571000', '-3.73295000', '2019-10-05 18:45:48', '2019-10-05 18:45:48', 1, 'Q8802'),
 (34460, 'Getaria', 1191, 'PV', 207, 'ES', '43.30326000', '-2.20444000', '2019-10-05 18:45:48', '2019-10-05 18:45:48', 1, 'Q849330');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (34461, 'Getxo', 1191, 'PV', 207, 'ES', '43.35689000', '-3.01146000', '2019-10-05 18:45:48', '2019-10-05 18:45:48', 1, 'Q849330'),
 (34462, 'Gibraleón', 1193, 'AN', 207, 'ES', '37.37628000', '-6.96895000', '2019-10-05 18:45:48', '2020-05-01 13:23:15', 1, 'Q913215'),
 (34463, 'Gilena', 1193, 'AN', 207, 'ES', '37.25150000', '-4.91442000', '2019-10-05 18:45:48', '2019-10-05 18:45:48', 1, 'Q1448419'),
@@ -34967,7 +34967,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (34826, 'Jubrique', 1193, 'AN', 207, 'ES', '36.56475000', '-5.21560000', '2019-10-05 18:45:53', '2019-10-05 18:45:53', 1, 'Q1630392'),
 (34827, 'Juià', 1203, 'CT', 207, 'ES', '42.01667000', '2.91667000', '2019-10-05 18:45:53', '2020-05-01 13:23:16', 1, 'Q13432'),
 (34828, 'Jumilla', 1176, 'MC', 207, 'ES', '38.47917000', '-1.32500000', '2019-10-05 18:45:53', '2019-10-05 18:45:53', 1, 'Q917173');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (34829, 'Jun', 1193, 'AN', 207, 'ES', '37.22083000', '-3.59407000', '2019-10-05 18:45:53', '2019-10-05 18:45:53', 1, 'Q1751788'),
 (34830, 'Junciana', 1200, 'LE', 207, 'ES', '40.41076000', '-5.55698000', '2019-10-05 18:45:53', '2019-10-05 18:45:53', 1, 'Q1632758'),
 (34831, 'Juncosa', 1203, 'CT', 207, 'ES', '41.37033000', '0.77650000', '2019-10-05 18:45:53', '2019-10-05 18:45:53', 1, 'Q1902165'),
@@ -35335,7 +35335,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (35193, 'Madrigalejo del Monte', 1200, 'LE', 207, 'ES', '42.12442000', '-3.72509000', '2019-10-05 18:45:55', '2019-10-05 18:45:55', 1, 'Q1643642'),
 (35194, 'Madrigueras', 1205, 'CM', 207, 'ES', '39.23333000', '-1.80000000', '2019-10-05 18:45:55', '2019-10-05 18:45:55', 1, 'Q582891'),
 (35195, 'Madroñal', 1200, 'LE', 207, 'ES', '40.46407000', '-6.06271000', '2019-10-05 18:45:55', '2020-05-01 13:23:16', 1, 'Q582891');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (35196, 'Madroñera', 1190, 'EX', 207, 'ES', '39.42526000', '-5.75568000', '2019-10-05 18:45:55', '2020-05-01 13:23:16', 1, 'Q1613503'),
 (35197, 'Maella', 1177, 'AR', 207, 'ES', '41.12251000', '0.13926000', '2019-10-05 18:45:55', '2019-10-05 18:45:55', 1, 'Q956524'),
 (35198, 'Maello', 1200, 'LE', 207, 'ES', '40.80929000', '-4.51186000', '2019-10-05 18:45:55', '2019-10-05 18:45:55', 1, 'Q1606813'),
@@ -35702,7 +35702,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (35559, 'Montemayor de Pililla', 1200, 'LE', 207, 'ES', '41.50874000', '-4.45745000', '2019-10-05 18:45:58', '2019-10-05 18:45:58', 1, 'Q1606495'),
 (35560, 'Montemayor del Río', 1200, 'LE', 207, 'ES', '40.34836000', '-5.89427000', '2019-10-05 18:45:58', '2020-05-01 13:23:16', 1, 'Q1910888'),
 (35561, 'Montemolín', 1190, 'EX', 207, 'ES', '38.15000000', '-6.20000000', '2019-10-05 18:45:58', '2020-05-01 13:23:16', 1, 'Q1372801');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (35562, 'Montenegro de Cameros', 1200, 'LE', 207, 'ES', '42.08924000', '-2.75406000', '2019-10-05 18:45:58', '2019-10-05 18:45:58', 1, 'Q834963'),
 (35563, 'Monterde', 1177, 'AR', 207, 'ES', '41.17434000', '-1.73505000', '2019-10-05 18:45:58', '2019-10-05 18:45:58', 1, 'Q23994715'),
 (35564, 'Monterde de Albarracín', 1177, 'AR', 207, 'ES', '40.49708000', '-1.49216000', '2019-10-05 18:45:58', '2020-05-01 13:23:15', 1, 'Q1650883'),
@@ -36070,7 +36070,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (35926, 'Ontinyent', 1175, 'VC', 207, 'ES', '38.82191000', '-0.60603000', '2019-10-05 18:46:02', '2019-10-05 18:46:02', 1, 'Q587785'),
 (35927, 'Ontiñena', 1177, 'AR', 207, 'ES', '41.67663000', '0.08858000', '2019-10-05 18:46:02', '2020-05-01 13:23:15', 1, 'Q983644'),
 (35928, 'Ontur', 1205, 'CM', 207, 'ES', '38.61509000', '-1.49724000', '2019-10-05 18:46:02', '2019-10-05 18:46:02', 1, 'Q1614888');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (35929, 'Ontígola', 1205, 'CM', 207, 'ES', '40.00421000', '-3.57227000', '2019-10-05 18:46:02', '2020-05-01 13:23:15', 1, 'Q1610123'),
 (35930, 'Onzonilla', 1200, 'LE', 207, 'ES', '42.52435000', '-5.58160000', '2019-10-05 18:46:02', '2019-10-05 18:46:02', 1, 'Q780266'),
 (35931, 'Oquillas', 1200, 'LE', 207, 'ES', '41.83085000', '-3.70564000', '2019-10-05 18:46:02', '2019-10-05 18:46:02', 1, 'Q1607246'),
@@ -36438,7 +36438,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (36293, 'Portillo de Toledo', 1205, 'CM', 207, 'ES', '40.06415000', '-4.22793000', '2019-10-05 18:46:05', '2019-10-05 18:46:05', 1, 'Q1445321'),
 (36294, 'Porto', 1200, 'LE', 207, 'ES', '42.16737000', '-6.89934000', '2019-10-05 18:46:05', '2019-10-05 18:46:05', 1, 'Q1766511'),
 (36295, 'Porto Cristo', 1174, 'PM', 207, 'ES', '39.53953000', '3.33302000', '2019-10-05 18:46:05', '2019-10-05 18:46:05', 1, 'Q1766511');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (36296, 'Porto do Son', 1167, 'GA', 207, 'ES', '42.72482000', '-9.00527000', '2019-10-05 18:46:05', '2019-10-05 18:46:05', 1, 'Q1766511'),
 (36297, 'Portocolom', 1174, 'PM', 207, 'ES', '39.41589000', '3.25697000', '2019-10-05 18:46:05', '2019-10-05 18:46:05', 1, 'Q1766511'),
 (36298, 'Portomarín', 1167, 'GA', 207, 'ES', '42.80620000', '-7.61644000', '2019-10-05 18:46:05', '2020-05-01 13:23:16', 1, 'Q849319'),
@@ -36799,7 +36799,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (36653, 'Robledo', 1205, 'CM', 207, 'ES', '38.75807000', '-2.45042000', '2019-10-05 18:46:08', '2019-10-05 18:46:08', 1, 'Q1642754'),
 (36654, 'Robledo de Chavela', 1158, 'MD', 207, 'ES', '40.50062000', '-4.23635000', '2019-10-05 18:46:08', '2019-10-05 18:46:08', 1, 'Q24012696'),
 (36655, 'Robledo de Corpes', 1205, 'CM', 207, 'ES', '41.11838000', '-2.95000000', '2019-10-05 18:46:08', '2019-10-05 18:46:08', 1, 'Q1655883');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (36656, 'Robledollano', 1190, 'EX', 207, 'ES', '39.60962000', '-5.50855000', '2019-10-05 18:46:08', '2019-10-05 18:46:08', 1, 'Q730201'),
 (36657, 'Robliza de Cojos', 1200, 'LE', 207, 'ES', '40.86766000', '-5.97786000', '2019-10-05 18:46:08', '2019-10-05 18:46:08', 1, 'Q1767853'),
 (36658, 'Robres', 1177, 'AR', 207, 'ES', '41.86746000', '-0.46094000', '2019-10-05 18:46:08', '2019-10-05 18:46:08', 1, 'Q987412'),
@@ -37154,7 +37154,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (37007, 'Santa Brígida', 1185, 'CN', 207, 'ES', '28.03197000', '-15.50425000', '2019-10-05 18:46:11', '2020-05-01 13:23:15', 1, 'Q1630172'),
 (37008, 'Santa Bárbara', 1203, 'CT', 207, 'ES', '40.71542000', '0.49292000', '2019-10-05 18:46:11', '2020-05-01 13:23:16', 1, 'Q1630172'),
 (37009, 'Santa Bárbara de Casa', 1193, 'AN', 207, 'ES', '37.79665000', '-7.18735000', '2019-10-05 18:46:11', '2020-05-01 13:23:15', 1, 'Q1618178');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (37010, 'Santa Cecilia', 1200, 'LE', 207, 'ES', '42.05225000', '-3.80345000', '2019-10-05 18:46:11', '2019-10-05 18:46:11', 1, 'Q1618178'),
 (37011, 'Santa Cecilia del Alcor', 1200, 'LE', 207, 'ES', '41.93227000', '-4.65546000', '2019-10-05 18:46:11', '2019-10-05 18:46:11', 1, 'Q24012130'),
 (37012, 'Santa Cecília de Voltregà', 1203, 'CT', 207, 'ES', '42.00000000', '2.23333000', '2019-10-05 18:46:11', '2020-05-01 13:23:16', 1, 'Q24012130'),
@@ -37515,7 +37515,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (37367, 'Tamurejo', 1190, 'EX', 207, 'ES', '38.98333000', '-4.93333000', '2019-10-05 18:46:14', '2019-10-05 18:46:14', 1, 'Q1629497'),
 (37368, 'Tanque', 1185, 'CN', 207, 'ES', '28.36667000', '-16.83333000', '2019-10-05 18:46:14', '2019-10-05 18:46:14', 1, 'Q23979490'),
 (37369, 'Tapioles', 1200, 'LE', 207, 'ES', '41.85741000', '-5.49623000', '2019-10-05 18:46:14', '2019-10-05 18:46:14', 1, 'Q1766884');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (37370, 'Taradell', 1203, 'CT', 207, 'ES', '41.87495000', '2.28662000', '2019-10-05 18:46:14', '2019-10-05 18:46:14', 1, 'Q24013984'),
 (37371, 'Taragudo', 1205, 'CM', 207, 'ES', '40.82106000', '-3.07680000', '2019-10-05 18:46:14', '2019-10-05 18:46:14', 1, 'Q24013984'),
 (37372, 'Tarancón', 1205, 'CM', 207, 'ES', '40.00851000', '-3.00731000', '2019-10-05 18:46:14', '2020-05-01 13:23:15', 1, 'Q24011487'),
@@ -37883,7 +37883,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (37734, 'Valdeavellano de Tera', 1200, 'LE', 207, 'ES', '41.94229000', '-2.57634000', '2019-10-05 18:46:17', '2019-10-05 18:46:17', 1, 'Q833439'),
 (37735, 'Valdeavero', 1158, 'MD', 207, 'ES', '40.62980000', '-3.33001000', '2019-10-05 18:46:17', '2019-10-05 18:46:17', 1, 'Q1647110'),
 (37736, 'Valdeaveruelo', 1205, 'CM', 207, 'ES', '40.63473000', '-3.31367000', '2019-10-05 18:46:17', '2019-10-05 18:46:17', 1, 'Q1656917');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (37737, 'Valdecaballeros', 1190, 'EX', 207, 'ES', '39.24289000', '-5.19000000', '2019-10-05 18:46:17', '2019-10-05 18:46:17', 1, 'Q1614671'),
 (37738, 'Valdecarros', 1200, 'LE', 207, 'ES', '40.77007000', '-5.42219000', '2019-10-05 18:46:17', '2019-10-05 18:46:17', 1, 'Q1905277'),
 (37739, 'Valdecasa', 1200, 'LE', 207, 'ES', '40.65931000', '-5.01183000', '2019-10-05 18:46:17', '2019-10-05 18:46:17', 1, 'Q670740'),
@@ -38244,7 +38244,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (38094, 'Villalba de Perejil', 1177, 'AR', 207, 'ES', '41.32742000', '-1.54833000', '2019-10-05 18:46:20', '2019-10-05 18:46:20', 1, 'Q1650366'),
 (38095, 'Villalba de Rioja', 1171, 'RI', 207, 'ES', '42.60967000', '-2.88687000', '2019-10-05 18:46:20', '2019-10-05 18:46:20', 1, 'Q1646985'),
 (38096, 'Villalba de la Lampreana', 1200, 'LE', 207, 'ES', '41.74327000', '-5.64094000', '2019-10-05 18:46:20', '2019-10-05 18:46:20', 1, 'Q1769018');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (38097, 'Villalba de la Loma', 1200, 'LE', 207, 'ES', '42.17472000', '-5.19023000', '2019-10-05 18:46:20', '2019-10-05 18:46:20', 1, 'Q1907030'),
 (38098, 'Villalba de la Sierra', 1205, 'CM', 207, 'ES', '40.23437000', '-2.08929000', '2019-10-05 18:46:20', '2019-10-05 18:46:20', 1, 'Q1767420'),
 (38099, 'Villalba de los Alcores', 1200, 'LE', 207, 'ES', '41.86361000', '-4.86063000', '2019-10-05 18:46:20', '2019-10-05 18:46:20', 1, 'Q1907118'),
@@ -38599,7 +38599,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (38448, 'Zael', 1200, 'LE', 207, 'ES', '42.10587000', '-3.82623000', '2019-10-05 18:46:24', '2019-10-05 18:46:24', 1, 'Q1648378'),
 (38449, 'Zafarraya', 1193, 'AN', 207, 'ES', '36.97554000', '-4.14442000', '2019-10-05 18:46:24', '2019-10-05 18:46:24', 1, 'Q140149'),
 (38450, 'Zafra', 1190, 'EX', 207, 'ES', '38.42539000', '-6.41734000', '2019-10-05 18:46:24', '2019-10-05 18:46:24', 1, 'Q140203');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (38451, 'Zafra de Záncara', 1205, 'CM', 207, 'ES', '39.89203000', '-2.55786000', '2019-10-05 18:46:24', '2020-05-01 13:23:15', 1, 'Q1766301'),
 (38452, 'Zafrilla', 1205, 'CM', 207, 'ES', '40.20000000', '-1.61667000', '2019-10-05 18:46:24', '2019-10-05 18:46:24', 1, 'Q24011440'),
 (38453, 'Zagra', 1193, 'AN', 207, 'ES', '37.25561000', '-4.16905000', '2019-10-05 18:46:24', '2019-10-05 18:46:24', 1, 'Q619236'),
@@ -38977,7 +38977,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (38825, 'Karhula', 1512, '09', 74, 'FI', '60.52156000', '26.93125000', '2019-10-05 18:47:38', '2019-10-05 18:47:38', 1, 'Q2392663'),
 (38826, 'Karijoki', 1498, '03', 74, 'FI', '62.30851000', '21.70856000', '2019-10-05 18:47:38', '2019-10-05 18:47:38', 1, 'Q2392663'),
 (38827, 'Karinainen', 1507, '19', 74, 'FI', '60.66667000', '22.76667000', '2019-10-05 18:47:38', '2019-10-05 18:47:38', 1, 'Q910021');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (38828, 'Karis', 1510, '18', 74, 'FI', '60.07178000', '23.66163000', '2019-10-05 18:47:38', '2019-10-05 18:47:38', 1, 'Q990581'),
 (38829, 'Karjalohja', 1510, '18', 74, 'FI', '60.24015000', '23.71789000', '2019-10-05 18:47:38', '2019-10-05 18:47:38', 1, 'Q990572'),
 (38830, 'Karkkila', 1510, '18', 74, 'FI', '60.53418000', '24.20977000', '2019-10-05 18:47:38', '2019-10-05 18:47:38', 1, 'Q990572'),
@@ -39352,7 +39352,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (39199, 'Parem Municipality', 2580, 'TRK', 143, 'FM', '7.36200000', '151.78900000', '2019-10-05 18:47:39', '2019-10-05 18:47:39', 1, 'Q42751'),
 (39200, 'Piherarh Municipality', 2580, 'TRK', 143, 'FM', '8.56900000', '150.41800000', '2019-10-05 18:47:39', '2019-10-05 18:47:39', 1, 'Q42751'),
 (39201, 'Piis-Emwar Municipality', 2580, 'TRK', 143, 'FM', '6.83400000', '152.70000000', '2019-10-05 18:47:39', '2019-10-05 18:47:39', 1, 'Q42751');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (39202, 'Piis-Panewu Municipality', 2580, 'TRK', 143, 'FM', '7.67800000', '151.76340000', '2019-10-05 18:47:39', '2019-10-05 18:47:39', 1, 'Q42751'),
 (39203, 'Pingelap Municipality', 2581, 'PNI', 143, 'FM', '6.20908000', '160.71033000', '2019-10-05 18:47:40', '2019-10-05 18:47:40', 1, 'Q42751'),
 (39204, 'Pollap Municipality', 2580, 'TRK', 143, 'FM', '7.63971000', '149.43011000', '2019-10-05 18:47:40', '2019-10-05 18:47:40', 1, 'Q42751'),
@@ -39725,7 +39725,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (39571, 'Aubergenville', 4796, 'IDF', 75, 'FR', '48.95996000', '1.85467000', '2019-10-05 18:47:42', '2019-10-05 18:47:42', 1, 'Q687036'),
 (39572, 'Auberives-sur-Varèze', 4798, 'ARA', 75, 'FR', '45.42080000', '4.81914000', '2019-10-05 18:47:42', '2020-05-01 13:22:43', 1, 'Q687036'),
 (39573, 'Aubers', 4828, 'HDF', 75, 'FR', '50.59543000', '2.82666000', '2019-10-05 18:47:42', '2019-10-05 18:47:42', 1, 'Q664635');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (39574, 'Aubervilliers', 4796, 'IDF', 75, 'FR', '48.91667000', '2.38333000', '2019-10-05 18:47:42', '2019-10-05 18:47:42', 1, 'Q205632'),
 (39575, 'Aubevoye', 4804, 'NOR', 75, 'FR', '49.17097000', '1.33537000', '2019-10-05 18:47:42', '2019-10-05 18:47:42', 1, 'Q205632'),
 (39576, 'Aubie-et-Espessas', 4795, 'NAQ', 75, 'FR', '45.01869000', '-0.40297000', '2019-10-05 18:47:42', '2019-10-05 18:47:42', 1, 'Q181421'),
@@ -40097,7 +40097,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (39942, 'Benquet', 4795, 'NAQ', 75, 'FR', '43.82992000', '-0.50102000', '2019-10-05 18:47:44', '2019-10-05 18:47:44', 1, 'Q223902'),
 (39943, 'Berck', 4828, 'HDF', 75, 'FR', '50.40000000', '1.60000000', '2019-10-05 18:47:44', '2019-10-05 18:47:44', 1, 'Q223902'),
 (39944, 'Berck-Plage', 4828, 'HDF', 75, 'FR', '50.40704000', '1.56446000', '2019-10-05 18:47:44', '2019-10-05 18:47:44', 1, 'Q223902');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (39945, 'Bergerac', 4795, 'NAQ', 75, 'FR', '44.85118000', '0.48200000', '2019-10-05 18:47:44', '2019-10-05 18:47:44', 1, 'Q187911'),
 (39946, 'Bergheim', 4820, 'GES', 75, 'FR', '48.20540000', '7.36299000', '2019-10-05 18:47:44', '2019-10-05 18:47:44', 1, 'Q187911'),
 (39947, 'Bergholtz', 4820, 'GES', 75, 'FR', '47.91670000', '7.24651000', '2019-10-05 18:47:44', '2019-10-05 18:47:44', 1, 'Q187911'),
@@ -40469,7 +40469,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (40313, 'Brignoles', 4812, 'PAC', 75, 'FR', '43.40580000', '6.06172000', '2019-10-05 18:47:47', '2019-10-05 18:47:47', 1, 'Q207584'),
 (40314, 'Brigueuil', 4795, 'NAQ', 75, 'FR', '45.95337000', '0.86065000', '2019-10-05 18:47:47', '2019-10-05 18:47:47', 1, 'Q1344187'),
 (40315, 'Briis-sous-Forges', 4796, 'IDF', 75, 'FR', '48.62399000', '2.12112000', '2019-10-05 18:47:47', '2019-10-05 18:47:47', 1, 'Q247783');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (40316, 'Brindas', 4798, 'ARA', 75, 'FR', '45.72111000', '4.69349000', '2019-10-05 18:47:47', '2019-10-05 18:47:47', 1, 'Q247783'),
 (40317, 'Brinon-sur-Sauldre', 4818, 'CVL', 75, 'FR', '47.56600000', '2.25647000', '2019-10-05 18:47:47', '2019-10-05 18:47:47', 1, 'Q1139908'),
 (40318, 'Briollay', 4802, 'PDL', 75, 'FR', '47.56478000', '-0.50681000', '2019-10-05 18:47:47', '2019-10-05 18:47:47', 1, 'Q665680'),
@@ -40841,7 +40841,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (40684, 'Chalabre', 4799, 'OCC', 75, 'FR', '42.98248000', '2.00538000', '2019-10-05 18:47:51', '2019-10-05 18:47:51', 1, 'Q375005'),
 (40685, 'Chalais', 4795, 'NAQ', 75, 'FR', '45.27338000', '0.03880000', '2019-10-05 18:47:51', '2019-10-05 18:47:51', 1, 'Q34791357'),
 (40686, 'Chalamont', 4798, 'ARA', 75, 'FR', '45.99734000', '5.16865000', '2019-10-05 18:47:51', '2019-10-05 18:47:51', 1, 'Q34791357');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (40687, 'Chalampé', 4820, 'GES', 75, 'FR', '47.82019000', '7.54113000', '2019-10-05 18:47:51', '2020-05-01 13:22:44', 1, 'Q458753'),
 (40688, 'Chaleins', 4798, 'ARA', 75, 'FR', '46.03165000', '4.80789000', '2019-10-05 18:47:51', '2019-10-05 18:47:51', 1, 'Q458753'),
 (40689, 'Chalifert', 4796, 'IDF', 75, 'FR', '48.88993000', '2.77339000', '2019-10-05 18:47:51', '2019-10-05 18:47:51', 1, 'Q1422122'),
@@ -41208,7 +41208,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (41050, 'Clermont-en-Argonne', 4820, 'GES', 75, 'FR', '49.10711000', '5.07002000', '2019-10-05 18:47:54', '2019-10-05 18:47:54', 1, 'Q1365831'),
 (41051, 'Clerval', 4825, 'BFC', 75, 'FR', '47.39167000', '6.49925000', '2019-10-05 18:47:54', '2019-10-05 18:47:54', 1, 'Q1365831'),
 (41052, 'Clichy', 4796, 'IDF', 75, 'FR', '48.90018000', '2.30952000', '2019-10-05 18:47:54', '2019-10-05 18:47:54', 1, 'Q1365831');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (41053, 'Clichy-sous-Bois', 4796, 'IDF', 75, 'FR', '48.91020000', '2.55323000', '2019-10-05 18:47:54', '2019-10-05 18:47:54', 1, 'Q206931'),
 (41054, 'Clinchamps-sur-Orne', 4804, 'NOR', 75, 'FR', '49.07857000', '-0.40156000', '2019-10-05 18:47:54', '2019-10-05 18:47:54', 1, 'Q232056'),
 (41055, 'Clion', 4818, 'CVL', 75, 'FR', '46.94085000', '1.23214000', '2019-10-05 18:47:54', '2019-10-05 18:47:54', 1, 'Q232056'),
@@ -41580,7 +41580,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (41421, 'Dampierre-les-Bois', 4825, 'BFC', 75, 'FR', '47.50639000', '6.91279000', '2019-10-05 18:47:58', '2019-10-05 18:47:58', 1, 'Q34800225'),
 (41422, 'Dampierre-sur-Salon', 4825, 'BFC', 75, 'FR', '47.55719000', '5.67970000', '2019-10-05 18:47:58', '2019-10-05 18:47:58', 1, 'Q34800225'),
 (41423, 'Dampmart', 4796, 'IDF', 75, 'FR', '48.88854000', '2.74095000', '2019-10-05 18:47:58', '2019-10-05 18:47:58', 1, 'Q34800225');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (41424, 'Damprichard', 4825, 'BFC', 75, 'FR', '47.24413000', '6.88121000', '2019-10-05 18:47:58', '2019-10-05 18:47:58', 1, 'Q34800225'),
 (41425, 'Damville', 4804, 'NOR', 75, 'FR', '48.86930000', '1.07458000', '2019-10-05 18:47:58', '2019-10-05 18:47:58', 1, 'Q34800225'),
 (41426, 'Dangé-Saint-Romain', 4795, 'NAQ', 75, 'FR', '46.93333000', '0.60000000', '2019-10-05 18:47:58', '2020-05-01 13:22:45', 1, 'Q1147040'),
@@ -41951,7 +41951,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (41791, 'Fegersheim', 4820, 'GES', 75, 'FR', '48.49016000', '7.68107000', '2019-10-05 18:48:01', '2019-10-05 18:48:01', 1, 'Q687823'),
 (41792, 'Feignies', 4828, 'HDF', 75, 'FR', '50.29806000', '3.91534000', '2019-10-05 18:48:01', '2019-10-05 18:48:01', 1, 'Q640887'),
 (41793, 'Feigères', 4798, 'ARA', 75, 'FR', '46.11228000', '6.07937000', '2019-10-05 18:48:01', '2020-05-01 13:22:43', 1, 'Q640887');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (41794, 'Feillens', 4798, 'ARA', 75, 'FR', '46.33426000', '4.89146000', '2019-10-05 18:48:01', '2019-10-05 18:48:01', 1, 'Q640887'),
 (41795, 'Fellering', 4820, 'GES', 75, 'FR', '47.89659000', '6.98552000', '2019-10-05 18:48:01', '2019-10-05 18:48:01', 1, 'Q640887'),
 (41796, 'Felletin', 4795, 'NAQ', 75, 'FR', '45.88333000', '2.17431000', '2019-10-05 18:48:01', '2019-10-05 18:48:01', 1, 'Q201165'),
@@ -42325,7 +42325,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (42164, 'Gradignan', 4795, 'NAQ', 75, 'FR', '44.77262000', '-0.61393000', '2019-10-05 18:48:05', '2019-10-05 18:48:05', 1, 'Q234769'),
 (42165, 'Gragnague', 4799, 'OCC', 75, 'FR', '43.68091000', '1.58461000', '2019-10-05 18:48:05', '2019-10-05 18:48:05', 1, 'Q234769'),
 (42166, 'Grainville-la-Teinturière', 4804, 'NOR', 75, 'FR', '49.74773000', '0.64048000', '2019-10-05 18:48:05', '2020-05-01 13:22:45', 1, 'Q234769');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (42167, 'Grainville-sur-Odon', 4804, 'NOR', 75, 'FR', '49.13936000', '-0.53046000', '2019-10-05 18:48:05', '2019-10-05 18:48:05', 1, 'Q234769'),
 (42168, 'Gramat', 4799, 'OCC', 75, 'FR', '44.78075000', '1.71957000', '2019-10-05 18:48:05', '2019-10-05 18:48:05', 1, 'Q430834'),
 (42169, 'Grambois', 4812, 'PAC', 75, 'FR', '43.76233000', '5.58860000', '2019-10-05 18:48:05', '2019-10-05 18:48:05', 1, 'Q623883'),
@@ -42701,7 +42701,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (42539, 'Jasseron', 4798, 'ARA', 75, 'FR', '46.21316000', '5.32579000', '2019-10-05 18:48:12', '2019-10-05 18:48:12', 1, 'Q244528'),
 (42540, 'Jaujac', 4798, 'ARA', 75, 'FR', '44.63695000', '4.25638000', '2019-10-05 18:48:12', '2019-10-05 18:48:12', 1, 'Q391145'),
 (42541, 'Jaunay-Clan', 4795, 'NAQ', 75, 'FR', '46.68453000', '0.37128000', '2019-10-05 18:48:13', '2019-10-05 18:48:13', 1, 'Q1436738');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (42542, 'Jausiers', 4812, 'PAC', 75, 'FR', '44.41705000', '6.72947000', '2019-10-05 18:48:13', '2019-10-05 18:48:13', 1, 'Q217065'),
 (42543, 'Jaux', 4828, 'HDF', 75, 'FR', '49.39120000', '2.77809000', '2019-10-05 18:48:13', '2019-10-05 18:48:13', 1, 'Q1337566'),
 (42544, 'Javené', 4807, 'BRE', 75, 'FR', '48.31933000', '-1.21630000', '2019-10-05 18:48:13', '2020-05-01 13:22:44', 1, 'Q677386'),
@@ -43063,7 +43063,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (42900, 'La Tronche', 4798, 'ARA', 75, 'FR', '45.20507000', '5.74629000', '2019-10-05 18:48:21', '2019-10-05 18:48:21', 1, 'Q1017260'),
 (42901, 'La Turballe', 4802, 'PDL', 75, 'FR', '47.34686000', '-2.50734000', '2019-10-05 18:48:21', '2019-10-05 18:48:21', 1, 'Q35709767'),
 (42902, 'La Turbie', 4812, 'PAC', 75, 'FR', '43.74540000', '7.40046000', '2019-10-05 18:48:21', '2019-10-05 18:48:21', 1, 'Q244709');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (42903, 'La Valbarelle', 4812, 'PAC', 75, 'FR', '43.28494000', '5.45387000', '2019-10-05 18:48:21', '2019-10-05 18:48:21', 1, 'Q244709'),
 (42904, 'La Valentine', 4812, 'PAC', 75, 'FR', '43.29757000', '5.48432000', '2019-10-05 18:48:21', '2019-10-05 18:48:21', 1, 'Q244709'),
 (42905, 'La Valette-du-Var', 4812, 'PAC', 75, 'FR', '43.13763000', '5.98317000', '2019-10-05 18:48:21', '2019-10-05 18:48:21', 1, 'Q244709'),
@@ -43431,7 +43431,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (43267, 'Le Plessis-Macé', 4802, 'PDL', 75, 'FR', '47.54304000', '-0.67436000', '2019-10-05 18:48:24', '2020-05-01 13:22:46', 1, 'Q1418743'),
 (43268, 'Le Plessis-Pâté', 4796, 'IDF', 75, 'FR', '48.61078000', '2.32318000', '2019-10-05 18:48:24', '2020-05-01 13:22:43', 1, 'Q266060'),
 (43269, 'Le Plessis-Robinson', 4796, 'IDF', 75, 'FR', '48.78889000', '2.27078000', '2019-10-05 18:48:24', '2019-10-05 18:48:24', 1, 'Q259107');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (43270, 'Le Plessis-Trévise', 4796, 'IDF', 75, 'FR', '48.81074000', '2.57363000', '2019-10-05 18:48:24', '2020-05-01 13:22:43', 1, 'Q259352'),
 (43271, 'Le Poinçonnet', 4818, 'CVL', 75, 'FR', '46.76410000', '1.71790000', '2019-10-05 18:48:24', '2020-05-01 13:22:44', 1, 'Q1061591'),
 (43272, 'Le Poiré-sur-Vie', 4802, 'PDL', 75, 'FR', '46.76921000', '-1.50938000', '2019-10-05 18:48:24', '2020-05-01 13:22:46', 1, 'Q35714175'),
@@ -43801,7 +43801,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (43636, 'Lucinges', 4798, 'ARA', 75, 'FR', '46.19181000', '6.31511000', '2019-10-05 18:48:27', '2019-10-05 18:48:27', 1, 'Q735739'),
 (43637, 'Lucq-de-Béarn', 4795, 'NAQ', 75, 'FR', '43.30000000', '-0.66667000', '2019-10-05 18:48:27', '2020-05-01 13:22:45', 1, 'Q35720739'),
 (43638, 'Lucé', 4818, 'CVL', 75, 'FR', '48.43689000', '1.46359000', '2019-10-05 18:48:27', '2020-05-01 13:22:44', 1, 'Q35720739');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (43639, 'Lucéram', 4812, 'PAC', 75, 'FR', '43.88293000', '7.35988000', '2019-10-05 18:48:27', '2020-05-01 13:22:46', 1, 'Q866296'),
 (43640, 'Ludon-Médoc', 4795, 'NAQ', 75, 'FR', '44.98118000', '-0.60254000', '2019-10-05 18:48:27', '2020-05-01 13:22:45', 1, 'Q175512'),
 (43641, 'Ludres', 4820, 'GES', 75, 'FR', '48.62032000', '6.16747000', '2019-10-05 18:48:27', '2019-10-05 18:48:27', 1, 'Q175512'),
@@ -44172,7 +44172,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (44006, 'Menthon-Saint-Bernard', 4798, 'ARA', 75, 'FR', '45.85995000', '6.19552000', '2019-10-05 18:48:30', '2019-10-05 18:48:30', 1, 'Q1076815'),
 (44007, 'Menton', 4812, 'PAC', 75, 'FR', '43.77649000', '7.50435000', '2019-10-05 18:48:30', '2019-10-05 18:48:30', 1, 'Q180083'),
 (44008, 'Menucourt', 4796, 'IDF', 75, 'FR', '49.02841000', '1.98046000', '2019-10-05 18:48:30', '2019-10-05 18:48:30', 1, 'Q598679');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (44009, 'Mer', 4818, 'CVL', 75, 'FR', '47.70555000', '1.50621000', '2019-10-05 18:48:30', '2019-10-05 18:48:30', 1, 'Q598679'),
 (44010, 'Mercurey', 4825, 'BFC', 75, 'FR', '46.84035000', '4.71743000', '2019-10-05 18:48:30', '2019-10-05 18:48:30', 1, 'Q819279'),
 (44011, 'Mercurol-Veaunes', 4798, 'ARA', 75, 'FR', '45.07437000', '4.89279000', '2019-10-05 18:48:30', '2019-10-05 18:48:30', 1, 'Q819279'),
@@ -44541,7 +44541,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (44374, 'Morteau', 4825, 'BFC', 75, 'FR', '47.05784000', '6.60716000', '2019-10-05 18:48:33', '2019-10-05 18:48:33', 1, 'Q200832'),
 (44375, 'Mortrée', 4804, 'NOR', 75, 'FR', '48.63899000', '0.07909000', '2019-10-05 18:48:33', '2020-05-01 13:22:45', 1, 'Q200832'),
 (44376, 'Morvillars', 4825, 'BFC', 75, 'FR', '47.54854000', '6.93450000', '2019-10-05 18:48:33', '2019-10-05 18:48:33', 1, 'Q200832');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (44377, 'Morzine', 4798, 'ARA', 75, 'FR', '46.18149000', '6.70664000', '2019-10-05 18:48:33', '2019-10-05 18:48:33', 1, 'Q472179'),
 (44378, 'Moréac', 4807, 'BRE', 75, 'FR', '47.91967000', '-2.81934000', '2019-10-05 18:48:33', '2020-05-01 13:22:44', 1, 'Q35734136'),
 (44379, 'Morée', 4818, 'CVL', 75, 'FR', '47.90397000', '1.23421000', '2019-10-05 18:48:33', '2020-05-01 13:22:44', 1, 'Q35734136'),
@@ -44912,7 +44912,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (44744, 'Onnaing', 4828, 'HDF', 75, 'FR', '50.38584000', '3.59963000', '2019-10-05 18:48:36', '2019-10-05 18:48:36', 1, 'Q208407'),
 (44745, 'Ons-en-Bray', 4828, 'HDF', 75, 'FR', '49.41631000', '1.92302000', '2019-10-05 18:48:36', '2019-10-05 18:48:36', 1, 'Q818291'),
 (44746, 'Onzain', 4818, 'CVL', 75, 'FR', '47.49956000', '1.17701000', '2019-10-05 18:48:36', '2019-10-05 18:48:36', 1, 'Q752907');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (44747, 'Opio', 4812, 'PAC', 75, 'FR', '43.66862000', '6.98212000', '2019-10-05 18:48:36', '2019-10-05 18:48:36', 1, 'Q752907'),
 (44748, 'Oppède le Vieux', 4812, 'PAC', 75, 'FR', '43.82844000', '5.16132000', '2019-10-05 18:48:36', '2020-05-01 13:22:46', 1, 'Q625964'),
 (44749, 'Opéra', 4812, 'PAC', 75, 'FR', '43.29401000', '5.37610000', '2019-10-05 18:48:36', '2020-05-01 13:22:46', 1, 'Q625964'),
@@ -45286,7 +45286,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (45117, 'Plédran', 4807, 'BRE', 75, 'FR', '48.44600000', '-2.74667000', '2019-10-05 18:48:39', '2020-05-01 13:22:44', 1, 'Q456818'),
 (45118, 'Plédéliac', 4807, 'BRE', 75, 'FR', '48.45000000', '-2.38333000', '2019-10-05 18:48:39', '2020-05-01 13:22:44', 1, 'Q1013479'),
 (45119, 'Pléguien', 4807, 'BRE', 75, 'FR', '48.63525000', '-2.94001000', '2019-10-05 18:48:39', '2020-05-01 13:22:44', 1, 'Q1013479');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (45120, 'Pléhédel', 4807, 'BRE', 75, 'FR', '48.69645000', '-3.00833000', '2019-10-05 18:48:39', '2020-05-01 13:22:44', 1, 'Q1013479'),
 (45121, 'Plélan-le-Grand', 4807, 'BRE', 75, 'FR', '48.00124000', '-2.09914000', '2019-10-05 18:48:39', '2020-05-01 13:22:44', 1, 'Q1011325'),
 (45122, 'Plélan-le-Petit', 4807, 'BRE', 75, 'FR', '48.43157000', '-2.21740000', '2019-10-05 18:48:39', '2020-05-01 13:22:44', 1, 'Q742008'),
@@ -45658,7 +45658,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (45488, 'Riantec', 4807, 'BRE', 75, 'FR', '47.71093000', '-3.31629000', '2019-10-05 18:48:43', '2019-10-05 18:48:43', 1, 'Q128885'),
 (45489, 'Ribaute-les-Tavernes', 4799, 'OCC', 75, 'FR', '44.03724000', '4.08046000', '2019-10-05 18:48:43', '2019-10-05 18:48:43', 1, 'Q128885'),
 (45490, 'Ribeauvillé', 4820, 'GES', 75, 'FR', '48.19510000', '7.31938000', '2019-10-05 18:48:43', '2020-05-01 13:22:45', 1, 'Q148483');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (45491, 'Ribemont', 4828, 'HDF', 75, 'FR', '49.79540000', '3.45893000', '2019-10-05 18:48:43', '2019-10-05 18:48:43', 1, 'Q326373'),
 (45492, 'Ribérac', 4795, 'NAQ', 75, 'FR', '45.25000000', '0.33333000', '2019-10-05 18:48:43', '2020-05-01 13:22:46', 1, 'Q471581'),
 (45493, 'Richardménil', 4820, 'GES', 75, 'FR', '48.59334000', '6.16917000', '2019-10-05 18:48:43', '2020-05-01 13:22:45', 1, 'Q471581'),
@@ -46024,7 +46024,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (45853, 'Saint-Christol', 4799, 'OCC', 75, 'FR', '43.72805000', '4.07991000', '2019-10-05 18:48:47', '2019-10-05 18:48:47', 1, 'Q1148151'),
 (45854, 'Saint-Christol-lès-Alès', 4799, 'OCC', 75, 'FR', '44.08256000', '4.07506000', '2019-10-05 18:48:47', '2020-05-01 13:22:46', 1, 'Q1148151'),
 (45855, 'Saint-Christoly-de-Blaye', 4795, 'NAQ', 75, 'FR', '45.13179000', '-0.50760000', '2019-10-05 18:48:47', '2019-10-05 18:48:47', 1, 'Q1148151');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (45856, 'Saint-Christophe-Vallon', 4799, 'OCC', 75, 'FR', '44.47072000', '2.41184000', '2019-10-05 18:48:47', '2019-10-05 18:48:47', 1, 'Q1148151'),
 (45857, 'Saint-Christophe-du-Bois', 4802, 'PDL', 75, 'FR', '47.03012000', '-0.94441000', '2019-10-05 18:48:47', '2019-10-05 18:48:47', 1, 'Q541620'),
 (45858, 'Saint-Christophe-du-Ligneron', 4802, 'PDL', 75, 'FR', '46.82478000', '-1.76586000', '2019-10-05 18:48:47', '2019-10-05 18:48:47', 1, 'Q818200'),
@@ -46373,7 +46373,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (46201, 'Saint-Loup-sur-Semouse', 4825, 'BFC', 75, 'FR', '47.88345000', '6.27530000', '2019-10-05 18:48:51', '2019-10-05 18:48:51', 1, 'Q901506'),
 (46202, 'Saint-Lubin-des-Joncherets', 4818, 'CVL', 75, 'FR', '48.76667000', '1.21667000', '2019-10-05 18:48:51', '2019-10-05 18:48:51', 1, 'Q1138805'),
 (46203, 'Saint-Lumine-de-Clisson', 4802, 'PDL', 75, 'FR', '47.08413000', '-1.33524000', '2019-10-05 18:48:51', '2019-10-05 18:48:51', 1, 'Q1065508');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (46204, 'Saint-Lumine-de-Coutais', 4802, 'PDL', 75, 'FR', '47.05399000', '-1.72777000', '2019-10-05 18:48:51', '2019-10-05 18:48:51', 1, 'Q1165078'),
 (46205, 'Saint-Lunaire', 4807, 'BRE', 75, 'FR', '48.63811000', '-2.11392000', '2019-10-05 18:48:51', '2019-10-05 18:48:51', 1, 'Q1011112'),
 (46206, 'Saint-Lupicin', 4825, 'BFC', 75, 'FR', '46.40034000', '5.79220000', '2019-10-05 18:48:51', '2019-10-05 18:48:51', 1, 'Q1011112'),
@@ -46722,7 +46722,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (46549, 'Saint-Sernin-du-Bois', 4825, 'BFC', 75, 'FR', '46.84074000', '4.43271000', '2019-10-05 18:48:58', '2019-10-05 18:48:58', 1, 'Q675839'),
 (46550, 'Saint-Seurin-sur-l’Isle', 4795, 'NAQ', 75, 'FR', '45.01667000', '0.00000000', '2019-10-05 18:48:58', '2020-05-01 13:22:46', 1, 'Q675839'),
 (46551, 'Saint-Sever', 4795, 'NAQ', 75, 'FR', '43.75727000', '-0.57357000', '2019-10-05 18:48:58', '2019-10-05 18:48:58', 1, 'Q1019173');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (46552, 'Saint-Sever-Calvados', 4804, 'NOR', 75, 'FR', '48.84035000', '-1.04773000', '2019-10-05 18:48:58', '2019-10-05 18:48:58', 1, 'Q845115'),
 (46553, 'Saint-Simon', 4798, 'ARA', 75, 'FR', '44.96320000', '2.48994000', '2019-10-05 18:48:58', '2019-10-05 18:48:58', 1, 'Q264298'),
 (46554, 'Saint-Siméon-de-Bressieux', 4798, 'ARA', 75, 'FR', '45.33850000', '5.26591000', '2019-10-05 18:48:58', '2020-05-01 13:22:43', 1, 'Q264298'),
@@ -47083,7 +47083,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (46909, 'Seboncourt', 4828, 'HDF', 75, 'FR', '49.95273000', '3.47586000', '2019-10-05 18:49:01', '2019-10-05 18:49:01', 1, 'Q1439932'),
 (46910, 'Sebourg', 4828, 'HDF', 75, 'FR', '50.34249000', '3.64352000', '2019-10-05 18:49:01', '2019-10-05 18:49:01', 1, 'Q817366'),
 (46911, 'Seclin', 4828, 'HDF', 75, 'FR', '50.54873000', '3.02731000', '2019-10-05 18:49:01', '2019-10-05 18:49:01', 1, 'Q630627');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (46912, 'Secondigny', 4795, 'NAQ', 75, 'FR', '46.61024000', '-0.41679000', '2019-10-05 18:49:01', '2019-10-05 18:49:01', 1, 'Q630627'),
 (46913, 'Sedan', 4820, 'GES', 75, 'FR', '49.70187000', '4.94028000', '2019-10-05 18:49:01', '2019-10-05 18:49:01', 1, 'Q184371'),
 (46914, 'Segonzac', 4795, 'NAQ', 75, 'FR', '45.61667000', '-0.21667000', '2019-10-05 18:49:01', '2019-10-05 18:49:01', 1, 'Q184371'),
@@ -47458,7 +47458,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (47283, 'Tillières-sur-Avre', 4804, 'NOR', 75, 'FR', '48.75585000', '1.05388000', '2019-10-05 18:49:05', '2020-05-01 13:22:45', 1, 'Q330899'),
 (47284, 'Tilloy-lès-Mofflaines', 4828, 'HDF', 75, 'FR', '50.27519000', '2.81456000', '2019-10-05 18:49:05', '2020-05-01 13:22:45', 1, 'Q330899'),
 (47285, 'Tilly-sur-Seulles', 4804, 'NOR', 75, 'FR', '49.17598000', '-0.62605000', '2019-10-05 18:49:05', '2019-10-05 18:49:05', 1, 'Q331551');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (47286, 'Tillé', 4828, 'HDF', 75, 'FR', '49.46415000', '2.11038000', '2019-10-05 18:49:05', '2020-05-01 13:22:45', 1, 'Q331551'),
 (47287, 'Tilques', 4828, 'HDF', 75, 'FR', '50.77712000', '2.19948000', '2019-10-05 18:49:05', '2019-10-05 18:49:05', 1, 'Q331551'),
 (47288, 'Tinchebray', 4804, 'NOR', 75, 'FR', '48.76437000', '-0.73333000', '2019-10-05 18:49:05', '2019-10-05 18:49:05', 1, 'Q1115228'),
@@ -47832,7 +47832,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (47656, 'Veyrier-du-Lac', 4798, 'ARA', 75, 'FR', '45.88234000', '6.17709000', '2019-10-05 18:49:09', '2019-10-05 18:49:09', 1, 'Q470679'),
 (47657, 'Vezin-le-Coquet', 4807, 'BRE', 75, 'FR', '48.11857000', '-1.75466000', '2019-10-05 18:49:09', '2019-10-05 18:49:09', 1, 'Q470679'),
 (47658, 'Vezins', 4802, 'PDL', 75, 'FR', '47.12015000', '-0.70971000', '2019-10-05 18:49:09', '2019-10-05 18:49:09', 1, 'Q470679');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (47659, 'Vianne', 4795, 'NAQ', 75, 'FR', '44.19658000', '0.32104000', '2019-10-05 18:49:09', '2019-10-05 18:49:09', 1, 'Q224677'),
 (47660, 'Viarmes', 4796, 'IDF', 75, 'FR', '49.13082000', '2.37074000', '2019-10-05 18:49:09', '2019-10-05 18:49:09', 1, 'Q1624841'),
 (47661, 'Vias', 4799, 'OCC', 75, 'FR', '43.31156000', '3.41774000', '2019-10-05 18:49:09', '2019-10-05 18:49:09', 1, 'Q1624841'),
@@ -48202,7 +48202,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (48025, 'Zegerscappel', 4828, 'HDF', 75, 'FR', '50.88333000', '2.40000000', '2019-10-05 18:49:13', '2019-10-05 18:49:13', 1, 'Q594021'),
 (48026, 'Zillisheim', 4820, 'GES', 75, 'FR', '47.69604000', '7.29736000', '2019-10-05 18:49:13', '2019-10-05 18:49:13', 1, 'Q203238'),
 (48027, 'Zimmersheim', 4820, 'GES', 75, 'FR', '47.72079000', '7.38847000', '2019-10-05 18:49:13', '2019-10-05 18:49:13', 1, 'Q203238');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (48028, 'Zonza', 4806, 'COR', 75, 'FR', '41.74934000', '9.17082000', '2019-10-05 18:49:13', '2019-10-05 18:49:13', 1, 'Q964272'),
 (48029, 'Zutkerque', 4828, 'HDF', 75, 'FR', '50.85303000', '2.06818000', '2019-10-05 18:49:13', '2019-10-05 18:49:13', 1, 'Q964272'),
 (48030, 'Zuydcoote', 4828, 'HDF', 75, 'FR', '51.06096000', '2.49338000', '2019-10-05 18:49:13', '2019-10-05 18:49:13', 1, 'Q231180'),
@@ -48375,7 +48375,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (48197, 'Addlestone', 2336, 'ENG', 232, 'GB', '51.37135000', '-0.49353000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q353307'),
 (48198, 'Adlington', 2336, 'ENG', 232, 'GB', '53.61323000', '-2.60676000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q2293656'),
 (48199, 'Adwick le Street', 2336, 'ENG', 232, 'GB', '53.57077000', '-1.18454000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q3605914'),
-(48200, 'Ahoghill', 2522, 'NYK', 232, 'GB', '54.86667000', '-6.36667000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q1082441'),
+(48200, 'Ahoghill', 2337, 'NYK', 232, 'GB', '54.86667000', '-6.36667000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q1082441'),
 (48201, 'Airdrie', 2335, 'SCT', 232, 'GB', '55.86602000', '-3.98025000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q408536'),
 (48202, 'Airmyn', 2336, 'ENG', 232, 'GB', '53.72074000', '-0.89959000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q2075602'),
 (48203, 'Airth', 2335, 'SCT', 232, 'GB', '56.06983000', '-3.77209000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q1012333'),
@@ -48428,14 +48428,14 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (48250, 'Anglesey', 2338, 'WLS', 232, 'GB', '53.25000000', '-4.33333000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q492805'),
 (48251, 'Angus', 2335, 'SCT', 232, 'GB', '56.66667000', '-2.91667000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q202177'),
 (48252, 'Anna Valley', 2336, 'ENG', 232, 'GB', '51.19317000', '-1.50719000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q4767578'),
-(48253, 'Annahilt', 2522, 'NYK', 232, 'GB', '54.43333000', '-6.00000000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q149542'),
-(48254, 'Annalong', 2522, 'NYK', 232, 'GB', '54.10823000', '-5.89966000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q60776'),
+(48253, 'Annahilt', 2337, 'NYK', 232, 'GB', '54.43333000', '-6.00000000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q149542'),
+(48254, 'Annalong', 2337, 'NYK', 232, 'GB', '54.10823000', '-5.89966000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q60776'),
 (48255, 'Annan', 2335, 'SCT', 232, 'GB', '54.98839000', '-3.25647000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q564495'),
 (48256, 'Annfield Plain', 2336, 'ENG', 232, 'GB', '54.85749000', '-1.73827000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q4769155'),
 (48257, 'Anstey', 2336, 'ENG', 232, 'GB', '52.67368000', '-1.18841000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q1613213'),
 (48258, 'Anstruther', 2335, 'SCT', 232, 'GB', '56.22315000', '-2.70229000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q570401'),
-(48259, 'Antrim', 2522, 'NYK', 232, 'GB', '54.70000000', '-6.20000000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q609235'),
-(48260, 'Antrim and Newtownabbey', 2522, 'NYK', 232, 'GB', '54.70177000', '-6.19770000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q609235'),
+(48259, 'Antrim', 2337, 'NYK', 232, 'GB', '54.70000000', '-6.20000000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q609235'),
+(48260, 'Antrim and Newtownabbey', 2337, 'NYK', 232, 'GB', '54.70177000', '-6.19770000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q609235'),
 (48261, 'Appleby', 2336, 'ENG', 232, 'GB', '53.62198000', '-0.56612000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q4781302'),
 (48262, 'Appleby-in-Westmorland', 2336, 'ENG', 232, 'GB', '54.57704000', '-2.48978000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q621540'),
 (48263, 'Appledore', 2336, 'ENG', 232, 'GB', '51.05000000', '-4.20000000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q1229094'),
@@ -48444,16 +48444,16 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (48266, 'Arbroath', 2335, 'SCT', 232, 'GB', '56.56317000', '-2.58736000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q630668'),
 (48267, 'Archway', 2336, 'ENG', 232, 'GB', '51.56733000', '-0.13415000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q630668'),
 (48268, 'Ardersier', 2335, 'SCT', 232, 'GB', '57.56681000', '-4.03784000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q1011351'),
-(48269, 'Ardglass', 2522, 'NYK', 232, 'GB', '54.26312000', '-5.60981000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q639255'),
+(48269, 'Ardglass', 2337, 'NYK', 232, 'GB', '54.26312000', '-5.60981000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q639255'),
 (48270, 'Ardingly', 2336, 'ENG', 232, 'GB', '51.04865000', '-0.07716000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q639397'),
 (48271, 'Ardrishaig', 2335, 'SCT', 232, 'GB', '56.01566000', '-5.44806000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q640035'),
 (48272, 'Ardrossan', 2335, 'SCT', 232, 'GB', '55.65018000', '-4.80659000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q640073'),
-(48273, 'Ards and North Down', 2522, 'NYK', 232, 'GB', '54.53439000', '-5.62947000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q640073'),
+(48273, 'Ards and North Down', 2337, 'NYK', 232, 'GB', '54.53439000', '-5.62947000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q640073'),
 (48274, 'Argyll and Bute', 2335, 'SCT', 232, 'GB', '56.03693000', '-5.43679000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q202174'),
 (48275, 'Arlesey', 2336, 'ENG', 232, 'GB', '52.00713000', '-0.26565000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q777460'),
 (48276, 'Armadale', 2335, 'SCT', 232, 'GB', '55.88333000', '-3.70000000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q2706897'),
-(48277, 'Armagh', 2522, 'NYK', 232, 'GB', '54.35000000', '-6.66667000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q193452'),
-(48278, 'Armagh City Banbridge and Craigavon', 2522, 'NYK', 232, 'GB', '54.36922000', '-6.45651000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q193452'),
+(48277, 'Armagh', 2337, 'NYK', 232, 'GB', '54.35000000', '-6.66667000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q193452'),
+(48278, 'Armagh City Banbridge and Craigavon', 2337, 'NYK', 232, 'GB', '54.36922000', '-6.45651000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q193452'),
 (48279, 'Armitage', 2336, 'ENG', 232, 'GB', '52.74193000', '-1.88266000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q4793618'),
 (48280, 'Armthorpe', 2336, 'ENG', 232, 'GB', '53.53518000', '-1.05341000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q2339006'),
 (48281, 'Arnold', 2336, 'ENG', 232, 'GB', '53.00000000', '-1.13333000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q694780'),
@@ -48522,31 +48522,31 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (48344, 'Balfron', 2335, 'SCT', 232, 'GB', '56.06809000', '-4.33559000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q1010220'),
 (48345, 'Balintore', 2335, 'SCT', 232, 'GB', '57.75564000', '-3.91232000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q1886025'),
 (48346, 'Ballater', 2335, 'SCT', 232, 'GB', '57.05011000', '-3.03798000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q805175'),
-(48347, 'Ballinamallard', 2522, 'NYK', 232, 'GB', '54.40000000', '-7.58333000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q2514196'),
+(48347, 'Ballinamallard', 2337, 'NYK', 232, 'GB', '54.40000000', '-7.58333000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q2514196'),
 (48348, 'Ballingry', 2335, 'SCT', 232, 'GB', '56.16392000', '-3.32841000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q1012304'),
-(48349, 'Ballintoy Harbour', 2522, 'NYK', 232, 'GB', '55.24422000', '-6.36919000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q1012304'),
+(48349, 'Ballintoy Harbour', 2337, 'NYK', 232, 'GB', '55.24422000', '-6.36919000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q1012304'),
 (48350, 'Balloch', 2335, 'SCT', 232, 'GB', '56.00000000', '-4.58333000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q805302'),
-(48351, 'Ballycastle', 2522, 'NYK', 232, 'GB', '55.20444000', '-6.24298000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q805405'),
-(48352, 'Ballyclare', 2522, 'NYK', 232, 'GB', '54.75089000', '-5.99944000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q805403'),
-(48353, 'Ballygowan', 2522, 'NYK', 232, 'GB', '54.50165000', '-5.79168000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q116772'),
-(48354, 'Ballykelly', 2522, 'NYK', 232, 'GB', '55.04425000', '-7.01855000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q575071'),
-(48355, 'Ballymena', 2522, 'NYK', 232, 'GB', '54.86357000', '-6.27628000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q805451'),
-(48356, 'Ballymoney', 2522, 'NYK', 232, 'GB', '55.07080000', '-6.51009000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q805450'),
-(48357, 'Ballynahinch', 2522, 'NYK', 232, 'GB', '54.40230000', '-5.89717000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q58125'),
-(48358, 'Ballypatrick', 2522, 'NYK', 232, 'GB', '55.18112000', '-6.15020000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q58125'),
-(48359, 'Ballywalter', 2522, 'NYK', 232, 'GB', '54.54329000', '-5.48475000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q149569'),
+(48351, 'Ballycastle', 2337, 'NYK', 232, 'GB', '55.20444000', '-6.24298000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q805405'),
+(48352, 'Ballyclare', 2337, 'NYK', 232, 'GB', '54.75089000', '-5.99944000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q805403'),
+(48353, 'Ballygowan', 2337, 'NYK', 232, 'GB', '54.50165000', '-5.79168000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q116772'),
+(48354, 'Ballykelly', 2337, 'NYK', 232, 'GB', '55.04425000', '-7.01855000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q575071'),
+(48355, 'Ballymena', 2337, 'NYK', 232, 'GB', '54.86357000', '-6.27628000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q805451'),
+(48356, 'Ballymoney', 2337, 'NYK', 232, 'GB', '55.07080000', '-6.51009000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q805450'),
+(48357, 'Ballynahinch', 2337, 'NYK', 232, 'GB', '54.40230000', '-5.89717000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q58125'),
+(48358, 'Ballypatrick', 2337, 'NYK', 232, 'GB', '55.18112000', '-6.15020000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q58125'),
+(48359, 'Ballywalter', 2337, 'NYK', 232, 'GB', '54.54329000', '-5.48475000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q149569'),
 (48360, 'Balmedie', 2335, 'SCT', 232, 'GB', '57.25052000', '-2.06163000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q805468'),
 (48361, 'Balmullo', 2335, 'SCT', 232, 'GB', '56.37694000', '-2.92940000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q955711'),
 (48362, 'Balsall Common', 2336, 'ENG', 232, 'GB', '52.39186000', '-1.65040000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q3633504'),
 (48363, 'Balsham', 2336, 'ENG', 232, 'GB', '52.13238000', '0.31586000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q4852574'),
 (48364, 'Bamburgh', 2336, 'ENG', 232, 'GB', '55.60652000', '-1.71704000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q805983'),
 (48365, 'Bampton', 2336, 'ENG', 232, 'GB', '51.72634000', '-1.54547000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q2012293'),
-(48366, 'Banbridge', 2522, 'NYK', 232, 'GB', '54.35000000', '-6.28333000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q58270'),
+(48366, 'Banbridge', 2337, 'NYK', 232, 'GB', '54.35000000', '-6.28333000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q58270'),
 (48367, 'Banbury', 2336, 'ENG', 232, 'GB', '52.06320000', '-1.34222000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q806160'),
 (48368, 'Banchory', 2335, 'SCT', 232, 'GB', '57.05168000', '-2.48824000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q806177'),
 (48369, 'Banff', 2335, 'SCT', 232, 'GB', '57.66477000', '-2.52964000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q54809'),
 (48370, 'Bangor', 2338, 'WLS', 232, 'GB', '53.22752000', '-4.12936000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q234178'),
-(48371, 'Bangor', 2522, 'NYK', 232, 'GB', '54.65338000', '-5.66895000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q806551'),
+(48371, 'Bangor', 2337, 'NYK', 232, 'GB', '54.65338000', '-5.66895000', '2019-10-05 18:49:15', '2021-01-23 10:35:23', 1, 'Q806551'),
 (48372, 'Banham', 2336, 'ENG', 232, 'GB', '52.45240000', '1.03683000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q2700979'),
 (48373, 'Bankfoot', 2335, 'SCT', 232, 'GB', '56.50058000', '-3.51707000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q1013600'),
 (48374, 'Banknock', 2335, 'SCT', 232, 'GB', '55.98967000', '-3.95611000', '2019-10-05 18:49:15', '2019-10-05 18:49:15', 1, 'Q1013600'),
@@ -48575,7 +48575,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (48397, 'Barnet', 2336, 'ENG', 232, 'GB', '51.65000000', '-0.20000000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q2786745'),
 (48398, 'Barnetby le Wold', 2336, 'ENG', 232, 'GB', '53.57480000', '-0.40607000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q602355'),
 (48399, 'Barnham', 2336, 'ENG', 232, 'GB', '50.83120000', '-0.63789000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q962567');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (48400, 'Barnoldswick', 2336, 'ENG', 232, 'GB', '53.91711000', '-2.18705000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q2049578'),
 (48401, 'Barnsbury', 2336, 'ENG', 232, 'GB', '51.54067000', '-0.11675000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q2049578'),
 (48402, 'Barnsley', 2336, 'ENG', 232, 'GB', '53.53333000', '-1.50000000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q1857382'),
@@ -48634,9 +48634,9 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (48455, 'Beighton', 2336, 'ENG', 232, 'GB', '53.33333000', '-1.33333000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q56660379'),
 (48456, 'Beith', 2335, 'SCT', 232, 'GB', '55.74923000', '-4.63680000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q1013620'),
 (48457, 'Belbroughton', 2336, 'ENG', 232, 'GB', '52.39177000', '-2.11884000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q2268622'),
-(48458, 'Belfast', 2522, 'NYK', 232, 'GB', '54.59682000', '-5.92541000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q10686'),
+(48458, 'Belfast', 2337, 'NYK', 232, 'GB', '54.59682000', '-5.92541000', '2019-10-05 18:49:16', '2021-01-23 10:35:23', 1, 'Q10686'),
 (48459, 'Belford', 2336, 'ENG', 232, 'GB', '55.60000000', '-1.83333000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q1617115'),
-(48460, 'Bellaghy', 2522, 'NYK', 232, 'GB', '54.80870000', '-6.51918000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q619278'),
+(48460, 'Bellaghy', 2337, 'NYK', 232, 'GB', '54.80870000', '-6.51918000', '2019-10-05 18:49:16', '2021-01-23 10:35:23', 1, 'Q619278'),
 (48461, 'Bellingham', 2336, 'ENG', 232, 'GB', '55.14464000', '-2.25383000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q451687'),
 (48462, 'Bellsbank', 2335, 'SCT', 232, 'GB', '55.31310000', '-4.39869000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q451687'),
 (48463, 'Bellshill', 2335, 'SCT', 232, 'GB', '55.81667000', '-4.01667000', '2019-10-05 18:49:16', '2019-10-05 18:49:16', 1, 'Q680984'),
@@ -48904,7 +48904,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (48725, 'Broseley', 2336, 'ENG', 232, 'GB', '52.61321000', '-2.48269000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q267054'),
 (48726, 'Brotton', 2336, 'ENG', 232, 'GB', '54.56661000', '-0.93929000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q1622799'),
 (48727, 'Brough', 2336, 'ENG', 232, 'GB', '53.72861000', '-0.57215000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q990921'),
-(48728, 'Broughshane', 2522, 'NYK', 232, 'GB', '54.89260000', '-6.20899000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q990932'),
+(48728, 'Broughshane', 2337, 'NYK', 232, 'GB', '54.89260000', '-6.20899000', '2019-10-05 18:52:51', '2021-01-23 10:35:23', 1, 'Q990932'),
 (48729, 'Broughton', 2336, 'ENG', 232, 'GB', '53.56667000', '-0.55000000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q1612226'),
 (48730, 'Broughton', 2338, 'WLS', 232, 'GB', '53.16303000', '-2.99309000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q990946'),
 (48731, 'Broughton Astley', 2336, 'ENG', 232, 'GB', '52.52787000', '-1.21768000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q3645408'),
@@ -48944,7 +48944,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (48765, 'Burford', 2336, 'ENG', 232, 'GB', '51.80915000', '-1.63628000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q2019274'),
 (48766, 'Burgess Hill', 2336, 'ENG', 232, 'GB', '50.95843000', '-0.13287000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q1014934'),
 (48767, 'Burgh le Marsh', 2336, 'ENG', 232, 'GB', '53.16158000', '0.24484000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q1612150');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (48768, 'Burghead', 2335, 'SCT', 232, 'GB', '57.70113000', '-3.48992000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q1013606'),
 (48769, 'Burham', 2336, 'ENG', 232, 'GB', '51.33243000', '0.47833000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q2294985'),
 (48770, 'Burley', 2336, 'ENG', 232, 'GB', '50.82800000', '-1.69977000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q3195509'),
@@ -48979,7 +48979,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (48799, 'Bury St Edmunds', 2336, 'ENG', 232, 'GB', '52.24630000', '0.71111000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q764754'),
 (48800, 'Busby', 2335, 'SCT', 232, 'GB', '55.77995000', '-4.27711000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q5001296'),
 (48801, 'Bushey', 2336, 'ENG', 232, 'GB', '51.64316000', '-0.36053000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q10996'),
-(48802, 'Bushmills', 2522, 'NYK', 232, 'GB', '55.20493000', '-6.51918000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q611570'),
+(48802, 'Bushmills', 2337, 'NYK', 232, 'GB', '55.20493000', '-6.51918000', '2019-10-05 18:52:51', '2021-01-23 10:35:23', 1, 'Q611570'),
 (48803, 'Butterwick', 2336, 'ENG', 232, 'GB', '52.98333000', '0.06667000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q2297897'),
 (48804, 'Buxted', 2336, 'ENG', 232, 'GB', '50.99003000', '0.13441000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q2596952'),
 (48805, 'Buxton', 2336, 'ENG', 232, 'GB', '53.25741000', '-1.90982000', '2019-10-05 18:52:51', '2019-10-05 18:52:51', 1, 'Q971223'),
@@ -49043,14 +49043,14 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (48863, 'Carmarthenshire', 2338, 'WLS', 232, 'GB', '51.83333000', '-4.16667000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q217840'),
 (48864, 'Carmunnock', 2335, 'SCT', 232, 'GB', '55.79062000', '-4.23584000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q217840'),
 (48865, 'Carnforth', 2336, 'ENG', 232, 'GB', '54.13163000', '-2.76914000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q578024'),
-(48866, 'Carnlough', 2522, 'NYK', 232, 'GB', '54.99185000', '-5.99038000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1570525'),
-(48867, 'Carnmoney', 2522, 'NYK', 232, 'GB', '54.68333000', '-5.95000000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1570525'),
+(48866, 'Carnlough', 2337, 'NYK', 232, 'GB', '54.99185000', '-5.99038000', '2019-10-05 18:52:52', '2021-01-23 10:35:23', 1, 'Q1570525'),
+(48867, 'Carnmoney', 2337, 'NYK', 232, 'GB', '54.68333000', '-5.95000000', '2019-10-05 18:52:52', '2021-01-23 10:35:23', 1, 'Q1570525'),
 (48868, 'Carnoustie', 2335, 'SCT', 232, 'GB', '56.50263000', '-2.70530000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1012395'),
 (48869, 'Carnwath', 2335, 'SCT', 232, 'GB', '55.70036000', '-3.62579000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1011368'),
-(48870, 'Carrickfergus', 2522, 'NYK', 232, 'GB', '54.71580000', '-5.80580000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1020354'),
+(48870, 'Carrickfergus', 2337, 'NYK', 232, 'GB', '54.71580000', '-5.80580000', '2019-10-05 18:52:52', '2021-01-23 10:35:23', 1, 'Q1020354'),
 (48871, 'Carron', 2335, 'SCT', 232, 'GB', '56.02611000', '-3.79251000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1020354'),
 (48872, 'Carronshore', 2335, 'SCT', 232, 'GB', '56.03146000', '-3.78290000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q5046689'),
-(48873, 'Carryduff', 2522, 'NYK', 232, 'GB', '54.51799000', '-5.88713000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q2398355'),
+(48873, 'Carryduff', 2337, 'NYK', 232, 'GB', '54.51799000', '-5.88713000', '2019-10-05 18:52:52', '2021-01-23 10:35:23', 1, 'Q2398355'),
 (48874, 'Carshalton', 2336, 'ENG', 232, 'GB', '51.36829000', '-0.16755000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q2398355'),
 (48875, 'Carterton', 2336, 'ENG', 232, 'GB', '51.75905000', '-1.59435000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q2462636'),
 (48876, 'Castle Cary', 2336, 'ENG', 232, 'GB', '51.09000000', '-2.51417000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1235842'),
@@ -49058,13 +49058,13 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (48878, 'Castle Douglas', 2335, 'SCT', 232, 'GB', '54.94095000', '-3.92784000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1012300'),
 (48879, 'Castle Hedingham', 2336, 'ENG', 232, 'GB', '51.99015000', '0.59882000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1007856'),
 (48880, 'Castle Vale', 2336, 'ENG', 232, 'GB', '52.51879000', '-1.79683000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1007856'),
-(48881, 'Castledawson', 2522, 'NYK', 232, 'GB', '54.77723000', '-6.56227000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q853324'),
-(48882, 'Castlederg', 2522, 'NYK', 232, 'GB', '54.70699000', '-7.59336000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q3544113'),
+(48881, 'Castledawson', 2337, 'NYK', 232, 'GB', '54.77723000', '-6.56227000', '2019-10-05 18:52:52', '2021-01-23 10:35:23', 1, 'Q853324'),
+(48882, 'Castlederg', 2337, 'NYK', 232, 'GB', '54.70699000', '-7.59336000', '2019-10-05 18:52:52', '2021-01-23 10:35:23', 1, 'Q3544113'),
 (48883, 'Castleford', 2336, 'ENG', 232, 'GB', '53.72587000', '-1.36256000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q546485'),
-(48884, 'Castlereagh', 2522, 'NYK', 232, 'GB', '54.57350000', '-5.88472000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q546485'),
-(48885, 'Castlerock', 2522, 'NYK', 232, 'GB', '55.15000000', '-6.78333000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q619264'),
+(48884, 'Castlereagh', 2337, 'NYK', 232, 'GB', '54.57350000', '-5.88472000', '2019-10-05 18:52:52', '2021-01-23 10:35:23', 1, 'Q546485'),
+(48885, 'Castlerock', 2337, 'NYK', 232, 'GB', '55.15000000', '-6.78333000', '2019-10-05 18:52:52', '2021-01-23 10:35:23', 1, 'Q619264'),
 (48886, 'Castleside', 2336, 'ENG', 232, 'GB', '54.83429000', '-1.87849000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q569922'),
-(48887, 'Castlewellan', 2522, 'NYK', 232, 'GB', '54.25690000', '-5.94446000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q58126'),
+(48887, 'Castlewellan', 2337, 'NYK', 232, 'GB', '54.25690000', '-5.94446000', '2019-10-05 18:52:52', '2021-01-23 10:35:23', 1, 'Q58126'),
 (48888, 'Castor', 2336, 'ENG', 232, 'GB', '52.57319000', '-0.34603000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q2311667'),
 (48889, 'Catcliffe', 2336, 'ENG', 232, 'GB', '53.39316000', '-1.36207000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1852245'),
 (48890, 'Caterham', 2336, 'ENG', 232, 'GB', '51.28230000', '-0.07889000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1996975'),
@@ -49073,7 +49073,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (48893, 'Catterall', 2336, 'ENG', 232, 'GB', '53.87965000', '-2.76478000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1051336'),
 (48894, 'Catterick', 2336, 'ENG', 232, 'GB', '54.37542000', '-1.63328000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1024102'),
 (48895, 'Catterick Garrison', 2336, 'ENG', 232, 'GB', '54.37748000', '-1.72232000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q386087'),
-(48896, 'Causeway Coast and Glens', 2522, 'NYK', 232, 'GB', '55.06014000', '-6.59081000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q386087'),
+(48896, 'Causeway Coast and Glens', 2337, 'NYK', 232, 'GB', '55.06014000', '-6.59081000', '2019-10-05 18:52:52', '2021-01-23 10:35:23', 1, 'Q386087'),
 (48897, 'Cawood', 2336, 'ENG', 232, 'GB', '53.83303000', '-1.12962000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1815597'),
 (48898, 'Cawston', 2336, 'ENG', 232, 'GB', '52.76667000', '1.16667000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q1820102'),
 (48899, 'Cawthorne', 2336, 'ENG', 232, 'GB', '53.56687000', '-1.57259000', '2019-10-05 18:52:52', '2019-10-05 18:52:52', 1, 'Q5055245'),
@@ -49183,7 +49183,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49003, 'City and Borough of Salford', 2336, 'ENG', 232, 'GB', '53.50000000', '-2.33333000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1142118'),
 (49004, 'City and Borough of Wakefield', 2336, 'ENG', 232, 'GB', '53.68085000', '-1.49895000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q763171'),
 (49005, 'City and County of Swansea', 2338, 'WLS', 232, 'GB', '51.58333000', '-4.00000000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q10996863'),
-(49006, 'City of Belfast', 2522, 'NYK', 232, 'GB', '54.58333000', '-5.91667000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q10996863'),
+(49006, 'City of Belfast', 2337, 'NYK', 232, 'GB', '54.58333000', '-5.91667000', '2019-10-05 18:52:53', '2021-01-23 10:35:23', 1, 'Q10996863'),
 (49007, 'City of Bristol', 2336, 'ENG', 232, 'GB', '51.45000000', '-2.60000000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q21693433'),
 (49008, 'City of Edinburgh', 2335, 'SCT', 232, 'GB', '55.94973000', '-3.19333000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2379199'),
 (49009, 'City of Kingston upon Hull', 2336, 'ENG', 232, 'GB', '53.75000000', '-0.33333000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q21885987'),
@@ -49222,7 +49222,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49042, 'Clydach', 2338, 'WLS', 232, 'GB', '51.68333000', '-3.90000000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2098144'),
 (49043, 'Clydebank', 2335, 'SCT', 232, 'GB', '55.90137000', '-4.40570000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q996502'),
 (49044, 'Coalburn', 2335, 'SCT', 232, 'GB', '55.59295000', '-3.88637000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1013260'),
-(49045, 'Coalisland', 2522, 'NYK', 232, 'GB', '54.54180000', '-6.70166000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2503992'),
+(49045, 'Coalisland', 2337, 'NYK', 232, 'GB', '54.54180000', '-6.70166000', '2019-10-05 18:52:53', '2021-01-23 10:35:23', 1, 'Q2503992'),
 (49046, 'Coaltown of Balgonie', 2335, 'SCT', 232, 'GB', '56.18474000', '-3.12578000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2503992'),
 (49047, 'Coalville', 2336, 'ENG', 232, 'GB', '52.72247000', '-1.37020000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q955589'),
 (49048, 'Coatbridge', 2335, 'SCT', 232, 'GB', '55.86216000', '-4.02469000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1018723'),
@@ -49244,7 +49244,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49064, 'Colden Common', 2336, 'ENG', 232, 'GB', '50.99483000', '-1.31143000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2020511'),
 (49065, 'Coldstream', 2335, 'SCT', 232, 'GB', '55.65111000', '-2.25295000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1018874'),
 (49066, 'Coleford', 2336, 'ENG', 232, 'GB', '51.79535000', '-2.61354000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q747798'),
-(49067, 'Coleraine', 2522, 'NYK', 232, 'GB', '55.13333000', '-6.66667000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1108185'),
+(49067, 'Coleraine', 2337, 'NYK', 232, 'GB', '55.13333000', '-6.66667000', '2019-10-05 18:52:53', '2021-01-23 10:35:23', 1, 'Q1108185'),
 (49068, 'Colerne', 2336, 'ENG', 232, 'GB', '51.43833000', '-2.26280000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2530698'),
 (49069, 'Colinton', 2335, 'SCT', 232, 'GB', '55.90739000', '-3.25609000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2530698'),
 (49070, 'Collier Row', 2336, 'ENG', 232, 'GB', '51.59893000', '0.16600000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2530698'),
@@ -49258,7 +49258,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49078, 'Colwyn Bay', 2338, 'WLS', 232, 'GB', '53.29483000', '-3.72674000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q527467'),
 (49079, 'Colyton', 2336, 'ENG', 232, 'GB', '50.74006000', '-3.07021000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1113106'),
 (49080, 'Combe Martin', 2336, 'ENG', 232, 'GB', '51.19873000', '-4.02343000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1225823'),
-(49081, 'Comber', 2522, 'NYK', 232, 'GB', '54.54937000', '-5.74379000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q116787'),
+(49081, 'Comber', 2337, 'NYK', 232, 'GB', '54.54937000', '-5.74379000', '2019-10-05 18:52:53', '2021-01-23 10:35:23', 1, 'Q116787'),
 (49082, 'Comberton', 2336, 'ENG', 232, 'GB', '52.18709000', '0.01905000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2854248'),
 (49083, 'Compton', 2336, 'ENG', 232, 'GB', '51.02385000', '-1.33713000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q24651806'),
 (49084, 'Compton Martin', 2336, 'ENG', 232, 'GB', '51.31056000', '-2.65528000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2311927'),
@@ -49267,13 +49267,13 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49087, 'Congresbury', 2336, 'ENG', 232, 'GB', '51.37135000', '-2.81018000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1975999'),
 (49088, 'Coningsby', 2336, 'ENG', 232, 'GB', '53.10598000', '-0.17595000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2008682'),
 (49089, 'Conisbrough', 2336, 'ENG', 232, 'GB', '53.48188000', '-1.23214000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2734822'),
-(49090, 'Connor', 2522, 'NYK', 232, 'GB', '54.80000000', '-6.20000000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2734822'),
+(49090, 'Connor', 2337, 'NYK', 232, 'GB', '54.80000000', '-6.20000000', '2019-10-05 18:52:53', '2021-01-23 10:35:23', 1, 'Q2734822'),
 (49091, 'Conon Bridge', 2335, 'SCT', 232, 'GB', '57.56630000', '-4.43678000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1013733'),
 (49092, 'Consett', 2336, 'ENG', 232, 'GB', '54.85404000', '-1.83160000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2080364'),
 (49093, 'Conwy', 2338, 'WLS', 232, 'GB', '53.08333000', '-3.75000000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q817971'),
 (49094, 'Cookham', 2336, 'ENG', 232, 'GB', '51.55936000', '-0.70810000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1129607'),
 (49095, 'Cookley', 2336, 'ENG', 232, 'GB', '52.31667000', '1.45000000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q3544583'),
-(49096, 'Cookstown', 2522, 'NYK', 232, 'GB', '54.64305000', '-6.74595000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1129639'),
+(49096, 'Cookstown', 2337, 'NYK', 232, 'GB', '54.64305000', '-6.74595000', '2019-10-05 18:52:53', '2021-01-23 10:35:23', 1, 'Q1129639'),
 (49097, 'Cople', 2336, 'ENG', 232, 'GB', '52.12342000', '-0.38933000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1520369'),
 (49098, 'Copmanthorpe', 2336, 'ENG', 232, 'GB', '53.91419000', '-1.14209000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q4657176'),
 (49099, 'Copplestone', 2336, 'ENG', 232, 'GB', '50.81073000', '-3.74607000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q3542966'),
@@ -49311,13 +49311,13 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49131, 'Cowes', 2336, 'ENG', 232, 'GB', '50.76306000', '-1.29772000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q587996'),
 (49132, 'Cowfold', 2336, 'ENG', 232, 'GB', '50.98945000', '-0.27243000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2465956'),
 (49133, 'Cowie', 2335, 'SCT', 232, 'GB', '56.07974000', '-3.86753000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1138204');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (49134, 'Cowley', 2336, 'ENG', 232, 'GB', '51.73213000', '-1.20631000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1953777'),
 (49135, 'Cowplain', 2336, 'ENG', 232, 'GB', '50.89411000', '-1.01824000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q5179814'),
 (49136, 'Coxhoe', 2336, 'ENG', 232, 'GB', '54.71475000', '-1.50356000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2245757'),
 (49137, 'Coylton', 2335, 'SCT', 232, 'GB', '55.44528000', '-4.51950000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1011801'),
 (49138, 'Cradley Heath', 2336, 'ENG', 232, 'GB', '52.47214000', '-2.08212000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q3001983'),
-(49139, 'Craigavon', 2522, 'NYK', 232, 'GB', '54.44709000', '-6.38700000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1004085'),
+(49139, 'Craigavon', 2337, 'NYK', 232, 'GB', '54.44709000', '-6.38700000', '2019-10-05 18:52:53', '2021-01-23 10:35:23', 1, 'Q1004085'),
 (49140, 'Crail', 2335, 'SCT', 232, 'GB', '56.26042000', '-2.62676000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1010416'),
 (49141, 'Cramlington', 2336, 'ENG', 232, 'GB', '55.08652000', '-1.58598000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q918787'),
 (49142, 'Cranbrook', 2336, 'ENG', 232, 'GB', '51.09662000', '0.53567000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2160826'),
@@ -49353,10 +49353,10 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49172, 'Cross Hands', 2338, 'WLS', 232, 'GB', '51.79306000', '-4.08750000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1351146'),
 (49173, 'Cross Hills', 2336, 'ENG', 232, 'GB', '53.90606000', '-1.98492000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q5188314'),
 (49174, 'Crossford', 2335, 'SCT', 232, 'GB', '56.06303000', '-3.49674000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q3698674'),
-(49175, 'Crossgar', 2522, 'NYK', 232, 'GB', '54.39675000', '-5.76061000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q2656965'),
+(49175, 'Crossgar', 2337, 'NYK', 232, 'GB', '54.39675000', '-5.76061000', '2019-10-05 18:52:53', '2021-01-23 10:35:23', 1, 'Q2656965'),
 (49176, 'Crossgates', 2335, 'SCT', 232, 'GB', '56.08366000', '-3.37712000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q5188613'),
 (49177, 'Crosshouse', 2335, 'SCT', 232, 'GB', '55.61258000', '-4.55091000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q996516'),
-(49178, 'Crossmaglen', 2522, 'NYK', 232, 'GB', '54.08333000', '-6.60000000', '2019-10-05 18:52:53', '2019-10-05 18:52:53', 1, 'Q1838543'),
+(49178, 'Crossmaglen', 2337, 'NYK', 232, 'GB', '54.08333000', '-6.60000000', '2019-10-05 18:52:53', '2021-01-23 10:35:23', 1, 'Q1838543'),
 (49179, 'Croston', 2336, 'ENG', 232, 'GB', '53.66217000', '-2.77523000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q3226959'),
 (49180, 'Crouch End', 2336, 'ENG', 232, 'GB', '51.57971000', '-0.12373000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q3226959'),
 (49181, 'Crowborough', 2336, 'ENG', 232, 'GB', '51.06098000', '0.16342000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q179259'),
@@ -49366,7 +49366,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49185, 'Croy', 2335, 'SCT', 232, 'GB', '55.96064000', '-4.03932000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1833112'),
 (49186, 'Croydon', 2336, 'ENG', 232, 'GB', '51.38333000', '-0.10000000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2213391'),
 (49187, 'Cruden Bay', 2335, 'SCT', 232, 'GB', '57.41797000', '-1.85313000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1012006'),
-(49188, 'Crumlin', 2522, 'NYK', 232, 'GB', '54.62054000', '-6.21414000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2053639'),
+(49188, 'Crumlin', 2337, 'NYK', 232, 'GB', '54.62054000', '-6.21414000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q2053639'),
 (49189, 'Crumlin', 2338, 'WLS', 232, 'GB', '51.67778000', '-3.13528000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q3404679'),
 (49190, 'Crumpsall', 2336, 'ENG', 232, 'GB', '53.51827000', '-2.24447000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2341373'),
 (49191, 'Crymych', 2338, 'WLS', 232, 'GB', '51.97361000', '-4.64722000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q3460580'),
@@ -49380,8 +49380,8 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49199, 'Cullingworth', 2336, 'ENG', 232, 'GB', '53.82444000', '-1.89730000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q3362593'),
 (49200, 'Culloden', 2335, 'SCT', 232, 'GB', '57.48699000', '-4.14150000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q3362593'),
 (49201, 'Cullompton', 2336, 'ENG', 232, 'GB', '50.85530000', '-3.39268000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q668275'),
-(49202, 'Cullybackey', 2522, 'NYK', 232, 'GB', '54.88875000', '-6.34701000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1570557'),
-(49203, 'Culmore', 2522, 'NYK', 232, 'GB', '55.05000000', '-7.26667000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q702848'),
+(49202, 'Cullybackey', 2337, 'NYK', 232, 'GB', '54.88875000', '-6.34701000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q1570557'),
+(49203, 'Culmore', 2337, 'NYK', 232, 'GB', '55.05000000', '-7.26667000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q702848'),
 (49204, 'Cults', 2335, 'SCT', 232, 'GB', '57.11667000', '-2.16667000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1143533'),
 (49205, 'Culverstone Green', 2336, 'ENG', 232, 'GB', '51.34085000', '0.34686000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1143533'),
 (49206, 'Cumbernauld', 2335, 'SCT', 232, 'GB', '55.94685000', '-3.99051000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q996616'),
@@ -49391,7 +49391,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49210, 'Curdworth', 2336, 'ENG', 232, 'GB', '52.53382000', '-1.73687000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2381361'),
 (49211, 'Currie', 2335, 'SCT', 232, 'GB', '55.89640000', '-3.30845000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1144879'),
 (49212, 'Curry Rivel', 2336, 'ENG', 232, 'GB', '51.02306000', '-2.86753000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2445736'),
-(49213, 'Cushendall', 2522, 'NYK', 232, 'GB', '55.08033000', '-6.06291000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2580652'),
+(49213, 'Cushendall', 2337, 'NYK', 232, 'GB', '55.08033000', '-6.06291000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q2580652'),
 (49214, 'Cuxton', 2336, 'ENG', 232, 'GB', '51.37430000', '0.45688000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2961323'),
 (49215, 'Cwm', 2338, 'WLS', 232, 'GB', '51.74000000', '-3.18028000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2961323'),
 (49216, 'Cwmafan', 2338, 'WLS', 232, 'GB', '51.61671000', '-3.76205000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2961323'),
@@ -49450,8 +49450,8 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49269, 'Derby', 2336, 'ENG', 232, 'GB', '52.92277000', '-1.47663000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q43475'),
 (49270, 'Derbyshire', 2336, 'ENG', 232, 'GB', '53.16667000', '-1.58333000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q11775003'),
 (49271, 'Deri', 2338, 'WLS', 232, 'GB', '51.70812000', '-3.26312000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q5262556'),
-(49272, 'Derry', 2522, 'NYK', 232, 'GB', '54.99810000', '-7.30934000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q5262556'),
-(49273, 'Derry City and Strabane', 2522, 'NYK', 232, 'GB', '54.82045000', '-7.35958000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q5262556'),
+(49272, 'Derry', 2337, 'NYK', 232, 'GB', '54.99810000', '-7.30934000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q5262556'),
+(49273, 'Derry City and Strabane', 2337, 'NYK', 232, 'GB', '54.82045000', '-7.35958000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q5262556'),
 (49274, 'Dersingham', 2336, 'ENG', 232, 'GB', '52.84549000', '0.50339000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1779758'),
 (49275, 'Desborough', 2336, 'ENG', 232, 'GB', '52.44183000', '-0.82126000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1838917'),
 (49276, 'Desford', 2336, 'ENG', 232, 'GB', '52.62598000', '-1.29395000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1838917'),
@@ -49474,13 +49474,13 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49293, 'Ditchingham', 2336, 'ENG', 232, 'GB', '52.46729000', '1.44370000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2663539'),
 (49294, 'Ditchling', 2336, 'ENG', 232, 'GB', '50.92100000', '-0.11536000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q3270518'),
 (49295, 'Ditton Hill', 2336, 'ENG', 232, 'GB', '51.37947000', '-0.31281000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q3270518'),
-(49296, 'Doagh', 2522, 'NYK', 232, 'GB', '54.75000000', '-6.08333000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1702678'),
+(49296, 'Doagh', 2337, 'NYK', 232, 'GB', '54.75000000', '-6.08333000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q1702678'),
 (49297, 'Dobwalls', 2336, 'ENG', 232, 'GB', '50.45768000', '-4.51735000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q5286983'),
 (49298, 'Doddington', 2336, 'ENG', 232, 'GB', '52.49671000', '0.06017000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1981435'),
 (49299, 'Dodworth', 2336, 'ENG', 232, 'GB', '53.54306000', '-1.52779000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q959905'),
 (49300, 'Dolgellau', 2338, 'WLS', 232, 'GB', '52.74222000', '-3.88611000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1235510'),
 (49301, 'Dollar', 2335, 'SCT', 232, 'GB', '56.16245000', '-3.67135000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1235672'),
-(49302, 'Donaghadee', 2522, 'NYK', 232, 'GB', '54.64126000', '-5.53591000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2421009'),
+(49302, 'Donaghadee', 2337, 'NYK', 232, 'GB', '54.64126000', '-5.53591000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q2421009'),
 (49303, 'Doncaster', 2336, 'ENG', 232, 'GB', '53.50000000', '-1.08333000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1925846'),
 (49304, 'Donington', 2336, 'ENG', 232, 'GB', '52.90461000', '-0.20505000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1241544'),
 (49305, 'Donisthorpe', 2336, 'ENG', 232, 'GB', '52.72401000', '-1.53800000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q965115'),
@@ -49499,14 +49499,14 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49318, 'Dovercourt', 2336, 'ENG', 232, 'GB', '51.93649000', '1.27831000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2186876'),
 (49319, 'Doveridge', 2336, 'ENG', 232, 'GB', '52.90526000', '-1.82480000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q289045'),
 (49320, 'Downham Market', 2336, 'ENG', 232, 'GB', '52.60714000', '0.38375000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1253266'),
-(49321, 'Downpatrick', 2522, 'NYK', 232, 'GB', '54.32814000', '-5.71529000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1024917'),
+(49321, 'Downpatrick', 2337, 'NYK', 232, 'GB', '54.32814000', '-5.71529000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q1024917'),
 (49322, 'Downton', 2336, 'ENG', 232, 'GB', '50.99366000', '-1.75129000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2110657'),
-(49323, 'Draperstown', 2522, 'NYK', 232, 'GB', '54.80000000', '-6.76667000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2460535'),
+(49323, 'Draperstown', 2337, 'NYK', 232, 'GB', '54.80000000', '-6.76667000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q2460535'),
 (49324, 'Draycott', 2336, 'ENG', 232, 'GB', '51.25615000', '-2.75116000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q5306087'),
 (49325, 'Dreghorn', 2335, 'SCT', 232, 'GB', '55.60807000', '-4.62226000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q5306868'),
 (49326, 'Driffield', 2336, 'ENG', 232, 'GB', '54.00613000', '-0.44495000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q611046'),
 (49327, 'Droitwich', 2336, 'ENG', 232, 'GB', '52.26667000', '-2.15000000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1260116'),
-(49328, 'Dromore', 2522, 'NYK', 232, 'GB', '54.51331000', '-7.45886000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2377546'),
+(49328, 'Dromore', 2337, 'NYK', 232, 'GB', '54.51331000', '-7.45886000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q2377546'),
 (49329, 'Dronfield', 2336, 'ENG', 232, 'GB', '53.30221000', '-1.47507000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2499345'),
 (49330, 'Drongan', 2335, 'SCT', 232, 'GB', '55.43498000', '-4.45551000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2499345'),
 (49331, 'Droylsden', 2336, 'ENG', 232, 'GB', '53.48005000', '-2.14543000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q305076'),
@@ -49526,18 +49526,18 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49345, 'Dunchurch', 2336, 'ENG', 232, 'GB', '52.33757000', '-1.29136000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q3041276'),
 (49346, 'Dundee', 2335, 'SCT', 232, 'GB', '56.46913000', '-2.97489000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q123709'),
 (49347, 'Dundee City', 2335, 'SCT', 232, 'GB', '56.46667000', '-2.91667000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2357511'),
-(49348, 'Dundonald', 2522, 'NYK', 232, 'GB', '54.59196000', '-5.79803000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q116756'),
+(49348, 'Dundonald', 2337, 'NYK', 232, 'GB', '54.59196000', '-5.79803000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q116756'),
 (49349, 'Dundonald', 2335, 'SCT', 232, 'GB', '55.57939000', '-4.59473000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q5314885'),
-(49350, 'Dundrum', 2522, 'NYK', 232, 'GB', '54.25750000', '-5.84455000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2649792'),
+(49350, 'Dundrum', 2337, 'NYK', 232, 'GB', '54.25750000', '-5.84455000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q2649792'),
 (49351, 'Dundry', 2336, 'ENG', 232, 'GB', '51.39880000', '-2.63964000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q2518710'),
 (49352, 'Dunfermline', 2335, 'SCT', 232, 'GB', '56.07156000', '-3.45887000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q211950'),
-(49353, 'Dungannon', 2522, 'NYK', 232, 'GB', '54.50344000', '-6.76723000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1025602'),
-(49354, 'Dungiven', 2522, 'NYK', 232, 'GB', '54.93333000', '-6.91667000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1265794'),
+(49353, 'Dungannon', 2337, 'NYK', 232, 'GB', '54.50344000', '-6.76723000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q1025602'),
+(49354, 'Dungiven', 2337, 'NYK', 232, 'GB', '54.93333000', '-6.91667000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q1265794'),
 (49355, 'Dunholme', 2336, 'ENG', 232, 'GB', '53.30067000', '-0.46541000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q5315274'),
 (49356, 'Dunipace', 2335, 'SCT', 232, 'GB', '56.02700000', '-3.91471000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q5315302'),
 (49357, 'Dunkeswell', 2336, 'ENG', 232, 'GB', '50.86301000', '-3.22289000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q746449'),
 (49358, 'Dunlop', 2335, 'SCT', 232, 'GB', '55.71198000', '-4.53622000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q3041358'),
-(49359, 'Dunloy', 2522, 'NYK', 232, 'GB', '55.01100000', '-6.41087000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1752141'),
+(49359, 'Dunloy', 2337, 'NYK', 232, 'GB', '55.01100000', '-6.41087000', '2019-10-05 18:52:54', '2021-01-23 10:35:23', 1, 'Q1752141'),
 (49360, 'Dunnington', 2336, 'ENG', 232, 'GB', '53.95000000', '-0.25000000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q5315605'),
 (49361, 'Dunoon', 2335, 'SCT', 232, 'GB', '55.95031000', '-4.92734000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q1020251'),
 (49362, 'Duns', 2335, 'SCT', 232, 'GB', '55.77704000', '-2.34575000', '2019-10-05 18:52:54', '2019-10-05 18:52:54', 1, 'Q425611'),
@@ -49624,7 +49624,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49443, 'Edith Weston', 2336, 'ENG', 232, 'GB', '52.63786000', '-0.63189000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q2832567'),
 (49444, 'Edwinstowe', 2336, 'ENG', 232, 'GB', '53.19454000', '-1.06439000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q994882'),
 (49445, 'Egham', 2336, 'ENG', 232, 'GB', '51.43158000', '-0.55239000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q746681'),
-(49446, 'Eglinton', 2522, 'NYK', 232, 'GB', '55.01667000', '-7.18333000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q853298'),
+(49446, 'Eglinton', 2337, 'NYK', 232, 'GB', '55.01667000', '-7.18333000', '2019-10-05 18:52:55', '2021-01-23 10:35:23', 1, 'Q853298'),
 (49447, 'Egremont', 2336, 'ENG', 232, 'GB', '54.47941000', '-3.52756000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q2486621'),
 (49448, 'Eight Ash Green', 2336, 'ENG', 232, 'GB', '51.89587000', '0.82280000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q2010318'),
 (49449, 'Eilean Siar', 2335, 'SCT', 232, 'GB', '57.66667000', '-7.16667000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q80967'),
@@ -49655,7 +49655,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49474, 'Emsworth', 2336, 'ENG', 232, 'GB', '50.84779000', '-0.93697000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q1219676'),
 (49475, 'Enderby', 2336, 'ENG', 232, 'GB', '52.58778000', '-1.20619000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q1612237'),
 (49476, 'Enfield Town', 2336, 'ENG', 232, 'GB', '51.65147000', '-0.08497000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q544939'),
-(49477, 'Enniskillen', 2522, 'NYK', 232, 'GB', '54.34615000', '-7.64133000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q990109'),
+(49477, 'Enniskillen', 2337, 'NYK', 232, 'GB', '54.34615000', '-7.64133000', '2019-10-05 18:52:55', '2021-01-23 10:35:23', 1, 'Q990109'),
 (49478, 'Epping', 2336, 'ENG', 232, 'GB', '51.69815000', '0.11055000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q990775'),
 (49479, 'Epsom', 2336, 'ENG', 232, 'GB', '51.33050000', '-0.27011000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q993164'),
 (49480, 'Epworth', 2336, 'ENG', 232, 'GB', '53.52602000', '-0.82399000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q2409258'),
@@ -49682,7 +49682,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49501, 'Ewhurst', 2336, 'ENG', 232, 'GB', '51.15448000', '-0.44344000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q5419030'),
 (49502, 'Ewyas Harold', 2336, 'ENG', 232, 'GB', '51.95358000', '-2.89325000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q3399541'),
 (49503, 'Exeter', 2336, 'ENG', 232, 'GB', '50.72360000', '-3.52751000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q134672');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (49504, 'Exhall', 2336, 'ENG', 232, 'GB', '52.46464000', '-1.48144000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q1867842'),
 (49505, 'Exminster', 2336, 'ENG', 232, 'GB', '50.68075000', '-3.49706000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q2388026'),
 (49506, 'Exmouth', 2336, 'ENG', 232, 'GB', '50.61723000', '-3.40233000', '2019-10-05 18:52:55', '2019-10-05 18:52:55', 1, 'Q1007093'),
@@ -49724,7 +49724,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49542, 'Feltwell', 2336, 'ENG', 232, 'GB', '52.48581000', '0.51945000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q960144'),
 (49543, 'Fenstanton', 2336, 'ENG', 232, 'GB', '52.29903000', '-0.06712000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q2801921'),
 (49544, 'Fenwick', 2335, 'SCT', 232, 'GB', '55.65823000', '-4.44342000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q5443668'),
-(49545, 'Fermanagh and Omagh', 2522, 'NYK', 232, 'GB', '54.44257000', '-7.50299000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q5443668'),
+(49545, 'Fermanagh and Omagh', 2337, 'NYK', 232, 'GB', '54.44257000', '-7.50299000', '2019-10-05 18:52:56', '2021-01-23 10:35:23', 1, 'Q5443668'),
 (49546, 'Ferndale', 2338, 'WLS', 232, 'GB', '51.66056000', '-3.44750000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q3401144'),
 (49547, 'Ferndown', 2336, 'ENG', 232, 'GB', '50.80743000', '-1.89975000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q1406936'),
 (49548, 'Fernhill Heath', 2336, 'ENG', 232, 'GB', '52.23002000', '-2.19659000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q5445097'),
@@ -49739,13 +49739,13 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49557, 'Findon', 2336, 'ENG', 232, 'GB', '50.86816000', '-0.40735000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q5355915'),
 (49558, 'Finedon', 2336, 'ENG', 232, 'GB', '52.33917000', '-0.65008000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q589867'),
 (49559, 'Finningley', 2336, 'ENG', 232, 'GB', '53.48696000', '-0.99083000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q1618003'),
-(49560, 'Fintona', 2522, 'NYK', 232, 'GB', '54.50000000', '-7.31667000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q2022710'),
+(49560, 'Fintona', 2337, 'NYK', 232, 'GB', '54.50000000', '-7.31667000', '2019-10-05 18:52:56', '2021-01-23 10:35:23', 1, 'Q2022710'),
 (49561, 'Fishburn', 2336, 'ENG', 232, 'GB', '54.68296000', '-1.43631000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q5454712'),
 (49562, 'Fishguard', 2338, 'WLS', 232, 'GB', '51.99376000', '-4.97631000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q1018730'),
 (49563, 'Fishtoft', 2336, 'ENG', 232, 'GB', '52.96095000', '0.02702000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q3189502'),
 (49564, 'Fitzwilliam', 2336, 'ENG', 232, 'GB', '53.63288000', '-1.37690000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q5455748'),
 (49565, 'Five Oak Green', 2336, 'ENG', 232, 'GB', '51.18338000', '0.35517000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q5456052'),
-(49566, 'Fivemiletown', 2522, 'NYK', 232, 'GB', '54.38333000', '-7.30000000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q608356'),
+(49566, 'Fivemiletown', 2337, 'NYK', 232, 'GB', '54.38333000', '-7.30000000', '2019-10-05 18:52:56', '2021-01-23 10:35:23', 1, 'Q608356'),
 (49567, 'Flamborough', 2336, 'ENG', 232, 'GB', '54.11487000', '-0.12274000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q2854886'),
 (49568, 'Fleckney', 2336, 'ENG', 232, 'GB', '52.53497000', '-1.04598000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q5458348'),
 (49569, 'Fleet', 2336, 'ENG', 232, 'GB', '51.28333000', '-0.83333000', '2019-10-05 18:52:56', '2019-10-05 18:52:56', 1, 'Q734696'),
@@ -49811,7 +49811,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49629, 'Garsington', 2336, 'ENG', 232, 'GB', '51.71623000', '-1.16129000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q1946231'),
 (49630, 'Garstang', 2336, 'ENG', 232, 'GB', '53.90081000', '-2.77417000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q1494566'),
 (49631, 'Gartcosh', 2335, 'SCT', 232, 'GB', '55.88841000', '-4.08170000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q1009722'),
-(49632, 'Garvagh', 2522, 'NYK', 232, 'GB', '54.98333000', '-6.66667000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q3270941'),
+(49632, 'Garvagh', 2337, 'NYK', 232, 'GB', '54.98333000', '-6.66667000', '2019-10-05 18:52:57', '2021-01-23 10:35:23', 1, 'Q3270941'),
 (49633, 'Gateshead', 2336, 'ENG', 232, 'GB', '54.93333000', '-1.66667000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q929034'),
 (49634, 'Geddington', 2336, 'ENG', 232, 'GB', '52.43757000', '-0.68965000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q3209076'),
 (49635, 'Gedney Hill', 2336, 'ENG', 232, 'GB', '52.68434000', '-0.02008000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q5529718'),
@@ -49821,7 +49821,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49639, 'Giffnock', 2335, 'SCT', 232, 'GB', '55.80373000', '-4.29488000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q1016935'),
 (49640, 'Gilberdyke', 2336, 'ENG', 232, 'GB', '53.75297000', '-0.73892000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q2200856'),
 (49641, 'Gilfach Goch', 2338, 'WLS', 232, 'GB', '51.59213000', '-3.47296000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q3401786'),
-(49642, 'Gilford', 2522, 'NYK', 232, 'GB', '54.37256000', '-6.36126000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q2442269'),
+(49642, 'Gilford', 2337, 'NYK', 232, 'GB', '54.37256000', '-6.36126000', '2019-10-05 18:52:57', '2021-01-23 10:35:23', 1, 'Q2442269'),
 (49643, 'Gillingham', 2336, 'ENG', 232, 'GB', '51.38914000', '0.54863000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q610238'),
 (49644, 'Gilwern', 2338, 'WLS', 232, 'GB', '51.82475000', '-3.09355000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q5562649'),
 (49645, 'Girton', 2336, 'ENG', 232, 'GB', '52.23333000', '0.08333000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q1527123'),
@@ -49834,8 +49834,8 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49652, 'Glastonbury', 2336, 'ENG', 232, 'GB', '51.14745000', '-2.72075000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q210891'),
 (49653, 'Glazebury', 2336, 'ENG', 232, 'GB', '53.47078000', '-2.49823000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q210891'),
 (49654, 'Glemsford', 2336, 'ENG', 232, 'GB', '52.10351000', '0.66912000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q2524180'),
-(49655, 'Glenariff', 2522, 'NYK', 232, 'GB', '55.05000000', '-6.06667000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q2524180'),
-(49656, 'Glenavy', 2522, 'NYK', 232, 'GB', '54.59231000', '-6.21371000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q1816005'),
+(49655, 'Glenariff', 2337, 'NYK', 232, 'GB', '55.05000000', '-6.06667000', '2019-10-05 18:52:57', '2021-01-23 10:35:23', 1, 'Q2524180'),
+(49656, 'Glenavy', 2337, 'NYK', 232, 'GB', '54.59231000', '-6.21371000', '2019-10-05 18:52:57', '2021-01-23 10:35:23', 1, 'Q1816005'),
 (49657, 'Glenboig', 2335, 'SCT', 232, 'GB', '55.89422000', '-4.04619000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q1009206'),
 (49658, 'Glenfield', 2336, 'ENG', 232, 'GB', '52.64660000', '-1.19493000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q1983221'),
 (49659, 'Glenmavis', 2335, 'SCT', 232, 'GB', '55.88913000', '-3.98726000', '2019-10-05 18:52:57', '2019-10-05 18:52:57', 1, 'Q1983221'),
@@ -49925,12 +49925,12 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49743, 'Greenhill', 2335, 'SCT', 232, 'GB', '55.99204000', '-3.89096000', '2019-10-05 18:52:58', '2019-10-05 18:52:58', 1, 'Q83475'),
 (49744, 'Greenhill', 2336, 'ENG', 232, 'GB', '51.58342000', '-0.33860000', '2019-10-05 18:52:58', '2019-10-05 18:52:58', 1, 'Q83475'),
 (49745, 'Greenhithe', 2336, 'ENG', 232, 'GB', '51.45026000', '0.28539000', '2019-10-05 18:52:58', '2019-10-05 18:52:58', 1, 'Q3028239'),
-(49746, 'Greenisland', 2522, 'NYK', 232, 'GB', '54.70081000', '-5.87479000', '2019-10-05 18:52:58', '2019-10-05 18:52:58', 1, 'Q1375188'),
+(49746, 'Greenisland', 2337, 'NYK', 232, 'GB', '54.70081000', '-5.87479000', '2019-10-05 18:52:58', '2021-01-23 10:35:23', 1, 'Q1375188'),
 (49747, 'Greenock', 2335, 'SCT', 232, 'GB', '55.94838000', '-4.76121000', '2019-10-05 18:52:58', '2019-10-05 18:52:58', 1, 'Q217831'),
 (49748, 'Greetham', 2336, 'ENG', 232, 'GB', '52.72059000', '-0.63068000', '2019-10-05 18:52:58', '2019-10-05 18:52:58', 1, 'Q2382400'),
 (49749, 'Gresford', 2338, 'WLS', 232, 'GB', '53.08539000', '-2.97062000', '2019-10-05 18:52:58', '2019-10-05 18:52:58', 1, 'Q3406264'),
 (49750, 'Gretna', 2335, 'SCT', 232, 'GB', '54.99380000', '-3.06594000', '2019-10-05 18:52:58', '2019-10-05 18:52:58', 1, 'Q2282115'),
-(49751, 'Greyabbey', 2522, 'NYK', 232, 'GB', '54.53483000', '-5.56028000', '2019-10-05 18:52:58', '2019-10-05 18:52:58', 1, 'Q135049'),
+(49751, 'Greyabbey', 2337, 'NYK', 232, 'GB', '54.53483000', '-5.56028000', '2019-10-05 18:52:58', '2021-01-23 10:35:23', 1, 'Q135049'),
 (49752, 'Grimethorpe', 2336, 'ENG', 232, 'GB', '53.57650000', '-1.37688000', '2019-10-05 18:52:58', '2019-10-05 18:52:58', 1, 'Q1619619'),
 (49753, 'Grimsby', 2336, 'ENG', 232, 'GB', '53.56539000', '-0.07553000', '2019-10-05 18:52:58', '2019-10-05 18:52:58', 1, 'Q179406'),
 (49754, 'Grimston', 2336, 'ENG', 232, 'GB', '52.77312000', '0.54846000', '2019-10-05 18:52:58', '2019-10-05 18:52:58', 1, 'Q2126573'),
@@ -50052,7 +50052,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49870, 'Heacham', 2336, 'ENG', 232, 'GB', '52.90782000', '0.49387000', '2019-10-05 18:52:59', '2019-10-05 18:52:59', 1, 'Q2199636'),
 (49871, 'Head of Muir', 2335, 'SCT', 232, 'GB', '56.00623000', '-3.91358000', '2019-10-05 18:52:59', '2019-10-05 18:52:59', 1, 'Q2199636'),
 (49872, 'Headcorn', 2336, 'ENG', 232, 'GB', '51.16966000', '0.62433000', '2019-10-05 18:52:59', '2019-10-05 18:52:59', 1, 'Q743020');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (49873, 'Heage', 2336, 'ENG', 232, 'GB', '53.05050000', '-1.44688000', '2019-10-05 18:52:59', '2019-10-05 18:52:59', 1, 'Q5690152'),
 (49874, 'Healing', 2336, 'ENG', 232, 'GB', '53.58101000', '-0.16202000', '2019-10-05 18:52:59', '2019-10-05 18:52:59', 1, 'Q5690269'),
 (49875, 'Heanor', 2336, 'ENG', 232, 'GB', '53.01372000', '-1.35383000', '2019-10-05 18:52:59', '2019-10-05 18:52:59', 1, 'Q1981105'),
@@ -50120,7 +50120,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49937, 'Highley', 2336, 'ENG', 232, 'GB', '52.44866000', '-2.38251000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q2104775'),
 (49938, 'Hightown', 2336, 'ENG', 232, 'GB', '53.52452000', '-3.06192000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q2104775'),
 (49939, 'Highworth', 2336, 'ENG', 232, 'GB', '51.63051000', '-1.71100000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q684452'),
-(49940, 'Hillsborough', 2522, 'NYK', 232, 'GB', '54.46345000', '-6.07664000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q58094'),
+(49940, 'Hillsborough', 2337, 'NYK', 232, 'GB', '54.46345000', '-6.07664000', '2019-10-05 18:53:00', '2021-01-23 10:35:23', 1, 'Q58094'),
 (49941, 'Hillside', 2335, 'SCT', 232, 'GB', '56.74483000', '-2.47400000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q5763841'),
 (49942, 'Hilton', 2336, 'ENG', 232, 'GB', '52.27908000', '-0.11222000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q2713484'),
 (49943, 'Hinchley Wood', 2336, 'ENG', 232, 'GB', '51.37461000', '-0.33838000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q5765741'),
@@ -50155,7 +50155,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (49972, 'Holytown', 2335, 'SCT', 232, 'GB', '55.82011000', '-3.97270000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q5887146'),
 (49973, 'Holywell', 2338, 'WLS', 232, 'GB', '53.27466000', '-3.22895000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q3050619'),
 (49974, 'Holywell Green', 2336, 'ENG', 232, 'GB', '53.67406000', '-1.86682000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q2550393'),
-(49975, 'Holywood', 2522, 'NYK', 232, 'GB', '54.63863000', '-5.82473000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q1625366'),
+(49975, 'Holywood', 2337, 'NYK', 232, 'GB', '54.63863000', '-5.82473000', '2019-10-05 18:53:00', '2021-01-23 10:35:23', 1, 'Q1625366'),
 (49976, 'Honeybourne', 2336, 'ENG', 232, 'GB', '52.09513000', '-1.83129000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q303559'),
 (49977, 'Honiton', 2336, 'ENG', 232, 'GB', '50.79960000', '-3.18899000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q647123'),
 (49978, 'Hoo', 2336, 'ENG', 232, 'GB', '51.42050000', '0.56300000', '2019-10-05 18:53:00', '2019-10-05 18:53:00', 1, 'Q647123'),
@@ -50253,7 +50253,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50070, 'Ironbridge', 2336, 'ENG', 232, 'GB', '52.62795000', '-2.48465000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q1673096'),
 (50071, 'Irthlingborough', 2336, 'ENG', 232, 'GB', '52.32674000', '-0.61129000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q1847208'),
 (50072, 'Irvine', 2335, 'SCT', 232, 'GB', '55.61940000', '-4.65508000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q1774629'),
-(50073, 'Irvinestown', 2522, 'NYK', 232, 'GB', '54.46667000', '-7.63333000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q2533408'),
+(50073, 'Irvinestown', 2337, 'NYK', 232, 'GB', '54.46667000', '-7.63333000', '2019-10-05 18:53:01', '2021-01-23 10:35:23', 1, 'Q2533408'),
 (50074, 'Isle Of Mull', 2335, 'SCT', 232, 'GB', '56.44703000', '-5.77404000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q2533408'),
 (50075, 'Isle of Arran', 2335, 'SCT', 232, 'GB', '55.58145000', '-5.21233000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q2533408'),
 (50076, 'Isle of Bute', 2335, 'SCT', 232, 'GB', '55.83663000', '-5.05586000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q2533408'),
@@ -50277,9 +50277,9 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50094, 'Jedburgh', 2335, 'SCT', 232, 'GB', '55.47997000', '-2.55200000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q1012401'),
 (50095, 'Johnston', 2338, 'WLS', 232, 'GB', '51.75556000', '-4.99667000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q519215'),
 (50096, 'Johnstone', 2335, 'SCT', 232, 'GB', '55.82906000', '-4.51605000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q2240072'),
-(50097, 'Jordanstown', 2522, 'NYK', 232, 'GB', '54.68333000', '-5.90000000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q2240072'),
+(50097, 'Jordanstown', 2337, 'NYK', 232, 'GB', '54.68333000', '-5.90000000', '2019-10-05 18:53:01', '2021-01-23 10:35:23', 1, 'Q2240072'),
 (50098, 'Keadby', 2336, 'ENG', 232, 'GB', '53.59308000', '-0.74021000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q6382086'),
-(50099, 'Keady', 2522, 'NYK', 232, 'GB', '54.25000000', '-6.70000000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q1373360'),
+(50099, 'Keady', 2337, 'NYK', 232, 'GB', '54.25000000', '-6.70000000', '2019-10-05 18:53:01', '2021-01-23 10:35:23', 1, 'Q1373360'),
 (50100, 'Kearsley', 2336, 'ENG', 232, 'GB', '53.53333000', '-2.38333000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q3814209'),
 (50101, 'Kedington', 2336, 'ENG', 232, 'GB', '52.09282000', '0.48675000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q2512785'),
 (50102, 'Keelby', 2336, 'ENG', 232, 'GB', '53.57580000', '-0.24701000', '2019-10-05 18:53:01', '2019-10-05 18:53:01', 1, 'Q6382761'),
@@ -50325,14 +50325,14 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50142, 'Kilcreggan', 2335, 'SCT', 232, 'GB', '55.98460000', '-4.82100000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q211892'),
 (50143, 'Kilgetty', 2338, 'WLS', 232, 'GB', '51.73203000', '-4.71983000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q6406853'),
 (50144, 'Kilham', 2336, 'ENG', 232, 'GB', '54.06413000', '-0.38057000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q2543706'),
-(50145, 'Kilkeel', 2522, 'NYK', 232, 'GB', '54.06196000', '-6.00308000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q84109'),
+(50145, 'Kilkeel', 2337, 'NYK', 232, 'GB', '54.06196000', '-6.00308000', '2019-10-05 18:53:02', '2021-01-23 10:35:23', 1, 'Q84109'),
 (50146, 'Killamarsh', 2336, 'ENG', 232, 'GB', '53.32395000', '-1.31688000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q2361686'),
 (50147, 'Killearn', 2335, 'SCT', 232, 'GB', '56.04239000', '-4.36840000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q1010543'),
-(50148, 'Killyleagh', 2522, 'NYK', 232, 'GB', '54.40135000', '-5.64800000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q233539'),
+(50148, 'Killyleagh', 2337, 'NYK', 232, 'GB', '54.40135000', '-5.64800000', '2019-10-05 18:53:02', '2021-01-23 10:35:23', 1, 'Q233539'),
 (50149, 'Kilmacolm', 2335, 'SCT', 232, 'GB', '55.89470000', '-4.62643000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q1011533'),
 (50150, 'Kilmarnock', 2335, 'SCT', 232, 'GB', '55.61171000', '-4.49581000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q576562'),
 (50151, 'Kilmaurs', 2335, 'SCT', 232, 'GB', '55.63801000', '-4.52730000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q205448'),
-(50152, 'Kilrea', 2522, 'NYK', 232, 'GB', '54.95091000', '-6.55695000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q950125'),
+(50152, 'Kilrea', 2337, 'NYK', 232, 'GB', '54.95091000', '-6.55695000', '2019-10-05 18:53:02', '2021-01-23 10:35:23', 1, 'Q950125'),
 (50153, 'Kilsby', 2336, 'ENG', 232, 'GB', '52.33375000', '-1.17505000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q2703030'),
 (50154, 'Kilsyth', 2335, 'SCT', 232, 'GB', '55.97596000', '-4.05916000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q1010328'),
 (50155, 'Kilwinning', 2335, 'SCT', 232, 'GB', '55.65333000', '-4.70666000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q1013827'),
@@ -50374,7 +50374,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50191, 'Kippax', 2336, 'ENG', 232, 'GB', '53.76687000', '-1.37099000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q2562575'),
 (50192, 'Kippen', 2335, 'SCT', 232, 'GB', '56.12673000', '-4.17083000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q1020227'),
 (50193, 'Kirby Muxloe', 2336, 'ENG', 232, 'GB', '52.63025000', '-1.22755000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q6414948'),
-(50194, 'Kircubbin', 2522, 'NYK', 232, 'GB', '54.48739000', '-5.53385000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q232805'),
+(50194, 'Kircubbin', 2337, 'NYK', 232, 'GB', '54.48739000', '-5.53385000', '2019-10-05 18:53:02', '2021-01-23 10:35:23', 1, 'Q232805'),
 (50195, 'Kirk Sandall', 2336, 'ENG', 232, 'GB', '53.56211000', '-1.06876000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q232805'),
 (50196, 'Kirkburton', 2336, 'ENG', 232, 'GB', '53.61047000', '-1.70292000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q3152568'),
 (50197, 'Kirkby', 2336, 'ENG', 232, 'GB', '53.48138000', '-2.89215000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q2469070'),
@@ -50422,7 +50422,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50239, 'Landrake', 2336, 'ENG', 232, 'GB', '50.42265000', '-4.29023000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q11752791'),
 (50240, 'Langford', 2336, 'ENG', 232, 'GB', '52.05460000', '-0.27165000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q1522728'),
 (50241, 'Langham', 2336, 'ENG', 232, 'GB', '52.69152000', '-0.75385000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q1613198');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (50242, 'Langho', 2336, 'ENG', 232, 'GB', '53.80217000', '-2.45076000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q11752814'),
 (50243, 'Langholm', 2335, 'SCT', 232, 'GB', '55.15101000', '-2.99889000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q1014104'),
 (50244, 'Langley Green', 2336, 'ENG', 232, 'GB', '51.12817000', '-0.19835000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q1014104'),
@@ -50434,7 +50434,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50250, 'Lark Hill', 2336, 'ENG', 232, 'GB', '51.20000000', '-1.81667000', '2019-10-05 18:53:02', '2019-10-05 18:53:02', 1, 'Q738194'),
 (50251, 'Larkfield', 2336, 'ENG', 232, 'GB', '51.30143000', '0.44855000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q738194'),
 (50252, 'Larkhall', 2335, 'SCT', 232, 'GB', '55.73333000', '-3.96667000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q1012019'),
-(50253, 'Larne', 2522, 'NYK', 232, 'GB', '54.85000000', '-5.81667000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q935686'),
+(50253, 'Larne', 2337, 'NYK', 232, 'GB', '54.85000000', '-5.81667000', '2019-10-05 18:53:03', '2021-01-23 10:35:23', 1, 'Q935686'),
 (50254, 'Latchingdon and Snoreham', 2336, 'ENG', 232, 'GB', '51.67160000', '0.72578000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q2502818'),
 (50255, 'Lauder', 2335, 'SCT', 232, 'GB', '55.71908000', '-2.74755000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q1017204'),
 (50256, 'Launceston', 2336, 'ENG', 232, 'GB', '50.63699000', '-4.36006000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q287590'),
@@ -50484,7 +50484,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50300, 'Lidlington', 2336, 'ENG', 232, 'GB', '52.04154000', '-0.55914000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q1520191'),
 (50301, 'Lifton', 2336, 'ENG', 232, 'GB', '50.64356000', '-4.28216000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q1887949'),
 (50302, 'Lightwater', 2336, 'ENG', 232, 'GB', '51.34846000', '-0.67147000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q6546593'),
-(50303, 'Limavady', 2522, 'NYK', 232, 'GB', '55.05045000', '-6.95074000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q1002115'),
+(50303, 'Limavady', 2337, 'NYK', 232, 'GB', '55.05045000', '-6.95074000', '2019-10-05 18:53:03', '2021-01-23 10:35:23', 1, 'Q1002115'),
 (50304, 'Limekilns', 2335, 'SCT', 232, 'GB', '56.03336000', '-3.47713000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q1011954'),
 (50305, 'Limpley Stoke', 2336, 'ENG', 232, 'GB', '51.34487000', '-2.31409000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q251961'),
 (50306, 'Lincoln', 2336, 'ENG', 232, 'GB', '53.22683000', '-0.53792000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q180057'),
@@ -50498,10 +50498,10 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50314, 'Linton upon Ouse', 2336, 'ENG', 232, 'GB', '54.04639000', '-1.24920000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q2953094'),
 (50315, 'Linwood', 2335, 'SCT', 232, 'GB', '55.84834000', '-4.49337000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q2953094'),
 (50316, 'Liphook', 2336, 'ENG', 232, 'GB', '51.07673000', '-0.80320000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q6556312'),
-(50317, 'Lisburn', 2522, 'NYK', 232, 'GB', '54.52337000', '-6.03527000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q1828035'),
-(50318, 'Lisburn and Castlereagh', 2522, 'NYK', 232, 'GB', '54.50824000', '-6.05246000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q1828035'),
+(50317, 'Lisburn', 2337, 'NYK', 232, 'GB', '54.52337000', '-6.03527000', '2019-10-05 18:53:03', '2021-01-23 10:35:23', 1, 'Q1828035'),
+(50318, 'Lisburn and Castlereagh', 2337, 'NYK', 232, 'GB', '54.50824000', '-6.05246000', '2019-10-05 18:53:03', '2021-01-23 10:35:23', 1, 'Q1828035'),
 (50319, 'Liskeard', 2336, 'ENG', 232, 'GB', '50.45450000', '-4.46517000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q2019908'),
-(50320, 'Lisnaskea', 2522, 'NYK', 232, 'GB', '54.25000000', '-7.45000000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q2300579'),
+(50320, 'Lisnaskea', 2337, 'NYK', 232, 'GB', '54.25000000', '-7.45000000', '2019-10-05 18:53:03', '2021-01-23 10:35:23', 1, 'Q2300579'),
 (50321, 'Liss', 2336, 'ENG', 232, 'GB', '51.04277000', '-0.89238000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q2681239'),
 (50322, 'Litherland', 2336, 'ENG', 232, 'GB', '53.46993000', '-2.99809000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q6647845'),
 (50323, 'Little Amwell', 2336, 'ENG', 232, 'GB', '51.78333000', '-0.03333000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q6647845'),
@@ -50570,7 +50570,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50386, 'Loftus', 2336, 'ENG', 232, 'GB', '54.55543000', '-0.89459000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q2400875'),
 (50387, 'Logan', 2335, 'SCT', 232, 'GB', '55.45466000', '-4.23514000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q6666880'),
 (50388, 'London', 2336, 'ENG', 232, 'GB', '51.50853000', '-0.12574000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q84'),
-(50389, 'Londonderry County Borough', 2522, 'NYK', 232, 'GB', '54.99721000', '-7.30917000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q84'),
+(50389, 'Londonderry County Borough', 2337, 'NYK', 232, 'GB', '54.99721000', '-7.30917000', '2019-10-05 18:53:03', '2021-01-23 10:35:23', 1, 'Q84'),
 (50390, 'Long Ashton', 2336, 'ENG', 232, 'GB', '51.42997000', '-2.66098000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q4990691'),
 (50391, 'Long Bennington', 2336, 'ENG', 232, 'GB', '52.99314000', '-0.75803000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q1937457'),
 (50392, 'Long Buckby', 2336, 'ENG', 232, 'GB', '52.30260000', '-1.08113000', '2019-10-05 18:53:03', '2019-10-05 18:53:03', 1, 'Q2576950'),
@@ -50647,9 +50647,9 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50463, 'Maddiston', 2335, 'SCT', 232, 'GB', '55.97365000', '-3.69900000', '2019-10-05 18:53:04', '2019-10-05 18:53:04', 1, 'Q1017010'),
 (50464, 'Madeley', 2336, 'ENG', 232, 'GB', '53.00000000', '-2.33333000', '2019-10-05 18:53:04', '2019-10-05 18:53:04', 1, 'Q2438868'),
 (50465, 'Maesteg', 2338, 'WLS', 232, 'GB', '51.60926000', '-3.65823000', '2019-10-05 18:53:04', '2019-10-05 18:53:04', 1, 'Q2243637'),
-(50466, 'Maghera', 2522, 'NYK', 232, 'GB', '54.84390000', '-6.67145000', '2019-10-05 18:53:04', '2019-10-05 18:53:04', 1, 'Q1025604'),
-(50467, 'Magherafelt', 2522, 'NYK', 232, 'GB', '54.75356000', '-6.60656000', '2019-10-05 18:53:04', '2019-10-05 18:53:04', 1, 'Q1854188'),
-(50468, 'Magheralin', 2522, 'NYK', 232, 'GB', '54.46695000', '-6.25980000', '2019-10-05 18:53:04', '2019-10-05 18:53:04', 1, 'Q84103'),
+(50466, 'Maghera', 2337, 'NYK', 232, 'GB', '54.84390000', '-6.67145000', '2019-10-05 18:53:04', '2021-01-23 10:35:23', 1, 'Q1025604'),
+(50467, 'Magherafelt', 2337, 'NYK', 232, 'GB', '54.75356000', '-6.60656000', '2019-10-05 18:53:04', '2021-01-23 10:35:23', 1, 'Q1854188'),
+(50468, 'Magheralin', 2337, 'NYK', 232, 'GB', '54.46695000', '-6.25980000', '2019-10-05 18:53:04', '2021-01-23 10:35:23', 1, 'Q84103'),
 (50469, 'Maghull', 2336, 'ENG', 232, 'GB', '53.51619000', '-2.94117000', '2019-10-05 18:53:04', '2019-10-05 18:53:04', 1, 'Q1951431'),
 (50470, 'Magor', 2338, 'WLS', 232, 'GB', '51.57944000', '-2.83139000', '2019-10-05 18:53:04', '2019-10-05 18:53:04', 1, 'Q6732359'),
 (50471, 'Maiden Newton', 2336, 'ENG', 232, 'GB', '50.77909000', '-2.57226000', '2019-10-05 18:53:04', '2019-10-05 18:53:04', 1, 'Q739250'),
@@ -50748,8 +50748,8 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50564, 'Mickle Trafford', 2336, 'ENG', 232, 'GB', '53.22146000', '-2.83225000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q2738607'),
 (50565, 'Mickleton', 2336, 'ENG', 232, 'GB', '52.09152000', '-1.76623000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q6838880'),
 (50566, 'Mid Calder', 2335, 'SCT', 232, 'GB', '55.89261000', '-3.48002000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q4115'),
-(50567, 'Mid Ulster', 2522, 'NYK', 232, 'GB', '54.62190000', '-6.79097000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q4115'),
-(50568, 'Mid and East Antrim', 2522, 'NYK', 232, 'GB', '54.87436000', '-6.10141000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q4115'),
+(50567, 'Mid Ulster', 2337, 'NYK', 232, 'GB', '54.62190000', '-6.79097000', '2019-10-05 18:53:05', '2021-01-23 10:35:23', 1, 'Q4115'),
+(50568, 'Mid and East Antrim', 2337, 'NYK', 232, 'GB', '54.87436000', '-6.10141000', '2019-10-05 18:53:05', '2021-01-23 10:35:23', 1, 'Q4115'),
 (50569, 'Middle Rasen', 2336, 'ENG', 232, 'GB', '53.38722000', '-0.36202000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q3297846'),
 (50570, 'Middle Winterslow', 2336, 'ENG', 232, 'GB', '51.09346000', '-1.65453000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q3297846'),
 (50571, 'Middlesbrough', 2336, 'ENG', 232, 'GB', '54.57623000', '-1.23483000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q171866'),
@@ -50766,7 +50766,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50582, 'Milford Haven', 2338, 'WLS', 232, 'GB', '51.71278000', '-5.03410000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q991055'),
 (50583, 'Milford on Sea', 2336, 'ENG', 232, 'GB', '50.72561000', '-1.59004000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q3857874'),
 (50584, 'Millbrook', 2336, 'ENG', 232, 'GB', '52.03882000', '-0.52438000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q1520090'),
-(50585, 'Millisle', 2522, 'NYK', 232, 'GB', '54.60638000', '-5.52973000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q135444'),
+(50585, 'Millisle', 2337, 'NYK', 232, 'GB', '54.60638000', '-5.52973000', '2019-10-05 18:53:05', '2021-01-23 10:35:23', 1, 'Q135444'),
 (50586, 'Millom', 2336, 'ENG', 232, 'GB', '54.21072000', '-3.27200000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q368740'),
 (50587, 'Millport', 2335, 'SCT', 232, 'GB', '55.75348000', '-4.92559000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q391948'),
 (50588, 'Milltimber', 2335, 'SCT', 232, 'GB', '57.10424000', '-2.24099000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q1755428'),
@@ -50790,15 +50790,15 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50606, 'Mitcham', 2336, 'ENG', 232, 'GB', '51.40322000', '-0.16831000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q994703'),
 (50607, 'Mitcheldean', 2336, 'ENG', 232, 'GB', '51.86440000', '-2.48950000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q587295'),
 (50608, 'Mobberley', 2336, 'ENG', 232, 'GB', '53.31667000', '-2.31667000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q6886651');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (50609, 'Modbury', 2336, 'ENG', 232, 'GB', '50.34957000', '-3.88684000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q1242590'),
 (50610, 'Moelfre', 2338, 'WLS', 232, 'GB', '53.35228000', '-4.23734000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q1242590'),
 (50611, 'Moffat', 2335, 'SCT', 232, 'GB', '55.33527000', '-3.44142000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q646784'),
-(50612, 'Moira', 2522, 'NYK', 232, 'GB', '54.48021000', '-6.22822000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q149546'),
+(50612, 'Moira', 2337, 'NYK', 232, 'GB', '54.48021000', '-6.22822000', '2019-10-05 18:53:05', '2021-01-23 10:35:23', 1, 'Q149546'),
 (50613, 'Moira', 2336, 'ENG', 232, 'GB', '52.73698000', '-1.53496000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q778255'),
 (50614, 'Mold', 2338, 'WLS', 232, 'GB', '53.16674000', '-3.14143000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q1191195'),
 (50615, 'Mollington', 2336, 'ENG', 232, 'GB', '53.22934000', '-2.92159000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q1962451'),
-(50616, 'Moneymore', 2522, 'NYK', 232, 'GB', '54.69229000', '-6.66956000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q2288719'),
+(50616, 'Moneymore', 2337, 'NYK', 232, 'GB', '54.69229000', '-6.66956000', '2019-10-05 18:53:05', '2021-01-23 10:35:23', 1, 'Q2288719'),
 (50617, 'Monifieth', 2335, 'SCT', 232, 'GB', '56.48227000', '-2.81732000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q3179174'),
 (50618, 'Monk Fryston', 2336, 'ENG', 232, 'GB', '53.76160000', '-1.23751000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q11785210'),
 (50619, 'Monmouth', 2338, 'WLS', 232, 'GB', '51.81265000', '-2.71363000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q156990'),
@@ -50826,7 +50826,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50641, 'Mount Hawke', 2336, 'ENG', 232, 'GB', '50.28229000', '-5.20855000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q6921088'),
 (50642, 'Mountain Ash', 2338, 'WLS', 232, 'GB', '51.68361000', '-3.38008000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q2469852'),
 (50643, 'Mountsorrel', 2336, 'ENG', 232, 'GB', '52.71667000', '-1.15000000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q1612169'),
-(50644, 'Moy', 2522, 'NYK', 232, 'GB', '54.45000000', '-6.66667000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q3069486'),
+(50644, 'Moy', 2337, 'NYK', 232, 'GB', '54.45000000', '-6.66667000', '2019-10-05 18:53:05', '2021-01-23 10:35:23', 1, 'Q3069486'),
 (50645, 'Much Hadham', 2336, 'ENG', 232, 'GB', '51.85407000', '0.07188000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q1065388'),
 (50646, 'Much Wenlock', 2336, 'ENG', 232, 'GB', '52.59582000', '-2.55749000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q201114'),
 (50647, 'Muir of Ord', 2335, 'SCT', 232, 'GB', '57.51976000', '-4.45939000', '2019-10-05 18:53:05', '2019-10-05 18:53:05', 1, 'Q1011555'),
@@ -50889,7 +50889,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50704, 'Newburgh', 2335, 'SCT', 232, 'GB', '56.35079000', '-3.23650000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q3875618'),
 (50705, 'Newburn', 2336, 'ENG', 232, 'GB', '54.98760000', '-1.74415000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q3875618'),
 (50706, 'Newbury', 2336, 'ENG', 232, 'GB', '51.40148000', '-1.32471000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q655874'),
-(50707, 'Newcastle', 2522, 'NYK', 232, 'GB', '54.21804000', '-5.88979000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q1973774'),
+(50707, 'Newcastle', 2337, 'NYK', 232, 'GB', '54.21804000', '-5.88979000', '2019-10-05 18:53:06', '2021-01-23 10:35:23', 1, 'Q1973774'),
 (50708, 'Newcastle Emlyn', 2338, 'WLS', 232, 'GB', '52.04056000', '-4.46670000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q2273077'),
 (50709, 'Newcastle under Lyme', 2336, 'ENG', 232, 'GB', '53.00000000', '-2.23333000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q868642'),
 (50710, 'Newcastle upon Tyne', 2336, 'ENG', 232, 'GB', '55.00000000', '-1.66667000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q21012735'),
@@ -50907,8 +50907,8 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50722, 'Newport Pagnell', 2336, 'ENG', 232, 'GB', '52.08731000', '-0.72218000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q1020231'),
 (50723, 'Newport-on-Tay', 2335, 'SCT', 232, 'GB', '56.43911000', '-2.93670000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q508190'),
 (50724, 'Newquay', 2336, 'ENG', 232, 'GB', '50.41557000', '-5.07319000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q943517'),
-(50725, 'Newry', 2522, 'NYK', 232, 'GB', '54.17841000', '-6.33739000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q269980'),
-(50726, 'Newry Mourne and Down', 2522, 'NYK', 232, 'GB', '54.23616000', '-6.06687000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q269980'),
+(50725, 'Newry', 2337, 'NYK', 232, 'GB', '54.17841000', '-6.33739000', '2019-10-05 18:53:06', '2021-01-23 10:35:23', 1, 'Q269980'),
+(50726, 'Newry Mourne and Down', 2337, 'NYK', 232, 'GB', '54.23616000', '-6.06687000', '2019-10-05 18:53:06', '2021-01-23 10:35:23', 1, 'Q269980'),
 (50727, 'Newton Abbot', 2336, 'ENG', 232, 'GB', '50.52858000', '-3.61186000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q660484'),
 (50728, 'Newton Aycliffe', 2336, 'ENG', 232, 'GB', '54.61842000', '-1.57190000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q339608'),
 (50729, 'Newton Ferrers', 2336, 'ENG', 232, 'GB', '50.31467000', '-4.03920000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q7020239'),
@@ -50921,9 +50921,9 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50736, 'Newtonmore', 2335, 'SCT', 232, 'GB', '57.06567000', '-4.12097000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q1010363'),
 (50737, 'Newtown', 2338, 'WLS', 232, 'GB', '52.51667000', '-3.30000000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q669171'),
 (50738, 'Newtown St Boswells', 2335, 'SCT', 232, 'GB', '55.57887000', '-2.66874000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q917255'),
-(50739, 'Newtownabbey', 2522, 'NYK', 232, 'GB', '54.65983000', '-5.90858000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q918947'),
-(50740, 'Newtownards', 2522, 'NYK', 232, 'GB', '54.59236000', '-5.69092000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q2192709'),
-(50741, 'Newtownstewart', 2522, 'NYK', 232, 'GB', '54.71778000', '-7.37886000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q2779526'),
+(50739, 'Newtownabbey', 2337, 'NYK', 232, 'GB', '54.65983000', '-5.90858000', '2019-10-05 18:53:06', '2021-01-23 10:35:23', 1, 'Q918947'),
+(50740, 'Newtownards', 2337, 'NYK', 232, 'GB', '54.59236000', '-5.69092000', '2019-10-05 18:53:06', '2021-01-23 10:35:23', 1, 'Q2192709'),
+(50741, 'Newtownstewart', 2337, 'NYK', 232, 'GB', '54.71778000', '-7.37886000', '2019-10-05 18:53:06', '2021-01-23 10:35:23', 1, 'Q2779526'),
 (50742, 'Neyland', 2338, 'WLS', 232, 'GB', '51.71014000', '-4.95155000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q1939963'),
 (50743, 'Ninfield', 2336, 'ENG', 232, 'GB', '50.88641000', '0.42529000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q2690350'),
 (50744, 'Niton', 2336, 'ENG', 232, 'GB', '50.58702000', '-1.28489000', '2019-10-05 18:53:06', '2019-10-05 18:53:06', 1, 'Q7041346'),
@@ -50993,7 +50993,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50808, 'Oldmeldrum', 2335, 'SCT', 232, 'GB', '57.33492000', '-2.31990000', '2019-10-05 18:53:07', '2019-10-05 18:53:07', 1, 'Q1009340'),
 (50809, 'Olney', 2336, 'ENG', 232, 'GB', '52.15345000', '-0.70201000', '2019-10-05 18:53:07', '2019-10-05 18:53:07', 1, 'Q2454052'),
 (50810, 'Olveston', 2336, 'ENG', 232, 'GB', '51.58032000', '-2.57750000', '2019-10-05 18:53:07', '2019-10-05 18:53:07', 1, 'Q7088886'),
-(50811, 'Omagh', 2522, 'NYK', 232, 'GB', '54.60000000', '-7.30000000', '2019-10-05 18:53:07', '2019-10-05 18:53:07', 1, 'Q510513'),
+(50811, 'Omagh', 2337, 'NYK', 232, 'GB', '54.60000000', '-7.30000000', '2019-10-05 18:53:07', '2021-01-23 10:35:23', 1, 'Q510513'),
 (50812, 'Orkney', 2335, 'SCT', 232, 'GB', '58.98465000', '-2.95953000', '2019-10-05 18:53:07', '2019-10-05 18:53:07', 1, 'Q510513'),
 (50813, 'Orkney Islands', 2335, 'SCT', 232, 'GB', '59.00000000', '-3.00000000', '2019-10-05 18:53:07', '2019-10-05 18:53:07', 1, 'Q100166'),
 (50814, 'Orleton', 2336, 'ENG', 232, 'GB', '52.30000000', '-2.75000000', '2019-10-05 18:53:07', '2019-10-05 18:53:07', 1, 'Q3784305'),
@@ -51138,10 +51138,10 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50953, 'Port Erroll', 2335, 'SCT', 232, 'GB', '57.41427000', '-1.84596000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q248076'),
 (50954, 'Port Glasgow', 2335, 'SCT', 232, 'GB', '55.93464000', '-4.68950000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q1786145'),
 (50955, 'Port Talbot', 2338, 'WLS', 232, 'GB', '51.59241000', '-3.78019000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q1072019'),
-(50956, 'Portadown', 2522, 'NYK', 232, 'GB', '54.42302000', '-6.44434000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q768714'),
-(50957, 'Portaferry', 2522, 'NYK', 232, 'GB', '54.38086000', '-5.54569000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q1959712'),
-(50958, 'Portavogie', 2522, 'NYK', 232, 'GB', '54.45916000', '-5.44304000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q75180'),
-(50959, 'Portglenone', 2522, 'NYK', 232, 'GB', '54.87147000', '-6.47146000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q2150770'),
+(50956, 'Portadown', 2337, 'NYK', 232, 'GB', '54.42302000', '-6.44434000', '2019-10-05 18:53:08', '2021-01-23 10:35:23', 1, 'Q768714'),
+(50957, 'Portaferry', 2337, 'NYK', 232, 'GB', '54.38086000', '-5.54569000', '2019-10-05 18:53:08', '2021-01-23 10:35:23', 1, 'Q1959712'),
+(50958, 'Portavogie', 2337, 'NYK', 232, 'GB', '54.45916000', '-5.44304000', '2019-10-05 18:53:08', '2021-01-23 10:35:23', 1, 'Q75180'),
+(50959, 'Portglenone', 2337, 'NYK', 232, 'GB', '54.87147000', '-6.47146000', '2019-10-05 18:53:08', '2021-01-23 10:35:23', 1, 'Q2150770'),
 (50960, 'Porthcawl', 2338, 'WLS', 232, 'GB', '51.47903000', '-3.70362000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q39480'),
 (50961, 'Porthleven', 2336, 'ENG', 232, 'GB', '50.08618000', '-5.31501000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q2930793'),
 (50962, 'Porthmadog', 2338, 'WLS', 232, 'GB', '52.92924000', '-4.13137000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q950671'),
@@ -51150,16 +51150,16 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (50965, 'Portland', 2336, 'ENG', 232, 'GB', '50.56748000', '-2.44472000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q1011778'),
 (50966, 'Portlethen', 2335, 'SCT', 232, 'GB', '57.06942000', '-2.13246000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q1020236'),
 (50967, 'Portree', 2335, 'SCT', 232, 'GB', '57.41288000', '-6.19418000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q1010998'),
-(50968, 'Portrush', 2522, 'NYK', 232, 'GB', '55.19592000', '-6.64930000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q1027679'),
+(50968, 'Portrush', 2337, 'NYK', 232, 'GB', '55.19592000', '-6.64930000', '2019-10-05 18:53:08', '2021-01-23 10:35:23', 1, 'Q1027679'),
 (50969, 'Portscatho', 2336, 'ENG', 232, 'GB', '50.17271000', '-4.97356000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q7232404'),
 (50970, 'Portslade', 2336, 'ENG', 232, 'GB', '50.84286000', '-0.21608000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q2277250'),
 (50971, 'Portsmouth', 2336, 'ENG', 232, 'GB', '50.80000000', '-1.06667000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q21683233'),
 (50972, 'Portsoy', 2335, 'SCT', 232, 'GB', '57.68144000', '-2.68956000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q1010537'),
-(50973, 'Portstewart', 2522, 'NYK', 232, 'GB', '55.18132000', '-6.71402000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q2239914'),
+(50973, 'Portstewart', 2337, 'NYK', 232, 'GB', '55.18132000', '-6.71402000', '2019-10-05 18:53:08', '2021-01-23 10:35:23', 1, 'Q2239914'),
 (50974, 'Potterne', 2336, 'ENG', 232, 'GB', '51.32917000', '-2.00519000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q2785423'),
 (50975, 'Potters Bar', 2336, 'ENG', 232, 'GB', '51.69353000', '-0.17835000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q19775'),
 (50976, 'Potterspury', 2336, 'ENG', 232, 'GB', '52.08288000', '-0.89676000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q2247927');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (50977, 'Potton', 2336, 'ENG', 232, 'GB', '52.12911000', '-0.21561000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q2736099'),
 (50978, 'Poulton-le-Fylde', 2336, 'ENG', 232, 'GB', '53.83333000', '-2.98333000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q2321329'),
 (50979, 'Poynton', 2336, 'ENG', 232, 'GB', '53.35000000', '-2.11667000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q18632'),
@@ -51213,11 +51213,11 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (51027, 'Ramsbury', 2336, 'ENG', 232, 'GB', '51.44373000', '-1.60257000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q647573'),
 (51028, 'Ramsey', 2336, 'ENG', 232, 'GB', '52.45058000', '-0.10932000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q547659'),
 (51029, 'Ramsgate', 2336, 'ENG', 232, 'GB', '51.33568000', '1.41797000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q736439'),
-(51030, 'Randalstown', 2522, 'NYK', 232, 'GB', '54.75000000', '-6.30000000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q1249441'),
+(51030, 'Randalstown', 2337, 'NYK', 232, 'GB', '54.75000000', '-6.30000000', '2019-10-05 18:53:08', '2021-01-23 10:35:23', 1, 'Q1249441'),
 (51031, 'Ranskill', 2336, 'ENG', 232, 'GB', '53.38281000', '-1.01402000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q2179656'),
 (51032, 'Rastrick', 2336, 'ENG', 232, 'GB', '53.69210000', '-1.78830000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q2179656'),
 (51033, 'Ratby', 2336, 'ENG', 232, 'GB', '52.64989000', '-1.24137000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q2179656'),
-(51034, 'Rathfriland', 2522, 'NYK', 232, 'GB', '54.25000000', '-6.16667000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q58090'),
+(51034, 'Rathfriland', 2337, 'NYK', 232, 'GB', '54.25000000', '-6.16667000', '2019-10-05 18:53:08', '2021-01-23 10:35:23', 1, 'Q58090'),
 (51035, 'Ratho', 2335, 'SCT', 232, 'GB', '55.92164000', '-3.38028000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q1011133'),
 (51036, 'Ratho Station', 2335, 'SCT', 232, 'GB', '55.93670000', '-3.38890000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q1011133'),
 (51037, 'Raunds', 2336, 'ENG', 232, 'GB', '52.34428000', '-0.53657000', '2019-10-05 18:53:08', '2019-10-05 18:53:08', 1, 'Q2192879'),
@@ -51296,7 +51296,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (51110, 'Ross on Wye', 2336, 'ENG', 232, 'GB', '51.91667000', '-2.56667000', '2019-10-05 18:53:09', '2019-10-05 18:53:09', 1, 'Q2057705'),
 (51111, 'Rossendale', 2336, 'ENG', 232, 'GB', '53.68456000', '-2.27690000', '2019-10-05 18:53:09', '2019-10-05 18:53:09', 1, 'Q2057705'),
 (51112, 'Rossett', 2338, 'WLS', 232, 'GB', '53.10921000', '-2.94478000', '2019-10-05 18:53:09', '2019-10-05 18:53:09', 1, 'Q7369807'),
-(51113, 'Rostrevor', 2522, 'NYK', 232, 'GB', '54.10000000', '-6.20000000', '2019-10-05 18:53:09', '2019-10-05 18:53:09', 1, 'Q58134'),
+(51113, 'Rostrevor', 2337, 'NYK', 232, 'GB', '54.10000000', '-6.20000000', '2019-10-05 18:53:09', '2021-01-23 10:35:23', 1, 'Q58134'),
 (51114, 'Rosyth', 2335, 'SCT', 232, 'GB', '56.03689000', '-3.43800000', '2019-10-05 18:53:09', '2019-10-05 18:53:09', 1, 'Q376329'),
 (51115, 'Rothbury', 2336, 'ENG', 232, 'GB', '55.31059000', '-1.90845000', '2019-10-05 18:53:10', '2019-10-05 18:53:10', 1, 'Q578750'),
 (51116, 'Rotherfield Peppard', 2336, 'ENG', 232, 'GB', '51.53064000', '-0.97847000', '2019-10-05 18:53:10', '2019-10-05 18:53:10', 1, 'Q2304852'),
@@ -51361,7 +51361,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (51175, 'Saint Osyth', 2336, 'ENG', 232, 'GB', '51.80000000', '1.08333000', '2019-10-05 18:53:11', '2019-10-05 18:53:11', 1, 'Q1018225'),
 (51176, 'Saint Peters', 2336, 'ENG', 232, 'GB', '51.36667000', '1.41667000', '2019-10-05 18:53:11', '2019-10-05 18:53:11', 1, 'Q1018225'),
 (51177, 'Saint Stephen', 2336, 'ENG', 232, 'GB', '50.34469000', '-4.89973000', '2019-10-05 18:53:11', '2019-10-05 18:53:11', 1, 'Q2146886'),
-(51178, 'Saintfield', 2522, 'NYK', 232, 'GB', '54.46046000', '-5.83065000', '2019-10-05 18:53:11', '2019-10-05 18:53:11', 1, 'Q58097'),
+(51178, 'Saintfield', 2337, 'NYK', 232, 'GB', '54.46046000', '-5.83065000', '2019-10-05 18:53:11', '2021-01-23 10:35:23', 1, 'Q58097'),
 (51179, 'Salcombe', 2336, 'ENG', 232, 'GB', '50.23743000', '-3.76874000', '2019-10-05 18:53:11', '2019-10-05 18:53:11', 1, 'Q1247786'),
 (51180, 'Sale', 2336, 'ENG', 232, 'GB', '53.42519000', '-2.32443000', '2019-10-05 18:53:11', '2019-10-05 18:53:11', 1, 'Q1022733'),
 (51181, 'Salford', 2336, 'ENG', 232, 'GB', '53.48771000', '-2.29042000', '2019-10-05 18:53:11', '2019-10-05 18:53:11', 1, 'Q47952'),
@@ -51497,7 +51497,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (51311, 'Silverstone', 2336, 'ENG', 232, 'GB', '52.09216000', '-1.02602000', '2019-10-05 18:53:12', '2019-10-05 18:53:12', 1, 'Q339226'),
 (51312, 'Silverton', 2336, 'ENG', 232, 'GB', '50.81667000', '-3.48333000', '2019-10-05 18:53:12', '2019-10-05 18:53:12', 1, 'Q3474744'),
 (51313, 'Sinfin', 2336, 'ENG', 232, 'GB', '52.88157000', '-1.48681000', '2019-10-05 18:53:12', '2019-10-05 18:53:12', 1, 'Q3474744'),
-(51314, 'Sion Mills', 2522, 'NYK', 232, 'GB', '54.78752000', '-7.47276000', '2019-10-05 18:53:12', '2019-10-05 18:53:12', 1, 'Q576454'),
+(51314, 'Sion Mills', 2337, 'NYK', 232, 'GB', '54.78752000', '-7.47276000', '2019-10-05 18:53:12', '2021-01-23 10:35:23', 1, 'Q576454'),
 (51315, 'Sir Powys', 2338, 'WLS', 232, 'GB', '52.33333000', '-3.41667000', '2019-10-05 18:53:12', '2019-10-05 18:53:12', 1, 'Q156150'),
 (51316, 'Sissinghurst', 2336, 'ENG', 232, 'GB', '51.10905000', '0.56000000', '2019-10-05 18:53:12', '2019-10-05 18:53:12', 1, 'Q15063189'),
 (51317, 'Sittingbourne', 2336, 'ENG', 232, 'GB', '51.34128000', '0.73282000', '2019-10-05 18:53:13', '2019-10-05 18:53:13', 1, 'Q1626044'),
@@ -51530,7 +51530,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (51344, 'South Ayrshire', 2335, 'SCT', 232, 'GB', '55.25000000', '-4.66667000', '2019-10-05 18:53:13', '2019-10-05 18:53:13', 1, 'Q209131'),
 (51345, 'South Benfleet', 2336, 'ENG', 232, 'GB', '51.55295000', '0.55962000', '2019-10-05 18:53:13', '2019-10-05 18:53:13', 1, 'Q2347600'),
 (51346, 'South Brent', 2336, 'ENG', 232, 'GB', '50.42654000', '-3.83426000', '2019-10-05 18:53:13', '2019-10-05 18:53:13', 1, 'Q587856');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (51347, 'South Cave', 2336, 'ENG', 232, 'GB', '53.76987000', '-0.60107000', '2019-10-05 18:53:13', '2019-10-05 18:53:13', 1, 'Q2211572'),
 (51348, 'South Cerney', 2336, 'ENG', 232, 'GB', '51.67319000', '-1.93097000', '2019-10-05 18:53:13', '2019-10-05 18:53:13', 1, 'Q1791976'),
 (51349, 'South Chailey', 2336, 'ENG', 232, 'GB', '50.93831000', '-0.02105000', '2019-10-05 18:53:13', '2019-10-05 18:53:13', 1, 'Q1791976'),
@@ -51670,7 +51670,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (51483, 'Stourport-on-Severn', 2336, 'ENG', 232, 'GB', '52.33976000', '-2.28034000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q2299073'),
 (51484, 'Stow on the Wold', 2336, 'ENG', 232, 'GB', '51.93008000', '-1.72382000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q1026648'),
 (51485, 'Stowmarket', 2336, 'ENG', 232, 'GB', '52.18893000', '0.99774000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q2454255'),
-(51486, 'Strabane', 2522, 'NYK', 232, 'GB', '54.82373000', '-7.46916000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q1027659'),
+(51486, 'Strabane', 2337, 'NYK', 232, 'GB', '54.82373000', '-7.46916000', '2019-10-05 18:53:15', '2021-01-23 10:35:23', 1, 'Q1027659'),
 (51487, 'Stradbroke', 2336, 'ENG', 232, 'GB', '52.31819000', '1.27278000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q686979'),
 (51488, 'Stranraer', 2335, 'SCT', 232, 'GB', '54.90234000', '-5.02731000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q1001935'),
 (51489, 'Stratfield Mortimer', 2336, 'ENG', 232, 'GB', '51.37339000', '-1.03495000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q1982217'),
@@ -51737,7 +51737,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (51550, 'Talgarth', 2338, 'WLS', 232, 'GB', '51.99588000', '-3.23205000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q631340'),
 (51551, 'Talysarn', 2338, 'WLS', 232, 'GB', '53.05365000', '-4.25767000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q3396911'),
 (51552, 'Tamworth', 2336, 'ENG', 232, 'GB', '52.63399000', '-1.69587000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q704864'),
-(51553, 'Tandragee', 2522, 'NYK', 232, 'GB', '54.35486000', '-6.41396000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q2018299'),
+(51553, 'Tandragee', 2337, 'NYK', 232, 'GB', '54.35486000', '-6.41396000', '2019-10-05 18:53:15', '2021-01-23 10:35:23', 1, 'Q2018299'),
 (51554, 'Tanfield', 2336, 'ENG', 232, 'GB', '54.89288000', '-1.71316000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q7682579'),
 (51555, 'Tangmere', 2336, 'ENG', 232, 'GB', '50.85131000', '-0.71633000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q970445'),
 (51556, 'Tankerton', 2336, 'ENG', 232, 'GB', '51.36370000', '1.04913000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q7683545'),
@@ -51756,7 +51756,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (51569, 'Telford', 2336, 'ENG', 232, 'GB', '52.67659000', '-2.44926000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q576938'),
 (51570, 'Telford and Wrekin', 2336, 'ENG', 232, 'GB', '52.75000000', '-2.50000000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q1425298'),
 (51571, 'Templecombe', 2336, 'ENG', 232, 'GB', '50.99908000', '-2.41578000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q2333325'),
-(51572, 'Templepatrick', 2522, 'NYK', 232, 'GB', '54.68333000', '-6.08333000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q2223119'),
+(51572, 'Templepatrick', 2337, 'NYK', 232, 'GB', '54.68333000', '-6.08333000', '2019-10-05 18:53:15', '2021-01-23 10:35:23', 1, 'Q2223119'),
 (51573, 'Templeton', 2338, 'WLS', 232, 'GB', '51.77194000', '-4.73778000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q7698820'),
 (51574, 'Tempsford', 2336, 'ENG', 232, 'GB', '52.17051000', '-0.29586000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q1520080'),
 (51575, 'Tenbury Wells', 2336, 'ENG', 232, 'GB', '52.31077000', '-2.59621000', '2019-10-05 18:53:15', '2019-10-05 18:53:15', 1, 'Q2274623'),
@@ -51898,7 +51898,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (51711, 'Uttoxeter', 2336, 'ENG', 232, 'GB', '52.89838000', '-1.86488000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q2086137'),
 (51712, 'Vale of Glamorgan', 2338, 'WLS', 232, 'GB', '51.41667000', '-3.41667000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q844784'),
 (51713, 'Vale of Leven', 2335, 'SCT', 232, 'GB', '55.97132000', '-4.57928000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q844784');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (51714, 'Valley', 2338, 'WLS', 232, 'GB', '53.28490000', '-4.56644000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q3400948'),
 (51715, 'Ventnor', 2336, 'ENG', 232, 'GB', '50.59449000', '-1.20672000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q1026673'),
 (51716, 'Verwood', 2336, 'ENG', 232, 'GB', '50.87575000', '-1.87023000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q1242850'),
@@ -51936,12 +51936,12 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (51748, 'Ware', 2336, 'ENG', 232, 'GB', '51.81058000', '-0.02875000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q19792'),
 (51749, 'Wareham', 2336, 'ENG', 232, 'GB', '50.68792000', '-2.11058000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q387419'),
 (51750, 'Wargrave', 2336, 'ENG', 232, 'GB', '51.50068000', '-0.86577000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q598948'),
-(51751, 'Waringstown', 2522, 'NYK', 232, 'GB', '54.43431000', '-6.29929000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q149559'),
+(51751, 'Waringstown', 2337, 'NYK', 232, 'GB', '54.43431000', '-6.29929000', '2019-10-05 18:53:17', '2021-01-23 10:35:23', 1, 'Q149559'),
 (51752, 'Warkworth', 2336, 'ENG', 232, 'GB', '55.35000000', '-1.61667000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q1616632'),
 (51753, 'Warlingham', 2336, 'ENG', 232, 'GB', '51.30953000', '-0.05794000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q3062919'),
 (51754, 'Warminster', 2336, 'ENG', 232, 'GB', '51.20434000', '-2.17873000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q732745'),
 (51755, 'Warnham', 2336, 'ENG', 232, 'GB', '51.09107000', '-0.34847000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q1999142'),
-(51756, 'Warrenpoint', 2522, 'NYK', 232, 'GB', '54.10148000', '-6.25731000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q2224481'),
+(51756, 'Warrenpoint', 2337, 'NYK', 232, 'GB', '54.10148000', '-6.25731000', '2019-10-05 18:53:17', '2021-01-23 10:35:23', 1, 'Q2224481'),
 (51757, 'Warrington', 2336, 'ENG', 232, 'GB', '53.41667000', '-2.58333000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q894095'),
 (51758, 'Warsop', 2336, 'ENG', 232, 'GB', '53.21402000', '-1.15091000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q2195003'),
 (51759, 'Warton', 2336, 'ENG', 232, 'GB', '54.14715000', '-2.76435000', '2019-10-05 18:53:17', '2019-10-05 18:53:17', 1, 'Q7971050'),
@@ -52059,7 +52059,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (51871, 'Whitecraig', 2335, 'SCT', 232, 'GB', '55.91937000', '-3.04231000', '2019-10-05 18:53:18', '2019-10-05 18:53:18', 1, 'Q2011783'),
 (51872, 'Whitefield', 2336, 'ENG', 232, 'GB', '53.55000000', '-2.30000000', '2019-10-05 18:53:18', '2019-10-05 18:53:18', 1, 'Q1615791'),
 (51873, 'Whitehaven', 2336, 'ENG', 232, 'GB', '54.54897000', '-3.58412000', '2019-10-05 18:53:18', '2019-10-05 18:53:18', 1, 'Q1012481'),
-(51874, 'Whitehead', 2522, 'NYK', 232, 'GB', '54.75371000', '-5.70933000', '2019-10-05 18:53:18', '2019-10-05 18:53:18', 1, 'Q1233469'),
+(51874, 'Whitehead', 2337, 'NYK', 232, 'GB', '54.75371000', '-5.70933000', '2019-10-05 18:53:18', '2021-01-23 10:35:23', 1, 'Q1233469'),
 (51875, 'Whitehills', 2335, 'SCT', 232, 'GB', '57.67730000', '-2.57863000', '2019-10-05 18:53:18', '2019-10-05 18:53:18', 1, 'Q1009701'),
 (51876, 'Whiteparish', 2336, 'ENG', 232, 'GB', '51.01041000', '-1.64855000', '2019-10-05 18:53:18', '2019-10-05 18:53:18', 1, 'Q2730786'),
 (51877, 'Whitland', 2338, 'WLS', 232, 'GB', '51.81889000', '-4.61528000', '2019-10-05 18:53:18', '2019-10-05 18:53:18', 1, 'Q1996667'),
@@ -52268,7 +52268,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (52080, 'Khashuri', 903, 'SK', 81, 'GE', '41.99414000', '43.59994000', '2019-10-05 18:53:20', '2019-10-05 18:53:20', 1, 'Q932901'),
 (52081, 'Khelvachauri', 900, 'AJ', 81, 'GE', '41.58556000', '41.66889000', '2019-10-05 18:53:20', '2019-10-05 18:53:20', 1, 'Q1025120'),
 (52082, 'Khobi', 908, 'SZ', 81, 'GE', '42.31558000', '41.89871000', '2019-10-05 18:53:20', '2019-10-05 18:53:20', 1, 'Q1989822');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (52083, 'Khoni', 905, 'IM', 81, 'GE', '42.32260000', '42.42061000', '2019-10-05 18:53:20', '2019-10-05 18:53:20', 1, 'Q1011011'),
 (52084, 'Khulo', 900, 'AJ', 81, 'GE', '41.64353000', '42.30397000', '2019-10-05 18:53:20', '2019-10-05 18:53:20', 1, 'Q1089456'),
 (52085, 'Kobuleti', 900, 'AJ', 81, 'GE', '41.82143000', '41.77921000', '2019-10-05 18:53:20', '2019-10-05 18:53:20', 1, 'Q328975'),
@@ -52647,7 +52647,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (52458, 'Amýntaio', 2108, 'C', 85, 'GR', '40.68967000', '21.67974000', '2019-10-05 18:53:21', '2020-05-01 13:22:50', 1, 'Q482094'),
 (52459, 'Anakasiá', 2104, '24', 85, 'GR', '39.38112000', '22.97484000', '2019-10-05 18:53:22', '2020-05-01 13:22:50', 1, 'Q482094'),
 (52460, 'Anaráchi', 2108, 'C', 85, 'GR', '40.49234000', '21.57279000', '2019-10-05 18:53:22', '2020-05-01 13:22:50', 1, 'Q482094');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (52461, 'Anatolikó', 2125, 'B', 85, 'GR', '40.66152000', '22.71190000', '2019-10-05 18:53:22', '2020-05-01 13:22:50', 1, 'Q3561404'),
 (52462, 'Anatolí', 2110, 'D', 85, 'GR', '39.63531000', '20.86578000', '2019-10-05 18:53:22', '2020-05-01 13:22:50', 1, 'Q487563'),
 (52463, 'Andravída', 2096, 'G', 85, 'GR', '37.90588000', '21.26936000', '2019-10-05 18:53:22', '2020-05-01 13:22:50', 1, 'Q493019'),
@@ -53027,7 +53027,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (52837, 'Lamía', 2128, 'H', 85, 'GR', '38.90000000', '22.43333000', '2019-10-05 18:53:23', '2020-05-01 13:22:50', 1, 'Q192980'),
 (52838, 'Langádhia', 2119, 'J', 85, 'GR', '37.68186000', '22.03002000', '2019-10-05 18:53:23', '2020-05-01 13:22:50', 1, 'Q1021625'),
 (52839, 'Lechainá', 2096, 'G', 85, 'GR', '37.93333000', '21.26667000', '2019-10-05 18:53:23', '2020-05-01 13:22:50', 1, 'Q2706322');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (52840, 'Lefkada', 2131, 'F', 85, 'GR', '38.75000000', '20.66667000', '2019-10-05 18:53:23', '2019-10-05 18:53:23', 1, 'Q1248071'),
 (52841, 'Lefkáda', 2131, 'F', 85, 'GR', '38.83036000', '20.70442000', '2019-10-05 18:53:23', '2020-05-01 13:22:50', 1, 'Q941736'),
 (52842, 'Lefkímmi', 2131, 'F', 85, 'GR', '39.42336000', '20.07094000', '2019-10-05 18:53:23', '2020-05-01 13:22:50', 1, 'Q1812299'),
@@ -53404,7 +53404,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (53213, 'Sfendámi', 2125, 'B', 85, 'GR', '40.41307000', '22.54677000', '2019-10-05 18:53:25', '2020-05-01 13:22:50', 1, 'Q12073806'),
 (53214, 'Sidirókastro', 2125, 'B', 85, 'GR', '41.23499000', '23.38899000', '2019-10-05 18:53:25', '2020-05-01 13:22:50', 1, 'Q1018794'),
 (53215, 'Sikyón', 2119, 'J', 85, 'GR', '37.98230000', '22.72462000', '2019-10-05 18:53:25', '2020-05-01 13:22:50', 1, 'Q21591223');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (53216, 'Sitagroí', 2120, 'A2', 85, 'GR', '41.11067000', '24.02755000', '2019-10-05 18:53:25', '2020-05-01 13:22:50', 1, 'Q2405927'),
 (53217, 'Sitia', 2109, 'M', 85, 'GR', '35.20783000', '26.10467000', '2019-10-05 18:53:25', '2019-10-05 18:53:25', 1, 'Q985549'),
 (53218, 'Siátista', 2108, 'C', 85, 'GR', '40.26194000', '21.54417000', '2019-10-05 18:53:25', '2020-05-01 13:22:50', 1, 'Q677249'),
@@ -53775,7 +53775,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (53583, 'Municipio de San Felipe', 3664, 'RE', 90, 'GT', '14.63009000', '-91.60261000', '2019-10-05 18:53:27', '2019-10-05 18:53:27', 1, 'Q2403612'),
 (53584, 'Municipio de San Francisco', 3669, 'PE', 90, 'GT', '16.72425000', '-89.90877000', '2019-10-05 18:53:27', '2019-10-05 18:53:27', 1, 'Q2403612'),
 (53585, 'Municipio de San Juan Cotzal', 3657, 'QC', 90, 'GT', '15.42699000', '-91.02097000', '2019-10-05 18:53:27', '2019-10-05 18:53:27', 1, 'Q2403612');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (53586, 'Municipio de San Juan Ostuncalco', 3668, 'QZ', 90, 'GT', '14.87477000', '-91.68842000', '2019-10-05 18:53:27', '2019-10-05 18:53:27', 1, 'Q2403612'),
 (53587, 'Municipio de San Miguel Panán', 3660, 'SU', 90, 'GT', '14.50525000', '-91.35956000', '2019-10-05 18:53:27', '2020-05-01 13:22:51', 1, 'Q2403612'),
 (53588, 'Municipio de San Pedro Jocopilas', 3657, 'QC', 90, 'GT', '15.15472000', '-91.15610000', '2019-10-05 18:53:27', '2019-10-05 18:53:27', 1, 'Q2403612'),
@@ -54137,7 +54137,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (53944, 'El Chichicaste', 4043, 'EP', 97, 'HN', '14.06667000', '-86.30000000', '2019-10-05 18:53:28', '2019-10-05 18:53:28', 1, 'Q2090091'),
 (53945, 'El Chimbo', 4052, 'FM', 97, 'HN', '14.13333000', '-87.11667000', '2019-10-05 18:53:28', '2019-10-05 18:53:28', 1, 'Q2090091'),
 (53946, 'El Ciruelo', 4053, 'SB', 97, 'HN', '15.30000000', '-88.50000000', '2019-10-05 18:53:28', '2019-10-05 18:53:28', 1, 'Q2090091');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (53947, 'El Corozal', 4053, 'SB', 97, 'HN', '15.06667000', '-88.61667000', '2019-10-05 18:53:28', '2019-10-05 18:53:28', 1, 'Q2090091'),
 (53948, 'El Corpus', 4049, 'CP', 97, 'HN', '14.70000000', '-88.91667000', '2019-10-05 18:53:28', '2019-10-05 18:53:28', 1, 'Q2090091'),
 (53949, 'El Corpus', 4041, 'CH', 97, 'HN', '13.30464000', '-87.00970000', '2019-10-05 18:53:28', '2019-10-05 18:53:28', 1, 'Q2090091'),
@@ -54504,7 +54504,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (54310, 'Santa Rita', 4049, 'CP', 97, 'HN', '14.88000000', '-89.01000000', '2019-10-05 18:53:30', '2019-10-05 18:53:30', 1, 'Q975496'),
 (54311, 'Santa Rita, Copan', 4049, 'CP', 97, 'HN', '14.86748000', '-89.10000000', '2019-10-05 18:53:30', '2019-10-05 18:53:30', 1, 'Q975496'),
 (54312, 'Santa Rosa de Aguán', 4051, 'CL', 97, 'HN', '15.95000000', '-85.71667000', '2019-10-05 18:53:30', '2020-05-01 13:22:51', 1, 'Q958080');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (54313, 'Santa Rosa de Copán', 4049, 'CP', 97, 'HN', '14.76667000', '-88.77917000', '2019-10-05 18:53:30', '2020-05-01 13:22:51', 1, 'Q954300'),
 (54314, 'Santiago Puringla', 4058, 'LP', 97, 'HN', '14.35000000', '-87.90000000', '2019-10-05 18:53:30', '2019-10-05 18:53:30', 1, 'Q1930019'),
 (54315, 'Savannah Bight', 4045, 'IB', 97, 'HN', '16.45000000', '-85.85000000', '2019-10-05 18:53:30', '2019-10-05 18:53:30', 1, 'Q1930019'),
@@ -54882,7 +54882,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (54687, 'Lepoglava', 739, '05', 55, 'HR', '46.21056000', '16.03556000', '2019-10-05 18:53:32', '2019-10-05 18:53:32', 1, 'Q326949'),
 (54688, 'Lipik', 724, '11', 55, 'HR', '45.41139000', '17.15222000', '2019-10-05 18:53:32', '2019-10-05 18:53:32', 1, 'Q396595'),
 (54689, 'Lipovljani', 733, '03', 55, 'HR', '45.39667000', '16.88972000', '2019-10-05 18:53:32', '2019-10-05 18:53:32', 1, 'Q2455431');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (54690, 'Lički Osik', 731, '09', 55, 'HR', '44.60389000', '15.42472000', '2019-10-05 18:53:32', '2020-05-01 13:22:41', 1, 'Q3443459'),
 (54691, 'Ližnjan', 743, '18', 55, 'HR', '44.82833000', '13.95694000', '2019-10-05 18:53:32', '2020-05-01 13:22:41', 1, 'Q1077824'),
 (54692, 'Ližnjan-Lisignano', 743, '18', 55, 'HR', '44.82765000', '13.96028000', '2019-10-05 18:53:32', '2020-05-01 13:22:41', 1, 'Q1077824'),
@@ -55261,7 +55261,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (55065, 'Arrondissement de la Grande Rivière du Nord', 4117, 'ND', 95, 'HT', '19.51667000', '-72.16667000', '2019-10-05 18:53:33', '2020-05-01 13:22:51', 1, 'Q2703974'),
 (55066, 'Arrondissement des Cayes', 4122, 'SD', 95, 'HT', '18.30000000', '-73.83333000', '2019-10-05 18:53:33', '2019-10-05 18:53:33', 1, 'Q2703974'),
 (55067, 'Arrondissement du Borgne', 4117, 'ND', 95, 'HT', '19.75000000', '-72.50000000', '2019-10-05 18:53:33', '2019-10-05 18:53:33', 1, 'Q2703974');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (55068, 'Arrondissement du Môle Saint-Nicolas', 4126, 'NO', 95, 'HT', '19.75000000', '-73.25000000', '2019-10-05 18:53:33', '2020-05-01 13:22:51', 1, 'Q2703974'),
 (55069, 'Arrondissement du Trou du Nord', 4121, 'NE', 95, 'HT', '19.55000000', '-71.98333000', '2019-10-05 18:53:33', '2019-10-05 18:53:33', 1, 'Q2703974'),
 (55070, 'Bahon', 4117, 'ND', 95, 'HT', '19.46959000', '-72.11466000', '2019-10-05 18:53:33', '2019-10-05 18:53:33', 1, 'Q2637944'),
@@ -55634,7 +55634,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (55437, 'Földes', 1063, 'HB', 99, 'HU', '47.30000000', '21.36667000', '2019-10-05 18:53:35', '2020-05-01 13:22:51', 1, 'Q260132'),
 (55438, 'Földeák', 1031, 'CS', 99, 'HU', '46.31667000', '20.50000000', '2019-10-05 18:53:35', '2020-05-01 13:22:51', 1, 'Q933653'),
 (55439, 'Fülöpjakab', 1048, 'BK', 99, 'HU', '46.74221000', '19.72132000', '2019-10-05 18:53:35', '2020-05-01 13:22:51', 1, 'Q1006578');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (55440, 'Fülöpszállás', 1048, 'BK', 99, 'HU', '46.82075000', '19.23748000', '2019-10-05 18:53:35', '2020-05-01 13:22:51', 1, 'Q1006094'),
 (55441, 'Füzesabony', 1040, 'HE', 99, 'HU', '47.75000000', '20.41667000', '2019-10-05 18:53:35', '2020-05-01 13:22:51', 1, 'Q911642'),
 (55442, 'Füzesabonyi Járás', 1040, 'HE', 99, 'HU', '47.72671000', '20.42875000', '2019-10-05 18:53:35', '2020-05-01 13:22:51', 1, 'Q853176'),
@@ -56008,7 +56008,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (55810, 'Parád', 1040, 'HE', 99, 'HU', '47.92323000', '20.02972000', '2019-10-05 18:53:36', '2020-05-01 13:22:51', 1, 'Q935066'),
 (55811, 'Parádsasvár', 1040, 'HE', 99, 'HU', '47.91260000', '19.97709000', '2019-10-05 18:53:36', '2020-05-01 13:22:51', 1, 'Q1185447'),
 (55812, 'Pellérd', 1055, 'BA', 99, 'HU', '46.03438000', '18.15403000', '2019-10-05 18:53:36', '2020-05-01 13:22:51', 1, 'Q1074853');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (55813, 'Perbál', 1059, 'PE', 99, 'HU', '47.58957000', '18.76099000', '2019-10-05 18:53:36', '2020-05-01 13:22:51', 1, 'Q1027271'),
 (55814, 'Perkáta', 1044, 'FE', 99, 'HU', '47.04701000', '18.78734000', '2019-10-05 18:53:36', '2020-05-01 13:22:51', 1, 'Q339890'),
 (55815, 'Petneháza', 1045, 'SZ', 99, 'HU', '48.06084000', '22.07485000', '2019-10-05 18:53:36', '2020-05-01 13:22:51', 1, 'Q1079827'),
@@ -56383,7 +56383,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (56184, 'Atambua', 1818, 'NT', 102, 'ID', '-9.10611000', '124.89250000', '2019-10-05 18:53:37', '2019-10-05 18:53:37', 1, 'Q25016302'),
 (56185, 'Babat', 1827, 'JI', 102, 'ID', '-7.11282000', '112.16354000', '2019-10-05 18:53:37', '2019-10-05 18:53:37', 1, 'Q25016302'),
 (56186, 'Baekrajan', 1802, 'JT', 102, 'ID', '-6.76740000', '110.85410000', '2019-10-05 18:53:37', '2019-10-05 18:53:37', 1, 'Q25016421');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (56187, 'Baki', 1802, 'JT', 102, 'ID', '-7.61278000', '110.78389000', '2019-10-05 18:53:37', '2019-10-05 18:53:37', 1, 'Q25016477'),
 (56188, 'Balaipungut', 1809, 'RI', 102, 'ID', '1.05949000', '101.29054000', '2019-10-05 18:53:37', '2019-10-05 18:53:37', 1, 'Q25015779'),
 (56189, 'Balapulang', 1802, 'JT', 102, 'ID', '-7.04858000', '109.10056000', '2019-10-05 18:53:37', '2019-10-05 18:53:37', 1, 'Q25015779'),
@@ -56739,7 +56739,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (56539, 'Kabupaten Minahasa Utara', 1808, 'SA', 102, 'ID', '1.40250000', '124.96000000', '2019-10-05 18:53:39', '2019-10-05 18:53:39', 1, 'Q15838'),
 (56540, 'Kabupaten Mojokerto', 1827, 'JI', 102, 'ID', '-7.55000000', '112.50000000', '2019-10-05 18:53:39', '2019-10-05 18:53:39', 1, 'Q11096'),
 (56541, 'Kabupaten Morowali Utara', 1813, 'ST', 102, 'ID', '-1.72070000', '121.24649000', '2019-10-05 18:53:39', '2019-10-05 18:53:39', 1, 'Q12488353');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (56542, 'Kabupaten Muara Enim', 1816, 'SS', 102, 'ID', '-4.23270000', '103.61410000', '2019-10-05 18:53:39', '2019-10-05 18:53:39', 1, 'Q8119'),
 (56543, 'Kabupaten Muaro Jambi', 1815, 'JA', 102, 'ID', '-1.55214000', '103.82163000', '2019-10-05 18:53:39', '2019-10-05 18:53:39', 1, 'Q7381'),
 (56544, 'Kabupaten Mukomuko', 1793, 'BE', 102, 'ID', '-3.07438000', '101.54766000', '2019-10-05 18:53:39', '2019-10-05 18:53:39', 1, 'Q8033'),
@@ -57098,7 +57098,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (56897, 'Palangkaraya', 1794, 'KT', 102, 'ID', '-2.20833000', '113.91667000', '2019-10-05 18:53:40', '2019-10-05 18:53:40', 1, 'Q8130'),
 (56898, 'Palembang', 1816, 'SS', 102, 'ID', '-2.91673000', '104.74580000', '2019-10-05 18:53:40', '2019-10-05 18:53:40', 1, 'Q8131'),
 (56899, 'Palimanan', 1825, 'JB', 102, 'ID', '-6.70694000', '108.42417000', '2019-10-05 18:53:40', '2019-10-05 18:53:40', 1, 'Q24849670');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (56900, 'Palopo', 1795, 'SN', 102, 'ID', '-2.99250000', '120.19694000', '2019-10-05 18:53:40', '2019-10-05 18:53:40', 1, 'Q14635'),
 (56901, 'Palu', 1813, 'ST', 102, 'ID', '-0.90833000', '119.87083000', '2019-10-05 18:53:40', '2019-10-05 18:53:40', 1, 'Q14635'),
 (56902, 'Pamanukan', 1825, 'JB', 102, 'ID', '-6.28417000', '107.81056000', '2019-10-05 18:53:40', '2019-10-05 18:53:40', 1, 'Q24849706'),
@@ -57473,7 +57473,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (57271, 'Kells', 1073, 'L', 105, 'IE', '53.72639000', '-6.87917000', '2019-10-05 18:53:42', '2019-10-05 18:53:42', 1, 'Q917848'),
 (57272, 'Kenmare', 1080, 'M', 105, 'IE', '51.88333000', '-9.58333000', '2019-10-05 18:53:42', '2019-10-05 18:53:42', 1, 'Q166232'),
 (57273, 'Kentstown', 1073, 'L', 105, 'IE', '53.62754000', '-6.52674000', '2019-10-05 18:53:42', '2019-10-05 18:53:42', 1, 'Q2081233');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (57274, 'Kilbeggan', 1073, 'L', 105, 'IE', '53.36944000', '-7.50333000', '2019-10-05 18:53:42', '2019-10-05 18:53:42', 1, 'Q68364'),
 (57275, 'Kilcock', 1073, 'L', 105, 'IE', '53.40222000', '-6.67083000', '2019-10-05 18:53:42', '2019-10-05 18:53:42', 1, 'Q2269522'),
 (57276, 'Kilcoole', 1073, 'L', 105, 'IE', '53.10278000', '-6.06500000', '2019-10-05 18:53:42', '2019-10-05 18:53:42', 1, 'Q2437185'),
@@ -57850,7 +57850,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (57648, 'Alwa Tirunagari', 4035, 'TN', 101, 'IN', '8.60635000', '77.93983000', '2019-10-05 18:53:43', '2019-10-05 18:53:43', 1, 'Q588793'),
 (57649, 'Alwar', 4014, 'RJ', 101, 'IN', '27.50000000', '76.50000000', '2019-10-05 18:53:43', '2019-10-05 18:53:43', 1, 'Q449690'),
 (57650, 'Alwaye', 4028, 'KL', 101, 'IN', '10.10649000', '76.35484000', '2019-10-05 18:53:43', '2019-10-05 18:53:43', 1, 'Q449690');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (57651, 'Alawalpur', 4015, 'PB', 101, 'IN', '31.43161000', '75.65614000', '2019-10-05 18:53:43', '2020-07-04 07:23:41', 1, 'Q583873'),
 (57652, 'Alībāg', 4008, 'MH', 101, 'IN', '18.64813000', '72.87579000', '2019-10-05 18:53:43', '2020-05-01 13:22:53', 1, 'Q385394'),
 (57653, 'Alīganj', 4022, 'UP', 101, 'IN', '27.49358000', '79.17127000', '2019-10-05 18:53:43', '2020-05-01 13:22:53', 1, 'Q589296'),
@@ -58228,7 +58228,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (58028, 'Bihpuriāgaon', 4027, 'AS', 101, 'IN', '27.01718000', '93.91673000', '2019-10-05 18:53:45', '2020-05-01 13:22:52', 1, 'Q796775'),
 (58029, 'Bihār Sharīf', 4037, 'BR', 101, 'IN', '25.20084000', '85.52389000', '2019-10-05 18:53:45', '2020-05-01 13:22:52', 1, 'Q2308343'),
 (58030, 'Bihārīganj', 4037, 'BR', 101, 'IN', '25.73415000', '86.98837000', '2019-10-05 18:53:45', '2020-05-01 13:22:52', 1, 'Q4907104');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (58031, 'Bijapur', 4026, 'KA', 101, 'IN', '16.82442000', '75.71537000', '2019-10-05 19:03:48', '2019-10-05 19:03:48', 1, 'Q3636023'),
 (58032, 'Bijapur', 4040, 'CT', 101, 'IN', '18.84322000', '80.77610000', '2019-10-05 19:03:48', '2019-10-05 19:03:48', 1, 'Q100164'),
 (58033, 'Bijbehara', 4029, 'JK', 101, 'IN', '33.79378000', '75.10700000', '2019-10-05 19:03:48', '2019-10-05 19:03:48', 1, 'Q100164'),
@@ -58601,7 +58601,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (58400, 'Pendino', 1669, '72', 107, 'IT', '40.84708000', '14.26321000', '2019-10-05 19:06:40', '2019-10-05 19:06:40', 1, 'Q686709'),
 (58401, 'Penitro', 1678, '62', 107, 'IT', '41.27328000', '13.69262000', '2019-10-05 19:06:40', '2019-10-05 19:06:40', 1, 'Q18453835'),
 (58402, 'Penna San Giovanni', 1670, '57', 107, 'IT', '43.05608000', '13.42539000', '2019-10-05 19:06:40', '2019-10-05 19:06:40', 1, 'Q18453835');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (58403, 'Penna Sant\'Andrea', 1679, '65', 107, 'IT', '42.59403000', '13.77215000', '2019-10-05 19:06:40', '2019-10-05 19:06:40', 1, 'Q18453835'),
 (58404, 'Penna in Teverina', 1683, '55', 107, 'IT', '42.49342000', '12.35845000', '2019-10-05 19:06:40', '2019-10-05 19:06:40', 1, 'Q18453835'),
 (58405, 'Pennabilli', 1773, '45', 107, 'IT', '43.81746000', '12.26708000', '2019-10-05 19:06:40', '2019-10-05 19:06:40', 1, 'Q18453835'),
@@ -58967,7 +58967,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (58765, 'Poggio Sannita', 1695, '67', 107, 'IT', '41.77939000', '14.41485000', '2019-10-05 19:06:42', '2019-10-05 19:06:42', 1, 'Q18455144'),
 (58766, 'Poggio dei Pini', 1715, '88', 107, 'IT', '39.14717000', '8.97139000', '2019-10-05 19:06:42', '2019-10-05 19:06:42', 1, 'Q2604595'),
 (58767, 'Poggiodomo', 1683, '55', 107, 'IT', '42.71237000', '12.93251000', '2019-10-05 19:06:42', '2019-10-05 19:06:42', 1, 'Q2604595');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (58768, 'Poggiofiorito', 1679, '65', 107, 'IT', '42.25414000', '14.32082000', '2019-10-05 19:06:42', '2019-10-05 19:06:42', 1, 'Q2604595'),
 (58769, 'Poggiomarino', 1669, '72', 107, 'IT', '40.80114000', '14.54066000', '2019-10-05 19:06:43', '2019-10-05 19:06:43', 1, 'Q2604595'),
 (58770, 'Poggioreale', 1669, '72', 107, 'IT', '40.86543000', '14.28877000', '2019-10-05 19:06:43', '2019-10-05 19:06:43', 1, 'Q2604595'),
@@ -59331,7 +59331,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (59128, 'Provincia di Crotone', 1703, '78', 107, 'IT', '39.12007000', '17.08134000', '2019-10-05 19:06:47', '2019-10-05 19:06:47', 1, 'Q16165'),
 (59129, 'Provincia di Cuneo', 1702, '21', 107, 'IT', '44.51667000', '7.56667000', '2019-10-05 19:06:47', '2019-10-05 19:06:47', 1, 'Q15091'),
 (59130, 'Provincia di Ferrara', 1773, '45', 107, 'IT', '44.80000000', '11.83333000', '2019-10-05 19:06:47', '2019-10-05 19:06:47', 1, 'Q16168');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (59131, 'Provincia di Foggia', 1688, '75', 107, 'IT', '41.45000000', '15.53333000', '2019-10-05 19:06:47', '2019-10-05 19:06:47', 1, 'Q15129'),
 (59132, 'Provincia di Forlì-Cesena', 1773, '45', 107, 'IT', '44.08333000', '12.03333000', '2019-10-05 19:06:47', '2020-05-01 13:22:55', 1, 'Q16180'),
 (59133, 'Provincia di Frosinone', 1678, '62', 107, 'IT', '41.61667000', '13.45000000', '2019-10-05 19:06:47', '2019-10-05 19:06:47', 1, 'Q16181'),
@@ -59696,7 +59696,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (59492, 'Roccabianca', 1773, '45', 107, 'IT', '45.00772000', '10.21824000', '2019-10-05 19:06:54', '2019-10-05 19:06:54', 1, 'Q18465261'),
 (59493, 'Roccabruna', 1702, '21', 107, 'IT', '44.47453000', '7.34373000', '2019-10-05 19:06:54', '2019-10-05 19:06:54', 1, 'Q18465261'),
 (59494, 'Roccacasale', 1679, '65', 107, 'IT', '42.12249000', '13.88758000', '2019-10-05 19:06:54', '2019-10-05 19:06:54', 1, 'Q18426950');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (59495, 'Roccadaspide', 1669, '72', 107, 'IT', '40.42333000', '15.19118000', '2019-10-05 19:06:54', '2019-10-05 19:06:54', 1, 'Q18426950'),
 (59496, 'Roccafiorita', 1709, '82', 107, 'IT', '37.93086000', '15.26739000', '2019-10-05 19:06:54', '2019-10-05 19:06:54', 1, 'Q18426950'),
 (59497, 'Roccaforte Ligure', 1702, '21', 107, 'IT', '44.67780000', '9.02800000', '2019-10-05 19:06:55', '2019-10-05 19:06:55', 1, 'Q18426950'),
@@ -60062,7 +60062,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (59857, 'San Casciano dei Bagni', 1664, '52', 107, 'IT', '42.87008000', '11.87656000', '2019-10-05 19:07:01', '2019-10-05 19:07:01', 1, 'Q18433140'),
 (59858, 'San Casciano in Val di Pesa', 1664, '52', 107, 'IT', '43.65975000', '11.18494000', '2019-10-05 19:07:01', '2019-10-05 19:07:01', 1, 'Q18433140'),
 (59859, 'San Cassiano', 1688, '75', 107, 'IT', '40.05631000', '18.33392000', '2019-10-05 19:07:01', '2019-10-05 19:07:01', 1, 'Q18433140');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (59860, 'San Cassiano', 1705, '25', 107, 'IT', '46.27697000', '9.39743000', '2019-10-05 19:07:01', '2019-10-05 19:07:01', 1, 'Q18494696'),
 (59861, 'San Castrese', 1669, '72', 107, 'IT', '41.25862000', '13.86541000', '2019-10-05 19:07:01', '2019-10-05 19:07:01', 1, 'Q18436722'),
 (59862, 'San Cataldo', 1709, '82', 107, 'IT', '37.48412000', '13.98542000', '2019-10-05 19:07:01', '2019-10-05 19:07:01', 1, 'Q18436722'),
@@ -60410,7 +60410,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (60204, 'San Polo', 1773, '45', 107, 'IT', '44.97868000', '9.74070000', '2019-10-05 19:07:04', '2019-10-05 19:07:04', 1, 'Q18445429'),
 (60205, 'San Polo d\'Enza', 1773, '45', 107, 'IT', '44.62690000', '10.42667000', '2019-10-05 19:07:04', '2019-10-05 19:07:04', 1, 'Q18445429'),
 (60206, 'San Polo dei Cavalieri', 1678, '62', 107, 'IT', '42.01037000', '12.83989000', '2019-10-05 19:07:04', '2019-10-05 19:07:04', 1, 'Q18445429');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (60207, 'San Polo di Piave', 1753, '34', 107, 'IT', '45.78969000', '12.39287000', '2019-10-05 19:07:04', '2019-10-05 19:07:04', 1, 'Q18445429'),
 (60208, 'San Polomatese', 1695, '67', 107, 'IT', '41.45932000', '14.49343000', '2019-10-05 19:07:04', '2019-10-05 19:07:04', 1, 'Q18499700'),
 (60209, 'San Ponso', 1702, '21', 107, 'IT', '45.35101000', '7.67111000', '2019-10-05 19:07:04', '2019-10-05 19:07:04', 1, 'Q18499700'),
@@ -60761,7 +60761,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (60554, 'Sarno', 1669, '72', 107, 'IT', '40.80748000', '14.62151000', '2019-10-05 19:07:07', '2019-10-05 19:07:07', 1, 'Q18498862'),
 (60555, 'Sarnonico', 1725, '32', 107, 'IT', '46.41941000', '11.14177000', '2019-10-05 19:07:07', '2019-10-05 19:07:07', 1, 'Q18498862'),
 (60556, 'Saronno', 1705, '25', 107, 'IT', '45.62513000', '9.03517000', '2019-10-05 19:07:07', '2019-10-05 19:07:07', 1, 'Q18498862');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (60557, 'Sarroch', 1715, '88', 107, 'IT', '39.06577000', '9.00937000', '2019-10-05 19:07:07', '2019-10-05 19:07:07', 1, 'Q18498862'),
 (60558, 'Sarsina', 1773, '45', 107, 'IT', '43.91981000', '12.14255000', '2019-10-05 19:07:07', '2019-10-05 19:07:07', 1, 'Q18498862'),
 (60559, 'Sartano', 1703, '78', 107, 'IT', '39.51169000', '16.17915000', '2019-10-05 19:07:07', '2019-10-05 19:07:07', 1, 'Q18430445'),
@@ -61131,7 +61131,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (60923, 'Solopaca', 1669, '72', 107, 'IT', '41.19535000', '14.54767000', '2019-10-05 19:07:12', '2019-10-05 19:07:12', 1, 'Q18441720'),
 (60924, 'Solto Collina', 1705, '25', 107, 'IT', '45.78230000', '10.02638000', '2019-10-05 19:07:12', '2019-10-05 19:07:12', 1, 'Q18441720'),
 (60925, 'Solza', 1705, '25', 107, 'IT', '45.67868000', '9.49075000', '2019-10-05 19:07:12', '2019-10-05 19:07:12', 1, 'Q18441720');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (60926, 'Somaglia', 1705, '25', 107, 'IT', '45.14947000', '9.63346000', '2019-10-05 19:07:12', '2019-10-05 19:07:12', 1, 'Q18441720'),
 (60927, 'Somano', 1702, '21', 107, 'IT', '44.53534000', '8.00784000', '2019-10-05 19:07:12', '2019-10-05 19:07:12', 1, 'Q18441720'),
 (60928, 'Somma Lombardo', 1705, '25', 107, 'IT', '45.68213000', '8.70759000', '2019-10-05 19:07:12', '2019-10-05 19:07:12', 1, 'Q18441720'),
@@ -61502,7 +61502,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (61293, 'Tocco da Casauria', 1679, '65', 107, 'IT', '42.21203000', '13.91547000', '2019-10-05 19:07:16', '2019-10-05 19:07:16', 1, 'Q18430784'),
 (61294, 'Toceno', 1702, '21', 107, 'IT', '46.14468000', '8.46902000', '2019-10-05 19:07:16', '2019-10-05 19:07:16', 1, 'Q18430784'),
 (61295, 'Todi', 1683, '55', 107, 'IT', '42.77881000', '12.41202000', '2019-10-05 19:07:16', '2019-10-05 19:07:16', 1, 'Q18430784');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (61296, 'Toffia', 1678, '62', 107, 'IT', '42.21300000', '12.75500000', '2019-10-05 19:07:16', '2019-10-05 19:07:16', 1, 'Q18430784'),
 (61297, 'Toirano', 1768, '42', 107, 'IT', '44.12732000', '8.20725000', '2019-10-05 19:07:16', '2019-10-05 19:07:16', 1, 'Q18430784'),
 (61298, 'Tolentino', 1670, '57', 107, 'IT', '43.20918000', '13.28524000', '2019-10-05 19:07:16', '2019-10-05 19:07:16', 1, 'Q18430784'),
@@ -61871,7 +61871,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (61661, 'Valeggio sul Mincio', 1753, '34', 107, 'IT', '45.35333000', '10.73635000', '2019-10-05 19:07:22', '2019-10-05 19:07:22', 1, 'Q18489162'),
 (61662, 'Valentano', 1678, '62', 107, 'IT', '42.56377000', '11.82748000', '2019-10-05 19:07:22', '2019-10-05 19:07:22', 1, 'Q18489162'),
 (61663, 'Valentino', 1702, '21', 107, 'IT', '45.15558000', '8.09391000', '2019-10-05 19:07:22', '2019-10-05 19:07:22', 1, 'Q18445478');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (61664, 'Valenza', 1702, '21', 107, 'IT', '45.01242000', '8.64379000', '2019-10-05 19:07:22', '2019-10-05 19:07:22', 1, 'Q18445478'),
 (61665, 'Valenzano', 1688, '75', 107, 'IT', '41.04376000', '16.88491000', '2019-10-05 19:07:22', '2019-10-05 19:07:22', 1, 'Q18445478'),
 (61666, 'Valenzatico', 1664, '52', 107, 'IT', '43.86680000', '10.96497000', '2019-10-05 19:07:22', '2019-10-05 19:07:22', 1, 'Q16620210'),
@@ -62238,7 +62238,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (62027, 'Villa Santina', 1756, '36', 107, 'IT', '46.41368000', '12.92445000', '2019-10-05 19:07:25', '2019-10-05 19:07:25', 1, 'Q18427125'),
 (62028, 'Villa Santo Stefano', 1678, '62', 107, 'IT', '41.51683000', '13.31046000', '2019-10-05 19:07:25', '2019-10-05 19:07:25', 1, 'Q18427125'),
 (62029, 'Villa Verde', 1715, '88', 107, 'IT', '39.79551000', '8.82114000', '2019-10-05 19:07:25', '2019-10-05 19:07:25', 1, 'Q18427125');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (62030, 'Villa Verucchio', 1773, '45', 107, 'IT', '44.00510000', '12.43575000', '2019-10-05 19:07:25', '2019-10-05 19:07:25', 1, 'Q2310250'),
 (62031, 'Villa Vicentina', 1756, '36', 107, 'IT', '45.81378000', '13.39332000', '2019-10-05 19:07:25', '2019-10-05 19:07:25', 1, 'Q2310250'),
 (62032, 'Villa d\'Adda', 1705, '25', 107, 'IT', '45.71398000', '9.46165000', '2019-10-05 19:07:25', '2019-10-05 19:07:25', 1, 'Q2310250'),
@@ -62605,7 +62605,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (62393, 'Brompton', 3743, '11', 108, 'JM', '18.06795000', '-77.88821000', '2019-10-05 19:07:28', '2019-10-05 19:07:28', 1, 'Q890358'),
 (62394, 'Broughton', 3742, '10', 108, 'JM', '18.21747000', '-78.22894000', '2019-10-05 19:07:28', '2019-10-05 19:07:28', 1, 'Q890358'),
 (62395, 'Browns Hill', 3746, '14', 108, 'JM', '18.05358000', '-77.11855000', '2019-10-05 19:07:28', '2019-10-05 19:07:28', 1, 'Q890358');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (62396, 'Browns Town', 3744, '06', 108, 'JM', '18.38464000', '-77.35286000', '2019-10-05 19:07:28', '2019-10-05 19:07:28', 1, 'Q890358'),
 (62397, 'Bucknor', 3753, '13', 108, 'JM', '18.00619000', '-77.23749000', '2019-10-05 19:07:28', '2019-10-05 19:07:28', 1, 'Q890358'),
 (62398, 'Bucks Common', 3753, '13', 108, 'JM', '17.98228000', '-77.23846000', '2019-10-05 19:07:28', '2019-10-05 19:07:28', 1, 'Q890358'),
@@ -62971,7 +62971,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (62758, 'Maryland', 3749, '09', 108, 'JM', '18.38679000', '-78.12825000', '2019-10-05 19:07:31', '2019-10-05 19:07:31', 1, 'Q1807660'),
 (62759, 'Maryland', 3751, '02', 108, 'JM', '18.05166000', '-76.74320000', '2019-10-05 19:07:31', '2019-10-05 19:07:31', 1, 'Q1807660'),
 (62760, 'Mason Hall', 3747, '05', 108, 'JM', '18.39662000', '-76.92063000', '2019-10-05 19:07:31', '2019-10-05 19:07:31', 1, 'Q1807660');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (62761, 'Mavis Bank', 3751, '02', 108, 'JM', '18.03333000', '-76.66667000', '2019-10-05 19:07:31', '2019-10-05 19:07:31', 1, 'Q6794237'),
 (62762, 'Maxfield Park', 3751, '02', 108, 'JM', '17.99937000', '-76.80800000', '2019-10-05 19:07:31', '2019-10-05 19:07:31', 1, 'Q6794237'),
 (62763, 'May Day', 3754, '12', 108, 'JM', '18.00951000', '-77.47606000', '2019-10-05 19:07:31', '2019-10-05 19:07:31', 1, 'Q6794237'),
@@ -63337,7 +63337,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (63123, 'Woodsville', 3749, '09', 108, 'JM', '18.36950000', '-78.07217000', '2019-10-05 19:07:33', '2019-10-05 19:07:33', 1, 'Q1651059'),
 (63124, 'Yallahs', 3750, '03', 108, 'JM', '17.87480000', '-76.56245000', '2019-10-05 19:07:33', '2019-10-05 19:07:33', 1, 'Q1550881'),
 (63125, 'York', 3750, '03', 108, 'JM', '17.92849000', '-76.43983000', '2019-10-05 19:07:33', '2019-10-05 19:07:33', 1, 'Q1550881');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (63126, 'York Castle', 3744, '06', 108, 'JM', '18.27515000', '-77.22923000', '2019-10-05 19:07:33', '2019-10-05 19:07:33', 1, 'Q1550881'),
 (63127, 'York Town', 3753, '13', 108, 'JM', '17.92515000', '-77.30002000', '2019-10-05 19:07:33', '2019-10-05 19:07:33', 1, 'Q1550881'),
 (63128, 'Zaidie Gardens', 3751, '02', 108, 'JM', '18.02566000', '-76.80978000', '2019-10-05 19:07:33', '2019-10-05 19:07:33', 1, 'Q1550881'),
@@ -63713,7 +63713,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (63498, 'Hirosaki Shi', 839, '02', 109, 'JP', '40.60512000', '140.38460000', '2019-10-05 19:07:35', '2019-10-05 19:07:35', 1, 'Q194087'),
 (63499, 'Hiroshima', 828, '34', 109, 'JP', '34.40000000', '132.45000000', '2019-10-05 19:07:35', '2019-10-05 19:07:35', 1, 'Q194087'),
 (63500, 'Hiroshima-shi', 828, '34', 109, 'JP', '34.47942000', '132.45312000', '2019-10-05 19:07:35', '2019-10-05 19:07:35', 1, 'Q34664');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (63501, 'Hisai-motomachi', 833, '24', 109, 'JP', '34.66667000', '136.46667000', '2019-10-05 19:07:35', '2019-10-05 19:07:35', 1, 'Q34664'),
 (63502, 'Hita', 822, '44', 109, 'JP', '33.32130000', '130.94098000', '2019-10-05 19:07:35', '2019-10-05 19:07:35', 1, 'Q386968'),
 (63503, 'Hita Shi', 822, '44', 109, 'JP', '33.24452000', '130.95063000', '2019-10-05 19:07:35', '2019-10-05 19:07:35', 1, 'Q386968'),
@@ -64087,7 +64087,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (63871, 'Kurihara Shi', 857, '04', 109, 'JP', '38.80895000', '140.94034000', '2019-10-05 19:07:36', '2019-10-05 19:07:36', 1, 'Q469189'),
 (63872, 'Kurihashi', 860, '11', 109, 'JP', '36.13333000', '139.70000000', '2019-10-05 19:07:36', '2019-10-05 19:07:36', 1, 'Q1002916'),
 (63873, 'Kurio', 840, '46', 109, 'JP', '30.27123000', '130.42360000', '2019-10-05 19:07:36', '2019-10-05 19:07:36', 1, 'Q1002916');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (63874, 'Kurobe-shi', 838, '16', 109, 'JP', '36.90123000', '137.44955000', '2019-10-05 19:07:36', '2019-10-05 19:07:36', 1, 'Q753864'),
 (63875, 'Kuroda', 827, '23', 109, 'JP', '35.35000000', '136.78333000', '2019-10-05 19:07:36', '2019-10-05 19:07:36', 1, 'Q35705520'),
 (63876, 'Kuroishi', 839, '02', 109, 'JP', '40.64581000', '140.58354000', '2019-10-05 19:07:36', '2019-10-05 19:07:36', 1, 'Q496412'),
@@ -64461,7 +64461,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (64244, 'Sagara', 825, '22', 109, 'JP', '34.68503000', '138.20461000', '2019-10-05 19:07:38', '2019-10-05 19:07:38', 1, 'Q7399037'),
 (64245, 'Saijō', 865, '38', 109, 'JP', '33.91667000', '133.18333000', '2019-10-05 19:07:38', '2020-05-01 13:22:58', 1, 'Q7399037'),
 (64246, 'Saijō-shi', 865, '38', 109, 'JP', '33.86100000', '133.10832000', '2019-10-05 19:07:38', '2020-05-01 13:22:58', 1, 'Q633945');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (64247, 'Saikai-shi', 849, '42', 109, 'JP', '32.99259000', '129.68200000', '2019-10-05 19:07:38', '2019-10-05 19:07:38', 1, 'Q520267'),
 (64248, 'Saiki', 822, '44', 109, 'JP', '32.95000000', '131.90000000', '2019-10-05 19:07:38', '2019-10-05 19:07:38', 1, 'Q847546'),
 (64249, 'Saiki-shi', 822, '44', 109, 'JP', '32.88598000', '131.77600000', '2019-10-05 19:07:38', '2019-10-05 19:07:38', 1, 'Q847546'),
@@ -64835,7 +64835,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (64617, 'Wakayama Shi', 844, '30', 109, 'JP', '34.24252000', '135.19595000', '2019-10-05 19:07:42', '2019-10-05 19:07:42', 1, 'Q200747'),
 (64618, 'Wakimachi', 836, '36', 109, 'JP', '34.06667000', '134.15000000', '2019-10-05 19:07:42', '2019-10-05 19:07:42', 1, 'Q200747'),
 (64619, 'Wakkanai', 832, '01', 109, 'JP', '45.40944000', '141.67389000', '2019-10-05 19:07:42', '2019-10-05 19:07:42', 1, 'Q267894');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (64620, 'Wakkanai Shi', 832, '01', 109, 'JP', '45.33243000', '141.82831000', '2019-10-05 19:07:42', '2019-10-05 19:07:42', 1, 'Q267894'),
 (64621, 'Wako', 860, '11', 109, 'JP', '35.78944000', '139.62333000', '2019-10-05 19:07:42', '2019-10-05 19:07:42', 1, 'Q267894'),
 (64622, 'Wakuya', 857, '04', 109, 'JP', '38.54465000', '141.13461000', '2019-10-05 19:07:42', '2019-10-05 19:07:42', 1, 'Q1155902'),
@@ -65212,7 +65212,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (64993, 'Srŏk Bâ Kêv', 3990, '16', 37, 'KH', '13.70749000', '107.19442000', '2019-10-05 19:07:44', '2020-05-01 13:22:39', 1, 'Q4857942'),
 (64994, 'Srŏk Bântéay Âmpĭl', 3987, '22', 37, 'KH', '14.18590000', '103.25925000', '2019-10-05 19:07:44', '2020-05-01 13:22:39', 1, 'Q4857202'),
 (64995, 'Srŏk Bâvĭl', 3976, '2', 37, 'KH', '13.23601000', '102.82910000', '2019-10-05 19:07:44', '2020-05-01 13:22:39', 1, 'Q4873692');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (64996, 'Srŏk Chhêb', 3973, '13', 37, 'KH', '13.91077000', '105.46180000', '2019-10-05 19:07:44', '2020-05-01 13:22:39', 1, 'Q4929159'),
 (64997, 'Srŏk Chol Kiri', 3979, '4', 37, 'KH', '12.15861000', '104.82287000', '2019-10-05 19:07:44', '2020-05-01 13:22:39', 1, 'Q4930069'),
 (64998, 'Srŏk Chŭm Kiri', 3981, '7', 37, 'KH', '11.00540000', '104.44207000', '2019-10-05 19:07:44', '2020-05-01 13:22:39', 1, 'Q4929362'),
@@ -65584,7 +65584,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (65364, 'Gwangju-si', 3847, '41', 116, 'KR', '37.40329000', '127.29855000', '2019-10-05 19:07:46', '2019-10-05 19:07:46', 1, 'Q42069'),
 (65365, 'Gwangmyeong-si', 3847, '41', 116, 'KR', '37.44435000', '126.86499000', '2019-10-05 19:07:46', '2019-10-05 19:07:46', 1, 'Q42066'),
 (65366, 'Gwangsan-gu', 3858, '29', 116, 'KR', '35.16158000', '126.80810000', '2019-10-05 19:07:46', '2019-10-05 19:07:46', 1, 'Q50354');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (65367, 'Gwangyang', 3856, '46', 116, 'KR', '34.94140000', '127.69569000', '2019-10-05 19:07:46', '2019-10-05 19:07:46', 1, 'Q42067'),
 (65368, 'Gwangyang-si', 3856, '46', 116, 'KR', '35.04007000', '127.60949000', '2019-10-05 19:07:46', '2019-10-05 19:07:46', 1, 'Q42067'),
 (65369, 'Gyeongju', 3855, '47', 116, 'KR', '35.84278000', '129.21167000', '2019-10-05 19:07:46', '2019-10-05 19:07:46', 1, 'Q42097'),
@@ -65960,7 +65960,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (65739, 'Oral', 148, 'ZAP', 112, 'KZ', '51.23333000', '51.36667000', '2019-10-05 19:07:50', '2019-10-05 19:07:50', 1, 'Q487439'),
 (65740, 'Ordzhonikidze', 157, 'KUS', 112, 'KZ', '52.44772000', '61.74942000', '2019-10-05 19:07:50', '2019-10-05 19:07:50', 1, 'Q487439'),
 (65741, 'Osakarovka', 150, 'KAR', 112, 'KZ', '50.56219000', '72.57089000', '2019-10-05 19:07:50', '2019-10-05 19:07:50', 1, 'Q487439');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (65742, 'Otegen Batyra', 143, 'ALM', 112, 'KZ', '43.41949000', '77.02020000', '2019-10-05 19:07:50', '2019-10-05 19:07:50', 1, 'Q4163271'),
 (65743, 'Oytal', 147, 'ZHA', 112, 'KZ', '42.90573000', '73.26972000', '2019-10-05 19:07:50', '2019-10-05 19:07:50', 1, 'Q4163271'),
 (65744, 'Pavlodar', 146, 'PAV', 112, 'KZ', '52.28333000', '76.96667000', '2019-10-05 19:07:50', '2019-10-05 19:07:50', 1, 'Q486282'),
@@ -66327,7 +66327,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (66105, 'Derierre Bois', 3763, '11', 186, 'LC', '13.76807000', '-60.97725000', '2019-10-05 19:07:53', '2019-10-05 19:07:53', 1, 'Q3556840'),
 (66106, 'Derierre Fort/Old Victoria Road', 3758, '02', 186, 'LC', '13.99474000', '-60.98513000', '2019-10-05 19:07:53', '2019-10-05 19:07:53', 1, 'Q3556840'),
 (66107, 'Derierre Morne', 3763, '11', 186, 'LC', '13.74126000', '-60.96057000', '2019-10-05 19:07:53', '2019-10-05 19:07:53', 1, 'Q3556840');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (66108, 'Derniere Riviere', 3756, '05', 186, 'LC', '13.95679000', '-60.92578000', '2019-10-05 19:07:53', '2019-10-05 19:07:53', 1, 'Q3556840'),
 (66109, 'Derniere Riviere/Fond Maricient', 3756, '05', 186, 'LC', '13.95130000', '-60.92218000', '2019-10-05 19:07:53', '2019-10-05 19:07:53', 1, 'Q3556840'),
 (66110, 'Derniere Riviere/Mardi Gras/Morne Caca Cochon', 3756, '05', 186, 'LC', '13.96288000', '-60.92029000', '2019-10-05 19:07:53', '2019-10-05 19:07:53', 1, 'Q3556840'),
@@ -66689,7 +66689,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (66466, 'Ella Town', 2811, '8', 208, 'LK', '6.87560000', '81.04630000', '2019-10-05 19:07:57', '2019-10-05 19:07:57', 1, 'Q24462'),
 (66467, 'Eravur Town', 2808, '5', 208, 'LK', '7.77820000', '81.60380000', '2019-10-05 19:07:57', '2019-10-05 19:07:57', 1, 'Q24462'),
 (66468, 'Galle', 2801, '3', 208, 'LK', '6.04610000', '80.21030000', '2019-10-05 19:07:57', '2019-10-05 19:07:57', 1, 'Q319366');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (66469, 'Galle District', 2801, '3', 208, 'LK', '6.25000000', '80.25000000', '2019-10-05 19:07:57', '2019-10-05 19:07:57', 1, 'Q647649'),
 (66470, 'Gampaha', 2802, '1', 208, 'LK', '7.08970000', '79.99250000', '2019-10-05 19:07:57', '2019-10-05 19:07:57', 1, 'Q2616818'),
 (66471, 'Gampaha District', 2802, '1', 208, 'LK', '7.13330000', '80.00000000', '2019-10-05 19:07:57', '2019-10-05 19:07:57', 1, 'Q206344'),
@@ -67063,7 +67063,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (66844, 'Stadtbredimus', 1519, 'RM', 127, 'LU', '49.56278000', '6.36444000', '2019-10-05 19:07:59', '2019-10-05 19:07:59', 1, 'Q219089'),
 (66845, 'Steinfort', 1518, 'CA', 127, 'LU', '49.66139000', '5.91917000', '2019-10-05 19:07:59', '2019-10-05 19:07:59', 1, 'Q985478'),
 (66846, 'Steinsel', 1527, 'LU', 127, 'LU', '49.67694000', '6.12389000', '2019-10-05 19:07:59', '2019-10-05 19:07:59', 1, 'Q985478');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (66847, 'Strassen', 1527, 'LU', 127, 'LU', '49.62056000', '6.07333000', '2019-10-05 19:07:59', '2019-10-05 19:07:59', 1, 'Q985478'),
 (66848, 'Tandel', 1523, 'VD', 127, 'LU', '49.89750000', '6.18333000', '2019-10-05 19:07:59', '2019-10-05 19:07:59', 1, 'Q985478'),
 (66849, 'Troisvierges', 1521, 'CL', 127, 'LU', '50.12111000', '6.00028000', '2019-10-05 19:07:59', '2019-10-05 19:07:59', 1, 'Q985478'),
@@ -67438,7 +67438,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (67218, 'Skhirate', 3308, 'KEN', 149, 'MA', '33.85270000', '-7.03171000', '2019-10-05 19:08:01', '2019-10-05 19:08:01', 1, 'Q1333077'),
 (67219, 'Skhirate-Temara', 3308, 'KEN', 149, 'MA', '33.77000000', '-6.87000000', '2019-10-05 19:08:01', '2019-10-05 19:08:01', 1, 'Q1333077'),
 (67220, 'Smara', 3298, '11', 149, 'MA', '26.73841000', '-11.67194000', '2019-10-05 19:08:01', '2019-10-05 19:08:01', 1, 'Q842810');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (67221, 'Smimou', 3311, 'SAF', 149, 'MA', '31.21014000', '-9.70863000', '2019-10-05 19:08:01', '2019-10-05 19:08:01', 1, 'Q3486986'),
 (67222, 'Souq Larb’a al Gharb', 3308, 'KEN', 149, 'MA', '34.68664000', '-6.00272000', '2019-10-05 19:08:01', '2020-05-01 13:23:03', 1, 'Q3486986'),
 (67223, 'Tadrart', 3297, 'ASZ', 149, 'MA', '30.77477000', '-9.45951000', '2019-10-05 19:08:01', '2019-10-05 19:08:01', 1, 'Q3513742'),
@@ -67815,7 +67815,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (67594, 'Cercle de San', 249, '4', 134, 'ML', '13.17895000', '-5.01617000', '2019-10-05 19:08:04', '2019-10-05 19:08:04', 1, 'Q1902391'),
 (67595, 'Cercle d’Abeïbara', 257, '8', 134, 'ML', '19.48878000', '2.20025000', '2019-10-05 19:08:04', '2020-05-01 13:22:59', 1, 'Q319858'),
 (67596, 'Dire', 248, '6', 134, 'ML', '16.28017000', '-3.31302000', '2019-10-05 19:08:04', '2019-10-05 19:08:04', 1, 'Q319858');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (67597, 'Diré', 248, '6', 134, 'ML', '12.28333000', '-10.96667000', '2019-10-05 19:08:04', '2020-05-01 13:22:59', 1, 'Q27690990'),
 (67598, 'Djénné', 255, '5', 134, 'ML', '13.90608000', '-4.55332000', '2019-10-05 19:08:04', '2020-05-01 13:22:59', 1, 'Q213507'),
 (67599, 'Douentza', 255, '5', 134, 'ML', '15.00155000', '-2.94978000', '2019-10-05 19:08:04', '2019-10-05 19:08:04', 1, 'Q2358526'),
@@ -68189,7 +68189,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (67967, 'Liwonde', 3106, 'S', 131, 'MW', '-15.06665000', '35.22543000', '2019-10-05 19:08:26', '2019-10-05 19:08:26', 1, 'Q1377361'),
 (67968, 'Luchenza', 3106, 'S', 131, 'MW', '-16.00693000', '35.30947000', '2019-10-05 19:08:26', '2019-10-05 19:08:26', 1, 'Q993322'),
 (67969, 'Machinga', 3106, 'S', 131, 'MW', '-15.16849000', '35.30002000', '2019-10-05 19:08:26', '2019-10-05 19:08:26', 1, 'Q12810684');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (67970, 'Machinga District', 3106, 'S', 131, 'MW', '-14.94583000', '35.57367000', '2019-10-05 19:08:26', '2019-10-05 19:08:26', 1, 'Q198585'),
 (67971, 'Mangochi', 3106, 'S', 131, 'MW', '-14.47815000', '35.26448000', '2019-10-05 19:08:26', '2019-10-05 19:08:26', 1, 'Q1890257'),
 (67972, 'Mangochi District', 3106, 'S', 131, 'MW', '-14.39296000', '35.34658000', '2019-10-05 19:08:26', '2019-10-05 19:08:26', 1, 'Q722505'),
@@ -68545,7 +68545,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (68322, 'Aquiles Serdán', 3474, 'MIC', 142, 'MX', '20.00357000', '-102.21609000', '2019-10-05 19:08:28', '2020-05-01 13:23:01', 1, 'Q20227607'),
 (68323, 'Aquiles Serdán', 3447, 'CHH', 142, 'MX', '28.58454000', '-105.88108000', '2019-10-05 19:08:28', '2020-05-01 13:22:59', 1, 'Q2991354'),
 (68324, 'Aquiles Serdán (San Fernando)', 3454, 'TAB', 142, 'MX', '17.80556000', '-92.48972000', '2019-10-05 19:08:28', '2020-05-01 13:23:02', 1, 'Q20261210');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (68325, 'Aquiles Serdán 1ra. Sección', 3454, 'TAB', 142, 'MX', '17.82474000', '-92.73977000', '2019-10-05 19:08:28', '2020-05-01 13:23:02', 1, 'Q20227603'),
 (68326, 'Aquismón', 3461, 'SLP', 142, 'MX', '21.62159000', '-99.01984000', '2019-10-05 19:08:28', '2020-05-01 13:23:02', 1, 'Q3311830'),
 (68327, 'Aquixtla', 3476, 'PUE', 142, 'MX', '19.77957000', '-97.93526000', '2019-10-05 19:08:28', '2019-10-05 19:08:28', 1, 'Q1998668'),
@@ -68898,7 +68898,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (68674, 'Buenavista', 3476, 'PUE', 142, 'MX', '19.25767000', '-97.07531000', '2019-10-05 19:08:30', '2019-10-05 19:08:30', 1, 'Q20229059'),
 (68675, 'Buenavista', 3474, 'MIC', 142, 'MX', '19.18802000', '-102.58471000', '2019-10-05 19:08:30', '2019-10-05 19:08:30', 1, 'Q4985488'),
 (68676, 'Buenavista (Matasanos)', 3451, 'CHP', 142, 'MX', '17.10778000', '-93.06694000', '2019-10-05 19:08:30', '2019-10-05 19:08:30', 1, 'Q20210857');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (68677, 'Buenavista Tetela', 3476, 'PUE', 142, 'MX', '18.91967000', '-98.17632000', '2019-10-05 19:08:30', '2019-10-05 19:08:30', 1, 'Q20145981'),
 (68678, 'Buenavista Tomatlán', 3474, 'MIC', 142, 'MX', '19.21281000', '-102.58735000', '2019-10-05 19:08:30', '2020-05-01 13:23:01', 1, 'Q20145986'),
 (68679, 'Buenavista de Allende', 3459, 'GRO', 142, 'MX', '17.00086000', '-99.21325000', '2019-10-05 19:08:30', '2019-10-05 19:08:30', 1, 'Q20145986'),
@@ -69253,7 +69253,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (69028, 'Chichimequillas', 3455, 'QUE', 142, 'MX', '20.76512000', '-100.33588000', '2019-10-05 19:08:32', '2019-10-05 19:08:32', 1, 'Q2889052'),
 (69029, 'Chichimequillas', 3469, 'GUA', 142, 'MX', '21.03716000', '-101.44274000', '2019-10-05 19:08:32', '2019-10-05 19:08:32', 1, 'Q2889052'),
 (69030, 'Chichimila', 3466, 'YUC', 142, 'MX', '20.63176000', '-88.21689000', '2019-10-05 19:08:32', '2019-10-05 19:08:32', 1, 'Q5766039');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (69031, 'Chichimilá', 3466, 'YUC', 142, 'MX', '20.46641000', '-88.18044000', '2019-10-05 19:08:32', '2020-05-01 13:23:02', 1, 'Q2093657'),
 (69032, 'Chichiquila', 3476, 'PUE', 142, 'MX', '19.20073000', '-97.06691000', '2019-10-05 19:08:32', '2019-10-05 19:08:32', 1, 'Q5096058'),
 (69033, 'Chichén-Itzá', 3466, 'YUC', 142, 'MX', '20.66667000', '-88.56667000', '2019-10-05 19:08:32', '2020-05-01 13:23:02', 1, 'Q20275587'),
@@ -69597,7 +69597,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (69371, 'Colonia Terrazas', 3447, 'CHH', 142, 'MX', '28.23795000', '-105.46527000', '2019-10-05 19:08:35', '2019-10-05 19:08:35', 1, 'Q20241629'),
 (69372, 'Colonia Teñhe', 3470, 'HID', 142, 'MX', '20.19291000', '-99.17866000', '2019-10-05 19:08:35', '2020-05-01 13:23:00', 1, 'Q20132312'),
 (69373, 'Colonia Tulteca Teopan', 3450, 'MEX', 142, 'MX', '19.56139000', '-98.84417000', '2019-10-05 19:08:35', '2019-10-05 19:08:35', 1, 'Q20132410');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (69374, 'Colonia Veinte de Noviembre', 3461, 'SLP', 142, 'MX', '21.97917000', '-100.04981000', '2019-10-05 19:08:35', '2019-10-05 19:08:35', 1, 'Q20132410'),
 (69375, 'Colonia Venustiano Carranza', 3458, 'TLA', 142, 'MX', '19.40005000', '-98.05822000', '2019-10-05 19:08:35', '2019-10-05 19:08:35', 1, 'Q20264049'),
 (69376, 'Colonia Venustiano Carranza', 3457, 'BCN', 142, 'MX', '32.23700000', '-115.16656000', '2019-10-05 19:08:35', '2019-10-05 19:08:35', 1, 'Q20264049'),
@@ -69948,7 +69948,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (69721, 'Dos Ríos', 3465, 'MOR', 142, 'MX', '19.37467000', '-99.34359000', '2019-10-05 19:08:37', '2020-05-01 13:23:01', 1, 'Q20140402'),
 (69722, 'Dos de Abril', 3449, 'SIN', 142, 'MX', '25.91116000', '-108.94077000', '2019-10-05 19:08:37', '2019-10-05 19:08:37', 1, 'Q20140402'),
 (69723, 'Dotegiare', 3450, 'MEX', 142, 'MX', '19.70705000', '-100.04354000', '2019-10-05 19:08:37', '2019-10-05 19:08:37', 1, 'Q20140402');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (69724, 'Doxey', 3470, 'HID', 142, 'MX', '20.09169000', '-99.24362000', '2019-10-05 19:08:37', '2019-10-05 19:08:37', 1, 'Q5802194'),
 (69725, 'Doxhicho', 3450, 'MEX', 142, 'MX', '19.89999000', '-99.55727000', '2019-10-05 19:08:37', '2019-10-05 19:08:37', 1, 'Q20140458'),
 (69726, 'Doxteje Barrio Primero', 3450, 'MEX', 142, 'MX', '19.95972000', '-99.95861000', '2019-10-05 19:08:37', '2019-10-05 19:08:37', 1, 'Q20276984'),
@@ -70303,7 +70303,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (70075, 'El Oro de Hidalgo', 3450, 'MEX', 142, 'MX', '19.80272000', '-100.13081000', '2019-10-05 19:08:40', '2019-10-05 19:08:40', 1, 'Q2115222'),
 (70076, 'El Pacayal', 3451, 'CHP', 142, 'MX', '15.59849000', '-92.04254000', '2019-10-05 19:08:40', '2019-10-05 19:08:40', 1, 'Q2115222'),
 (70077, 'El Palacio', 3450, 'MEX', 142, 'MX', '19.35139000', '-99.35667000', '2019-10-05 19:08:40', '2019-10-05 19:08:40', 1, 'Q20238188');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (70078, 'El Palmar', 3455, 'QUE', 142, 'MX', '20.69347000', '-99.70645000', '2019-10-05 19:08:40', '2019-10-05 19:08:40', 1, 'Q20238188'),
 (70079, 'El Palmar', 3464, 'VER', 142, 'MX', '18.80330000', '-96.66560000', '2019-10-05 19:08:40', '2019-10-05 19:08:40', 1, 'Q20238188'),
 (70080, 'El Palmar', 3476, 'PUE', 142, 'MX', '19.13972000', '-97.05306000', '2019-10-05 19:08:40', '2019-10-05 19:08:40', 1, 'Q20252288'),
@@ -70650,7 +70650,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (70421, 'Fraccionamiento Galaxia Tarímbaro', 3474, 'MIC', 142, 'MX', '19.76167000', '-101.19444000', '2019-10-05 19:08:43', '2020-05-01 13:23:01', 1, 'Q20238845'),
 (70422, 'Fraccionamiento Geovillas los Pinos', 3464, 'VER', 142, 'MX', '19.21722000', '-96.22639000', '2019-10-05 19:08:43', '2019-10-05 19:08:43', 1, 'Q20269183'),
 (70423, 'Fraccionamiento Hacienda del Bosque', 3450, 'MEX', 142, 'MX', '19.72667000', '-98.96861000', '2019-10-05 19:08:43', '2019-10-05 19:08:43', 1, 'Q20282033');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (70424, 'Fraccionamiento Laureles Eréndira', 3474, 'MIC', 142, 'MX', '19.77222000', '-101.13056000', '2019-10-05 19:08:43', '2020-05-01 13:23:01', 1, 'Q20238861'),
 (70425, 'Fraccionamiento Lomas de Ahuatlán', 3465, 'MOR', 142, 'MX', '18.95444000', '-99.25722000', '2019-10-05 19:08:43', '2020-05-01 13:23:01', 1, 'Q20139142'),
 (70426, 'Fraccionamiento Metrópolis II', 3474, 'MIC', 142, 'MX', '19.75639000', '-101.20444000', '2019-10-05 19:08:43', '2020-05-01 13:23:01', 1, 'Q20282085'),
@@ -70995,7 +70995,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (70765, 'Huejotitán', 3447, 'CHH', 142, 'MX', '27.05623000', '-106.17819000', '2019-10-05 19:08:45', '2020-05-01 13:23:00', 1, 'Q3895275'),
 (70766, 'Huejotzingo', 3476, 'PUE', 142, 'MX', '19.15892000', '-98.40824000', '2019-10-05 19:08:45', '2019-10-05 19:08:45', 1, 'Q20204317'),
 (70767, 'Huejutla de Reyes', 3470, 'HID', 142, 'MX', '21.14000000', '-98.41944000', '2019-10-05 19:08:45', '2019-10-05 19:08:45', 1, 'Q1633919');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (70768, 'Huemetla', 3450, 'MEX', 142, 'MX', '19.71500000', '-99.73583000', '2019-10-05 19:08:45', '2019-10-05 19:08:45', 1, 'Q20238515'),
 (70769, 'Huepaco', 3449, 'SIN', 142, 'MX', '25.98417000', '-108.86056000', '2019-10-05 19:08:45', '2019-10-05 19:08:45', 1, 'Q20283474'),
 (70770, 'Huepalcalco (San Miguel)', 3465, 'MOR', 142, 'MX', '18.90889000', '-98.75000000', '2019-10-05 19:08:45', '2019-10-05 19:08:45', 1, 'Q20145733'),
@@ -71348,7 +71348,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (71117, 'Juan E. García', 3453, 'DUR', 142, 'MX', '25.49206000', '-103.69170000', '2019-10-05 19:08:50', '2020-05-01 13:23:00', 1, 'Q6299095'),
 (71118, 'Juan Escutia (Borbollón)', 3477, 'NAY', 142, 'MX', '21.16741000', '-104.86698000', '2019-10-05 19:08:50', '2020-05-01 13:23:01', 1, 'Q20234034'),
 (71119, 'Juan Galindo', 3476, 'PUE', 142, 'MX', '20.21980000', '-97.99083000', '2019-10-05 19:08:50', '2019-10-05 19:08:50', 1, 'Q4501994');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (71120, 'Juan Jacobo Torres [Bodega de Totontepec]', 3464, 'VER', 142, 'MX', '18.33645000', '-95.26033000', '2019-10-05 19:08:50', '2019-10-05 19:08:50', 1, 'Q20269404'),
 (71121, 'Juan José Ríos', 3449, 'SIN', 142, 'MX', '25.75781000', '-108.82420000', '2019-10-05 19:08:50', '2020-05-01 13:23:02', 1, 'Q13986486'),
 (71122, 'Juan Marcos (San José Buenavista)', 3464, 'VER', 142, 'MX', '19.72917000', '-97.19667000', '2019-10-05 19:08:50', '2020-05-01 13:23:02', 1, 'Q20269406'),
@@ -71702,7 +71702,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (71470, 'La Purísima', 3469, 'GUA', 142, 'MX', '20.51444000', '-100.67250000', '2019-10-05 19:08:53', '2020-05-01 13:23:00', 1, 'Q20134250'),
 (71471, 'La Reforma', 3448, 'OAX', 142, 'MX', '16.62414000', '-97.84544000', '2019-10-05 19:08:53', '2019-10-05 19:08:53', 1, 'Q7731295'),
 (71472, 'La Reforma', 3470, 'HID', 142, 'MX', '21.07327000', '-98.87057000', '2019-10-05 19:08:53', '2019-10-05 19:08:53', 1, 'Q7731295');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (71473, 'La Reforma', 3464, 'VER', 142, 'MX', '19.59664000', '-96.63302000', '2019-10-05 19:08:53', '2019-10-05 19:08:53', 1, 'Q7731295'),
 (71474, 'La Reforma', 3461, 'SLP', 142, 'MX', '21.99879000', '-100.09452000', '2019-10-05 19:08:53', '2019-10-05 19:08:53', 1, 'Q7731295'),
 (71475, 'La Reforma', 3449, 'SIN', 142, 'MX', '25.08164000', '-108.05673000', '2019-10-05 19:08:53', '2019-10-05 19:08:53', 1, 'Q20293692'),
@@ -72054,7 +72054,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (71821, 'Los Naranjos Esquipulas', 3448, 'OAX', 142, 'MX', '15.98167000', '-96.45889000', '2019-10-05 19:09:01', '2019-10-05 19:09:01', 1, 'Q20138678'),
 (71822, 'Los Nicolases', 3469, 'GUA', 142, 'MX', '20.85806000', '-101.31750000', '2019-10-05 19:09:01', '2019-10-05 19:09:01', 1, 'Q20285360'),
 (71823, 'Los Nogales', 3450, 'MEX', 142, 'MX', '19.85734000', '-102.15612000', '2019-10-05 19:09:01', '2019-10-05 19:09:01', 1, 'Q20285372');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (71824, 'Los Ocotes', 3469, 'GUA', 142, 'MX', '20.41560000', '-101.96108000', '2019-10-05 19:09:01', '2019-10-05 19:09:01', 1, 'Q20285372'),
 (71825, 'Los Olvera', 3455, 'QUE', 142, 'MX', '20.53434000', '-100.40795000', '2019-10-05 19:09:01', '2019-10-05 19:09:01', 1, 'Q20285372'),
 (71826, 'Los Otates', 3477, 'NAY', 142, 'MX', '21.70427000', '-105.37622000', '2019-10-05 19:09:01', '2019-10-05 19:09:01', 1, 'Q20285372'),
@@ -72407,7 +72407,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (72173, 'Mochitlán', 3459, 'GRO', 142, 'MX', '17.38348000', '-99.36727000', '2019-10-05 19:09:07', '2020-05-01 13:23:00', 1, 'Q6887609'),
 (72174, 'Mococha', 3466, 'YUC', 142, 'MX', '21.10621000', '-89.45217000', '2019-10-05 19:09:07', '2019-10-05 19:09:07', 1, 'Q6887609'),
 (72175, 'Mocochá', 3466, 'YUC', 142, 'MX', '21.11100000', '-89.45403000', '2019-10-05 19:09:07', '2020-05-01 13:23:03', 1, 'Q2588114');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (72176, 'Mocorito', 3449, 'SIN', 142, 'MX', '25.48202000', '-107.92008000', '2019-10-05 19:09:07', '2019-10-05 19:09:07', 1, 'Q20149556'),
 (72177, 'Moctezuma', 3461, 'SLP', 142, 'MX', '22.74787000', '-101.08219000', '2019-10-05 19:09:07', '2019-10-05 19:09:07', 1, 'Q3849472'),
 (72178, 'Moctezuma', 3468, 'SON', 142, 'MX', '29.80615000', '-109.67949000', '2019-10-05 19:09:07', '2019-10-05 19:09:07', 1, 'Q20149594'),
@@ -72761,7 +72761,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (72526, 'Orilla del Monte', 3464, 'VER', 142, 'MX', '19.66078000', '-97.29274000', '2019-10-05 19:09:14', '2019-10-05 19:09:14', 1, 'Q20228281'),
 (72527, 'Orizaba', 3464, 'VER', 142, 'MX', '18.85195000', '-97.09957000', '2019-10-05 19:09:14', '2019-10-05 19:09:14', 1, 'Q993904'),
 (72528, 'Orizaba', 3453, 'DUR', 142, 'MX', '23.95750000', '-104.07389000', '2019-10-05 19:09:14', '2019-10-05 19:09:14', 1, 'Q20291252');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (72529, 'Orizabita', 3470, 'HID', 142, 'MX', '20.58338000', '-99.20874000', '2019-10-05 19:09:14', '2019-10-05 19:09:14', 1, 'Q20291252'),
 (72530, 'Orranteño', 3447, 'CHH', 142, 'MX', '28.18272000', '-105.33774000', '2019-10-05 19:09:14', '2020-05-01 13:23:00', 1, 'Q49982819'),
 (72531, 'Ortiz', 3468, 'SON', 142, 'MX', '28.28786000', '-110.71410000', '2019-10-05 19:09:14', '2019-10-05 19:09:14', 1, 'Q49982819'),
@@ -73115,7 +73115,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (72879, 'Praderas del Potrero', 3470, 'HID', 142, 'MX', '19.88472000', '-99.23028000', '2019-10-05 19:09:26', '2019-10-05 19:09:26', 1, 'Q20243733'),
 (72880, 'Prados San Francisco', 3450, 'MEX', 142, 'MX', '19.72154000', '-99.08366000', '2019-10-05 19:09:26', '2019-10-05 19:09:26', 1, 'Q20296923'),
 (72881, 'Prados de San Juan', 3450, 'MEX', 142, 'MX', '19.63998000', '-98.97519000', '2019-10-05 19:09:26', '2019-10-05 19:09:26', 1, 'Q20296918');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (72882, 'Prados de Santa Rosa', 3452, 'NLE', 142, 'MX', '25.79808000', '-100.22687000', '2019-10-05 19:09:26', '2019-10-05 19:09:26', 1, 'Q20296918'),
 (72883, 'Prados del Rosario', 3469, 'GUA', 142, 'MX', '21.02194000', '-100.39250000', '2019-10-05 19:09:26', '2019-10-05 19:09:26', 1, 'Q20296920'),
 (72884, 'Praxedis G. Guerrero', 3447, 'CHH', 142, 'MX', '31.37061000', '-106.00616000', '2019-10-05 19:09:26', '2019-10-05 19:09:26', 1, 'Q4376496'),
@@ -73465,7 +73465,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (73228, 'Salvador Díaz Mirón', 3464, 'VER', 142, 'MX', '19.78580000', '-96.87314000', '2019-10-05 19:09:31', '2020-05-01 13:23:02', 1, 'Q27768065'),
 (73229, 'Salvador Rosas Magallón', 3457, 'BCN', 142, 'MX', '31.90139000', '-116.54778000', '2019-10-05 19:09:31', '2020-05-01 13:22:59', 1, 'Q20132418'),
 (73230, 'Salvador Urbina', 3451, 'CHP', 142, 'MX', '15.03535000', '-92.20805000', '2019-10-05 19:09:31', '2019-10-05 19:09:31', 1, 'Q20132418');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (73231, 'Salvatierra', 3469, 'GUA', 142, 'MX', '20.21322000', '-100.88023000', '2019-10-05 19:09:31', '2019-10-05 19:09:31', 1, 'Q2447267'),
 (73232, 'Samachique', 3447, 'CHH', 142, 'MX', '27.30156000', '-107.53897000', '2019-10-05 19:09:31', '2019-10-05 19:09:31', 1, 'Q2447267'),
 (73233, 'Samahil', 3466, 'YUC', 142, 'MX', '20.86433000', '-89.91398000', '2019-10-05 19:09:31', '2019-10-05 19:09:31', 1, 'Q2588196'),
@@ -73804,7 +73804,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (73566, 'San Francisco Independencia (Santa María Aserradero)', 3476, 'PUE', 142, 'MX', '19.06889000', '-97.43028000', '2019-10-05 19:09:39', '2020-05-01 13:23:01', 1, 'Q20262717'),
 (73567, 'San Francisco Ixhuatan', 3448, 'OAX', 142, 'MX', '16.35109000', '-94.48402000', '2019-10-05 19:09:39', '2019-10-05 19:09:39', 1, 'Q20264212'),
 (73568, 'San Francisco Ixhuatán', 3448, 'OAX', 142, 'MX', '16.31382000', '-94.47711000', '2019-10-05 19:09:39', '2020-05-01 13:23:01', 1, 'Q3846913');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (73569, 'San Francisco Jaconá', 3451, 'CHP', 142, 'MX', '17.26278000', '-93.03250000', '2019-10-05 19:09:39', '2020-05-01 13:22:59', 1, 'Q20138176'),
 (73570, 'San Francisco Jaltepetongo', 3448, 'OAX', 142, 'MX', '17.38579000', '-97.26481000', '2019-10-05 19:09:39', '2019-10-05 19:09:39', 1, 'Q3888158'),
 (73571, 'San Francisco Javier', 3453, 'DUR', 142, 'MX', '23.72572000', '-104.03371000', '2019-10-05 19:09:39', '2019-10-05 19:09:39', 1, 'Q3888158'),
@@ -74142,7 +74142,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (73903, 'San Juan Jaripeo', 3469, 'GUA', 142, 'MX', '20.00601000', '-100.76052000', '2019-10-05 19:09:45', '2019-10-05 19:09:45', 1, 'Q20240175'),
 (73904, 'San Juan Jicayán', 3448, 'OAX', 142, 'MX', '16.47583000', '-98.01250000', '2019-10-05 19:09:45', '2020-05-01 13:23:01', 1, 'Q20235237'),
 (73905, 'San Juan Juquila', 3448, 'OAX', 142, 'MX', '16.93585000', '-95.91889000', '2019-10-05 19:09:45', '2019-10-05 19:09:45', 1, 'Q3038784');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (73906, 'San Juan Juquila Vijanos', 3448, 'OAX', 142, 'MX', '17.33734000', '-96.27421000', '2019-10-05 19:09:45', '2019-10-05 19:09:45', 1, 'Q7414596'),
 (73907, 'San Juan Lachao', 3448, 'OAX', 142, 'MX', '16.15891000', '-97.12449000', '2019-10-05 19:09:45', '2019-10-05 19:09:45', 1, 'Q4967790'),
 (73908, 'San Juan Lagunas', 3448, 'OAX', 142, 'MX', '16.99748000', '-97.93066000', '2019-10-05 19:09:45', '2019-10-05 19:09:45', 1, 'Q4967790'),
@@ -74482,7 +74482,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (74242, 'San Miguel la Sardina', 3451, 'CHP', 142, 'MX', '17.29417000', '-93.35250000', '2019-10-05 19:09:51', '2019-10-05 19:09:51', 1, 'Q20147114'),
 (74243, 'San Miguelito', 3455, 'QUE', 142, 'MX', '20.73709000', '-100.50276000', '2019-10-05 19:09:51', '2019-10-05 19:09:51', 1, 'Q20147114'),
 (74244, 'San Miguelito', 3459, 'GRO', 142, 'MX', '17.63583000', '-101.43750000', '2019-10-05 19:09:51', '2019-10-05 19:09:51', 1, 'Q20147717');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (74245, 'San Nicolas Buenos Aires', 3476, 'PUE', 142, 'MX', '19.16488000', '-97.55131000', '2019-10-05 19:09:51', '2019-10-05 19:09:51', 1, 'Q20231835'),
 (74246, 'San Nicolás', 3459, 'GRO', 142, 'MX', '16.41775000', '-98.51923000', '2019-10-05 19:09:51', '2020-05-01 13:23:00', 1, 'Q20231835'),
 (74247, 'San Nicolás', 3470, 'HID', 142, 'MX', '20.32218000', '-98.18781000', '2019-10-05 19:09:51', '2020-05-01 13:23:00', 1, 'Q20231835'),
@@ -74823,7 +74823,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (74582, 'Santa Catarina Cuixtla', 3448, 'OAX', 142, 'MX', '16.30616000', '-96.64236000', '2019-10-05 19:09:56', '2019-10-05 19:09:56', 1, 'Q3890616'),
 (74583, 'Santa Catarina Juquila', 3448, 'OAX', 142, 'MX', '16.23819000', '-97.29161000', '2019-10-05 19:09:56', '2019-10-05 19:09:56', 1, 'Q27767948'),
 (74584, 'Santa Catarina Loxicha', 3448, 'OAX', 142, 'MX', '16.06327000', '-96.71942000', '2019-10-05 19:09:56', '2019-10-05 19:09:56', 1, 'Q3891064');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (74585, 'Santa Catarina Mechoacán', 3448, 'OAX', 142, 'MX', '16.33591000', '-97.83707000', '2019-10-05 19:09:56', '2020-05-01 13:23:01', 1, 'Q3891536'),
 (74586, 'Santa Catarina Minas', 3448, 'OAX', 142, 'MX', '16.77969000', '-96.61536000', '2019-10-05 19:09:56', '2019-10-05 19:09:56', 1, 'Q3891263'),
 (74587, 'Santa Catarina Quiané', 3448, 'OAX', 142, 'MX', '16.88255000', '-96.74067000', '2019-10-05 19:09:56', '2020-05-01 13:23:01', 1, 'Q7419282'),
@@ -75163,7 +75163,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (74921, 'Santiago Maravatío', 3469, 'GUA', 142, 'MX', '20.17297000', '-100.99468000', '2019-10-05 19:10:04', '2020-05-01 13:23:00', 1, 'Q2651258'),
 (74922, 'Santiago Matatlán', 3448, 'OAX', 142, 'MX', '16.86470000', '-96.38261000', '2019-10-05 19:10:04', '2020-05-01 13:23:01', 1, 'Q7420321'),
 (74923, 'Santiago Mexquititlán Barrio 4to.', 3455, 'QUE', 142, 'MX', '20.06306000', '-100.06833000', '2019-10-05 19:10:04', '2020-05-01 13:23:02', 1, 'Q20240512');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (74924, 'Santiago Michac', 3458, 'TLA', 142, 'MX', '19.21985000', '-98.33932000', '2019-10-05 19:10:04', '2019-10-05 19:10:04', 1, 'Q20240512'),
 (74925, 'Santiago Miltepec', 3448, 'OAX', 142, 'MX', '17.98461000', '-97.69006000', '2019-10-05 19:10:04', '2019-10-05 19:10:04', 1, 'Q20240512'),
 (74926, 'Santiago Momoxpan', 3476, 'PUE', 142, 'MX', '19.07361000', '-98.26694000', '2019-10-05 19:10:04', '2019-10-05 19:10:04', 1, 'Q20232102'),
@@ -75516,7 +75516,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (75273, 'Tecoh', 3466, 'YUC', 142, 'MX', '20.69640000', '-89.45174000', '2019-10-05 19:10:10', '2019-10-05 19:10:10', 1, 'Q2977881'),
 (75274, 'Tecolapan', 3464, 'VER', 142, 'MX', '18.57037000', '-95.33969000', '2019-10-05 19:10:10', '2019-10-05 19:10:10', 1, 'Q2977881'),
 (75275, 'Tecolcuautla', 3459, 'GRO', 142, 'MX', '17.78650000', '-98.94828000', '2019-10-05 19:10:10', '2019-10-05 19:10:10', 1, 'Q20209836');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (75276, 'Tecolots', 3457, 'BCN', 142, 'MX', '32.56667000', '-114.98333000', '2019-10-05 19:10:10', '2019-10-05 19:10:10', 1, 'Q20219747'),
 (75277, 'Tecoltepec', 3476, 'PUE', 142, 'MX', '18.32515000', '-97.07868000', '2019-10-05 19:10:10', '2019-10-05 19:10:10', 1, 'Q20219747'),
 (75278, 'Tecoluta 2da. Sección', 3454, 'TAB', 142, 'MX', '18.24408000', '-93.01956000', '2019-10-05 19:10:10', '2020-05-01 13:23:02', 1, 'Q20228488'),
@@ -75875,7 +75875,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (75631, 'Tlahuelompa (San Francisco Tlahuelompa)', 3470, 'HID', 142, 'MX', '20.65082000', '-98.57522000', '2019-10-05 19:10:16', '2019-10-05 19:10:16', 1, 'Q20244310'),
 (75632, 'Tlahuiltepa', 3470, 'HID', 142, 'MX', '20.89805000', '-98.96263000', '2019-10-05 19:10:16', '2019-10-05 19:10:16', 1, 'Q3844689'),
 (75633, 'Tlahuitoltepec', 3448, 'OAX', 142, 'MX', '17.09746000', '-96.06279000', '2019-10-05 19:10:16', '2019-10-05 19:10:16', 1, 'Q3894772');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (75634, 'Tlaixpan', 3476, 'PUE', 142, 'MX', '18.91217000', '-97.73818000', '2019-10-05 19:10:16', '2019-10-05 19:10:16', 1, 'Q20293572'),
 (75635, 'Tlalchapa', 3459, 'GRO', 142, 'MX', '18.42915000', '-100.45396000', '2019-10-05 19:10:16', '2019-10-05 19:10:16', 1, 'Q7810698'),
 (75636, 'Tlalchiyahualica', 3470, 'HID', 142, 'MX', '20.97086000', '-98.39975000', '2019-10-05 19:10:16', '2019-10-05 19:10:16', 1, 'Q7810698'),
@@ -76230,7 +76230,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (75985, 'Victoria de Durango', 3453, 'DUR', 142, 'MX', '24.02032000', '-104.65756000', '2019-10-05 19:10:24', '2019-10-05 19:10:24', 1, 'Q112813'),
 (75986, 'Vida Mejor I', 3451, 'CHP', 142, 'MX', '14.86972000', '-92.30778000', '2019-10-05 19:10:24', '2019-10-05 19:10:24', 1, 'Q20292378'),
 (75987, 'Viesca', 3471, 'COA', 142, 'MX', '25.33923000', '-102.80493000', '2019-10-05 19:10:24', '2019-10-05 19:10:24', 1, 'Q1999618');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (75988, 'Villa Alberto Andrés Alvarado Arámburo', 3460, 'BCS', 142, 'MX', '27.64444000', '-113.38472000', '2019-10-05 19:10:24', '2020-05-01 13:22:59', 1, 'Q20246025'),
 (75989, 'Villa Aldama', 3464, 'VER', 142, 'MX', '19.64861000', '-97.22333000', '2019-10-05 19:10:24', '2019-10-05 19:10:24', 1, 'Q3845860'),
 (75990, 'Villa Aldama', 3454, 'TAB', 142, 'MX', '18.24088000', '-93.35068000', '2019-10-05 19:10:24', '2019-10-05 19:10:24', 1, 'Q3845860'),
@@ -76586,7 +76586,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (76340, 'Zinacantán', 3451, 'CHP', 142, 'MX', '16.76020000', '-92.72257000', '2019-10-05 19:10:32', '2020-05-01 13:22:59', 1, 'Q2477628'),
 (76341, 'Zinacatepec', 3476, 'PUE', 142, 'MX', '18.33516000', '-97.24621000', '2019-10-05 19:10:32', '2019-10-05 19:10:32', 1, 'Q20295457'),
 (76342, 'Zinapécuaro', 3474, 'MIC', 142, 'MX', '19.86006000', '-100.82857000', '2019-10-05 19:10:32', '2020-05-01 13:23:01', 1, 'Q20295499');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (76343, 'Zináparo', 3474, 'MIC', 142, 'MX', '20.16937000', '-101.99923000', '2019-10-05 19:10:32', '2020-05-01 13:23:01', 1, 'Q10838521'),
 (76344, 'Zipiajo', 3450, 'MEX', 142, 'MX', '19.79445000', '-101.55250000', '2019-10-05 19:10:32', '2019-10-05 19:10:32', 1, 'Q10838521'),
 (76345, 'Ziquítaro', 3474, 'MIC', 142, 'MX', '20.06212000', '-101.89033000', '2019-10-05 19:10:32', '2020-05-01 13:23:01', 1, 'Q10838521'),
@@ -76953,7 +76953,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (76706, 'Département de Nguigmi', 72, '2', 160, 'NE', '14.20753000', '13.12177000', '2019-10-05 19:10:40', '2020-05-01 13:23:03', 1, 'Q1422302'),
 (76707, 'Département de Ouallam', 67, '6', 160, 'NE', '14.63333000', '2.25000000', '2019-10-05 19:10:40', '2020-05-01 13:23:03', 1, 'Q912803'),
 (76708, 'Département de Say', 67, '6', 160, 'NE', '13.03579000', '2.22112000', '2019-10-05 19:10:40', '2020-05-01 13:23:03', 1, 'Q1236539');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (76709, 'Département de Tahoua', 73, '5', 160, 'NE', '14.80000000', '4.80000000', '2019-10-05 19:10:40', '2020-05-01 13:23:03', 1, 'Q13403317'),
 (76710, 'Département de Tchin-Tabaraden', 73, '5', 160, 'NE', '15.86694000', '5.71042000', '2019-10-05 19:10:40', '2020-05-01 13:23:03', 1, 'Q1509694'),
 (76711, 'Département de Tchirozérine', 71, '1', 160, 'NE', '17.43293000', '7.89321000', '2019-10-05 19:10:40', '2020-05-01 13:23:03', 1, 'Q1464380'),
@@ -77341,7 +77341,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (77093, 'Ruma', 313, 'KT', 161, 'NG', '12.86260000', '7.23469000', '2019-10-05 19:10:42', '2019-10-05 19:10:42', 1, 'Q1023703'),
 (77094, 'Runka', 313, 'KT', 161, 'NG', '12.44788000', '7.30918000', '2019-10-05 19:10:42', '2019-10-05 19:10:42', 1, 'Q1023703'),
 (77095, 'Sade', 312, 'BA', 161, 'NG', '11.35950000', '10.67320000', '2019-10-05 19:10:42', '2019-10-05 19:10:42', 1, 'Q1023703');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (77096, 'Saki', 296, 'OY', 161, 'NG', '8.66762000', '3.39393000', '2019-10-05 19:10:42', '2019-10-05 19:10:42', 1, 'Q3500788'),
 (77097, 'Samamiya', 288, 'JI', 161, 'NG', '11.34873000', '9.63989000', '2019-10-05 19:10:42', '2019-10-05 19:10:42', 1, 'Q3500788'),
 (77098, 'Saminaka', 294, 'KD', 161, 'NG', '10.41227000', '8.68748000', '2019-10-05 19:10:42', '2019-10-05 19:10:42', 1, 'Q3500788'),
@@ -77715,7 +77715,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (77466, 'Boxmeer', 2623, 'NB', 156, 'NL', '51.64667000', '5.94722000', '2019-10-05 19:11:42', '2019-10-05 19:11:42', 1, 'Q12012490'),
 (77467, 'Boxtel', 2623, 'NB', 156, 'NL', '51.59083000', '5.32917000', '2019-10-05 19:11:42', '2019-10-05 19:11:42', 1, 'Q13443096'),
 (77468, 'Brabander', 2615, 'LI', 156, 'NL', '51.53583000', '5.96806000', '2019-10-05 19:11:42', '2019-10-05 19:11:42', 1, 'Q13443096');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (77469, 'Brachterbeek', 2615, 'LI', 156, 'NL', '51.14694000', '5.90446000', '2019-10-05 19:11:42', '2019-10-05 19:11:42', 1, 'Q13443096'),
 (77470, 'Brakel', 2611, 'GE', 156, 'NL', '51.81750000', '5.09028000', '2019-10-05 19:11:42', '2019-10-05 19:11:42', 1, 'Q2916660'),
 (77471, 'Brakkenstein', 2611, 'GE', 156, 'NL', '51.81324000', '5.86539000', '2019-10-05 19:11:42', '2019-10-05 19:11:42', 1, 'Q2916660'),
@@ -78084,7 +78084,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (77834, 'Gemeente Houten', 2610, 'UT', 156, 'NL', '52.02683000', '5.16941000', '2019-10-05 19:11:46', '2019-10-05 19:11:46', 1, 'Q10044'),
 (77835, 'Gemeente Huizen', 2612, 'NH', 156, 'NL', '52.29664000', '5.24132000', '2019-10-05 19:11:46', '2019-10-05 19:11:46', 1, 'Q9939'),
 (77836, 'Gemeente Hulst', 2620, 'ZE', 156, 'NL', '51.31897000', '4.08690000', '2019-10-05 19:11:46', '2019-10-05 19:11:46', 1, 'Q10073');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (77837, 'Gemeente IJsselstein', 2610, 'UT', 156, 'NL', '52.02912000', '5.02868000', '2019-10-05 19:11:46', '2019-10-05 19:11:46', 1, 'Q10045'),
 (77838, 'Gemeente Kaag en Braassem', 2614, 'ZH', 156, 'NL', '52.19393000', '4.65516000', '2019-10-05 19:11:46', '2019-10-05 19:11:46', 1, 'Q1348471'),
 (77839, 'Gemeente Kampen', 2618, 'OV', 156, 'NL', '52.56181000', '5.91535000', '2019-10-05 19:11:46', '2019-10-05 19:11:46', 1, 'Q23814173'),
@@ -78450,7 +78450,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (78199, 'Husken', 2615, 'LI', 156, 'NL', '50.89567000', '5.95648000', '2019-10-05 19:11:49', '2019-10-05 19:11:49', 1, 'Q1025097'),
 (78200, 'IJlst', 2622, 'FR', 156, 'NL', '53.01009000', '5.62312000', '2019-10-05 19:11:49', '2019-10-05 19:11:49', 1, 'Q73348'),
 (78201, 'IJsselstein', 2610, 'UT', 156, 'NL', '52.02000000', '5.04306000', '2019-10-05 19:11:49', '2019-10-05 19:11:49', 1, 'Q73348');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (78202, 'IJzendijke', 2620, 'ZE', 156, 'NL', '51.32167000', '3.61667000', '2019-10-05 19:11:49', '2019-10-05 19:11:49', 1, 'Q1278906'),
 (78203, 'Ilpendam', 2612, 'NH', 156, 'NL', '52.46333000', '4.95000000', '2019-10-05 19:11:49', '2019-10-05 19:11:49', 1, 'Q1003235'),
 (78204, 'Ingen', 2611, 'GE', 156, 'NL', '51.95917000', '5.48472000', '2019-10-05 19:11:49', '2019-10-05 19:11:49', 1, 'Q3150932'),
@@ -78825,7 +78825,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (78573, 'Overschie', 2614, 'ZH', 156, 'NL', '51.93863000', '4.42766000', '2019-10-05 19:11:53', '2019-10-05 19:11:53', 1, 'Q2389241'),
 (78574, 'Overveen', 2612, 'NH', 156, 'NL', '52.39167000', '4.61389000', '2019-10-05 19:11:53', '2019-10-05 19:11:53', 1, 'Q1847815'),
 (78575, 'Palenstein', 2614, 'ZH', 156, 'NL', '52.05579000', '4.50869000', '2019-10-05 19:11:53', '2019-10-05 19:11:53', 1, 'Q1847815');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (78576, 'Pannerden', 2611, 'GE', 156, 'NL', '51.89083000', '6.03889000', '2019-10-05 19:11:53', '2019-10-05 19:11:53', 1, 'Q1918938'),
 (78577, 'Panningen', 2615, 'LI', 156, 'NL', '51.32667000', '5.97917000', '2019-10-05 19:11:53', '2019-10-05 19:11:53', 1, 'Q3019356'),
 (78578, 'Papendrecht', 2614, 'ZH', 156, 'NL', '51.83167000', '4.68750000', '2019-10-05 19:11:53', '2019-10-05 19:11:53', 1, 'Q3019356'),
@@ -79201,7 +79201,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (78948, 'Wieringerwerf', 2612, 'NH', 156, 'NL', '52.85083000', '5.02639000', '2019-10-05 19:12:02', '2019-10-05 19:12:02', 1, 'Q3030085'),
 (78949, 'Wijbosch', 2623, 'NB', 156, 'NL', '51.61667000', '5.46806000', '2019-10-05 19:12:02', '2019-10-05 19:12:02', 1, 'Q3030085'),
 (78950, 'Wijchen', 2611, 'GE', 156, 'NL', '51.80917000', '5.72500000', '2019-10-05 19:12:02', '2019-10-05 19:12:02', 1, 'Q15981302');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (78951, 'Wijdenes', 2612, 'NH', 156, 'NL', '52.63500000', '5.15694000', '2019-10-05 19:12:02', '2019-10-05 19:12:02', 1, 'Q1854763'),
 (78952, 'Wijhe', 2618, 'OV', 156, 'NL', '52.38667000', '6.13472000', '2019-10-05 19:12:02', '2019-10-05 19:12:02', 1, 'Q3164650'),
 (78953, 'Wijk aan Zee', 2612, 'NH', 156, 'NL', '52.49360000', '4.59409000', '2019-10-05 19:12:02', '2019-10-05 19:12:02', 1, 'Q913649'),
@@ -79581,7 +79581,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (79327, 'Lom', 1009, '05', 165, 'NO', '61.83639000', '8.56811000', '2019-10-05 19:12:06', '2019-10-05 19:12:06', 1, 'Q488395'),
 (79328, 'Lonevåg', 1023, '12', 165, 'NO', '60.52556000', '5.49563000', '2019-10-05 19:12:06', '2020-05-01 13:23:04', 1, 'Q1776445'),
 (79329, 'Loppa', 1016, '20', 165, 'NO', '70.23952000', '22.35136000', '2019-10-05 19:12:06', '2019-10-05 19:12:06', 1, 'Q48848');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (79330, 'Lund', 1021, '11', 165, 'NO', '58.45715000', '6.54871000', '2019-10-05 19:12:06', '2019-10-05 19:12:06', 1, 'Q515536'),
 (79331, 'Lundamo', 1006, '50', 165, 'NO', '63.15216000', '10.28555000', '2019-10-05 19:12:06', '2019-10-05 19:12:06', 1, 'Q1781145'),
 (79332, 'Lunde', 1024, '08', 165, 'NO', '59.29832000', '9.10268000', '2019-10-05 19:12:06', '2019-10-05 19:12:06', 1, 'Q845911'),
@@ -79963,7 +79963,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (79708, 'Bhattarai Danda', 2067, '3', 154, 'NP', '27.88333000', '83.93333000', '2019-10-05 19:12:15', '2019-10-05 19:12:15', 1, 'Q250220'),
 (79709, 'Bhojpur', 2069, '4', 154, 'NP', '27.17150000', '87.04607000', '2019-10-05 19:12:15', '2019-10-05 19:12:15', 1, 'Q2900702'),
 (79710, 'Bhojpur', 2066, '2', 154, 'NP', '27.93565000', '81.77555000', '2019-10-05 19:12:15', '2019-10-05 19:12:15', 1, 'Q2900702');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (79711, 'Biratnagar', 2069, '4', 154, 'NP', '26.45505000', '87.27007000', '2019-10-05 19:12:15', '2019-10-05 19:12:15', 1, 'Q8247'),
 (79712, 'Birendranagar', 2066, '2', 154, 'NP', '28.60194000', '81.63389000', '2019-10-05 19:12:15', '2019-10-05 19:12:15', 1, 'Q865146'),
 (79713, 'Birgañj', 2073, '1', 154, 'NP', '27.01709000', '84.88080000', '2019-10-05 19:12:15', '2020-05-01 13:23:03', 1, 'Q8252'),
@@ -80334,7 +80334,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (80078, 'Cristóbal', 1386, '3', 170, 'PA', '9.35222000', '-79.90444000', '2019-10-05 19:12:18', '2020-05-01 13:23:04', 1, 'Q80777'),
 (80079, 'Cucunatí', 1385, '5', 170, 'PA', '8.57508000', '-78.25671000', '2019-10-05 19:12:18', '2020-05-01 13:23:04', 1, 'Q80777'),
 (80080, 'Curundú', 1395, '8', 170, 'PA', '8.97092000', '-79.54612000', '2019-10-05 19:12:18', '2020-05-01 13:23:04', 1, 'Q80777');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (80081, 'Cémaco', 1396, 'EM', 170, 'PA', '8.08285000', '-77.54210000', '2019-10-05 19:12:18', '2020-05-01 13:23:04', 1, 'Q80777'),
 (80082, 'David', 1397, '4', 170, 'PA', '8.42729000', '-82.43085000', '2019-10-05 19:12:18', '2019-10-05 19:12:18', 1, 'Q279009'),
 (80083, 'Distrito Arraiján', 1394, '10', 170, 'PA', '8.95000000', '-79.70000000', '2019-10-05 19:12:18', '2020-05-01 13:23:04', 1, 'Q2216621'),
@@ -80701,7 +80701,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (80444, 'Quebrada Canoa', 1391, 'NB', 170, 'PA', '8.43333000', '-81.78333000', '2019-10-05 19:12:20', '2019-10-05 19:12:20', 1, 'Q3130855'),
 (80445, 'Quebrada Tula', 1391, 'NB', 170, 'PA', '8.84037000', '-81.99645000', '2019-10-05 19:12:20', '2019-10-05 19:12:20', 1, 'Q3130855'),
 (80446, 'Quebrada de Oro', 1392, '9', 170, 'PA', '8.03548000', '-81.38692000', '2019-10-05 19:12:20', '2019-10-05 19:12:20', 1, 'Q3130855');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (80447, 'Quebrada de Piedra', 1397, '4', 170, 'PA', '8.09418000', '-81.67915000', '2019-10-05 19:12:20', '2019-10-05 19:12:20', 1, 'Q3130855'),
 (80448, 'Quebrada del Rosario', 1389, '6', 170, 'PA', '7.71238000', '-80.74222000', '2019-10-05 19:12:20', '2019-10-05 19:12:20', 1, 'Q3130855'),
 (80449, 'Querévalo', 1397, '4', 170, 'PA', '8.37174000', '-82.52670000', '2019-10-05 19:12:20', '2020-05-01 13:23:04', 1, 'Q3130855'),
@@ -81066,7 +81066,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (80808, 'Provincia de Chumbivilcas', 3691, 'CUS', 173, 'PE', '-14.41667000', '-72.00000000', '2019-10-05 19:12:22', '2019-10-05 19:12:22', 1, 'Q584864'),
 (80809, 'Provincia de Chupaca', 3693, 'JUN', 173, 'PE', '-12.30000000', '-75.43300000', '2019-10-05 19:12:22', '2019-10-05 19:12:22', 1, 'Q1777631'),
 (80810, 'Provincia de Churcampa', 3679, 'HUV', 173, 'PE', '-12.60000000', '-74.52000000', '2019-10-05 19:12:22', '2019-10-05 19:12:22', 1, 'Q639598');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (80811, 'Provincia de Concepción', 3693, 'JUN', 173, 'PE', '-11.75000000', '-75.00000000', '2019-10-05 19:12:22', '2020-05-01 13:23:04', 1, 'Q1991124'),
 (80812, 'Provincia de Condesuyos', 3681, 'ARE', 173, 'PE', '-15.58333000', '-72.83333000', '2019-10-05 19:12:22', '2019-10-05 19:12:22', 1, 'Q1814253'),
 (80813, 'Provincia de Contralmirante Villar', 3689, 'TUM', 173, 'PE', '-4.00000000', '-80.75000000', '2019-10-05 19:12:22', '2019-10-05 19:12:22', 1, 'Q1422590'),
@@ -81424,7 +81424,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (81165, 'Agpangi', 1336, 'ANT', 174, 'PH', '10.57716000', '123.42320000', '2019-10-05 19:12:25', '2019-10-05 19:12:25', 1, 'Q31462354'),
 (81166, 'Agsungot', 1344, 'BAN', 174, 'PH', '10.43444000', '123.90611000', '2019-10-05 19:12:25', '2019-10-05 19:12:25', 1, 'Q31462379'),
 (81167, 'Aguada', 1337, 'ALB', 174, 'PH', '12.81667000', '123.83333000', '2019-10-05 19:12:25', '2019-10-05 19:12:25', 1, 'Q31462379');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (81168, 'Aguilar', 1355, '01', 174, 'PH', '15.88840000', '120.23780000', '2019-10-05 19:12:25', '2019-10-05 19:12:25', 1, 'Q31462379'),
 (81169, 'Aguining', 1344, 'BAN', 174, 'PH', '10.08610000', '124.59440000', '2019-10-05 19:12:25', '2019-10-05 19:12:25', 1, 'Q31462473'),
 (81170, 'Aguisan', 1336, 'ANT', 174, 'PH', '10.16030000', '122.86150000', '2019-10-05 19:12:25', '2019-10-05 19:12:25', 1, 'Q31462501'),
@@ -81797,7 +81797,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (81537, 'Bani', 1345, '03', 174, 'PH', '15.58230000', '119.93350000', '2019-10-05 19:12:27', '2019-10-05 19:12:27', 1, 'Q31483864'),
 (81538, 'Bani', 1355, '01', 174, 'PH', '16.18500000', '119.86130000', '2019-10-05 19:12:27', '2019-10-05 19:12:27', 1, 'Q41732'),
 (81539, 'Banilad', 1344, 'BAN', 174, 'PH', '9.27860000', '123.29360000', '2019-10-05 19:12:27', '2019-10-05 19:12:27', 1, 'Q31484008');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (81540, 'Banilad', 1356, 'MDC', 174, 'PH', '14.06670000', '120.73470000', '2019-10-05 19:12:27', '2019-10-05 19:12:27', 1, 'Q31483987'),
 (81541, 'Banisilan', 1310, '12', 174, 'PH', '7.49083000', '124.72417000', '2019-10-05 19:12:27', '2019-10-05 19:12:27', 1, 'Q315121'),
 (81542, 'Bankaw', 1316, '14', 174, 'PH', '5.01920000', '120.00910000', '2019-10-05 19:12:27', '2019-10-05 19:12:27', 1, 'Q315121'),
@@ -82170,7 +82170,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (81909, 'Burgos', 1355, '01', 174, 'PH', '18.51658000', '120.64492000', '2019-10-05 19:12:30', '2019-10-05 19:12:30', 1, 'Q39368'),
 (81910, 'Burgos', 1342, '02', 174, 'PH', '17.08914000', '121.70254000', '2019-10-05 19:12:30', '2019-10-05 19:12:30', 1, 'Q39368'),
 (81911, 'Burias', 1336, 'ANT', 174, 'PH', '11.44630000', '122.54970000', '2019-10-05 19:12:30', '2019-10-05 19:12:30', 1, 'Q31519409');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (81912, 'Burias', 1310, '12', 174, 'PH', '5.71778000', '125.25361000', '2019-10-05 19:12:30', '2019-10-05 19:12:30', 1, 'Q31519427'),
 (81913, 'Burirao', 1354, 'MDR', 174, 'PH', '9.20000000', '118.10000000', '2019-10-05 19:12:30', '2019-10-05 19:12:30', 1, 'Q31519493'),
 (81914, 'Buruanga', 1336, 'ANT', 174, 'PH', '11.84428000', '121.88841000', '2019-10-05 19:12:30', '2019-10-05 19:12:30', 1, 'Q576805'),
@@ -82539,7 +82539,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (82277, 'Concordia', 1336, 'ANT', 174, 'PH', '10.50767000', '122.54960000', '2019-10-05 19:12:32', '2019-10-05 19:12:32', 1, 'Q31551128'),
 (82278, 'Conduaga', 1354, 'MDR', 174, 'PH', '8.86200000', '117.48930000', '2019-10-05 19:12:32', '2019-10-05 19:12:32', 1, 'Q31551178'),
 (82279, 'Conel', 1310, '12', 174, 'PH', '6.20222000', '125.18722000', '2019-10-05 19:12:32', '2019-10-05 19:12:32', 1, 'Q31551178');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (82280, 'Conner', 1335, '15', 174, 'PH', '17.79639000', '121.32750000', '2019-10-05 19:12:32', '2019-10-05 19:12:32', 1, 'Q30033'),
 (82281, 'Consolacion', 1344, 'BAN', 174, 'PH', '10.37660000', '123.95730000', '2019-10-05 19:12:32', '2019-10-05 19:12:32', 1, 'Q30033'),
 (82282, 'Consolacion', 1336, 'ANT', 174, 'PH', '11.32840000', '122.63320000', '2019-10-05 19:12:32', '2019-10-05 19:12:32', 1, 'Q31551752'),
@@ -82910,7 +82910,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (82647, 'Guisguis', 1345, '03', 174, 'PH', '15.79280000', '119.97660000', '2019-10-05 19:12:37', '2019-10-05 19:12:37', 1, 'Q31811381'),
 (82648, 'Guisguis', 1356, 'MDC', 174, 'PH', '13.87380000', '121.51890000', '2019-10-05 19:12:37', '2019-10-05 19:12:37', 1, 'Q31811380'),
 (82649, 'Guisijan', 1336, 'ANT', 174, 'PH', '11.09320000', '122.04610000', '2019-10-05 19:12:37', '2019-10-05 19:12:37', 1, 'Q31811382');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (82650, 'Guiuan', 1352, 'BTN', 174, 'PH', '11.03088000', '125.72342000', '2019-10-05 19:12:37', '2019-10-05 19:12:37', 1, 'Q313984'),
 (82651, 'Guiwanon', 1344, 'BAN', 174, 'PH', '11.19750000', '123.70800000', '2019-10-05 19:12:37', '2019-10-05 19:12:37', 1, 'Q31811384'),
 (82652, 'Gulod', 1356, 'MDC', 174, 'PH', '14.34490000', '121.21770000', '2019-10-05 19:12:37', '2019-10-05 19:12:37', 1, 'Q31811387'),
@@ -83282,7 +83282,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (83018, 'Lanigay', 1337, 'ALB', 174, 'PH', '13.31667000', '123.50000000', '2019-10-05 19:12:42', '2019-10-05 19:12:42', 1, 'Q31811784'),
 (83019, 'Lanipao', 1363, 'BEN', 174, 'PH', '7.95528000', '123.77667000', '2019-10-05 19:12:42', '2019-10-05 19:12:42', 1, 'Q31811785'),
 (83020, 'Lanna', 1342, '02', 174, 'PH', '17.69600000', '121.70014000', '2019-10-05 19:12:42', '2019-10-05 19:12:42', 1, 'Q31811787');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (83021, 'Lanot', 1336, 'ANT', 174, 'PH', '11.51917000', '122.75722000', '2019-10-05 19:12:42', '2019-10-05 19:12:42', 1, 'Q31811788'),
 (83022, 'Lantangan', 1336, 'ANT', 174, 'PH', '11.58820000', '123.32560000', '2019-10-05 19:12:42', '2019-10-05 19:12:42', 1, 'Q31811791'),
 (83023, 'Lantangan', 1337, 'ALB', 174, 'PH', '12.19815000', '123.27101000', '2019-10-05 19:12:42', '2019-10-05 19:12:42', 1, 'Q31811789'),
@@ -83656,7 +83656,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (83391, 'Malacampa', 1345, '03', 174, 'PH', '15.64335000', '120.41109000', '2019-10-05 19:12:45', '2019-10-05 19:12:45', 1, 'Q31812132'),
 (83392, 'Malaga', 1352, 'BTN', 174, 'PH', '12.23686000', '124.37529000', '2019-10-05 19:12:45', '2019-10-05 19:12:45', 1, 'Q31812133'),
 (83393, 'Malagos', 1340, '11', 174, 'PH', '7.18500000', '125.42222000', '2019-10-05 19:12:45', '2019-10-05 19:12:45', 1, 'Q31812135');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (83394, 'Malaiba', 1344, 'BAN', 174, 'PH', '10.33333000', '123.31667000', '2019-10-05 19:12:45', '2019-10-05 19:12:45', 1, 'Q31812136'),
 (83395, 'Malainen Luma', 1356, 'MDC', 174, 'PH', '14.27030000', '120.78840000', '2019-10-05 19:12:45', '2019-10-05 19:12:45', 1, 'Q31812137'),
 (83396, 'Malajog', 1352, 'BTN', 174, 'PH', '12.11020000', '124.47930000', '2019-10-05 19:12:45', '2019-10-05 19:12:45', 1, 'Q31812138'),
@@ -84028,7 +84028,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (83762, 'Nalundan', 1344, 'BAN', 174, 'PH', '9.75000000', '123.06667000', '2019-10-05 19:12:56', '2019-10-05 19:12:56', 1, 'Q31812541'),
 (83763, 'Nalus', 1310, '12', 174, 'PH', '6.01222000', '124.58528000', '2019-10-05 19:12:56', '2019-10-05 19:12:56', 1, 'Q31812543'),
 (83764, 'Nama', 1355, '01', 174, 'PH', '16.14120000', '120.54260000', '2019-10-05 19:12:56', '2019-10-05 19:12:56', 1, 'Q31812545');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (83765, 'Nambalan', 1345, '03', 174, 'PH', '15.59911000', '120.46031000', '2019-10-05 19:12:56', '2019-10-05 19:12:56', 1, 'Q31812547'),
 (83766, 'Namboongan', 1355, '01', 174, 'PH', '16.30330000', '120.37580000', '2019-10-05 19:12:56', '2019-10-05 19:12:56', 1, 'Q31812550'),
 (83767, 'Nampicuan', 1345, '03', 174, 'PH', '15.73140000', '120.62500000', '2019-10-05 19:12:56', '2019-10-05 19:12:56', 1, 'Q55560'),
@@ -84400,7 +84400,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (84133, 'Plaridel', 1336, 'ANT', 174, 'PH', '10.89740000', '123.48940000', '2019-10-05 19:13:15', '2019-10-05 19:13:15', 1, 'Q31472092'),
 (84134, 'Plaridel', 1363, 'BEN', 174, 'PH', '8.62140000', '123.71010000', '2019-10-05 19:13:15', '2019-10-05 19:13:15', 1, 'Q196207'),
 (84135, 'Plaridel', 1354, 'MDR', 174, 'PH', '9.37860000', '118.50174000', '2019-10-05 19:13:15', '2019-10-05 19:13:15', 1, 'Q31472112');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (84136, 'Platagata', 1336, 'ANT', 174, 'PH', '11.30300000', '123.15670000', '2019-10-05 19:13:15', '2019-10-05 19:13:15', 1, 'Q31472259'),
 (84137, 'Poblacion, San Felipe', 1345, '03', 174, 'PH', '15.06222000', '120.07000000', '2019-10-05 19:13:15', '2019-10-05 19:13:15', 1, 'Q31472259'),
 (84138, 'Poctol', 1356, 'MDC', 174, 'PH', '13.82095000', '121.44184000', '2019-10-05 19:13:15', '2019-10-05 19:13:15', 1, 'Q31472259'),
@@ -84763,7 +84763,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (84495, 'San Guillermo', 1342, '02', 174, 'PH', '16.72540000', '121.80980000', '2019-10-05 19:13:21', '2019-10-05 19:13:21', 1, 'Q31503938'),
 (84496, 'San Ignacio', 1340, '11', 174, 'PH', '7.11890000', '126.48838000', '2019-10-05 19:13:21', '2019-10-05 19:13:21', 1, 'Q31503998'),
 (84497, 'San Ildefonso', 1345, '03', 174, 'PH', '15.08090000', '120.94100000', '2019-10-05 19:13:21', '2019-10-05 19:13:21', 1, 'Q31503998');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (84498, 'San Ildefonso', 1355, '01', 174, 'PH', '17.62222000', '120.39667000', '2019-10-05 19:13:21', '2019-10-05 19:13:21', 1, 'Q12864'),
 (84499, 'San Isidro', 1363, 'BEN', 174, 'PH', '8.25833000', '124.59306000', '2019-10-05 19:13:21', '2019-10-05 19:13:21', 1, 'Q31504126'),
 (84500, 'San Isidro', 1337, 'ALB', 174, 'PH', '12.97417000', '123.85722000', '2019-10-05 19:13:21', '2019-10-05 19:13:21', 1, 'Q31504147'),
@@ -85131,7 +85131,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (84862, 'Sugpon', 1355, '01', 174, 'PH', '16.84340000', '120.51570000', '2019-10-05 19:13:26', '2019-10-05 19:13:26', 1, 'Q12893'),
 (84863, 'Suklayin', 1345, '03', 174, 'PH', '15.75740000', '121.55030000', '2019-10-05 19:13:26', '2019-10-05 19:13:26', 1, 'Q31536835'),
 (84864, 'Sula', 1345, '03', 174, 'PH', '15.45725000', '120.39553000', '2019-10-05 19:13:26', '2019-10-05 19:13:26', 1, 'Q31536869');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (84865, 'Sulangan', 1352, 'BTN', 174, 'PH', '10.93600000', '125.82640000', '2019-10-05 19:13:26', '2019-10-05 19:13:26', 1, 'Q31536931'),
 (84866, 'Sulangan', 1344, 'BAN', 174, 'PH', '11.13730000', '123.72280000', '2019-10-05 19:13:26', '2019-10-05 19:13:26', 1, 'Q31536931'),
 (84867, 'Sulangan', 1336, 'ANT', 174, 'PH', '10.83000000', '122.69000000', '2019-10-05 19:13:26', '2019-10-05 19:13:26', 1, 'Q31536915'),
@@ -85505,7 +85505,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (85235, 'Tutubigan', 1352, 'BTN', 174, 'PH', '11.83972000', '125.06139000', '2019-10-05 19:13:30', '2019-10-05 19:13:30', 1, 'Q31565602'),
 (85236, 'Tuy', 1356, 'MDC', 174, 'PH', '14.01830000', '120.72960000', '2019-10-05 19:13:30', '2019-10-05 19:13:30', 1, 'Q59844'),
 (85237, 'Tuyan', 1310, '12', 174, 'PH', '6.00000000', '125.28333000', '2019-10-05 19:13:30', '2019-10-05 19:13:30', 1, 'Q59844');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (85238, 'Tuyum', 1336, 'ANT', 174, 'PH', '9.97690000', '122.55820000', '2019-10-05 19:13:30', '2019-10-05 19:13:30', 1, 'Q31565683'),
 (85239, 'Uacon', 1345, '03', 174, 'PH', '15.67870000', '119.94030000', '2019-10-05 19:13:30', '2019-10-05 19:13:30', 1, 'Q31567197'),
 (85240, 'Ualog', 1336, 'ANT', 174, 'PH', '10.57396000', '123.39330000', '2019-10-05 19:13:30', '2019-10-05 19:13:30', 1, 'Q31567264'),
@@ -85877,7 +85877,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (85610, 'Mingora', 3171, 'KP', 167, 'PK', '34.77950000', '72.36265000', '2019-10-05 19:13:33', '2019-10-05 19:13:33', 1, 'Q31356'),
 (85611, 'Miran Shah', 3173, 'TA', 167, 'PK', '33.00059000', '70.07117000', '2019-10-05 19:13:33', '2019-10-05 19:13:33', 1, 'Q124385'),
 (85612, 'Miro Khan', 3175, 'SD', 167, 'PK', '27.75985000', '68.09195000', '2019-10-05 19:13:33', '2019-10-05 19:13:33', 1, 'Q124385');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (85613, 'Mirpur Bhtoro', 3175, 'SD', 167, 'PK', '24.72852000', '68.26010000', '2019-10-05 19:13:33', '2019-10-05 19:13:33', 1, 'Q6874468'),
 (85614, 'Mirpur District', 3172, 'JK', 167, 'PK', '33.21556000', '73.75144000', '2019-10-05 19:13:33', '2019-10-05 19:13:33', 1, 'Q2571434'),
 (85615, 'Mirpur Khas', 3175, 'SD', 167, 'PK', '25.52760000', '69.01255000', '2019-10-05 19:13:33', '2019-10-05 19:13:33', 1, 'Q1020490'),
@@ -86250,7 +86250,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (85983, 'Budziszewice', 1636, 'LD', 176, 'PL', '51.66739000', '19.93581000', '2019-10-05 19:13:38', '2019-10-05 19:13:38', 1, 'Q4985322'),
 (85984, 'Budzyń', 1634, 'WP', 176, 'PL', '52.88954000', '16.98812000', '2019-10-05 19:13:38', '2020-05-01 13:23:06', 1, 'Q4985322'),
 (85985, 'Budzów', 1629, 'DS', 176, 'PL', '50.59337000', '16.71038000', '2019-10-05 19:13:38', '2020-05-01 13:23:06', 1, 'Q4985348');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (85986, 'Budzów', 1635, 'MA', 176, 'PL', '49.77622000', '19.67274000', '2019-10-05 19:13:38', '2020-05-01 13:23:06', 1, 'Q2296118'),
 (85987, 'Bujaków', 1623, 'SL', 176, 'PL', '49.85182000', '19.19432000', '2019-10-05 19:13:38', '2020-05-01 13:23:07', 1, 'Q3958231'),
 (85988, 'Buk', 1634, 'WP', 176, 'PL', '52.35532000', '16.51958000', '2019-10-05 19:13:38', '2019-10-05 19:13:38', 1, 'Q667588'),
@@ -86625,7 +86625,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (86357, 'Gołuchów', 1634, 'WP', 176, 'PL', '51.85036000', '17.93140000', '2019-10-05 19:13:41', '2020-05-01 13:23:06', 1, 'Q555310'),
 (86358, 'Gołymin-Ośrodek', 1637, 'MZ', 176, 'PL', '52.80800000', '20.87325000', '2019-10-05 19:13:41', '2020-05-01 13:23:06', 1, 'Q7883566'),
 (86359, 'Gościcino', 1624, 'PM', 176, 'PL', '54.60459000', '18.15491000', '2019-10-05 19:13:41', '2020-05-01 13:23:07', 1, 'Q1976822');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (86360, 'Gościeradów', 1638, 'LU', 176, 'PL', '50.86859000', '22.00536000', '2019-10-05 19:13:41', '2020-05-01 13:23:06', 1, 'Q5590445'),
 (86361, 'Gościno', 1633, 'ZP', 176, 'PL', '54.05123000', '15.65256000', '2019-10-05 19:13:41', '2020-05-01 13:23:07', 1, 'Q5590445'),
 (86362, 'Grabica', 1636, 'LD', 176, 'PL', '51.47989000', '19.53137000', '2019-10-05 19:13:41', '2019-10-05 19:13:41', 1, 'Q1956454'),
@@ -86998,7 +86998,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (86729, 'Kowale-Popiele', 1629, 'DS', 176, 'PL', '51.13090000', '17.10175000', '2019-10-05 19:13:45', '2019-10-05 19:13:45', 1, 'Q994293'),
 (86730, 'Kowalewo Pomorskie', 1625, 'KP', 176, 'PL', '53.15432000', '18.89868000', '2019-10-05 19:13:45', '2019-10-05 19:13:45', 1, 'Q1288480'),
 (86731, 'Kowary', 1629, 'DS', 176, 'PL', '50.79313000', '15.83559000', '2019-10-05 19:13:45', '2019-10-05 19:13:45', 1, 'Q985656');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (86732, 'Kowiesy', 1636, 'LD', 176, 'PL', '51.88942000', '20.41929000', '2019-10-05 19:13:45', '2019-10-05 19:13:45', 1, 'Q2281217'),
 (86733, 'Kozanów', 1629, 'DS', 176, 'PL', '51.14447000', '16.96937000', '2019-10-05 19:13:45', '2020-05-01 13:23:06', 1, 'Q2281217'),
 (86734, 'Koziegłowy', 1623, 'SL', 176, 'PL', '50.60035000', '19.16299000', '2019-10-05 19:13:45', '2020-05-01 13:23:07', 1, 'Q555042'),
@@ -87372,7 +87372,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (87102, 'Mrozy', 1637, 'MZ', 176, 'PL', '52.01975000', '20.36702000', '2019-10-05 19:14:21', '2019-10-05 19:14:21', 1, 'Q6929680'),
 (87103, 'Mrozów', 1629, 'DS', 176, 'PL', '51.18817000', '16.78831000', '2019-10-05 19:14:21', '2020-05-01 13:23:06', 1, 'Q3254986'),
 (87104, 'Mrzezino', 1624, 'PM', 176, 'PL', '54.65378000', '18.43025000', '2019-10-05 19:14:21', '2019-10-05 19:14:21', 1, 'Q6930016');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (87105, 'Mrzeżyno', 1633, 'ZP', 176, 'PL', '54.14384000', '15.29142000', '2019-10-05 19:14:21', '2020-05-01 13:23:07', 1, 'Q1899616'),
 (87106, 'Mrągowo', 1628, 'WN', 176, 'PL', '53.86437000', '21.30507000', '2019-10-05 19:14:21', '2020-05-01 13:23:07', 1, 'Q745085'),
 (87107, 'Mstów', 1623, 'SL', 176, 'PL', '50.82969000', '19.28547000', '2019-10-05 19:14:21', '2020-05-01 13:23:07', 1, 'Q2072590'),
@@ -87744,7 +87744,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (87473, 'Powiat brodnicki', 1625, 'KP', 176, 'PL', '53.26982000', '19.42279000', '2019-10-05 19:14:23', '2019-10-05 19:14:23', 1, 'Q552043'),
 (87474, 'Powiat brzeski', 1635, 'MA', 176, 'PL', '49.97170000', '20.60572000', '2019-10-05 19:14:23', '2019-10-05 19:14:23', 1, 'Q975454'),
 (87475, 'Powiat brzeski', 1622, 'OP', 176, 'PL', '50.78930000', '17.48499000', '2019-10-05 19:14:23', '2019-10-05 19:14:23', 1, 'Q461205');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (87476, 'Powiat brzeziński', 1636, 'LD', 176, 'PL', '51.84073000', '19.83037000', '2019-10-05 19:14:23', '2020-05-01 13:23:06', 1, 'Q1147568'),
 (87477, 'Powiat brzozowski', 1626, 'PK', 176, 'PL', '49.72759000', '22.09039000', '2019-10-05 19:14:23', '2019-10-05 19:14:23', 1, 'Q1147627'),
 (87478, 'Powiat buski', 1630, 'SK', 176, 'PL', '50.45583000', '20.87624000', '2019-10-05 19:14:23', '2019-10-05 19:14:23', 1, 'Q1335648'),
@@ -88101,7 +88101,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (87829, 'Przyszowice', 1623, 'SL', 176, 'PL', '50.24841000', '18.74594000', '2019-10-05 19:14:25', '2019-10-05 19:14:25', 1, 'Q4704001'),
 (87830, 'Przytkowice', 1635, 'MA', 176, 'PL', '49.91785000', '19.68570000', '2019-10-05 19:14:25', '2019-10-05 19:14:25', 1, 'Q7253731'),
 (87831, 'Przytoczna', 1631, 'LB', 176, 'PL', '52.57755000', '15.67878000', '2019-10-05 19:14:25', '2019-10-05 19:14:25', 1, 'Q1003300');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (87832, 'Przytoczno', 1638, 'LU', 176, 'PL', '51.61951000', '22.27135000', '2019-10-05 19:14:25', '2019-10-05 19:14:25', 1, 'Q7253733'),
 (87833, 'Przytyk', 1637, 'MZ', 176, 'PL', '51.46567000', '20.90587000', '2019-10-05 19:14:25', '2019-10-05 19:14:25', 1, 'Q600023'),
 (87834, 'Przywidz', 1624, 'PM', 176, 'PL', '54.19524000', '18.32116000', '2019-10-05 19:14:25', '2019-10-05 19:14:25', 1, 'Q2355514'),
@@ -88474,7 +88474,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (88201, 'Stawiszyn', 1634, 'WP', 176, 'PL', '51.91786000', '18.11171000', '2019-10-05 19:14:28', '2019-10-05 19:14:28', 1, 'Q1002685'),
 (88202, 'Stegna', 1624, 'PM', 176, 'PL', '54.32684000', '19.11252000', '2019-10-05 19:14:28', '2019-10-05 19:14:28', 1, 'Q1002685'),
 (88203, 'Stepnica', 1633, 'ZP', 176, 'PL', '53.65187000', '14.62555000', '2019-10-05 19:14:28', '2019-10-05 19:14:28', 1, 'Q7767291');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (88204, 'Sterdyń', 1637, 'MZ', 176, 'PL', '52.58026000', '22.29358000', '2019-10-05 19:14:28', '2020-05-01 13:23:07', 1, 'Q1526656'),
 (88205, 'Stoczek', 1637, 'MZ', 176, 'PL', '52.54332000', '21.90013000', '2019-10-05 19:14:28', '2019-10-05 19:14:28', 1, 'Q2695473'),
 (88206, 'Stoczek Łukowski', 1638, 'LU', 176, 'PL', '51.96135000', '21.97137000', '2019-10-05 19:14:28', '2020-05-01 13:23:06', 1, 'Q219106'),
@@ -88849,7 +88849,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (88575, 'Wojcieszów', 1629, 'DS', 176, 'PL', '50.95194000', '15.92185000', '2019-10-05 19:14:30', '2020-05-01 13:23:06', 1, 'Q987981'),
 (88576, 'Wojkowice', 1623, 'SL', 176, 'PL', '50.36509000', '19.03652000', '2019-10-05 19:14:30', '2019-10-05 19:14:30', 1, 'Q985640'),
 (88577, 'Wojnicz', 1635, 'MA', 176, 'PL', '49.95800000', '20.83785000', '2019-10-05 19:14:30', '2019-10-05 19:14:30', 1, 'Q1089052');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (88578, 'Wojszyce', 1629, 'DS', 176, 'PL', '51.05837000', '17.04513000', '2019-10-05 19:14:30', '2019-10-05 19:14:30', 1, 'Q1089052'),
 (88579, 'Wojsławice', 1638, 'LU', 176, 'PL', '50.91916000', '23.54602000', '2019-10-05 19:14:30', '2020-05-01 13:23:06', 1, 'Q2212388'),
 (88580, 'Wola', 1637, 'MZ', 176, 'PL', '52.24010000', '20.98869000', '2019-10-05 19:14:30', '2019-10-05 19:14:30', 1, 'Q1020136'),
@@ -89223,7 +89223,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (88948, 'Almeirim', 2238, '14', 177, 'PT', '39.20837000', '-8.62635000', '2019-10-05 19:14:33', '2019-10-05 19:14:33', 1, 'Q31879456'),
 (88949, 'Almodôvar', 2230, '02', 177, 'PT', '37.49590000', '-8.09372000', '2019-10-05 19:14:33', '2020-05-01 13:23:07', 1, 'Q936943'),
 (88950, 'Almograve', 2230, '02', 177, 'PT', '37.65665000', '-8.79214000', '2019-10-05 19:14:33', '2019-10-05 19:14:33', 1, 'Q936943');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (88951, 'Alpendurada', 2243, '13', 177, 'PT', '41.08944000', '-8.24643000', '2019-10-05 19:14:33', '2019-10-05 19:14:33', 1, 'Q936943'),
 (88952, 'Alpiarça', 2238, '14', 177, 'PT', '39.25712000', '-8.58187000', '2019-10-05 19:14:33', '2020-05-01 13:23:07', 1, 'Q49280913'),
 (88953, 'Alter do Chão', 2232, '12', 177, 'PT', '39.23098000', '-7.74430000', '2019-10-05 19:14:33', '2020-05-01 13:23:07', 1, 'Q438263'),
@@ -89594,7 +89594,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (89318, 'Montalvo', 2238, '14', 177, 'PT', '39.48333000', '-8.30000000', '2019-10-05 19:14:35', '2019-10-05 19:14:35', 1, 'Q757860'),
 (89319, 'Montargil', 2232, '12', 177, 'PT', '39.07771000', '-8.17044000', '2019-10-05 19:14:35', '2019-10-05 19:14:35', 1, 'Q757860'),
 (89320, 'Monte Estoril', 2228, '11', 177, 'PT', '38.70636000', '-9.40595000', '2019-10-05 19:14:35', '2019-10-05 19:14:35', 1, 'Q6022399');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (89321, 'Monte Gordo', 2239, '08', 177, 'PT', '37.18192000', '-7.45225000', '2019-10-05 19:14:35', '2019-10-05 19:14:35', 1, 'Q35732663'),
 (89322, 'Monte Real', 2240, '10', 177, 'PT', '39.85210000', '-8.86349000', '2019-10-05 19:14:35', '2019-10-05 19:14:35', 1, 'Q1945916'),
 (89323, 'Monte Redondo', 2240, '10', 177, 'PT', '39.89930000', '-8.83171000', '2019-10-05 19:14:35', '2019-10-05 19:14:35', 1, 'Q35732679'),
@@ -89960,7 +89960,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (89683, 'Vinhais', 2229, '04', 177, 'PT', '41.83509000', '-7.00501000', '2019-10-05 19:14:37', '2019-10-05 19:14:37', 1, 'Q551103'),
 (89684, 'Viseu', 2237, '18', 177, 'PT', '40.67450000', '-7.91721000', '2019-10-05 19:14:37', '2019-10-05 19:14:37', 1, 'Q117676'),
 (89685, 'Vizela', 2243, '13', 177, 'PT', '41.38242000', '-8.24887000', '2019-10-05 19:14:37', '2019-10-05 19:14:37', 1, 'Q33512261');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (89686, 'Vizela', 2244, '03', 177, 'PT', '41.37529000', '-8.29310000', '2019-10-05 19:14:37', '2019-10-05 19:14:37', 1, 'Q551955'),
 (89687, 'Vouzela', 2237, '18', 177, 'PT', '40.68944000', '-8.11360000', '2019-10-05 19:14:37', '2019-10-05 19:14:37', 1, 'Q1012714'),
 (89688, 'Válega', 2235, '01', 177, 'PT', '40.83629000', '-8.58061000', '2019-10-05 19:14:37', '2020-05-01 13:23:07', 1, 'Q33512640'),
@@ -90329,7 +90329,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (90051, 'Balşa', 4721, 'HD', 181, 'RO', '46.03333000', '23.11667000', '2019-10-05 19:14:40', '2020-05-01 13:23:10', 1, 'Q789736'),
 (90052, 'Balș', 4735, 'IS', 181, 'RO', '47.29628000', '26.97856000', '2019-10-05 19:14:40', '2020-05-01 13:23:10', 1, 'Q2717370'),
 (90053, 'Banca', 4752, 'VS', 181, 'RO', '46.30000000', '27.80000000', '2019-10-05 19:14:40', '2019-10-05 19:14:40', 1, 'Q12080828');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (90054, 'Bancu', 4749, 'HR', 181, 'RO', '46.30291000', '25.94422000', '2019-10-05 19:14:40', '2019-10-05 19:14:40', 1, 'Q713722'),
 (90055, 'Banloc', 4748, 'TM', 181, 'RO', '45.38742000', '21.13581000', '2019-10-05 19:14:40', '2019-10-05 19:14:40', 1, 'Q14758001'),
 (90056, 'Bara', 4748, 'TM', 181, 'RO', '45.89472000', '21.87194000', '2019-10-05 19:14:40', '2019-10-05 19:14:40', 1, 'Q14770193'),
@@ -90704,7 +90704,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (90425, 'Butea', 4735, 'IS', 181, 'RO', '47.06667000', '26.91667000', '2019-10-05 19:14:43', '2019-10-05 19:14:43', 1, 'Q2718476'),
 (90426, 'Buteni', 4739, 'AR', 181, 'RO', '46.31667000', '22.11667000', '2019-10-05 19:14:43', '2019-10-05 19:14:43', 1, 'Q852398'),
 (90427, 'Butimanu', 4745, 'DB', 181, 'RO', '44.68333000', '25.90000000', '2019-10-05 19:14:43', '2019-10-05 19:14:43', 1, 'Q12085977');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (90428, 'Butoieşti', 4751, 'MH', 181, 'RO', '44.58333000', '23.36667000', '2019-10-05 19:14:43', '2020-05-01 13:23:10', 1, 'Q1861214'),
 (90429, 'Buturugeni', 4726, 'GR', 181, 'RO', '44.36528000', '25.83528000', '2019-10-05 19:14:43', '2019-10-05 19:14:43', 1, 'Q2717335'),
 (90430, 'Buza', 4734, 'CJ', 181, 'RO', '46.90000000', '24.15000000', '2019-10-05 19:14:43', '2019-10-05 19:14:43', 1, 'Q1076348'),
@@ -91078,7 +91078,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (90798, 'Coloneşti', 4738, 'OT', 181, 'RO', '44.65000000', '24.66667000', '2019-10-05 19:14:45', '2020-05-01 13:23:10', 1, 'Q2292689'),
 (90799, 'Colonia Bod', 4759, 'BV', 181, 'RO', '45.75588000', '25.59960000', '2019-10-05 19:14:45', '2019-10-05 19:14:45', 1, 'Q848431'),
 (90800, 'Colonia Fabricii', 4748, 'TM', 181, 'RO', '45.76620000', '22.31463000', '2019-10-05 19:14:45', '2019-10-05 19:14:45', 1, 'Q3888931');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (90801, 'Coltău', 4760, 'MM', 181, 'RO', '47.59837000', '23.52459000', '2019-10-05 19:14:45', '2020-05-01 13:23:10', 1, 'Q1068882'),
 (90802, 'Colţi', 4756, 'BZ', 181, 'RO', '45.38333000', '26.38333000', '2019-10-05 19:14:45', '2020-05-01 13:23:08', 1, 'Q2289319'),
 (90803, 'Comana', 4726, 'GR', 181, 'RO', '44.17056000', '26.14500000', '2019-10-05 19:14:45', '2019-10-05 19:14:45', 1, 'Q2717316'),
@@ -91435,7 +91435,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (91154, 'Comuna Buhoci', 4744, 'BC', 181, 'RO', '46.56581000', '27.00824000', '2019-10-05 19:14:48', '2019-10-05 19:14:48', 1, 'Q851646'),
 (91155, 'Comuna Bujoreni', 4757, 'VL', 181, 'RO', '45.16235000', '24.36593000', '2019-10-05 19:14:48', '2019-10-05 19:14:48', 1, 'Q12724594'),
 (91156, 'Comuna Bujoreni', 4728, 'TR', 181, 'RO', '44.12054000', '25.65152000', '2019-10-05 19:14:48', '2019-10-05 19:14:48', 1, 'Q13570070');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (91157, 'Comuna Bujoru', 4728, 'TR', 181, 'RO', '43.71092000', '25.56315000', '2019-10-05 19:14:48', '2019-10-05 19:14:48', 1, 'Q16427600'),
 (91158, 'Comuna Bulbucata', 4726, 'GR', 181, 'RO', '44.29537000', '25.82284000', '2019-10-05 19:14:48', '2019-10-05 19:14:48', 1, 'Q5118497'),
 (91159, 'Comuna Bulz', 4723, 'BH', 181, 'RO', '46.85280000', '22.66659000', '2019-10-05 19:14:48', '2019-10-05 19:14:48', 1, 'Q13037824'),
@@ -91790,7 +91790,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (91508, 'Comuna Crucea', 4737, 'CT', 181, 'RO', '44.55046000', '28.20592000', '2019-10-05 19:14:52', '2019-10-05 19:14:52', 1, 'Q5115409'),
 (91509, 'Comuna Crucea', 4720, 'SV', 181, 'RO', '47.37472000', '25.59262000', '2019-10-05 19:14:52', '2019-10-05 19:14:52', 1, 'Q2604473'),
 (91510, 'Comuna Crucişor', 4746, 'SM', 181, 'RO', '47.65949000', '23.24776000', '2019-10-05 19:14:52', '2020-05-01 13:23:11', 1, 'Q5055148');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (91511, 'Comuna Crușeț', 4750, 'GJ', 181, 'RO', '44.63848000', '23.67247000', '2019-10-05 19:14:52', '2020-05-01 13:23:10', 1, 'Q5118557'),
 (91512, 'Comuna Crâmpoia', 4738, 'OT', 181, 'RO', '44.30513000', '24.72742000', '2019-10-05 19:14:52', '2020-05-01 13:23:10', 1, 'Q12114801'),
 (91513, 'Comuna Crângeni', 4728, 'TR', 181, 'RO', '44.01370000', '24.80845000', '2019-10-05 19:14:52', '2020-05-01 13:23:11', 1, 'Q12724682'),
@@ -92144,7 +92144,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (91861, 'Comuna Ghioroc', 4739, 'AR', 181, 'RO', '46.15322000', '21.59651000', '2019-10-05 19:14:55', '2019-10-05 19:14:55', 1, 'Q5056328'),
 (91862, 'Comuna Ghioroiu', 4757, 'VL', 181, 'RO', '44.67868000', '23.84740000', '2019-10-05 19:14:55', '2019-10-05 19:14:55', 1, 'Q16427878'),
 (91863, 'Comuna Ghiroda', 4748, 'TM', 181, 'RO', '45.78494000', '21.30245000', '2019-10-05 19:14:55', '2019-10-05 19:14:55', 1, 'Q5054443');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (91864, 'Comuna Ghizela', 4748, 'TM', 181, 'RO', '45.82641000', '21.75048000', '2019-10-05 19:14:55', '2019-10-05 19:14:55', 1, 'Q5062591'),
 (91865, 'Comuna Giarmata', 4748, 'TM', 181, 'RO', '45.84218000', '21.28918000', '2019-10-05 19:14:55', '2019-10-05 19:14:55', 1, 'Q5062149'),
 (91866, 'Comuna Giera', 4748, 'TM', 181, 'RO', '45.42060000', '20.94696000', '2019-10-05 19:14:55', '2019-10-05 19:14:55', 1, 'Q5060077'),
@@ -92499,7 +92499,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (92215, 'Comuna Lupeni', 4749, 'HR', 181, 'RO', '46.39565000', '25.21905000', '2019-10-05 19:14:58', '2019-10-05 19:14:58', 1, 'Q5057956'),
 (92216, 'Comuna Lupşa', 4724, 'AB', 181, 'RO', '46.34891000', '23.20455000', '2019-10-05 19:14:58', '2020-05-01 13:23:08', 1, 'Q12696316'),
 (92217, 'Comuna Lupşanu', 4732, 'CL', 181, 'RO', '44.38075000', '26.94842000', '2019-10-05 19:14:58', '2020-05-01 13:23:09', 1, 'Q2717055');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (92218, 'Comuna Lãpugiu De Jos', 4721, 'HD', 181, 'RO', '45.89222000', '22.45747000', '2019-10-05 19:14:58', '2020-05-01 13:23:10', 1, 'Q678246'),
 (92219, 'Comuna Lăcusteni', 4757, 'VL', 181, 'RO', '44.70863000', '23.89214000', '2019-10-05 19:14:58', '2020-05-01 13:23:11', 1, 'Q12724915'),
 (92220, 'Comuna Lădeşti', 4757, 'VL', 181, 'RO', '44.87014000', '24.04350000', '2019-10-05 19:14:58', '2020-05-01 13:23:11', 1, 'Q2068040'),
@@ -92854,7 +92854,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (92569, 'Comuna Petrăchioaia', 4725, 'IF', 181, 'RO', '44.57953000', '26.31114000', '2019-10-05 19:15:02', '2020-05-01 13:23:10', 1, 'Q1703719'),
 (92570, 'Comuna Peştera', 4737, 'CT', 181, 'RO', '44.18951000', '28.10722000', '2019-10-05 19:15:02', '2020-05-01 13:23:09', 1, 'Q5054134'),
 (92571, 'Comuna Peştişani', 4750, 'GJ', 181, 'RO', '45.07061000', '23.04902000', '2019-10-05 19:15:02', '2020-05-01 13:23:10', 1, 'Q16426644');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (92572, 'Comuna Pianu', 4724, 'AB', 181, 'RO', '45.87127000', '23.49549000', '2019-10-05 19:15:02', '2019-10-05 19:15:02', 1, 'Q182693'),
 (92573, 'Comuna Piatra', 4728, 'TR', 181, 'RO', '43.81058000', '25.16777000', '2019-10-05 19:15:02', '2019-10-05 19:15:02', 1, 'Q16427646'),
 (92574, 'Comuna Piatra Şoimului', 4731, 'NT', 181, 'RO', '46.82443000', '26.41848000', '2019-10-05 19:15:02', '2020-05-01 13:23:10', 1, 'Q5066698'),
@@ -93208,7 +93208,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (92922, 'Comuna Sfinţeşti', 4728, 'TR', 181, 'RO', '44.18824000', '25.10389000', '2019-10-05 19:15:05', '2020-05-01 13:23:11', 1, 'Q16427680'),
 (92923, 'Comuna Sfântu Gheorghe', 4743, 'IL', 181, 'RO', '44.64735000', '26.84315000', '2019-10-05 19:15:05', '2020-05-01 13:23:10', 1, 'Q2291856'),
 (92924, 'Comuna Sfântu Gheorghe', 4727, 'TL', 181, 'RO', '44.89654000', '29.59357000', '2019-10-05 19:15:05', '2020-05-01 13:23:11', 1, 'Q5054095');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (92925, 'Comuna Sic', 4734, 'CJ', 181, 'RO', '46.93134000', '23.89615000', '2019-10-05 19:15:05', '2019-10-05 19:15:05', 1, 'Q16426242'),
 (92926, 'Comuna Sicheviţa', 4753, 'CS', 181, 'RO', '44.70616000', '21.82910000', '2019-10-05 19:15:05', '2020-05-01 13:23:09', 1, 'Q16426045'),
 (92927, 'Comuna Siculeni', 4749, 'HR', 181, 'RO', '46.43537000', '25.75409000', '2019-10-05 19:15:05', '2019-10-05 19:15:05', 1, 'Q5063726'),
@@ -93563,7 +93563,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (93276, 'Comuna Unirea', 4742, 'DJ', 181, 'RO', '44.15811000', '23.17936000', '2019-10-05 19:15:09', '2019-10-05 19:15:09', 1, 'Q12725242'),
 (93277, 'Comuna Unirea', 4736, 'BR', 181, 'RO', '45.10592000', '27.77613000', '2019-10-05 19:15:09', '2019-10-05 19:15:09', 1, 'Q8272840'),
 (93278, 'Comuna Unţeni', 4740, 'BT', 181, 'RO', '47.81164000', '26.77886000', '2019-10-05 19:15:09', '2020-05-01 13:23:08', 1, 'Q12725243');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (93279, 'Comuna Urdari', 4750, 'GJ', 181, 'RO', '44.79934000', '23.29600000', '2019-10-05 19:15:09', '2019-10-05 19:15:09', 1, 'Q16426664'),
 (93280, 'Comuna Urecheni', 4731, 'NT', 181, 'RO', '47.17764000', '26.53424000', '2019-10-05 19:15:09', '2019-10-05 19:15:09', 1, 'Q5112225'),
 (93281, 'Comuna Urecheşti', 4758, 'VN', 181, 'RO', '45.60181000', '27.07141000', '2019-10-05 19:15:09', '2020-05-01 13:23:12', 1, 'Q3915396'),
@@ -93919,7 +93919,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (93631, 'Cornereva', 4753, 'CS', 181, 'RO', '45.06667000', '22.41667000', '2019-10-05 19:15:12', '2019-10-05 19:15:12', 1, 'Q1189446'),
 (93632, 'Cornetu', 4758, 'VN', 181, 'RO', '45.50456000', '27.05305000', '2019-10-05 19:15:12', '2019-10-05 19:15:12', 1, 'Q12112991'),
 (93633, 'Cornetu', 4725, 'IF', 181, 'RO', '44.34167000', '25.94083000', '2019-10-05 19:15:12', '2019-10-05 19:15:12', 1, 'Q12112989');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (93634, 'Corneşti', 4734, 'CJ', 181, 'RO', '47.03333000', '23.68333000', '2019-10-05 19:15:12', '2020-05-01 13:23:09', 1, 'Q723793'),
 (93635, 'Corneşti', 4745, 'DB', 181, 'RO', '44.78333000', '25.86667000', '2019-10-05 19:15:12', '2020-05-01 13:23:09', 1, 'Q3732642'),
 (93636, 'Corni', 4740, 'BT', 181, 'RO', '47.65000000', '26.58333000', '2019-10-05 19:15:12', '2019-10-05 19:15:12', 1, 'Q2715540'),
@@ -94293,7 +94293,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (94004, 'Dorobanțu', 4737, 'CT', 181, 'RO', '44.41035000', '28.32687000', '2019-10-05 19:15:16', '2020-05-01 13:23:09', 1, 'Q12102108'),
 (94005, 'Dorobanțu', 4732, 'CL', 181, 'RO', '44.35416000', '26.39341000', '2019-10-05 19:15:16', '2020-05-01 13:23:09', 1, 'Q12102107'),
 (94006, 'Dorohoi', 4740, 'BT', 181, 'RO', '47.95000000', '26.40000000', '2019-10-05 19:15:16', '2019-10-05 19:15:16', 1, 'Q12102107');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (94007, 'Dorolţ', 4746, 'SM', 181, 'RO', '47.85000000', '22.81667000', '2019-10-05 19:15:16', '2020-05-01 13:23:11', 1, 'Q1188950'),
 (94008, 'Doştat', 4724, 'AB', 181, 'RO', '45.96667000', '23.85000000', '2019-10-05 19:15:16', '2020-05-01 13:23:08', 1, 'Q1019308'),
 (94009, 'Dracea', 4728, 'TR', 181, 'RO', '43.84914000', '25.05194000', '2019-10-05 19:15:16', '2019-10-05 19:15:16', 1, 'Q2549857'),
@@ -94665,7 +94665,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (94375, 'Goicea', 4742, 'DJ', 181, 'RO', '43.91667000', '23.61667000', '2019-10-05 19:15:20', '2019-10-05 19:15:20', 1, 'Q1011377'),
 (94376, 'Goiești', 4742, 'DJ', 181, 'RO', '44.48333000', '23.76667000', '2019-10-05 19:15:20', '2020-05-01 13:23:09', 1, 'Q1846314'),
 (94377, 'Goleşti', 4758, 'VN', 181, 'RO', '45.66667000', '27.13333000', '2019-10-05 19:15:20', '2020-05-01 13:23:12', 1, 'Q13979699');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (94378, 'Golești', 4722, 'AG', 181, 'RO', '44.83970000', '24.96530000', '2019-10-05 19:15:20', '2020-05-01 13:23:08', 1, 'Q12096479'),
 (94379, 'Gologanu', 4758, 'VN', 181, 'RO', '45.60979000', '27.27091000', '2019-10-05 19:15:20', '2019-10-05 19:15:20', 1, 'Q1405784'),
 (94380, 'Golăiești', 4735, 'IS', 181, 'RO', '47.23333000', '27.70000000', '2019-10-05 19:15:20', '2020-05-01 13:23:10', 1, 'Q2607538'),
@@ -95040,7 +95040,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (94749, 'Josenii Bârgăului', 4733, 'BN', 181, 'RO', '47.21667000', '24.68333000', '2019-10-05 19:15:24', '2020-05-01 13:23:08', 1, 'Q663704'),
 (94750, 'Jugur', 4722, 'AG', 181, 'RO', '45.19255000', '25.08493000', '2019-10-05 19:15:24', '2019-10-05 19:15:24', 1, 'Q12104795'),
 (94751, 'Jugureanu', 4736, 'BR', 181, 'RO', '44.94313000', '27.27878000', '2019-10-05 19:15:24', '2019-10-05 19:15:24', 1, 'Q12104798');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (94752, 'Jugureni', 4729, 'PH', 181, 'RO', '45.10000000', '26.45000000', '2019-10-05 19:15:24', '2019-10-05 19:15:24', 1, 'Q14089457'),
 (94753, 'Jupâneşti', 4750, 'GJ', 181, 'RO', '44.90000000', '23.53333000', '2019-10-05 19:15:24', '2020-05-01 13:23:10', 1, 'Q2539296'),
 (94754, 'Jupânești', 4722, 'AG', 181, 'RO', '45.06667000', '24.85000000', '2019-10-05 19:15:24', '2020-05-01 13:23:08', 1, 'Q12104862'),
@@ -95413,7 +95413,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (95121, 'Municipiul Bãileşti', 4742, 'DJ', 181, 'RO', '44.02121000', '23.34475000', '2019-10-05 19:15:28', '2020-05-01 13:23:09', 1, 'Q756649'),
 (95122, 'Municipiul Calafat', 4742, 'DJ', 181, 'RO', '43.98979000', '22.93130000', '2019-10-05 19:15:28', '2019-10-05 19:15:28', 1, 'Q652856'),
 (95123, 'Municipiul Caracal', 4738, 'OT', 181, 'RO', '44.11273000', '24.35089000', '2019-10-05 19:15:28', '2019-10-05 19:15:28', 1, 'Q609044');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (95124, 'Municipiul Caransebeş', 4753, 'CS', 181, 'RO', '45.43476000', '22.20358000', '2019-10-05 19:15:28', '2020-05-01 13:23:09', 1, 'Q33208'),
 (95125, 'Municipiul Carei', 4746, 'SM', 181, 'RO', '47.68203000', '22.46635000', '2019-10-05 19:15:28', '2019-10-05 19:15:28', 1, 'Q754725'),
 (95126, 'Municipiul Cluj-Napoca', 4734, 'CJ', 181, 'RO', '46.77791000', '23.60512000', '2019-10-05 19:15:28', '2019-10-05 19:15:28', 1, 'Q100188'),
@@ -95780,7 +95780,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (95487, 'Oraş Bãlceşti', 4757, 'VL', 181, 'RO', '44.62941000', '23.94052000', '2019-10-05 19:15:32', '2020-05-01 13:23:12', 1, 'Q276127'),
 (95488, 'Oraş Bãneasa', 4737, 'CT', 181, 'RO', '44.05008000', '27.71430000', '2019-10-05 19:15:32', '2020-05-01 13:23:09', 1, 'Q276042'),
 (95489, 'Oraş Cajvana', 4720, 'SV', 181, 'RO', '47.71394000', '25.99186000', '2019-10-05 19:15:32', '2020-05-01 13:23:11', 1, 'Q275810');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (95490, 'Oraş Cernavodã', 4737, 'CT', 181, 'RO', '44.34331000', '28.03694000', '2019-10-05 19:15:32', '2020-05-01 13:23:09', 1, 'Q736276'),
 (95491, 'Oraş Chitila', 4725, 'IF', 181, 'RO', '44.49053000', '25.97847000', '2019-10-05 19:15:32', '2020-05-01 13:23:10', 1, 'Q169127'),
 (95492, 'Oraş Chişineu-Criş', 4739, 'AR', 181, 'RO', '46.52178000', '21.51295000', '2019-10-05 19:15:32', '2020-05-01 13:23:08', 1, 'Q508670'),
@@ -96149,7 +96149,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (95855, 'Pogoanele', 4756, 'BZ', 181, 'RO', '44.91667000', '27.00000000', '2019-10-05 19:15:36', '2019-10-05 19:15:36', 1, 'Q2548911'),
 (95856, 'Pogonele', 4756, 'BZ', 181, 'RO', '45.08645000', '26.86454000', '2019-10-05 19:15:36', '2019-10-05 19:15:36', 1, 'Q12141320'),
 (95857, 'Pogonești', 4752, 'VS', 181, 'RO', '46.15229000', '27.53225000', '2019-10-05 19:15:36', '2020-05-01 13:23:11', 1, 'Q2298030');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (95858, 'Pogănești', 4752, 'VS', 181, 'RO', '46.69237000', '28.16779000', '2019-10-05 19:15:36', '2020-05-01 13:23:11', 1, 'Q12141313'),
 (95859, 'Poian', 4754, 'CV', 181, 'RO', '46.06667000', '26.15000000', '2019-10-05 19:15:36', '2019-10-05 19:15:36', 1, 'Q1094523'),
 (95860, 'Poiana', 4728, 'TR', 181, 'RO', '43.74192000', '24.95244000', '2019-10-05 19:15:36', '2019-10-05 19:15:36', 1, 'Q1094523'),
@@ -96523,7 +96523,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (96228, 'Sagna', 4731, 'NT', 181, 'RO', '46.98333000', '27.01667000', '2019-10-05 19:15:41', '2019-10-05 19:15:41', 1, 'Q2542069'),
 (96229, 'Salcea', 4720, 'SV', 181, 'RO', '47.65000000', '26.36667000', '2019-10-05 19:15:41', '2019-10-05 19:15:41', 1, 'Q2542069'),
 (96230, 'Salcia', 4728, 'TR', 181, 'RO', '43.95000000', '24.91667000', '2019-10-05 19:15:41', '2019-10-05 19:15:41', 1, 'Q2721345');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (96231, 'Salcia', 4729, 'PH', 181, 'RO', '45.18333000', '26.33333000', '2019-10-05 19:15:41', '2019-10-05 19:15:41', 1, 'Q2214024'),
 (96232, 'Salcia', 4751, 'MH', 181, 'RO', '44.14083000', '22.92778000', '2019-10-05 19:15:41', '2019-10-05 19:15:41', 1, 'Q5071275'),
 (96233, 'Salcia', 4742, 'DJ', 181, 'RO', '44.48195000', '23.44645000', '2019-10-05 19:15:41', '2019-10-05 19:15:41', 1, 'Q12150292'),
@@ -96896,7 +96896,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (96600, 'Tăcuta', 4752, 'VS', 181, 'RO', '46.91667000', '27.68333000', '2019-10-05 19:17:01', '2020-05-01 13:23:11', 1, 'Q2549068'),
 (96601, 'Tălmaciu', 4755, 'SB', 181, 'RO', '45.66714000', '24.26464000', '2019-10-05 19:17:01', '2020-05-01 13:23:11', 1, 'Q2549068'),
 (96602, 'Tălmăcel', 4755, 'SB', 181, 'RO', '45.64712000', '24.24270000', '2019-10-05 19:17:01', '2020-05-01 13:23:11', 1, 'Q3893977');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (96603, 'Tălpaș', 4742, 'DJ', 181, 'RO', '44.68227000', '23.74553000', '2019-10-05 19:17:01', '2020-05-01 13:23:09', 1, 'Q2543203'),
 (96604, 'Tălpigi', 4747, 'GL', 181, 'RO', '46.00796000', '27.47247000', '2019-10-05 19:17:01', '2020-05-01 13:23:09', 1, 'Q12160418'),
 (96605, 'Tămașda', 4723, 'BH', 181, 'RO', '46.64453000', '21.55685000', '2019-10-05 19:17:01', '2020-05-01 13:23:08', 1, 'Q730033'),
@@ -97267,7 +97267,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (96970, 'Vărbila', 4729, 'PH', 181, 'RO', '45.04654000', '26.19691000', '2019-10-05 19:17:04', '2020-05-01 13:23:11', 1, 'Q12088673'),
 (96971, 'Vărbilău', 4729, 'PH', 181, 'RO', '45.18333000', '25.95000000', '2019-10-05 19:17:04', '2020-05-01 13:23:11', 1, 'Q6467336'),
 (96972, 'Vărădia', 4753, 'CS', 181, 'RO', '45.07833000', '21.54694000', '2019-10-05 19:17:04', '2020-05-01 13:23:09', 1, 'Q291013');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (96973, 'Vărădia de Mureş', 4739, 'AR', 181, 'RO', '46.01667000', '22.15000000', '2019-10-05 19:17:04', '2020-05-01 13:23:08', 1, 'Q1092976'),
 (96974, 'Vărăşti', 4726, 'GR', 181, 'RO', '44.23778000', '26.24861000', '2019-10-05 19:17:04', '2020-05-01 13:23:10', 1, 'Q2717739'),
 (96975, 'Vărăști', 4732, 'CL', 181, 'RO', '44.21244000', '26.97188000', '2019-10-05 19:17:04', '2020-05-01 13:23:09', 1, 'Q12088729'),
@@ -97643,7 +97643,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (97345, 'Prigrevica', 3733, 'VO', 196, 'RS', '45.67636000', '19.08809000', '2019-10-05 19:17:07', '2019-10-05 19:17:07', 1, 'Q852668'),
 (97346, 'Prijepolje', 3716, '02', 196, 'RS', '43.38996000', '19.64870000', '2019-10-05 19:17:07', '2019-10-05 19:17:07', 1, 'Q852668'),
 (97347, 'Prislonica', 3716, '02', 196, 'RS', '43.95223000', '20.43521000', '2019-10-05 19:17:07', '2019-10-05 19:17:07', 1, 'Q2723458');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (97348, 'Prnjavor', 3716, '02', 196, 'RS', '44.70061000', '19.38695000', '2019-10-05 19:17:07', '2019-10-05 19:17:07', 1, 'Q2723458'),
 (97349, 'Prokuplje', 3716, '02', 196, 'RS', '43.23417000', '21.58806000', '2019-10-05 19:17:07', '2019-10-05 19:17:07', 1, 'Q2723458'),
 (97350, 'Putinci', 3733, 'VO', 196, 'RS', '44.99259000', '19.97102000', '2019-10-05 19:17:07', '2019-10-05 19:17:07', 1, 'Q1041129'),
@@ -98013,7 +98013,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (97714, 'Atlashevo', 1914, 'CU', 182, 'RU', '56.01235000', '47.55615000', '2019-10-05 19:17:09', '2019-10-05 19:17:09', 1, 'Q31892861'),
 (97715, 'Atlasovo', 1865, 'KAM', 182, 'RU', '55.60650000', '159.64266000', '2019-10-05 19:17:09', '2019-10-05 19:17:09', 1, 'Q4072157'),
 (97716, 'Atninskiy Rayon', 1861, 'TA', 182, 'RU', '56.25000000', '49.41667000', '2019-10-05 19:17:09', '2019-10-05 19:17:09', 1, 'Q2220478');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (97717, 'Atyashevo', 1898, 'MO', 182, 'RU', '54.56443000', '46.06905000', '2019-10-05 19:17:09', '2019-10-05 19:17:09', 1, 'Q31893025'),
 (97718, 'Atyashevskiy Rayon', 1898, 'MO', 182, 'RU', '54.58333000', '46.08333000', '2019-10-05 19:17:09', '2019-10-05 19:17:09', 1, 'Q780922'),
 (97719, 'Atyur’yevskiy Rayon', 1898, 'MO', 182, 'RU', '54.33333000', '43.41667000', '2019-10-05 19:17:09', '2020-05-01 13:23:13', 1, 'Q780942'),
@@ -98378,7 +98378,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (98078, 'Burevestnik', 1857, 'NIZ', 182, 'RU', '56.14403000', '43.78832000', '2019-10-05 19:17:11', '2019-10-05 19:17:11', 1, 'Q34784552'),
 (98079, 'Bureya', 1858, 'AMU', 182, 'RU', '49.81212000', '129.81278000', '2019-10-05 19:17:11', '2019-10-05 19:17:11', 1, 'Q913033'),
 (98080, 'Bureyskiy Rayon', 1858, 'AMU', 182, 'RU', '50.00000000', '130.00000000', '2019-10-05 19:17:11', '2019-10-05 19:17:11', 1, 'Q2217150');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (98081, 'Buribay', 1854, 'BA', 182, 'RU', '51.96167000', '58.15917000', '2019-10-05 19:17:11', '2019-10-05 19:17:11', 1, 'Q34784590'),
 (98082, 'Burla', 1911, 'ALT', 182, 'RU', '53.33620000', '78.33010000', '2019-10-05 19:17:11', '2019-10-05 19:17:11', 1, 'Q4099670'),
 (98083, 'Burlatskoye', 1868, 'STA', 182, 'RU', '45.05639000', '43.63500000', '2019-10-05 19:17:11', '2019-10-05 19:17:11', 1, 'Q4099688'),
@@ -98744,7 +98744,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (98443, 'Fëdorovskiy Rayon', 1854, 'BA', 182, 'RU', '53.08333000', '55.25000000', '2019-10-05 19:17:13', '2020-05-01 13:23:13', 1, 'Q1001882'),
 (98444, 'Fëdorovskoye', 1896, 'LEN', 182, 'RU', '59.66306000', '30.53222000', '2019-10-05 19:17:13', '2020-05-01 13:23:12', 1, 'Q37785338'),
 (98445, 'Gadzhiyevo', 1843, 'MUR', 182, 'RU', '69.25506000', '33.33616000', '2019-10-05 19:17:13', '2019-10-05 19:17:13', 1, 'Q134366');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (98446, 'Gagarin', 1885, 'SMO', 182, 'RU', '55.55291000', '34.99537000', '2019-10-05 19:17:13', '2019-10-05 19:17:13', 1, 'Q134318'),
 (98447, 'Gagatli', 1850, 'DA', 182, 'RU', '42.80130000', '46.29162000', '2019-10-05 19:17:13', '2019-10-05 19:17:13', 1, 'Q4131417'),
 (98448, 'Gagino', 1857, 'NIZ', 182, 'RU', '55.23142000', '45.03386000', '2019-10-05 19:17:13', '2019-10-05 19:17:13', 1, 'Q37785381'),
@@ -99110,7 +99110,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (98808, 'Kamenetskiy', 1895, 'TUL', 182, 'RU', '54.01353000', '38.22115000', '2019-10-05 19:17:15', '2019-10-05 19:17:15', 1, 'Q16021241'),
 (98809, 'Kamenka', 1849, 'ARK', 182, 'RU', '65.88350000', '44.12720000', '2019-10-05 19:17:15', '2019-10-05 19:17:15', 1, 'Q1004180'),
 (98810, 'Kamenka', 1906, 'VOR', 182, 'RU', '51.32230000', '42.76780000', '2019-10-05 19:17:15', '2019-10-05 19:17:15', 1, 'Q19804834');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (98811, 'Kamenka', 1892, 'KB', 182, 'RU', '43.53333000', '43.51667000', '2019-10-05 19:17:15', '2019-10-05 19:17:15', 1, 'Q16657644'),
 (98812, 'Kamenka', 1864, 'IVA', 182, 'RU', '57.39214000', '41.79383000', '2019-10-05 19:17:15', '2019-10-05 19:17:15', 1, 'Q3812680'),
 (98813, 'Kamenka', 1896, 'LEN', 182, 'RU', '60.44639000', '29.08290000', '2019-10-05 19:17:15', '2019-10-05 19:17:15', 1, 'Q4210918'),
@@ -99476,7 +99476,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (99173, 'Komsomol’skiy', 1850, 'DA', 182, 'RU', '43.97833000', '46.69852000', '2019-10-05 19:17:17', '2020-05-01 13:23:13', 1, 'Q35698950'),
 (99174, 'Komsomol’skiy', 1883, 'KL', 182, 'RU', '45.33000000', '46.04280000', '2019-10-05 19:17:17', '2020-05-01 13:23:13', 1, 'Q35698950'),
 (99175, 'Komsomol’skiy Rayon', 1864, 'IVA', 182, 'RU', '57.08333000', '40.41667000', '2019-10-05 19:17:17', '2020-05-01 13:23:12', 1, 'Q3816332');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (99176, 'Komsomol’skiy Rayon', 1914, 'CU', 182, 'RU', '55.25000000', '47.50000000', '2019-10-05 19:17:17', '2020-05-01 13:23:12', 1, 'Q2627332'),
 (99177, 'Konakovo', 1860, 'TVE', 182, 'RU', '56.70000000', '36.76667000', '2019-10-05 19:17:17', '2019-10-05 19:17:17', 1, 'Q155095'),
 (99178, 'Konakovskiy Rayon', 1860, 'TVE', 182, 'RU', '56.66667000', '36.83333000', '2019-10-05 19:17:17', '2019-10-05 19:17:17', 1, 'Q394616'),
@@ -99840,7 +99840,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (99536, 'Laishevskiy Rayon', 1861, 'TA', 182, 'RU', '55.50000000', '49.58333000', '2019-10-05 19:17:19', '2019-10-05 19:17:19', 1, 'Q2219922'),
 (99537, 'Lakha Nëvre', 1893, 'CE', 182, 'RU', '43.62271000', '45.33969000', '2019-10-05 19:17:19', '2020-05-01 13:23:12', 1, 'Q4312038'),
 (99538, 'Lakhdenpokh’ya', 1841, 'KR', 182, 'RU', '61.51981000', '30.19917000', '2019-10-05 19:17:19', '2020-05-01 13:23:13', 1, 'Q157439');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (99539, 'Lakhtinskiy', 1879, 'SPE', 182, 'RU', '59.99521000', '30.14717000', '2019-10-05 19:17:19', '2019-10-05 19:17:19', 1, 'Q157439'),
 (99540, 'Lakinsk', 1881, 'VLA', 182, 'RU', '56.01931000', '39.94848000', '2019-10-05 19:17:19', '2019-10-05 19:17:19', 1, 'Q152906'),
 (99541, 'Lakkha Nëvre', 1893, 'CE', 182, 'RU', '43.61033000', '45.24542000', '2019-10-05 19:17:19', '2020-05-01 13:23:12', 1, 'Q4108711'),
@@ -100205,7 +100205,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (99900, 'Mikhaylovsk', 1894, 'SVE', 182, 'RU', '56.43583000', '59.12000000', '2019-10-05 19:17:22', '2019-10-05 19:17:22', 1, 'Q159097'),
 (99901, 'Mikhaylovskaya', 1891, 'KDA', 182, 'RU', '44.99472000', '40.59639000', '2019-10-05 19:17:22', '2019-10-05 19:17:22', 1, 'Q35729606'),
 (99902, 'Mikhaylovskiy Rayon', 1911, 'ALT', 182, 'RU', '51.75000000', '79.66667000', '2019-10-05 19:17:22', '2019-10-05 19:17:22', 1, 'Q1762890');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (99903, 'Mikhaylovskiy Rayon', 1833, 'PRI', 182, 'RU', '44.00000000', '132.00000000', '2019-10-05 19:17:22', '2019-10-05 19:17:22', 1, 'Q716435'),
 (99904, 'Mikhaylovskiy Rayon', 1858, 'AMU', 182, 'RU', '49.75000000', '128.75000000', '2019-10-05 19:17:22', '2019-10-05 19:17:22', 1, 'Q1763294'),
 (99905, 'Mikhaylovskoye', 1853, 'SE', 182, 'RU', '43.09972000', '44.63164000', '2019-10-05 19:17:22', '2019-10-05 19:17:22', 1, 'Q35729612'),
@@ -100565,7 +100565,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (100259, 'Novokuz’minki', 1901, 'MOW', 182, 'RU', '55.71667000', '37.78333000', '2019-10-05 19:17:25', '2020-05-01 13:23:13', 1, 'Q904732'),
 (100260, 'Novolabinskaya', 1891, 'KDA', 182, 'RU', '45.10956000', '39.89399000', '2019-10-05 19:17:25', '2019-10-05 19:17:25', 1, 'Q37898466'),
 (100261, 'Novolakskiy Rayon', 1850, 'DA', 182, 'RU', '43.16667000', '46.50000000', '2019-10-05 19:17:25', '2019-10-05 19:17:25', 1, 'Q1439254');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (100262, 'Novolakskoye', 1850, 'DA', 182, 'RU', '43.11952000', '46.48281000', '2019-10-05 19:17:25', '2019-10-05 19:17:25', 1, 'Q37898474'),
 (100263, 'Novoleushkovskaya', 1891, 'KDA', 182, 'RU', '45.99560000', '39.99210000', '2019-10-05 19:17:25', '2019-10-05 19:17:25', 1, 'Q4324398'),
 (100264, 'Novolugovoye', 1888, 'NVS', 182, 'RU', '54.97920000', '83.11380000', '2019-10-05 19:17:25', '2019-10-05 19:17:25', 1, 'Q20924648'),
@@ -100925,7 +100925,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (100618, 'Pervomayskiy', 1878, 'TAM', 182, 'RU', '53.24850000', '40.28710000', '2019-10-05 19:17:28', '2019-10-05 19:17:28', 1, 'Q37959189'),
 (100619, 'Pervomayskiy', 1882, 'MOS', 182, 'RU', '55.06696000', '38.66489000', '2019-10-05 19:17:28', '2019-10-05 19:17:28', 1, 'Q37960314'),
 (100620, 'Pervomayskiy', 1911, 'ALT', 182, 'RU', '52.91730000', '81.66240000', '2019-10-05 19:17:28', '2019-10-05 19:17:28', 1, 'Q18407631');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (100621, 'Pervomayskiy', 1904, 'ZAB', 182, 'RU', '51.67013000', '115.62543000', '2019-10-05 19:17:28', '2019-10-05 19:17:28', 1, 'Q37963577'),
 (100622, 'Pervomayskiy Rayon', 1851, 'YAR', 182, 'RU', '58.66667000', '39.75000000', '2019-10-05 19:17:28', '2019-10-05 19:17:28', 1, 'Q1763312'),
 (100623, 'Pervomayskiy Rayon', 1911, 'ALT', 182, 'RU', '53.41667000', '84.08333000', '2019-10-05 19:17:28', '2019-10-05 19:17:28', 1, 'Q1761415'),
@@ -101286,7 +101286,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (100978, 'Rodniki', 1882, 'MOS', 182, 'RU', '55.65204000', '38.06685000', '2019-10-05 19:17:31', '2019-10-05 19:17:31', 1, 'Q37958593'),
 (100979, 'Rodnikovskaya', 1891, 'KDA', 182, 'RU', '44.76444000', '40.66556000', '2019-10-05 19:17:31', '2019-10-05 19:17:31', 1, 'Q37958586'),
 (100980, 'Rodnikovskiy Rayon', 1864, 'IVA', 182, 'RU', '57.08333000', '41.75000000', '2019-10-05 19:17:31', '2019-10-05 19:17:31', 1, 'Q2218592');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (100981, 'Rogachëvo', 1882, 'MOS', 182, 'RU', '56.43333000', '37.16667000', '2019-10-05 19:17:31', '2020-05-01 13:23:13', 1, 'Q37958577'),
 (100982, 'Rognedino', 1867, 'BRY', 182, 'RU', '53.80147000', '33.55760000', '2019-10-05 19:17:31', '2019-10-05 19:17:31', 1, 'Q2374886'),
 (100983, 'Rognedinskiy Rayon', 1867, 'BRY', 182, 'RU', '53.83333000', '33.66667000', '2019-10-05 19:17:31', '2019-10-05 19:17:31', 1, 'Q2709719'),
@@ -101649,7 +101649,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (101340, 'Shovgenovskiy Rayon', 1852, 'AD', 182, 'RU', '45.00000000', '40.16667000', '2019-10-05 19:17:34', '2019-10-05 19:17:34', 1, 'Q225227'),
 (101341, 'Shtykovo', 1833, 'PRI', 182, 'RU', '43.38918000', '132.36129000', '2019-10-05 19:17:34', '2019-10-05 19:17:34', 1, 'Q37963434'),
 (101342, 'Shubenka', 1911, 'ALT', 182, 'RU', '52.65510000', '85.09858000', '2019-10-05 19:17:34', '2019-10-05 19:17:34', 1, 'Q24729081');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (101343, 'Shudayag', 1899, 'KO', 182, 'RU', '63.52665000', '53.60582000', '2019-10-05 19:17:34', '2019-10-05 19:17:34', 1, 'Q37957652'),
 (101344, 'Shugurovo', 1861, 'TA', 182, 'RU', '54.50828000', '52.13265000', '2019-10-05 19:17:34', '2019-10-05 19:17:34', 1, 'Q3626662'),
 (101345, 'Shul’gin Log', 1911, 'ALT', 182, 'RU', '52.16985000', '85.85573000', '2019-10-05 19:17:34', '2020-05-01 13:23:12', 1, 'Q37961332'),
@@ -102009,7 +102009,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (101699, 'Svetlanovskiy', 1896, 'LEN', 182, 'RU', '60.00276000', '30.33051000', '2019-10-05 19:17:44', '2019-10-05 19:17:44', 1, 'Q37956818'),
 (101700, 'Svetlaya', 1833, 'PRI', 182, 'RU', '46.54217000', '138.32973000', '2019-10-05 19:17:44', '2019-10-05 19:17:44', 1, 'Q1853228'),
 (101701, 'Svetlogorsk', 1902, 'KGD', 182, 'RU', '54.93987000', '20.15479000', '2019-10-05 19:17:44', '2019-10-05 19:17:44', 1, 'Q193595');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (101702, 'Svetlogorsk', 1840, 'KYA', 182, 'RU', '66.93762000', '88.35265000', '2019-10-05 19:17:44', '2019-10-05 19:17:44', 1, 'Q37961074'),
 (101703, 'Svetlograd', 1868, 'STA', 182, 'RU', '45.33528000', '42.85472000', '2019-10-05 19:17:44', '2019-10-05 19:17:44', 1, 'Q193604'),
 (101704, 'Svetlopolyansk', 1890, 'KIR', 182, 'RU', '59.41836000', '52.36045000', '2019-10-05 19:17:44', '2019-10-05 19:17:44', 1, 'Q37959806'),
@@ -102374,7 +102374,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (102063, 'Untsukul’', 1850, 'DA', 182, 'RU', '42.71149000', '46.78663000', '2019-10-05 19:17:47', '2020-05-01 13:23:13', 1, 'Q37956077'),
 (102064, 'Untsukul’skiy Rayon', 1850, 'DA', 182, 'RU', '42.66667000', '46.83333000', '2019-10-05 19:17:47', '2020-05-01 13:23:13', 1, 'Q39215143'),
 (102065, 'Upornaya', 1891, 'KDA', 182, 'RU', '44.39140000', '41.01960000', '2019-10-05 19:17:47', '2019-10-05 19:17:47', 1, 'Q4476336');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (102066, 'Uporovo', 1907, 'TYU', 182, 'RU', '56.31093000', '66.26926000', '2019-10-05 19:17:47', '2019-10-05 19:17:47', 1, 'Q13640272'),
 (102067, 'Uporovskiy Rayon', 1907, 'TYU', 182, 'RU', '56.16667000', '66.33333000', '2019-10-05 19:17:47', '2019-10-05 19:17:47', 1, 'Q1753818'),
 (102068, 'Uptar', 1839, 'MAG', 182, 'RU', '59.89923000', '150.87376000', '2019-10-05 19:17:47', '2019-10-05 19:17:47', 1, 'Q37964339'),
@@ -102734,7 +102734,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (102422, 'Vyazniki', 1881, 'VLA', 182, 'RU', '56.24057000', '42.15563000', '2019-10-05 19:17:51', '2019-10-05 19:17:51', 1, 'Q134296'),
 (102423, 'Vyazovaya', 1845, 'CHE', 182, 'RU', '54.90500000', '58.35611000', '2019-10-05 19:17:51', '2019-10-05 19:17:51', 1, 'Q37954954'),
 (102424, 'Vyaz’ma', 1885, 'SMO', 182, 'RU', '55.21039000', '34.29508000', '2019-10-05 19:17:51', '2020-05-01 13:23:13', 1, 'Q102307');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (102425, 'Vybor', 1863, 'PSK', 182, 'RU', '57.22716000', '29.16630000', '2019-10-05 19:17:51', '2019-10-05 19:17:51', 1, 'Q102307'),
 (102426, 'Vyborg', 1896, 'LEN', 182, 'RU', '60.70763000', '28.75283000', '2019-10-05 19:17:51', '2019-10-05 19:17:51', 1, 'Q14657'),
 (102427, 'Vychegodskiy', 1849, 'ARK', 182, 'RU', '61.24702000', '46.89842000', '2019-10-05 19:17:51', '2019-10-05 19:17:51', 1, 'Q1018298'),
@@ -103097,7 +103097,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (102784, 'Zyablikovo', 1901, 'MOW', 182, 'RU', '55.61667000', '37.76667000', '2019-10-05 19:17:54', '2019-10-05 19:17:54', 1, 'Q4025037'),
 (102785, 'Zykovo', 1898, 'MO', 182, 'RU', '54.06853000', '45.08633000', '2019-10-05 19:17:54', '2019-10-05 19:17:54', 1, 'Q18408248'),
 (102786, 'Zykovo', 1840, 'KYA', 182, 'RU', '55.95503000', '93.16093000', '2019-10-05 19:17:54', '2019-10-05 19:17:54', 1, 'Q4194860');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (102787, 'Zyryanka', 1848, 'SA', 182, 'RU', '65.73489000', '150.89429000', '2019-10-05 19:17:54', '2019-10-05 19:17:54', 1, 'Q2089807'),
 (102788, 'Zyryanskoye', 1872, 'TOM', 182, 'RU', '56.83058000', '86.62734000', '2019-10-05 19:17:54', '2019-10-05 19:17:54', 1, 'Q4194911'),
 (102789, 'Zyukayka', 1871, 'PER', 182, 'RU', '58.20416000', '54.70784000', '2019-10-05 19:17:54', '2019-10-05 19:17:54', 1, 'Q33529009'),
@@ -103471,7 +103471,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (103157, 'Falkenberg', 1548, 'N', 213, 'SE', '56.90552000', '12.49118000', '2019-10-05 19:17:56', '2019-10-05 19:17:56', 1, 'Q54766'),
 (103158, 'Falkenbergs Kommun', 1548, 'N', 213, 'SE', '57.04317000', '12.72989000', '2019-10-05 19:17:56', '2019-10-05 19:17:56', 1, 'Q508168'),
 (103159, 'Falköping', 1547, 'O', 213, 'SE', '58.17347000', '13.55068000', '2019-10-05 19:17:56', '2020-05-01 13:23:18', 1, 'Q21165');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (103160, 'Falköpings Kommun', 1547, 'O', 213, 'SE', '58.14046000', '13.53277000', '2019-10-05 19:17:56', '2020-05-01 13:23:18', 1, 'Q503214'),
 (103161, 'Falu kommun', 1534, 'W', 213, 'SE', '60.60483000', '15.63492000', '2019-10-05 19:17:56', '2019-10-05 19:17:56', 1, 'Q501545'),
 (103162, 'Falun', 1534, 'W', 213, 'SE', '60.60357000', '15.62597000', '2019-10-05 19:17:56', '2019-10-05 19:17:56', 1, 'Q26509'),
@@ -103843,7 +103843,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (103528, 'Marielund', 1538, 'BD', 213, 'SE', '65.85307000', '24.10486000', '2019-10-05 19:17:58', '2019-10-05 19:17:58', 1, 'Q2580603'),
 (103529, 'Mariestad', 1547, 'O', 213, 'SE', '58.70971000', '13.82367000', '2019-10-05 19:17:58', '2019-10-05 19:17:58', 1, 'Q948117'),
 (103530, 'Mariestads Kommun', 1547, 'O', 213, 'SE', '58.70861000', '13.85424000', '2019-10-05 19:17:58', '2019-10-05 19:17:58', 1, 'Q427422');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (103531, 'Markaryd', 1542, 'G', 213, 'SE', '56.46135000', '13.59644000', '2019-10-05 19:17:58', '2019-10-05 19:17:58', 1, 'Q1639483'),
 (103532, 'Markaryds Kommun', 1542, 'G', 213, 'SE', '56.54425000', '13.62348000', '2019-10-05 19:17:58', '2019-10-05 19:17:58', 1, 'Q240574'),
 (103533, 'Marks Kommun', 1547, 'O', 213, 'SE', '57.47604000', '12.59462000', '2019-10-05 19:17:58', '2019-10-05 19:17:58', 1, 'Q500153'),
@@ -104214,7 +104214,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (103898, 'Umeå', 1543, 'AC', 213, 'SE', '63.82842000', '20.25972000', '2019-10-05 19:18:00', '2020-05-01 13:23:18', 1, 'Q25579'),
 (103899, 'Umeå Kommun', 1543, 'AC', 213, 'SE', '63.82992000', '20.25484000', '2019-10-05 19:18:00', '2020-05-01 13:23:18', 1, 'Q507709'),
 (103900, 'Upplands Väsby', 1551, 'AB', 213, 'SE', '59.51839000', '17.91128000', '2019-10-05 19:18:00', '2020-05-01 13:23:17', 1, 'Q54343');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (103901, 'Upplands Väsby kommun', 1551, 'AB', 213, 'SE', '59.52382000', '17.91001000', '2019-10-05 19:18:00', '2020-05-01 13:23:17', 1, 'Q499425'),
 (103902, 'Upplands-Bro Kommun', 1551, 'AB', 213, 'SE', '59.49095000', '17.74979000', '2019-10-05 19:18:00', '2019-10-05 19:18:00', 1, 'Q113673'),
 (103903, 'Uppsala', 1545, 'C', 213, 'SE', '59.85882000', '17.63889000', '2019-10-05 19:18:00', '2019-10-05 19:18:00', 1, 'Q25286'),
@@ -104583,7 +104583,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (104266, 'Semič', 4346, '109', 201, 'SI', '45.64611000', '15.18222000', '2019-10-05 19:18:03', '2020-05-01 13:23:14', 1, 'Q2674893'),
 (104267, 'Senovo', 4314, '054', 201, 'SI', '46.02361000', '15.47694000', '2019-10-05 19:18:03', '2019-10-05 19:18:03', 1, 'Q2327320'),
 (104268, 'Sevnica', 4268, '110', 201, 'SI', '46.00778000', '15.31556000', '2019-10-05 19:18:03', '2019-10-05 19:18:03', 1, 'Q15915');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (104269, 'Seča', 4201, '090', 201, 'SI', '45.49584000', '13.61466000', '2019-10-05 19:18:03', '2020-05-01 13:23:14', 1, 'Q565204'),
 (104270, 'Sežana', 4149, '111', 201, 'SI', '45.70924000', '13.87333000', '2019-10-05 19:18:03', '2020-05-01 13:23:14', 1, 'Q15916'),
 (104271, 'Slovenj Gradec', 4169, '112', 201, 'SI', '46.51028000', '15.08056000', '2019-10-05 19:18:03', '2019-10-05 19:18:03', 1, 'Q15918'),
@@ -104950,7 +104950,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (104632, 'Kabala', 911, 'N', 198, 'SL', '9.58893000', '-11.55256000', '2019-10-05 19:18:06', '2019-10-05 19:18:06', 1, 'Q930789'),
 (104633, 'Kailahun', 914, 'E', 198, 'SL', '8.27890000', '-10.57300000', '2019-10-05 19:18:06', '2019-10-05 19:18:06', 1, 'Q1721432'),
 (104634, 'Kailahun District', 914, 'E', 198, 'SL', '8.10768000', '-10.75146000', '2019-10-05 19:18:06', '2019-10-05 19:18:06', 1, 'Q1721443');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (104635, 'Kamakwie', 911, 'N', 198, 'SL', '9.49689000', '-12.24061000', '2019-10-05 19:18:06', '2019-10-05 19:18:06', 1, 'Q6355344'),
 (104636, 'Kambia', 911, 'N', 198, 'SL', '9.12504000', '-12.91816000', '2019-10-05 19:18:06', '2019-10-05 19:18:06', 1, 'Q1722889'),
 (104637, 'Kassiri', 911, 'N', 198, 'SL', '8.93814000', '-13.11541000', '2019-10-05 19:18:06', '2019-10-05 19:18:06', 1, 'Q1722889'),
@@ -105321,7 +105321,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (105002, 'Idlib', 2940, 'ID', 215, 'SY', '35.93062000', '36.63393000', '2019-10-05 19:18:07', '2019-10-05 19:18:07', 1, 'Q131301'),
 (105003, 'Inkhil', 2945, 'DR', 215, 'SY', '33.01809000', '36.12828000', '2019-10-05 19:18:07', '2019-10-05 19:18:07', 1, 'Q4119742'),
 (105004, 'Izra District', 2945, 'DR', 215, 'SY', '32.90121000', '36.16144000', '2019-10-05 19:18:07', '2019-10-05 19:18:07', 1, 'Q3235210');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (105005, 'Izra‘', 2945, 'DR', 215, 'SY', '32.87060000', '36.25453000', '2019-10-05 19:18:07', '2020-05-01 13:23:18', 1, 'Q3235210'),
 (105006, 'I‘zāz', 2946, 'HL', 215, 'SY', '36.58662000', '37.04628000', '2019-10-05 19:18:07', '2020-05-01 13:23:18', 1, 'Q277674'),
 (105007, 'Jablah', 2938, 'LA', 215, 'SY', '35.36211000', '35.92759000', '2019-10-05 19:18:07', '2019-10-05 19:18:07', 1, 'Q175923'),
@@ -105683,7 +105683,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (105363, 'Amphoe Kae Dam', 3517, '44', 219, 'TH', '16.04961000', '103.38953000', '2019-10-05 19:18:10', '2019-10-05 19:18:10', 1, 'Q475562'),
 (105364, 'Amphoe Kaeng Hang Maeo', 3486, '22', 219, 'TH', '13.09690000', '101.88543000', '2019-10-05 19:18:10', '2019-10-05 19:18:10', 1, 'Q204647'),
 (105365, 'Amphoe Kaeng Khoi', 3487, '19', 219, 'TH', '14.58166000', '101.05297000', '2019-10-05 19:18:10', '2019-10-05 19:18:10', 1, 'Q475568');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (105366, 'Amphoe Kaeng Krachan', 3532, '76', 219, 'TH', '12.85919000', '99.46339000', '2019-10-05 19:18:10', '2019-10-05 19:18:10', 1, 'Q475574'),
 (105367, 'Amphoe Kaeng Sanam Nang', 3497, '30', 219, 'TH', '15.69561000', '102.25366000', '2019-10-05 19:18:10', '2019-10-05 19:18:10', 1, 'Q475575'),
 (105368, 'Amphoe Kamalasai', 3550, '46', 219, 'TH', '16.27999000', '103.60010000', '2019-10-05 19:18:10', '2019-10-05 19:18:10', 1, 'Q475576'),
@@ -106031,7 +106031,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (105710, 'Amphoe Panare', 3540, '94', 219, 'TH', '6.81211000', '101.51247000', '2019-10-05 19:18:12', '2019-10-05 19:18:12', 1, 'Q476347'),
 (105711, 'Amphoe Pang Mapha', 3505, '58', 219, 'TH', '19.60451000', '98.20560000', '2019-10-05 19:18:12', '2019-10-05 19:18:12', 1, 'Q476348'),
 (105712, 'Amphoe Pang Sila Thong', 3516, '62', 219, 'TH', '16.02525000', '99.35593000', '2019-10-05 19:18:12', '2019-10-05 19:18:12', 1, 'Q262407');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (105713, 'Amphoe Pathio', 3526, '86', 219, 'TH', '10.81008000', '99.33938000', '2019-10-05 19:18:12', '2019-10-05 19:18:12', 1, 'Q476353'),
 (105714, 'Amphoe Pathum Rat', 3510, '45', 219, 'TH', '15.62371000', '103.38733000', '2019-10-05 19:18:12', '2019-10-05 19:18:12', 1, 'Q476354'),
 (105715, 'Amphoe Pathum Ratchawongsa', 3523, '37', 219, 'TH', '15.89542000', '104.89611000', '2019-10-05 19:18:12', '2019-10-05 19:18:12', 1, 'Q476355'),
@@ -106389,7 +106389,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (106067, 'Teasc', 4742, 'DJ', 181, 'RO', '44.16454000', '23.86461000', '2019-10-05 19:30:53', '2019-10-05 19:30:53', 1, 'Q2416957'),
 (106068, 'Techirghiol', 4737, 'CT', 181, 'RO', '44.05000000', '28.60000000', '2019-10-05 19:30:53', '2019-10-05 19:30:53', 1, 'Q2416957'),
 (106069, 'Tecuci', 4747, 'GL', 181, 'RO', '45.84973000', '27.43441000', '2019-10-05 19:30:53', '2019-10-05 19:30:53', 1, 'Q2416957');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (106070, 'Tecuci', 4728, 'TR', 181, 'RO', '44.34179000', '24.85966000', '2019-10-05 19:30:53', '2019-10-05 19:30:53', 1, 'Q12160342'),
 (106071, 'Teiu', 4722, 'AG', 181, 'RO', '44.66667000', '25.10000000', '2019-10-05 19:30:53', '2019-10-05 19:30:53', 1, 'Q2626018'),
 (106072, 'Teiuş', 4724, 'AB', 181, 'RO', '46.20000000', '23.68333000', '2019-10-05 19:30:53', '2020-05-01 13:23:08', 1, 'Q2626018'),
@@ -106748,7 +106748,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (106425, 'Bang Khae', 3554, '10', 219, 'TH', '13.71927000', '100.39278000', '2019-10-05 19:31:05', '2019-10-05 19:31:05', 1, 'Q225618'),
 (106426, 'Bang Khen', 3554, '10', 219, 'TH', '13.86901000', '100.62769000', '2019-10-05 19:31:05', '2019-10-05 19:31:05', 1, 'Q806443'),
 (106427, 'Bang Khla', 3552, '24', 219, 'TH', '13.72144000', '101.20814000', '2019-10-05 19:31:05', '2019-10-05 19:31:05', 1, 'Q15980674');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (106428, 'Bang Kho laen', 3554, '10', 219, 'TH', '13.70025000', '100.50971000', '2019-10-05 19:31:05', '2019-10-05 19:31:05', 1, 'Q806446'),
 (106429, 'Bang Khun thain', 3554, '10', 219, 'TH', '13.59482000', '100.42694000', '2019-10-05 19:31:05', '2019-10-05 19:31:05', 1, 'Q806447'),
 (106430, 'Bang Krathum', 3506, '65', 219, 'TH', '16.57831000', '100.30034000', '2019-10-05 19:31:05', '2019-10-05 19:31:05', 1, 'Q28732635'),
@@ -107114,7 +107114,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (106790, 'Murghob', 3399, 'GB', 217, 'TJ', '38.17023000', '73.96674000', '2019-10-05 19:31:08', '2019-10-05 19:31:08', 1, 'Q1018209'),
 (106791, 'Mŭ’minobod', 3398, 'KT', 217, 'TJ', '38.10714000', '70.03213000', '2019-10-05 19:31:08', '2020-05-01 13:23:18', 1, 'Q4122080'),
 (106792, 'Neftobod', 3400, 'SU', 217, 'TJ', '40.21524000', '70.57193000', '2019-10-05 19:31:08', '2019-10-05 19:31:08', 1, 'Q4122080');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (106793, 'Nohiyai Kolkhozobod', 3398, 'KT', 217, 'TJ', '37.57277000', '68.81528000', '2019-10-05 19:31:08', '2019-10-05 19:31:08', 1, 'Q3563282'),
 (106794, 'Nohiyai Konibodom', 3400, 'SU', 217, 'TJ', '40.26877000', '70.33057000', '2019-10-05 19:31:08', '2019-10-05 19:31:08', 1, 'Q2588415'),
 (106795, 'Nohiyai Panj', 3398, 'KT', 217, 'TJ', '37.31611000', '69.16679000', '2019-10-05 19:31:08', '2019-10-05 19:31:08', 1, 'Q2564823'),
@@ -107486,7 +107486,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (107161, 'Anamur İlçesi', 2156, '33', 225, 'TR', '36.08361000', '32.82615000', '2019-10-05 19:31:12', '2020-05-01 13:23:20', 1, 'Q485575'),
 (107162, 'Anayazı', 2211, '31', 225, 'TR', '36.32107000', '36.19061000', '2019-10-05 19:31:12', '2020-05-01 13:23:19', 1, 'Q485575'),
 (107163, 'Andaç', 2225, '73', 225, 'TR', '37.35500000', '43.26395000', '2019-10-05 19:31:12', '2020-05-01 13:23:19', 1, 'Q485575');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (107164, 'Andırın', 2227, '46', 225, 'TR', '37.57757000', '36.35492000', '2019-10-05 19:31:12', '2020-05-01 13:23:19', 1, 'Q485575'),
 (107165, 'Andırın İlçesi', 2227, '46', 225, 'TR', '37.58791000', '36.36112000', '2019-10-05 19:31:12', '2020-05-01 13:23:19', 1, 'Q485575'),
 (107166, 'Ankara', 2217, '06', 225, 'TR', '39.91987000', '32.85427000', '2019-10-05 19:31:12', '2019-10-05 19:31:12', 1, 'Q3640'),
@@ -107856,7 +107856,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (107530, 'Dumlupınar', 2149, '43', 225, 'TR', '38.85408000', '29.97720000', '2019-10-05 19:31:15', '2020-05-01 13:23:19', 1, 'Q3041195'),
 (107531, 'Dumlupınar İlçesi', 2149, '43', 225, 'TR', '38.87639000', '30.00639000', '2019-10-05 19:31:15', '2020-05-01 13:23:19', 1, 'Q3041195'),
 (107532, 'Dursunbey', 2175, '10', 225, 'TR', '39.58596000', '28.62568000', '2019-10-05 19:31:15', '2019-10-05 19:31:15', 1, 'Q3041195');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (107533, 'Dursunbey İlçesi', 2175, '10', 225, 'TR', '39.52907000', '28.65306000', '2019-10-05 19:31:16', '2020-05-01 13:23:19', 1, 'Q1014114'),
 (107534, 'Dursunlu', 2211, '31', 225, 'TR', '36.16736000', '36.15788000', '2019-10-05 19:31:16', '2019-10-05 19:31:16', 1, 'Q1014114'),
 (107535, 'Duruca', 2224, '47', 225, 'TR', '37.09309000', '41.30986000', '2019-10-05 19:31:16', '2019-10-05 19:31:16', 1, 'Q1014114'),
@@ -108225,7 +108225,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (107898, 'Karakeçili İlçesi', 2178, '71', 225, 'TR', '39.60471000', '33.38263000', '2019-10-05 19:31:21', '2020-05-01 13:23:19', 1, 'Q2671089'),
 (107899, 'Karakoyunlu', 2166, '76', 225, 'TR', '39.87036000', '43.63014000', '2019-10-05 19:31:21', '2019-10-05 19:31:21', 1, 'Q2671089'),
 (107900, 'Karakoyunlu İlçesi', 2166, '76', 225, 'TR', '39.88040000', '43.63302000', '2019-10-05 19:31:21', '2020-05-01 13:23:19', 1, 'Q2671089');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (107901, 'Karakoçan', 2159, '23', 225, 'TR', '38.95178000', '40.02706000', '2019-10-05 19:31:21', '2020-05-01 13:23:19', 1, 'Q990305'),
 (107902, 'Karakoçan / Elazığ', 2159, '23', 225, 'TR', '38.95527000', '40.04053000', '2019-10-05 19:31:21', '2020-05-01 13:23:19', 1, 'Q990305'),
 (107903, 'Karaköprü', 2183, '63', 225, 'TR', '37.18029000', '38.81109000', '2019-10-05 19:31:21', '2020-05-01 13:23:19', 1, 'Q6635526'),
@@ -108594,7 +108594,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (108266, 'Oltu İlçesi', 2165, '25', 225, 'TR', '40.54562000', '41.99582000', '2019-10-05 19:31:23', '2020-05-01 13:23:19', 1, 'Q915429'),
 (108267, 'Olur', 2165, '25', 225, 'TR', '40.82165000', '42.13055000', '2019-10-05 19:31:24', '2019-10-05 19:31:24', 1, 'Q14640'),
 (108268, 'Olur İlçesi', 2165, '25', 225, 'TR', '40.82661000', '42.13229000', '2019-10-05 19:31:24', '2020-05-01 13:23:19', 1, 'Q14640');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (108269, 'Ondokuzmayıs İlçesi', 2220, '55', 225, 'TR', '41.51188000', '36.07298000', '2019-10-05 19:31:24', '2020-05-01 13:23:20', 1, 'Q14640'),
 (108270, 'Onikişubat', 2227, '46', 225, 'TR', '37.59002000', '36.90548000', '2019-10-05 19:31:24', '2020-05-01 13:23:19', 1, 'Q16960466'),
 (108271, 'Ordu', 2174, '52', 225, 'TR', '40.97782000', '37.89047000', '2019-10-05 19:31:24', '2019-10-05 19:31:24', 1, 'Q184539'),
@@ -108962,7 +108962,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (108633, 'Urla', 2205, '35', 225, 'TR', '38.32292000', '26.76403000', '2019-10-05 19:31:26', '2019-10-05 19:31:26', 1, 'Q4831150'),
 (108634, 'Urla İlçesi', 2205, '35', 225, 'TR', '38.33256000', '26.76883000', '2019-10-05 19:31:26', '2020-05-01 13:23:19', 1, 'Q2343342'),
 (108635, 'Uzunbağ', 2211, '31', 225, 'TR', '36.14023000', '36.03603000', '2019-10-05 19:31:26', '2020-05-01 13:23:19', 1, 'Q2343342');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (108636, 'Uzundere', 2165, '25', 225, 'TR', '40.53218000', '41.53832000', '2019-10-05 19:31:26', '2019-10-05 19:31:26', 1, 'Q1843445'),
 (108637, 'Uzundere İlçesi', 2165, '25', 225, 'TR', '40.53175000', '41.54826000', '2019-10-05 19:31:26', '2020-05-01 13:23:19', 1, 'Q1843445'),
 (108638, 'Uzungeçit', 2225, '73', 225, 'TR', '37.49052000', '42.99036000', '2019-10-05 19:31:26', '2020-05-01 13:23:19', 1, 'Q1843445'),
@@ -109329,7 +109329,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (108999, 'Savave Village', 3952, 'NKF', 228, 'TV', '-8.02731000', '178.31351000', '2019-10-05 19:31:28', '2019-10-05 19:31:28', 1, 'Q2481883'),
 (109000, 'Tanrake Village', 3948, 'NUI', 228, 'TV', '-7.24562000', '177.14511000', '2019-10-05 19:31:28', '2019-10-05 19:31:28', 1, 'Q3394618'),
 (109001, 'Toga Village', 3947, 'NMG', 228, 'TV', '-6.28764000', '176.31472000', '2019-10-05 19:31:28', '2019-10-05 19:31:28', 1, 'Q3394651');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (109002, 'Banqiao', 3422, 'TPE', 216, 'TW', '25.01427000', '121.46719000', '2019-10-05 19:31:28', '2019-10-05 19:31:28', 1, 'Q3394651'),
 (109003, 'Changhua', 3404, 'CHA', 216, 'TW', '23.95361000', '120.49083000', '2019-10-05 19:31:28', '2019-10-05 19:31:28', 1, 'Q133865'),
 (109004, 'Chiayi', 3408, 'CYI', 216, 'TW', '23.47722000', '120.44527000', '2019-10-05 19:31:28', '2019-10-05 19:31:28', 1, 'Q249995'),
@@ -109701,7 +109701,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (109370, 'Berdychiv', 4668, '18', 230, 'UA', '49.89928000', '28.60235000', '2019-10-05 19:31:31', '2019-10-05 19:31:31', 1, 'Q158799'),
 (109371, 'Berdychivskyy Rayon', 4668, '18', 230, 'UA', '49.91667000', '28.58333000', '2019-10-05 19:31:31', '2019-10-05 19:31:31', 1, 'Q158799'),
 (109372, 'Beregovoye', 4689, '43', 230, 'UA', '45.09470000', '35.43385000', '2019-10-05 19:31:31', '2019-10-05 19:31:31', 1, 'Q3920757');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (109373, 'Berehivs’ka Mis’krada', 4670, '21', 230, 'UA', '48.21255000', '22.65536000', '2019-10-05 19:31:31', '2020-05-01 13:23:20', 1, 'Q12082033'),
 (109374, 'Berehomet', 4678, '77', 230, 'UA', '48.17882000', '25.34855000', '2019-10-05 19:31:31', '2019-10-05 19:31:31', 1, 'Q818933'),
 (109375, 'Berehove', 4670, '21', 230, 'UA', '48.20555000', '22.64418000', '2019-10-05 19:31:31', '2019-10-05 19:31:31', 1, 'Q146497'),
@@ -110068,7 +110068,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (109736, 'Khorosheve', 4686, '63', 230, 'UA', '49.85413000', '36.21704000', '2019-10-05 19:31:33', '2019-10-05 19:31:33', 1, 'Q4500117'),
 (109737, 'Khoroshiv Raion', 4668, '18', 230, 'UA', '50.66667000', '28.50000000', '2019-10-05 19:31:33', '2019-10-05 19:31:33', 1, 'Q2494465'),
 (109738, 'Khorostkiv', 4674, '61', 230, 'UA', '49.21114000', '25.92165000', '2019-10-05 19:31:33', '2019-10-05 19:31:33', 1, 'Q149178');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (109739, 'Khotiv', 4671, '32', 230, 'UA', '50.33069000', '30.46836000', '2019-10-05 19:31:33', '2019-10-05 19:31:33', 1, 'Q4500392'),
 (109740, 'Khotyn', 4678, '77', 230, 'UA', '48.50693000', '26.49121000', '2019-10-05 19:31:33', '2019-10-05 19:31:33', 1, 'Q45883'),
 (109741, 'Khrystynivka', 4680, '71', 230, 'UA', '48.81577000', '29.97703000', '2019-10-05 19:31:33', '2019-10-05 19:31:33', 1, 'Q219599'),
@@ -110435,7 +110435,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (110102, 'Nosivka', 4692, '74', 230, 'UA', '50.93152000', '31.58282000', '2019-10-05 19:31:36', '2019-10-05 19:31:36', 1, 'Q1020112'),
 (110103, 'Nova Borova', 4668, '18', 230, 'UA', '50.69296000', '28.63446000', '2019-10-05 19:31:36', '2019-10-05 19:31:36', 1, 'Q2980437'),
 (110104, 'Nova Kakhovka', 4684, '65', 230, 'UA', '46.75451000', '33.34864000', '2019-10-05 19:31:36', '2019-10-05 19:31:36', 1, 'Q987491');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (110105, 'Nova Mayachka', 4684, '65', 230, 'UA', '46.59996000', '33.22707000', '2019-10-05 19:31:36', '2019-10-05 19:31:36', 1, 'Q3622630'),
 (110106, 'Nova Odesa', 4679, '48', 230, 'UA', '47.30778000', '31.78506000', '2019-10-05 19:31:36', '2019-10-05 19:31:36', 1, 'Q607203'),
 (110107, 'Nova Praha', 4677, '35', 230, 'UA', '48.56821000', '32.90273000', '2019-10-05 19:31:36', '2019-10-05 19:31:36', 1, 'Q4322265'),
@@ -110802,7 +110802,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (110468, 'Skalat', 4674, '61', 230, 'UA', '49.42732000', '25.97869000', '2019-10-05 19:31:39', '2019-10-05 19:31:39', 1, 'Q149159'),
 (110469, 'Skalistoye', 4689, '43', 230, 'UA', '44.81686000', '33.97791000', '2019-10-05 19:31:39', '2019-10-05 19:31:39', 1, 'Q149159'),
 (110470, 'Skelivka', 4672, '46', 230, 'UA', '49.53728000', '22.96467000', '2019-10-05 19:31:39', '2019-10-05 19:31:39', 1, 'Q4421801');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (110471, 'Skhidnytsya', 4672, '46', 230, 'UA', '49.22827000', '23.35016000', '2019-10-05 19:31:39', '2019-10-05 19:31:39', 1, 'Q670164'),
 (110472, 'Skole', 4672, '46', 230, 'UA', '49.03717000', '23.51346000', '2019-10-05 19:31:39', '2019-10-05 19:31:39', 1, 'Q913962'),
 (110473, 'Skvortsovo', 4689, '43', 230, 'UA', '45.07542000', '33.82084000', '2019-10-05 19:31:39', '2019-10-05 19:31:39', 1, 'Q913962'),
@@ -111169,7 +111169,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (110834, 'Zdovbytsya', 4683, '56', 230, 'UA', '50.49607000', '26.24111000', '2019-10-05 19:31:42', '2019-10-05 19:31:42', 1, 'Q4189998'),
 (110835, 'Zelenogorskoye', 4689, '43', 230, 'UA', '45.01249000', '34.46848000', '2019-10-05 19:31:42', '2019-10-05 19:31:42', 1, 'Q4189998'),
 (110836, 'Zelyonoye', 4689, '43', 230, 'UA', '44.59583000', '34.00921000', '2019-10-05 19:31:42', '2019-10-05 19:31:42', 1, 'Q4189998');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (110837, 'Zemlyanichnoye', 4689, '43', 230, 'UA', '44.97444000', '34.83553000', '2019-10-05 19:31:42', '2019-10-05 19:31:42', 1, 'Q4189998'),
 (110838, 'Zernovoye', 4689, '43', 230, 'UA', '45.32364000', '34.48099000', '2019-10-05 19:31:42', '2019-10-05 19:31:42', 1, 'Q4189998'),
 (110839, 'Zgurovka', 4671, '32', 230, 'UA', '50.50276000', '31.78492000', '2019-10-05 19:31:42', '2019-10-05 19:31:42', 1, 'Q2652440'),
@@ -111540,7 +111540,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (111204, 'Alloway', 1417, 'NJ', 233, 'US', '39.56095000', '-75.36242000', '2019-10-05 19:31:44', '2019-10-05 19:31:44', 1, 'Q3476956'),
 (111205, 'Allyn', 1462, 'WA', 233, 'US', '47.38565000', '-122.82764000', '2019-10-05 19:31:44', '2019-10-05 19:31:44', 1, 'Q3473472'),
 (111206, 'Alma', 1444, 'AR', 233, 'US', '35.47787000', '-94.22188000', '2019-10-05 19:31:44', '2019-10-05 19:31:44', 1, 'Q79440');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (111207, 'Alma', 1455, 'GA', 233, 'US', '31.53937000', '-82.46236000', '2019-10-05 19:31:44', '2019-10-05 19:31:44', 1, 'Q2478924'),
 (111208, 'Alma', 1406, 'KS', 233, 'US', '39.01667000', '-96.28916000', '2019-10-05 19:31:44', '2019-10-05 19:31:44', 1, 'Q2461619'),
 (111209, 'Alma', 1426, 'MI', 233, 'US', '43.37892000', '-84.65973000', '2019-10-05 19:31:44', '2019-10-05 19:31:44', 1, 'Q2745140'),
@@ -111908,7 +111908,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (111571, 'Atglen', 1422, 'PA', 233, 'US', '39.94927000', '-75.97356000', '2019-10-05 19:31:47', '2019-10-05 19:31:47', 1, 'Q1133206'),
 (111572, 'Athena', 1415, 'OR', 233, 'US', '45.81180000', '-118.49053000', '2019-10-05 19:31:47', '2019-10-05 19:31:47', 1, 'Q2596206'),
 (111573, 'Athens', 1455, 'GA', 233, 'US', '33.96095000', '-83.37794000', '2019-10-05 19:31:47', '2019-10-05 19:31:47', 1, 'Q203263');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (111574, 'Athens', 1425, 'IL', 233, 'US', '39.96088000', '-89.72399000', '2019-10-05 19:31:47', '2019-10-05 19:31:47', 1, 'Q578681'),
 (111575, 'Athens', 1454, 'TN', 233, 'US', '35.44285000', '-84.59299000', '2019-10-05 19:31:47', '2019-10-05 19:31:47', 1, 'Q3292481'),
 (111576, 'Athens', 1407, 'TX', 233, 'US', '32.20487000', '-95.85552000', '2019-10-05 19:31:47', '2019-10-05 19:31:47', 1, 'Q755425'),
@@ -112276,7 +112276,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (111938, 'Bayard', 1408, 'NE', 233, 'US', '41.75497000', '-103.32410000', '2019-10-05 19:31:49', '2019-10-05 19:31:49', 1, 'Q812107'),
 (111939, 'Bayboro', 1447, 'NC', 233, 'US', '35.14294000', '-76.77021000', '2019-10-05 19:31:49', '2019-10-05 19:31:49', 1, 'Q1861520'),
 (111940, 'Baychester', 1452, 'NY', 233, 'US', '40.86928000', '-73.83645000', '2019-10-05 19:31:49', '2019-10-05 19:31:49', 1, 'Q1861520');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (111941, 'Bayfield', 1450, 'CO', 233, 'US', '37.22556000', '-107.59811000', '2019-10-05 19:31:49', '2019-10-05 19:31:49', 1, 'Q812544'),
 (111942, 'Bayfield County', 1441, 'WI', 233, 'US', '46.63544000', '-91.18068000', '2019-10-05 19:31:49', '2019-10-05 19:31:49', 1, 'Q490482'),
 (111943, 'Baylor County', 1407, 'TX', 233, 'US', '33.61649000', '-99.21351000', '2019-10-05 19:31:49', '2019-10-05 19:31:49', 1, 'Q108520'),
@@ -112642,7 +112642,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (112303, 'Beverly Hills', 1436, 'FL', 233, 'US', '28.91692000', '-82.45815000', '2019-10-05 19:31:51', '2019-10-05 19:31:51', 1, 'Q851806'),
 (112304, 'Beverly Hills', 1407, 'TX', 233, 'US', '31.52156000', '-97.15389000', '2019-10-05 19:31:51', '2019-10-05 19:31:51', 1, 'Q972559'),
 (112305, 'Beverly Hills', 1426, 'MI', 233, 'US', '42.52392000', '-83.22326000', '2019-10-05 19:31:51', '2019-10-05 19:31:51', 1, 'Q851790');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (112306, 'Beverly Hills', 1416, 'CA', 233, 'US', '34.07362000', '-118.40036000', '2019-10-05 19:31:51', '2019-10-05 19:31:51', 1, 'Q127856'),
 (112307, 'Bevil Oaks', 1407, 'TX', 233, 'US', '30.15021000', '-94.26963000', '2019-10-05 19:31:51', '2019-10-05 19:31:51', 1, 'Q969141'),
 (112308, 'Bexar County', 1407, 'TX', 233, 'US', '29.44896000', '-98.52002000', '2019-10-05 19:31:51', '2019-10-05 19:31:51', 1, 'Q16861'),
@@ -113006,7 +113006,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (112666, 'Bradford', 1422, 'PA', 233, 'US', '41.95590000', '-78.64392000', '2019-10-05 19:31:54', '2019-10-05 19:31:54', 1, 'Q662409'),
 (112667, 'Bradford', 1461, 'RI', 233, 'US', '41.39899000', '-71.73701000', '2019-10-05 19:31:54', '2019-10-05 19:31:54', 1, 'Q896936'),
 (112668, 'Bradford County', 1436, 'FL', 233, 'US', '29.94996000', '-82.16878000', '2019-10-05 19:31:54', '2019-10-05 19:31:54', 1, 'Q156577');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (112669, 'Bradford County', 1422, 'PA', 233, 'US', '41.78867000', '-76.51545000', '2019-10-05 19:31:54', '2019-10-05 19:31:54', 1, 'Q488687'),
 (112670, 'Bradford Woods', 1422, 'PA', 233, 'US', '40.63757000', '-80.08172000', '2019-10-05 19:31:54', '2019-10-05 19:31:54', 1, 'Q1132773'),
 (112671, 'Bradley', 1429, 'WV', 233, 'US', '37.86539000', '-81.19399000', '2019-10-05 19:31:54', '2019-10-05 19:31:54', 1, 'Q2308975'),
@@ -113371,7 +113371,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (113030, 'Bullard', 1407, 'TX', 233, 'US', '32.13988000', '-95.32023000', '2019-10-05 19:31:56', '2019-10-05 19:31:56', 1, 'Q973960'),
 (113031, 'Bullhead City', 1434, 'AZ', 233, 'US', '35.14778000', '-114.56830000', '2019-10-05 19:31:56', '2019-10-05 19:31:56', 1, 'Q79432'),
 (113032, 'Bullitt County', 1419, 'KY', 233, 'US', '37.97008000', '-85.69586000', '2019-10-05 19:31:56', '2019-10-05 19:31:56', 1, 'Q491976');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (113033, 'Bulloch County', 1455, 'GA', 233, 'US', '32.39681000', '-81.74318000', '2019-10-05 19:31:56', '2019-10-05 19:31:56', 1, 'Q488166'),
 (113034, 'Bullock County', 1456, 'AL', 233, 'US', '32.10055000', '-85.71570000', '2019-10-05 19:31:56', '2019-10-05 19:31:56', 1, 'Q111259'),
 (113035, 'Bulverde', 1407, 'TX', 233, 'US', '29.74383000', '-98.45307000', '2019-10-05 19:31:56', '2019-10-05 19:31:56', 1, 'Q981181'),
@@ -113736,7 +113736,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (113394, 'Caribou', 1453, 'ME', 233, 'US', '46.86060000', '-68.01197000', '2019-10-05 19:31:58', '2019-10-05 19:31:58', 1, 'Q1010699'),
 (113395, 'Caribou County', 1460, 'ID', 233, 'US', '42.77051000', '-111.56224000', '2019-10-05 19:31:58', '2019-10-05 19:31:58', 1, 'Q488481'),
 (113396, 'Carl Junction', 1451, 'MO', 233, 'US', '37.17672000', '-94.56551000', '2019-10-05 19:31:58', '2019-10-05 19:31:58', 1, 'Q953178');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (113397, 'Carle Place', 1452, 'NY', 233, 'US', '40.75260000', '-73.61041000', '2019-10-05 19:31:58', '2019-10-05 19:31:58', 1, 'Q3477020'),
 (113398, 'Carleton', 1426, 'MI', 233, 'US', '42.05921000', '-83.39077000', '2019-10-05 19:31:58', '2019-10-05 19:31:58', 1, 'Q3157290'),
 (113399, 'Carlin', 1458, 'NV', 233, 'US', '40.71381000', '-116.10397000', '2019-10-05 19:31:58', '2019-10-05 19:31:58', 1, 'Q1948672'),
@@ -114099,7 +114099,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (113756, 'Charles City County', 1427, 'VA', 233, 'US', '37.35435000', '-77.05913000', '2019-10-05 19:32:01', '2019-10-05 19:32:01', 1, 'Q337348'),
 (113757, 'Charles County', 1401, 'MD', 233, 'US', '38.47368000', '-77.01348000', '2019-10-05 19:32:01', '2019-10-05 19:32:01', 1, 'Q501319'),
 (113758, 'Charles Mix County', 1445, 'SD', 233, 'US', '43.20791000', '-98.58789000', '2019-10-05 19:32:01', '2019-10-05 19:32:01', 1, 'Q489159');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (113759, 'Charles Town', 1429, 'WV', 233, 'US', '39.28899000', '-77.85972000', '2019-10-05 19:32:01', '2019-10-05 19:32:01', 1, 'Q2001181'),
 (113760, 'Charles Village', 1401, 'MD', 233, 'US', '39.32316000', '-76.61330000', '2019-10-05 19:32:01', '2019-10-05 19:32:01', 1, 'Q5083136'),
 (113761, 'Charleston', 1444, 'AR', 233, 'US', '35.29704000', '-94.03632000', '2019-10-05 19:32:01', '2019-10-05 19:32:01', 1, 'Q79336'),
@@ -114459,7 +114459,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (114115, 'Clarinda', 1459, 'IA', 233, 'US', '40.73981000', '-95.03800000', '2019-10-05 19:32:03', '2019-10-05 19:32:03', 1, 'Q931656'),
 (114116, 'Clarion', 1459, 'IA', 233, 'US', '42.73164000', '-93.73299000', '2019-10-05 19:32:03', '2019-10-05 19:32:03', 1, 'Q548653'),
 (114117, 'Clarion', 1422, 'PA', 233, 'US', '41.21479000', '-79.38532000', '2019-10-05 19:32:04', '2019-10-05 19:32:04', 1, 'Q1025797');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (114118, 'Clarion County', 1422, 'PA', 233, 'US', '41.19239000', '-79.42096000', '2019-10-05 19:32:04', '2019-10-05 19:32:04', 1, 'Q494198'),
 (114119, 'Clark', 1417, 'NJ', 233, 'US', '40.64094000', '-74.31070000', '2019-10-05 19:32:04', '2019-10-05 19:32:04', 1, 'Q494198'),
 (114120, 'Clark', 1445, 'SD', 233, 'US', '44.87774000', '-97.73314000', '2019-10-05 19:32:04', '2019-10-05 19:32:04', 1, 'Q2781596'),
@@ -114824,7 +114824,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (114479, 'Columbia County', 1455, 'GA', 233, 'US', '33.54412000', '-82.26406000', '2019-10-05 19:32:06', '2019-10-05 19:32:06', 1, 'Q115307'),
 (114480, 'Columbia County', 1452, 'NY', 233, 'US', '42.25008000', '-73.63185000', '2019-10-05 19:32:06', '2019-10-05 19:32:06', 1, 'Q115200'),
 (114481, 'Columbia County', 1422, 'PA', 233, 'US', '41.04865000', '-76.40515000', '2019-10-05 19:32:06', '2019-10-05 19:32:06', 1, 'Q488693');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (114482, 'Columbia County', 1441, 'WI', 233, 'US', '43.46660000', '-89.33373000', '2019-10-05 19:32:06', '2019-10-05 19:32:06', 1, 'Q493529'),
 (114483, 'Columbia County', 1415, 'OR', 233, 'US', '45.94377000', '-123.08805000', '2019-10-05 19:32:06', '2019-10-05 19:32:06', 1, 'Q484385'),
 (114484, 'Columbia County', 1462, 'WA', 233, 'US', '46.29755000', '-117.90788000', '2019-10-05 19:32:06', '2019-10-05 19:32:06', 1, 'Q156253'),
@@ -115188,7 +115188,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (114842, 'Crosby', 1407, 'TX', 233, 'US', '29.91189000', '-95.06215000', '2019-10-05 19:32:09', '2019-10-05 19:32:09', 1, 'Q982057'),
 (114843, 'Crosby', 1420, 'MN', 233, 'US', '46.48218000', '-93.95776000', '2019-10-05 19:32:09', '2019-10-05 19:32:09', 1, 'Q2233316'),
 (114844, 'Crosby', 1418, 'ND', 233, 'US', '48.91420000', '-103.29491000', '2019-10-05 19:32:09', '2019-10-05 19:32:09', 1, 'Q1772493');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (114845, 'Crosby County', 1407, 'TX', 233, 'US', '33.61462000', '-101.29996000', '2019-10-05 19:32:09', '2019-10-05 19:32:09', 1, 'Q109279'),
 (114846, 'Crosbyton', 1407, 'TX', 233, 'US', '33.66008000', '-101.23793000', '2019-10-05 19:32:09', '2019-10-05 19:32:09', 1, 'Q981434'),
 (114847, 'Cross City', 1436, 'FL', 233, 'US', '29.63465000', '-83.12694000', '2019-10-05 19:32:09', '2019-10-05 19:32:09', 1, 'Q1002856'),
@@ -115553,7 +115553,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (115206, 'Delaware County', 1440, 'IN', 233, 'US', '40.22753000', '-85.39690000', '2019-10-05 19:32:12', '2019-10-05 19:32:12', 1, 'Q509798'),
 (115207, 'Delaware County', 1452, 'NY', 233, 'US', '42.19809000', '-74.96647000', '2019-10-05 19:32:12', '2019-10-05 19:32:12', 1, 'Q115289'),
 (115208, 'Delaware County', 1422, 'PA', 233, 'US', '39.91681000', '-75.39890000', '2019-10-05 19:32:12', '2019-10-05 19:32:12', 1, 'Q27844');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (115209, 'Delcambre', 1457, 'LA', 233, 'US', '29.94826000', '-91.98873000', '2019-10-05 19:32:12', '2019-10-05 19:32:12', 1, 'Q2337118'),
 (115210, 'Delevan', 1452, 'NY', 233, 'US', '42.48923000', '-78.48085000', '2019-10-05 19:32:12', '2019-10-05 19:32:12', 1, 'Q3453185'),
 (115211, 'Delhi', 1457, 'LA', 233, 'US', '32.45764000', '-91.49317000', '2019-10-05 19:32:12', '2019-10-05 19:32:12', 1, 'Q2571544'),
@@ -115920,7 +115920,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (115572, 'Durham', 1452, 'NY', 233, 'US', '42.39953000', '-74.17236000', '2019-10-05 19:32:17', '2019-10-05 19:32:17', 1, 'Q3708751'),
 (115573, 'Durham', 1416, 'CA', 233, 'US', '39.64627000', '-121.79998000', '2019-10-05 19:32:17', '2019-10-05 19:32:17', 1, 'Q599922'),
 (115574, 'Durham', 1415, 'OR', 233, 'US', '45.40206000', '-122.75287000', '2019-10-05 19:32:17', '2019-10-05 19:32:17', 1, 'Q2598586');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (115575, 'Durham County', 1447, 'NC', 233, 'US', '36.03600000', '-78.87632000', '2019-10-05 19:32:17', '2019-10-05 19:32:17', 1, 'Q428298'),
 (115576, 'Duryea', 1422, 'PA', 233, 'US', '41.34397000', '-75.73853000', '2019-10-05 19:32:17', '2019-10-05 19:32:17', 1, 'Q1131231'),
 (115577, 'Duson', 1457, 'LA', 233, 'US', '30.23576000', '-92.18540000', '2019-10-05 19:32:17', '2019-10-05 19:32:17', 1, 'Q777022'),
@@ -116282,7 +116282,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (115933, 'El Portal', 1436, 'FL', 233, 'US', '25.85537000', '-80.19310000', '2019-10-05 19:32:40', '2019-10-05 19:32:40', 1, 'Q2188511'),
 (115934, 'El Rancho', 1423, 'NM', 233, 'US', '35.88919000', '-106.07975000', '2019-10-05 19:32:40', '2019-10-05 19:32:40', 1, 'Q3301852'),
 (115935, 'El Reno', 1421, 'OK', 233, 'US', '35.53227000', '-97.95505000', '2019-10-05 19:32:40', '2019-10-05 19:32:40', 1, 'Q1017220');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (115936, 'El Rio', 1416, 'CA', 233, 'US', '34.23578000', '-119.16383000', '2019-10-05 19:32:40', '2019-10-05 19:32:40', 1, 'Q2796218'),
 (115937, 'El Segundo', 1416, 'CA', 233, 'US', '33.91918000', '-118.41647000', '2019-10-05 19:32:40', '2019-10-05 19:32:40', 1, 'Q983859'),
 (115938, 'El Sobrante', 1416, 'CA', 233, 'US', '37.97715000', '-122.29525000', '2019-10-05 19:32:40', '2019-10-05 19:32:40', 1, 'Q1024085'),
@@ -116650,7 +116650,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (116300, 'Fairdale', 1422, 'PA', 233, 'US', '39.88702000', '-79.96811000', '2019-10-05 19:32:42', '2019-10-05 19:32:42', 1, 'Q1132524'),
 (116301, 'Fairfax', 1443, 'SC', 233, 'US', '32.95905000', '-81.23650000', '2019-10-05 19:32:42', '2019-10-05 19:32:42', 1, 'Q615789'),
 (116302, 'Fairfax', 1421, 'OK', 233, 'US', '36.57366000', '-96.70420000', '2019-10-05 19:32:42', '2019-10-05 19:32:42', 1, 'Q2160527');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (116303, 'Fairfax', 1427, 'VA', 233, 'US', '38.84622000', '-77.30637000', '2019-10-05 19:32:42', '2019-10-05 19:32:42', 1, 'Q501785'),
 (116304, 'Fairfax', 1459, 'IA', 233, 'US', '41.91945000', '-91.78101000', '2019-10-05 19:32:42', '2019-10-05 19:32:42', 1, 'Q1932660'),
 (116305, 'Fairfax', 1420, 'MN', 233, 'US', '44.52913000', '-94.72082000', '2019-10-05 19:32:42', '2019-10-05 19:32:42', 1, 'Q1985113'),
@@ -117015,7 +117015,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (116664, 'Forest Park', 1455, 'GA', 233, 'US', '33.62205000', '-84.36909000', '2019-10-05 19:32:44', '2019-10-05 19:32:44', 1, 'Q3261685'),
 (116665, 'Forest Park', 1421, 'OK', 233, 'US', '35.50423000', '-97.44615000', '2019-10-05 19:32:44', '2019-10-05 19:32:44', 1, 'Q2614735'),
 (116666, 'Forest Park', 1425, 'IL', 233, 'US', '41.87948000', '-87.81367000', '2019-10-05 19:32:44', '2019-10-05 19:32:44', 1, 'Q2483749');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (116667, 'Forest Ranch', 1416, 'CA', 233, 'US', '39.88211000', '-121.67275000', '2019-10-05 19:32:44', '2019-10-05 19:32:44', 1, 'Q3458766'),
 (116668, 'Forestbrook', 1443, 'SC', 233, 'US', '33.72239000', '-78.95809000', '2019-10-05 19:32:44', '2019-10-05 19:32:44', 1, 'Q2459183'),
 (116669, 'Forestdale', 1456, 'AL', 233, 'US', '33.57011000', '-86.89638000', '2019-10-05 19:32:44', '2019-10-05 19:32:44', 1, 'Q1268815'),
@@ -117378,7 +117378,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (117026, 'Gales Ferry', 1435, 'CT', 233, 'US', '41.42982000', '-72.08202000', '2019-10-05 19:32:47', '2019-10-05 19:32:47', 1, 'Q5518477'),
 (117027, 'Galesburg', 1425, 'IL', 233, 'US', '40.94782000', '-90.37124000', '2019-10-05 19:32:47', '2019-10-05 19:32:47', 1, 'Q782574'),
 (117028, 'Galesburg', 1426, 'MI', 233, 'US', '42.28865000', '-85.41806000', '2019-10-05 19:32:47', '2019-10-05 19:32:47', 1, 'Q2209756');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (117029, 'Galesville', 1441, 'WI', 233, 'US', '44.08163000', '-91.34904000', '2019-10-05 19:32:47', '2019-10-05 19:32:47', 1, 'Q1569440'),
 (117030, 'Galeton', 1422, 'PA', 233, 'US', '41.73312000', '-77.64193000', '2019-10-05 19:32:47', '2019-10-05 19:32:47', 1, 'Q1130884'),
 (117031, 'Galeville', 1452, 'NY', 233, 'US', '43.09007000', '-76.17298000', '2019-10-05 19:32:47', '2019-10-05 19:32:47', 1, 'Q3460440'),
@@ -117744,7 +117744,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (117391, 'Goodwater', 1456, 'AL', 233, 'US', '33.06567000', '-86.05330000', '2019-10-05 19:32:50', '2019-10-05 19:32:50', 1, 'Q79617'),
 (117392, 'Goodwell', 1421, 'OK', 233, 'US', '36.59530000', '-101.63655000', '2019-10-05 19:32:50', '2019-10-05 19:32:50', 1, 'Q2412367'),
 (117393, 'Goodyear', 1434, 'AZ', 233, 'US', '33.43532000', '-112.35821000', '2019-10-05 19:32:50', '2019-10-05 19:32:50', 1, 'Q79457');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (117394, 'Goose Creek', 1443, 'SC', 233, 'US', '32.98101000', '-80.03259000', '2019-10-05 19:32:50', '2019-10-05 19:32:50', 1, 'Q1537768'),
 (117395, 'Gordo', 1456, 'AL', 233, 'US', '33.32012000', '-87.90280000', '2019-10-05 19:32:50', '2019-10-05 19:32:50', 1, 'Q67487'),
 (117396, 'Gordon', 1455, 'GA', 233, 'US', '32.88209000', '-83.33238000', '2019-10-05 19:32:50', '2019-10-05 19:32:50', 1, 'Q1340063'),
@@ -118108,7 +118108,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (117754, 'Grove', 1421, 'OK', 233, 'US', '36.59369000', '-94.76912000', '2019-10-05 19:32:52', '2019-10-05 19:32:52', 1, 'Q3241328'),
 (117755, 'Grove City', 1436, 'FL', 233, 'US', '26.91423000', '-82.32704000', '2019-10-05 19:32:52', '2019-10-05 19:32:52', 1, 'Q1547798'),
 (117756, 'Grove City', 1422, 'PA', 233, 'US', '41.15784000', '-80.08867000', '2019-10-05 19:32:52', '2019-10-05 19:32:52', 1, 'Q1183945');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (117757, 'Grove Hill', 1456, 'AL', 233, 'US', '31.70877000', '-87.77722000', '2019-10-05 19:32:52', '2019-10-05 19:32:52', 1, 'Q67572'),
 (117758, 'Groveland', 1436, 'FL', 233, 'US', '28.55805000', '-81.85119000', '2019-10-05 19:32:52', '2019-10-05 19:32:52', 1, 'Q2153697'),
 (117759, 'Groveland', 1433, 'MA', 233, 'US', '42.76037000', '-71.03145000', '2019-10-05 19:32:52', '2019-10-05 19:32:52', 1, 'Q1547816'),
@@ -118473,7 +118473,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (118118, 'Harwich Center', 1433, 'MA', 233, 'US', '41.69235000', '-70.06938000', '2019-10-05 19:32:56', '2019-10-05 19:32:56', 1, 'Q5677847'),
 (118119, 'Harwich Port', 1433, 'MA', 233, 'US', '41.66678000', '-70.07863000', '2019-10-05 19:32:56', '2019-10-05 19:32:56', 1, 'Q9002191'),
 (118120, 'Harwood Heights', 1425, 'IL', 233, 'US', '41.96725000', '-87.80756000', '2019-10-05 19:32:56', '2019-10-05 19:32:56', 1, 'Q1976009');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (118121, 'Hasbrouck Heights', 1417, 'NJ', 233, 'US', '40.85816000', '-74.08070000', '2019-10-05 19:32:56', '2019-10-05 19:32:56', 1, 'Q1082527'),
 (118122, 'Haskell', 1444, 'AR', 233, 'US', '34.50148000', '-92.63655000', '2019-10-05 19:32:56', '2019-10-05 19:32:56', 1, 'Q79224'),
 (118123, 'Haskell', 1421, 'OK', 233, 'US', '35.82038000', '-95.67415000', '2019-10-05 19:32:56', '2019-10-05 19:32:56', 1, 'Q2049844'),
@@ -118837,7 +118837,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (118481, 'Hinesburg', 1409, 'VT', 233, 'US', '44.32922000', '-73.11068000', '2019-10-05 19:32:59', '2019-10-05 19:32:59', 1, 'Q1619395'),
 (118482, 'Hinesville', 1455, 'GA', 233, 'US', '31.84688000', '-81.59595000', '2019-10-05 19:32:59', '2019-10-05 19:32:59', 1, 'Q1994691'),
 (118483, 'Hingham', 1433, 'MA', 233, 'US', '42.24177000', '-70.88977000', '2019-10-05 19:32:59', '2019-10-05 19:32:59', 1, 'Q2305817');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (118484, 'Hinsdale', 1433, 'MA', 233, 'US', '42.43870000', '-73.12538000', '2019-10-05 19:32:59', '2019-10-05 19:32:59', 1, 'Q2318167'),
 (118485, 'Hinsdale', 1425, 'IL', 233, 'US', '41.80086000', '-87.93701000', '2019-10-05 19:32:59', '2019-10-05 19:32:59', 1, 'Q939529'),
 (118486, 'Hinsdale', 1404, 'NH', 233, 'US', '42.78619000', '-72.48648000', '2019-10-05 19:32:59', '2019-10-05 19:32:59', 1, 'Q939529'),
@@ -119202,7 +119202,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (118845, 'Hybla Valley', 1427, 'VA', 233, 'US', '38.74761000', '-77.08303000', '2019-10-05 19:33:02', '2019-10-05 19:33:02', 1, 'Q1374782'),
 (118846, 'Hyde', 1422, 'PA', 233, 'US', '41.00256000', '-78.46252000', '2019-10-05 19:33:02', '2019-10-05 19:33:02', 1, 'Q1182197'),
 (118847, 'Hyde County', 1447, 'NC', 233, 'US', '35.41004000', '-76.14850000', '2019-10-05 19:33:02', '2019-10-05 19:33:02', 1, 'Q511659');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (118848, 'Hyde County', 1445, 'SD', 233, 'US', '44.54736000', '-99.48711000', '2019-10-05 19:33:02', '2019-10-05 19:33:02', 1, 'Q495672'),
 (118849, 'Hyde Park', 1425, 'IL', 233, 'US', '41.79420000', '-87.59394000', '2019-10-05 19:33:02', '2019-10-05 19:33:02', 1, 'Q3143666'),
 (118850, 'Hyde Park', 1452, 'NY', 233, 'US', '41.78482000', '-73.93319000', '2019-10-05 19:33:02', '2019-10-05 19:33:02', 1, 'Q988554'),
@@ -119565,7 +119565,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (119207, 'Jeffersonville', 1455, 'GA', 233, 'US', '32.68765000', '-83.34656000', '2019-10-05 19:33:05', '2019-10-05 19:33:05', 1, 'Q2038010'),
 (119208, 'Jeffersonville', 1440, 'IN', 233, 'US', '38.27757000', '-85.73718000', '2019-10-05 19:33:05', '2019-10-05 19:33:05', 1, 'Q977206'),
 (119209, 'Jellico', 1454, 'TN', 233, 'US', '36.58786000', '-84.12687000', '2019-10-05 19:33:05', '2019-10-05 19:33:05', 1, 'Q1686719');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (119210, 'Jemez Pueblo', 1423, 'NM', 233, 'US', '35.61422000', '-106.72832000', '2019-10-05 19:33:05', '2019-10-05 19:33:05', 1, 'Q1686773'),
 (119211, 'Jemison', 1456, 'AL', 233, 'US', '32.95985000', '-86.74665000', '2019-10-05 19:33:05', '2019-10-05 19:33:05', 1, 'Q67771'),
 (119212, 'Jena', 1457, 'LA', 233, 'US', '31.68323000', '-92.13374000', '2019-10-05 19:33:05', '2019-10-05 19:33:05', 1, 'Q1017042'),
@@ -119931,7 +119931,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (119572, 'Kimble County', 1407, 'TX', 233, 'US', '30.48678000', '-99.74870000', '2019-10-05 19:33:09', '2019-10-05 19:33:09', 1, 'Q26526'),
 (119573, 'Kincaid', 1425, 'IL', 233, 'US', '39.58866000', '-89.41454000', '2019-10-05 19:33:09', '2019-10-05 19:33:09', 1, 'Q2672078'),
 (119574, 'Kinder', 1457, 'LA', 233, 'US', '30.48548000', '-92.85070000', '2019-10-05 19:33:09', '2019-10-05 19:33:09', 1, 'Q2326682');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (119575, 'Kinderhook', 1452, 'NY', 233, 'US', '42.39536000', '-73.69790000', '2019-10-05 19:33:09', '2019-10-05 19:33:09', 1, 'Q3478629'),
 (119576, 'King', 1447, 'NC', 233, 'US', '36.28069000', '-80.35922000', '2019-10-05 19:33:09', '2019-10-05 19:33:09', 1, 'Q2029553'),
 (119577, 'King', 1441, 'WI', 233, 'US', '44.33748000', '-89.14178000', '2019-10-05 19:33:09', '2019-10-05 19:33:09', 1, 'Q6411159'),
@@ -120294,7 +120294,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (119934, 'Lake Lure', 1447, 'NC', 233, 'US', '35.42790000', '-82.20483000', '2019-10-05 19:33:12', '2019-10-05 19:33:12', 1, 'Q303620'),
 (119935, 'Lake Luzerne', 1452, 'NY', 233, 'US', '43.31285000', '-73.83484000', '2019-10-05 19:33:12', '2019-10-05 19:33:12', 1, 'Q3708445'),
 (119936, 'Lake Mack-Forest Hills', 1436, 'FL', 233, 'US', '29.00074000', '-81.42397000', '2019-10-05 19:33:12', '2019-10-05 19:33:12', 1, 'Q1903265');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (119937, 'Lake Magdalene', 1436, 'FL', 233, 'US', '28.07418000', '-82.47176000', '2019-10-05 19:33:12', '2019-10-05 19:33:12', 1, 'Q2463958'),
 (119938, 'Lake Marcel-Stillwater', 1462, 'WA', 233, 'US', '47.69263000', '-121.91513000', '2019-10-05 19:33:12', '2019-10-05 19:33:12', 1, 'Q1509701'),
 (119939, 'Lake Mary', 1436, 'FL', 233, 'US', '28.75888000', '-81.31784000', '2019-10-05 19:33:12', '2019-10-05 19:33:12', 1, 'Q989484'),
@@ -120657,7 +120657,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (120296, 'Lebanon Junction', 1419, 'KY', 233, 'US', '37.83451000', '-85.73190000', '2019-10-05 19:33:16', '2019-10-05 19:33:16', 1, 'Q3180192'),
 (120297, 'Lebanon South', 1422, 'PA', 233, 'US', '40.32804000', '-76.40644000', '2019-10-05 19:33:16', '2019-10-05 19:33:16', 1, 'Q1183890'),
 (120298, 'Lebec', 1416, 'CA', 233, 'US', '34.84164000', '-118.86482000', '2019-10-05 19:33:16', '2019-10-05 19:33:16', 1, 'Q2879536');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (120299, 'Lecanto', 1436, 'FL', 233, 'US', '28.85165000', '-82.48760000', '2019-10-05 19:33:16', '2019-10-05 19:33:16', 1, 'Q1347092'),
 (120300, 'Lecompte', 1457, 'LA', 233, 'US', '31.09463000', '-92.40041000', '2019-10-05 19:33:16', '2019-10-05 19:33:16', 1, 'Q54099'),
 (120301, 'Ledbetter', 1419, 'KY', 233, 'US', '37.04756000', '-88.47699000', '2019-10-05 19:33:16', '2019-10-05 19:33:16', 1, 'Q2240947'),
@@ -121022,7 +121022,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (120660, 'Livingston Parish', 1457, 'LA', 233, 'US', '30.44014000', '-90.72791000', '2019-10-05 19:33:20', '2019-10-05 19:33:20', 1, 'Q506937'),
 (120661, 'Livonia', 1457, 'LA', 233, 'US', '30.55908000', '-91.55594000', '2019-10-05 19:33:20', '2019-10-05 19:33:20', 1, 'Q1863834'),
 (120662, 'Livonia', 1426, 'MI', 233, 'US', '42.36837000', '-83.35271000', '2019-10-05 19:33:20', '2019-10-05 19:33:20', 1, 'Q853552');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (120663, 'Livonia', 1452, 'NY', 233, 'US', '42.82145000', '-77.66861000', '2019-10-05 19:33:20', '2019-10-05 19:33:20', 1, 'Q604520'),
 (120664, 'Llano', 1407, 'TX', 233, 'US', '30.75935000', '-98.67504000', '2019-10-05 19:33:20', '2019-10-05 19:33:20', 1, 'Q973018'),
 (120665, 'Llano County', 1407, 'TX', 233, 'US', '30.70574000', '-98.68410000', '2019-10-05 19:33:20', '2019-10-05 19:33:20', 1, 'Q110336'),
@@ -121389,7 +121389,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (121026, 'Madisonville', 1454, 'TN', 233, 'US', '35.51980000', '-84.36353000', '2019-10-05 19:33:24', '2019-10-05 19:33:24', 1, 'Q1966875'),
 (121027, 'Madisonville', 1407, 'TX', 233, 'US', '30.94991000', '-95.91162000', '2019-10-05 19:33:24', '2019-10-05 19:33:24', 1, 'Q975754'),
 (121028, 'Madras', 1415, 'OR', 233, 'US', '44.63345000', '-121.12949000', '2019-10-05 19:33:24', '2019-10-05 19:33:24', 1, 'Q334041');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (121029, 'Madrid', 1459, 'IA', 233, 'US', '41.87665000', '-93.82328000', '2019-10-05 19:33:24', '2019-10-05 19:33:24', 1, 'Q1934324'),
 (121030, 'Maeser', 1414, 'UT', 233, 'US', '40.47718000', '-109.58681000', '2019-10-05 19:33:24', '2019-10-05 19:33:24', 1, 'Q2493098'),
 (121031, 'Magalia', 1416, 'CA', 233, 'US', '39.81211000', '-121.57831000', '2019-10-05 19:33:24', '2019-10-05 19:33:24', 1, 'Q1883728'),
@@ -121755,7 +121755,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (121391, 'Massapequa', 1452, 'NY', 233, 'US', '40.68066000', '-73.47429000', '2019-10-05 19:33:28', '2019-10-05 19:33:28', 1, 'Q954079'),
 (121392, 'Massapequa Park', 1452, 'NY', 233, 'US', '40.68038000', '-73.45512000', '2019-10-05 19:33:28', '2019-10-05 19:33:28', 1, 'Q3451927'),
 (121393, 'Massena', 1452, 'NY', 233, 'US', '44.92810000', '-74.89186000', '2019-10-05 19:33:28', '2019-10-05 19:33:28', 1, 'Q3306151');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (121394, 'Mastic', 1452, 'NY', 233, 'US', '40.80204000', '-72.84094000', '2019-10-05 19:33:28', '2019-10-05 19:33:28', 1, 'Q3462195'),
 (121395, 'Mastic Beach', 1452, 'NY', 233, 'US', '40.76677000', '-72.85205000', '2019-10-05 19:33:28', '2019-10-05 19:33:28', 1, 'Q3461049'),
 (121396, 'Matador', 1407, 'TX', 233, 'US', '34.01202000', '-100.82208000', '2019-10-05 19:33:28', '2019-10-05 19:33:28', 1, 'Q981834'),
@@ -122120,7 +122120,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (121755, 'Miami Shores', 1436, 'FL', 233, 'US', '25.86315000', '-80.19283000', '2019-10-05 19:33:32', '2019-10-05 19:33:32', 1, 'Q2357116'),
 (121756, 'Miami Springs', 1436, 'FL', 233, 'US', '25.82232000', '-80.28950000', '2019-10-05 19:33:32', '2019-10-05 19:33:32', 1, 'Q775769'),
 (121757, 'Miami-Dade County', 1436, 'FL', 233, 'US', '25.60897000', '-80.49867000', '2019-10-05 19:33:32', '2019-10-05 19:33:32', 1, 'Q468557');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (121758, 'Micco', 1436, 'FL', 233, 'US', '27.88058000', '-80.50033000', '2019-10-05 19:33:32', '2019-10-05 19:33:32', 1, 'Q1760981'),
 (121759, 'Michigan Center', 1426, 'MI', 233, 'US', '42.23309000', '-84.32718000', '2019-10-05 19:33:32', '2019-10-05 19:33:32', 1, 'Q2522970'),
 (121760, 'Michigan City', 1440, 'IN', 233, 'US', '41.70754000', '-86.89503000', '2019-10-05 19:33:32', '2019-10-05 19:33:32', 1, 'Q989282'),
@@ -122486,7 +122486,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (122120, 'Monterey', 1416, 'CA', 233, 'US', '36.60024000', '-121.89468000', '2019-10-05 19:33:36', '2019-10-05 19:33:36', 1, 'Q487315'),
 (122121, 'Monterey County', 1416, 'CA', 233, 'US', '36.23977000', '-121.30890000', '2019-10-05 19:33:36', '2019-10-05 19:33:36', 1, 'Q108072'),
 (122122, 'Monterey Park', 1416, 'CA', 233, 'US', '34.06251000', '-118.12285000', '2019-10-05 19:33:36', '2019-10-05 19:33:36', 1, 'Q927213');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (122123, 'Monterey Park', 1423, 'NM', 233, 'US', '34.75898000', '-106.64085000', '2019-10-05 19:33:36', '2019-10-05 19:33:36', 1, 'Q2886076'),
 (122124, 'Montesano', 1462, 'WA', 233, 'US', '46.98121000', '-123.60266000', '2019-10-05 19:33:36', '2019-10-05 19:33:36', 1, 'Q987133'),
 (122125, 'Montevallo', 1456, 'AL', 233, 'US', '33.10067000', '-86.86416000', '2019-10-05 19:33:36', '2019-10-05 19:33:36', 1, 'Q79549'),
@@ -122848,7 +122848,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (122481, 'Murfreesboro', 1447, 'NC', 233, 'US', '36.44238000', '-77.09858000', '2019-10-05 19:33:40', '2019-10-05 19:33:40', 1, 'Q2026638'),
 (122482, 'Murfreesboro', 1454, 'TN', 233, 'US', '35.84562000', '-86.39027000', '2019-10-05 19:33:40', '2019-10-05 19:33:40', 1, 'Q501766'),
 (122483, 'Murillo Colonia', 1407, 'TX', 233, 'US', '26.25646000', '-98.11334000', '2019-10-05 19:33:40', '2019-10-05 19:33:40', 1, 'Q501766');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (122484, 'Murphy', 1451, 'MO', 233, 'US', '38.49033000', '-90.48707000', '2019-10-05 19:33:40', '2019-10-05 19:33:40', 1, 'Q961017'),
 (122485, 'Murphy', 1447, 'NC', 233, 'US', '35.08758000', '-84.03463000', '2019-10-05 19:33:40', '2019-10-05 19:33:40', 1, 'Q2029042'),
 (122486, 'Murphy', 1407, 'TX', 233, 'US', '33.01512000', '-96.61305000', '2019-10-05 19:33:40', '2019-10-05 19:33:40', 1, 'Q973908'),
@@ -123213,7 +123213,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (122845, 'Newport', 1420, 'MN', 233, 'US', '44.86636000', '-93.00049000', '2019-10-05 19:33:44', '2019-10-05 19:33:44', 1, 'Q2228334'),
 (122846, 'Newport', 1453, 'ME', 233, 'US', '44.83534000', '-69.27394000', '2019-10-05 19:33:44', '2019-10-05 19:33:44', 1, 'Q992483'),
 (122847, 'Newport', 1404, 'NH', 233, 'US', '43.36535000', '-72.17342000', '2019-10-05 19:33:44', '2019-10-05 19:33:44', 1, 'Q286753');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (122848, 'Newport', 1422, 'PA', 233, 'US', '40.47786000', '-77.13054000', '2019-10-05 19:33:44', '2019-10-05 19:33:44', 1, 'Q1185383'),
 (122849, 'Newport', 1461, 'RI', 233, 'US', '41.49010000', '-71.31283000', '2019-10-05 19:33:44', '2019-10-05 19:33:44', 1, 'Q54264'),
 (122850, 'Newport', 1409, 'VT', 233, 'US', '44.93644000', '-72.20510000', '2019-10-05 19:33:44', '2019-10-05 19:33:44', 1, 'Q1012011'),
@@ -123573,7 +123573,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (123204, 'Notre Dame', 1440, 'IN', 233, 'US', '41.70019000', '-86.23793000', '2019-10-05 19:33:49', '2019-10-05 19:33:49', 1, 'Q746071'),
 (123205, 'Nottingham', 1404, 'NH', 233, 'US', '43.11453000', '-71.09978000', '2019-10-05 19:33:49', '2019-10-05 19:33:49', 1, 'Q2304472'),
 (123206, 'Nottoway County', 1427, 'VA', 233, 'US', '37.14306000', '-78.05126000', '2019-10-05 19:33:49', '2019-10-05 19:33:49', 1, 'Q515220');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (123207, 'Novato', 1416, 'CA', 233, 'US', '38.10742000', '-122.56970000', '2019-10-05 19:33:49', '2019-10-05 19:33:49', 1, 'Q851004'),
 (123208, 'Novi', 1426, 'MI', 233, 'US', '42.48059000', '-83.47549000', '2019-10-05 19:33:49', '2019-10-05 19:33:49', 1, 'Q993575'),
 (123209, 'Nowata', 1421, 'OK', 233, 'US', '36.70065000', '-95.63803000', '2019-10-05 19:33:49', '2019-10-05 19:33:49', 1, 'Q2620142'),
@@ -123940,7 +123940,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (123570, 'Ormond-by-the-Sea', 1436, 'FL', 233, 'US', '29.34914000', '-81.06645000', '2019-10-05 19:33:56', '2019-10-05 19:33:56', 1, 'Q2307186'),
 (123571, 'Oro Valley', 1434, 'AZ', 233, 'US', '32.39091000', '-110.96649000', '2019-10-05 19:33:56', '2019-10-05 19:33:56', 1, 'Q986523'),
 (123572, 'Orofino', 1460, 'ID', 233, 'US', '46.47935000', '-116.25514000', '2019-10-05 19:33:56', '2019-10-05 19:33:56', 1, 'Q985280');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (123573, 'Orono', 1420, 'MN', 233, 'US', '44.97135000', '-93.60440000', '2019-10-05 19:33:56', '2019-10-05 19:33:56', 1, 'Q636069'),
 (123574, 'Orono', 1453, 'ME', 233, 'US', '44.88312000', '-68.67198000', '2019-10-05 19:33:56', '2019-10-05 19:33:56', 1, 'Q2736049'),
 (123575, 'Oronoco', 1420, 'MN', 233, 'US', '44.16608000', '-92.53491000', '2019-10-05 19:33:56', '2019-10-05 19:33:56', 1, 'Q1004371'),
@@ -124307,7 +124307,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (123936, 'Pawnee County', 1406, 'KS', 233, 'US', '38.18133000', '-99.23673000', '2019-10-05 19:34:00', '2019-10-05 19:34:00', 1, 'Q374589'),
 (123937, 'Pawnee County', 1421, 'OK', 233, 'US', '36.31693000', '-96.69930000', '2019-10-05 19:34:00', '2019-10-05 19:34:00', 1, 'Q489471'),
 (123938, 'Pawnee County', 1408, 'NE', 233, 'US', '40.13154000', '-96.23706000', '2019-10-05 19:34:00', '2019-10-05 19:34:00', 1, 'Q489684');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (123939, 'Pawtucket', 1461, 'RI', 233, 'US', '41.87871000', '-71.38256000', '2019-10-05 19:34:00', '2019-10-05 19:34:00', 1, 'Q49200'),
 (123940, 'Paxtang', 1422, 'PA', 233, 'US', '40.25898000', '-76.83192000', '2019-10-05 19:34:00', '2019-10-05 19:34:00', 1, 'Q1181480'),
 (123941, 'Paxton', 1425, 'IL', 233, 'US', '40.46031000', '-88.09532000', '2019-10-05 19:34:00', '2019-10-05 19:34:00', 1, 'Q576156'),
@@ -124672,7 +124672,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (124300, 'Pittsfield', 1404, 'NH', 233, 'US', '43.30591000', '-71.32423000', '2019-10-05 19:34:04', '2019-10-05 19:34:04', 1, 'Q920784'),
 (124301, 'Pittsfield', 1441, 'WI', 233, 'US', '44.59944000', '-88.24510000', '2019-10-05 19:34:04', '2019-10-05 19:34:04', 1, 'Q1887257'),
 (124302, 'Pittsford', 1452, 'NY', 233, 'US', '43.09062000', '-77.51500000', '2019-10-05 19:34:04', '2019-10-05 19:34:04', 1, 'Q175909');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (124303, 'Pittston', 1453, 'ME', 233, 'US', '44.22174000', '-69.75560000', '2019-10-05 19:34:04', '2019-10-05 19:34:04', 1, 'Q3451023'),
 (124304, 'Pittston', 1422, 'PA', 233, 'US', '41.32591000', '-75.78936000', '2019-10-05 19:34:04', '2019-10-05 19:34:04', 1, 'Q1185835'),
 (124305, 'Pittsville', 1401, 'MD', 233, 'US', '38.39539000', '-75.41297000', '2019-10-05 19:34:04', '2019-10-05 19:34:04', 1, 'Q753840'),
@@ -125034,7 +125034,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (124661, 'Prestonsburg', 1419, 'KY', 233, 'US', '37.66565000', '-82.77155000', '2019-10-05 19:34:08', '2019-10-05 19:34:08', 1, 'Q3180286'),
 (124662, 'Pretty Bayou', 1436, 'FL', 233, 'US', '30.19659000', '-85.69660000', '2019-10-05 19:34:08', '2019-10-05 19:34:08', 1, 'Q2303781'),
 (124663, 'Price', 1414, 'UT', 233, 'US', '39.59941000', '-110.81071000', '2019-10-05 19:34:08', '2019-10-05 19:34:08', 1, 'Q482891');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (124664, 'Price County', 1441, 'WI', 233, 'US', '45.68038000', '-90.36137000', '2019-10-05 19:34:08', '2019-10-05 19:34:08', 1, 'Q505644'),
 (124665, 'Prices Fork', 1427, 'VA', 233, 'US', '37.20985000', '-80.49005000', '2019-10-05 19:34:08', '2019-10-05 19:34:08', 1, 'Q3475081'),
 (124666, 'Priceville', 1456, 'AL', 233, 'US', '34.52509000', '-86.89473000', '2019-10-05 19:34:08', '2019-10-05 19:34:08', 1, 'Q67288'),
@@ -125399,7 +125399,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (125025, 'Rensselaer County', 1452, 'NY', 233, 'US', '42.71105000', '-73.50972000', '2019-10-05 19:34:12', '2019-10-05 19:34:12', 1, 'Q156566'),
 (125026, 'Renton', 1462, 'WA', 233, 'US', '47.48288000', '-122.21707000', '2019-10-05 19:34:12', '2019-10-05 19:34:12', 1, 'Q679952'),
 (125027, 'Renville', 1420, 'MN', 233, 'US', '44.78913000', '-95.21167000', '2019-10-05 19:34:12', '2019-10-05 19:34:12', 1, 'Q2229289');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (125028, 'Renville County', 1420, 'MN', 233, 'US', '44.72681000', '-94.94714000', '2019-10-05 19:34:12', '2019-10-05 19:34:12', 1, 'Q188275'),
 (125029, 'Renville County', 1418, 'ND', 233, 'US', '48.71907000', '-101.65778000', '2019-10-05 19:34:12', '2019-10-05 19:34:12', 1, 'Q48831'),
 (125030, 'Republic', 1451, 'MO', 233, 'US', '37.12005000', '-93.48019000', '2019-10-05 19:34:12', '2019-10-05 19:34:12', 1, 'Q267220'),
@@ -125764,7 +125764,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (125389, 'Roodhouse', 1425, 'IL', 233, 'US', '39.48394000', '-90.37151000', '2019-10-05 19:36:06', '2019-10-05 19:36:06', 1, 'Q577382'),
 (125390, 'Rooks County', 1406, 'KS', 233, 'US', '39.35023000', '-99.32505000', '2019-10-05 19:36:06', '2019-10-05 19:36:06', 1, 'Q379665'),
 (125391, 'Roosevelt', 1452, 'NY', 233, 'US', '40.67871000', '-73.58902000', '2019-10-05 19:36:06', '2019-10-05 19:36:06', 1, 'Q3451834');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (125392, 'Roosevelt', 1414, 'UT', 233, 'US', '40.29940000', '-109.98876000', '2019-10-05 19:36:06', '2019-10-05 19:36:06', 1, 'Q129946'),
 (125393, 'Roosevelt County', 1423, 'NM', 233, 'US', '34.02127000', '-103.48018000', '2019-10-05 19:36:06', '2019-10-05 19:36:06', 1, 'Q487534'),
 (125394, 'Roosevelt County', 1446, 'MT', 233, 'US', '48.29455000', '-105.01652000', '2019-10-05 19:36:06', '2019-10-05 19:36:06', 1, 'Q496751'),
@@ -126126,7 +126126,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (125750, 'Saline County', 1425, 'IL', 233, 'US', '37.75318000', '-88.54080000', '2019-10-05 19:36:10', '2019-10-05 19:36:10', 1, 'Q484224'),
 (125751, 'Saline County', 1406, 'KS', 233, 'US', '38.78381000', '-97.64993000', '2019-10-05 19:36:10', '2019-10-05 19:36:10', 1, 'Q375991'),
 (125752, 'Saline County', 1451, 'MO', 233, 'US', '39.13684000', '-93.20185000', '2019-10-05 19:36:10', '2019-10-05 19:36:10', 1, 'Q489793');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (125753, 'Saline County', 1408, 'NE', 233, 'US', '40.52406000', '-97.14091000', '2019-10-05 19:36:10', '2019-10-05 19:36:10', 1, 'Q496045'),
 (125754, 'Salisbury', 1401, 'MD', 233, 'US', '38.36067000', '-75.59937000', '2019-10-05 19:36:10', '2019-10-05 19:36:10', 1, 'Q755566'),
 (125755, 'Salisbury', 1451, 'MO', 233, 'US', '39.42392000', '-92.80158000', '2019-10-05 19:36:10', '2019-10-05 19:36:10', 1, 'Q960104'),
@@ -126489,7 +126489,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (126112, 'Secaucus', 1417, 'NJ', 233, 'US', '40.78955000', '-74.05653000', '2019-10-05 19:36:14', '2019-10-05 19:36:14', 1, 'Q1013249'),
 (126113, 'Security-Widefield', 1450, 'CO', 233, 'US', '38.74728000', '-104.71439000', '2019-10-05 19:36:14', '2019-10-05 19:36:14', 1, 'Q2534229'),
 (126114, 'Sedalia', 1451, 'MO', 233, 'US', '38.70446000', '-93.22826000', '2019-10-05 19:36:14', '2019-10-05 19:36:14', 1, 'Q966486');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (126115, 'Sedan', 1406, 'KS', 233, 'US', '37.12672000', '-96.18694000', '2019-10-05 19:36:14', '2019-10-05 19:36:14', 1, 'Q1931571'),
 (126116, 'Sedco Hills', 1416, 'CA', 233, 'US', '33.64169000', '-117.29087000', '2019-10-05 19:36:14', '2019-10-05 19:36:14', 1, 'Q1900684'),
 (126117, 'Sedgwick', 1406, 'KS', 233, 'US', '37.91668000', '-97.42254000', '2019-10-05 19:36:14', '2019-10-05 19:36:14', 1, 'Q2573443'),
@@ -126853,7 +126853,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (126475, 'Skagway Municipality', 1400, 'AK', 233, 'US', '59.46852000', '-135.30596000', '2019-10-05 19:36:19', '2019-10-05 19:36:19', 1, 'Q113892'),
 (126476, 'Skamania County', 1462, 'WA', 233, 'US', '46.02276000', '-121.91510000', '2019-10-05 19:36:19', '2019-10-05 19:36:19', 1, 'Q304791'),
 (126477, 'Skaneateles', 1452, 'NY', 233, 'US', '42.94701000', '-76.42910000', '2019-10-05 19:36:19', '2019-10-05 19:36:19', 1, 'Q2380873');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (126478, 'Skiatook', 1421, 'OK', 233, 'US', '36.36842000', '-96.00138000', '2019-10-05 19:36:19', '2019-10-05 19:36:19', 1, 'Q2539627'),
 (126479, 'Skidaway Island', 1455, 'GA', 233, 'US', '31.93494000', '-81.04705000', '2019-10-05 19:36:19', '2019-10-05 19:36:19', 1, 'Q1849112'),
 (126480, 'Skidway Lake', 1426, 'MI', 233, 'US', '44.18335000', '-84.03527000', '2019-10-05 19:36:19', '2019-10-05 19:36:19', 1, 'Q2147381'),
@@ -127213,7 +127213,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (126834, 'Spicer', 1420, 'MN', 233, 'US', '45.23302000', '-94.94001000', '2019-10-05 19:36:28', '2019-10-05 19:36:28', 1, 'Q2088811'),
 (126835, 'Spindale', 1447, 'NC', 233, 'US', '35.36012000', '-81.92927000', '2019-10-05 19:36:28', '2019-10-05 19:36:28', 1, 'Q2023604'),
 (126836, 'Spink County', 1445, 'SD', 233, 'US', '44.93802000', '-98.34619000', '2019-10-05 19:36:28', '2019-10-05 19:36:28', 1, 'Q495239');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (126837, 'Spinnerstown', 1422, 'PA', 233, 'US', '40.43899000', '-75.43712000', '2019-10-05 19:36:28', '2019-10-05 19:36:28', 1, 'Q6133264'),
 (126838, 'Spirit Lake', 1459, 'IA', 233, 'US', '43.42218000', '-95.10222000', '2019-10-05 19:36:28', '2019-10-05 19:36:28', 1, 'Q989683'),
 (126839, 'Spirit Lake', 1460, 'ID', 233, 'US', '47.96629000', '-116.86853000', '2019-10-05 19:36:28', '2019-10-05 19:36:28', 1, 'Q1519632'),
@@ -127577,7 +127577,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (127197, 'Sulphur Springs', 1407, 'TX', 233, 'US', '33.13845000', '-95.60107000', '2019-10-05 19:36:35', '2019-10-05 19:36:35', 1, 'Q978175'),
 (127198, 'Sultan', 1462, 'WA', 233, 'US', '47.86260000', '-121.81651000', '2019-10-05 19:36:35', '2019-10-05 19:36:35', 1, 'Q1505643'),
 (127199, 'Sumas', 1462, 'WA', 233, 'US', '49.00012000', '-122.26488000', '2019-10-05 19:36:35', '2019-10-05 19:36:35', 1, 'Q1510124');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (127200, 'Sumiton', 1456, 'AL', 233, 'US', '33.75566000', '-87.05000000', '2019-10-05 19:36:35', '2019-10-05 19:36:35', 1, 'Q79251'),
 (127201, 'Summerdale', 1456, 'AL', 233, 'US', '30.48770000', '-87.69971000', '2019-10-05 19:36:35', '2019-10-05 19:36:35', 1, 'Q66937'),
 (127202, 'Summerfield', 1447, 'NC', 233, 'US', '36.20875000', '-79.90476000', '2019-10-05 19:36:35', '2019-10-05 19:36:35', 1, 'Q581164'),
@@ -127942,7 +127942,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (127561, 'The Hills', 1407, 'TX', 233, 'US', '30.34798000', '-97.98501000', '2019-10-05 19:36:40', '2019-10-05 19:36:40', 1, 'Q2533757'),
 (127562, 'The Meadows', 1436, 'FL', 233, 'US', '27.36171000', '-82.46898000', '2019-10-05 19:36:40', '2019-10-05 19:36:40', 1, 'Q2570555'),
 (127563, 'The Pinery', 1450, 'CO', 233, 'US', '39.45527000', '-104.73442000', '2019-10-05 19:36:40', '2019-10-05 19:36:40', 1, 'Q534029');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (127564, 'The Village', 1421, 'OK', 233, 'US', '35.56089000', '-97.55143000', '2019-10-05 19:36:40', '2019-10-05 19:36:40', 1, 'Q3240968'),
 (127565, 'The Villages', 1436, 'FL', 233, 'US', '28.93408000', '-81.95994000', '2019-10-05 19:36:40', '2019-10-05 19:36:40', 1, 'Q3240968'),
 (127566, 'The Woodlands', 1407, 'TX', 233, 'US', '30.15799000', '-95.48938000', '2019-10-05 19:36:40', '2019-10-05 19:36:40', 1, 'Q982421'),
@@ -128308,7 +128308,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (127926, 'Twin Grove', 1425, 'IL', 233, 'US', '40.49337000', '-89.07980000', '2019-10-05 19:36:47', '2019-10-05 19:36:47', 1, 'Q7858172'),
 (127927, 'Twin Lake', 1426, 'MI', 233, 'US', '43.36279000', '-86.16478000', '2019-10-05 19:36:47', '2019-10-05 19:36:47', 1, 'Q1851641'),
 (127928, 'Twin Lakes', 1436, 'FL', 233, 'US', '26.18092000', '-80.16005000', '2019-10-05 19:36:47', '2019-10-05 19:36:47', 1, 'Q2740043');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (127929, 'Twin Lakes', 1441, 'WI', 233, 'US', '42.53113000', '-88.24815000', '2019-10-05 19:36:47', '2019-10-05 19:36:47', 1, 'Q2097652'),
 (127930, 'Twin Lakes', 1416, 'CA', 233, 'US', '36.96745000', '-121.99802000', '2019-10-05 19:36:47', '2019-10-05 19:36:47', 1, 'Q2133403'),
 (127931, 'Twin Lakes', 1450, 'CO', 233, 'US', '39.82499000', '-105.00470000', '2019-10-05 19:36:47', '2019-10-05 19:36:47', 1, 'Q1901403'),
@@ -128672,7 +128672,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (128289, 'Virginia City', 1446, 'MT', 233, 'US', '45.29381000', '-111.94609000', '2019-10-05 19:36:53', '2019-10-05 19:36:53', 1, 'Q955580'),
 (128290, 'Virginia City', 1458, 'NV', 233, 'US', '39.30963000', '-119.64962000', '2019-10-05 19:36:53', '2019-10-05 19:36:53', 1, 'Q987262'),
 (128291, 'Virginia Gardens', 1436, 'FL', 233, 'US', '25.81038000', '-80.30227000', '2019-10-05 19:36:53', '2019-10-05 19:36:53', 1, 'Q2232282');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (128292, 'Viroqua', 1441, 'WI', 233, 'US', '43.55692000', '-90.88874000', '2019-10-05 19:36:53', '2019-10-05 19:36:53', 1, 'Q1569775'),
 (128293, 'Visalia', 1416, 'CA', 233, 'US', '36.33023000', '-119.29206000', '2019-10-05 19:36:53', '2019-10-05 19:36:53', 1, 'Q495373'),
 (128294, 'Visitacion Valley', 1416, 'CA', 233, 'US', '37.71715000', '-122.40433000', '2019-10-05 19:36:53', '2019-10-05 19:36:53', 1, 'Q495373'),
@@ -129036,7 +129036,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (128652, 'Waukon', 1459, 'IA', 233, 'US', '43.26942000', '-91.47570000', '2019-10-05 19:36:58', '2019-10-05 19:36:58', 1, 'Q990893'),
 (128653, 'Wauna', 1462, 'WA', 233, 'US', '47.37899000', '-122.64263000', '2019-10-05 19:36:58', '2019-10-05 19:36:58', 1, 'Q6166578'),
 (128654, 'Waunakee', 1441, 'WI', 233, 'US', '43.19194000', '-89.45567000', '2019-10-05 19:36:58', '2019-10-05 19:36:58', 1, 'Q1246532');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (128655, 'Waupaca', 1441, 'WI', 233, 'US', '44.35803000', '-89.08595000', '2019-10-05 19:36:58', '2019-10-05 19:36:58', 1, 'Q1569794'),
 (128656, 'Waupaca County', 1441, 'WI', 233, 'US', '44.47043000', '-88.96482000', '2019-10-05 19:36:58', '2019-10-05 19:36:58', 1, 'Q500854'),
 (128657, 'Waupun', 1441, 'WI', 233, 'US', '43.63332000', '-88.72955000', '2019-10-05 19:36:58', '2019-10-05 19:36:58', 1, 'Q1570163'),
@@ -129397,7 +129397,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (129012, 'Westborough', 1433, 'MA', 233, 'US', '42.26954000', '-71.61618000', '2019-10-05 19:37:02', '2019-10-05 19:37:02', 1, 'Q386170'),
 (129013, 'Westbrook', 1453, 'ME', 233, 'US', '43.67703000', '-70.37116000', '2019-10-05 19:37:02', '2019-10-05 19:37:02', 1, 'Q663724'),
 (129014, 'Westbrook Center', 1435, 'CT', 233, 'US', '41.27997000', '-72.44254000', '2019-10-05 19:37:02', '2019-10-05 19:37:02', 1, 'Q755283');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (129015, 'Westbury', 1452, 'NY', 233, 'US', '40.75566000', '-73.58763000', '2019-10-05 19:37:02', '2019-10-05 19:37:02', 1, 'Q282747'),
 (129016, 'Westby', 1441, 'WI', 233, 'US', '43.65692000', '-90.85430000', '2019-10-05 19:37:02', '2019-10-05 19:37:02', 1, 'Q1570381'),
 (129017, 'Westchase', 1436, 'FL', 233, 'US', '28.05502000', '-82.60982000', '2019-10-05 19:37:02', '2019-10-05 19:37:02', 1, 'Q2464007'),
@@ -129760,7 +129760,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (129374, 'Windham County', 1409, 'VT', 233, 'US', '42.99059000', '-72.71384000', '2019-10-05 19:37:07', '2019-10-05 19:37:07', 1, 'Q17174784'),
 (129375, 'Windom', 1420, 'MN', 233, 'US', '43.86635000', '-95.11694000', '2019-10-05 19:37:07', '2019-10-05 19:37:07', 1, 'Q958464'),
 (129376, 'Window Rock', 1434, 'AZ', 233, 'US', '35.68057000', '-109.05259000', '2019-10-05 19:37:07', '2019-10-05 19:37:07', 1, 'Q1012668');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (129377, 'Windsor', 1425, 'IL', 233, 'US', '39.44087000', '-88.59478000', '2019-10-05 19:37:08', '2019-10-05 19:37:08', 1, 'Q575938'),
 (129378, 'Windsor', 1447, 'NC', 233, 'US', '35.99849000', '-76.94606000', '2019-10-05 19:37:08', '2019-10-05 19:37:08', 1, 'Q2027103'),
 (129379, 'Windsor', 1451, 'MO', 233, 'US', '38.53224000', '-93.52215000', '2019-10-05 19:37:08', '2019-10-05 19:37:08', 1, 'Q958551'),
@@ -130126,7 +130126,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (129739, 'Zapata', 1407, 'TX', 233, 'US', '26.90726000', '-99.27143000', '2019-10-05 19:37:12', '2019-10-05 19:37:12', 1, 'Q967558'),
 (129740, 'Zapata County', 1407, 'TX', 233, 'US', '27.00078000', '-99.16861000', '2019-10-05 19:37:12', '2019-10-05 19:37:12', 1, 'Q109298'),
 (129741, 'Zavala County', 1407, 'TX', 233, 'US', '28.86621000', '-99.76060000', '2019-10-05 19:37:12', '2019-10-05 19:37:12', 1, 'Q110407');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (129742, 'Zebulon', 1455, 'GA', 233, 'US', '33.10235000', '-84.34270000', '2019-10-05 19:37:12', '2019-10-05 19:37:12', 1, 'Q169530'),
 (129743, 'Zebulon', 1447, 'NC', 233, 'US', '35.82432000', '-78.31472000', '2019-10-05 19:37:12', '2019-10-05 19:37:12', 1, 'Q169536'),
 (129744, 'Zeeland', 1426, 'MI', 233, 'US', '42.81252000', '-86.01865000', '2019-10-05 19:37:12', '2019-10-05 19:37:12', 1, 'Q1840466'),
@@ -130493,7 +130493,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (130105, 'Mariara', 2040, 'G', 239, 'VE', '10.29532000', '-67.71770000', '2019-10-05 19:37:14', '2019-10-05 19:37:14', 1, 'Q1816684'),
 (130106, 'Maroa', 2044, 'Z', 239, 'VE', '2.71880000', '-67.56046000', '2019-10-05 19:37:14', '2019-10-05 19:37:14', 1, 'Q685198'),
 (130107, 'Maturín', 2054, 'N', 239, 'VE', '9.74569000', '-63.18323000', '2019-10-05 19:37:14', '2020-05-01 13:23:27', 1, 'Q842779');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (130108, 'Morón', 2040, 'G', 239, 'VE', '10.48715000', '-68.20078000', '2019-10-05 19:37:14', '2020-05-01 13:23:27', 1, 'Q452706'),
 (130109, 'Mucumpiz', 2053, 'L', 239, 'VE', '8.41667000', '-71.13333000', '2019-10-05 19:37:14', '2019-10-05 19:37:14', 1, 'Q31960357'),
 (130110, 'Municipio Autónomo Alto Orinoco', 2044, 'Z', 239, 'VE', '2.73456000', '-64.83032000', '2019-10-05 19:37:14', '2020-05-01 13:23:27', 1, 'Q31960357'),
@@ -130849,7 +130849,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (130460, 'Huyện Tiểu Cần', 3805, '51', 240, 'VN', '9.80350000', '106.20594000', '2019-10-05 19:37:16', '2020-05-01 13:23:27', 1, 'Q3711538'),
 (130461, 'Huyện Tri Tôn', 3794, '44', 240, 'VN', '10.41416000', '104.96136000', '2019-10-05 19:37:16', '2020-05-01 13:23:27', 1, 'Q1320227'),
 (130462, 'Huyện Triệu Phong', 3803, '25', 240, 'VN', '16.78132000', '107.16034000', '2019-10-05 19:37:16', '2020-05-01 13:23:27', 1, 'Q1320227');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (130463, 'Huyện Triệu Sơn', 3771, '21', 240, 'VN', '19.82578000', '105.58293000', '2019-10-05 19:37:16', '2020-05-01 13:23:27', 1, 'Q1320227'),
 (130464, 'Huyện Trà Bồng', 3828, '29', 240, 'VN', '15.23752000', '108.52633000', '2019-10-05 19:37:16', '2020-05-01 13:23:27', 1, 'Q1320227'),
 (130465, 'Huyện Trà Cú', 3805, '51', 240, 'VN', '9.69706000', '106.29423000', '2019-10-05 19:37:16', '2020-05-01 13:23:27', 1, 'Q7831038'),
@@ -131213,7 +131213,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (130823, 'Bayt al Faqīh', 1241, 'HU', 245, 'YE', '14.48738000', '43.27815000', '2019-10-05 19:37:22', '2020-05-01 13:23:27', 1, 'Q4874935'),
 (130824, 'Bidbadah', 1234, 'MA', 245, 'YE', '15.39810000', '44.74730000', '2019-10-05 19:37:22', '2019-10-05 19:37:22', 1, 'Q4117653'),
 (130825, 'Bilad Ar Rus', 1236, 'SN', 245, 'YE', '15.03510000', '44.25140000', '2019-10-05 19:37:22', '2019-10-05 19:37:22', 1, 'Q4907490');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (130826, 'Bilad At Ta\'am', 1248, 'RA', 245, 'YE', '14.83820000', '43.60780000', '2019-10-05 19:37:22', '2019-10-05 19:37:22', 1, 'Q4117553'),
 (130827, 'Brom Mayfa', 1238, 'HD', 245, 'YE', '14.34230000', '48.72810000', '2019-10-05 19:37:22', '2019-10-05 19:37:22', 1, 'Q4117805'),
 (130828, 'Bura', 1241, 'HU', 245, 'YE', '14.89820000', '43.47530000', '2019-10-05 19:37:22', '2019-10-05 19:37:22', 1, 'Q4117582'),
@@ -131579,7 +131579,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (131188, 'Mossel Bay', 939, 'WC', 204, 'ZA', '-34.18307000', '22.14605000', '2019-10-05 19:37:24', '2019-10-05 19:37:24', 1, 'Q995615'),
 (131189, 'Mpophomeni', 935, 'KZN', 204, 'ZA', '-29.56822000', '30.18618000', '2019-10-05 19:37:24', '2020-08-02 07:59:09', 1, 'Q2491104'),
 (131190, 'Mpumalanga', 935, 'KZN', 204, 'ZA', '-29.81292000', '30.63646000', '2019-10-05 19:37:24', '2020-08-02 07:59:09', 1, 'Q1005268');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (131191, 'Mthatha', 938, 'EC', 204, 'ZA', '-31.58893000', '28.78443000', '2019-10-05 19:37:24', '2019-10-05 19:37:24', 1, 'Q1020914'),
 (131192, 'Mtubatuba', 935, 'KZN', 204, 'ZA', '-28.41789000', '32.18483000', '2019-10-05 19:37:24', '2020-08-02 07:59:09', 1, 'Q1013531'),
 (131193, 'Muldersdriseloop', 936, 'GP', 204, 'ZA', '-26.03673000', '27.83798000', '2019-10-05 19:37:24', '2020-08-02 07:59:19', 1, 'Q1013531'),
@@ -131942,7 +131942,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (131550, 'Chikitigarh', 4013, 'OR', 101, 'IN', '19.20233000', '84.61450000', '2019-10-05 19:38:35', '2019-10-05 19:38:35', 1, 'Q1105855'),
 (131551, 'Chikkaballapur', 4026, 'KA', 101, 'IN', '13.55000000', '77.87000000', '2019-10-05 19:38:35', '2019-10-05 19:38:35', 1, 'Q1072629'),
 (131552, 'Chikmagalur', 4026, 'KA', 101, 'IN', '13.49000000', '75.73000000', '2019-10-05 19:38:35', '2019-10-05 19:38:35', 1, 'Q743077');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (131553, 'Chikmagalūr', 4026, 'KA', 101, 'IN', '13.32231000', '75.77400000', '2019-10-05 19:38:35', '2020-05-01 13:22:52', 1, 'Q743077'),
 (131554, 'Chiknāyakanhalli', 4026, 'KA', 101, 'IN', '13.41609000', '76.62063000', '2019-10-05 19:38:35', '2020-05-01 13:22:52', 1, 'Q1105843'),
 (131555, 'Chikodi', 4026, 'KA', 101, 'IN', '16.42898000', '74.58591000', '2019-10-05 19:38:35', '2019-10-05 19:38:35', 1, 'Q1105246'),
@@ -132314,7 +132314,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (131922, 'Garhwa', 4025, 'JH', 101, 'IN', '24.07494000', '83.71023000', '2019-10-05 19:38:38', '2019-10-05 19:38:38', 1, 'Q1655903'),
 (131923, 'Garhwāl', 4016, 'UT', 101, 'IN', '29.96366000', '78.92853000', '2019-10-05 19:38:38', '2020-05-01 13:22:53', 1, 'Q2085474'),
 (131924, 'Garhākota', 4039, 'MP', 101, 'IN', '23.77910000', '79.14321000', '2019-10-05 19:38:38', '2020-05-01 13:22:52', 1, 'Q1655893');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (131925, 'Gariadhar', 4030, 'GJ', 101, 'IN', '21.53889000', '71.57737000', '2019-10-05 19:38:38', '2019-10-05 19:38:38', 1, 'Q536870'),
 (131926, 'Gariāband', 4040, 'CT', 101, 'IN', '20.63323000', '82.06221000', '2019-10-05 19:38:38', '2020-05-01 13:22:52', 1, 'Q536870'),
 (131927, 'Gaurela', 4040, 'CT', 101, 'IN', '22.75449000', '81.90107000', '2019-10-05 19:38:38', '2019-10-05 19:38:38', 1, 'Q536870'),
@@ -132687,7 +132687,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (132295, 'Jorhāt', 4027, 'AS', 101, 'IN', '26.75751000', '94.20306000', '2019-10-05 19:38:40', '2020-05-01 13:22:52', 1, 'Q1937201'),
 (132296, 'Joshīmath', 4016, 'UT', 101, 'IN', '30.55543000', '79.56436000', '2019-10-05 19:38:40', '2020-05-01 13:22:53', 1, 'Q1026878'),
 (132297, 'Jua', 4009, 'GA', 101, 'IN', '15.53070000', '73.95047000', '2019-10-05 19:38:40', '2019-10-05 19:38:40', 1, 'Q1026878');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (132298, 'Jubbal', 4020, 'HP', 101, 'IN', '31.10923000', '77.65085000', '2019-10-05 19:38:40', '2019-10-05 19:38:40', 1, 'Q2286859'),
 (132299, 'Jugsālai', 4025, 'JH', 101, 'IN', '22.77668000', '86.18351000', '2019-10-05 19:38:40', '2020-05-01 13:22:52', 1, 'Q2558165'),
 (132300, 'Jumri Tilaiyā', 4025, 'JH', 101, 'IN', '24.43490000', '85.52951000', '2019-10-05 19:38:40', '2020-05-01 13:22:52', 1, 'Q2355907'),
@@ -133060,7 +133060,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (132668, 'Kushālnagar', 4026, 'KA', 101, 'IN', '12.45795000', '75.95904000', '2019-10-05 19:38:43', '2020-05-01 13:22:52', 1, 'Q254885'),
 (132669, 'Kutiatodu', 4028, 'KL', 101, 'IN', '9.80000000', '76.33333000', '2019-10-05 19:38:43', '2019-10-05 19:38:43', 1, 'Q254885'),
 (132670, 'Kutiyana', 4030, 'GJ', 101, 'IN', '21.62410000', '69.98494000', '2019-10-05 19:38:43', '2020-06-14 11:26:38', 1, 'Q2238993');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (132671, 'Kuttampuzha', 4028, 'KL', 101, 'IN', '10.15033000', '76.73544000', '2019-10-05 19:38:43', '2019-10-05 19:38:43', 1, 'Q2238993'),
 (132672, 'Kuttālam', 4035, 'TN', 101, 'IN', '8.93030000', '77.26951000', '2019-10-05 19:38:44', '2020-05-01 13:22:53', 1, 'Q2238993'),
 (132673, 'Kuzhithurai', 4035, 'TN', 101, 'IN', '8.31792000', '77.19192000', '2019-10-05 19:38:44', '2019-10-05 19:38:44', 1, 'Q2230820'),
@@ -133433,7 +133433,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (133042, 'Murwāra', 4039, 'MP', 101, 'IN', '23.83776000', '80.39405000', '2019-10-05 19:38:47', '2020-05-01 13:22:52', 1, 'Q172581'),
 (133043, 'Murādnagar', 4022, 'UP', 101, 'IN', '28.78069000', '77.49865000', '2019-10-05 19:38:47', '2020-05-01 13:22:53', 1, 'Q2450981'),
 (133044, 'Mushābani', 4025, 'JH', 101, 'IN', '22.51135000', '86.45713000', '2019-10-05 19:38:47', '2020-05-01 13:22:52', 1, 'Q2738423');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (133045, 'Musiri', 4035, 'TN', 101, 'IN', '10.95299000', '78.44427000', '2019-10-05 19:38:47', '2019-10-05 19:38:47', 1, 'Q2554808'),
 (133046, 'Mussoorie', 4016, 'UT', 101, 'IN', '30.45498000', '78.07068000', '2019-10-05 19:38:47', '2019-10-05 19:38:47', 1, 'Q668395'),
 (133047, 'Mustafābād', 4007, 'HR', 101, 'IN', '30.20220000', '77.14873000', '2019-10-05 19:38:47', '2020-05-01 13:22:52', 1, 'Q3868703'),
@@ -133805,7 +133805,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (133414, 'Peranāmpattu', 4035, 'TN', 101, 'IN', '12.93430000', '78.71890000', '2019-10-05 19:38:52', '2020-05-01 13:22:53', 1, 'Q638124'),
 (133415, 'Peravurani', 4035, 'TN', 101, 'IN', '10.29035000', '79.20156000', '2019-10-05 19:38:52', '2019-10-05 19:38:52', 1, 'Q2716752'),
 (133416, 'Peren', 4018, 'NL', 101, 'IN', '25.51276000', '93.73716000', '2019-10-05 19:38:52', '2019-10-05 19:38:52', 1, 'Q2716752');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (133417, 'Periyakulam', 4035, 'TN', 101, 'IN', '10.12268000', '77.54372000', '2019-10-05 19:38:53', '2019-10-05 19:38:53', 1, 'Q2543104'),
 (133418, 'Periyanayakkanpalaiyam', 4035, 'TN', 101, 'IN', '11.15255000', '76.95159000', '2019-10-05 19:38:53', '2019-10-05 19:38:53', 1, 'Q2543104'),
 (133419, 'Periyanegamam', 4035, 'TN', 101, 'IN', '10.74317000', '77.10296000', '2019-10-05 19:38:53', '2019-10-05 19:38:53', 1, 'Q2543104'),
@@ -134178,7 +134178,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (133788, 'Sanivārsante', 4026, 'KA', 101, 'IN', '12.72824000', '75.88669000', '2019-10-05 19:38:55', '2020-05-01 13:22:52', 1, 'Q614055'),
 (133789, 'Sankeshwar', 4026, 'KA', 101, 'IN', '16.25649000', '74.48195000', '2019-10-05 19:38:55', '2019-10-05 19:38:55', 1, 'Q721843'),
 (133790, 'Sankheda', 4030, 'GJ', 101, 'IN', '22.17021000', '73.57820000', '2019-10-05 19:38:55', '2019-10-05 19:38:55', 1, 'Q2774237');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (133791, 'Sanquelim', 4009, 'GA', 101, 'IN', '15.56422000', '74.00799000', '2019-10-05 19:38:55', '2019-10-05 19:38:55', 1, 'Q720140'),
 (133792, 'Sant Kabir Nagar', 4022, 'UP', 101, 'IN', '26.79016000', '83.03481000', '2019-10-05 19:38:55', '2019-10-05 19:38:55', 1, 'Q1945445'),
 (133793, 'Sant Ravi Das Nagar', 4022, 'UP', 101, 'IN', '25.35792000', '82.43080000', '2019-10-05 19:38:55', '2019-10-05 19:38:55', 1, 'Q1945445'),
@@ -134550,7 +134550,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (134160, 'Thoubāl', 4010, 'MN', 101, 'IN', '24.63881000', '93.99639000', '2019-10-05 19:38:59', '2020-05-01 13:22:53', 1, 'Q2299080'),
 (134161, 'Thrissur', 4028, 'KL', 101, 'IN', '10.51667000', '76.21667000', '2019-10-05 19:38:59', '2019-10-05 19:38:59', 1, 'Q163798'),
 (134162, 'Thrissur District', 4028, 'KL', 101, 'IN', '10.52022000', '76.22040000', '2019-10-05 19:38:59', '2019-10-05 19:38:59', 1, 'Q2429655');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (134163, 'Thākurganj', 4037, 'BR', 101, 'IN', '26.42742000', '88.13112000', '2019-10-05 19:38:59', '2020-05-01 13:22:52', 1, 'Q720796'),
 (134164, 'Than', 4030, 'GJ', 101, 'IN', '22.57422000', '71.19942000', '2019-10-05 19:38:59', '2020-06-14 11:29:39', 1, 'Q2231030'),
 (134165, 'Thāna Bhawan', 4022, 'UP', 101, 'IN', '29.58605000', '77.41811000', '2019-10-05 19:38:59', '2020-05-01 13:22:53', 1, 'Q2231193'),
@@ -134922,7 +134922,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (134531, 'Nāḩīyat Saddat al Hindīyah', 3955, 'BB', 104, 'IQ', '32.71557000', '44.27857000', '2019-10-05 19:39:02', '2020-05-01 13:22:54', 1, 'Q4404528'),
 (134532, 'Qaḑā’ Kifrī', 3965, 'DI', 104, 'IQ', '34.52289000', '44.85821000', '2019-10-05 19:39:02', '2020-05-01 13:22:54', 1, 'Q4404528'),
 (134533, 'Ramadi', 3964, 'AN', 104, 'IQ', '33.42056000', '43.30778000', '2019-10-05 19:39:02', '2019-10-05 19:39:02', 1, 'Q192961');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (134534, 'Ruwāndiz', 3968, 'AR', 104, 'IQ', '36.61207000', '44.52372000', '2019-10-05 19:39:02', '2020-05-01 13:22:54', 1, 'Q579438'),
 (134535, 'Rāwah', 3964, 'AN', 104, 'IQ', '34.48229000', '41.91898000', '2019-10-05 19:39:02', '2020-05-01 13:22:54', 1, 'Q2354244'),
 (134536, 'Shaqlāwah', 3968, 'AR', 104, 'IQ', '36.40422000', '44.32563000', '2019-10-05 19:39:02', '2020-05-01 13:22:54', 1, 'Q2231235'),
@@ -135285,7 +135285,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (134893, 'Shahrestān-e Hendījān', 3917, '10', 103, 'IR', '30.33333000', '49.60000000', '2019-10-05 19:39:04', '2020-05-01 13:22:54', 1, 'Q721034'),
 (134894, 'Shahrestān-e Herīs', 3944, '01', 103, 'IR', '38.23058000', '46.84011000', '2019-10-05 19:39:04', '2020-05-01 13:22:54', 1, 'Q721034'),
 (134895, 'Shahrestān-e Hīrmand', 3931, '13', 103, 'IR', '31.25000000', '61.61667000', '2019-10-05 19:39:04', '2020-05-01 13:22:54', 1, 'Q721034');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (134896, 'Shahrestān-e Javānrūd', 3919, '17', 103, 'IR', '34.86667000', '46.30000000', '2019-10-05 19:39:04', '2020-05-01 13:22:54', 1, 'Q721034'),
 (134897, 'Shahrestān-e Joghatāy', 3927, '30', 103, 'IR', '36.66667000', '57.03333000', '2019-10-05 19:39:04', '2020-05-01 13:22:54', 1, 'Q721034'),
 (134898, 'Shahrestān-e Jolfā', 3944, '01', 103, 'IR', '38.83343000', '45.91680000', '2019-10-05 19:39:04', '2020-05-01 13:22:54', 1, 'Q721034'),
@@ -135635,7 +135635,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (135242, 'Abbazia Pisani', 1753, '34', 107, 'IT', '45.61270000', '11.85429000', '2019-10-05 19:39:06', '2019-10-05 19:39:06', 1, 'Q3321966'),
 (135243, 'Abbiategrasso', 1705, '25', 107, 'IT', '45.39821000', '8.91678000', '2019-10-05 19:39:06', '2019-10-05 19:39:06', 1, 'Q3321966'),
 (135244, 'Abetone', 1664, '52', 107, 'IT', '44.14595000', '10.66407000', '2019-10-05 19:39:06', '2019-10-05 19:39:06', 1, 'Q3321966');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (135245, 'Abriola', 1706, '77', 107, 'IT', '40.50748000', '15.81310000', '2019-10-05 19:39:06', '2019-10-05 19:39:06', 1, 'Q3321966'),
 (135246, 'Acate', 1709, '82', 107, 'IT', '37.02318000', '14.49302000', '2019-10-05 19:39:06', '2019-10-05 19:39:06', 1, 'Q3321966'),
 (135247, 'Accadia', 1688, '75', 107, 'IT', '41.15768000', '15.33100000', '2019-10-05 19:39:06', '2019-10-05 19:39:06', 1, 'Q3321966'),
@@ -136002,7 +136002,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (135608, 'Arizzano', 1702, '21', 107, 'IT', '45.95738000', '8.58292000', '2019-10-05 19:39:08', '2019-10-05 19:39:08', 1, 'Q18437165'),
 (135609, 'Arlate', 1705, '25', 107, 'IT', '45.72363000', '9.44242000', '2019-10-05 19:39:08', '2019-10-05 19:39:08', 1, 'Q3622781'),
 (135610, 'Arlena di Castro', 1678, '62', 107, 'IT', '42.46559000', '11.82090000', '2019-10-05 19:39:08', '2019-10-05 19:39:08', 1, 'Q3622781');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (135611, 'Arlesega', 1753, '34', 107, 'IT', '45.46126000', '11.71942000', '2019-10-05 19:39:08', '2019-10-05 19:39:08', 1, 'Q18497242'),
 (135612, 'Arluno', 1705, '25', 107, 'IT', '45.50344000', '8.94222000', '2019-10-05 19:39:08', '2019-10-05 19:39:08', 1, 'Q18497242'),
 (135613, 'Armeno', 1702, '21', 107, 'IT', '45.82078000', '8.44557000', '2019-10-05 19:39:08', '2019-10-05 19:39:08', 1, 'Q18497242'),
@@ -136370,7 +136370,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (135975, 'Benevello', 1702, '21', 107, 'IT', '44.62981000', '8.10507000', '2019-10-05 19:39:10', '2019-10-05 19:39:10', 1, 'Q18491454'),
 (135976, 'Benevento', 1669, '72', 107, 'IT', '41.13070000', '14.77816000', '2019-10-05 19:39:10', '2019-10-05 19:39:10', 1, 'Q18491454'),
 (135977, 'Benna', 1702, '21', 107, 'IT', '45.51528000', '8.12409000', '2019-10-05 19:39:10', '2019-10-05 19:39:10', 1, 'Q18491454');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (135978, 'Bentivoglio', 1773, '45', 107, 'IT', '44.63690000', '11.41737000', '2019-10-05 19:39:10', '2019-10-05 19:39:10', 1, 'Q18491454'),
 (135979, 'Berbenno', 1705, '25', 107, 'IT', '45.81478000', '9.57105000', '2019-10-05 19:39:10', '2019-10-05 19:39:10', 1, 'Q18491454'),
 (135980, 'Berbenno di Valtellina', 1705, '25', 107, 'IT', '46.16641000', '9.74734000', '2019-10-05 19:39:10', '2019-10-05 19:39:10', 1, 'Q18491454'),
@@ -136737,7 +136737,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (136341, 'Brisighella', 1773, '45', 107, 'IT', '44.22228000', '11.77358000', '2019-10-05 19:39:13', '2019-10-05 19:39:13', 1, 'Q18505077'),
 (136342, 'Brissago-Valtravaglia', 1705, '25', 107, 'IT', '45.94921000', '8.74590000', '2019-10-05 19:39:13', '2019-10-05 19:39:13', 1, 'Q18505077'),
 (136343, 'Brittoli', 1679, '65', 107, 'IT', '42.31518000', '13.86026000', '2019-10-05 19:39:13', '2019-10-05 19:39:13', 1, 'Q18505077');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (136344, 'Brivio', 1705, '25', 107, 'IT', '45.73725000', '9.44249000', '2019-10-05 19:39:13', '2019-10-05 19:39:13', 1, 'Q18505077'),
 (136345, 'Broccostella', 1678, '62', 107, 'IT', '41.69972000', '13.63531000', '2019-10-05 19:39:13', '2019-10-05 19:39:13', 1, 'Q18505077'),
 (136346, 'Brogliano', 1753, '34', 107, 'IT', '45.58919000', '11.36549000', '2019-10-05 19:39:13', '2019-10-05 19:39:13', 1, 'Q18505077'),
@@ -137101,7 +137101,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (136704, 'Candide', 1753, '34', 107, 'IT', '46.58913000', '12.51476000', '2019-10-05 19:39:15', '2019-10-05 19:39:15', 1, 'Q18501043'),
 (136705, 'Candidoni', 1703, '78', 107, 'IT', '38.50548000', '16.08630000', '2019-10-05 19:39:15', '2019-10-05 19:39:15', 1, 'Q18501043'),
 (136706, 'Candiolo', 1702, '21', 107, 'IT', '44.95858000', '7.59812000', '2019-10-05 19:39:15', '2019-10-05 19:39:15', 1, 'Q18501043');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (136707, 'Canegrate', 1705, '25', 107, 'IT', '45.56825000', '8.92689000', '2019-10-05 19:39:15', '2019-10-05 19:39:15', 1, 'Q18501043'),
 (136708, 'Canelli', 1702, '21', 107, 'IT', '44.72084000', '8.29282000', '2019-10-05 19:39:15', '2019-10-05 19:39:15', 1, 'Q18501043'),
 (136709, 'Canepina', 1678, '62', 107, 'IT', '42.38315000', '12.23179000', '2019-10-05 19:39:15', '2019-10-05 19:39:15', 1, 'Q18501043'),
@@ -137464,7 +137464,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (137066, 'Casette Verdini', 1670, '57', 107, 'IT', '43.25104000', '13.40156000', '2019-10-05 19:39:18', '2019-10-05 19:39:18', 1, 'Q18497123'),
 (137067, 'Casette d\'Ete', 1670, '57', 107, 'IT', '43.25385000', '13.68319000', '2019-10-05 19:39:18', '2019-10-05 19:39:18', 1, 'Q3661732'),
 (137068, 'Casier', 1753, '34', 107, 'IT', '45.64229000', '12.29328000', '2019-10-05 19:39:18', '2019-10-05 19:39:18', 1, 'Q3661732');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (137069, 'Casignana', 1703, '78', 107, 'IT', '38.10187000', '16.08990000', '2019-10-05 19:39:18', '2019-10-05 19:39:18', 1, 'Q3661732'),
 (137070, 'Casina', 1773, '45', 107, 'IT', '44.50982000', '10.49951000', '2019-10-05 19:39:18', '2019-10-05 19:39:18', 1, 'Q3661732'),
 (137071, 'Casine', 1670, '57', 107, 'IT', '43.63165000', '13.14425000', '2019-10-05 19:39:18', '2019-10-05 19:39:18', 1, 'Q18495684'),
@@ -137817,7 +137817,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (137418, 'Cavallino', 1688, '75', 107, 'IT', '40.31020000', '18.20221000', '2019-10-05 19:39:23', '2019-10-05 19:39:23', 1, 'Q18486793'),
 (137419, 'Cavallino', 1753, '34', 107, 'IT', '45.47456000', '12.54855000', '2019-10-05 19:39:23', '2019-10-05 19:39:23', 1, 'Q18503180'),
 (137420, 'Cavallirio', 1702, '21', 107, 'IT', '45.66227000', '8.39694000', '2019-10-05 19:39:23', '2019-10-05 19:39:23', 1, 'Q18503180');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (137421, 'Cavareno', 1725, '32', 107, 'IT', '46.40780000', '11.13934000', '2019-10-05 19:39:23', '2019-10-05 19:39:23', 1, 'Q18503180'),
 (137422, 'Cavargna', 1705, '25', 107, 'IT', '46.09068000', '9.11205000', '2019-10-05 19:39:23', '2019-10-05 19:39:23', 1, 'Q18503180'),
 (137423, 'Cavaria Con Premezzo', 1705, '25', 107, 'IT', '45.69247000', '8.80299000', '2019-10-05 19:39:23', '2019-10-05 19:39:23', 1, 'Q18503180'),
@@ -138181,7 +138181,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (137781, 'Civiasco', 1702, '21', 107, 'IT', '45.80786000', '8.29386000', '2019-10-05 19:39:26', '2019-10-05 19:39:26', 1, 'Q3678754'),
 (137782, 'Cividale del Friuli', 1756, '36', 107, 'IT', '46.09019000', '13.42861000', '2019-10-05 19:39:26', '2019-10-05 19:39:26', 1, 'Q3678754'),
 (137783, 'Cividate Camuno', 1705, '25', 107, 'IT', '45.94087000', '10.26610000', '2019-10-05 19:39:26', '2019-10-05 19:39:26', 1, 'Q3678754');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (137784, 'Cividate al Piano', 1705, '25', 107, 'IT', '45.55465000', '9.83024000', '2019-10-05 19:39:26', '2019-10-05 19:39:26', 1, 'Q3678754'),
 (137785, 'Civita', 1703, '78', 107, 'IT', '39.82804000', '16.31337000', '2019-10-05 19:39:26', '2019-10-05 19:39:26', 1, 'Q3678754'),
 (137786, 'Civita Castellana', 1678, '62', 107, 'IT', '42.29304000', '12.40885000', '2019-10-05 19:39:26', '2019-10-05 19:39:26', 1, 'Q3678754'),
@@ -138544,7 +138544,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (138143, 'Crespano del Grappa', 1753, '34', 107, 'IT', '45.82793000', '11.83358000', '2019-10-05 19:39:30', '2019-10-05 19:39:30', 1, 'Q18503240'),
 (138144, 'Crespellano', 1773, '45', 107, 'IT', '44.51196000', '11.13224000', '2019-10-05 19:39:30', '2019-10-05 19:39:30', 1, 'Q94795'),
 (138145, 'Crespiatica', 1705, '25', 107, 'IT', '45.35136000', '9.57659000', '2019-10-05 19:39:30', '2019-10-05 19:39:30', 1, 'Q94795');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (138146, 'Crespina', 1664, '52', 107, 'IT', '43.57304000', '10.56431000', '2019-10-05 19:39:30', '2019-10-05 19:39:30', 1, 'Q94795'),
 (138147, 'Crespino', 1753, '34', 107, 'IT', '44.98527000', '11.88958000', '2019-10-05 19:39:30', '2019-10-05 19:39:30', 1, 'Q94795'),
 (138148, 'Cressa', 1702, '21', 107, 'IT', '45.64762000', '8.50942000', '2019-10-05 19:39:30', '2019-10-05 19:39:30', 1, 'Q94795'),
@@ -138914,7 +138914,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (138512, 'Fiesse', 1705, '25', 107, 'IT', '45.23207000', '10.32417000', '2019-10-05 19:39:33', '2019-10-05 19:39:33', 1, 'Q18457570'),
 (138513, 'Fiesso', 1753, '34', 107, 'IT', '45.41954000', '12.03378000', '2019-10-05 19:39:33', '2019-10-05 19:39:33', 1, 'Q18503273'),
 (138514, 'Fiesso Umbertiano', 1753, '34', 107, 'IT', '44.96072000', '11.60576000', '2019-10-05 19:39:33', '2019-10-05 19:39:33', 1, 'Q18503273');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (138515, 'Fiesso d\'Artico', 1753, '34', 107, 'IT', '45.42139000', '12.02944000', '2019-10-05 19:39:33', '2019-10-05 19:39:33', 1, 'Q18503273'),
 (138516, 'Figino', 1705, '25', 107, 'IT', '45.49261000', '9.07779000', '2019-10-05 19:39:33', '2019-10-05 19:39:33', 1, 'Q3744735'),
 (138517, 'Figino Serenza', 1705, '25', 107, 'IT', '45.71048000', '9.13114000', '2019-10-05 19:39:33', '2019-10-05 19:39:33', 1, 'Q3744735'),
@@ -139279,7 +139279,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (138876, 'Gavi', 1702, '21', 107, 'IT', '44.68627000', '8.80717000', '2019-10-05 19:39:39', '2019-10-05 19:39:39', 1, 'Q18468139'),
 (138877, 'Gavignano', 1678, '62', 107, 'IT', '41.69891000', '13.05032000', '2019-10-05 19:39:39', '2019-10-05 19:39:39', 1, 'Q18468139'),
 (138878, 'Gavirate', 1705, '25', 107, 'IT', '45.83707000', '8.72619000', '2019-10-05 19:39:39', '2019-10-05 19:39:39', 1, 'Q18468139');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (138879, 'Gavoi', 1715, '88', 107, 'IT', '40.16130000', '9.19462000', '2019-10-05 19:39:39', '2019-10-05 19:39:39', 1, 'Q18468139'),
 (138880, 'Gavorrano', 1664, '52', 107, 'IT', '42.92526000', '10.90681000', '2019-10-05 19:39:39', '2019-10-05 19:39:39', 1, 'Q18468139'),
 (138881, 'Gazoldo degli Ippoliti', 1705, '25', 107, 'IT', '45.19999000', '10.57839000', '2019-10-05 19:39:39', '2019-10-05 19:39:39', 1, 'Q18468139'),
@@ -139644,7 +139644,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (139240, 'Isola Sant\'Antonio', 1702, '21', 107, 'IT', '45.03019000', '8.84928000', '2019-10-05 19:39:42', '2019-10-05 19:39:42', 1, 'Q16566532'),
 (139241, 'Isola Vicentina', 1753, '34', 107, 'IT', '45.62930000', '11.44608000', '2019-10-05 19:39:42', '2019-10-05 19:39:42', 1, 'Q16566532'),
 (139242, 'Isola d\'Asti', 1702, '21', 107, 'IT', '44.83315000', '8.18024000', '2019-10-05 19:39:42', '2019-10-05 19:39:42', 1, 'Q16566532');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (139243, 'Isola del Cantone', 1768, '42', 107, 'IT', '44.64783000', '8.95746000', '2019-10-05 19:39:42', '2019-10-05 19:39:42', 1, 'Q16566532'),
 (139244, 'Isola del Giglio', 1664, '52', 107, 'IT', '42.35791000', '10.90724000', '2019-10-05 19:39:42', '2019-10-05 19:39:42', 1, 'Q16566532'),
 (139245, 'Isola del Gran Sasso d\'Italia', 1679, '65', 107, 'IT', '42.50324000', '13.65721000', '2019-10-05 19:39:42', '2019-10-05 19:39:42', 1, 'Q16566532'),
@@ -140012,7 +140012,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (139607, 'Lorenzana', 1664, '52', 107, 'IT', '43.53533000', '10.53477000', '2019-10-05 19:39:46', '2019-10-05 19:39:46', 1, 'Q18498276'),
 (139608, 'Loreo', 1753, '34', 107, 'IT', '45.06213000', '12.18812000', '2019-10-05 19:39:46', '2019-10-05 19:39:46', 1, 'Q18498276'),
 (139609, 'Loreto', 1670, '57', 107, 'IT', '43.43617000', '13.61232000', '2019-10-05 19:39:46', '2019-10-05 19:39:46', 1, 'Q18498276');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (139610, 'Loreto Aprutino', 1679, '65', 107, 'IT', '42.43104000', '13.98057000', '2019-10-05 19:39:46', '2019-10-05 19:39:46', 1, 'Q18498276'),
 (139611, 'Loreto Stazione', 1670, '57', 107, 'IT', '43.44792000', '13.62016000', '2019-10-05 19:39:46', '2019-10-05 19:39:46', 1, 'Q18495869'),
 (139612, 'Loria Bessica', 1753, '34', 107, 'IT', '45.73000000', '11.86540000', '2019-10-05 19:39:46', '2019-10-05 19:39:46', 1, 'Q18501921'),
@@ -140377,7 +140377,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (139971, 'Massa Lombarda', 1773, '45', 107, 'IT', '44.44703000', '11.82095000', '2019-10-05 19:39:51', '2019-10-05 19:39:51', 1, 'Q95114'),
 (139972, 'Massa Lubrense', 1669, '72', 107, 'IT', '40.60937000', '14.37202000', '2019-10-05 19:39:51', '2019-10-05 19:39:51', 1, 'Q95114'),
 (139973, 'Massa Marittima', 1664, '52', 107, 'IT', '43.04779000', '10.89293000', '2019-10-05 19:39:51', '2019-10-05 19:39:51', 1, 'Q95114');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (139974, 'Massa Martana', 1683, '55', 107, 'IT', '42.77312000', '12.52579000', '2019-10-05 19:39:51', '2019-10-05 19:39:51', 1, 'Q95114'),
 (139975, 'Massa d\'Albe-Corona', 1679, '65', 107, 'IT', '42.10723000', '13.39429000', '2019-10-05 19:39:51', '2019-10-05 19:39:51', 1, 'Q95114'),
 (139976, 'Massa di Somma', 1669, '72', 107, 'IT', '40.84551000', '14.37513000', '2019-10-05 19:39:51', '2019-10-05 19:39:51', 1, 'Q95114'),
@@ -140742,7 +140742,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (140335, 'Montalto delle Marche', 1670, '57', 107, 'IT', '42.98964000', '13.60820000', '2019-10-05 19:39:57', '2019-10-05 19:39:57', 1, 'Q18485671'),
 (140336, 'Montalto di Castro', 1678, '62', 107, 'IT', '42.34983000', '11.60788000', '2019-10-05 19:39:57', '2019-10-05 19:39:57', 1, 'Q18485671'),
 (140337, 'Montan-Angelin-Arensod', 1716, '23', 107, 'IT', '45.72820000', '7.27647000', '2019-10-05 19:39:57', '2019-10-05 19:39:57', 1, 'Q18495680');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (140338, 'Montanara', 1705, '25', 107, 'IT', '45.13531000', '10.71879000', '2019-10-05 19:39:57', '2019-10-05 19:39:57', 1, 'Q18490615'),
 (140339, 'Montanaro', 1702, '21', 107, 'IT', '45.23274000', '7.85492000', '2019-10-05 19:39:57', '2019-10-05 19:39:57', 1, 'Q18490615'),
 (140340, 'Montanaso Lombardo', 1705, '25', 107, 'IT', '45.33522000', '9.46551000', '2019-10-05 19:39:57', '2019-10-05 19:39:57', 1, 'Q18490615'),
@@ -141100,7 +141100,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (140692, 'Murlo', 1664, '52', 107, 'IT', '43.16114000', '11.38794000', '2019-10-05 19:40:01', '2019-10-05 19:40:01', 1, 'Q18506593'),
 (140693, 'Muro Leccese', 1688, '75', 107, 'IT', '40.10286000', '18.33674000', '2019-10-05 19:40:01', '2019-10-05 19:40:01', 1, 'Q18506593'),
 (140694, 'Muro Lucano', 1706, '77', 107, 'IT', '40.75379000', '15.48808000', '2019-10-05 19:40:01', '2019-10-05 19:40:01', 1, 'Q18506593');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (140695, 'Muros', 1715, '88', 107, 'IT', '40.67902000', '8.61780000', '2019-10-05 19:40:01', '2019-10-05 19:40:01', 1, 'Q18506593'),
 (140696, 'Musano', 1753, '34', 107, 'IT', '45.72646000', '12.11785000', '2019-10-05 19:40:01', '2019-10-05 19:40:01', 1, 'Q3867470'),
 (140697, 'Musci', 1669, '72', 107, 'IT', '40.87861000', '14.36600000', '2019-10-05 19:40:01', '2019-10-05 19:40:01', 1, 'Q18437000'),
@@ -141468,7 +141468,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (141059, 'Ovodda', 1715, '88', 107, 'IT', '40.09525000', '9.16103000', '2019-10-05 19:40:07', '2019-10-05 19:40:07', 1, 'Q3887155'),
 (141060, 'Oyace', 1716, '23', 107, 'IT', '45.85116000', '7.38300000', '2019-10-05 19:40:07', '2019-10-05 19:40:07', 1, 'Q3887155'),
 (141061, 'Ozegna', 1702, '21', 107, 'IT', '45.34801000', '7.74503000', '2019-10-05 19:40:07', '2019-10-05 19:40:07', 1, 'Q3887155');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (141062, 'Ozieri', 1715, '88', 107, 'IT', '40.58630000', '9.00340000', '2019-10-05 19:40:07', '2019-10-05 19:40:07', 1, 'Q3887155'),
 (141063, 'Ozzano Monferrato', 1702, '21', 107, 'IT', '45.10592000', '8.37238000', '2019-10-05 19:40:07', '2019-10-05 19:40:07', 1, 'Q3887155'),
 (141064, 'Ozzano Taro', 1773, '45', 107, 'IT', '44.70969000', '10.14086000', '2019-10-05 19:40:07', '2019-10-05 19:40:07', 1, 'Q18442909'),
@@ -141834,7 +141834,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (141424, 'Kenwood', 4851, 'OH', 233, 'US', '39.21061000', '-84.36716000', '2019-11-13 11:48:05', '2019-11-13 11:48:05', 1, 'Q2502864'),
 (141425, 'Kettering', 4851, 'OH', 233, 'US', '39.68950000', '-84.16883000', '2019-11-13 11:48:05', '2019-11-13 11:48:05', 1, 'Q866307'),
 (141426, 'Kings Mills', 4851, 'OH', 233, 'US', '39.35561000', '-84.24855000', '2019-11-13 11:48:05', '2019-11-13 11:48:05', 1, 'Q3472692');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (141427, 'Kingston', 4851, 'OH', 233, 'US', '39.47395000', '-82.91073000', '2019-11-13 11:48:05', '2019-11-13 11:48:05', 1, 'Q1819555'),
 (141428, 'Kirtland', 4851, 'OH', 233, 'US', '41.62894000', '-81.36150000', '2019-11-13 11:48:05', '2019-11-13 11:48:05', 1, 'Q932039'),
 (141429, 'Knox County', 4851, 'OH', 233, 'US', '40.39877000', '-82.42153000', '2019-11-13 11:48:05', '2019-11-13 11:48:05', 1, 'Q490181'),
@@ -142198,7 +142198,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (141787, 'Walbridge', 4851, 'OH', 233, 'US', '41.58783000', '-83.49327000', '2019-11-13 11:48:10', '2019-11-13 11:48:10', 1, 'Q2674154'),
 (141788, 'Walton Hills', 4851, 'OH', 233, 'US', '41.36561000', '-81.56123000', '2019-11-13 11:48:10', '2019-11-13 11:48:10', 1, 'Q2674130'),
 (141789, 'Wapakoneta', 4851, 'OH', 233, 'US', '40.56783000', '-84.19356000', '2019-11-13 11:48:10', '2019-11-13 11:48:10', 1, 'Q492796');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (141790, 'Warren', 4851, 'OH', 233, 'US', '41.23756000', '-80.81842000', '2019-11-13 11:48:10', '2019-11-13 11:48:10', 1, 'Q862733'),
 (141791, 'Warren County', 4851, 'OH', 233, 'US', '39.42758000', '-84.16676000', '2019-11-13 11:48:10', '2019-11-13 11:48:10', 1, 'Q489576'),
 (141792, 'Warrensville Heights', 4851, 'OH', 233, 'US', '41.43505000', '-81.53623000', '2019-11-13 11:48:10', '2019-11-13 11:48:10', 1, 'Q2076167'),
@@ -142563,7 +142563,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (142151, 'Agua Colorada', 4857, 'JAL', 142, 'MX', '20.94694000', '-103.20611000', '2020-06-28 07:59:13', '2020-06-28 07:59:13', 1, 'Q20217847'),
 (142152, 'Agua Delgada', 4857, 'JAL', 142, 'MX', '20.16222000', '-103.82750000', '2020-06-28 07:59:13', '2020-06-28 07:59:13', 1, 'Q20131482'),
 (142153, 'Agua Escondida', 4857, 'JAL', 142, 'MX', '20.86083000', '-102.72500000', '2020-06-28 07:59:13', '2020-06-28 07:59:13', 1, 'Q20131762');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (142154, 'Agua Fría', 4857, 'JAL', 142, 'MX', '20.58778000', '-102.55833000', '2020-06-28 07:59:13', '2020-06-28 07:59:13', 1, 'Q20131849'),
 (142155, 'Agua Nueva', 4857, 'JAL', 142, 'MX', '20.67889000', '-102.45111000', '2020-06-28 07:59:13', '2020-06-28 07:59:13', 1, 'Q20132183'),
 (142156, 'Agua Paloma', 4857, 'JAL', 142, 'MX', '19.67799000', '-105.18473000', '2020-06-28 07:59:13', '2020-06-28 07:59:13', 1, 'Q20132183'),
@@ -142911,7 +142911,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (142498, 'El Tecolote', 4857, 'JAL', 142, 'MX', '21.20056000', '-102.24583000', '2020-06-28 07:59:15', '2020-06-28 07:59:15', 1, 'Q20257917'),
 (142499, 'El Tecuán', 4857, 'JAL', 142, 'MX', '20.31389000', '-103.73083000', '2020-06-28 07:59:15', '2020-06-28 07:59:15', 1, 'Q20257943'),
 (142500, 'El Tempisque', 4857, 'JAL', 142, 'MX', '20.77861000', '-103.32667000', '2020-06-28 07:59:15', '2020-06-28 07:59:15', 1, 'Q20244029');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (142501, 'El Tepame', 4857, 'JAL', 142, 'MX', '20.56972000', '-103.19444000', '2020-06-28 07:59:15', '2020-06-28 07:59:15', 1, 'Q20244037'),
 (142502, 'El Tepec', 4857, 'JAL', 142, 'MX', '21.84111000', '-103.77389000', '2020-06-28 07:59:15', '2020-06-28 07:59:15', 1, 'Q20281119'),
 (142503, 'El Tepetate', 4857, 'JAL', 142, 'MX', '21.06472000', '-103.77333000', '2020-06-28 07:59:15', '2020-06-28 07:59:15', 1, 'Q20244049'),
@@ -143256,7 +143256,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (142842, 'San José Casas Caídas', 4857, 'JAL', 142, 'MX', '20.42108000', '-102.44066000', '2020-06-28 07:59:17', '2020-06-28 07:59:17', 1, 'Q7414503'),
 (142843, 'San José de la Paz', 4857, 'JAL', 142, 'MX', '20.55094000', '-102.05858000', '2020-06-28 07:59:17', '2020-06-28 07:59:17', 1, 'Q7414503'),
 (142844, 'San José de las Flores', 4857, 'JAL', 142, 'MX', '20.64851000', '-102.96616000', '2020-06-28 07:59:17', '2020-06-28 07:59:17', 1, 'Q7414503');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (142845, 'San José de los Reynoso', 4857, 'JAL', 142, 'MX', '21.02361111', '-102.40583333', '2020-06-28 07:59:17', '2020-06-28 07:59:17', 1, 'Q7414541'),
 (142846, 'San José del Caliche (El Caliche)', 4857, 'JAL', 142, 'MX', '21.12528000', '-101.93000000', '2020-06-28 07:59:17', '2020-06-28 07:59:17', 1, 'Q20291219'),
 (142847, 'San José del Castillo', 4857, 'JAL', 142, 'MX', '20.53333333', '-103.23333333', '2020-06-28 07:59:17', '2020-06-28 07:59:17', 1, 'Q15274845'),
@@ -143611,7 +143611,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (143196, 'Sabana Seca', 1449, 'PR', 233, 'US', '18.42694444', '-66.18472222', '2020-06-28 09:51:34', '2020-06-28 09:51:34', 1, 'Q49364886'),
 (143197, 'Salinas', 1449, 'PR', 233, 'US', '18.01746000', '-66.25378000', '2020-06-28 09:51:34', '2020-06-28 09:51:34', 1, 'Q637330'),
 (143198, 'San Antonio', 1449, 'PR', 233, 'US', '18.45166667', '-66.94972222', '2020-06-28 09:51:34', '2020-06-28 09:51:34', 1, 'Q49366856');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (143199, 'San Germán Municipio', 1449, 'PR', 233, 'US', '18.11468000', '-67.03573000', '2020-06-28 09:51:34', '2020-06-28 09:51:34', 1, 'Q33713968'),
 (143200, 'San Isidro', 1449, 'PR', 233, 'US', '18.39222222', '-65.88555556', '2020-06-28 09:51:34', '2020-06-28 09:51:34', 1, 'Q49366869'),
 (143201, 'San José', 1449, 'PR', 233, 'US', '18.39833333', '-66.25583333', '2020-06-28 09:51:34', '2020-06-28 09:51:34', 1, 'Q49366883'),
@@ -143979,7 +143979,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (143563, 'Póvoa do Concelho', 4859, '09', 177, 'PT', '40.75972222', '-7.26638889', '2020-06-28 10:03:34', '2020-06-28 10:03:34', 1, 'Q2120429'),
 (143564, 'Quadrazais', 4859, '09', 177, 'PT', '40.32472222', '-6.99833333', '2020-06-28 10:03:34', '2020-06-28 10:03:34', 1, 'Q2121936'),
 (143565, 'Queijas', 4859, '09', 177, 'PT', '38.72236000', '-9.26593000', '2020-06-28 10:03:34', '2020-06-28 10:03:34', 1, 'Q49363043');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (143566, 'Queiriz', 4859, '09', 177, 'PT', '40.73596000', '-7.44999000', '2020-06-28 10:03:34', '2020-06-28 10:03:34', 1, 'Q32648'),
 (143567, 'Queluz', 4859, '09', 177, 'PT', '38.75657000', '-9.25451000', '2020-06-28 10:03:34', '2020-06-28 10:03:34', 1, 'Q1003060'),
 (143568, 'Quintas de São Bartolomeu', 4859, '09', 177, 'PT', '40.37138889', '-7.09861111', '2020-06-28 10:03:34', '2020-06-28 10:03:34', 1, 'Q2068343'),
@@ -144344,7 +144344,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (143928, 'Santa Cruz', 1347, '00', 174, 'PH', '14.61810000', '120.98500000', '2020-10-24 11:25:33', '2020-10-24 11:25:33', 1, 'Q3545567'),
 (143929, 'Singkamas', 1347, '00', 174, 'PH', '14.56666667', '121.01666667', '2020-10-24 11:25:33', '2020-10-24 11:25:33', 1, 'Q7523674'),
 (143930, 'Tanza', 1347, '00', 174, 'PH', '14.67530000', '120.93890000', '2020-10-24 11:25:33', '2020-10-24 11:25:33', 1, 'Q7684100');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (143931, 'Tondo', 1347, '00', 174, 'PH', '14.61700000', '120.96700000', '2020-10-24 11:25:33', '2020-10-24 11:25:33', 1, 'Q1287698'),
 (143932, 'Valenzuela', 1347, '00', 174, 'PH', '14.70000000', '120.98333333', '2020-10-24 11:25:33', '2020-10-24 11:25:33', 1, 'Q1623'),
 (143933, 'Cotabato City', 1270, 'BUK', 174, 'PH', '7.21666667', '124.25000000', '2020-10-24 13:26:02', '2020-10-24 13:26:02', 1, 'Q726993'),
@@ -144713,7 +144713,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (144296, 'Simod', 1272, 'BOH', 174, 'PH', '7.47583333', '125.34083333', '2020-10-24 13:45:24', '2020-10-24 13:45:24', 1, 'Q31520487'),
 (144297, 'Sinawilan', 1272, 'BOH', 174, 'PH', '6.75444444', '125.24638889', '2020-10-24 13:45:24', '2020-10-24 13:45:24', 1, 'Q31520851'),
 (144298, 'Sinayawan', 1272, 'BOH', 174, 'PH', '6.71250000', '125.30944444', '2020-10-24 13:45:24', '2020-10-24 13:45:24', 1, 'Q31520866');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (144299, 'Sirib', 1272, 'BOH', 174, 'PH', '7.13333333', '125.40722222', '2020-10-24 13:45:24', '2020-10-24 13:45:24', 1, 'Q31521467'),
 (144300, 'Sugal', 1272, 'BOH', 174, 'PH', '5.66222222', '125.46166667', '2020-10-24 13:45:24', '2020-10-24 13:45:24', 1, 'Q31536125'),
 (144301, 'Sulop', 1272, 'BOH', 174, 'PH', '6.59861000', '125.34361000', '2020-10-24 13:45:24', '2020-10-24 13:45:24', 1, 'Q315014'),
@@ -145082,7 +145082,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (144664, 'Parang', 1279, 'CAG', 174, 'PH', '5.91666667', '120.91666667', '2020-10-24 13:51:08', '2020-10-24 13:51:08', 1, 'Q156208'),
 (144665, 'Parangan', 1279, 'CAG', 174, 'PH', '5.08388889', '119.93833333', '2020-10-24 13:51:08', '2020-10-24 13:51:08', 1, 'Q31463316'),
 (144666, 'Parian Dakula', 1279, 'CAG', 174, 'PH', '5.55666667', '120.77194444', '2020-10-24 13:51:08', '2020-10-24 13:51:08', 1, 'Q31463416');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (144667, 'Pata', 1279, 'CAG', 174, 'PH', '5.84440833', '121.14386111', '2020-10-24 13:51:08', '2020-10-24 13:51:08', 1, 'Q156225'),
 (144668, 'Bugasan', 1279, 'CAG', 174, 'PH', '7.44083333', '124.25916667', '2020-10-24 13:51:08', '2020-10-24 13:51:08', 1, 'Q31516465'),
 (144669, 'Buldon', 1279, 'CAG', 174, 'PH', '7.51666667', '124.36666667', '2020-10-24 13:51:08', '2020-10-24 13:51:08', 1, 'Q212255'),
@@ -145452,7 +145452,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (145033, 'Pangian', 1309, 'DVO', 174, 'PH', '6.46277778', '125.54527778', '2020-10-24 13:53:40', '2020-10-24 13:53:40', 1, 'Q31461924'),
 (145034, 'Panikian', 1309, 'DVO', 174, 'PH', '7.01083333', '126.02416667', '2020-10-24 13:53:40', '2020-10-24 13:53:40', 1, 'Q31462184'),
 (145035, 'Pantukan', 1309, 'DVO', 174, 'PH', '7.15000000', '125.95000000', '2020-10-24 13:53:40', '2020-10-24 13:53:40', 1, 'Q315598');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (145036, 'Pasian', 1309, 'DVO', 174, 'PH', '7.92805556', '126.06722222', '2020-10-24 13:53:40', '2020-10-24 13:53:40', 1, 'Q31463833'),
 (145037, 'Pondaguitan', 1309, 'DVO', 174, 'PH', '6.36111111', '126.17777778', '2020-10-24 13:53:40', '2020-10-24 13:53:40', 1, 'Q31474665'),
 (145038, 'Pung-Pang', 1309, 'DVO', 174, 'PH', '6.49750000', '125.46333333', '2020-10-24 13:53:40', '2020-10-24 13:53:40', 1, 'Q31480296'),
@@ -145818,7 +145818,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (145398, 'Bodega', 1326, 'AGS', 174, 'PH', '14.92277778', '120.47972222', '2020-10-24 13:58:42', '2020-10-24 13:58:42', 1, 'Q31507673'),
 (145399, 'Bolitoc', 1326, 'AGS', 174, 'PH', '15.73944444', '119.87694444', '2020-10-24 13:58:42', '2020-10-24 13:58:42', 1, 'Q31508621'),
 (145400, 'Bongabon', 1326, 'AGS', 174, 'PH', '15.63210000', '121.14480000', '2020-10-24 13:58:42', '2020-10-24 13:58:42', 1, 'Q55544');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (145401, 'Botolan', 1326, 'AGS', 174, 'PH', '15.28960000', '120.02450000', '2020-10-24 13:58:42', '2020-10-24 13:58:42', 1, 'Q56529'),
 (145402, 'Buenlag', 1326, 'AGS', 174, 'PH', '15.62750000', '120.58194444', '2020-10-24 13:58:42', '2020-10-24 13:58:42', 1, 'Q31516154'),
 (145403, 'Buensuseso', 1326, 'AGS', 174, 'PH', '15.19333333', '120.67305556', '2020-10-24 13:58:42', '2020-10-24 13:58:42', 1, 'Q31516171'),
@@ -146182,7 +146182,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (145761, 'Tabon', 1326, 'AGS', 174, 'PH', '15.27111111', '120.91277778', '2020-10-24 13:58:43', '2020-10-24 13:58:43', 1, 'Q31541264'),
 (145762, 'Tabuating', 1326, 'AGS', 174, 'PH', '15.39222222', '120.94083333', '2020-10-24 13:58:43', '2020-10-24 13:58:43', 1, 'Q31541367'),
 (145763, 'Tal I Mun Doc', 1326, 'AGS', 174, 'PH', '15.21222222', '120.68500000', '2020-10-24 13:58:43', '2020-10-24 13:58:43', 1, 'Q31543084');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (145764, 'Talaga', 1326, 'AGS', 174, 'PH', '15.38388889', '120.58944444', '2020-10-24 13:58:43', '2020-10-24 13:58:43', 1, 'Q31543215'),
 (145765, 'Talang', 1326, 'AGS', 174, 'PH', '15.02500000', '120.83777778', '2020-10-24 13:58:43', '2020-10-24 13:58:43', 1, 'Q31543442'),
 (145766, 'Talavera', 1326, 'AGS', 174, 'PH', '15.58388889', '120.91888889', '2020-10-24 13:58:43', '2020-10-24 13:58:43', 1, 'Q55592'),
@@ -146549,7 +146549,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (146127, 'Urdaneta', 1324, 'ABR', 174, 'PH', '15.97611111', '120.57111111', '2020-10-24 14:38:07', '2020-10-24 14:38:07', 1, 'Q43168'),
 (146128, 'Uyong', 1324, 'ABR', 174, 'PH', '16.05000000', '120.12083333', '2020-10-24 14:38:07', '2020-10-24 14:38:07', 1, 'Q31570082'),
 (146129, 'Vigan', 1324, 'ABR', 174, 'PH', '17.57472000', '120.38694000', '2020-10-24 14:38:07', '2020-10-24 14:38:07', 1, 'Q235004');
-INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_on`, `flag`, `wikiDataId`) VALUES
+INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `country_code`, `latitude`, `longitude`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (146130, 'Villasis', 1324, 'ABR', 174, 'PH', '15.90000000', '120.58333333', '2020-10-24 14:38:07', '2020-10-24 14:38:07', 1, 'Q43157'),
 (146131, 'Vintar', 1324, 'ABR', 174, 'PH', '18.22500000', '120.65000000', '2020-10-24 14:38:07', '2020-10-24 14:38:07', 1, 'Q39694'),
 (146132, 'Zaragoza', 1324, 'ABR', 174, 'PH', '16.38722222', '119.94416667', '2020-10-24 14:38:07', '2020-10-24 14:38:07', 1, 'Q31596321'),
@@ -146602,7 +146602,8 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (146179, 'Padukka', 2815, '11', 208, 'LK', '6.84794680', '80.10153292', '2020-10-29 13:51:31', '2020-10-29 15:41:45', 1, 'Q7124001'),
 (146180, 'Kesbewa', 2815, '11', 208, 'LK', '6.78425894', '79.94665276', '2020-10-29 13:51:31', '2020-10-29 15:39:34', 1, 'Q6394911'),
 (146181, 'Kaduwela', 2815, '11', 208, 'LK', '6.93106260', '79.97944220', '2020-10-29 13:51:31', '2020-10-29 15:31:18', 1, 'Q6345805'),
-(146182, 'Reghin', 4760, 'MM', 181, 'RO', '46.77238770', '24.66945610', '2020-12-05 13:21:35', '2020-12-05 13:21:35', 1, 'Q572478');
+(146182, 'Reghin', 4760, 'MM', 181, 'RO', '46.77238770', '24.66945610', '2020-12-05 13:21:35', '2020-12-05 13:21:35', 1, 'Q572478'),
+(146184, 'Shumen', 4882, '27', 34, 'BG', '43.28333300', '26.93333300', '2021-01-23 10:40:52', '2021-01-23 10:41:02', 1, 'Q181830');
 
 -- --------------------------------------------------------
 
@@ -150648,7 +150649,7 @@ INSERT INTO `states` (`id`, `name`, `country_id`, `country_code`, `fips_code`, `
 (3720, 'Rasina District', 196, 'RS', 'SE', '19', '43.52635250', '21.15881780', '2019-10-05 17:48:55', '2020-12-21 15:50:25', 1, 'Q1043446'),
 (3721, 'Pčinja District', 196, 'RS', 'SE', '24', '42.58363620', '22.14302150', '2019-10-05 17:48:55', '2020-12-21 15:50:25', 1, 'Q1061099'),
 (3722, 'Nišava District', 196, 'RS', 'SE', '20', '43.37389020', '21.93223310', '2019-10-05 17:48:55', '2020-12-21 15:50:25', 1, 'Q1061076'),
-(3723, 'Prizren District', 248, 'XK', NULL, NULL, '42.21525220', '20.74147720', '2019-10-05 17:48:55', '2020-12-21 15:50:23', 1, 'Q201085'),
+(3723, 'Prizren District', 248, 'XK', NULL, 'XPR', '42.21525220', '20.74147720', '2019-10-05 17:48:55', '2021-01-23 11:52:40', 1, 'Q201085'),
 (3724, 'Kolubara District', 196, 'RS', 'SE', '09', '44.35098110', '20.00043050', '2019-10-05 17:48:55', '2020-12-21 15:50:25', 1, 'Q1048139'),
 (3725, 'Raška District', 196, 'RS', 'SE', '18', '43.33734610', '20.57340050', '2019-10-05 17:48:55', '2020-12-21 15:50:25', 1, 'Q1061082'),
 (3726, 'West Bačka District', 196, 'RS', 'SE', '05', '45.73553850', '19.18973640', '2019-10-05 17:48:55', '2020-12-21 15:50:25', 1, 'Q735169'),
@@ -150661,7 +150662,7 @@ INSERT INTO `states` (`id`, `name`, `country_id`, `country_code`, `fips_code`, `
 (3734, 'Šumadija District', 196, 'RS', 'VO', '12', '44.20506780', '20.78565650', '2019-10-05 17:48:55', '2020-12-21 15:50:25', 1, 'Q544118'),
 (3736, 'North Banat District', 196, 'RS', 'VO', '03', '45.90683900', '19.99934170', '2019-10-05 17:48:55', '2020-12-21 15:50:25', 1, 'Q728041'),
 (3737, 'Pomoravlje District', 196, 'RS', 'VO', '13', '43.95913790', '21.27135300', '2019-10-05 17:48:55', '2020-12-21 15:50:25', 1, 'Q867816'),
-(3738, 'Peć District', 248, 'XK', NULL, NULL, '42.65921550', '20.28876240', '2019-10-05 17:48:55', '2020-12-21 15:50:23', 1, 'Q2510536'),
+(3738, 'Peć District', 248, 'XK', NULL, 'XPE', '42.65921550', '20.28876240', '2019-10-05 17:48:55', '2021-01-23 11:52:42', 1, 'Q2510536'),
 (3740, 'Srem District', 196, 'RS', 'VO', '07', '45.00291710', '19.80137730', '2019-10-05 17:48:55', '2020-12-21 15:50:25', 1, 'Q217331'),
 (3741, 'Podunavlje District', 196, 'RS', 'VO', '10', '44.47291560', '20.99014260', '2019-10-05 17:48:56', '2020-12-21 15:50:25', 1, 'Q778561'),
 (3742, 'Westmoreland Parish', 108, 'JM', '16', '10', '18.29443780', '-78.15644320', '2019-10-05 17:48:56', '2020-12-21 15:50:22', 1, 'Q1440250'),
@@ -151797,14 +151798,32 @@ INSERT INTO `states` (`id`, `name`, `country_id`, `country_code`, `fips_code`, `
 (4869, 'Southampton Parish', 25, 'BM', '10', 'SOU', '32.25400950', '-64.82590580', '2020-07-22 09:56:00', '2020-12-21 15:50:20', 1, 'Q1323054'),
 (4870, 'Warwick Parish', 25, 'BM', '11', 'WAR', '32.26615340', '-64.80811980', '2020-07-22 09:56:00', '2020-12-21 15:50:20', 1, 'Q1468860'),
 (4871, 'Huila Department', 48, 'CO', '16', 'HUI', '2.53593490', '-75.52766990', '2020-08-15 15:19:06', '2020-12-21 15:50:21', 1, 'Q234920'),
-(4874, 'Uroševac District (Ferizaj)', 248, 'XK', NULL, NULL, '42.37018440', '21.14832810', '2020-08-15 16:05:46', '2020-12-21 15:50:23', 1, 'Q868964'),
-(4876, 'Đakovica District (Gjakove)', 248, 'XK', NULL, NULL, '42.43757560', '20.37854380', '2020-08-15 16:06:53', '2020-12-21 15:50:23', 1, 'Q1059386'),
-(4877, 'Gjilan District', 248, 'XK', NULL, NULL, '42.46352060', '21.46940110', '2020-08-15 16:08:25', '2020-12-21 15:50:23', 1, 'Q1048355'),
-(4878, 'Kosovska Mitrovica District', 248, 'XK', NULL, NULL, '42.89139090', '20.86599950', '2020-08-15 16:09:53', '2020-12-21 15:50:23', 1, 'Q1046673'),
-(4879, 'Pristina (Priştine)', 248, 'XK', NULL, NULL, '42.66291380', '21.16550280', '2020-08-15 16:33:03', '2020-12-21 15:50:23', 1, 'Q25270'),
+(4874, 'Uroševac District (Ferizaj)', 248, 'XK', NULL, 'XUF', '42.37018440', '21.14832810', '2020-08-15 16:05:46', '2021-01-23 11:53:02', 1, 'Q868964'),
+(4876, 'Đakovica District (Gjakove)', 248, 'XK', NULL, 'XDG', '42.43757560', '20.37854380', '2020-08-15 16:06:53', '2021-01-23 11:52:58', 1, 'Q1059386'),
+(4877, 'Gjilan District', 248, 'XK', NULL, 'XGJ', '42.46352060', '21.46940110', '2020-08-15 16:08:25', '2021-01-23 11:53:11', 1, 'Q1048355'),
+(4878, 'Kosovska Mitrovica District', 248, 'XK', NULL, 'XKM', '42.89139090', '20.86599950', '2020-08-15 16:09:53', '2021-01-23 11:53:15', 1, 'Q1046673'),
+(4879, 'Pristina (Priştine)', 248, 'XK', NULL, 'XPI', '42.66291380', '21.16550280', '2020-08-15 16:33:03', '2021-01-23 11:53:23', 1, 'Q25270'),
 (4880, 'Autonomous City Of Buenos Aires', 11, 'AR', NULL, 'C', '-34.60368440', '-58.38155910', '2020-08-15 16:49:48', '2020-12-21 15:50:20', 1, 'MANUAL'),
 (4881, 'New Providence', 17, 'BS', '23', 'NP', '40.69843480', '-74.40154050', '2020-10-13 15:26:49', '2020-12-21 15:50:20', 1, 'Q858513'),
-(4882, 'Shumen', 34, 'BG', '54', '27', '43.27123980', '26.93612860', '2020-12-05 13:23:53', '2020-12-21 15:50:21', 1, 'Q184981');
+(4882, 'Shumen', 34, 'BG', '54', '27', '43.27123980', '26.93612860', '2020-12-05 13:23:53', '2020-12-21 15:50:21', 1, 'Q184981'),
+(4883, 'Yuen Long District', 98, 'HK', NULL, 'NYL', '22.44559000', '114.02218000', '2021-01-23 11:27:51', '2021-01-23 11:29:10', 1, 'Q871442'),
+(4884, 'Tsuen Wan District', 98, 'HK', NULL, 'NTW', '22.36281000', '114.12907000', '2021-01-23 11:30:27', '2021-01-23 11:31:06', 1, 'Q878514'),
+(4885, 'Tai Po District', 98, 'KH', NULL, 'NTP', '22.45085000', '114.16422000', '2021-01-23 11:30:27', '2021-01-23 11:31:35', 1, 'Q877813'),
+(4887, 'Sai Kung District', 98, 'HK', NULL, 'NSK', '22.38143000', '114.27052000', '2021-01-23 11:39:34', '2021-01-23 11:40:28', 1, 'Q155697'),
+(4888, 'Islands District', 98, 'HK', NULL, 'NIS', '22.26114000', '113.94608000', '2021-01-23 11:39:35', '2021-01-23 11:41:05', 1, 'Q752523'),
+(4889, 'Central and Western District', 98, 'HK', NULL, 'HCW', '22.28666000', '114.15497000', '2021-01-23 11:39:36', '2021-01-23 11:41:31', 1, 'Q312485'),
+(4890, 'Wan Chai', 98, 'HK', NULL, 'HWC', '22.27968000', '114.17168000', '2021-01-23 11:39:37', '2021-01-23 11:41:51', 1, 'Q986434'),
+(4891, 'Eastern', 98, 'HK', NULL, 'HEA', '22.28411000', '114.22414000', '2021-01-23 11:39:38', '2021-01-23 11:42:12', 1, 'Q727054'),
+(4892, 'Southern', 98, 'HK', NULL, 'HSO', '22.24725000', '114.15884000', '2021-01-23 11:39:39', '2021-01-23 11:42:40', 1, 'Q986431'),
+(4893, 'Yau Tsim Mong', 98, 'HK', NULL, 'KYT', '22.32138000', '114.17260000', '2021-01-23 11:39:40', '2021-01-23 11:43:17', 1, 'Q157669'),
+(4894, 'Sham Shui Po', 98, 'HK', NULL, 'KSS', '22.33074000', '114.16220000', '2021-01-23 11:39:40', '2021-01-23 11:43:38', 1, 'Q655626'),
+(4895, 'Kowloon City', 98, 'HK', NULL, 'KKC', '22.32820000', '114.19155000', '2021-01-23 11:39:41', '2021-01-23 11:44:03', 1, 'Q986415'),
+(4896, 'Wong Tai Sin', 98, 'HK', NULL, 'KWT', '22.33353000', '114.19686000', '2021-01-23 11:39:42', '2021-01-23 11:44:26', 1, 'Q878503'),
+(4897, 'Kwun Tong', 98, 'HK', NULL, 'KKT', '22.31326000', '114.22581000', '2021-01-23 11:39:43', '2021-01-23 11:45:09', 1, 'Q1045119'),
+(4898, 'Kwai Tsing', 98, 'HK', NULL, 'NKT', '22.35488000', '114.08401000', '2021-01-23 11:39:43', '2021-01-23 11:46:20', 1, 'Q877132'),
+(4899, 'Tuen Mun', 98, 'HK', NULL, 'NTM', '22.39163000', '113.97708850', '2021-01-23 11:39:44', '2021-01-23 11:48:09', 1, 'Q986383'),
+(4900, 'North', 98, 'HK', NULL, 'NNO', '22.49471000', '114.13812000', '2021-01-23 11:39:45', '2021-01-23 11:48:28', 1, 'Q868032'),
+(4901, 'Sha Tin', 98, 'HK', NULL, 'NST', '22.38715000', '114.19534000', '2021-01-23 11:39:46', '2021-01-23 11:49:07', 1, 'Q15019');
 
 --
 -- Indexes for dumped tables
@@ -151839,7 +151858,7 @@ ALTER TABLE `states`
 -- AUTO_INCREMENT for table `cities`
 --
 ALTER TABLE `cities`
-  MODIFY `id` mediumint(8) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=146183;
+  MODIFY `id` mediumint(8) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=146185;
 
 --
 -- AUTO_INCREMENT for table `countries`
@@ -151851,7 +151870,7 @@ ALTER TABLE `countries`
 -- AUTO_INCREMENT for table `states`
 --
 ALTER TABLE `states`
-  MODIFY `id` mediumint(8) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4883;
+  MODIFY `id` mediumint(8) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4902;
 
 --
 -- Constraints for dumped tables
