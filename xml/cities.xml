@@ -161331,6 +161331,16 @@
     <longitude>26.26667000</longitude>
   </city>
   <city>
+    <id>146184</id>
+    <name>Shumen</name>
+    <state_id>4882</state_id>
+    <state_code>27</state_code>
+    <country_id>34</country_id>
+    <country_code>BG</country_code>
+    <latitude>43.28333300</latitude>
+    <longitude>26.93333300</longitude>
+  </city>
+  <city>
     <id>9253</id>
     <name>Alfatar</name>
     <state_id>4708</state_id>
@@ -1239923,7 +1239933,7 @@
   <city>
     <id>48200</id>
     <name>Ahoghill</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1239933,7 +1239943,7 @@
   <city>
     <id>48253</id>
     <name>Annahilt</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1239943,7 +1239953,7 @@
   <city>
     <id>48254</id>
     <name>Annalong</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1239953,7 +1239963,7 @@
   <city>
     <id>48259</id>
     <name>Antrim</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1239963,7 +1239973,7 @@
   <city>
     <id>48260</id>
     <name>Antrim and Newtownabbey</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1239973,7 +1239983,7 @@
   <city>
     <id>48269</id>
     <name>Ardglass</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1239983,7 +1239993,7 @@
   <city>
     <id>48273</id>
     <name>Ards and North Down</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1239993,7 +1240003,7 @@
   <city>
     <id>48277</id>
     <name>Armagh</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240003,7 +1240013,7 @@
   <city>
     <id>48278</id>
     <name>Armagh City Banbridge and Craigavon</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240013,7 +1240023,7 @@
   <city>
     <id>48347</id>
     <name>Ballinamallard</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240023,7 +1240033,7 @@
   <city>
     <id>48349</id>
     <name>Ballintoy Harbour</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240033,7 +1240043,7 @@
   <city>
     <id>48351</id>
     <name>Ballycastle</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240043,7 +1240053,7 @@
   <city>
     <id>48352</id>
     <name>Ballyclare</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240053,7 +1240063,7 @@
   <city>
     <id>48353</id>
     <name>Ballygowan</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240063,7 +1240073,7 @@
   <city>
     <id>48354</id>
     <name>Ballykelly</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240073,7 +1240083,7 @@
   <city>
     <id>48355</id>
     <name>Ballymena</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240083,7 +1240093,7 @@
   <city>
     <id>48356</id>
     <name>Ballymoney</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240093,7 +1240103,7 @@
   <city>
     <id>48357</id>
     <name>Ballynahinch</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240103,7 +1240113,7 @@
   <city>
     <id>48358</id>
     <name>Ballypatrick</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240113,7 +1240123,7 @@
   <city>
     <id>48359</id>
     <name>Ballywalter</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240123,7 +1240133,7 @@
   <city>
     <id>48366</id>
     <name>Banbridge</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240133,7 +1240143,7 @@
   <city>
     <id>48371</id>
     <name>Bangor</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240143,7 +1240153,7 @@
   <city>
     <id>48458</id>
     <name>Belfast</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240153,7 +1240163,7 @@
   <city>
     <id>48460</id>
     <name>Bellaghy</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240163,7 +1240173,7 @@
   <city>
     <id>48728</id>
     <name>Broughshane</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240173,7 +1240183,7 @@
   <city>
     <id>48802</id>
     <name>Bushmills</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240183,7 +1240193,7 @@
   <city>
     <id>48866</id>
     <name>Carnlough</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240193,7 +1240203,7 @@
   <city>
     <id>48867</id>
     <name>Carnmoney</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240203,7 +1240213,7 @@
   <city>
     <id>48870</id>
     <name>Carrickfergus</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240213,7 +1240223,7 @@
   <city>
     <id>48873</id>
     <name>Carryduff</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240223,7 +1240233,7 @@
   <city>
     <id>48881</id>
     <name>Castledawson</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240233,7 +1240243,7 @@
   <city>
     <id>48882</id>
     <name>Castlederg</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240243,7 +1240253,7 @@
   <city>
     <id>48884</id>
     <name>Castlereagh</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240253,7 +1240263,7 @@
   <city>
     <id>48885</id>
     <name>Castlerock</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240263,7 +1240273,7 @@
   <city>
     <id>48887</id>
     <name>Castlewellan</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240273,7 +1240283,7 @@
   <city>
     <id>48896</id>
     <name>Causeway Coast and Glens</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240283,7 +1240293,7 @@
   <city>
     <id>49006</id>
     <name>City of Belfast</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240293,7 +1240303,7 @@
   <city>
     <id>49045</id>
     <name>Coalisland</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240303,7 +1240313,7 @@
   <city>
     <id>49067</id>
     <name>Coleraine</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240313,7 +1240323,7 @@
   <city>
     <id>49081</id>
     <name>Comber</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240323,7 +1240333,7 @@
   <city>
     <id>49090</id>
     <name>Connor</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240333,7 +1240343,7 @@
   <city>
     <id>49096</id>
     <name>Cookstown</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240343,7 +1240353,7 @@
   <city>
     <id>49139</id>
     <name>Craigavon</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240353,7 +1240363,7 @@
   <city>
     <id>49175</id>
     <name>Crossgar</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240363,7 +1240373,7 @@
   <city>
     <id>49178</id>
     <name>Crossmaglen</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240373,7 +1240383,7 @@
   <city>
     <id>49188</id>
     <name>Crumlin</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240383,7 +1240393,7 @@
   <city>
     <id>49202</id>
     <name>Cullybackey</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240393,7 +1240403,7 @@
   <city>
     <id>49203</id>
     <name>Culmore</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240403,7 +1240413,7 @@
   <city>
     <id>49213</id>
     <name>Cushendall</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240413,7 +1240423,7 @@
   <city>
     <id>49272</id>
     <name>Derry</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240423,7 +1240433,7 @@
   <city>
     <id>49273</id>
     <name>Derry City and Strabane</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240433,7 +1240443,7 @@
   <city>
     <id>49296</id>
     <name>Doagh</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240443,7 +1240453,7 @@
   <city>
     <id>49302</id>
     <name>Donaghadee</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240453,7 +1240463,7 @@
   <city>
     <id>49321</id>
     <name>Downpatrick</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240463,7 +1240473,7 @@
   <city>
     <id>49323</id>
     <name>Draperstown</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240473,7 +1240483,7 @@
   <city>
     <id>49328</id>
     <name>Dromore</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240483,7 +1240493,7 @@
   <city>
     <id>49348</id>
     <name>Dundonald</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240493,7 +1240503,7 @@
   <city>
     <id>49350</id>
     <name>Dundrum</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240503,7 +1240513,7 @@
   <city>
     <id>49353</id>
     <name>Dungannon</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240513,7 +1240523,7 @@
   <city>
     <id>49354</id>
     <name>Dungiven</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240523,7 +1240533,7 @@
   <city>
     <id>49359</id>
     <name>Dunloy</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240533,7 +1240543,7 @@
   <city>
     <id>49446</id>
     <name>Eglinton</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240543,7 +1240553,7 @@
   <city>
     <id>49477</id>
     <name>Enniskillen</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240553,7 +1240563,7 @@
   <city>
     <id>49545</id>
     <name>Fermanagh and Omagh</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240563,7 +1240573,7 @@
   <city>
     <id>49560</id>
     <name>Fintona</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240573,7 +1240583,7 @@
   <city>
     <id>49566</id>
     <name>Fivemiletown</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240583,7 +1240593,7 @@
   <city>
     <id>49632</id>
     <name>Garvagh</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240593,7 +1240603,7 @@
   <city>
     <id>49642</id>
     <name>Gilford</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240603,7 +1240613,7 @@
   <city>
     <id>49655</id>
     <name>Glenariff</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240613,7 +1240623,7 @@
   <city>
     <id>49656</id>
     <name>Glenavy</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240623,7 +1240633,7 @@
   <city>
     <id>49746</id>
     <name>Greenisland</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240633,7 +1240643,7 @@
   <city>
     <id>49751</id>
     <name>Greyabbey</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240643,7 +1240653,7 @@
   <city>
     <id>49940</id>
     <name>Hillsborough</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240653,7 +1240663,7 @@
   <city>
     <id>49975</id>
     <name>Holywood</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240663,7 +1240673,7 @@
   <city>
     <id>50073</id>
     <name>Irvinestown</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240673,7 +1240683,7 @@
   <city>
     <id>50097</id>
     <name>Jordanstown</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240683,7 +1240693,7 @@
   <city>
     <id>50099</id>
     <name>Keady</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240693,7 +1240703,7 @@
   <city>
     <id>50145</id>
     <name>Kilkeel</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240703,7 +1240713,7 @@
   <city>
     <id>50148</id>
     <name>Killyleagh</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240713,7 +1240723,7 @@
   <city>
     <id>50152</id>
     <name>Kilrea</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240723,7 +1240733,7 @@
   <city>
     <id>50194</id>
     <name>Kircubbin</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240733,7 +1240743,7 @@
   <city>
     <id>50253</id>
     <name>Larne</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240743,7 +1240753,7 @@
   <city>
     <id>50303</id>
     <name>Limavady</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240753,7 +1240763,7 @@
   <city>
     <id>50317</id>
     <name>Lisburn</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240763,7 +1240773,7 @@
   <city>
     <id>50318</id>
     <name>Lisburn and Castlereagh</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240773,7 +1240783,7 @@
   <city>
     <id>50320</id>
     <name>Lisnaskea</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240783,7 +1240793,7 @@
   <city>
     <id>50389</id>
     <name>Londonderry County Borough</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240793,7 +1240803,7 @@
   <city>
     <id>50466</id>
     <name>Maghera</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240803,7 +1240813,7 @@
   <city>
     <id>50467</id>
     <name>Magherafelt</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240813,7 +1240823,7 @@
   <city>
     <id>50468</id>
     <name>Magheralin</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240823,7 +1240833,7 @@
   <city>
     <id>50568</id>
     <name>Mid and East Antrim</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240833,7 +1240843,7 @@
   <city>
     <id>50567</id>
     <name>Mid Ulster</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240843,7 +1240853,7 @@
   <city>
     <id>50585</id>
     <name>Millisle</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240853,7 +1240863,7 @@
   <city>
     <id>50612</id>
     <name>Moira</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240863,7 +1240873,7 @@
   <city>
     <id>50616</id>
     <name>Moneymore</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240873,7 +1240883,7 @@
   <city>
     <id>50644</id>
     <name>Moy</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240883,7 +1240893,7 @@
   <city>
     <id>50707</id>
     <name>Newcastle</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240893,7 +1240903,7 @@
   <city>
     <id>50725</id>
     <name>Newry</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240903,7 +1240913,7 @@
   <city>
     <id>50726</id>
     <name>Newry Mourne and Down</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240913,7 +1240923,7 @@
   <city>
     <id>50739</id>
     <name>Newtownabbey</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240923,7 +1240933,7 @@
   <city>
     <id>50740</id>
     <name>Newtownards</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240933,7 +1240943,7 @@
   <city>
     <id>50741</id>
     <name>Newtownstewart</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240943,7 +1240953,7 @@
   <city>
     <id>50811</id>
     <name>Omagh</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240953,7 +1240963,7 @@
   <city>
     <id>50956</id>
     <name>Portadown</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240963,7 +1240973,7 @@
   <city>
     <id>50957</id>
     <name>Portaferry</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240973,7 +1240983,7 @@
   <city>
     <id>50958</id>
     <name>Portavogie</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240983,7 +1240993,7 @@
   <city>
     <id>50959</id>
     <name>Portglenone</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1240993,7 +1241003,7 @@
   <city>
     <id>50968</id>
     <name>Portrush</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1241003,7 +1241013,7 @@
   <city>
     <id>50973</id>
     <name>Portstewart</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1241013,7 +1241023,7 @@
   <city>
     <id>51030</id>
     <name>Randalstown</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1241023,7 +1241033,7 @@
   <city>
     <id>51034</id>
     <name>Rathfriland</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1241033,7 +1241043,7 @@
   <city>
     <id>51113</id>
     <name>Rostrevor</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1241043,7 +1241053,7 @@
   <city>
     <id>51178</id>
     <name>Saintfield</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1241053,7 +1241063,7 @@
   <city>
     <id>51314</id>
     <name>Sion Mills</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1241063,7 +1241073,7 @@
   <city>
     <id>51486</id>
     <name>Strabane</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1241073,7 +1241083,7 @@
   <city>
     <id>51553</id>
     <name>Tandragee</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1241083,7 +1241093,7 @@
   <city>
     <id>51572</id>
     <name>Templepatrick</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1241093,7 +1241103,7 @@
   <city>
     <id>51751</id>
     <name>Waringstown</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1241103,7 +1241113,7 @@
   <city>
     <id>51756</id>
     <name>Warrenpoint</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
@@ -1241113,7 +1241123,7 @@
   <city>
     <id>51874</id>
     <name>Whitehead</name>
-    <state_id>2522</state_id>
+    <state_id>2337</state_id>
     <state_code>NYK</state_code>
     <country_id>232</country_id>
     <country_code>GB</country_code>
