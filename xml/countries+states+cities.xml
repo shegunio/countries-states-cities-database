@@ -1918,7 +1918,7 @@
     <emojiU>U+1F1E9 U+1F1FF</emojiU>
     <states>
       <id>1118</id>
-      <name>Adrar Province</name>
+      <name>Adrar</name>
       <state_code>01</state_code>
       <cities>
         <id>31227</id>
@@ -1947,7 +1947,7 @@
     </states>
     <states>
       <id>1119</id>
-      <name>Aïn Defla Province</name>
+      <name>Aïn Defla</name>
       <state_code>44</state_code>
       <cities>
         <id>31243</id>
@@ -1982,7 +1982,7 @@
     </states>
     <states>
       <id>1122</id>
-      <name>Aïn Témouchent Province</name>
+      <name>Aïn Témouchent</name>
       <state_code>46</state_code>
       <cities>
         <id>31250</id>
@@ -2017,7 +2017,7 @@
     </states>
     <states>
       <id>1144</id>
-      <name>Algiers Province</name>
+      <name>Algiers</name>
       <state_code>16</state_code>
       <cities>
         <id>31249</id>
@@ -2064,7 +2064,7 @@
     </states>
     <states>
       <id>1103</id>
-      <name>Annaba Province</name>
+      <name>Annaba</name>
       <state_code>23</state_code>
       <cities>
         <id>31233</id>
@@ -2093,7 +2093,7 @@
     </states>
     <states>
       <id>1142</id>
-      <name>Batna Province</name>
+      <name>Batna</name>
       <state_code>05</state_code>
       <cities>
         <id>31251</id>
@@ -2146,7 +2146,7 @@
     </states>
     <states>
       <id>1108</id>
-      <name>Béchar Province</name>
+      <name>Béchar</name>
       <state_code>08</state_code>
       <cities>
         <id>31298</id>
@@ -2157,7 +2157,7 @@
     </states>
     <states>
       <id>1128</id>
-      <name>Béjaïa Province</name>
+      <name>Béjaïa</name>
       <state_code>06</state_code>
       <cities>
         <id>31229</id>
@@ -2209,6 +2209,12 @@
       </cities>
     </states>
     <states>
+      <id>4909</id>
+      <name>Béni Abbès</name>
+      <state_code>53</state_code>
+      <cities/>
+    </states>
+    <states>
       <id>1114</id>
       <name>Biskra</name>
       <state_code>07</state_code>
@@ -2251,7 +2257,7 @@
     </states>
     <states>
       <id>1111</id>
-      <name>Blida Province</name>
+      <name>Blida</name>
       <state_code>09</state_code>
       <cities>
         <id>31263</id>
@@ -2327,8 +2333,14 @@
       </cities>
     </states>
     <states>
+      <id>4908</id>
+      <name>Bordj Baji Mokhtar</name>
+      <state_code>52</state_code>
+      <cities/>
+    </states>
+    <states>
       <id>1116</id>
-      <name>Bordj Bou Arréridj Province</name>
+      <name>Bordj Bou Arréridj</name>
       <state_code>34</state_code>
       <cities>
         <id>31278</id>
@@ -2375,7 +2387,7 @@
     </states>
     <states>
       <id>1104</id>
-      <name>Bouïra Province</name>
+      <name>Bouïra</name>
       <state_code>10</state_code>
       <cities>
         <id>31241</id>
@@ -2416,7 +2428,7 @@
     </states>
     <states>
       <id>1125</id>
-      <name>Boumerdès Province</name>
+      <name>Boumerdès</name>
       <state_code>35</state_code>
       <cities>
         <id>31235</id>
@@ -2505,7 +2517,7 @@
     </states>
     <states>
       <id>1105</id>
-      <name>Chlef Province</name>
+      <name>Chlef</name>
       <state_code>02</state_code>
       <cities>
         <id>31226</id>
@@ -2552,7 +2564,7 @@
     </states>
     <states>
       <id>1121</id>
-      <name>Constantine Province</name>
+      <name>Constantine</name>
       <state_code>25</state_code>
       <cities>
         <id>31469</id>
@@ -2592,8 +2604,14 @@
       </cities>
     </states>
     <states>
+      <id>4912</id>
+      <name>Djanet</name>
+      <state_code>56</state_code>
+      <cities/>
+    </states>
+    <states>
       <id>1098</id>
-      <name>Djelfa Province</name>
+      <name>Djelfa</name>
       <state_code>17</state_code>
       <cities>
         <id>31474</id>
@@ -2646,7 +2664,7 @@
     </states>
     <states>
       <id>1129</id>
-      <name>El Bayadh Province</name>
+      <name>El Bayadh</name>
       <state_code>32</state_code>
       <cities>
         <id>31297</id>
@@ -2668,8 +2686,20 @@
       </cities>
     </states>
     <states>
+      <id>4905</id>
+      <name>El M'ghair</name>
+      <state_code>49</state_code>
+      <cities/>
+    </states>
+    <states>
+      <id>4906</id>
+      <name>El Menia</name>
+      <state_code>50</state_code>
+      <cities/>
+    </states>
+    <states>
       <id>1099</id>
-      <name>El Oued Province</name>
+      <name>El Oued</name>
       <state_code>39</state_code>
       <cities>
         <id>31313</id>
@@ -2698,7 +2728,7 @@
     </states>
     <states>
       <id>1100</id>
-      <name>El Tarf Province</name>
+      <name>El Tarf</name>
       <state_code>36</state_code>
       <cities>
         <id>31260</id>
@@ -2727,7 +2757,7 @@
     </states>
     <states>
       <id>1127</id>
-      <name>Ghardaïa Province</name>
+      <name>Ghardaïa</name>
       <state_code>47</state_code>
       <cities>
         <id>31268</id>
@@ -2750,7 +2780,7 @@
     </states>
     <states>
       <id>1137</id>
-      <name>Guelma Province</name>
+      <name>Guelma</name>
       <state_code>24</state_code>
       <cities>
         <id>31293</id>
@@ -2773,7 +2803,7 @@
     </states>
     <states>
       <id>1112</id>
-      <name>Illizi Province</name>
+      <name>Illizi</name>
       <state_code>33</state_code>
       <cities>
         <id>31358</id>
@@ -2783,8 +2813,20 @@
       </cities>
     </states>
     <states>
+      <id>4914</id>
+      <name>In Guezzam</name>
+      <state_code>58</state_code>
+      <cities/>
+    </states>
+    <states>
+      <id>4913</id>
+      <name>In Salah</name>
+      <state_code>57</state_code>
+      <cities/>
+    </states>
+    <states>
       <id>1113</id>
-      <name>Jijel Province</name>
+      <name>Jijel</name>
       <state_code>18</state_code>
       <cities>
         <id>31359</id>
@@ -2795,7 +2837,7 @@
     </states>
     <states>
       <id>1126</id>
-      <name>Khenchela Province</name>
+      <name>Khenchela</name>
       <state_code>40</state_code>
       <cities>
         <id>31363</id>
@@ -2806,7 +2848,7 @@
     </states>
     <states>
       <id>1138</id>
-      <name>Laghouat Province</name>
+      <name>Laghouat</name>
       <state_code>03</state_code>
       <cities>
         <id>31228</id>
@@ -2823,7 +2865,7 @@
     </states>
     <states>
       <id>1134</id>
-      <name>M'Sila Province</name>
+      <name>M'Sila</name>
       <state_code>28</state_code>
       <cities>
         <id>31468</id>
@@ -2852,7 +2894,7 @@
     </states>
     <states>
       <id>1124</id>
-      <name>Mascara Province</name>
+      <name>Mascara</name>
       <state_code>29</state_code>
       <cities>
         <id>31282</id>
@@ -2881,7 +2923,7 @@
     </states>
     <states>
       <id>1109</id>
-      <name>Médéa Province</name>
+      <name>Médéa</name>
       <state_code>26</state_code>
       <cities>
         <id>31471</id>
@@ -2910,7 +2952,7 @@
     </states>
     <states>
       <id>1132</id>
-      <name>Mila Province</name>
+      <name>Mila</name>
       <state_code>43</state_code>
       <cities>
         <id>31302</id>
@@ -2945,7 +2987,7 @@
     </states>
     <states>
       <id>1140</id>
-      <name>Mostaganem Province</name>
+      <name>Mostaganem</name>
       <state_code>27</state_code>
       <cities>
         <id>31388</id>
@@ -2956,7 +2998,7 @@
     </states>
     <states>
       <id>1102</id>
-      <name>Naama Province</name>
+      <name>Naama</name>
       <state_code>45</state_code>
       <cities>
         <id>31247</id>
@@ -2973,7 +3015,7 @@
     </states>
     <states>
       <id>1101</id>
-      <name>Oran Province</name>
+      <name>Oran</name>
       <state_code>31</state_code>
       <cities>
         <id>31478</id>
@@ -3026,7 +3068,7 @@
     </states>
     <states>
       <id>1139</id>
-      <name>Ouargla Province</name>
+      <name>Ouargla</name>
       <state_code>30</state_code>
       <cities>
         <id>31316</id>
@@ -3084,8 +3126,14 @@
       </cities>
     </states>
     <states>
+      <id>4907</id>
+      <name>Ouled Djellal</name>
+      <state_code>51</state_code>
+      <cities/>
+    </states>
+    <states>
       <id>1136</id>
-      <name>Oum El Bouaghi Province</name>
+      <name>Oum El Bouaghi</name>
       <state_code>04</state_code>
       <cities>
         <id>31242</id>
@@ -3126,7 +3174,7 @@
     </states>
     <states>
       <id>1130</id>
-      <name>Relizane Province</name>
+      <name>Relizane</name>
       <state_code>48</state_code>
       <cities>
         <id>31473</id>
@@ -3179,7 +3227,7 @@
     </states>
     <states>
       <id>1123</id>
-      <name>Saïda Province</name>
+      <name>Saïda</name>
       <state_code>20</state_code>
       <cities>
         <id>31475</id>
@@ -3196,7 +3244,7 @@
     </states>
     <states>
       <id>1141</id>
-      <name>Sétif Province</name>
+      <name>Sétif</name>
       <state_code>19</state_code>
       <cities>
         <id>31240</id>
@@ -3236,8 +3284,253 @@
       </cities>
     </states>
     <states>
+      <id>4902</id>
+      <name>Sidi Bel Abbès</name>
+      <state_code>22</state_code>
+      <cities>
+        <id>146185</id>
+        <name>Aïn El Berd District</name>
+        <latitude>35.35000000</latitude>
+        <longitude>-0.51667000</longitude>
+      </cities>
+      <cities>
+        <id>146186</id>
+        <name>Balidat Ameur</name>
+        <latitude>32.95138900</latitude>
+        <longitude>5.98055600</longitude>
+      </cities>
+      <cities>
+        <id>146187</id>
+        <name>Belarbi</name>
+        <latitude>35.15149480</latitude>
+        <longitude>-0.45679090</longitude>
+      </cities>
+      <cities>
+        <id>146188</id>
+        <name>Ben Badis, Sid Bel Abbés</name>
+        <latitude>34.95277778</latitude>
+        <longitude>-0.91444444</longitude>
+      </cities>
+      <cities>
+        <id>146189</id>
+        <name>Djamaa</name>
+        <latitude>33.53137870</latitude>
+        <longitude>5.99098210</longitude>
+      </cities>
+      <cities>
+        <id>146190</id>
+        <name>El Bour</name>
+        <latitude>32.16305556</latitude>
+        <longitude>5.34527778</longitude>
+      </cities>
+      <cities>
+        <id>146191</id>
+        <name>El Hadjira</name>
+        <latitude>32.61666667</latitude>
+        <longitude>5.51666667</longitude>
+      </cities>
+      <cities>
+        <id>146192</id>
+        <name>Haoud El Hamra</name>
+        <latitude>31.88944444</latitude>
+        <longitude>5.97305556</longitude>
+      </cities>
+      <cities>
+        <id>146193</id>
+        <name>Hassi Messaoud</name>
+        <latitude>31.70000000</latitude>
+        <longitude>6.06666667</longitude>
+      </cities>
+      <cities>
+        <id>146194</id>
+        <name>Lamtar</name>
+        <latitude>35.07062700</latitude>
+        <longitude>-0.79814000</longitude>
+      </cities>
+      <cities>
+        <id>146195</id>
+        <name>Marhoum</name>
+        <latitude>34.44600420</latitude>
+        <longitude>-0.19502440</longitude>
+      </cities>
+      <cities>
+        <id>146196</id>
+        <name>Megarine</name>
+        <latitude>33.19262320</latitude>
+        <longitude>6.09346390</longitude>
+      </cities>
+      <cities>
+        <id>146197</id>
+        <name>Merine</name>
+        <latitude>34.78074720</latitude>
+        <longitude>-0.45104030</longitude>
+      </cities>
+      <cities>
+        <id>146198</id>
+        <name>Mezaourou</name>
+        <latitude>34.81732670</latitude>
+        <longitude>-0.62331890</longitude>
+      </cities>
+      <cities>
+        <id>146199</id>
+        <name>Moggar</name>
+        <latitude>33.26722222</latitude>
+        <longitude>6.06777778</longitude>
+      </cities>
+      <cities>
+        <id>146200</id>
+        <name>Moulay Slissen</name>
+        <latitude>34.81666667</latitude>
+        <longitude>-0.76666667</longitude>
+      </cities>
+      <cities>
+        <id>146201</id>
+        <name>N'Goussa</name>
+        <latitude>32.14087970</latitude>
+        <longitude>5.30828480</longitude>
+      </cities>
+      <cities>
+        <id>146202</id>
+        <name>Ouargla</name>
+        <latitude>31.95000000</latitude>
+        <longitude>5.31666667</longitude>
+      </cities>
+      <cities>
+        <id>146203</id>
+        <name>Rouissat</name>
+        <latitude>31.93657600</latitude>
+        <longitude>5.33540730</longitude>
+      </cities>
+      <cities>
+        <id>146204</id>
+        <name>Sfissef</name>
+        <latitude>35.23440280</latitude>
+        <longitude>-0.24341580</longitude>
+      </cities>
+      <cities>
+        <id>146205</id>
+        <name>Sidi Ali Boussidi</name>
+        <latitude>35.10000000</latitude>
+        <longitude>-0.83333333</longitude>
+      </cities>
+      <cities>
+        <id>146206</id>
+        <name>Sidi Amrane</name>
+        <latitude>33.50000000</latitude>
+        <longitude>6.01666667</longitude>
+      </cities>
+      <cities>
+        <id>146207</id>
+        <name>Sidi Bel Abbès</name>
+        <latitude>35.20000000</latitude>
+        <longitude>-0.63333333</longitude>
+      </cities>
+      <cities>
+        <id>146208</id>
+        <name>Sidi Brahim</name>
+        <latitude>35.26055600</latitude>
+        <longitude>-0.56750000</longitude>
+      </cities>
+      <cities>
+        <id>146209</id>
+        <name>Sidi Hamadouche</name>
+        <latitude>35.29916667</latitude>
+        <longitude>-0.54888889</longitude>
+      </cities>
+      <cities>
+        <id>146210</id>
+        <name>Sidi Slimane</name>
+        <latitude>33.28861111</latitude>
+        <longitude>6.09472222</longitude>
+      </cities>
+      <cities>
+        <id>146211</id>
+        <name>Sidi Yacoub</name>
+        <latitude>35.13333333</latitude>
+        <longitude>-0.78333333</longitude>
+      </cities>
+      <cities>
+        <id>146212</id>
+        <name>Sidi Yahia</name>
+        <latitude>33.52166667</latitude>
+        <longitude>5.94555556</longitude>
+      </cities>
+      <cities>
+        <id>146213</id>
+        <name>Tabia, Sid Bel Abbés</name>
+        <latitude>35.01783660</latitude>
+        <longitude>-0.73385240</longitude>
+      </cities>
+      <cities>
+        <id>146214</id>
+        <name>Taibet</name>
+        <latitude>33.08391890</latitude>
+        <longitude>6.39996530</longitude>
+      </cities>
+      <cities>
+        <id>146215</id>
+        <name>Tamellaht</name>
+        <latitude>33.01190000</latitude>
+        <longitude>6.00972000</longitude>
+      </cities>
+      <cities>
+        <id>146216</id>
+        <name>Tamerna Djedida</name>
+        <latitude>33.44640000</latitude>
+        <longitude>5.95639000</longitude>
+      </cities>
+      <cities>
+        <id>146217</id>
+        <name>Tebesbest</name>
+        <latitude>33.12001290</latitude>
+        <longitude>6.08007430</longitude>
+      </cities>
+      <cities>
+        <id>146218</id>
+        <name>Teghalimet</name>
+        <latitude>34.88283300</latitude>
+        <longitude>-0.56000230</longitude>
+      </cities>
+      <cities>
+        <id>146219</id>
+        <name>Telagh</name>
+        <latitude>34.78490640</latitude>
+        <longitude>-0.57317730</longitude>
+      </cities>
+      <cities>
+        <id>146220</id>
+        <name>Tenezara</name>
+        <latitude>34.96341170</latitude>
+        <longitude>-0.61446190</longitude>
+      </cities>
+      <cities>
+        <id>146221</id>
+        <name>Tenira</name>
+        <latitude>35.01966420</latitude>
+        <longitude>-0.53206440</longitude>
+      </cities>
+      <cities>
+        <id>146222</id>
+        <name>Tessala</name>
+        <latitude>35.24300000</latitude>
+        <longitude>-0.77316300</longitude>
+      </cities>
+      <cities>
+        <id>146223</id>
+        <name>Touggourt</name>
+        <latitude>33.10000000</latitude>
+        <longitude>6.06666667</longitude>
+      </cities>
+      <cities>
+        <id>146224</id>
+        <name>Zerouala</name>
+        <latitude>35.24232450</latitude>
+        <longitude>-0.52219390</longitude>
+      </cities>
+    </states>
+    <states>
       <id>1110</id>
-      <name>Skikda Province</name>
+      <name>Skikda</name>
       <state_code>21</state_code>
       <cities>
         <id>31239</id>
@@ -3266,7 +3559,7 @@
     </states>
     <states>
       <id>1143</id>
-      <name>Souk Ahras Province</name>
+      <name>Souk Ahras</name>
       <state_code>41</state_code>
       <cities>
         <id>31422</id>
@@ -3283,7 +3576,7 @@
     </states>
     <states>
       <id>1135</id>
-      <name>Tamanghasset Province</name>
+      <name>Tamanghasset</name>
       <state_code>11</state_code>
       <cities>
         <id>31356</id>
@@ -3300,7 +3593,7 @@
     </states>
     <states>
       <id>1117</id>
-      <name>Tébessa Province</name>
+      <name>Tébessa</name>
       <state_code>12</state_code>
       <cities>
         <id>31271</id>
@@ -3329,7 +3622,7 @@
     </states>
     <states>
       <id>1106</id>
-      <name>Tiaret Province</name>
+      <name>Tiaret</name>
       <state_code>14</state_code>
       <cities>
         <id>31472</id>
@@ -3375,8 +3668,14 @@
       </cities>
     </states>
     <states>
+      <id>4910</id>
+      <name>Timimoun</name>
+      <state_code>54</state_code>
+      <cities/>
+    </states>
+    <states>
       <id>1120</id>
-      <name>Tindouf Province</name>
+      <name>Tindouf</name>
       <state_code>37</state_code>
       <cities>
         <id>31452</id>
@@ -3387,7 +3686,7 @@
     </states>
     <states>
       <id>1115</id>
-      <name>Tipasa Province</name>
+      <name>Tipasa</name>
       <state_code>42</state_code>
       <cities>
         <id>31470</id>
@@ -3470,7 +3769,7 @@
     </states>
     <states>
       <id>1133</id>
-      <name>Tissemsilt Province</name>
+      <name>Tissemsilt</name>
       <state_code>38</state_code>
       <cities>
         <id>31370</id>
@@ -3487,7 +3786,7 @@
     </states>
     <states>
       <id>1131</id>
-      <name>Tizi Ouzou Province</name>
+      <name>Tizi Ouzou</name>
       <state_code>15</state_code>
       <cities>
         <id>31476</id>
@@ -3594,7 +3893,7 @@
     </states>
     <states>
       <id>1107</id>
-      <name>Tlemcen Province</name>
+      <name>Tlemcen</name>
       <state_code>13</state_code>
       <cities>
         <id>31264</id>
@@ -3668,6 +3967,12 @@
         <latitude>34.87833000</latitude>
         <longitude>-1.31500000</longitude>
       </cities>
+    </states>
+    <states>
+      <id>4911</id>
+      <name>Touggourt</name>
+      <state_code>55</state_code>
+      <cities/>
     </states>
   </country_state_city>
   <country_state_city>
@@ -38784,16 +39089,16 @@
         <longitude>14.30194000</longitude>
       </cities>
       <cities>
-        <id>143796</id>
-        <name>Ferndorf</name>
-        <latitude>46.73611111</latitude>
-        <longitude>13.62638889</longitude>
-      </cities>
-      <cities>
         <id>1981</id>
         <name>Ferndorf</name>
         <latitude>46.73651000</latitude>
         <longitude>13.62661000</longitude>
+      </cities>
+      <cities>
+        <id>143796</id>
+        <name>Ferndorf</name>
+        <latitude>46.73611111</latitude>
+        <longitude>13.62638889</longitude>
       </cities>
       <cities>
         <id>1988</id>
@@ -38826,16 +39131,16 @@
         <longitude>14.86027778</longitude>
       </cities>
       <cities>
-        <id>143798</id>
-        <name>Frauenstein</name>
-        <latitude>46.81361111</latitude>
-        <longitude>14.36750000</longitude>
-      </cities>
-      <cities>
         <id>2015</id>
         <name>Frauenstein</name>
         <latitude>46.81417000</latitude>
         <longitude>14.29417000</longitude>
+      </cities>
+      <cities>
+        <id>143798</id>
+        <name>Frauenstein</name>
+        <latitude>46.81361111</latitude>
+        <longitude>14.36750000</longitude>
       </cities>
       <cities>
         <id>2021</id>
@@ -38850,16 +39155,16 @@
         <longitude>14.04513000</longitude>
       </cities>
       <cities>
-        <id>143799</id>
-        <name>Friesach</name>
-        <latitude>46.95250000</latitude>
-        <longitude>14.40972222</longitude>
-      </cities>
-      <cities>
         <id>2024</id>
         <name>Friesach</name>
         <latitude>46.95528000</latitude>
         <longitude>14.40583000</longitude>
+      </cities>
+      <cities>
+        <id>143799</id>
+        <name>Friesach</name>
+        <latitude>46.95250000</latitude>
+        <longitude>14.40972222</longitude>
       </cities>
       <cities>
         <id>2036</id>
@@ -39840,16 +40145,16 @@
         <longitude>14.41667000</longitude>
       </cities>
       <cities>
-        <id>3618</id>
-        <name>Trebesing</name>
-        <latitude>46.88639000</latitude>
-        <longitude>13.51028000</longitude>
-      </cities>
-      <cities>
         <id>143861</id>
         <name>Trebesing</name>
         <latitude>46.88305556</latitude>
         <longitude>13.51055556</longitude>
+      </cities>
+      <cities>
+        <id>3618</id>
+        <name>Trebesing</name>
+        <latitude>46.88639000</latitude>
+        <longitude>13.51028000</longitude>
       </cities>
       <cities>
         <id>143862</id>
@@ -39996,16 +40301,16 @@
         <longitude>14.19166667</longitude>
       </cities>
       <cities>
-        <id>3794</id>
-        <name>Wernberg</name>
-        <latitude>46.61667000</latitude>
-        <longitude>13.93333000</longitude>
-      </cities>
-      <cities>
         <id>143869</id>
         <name>Wernberg</name>
         <latitude>46.62305556</latitude>
         <longitude>13.93944444</longitude>
+      </cities>
+      <cities>
+        <id>3794</id>
+        <name>Wernberg</name>
+        <latitude>46.61667000</latitude>
+        <longitude>13.93333000</longitude>
       </cities>
       <cities>
         <id>3833</id>
@@ -54103,16 +54408,16 @@
       <name>Chittagong Division</name>
       <state_code>B</state_code>
       <cities>
-        <id>8457</id>
-        <name>Bandarban</name>
-        <latitude>22.00000000</latitude>
-        <longitude>92.33333000</longitude>
-      </cities>
-      <cities>
         <id>8473</id>
         <name>Bāndarban</name>
         <latitude>22.19534000</latitude>
         <longitude>92.21946000</longitude>
+      </cities>
+      <cities>
+        <id>8457</id>
+        <name>Bandarban</name>
+        <latitude>22.00000000</latitude>
+        <longitude>92.33333000</longitude>
       </cities>
       <cities>
         <id>8468</id>
@@ -54378,16 +54683,16 @@
         <longitude>90.78291000</longitude>
       </cities>
       <cities>
-        <id>8527</id>
-        <name>Madaripur</name>
-        <latitude>23.25000000</latitude>
-        <longitude>90.20000000</longitude>
-      </cities>
-      <cities>
         <id>8542</id>
         <name>Mādārīpur</name>
         <latitude>23.17097000</latitude>
         <longitude>90.20935000</longitude>
+      </cities>
+      <cities>
+        <id>8527</id>
+        <name>Madaripur</name>
+        <latitude>23.25000000</latitude>
+        <longitude>90.20000000</longitude>
       </cities>
       <cities>
         <id>8531</id>
@@ -123952,16 +124257,16 @@
         <longitude>-73.29572000</longitude>
       </cities>
       <cities>
-        <id>20768</id>
-        <name>Cómbita</name>
-        <latitude>5.68760000</latitude>
-        <longitude>-73.32942000</longitude>
-      </cities>
-      <cities>
         <id>20723</id>
         <name>Combita</name>
         <latitude>5.63333000</latitude>
         <longitude>-73.31667000</longitude>
+      </cities>
+      <cities>
+        <id>20768</id>
+        <name>Cómbita</name>
+        <latitude>5.68760000</latitude>
+        <longitude>-73.32942000</longitude>
       </cities>
       <cities>
         <id>20736</id>
@@ -125888,16 +126193,16 @@
         <longitude>-74.49147000</longitude>
       </cities>
       <cities>
-        <id>20766</id>
-        <name>Cáqueza</name>
-        <latitude>4.40569000</latitude>
-        <longitude>-73.94683000</longitude>
-      </cities>
-      <cities>
         <id>20648</id>
         <name>Caqueza</name>
         <latitude>4.38708000</latitude>
         <longitude>-73.95722000</longitude>
+      </cities>
+      <cities>
+        <id>20766</id>
+        <name>Cáqueza</name>
+        <latitude>4.40569000</latitude>
+        <longitude>-73.94683000</longitude>
       </cities>
       <cities>
         <id>20655</id>
@@ -126428,16 +126733,16 @@
         <longitude>-74.14435000</longitude>
       </cities>
       <cities>
-        <id>143875</id>
-        <name>Tibacuy</name>
-        <latitude>4.35111111</latitude>
-        <longitude>-72.45638889</longitude>
-      </cities>
-      <cities>
         <id>21522</id>
         <name>Tibacuy</name>
         <latitude>4.30606000</latitude>
         <longitude>-74.51639000</longitude>
+      </cities>
+      <cities>
+        <id>143875</id>
+        <name>Tibacuy</name>
+        <latitude>4.35111111</latitude>
+        <longitude>-72.45638889</longitude>
       </cities>
       <cities>
         <id>21525</id>
@@ -126482,16 +126787,16 @@
         <longitude>-74.07104000</longitude>
       </cities>
       <cities>
-        <id>143876</id>
-        <name>Útica</name>
-        <latitude>5.18861111</latitude>
-        <longitude>-74.48111111</longitude>
-      </cities>
-      <cities>
         <id>21640</id>
         <name>Útica</name>
         <latitude>5.16977000</latitude>
         <longitude>-74.50134000</longitude>
+      </cities>
+      <cities>
+        <id>143876</id>
+        <name>Útica</name>
+        <latitude>5.18861111</latitude>
+        <longitude>-74.48111111</longitude>
       </cities>
       <cities>
         <id>21587</id>
@@ -127363,16 +127668,16 @@
         <longitude>-77.70103000</longitude>
       </cities>
       <cities>
-        <id>20517</id>
-        <name>Ancuya</name>
-        <latitude>1.26330000</latitude>
-        <longitude>-77.51376000</longitude>
-      </cities>
-      <cities>
         <id>20518</id>
         <name>Ancuyá</name>
         <latitude>1.26538000</latitude>
         <longitude>-77.53258000</longitude>
+      </cities>
+      <cities>
+        <id>20517</id>
+        <name>Ancuya</name>
+        <latitude>1.26330000</latitude>
+        <longitude>-77.51376000</longitude>
       </cities>
       <cities>
         <id>20539</id>
@@ -127842,16 +128147,16 @@
         <longitude>-72.86538000</longitude>
       </cities>
       <cities>
-        <id>20764</id>
-        <name>Cáchira</name>
-        <latitude>7.74104000</latitude>
-        <longitude>-73.04830000</longitude>
-      </cities>
-      <cities>
         <id>20620</id>
         <name>Cachirá</name>
         <latitude>7.75000000</latitude>
         <longitude>-73.16667000</longitude>
+      </cities>
+      <cities>
+        <id>20764</id>
+        <name>Cáchira</name>
+        <latitude>7.74104000</latitude>
+        <longitude>-73.04830000</longitude>
       </cities>
       <cities>
         <id>20765</id>
@@ -156740,16 +157045,16 @@
       <name>Benishangul-Gumuz Region</name>
       <state_code>BE</state_code>
       <cities>
-        <id>38728</id>
-        <name>Āsosa</name>
-        <latitude>10.06667000</latitude>
-        <longitude>34.53333000</longitude>
-      </cities>
-      <cities>
         <id>38596</id>
         <name>Asosa</name>
         <latitude>10.00000000</latitude>
         <longitude>34.50000000</longitude>
+      </cities>
+      <cities>
+        <id>38728</id>
+        <name>Āsosa</name>
+        <latitude>10.06667000</latitude>
+        <longitude>34.53333000</longitude>
       </cities>
       <cities>
         <id>38679</id>
@@ -263426,16 +263731,16 @@
         <longitude>19.88362000</longitude>
       </cities>
       <cities>
-        <id>52840</id>
-        <name>Lefkada</name>
-        <latitude>38.75000000</latitude>
-        <longitude>20.66667000</longitude>
-      </cities>
-      <cities>
         <id>52841</id>
         <name>Lefkáda</name>
         <latitude>38.83036000</latitude>
         <longitude>20.70442000</longitude>
+      </cities>
+      <cities>
+        <id>52840</id>
+        <name>Lefkada</name>
+        <latitude>38.75000000</latitude>
+        <longitude>20.66667000</longitude>
       </cities>
       <cities>
         <id>52842</id>
@@ -406783,7 +407088,7 @@
     </states>
     <states>
       <id>1941</id>
-      <name>Melaka</name>
+      <name>Malacca</name>
       <state_code>04</state_code>
       <cities>
         <id>76409</id>
@@ -453558,16 +453863,16 @@
         <longitude>-107.63278000</longitude>
       </cities>
       <cities>
-        <id>68096</id>
-        <name>Adolfo Ruíz Cortínes</name>
-        <latitude>25.75000000</latitude>
-        <longitude>-108.75000000</longitude>
-      </cities>
-      <cities>
         <id>68094</id>
         <name>Adolfo Ruiz Cortines</name>
         <latitude>25.70275000</latitude>
         <longitude>-108.71975000</longitude>
+      </cities>
+      <cities>
+        <id>68096</id>
+        <name>Adolfo Ruíz Cortínes</name>
+        <latitude>25.75000000</latitude>
+        <longitude>-108.75000000</longitude>
       </cities>
       <cities>
         <id>68109</id>
@@ -458935,16 +459240,16 @@
         <longitude>-97.85506000</longitude>
       </cities>
       <cities>
-        <id>76406</id>
-        <name>Ángel R. Cabada</name>
-        <latitude>18.59601000</latitude>
-        <longitude>-95.44580000</longitude>
-      </cities>
-      <cities>
         <id>68273</id>
         <name>Angel R. Cabada</name>
         <latitude>18.60798000</latitude>
         <longitude>-95.39724000</longitude>
+      </cities>
+      <cities>
+        <id>76406</id>
+        <name>Ángel R. Cabada</name>
+        <latitude>18.59601000</latitude>
+        <longitude>-95.44580000</longitude>
       </cities>
       <cities>
         <id>68281</id>
@@ -508808,6 +509113,12 @@
         <longitude>120.68333333</longitude>
       </cities>
       <cities>
+        <id>145663</id>
+        <name>San Francisco</name>
+        <latitude>15.35555556</latitude>
+        <longitude>120.84000000</longitude>
+      </cities>
+      <cities>
         <id>145664</id>
         <name>San Francisco</name>
         <latitude>15.62888889</latitude>
@@ -508818,12 +509129,6 @@
         <name>San Francisco</name>
         <latitude>14.96166667</latitude>
         <longitude>120.54527778</longitude>
-      </cities>
-      <cities>
-        <id>145663</id>
-        <name>San Francisco</name>
-        <latitude>15.35555556</latitude>
-        <longitude>120.84000000</longitude>
       </cities>
       <cities>
         <id>145666</id>
@@ -511998,16 +512303,16 @@
         <longitude>123.15510000</longitude>
       </cities>
       <cities>
-        <id>81670</id>
-        <name>Bañga</name>
-        <latitude>11.63870000</latitude>
-        <longitude>122.33410000</longitude>
-      </cities>
-      <cities>
         <id>81522</id>
         <name>Banga</name>
         <latitude>10.50180000</latitude>
         <longitude>122.82890000</longitude>
+      </cities>
+      <cities>
+        <id>81670</id>
+        <name>Bañga</name>
+        <latitude>11.63870000</latitude>
+        <longitude>122.33410000</longitude>
       </cities>
       <cities>
         <id>81570</id>
@@ -544104,12 +544409,6 @@
       </cities>
     </states>
     <states>
-      <id>1627</id>
-      <name>Kielce</name>
-      <state_code>KI</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>1625</id>
       <name>Kuyavian-Pomeranian Voivodeship</name>
       <state_code>KP</state_code>
@@ -551153,16 +551452,16 @@
         <longitude>19.19498000</longitude>
       </cities>
       <cities>
-        <id>88753</id>
-        <name>powiat Łódzki Wschodni</name>
-        <latitude>51.76529000</latitude>
-        <longitude>19.48288000</longitude>
-      </cities>
-      <cities>
         <id>87753</id>
         <name>Powiat łódzki wschodni</name>
         <latitude>51.68616000</latitude>
         <longitude>19.70098000</longitude>
+      </cities>
+      <cities>
+        <id>88753</id>
+        <name>powiat Łódzki Wschodni</name>
+        <latitude>51.76529000</latitude>
+        <longitude>19.48288000</longitude>
       </cities>
       <cities>
         <id>88752</id>
@@ -560577,16 +560876,16 @@
         <longitude>19.33645000</longitude>
       </cities>
       <cities>
-        <id>88866</id>
-        <name>Świętajno</name>
-        <latitude>53.56692000</latitude>
-        <longitude>21.21546000</longitude>
-      </cities>
-      <cities>
         <id>88276</id>
         <name>Swiętajno</name>
         <latitude>54.00151000</latitude>
         <longitude>22.31830000</longitude>
+      </cities>
+      <cities>
+        <id>88866</id>
+        <name>Świętajno</name>
+        <latitude>53.56692000</latitude>
+        <longitude>21.21546000</longitude>
       </cities>
       <cities>
         <id>88305</id>
@@ -588812,16 +589111,16 @@
         <longitude>23.44645000</longitude>
       </cities>
       <cities>
-        <id>106014</id>
-        <name>Sălcuţa</name>
-        <latitude>44.25000000</latitude>
-        <longitude>23.43333000</longitude>
-      </cities>
-      <cities>
         <id>106015</id>
         <name>Sălcuța</name>
         <latitude>44.15986000</latitude>
         <longitude>23.70247000</longitude>
+      </cities>
+      <cities>
+        <id>106014</id>
+        <name>Sălcuţa</name>
+        <latitude>44.25000000</latitude>
+        <longitude>23.43333000</longitude>
       </cities>
       <cities>
         <id>106031</id>
@@ -595861,16 +596160,16 @@
         <longitude>27.56667000</longitude>
       </cities>
       <cities>
-        <id>97032</id>
-        <name>Şcheia</name>
-        <latitude>46.93333000</latitude>
-        <longitude>27.51667000</longitude>
-      </cities>
-      <cities>
         <id>96265</id>
         <name>Scheia</name>
         <latitude>47.11725000</latitude>
         <longitude>26.88153000</longitude>
+      </cities>
+      <cities>
+        <id>97032</id>
+        <name>Şcheia</name>
+        <latitude>46.93333000</latitude>
+        <longitude>27.51667000</longitude>
       </cities>
       <cities>
         <id>96273</id>
@@ -600140,16 +600439,16 @@
         <longitude>24.65919000</longitude>
       </cities>
       <cities>
-        <id>90459</id>
-        <name>Bârza</name>
-        <latitude>44.32811000</latitude>
-        <longitude>24.14188000</longitude>
-      </cities>
-      <cities>
         <id>90065</id>
         <name>Barza</name>
         <latitude>44.33333000</latitude>
         <longitude>24.78333000</longitude>
+      </cities>
+      <cities>
+        <id>90459</id>
+        <name>Bârza</name>
+        <latitude>44.32811000</latitude>
+        <longitude>24.14188000</longitude>
       </cities>
       <cities>
         <id>90140</id>
@@ -663626,30 +663925,6 @@
     <emoji>🇪🇸</emoji>
     <emojiU>U+1F1EA U+1F1F8</emojiU>
     <states>
-      <id>1179</id>
-      <name>A Coruña Province</name>
-      <state_code>C</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1168</id>
-      <name>Albacete Province</name>
-      <state_code>AB</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1156</id>
-      <name>Alicante Province</name>
-      <state_code>A</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1151</id>
-      <name>Almería Province</name>
-      <state_code>AL</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>1193</id>
       <name>Andalusia</name>
       <state_code>AN</state_code>
@@ -667999,12 +668274,6 @@
       </cities>
     </states>
     <states>
-      <id>1148</id>
-      <name>Araba / Álava</name>
-      <state_code>VI</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>1177</id>
       <name>Aragon</name>
       <state_code>AR</state_code>
@@ -671730,9 +671999,15 @@
       </cities>
     </states>
     <states>
-      <id>1153</id>
-      <name>Badajoz Province</name>
-      <state_code>BA</state_code>
+      <id>1160</id>
+      <name>Asturias</name>
+      <state_code>AS</state_code>
+      <cities/>
+    </states>
+    <states>
+      <id>1189</id>
+      <name>Ávila</name>
+      <state_code>AV</state_code>
       <cities/>
     </states>
     <states>
@@ -672261,12 +672536,6 @@
         <latitude>39.56894000</latitude>
         <longitude>3.08815000</longitude>
       </cities>
-    </states>
-    <states>
-      <id>1180</id>
-      <name>Barcelona Province</name>
-      <state_code>B</state_code>
-      <cities/>
     </states>
     <states>
       <id>1191</id>
@@ -673168,27 +673437,9 @@
       </cities>
     </states>
     <states>
-      <id>1186</id>
-      <name>Biscay</name>
-      <state_code>BI</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>1146</id>
       <name>Burgos Province</name>
       <state_code>BU</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1196</id>
-      <name>Cáceres Province</name>
-      <state_code>CC</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1201</id>
-      <name>Cádiz Province</name>
-      <state_code>CA</state_code>
       <cities/>
     </states>
     <states>
@@ -673829,7 +674080,7 @@
     <states>
       <id>1170</id>
       <name>Cantabria</name>
-      <state_code>S</state_code>
+      <state_code>CB</state_code>
       <cities>
         <id>32360</id>
         <name>Ampuero</name>
@@ -674180,12 +674431,6 @@
       </cities>
     </states>
     <states>
-      <id>1207</id>
-      <name>Castellón Province</name>
-      <state_code>CS</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>1184</id>
       <name>Castile and León</name>
       <state_code>CL</state_code>
@@ -674193,7 +674438,7 @@
     </states>
     <states>
       <id>1205</id>
-      <name>Castile-La Mancha</name>
+      <name>Castilla La Mancha</name>
       <state_code>CM</state_code>
       <cities>
         <id>31921</id>
@@ -682415,1157 +682660,6 @@
       </cities>
     </states>
     <states>
-      <id>1150</id>
-      <name>Ciudad Real Province</name>
-      <state_code>CR</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1158</id>
-      <name>Community of Madrid</name>
-      <state_code>MD</state_code>
-      <cities>
-        <id>31985</id>
-        <name>Ajalvir</name>
-        <latitude>40.53205000</latitude>
-        <longitude>-3.47841000</longitude>
-      </cities>
-      <cities>
-        <id>31995</id>
-        <name>Alameda del Valle</name>
-        <latitude>40.91870000</latitude>
-        <longitude>-3.84243000</longitude>
-      </cities>
-      <cities>
-        <id>32072</id>
-        <name>Alcalá de Henares</name>
-        <latitude>40.48205000</latitude>
-        <longitude>-3.35996000</longitude>
-      </cities>
-      <cities>
-        <id>32097</id>
-        <name>Alcobendas</name>
-        <latitude>40.54746000</latitude>
-        <longitude>-3.64197000</longitude>
-      </cities>
-      <cities>
-        <id>32119</id>
-        <name>Alcorcón</name>
-        <latitude>40.34582000</latitude>
-        <longitude>-3.82487000</longitude>
-      </cities>
-      <cities>
-        <id>32144</id>
-        <name>Aldea del Fresno</name>
-        <latitude>40.32360000</latitude>
-        <longitude>-4.20319000</longitude>
-      </cities>
-      <cities>
-        <id>32219</id>
-        <name>Algete</name>
-        <latitude>40.59711000</latitude>
-        <longitude>-3.49743000</longitude>
-      </cities>
-      <cities>
-        <id>32327</id>
-        <name>Alpedrete</name>
-        <latitude>40.65889000</latitude>
-        <longitude>-4.02512000</longitude>
-      </cities>
-      <cities>
-        <id>32351</id>
-        <name>Ambite</name>
-        <latitude>40.33190000</latitude>
-        <longitude>-3.18034000</longitude>
-      </cities>
-      <cities>
-        <id>32368</id>
-        <name>Anchuelo</name>
-        <latitude>40.46527000</latitude>
-        <longitude>-3.26838000</longitude>
-      </cities>
-      <cities>
-        <id>32412</id>
-        <name>Aranjuez</name>
-        <latitude>40.03108000</latitude>
-        <longitude>-3.60246000</longitude>
-      </cities>
-      <cities>
-        <id>32462</id>
-        <name>Arganda</name>
-        <latitude>40.30076000</latitude>
-        <longitude>-3.43722000</longitude>
-      </cities>
-      <cities>
-        <id>32464</id>
-        <name>Arganzuela</name>
-        <latitude>40.40021000</latitude>
-        <longitude>-3.69618000</longitude>
-      </cities>
-      <cities>
-        <id>32513</id>
-        <name>Arroyomolinos</name>
-        <latitude>40.26951000</latitude>
-        <longitude>-3.91946000</longitude>
-      </cities>
-      <cities>
-        <id>32636</id>
-        <name>Barajas de Madrid</name>
-        <latitude>40.47366000</latitude>
-        <longitude>-3.57777000</longitude>
-      </cities>
-      <cities>
-        <id>32695</id>
-        <name>Batres</name>
-        <latitude>40.20981000</latitude>
-        <longitude>-3.92331000</longitude>
-      </cities>
-      <cities>
-        <id>32725</id>
-        <name>Becerril de la Sierra</name>
-        <latitude>40.71699000</latitude>
-        <longitude>-3.98858000</longitude>
-      </cities>
-      <cities>
-        <id>32750</id>
-        <name>Belmonte de Tajo</name>
-        <latitude>40.13162000</latitude>
-        <longitude>-3.33580000</longitude>
-      </cities>
-      <cities>
-        <id>32875</id>
-        <name>Berzosa del Lozoya</name>
-        <latitude>40.97320000</latitude>
-        <longitude>-3.52009000</longitude>
-      </cities>
-      <cities>
-        <id>32917</id>
-        <name>Boadilla del Monte</name>
-        <latitude>40.40500000</latitude>
-        <longitude>-3.87835000</longitude>
-      </cities>
-      <cities>
-        <id>32918</id>
-        <name>Boalo</name>
-        <latitude>40.71603000</latitude>
-        <longitude>-3.91656000</longitude>
-      </cities>
-      <cities>
-        <id>32969</id>
-        <name>Braojos</name>
-        <latitude>41.04040000</latitude>
-        <longitude>-3.64329000</longitude>
-      </cities>
-      <cities>
-        <id>32975</id>
-        <name>Brea de Tajo</name>
-        <latitude>40.23333000</latitude>
-        <longitude>-3.10000000</longitude>
-      </cities>
-      <cities>
-        <id>32994</id>
-        <name>Brunete</name>
-        <latitude>40.40532000</latitude>
-        <longitude>-3.99850000</longitude>
-      </cities>
-      <cities>
-        <id>33013</id>
-        <name>Buitrago del Lozoya</name>
-        <latitude>40.99090000</latitude>
-        <longitude>-3.63365000</longitude>
-      </cities>
-      <cities>
-        <id>33038</id>
-        <name>Bustarviejo</name>
-        <latitude>40.85720000</latitude>
-        <longitude>-3.70766000</longitude>
-      </cities>
-      <cities>
-        <id>33068</id>
-        <name>Cabanillas de la Sierra</name>
-        <latitude>40.82009000</latitude>
-        <longitude>-3.62438000</longitude>
-      </cities>
-      <cities>
-        <id>33115</id>
-        <name>Cadalso de los Vidrios</name>
-        <latitude>40.30067000</latitude>
-        <longitude>-4.43348000</longitude>
-      </cities>
-      <cities>
-        <id>33170</id>
-        <name>Camarma de Esteruelas</name>
-        <latitude>40.55032000</latitude>
-        <longitude>-3.37295000</longitude>
-      </cities>
-      <cities>
-        <id>33201</id>
-        <name>Campo Real</name>
-        <latitude>40.33333000</latitude>
-        <longitude>-3.38333000</longitude>
-      </cities>
-      <cities>
-        <id>33232</id>
-        <name>Canencia</name>
-        <latitude>40.90728000</latitude>
-        <longitude>-3.73523000</longitude>
-      </cities>
-      <cities>
-        <id>33274</id>
-        <name>Carabaña</name>
-        <latitude>40.25424000</latitude>
-        <longitude>-3.23572000</longitude>
-      </cities>
-      <cities>
-        <id>33272</id>
-        <name>Carabanchel</name>
-        <latitude>40.39094000</latitude>
-        <longitude>-3.72420000</longitude>
-      </cities>
-      <cities>
-        <id>33354</id>
-        <name>Casarrubuelos</name>
-        <latitude>40.17146000</latitude>
-        <longitude>-3.83105000</longitude>
-      </cities>
-      <cities>
-        <id>33570</id>
-        <name>Cenicientos</name>
-        <latitude>40.26459000</latitude>
-        <longitude>-4.46683000</longitude>
-      </cities>
-      <cities>
-        <id>33579</id>
-        <name>Cercedilla</name>
-        <latitude>40.74101000</latitude>
-        <longitude>-4.05644000</longitude>
-      </cities>
-      <cities>
-        <id>33596</id>
-        <name>Cervera de Buitrago</name>
-        <latitude>40.91988000</latitude>
-        <longitude>-3.52702000</longitude>
-      </cities>
-      <cities>
-        <id>33615</id>
-        <name>Chamartín</name>
-        <latitude>40.46206000</latitude>
-        <longitude>-3.67660000</longitude>
-      </cities>
-      <cities>
-        <id>33616</id>
-        <name>Chamberí</name>
-        <latitude>40.43404000</latitude>
-        <longitude>-3.70379000</longitude>
-      </cities>
-      <cities>
-        <id>33618</id>
-        <name>Chapinería</name>
-        <latitude>40.37891000</latitude>
-        <longitude>-4.21009000</longitude>
-      </cities>
-      <cities>
-        <id>33640</id>
-        <name>Chinchón</name>
-        <latitude>40.14020000</latitude>
-        <longitude>-3.42267000</longitude>
-      </cities>
-      <cities>
-        <id>33658</id>
-        <name>Ciempozuelos</name>
-        <latitude>40.15913000</latitude>
-        <longitude>-3.62103000</longitude>
-      </cities>
-      <cities>
-        <id>33695</id>
-        <name>City Center</name>
-        <latitude>40.41831000</latitude>
-        <longitude>-3.70275000</longitude>
-      </cities>
-      <cities>
-        <id>33696</id>
-        <name>Ciudad Lineal</name>
-        <latitude>40.44505000</latitude>
-        <longitude>-3.65132000</longitude>
-      </cities>
-      <cities>
-        <id>33709</id>
-        <name>Cobeña</name>
-        <latitude>40.56667000</latitude>
-        <longitude>-3.50000000</longitude>
-      </cities>
-      <cities>
-        <id>33733</id>
-        <name>Collado Mediano</name>
-        <latitude>40.69326000</latitude>
-        <longitude>-4.02280000</longitude>
-      </cities>
-      <cities>
-        <id>33736</id>
-        <name>Collado-Villalba</name>
-        <latitude>40.63506000</latitude>
-        <longitude>-4.00486000</longitude>
-      </cities>
-      <cities>
-        <id>33744</id>
-        <name>Colmenar de Oreja</name>
-        <latitude>40.10675000</latitude>
-        <longitude>-3.38547000</longitude>
-      </cities>
-      <cities>
-        <id>33745</id>
-        <name>Colmenar del Arroyo</name>
-        <latitude>40.41897000</latitude>
-        <longitude>-4.19845000</longitude>
-      </cities>
-      <cities>
-        <id>33742</id>
-        <name>Colmenar Viejo</name>
-        <latitude>40.65909000</latitude>
-        <longitude>-3.76762000</longitude>
-      </cities>
-      <cities>
-        <id>33746</id>
-        <name>Colmenarejo</name>
-        <latitude>40.56063000</latitude>
-        <longitude>-4.01713000</longitude>
-      </cities>
-      <cities>
-        <id>33796</id>
-        <name>Corpa</name>
-        <latitude>40.42327000</latitude>
-        <longitude>-3.26003000</longitude>
-      </cities>
-      <cities>
-        <id>33817</id>
-        <name>Coslada</name>
-        <latitude>40.42378000</latitude>
-        <longitude>-3.56129000</longitude>
-      </cities>
-      <cities>
-        <id>33845</id>
-        <name>Cubas</name>
-        <latitude>40.18900000</latitude>
-        <longitude>-3.83526000</longitude>
-      </cities>
-      <cities>
-        <id>33908</id>
-        <name>Daganzo de Arriba</name>
-        <latitude>40.54293000</latitude>
-        <longitude>-3.45457000</longitude>
-      </cities>
-      <cities>
-        <id>34029</id>
-        <name>El Álamo</name>
-        <latitude>40.23066000</latitude>
-        <longitude>-3.99447000</longitude>
-      </cities>
-      <cities>
-        <id>33997</id>
-        <name>El Escorial</name>
-        <latitude>40.58254000</latitude>
-        <longitude>-4.12846000</longitude>
-      </cities>
-      <cities>
-        <id>34002</id>
-        <name>El Molar</name>
-        <latitude>40.73215000</latitude>
-        <longitude>-3.57969000</longitude>
-      </cities>
-      <cities>
-        <id>34003</id>
-        <name>El Pardo</name>
-        <latitude>40.51454000</latitude>
-        <longitude>-3.77253000</longitude>
-      </cities>
-      <cities>
-        <id>34024</id>
-        <name>El Vellón</name>
-        <latitude>40.76495000</latitude>
-        <longitude>-3.57969000</longitude>
-      </cities>
-      <cities>
-        <id>34147</id>
-        <name>Estremera</name>
-        <latitude>40.18333000</latitude>
-        <longitude>-3.10000000</longitude>
-      </cities>
-      <cities>
-        <id>34249</id>
-        <name>Fresnedillas</name>
-        <latitude>40.48704000</latitude>
-        <longitude>-4.17146000</longitude>
-      </cities>
-      <cities>
-        <id>34259</id>
-        <name>Fresno de Torote</name>
-        <latitude>40.59040000</latitude>
-        <longitude>-3.41003000</longitude>
-      </cities>
-      <cities>
-        <id>34277</id>
-        <name>Fuencarral-El Pardo</name>
-        <latitude>40.49840000</latitude>
-        <longitude>-3.73140000</longitude>
-      </cities>
-      <cities>
-        <id>34283</id>
-        <name>Fuenlabrada</name>
-        <latitude>40.28419000</latitude>
-        <longitude>-3.79415000</longitude>
-      </cities>
-      <cities>
-        <id>34302</id>
-        <name>Fuente el Saz</name>
-        <latitude>40.63215000</latitude>
-        <longitude>-3.51146000</longitude>
-      </cities>
-      <cities>
-        <id>34361</id>
-        <name>Fuentidueña de Tajo</name>
-        <latitude>40.11574000</latitude>
-        <longitude>-3.15718000</longitude>
-      </cities>
-      <cities>
-        <id>34373</id>
-        <name>Galapagar</name>
-        <latitude>40.57830000</latitude>
-        <longitude>-4.00426000</longitude>
-      </cities>
-      <cities>
-        <id>34415</id>
-        <name>Garganta de los Montes</name>
-        <latitude>40.91992000</latitude>
-        <longitude>-3.68375000</longitude>
-      </cities>
-      <cities>
-        <id>34430</id>
-        <name>Gascones</name>
-        <latitude>41.01843000</latitude>
-        <longitude>-3.64217000</longitude>
-      </cities>
-      <cities>
-        <id>34459</id>
-        <name>Getafe</name>
-        <latitude>40.30571000</latitude>
-        <longitude>-3.73295000</longitude>
-      </cities>
-      <cities>
-        <id>34516</id>
-        <name>Griñón</name>
-        <latitude>40.21249000</latitude>
-        <longitude>-3.85482000</longitude>
-      </cities>
-      <cities>
-        <id>34524</id>
-        <name>Guadalix de la Sierra</name>
-        <latitude>40.78496000</latitude>
-        <longitude>-3.69347000</longitude>
-      </cities>
-      <cities>
-        <id>34528</id>
-        <name>Guadarrama</name>
-        <latitude>40.67270000</latitude>
-        <longitude>-4.08949000</longitude>
-      </cities>
-      <cities>
-        <id>34652</id>
-        <name>Horcajo de la Sierra</name>
-        <latitude>41.06723000</latitude>
-        <longitude>-3.58534000</longitude>
-      </cities>
-      <cities>
-        <id>34654</id>
-        <name>Horcajuelo de la Sierra</name>
-        <latitude>41.06019000</latitude>
-        <longitude>-3.54640000</longitude>
-      </cities>
-      <cities>
-        <id>34667</id>
-        <name>Hortaleza</name>
-        <latitude>40.47444000</latitude>
-        <longitude>-3.64110000</longitude>
-      </cities>
-      <cities>
-        <id>34674</id>
-        <name>Hoyo de Manzanares</name>
-        <latitude>40.62265000</latitude>
-        <longitude>-3.90733000</longitude>
-      </cities>
-      <cities>
-        <id>34701</id>
-        <name>Humanes de Madrid</name>
-        <latitude>40.25038000</latitude>
-        <longitude>-3.83062000</longitude>
-      </cities>
-      <cities>
-        <id>34860</id>
-        <name>La Cabrera</name>
-        <latitude>40.86386000</latitude>
-        <longitude>-3.61265000</longitude>
-      </cities>
-      <cities>
-        <id>34985</id>
-        <name>Las Matas</name>
-        <latitude>40.55779000</latitude>
-        <longitude>-3.89173000</longitude>
-      </cities>
-      <cities>
-        <id>34991</id>
-        <name>Las Rozas de Madrid</name>
-        <latitude>40.49292000</latitude>
-        <longitude>-3.87371000</longitude>
-      </cities>
-      <cities>
-        <id>34992</id>
-        <name>Las Tablas</name>
-        <latitude>40.50649000</latitude>
-        <longitude>-3.67235000</longitude>
-      </cities>
-      <cities>
-        <id>35002</id>
-        <name>Latina</name>
-        <latitude>40.38897000</latitude>
-        <longitude>-3.74569000</longitude>
-      </cities>
-      <cities>
-        <id>35021</id>
-        <name>Leganés</name>
-        <latitude>40.32718000</latitude>
-        <longitude>-3.76350000</longitude>
-      </cities>
-      <cities>
-        <id>35099</id>
-        <name>Loeches</name>
-        <latitude>40.38343000</latitude>
-        <longitude>-3.41460000</longitude>
-      </cities>
-      <cities>
-        <id>35127</id>
-        <name>Los Molinos</name>
-        <latitude>40.71578000</latitude>
-        <longitude>-4.07402000</longitude>
-      </cities>
-      <cities>
-        <id>35134</id>
-        <name>Los Santos de la Humosa</name>
-        <latitude>40.49968000</latitude>
-        <longitude>-3.25332000</longitude>
-      </cities>
-      <cities>
-        <id>35145</id>
-        <name>Lozoya</name>
-        <latitude>40.94949000</latitude>
-        <longitude>-3.79086000</longitude>
-      </cities>
-      <cities>
-        <id>35186</id>
-        <name>Madrid</name>
-        <latitude>40.41650000</latitude>
-        <longitude>-3.70256000</longitude>
-      </cities>
-      <cities>
-        <id>35214</id>
-        <name>Majadahonda</name>
-        <latitude>40.47353000</latitude>
-        <longitude>-3.87182000</longitude>
-      </cities>
-      <cities>
-        <id>35267</id>
-        <name>Manzanares el Real</name>
-        <latitude>40.72627000</latitude>
-        <longitude>-3.86265000</longitude>
-      </cities>
-      <cities>
-        <id>35366</id>
-        <name>Meco</name>
-        <latitude>40.55274000</latitude>
-        <longitude>-3.32894000</longitude>
-      </cities>
-      <cities>
-        <id>35384</id>
-        <name>Mejorada del Campo</name>
-        <latitude>40.39283000</latitude>
-        <longitude>-3.48194000</longitude>
-      </cities>
-      <cities>
-        <id>35442</id>
-        <name>Miraflores de la Sierra</name>
-        <latitude>40.81550000</latitude>
-        <longitude>-3.76213000</longitude>
-      </cities>
-      <cities>
-        <id>35501</id>
-        <name>Moncloa-Aravaca</name>
-        <latitude>40.43547000</latitude>
-        <longitude>-3.73170000</longitude>
-      </cities>
-      <cities>
-        <id>35555</id>
-        <name>Montejo de la Sierra</name>
-        <latitude>41.05955000</latitude>
-        <longitude>-3.52993000</longitude>
-      </cities>
-      <cities>
-        <id>35602</id>
-        <name>Moraleja de Enmedio</name>
-        <latitude>40.26125000</latitude>
-        <longitude>-3.85963000</longitude>
-      </cities>
-      <cities>
-        <id>35612</id>
-        <name>Moralzarzal</name>
-        <latitude>40.67816000</latitude>
-        <longitude>-3.97070000</longitude>
-      </cities>
-      <cities>
-        <id>35616</id>
-        <name>Morata de Tajuña</name>
-        <latitude>40.22680000</latitude>
-        <longitude>-3.43269000</longitude>
-      </cities>
-      <cities>
-        <id>35617</id>
-        <name>Moratalaz</name>
-        <latitude>40.40742000</latitude>
-        <longitude>-3.64935000</longitude>
-      </cities>
-      <cities>
-        <id>35708</id>
-        <name>Móstoles</name>
-        <latitude>40.32234000</latitude>
-        <longitude>-3.86496000</longitude>
-      </cities>
-      <cities>
-        <id>35731</id>
-        <name>Navacerrada</name>
-        <latitude>40.72905000</latitude>
-        <longitude>-4.01696000</longitude>
-      </cities>
-      <cities>
-        <id>35742</id>
-        <name>Navalafuente</name>
-        <latitude>40.82063000</latitude>
-        <longitude>-3.67266000</longitude>
-      </cities>
-      <cities>
-        <id>35743</id>
-        <name>Navalagamella</name>
-        <latitude>40.46894000</latitude>
-        <longitude>-4.12334000</longitude>
-      </cities>
-      <cities>
-        <id>35744</id>
-        <name>Navalcarnero</name>
-        <latitude>40.28908000</latitude>
-        <longitude>-4.01197000</longitude>
-      </cities>
-      <cities>
-        <id>35758</id>
-        <name>Navalquejigo</name>
-        <latitude>40.60705000</latitude>
-        <longitude>-4.04966000</longitude>
-      </cities>
-      <cities>
-        <id>35783</id>
-        <name>Navas del Rey</name>
-        <latitude>40.38610000</latitude>
-        <longitude>-4.25117000</longitude>
-      </cities>
-      <cities>
-        <id>35835</id>
-        <name>Nuevo Baztán</name>
-        <latitude>40.36731000</latitude>
-        <longitude>-3.24125000</longitude>
-      </cities>
-      <cities>
-        <id>36053</id>
-        <name>Paracuellos de Jarama</name>
-        <latitude>40.50353000</latitude>
-        <longitude>-3.52775000</longitude>
-      </cities>
-      <cities>
-        <id>36070</id>
-        <name>Parla</name>
-        <latitude>40.23604000</latitude>
-        <longitude>-3.76752000</longitude>
-      </cities>
-      <cities>
-        <id>36082</id>
-        <name>Patones</name>
-        <latitude>40.85563000</latitude>
-        <longitude>-3.48490000</longitude>
-      </cities>
-      <cities>
-        <id>36097</id>
-        <name>Pedrezuela</name>
-        <latitude>40.74277000</latitude>
-        <longitude>-3.59980000</longitude>
-      </cities>
-      <cities>
-        <id>36122</id>
-        <name>Pelayos de la Presa</name>
-        <latitude>40.36051000</latitude>
-        <longitude>-4.33462000</longitude>
-      </cities>
-      <cities>
-        <id>36139</id>
-        <name>Perales de Tajuña</name>
-        <latitude>40.23130000</latitude>
-        <longitude>-3.35021000</longitude>
-      </cities>
-      <cities>
-        <id>36160</id>
-        <name>Pezuela de las Torres</name>
-        <latitude>40.41613000</latitude>
-        <longitude>-3.17363000</longitude>
-      </cities>
-      <cities>
-        <id>36192</id>
-        <name>Pinar de Chamartín</name>
-        <latitude>40.47903000</latitude>
-        <longitude>-3.66836000</longitude>
-      </cities>
-      <cities>
-        <id>36207</id>
-        <name>Pinilla del Valle</name>
-        <latitude>40.92448000</latitude>
-        <longitude>-3.81688000</longitude>
-      </cities>
-      <cities>
-        <id>36215</id>
-        <name>Pinto</name>
-        <latitude>40.24147000</latitude>
-        <longitude>-3.69999000</longitude>
-      </cities>
-      <cities>
-        <id>36331</id>
-        <name>Pozuelo de Alarcón</name>
-        <latitude>40.43293000</latitude>
-        <longitude>-3.81338000</longitude>
-      </cities>
-      <cities>
-        <id>36338</id>
-        <name>Pozuelo del Rey</name>
-        <latitude>40.36463000</latitude>
-        <longitude>-3.31699000</longitude>
-      </cities>
-      <cities>
-        <id>36406</id>
-        <name>Prádena del Rincón</name>
-        <latitude>41.04414000</latitude>
-        <longitude>-3.54075000</longitude>
-      </cities>
-      <cities>
-        <id>36379</id>
-        <name>Provincia de Madrid</name>
-        <latitude>40.40225000</latitude>
-        <longitude>-3.71029000</longitude>
-      </cities>
-      <cities>
-        <id>36437</id>
-        <name>Puente de Vallecas</name>
-        <latitude>40.39354000</latitude>
-        <longitude>-3.66200000</longitude>
-      </cities>
-      <cities>
-        <id>36500</id>
-        <name>Quijorna</name>
-        <latitude>40.42763000</latitude>
-        <longitude>-4.05683000</longitude>
-      </cities>
-      <cities>
-        <id>36547</id>
-        <name>Rascafría</name>
-        <latitude>40.90407000</latitude>
-        <longitude>-3.87898000</longitude>
-      </cities>
-      <cities>
-        <id>36563</id>
-        <name>Redueña</name>
-        <latitude>40.81685000</latitude>
-        <longitude>-3.59837000</longitude>
-      </cities>
-      <cities>
-        <id>36587</id>
-        <name>Retiro</name>
-        <latitude>40.41317000</latitude>
-        <longitude>-3.68307000</longitude>
-      </cities>
-      <cities>
-        <id>36613</id>
-        <name>Ribatejada</name>
-        <latitude>40.66420000</latitude>
-        <longitude>-3.38976000</longitude>
-      </cities>
-      <cities>
-        <id>36639</id>
-        <name>Rivas-Vaciamadrid</name>
-        <latitude>40.32605000</latitude>
-        <longitude>-3.51089000</longitude>
-      </cities>
-      <cities>
-        <id>36651</id>
-        <name>Robledillo de la Jara</name>
-        <latitude>40.95054000</latitude>
-        <longitude>-3.52181000</longitude>
-      </cities>
-      <cities>
-        <id>36654</id>
-        <name>Robledo de Chavela</name>
-        <latitude>40.50062000</latitude>
-        <longitude>-4.23635000</longitude>
-      </cities>
-      <cities>
-        <id>36686</id>
-        <name>Rozas de Puerto Real</name>
-        <latitude>40.31667000</latitude>
-        <longitude>-4.48333000</longitude>
-      </cities>
-      <cities>
-        <id>36745</id>
-        <name>Salamanca</name>
-        <latitude>40.42972000</latitude>
-        <longitude>-3.67975000</longitude>
-      </cities>
-      <cities>
-        <id>36799</id>
-        <name>San Agustín del Guadalix</name>
-        <latitude>40.67882000</latitude>
-        <longitude>-3.61639000</longitude>
-      </cities>
-      <cities>
-        <id>36812</id>
-        <name>San Blas-Canillejas</name>
-        <latitude>40.43893000</latitude>
-        <longitude>-3.61537000</longitude>
-      </cities>
-      <cities>
-        <id>36836</id>
-        <name>San Fernando de Henares</name>
-        <latitude>40.42386000</latitude>
-        <longitude>-3.53261000</longitude>
-      </cities>
-      <cities>
-        <id>36858</id>
-        <name>San Lorenzo de El Escorial</name>
-        <latitude>40.59144000</latitude>
-        <longitude>-4.14738000</longitude>
-      </cities>
-      <cities>
-        <id>36873</id>
-        <name>San Martín de la Vega</name>
-        <latitude>40.20735000</latitude>
-        <longitude>-3.57063000</longitude>
-      </cities>
-      <cities>
-        <id>36870</id>
-        <name>San Martín de Valdeiglesias</name>
-        <latitude>40.36185000</latitude>
-        <longitude>-4.39831000</longitude>
-      </cities>
-      <cities>
-        <id>36922</id>
-        <name>San Sebastián de los Reyes</name>
-        <latitude>40.55555000</latitude>
-        <longitude>-3.62733000</longitude>
-      </cities>
-      <cities>
-        <id>37079</id>
-        <name>Santa María de la Alameda</name>
-        <latitude>40.59492000</latitude>
-        <longitude>-4.25772000</longitude>
-      </cities>
-      <cities>
-        <id>37146</id>
-        <name>Santorcaz</name>
-        <latitude>40.47176000</latitude>
-        <longitude>-3.23462000</longitude>
-      </cities>
-      <cities>
-        <id>37225</id>
-        <name>Serranillos del Valle</name>
-        <latitude>40.20211000</latitude>
-        <longitude>-3.88187000</longitude>
-      </cities>
-      <cities>
-        <id>37240</id>
-        <name>Sevilla La Nueva</name>
-        <latitude>40.34775000</latitude>
-        <longitude>-4.02727000</longitude>
-      </cities>
-      <cities>
-        <id>37354</id>
-        <name>Talamanca de Jarama</name>
-        <latitude>40.74325000</latitude>
-        <longitude>-3.50889000</longitude>
-      </cities>
-      <cities>
-        <id>37417</id>
-        <name>Tetuán de las Victorias</name>
-        <latitude>40.45975000</latitude>
-        <longitude>-3.69750000</longitude>
-      </cities>
-      <cities>
-        <id>37422</id>
-        <name>Tielmes</name>
-        <latitude>40.24652000</latitude>
-        <longitude>-3.31461000</longitude>
-      </cities>
-      <cities>
-        <id>37431</id>
-        <name>Titulcia</name>
-        <latitude>40.13537000</latitude>
-        <longitude>-3.56763000</longitude>
-      </cities>
-      <cities>
-        <id>37538</id>
-        <name>Torrejón de Ardoz</name>
-        <latitude>40.45535000</latitude>
-        <longitude>-3.46973000</longitude>
-      </cities>
-      <cities>
-        <id>37540</id>
-        <name>Torrejón de la Calzada</name>
-        <latitude>40.19886000</latitude>
-        <longitude>-3.79700000</longitude>
-      </cities>
-      <cities>
-        <id>37539</id>
-        <name>Torrejón de Velasco</name>
-        <latitude>40.18746000</latitude>
-        <longitude>-3.77681000</longitude>
-      </cities>
-      <cities>
-        <id>37543</id>
-        <name>Torrelaguna</name>
-        <latitude>40.82764000</latitude>
-        <longitude>-3.53683000</longitude>
-      </cities>
-      <cities>
-        <id>37551</id>
-        <name>Torrelodones</name>
-        <latitude>40.57654000</latitude>
-        <longitude>-3.92658000</longitude>
-      </cities>
-      <cities>
-        <id>37557</id>
-        <name>Torremocha de Jarama</name>
-        <latitude>40.84148000</latitude>
-        <longitude>-3.49666000</longitude>
-      </cities>
-      <cities>
-        <id>37577</id>
-        <name>Torres de la Alameda</name>
-        <latitude>40.40264000</latitude>
-        <longitude>-3.35767000</longitude>
-      </cities>
-      <cities>
-        <id>37629</id>
-        <name>Tres Cantos</name>
-        <latitude>40.60092000</latitude>
-        <longitude>-3.70806000</longitude>
-      </cities>
-      <cities>
-        <id>37705</id>
-        <name>Usera</name>
-        <latitude>40.38866000</latitude>
-        <longitude>-3.70035000</longitude>
-      </cities>
-      <cities>
-        <id>37726</id>
-        <name>Valdaracete</name>
-        <latitude>40.20770000</latitude>
-        <longitude>-3.19101000</longitude>
-      </cities>
-      <cities>
-        <id>37735</id>
-        <name>Valdeavero</name>
-        <latitude>40.62980000</latitude>
-        <longitude>-3.33001000</longitude>
-      </cities>
-      <cities>
-        <id>37765</id>
-        <name>Valdemanco</name>
-        <latitude>40.87039000</latitude>
-        <longitude>-3.65873000</longitude>
-      </cities>
-      <cities>
-        <id>37767</id>
-        <name>Valdemaqueda</name>
-        <latitude>40.51201000</latitude>
-        <longitude>-4.29722000</longitude>
-      </cities>
-      <cities>
-        <id>37772</id>
-        <name>Valdemorillo</name>
-        <latitude>40.50064000</latitude>
-        <longitude>-4.06710000</longitude>
-      </cities>
-      <cities>
-        <id>37774</id>
-        <name>Valdemoro</name>
-        <latitude>40.19081000</latitude>
-        <longitude>-3.67887000</longitude>
-      </cities>
-      <cities>
-        <id>37781</id>
-        <name>Valdeolmos</name>
-        <latitude>40.63708000</latitude>
-        <longitude>-3.45064000</longitude>
-      </cities>
-      <cities>
-        <id>37786</id>
-        <name>Valdepiélagos</name>
-        <latitude>40.75842000</latitude>
-        <longitude>-3.46163000</longitude>
-      </cities>
-      <cities>
-        <id>37804</id>
-        <name>Valdetorres de Jarama</name>
-        <latitude>40.69366000</latitude>
-        <longitude>-3.51156000</longitude>
-      </cities>
-      <cities>
-        <id>37810</id>
-        <name>Valdilecha</name>
-        <latitude>40.29530000</latitude>
-        <longitude>-3.30233000</longitude>
-      </cities>
-      <cities>
-        <id>37882</id>
-        <name>Valverde de Alcalá</name>
-        <latitude>40.41667000</latitude>
-        <longitude>-3.29631000</longitude>
-      </cities>
-      <cities>
-        <id>37931</id>
-        <name>Velilla de San Antonio</name>
-        <latitude>40.36516000</latitude>
-        <longitude>-3.48484000</longitude>
-      </cities>
-      <cities>
-        <id>37946</id>
-        <name>Venturada</name>
-        <latitude>40.79717000</latitude>
-        <longitude>-3.61974000</longitude>
-      </cities>
-      <cities>
-        <id>37963</id>
-        <name>Vicálvaro</name>
-        <latitude>40.40000000</latitude>
-        <longitude>-3.60000000</longitude>
-      </cities>
-      <cities>
-        <id>38009</id>
-        <name>Villa de Vallecas</name>
-        <latitude>40.36695000</latitude>
-        <longitude>-3.60146000</longitude>
-      </cities>
-      <cities>
-        <id>38012</id>
-        <name>Villa del Prado</name>
-        <latitude>40.27852000</latitude>
-        <longitude>-4.30534000</longitude>
-      </cities>
-      <cities>
-        <id>38034</id>
-        <name>Villaconejos</name>
-        <latitude>40.10139000</latitude>
-        <longitude>-3.48258000</longitude>
-      </cities>
-      <cities>
-        <id>38105</id>
-        <name>Villalbilla</name>
-        <latitude>40.43044000</latitude>
-        <longitude>-3.29904000</longitude>
-      </cities>
-      <cities>
-        <id>38131</id>
-        <name>Villamanrique de Tajo</name>
-        <latitude>40.06617000</latitude>
-        <longitude>-3.23668000</longitude>
-      </cities>
-      <cities>
-        <id>38133</id>
-        <name>Villamanta</name>
-        <latitude>40.29858000</latitude>
-        <longitude>-4.10880000</longitude>
-      </cities>
-      <cities>
-        <id>38134</id>
-        <name>Villamantilla</name>
-        <latitude>40.33846000</latitude>
-        <longitude>-4.12986000</longitude>
-      </cities>
-      <cities>
-        <id>38196</id>
-        <name>Villanueva de la Cañada</name>
-        <latitude>40.44689000</latitude>
-        <longitude>-4.00428000</longitude>
-      </cities>
-      <cities>
-        <id>38187</id>
-        <name>Villanueva de Perales</name>
-        <latitude>40.34541000</latitude>
-        <longitude>-4.09891000</longitude>
-      </cities>
-      <cities>
-        <id>38219</id>
-        <name>Villanueva del Pardillo</name>
-        <latitude>40.49014000</latitude>
-        <longitude>-3.96383000</longitude>
-      </cities>
-      <cities>
-        <id>38257</id>
-        <name>Villar del Olmo</name>
-        <latitude>40.33468000</latitude>
-        <longitude>-3.23399000</longitude>
-      </cities>
-      <cities>
-        <id>38273</id>
-        <name>Villarejo de Salvanés</name>
-        <latitude>40.16663000</latitude>
-        <longitude>-3.27277000</longitude>
-      </cities>
-      <cities>
-        <id>38343</id>
-        <name>Villaverde</name>
-        <latitude>40.35000000</latitude>
-        <longitude>-3.70000000</longitude>
-      </cities>
-      <cities>
-        <id>38357</id>
-        <name>Villaviciosa de Odón</name>
-        <latitude>40.35810000</latitude>
-        <longitude>-3.90430000</longitude>
-      </cities>
-      <cities>
-        <id>38360</id>
-        <name>Villavieja del Lozoya</name>
-        <latitude>41.00396000</latitude>
-        <longitude>-3.66870000</longitude>
-      </cities>
-      <cities>
-        <id>38482</id>
-        <name>Zarzalejo</name>
-        <latitude>40.54811000</latitude>
-        <longitude>-4.18176000</longitude>
-      </cities>
-    </states>
-    <states>
-      <id>1197</id>
-      <name>Córdoba Province</name>
-      <state_code>CO</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1169</id>
-      <name>Cuenca Province</name>
-      <state_code>CU</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>1190</id>
       <name>Extremadura</name>
       <state_code>EX</state_code>
@@ -687032,48 +686126,6 @@
       </cities>
     </states>
     <states>
-      <id>1202</id>
-      <name>Gipuzkoa</name>
-      <state_code>SS</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1178</id>
-      <name>Girona Province</name>
-      <state_code>GI</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1194</id>
-      <name>Granada Province</name>
-      <state_code>GR</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1172</id>
-      <name>Guadalajara Province</name>
-      <state_code>GU</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1199</id>
-      <name>Huelva Province</name>
-      <state_code>H</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1163</id>
-      <name>Huesca Province</name>
-      <state_code>HU</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1181</id>
-      <name>Jaén Province</name>
-      <state_code>J</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>1171</id>
       <name>La Rioja</name>
       <state_code>RI</state_code>
@@ -688033,14 +687085,8 @@
       </cities>
     </states>
     <states>
-      <id>1166</id>
-      <name>Las Palmas Province</name>
-      <state_code>GC</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>1200</id>
-      <name>León Province</name>
+      <name>Léon</name>
       <state_code>LE</state_code>
       <cities>
         <id>31899</id>
@@ -699732,28 +698778,1137 @@
       </cities>
     </states>
     <states>
-      <id>1195</id>
-      <name>Lleida Province</name>
-      <state_code>L</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1187</id>
-      <name>Lugo Province</name>
-      <state_code>LU</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1149</id>
-      <name>Madrid Province</name>
-      <state_code>M</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1188</id>
-      <name>Málaga Province</name>
-      <state_code>MA</state_code>
-      <cities/>
+      <id>1158</id>
+      <name>Madrid</name>
+      <state_code>MD</state_code>
+      <cities>
+        <id>31985</id>
+        <name>Ajalvir</name>
+        <latitude>40.53205000</latitude>
+        <longitude>-3.47841000</longitude>
+      </cities>
+      <cities>
+        <id>31995</id>
+        <name>Alameda del Valle</name>
+        <latitude>40.91870000</latitude>
+        <longitude>-3.84243000</longitude>
+      </cities>
+      <cities>
+        <id>32072</id>
+        <name>Alcalá de Henares</name>
+        <latitude>40.48205000</latitude>
+        <longitude>-3.35996000</longitude>
+      </cities>
+      <cities>
+        <id>32097</id>
+        <name>Alcobendas</name>
+        <latitude>40.54746000</latitude>
+        <longitude>-3.64197000</longitude>
+      </cities>
+      <cities>
+        <id>32119</id>
+        <name>Alcorcón</name>
+        <latitude>40.34582000</latitude>
+        <longitude>-3.82487000</longitude>
+      </cities>
+      <cities>
+        <id>32144</id>
+        <name>Aldea del Fresno</name>
+        <latitude>40.32360000</latitude>
+        <longitude>-4.20319000</longitude>
+      </cities>
+      <cities>
+        <id>32219</id>
+        <name>Algete</name>
+        <latitude>40.59711000</latitude>
+        <longitude>-3.49743000</longitude>
+      </cities>
+      <cities>
+        <id>32327</id>
+        <name>Alpedrete</name>
+        <latitude>40.65889000</latitude>
+        <longitude>-4.02512000</longitude>
+      </cities>
+      <cities>
+        <id>32351</id>
+        <name>Ambite</name>
+        <latitude>40.33190000</latitude>
+        <longitude>-3.18034000</longitude>
+      </cities>
+      <cities>
+        <id>32368</id>
+        <name>Anchuelo</name>
+        <latitude>40.46527000</latitude>
+        <longitude>-3.26838000</longitude>
+      </cities>
+      <cities>
+        <id>32412</id>
+        <name>Aranjuez</name>
+        <latitude>40.03108000</latitude>
+        <longitude>-3.60246000</longitude>
+      </cities>
+      <cities>
+        <id>32462</id>
+        <name>Arganda</name>
+        <latitude>40.30076000</latitude>
+        <longitude>-3.43722000</longitude>
+      </cities>
+      <cities>
+        <id>32464</id>
+        <name>Arganzuela</name>
+        <latitude>40.40021000</latitude>
+        <longitude>-3.69618000</longitude>
+      </cities>
+      <cities>
+        <id>32513</id>
+        <name>Arroyomolinos</name>
+        <latitude>40.26951000</latitude>
+        <longitude>-3.91946000</longitude>
+      </cities>
+      <cities>
+        <id>32636</id>
+        <name>Barajas de Madrid</name>
+        <latitude>40.47366000</latitude>
+        <longitude>-3.57777000</longitude>
+      </cities>
+      <cities>
+        <id>32695</id>
+        <name>Batres</name>
+        <latitude>40.20981000</latitude>
+        <longitude>-3.92331000</longitude>
+      </cities>
+      <cities>
+        <id>32725</id>
+        <name>Becerril de la Sierra</name>
+        <latitude>40.71699000</latitude>
+        <longitude>-3.98858000</longitude>
+      </cities>
+      <cities>
+        <id>32750</id>
+        <name>Belmonte de Tajo</name>
+        <latitude>40.13162000</latitude>
+        <longitude>-3.33580000</longitude>
+      </cities>
+      <cities>
+        <id>32875</id>
+        <name>Berzosa del Lozoya</name>
+        <latitude>40.97320000</latitude>
+        <longitude>-3.52009000</longitude>
+      </cities>
+      <cities>
+        <id>32917</id>
+        <name>Boadilla del Monte</name>
+        <latitude>40.40500000</latitude>
+        <longitude>-3.87835000</longitude>
+      </cities>
+      <cities>
+        <id>32918</id>
+        <name>Boalo</name>
+        <latitude>40.71603000</latitude>
+        <longitude>-3.91656000</longitude>
+      </cities>
+      <cities>
+        <id>32969</id>
+        <name>Braojos</name>
+        <latitude>41.04040000</latitude>
+        <longitude>-3.64329000</longitude>
+      </cities>
+      <cities>
+        <id>32975</id>
+        <name>Brea de Tajo</name>
+        <latitude>40.23333000</latitude>
+        <longitude>-3.10000000</longitude>
+      </cities>
+      <cities>
+        <id>32994</id>
+        <name>Brunete</name>
+        <latitude>40.40532000</latitude>
+        <longitude>-3.99850000</longitude>
+      </cities>
+      <cities>
+        <id>33013</id>
+        <name>Buitrago del Lozoya</name>
+        <latitude>40.99090000</latitude>
+        <longitude>-3.63365000</longitude>
+      </cities>
+      <cities>
+        <id>33038</id>
+        <name>Bustarviejo</name>
+        <latitude>40.85720000</latitude>
+        <longitude>-3.70766000</longitude>
+      </cities>
+      <cities>
+        <id>33068</id>
+        <name>Cabanillas de la Sierra</name>
+        <latitude>40.82009000</latitude>
+        <longitude>-3.62438000</longitude>
+      </cities>
+      <cities>
+        <id>33115</id>
+        <name>Cadalso de los Vidrios</name>
+        <latitude>40.30067000</latitude>
+        <longitude>-4.43348000</longitude>
+      </cities>
+      <cities>
+        <id>33170</id>
+        <name>Camarma de Esteruelas</name>
+        <latitude>40.55032000</latitude>
+        <longitude>-3.37295000</longitude>
+      </cities>
+      <cities>
+        <id>33201</id>
+        <name>Campo Real</name>
+        <latitude>40.33333000</latitude>
+        <longitude>-3.38333000</longitude>
+      </cities>
+      <cities>
+        <id>33232</id>
+        <name>Canencia</name>
+        <latitude>40.90728000</latitude>
+        <longitude>-3.73523000</longitude>
+      </cities>
+      <cities>
+        <id>33274</id>
+        <name>Carabaña</name>
+        <latitude>40.25424000</latitude>
+        <longitude>-3.23572000</longitude>
+      </cities>
+      <cities>
+        <id>33272</id>
+        <name>Carabanchel</name>
+        <latitude>40.39094000</latitude>
+        <longitude>-3.72420000</longitude>
+      </cities>
+      <cities>
+        <id>33354</id>
+        <name>Casarrubuelos</name>
+        <latitude>40.17146000</latitude>
+        <longitude>-3.83105000</longitude>
+      </cities>
+      <cities>
+        <id>33570</id>
+        <name>Cenicientos</name>
+        <latitude>40.26459000</latitude>
+        <longitude>-4.46683000</longitude>
+      </cities>
+      <cities>
+        <id>33579</id>
+        <name>Cercedilla</name>
+        <latitude>40.74101000</latitude>
+        <longitude>-4.05644000</longitude>
+      </cities>
+      <cities>
+        <id>33596</id>
+        <name>Cervera de Buitrago</name>
+        <latitude>40.91988000</latitude>
+        <longitude>-3.52702000</longitude>
+      </cities>
+      <cities>
+        <id>33615</id>
+        <name>Chamartín</name>
+        <latitude>40.46206000</latitude>
+        <longitude>-3.67660000</longitude>
+      </cities>
+      <cities>
+        <id>33616</id>
+        <name>Chamberí</name>
+        <latitude>40.43404000</latitude>
+        <longitude>-3.70379000</longitude>
+      </cities>
+      <cities>
+        <id>33618</id>
+        <name>Chapinería</name>
+        <latitude>40.37891000</latitude>
+        <longitude>-4.21009000</longitude>
+      </cities>
+      <cities>
+        <id>33640</id>
+        <name>Chinchón</name>
+        <latitude>40.14020000</latitude>
+        <longitude>-3.42267000</longitude>
+      </cities>
+      <cities>
+        <id>33658</id>
+        <name>Ciempozuelos</name>
+        <latitude>40.15913000</latitude>
+        <longitude>-3.62103000</longitude>
+      </cities>
+      <cities>
+        <id>33695</id>
+        <name>City Center</name>
+        <latitude>40.41831000</latitude>
+        <longitude>-3.70275000</longitude>
+      </cities>
+      <cities>
+        <id>33696</id>
+        <name>Ciudad Lineal</name>
+        <latitude>40.44505000</latitude>
+        <longitude>-3.65132000</longitude>
+      </cities>
+      <cities>
+        <id>33709</id>
+        <name>Cobeña</name>
+        <latitude>40.56667000</latitude>
+        <longitude>-3.50000000</longitude>
+      </cities>
+      <cities>
+        <id>33733</id>
+        <name>Collado Mediano</name>
+        <latitude>40.69326000</latitude>
+        <longitude>-4.02280000</longitude>
+      </cities>
+      <cities>
+        <id>33736</id>
+        <name>Collado-Villalba</name>
+        <latitude>40.63506000</latitude>
+        <longitude>-4.00486000</longitude>
+      </cities>
+      <cities>
+        <id>33744</id>
+        <name>Colmenar de Oreja</name>
+        <latitude>40.10675000</latitude>
+        <longitude>-3.38547000</longitude>
+      </cities>
+      <cities>
+        <id>33745</id>
+        <name>Colmenar del Arroyo</name>
+        <latitude>40.41897000</latitude>
+        <longitude>-4.19845000</longitude>
+      </cities>
+      <cities>
+        <id>33742</id>
+        <name>Colmenar Viejo</name>
+        <latitude>40.65909000</latitude>
+        <longitude>-3.76762000</longitude>
+      </cities>
+      <cities>
+        <id>33746</id>
+        <name>Colmenarejo</name>
+        <latitude>40.56063000</latitude>
+        <longitude>-4.01713000</longitude>
+      </cities>
+      <cities>
+        <id>33796</id>
+        <name>Corpa</name>
+        <latitude>40.42327000</latitude>
+        <longitude>-3.26003000</longitude>
+      </cities>
+      <cities>
+        <id>33817</id>
+        <name>Coslada</name>
+        <latitude>40.42378000</latitude>
+        <longitude>-3.56129000</longitude>
+      </cities>
+      <cities>
+        <id>33845</id>
+        <name>Cubas</name>
+        <latitude>40.18900000</latitude>
+        <longitude>-3.83526000</longitude>
+      </cities>
+      <cities>
+        <id>33908</id>
+        <name>Daganzo de Arriba</name>
+        <latitude>40.54293000</latitude>
+        <longitude>-3.45457000</longitude>
+      </cities>
+      <cities>
+        <id>34029</id>
+        <name>El Álamo</name>
+        <latitude>40.23066000</latitude>
+        <longitude>-3.99447000</longitude>
+      </cities>
+      <cities>
+        <id>33997</id>
+        <name>El Escorial</name>
+        <latitude>40.58254000</latitude>
+        <longitude>-4.12846000</longitude>
+      </cities>
+      <cities>
+        <id>34002</id>
+        <name>El Molar</name>
+        <latitude>40.73215000</latitude>
+        <longitude>-3.57969000</longitude>
+      </cities>
+      <cities>
+        <id>34003</id>
+        <name>El Pardo</name>
+        <latitude>40.51454000</latitude>
+        <longitude>-3.77253000</longitude>
+      </cities>
+      <cities>
+        <id>34024</id>
+        <name>El Vellón</name>
+        <latitude>40.76495000</latitude>
+        <longitude>-3.57969000</longitude>
+      </cities>
+      <cities>
+        <id>34147</id>
+        <name>Estremera</name>
+        <latitude>40.18333000</latitude>
+        <longitude>-3.10000000</longitude>
+      </cities>
+      <cities>
+        <id>34249</id>
+        <name>Fresnedillas</name>
+        <latitude>40.48704000</latitude>
+        <longitude>-4.17146000</longitude>
+      </cities>
+      <cities>
+        <id>34259</id>
+        <name>Fresno de Torote</name>
+        <latitude>40.59040000</latitude>
+        <longitude>-3.41003000</longitude>
+      </cities>
+      <cities>
+        <id>34277</id>
+        <name>Fuencarral-El Pardo</name>
+        <latitude>40.49840000</latitude>
+        <longitude>-3.73140000</longitude>
+      </cities>
+      <cities>
+        <id>34283</id>
+        <name>Fuenlabrada</name>
+        <latitude>40.28419000</latitude>
+        <longitude>-3.79415000</longitude>
+      </cities>
+      <cities>
+        <id>34302</id>
+        <name>Fuente el Saz</name>
+        <latitude>40.63215000</latitude>
+        <longitude>-3.51146000</longitude>
+      </cities>
+      <cities>
+        <id>34361</id>
+        <name>Fuentidueña de Tajo</name>
+        <latitude>40.11574000</latitude>
+        <longitude>-3.15718000</longitude>
+      </cities>
+      <cities>
+        <id>34373</id>
+        <name>Galapagar</name>
+        <latitude>40.57830000</latitude>
+        <longitude>-4.00426000</longitude>
+      </cities>
+      <cities>
+        <id>34415</id>
+        <name>Garganta de los Montes</name>
+        <latitude>40.91992000</latitude>
+        <longitude>-3.68375000</longitude>
+      </cities>
+      <cities>
+        <id>34430</id>
+        <name>Gascones</name>
+        <latitude>41.01843000</latitude>
+        <longitude>-3.64217000</longitude>
+      </cities>
+      <cities>
+        <id>34459</id>
+        <name>Getafe</name>
+        <latitude>40.30571000</latitude>
+        <longitude>-3.73295000</longitude>
+      </cities>
+      <cities>
+        <id>34516</id>
+        <name>Griñón</name>
+        <latitude>40.21249000</latitude>
+        <longitude>-3.85482000</longitude>
+      </cities>
+      <cities>
+        <id>34524</id>
+        <name>Guadalix de la Sierra</name>
+        <latitude>40.78496000</latitude>
+        <longitude>-3.69347000</longitude>
+      </cities>
+      <cities>
+        <id>34528</id>
+        <name>Guadarrama</name>
+        <latitude>40.67270000</latitude>
+        <longitude>-4.08949000</longitude>
+      </cities>
+      <cities>
+        <id>34652</id>
+        <name>Horcajo de la Sierra</name>
+        <latitude>41.06723000</latitude>
+        <longitude>-3.58534000</longitude>
+      </cities>
+      <cities>
+        <id>34654</id>
+        <name>Horcajuelo de la Sierra</name>
+        <latitude>41.06019000</latitude>
+        <longitude>-3.54640000</longitude>
+      </cities>
+      <cities>
+        <id>34667</id>
+        <name>Hortaleza</name>
+        <latitude>40.47444000</latitude>
+        <longitude>-3.64110000</longitude>
+      </cities>
+      <cities>
+        <id>34674</id>
+        <name>Hoyo de Manzanares</name>
+        <latitude>40.62265000</latitude>
+        <longitude>-3.90733000</longitude>
+      </cities>
+      <cities>
+        <id>34701</id>
+        <name>Humanes de Madrid</name>
+        <latitude>40.25038000</latitude>
+        <longitude>-3.83062000</longitude>
+      </cities>
+      <cities>
+        <id>34860</id>
+        <name>La Cabrera</name>
+        <latitude>40.86386000</latitude>
+        <longitude>-3.61265000</longitude>
+      </cities>
+      <cities>
+        <id>34985</id>
+        <name>Las Matas</name>
+        <latitude>40.55779000</latitude>
+        <longitude>-3.89173000</longitude>
+      </cities>
+      <cities>
+        <id>34991</id>
+        <name>Las Rozas de Madrid</name>
+        <latitude>40.49292000</latitude>
+        <longitude>-3.87371000</longitude>
+      </cities>
+      <cities>
+        <id>34992</id>
+        <name>Las Tablas</name>
+        <latitude>40.50649000</latitude>
+        <longitude>-3.67235000</longitude>
+      </cities>
+      <cities>
+        <id>35002</id>
+        <name>Latina</name>
+        <latitude>40.38897000</latitude>
+        <longitude>-3.74569000</longitude>
+      </cities>
+      <cities>
+        <id>35021</id>
+        <name>Leganés</name>
+        <latitude>40.32718000</latitude>
+        <longitude>-3.76350000</longitude>
+      </cities>
+      <cities>
+        <id>35099</id>
+        <name>Loeches</name>
+        <latitude>40.38343000</latitude>
+        <longitude>-3.41460000</longitude>
+      </cities>
+      <cities>
+        <id>35127</id>
+        <name>Los Molinos</name>
+        <latitude>40.71578000</latitude>
+        <longitude>-4.07402000</longitude>
+      </cities>
+      <cities>
+        <id>35134</id>
+        <name>Los Santos de la Humosa</name>
+        <latitude>40.49968000</latitude>
+        <longitude>-3.25332000</longitude>
+      </cities>
+      <cities>
+        <id>35145</id>
+        <name>Lozoya</name>
+        <latitude>40.94949000</latitude>
+        <longitude>-3.79086000</longitude>
+      </cities>
+      <cities>
+        <id>35186</id>
+        <name>Madrid</name>
+        <latitude>40.41650000</latitude>
+        <longitude>-3.70256000</longitude>
+      </cities>
+      <cities>
+        <id>35214</id>
+        <name>Majadahonda</name>
+        <latitude>40.47353000</latitude>
+        <longitude>-3.87182000</longitude>
+      </cities>
+      <cities>
+        <id>35267</id>
+        <name>Manzanares el Real</name>
+        <latitude>40.72627000</latitude>
+        <longitude>-3.86265000</longitude>
+      </cities>
+      <cities>
+        <id>35366</id>
+        <name>Meco</name>
+        <latitude>40.55274000</latitude>
+        <longitude>-3.32894000</longitude>
+      </cities>
+      <cities>
+        <id>35384</id>
+        <name>Mejorada del Campo</name>
+        <latitude>40.39283000</latitude>
+        <longitude>-3.48194000</longitude>
+      </cities>
+      <cities>
+        <id>35442</id>
+        <name>Miraflores de la Sierra</name>
+        <latitude>40.81550000</latitude>
+        <longitude>-3.76213000</longitude>
+      </cities>
+      <cities>
+        <id>35501</id>
+        <name>Moncloa-Aravaca</name>
+        <latitude>40.43547000</latitude>
+        <longitude>-3.73170000</longitude>
+      </cities>
+      <cities>
+        <id>35555</id>
+        <name>Montejo de la Sierra</name>
+        <latitude>41.05955000</latitude>
+        <longitude>-3.52993000</longitude>
+      </cities>
+      <cities>
+        <id>35602</id>
+        <name>Moraleja de Enmedio</name>
+        <latitude>40.26125000</latitude>
+        <longitude>-3.85963000</longitude>
+      </cities>
+      <cities>
+        <id>35612</id>
+        <name>Moralzarzal</name>
+        <latitude>40.67816000</latitude>
+        <longitude>-3.97070000</longitude>
+      </cities>
+      <cities>
+        <id>35616</id>
+        <name>Morata de Tajuña</name>
+        <latitude>40.22680000</latitude>
+        <longitude>-3.43269000</longitude>
+      </cities>
+      <cities>
+        <id>35617</id>
+        <name>Moratalaz</name>
+        <latitude>40.40742000</latitude>
+        <longitude>-3.64935000</longitude>
+      </cities>
+      <cities>
+        <id>35708</id>
+        <name>Móstoles</name>
+        <latitude>40.32234000</latitude>
+        <longitude>-3.86496000</longitude>
+      </cities>
+      <cities>
+        <id>35731</id>
+        <name>Navacerrada</name>
+        <latitude>40.72905000</latitude>
+        <longitude>-4.01696000</longitude>
+      </cities>
+      <cities>
+        <id>35742</id>
+        <name>Navalafuente</name>
+        <latitude>40.82063000</latitude>
+        <longitude>-3.67266000</longitude>
+      </cities>
+      <cities>
+        <id>35743</id>
+        <name>Navalagamella</name>
+        <latitude>40.46894000</latitude>
+        <longitude>-4.12334000</longitude>
+      </cities>
+      <cities>
+        <id>35744</id>
+        <name>Navalcarnero</name>
+        <latitude>40.28908000</latitude>
+        <longitude>-4.01197000</longitude>
+      </cities>
+      <cities>
+        <id>35758</id>
+        <name>Navalquejigo</name>
+        <latitude>40.60705000</latitude>
+        <longitude>-4.04966000</longitude>
+      </cities>
+      <cities>
+        <id>35783</id>
+        <name>Navas del Rey</name>
+        <latitude>40.38610000</latitude>
+        <longitude>-4.25117000</longitude>
+      </cities>
+      <cities>
+        <id>35835</id>
+        <name>Nuevo Baztán</name>
+        <latitude>40.36731000</latitude>
+        <longitude>-3.24125000</longitude>
+      </cities>
+      <cities>
+        <id>36053</id>
+        <name>Paracuellos de Jarama</name>
+        <latitude>40.50353000</latitude>
+        <longitude>-3.52775000</longitude>
+      </cities>
+      <cities>
+        <id>36070</id>
+        <name>Parla</name>
+        <latitude>40.23604000</latitude>
+        <longitude>-3.76752000</longitude>
+      </cities>
+      <cities>
+        <id>36082</id>
+        <name>Patones</name>
+        <latitude>40.85563000</latitude>
+        <longitude>-3.48490000</longitude>
+      </cities>
+      <cities>
+        <id>36097</id>
+        <name>Pedrezuela</name>
+        <latitude>40.74277000</latitude>
+        <longitude>-3.59980000</longitude>
+      </cities>
+      <cities>
+        <id>36122</id>
+        <name>Pelayos de la Presa</name>
+        <latitude>40.36051000</latitude>
+        <longitude>-4.33462000</longitude>
+      </cities>
+      <cities>
+        <id>36139</id>
+        <name>Perales de Tajuña</name>
+        <latitude>40.23130000</latitude>
+        <longitude>-3.35021000</longitude>
+      </cities>
+      <cities>
+        <id>36160</id>
+        <name>Pezuela de las Torres</name>
+        <latitude>40.41613000</latitude>
+        <longitude>-3.17363000</longitude>
+      </cities>
+      <cities>
+        <id>36192</id>
+        <name>Pinar de Chamartín</name>
+        <latitude>40.47903000</latitude>
+        <longitude>-3.66836000</longitude>
+      </cities>
+      <cities>
+        <id>36207</id>
+        <name>Pinilla del Valle</name>
+        <latitude>40.92448000</latitude>
+        <longitude>-3.81688000</longitude>
+      </cities>
+      <cities>
+        <id>36215</id>
+        <name>Pinto</name>
+        <latitude>40.24147000</latitude>
+        <longitude>-3.69999000</longitude>
+      </cities>
+      <cities>
+        <id>36331</id>
+        <name>Pozuelo de Alarcón</name>
+        <latitude>40.43293000</latitude>
+        <longitude>-3.81338000</longitude>
+      </cities>
+      <cities>
+        <id>36338</id>
+        <name>Pozuelo del Rey</name>
+        <latitude>40.36463000</latitude>
+        <longitude>-3.31699000</longitude>
+      </cities>
+      <cities>
+        <id>36406</id>
+        <name>Prádena del Rincón</name>
+        <latitude>41.04414000</latitude>
+        <longitude>-3.54075000</longitude>
+      </cities>
+      <cities>
+        <id>36379</id>
+        <name>Provincia de Madrid</name>
+        <latitude>40.40225000</latitude>
+        <longitude>-3.71029000</longitude>
+      </cities>
+      <cities>
+        <id>36437</id>
+        <name>Puente de Vallecas</name>
+        <latitude>40.39354000</latitude>
+        <longitude>-3.66200000</longitude>
+      </cities>
+      <cities>
+        <id>36500</id>
+        <name>Quijorna</name>
+        <latitude>40.42763000</latitude>
+        <longitude>-4.05683000</longitude>
+      </cities>
+      <cities>
+        <id>36547</id>
+        <name>Rascafría</name>
+        <latitude>40.90407000</latitude>
+        <longitude>-3.87898000</longitude>
+      </cities>
+      <cities>
+        <id>36563</id>
+        <name>Redueña</name>
+        <latitude>40.81685000</latitude>
+        <longitude>-3.59837000</longitude>
+      </cities>
+      <cities>
+        <id>36587</id>
+        <name>Retiro</name>
+        <latitude>40.41317000</latitude>
+        <longitude>-3.68307000</longitude>
+      </cities>
+      <cities>
+        <id>36613</id>
+        <name>Ribatejada</name>
+        <latitude>40.66420000</latitude>
+        <longitude>-3.38976000</longitude>
+      </cities>
+      <cities>
+        <id>36639</id>
+        <name>Rivas-Vaciamadrid</name>
+        <latitude>40.32605000</latitude>
+        <longitude>-3.51089000</longitude>
+      </cities>
+      <cities>
+        <id>36651</id>
+        <name>Robledillo de la Jara</name>
+        <latitude>40.95054000</latitude>
+        <longitude>-3.52181000</longitude>
+      </cities>
+      <cities>
+        <id>36654</id>
+        <name>Robledo de Chavela</name>
+        <latitude>40.50062000</latitude>
+        <longitude>-4.23635000</longitude>
+      </cities>
+      <cities>
+        <id>36686</id>
+        <name>Rozas de Puerto Real</name>
+        <latitude>40.31667000</latitude>
+        <longitude>-4.48333000</longitude>
+      </cities>
+      <cities>
+        <id>36745</id>
+        <name>Salamanca</name>
+        <latitude>40.42972000</latitude>
+        <longitude>-3.67975000</longitude>
+      </cities>
+      <cities>
+        <id>36799</id>
+        <name>San Agustín del Guadalix</name>
+        <latitude>40.67882000</latitude>
+        <longitude>-3.61639000</longitude>
+      </cities>
+      <cities>
+        <id>36812</id>
+        <name>San Blas-Canillejas</name>
+        <latitude>40.43893000</latitude>
+        <longitude>-3.61537000</longitude>
+      </cities>
+      <cities>
+        <id>36836</id>
+        <name>San Fernando de Henares</name>
+        <latitude>40.42386000</latitude>
+        <longitude>-3.53261000</longitude>
+      </cities>
+      <cities>
+        <id>36858</id>
+        <name>San Lorenzo de El Escorial</name>
+        <latitude>40.59144000</latitude>
+        <longitude>-4.14738000</longitude>
+      </cities>
+      <cities>
+        <id>36873</id>
+        <name>San Martín de la Vega</name>
+        <latitude>40.20735000</latitude>
+        <longitude>-3.57063000</longitude>
+      </cities>
+      <cities>
+        <id>36870</id>
+        <name>San Martín de Valdeiglesias</name>
+        <latitude>40.36185000</latitude>
+        <longitude>-4.39831000</longitude>
+      </cities>
+      <cities>
+        <id>36922</id>
+        <name>San Sebastián de los Reyes</name>
+        <latitude>40.55555000</latitude>
+        <longitude>-3.62733000</longitude>
+      </cities>
+      <cities>
+        <id>37079</id>
+        <name>Santa María de la Alameda</name>
+        <latitude>40.59492000</latitude>
+        <longitude>-4.25772000</longitude>
+      </cities>
+      <cities>
+        <id>37146</id>
+        <name>Santorcaz</name>
+        <latitude>40.47176000</latitude>
+        <longitude>-3.23462000</longitude>
+      </cities>
+      <cities>
+        <id>37225</id>
+        <name>Serranillos del Valle</name>
+        <latitude>40.20211000</latitude>
+        <longitude>-3.88187000</longitude>
+      </cities>
+      <cities>
+        <id>37240</id>
+        <name>Sevilla La Nueva</name>
+        <latitude>40.34775000</latitude>
+        <longitude>-4.02727000</longitude>
+      </cities>
+      <cities>
+        <id>37354</id>
+        <name>Talamanca de Jarama</name>
+        <latitude>40.74325000</latitude>
+        <longitude>-3.50889000</longitude>
+      </cities>
+      <cities>
+        <id>37417</id>
+        <name>Tetuán de las Victorias</name>
+        <latitude>40.45975000</latitude>
+        <longitude>-3.69750000</longitude>
+      </cities>
+      <cities>
+        <id>37422</id>
+        <name>Tielmes</name>
+        <latitude>40.24652000</latitude>
+        <longitude>-3.31461000</longitude>
+      </cities>
+      <cities>
+        <id>37431</id>
+        <name>Titulcia</name>
+        <latitude>40.13537000</latitude>
+        <longitude>-3.56763000</longitude>
+      </cities>
+      <cities>
+        <id>37538</id>
+        <name>Torrejón de Ardoz</name>
+        <latitude>40.45535000</latitude>
+        <longitude>-3.46973000</longitude>
+      </cities>
+      <cities>
+        <id>37540</id>
+        <name>Torrejón de la Calzada</name>
+        <latitude>40.19886000</latitude>
+        <longitude>-3.79700000</longitude>
+      </cities>
+      <cities>
+        <id>37539</id>
+        <name>Torrejón de Velasco</name>
+        <latitude>40.18746000</latitude>
+        <longitude>-3.77681000</longitude>
+      </cities>
+      <cities>
+        <id>37543</id>
+        <name>Torrelaguna</name>
+        <latitude>40.82764000</latitude>
+        <longitude>-3.53683000</longitude>
+      </cities>
+      <cities>
+        <id>37551</id>
+        <name>Torrelodones</name>
+        <latitude>40.57654000</latitude>
+        <longitude>-3.92658000</longitude>
+      </cities>
+      <cities>
+        <id>37557</id>
+        <name>Torremocha de Jarama</name>
+        <latitude>40.84148000</latitude>
+        <longitude>-3.49666000</longitude>
+      </cities>
+      <cities>
+        <id>37577</id>
+        <name>Torres de la Alameda</name>
+        <latitude>40.40264000</latitude>
+        <longitude>-3.35767000</longitude>
+      </cities>
+      <cities>
+        <id>37629</id>
+        <name>Tres Cantos</name>
+        <latitude>40.60092000</latitude>
+        <longitude>-3.70806000</longitude>
+      </cities>
+      <cities>
+        <id>37705</id>
+        <name>Usera</name>
+        <latitude>40.38866000</latitude>
+        <longitude>-3.70035000</longitude>
+      </cities>
+      <cities>
+        <id>37726</id>
+        <name>Valdaracete</name>
+        <latitude>40.20770000</latitude>
+        <longitude>-3.19101000</longitude>
+      </cities>
+      <cities>
+        <id>37735</id>
+        <name>Valdeavero</name>
+        <latitude>40.62980000</latitude>
+        <longitude>-3.33001000</longitude>
+      </cities>
+      <cities>
+        <id>37765</id>
+        <name>Valdemanco</name>
+        <latitude>40.87039000</latitude>
+        <longitude>-3.65873000</longitude>
+      </cities>
+      <cities>
+        <id>37767</id>
+        <name>Valdemaqueda</name>
+        <latitude>40.51201000</latitude>
+        <longitude>-4.29722000</longitude>
+      </cities>
+      <cities>
+        <id>37772</id>
+        <name>Valdemorillo</name>
+        <latitude>40.50064000</latitude>
+        <longitude>-4.06710000</longitude>
+      </cities>
+      <cities>
+        <id>37774</id>
+        <name>Valdemoro</name>
+        <latitude>40.19081000</latitude>
+        <longitude>-3.67887000</longitude>
+      </cities>
+      <cities>
+        <id>37781</id>
+        <name>Valdeolmos</name>
+        <latitude>40.63708000</latitude>
+        <longitude>-3.45064000</longitude>
+      </cities>
+      <cities>
+        <id>37786</id>
+        <name>Valdepiélagos</name>
+        <latitude>40.75842000</latitude>
+        <longitude>-3.46163000</longitude>
+      </cities>
+      <cities>
+        <id>37804</id>
+        <name>Valdetorres de Jarama</name>
+        <latitude>40.69366000</latitude>
+        <longitude>-3.51156000</longitude>
+      </cities>
+      <cities>
+        <id>37810</id>
+        <name>Valdilecha</name>
+        <latitude>40.29530000</latitude>
+        <longitude>-3.30233000</longitude>
+      </cities>
+      <cities>
+        <id>37882</id>
+        <name>Valverde de Alcalá</name>
+        <latitude>40.41667000</latitude>
+        <longitude>-3.29631000</longitude>
+      </cities>
+      <cities>
+        <id>37931</id>
+        <name>Velilla de San Antonio</name>
+        <latitude>40.36516000</latitude>
+        <longitude>-3.48484000</longitude>
+      </cities>
+      <cities>
+        <id>37946</id>
+        <name>Venturada</name>
+        <latitude>40.79717000</latitude>
+        <longitude>-3.61974000</longitude>
+      </cities>
+      <cities>
+        <id>37963</id>
+        <name>Vicálvaro</name>
+        <latitude>40.40000000</latitude>
+        <longitude>-3.60000000</longitude>
+      </cities>
+      <cities>
+        <id>38009</id>
+        <name>Villa de Vallecas</name>
+        <latitude>40.36695000</latitude>
+        <longitude>-3.60146000</longitude>
+      </cities>
+      <cities>
+        <id>38012</id>
+        <name>Villa del Prado</name>
+        <latitude>40.27852000</latitude>
+        <longitude>-4.30534000</longitude>
+      </cities>
+      <cities>
+        <id>38034</id>
+        <name>Villaconejos</name>
+        <latitude>40.10139000</latitude>
+        <longitude>-3.48258000</longitude>
+      </cities>
+      <cities>
+        <id>38105</id>
+        <name>Villalbilla</name>
+        <latitude>40.43044000</latitude>
+        <longitude>-3.29904000</longitude>
+      </cities>
+      <cities>
+        <id>38131</id>
+        <name>Villamanrique de Tajo</name>
+        <latitude>40.06617000</latitude>
+        <longitude>-3.23668000</longitude>
+      </cities>
+      <cities>
+        <id>38133</id>
+        <name>Villamanta</name>
+        <latitude>40.29858000</latitude>
+        <longitude>-4.10880000</longitude>
+      </cities>
+      <cities>
+        <id>38134</id>
+        <name>Villamantilla</name>
+        <latitude>40.33846000</latitude>
+        <longitude>-4.12986000</longitude>
+      </cities>
+      <cities>
+        <id>38196</id>
+        <name>Villanueva de la Cañada</name>
+        <latitude>40.44689000</latitude>
+        <longitude>-4.00428000</longitude>
+      </cities>
+      <cities>
+        <id>38187</id>
+        <name>Villanueva de Perales</name>
+        <latitude>40.34541000</latitude>
+        <longitude>-4.09891000</longitude>
+      </cities>
+      <cities>
+        <id>38219</id>
+        <name>Villanueva del Pardillo</name>
+        <latitude>40.49014000</latitude>
+        <longitude>-3.96383000</longitude>
+      </cities>
+      <cities>
+        <id>38257</id>
+        <name>Villar del Olmo</name>
+        <latitude>40.33468000</latitude>
+        <longitude>-3.23399000</longitude>
+      </cities>
+      <cities>
+        <id>38273</id>
+        <name>Villarejo de Salvanés</name>
+        <latitude>40.16663000</latitude>
+        <longitude>-3.27277000</longitude>
+      </cities>
+      <cities>
+        <id>38343</id>
+        <name>Villaverde</name>
+        <latitude>40.35000000</latitude>
+        <longitude>-3.70000000</longitude>
+      </cities>
+      <cities>
+        <id>38357</id>
+        <name>Villaviciosa de Odón</name>
+        <latitude>40.35810000</latitude>
+        <longitude>-3.90430000</longitude>
+      </cities>
+      <cities>
+        <id>38360</id>
+        <name>Villavieja del Lozoya</name>
+        <latitude>41.00396000</latitude>
+        <longitude>-3.66870000</longitude>
+      </cities>
+      <cities>
+        <id>38482</id>
+        <name>Zarzalejo</name>
+        <latitude>40.54811000</latitude>
+        <longitude>-4.18176000</longitude>
+      </cities>
     </states>
     <states>
       <id>1159</id>
@@ -699767,14 +699922,355 @@
       </cities>
     </states>
     <states>
-      <id>1145</id>
-      <name>Murcia Province</name>
-      <state_code>MU</state_code>
-      <cities/>
+      <id>1176</id>
+      <name>Murcia</name>
+      <state_code>MC</state_code>
+      <cities>
+        <id>31903</id>
+        <name>Abanilla</name>
+        <latitude>38.20537000</latitude>
+        <longitude>-1.04153000</longitude>
+      </cities>
+      <cities>
+        <id>31905</id>
+        <name>Abarán</name>
+        <latitude>38.20551000</latitude>
+        <longitude>-1.39907000</longitude>
+      </cities>
+      <cities>
+        <id>38574</id>
+        <name>Águilas</name>
+        <latitude>37.40630000</latitude>
+        <longitude>-1.58289000</longitude>
+      </cities>
+      <cities>
+        <id>32057</id>
+        <name>Albudeite</name>
+        <latitude>38.02895000</latitude>
+        <longitude>-1.38664000</longitude>
+      </cities>
+      <cities>
+        <id>32084</id>
+        <name>Alcantarilla</name>
+        <latitude>37.96939000</latitude>
+        <longitude>-1.21714000</longitude>
+      </cities>
+      <cities>
+        <id>32182</id>
+        <name>Aledo</name>
+        <latitude>37.79341000</latitude>
+        <longitude>-1.57356000</longitude>
+      </cities>
+      <cities>
+        <id>32229</id>
+        <name>Alguazas</name>
+        <latitude>38.05356000</latitude>
+        <longitude>-1.25051000</longitude>
+      </cities>
+      <cities>
+        <id>32236</id>
+        <name>Alhama de Murcia</name>
+        <latitude>37.85103000</latitude>
+        <longitude>-1.42507000</longitude>
+      </cities>
+      <cities>
+        <id>32430</id>
+        <name>Archena</name>
+        <latitude>38.11631000</latitude>
+        <longitude>-1.30043000</longitude>
+      </cities>
+      <cities>
+        <id>32546</id>
+        <name>Atamaría</name>
+        <latitude>37.59989000</latitude>
+        <longitude>-0.80682000</longitude>
+      </cities>
+      <cities>
+        <id>32677</id>
+        <name>Barrio de la Concepción</name>
+        <latitude>37.60000000</latitude>
+        <longitude>-1.00000000</longitude>
+      </cities>
+      <cities>
+        <id>32800</id>
+        <name>Beniel</name>
+        <latitude>38.04636000</latitude>
+        <longitude>-1.00233000</longitude>
+      </cities>
+      <cities>
+        <id>32905</id>
+        <name>Blanca</name>
+        <latitude>38.17910000</latitude>
+        <longitude>-1.37473000</longitude>
+      </cities>
+      <cities>
+        <id>33018</id>
+        <name>Bullas</name>
+        <latitude>38.04667000</latitude>
+        <longitude>-1.67227000</longitude>
+      </cities>
+      <cities>
+        <id>33131</id>
+        <name>Calasparra</name>
+        <latitude>38.22997000</latitude>
+        <longitude>-1.69986000</longitude>
+      </cities>
+      <cities>
+        <id>33211</id>
+        <name>Campos del Río</name>
+        <latitude>38.03966000</latitude>
+        <longitude>-1.35306000</longitude>
+      </cities>
+      <cities>
+        <id>33277</id>
+        <name>Caravaca</name>
+        <latitude>38.10558000</latitude>
+        <longitude>-1.86343000</longitude>
+      </cities>
+      <cities>
+        <id>33336</id>
+        <name>Cartagena</name>
+        <latitude>37.60512000</latitude>
+        <longitude>-0.98623000</longitude>
+      </cities>
+      <cities>
+        <id>33560</id>
+        <name>Cehegín</name>
+        <latitude>38.09242000</latitude>
+        <longitude>-1.79850000</longitude>
+      </cities>
+      <cities>
+        <id>33610</id>
+        <name>Ceuti</name>
+        <latitude>38.07859000</latitude>
+        <longitude>-1.27467000</longitude>
+      </cities>
+      <cities>
+        <id>33659</id>
+        <name>Cieza</name>
+        <latitude>38.23998000</latitude>
+        <longitude>-1.41987000</longitude>
+      </cities>
+      <cities>
+        <id>33706</id>
+        <name>Cobatillas</name>
+        <latitude>38.05545000</latitude>
+        <longitude>-1.07683000</longitude>
+      </cities>
+      <cities>
+        <id>34009</id>
+        <name>El Plan</name>
+        <latitude>37.65000000</latitude>
+        <longitude>-1.01667000</longitude>
+      </cities>
+      <cities>
+        <id>34104</id>
+        <name>Esparragal</name>
+        <latitude>38.03333000</latitude>
+        <longitude>-1.08333000</longitude>
+      </cities>
+      <cities>
+        <id>34231</id>
+        <name>Fortuna</name>
+        <latitude>38.18140000</latitude>
+        <longitude>-1.12590000</longitude>
+      </cities>
+      <cities>
+        <id>34308</id>
+        <name>Fuente-Álamo de Murcia</name>
+        <latitude>37.72389000</latitude>
+        <longitude>-1.16972000</longitude>
+      </cities>
+      <cities>
+        <id>34828</id>
+        <name>Jumilla</name>
+        <latitude>38.47917000</latitude>
+        <longitude>-1.32500000</longitude>
+      </cities>
+      <cities>
+        <id>34893</id>
+        <name>La Manga del Mar Menor</name>
+        <latitude>37.64129000</latitude>
+        <longitude>-0.71651000</longitude>
+      </cities>
+      <cities>
+        <id>34931</id>
+        <name>La Torrecilla</name>
+        <latitude>37.62363000</latitude>
+        <longitude>-1.72785000</longitude>
+      </cities>
+      <cities>
+        <id>34932</id>
+        <name>La Unión</name>
+        <latitude>37.61915000</latitude>
+        <longitude>-0.87799000</longitude>
+      </cities>
+      <cities>
+        <id>34993</id>
+        <name>Las Torres de Cotillas</name>
+        <latitude>38.02822000</latitude>
+        <longitude>-1.24188000</longitude>
+      </cities>
+      <cities>
+        <id>35046</id>
+        <name>Librilla</name>
+        <latitude>37.88642000</latitude>
+        <longitude>-1.35557000</longitude>
+      </cities>
+      <cities>
+        <id>35092</id>
+        <name>Lo Pagán</name>
+        <latitude>37.81761000</latitude>
+        <longitude>-0.78832000</longitude>
+      </cities>
+      <cities>
+        <id>35113</id>
+        <name>Lorca</name>
+        <latitude>37.67119000</latitude>
+        <longitude>-1.70170000</longitude>
+      </cities>
+      <cities>
+        <id>35115</id>
+        <name>Lorquí</name>
+        <latitude>38.08261000</latitude>
+        <longitude>-1.25103000</longitude>
+      </cities>
+      <cities>
+        <id>35116</id>
+        <name>Los Alcázares</name>
+        <latitude>37.74425000</latitude>
+        <longitude>-0.85041000</longitude>
+      </cities>
+      <cities>
+        <id>35121</id>
+        <name>Los Gabatos</name>
+        <latitude>37.63333000</latitude>
+        <longitude>-1.00000000</longitude>
+      </cities>
+      <cities>
+        <id>35125</id>
+        <name>Los Martínez</name>
+        <latitude>37.81841000</latitude>
+        <longitude>-1.07880000</longitude>
+      </cities>
+      <cities>
+        <id>35356</id>
+        <name>Mazarrón</name>
+        <latitude>37.59920000</latitude>
+        <longitude>-1.31493000</longitude>
+      </cities>
+      <cities>
+        <id>35478</id>
+        <name>Molina de Segura</name>
+        <latitude>38.05456000</latitude>
+        <longitude>-1.20763000</longitude>
+      </cities>
+      <cities>
+        <id>35618</id>
+        <name>Moratalla</name>
+        <latitude>38.18928000</latitude>
+        <longitude>-1.89183000</longitude>
+      </cities>
+      <cities>
+        <id>35661</id>
+        <name>Mula</name>
+        <latitude>38.04095000</latitude>
+        <longitude>-1.49014000</longitude>
+      </cities>
+      <cities>
+        <id>35671</id>
+        <name>Murcia</name>
+        <latitude>37.98662000</latitude>
+        <longitude>-1.14146000</longitude>
+      </cities>
+      <cities>
+        <id>35871</id>
+        <name>Ojós</name>
+        <latitude>38.14700000</latitude>
+        <longitude>-1.34261000</longitude>
+      </cities>
+      <cities>
+        <id>36245</id>
+        <name>Pliego</name>
+        <latitude>37.98946000</latitude>
+        <longitude>-1.50444000</longitude>
+      </cities>
+      <cities>
+        <id>36445</id>
+        <name>Puerto Lumbreras</name>
+        <latitude>37.56329000</latitude>
+        <longitude>-1.80974000</longitude>
+      </cities>
+      <cities>
+        <id>36621</id>
+        <name>Ricote</name>
+        <latitude>38.15338000</latitude>
+        <longitude>-1.36557000</longitude>
+      </cities>
+      <cities>
+        <id>36840</id>
+        <name>San Javier</name>
+        <latitude>37.80626000</latitude>
+        <longitude>-0.83736000</longitude>
+      </cities>
+      <cities>
+        <id>36910</id>
+        <name>San Pedro del Pinatar</name>
+        <latitude>37.83568000</latitude>
+        <longitude>-0.79102000</longitude>
+      </cities>
+      <cities>
+        <id>36945</id>
+        <name>Sangonera la Verde</name>
+        <latitude>37.92862000</latitude>
+        <longitude>-1.20794000</longitude>
+      </cities>
+      <cities>
+        <id>37026</id>
+        <name>Santa Cruz</name>
+        <latitude>38.02180000</latitude>
+        <longitude>-1.05749000</longitude>
+      </cities>
+      <cities>
+        <id>37116</id>
+        <name>Santiago de la Ribera</name>
+        <latitude>37.79681000</latitude>
+        <longitude>-0.80544000</longitude>
+      </cities>
+      <cities>
+        <id>37145</id>
+        <name>Santomera</name>
+        <latitude>38.06147000</latitude>
+        <longitude>-1.04877000</longitude>
+      </cities>
+      <cities>
+        <id>37507</id>
+        <name>Torre-Pacheco</name>
+        <latitude>37.74293000</latitude>
+        <longitude>-0.95396000</longitude>
+      </cities>
+      <cities>
+        <id>37606</id>
+        <name>Totana</name>
+        <latitude>37.76880000</latitude>
+        <longitude>-1.50229000</longitude>
+      </cities>
+      <cities>
+        <id>37678</id>
+        <name>Ulea</name>
+        <latitude>38.14045000</latitude>
+        <longitude>-1.33007000</longitude>
+      </cities>
+      <cities>
+        <id>38431</id>
+        <name>Yecla</name>
+        <latitude>38.61365000</latitude>
+        <longitude>-1.11468000</longitude>
+      </cities>
     </states>
     <states>
       <id>1204</id>
-      <name>Navarre</name>
+      <name>Navarra</name>
       <state_code>NC</state_code>
       <cities>
         <id>31920</id>
@@ -700834,392 +701330,15 @@
       </cities>
     </states>
     <states>
-      <id>1173</id>
-      <name>Ourense Province</name>
-      <state_code>OR</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>1157</id>
       <name>Palencia Province</name>
       <state_code>P</state_code>
       <cities/>
     </states>
     <states>
-      <id>1154</id>
-      <name>Pontevedra Province</name>
-      <state_code>PO</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1160</id>
-      <name>Province of Asturias</name>
-      <state_code>O</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1189</id>
-      <name>Province of Ávila</name>
-      <state_code>AV</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1176</id>
-      <name>Region of Murcia</name>
-      <state_code>MC</state_code>
-      <cities>
-        <id>31903</id>
-        <name>Abanilla</name>
-        <latitude>38.20537000</latitude>
-        <longitude>-1.04153000</longitude>
-      </cities>
-      <cities>
-        <id>31905</id>
-        <name>Abarán</name>
-        <latitude>38.20551000</latitude>
-        <longitude>-1.39907000</longitude>
-      </cities>
-      <cities>
-        <id>38574</id>
-        <name>Águilas</name>
-        <latitude>37.40630000</latitude>
-        <longitude>-1.58289000</longitude>
-      </cities>
-      <cities>
-        <id>32057</id>
-        <name>Albudeite</name>
-        <latitude>38.02895000</latitude>
-        <longitude>-1.38664000</longitude>
-      </cities>
-      <cities>
-        <id>32084</id>
-        <name>Alcantarilla</name>
-        <latitude>37.96939000</latitude>
-        <longitude>-1.21714000</longitude>
-      </cities>
-      <cities>
-        <id>32182</id>
-        <name>Aledo</name>
-        <latitude>37.79341000</latitude>
-        <longitude>-1.57356000</longitude>
-      </cities>
-      <cities>
-        <id>32229</id>
-        <name>Alguazas</name>
-        <latitude>38.05356000</latitude>
-        <longitude>-1.25051000</longitude>
-      </cities>
-      <cities>
-        <id>32236</id>
-        <name>Alhama de Murcia</name>
-        <latitude>37.85103000</latitude>
-        <longitude>-1.42507000</longitude>
-      </cities>
-      <cities>
-        <id>32430</id>
-        <name>Archena</name>
-        <latitude>38.11631000</latitude>
-        <longitude>-1.30043000</longitude>
-      </cities>
-      <cities>
-        <id>32546</id>
-        <name>Atamaría</name>
-        <latitude>37.59989000</latitude>
-        <longitude>-0.80682000</longitude>
-      </cities>
-      <cities>
-        <id>32677</id>
-        <name>Barrio de la Concepción</name>
-        <latitude>37.60000000</latitude>
-        <longitude>-1.00000000</longitude>
-      </cities>
-      <cities>
-        <id>32800</id>
-        <name>Beniel</name>
-        <latitude>38.04636000</latitude>
-        <longitude>-1.00233000</longitude>
-      </cities>
-      <cities>
-        <id>32905</id>
-        <name>Blanca</name>
-        <latitude>38.17910000</latitude>
-        <longitude>-1.37473000</longitude>
-      </cities>
-      <cities>
-        <id>33018</id>
-        <name>Bullas</name>
-        <latitude>38.04667000</latitude>
-        <longitude>-1.67227000</longitude>
-      </cities>
-      <cities>
-        <id>33131</id>
-        <name>Calasparra</name>
-        <latitude>38.22997000</latitude>
-        <longitude>-1.69986000</longitude>
-      </cities>
-      <cities>
-        <id>33211</id>
-        <name>Campos del Río</name>
-        <latitude>38.03966000</latitude>
-        <longitude>-1.35306000</longitude>
-      </cities>
-      <cities>
-        <id>33277</id>
-        <name>Caravaca</name>
-        <latitude>38.10558000</latitude>
-        <longitude>-1.86343000</longitude>
-      </cities>
-      <cities>
-        <id>33336</id>
-        <name>Cartagena</name>
-        <latitude>37.60512000</latitude>
-        <longitude>-0.98623000</longitude>
-      </cities>
-      <cities>
-        <id>33560</id>
-        <name>Cehegín</name>
-        <latitude>38.09242000</latitude>
-        <longitude>-1.79850000</longitude>
-      </cities>
-      <cities>
-        <id>33610</id>
-        <name>Ceuti</name>
-        <latitude>38.07859000</latitude>
-        <longitude>-1.27467000</longitude>
-      </cities>
-      <cities>
-        <id>33659</id>
-        <name>Cieza</name>
-        <latitude>38.23998000</latitude>
-        <longitude>-1.41987000</longitude>
-      </cities>
-      <cities>
-        <id>33706</id>
-        <name>Cobatillas</name>
-        <latitude>38.05545000</latitude>
-        <longitude>-1.07683000</longitude>
-      </cities>
-      <cities>
-        <id>34009</id>
-        <name>El Plan</name>
-        <latitude>37.65000000</latitude>
-        <longitude>-1.01667000</longitude>
-      </cities>
-      <cities>
-        <id>34104</id>
-        <name>Esparragal</name>
-        <latitude>38.03333000</latitude>
-        <longitude>-1.08333000</longitude>
-      </cities>
-      <cities>
-        <id>34231</id>
-        <name>Fortuna</name>
-        <latitude>38.18140000</latitude>
-        <longitude>-1.12590000</longitude>
-      </cities>
-      <cities>
-        <id>34308</id>
-        <name>Fuente-Álamo de Murcia</name>
-        <latitude>37.72389000</latitude>
-        <longitude>-1.16972000</longitude>
-      </cities>
-      <cities>
-        <id>34828</id>
-        <name>Jumilla</name>
-        <latitude>38.47917000</latitude>
-        <longitude>-1.32500000</longitude>
-      </cities>
-      <cities>
-        <id>34893</id>
-        <name>La Manga del Mar Menor</name>
-        <latitude>37.64129000</latitude>
-        <longitude>-0.71651000</longitude>
-      </cities>
-      <cities>
-        <id>34931</id>
-        <name>La Torrecilla</name>
-        <latitude>37.62363000</latitude>
-        <longitude>-1.72785000</longitude>
-      </cities>
-      <cities>
-        <id>34932</id>
-        <name>La Unión</name>
-        <latitude>37.61915000</latitude>
-        <longitude>-0.87799000</longitude>
-      </cities>
-      <cities>
-        <id>34993</id>
-        <name>Las Torres de Cotillas</name>
-        <latitude>38.02822000</latitude>
-        <longitude>-1.24188000</longitude>
-      </cities>
-      <cities>
-        <id>35046</id>
-        <name>Librilla</name>
-        <latitude>37.88642000</latitude>
-        <longitude>-1.35557000</longitude>
-      </cities>
-      <cities>
-        <id>35092</id>
-        <name>Lo Pagán</name>
-        <latitude>37.81761000</latitude>
-        <longitude>-0.78832000</longitude>
-      </cities>
-      <cities>
-        <id>35113</id>
-        <name>Lorca</name>
-        <latitude>37.67119000</latitude>
-        <longitude>-1.70170000</longitude>
-      </cities>
-      <cities>
-        <id>35115</id>
-        <name>Lorquí</name>
-        <latitude>38.08261000</latitude>
-        <longitude>-1.25103000</longitude>
-      </cities>
-      <cities>
-        <id>35116</id>
-        <name>Los Alcázares</name>
-        <latitude>37.74425000</latitude>
-        <longitude>-0.85041000</longitude>
-      </cities>
-      <cities>
-        <id>35121</id>
-        <name>Los Gabatos</name>
-        <latitude>37.63333000</latitude>
-        <longitude>-1.00000000</longitude>
-      </cities>
-      <cities>
-        <id>35125</id>
-        <name>Los Martínez</name>
-        <latitude>37.81841000</latitude>
-        <longitude>-1.07880000</longitude>
-      </cities>
-      <cities>
-        <id>35356</id>
-        <name>Mazarrón</name>
-        <latitude>37.59920000</latitude>
-        <longitude>-1.31493000</longitude>
-      </cities>
-      <cities>
-        <id>35478</id>
-        <name>Molina de Segura</name>
-        <latitude>38.05456000</latitude>
-        <longitude>-1.20763000</longitude>
-      </cities>
-      <cities>
-        <id>35618</id>
-        <name>Moratalla</name>
-        <latitude>38.18928000</latitude>
-        <longitude>-1.89183000</longitude>
-      </cities>
-      <cities>
-        <id>35661</id>
-        <name>Mula</name>
-        <latitude>38.04095000</latitude>
-        <longitude>-1.49014000</longitude>
-      </cities>
-      <cities>
-        <id>35671</id>
-        <name>Murcia</name>
-        <latitude>37.98662000</latitude>
-        <longitude>-1.14146000</longitude>
-      </cities>
-      <cities>
-        <id>35871</id>
-        <name>Ojós</name>
-        <latitude>38.14700000</latitude>
-        <longitude>-1.34261000</longitude>
-      </cities>
-      <cities>
-        <id>36245</id>
-        <name>Pliego</name>
-        <latitude>37.98946000</latitude>
-        <longitude>-1.50444000</longitude>
-      </cities>
-      <cities>
-        <id>36445</id>
-        <name>Puerto Lumbreras</name>
-        <latitude>37.56329000</latitude>
-        <longitude>-1.80974000</longitude>
-      </cities>
-      <cities>
-        <id>36621</id>
-        <name>Ricote</name>
-        <latitude>38.15338000</latitude>
-        <longitude>-1.36557000</longitude>
-      </cities>
-      <cities>
-        <id>36840</id>
-        <name>San Javier</name>
-        <latitude>37.80626000</latitude>
-        <longitude>-0.83736000</longitude>
-      </cities>
-      <cities>
-        <id>36910</id>
-        <name>San Pedro del Pinatar</name>
-        <latitude>37.83568000</latitude>
-        <longitude>-0.79102000</longitude>
-      </cities>
-      <cities>
-        <id>36945</id>
-        <name>Sangonera la Verde</name>
-        <latitude>37.92862000</latitude>
-        <longitude>-1.20794000</longitude>
-      </cities>
-      <cities>
-        <id>37026</id>
-        <name>Santa Cruz</name>
-        <latitude>38.02180000</latitude>
-        <longitude>-1.05749000</longitude>
-      </cities>
-      <cities>
-        <id>37116</id>
-        <name>Santiago de la Ribera</name>
-        <latitude>37.79681000</latitude>
-        <longitude>-0.80544000</longitude>
-      </cities>
-      <cities>
-        <id>37145</id>
-        <name>Santomera</name>
-        <latitude>38.06147000</latitude>
-        <longitude>-1.04877000</longitude>
-      </cities>
-      <cities>
-        <id>37507</id>
-        <name>Torre-Pacheco</name>
-        <latitude>37.74293000</latitude>
-        <longitude>-0.95396000</longitude>
-      </cities>
-      <cities>
-        <id>37606</id>
-        <name>Totana</name>
-        <latitude>37.76880000</latitude>
-        <longitude>-1.50229000</longitude>
-      </cities>
-      <cities>
-        <id>37678</id>
-        <name>Ulea</name>
-        <latitude>38.14045000</latitude>
-        <longitude>-1.33007000</longitude>
-      </cities>
-      <cities>
-        <id>38431</id>
-        <name>Yecla</name>
-        <latitude>38.61365000</latitude>
-        <longitude>-1.11468000</longitude>
-      </cities>
-    </states>
-    <states>
       <id>1147</id>
       <name>Salamanca Province</name>
       <state_code>SA</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1198</id>
-      <name>Santa Cruz de Tenerife Province</name>
-      <state_code>TF</state_code>
       <cities/>
     </states>
     <states>
@@ -701229,44 +701348,14 @@
       <cities/>
     </states>
     <states>
-      <id>1155</id>
-      <name>Seville Province</name>
-      <state_code>SE</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>1208</id>
       <name>Soria Province</name>
       <state_code>SO</state_code>
       <cities/>
     </states>
     <states>
-      <id>1164</id>
-      <name>Tarragona Province</name>
-      <state_code>T</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1182</id>
-      <name>Teruel Province</name>
-      <state_code>TE</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1165</id>
-      <name>Toledo Province</name>
-      <state_code>TO</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1152</id>
-      <name>Valencia Province</name>
-      <state_code>V</state_code>
-      <cities/>
-    </states>
-    <states>
       <id>1175</id>
-      <name>Valencian Community</name>
+      <name>Valencia</name>
       <state_code>VC</state_code>
       <cities>
         <id>31932</id>
@@ -704141,12 +704230,6 @@
       <id>1161</id>
       <name>Zamora Province</name>
       <state_code>ZA</state_code>
-      <cities/>
-    </states>
-    <states>
-      <id>1162</id>
-      <name>Zaragoza Province</name>
-      <state_code>Z</state_code>
       <cities/>
     </states>
   </country_state_city>
@@ -737770,16 +737853,16 @@
         <longitude>29.15523000</longitude>
       </cities>
       <cities>
-        <id>108901</id>
-        <name>İnegol</name>
-        <latitude>40.07806000</latitude>
-        <longitude>29.51333000</longitude>
-      </cities>
-      <cities>
         <id>108902</id>
         <name>İnegöl</name>
         <latitude>40.01193000</latitude>
         <longitude>29.53678000</longitude>
+      </cities>
+      <cities>
+        <id>108901</id>
+        <name>İnegol</name>
+        <latitude>40.07806000</latitude>
+        <longitude>29.51333000</longitude>
       </cities>
       <cities>
         <id>108925</id>
@@ -740877,16 +740960,16 @@
         <longitude>29.31942000</longitude>
       </cities>
       <cities>
-        <id>108871</id>
-        <name>Ümraniye</name>
-        <latitude>41.03482000</latitude>
-        <longitude>29.10896000</longitude>
-      </cities>
-      <cities>
         <id>108631</id>
         <name>Umraniye</name>
         <latitude>41.01643000</latitude>
         <longitude>29.12476000</longitude>
+      </cities>
+      <cities>
+        <id>108871</id>
+        <name>Ümraniye</name>
+        <latitude>41.03482000</latitude>
+        <longitude>29.10896000</longitude>
       </cities>
       <cities>
         <id>108874</id>
@@ -741860,16 +741943,16 @@
         <longitude>35.45832000</longitude>
       </cities>
       <cities>
-        <id>107849</id>
-        <name>Incesu</name>
-        <latitude>38.63789000</latitude>
-        <longitude>35.19394000</longitude>
-      </cities>
-      <cities>
         <id>108896</id>
         <name>İncesu</name>
         <latitude>38.62240000</latitude>
         <longitude>35.18261000</longitude>
+      </cities>
+      <cities>
+        <id>107849</id>
+        <name>Incesu</name>
+        <latitude>38.63789000</latitude>
+        <longitude>35.19394000</longitude>
       </cities>
       <cities>
         <id>107954</id>
@@ -910343,16 +910426,16 @@
         <longitude>43.33720000</longitude>
       </cities>
       <cities>
-        <id>130850</id>
-        <name>Hajjah</name>
-        <latitude>15.68160000</latitude>
-        <longitude>43.44996000</longitude>
-      </cities>
-      <cities>
         <id>131011</id>
         <name>Ḩajjah</name>
         <latitude>15.69425000</latitude>
         <longitude>43.60582000</longitude>
+      </cities>
+      <cities>
+        <id>130850</id>
+        <name>Hajjah</name>
+        <latitude>15.68160000</latitude>
+        <longitude>43.44996000</longitude>
       </cities>
       <cities>
         <id>130854</id>

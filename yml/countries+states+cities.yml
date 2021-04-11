@@ -1655,7 +1655,7 @@ country_state_city:
     states:
       -
         id: 1118
-        name: 'Adrar Province'
+        name: Adrar
         state_code: '01'
         cities:
           -
@@ -1680,7 +1680,7 @@ country_state_city:
             longitude: '0.23098000'
       -
         id: 1119
-        name: 'Aïn Defla Province'
+        name: 'Aïn Defla'
         state_code: '44'
         cities:
           -
@@ -1710,7 +1710,7 @@ country_state_city:
             longitude: '2.02806000'
       -
         id: 1122
-        name: 'Aïn Témouchent Province'
+        name: 'Aïn Témouchent'
         state_code: '46'
         cities:
           -
@@ -1740,7 +1740,7 @@ country_state_city:
             longitude: '-0.96778000'
       -
         id: 1144
-        name: 'Algiers Province'
+        name: Algiers
         state_code: '16'
         cities:
           -
@@ -1780,7 +1780,7 @@ country_state_city:
             longitude: '3.28079000'
       -
         id: 1103
-        name: 'Annaba Province'
+        name: Annaba
         state_code: '23'
         cities:
           -
@@ -1805,7 +1805,7 @@ country_state_city:
             longitude: '7.73684000'
       -
         id: 1142
-        name: 'Batna Province'
+        name: Batna
         state_code: '05'
         cities:
           -
@@ -1850,7 +1850,7 @@ country_state_city:
             longitude: '6.26074000'
       -
         id: 1108
-        name: 'Béchar Province'
+        name: Béchar
         state_code: '08'
         cities:
           -
@@ -1860,7 +1860,7 @@ country_state_city:
             longitude: '-2.21667000'
       -
         id: 1128
-        name: 'Béjaïa Province'
+        name: Béjaïa
         state_code: '06'
         cities:
           -
@@ -1904,6 +1904,11 @@ country_state_city:
             latitude: '36.54722000'
             longitude: '4.68611000'
       -
+        id: 4909
+        name: 'Béni Abbès'
+        state_code: '53'
+        cities: {  }
+      -
         id: 1114
         name: Biskra
         state_code: '07'
@@ -1940,7 +1945,7 @@ country_state_city:
             longitude: '6.51109000'
       -
         id: 1111
-        name: 'Blida Province'
+        name: Blida
         state_code: '09'
         cities:
           -
@@ -2004,8 +2009,13 @@ country_state_city:
             latitude: '36.51833000'
             longitude: '2.90528000'
       -
+        id: 4908
+        name: 'Bordj Baji Mokhtar'
+        state_code: '52'
+        cities: {  }
+      -
         id: 1116
-        name: 'Bordj Bou Arréridj Province'
+        name: 'Bordj Bou Arréridj'
         state_code: '34'
         cities:
           -
@@ -2045,7 +2055,7 @@ country_state_city:
             longitude: '5.03107000'
       -
         id: 1104
-        name: 'Bouïra Province'
+        name: Bouïra
         state_code: '10'
         cities:
           -
@@ -2080,7 +2090,7 @@ country_state_city:
             longitude: '3.69123000'
       -
         id: 1125
-        name: 'Boumerdès Province'
+        name: Boumerdès
         state_code: '35'
         cities:
           -
@@ -2155,7 +2165,7 @@ country_state_city:
             longitude: '3.77445000'
       -
         id: 1105
-        name: 'Chlef Province'
+        name: Chlef
         state_code: '02'
         cities:
           -
@@ -2195,7 +2205,7 @@ country_state_city:
             longitude: '1.30258000'
       -
         id: 1121
-        name: 'Constantine Province'
+        name: Constantine
         state_code: '25'
         cities:
           -
@@ -2229,8 +2239,13 @@ country_state_city:
             latitude: '36.41205000'
             longitude: '6.59603000'
       -
+        id: 4912
+        name: Djanet
+        state_code: '56'
+        cities: {  }
+      -
         id: 1098
-        name: 'Djelfa Province'
+        name: Djelfa
         state_code: '17'
         cities:
           -
@@ -2275,7 +2290,7 @@ country_state_city:
             longitude: '3.50309000'
       -
         id: 1129
-        name: 'El Bayadh Province'
+        name: 'El Bayadh'
         state_code: '32'
         cities:
           -
@@ -2294,8 +2309,18 @@ country_state_city:
             latitude: '33.68318000'
             longitude: '1.01927000'
       -
+        id: 4905
+        name: 'El M''ghair'
+        state_code: '49'
+        cities: {  }
+      -
+        id: 4906
+        name: 'El Menia'
+        state_code: '50'
+        cities: {  }
+      -
         id: 1099
-        name: 'El Oued Province'
+        name: 'El Oued'
         state_code: '39'
         cities:
           -
@@ -2320,7 +2345,7 @@ country_state_city:
             longitude: '6.90984000'
       -
         id: 1100
-        name: 'El Tarf Province'
+        name: 'El Tarf'
         state_code: '36'
         cities:
           -
@@ -2345,7 +2370,7 @@ country_state_city:
             longitude: '8.31377000'
       -
         id: 1127
-        name: 'Ghardaïa Province'
+        name: Ghardaïa
         state_code: '47'
         cities:
           -
@@ -2365,7 +2390,7 @@ country_state_city:
             longitude: '3.63333000'
       -
         id: 1137
-        name: 'Guelma Province'
+        name: Guelma
         state_code: '24'
         cities:
           -
@@ -2385,7 +2410,7 @@ country_state_city:
             longitude: '7.44278000'
       -
         id: 1112
-        name: 'Illizi Province'
+        name: Illizi
         state_code: '33'
         cities:
           -
@@ -2394,8 +2419,18 @@ country_state_city:
             latitude: '26.48333000'
             longitude: '8.46667000'
       -
+        id: 4914
+        name: 'In Guezzam'
+        state_code: '58'
+        cities: {  }
+      -
+        id: 4913
+        name: 'In Salah'
+        state_code: '57'
+        cities: {  }
+      -
         id: 1113
-        name: 'Jijel Province'
+        name: Jijel
         state_code: '18'
         cities:
           -
@@ -2405,7 +2440,7 @@ country_state_city:
             longitude: '5.76671000'
       -
         id: 1126
-        name: 'Khenchela Province'
+        name: Khenchela
         state_code: '40'
         cities:
           -
@@ -2415,7 +2450,7 @@ country_state_city:
             longitude: '7.14333000'
       -
         id: 1138
-        name: 'Laghouat Province'
+        name: Laghouat
         state_code: '03'
         cities:
           -
@@ -2430,7 +2465,7 @@ country_state_city:
             longitude: '2.86514000'
       -
         id: 1134
-        name: 'M''Sila Province'
+        name: 'M''Sila'
         state_code: '28'
         cities:
           -
@@ -2455,7 +2490,7 @@ country_state_city:
             longitude: '3.77236000'
       -
         id: 1124
-        name: 'Mascara Province'
+        name: Mascara
         state_code: '29'
         cities:
           -
@@ -2480,7 +2515,7 @@ country_state_city:
             longitude: '-0.19369000'
       -
         id: 1109
-        name: 'Médéa Province'
+        name: Médéa
         state_code: '26'
         cities:
           -
@@ -2505,7 +2540,7 @@ country_state_city:
             longitude: '2.75393000'
       -
         id: 1132
-        name: 'Mila Province'
+        name: Mila
         state_code: '43'
         cities:
           -
@@ -2535,7 +2570,7 @@ country_state_city:
             longitude: '6.35434000'
       -
         id: 1140
-        name: 'Mostaganem Province'
+        name: Mostaganem
         state_code: '27'
         cities:
           -
@@ -2545,7 +2580,7 @@ country_state_city:
             longitude: '0.08918000'
       -
         id: 1102
-        name: 'Naama Province'
+        name: Naama
         state_code: '45'
         cities:
           -
@@ -2560,7 +2595,7 @@ country_state_city:
             longitude: '-0.31667000'
       -
         id: 1101
-        name: 'Oran Province'
+        name: Oran
         state_code: '31'
         cities:
           -
@@ -2605,7 +2640,7 @@ country_state_city:
             longitude: '-0.52168000'
       -
         id: 1139
-        name: 'Ouargla Province'
+        name: Ouargla
         state_code: '30'
         cities:
           -
@@ -2654,8 +2689,13 @@ country_state_city:
             latitude: '33.10527000'
             longitude: '6.05796000'
       -
+        id: 4907
+        name: 'Ouled Djellal'
+        state_code: '51'
+        cities: {  }
+      -
         id: 1136
-        name: 'Oum El Bouaghi Province'
+        name: 'Oum El Bouaghi'
         state_code: '04'
         cities:
           -
@@ -2690,7 +2730,7 @@ country_state_city:
             longitude: '7.11353000'
       -
         id: 1130
-        name: 'Relizane Province'
+        name: Relizane
         state_code: '48'
         cities:
           -
@@ -2735,7 +2775,7 @@ country_state_city:
             longitude: '0.75509000'
       -
         id: 1123
-        name: 'Saïda Province'
+        name: Saïda
         state_code: '20'
         cities:
           -
@@ -2750,7 +2790,7 @@ country_state_city:
             longitude: '0.15171000'
       -
         id: 1141
-        name: 'Sétif Province'
+        name: Sétif
         state_code: '19'
         cities:
           -
@@ -2784,8 +2824,213 @@ country_state_city:
             latitude: '36.19112000'
             longitude: '5.41373000'
       -
+        id: 4902
+        name: 'Sidi Bel Abbès'
+        state_code: '22'
+        cities:
+          -
+            id: 146185
+            name: 'Aïn El Berd District'
+            latitude: '35.35000000'
+            longitude: '-0.51667000'
+          -
+            id: 146186
+            name: 'Balidat Ameur'
+            latitude: '32.95138900'
+            longitude: '5.98055600'
+          -
+            id: 146187
+            name: Belarbi
+            latitude: '35.15149480'
+            longitude: '-0.45679090'
+          -
+            id: 146188
+            name: 'Ben Badis, Sid Bel Abbés'
+            latitude: '34.95277778'
+            longitude: '-0.91444444'
+          -
+            id: 146189
+            name: Djamaa
+            latitude: '33.53137870'
+            longitude: '5.99098210'
+          -
+            id: 146190
+            name: 'El Bour'
+            latitude: '32.16305556'
+            longitude: '5.34527778'
+          -
+            id: 146191
+            name: 'El Hadjira'
+            latitude: '32.61666667'
+            longitude: '5.51666667'
+          -
+            id: 146192
+            name: 'Haoud El Hamra'
+            latitude: '31.88944444'
+            longitude: '5.97305556'
+          -
+            id: 146193
+            name: 'Hassi Messaoud'
+            latitude: '31.70000000'
+            longitude: '6.06666667'
+          -
+            id: 146194
+            name: Lamtar
+            latitude: '35.07062700'
+            longitude: '-0.79814000'
+          -
+            id: 146195
+            name: Marhoum
+            latitude: '34.44600420'
+            longitude: '-0.19502440'
+          -
+            id: 146196
+            name: Megarine
+            latitude: '33.19262320'
+            longitude: '6.09346390'
+          -
+            id: 146197
+            name: Merine
+            latitude: '34.78074720'
+            longitude: '-0.45104030'
+          -
+            id: 146198
+            name: Mezaourou
+            latitude: '34.81732670'
+            longitude: '-0.62331890'
+          -
+            id: 146199
+            name: Moggar
+            latitude: '33.26722222'
+            longitude: '6.06777778'
+          -
+            id: 146200
+            name: 'Moulay Slissen'
+            latitude: '34.81666667'
+            longitude: '-0.76666667'
+          -
+            id: 146201
+            name: 'N''Goussa'
+            latitude: '32.14087970'
+            longitude: '5.30828480'
+          -
+            id: 146202
+            name: Ouargla
+            latitude: '31.95000000'
+            longitude: '5.31666667'
+          -
+            id: 146203
+            name: Rouissat
+            latitude: '31.93657600'
+            longitude: '5.33540730'
+          -
+            id: 146204
+            name: Sfissef
+            latitude: '35.23440280'
+            longitude: '-0.24341580'
+          -
+            id: 146205
+            name: 'Sidi Ali Boussidi'
+            latitude: '35.10000000'
+            longitude: '-0.83333333'
+          -
+            id: 146206
+            name: 'Sidi Amrane'
+            latitude: '33.50000000'
+            longitude: '6.01666667'
+          -
+            id: 146207
+            name: 'Sidi Bel Abbès'
+            latitude: '35.20000000'
+            longitude: '-0.63333333'
+          -
+            id: 146208
+            name: 'Sidi Brahim'
+            latitude: '35.26055600'
+            longitude: '-0.56750000'
+          -
+            id: 146209
+            name: 'Sidi Hamadouche'
+            latitude: '35.29916667'
+            longitude: '-0.54888889'
+          -
+            id: 146210
+            name: 'Sidi Slimane'
+            latitude: '33.28861111'
+            longitude: '6.09472222'
+          -
+            id: 146211
+            name: 'Sidi Yacoub'
+            latitude: '35.13333333'
+            longitude: '-0.78333333'
+          -
+            id: 146212
+            name: 'Sidi Yahia'
+            latitude: '33.52166667'
+            longitude: '5.94555556'
+          -
+            id: 146213
+            name: 'Tabia, Sid Bel Abbés'
+            latitude: '35.01783660'
+            longitude: '-0.73385240'
+          -
+            id: 146214
+            name: Taibet
+            latitude: '33.08391890'
+            longitude: '6.39996530'
+          -
+            id: 146215
+            name: Tamellaht
+            latitude: '33.01190000'
+            longitude: '6.00972000'
+          -
+            id: 146216
+            name: 'Tamerna Djedida'
+            latitude: '33.44640000'
+            longitude: '5.95639000'
+          -
+            id: 146217
+            name: Tebesbest
+            latitude: '33.12001290'
+            longitude: '6.08007430'
+          -
+            id: 146218
+            name: Teghalimet
+            latitude: '34.88283300'
+            longitude: '-0.56000230'
+          -
+            id: 146219
+            name: Telagh
+            latitude: '34.78490640'
+            longitude: '-0.57317730'
+          -
+            id: 146220
+            name: Tenezara
+            latitude: '34.96341170'
+            longitude: '-0.61446190'
+          -
+            id: 146221
+            name: Tenira
+            latitude: '35.01966420'
+            longitude: '-0.53206440'
+          -
+            id: 146222
+            name: Tessala
+            latitude: '35.24300000'
+            longitude: '-0.77316300'
+          -
+            id: 146223
+            name: Touggourt
+            latitude: '33.10000000'
+            longitude: '6.06666667'
+          -
+            id: 146224
+            name: Zerouala
+            latitude: '35.24232450'
+            longitude: '-0.52219390'
+      -
         id: 1110
-        name: 'Skikda Province'
+        name: Skikda
         state_code: '21'
         cities:
           -
@@ -2810,7 +3055,7 @@ country_state_city:
             longitude: '6.64018000'
       -
         id: 1143
-        name: 'Souk Ahras Province'
+        name: 'Souk Ahras'
         state_code: '41'
         cities:
           -
@@ -2825,7 +3070,7 @@ country_state_city:
             longitude: '7.95111000'
       -
         id: 1135
-        name: 'Tamanghasset Province'
+        name: Tamanghasset
         state_code: '11'
         cities:
           -
@@ -2840,7 +3085,7 @@ country_state_city:
             longitude: '5.52278000'
       -
         id: 1117
-        name: 'Tébessa Province'
+        name: Tébessa
         state_code: '12'
         cities:
           -
@@ -2865,7 +3110,7 @@ country_state_city:
             longitude: '8.12417000'
       -
         id: 1106
-        name: 'Tiaret Province'
+        name: Tiaret
         state_code: '14'
         cities:
           -
@@ -2904,8 +3149,13 @@ country_state_city:
             latitude: '35.37103000'
             longitude: '1.31699000'
       -
+        id: 4910
+        name: Timimoun
+        state_code: '54'
+        cities: {  }
+      -
         id: 1120
-        name: 'Tindouf Province'
+        name: Tindouf
         state_code: '37'
         cities:
           -
@@ -2915,7 +3165,7 @@ country_state_city:
             longitude: '-8.14743000'
       -
         id: 1115
-        name: 'Tipasa Province'
+        name: Tipasa
         state_code: '42'
         cities:
           -
@@ -2985,7 +3235,7 @@ country_state_city:
             longitude: '2.84244000'
       -
         id: 1133
-        name: 'Tissemsilt Province'
+        name: Tissemsilt
         state_code: '38'
         cities:
           -
@@ -3000,7 +3250,7 @@ country_state_city:
             longitude: '1.81081000'
       -
         id: 1131
-        name: 'Tizi Ouzou Province'
+        name: 'Tizi Ouzou'
         state_code: '15'
         cities:
           -
@@ -3090,7 +3340,7 @@ country_state_city:
             longitude: '4.05712000'
       -
         id: 1107
-        name: 'Tlemcen Province'
+        name: Tlemcen
         state_code: '13'
         cities:
           -
@@ -3153,6 +3403,11 @@ country_state_city:
             name: Tlemcen
             latitude: '34.87833000'
             longitude: '-1.31500000'
+      -
+        id: 4911
+        name: Touggourt
+        state_code: '55'
+        cities: {  }
   -
     id: 5
     name: 'American Samoa'
@@ -32537,15 +32792,15 @@ country_state_city:
             latitude: '46.52694000'
             longitude: '14.30194000'
           -
-            id: 143796
-            name: Ferndorf
-            latitude: '46.73611111'
-            longitude: '13.62638889'
-          -
             id: 1981
             name: Ferndorf
             latitude: '46.73651000'
             longitude: '13.62661000'
+          -
+            id: 143796
+            name: Ferndorf
+            latitude: '46.73611111'
+            longitude: '13.62638889'
           -
             id: 1988
             name: Finkenstein
@@ -32572,15 +32827,15 @@ country_state_city:
             latitude: '46.86111111'
             longitude: '14.86027778'
           -
-            id: 143798
-            name: Frauenstein
-            latitude: '46.81361111'
-            longitude: '14.36750000'
-          -
             id: 2015
             name: Frauenstein
             latitude: '46.81417000'
             longitude: '14.29417000'
+          -
+            id: 143798
+            name: Frauenstein
+            latitude: '46.81361111'
+            longitude: '14.36750000'
           -
             id: 2021
             name: Fresach
@@ -32592,15 +32847,15 @@ country_state_city:
             latitude: '46.70516000'
             longitude: '14.04513000'
           -
-            id: 143799
-            name: Friesach
-            latitude: '46.95250000'
-            longitude: '14.40972222'
-          -
             id: 2024
             name: Friesach
             latitude: '46.95528000'
             longitude: '14.40583000'
+          -
+            id: 143799
+            name: Friesach
+            latitude: '46.95250000'
+            longitude: '14.40972222'
           -
             id: 2036
             name: Fürnitz
@@ -33417,15 +33672,15 @@ country_state_city:
             latitude: '46.68333000'
             longitude: '14.41667000'
           -
-            id: 3618
-            name: Trebesing
-            latitude: '46.88639000'
-            longitude: '13.51028000'
-          -
             id: 143861
             name: Trebesing
             latitude: '46.88305556'
             longitude: '13.51055556'
+          -
+            id: 3618
+            name: Trebesing
+            latitude: '46.88639000'
+            longitude: '13.51028000'
           -
             id: 143862
             name: Treffen
@@ -33547,15 +33802,15 @@ country_state_city:
             latitude: '46.84861111'
             longitude: '14.19166667'
           -
-            id: 3794
-            name: Wernberg
-            latitude: '46.61667000'
-            longitude: '13.93333000'
-          -
             id: 143869
             name: Wernberg
             latitude: '46.62305556'
             longitude: '13.93944444'
+          -
+            id: 3794
+            name: Wernberg
+            latitude: '46.61667000'
+            longitude: '13.93333000'
           -
             id: 3833
             name: Winklern
@@ -45406,15 +45661,15 @@ country_state_city:
         state_code: B
         cities:
           -
-            id: 8457
-            name: Bandarban
-            latitude: '22.00000000'
-            longitude: '92.33333000'
-          -
             id: 8473
             name: Bāndarban
             latitude: '22.19534000'
             longitude: '92.21946000'
+          -
+            id: 8457
+            name: Bandarban
+            latitude: '22.00000000'
+            longitude: '92.33333000'
           -
             id: 8468
             name: 'Bibir Hat'
@@ -45636,15 +45891,15 @@ country_state_city:
             latitude: '24.43944000'
             longitude: '90.78291000'
           -
-            id: 8527
-            name: Madaripur
-            latitude: '23.25000000'
-            longitude: '90.20000000'
-          -
             id: 8542
             name: Mādārīpur
             latitude: '23.17097000'
             longitude: '90.20935000'
+          -
+            id: 8527
+            name: Madaripur
+            latitude: '23.25000000'
+            longitude: '90.20000000'
           -
             id: 8531
             name: Manikganj
@@ -104042,15 +104297,15 @@ country_state_city:
             latitude: '5.40867000'
             longitude: '-73.29572000'
           -
-            id: 20768
-            name: Cómbita
-            latitude: '5.68760000'
-            longitude: '-73.32942000'
-          -
             id: 20723
             name: Combita
             latitude: '5.63333000'
             longitude: '-73.31667000'
+          -
+            id: 20768
+            name: Cómbita
+            latitude: '5.68760000'
+            longitude: '-73.32942000'
           -
             id: 20736
             name: Coper
@@ -105662,15 +105917,15 @@ country_state_city:
             latitude: '5.34644000'
             longitude: '-74.49147000'
           -
-            id: 20766
-            name: Cáqueza
-            latitude: '4.40569000'
-            longitude: '-73.94683000'
-          -
             id: 20648
             name: Caqueza
             latitude: '4.38708000'
             longitude: '-73.95722000'
+          -
+            id: 20766
+            name: Cáqueza
+            latitude: '4.40569000'
+            longitude: '-73.94683000'
           -
             id: 20655
             name: 'Carmen de Carupa'
@@ -106112,15 +106367,15 @@ country_state_city:
             latitude: '4.87270000'
             longitude: '-74.14435000'
           -
-            id: 143875
-            name: Tibacuy
-            latitude: '4.35111111'
-            longitude: '-72.45638889'
-          -
             id: 21522
             name: Tibacuy
             latitude: '4.30606000'
             longitude: '-74.51639000'
+          -
+            id: 143875
+            name: Tibacuy
+            latitude: '4.35111111'
+            longitude: '-72.45638889'
           -
             id: 21525
             name: Tibirita
@@ -106157,15 +106412,15 @@ country_state_city:
             latitude: '4.30691000'
             longitude: '-74.07104000'
           -
-            id: 143876
-            name: Útica
-            latitude: '5.18861111'
-            longitude: '-74.48111111'
-          -
             id: 21640
             name: Útica
             latitude: '5.16977000'
             longitude: '-74.50134000'
+          -
+            id: 143876
+            name: Útica
+            latitude: '5.18861111'
+            longitude: '-74.48111111'
           -
             id: 21587
             name: Venecia
@@ -106897,15 +107152,15 @@ country_state_city:
             latitude: '0.88283000'
             longitude: '-77.70103000'
           -
-            id: 20517
-            name: Ancuya
-            latitude: '1.26330000'
-            longitude: '-77.51376000'
-          -
             id: 20518
             name: Ancuyá
             latitude: '1.26538000'
             longitude: '-77.53258000'
+          -
+            id: 20517
+            name: Ancuya
+            latitude: '1.26330000'
+            longitude: '-77.51376000'
           -
             id: 20539
             name: Arboleda
@@ -107297,15 +107552,15 @@ country_state_city:
             latitude: '8.04096000'
             longitude: '-72.86538000'
           -
-            id: 20764
-            name: Cáchira
-            latitude: '7.74104000'
-            longitude: '-73.04830000'
-          -
             id: 20620
             name: Cachirá
             latitude: '7.75000000'
             longitude: '-73.16667000'
+          -
+            id: 20764
+            name: Cáchira
+            latitude: '7.74104000'
+            longitude: '-73.04830000'
           -
             id: 20765
             name: Cácota
@@ -131730,15 +131985,15 @@ country_state_city:
         state_code: BE
         cities:
           -
-            id: 38728
-            name: Āsosa
-            latitude: '10.06667000'
-            longitude: '34.53333000'
-          -
             id: 38596
             name: Asosa
             latitude: '10.00000000'
             longitude: '34.50000000'
+          -
+            id: 38728
+            name: Āsosa
+            latitude: '10.06667000'
+            longitude: '34.53333000'
           -
             id: 38679
             name: Metekel
@@ -220793,15 +221048,15 @@ country_state_city:
             latitude: '39.56785000'
             longitude: '19.88362000'
           -
-            id: 52840
-            name: Lefkada
-            latitude: '38.75000000'
-            longitude: '20.66667000'
-          -
             id: 52841
             name: Lefkáda
             latitude: '38.83036000'
             longitude: '20.70442000'
+          -
+            id: 52840
+            name: Lefkada
+            latitude: '38.75000000'
+            longitude: '20.66667000'
           -
             id: 52842
             name: Lefkímmi
@@ -341116,7 +341371,7 @@ country_state_city:
             longitude: '115.24750000'
       -
         id: 1941
-        name: Melaka
+        name: Malacca
         state_code: '04'
         cities:
           -
@@ -380266,15 +380521,15 @@ country_state_city:
             latitude: '24.89639000'
             longitude: '-107.63278000'
           -
-            id: 68096
-            name: 'Adolfo Ruíz Cortínes'
-            latitude: '25.75000000'
-            longitude: '-108.75000000'
-          -
             id: 68094
             name: 'Adolfo Ruiz Cortines'
             latitude: '25.70275000'
             longitude: '-108.71975000'
+          -
+            id: 68096
+            name: 'Adolfo Ruíz Cortínes'
+            latitude: '25.75000000'
+            longitude: '-108.75000000'
           -
             id: 68109
             name: 'Agua Caliente Grande (De Gastélum)'
@@ -384751,15 +385006,15 @@ country_state_city:
             latitude: '22.20275000'
             longitude: '-97.85506000'
           -
-            id: 76406
-            name: 'Ángel R. Cabada'
-            latitude: '18.59601000'
-            longitude: '-95.44580000'
-          -
             id: 68273
             name: 'Angel R. Cabada'
             latitude: '18.60798000'
             longitude: '-95.39724000'
+          -
+            id: 76406
+            name: 'Ángel R. Cabada'
+            latitude: '18.59601000'
+            longitude: '-95.44580000'
           -
             id: 68281
             name: 'Antón Lizardo'
@@ -426769,6 +427024,11 @@ country_state_city:
             latitude: '15.03333333'
             longitude: '120.68333333'
           -
+            id: 145663
+            name: 'San Francisco'
+            latitude: '15.35555556'
+            longitude: '120.84000000'
+          -
             id: 145664
             name: 'San Francisco'
             latitude: '15.62888889'
@@ -426778,11 +427038,6 @@ country_state_city:
             name: 'San Francisco'
             latitude: '14.96166667'
             longitude: '120.54527778'
-          -
-            id: 145663
-            name: 'San Francisco'
-            latitude: '15.35555556'
-            longitude: '120.84000000'
           -
             id: 145666
             name: 'San Ildefonso'
@@ -429429,15 +429684,15 @@ country_state_city:
             latitude: '11.55910000'
             longitude: '123.15510000'
           -
-            id: 81670
-            name: Bañga
-            latitude: '11.63870000'
-            longitude: '122.33410000'
-          -
             id: 81522
             name: Banga
             latitude: '10.50180000'
             longitude: '122.82890000'
+          -
+            id: 81670
+            name: Bañga
+            latitude: '11.63870000'
+            longitude: '122.33410000'
           -
             id: 81570
             name: Barbaza
@@ -456211,11 +456466,6 @@ country_state_city:
             latitude: '53.36346000'
             longitude: '17.04082000'
       -
-        id: 1627
-        name: Kielce
-        state_code: KI
-        cities: {  }
-      -
         id: 1625
         name: 'Kuyavian-Pomeranian Voivodeship'
         state_code: KP
@@ -462091,15 +462341,15 @@ country_state_city:
             latitude: '52.10611000'
             longitude: '19.19498000'
           -
-            id: 88753
-            name: 'powiat Łódzki Wschodni'
-            latitude: '51.76529000'
-            longitude: '19.48288000'
-          -
             id: 87753
             name: 'Powiat łódzki wschodni'
             latitude: '51.68616000'
             longitude: '19.70098000'
+          -
+            id: 88753
+            name: 'powiat Łódzki Wschodni'
+            latitude: '51.76529000'
+            longitude: '19.48288000'
           -
             id: 88752
             name: 'powiat Łowicki'
@@ -469951,15 +470201,15 @@ country_state_city:
             latitude: '53.71743000'
             longitude: '19.33645000'
           -
-            id: 88866
-            name: Świętajno
-            latitude: '53.56692000'
-            longitude: '21.21546000'
-          -
             id: 88276
             name: Swiętajno
             latitude: '54.00151000'
             longitude: '22.31830000'
+          -
+            id: 88866
+            name: Świętajno
+            latitude: '53.56692000'
+            longitude: '21.21546000'
           -
             id: 88305
             name: Szczytno
@@ -493543,15 +493793,15 @@ country_state_city:
             latitude: '44.48195000'
             longitude: '23.44645000'
           -
-            id: 106014
-            name: Sălcuţa
-            latitude: '44.25000000'
-            longitude: '23.43333000'
-          -
             id: 106015
             name: Sălcuța
             latitude: '44.15986000'
             longitude: '23.70247000'
+          -
+            id: 106014
+            name: Sălcuţa
+            latitude: '44.25000000'
+            longitude: '23.43333000'
           -
             id: 106031
             name: Sărata
@@ -499423,15 +499673,15 @@ country_state_city:
             latitude: '46.91667000'
             longitude: '27.56667000'
           -
-            id: 97032
-            name: Şcheia
-            latitude: '46.93333000'
-            longitude: '27.51667000'
-          -
             id: 96265
             name: Scheia
             latitude: '47.11725000'
             longitude: '26.88153000'
+          -
+            id: 97032
+            name: Şcheia
+            latitude: '46.93333000'
+            longitude: '27.51667000'
           -
             id: 96273
             name: Schitu-Duca
@@ -502993,15 +503243,15 @@ country_state_city:
             latitude: '44.71601000'
             longitude: '24.65919000'
           -
-            id: 90459
-            name: Bârza
-            latitude: '44.32811000'
-            longitude: '24.14188000'
-          -
             id: 90065
             name: Barza
             latitude: '44.33333000'
             longitude: '24.78333000'
+          -
+            id: 90459
+            name: Bârza
+            latitude: '44.32811000'
+            longitude: '24.14188000'
           -
             id: 90140
             name: Bircii
@@ -556394,26 +556644,6 @@ country_state_city:
     emojiU: 'U+1F1EA U+1F1F8'
     states:
       -
-        id: 1179
-        name: 'A Coruña Province'
-        state_code: C
-        cities: {  }
-      -
-        id: 1168
-        name: 'Albacete Province'
-        state_code: AB
-        cities: {  }
-      -
-        id: 1156
-        name: 'Alicante Province'
-        state_code: A
-        cities: {  }
-      -
-        id: 1151
-        name: 'Almería Province'
-        state_code: AL
-        cities: {  }
-      -
         id: 1193
         name: Andalusia
         state_code: AN
@@ -560039,11 +560269,6 @@ country_state_city:
             latitude: '37.34218000'
             longitude: '-2.03985000'
       -
-        id: 1148
-        name: 'Araba / Álava'
-        state_code: VI
-        cities: {  }
-      -
         id: 1177
         name: Aragon
         state_code: AR
@@ -563149,9 +563374,14 @@ country_state_city:
             latitude: '41.86775000'
             longitude: '-0.78984000'
       -
-        id: 1153
-        name: 'Badajoz Province'
-        state_code: BA
+        id: 1160
+        name: Asturias
+        state_code: AS
+        cities: {  }
+      -
+        id: 1189
+        name: Ávila
+        state_code: AV
         cities: {  }
       -
         id: 1174
@@ -563593,11 +563823,6 @@ country_state_city:
             name: 'Vilafranca de Bonany'
             latitude: '39.56894000'
             longitude: '3.08815000'
-      -
-        id: 1180
-        name: 'Barcelona Province'
-        state_code: B
-        cities: {  }
       -
         id: 1191
         name: 'Basque Country'
@@ -564349,24 +564574,9 @@ country_state_city:
             latitude: '43.08858000'
             longitude: '-2.31408000'
       -
-        id: 1186
-        name: Biscay
-        state_code: BI
-        cities: {  }
-      -
         id: 1146
         name: 'Burgos Province'
         state_code: BU
-        cities: {  }
-      -
-        id: 1196
-        name: 'Cáceres Province'
-        state_code: CC
-        cities: {  }
-      -
-        id: 1201
-        name: 'Cádiz Province'
-        state_code: CA
         cities: {  }
       -
         id: 1185
@@ -564901,7 +565111,7 @@ country_state_city:
       -
         id: 1170
         name: Cantabria
-        state_code: S
+        state_code: CB
         cities:
           -
             id: 32360
@@ -565194,18 +565404,13 @@ country_state_city:
             latitude: '43.26557000'
             longitude: '-3.89370000'
       -
-        id: 1207
-        name: 'Castellón Province'
-        state_code: CS
-        cities: {  }
-      -
         id: 1184
         name: 'Castile and León'
         state_code: CL
         cities: {  }
       -
         id: 1205
-        name: 'Castile-La Mancha'
+        name: 'Castilla La Mancha'
         state_code: CM
         cities:
           -
@@ -572059,966 +572264,6 @@ country_state_city:
             latitude: '35.88919000'
             longitude: '-5.32042000'
       -
-        id: 1150
-        name: 'Ciudad Real Province'
-        state_code: CR
-        cities: {  }
-      -
-        id: 1158
-        name: 'Community of Madrid'
-        state_code: MD
-        cities:
-          -
-            id: 31985
-            name: Ajalvir
-            latitude: '40.53205000'
-            longitude: '-3.47841000'
-          -
-            id: 31995
-            name: 'Alameda del Valle'
-            latitude: '40.91870000'
-            longitude: '-3.84243000'
-          -
-            id: 32072
-            name: 'Alcalá de Henares'
-            latitude: '40.48205000'
-            longitude: '-3.35996000'
-          -
-            id: 32097
-            name: Alcobendas
-            latitude: '40.54746000'
-            longitude: '-3.64197000'
-          -
-            id: 32119
-            name: Alcorcón
-            latitude: '40.34582000'
-            longitude: '-3.82487000'
-          -
-            id: 32144
-            name: 'Aldea del Fresno'
-            latitude: '40.32360000'
-            longitude: '-4.20319000'
-          -
-            id: 32219
-            name: Algete
-            latitude: '40.59711000'
-            longitude: '-3.49743000'
-          -
-            id: 32327
-            name: Alpedrete
-            latitude: '40.65889000'
-            longitude: '-4.02512000'
-          -
-            id: 32351
-            name: Ambite
-            latitude: '40.33190000'
-            longitude: '-3.18034000'
-          -
-            id: 32368
-            name: Anchuelo
-            latitude: '40.46527000'
-            longitude: '-3.26838000'
-          -
-            id: 32412
-            name: Aranjuez
-            latitude: '40.03108000'
-            longitude: '-3.60246000'
-          -
-            id: 32462
-            name: Arganda
-            latitude: '40.30076000'
-            longitude: '-3.43722000'
-          -
-            id: 32464
-            name: Arganzuela
-            latitude: '40.40021000'
-            longitude: '-3.69618000'
-          -
-            id: 32513
-            name: Arroyomolinos
-            latitude: '40.26951000'
-            longitude: '-3.91946000'
-          -
-            id: 32636
-            name: 'Barajas de Madrid'
-            latitude: '40.47366000'
-            longitude: '-3.57777000'
-          -
-            id: 32695
-            name: Batres
-            latitude: '40.20981000'
-            longitude: '-3.92331000'
-          -
-            id: 32725
-            name: 'Becerril de la Sierra'
-            latitude: '40.71699000'
-            longitude: '-3.98858000'
-          -
-            id: 32750
-            name: 'Belmonte de Tajo'
-            latitude: '40.13162000'
-            longitude: '-3.33580000'
-          -
-            id: 32875
-            name: 'Berzosa del Lozoya'
-            latitude: '40.97320000'
-            longitude: '-3.52009000'
-          -
-            id: 32917
-            name: 'Boadilla del Monte'
-            latitude: '40.40500000'
-            longitude: '-3.87835000'
-          -
-            id: 32918
-            name: Boalo
-            latitude: '40.71603000'
-            longitude: '-3.91656000'
-          -
-            id: 32969
-            name: Braojos
-            latitude: '41.04040000'
-            longitude: '-3.64329000'
-          -
-            id: 32975
-            name: 'Brea de Tajo'
-            latitude: '40.23333000'
-            longitude: '-3.10000000'
-          -
-            id: 32994
-            name: Brunete
-            latitude: '40.40532000'
-            longitude: '-3.99850000'
-          -
-            id: 33013
-            name: 'Buitrago del Lozoya'
-            latitude: '40.99090000'
-            longitude: '-3.63365000'
-          -
-            id: 33038
-            name: Bustarviejo
-            latitude: '40.85720000'
-            longitude: '-3.70766000'
-          -
-            id: 33068
-            name: 'Cabanillas de la Sierra'
-            latitude: '40.82009000'
-            longitude: '-3.62438000'
-          -
-            id: 33115
-            name: 'Cadalso de los Vidrios'
-            latitude: '40.30067000'
-            longitude: '-4.43348000'
-          -
-            id: 33170
-            name: 'Camarma de Esteruelas'
-            latitude: '40.55032000'
-            longitude: '-3.37295000'
-          -
-            id: 33201
-            name: 'Campo Real'
-            latitude: '40.33333000'
-            longitude: '-3.38333000'
-          -
-            id: 33232
-            name: Canencia
-            latitude: '40.90728000'
-            longitude: '-3.73523000'
-          -
-            id: 33274
-            name: Carabaña
-            latitude: '40.25424000'
-            longitude: '-3.23572000'
-          -
-            id: 33272
-            name: Carabanchel
-            latitude: '40.39094000'
-            longitude: '-3.72420000'
-          -
-            id: 33354
-            name: Casarrubuelos
-            latitude: '40.17146000'
-            longitude: '-3.83105000'
-          -
-            id: 33570
-            name: Cenicientos
-            latitude: '40.26459000'
-            longitude: '-4.46683000'
-          -
-            id: 33579
-            name: Cercedilla
-            latitude: '40.74101000'
-            longitude: '-4.05644000'
-          -
-            id: 33596
-            name: 'Cervera de Buitrago'
-            latitude: '40.91988000'
-            longitude: '-3.52702000'
-          -
-            id: 33615
-            name: Chamartín
-            latitude: '40.46206000'
-            longitude: '-3.67660000'
-          -
-            id: 33616
-            name: Chamberí
-            latitude: '40.43404000'
-            longitude: '-3.70379000'
-          -
-            id: 33618
-            name: Chapinería
-            latitude: '40.37891000'
-            longitude: '-4.21009000'
-          -
-            id: 33640
-            name: Chinchón
-            latitude: '40.14020000'
-            longitude: '-3.42267000'
-          -
-            id: 33658
-            name: Ciempozuelos
-            latitude: '40.15913000'
-            longitude: '-3.62103000'
-          -
-            id: 33695
-            name: 'City Center'
-            latitude: '40.41831000'
-            longitude: '-3.70275000'
-          -
-            id: 33696
-            name: 'Ciudad Lineal'
-            latitude: '40.44505000'
-            longitude: '-3.65132000'
-          -
-            id: 33709
-            name: Cobeña
-            latitude: '40.56667000'
-            longitude: '-3.50000000'
-          -
-            id: 33733
-            name: 'Collado Mediano'
-            latitude: '40.69326000'
-            longitude: '-4.02280000'
-          -
-            id: 33736
-            name: Collado-Villalba
-            latitude: '40.63506000'
-            longitude: '-4.00486000'
-          -
-            id: 33744
-            name: 'Colmenar de Oreja'
-            latitude: '40.10675000'
-            longitude: '-3.38547000'
-          -
-            id: 33745
-            name: 'Colmenar del Arroyo'
-            latitude: '40.41897000'
-            longitude: '-4.19845000'
-          -
-            id: 33742
-            name: 'Colmenar Viejo'
-            latitude: '40.65909000'
-            longitude: '-3.76762000'
-          -
-            id: 33746
-            name: Colmenarejo
-            latitude: '40.56063000'
-            longitude: '-4.01713000'
-          -
-            id: 33796
-            name: Corpa
-            latitude: '40.42327000'
-            longitude: '-3.26003000'
-          -
-            id: 33817
-            name: Coslada
-            latitude: '40.42378000'
-            longitude: '-3.56129000'
-          -
-            id: 33845
-            name: Cubas
-            latitude: '40.18900000'
-            longitude: '-3.83526000'
-          -
-            id: 33908
-            name: 'Daganzo de Arriba'
-            latitude: '40.54293000'
-            longitude: '-3.45457000'
-          -
-            id: 34029
-            name: 'El Álamo'
-            latitude: '40.23066000'
-            longitude: '-3.99447000'
-          -
-            id: 33997
-            name: 'El Escorial'
-            latitude: '40.58254000'
-            longitude: '-4.12846000'
-          -
-            id: 34002
-            name: 'El Molar'
-            latitude: '40.73215000'
-            longitude: '-3.57969000'
-          -
-            id: 34003
-            name: 'El Pardo'
-            latitude: '40.51454000'
-            longitude: '-3.77253000'
-          -
-            id: 34024
-            name: 'El Vellón'
-            latitude: '40.76495000'
-            longitude: '-3.57969000'
-          -
-            id: 34147
-            name: Estremera
-            latitude: '40.18333000'
-            longitude: '-3.10000000'
-          -
-            id: 34249
-            name: Fresnedillas
-            latitude: '40.48704000'
-            longitude: '-4.17146000'
-          -
-            id: 34259
-            name: 'Fresno de Torote'
-            latitude: '40.59040000'
-            longitude: '-3.41003000'
-          -
-            id: 34277
-            name: 'Fuencarral-El Pardo'
-            latitude: '40.49840000'
-            longitude: '-3.73140000'
-          -
-            id: 34283
-            name: Fuenlabrada
-            latitude: '40.28419000'
-            longitude: '-3.79415000'
-          -
-            id: 34302
-            name: 'Fuente el Saz'
-            latitude: '40.63215000'
-            longitude: '-3.51146000'
-          -
-            id: 34361
-            name: 'Fuentidueña de Tajo'
-            latitude: '40.11574000'
-            longitude: '-3.15718000'
-          -
-            id: 34373
-            name: Galapagar
-            latitude: '40.57830000'
-            longitude: '-4.00426000'
-          -
-            id: 34415
-            name: 'Garganta de los Montes'
-            latitude: '40.91992000'
-            longitude: '-3.68375000'
-          -
-            id: 34430
-            name: Gascones
-            latitude: '41.01843000'
-            longitude: '-3.64217000'
-          -
-            id: 34459
-            name: Getafe
-            latitude: '40.30571000'
-            longitude: '-3.73295000'
-          -
-            id: 34516
-            name: Griñón
-            latitude: '40.21249000'
-            longitude: '-3.85482000'
-          -
-            id: 34524
-            name: 'Guadalix de la Sierra'
-            latitude: '40.78496000'
-            longitude: '-3.69347000'
-          -
-            id: 34528
-            name: Guadarrama
-            latitude: '40.67270000'
-            longitude: '-4.08949000'
-          -
-            id: 34652
-            name: 'Horcajo de la Sierra'
-            latitude: '41.06723000'
-            longitude: '-3.58534000'
-          -
-            id: 34654
-            name: 'Horcajuelo de la Sierra'
-            latitude: '41.06019000'
-            longitude: '-3.54640000'
-          -
-            id: 34667
-            name: Hortaleza
-            latitude: '40.47444000'
-            longitude: '-3.64110000'
-          -
-            id: 34674
-            name: 'Hoyo de Manzanares'
-            latitude: '40.62265000'
-            longitude: '-3.90733000'
-          -
-            id: 34701
-            name: 'Humanes de Madrid'
-            latitude: '40.25038000'
-            longitude: '-3.83062000'
-          -
-            id: 34860
-            name: 'La Cabrera'
-            latitude: '40.86386000'
-            longitude: '-3.61265000'
-          -
-            id: 34985
-            name: 'Las Matas'
-            latitude: '40.55779000'
-            longitude: '-3.89173000'
-          -
-            id: 34991
-            name: 'Las Rozas de Madrid'
-            latitude: '40.49292000'
-            longitude: '-3.87371000'
-          -
-            id: 34992
-            name: 'Las Tablas'
-            latitude: '40.50649000'
-            longitude: '-3.67235000'
-          -
-            id: 35002
-            name: Latina
-            latitude: '40.38897000'
-            longitude: '-3.74569000'
-          -
-            id: 35021
-            name: Leganés
-            latitude: '40.32718000'
-            longitude: '-3.76350000'
-          -
-            id: 35099
-            name: Loeches
-            latitude: '40.38343000'
-            longitude: '-3.41460000'
-          -
-            id: 35127
-            name: 'Los Molinos'
-            latitude: '40.71578000'
-            longitude: '-4.07402000'
-          -
-            id: 35134
-            name: 'Los Santos de la Humosa'
-            latitude: '40.49968000'
-            longitude: '-3.25332000'
-          -
-            id: 35145
-            name: Lozoya
-            latitude: '40.94949000'
-            longitude: '-3.79086000'
-          -
-            id: 35186
-            name: Madrid
-            latitude: '40.41650000'
-            longitude: '-3.70256000'
-          -
-            id: 35214
-            name: Majadahonda
-            latitude: '40.47353000'
-            longitude: '-3.87182000'
-          -
-            id: 35267
-            name: 'Manzanares el Real'
-            latitude: '40.72627000'
-            longitude: '-3.86265000'
-          -
-            id: 35366
-            name: Meco
-            latitude: '40.55274000'
-            longitude: '-3.32894000'
-          -
-            id: 35384
-            name: 'Mejorada del Campo'
-            latitude: '40.39283000'
-            longitude: '-3.48194000'
-          -
-            id: 35442
-            name: 'Miraflores de la Sierra'
-            latitude: '40.81550000'
-            longitude: '-3.76213000'
-          -
-            id: 35501
-            name: Moncloa-Aravaca
-            latitude: '40.43547000'
-            longitude: '-3.73170000'
-          -
-            id: 35555
-            name: 'Montejo de la Sierra'
-            latitude: '41.05955000'
-            longitude: '-3.52993000'
-          -
-            id: 35602
-            name: 'Moraleja de Enmedio'
-            latitude: '40.26125000'
-            longitude: '-3.85963000'
-          -
-            id: 35612
-            name: Moralzarzal
-            latitude: '40.67816000'
-            longitude: '-3.97070000'
-          -
-            id: 35616
-            name: 'Morata de Tajuña'
-            latitude: '40.22680000'
-            longitude: '-3.43269000'
-          -
-            id: 35617
-            name: Moratalaz
-            latitude: '40.40742000'
-            longitude: '-3.64935000'
-          -
-            id: 35708
-            name: Móstoles
-            latitude: '40.32234000'
-            longitude: '-3.86496000'
-          -
-            id: 35731
-            name: Navacerrada
-            latitude: '40.72905000'
-            longitude: '-4.01696000'
-          -
-            id: 35742
-            name: Navalafuente
-            latitude: '40.82063000'
-            longitude: '-3.67266000'
-          -
-            id: 35743
-            name: Navalagamella
-            latitude: '40.46894000'
-            longitude: '-4.12334000'
-          -
-            id: 35744
-            name: Navalcarnero
-            latitude: '40.28908000'
-            longitude: '-4.01197000'
-          -
-            id: 35758
-            name: Navalquejigo
-            latitude: '40.60705000'
-            longitude: '-4.04966000'
-          -
-            id: 35783
-            name: 'Navas del Rey'
-            latitude: '40.38610000'
-            longitude: '-4.25117000'
-          -
-            id: 35835
-            name: 'Nuevo Baztán'
-            latitude: '40.36731000'
-            longitude: '-3.24125000'
-          -
-            id: 36053
-            name: 'Paracuellos de Jarama'
-            latitude: '40.50353000'
-            longitude: '-3.52775000'
-          -
-            id: 36070
-            name: Parla
-            latitude: '40.23604000'
-            longitude: '-3.76752000'
-          -
-            id: 36082
-            name: Patones
-            latitude: '40.85563000'
-            longitude: '-3.48490000'
-          -
-            id: 36097
-            name: Pedrezuela
-            latitude: '40.74277000'
-            longitude: '-3.59980000'
-          -
-            id: 36122
-            name: 'Pelayos de la Presa'
-            latitude: '40.36051000'
-            longitude: '-4.33462000'
-          -
-            id: 36139
-            name: 'Perales de Tajuña'
-            latitude: '40.23130000'
-            longitude: '-3.35021000'
-          -
-            id: 36160
-            name: 'Pezuela de las Torres'
-            latitude: '40.41613000'
-            longitude: '-3.17363000'
-          -
-            id: 36192
-            name: 'Pinar de Chamartín'
-            latitude: '40.47903000'
-            longitude: '-3.66836000'
-          -
-            id: 36207
-            name: 'Pinilla del Valle'
-            latitude: '40.92448000'
-            longitude: '-3.81688000'
-          -
-            id: 36215
-            name: Pinto
-            latitude: '40.24147000'
-            longitude: '-3.69999000'
-          -
-            id: 36331
-            name: 'Pozuelo de Alarcón'
-            latitude: '40.43293000'
-            longitude: '-3.81338000'
-          -
-            id: 36338
-            name: 'Pozuelo del Rey'
-            latitude: '40.36463000'
-            longitude: '-3.31699000'
-          -
-            id: 36406
-            name: 'Prádena del Rincón'
-            latitude: '41.04414000'
-            longitude: '-3.54075000'
-          -
-            id: 36379
-            name: 'Provincia de Madrid'
-            latitude: '40.40225000'
-            longitude: '-3.71029000'
-          -
-            id: 36437
-            name: 'Puente de Vallecas'
-            latitude: '40.39354000'
-            longitude: '-3.66200000'
-          -
-            id: 36500
-            name: Quijorna
-            latitude: '40.42763000'
-            longitude: '-4.05683000'
-          -
-            id: 36547
-            name: Rascafría
-            latitude: '40.90407000'
-            longitude: '-3.87898000'
-          -
-            id: 36563
-            name: Redueña
-            latitude: '40.81685000'
-            longitude: '-3.59837000'
-          -
-            id: 36587
-            name: Retiro
-            latitude: '40.41317000'
-            longitude: '-3.68307000'
-          -
-            id: 36613
-            name: Ribatejada
-            latitude: '40.66420000'
-            longitude: '-3.38976000'
-          -
-            id: 36639
-            name: Rivas-Vaciamadrid
-            latitude: '40.32605000'
-            longitude: '-3.51089000'
-          -
-            id: 36651
-            name: 'Robledillo de la Jara'
-            latitude: '40.95054000'
-            longitude: '-3.52181000'
-          -
-            id: 36654
-            name: 'Robledo de Chavela'
-            latitude: '40.50062000'
-            longitude: '-4.23635000'
-          -
-            id: 36686
-            name: 'Rozas de Puerto Real'
-            latitude: '40.31667000'
-            longitude: '-4.48333000'
-          -
-            id: 36745
-            name: Salamanca
-            latitude: '40.42972000'
-            longitude: '-3.67975000'
-          -
-            id: 36799
-            name: 'San Agustín del Guadalix'
-            latitude: '40.67882000'
-            longitude: '-3.61639000'
-          -
-            id: 36812
-            name: 'San Blas-Canillejas'
-            latitude: '40.43893000'
-            longitude: '-3.61537000'
-          -
-            id: 36836
-            name: 'San Fernando de Henares'
-            latitude: '40.42386000'
-            longitude: '-3.53261000'
-          -
-            id: 36858
-            name: 'San Lorenzo de El Escorial'
-            latitude: '40.59144000'
-            longitude: '-4.14738000'
-          -
-            id: 36873
-            name: 'San Martín de la Vega'
-            latitude: '40.20735000'
-            longitude: '-3.57063000'
-          -
-            id: 36870
-            name: 'San Martín de Valdeiglesias'
-            latitude: '40.36185000'
-            longitude: '-4.39831000'
-          -
-            id: 36922
-            name: 'San Sebastián de los Reyes'
-            latitude: '40.55555000'
-            longitude: '-3.62733000'
-          -
-            id: 37079
-            name: 'Santa María de la Alameda'
-            latitude: '40.59492000'
-            longitude: '-4.25772000'
-          -
-            id: 37146
-            name: Santorcaz
-            latitude: '40.47176000'
-            longitude: '-3.23462000'
-          -
-            id: 37225
-            name: 'Serranillos del Valle'
-            latitude: '40.20211000'
-            longitude: '-3.88187000'
-          -
-            id: 37240
-            name: 'Sevilla La Nueva'
-            latitude: '40.34775000'
-            longitude: '-4.02727000'
-          -
-            id: 37354
-            name: 'Talamanca de Jarama'
-            latitude: '40.74325000'
-            longitude: '-3.50889000'
-          -
-            id: 37417
-            name: 'Tetuán de las Victorias'
-            latitude: '40.45975000'
-            longitude: '-3.69750000'
-          -
-            id: 37422
-            name: Tielmes
-            latitude: '40.24652000'
-            longitude: '-3.31461000'
-          -
-            id: 37431
-            name: Titulcia
-            latitude: '40.13537000'
-            longitude: '-3.56763000'
-          -
-            id: 37538
-            name: 'Torrejón de Ardoz'
-            latitude: '40.45535000'
-            longitude: '-3.46973000'
-          -
-            id: 37540
-            name: 'Torrejón de la Calzada'
-            latitude: '40.19886000'
-            longitude: '-3.79700000'
-          -
-            id: 37539
-            name: 'Torrejón de Velasco'
-            latitude: '40.18746000'
-            longitude: '-3.77681000'
-          -
-            id: 37543
-            name: Torrelaguna
-            latitude: '40.82764000'
-            longitude: '-3.53683000'
-          -
-            id: 37551
-            name: Torrelodones
-            latitude: '40.57654000'
-            longitude: '-3.92658000'
-          -
-            id: 37557
-            name: 'Torremocha de Jarama'
-            latitude: '40.84148000'
-            longitude: '-3.49666000'
-          -
-            id: 37577
-            name: 'Torres de la Alameda'
-            latitude: '40.40264000'
-            longitude: '-3.35767000'
-          -
-            id: 37629
-            name: 'Tres Cantos'
-            latitude: '40.60092000'
-            longitude: '-3.70806000'
-          -
-            id: 37705
-            name: Usera
-            latitude: '40.38866000'
-            longitude: '-3.70035000'
-          -
-            id: 37726
-            name: Valdaracete
-            latitude: '40.20770000'
-            longitude: '-3.19101000'
-          -
-            id: 37735
-            name: Valdeavero
-            latitude: '40.62980000'
-            longitude: '-3.33001000'
-          -
-            id: 37765
-            name: Valdemanco
-            latitude: '40.87039000'
-            longitude: '-3.65873000'
-          -
-            id: 37767
-            name: Valdemaqueda
-            latitude: '40.51201000'
-            longitude: '-4.29722000'
-          -
-            id: 37772
-            name: Valdemorillo
-            latitude: '40.50064000'
-            longitude: '-4.06710000'
-          -
-            id: 37774
-            name: Valdemoro
-            latitude: '40.19081000'
-            longitude: '-3.67887000'
-          -
-            id: 37781
-            name: Valdeolmos
-            latitude: '40.63708000'
-            longitude: '-3.45064000'
-          -
-            id: 37786
-            name: Valdepiélagos
-            latitude: '40.75842000'
-            longitude: '-3.46163000'
-          -
-            id: 37804
-            name: 'Valdetorres de Jarama'
-            latitude: '40.69366000'
-            longitude: '-3.51156000'
-          -
-            id: 37810
-            name: Valdilecha
-            latitude: '40.29530000'
-            longitude: '-3.30233000'
-          -
-            id: 37882
-            name: 'Valverde de Alcalá'
-            latitude: '40.41667000'
-            longitude: '-3.29631000'
-          -
-            id: 37931
-            name: 'Velilla de San Antonio'
-            latitude: '40.36516000'
-            longitude: '-3.48484000'
-          -
-            id: 37946
-            name: Venturada
-            latitude: '40.79717000'
-            longitude: '-3.61974000'
-          -
-            id: 37963
-            name: Vicálvaro
-            latitude: '40.40000000'
-            longitude: '-3.60000000'
-          -
-            id: 38009
-            name: 'Villa de Vallecas'
-            latitude: '40.36695000'
-            longitude: '-3.60146000'
-          -
-            id: 38012
-            name: 'Villa del Prado'
-            latitude: '40.27852000'
-            longitude: '-4.30534000'
-          -
-            id: 38034
-            name: Villaconejos
-            latitude: '40.10139000'
-            longitude: '-3.48258000'
-          -
-            id: 38105
-            name: Villalbilla
-            latitude: '40.43044000'
-            longitude: '-3.29904000'
-          -
-            id: 38131
-            name: 'Villamanrique de Tajo'
-            latitude: '40.06617000'
-            longitude: '-3.23668000'
-          -
-            id: 38133
-            name: Villamanta
-            latitude: '40.29858000'
-            longitude: '-4.10880000'
-          -
-            id: 38134
-            name: Villamantilla
-            latitude: '40.33846000'
-            longitude: '-4.12986000'
-          -
-            id: 38196
-            name: 'Villanueva de la Cañada'
-            latitude: '40.44689000'
-            longitude: '-4.00428000'
-          -
-            id: 38187
-            name: 'Villanueva de Perales'
-            latitude: '40.34541000'
-            longitude: '-4.09891000'
-          -
-            id: 38219
-            name: 'Villanueva del Pardillo'
-            latitude: '40.49014000'
-            longitude: '-3.96383000'
-          -
-            id: 38257
-            name: 'Villar del Olmo'
-            latitude: '40.33468000'
-            longitude: '-3.23399000'
-          -
-            id: 38273
-            name: 'Villarejo de Salvanés'
-            latitude: '40.16663000'
-            longitude: '-3.27277000'
-          -
-            id: 38343
-            name: Villaverde
-            latitude: '40.35000000'
-            longitude: '-3.70000000'
-          -
-            id: 38357
-            name: 'Villaviciosa de Odón'
-            latitude: '40.35810000'
-            longitude: '-3.90430000'
-          -
-            id: 38360
-            name: 'Villavieja del Lozoya'
-            latitude: '41.00396000'
-            longitude: '-3.66870000'
-          -
-            id: 38482
-            name: Zarzalejo
-            latitude: '40.54811000'
-            longitude: '-4.18176000'
-      -
-        id: 1197
-        name: 'Córdoba Province'
-        state_code: CO
-        cities: {  }
-      -
-        id: 1169
-        name: 'Cuenca Province'
-        state_code: CU
-        cities: {  }
-      -
         id: 1190
         name: Extremadura
         state_code: EX
@@ -575909,41 +575154,6 @@ country_state_city:
             latitude: '43.09885000'
             longitude: '-8.91558000'
       -
-        id: 1202
-        name: Gipuzkoa
-        state_code: SS
-        cities: {  }
-      -
-        id: 1178
-        name: 'Girona Province'
-        state_code: GI
-        cities: {  }
-      -
-        id: 1194
-        name: 'Granada Province'
-        state_code: GR
-        cities: {  }
-      -
-        id: 1172
-        name: 'Guadalajara Province'
-        state_code: GU
-        cities: {  }
-      -
-        id: 1199
-        name: 'Huelva Province'
-        state_code: H
-        cities: {  }
-      -
-        id: 1163
-        name: 'Huesca Province'
-        state_code: HU
-        cities: {  }
-      -
-        id: 1181
-        name: 'Jaén Province'
-        state_code: J
-        cities: {  }
-      -
         id: 1171
         name: 'La Rioja'
         state_code: RI
@@ -576744,13 +575954,8 @@ country_state_city:
             latitude: '42.32565000'
             longitude: '-3.03925000'
       -
-        id: 1166
-        name: 'Las Palmas Province'
-        state_code: GC
-        cities: {  }
-      -
         id: 1200
-        name: 'León Province'
+        name: Léon
         state_code: LE
         cities:
           -
@@ -586494,25 +585699,950 @@ country_state_city:
             latitude: '42.60501000'
             longitude: '-3.22632000'
       -
-        id: 1195
-        name: 'Lleida Province'
-        state_code: L
-        cities: {  }
-      -
-        id: 1187
-        name: 'Lugo Province'
-        state_code: LU
-        cities: {  }
-      -
-        id: 1149
-        name: 'Madrid Province'
-        state_code: M
-        cities: {  }
-      -
-        id: 1188
-        name: 'Málaga Province'
-        state_code: MA
-        cities: {  }
+        id: 1158
+        name: Madrid
+        state_code: MD
+        cities:
+          -
+            id: 31985
+            name: Ajalvir
+            latitude: '40.53205000'
+            longitude: '-3.47841000'
+          -
+            id: 31995
+            name: 'Alameda del Valle'
+            latitude: '40.91870000'
+            longitude: '-3.84243000'
+          -
+            id: 32072
+            name: 'Alcalá de Henares'
+            latitude: '40.48205000'
+            longitude: '-3.35996000'
+          -
+            id: 32097
+            name: Alcobendas
+            latitude: '40.54746000'
+            longitude: '-3.64197000'
+          -
+            id: 32119
+            name: Alcorcón
+            latitude: '40.34582000'
+            longitude: '-3.82487000'
+          -
+            id: 32144
+            name: 'Aldea del Fresno'
+            latitude: '40.32360000'
+            longitude: '-4.20319000'
+          -
+            id: 32219
+            name: Algete
+            latitude: '40.59711000'
+            longitude: '-3.49743000'
+          -
+            id: 32327
+            name: Alpedrete
+            latitude: '40.65889000'
+            longitude: '-4.02512000'
+          -
+            id: 32351
+            name: Ambite
+            latitude: '40.33190000'
+            longitude: '-3.18034000'
+          -
+            id: 32368
+            name: Anchuelo
+            latitude: '40.46527000'
+            longitude: '-3.26838000'
+          -
+            id: 32412
+            name: Aranjuez
+            latitude: '40.03108000'
+            longitude: '-3.60246000'
+          -
+            id: 32462
+            name: Arganda
+            latitude: '40.30076000'
+            longitude: '-3.43722000'
+          -
+            id: 32464
+            name: Arganzuela
+            latitude: '40.40021000'
+            longitude: '-3.69618000'
+          -
+            id: 32513
+            name: Arroyomolinos
+            latitude: '40.26951000'
+            longitude: '-3.91946000'
+          -
+            id: 32636
+            name: 'Barajas de Madrid'
+            latitude: '40.47366000'
+            longitude: '-3.57777000'
+          -
+            id: 32695
+            name: Batres
+            latitude: '40.20981000'
+            longitude: '-3.92331000'
+          -
+            id: 32725
+            name: 'Becerril de la Sierra'
+            latitude: '40.71699000'
+            longitude: '-3.98858000'
+          -
+            id: 32750
+            name: 'Belmonte de Tajo'
+            latitude: '40.13162000'
+            longitude: '-3.33580000'
+          -
+            id: 32875
+            name: 'Berzosa del Lozoya'
+            latitude: '40.97320000'
+            longitude: '-3.52009000'
+          -
+            id: 32917
+            name: 'Boadilla del Monte'
+            latitude: '40.40500000'
+            longitude: '-3.87835000'
+          -
+            id: 32918
+            name: Boalo
+            latitude: '40.71603000'
+            longitude: '-3.91656000'
+          -
+            id: 32969
+            name: Braojos
+            latitude: '41.04040000'
+            longitude: '-3.64329000'
+          -
+            id: 32975
+            name: 'Brea de Tajo'
+            latitude: '40.23333000'
+            longitude: '-3.10000000'
+          -
+            id: 32994
+            name: Brunete
+            latitude: '40.40532000'
+            longitude: '-3.99850000'
+          -
+            id: 33013
+            name: 'Buitrago del Lozoya'
+            latitude: '40.99090000'
+            longitude: '-3.63365000'
+          -
+            id: 33038
+            name: Bustarviejo
+            latitude: '40.85720000'
+            longitude: '-3.70766000'
+          -
+            id: 33068
+            name: 'Cabanillas de la Sierra'
+            latitude: '40.82009000'
+            longitude: '-3.62438000'
+          -
+            id: 33115
+            name: 'Cadalso de los Vidrios'
+            latitude: '40.30067000'
+            longitude: '-4.43348000'
+          -
+            id: 33170
+            name: 'Camarma de Esteruelas'
+            latitude: '40.55032000'
+            longitude: '-3.37295000'
+          -
+            id: 33201
+            name: 'Campo Real'
+            latitude: '40.33333000'
+            longitude: '-3.38333000'
+          -
+            id: 33232
+            name: Canencia
+            latitude: '40.90728000'
+            longitude: '-3.73523000'
+          -
+            id: 33274
+            name: Carabaña
+            latitude: '40.25424000'
+            longitude: '-3.23572000'
+          -
+            id: 33272
+            name: Carabanchel
+            latitude: '40.39094000'
+            longitude: '-3.72420000'
+          -
+            id: 33354
+            name: Casarrubuelos
+            latitude: '40.17146000'
+            longitude: '-3.83105000'
+          -
+            id: 33570
+            name: Cenicientos
+            latitude: '40.26459000'
+            longitude: '-4.46683000'
+          -
+            id: 33579
+            name: Cercedilla
+            latitude: '40.74101000'
+            longitude: '-4.05644000'
+          -
+            id: 33596
+            name: 'Cervera de Buitrago'
+            latitude: '40.91988000'
+            longitude: '-3.52702000'
+          -
+            id: 33615
+            name: Chamartín
+            latitude: '40.46206000'
+            longitude: '-3.67660000'
+          -
+            id: 33616
+            name: Chamberí
+            latitude: '40.43404000'
+            longitude: '-3.70379000'
+          -
+            id: 33618
+            name: Chapinería
+            latitude: '40.37891000'
+            longitude: '-4.21009000'
+          -
+            id: 33640
+            name: Chinchón
+            latitude: '40.14020000'
+            longitude: '-3.42267000'
+          -
+            id: 33658
+            name: Ciempozuelos
+            latitude: '40.15913000'
+            longitude: '-3.62103000'
+          -
+            id: 33695
+            name: 'City Center'
+            latitude: '40.41831000'
+            longitude: '-3.70275000'
+          -
+            id: 33696
+            name: 'Ciudad Lineal'
+            latitude: '40.44505000'
+            longitude: '-3.65132000'
+          -
+            id: 33709
+            name: Cobeña
+            latitude: '40.56667000'
+            longitude: '-3.50000000'
+          -
+            id: 33733
+            name: 'Collado Mediano'
+            latitude: '40.69326000'
+            longitude: '-4.02280000'
+          -
+            id: 33736
+            name: Collado-Villalba
+            latitude: '40.63506000'
+            longitude: '-4.00486000'
+          -
+            id: 33744
+            name: 'Colmenar de Oreja'
+            latitude: '40.10675000'
+            longitude: '-3.38547000'
+          -
+            id: 33745
+            name: 'Colmenar del Arroyo'
+            latitude: '40.41897000'
+            longitude: '-4.19845000'
+          -
+            id: 33742
+            name: 'Colmenar Viejo'
+            latitude: '40.65909000'
+            longitude: '-3.76762000'
+          -
+            id: 33746
+            name: Colmenarejo
+            latitude: '40.56063000'
+            longitude: '-4.01713000'
+          -
+            id: 33796
+            name: Corpa
+            latitude: '40.42327000'
+            longitude: '-3.26003000'
+          -
+            id: 33817
+            name: Coslada
+            latitude: '40.42378000'
+            longitude: '-3.56129000'
+          -
+            id: 33845
+            name: Cubas
+            latitude: '40.18900000'
+            longitude: '-3.83526000'
+          -
+            id: 33908
+            name: 'Daganzo de Arriba'
+            latitude: '40.54293000'
+            longitude: '-3.45457000'
+          -
+            id: 34029
+            name: 'El Álamo'
+            latitude: '40.23066000'
+            longitude: '-3.99447000'
+          -
+            id: 33997
+            name: 'El Escorial'
+            latitude: '40.58254000'
+            longitude: '-4.12846000'
+          -
+            id: 34002
+            name: 'El Molar'
+            latitude: '40.73215000'
+            longitude: '-3.57969000'
+          -
+            id: 34003
+            name: 'El Pardo'
+            latitude: '40.51454000'
+            longitude: '-3.77253000'
+          -
+            id: 34024
+            name: 'El Vellón'
+            latitude: '40.76495000'
+            longitude: '-3.57969000'
+          -
+            id: 34147
+            name: Estremera
+            latitude: '40.18333000'
+            longitude: '-3.10000000'
+          -
+            id: 34249
+            name: Fresnedillas
+            latitude: '40.48704000'
+            longitude: '-4.17146000'
+          -
+            id: 34259
+            name: 'Fresno de Torote'
+            latitude: '40.59040000'
+            longitude: '-3.41003000'
+          -
+            id: 34277
+            name: 'Fuencarral-El Pardo'
+            latitude: '40.49840000'
+            longitude: '-3.73140000'
+          -
+            id: 34283
+            name: Fuenlabrada
+            latitude: '40.28419000'
+            longitude: '-3.79415000'
+          -
+            id: 34302
+            name: 'Fuente el Saz'
+            latitude: '40.63215000'
+            longitude: '-3.51146000'
+          -
+            id: 34361
+            name: 'Fuentidueña de Tajo'
+            latitude: '40.11574000'
+            longitude: '-3.15718000'
+          -
+            id: 34373
+            name: Galapagar
+            latitude: '40.57830000'
+            longitude: '-4.00426000'
+          -
+            id: 34415
+            name: 'Garganta de los Montes'
+            latitude: '40.91992000'
+            longitude: '-3.68375000'
+          -
+            id: 34430
+            name: Gascones
+            latitude: '41.01843000'
+            longitude: '-3.64217000'
+          -
+            id: 34459
+            name: Getafe
+            latitude: '40.30571000'
+            longitude: '-3.73295000'
+          -
+            id: 34516
+            name: Griñón
+            latitude: '40.21249000'
+            longitude: '-3.85482000'
+          -
+            id: 34524
+            name: 'Guadalix de la Sierra'
+            latitude: '40.78496000'
+            longitude: '-3.69347000'
+          -
+            id: 34528
+            name: Guadarrama
+            latitude: '40.67270000'
+            longitude: '-4.08949000'
+          -
+            id: 34652
+            name: 'Horcajo de la Sierra'
+            latitude: '41.06723000'
+            longitude: '-3.58534000'
+          -
+            id: 34654
+            name: 'Horcajuelo de la Sierra'
+            latitude: '41.06019000'
+            longitude: '-3.54640000'
+          -
+            id: 34667
+            name: Hortaleza
+            latitude: '40.47444000'
+            longitude: '-3.64110000'
+          -
+            id: 34674
+            name: 'Hoyo de Manzanares'
+            latitude: '40.62265000'
+            longitude: '-3.90733000'
+          -
+            id: 34701
+            name: 'Humanes de Madrid'
+            latitude: '40.25038000'
+            longitude: '-3.83062000'
+          -
+            id: 34860
+            name: 'La Cabrera'
+            latitude: '40.86386000'
+            longitude: '-3.61265000'
+          -
+            id: 34985
+            name: 'Las Matas'
+            latitude: '40.55779000'
+            longitude: '-3.89173000'
+          -
+            id: 34991
+            name: 'Las Rozas de Madrid'
+            latitude: '40.49292000'
+            longitude: '-3.87371000'
+          -
+            id: 34992
+            name: 'Las Tablas'
+            latitude: '40.50649000'
+            longitude: '-3.67235000'
+          -
+            id: 35002
+            name: Latina
+            latitude: '40.38897000'
+            longitude: '-3.74569000'
+          -
+            id: 35021
+            name: Leganés
+            latitude: '40.32718000'
+            longitude: '-3.76350000'
+          -
+            id: 35099
+            name: Loeches
+            latitude: '40.38343000'
+            longitude: '-3.41460000'
+          -
+            id: 35127
+            name: 'Los Molinos'
+            latitude: '40.71578000'
+            longitude: '-4.07402000'
+          -
+            id: 35134
+            name: 'Los Santos de la Humosa'
+            latitude: '40.49968000'
+            longitude: '-3.25332000'
+          -
+            id: 35145
+            name: Lozoya
+            latitude: '40.94949000'
+            longitude: '-3.79086000'
+          -
+            id: 35186
+            name: Madrid
+            latitude: '40.41650000'
+            longitude: '-3.70256000'
+          -
+            id: 35214
+            name: Majadahonda
+            latitude: '40.47353000'
+            longitude: '-3.87182000'
+          -
+            id: 35267
+            name: 'Manzanares el Real'
+            latitude: '40.72627000'
+            longitude: '-3.86265000'
+          -
+            id: 35366
+            name: Meco
+            latitude: '40.55274000'
+            longitude: '-3.32894000'
+          -
+            id: 35384
+            name: 'Mejorada del Campo'
+            latitude: '40.39283000'
+            longitude: '-3.48194000'
+          -
+            id: 35442
+            name: 'Miraflores de la Sierra'
+            latitude: '40.81550000'
+            longitude: '-3.76213000'
+          -
+            id: 35501
+            name: Moncloa-Aravaca
+            latitude: '40.43547000'
+            longitude: '-3.73170000'
+          -
+            id: 35555
+            name: 'Montejo de la Sierra'
+            latitude: '41.05955000'
+            longitude: '-3.52993000'
+          -
+            id: 35602
+            name: 'Moraleja de Enmedio'
+            latitude: '40.26125000'
+            longitude: '-3.85963000'
+          -
+            id: 35612
+            name: Moralzarzal
+            latitude: '40.67816000'
+            longitude: '-3.97070000'
+          -
+            id: 35616
+            name: 'Morata de Tajuña'
+            latitude: '40.22680000'
+            longitude: '-3.43269000'
+          -
+            id: 35617
+            name: Moratalaz
+            latitude: '40.40742000'
+            longitude: '-3.64935000'
+          -
+            id: 35708
+            name: Móstoles
+            latitude: '40.32234000'
+            longitude: '-3.86496000'
+          -
+            id: 35731
+            name: Navacerrada
+            latitude: '40.72905000'
+            longitude: '-4.01696000'
+          -
+            id: 35742
+            name: Navalafuente
+            latitude: '40.82063000'
+            longitude: '-3.67266000'
+          -
+            id: 35743
+            name: Navalagamella
+            latitude: '40.46894000'
+            longitude: '-4.12334000'
+          -
+            id: 35744
+            name: Navalcarnero
+            latitude: '40.28908000'
+            longitude: '-4.01197000'
+          -
+            id: 35758
+            name: Navalquejigo
+            latitude: '40.60705000'
+            longitude: '-4.04966000'
+          -
+            id: 35783
+            name: 'Navas del Rey'
+            latitude: '40.38610000'
+            longitude: '-4.25117000'
+          -
+            id: 35835
+            name: 'Nuevo Baztán'
+            latitude: '40.36731000'
+            longitude: '-3.24125000'
+          -
+            id: 36053
+            name: 'Paracuellos de Jarama'
+            latitude: '40.50353000'
+            longitude: '-3.52775000'
+          -
+            id: 36070
+            name: Parla
+            latitude: '40.23604000'
+            longitude: '-3.76752000'
+          -
+            id: 36082
+            name: Patones
+            latitude: '40.85563000'
+            longitude: '-3.48490000'
+          -
+            id: 36097
+            name: Pedrezuela
+            latitude: '40.74277000'
+            longitude: '-3.59980000'
+          -
+            id: 36122
+            name: 'Pelayos de la Presa'
+            latitude: '40.36051000'
+            longitude: '-4.33462000'
+          -
+            id: 36139
+            name: 'Perales de Tajuña'
+            latitude: '40.23130000'
+            longitude: '-3.35021000'
+          -
+            id: 36160
+            name: 'Pezuela de las Torres'
+            latitude: '40.41613000'
+            longitude: '-3.17363000'
+          -
+            id: 36192
+            name: 'Pinar de Chamartín'
+            latitude: '40.47903000'
+            longitude: '-3.66836000'
+          -
+            id: 36207
+            name: 'Pinilla del Valle'
+            latitude: '40.92448000'
+            longitude: '-3.81688000'
+          -
+            id: 36215
+            name: Pinto
+            latitude: '40.24147000'
+            longitude: '-3.69999000'
+          -
+            id: 36331
+            name: 'Pozuelo de Alarcón'
+            latitude: '40.43293000'
+            longitude: '-3.81338000'
+          -
+            id: 36338
+            name: 'Pozuelo del Rey'
+            latitude: '40.36463000'
+            longitude: '-3.31699000'
+          -
+            id: 36406
+            name: 'Prádena del Rincón'
+            latitude: '41.04414000'
+            longitude: '-3.54075000'
+          -
+            id: 36379
+            name: 'Provincia de Madrid'
+            latitude: '40.40225000'
+            longitude: '-3.71029000'
+          -
+            id: 36437
+            name: 'Puente de Vallecas'
+            latitude: '40.39354000'
+            longitude: '-3.66200000'
+          -
+            id: 36500
+            name: Quijorna
+            latitude: '40.42763000'
+            longitude: '-4.05683000'
+          -
+            id: 36547
+            name: Rascafría
+            latitude: '40.90407000'
+            longitude: '-3.87898000'
+          -
+            id: 36563
+            name: Redueña
+            latitude: '40.81685000'
+            longitude: '-3.59837000'
+          -
+            id: 36587
+            name: Retiro
+            latitude: '40.41317000'
+            longitude: '-3.68307000'
+          -
+            id: 36613
+            name: Ribatejada
+            latitude: '40.66420000'
+            longitude: '-3.38976000'
+          -
+            id: 36639
+            name: Rivas-Vaciamadrid
+            latitude: '40.32605000'
+            longitude: '-3.51089000'
+          -
+            id: 36651
+            name: 'Robledillo de la Jara'
+            latitude: '40.95054000'
+            longitude: '-3.52181000'
+          -
+            id: 36654
+            name: 'Robledo de Chavela'
+            latitude: '40.50062000'
+            longitude: '-4.23635000'
+          -
+            id: 36686
+            name: 'Rozas de Puerto Real'
+            latitude: '40.31667000'
+            longitude: '-4.48333000'
+          -
+            id: 36745
+            name: Salamanca
+            latitude: '40.42972000'
+            longitude: '-3.67975000'
+          -
+            id: 36799
+            name: 'San Agustín del Guadalix'
+            latitude: '40.67882000'
+            longitude: '-3.61639000'
+          -
+            id: 36812
+            name: 'San Blas-Canillejas'
+            latitude: '40.43893000'
+            longitude: '-3.61537000'
+          -
+            id: 36836
+            name: 'San Fernando de Henares'
+            latitude: '40.42386000'
+            longitude: '-3.53261000'
+          -
+            id: 36858
+            name: 'San Lorenzo de El Escorial'
+            latitude: '40.59144000'
+            longitude: '-4.14738000'
+          -
+            id: 36873
+            name: 'San Martín de la Vega'
+            latitude: '40.20735000'
+            longitude: '-3.57063000'
+          -
+            id: 36870
+            name: 'San Martín de Valdeiglesias'
+            latitude: '40.36185000'
+            longitude: '-4.39831000'
+          -
+            id: 36922
+            name: 'San Sebastián de los Reyes'
+            latitude: '40.55555000'
+            longitude: '-3.62733000'
+          -
+            id: 37079
+            name: 'Santa María de la Alameda'
+            latitude: '40.59492000'
+            longitude: '-4.25772000'
+          -
+            id: 37146
+            name: Santorcaz
+            latitude: '40.47176000'
+            longitude: '-3.23462000'
+          -
+            id: 37225
+            name: 'Serranillos del Valle'
+            latitude: '40.20211000'
+            longitude: '-3.88187000'
+          -
+            id: 37240
+            name: 'Sevilla La Nueva'
+            latitude: '40.34775000'
+            longitude: '-4.02727000'
+          -
+            id: 37354
+            name: 'Talamanca de Jarama'
+            latitude: '40.74325000'
+            longitude: '-3.50889000'
+          -
+            id: 37417
+            name: 'Tetuán de las Victorias'
+            latitude: '40.45975000'
+            longitude: '-3.69750000'
+          -
+            id: 37422
+            name: Tielmes
+            latitude: '40.24652000'
+            longitude: '-3.31461000'
+          -
+            id: 37431
+            name: Titulcia
+            latitude: '40.13537000'
+            longitude: '-3.56763000'
+          -
+            id: 37538
+            name: 'Torrejón de Ardoz'
+            latitude: '40.45535000'
+            longitude: '-3.46973000'
+          -
+            id: 37540
+            name: 'Torrejón de la Calzada'
+            latitude: '40.19886000'
+            longitude: '-3.79700000'
+          -
+            id: 37539
+            name: 'Torrejón de Velasco'
+            latitude: '40.18746000'
+            longitude: '-3.77681000'
+          -
+            id: 37543
+            name: Torrelaguna
+            latitude: '40.82764000'
+            longitude: '-3.53683000'
+          -
+            id: 37551
+            name: Torrelodones
+            latitude: '40.57654000'
+            longitude: '-3.92658000'
+          -
+            id: 37557
+            name: 'Torremocha de Jarama'
+            latitude: '40.84148000'
+            longitude: '-3.49666000'
+          -
+            id: 37577
+            name: 'Torres de la Alameda'
+            latitude: '40.40264000'
+            longitude: '-3.35767000'
+          -
+            id: 37629
+            name: 'Tres Cantos'
+            latitude: '40.60092000'
+            longitude: '-3.70806000'
+          -
+            id: 37705
+            name: Usera
+            latitude: '40.38866000'
+            longitude: '-3.70035000'
+          -
+            id: 37726
+            name: Valdaracete
+            latitude: '40.20770000'
+            longitude: '-3.19101000'
+          -
+            id: 37735
+            name: Valdeavero
+            latitude: '40.62980000'
+            longitude: '-3.33001000'
+          -
+            id: 37765
+            name: Valdemanco
+            latitude: '40.87039000'
+            longitude: '-3.65873000'
+          -
+            id: 37767
+            name: Valdemaqueda
+            latitude: '40.51201000'
+            longitude: '-4.29722000'
+          -
+            id: 37772
+            name: Valdemorillo
+            latitude: '40.50064000'
+            longitude: '-4.06710000'
+          -
+            id: 37774
+            name: Valdemoro
+            latitude: '40.19081000'
+            longitude: '-3.67887000'
+          -
+            id: 37781
+            name: Valdeolmos
+            latitude: '40.63708000'
+            longitude: '-3.45064000'
+          -
+            id: 37786
+            name: Valdepiélagos
+            latitude: '40.75842000'
+            longitude: '-3.46163000'
+          -
+            id: 37804
+            name: 'Valdetorres de Jarama'
+            latitude: '40.69366000'
+            longitude: '-3.51156000'
+          -
+            id: 37810
+            name: Valdilecha
+            latitude: '40.29530000'
+            longitude: '-3.30233000'
+          -
+            id: 37882
+            name: 'Valverde de Alcalá'
+            latitude: '40.41667000'
+            longitude: '-3.29631000'
+          -
+            id: 37931
+            name: 'Velilla de San Antonio'
+            latitude: '40.36516000'
+            longitude: '-3.48484000'
+          -
+            id: 37946
+            name: Venturada
+            latitude: '40.79717000'
+            longitude: '-3.61974000'
+          -
+            id: 37963
+            name: Vicálvaro
+            latitude: '40.40000000'
+            longitude: '-3.60000000'
+          -
+            id: 38009
+            name: 'Villa de Vallecas'
+            latitude: '40.36695000'
+            longitude: '-3.60146000'
+          -
+            id: 38012
+            name: 'Villa del Prado'
+            latitude: '40.27852000'
+            longitude: '-4.30534000'
+          -
+            id: 38034
+            name: Villaconejos
+            latitude: '40.10139000'
+            longitude: '-3.48258000'
+          -
+            id: 38105
+            name: Villalbilla
+            latitude: '40.43044000'
+            longitude: '-3.29904000'
+          -
+            id: 38131
+            name: 'Villamanrique de Tajo'
+            latitude: '40.06617000'
+            longitude: '-3.23668000'
+          -
+            id: 38133
+            name: Villamanta
+            latitude: '40.29858000'
+            longitude: '-4.10880000'
+          -
+            id: 38134
+            name: Villamantilla
+            latitude: '40.33846000'
+            longitude: '-4.12986000'
+          -
+            id: 38196
+            name: 'Villanueva de la Cañada'
+            latitude: '40.44689000'
+            longitude: '-4.00428000'
+          -
+            id: 38187
+            name: 'Villanueva de Perales'
+            latitude: '40.34541000'
+            longitude: '-4.09891000'
+          -
+            id: 38219
+            name: 'Villanueva del Pardillo'
+            latitude: '40.49014000'
+            longitude: '-3.96383000'
+          -
+            id: 38257
+            name: 'Villar del Olmo'
+            latitude: '40.33468000'
+            longitude: '-3.23399000'
+          -
+            id: 38273
+            name: 'Villarejo de Salvanés'
+            latitude: '40.16663000'
+            longitude: '-3.27277000'
+          -
+            id: 38343
+            name: Villaverde
+            latitude: '40.35000000'
+            longitude: '-3.70000000'
+          -
+            id: 38357
+            name: 'Villaviciosa de Odón'
+            latitude: '40.35810000'
+            longitude: '-3.90430000'
+          -
+            id: 38360
+            name: 'Villavieja del Lozoya'
+            latitude: '41.00396000'
+            longitude: '-3.66870000'
+          -
+            id: 38482
+            name: Zarzalejo
+            latitude: '40.54811000'
+            longitude: '-4.18176000'
       -
         id: 1159
         name: Melilla
@@ -586524,13 +586654,298 @@ country_state_city:
             latitude: '35.29369000'
             longitude: '-2.93833000'
       -
-        id: 1145
-        name: 'Murcia Province'
-        state_code: MU
-        cities: {  }
+        id: 1176
+        name: Murcia
+        state_code: MC
+        cities:
+          -
+            id: 31903
+            name: Abanilla
+            latitude: '38.20537000'
+            longitude: '-1.04153000'
+          -
+            id: 31905
+            name: Abarán
+            latitude: '38.20551000'
+            longitude: '-1.39907000'
+          -
+            id: 38574
+            name: Águilas
+            latitude: '37.40630000'
+            longitude: '-1.58289000'
+          -
+            id: 32057
+            name: Albudeite
+            latitude: '38.02895000'
+            longitude: '-1.38664000'
+          -
+            id: 32084
+            name: Alcantarilla
+            latitude: '37.96939000'
+            longitude: '-1.21714000'
+          -
+            id: 32182
+            name: Aledo
+            latitude: '37.79341000'
+            longitude: '-1.57356000'
+          -
+            id: 32229
+            name: Alguazas
+            latitude: '38.05356000'
+            longitude: '-1.25051000'
+          -
+            id: 32236
+            name: 'Alhama de Murcia'
+            latitude: '37.85103000'
+            longitude: '-1.42507000'
+          -
+            id: 32430
+            name: Archena
+            latitude: '38.11631000'
+            longitude: '-1.30043000'
+          -
+            id: 32546
+            name: Atamaría
+            latitude: '37.59989000'
+            longitude: '-0.80682000'
+          -
+            id: 32677
+            name: 'Barrio de la Concepción'
+            latitude: '37.60000000'
+            longitude: '-1.00000000'
+          -
+            id: 32800
+            name: Beniel
+            latitude: '38.04636000'
+            longitude: '-1.00233000'
+          -
+            id: 32905
+            name: Blanca
+            latitude: '38.17910000'
+            longitude: '-1.37473000'
+          -
+            id: 33018
+            name: Bullas
+            latitude: '38.04667000'
+            longitude: '-1.67227000'
+          -
+            id: 33131
+            name: Calasparra
+            latitude: '38.22997000'
+            longitude: '-1.69986000'
+          -
+            id: 33211
+            name: 'Campos del Río'
+            latitude: '38.03966000'
+            longitude: '-1.35306000'
+          -
+            id: 33277
+            name: Caravaca
+            latitude: '38.10558000'
+            longitude: '-1.86343000'
+          -
+            id: 33336
+            name: Cartagena
+            latitude: '37.60512000'
+            longitude: '-0.98623000'
+          -
+            id: 33560
+            name: Cehegín
+            latitude: '38.09242000'
+            longitude: '-1.79850000'
+          -
+            id: 33610
+            name: Ceuti
+            latitude: '38.07859000'
+            longitude: '-1.27467000'
+          -
+            id: 33659
+            name: Cieza
+            latitude: '38.23998000'
+            longitude: '-1.41987000'
+          -
+            id: 33706
+            name: Cobatillas
+            latitude: '38.05545000'
+            longitude: '-1.07683000'
+          -
+            id: 34009
+            name: 'El Plan'
+            latitude: '37.65000000'
+            longitude: '-1.01667000'
+          -
+            id: 34104
+            name: Esparragal
+            latitude: '38.03333000'
+            longitude: '-1.08333000'
+          -
+            id: 34231
+            name: Fortuna
+            latitude: '38.18140000'
+            longitude: '-1.12590000'
+          -
+            id: 34308
+            name: 'Fuente-Álamo de Murcia'
+            latitude: '37.72389000'
+            longitude: '-1.16972000'
+          -
+            id: 34828
+            name: Jumilla
+            latitude: '38.47917000'
+            longitude: '-1.32500000'
+          -
+            id: 34893
+            name: 'La Manga del Mar Menor'
+            latitude: '37.64129000'
+            longitude: '-0.71651000'
+          -
+            id: 34931
+            name: 'La Torrecilla'
+            latitude: '37.62363000'
+            longitude: '-1.72785000'
+          -
+            id: 34932
+            name: 'La Unión'
+            latitude: '37.61915000'
+            longitude: '-0.87799000'
+          -
+            id: 34993
+            name: 'Las Torres de Cotillas'
+            latitude: '38.02822000'
+            longitude: '-1.24188000'
+          -
+            id: 35046
+            name: Librilla
+            latitude: '37.88642000'
+            longitude: '-1.35557000'
+          -
+            id: 35092
+            name: 'Lo Pagán'
+            latitude: '37.81761000'
+            longitude: '-0.78832000'
+          -
+            id: 35113
+            name: Lorca
+            latitude: '37.67119000'
+            longitude: '-1.70170000'
+          -
+            id: 35115
+            name: Lorquí
+            latitude: '38.08261000'
+            longitude: '-1.25103000'
+          -
+            id: 35116
+            name: 'Los Alcázares'
+            latitude: '37.74425000'
+            longitude: '-0.85041000'
+          -
+            id: 35121
+            name: 'Los Gabatos'
+            latitude: '37.63333000'
+            longitude: '-1.00000000'
+          -
+            id: 35125
+            name: 'Los Martínez'
+            latitude: '37.81841000'
+            longitude: '-1.07880000'
+          -
+            id: 35356
+            name: Mazarrón
+            latitude: '37.59920000'
+            longitude: '-1.31493000'
+          -
+            id: 35478
+            name: 'Molina de Segura'
+            latitude: '38.05456000'
+            longitude: '-1.20763000'
+          -
+            id: 35618
+            name: Moratalla
+            latitude: '38.18928000'
+            longitude: '-1.89183000'
+          -
+            id: 35661
+            name: Mula
+            latitude: '38.04095000'
+            longitude: '-1.49014000'
+          -
+            id: 35671
+            name: Murcia
+            latitude: '37.98662000'
+            longitude: '-1.14146000'
+          -
+            id: 35871
+            name: Ojós
+            latitude: '38.14700000'
+            longitude: '-1.34261000'
+          -
+            id: 36245
+            name: Pliego
+            latitude: '37.98946000'
+            longitude: '-1.50444000'
+          -
+            id: 36445
+            name: 'Puerto Lumbreras'
+            latitude: '37.56329000'
+            longitude: '-1.80974000'
+          -
+            id: 36621
+            name: Ricote
+            latitude: '38.15338000'
+            longitude: '-1.36557000'
+          -
+            id: 36840
+            name: 'San Javier'
+            latitude: '37.80626000'
+            longitude: '-0.83736000'
+          -
+            id: 36910
+            name: 'San Pedro del Pinatar'
+            latitude: '37.83568000'
+            longitude: '-0.79102000'
+          -
+            id: 36945
+            name: 'Sangonera la Verde'
+            latitude: '37.92862000'
+            longitude: '-1.20794000'
+          -
+            id: 37026
+            name: 'Santa Cruz'
+            latitude: '38.02180000'
+            longitude: '-1.05749000'
+          -
+            id: 37116
+            name: 'Santiago de la Ribera'
+            latitude: '37.79681000'
+            longitude: '-0.80544000'
+          -
+            id: 37145
+            name: Santomera
+            latitude: '38.06147000'
+            longitude: '-1.04877000'
+          -
+            id: 37507
+            name: Torre-Pacheco
+            latitude: '37.74293000'
+            longitude: '-0.95396000'
+          -
+            id: 37606
+            name: Totana
+            latitude: '37.76880000'
+            longitude: '-1.50229000'
+          -
+            id: 37678
+            name: Ulea
+            latitude: '38.14045000'
+            longitude: '-1.33007000'
+          -
+            id: 38431
+            name: Yecla
+            latitude: '38.61365000'
+            longitude: '-1.11468000'
       -
         id: 1204
-        name: Navarre
+        name: Navarra
         state_code: NC
         cities:
           -
@@ -587414,329 +587829,14 @@ country_state_city:
             latitude: '42.69247000'
             longitude: '-2.29982000'
       -
-        id: 1173
-        name: 'Ourense Province'
-        state_code: OR
-        cities: {  }
-      -
         id: 1157
         name: 'Palencia Province'
         state_code: P
         cities: {  }
       -
-        id: 1154
-        name: 'Pontevedra Province'
-        state_code: PO
-        cities: {  }
-      -
-        id: 1160
-        name: 'Province of Asturias'
-        state_code: O
-        cities: {  }
-      -
-        id: 1189
-        name: 'Province of Ávila'
-        state_code: AV
-        cities: {  }
-      -
-        id: 1176
-        name: 'Region of Murcia'
-        state_code: MC
-        cities:
-          -
-            id: 31903
-            name: Abanilla
-            latitude: '38.20537000'
-            longitude: '-1.04153000'
-          -
-            id: 31905
-            name: Abarán
-            latitude: '38.20551000'
-            longitude: '-1.39907000'
-          -
-            id: 38574
-            name: Águilas
-            latitude: '37.40630000'
-            longitude: '-1.58289000'
-          -
-            id: 32057
-            name: Albudeite
-            latitude: '38.02895000'
-            longitude: '-1.38664000'
-          -
-            id: 32084
-            name: Alcantarilla
-            latitude: '37.96939000'
-            longitude: '-1.21714000'
-          -
-            id: 32182
-            name: Aledo
-            latitude: '37.79341000'
-            longitude: '-1.57356000'
-          -
-            id: 32229
-            name: Alguazas
-            latitude: '38.05356000'
-            longitude: '-1.25051000'
-          -
-            id: 32236
-            name: 'Alhama de Murcia'
-            latitude: '37.85103000'
-            longitude: '-1.42507000'
-          -
-            id: 32430
-            name: Archena
-            latitude: '38.11631000'
-            longitude: '-1.30043000'
-          -
-            id: 32546
-            name: Atamaría
-            latitude: '37.59989000'
-            longitude: '-0.80682000'
-          -
-            id: 32677
-            name: 'Barrio de la Concepción'
-            latitude: '37.60000000'
-            longitude: '-1.00000000'
-          -
-            id: 32800
-            name: Beniel
-            latitude: '38.04636000'
-            longitude: '-1.00233000'
-          -
-            id: 32905
-            name: Blanca
-            latitude: '38.17910000'
-            longitude: '-1.37473000'
-          -
-            id: 33018
-            name: Bullas
-            latitude: '38.04667000'
-            longitude: '-1.67227000'
-          -
-            id: 33131
-            name: Calasparra
-            latitude: '38.22997000'
-            longitude: '-1.69986000'
-          -
-            id: 33211
-            name: 'Campos del Río'
-            latitude: '38.03966000'
-            longitude: '-1.35306000'
-          -
-            id: 33277
-            name: Caravaca
-            latitude: '38.10558000'
-            longitude: '-1.86343000'
-          -
-            id: 33336
-            name: Cartagena
-            latitude: '37.60512000'
-            longitude: '-0.98623000'
-          -
-            id: 33560
-            name: Cehegín
-            latitude: '38.09242000'
-            longitude: '-1.79850000'
-          -
-            id: 33610
-            name: Ceuti
-            latitude: '38.07859000'
-            longitude: '-1.27467000'
-          -
-            id: 33659
-            name: Cieza
-            latitude: '38.23998000'
-            longitude: '-1.41987000'
-          -
-            id: 33706
-            name: Cobatillas
-            latitude: '38.05545000'
-            longitude: '-1.07683000'
-          -
-            id: 34009
-            name: 'El Plan'
-            latitude: '37.65000000'
-            longitude: '-1.01667000'
-          -
-            id: 34104
-            name: Esparragal
-            latitude: '38.03333000'
-            longitude: '-1.08333000'
-          -
-            id: 34231
-            name: Fortuna
-            latitude: '38.18140000'
-            longitude: '-1.12590000'
-          -
-            id: 34308
-            name: 'Fuente-Álamo de Murcia'
-            latitude: '37.72389000'
-            longitude: '-1.16972000'
-          -
-            id: 34828
-            name: Jumilla
-            latitude: '38.47917000'
-            longitude: '-1.32500000'
-          -
-            id: 34893
-            name: 'La Manga del Mar Menor'
-            latitude: '37.64129000'
-            longitude: '-0.71651000'
-          -
-            id: 34931
-            name: 'La Torrecilla'
-            latitude: '37.62363000'
-            longitude: '-1.72785000'
-          -
-            id: 34932
-            name: 'La Unión'
-            latitude: '37.61915000'
-            longitude: '-0.87799000'
-          -
-            id: 34993
-            name: 'Las Torres de Cotillas'
-            latitude: '38.02822000'
-            longitude: '-1.24188000'
-          -
-            id: 35046
-            name: Librilla
-            latitude: '37.88642000'
-            longitude: '-1.35557000'
-          -
-            id: 35092
-            name: 'Lo Pagán'
-            latitude: '37.81761000'
-            longitude: '-0.78832000'
-          -
-            id: 35113
-            name: Lorca
-            latitude: '37.67119000'
-            longitude: '-1.70170000'
-          -
-            id: 35115
-            name: Lorquí
-            latitude: '38.08261000'
-            longitude: '-1.25103000'
-          -
-            id: 35116
-            name: 'Los Alcázares'
-            latitude: '37.74425000'
-            longitude: '-0.85041000'
-          -
-            id: 35121
-            name: 'Los Gabatos'
-            latitude: '37.63333000'
-            longitude: '-1.00000000'
-          -
-            id: 35125
-            name: 'Los Martínez'
-            latitude: '37.81841000'
-            longitude: '-1.07880000'
-          -
-            id: 35356
-            name: Mazarrón
-            latitude: '37.59920000'
-            longitude: '-1.31493000'
-          -
-            id: 35478
-            name: 'Molina de Segura'
-            latitude: '38.05456000'
-            longitude: '-1.20763000'
-          -
-            id: 35618
-            name: Moratalla
-            latitude: '38.18928000'
-            longitude: '-1.89183000'
-          -
-            id: 35661
-            name: Mula
-            latitude: '38.04095000'
-            longitude: '-1.49014000'
-          -
-            id: 35671
-            name: Murcia
-            latitude: '37.98662000'
-            longitude: '-1.14146000'
-          -
-            id: 35871
-            name: Ojós
-            latitude: '38.14700000'
-            longitude: '-1.34261000'
-          -
-            id: 36245
-            name: Pliego
-            latitude: '37.98946000'
-            longitude: '-1.50444000'
-          -
-            id: 36445
-            name: 'Puerto Lumbreras'
-            latitude: '37.56329000'
-            longitude: '-1.80974000'
-          -
-            id: 36621
-            name: Ricote
-            latitude: '38.15338000'
-            longitude: '-1.36557000'
-          -
-            id: 36840
-            name: 'San Javier'
-            latitude: '37.80626000'
-            longitude: '-0.83736000'
-          -
-            id: 36910
-            name: 'San Pedro del Pinatar'
-            latitude: '37.83568000'
-            longitude: '-0.79102000'
-          -
-            id: 36945
-            name: 'Sangonera la Verde'
-            latitude: '37.92862000'
-            longitude: '-1.20794000'
-          -
-            id: 37026
-            name: 'Santa Cruz'
-            latitude: '38.02180000'
-            longitude: '-1.05749000'
-          -
-            id: 37116
-            name: 'Santiago de la Ribera'
-            latitude: '37.79681000'
-            longitude: '-0.80544000'
-          -
-            id: 37145
-            name: Santomera
-            latitude: '38.06147000'
-            longitude: '-1.04877000'
-          -
-            id: 37507
-            name: Torre-Pacheco
-            latitude: '37.74293000'
-            longitude: '-0.95396000'
-          -
-            id: 37606
-            name: Totana
-            latitude: '37.76880000'
-            longitude: '-1.50229000'
-          -
-            id: 37678
-            name: Ulea
-            latitude: '38.14045000'
-            longitude: '-1.33007000'
-          -
-            id: 38431
-            name: Yecla
-            latitude: '38.61365000'
-            longitude: '-1.11468000'
-      -
         id: 1147
         name: 'Salamanca Province'
         state_code: SA
-        cities: {  }
-      -
-        id: 1198
-        name: 'Santa Cruz de Tenerife Province'
-        state_code: TF
         cities: {  }
       -
         id: 1192
@@ -587744,38 +587844,13 @@ country_state_city:
         state_code: SG
         cities: {  }
       -
-        id: 1155
-        name: 'Seville Province'
-        state_code: SE
-        cities: {  }
-      -
         id: 1208
         name: 'Soria Province'
         state_code: SO
         cities: {  }
       -
-        id: 1164
-        name: 'Tarragona Province'
-        state_code: T
-        cities: {  }
-      -
-        id: 1182
-        name: 'Teruel Province'
-        state_code: TE
-        cities: {  }
-      -
-        id: 1165
-        name: 'Toledo Province'
-        state_code: TO
-        cities: {  }
-      -
-        id: 1152
-        name: 'Valencia Province'
-        state_code: V
-        cities: {  }
-      -
         id: 1175
-        name: 'Valencian Community'
+        name: Valencia
         state_code: VC
         cities:
           -
@@ -590172,11 +590247,6 @@ country_state_city:
         id: 1161
         name: 'Zamora Province'
         state_code: ZA
-        cities: {  }
-      -
-        id: 1162
-        name: 'Zaragoza Province'
-        state_code: Z
         cities: {  }
   -
     id: 208
@@ -618537,15 +618607,15 @@ country_state_city:
             latitude: '39.67743000'
             longitude: '29.15523000'
           -
-            id: 108901
-            name: İnegol
-            latitude: '40.07806000'
-            longitude: '29.51333000'
-          -
             id: 108902
             name: İnegöl
             latitude: '40.01193000'
             longitude: '29.53678000'
+          -
+            id: 108901
+            name: İnegol
+            latitude: '40.07806000'
+            longitude: '29.51333000'
           -
             id: 108925
             name: İznik
@@ -621142,15 +621212,15 @@ country_state_city:
             latitude: '40.86368000'
             longitude: '29.31942000'
           -
-            id: 108871
-            name: Ümraniye
-            latitude: '41.03482000'
-            longitude: '29.10896000'
-          -
             id: 108631
             name: Umraniye
             latitude: '41.01643000'
             longitude: '29.12476000'
+          -
+            id: 108871
+            name: Ümraniye
+            latitude: '41.03482000'
+            longitude: '29.10896000'
           -
             id: 108874
             name: Üsküdar
@@ -621967,15 +622037,15 @@ country_state_city:
             latitude: '38.65710000'
             longitude: '35.45832000'
           -
-            id: 107849
-            name: Incesu
-            latitude: '38.63789000'
-            longitude: '35.19394000'
-          -
             id: 108896
             name: İncesu
             latitude: '38.62240000'
             longitude: '35.18261000'
+          -
+            id: 107849
+            name: Incesu
+            latitude: '38.63789000'
+            longitude: '35.19394000'
           -
             id: 107954
             name: Kayseri
@@ -762699,15 +762769,15 @@ country_state_city:
             latitude: '15.63460000'
             longitude: '43.33720000'
           -
-            id: 130850
-            name: Hajjah
-            latitude: '15.68160000'
-            longitude: '43.44996000'
-          -
             id: 131011
             name: Ḩajjah
             latitude: '15.69425000'
             longitude: '43.60582000'
+          -
+            id: 130850
+            name: Hajjah
+            latitude: '15.68160000'
+            longitude: '43.44996000'
           -
             id: 130854
             name: 'Harad District'

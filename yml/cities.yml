@@ -3699,6 +3699,366 @@ city:
     latitude: '36.19112000'
     longitude: '5.41373000'
   -
+    id: 146185
+    name: 'Aïn El Berd District'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '35.35000000'
+    longitude: '-0.51667000'
+  -
+    id: 146186
+    name: 'Balidat Ameur'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '32.95138900'
+    longitude: '5.98055600'
+  -
+    id: 146187
+    name: Belarbi
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '35.15149480'
+    longitude: '-0.45679090'
+  -
+    id: 146188
+    name: 'Ben Badis, Sid Bel Abbés'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '34.95277778'
+    longitude: '-0.91444444'
+  -
+    id: 146189
+    name: Djamaa
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '33.53137870'
+    longitude: '5.99098210'
+  -
+    id: 146190
+    name: 'El Bour'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '32.16305556'
+    longitude: '5.34527778'
+  -
+    id: 146191
+    name: 'El Hadjira'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '32.61666667'
+    longitude: '5.51666667'
+  -
+    id: 146192
+    name: 'Haoud El Hamra'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '31.88944444'
+    longitude: '5.97305556'
+  -
+    id: 146193
+    name: 'Hassi Messaoud'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '31.70000000'
+    longitude: '6.06666667'
+  -
+    id: 146194
+    name: Lamtar
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '35.07062700'
+    longitude: '-0.79814000'
+  -
+    id: 146195
+    name: Marhoum
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '34.44600420'
+    longitude: '-0.19502440'
+  -
+    id: 146196
+    name: Megarine
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '33.19262320'
+    longitude: '6.09346390'
+  -
+    id: 146197
+    name: Merine
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '34.78074720'
+    longitude: '-0.45104030'
+  -
+    id: 146198
+    name: Mezaourou
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '34.81732670'
+    longitude: '-0.62331890'
+  -
+    id: 146199
+    name: Moggar
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '33.26722222'
+    longitude: '6.06777778'
+  -
+    id: 146200
+    name: 'Moulay Slissen'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '34.81666667'
+    longitude: '-0.76666667'
+  -
+    id: 146201
+    name: 'N''Goussa'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '32.14087970'
+    longitude: '5.30828480'
+  -
+    id: 146202
+    name: Ouargla
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '31.95000000'
+    longitude: '5.31666667'
+  -
+    id: 146203
+    name: Rouissat
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '31.93657600'
+    longitude: '5.33540730'
+  -
+    id: 146204
+    name: Sfissef
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '35.23440280'
+    longitude: '-0.24341580'
+  -
+    id: 146205
+    name: 'Sidi Ali Boussidi'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '35.10000000'
+    longitude: '-0.83333333'
+  -
+    id: 146206
+    name: 'Sidi Amrane'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '33.50000000'
+    longitude: '6.01666667'
+  -
+    id: 146207
+    name: 'Sidi Bel Abbès'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '35.20000000'
+    longitude: '-0.63333333'
+  -
+    id: 146208
+    name: 'Sidi Brahim'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '35.26055600'
+    longitude: '-0.56750000'
+  -
+    id: 146209
+    name: 'Sidi Hamadouche'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '35.29916667'
+    longitude: '-0.54888889'
+  -
+    id: 146210
+    name: 'Sidi Slimane'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '33.28861111'
+    longitude: '6.09472222'
+  -
+    id: 146211
+    name: 'Sidi Yacoub'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '35.13333333'
+    longitude: '-0.78333333'
+  -
+    id: 146212
+    name: 'Sidi Yahia'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '33.52166667'
+    longitude: '5.94555556'
+  -
+    id: 146213
+    name: 'Tabia, Sid Bel Abbés'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '35.01783660'
+    longitude: '-0.73385240'
+  -
+    id: 146214
+    name: Taibet
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '33.08391890'
+    longitude: '6.39996530'
+  -
+    id: 146215
+    name: Tamellaht
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '33.01190000'
+    longitude: '6.00972000'
+  -
+    id: 146216
+    name: 'Tamerna Djedida'
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '33.44640000'
+    longitude: '5.95639000'
+  -
+    id: 146217
+    name: Tebesbest
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '33.12001290'
+    longitude: '6.08007430'
+  -
+    id: 146218
+    name: Teghalimet
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '34.88283300'
+    longitude: '-0.56000230'
+  -
+    id: 146219
+    name: Telagh
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '34.78490640'
+    longitude: '-0.57317730'
+  -
+    id: 146220
+    name: Tenezara
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '34.96341170'
+    longitude: '-0.61446190'
+  -
+    id: 146221
+    name: Tenira
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '35.01966420'
+    longitude: '-0.53206440'
+  -
+    id: 146222
+    name: Tessala
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '35.24300000'
+    longitude: '-0.77316300'
+  -
+    id: 146223
+    name: Touggourt
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '33.10000000'
+    longitude: '6.06666667'
+  -
+    id: 146224
+    name: Zerouala
+    state_id: 4902
+    state_code: '22'
+    country_id: 4
+    country_code: DZ
+    latitude: '35.24232450'
+    longitude: '-0.52219390'
+  -
     id: 31239
     name: Azzaba
     state_id: 1110
@@ -55413,15 +55773,6 @@ city:
     latitude: '46.52694000'
     longitude: '14.30194000'
   -
-    id: 143796
-    name: Ferndorf
-    state_id: 2057
-    state_code: '2'
-    country_id: 15
-    country_code: AT
-    latitude: '46.73611111'
-    longitude: '13.62638889'
-  -
     id: 1981
     name: Ferndorf
     state_id: 2057
@@ -55430,6 +55781,15 @@ city:
     country_code: AT
     latitude: '46.73651000'
     longitude: '13.62661000'
+  -
+    id: 143796
+    name: Ferndorf
+    state_id: 2057
+    state_code: '2'
+    country_id: 15
+    country_code: AT
+    latitude: '46.73611111'
+    longitude: '13.62638889'
   -
     id: 1988
     name: Finkenstein
@@ -55476,15 +55836,6 @@ city:
     latitude: '46.86111111'
     longitude: '14.86027778'
   -
-    id: 143798
-    name: Frauenstein
-    state_id: 2057
-    state_code: '2'
-    country_id: 15
-    country_code: AT
-    latitude: '46.81361111'
-    longitude: '14.36750000'
-  -
     id: 2015
     name: Frauenstein
     state_id: 2057
@@ -55493,6 +55844,15 @@ city:
     country_code: AT
     latitude: '46.81417000'
     longitude: '14.29417000'
+  -
+    id: 143798
+    name: Frauenstein
+    state_id: 2057
+    state_code: '2'
+    country_id: 15
+    country_code: AT
+    latitude: '46.81361111'
+    longitude: '14.36750000'
   -
     id: 2021
     name: Fresach
@@ -55512,15 +55872,6 @@ city:
     latitude: '46.70516000'
     longitude: '14.04513000'
   -
-    id: 143799
-    name: Friesach
-    state_id: 2057
-    state_code: '2'
-    country_id: 15
-    country_code: AT
-    latitude: '46.95250000'
-    longitude: '14.40972222'
-  -
     id: 2024
     name: Friesach
     state_id: 2057
@@ -55529,6 +55880,15 @@ city:
     country_code: AT
     latitude: '46.95528000'
     longitude: '14.40583000'
+  -
+    id: 143799
+    name: Friesach
+    state_id: 2057
+    state_code: '2'
+    country_id: 15
+    country_code: AT
+    latitude: '46.95250000'
+    longitude: '14.40972222'
   -
     id: 2036
     name: Fürnitz
@@ -56997,15 +57357,6 @@ city:
     latitude: '46.68333000'
     longitude: '14.41667000'
   -
-    id: 3618
-    name: Trebesing
-    state_id: 2057
-    state_code: '2'
-    country_id: 15
-    country_code: AT
-    latitude: '46.88639000'
-    longitude: '13.51028000'
-  -
     id: 143861
     name: Trebesing
     state_id: 2057
@@ -57014,6 +57365,15 @@ city:
     country_code: AT
     latitude: '46.88305556'
     longitude: '13.51055556'
+  -
+    id: 3618
+    name: Trebesing
+    state_id: 2057
+    state_code: '2'
+    country_id: 15
+    country_code: AT
+    latitude: '46.88639000'
+    longitude: '13.51028000'
   -
     id: 143862
     name: Treffen
@@ -57231,15 +57591,6 @@ city:
     latitude: '46.84861111'
     longitude: '14.19166667'
   -
-    id: 3794
-    name: Wernberg
-    state_id: 2057
-    state_code: '2'
-    country_id: 15
-    country_code: AT
-    latitude: '46.61667000'
-    longitude: '13.93333000'
-  -
     id: 143869
     name: Wernberg
     state_id: 2057
@@ -57248,6 +57599,15 @@ city:
     country_code: AT
     latitude: '46.62305556'
     longitude: '13.93944444'
+  -
+    id: 3794
+    name: Wernberg
+    state_id: 2057
+    state_code: '2'
+    country_id: 15
+    country_code: AT
+    latitude: '46.61667000'
+    longitude: '13.93333000'
   -
     id: 3833
     name: Winklern
@@ -77040,15 +77400,6 @@ city:
     latitude: '22.53671000'
     longitude: '90.00033000'
   -
-    id: 8457
-    name: Bandarban
-    state_id: 803
-    state_code: B
-    country_id: 19
-    country_code: BD
-    latitude: '22.00000000'
-    longitude: '92.33333000'
-  -
     id: 8473
     name: Bāndarban
     state_id: 803
@@ -77057,6 +77408,15 @@ city:
     country_code: BD
     latitude: '22.19534000'
     longitude: '92.21946000'
+  -
+    id: 8457
+    name: Bandarban
+    state_id: 803
+    state_code: B
+    country_id: 19
+    country_code: BD
+    latitude: '22.00000000'
+    longitude: '92.33333000'
   -
     id: 8468
     name: 'Bibir Hat'
@@ -77418,15 +77778,6 @@ city:
     latitude: '24.43944000'
     longitude: '90.78291000'
   -
-    id: 8527
-    name: Madaripur
-    state_id: 771
-    state_code: '13'
-    country_id: 19
-    country_code: BD
-    latitude: '23.25000000'
-    longitude: '90.20000000'
-  -
     id: 8542
     name: Mādārīpur
     state_id: 771
@@ -77435,6 +77786,15 @@ city:
     country_code: BD
     latitude: '23.17097000'
     longitude: '90.20935000'
+  -
+    id: 8527
+    name: Madaripur
+    state_id: 771
+    state_code: '13'
+    country_id: 19
+    country_code: BD
+    latitude: '23.25000000'
+    longitude: '90.20000000'
   -
     id: 8531
     name: Manikganj
@@ -175950,15 +176310,6 @@ city:
     latitude: '5.40867000'
     longitude: '-73.29572000'
   -
-    id: 20768
-    name: Cómbita
-    state_id: 2903
-    state_code: BOY
-    country_id: 48
-    country_code: CO
-    latitude: '5.68760000'
-    longitude: '-73.32942000'
-  -
     id: 20723
     name: Combita
     state_id: 2903
@@ -175967,6 +176318,15 @@ city:
     country_code: CO
     latitude: '5.63333000'
     longitude: '-73.31667000'
+  -
+    id: 20768
+    name: Cómbita
+    state_id: 2903
+    state_code: BOY
+    country_id: 48
+    country_code: CO
+    latitude: '5.68760000'
+    longitude: '-73.32942000'
   -
     id: 20736
     name: Coper
@@ -178794,15 +179154,6 @@ city:
     latitude: '5.34644000'
     longitude: '-74.49147000'
   -
-    id: 20766
-    name: Cáqueza
-    state_id: 2875
-    state_code: CUN
-    country_id: 48
-    country_code: CO
-    latitude: '4.40569000'
-    longitude: '-73.94683000'
-  -
     id: 20648
     name: Caqueza
     state_id: 2875
@@ -178811,6 +179162,15 @@ city:
     country_code: CO
     latitude: '4.38708000'
     longitude: '-73.95722000'
+  -
+    id: 20766
+    name: Cáqueza
+    state_id: 2875
+    state_code: CUN
+    country_id: 48
+    country_code: CO
+    latitude: '4.40569000'
+    longitude: '-73.94683000'
   -
     id: 20655
     name: 'Carmen de Carupa'
@@ -179604,15 +179964,6 @@ city:
     latitude: '4.87270000'
     longitude: '-74.14435000'
   -
-    id: 143875
-    name: Tibacuy
-    state_id: 2875
-    state_code: CUN
-    country_id: 48
-    country_code: CO
-    latitude: '4.35111111'
-    longitude: '-72.45638889'
-  -
     id: 21522
     name: Tibacuy
     state_id: 2875
@@ -179621,6 +179972,15 @@ city:
     country_code: CO
     latitude: '4.30606000'
     longitude: '-74.51639000'
+  -
+    id: 143875
+    name: Tibacuy
+    state_id: 2875
+    state_code: CUN
+    country_id: 48
+    country_code: CO
+    latitude: '4.35111111'
+    longitude: '-72.45638889'
   -
     id: 21525
     name: Tibirita
@@ -179685,15 +180045,6 @@ city:
     latitude: '4.30691000'
     longitude: '-74.07104000'
   -
-    id: 143876
-    name: Útica
-    state_id: 2875
-    state_code: CUN
-    country_id: 48
-    country_code: CO
-    latitude: '5.18861111'
-    longitude: '-74.48111111'
-  -
     id: 21640
     name: Útica
     state_id: 2875
@@ -179702,6 +180053,15 @@ city:
     country_code: CO
     latitude: '5.16977000'
     longitude: '-74.50134000'
+  -
+    id: 143876
+    name: Útica
+    state_id: 2875
+    state_code: CUN
+    country_id: 48
+    country_code: CO
+    latitude: '5.18861111'
+    longitude: '-74.48111111'
   -
     id: 21587
     name: Venecia
@@ -180954,15 +181314,6 @@ city:
     latitude: '0.88283000'
     longitude: '-77.70103000'
   -
-    id: 20517
-    name: Ancuya
-    state_id: 2897
-    state_code: NAR
-    country_id: 48
-    country_code: CO
-    latitude: '1.26330000'
-    longitude: '-77.51376000'
-  -
     id: 20518
     name: Ancuyá
     state_id: 2897
@@ -180971,6 +181322,15 @@ city:
     country_code: CO
     latitude: '1.26538000'
     longitude: '-77.53258000'
+  -
+    id: 20517
+    name: Ancuya
+    state_id: 2897
+    state_code: NAR
+    country_id: 48
+    country_code: CO
+    latitude: '1.26330000'
+    longitude: '-77.51376000'
   -
     id: 20539
     name: Arboleda
@@ -181665,15 +182025,6 @@ city:
     latitude: '8.04096000'
     longitude: '-72.86538000'
   -
-    id: 20764
-    name: Cáchira
-    state_id: 2877
-    state_code: NSA
-    country_id: 48
-    country_code: CO
-    latitude: '7.74104000'
-    longitude: '-73.04830000'
-  -
     id: 20620
     name: Cachirá
     state_id: 2877
@@ -181682,6 +182033,15 @@ city:
     country_code: CO
     latitude: '7.75000000'
     longitude: '-73.16667000'
+  -
+    id: 20764
+    name: Cáchira
+    state_id: 2877
+    state_code: NSA
+    country_id: 48
+    country_code: CO
+    latitude: '7.74104000'
+    longitude: '-73.04830000'
   -
     id: 20765
     name: Cácota
@@ -220527,15 +220887,6 @@ city:
     latitude: '11.91667000'
     longitude: '37.70000000'
   -
-    id: 38728
-    name: Āsosa
-    state_id: 9
-    state_code: BE
-    country_id: 70
-    country_code: ET
-    latitude: '10.06667000'
-    longitude: '34.53333000'
-  -
     id: 38596
     name: Asosa
     state_id: 9
@@ -220544,6 +220895,15 @@ city:
     country_code: ET
     latitude: '10.00000000'
     longitude: '34.50000000'
+  -
+    id: 38728
+    name: Āsosa
+    state_id: 9
+    state_code: BE
+    country_id: 70
+    country_code: ET
+    latitude: '10.06667000'
+    longitude: '34.53333000'
   -
     id: 38679
     name: Metekel
@@ -378351,15 +378711,6 @@ city:
     latitude: '39.56785000'
     longitude: '19.88362000'
   -
-    id: 52840
-    name: Lefkada
-    state_id: 2131
-    state_code: F
-    country_id: 85
-    country_code: GR
-    latitude: '38.75000000'
-    longitude: '20.66667000'
-  -
     id: 52841
     name: Lefkáda
     state_id: 2131
@@ -378368,6 +378719,15 @@ city:
     country_code: GR
     latitude: '38.83036000'
     longitude: '20.70442000'
+  -
+    id: 52840
+    name: Lefkada
+    state_id: 2131
+    state_code: F
+    country_id: 85
+    country_code: GR
+    latitude: '38.75000000'
+    longitude: '20.66667000'
   -
     id: 52842
     name: Lefkímmi
@@ -649962,15 +650322,6 @@ city:
     latitude: '24.89639000'
     longitude: '-107.63278000'
   -
-    id: 68096
-    name: 'Adolfo Ruíz Cortínes'
-    state_id: 3449
-    state_code: SIN
-    country_id: 142
-    country_code: MX
-    latitude: '25.75000000'
-    longitude: '-108.75000000'
-  -
     id: 68094
     name: 'Adolfo Ruiz Cortines'
     state_id: 3449
@@ -649979,6 +650330,15 @@ city:
     country_code: MX
     latitude: '25.70275000'
     longitude: '-108.71975000'
+  -
+    id: 68096
+    name: 'Adolfo Ruíz Cortínes'
+    state_id: 3449
+    state_code: SIN
+    country_id: 142
+    country_code: MX
+    latitude: '25.75000000'
+    longitude: '-108.75000000'
   -
     id: 68109
     name: 'Agua Caliente Grande (De Gastélum)'
@@ -657990,15 +658350,6 @@ city:
     latitude: '22.20275000'
     longitude: '-97.85506000'
   -
-    id: 76406
-    name: 'Ángel R. Cabada'
-    state_id: 3464
-    state_code: VER
-    country_id: 142
-    country_code: MX
-    latitude: '18.59601000'
-    longitude: '-95.44580000'
-  -
     id: 68273
     name: 'Angel R. Cabada'
     state_id: 3464
@@ -658007,6 +658358,15 @@ city:
     country_code: MX
     latitude: '18.60798000'
     longitude: '-95.39724000'
+  -
+    id: 76406
+    name: 'Ángel R. Cabada'
+    state_id: 3464
+    state_code: VER
+    country_id: 142
+    country_code: MX
+    latitude: '18.59601000'
+    longitude: '-95.44580000'
   -
     id: 68281
     name: 'Antón Lizardo'
@@ -727515,6 +727875,15 @@ city:
     latitude: '15.03333333'
     longitude: '120.68333333'
   -
+    id: 145663
+    name: 'San Francisco'
+    state_id: 1326
+    state_code: AGS
+    country_id: 174
+    country_code: PH
+    latitude: '15.35555556'
+    longitude: '120.84000000'
+  -
     id: 145664
     name: 'San Francisco'
     state_id: 1326
@@ -727532,15 +727901,6 @@ city:
     country_code: PH
     latitude: '14.96166667'
     longitude: '120.54527778'
-  -
-    id: 145663
-    name: 'San Francisco'
-    state_id: 1326
-    state_code: AGS
-    country_id: 174
-    country_code: PH
-    latitude: '15.35555556'
-    longitude: '120.84000000'
   -
     id: 145666
     name: 'San Ildefonso'
@@ -732276,15 +732636,6 @@ city:
     latitude: '11.55910000'
     longitude: '123.15510000'
   -
-    id: 81670
-    name: Bañga
-    state_id: 1336
-    state_code: ANT
-    country_id: 174
-    country_code: PH
-    latitude: '11.63870000'
-    longitude: '122.33410000'
-  -
     id: 81522
     name: Banga
     state_id: 1336
@@ -732293,6 +732644,15 @@ city:
     country_code: PH
     latitude: '10.50180000'
     longitude: '122.82890000'
+  -
+    id: 81670
+    name: Bañga
+    state_id: 1336
+    state_code: ANT
+    country_id: 174
+    country_code: PH
+    latitude: '11.63870000'
+    longitude: '122.33410000'
   -
     id: 81570
     name: Barbaza
@@ -790047,15 +790407,6 @@ city:
     latitude: '52.10611000'
     longitude: '19.19498000'
   -
-    id: 88753
-    name: 'powiat Łódzki Wschodni'
-    state_id: 1636
-    state_code: LD
-    country_id: 176
-    country_code: PL
-    latitude: '51.76529000'
-    longitude: '19.48288000'
-  -
     id: 87753
     name: 'Powiat łódzki wschodni'
     state_id: 1636
@@ -790064,6 +790415,15 @@ city:
     country_code: PL
     latitude: '51.68616000'
     longitude: '19.70098000'
+  -
+    id: 88753
+    name: 'powiat Łódzki Wschodni'
+    state_id: 1636
+    state_code: LD
+    country_id: 176
+    country_code: PL
+    latitude: '51.76529000'
+    longitude: '19.48288000'
   -
     id: 88752
     name: 'powiat Łowicki'
@@ -804123,15 +804483,6 @@ city:
     latitude: '53.71743000'
     longitude: '19.33645000'
   -
-    id: 88866
-    name: Świętajno
-    state_id: 1628
-    state_code: WN
-    country_id: 176
-    country_code: PL
-    latitude: '53.56692000'
-    longitude: '21.21546000'
-  -
     id: 88276
     name: Swiętajno
     state_id: 1628
@@ -804140,6 +804491,15 @@ city:
     country_code: PL
     latitude: '54.00151000'
     longitude: '22.31830000'
+  -
+    id: 88866
+    name: Świętajno
+    state_id: 1628
+    state_code: WN
+    country_id: 176
+    country_code: PL
+    latitude: '53.56692000'
+    longitude: '21.21546000'
   -
     id: 88305
     name: Szczytno
@@ -845820,15 +846180,6 @@ city:
     latitude: '44.48195000'
     longitude: '23.44645000'
   -
-    id: 106014
-    name: Sălcuţa
-    state_id: 4742
-    state_code: DJ
-    country_id: 181
-    country_code: RO
-    latitude: '44.25000000'
-    longitude: '23.43333000'
-  -
     id: 106015
     name: Sălcuța
     state_id: 4742
@@ -845837,6 +846188,15 @@ city:
     country_code: RO
     latitude: '44.15986000'
     longitude: '23.70247000'
+  -
+    id: 106014
+    name: Sălcuţa
+    state_id: 4742
+    state_code: DJ
+    country_id: 181
+    country_code: RO
+    latitude: '44.25000000'
+    longitude: '23.43333000'
   -
     id: 106031
     name: Sărata
@@ -856341,15 +856701,6 @@ city:
     latitude: '46.91667000'
     longitude: '27.56667000'
   -
-    id: 97032
-    name: Şcheia
-    state_id: 4735
-    state_code: IS
-    country_id: 181
-    country_code: RO
-    latitude: '46.93333000'
-    longitude: '27.51667000'
-  -
     id: 96265
     name: Scheia
     state_id: 4735
@@ -856358,6 +856709,15 @@ city:
     country_code: RO
     latitude: '47.11725000'
     longitude: '26.88153000'
+  -
+    id: 97032
+    name: Şcheia
+    state_id: 4735
+    state_code: IS
+    country_id: 181
+    country_code: RO
+    latitude: '46.93333000'
+    longitude: '27.51667000'
   -
     id: 96273
     name: Schitu-Duca
@@ -862722,15 +863082,6 @@ city:
     latitude: '44.71601000'
     longitude: '24.65919000'
   -
-    id: 90459
-    name: Bârza
-    state_id: 4738
-    state_code: OT
-    country_id: 181
-    country_code: RO
-    latitude: '44.32811000'
-    longitude: '24.14188000'
-  -
     id: 90065
     name: Barza
     state_id: 4738
@@ -862739,6 +863090,15 @@ city:
     country_code: RO
     latitude: '44.33333000'
     longitude: '24.78333000'
+  -
+    id: 90459
+    name: Bârza
+    state_id: 4738
+    state_code: OT
+    country_id: 181
+    country_code: RO
+    latitude: '44.32811000'
+    longitude: '24.14188000'
   -
     id: 90140
     name: Bircii
@@ -980271,1698 +980631,6 @@ city:
     latitude: '35.88919000'
     longitude: '-5.32042000'
   -
-    id: 31985
-    name: Ajalvir
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.53205000'
-    longitude: '-3.47841000'
-  -
-    id: 31995
-    name: 'Alameda del Valle'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.91870000'
-    longitude: '-3.84243000'
-  -
-    id: 32072
-    name: 'Alcalá de Henares'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.48205000'
-    longitude: '-3.35996000'
-  -
-    id: 32097
-    name: Alcobendas
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.54746000'
-    longitude: '-3.64197000'
-  -
-    id: 32119
-    name: Alcorcón
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.34582000'
-    longitude: '-3.82487000'
-  -
-    id: 32144
-    name: 'Aldea del Fresno'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.32360000'
-    longitude: '-4.20319000'
-  -
-    id: 32219
-    name: Algete
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.59711000'
-    longitude: '-3.49743000'
-  -
-    id: 32327
-    name: Alpedrete
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.65889000'
-    longitude: '-4.02512000'
-  -
-    id: 32351
-    name: Ambite
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.33190000'
-    longitude: '-3.18034000'
-  -
-    id: 32368
-    name: Anchuelo
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.46527000'
-    longitude: '-3.26838000'
-  -
-    id: 32412
-    name: Aranjuez
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.03108000'
-    longitude: '-3.60246000'
-  -
-    id: 32462
-    name: Arganda
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.30076000'
-    longitude: '-3.43722000'
-  -
-    id: 32464
-    name: Arganzuela
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.40021000'
-    longitude: '-3.69618000'
-  -
-    id: 32513
-    name: Arroyomolinos
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.26951000'
-    longitude: '-3.91946000'
-  -
-    id: 32636
-    name: 'Barajas de Madrid'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.47366000'
-    longitude: '-3.57777000'
-  -
-    id: 32695
-    name: Batres
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.20981000'
-    longitude: '-3.92331000'
-  -
-    id: 32725
-    name: 'Becerril de la Sierra'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.71699000'
-    longitude: '-3.98858000'
-  -
-    id: 32750
-    name: 'Belmonte de Tajo'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.13162000'
-    longitude: '-3.33580000'
-  -
-    id: 32875
-    name: 'Berzosa del Lozoya'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.97320000'
-    longitude: '-3.52009000'
-  -
-    id: 32917
-    name: 'Boadilla del Monte'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.40500000'
-    longitude: '-3.87835000'
-  -
-    id: 32918
-    name: Boalo
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.71603000'
-    longitude: '-3.91656000'
-  -
-    id: 32969
-    name: Braojos
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '41.04040000'
-    longitude: '-3.64329000'
-  -
-    id: 32975
-    name: 'Brea de Tajo'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.23333000'
-    longitude: '-3.10000000'
-  -
-    id: 32994
-    name: Brunete
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.40532000'
-    longitude: '-3.99850000'
-  -
-    id: 33013
-    name: 'Buitrago del Lozoya'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.99090000'
-    longitude: '-3.63365000'
-  -
-    id: 33038
-    name: Bustarviejo
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.85720000'
-    longitude: '-3.70766000'
-  -
-    id: 33068
-    name: 'Cabanillas de la Sierra'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.82009000'
-    longitude: '-3.62438000'
-  -
-    id: 33115
-    name: 'Cadalso de los Vidrios'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.30067000'
-    longitude: '-4.43348000'
-  -
-    id: 33170
-    name: 'Camarma de Esteruelas'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.55032000'
-    longitude: '-3.37295000'
-  -
-    id: 33201
-    name: 'Campo Real'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.33333000'
-    longitude: '-3.38333000'
-  -
-    id: 33232
-    name: Canencia
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.90728000'
-    longitude: '-3.73523000'
-  -
-    id: 33274
-    name: Carabaña
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.25424000'
-    longitude: '-3.23572000'
-  -
-    id: 33272
-    name: Carabanchel
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.39094000'
-    longitude: '-3.72420000'
-  -
-    id: 33354
-    name: Casarrubuelos
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.17146000'
-    longitude: '-3.83105000'
-  -
-    id: 33570
-    name: Cenicientos
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.26459000'
-    longitude: '-4.46683000'
-  -
-    id: 33579
-    name: Cercedilla
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.74101000'
-    longitude: '-4.05644000'
-  -
-    id: 33596
-    name: 'Cervera de Buitrago'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.91988000'
-    longitude: '-3.52702000'
-  -
-    id: 33615
-    name: Chamartín
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.46206000'
-    longitude: '-3.67660000'
-  -
-    id: 33616
-    name: Chamberí
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.43404000'
-    longitude: '-3.70379000'
-  -
-    id: 33618
-    name: Chapinería
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.37891000'
-    longitude: '-4.21009000'
-  -
-    id: 33640
-    name: Chinchón
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.14020000'
-    longitude: '-3.42267000'
-  -
-    id: 33658
-    name: Ciempozuelos
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.15913000'
-    longitude: '-3.62103000'
-  -
-    id: 33695
-    name: 'City Center'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.41831000'
-    longitude: '-3.70275000'
-  -
-    id: 33696
-    name: 'Ciudad Lineal'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.44505000'
-    longitude: '-3.65132000'
-  -
-    id: 33709
-    name: Cobeña
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.56667000'
-    longitude: '-3.50000000'
-  -
-    id: 33733
-    name: 'Collado Mediano'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.69326000'
-    longitude: '-4.02280000'
-  -
-    id: 33736
-    name: Collado-Villalba
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.63506000'
-    longitude: '-4.00486000'
-  -
-    id: 33744
-    name: 'Colmenar de Oreja'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.10675000'
-    longitude: '-3.38547000'
-  -
-    id: 33745
-    name: 'Colmenar del Arroyo'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.41897000'
-    longitude: '-4.19845000'
-  -
-    id: 33742
-    name: 'Colmenar Viejo'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.65909000'
-    longitude: '-3.76762000'
-  -
-    id: 33746
-    name: Colmenarejo
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.56063000'
-    longitude: '-4.01713000'
-  -
-    id: 33796
-    name: Corpa
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.42327000'
-    longitude: '-3.26003000'
-  -
-    id: 33817
-    name: Coslada
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.42378000'
-    longitude: '-3.56129000'
-  -
-    id: 33845
-    name: Cubas
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.18900000'
-    longitude: '-3.83526000'
-  -
-    id: 33908
-    name: 'Daganzo de Arriba'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.54293000'
-    longitude: '-3.45457000'
-  -
-    id: 34029
-    name: 'El Álamo'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.23066000'
-    longitude: '-3.99447000'
-  -
-    id: 33997
-    name: 'El Escorial'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.58254000'
-    longitude: '-4.12846000'
-  -
-    id: 34002
-    name: 'El Molar'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.73215000'
-    longitude: '-3.57969000'
-  -
-    id: 34003
-    name: 'El Pardo'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.51454000'
-    longitude: '-3.77253000'
-  -
-    id: 34024
-    name: 'El Vellón'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.76495000'
-    longitude: '-3.57969000'
-  -
-    id: 34147
-    name: Estremera
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.18333000'
-    longitude: '-3.10000000'
-  -
-    id: 34249
-    name: Fresnedillas
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.48704000'
-    longitude: '-4.17146000'
-  -
-    id: 34259
-    name: 'Fresno de Torote'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.59040000'
-    longitude: '-3.41003000'
-  -
-    id: 34277
-    name: 'Fuencarral-El Pardo'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.49840000'
-    longitude: '-3.73140000'
-  -
-    id: 34283
-    name: Fuenlabrada
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.28419000'
-    longitude: '-3.79415000'
-  -
-    id: 34302
-    name: 'Fuente el Saz'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.63215000'
-    longitude: '-3.51146000'
-  -
-    id: 34361
-    name: 'Fuentidueña de Tajo'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.11574000'
-    longitude: '-3.15718000'
-  -
-    id: 34373
-    name: Galapagar
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.57830000'
-    longitude: '-4.00426000'
-  -
-    id: 34415
-    name: 'Garganta de los Montes'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.91992000'
-    longitude: '-3.68375000'
-  -
-    id: 34430
-    name: Gascones
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '41.01843000'
-    longitude: '-3.64217000'
-  -
-    id: 34459
-    name: Getafe
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.30571000'
-    longitude: '-3.73295000'
-  -
-    id: 34516
-    name: Griñón
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.21249000'
-    longitude: '-3.85482000'
-  -
-    id: 34524
-    name: 'Guadalix de la Sierra'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.78496000'
-    longitude: '-3.69347000'
-  -
-    id: 34528
-    name: Guadarrama
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.67270000'
-    longitude: '-4.08949000'
-  -
-    id: 34652
-    name: 'Horcajo de la Sierra'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '41.06723000'
-    longitude: '-3.58534000'
-  -
-    id: 34654
-    name: 'Horcajuelo de la Sierra'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '41.06019000'
-    longitude: '-3.54640000'
-  -
-    id: 34667
-    name: Hortaleza
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.47444000'
-    longitude: '-3.64110000'
-  -
-    id: 34674
-    name: 'Hoyo de Manzanares'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.62265000'
-    longitude: '-3.90733000'
-  -
-    id: 34701
-    name: 'Humanes de Madrid'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.25038000'
-    longitude: '-3.83062000'
-  -
-    id: 34860
-    name: 'La Cabrera'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.86386000'
-    longitude: '-3.61265000'
-  -
-    id: 34985
-    name: 'Las Matas'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.55779000'
-    longitude: '-3.89173000'
-  -
-    id: 34991
-    name: 'Las Rozas de Madrid'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.49292000'
-    longitude: '-3.87371000'
-  -
-    id: 34992
-    name: 'Las Tablas'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.50649000'
-    longitude: '-3.67235000'
-  -
-    id: 35002
-    name: Latina
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.38897000'
-    longitude: '-3.74569000'
-  -
-    id: 35021
-    name: Leganés
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.32718000'
-    longitude: '-3.76350000'
-  -
-    id: 35099
-    name: Loeches
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.38343000'
-    longitude: '-3.41460000'
-  -
-    id: 35127
-    name: 'Los Molinos'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.71578000'
-    longitude: '-4.07402000'
-  -
-    id: 35134
-    name: 'Los Santos de la Humosa'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.49968000'
-    longitude: '-3.25332000'
-  -
-    id: 35145
-    name: Lozoya
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.94949000'
-    longitude: '-3.79086000'
-  -
-    id: 35186
-    name: Madrid
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.41650000'
-    longitude: '-3.70256000'
-  -
-    id: 35214
-    name: Majadahonda
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.47353000'
-    longitude: '-3.87182000'
-  -
-    id: 35267
-    name: 'Manzanares el Real'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.72627000'
-    longitude: '-3.86265000'
-  -
-    id: 35366
-    name: Meco
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.55274000'
-    longitude: '-3.32894000'
-  -
-    id: 35384
-    name: 'Mejorada del Campo'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.39283000'
-    longitude: '-3.48194000'
-  -
-    id: 35442
-    name: 'Miraflores de la Sierra'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.81550000'
-    longitude: '-3.76213000'
-  -
-    id: 35501
-    name: Moncloa-Aravaca
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.43547000'
-    longitude: '-3.73170000'
-  -
-    id: 35555
-    name: 'Montejo de la Sierra'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '41.05955000'
-    longitude: '-3.52993000'
-  -
-    id: 35602
-    name: 'Moraleja de Enmedio'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.26125000'
-    longitude: '-3.85963000'
-  -
-    id: 35612
-    name: Moralzarzal
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.67816000'
-    longitude: '-3.97070000'
-  -
-    id: 35616
-    name: 'Morata de Tajuña'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.22680000'
-    longitude: '-3.43269000'
-  -
-    id: 35617
-    name: Moratalaz
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.40742000'
-    longitude: '-3.64935000'
-  -
-    id: 35708
-    name: Móstoles
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.32234000'
-    longitude: '-3.86496000'
-  -
-    id: 35731
-    name: Navacerrada
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.72905000'
-    longitude: '-4.01696000'
-  -
-    id: 35742
-    name: Navalafuente
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.82063000'
-    longitude: '-3.67266000'
-  -
-    id: 35743
-    name: Navalagamella
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.46894000'
-    longitude: '-4.12334000'
-  -
-    id: 35744
-    name: Navalcarnero
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.28908000'
-    longitude: '-4.01197000'
-  -
-    id: 35758
-    name: Navalquejigo
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.60705000'
-    longitude: '-4.04966000'
-  -
-    id: 35783
-    name: 'Navas del Rey'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.38610000'
-    longitude: '-4.25117000'
-  -
-    id: 35835
-    name: 'Nuevo Baztán'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.36731000'
-    longitude: '-3.24125000'
-  -
-    id: 36053
-    name: 'Paracuellos de Jarama'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.50353000'
-    longitude: '-3.52775000'
-  -
-    id: 36070
-    name: Parla
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.23604000'
-    longitude: '-3.76752000'
-  -
-    id: 36082
-    name: Patones
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.85563000'
-    longitude: '-3.48490000'
-  -
-    id: 36097
-    name: Pedrezuela
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.74277000'
-    longitude: '-3.59980000'
-  -
-    id: 36122
-    name: 'Pelayos de la Presa'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.36051000'
-    longitude: '-4.33462000'
-  -
-    id: 36139
-    name: 'Perales de Tajuña'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.23130000'
-    longitude: '-3.35021000'
-  -
-    id: 36160
-    name: 'Pezuela de las Torres'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.41613000'
-    longitude: '-3.17363000'
-  -
-    id: 36192
-    name: 'Pinar de Chamartín'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.47903000'
-    longitude: '-3.66836000'
-  -
-    id: 36207
-    name: 'Pinilla del Valle'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.92448000'
-    longitude: '-3.81688000'
-  -
-    id: 36215
-    name: Pinto
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.24147000'
-    longitude: '-3.69999000'
-  -
-    id: 36331
-    name: 'Pozuelo de Alarcón'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.43293000'
-    longitude: '-3.81338000'
-  -
-    id: 36338
-    name: 'Pozuelo del Rey'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.36463000'
-    longitude: '-3.31699000'
-  -
-    id: 36406
-    name: 'Prádena del Rincón'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '41.04414000'
-    longitude: '-3.54075000'
-  -
-    id: 36379
-    name: 'Provincia de Madrid'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.40225000'
-    longitude: '-3.71029000'
-  -
-    id: 36437
-    name: 'Puente de Vallecas'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.39354000'
-    longitude: '-3.66200000'
-  -
-    id: 36500
-    name: Quijorna
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.42763000'
-    longitude: '-4.05683000'
-  -
-    id: 36547
-    name: Rascafría
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.90407000'
-    longitude: '-3.87898000'
-  -
-    id: 36563
-    name: Redueña
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.81685000'
-    longitude: '-3.59837000'
-  -
-    id: 36587
-    name: Retiro
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.41317000'
-    longitude: '-3.68307000'
-  -
-    id: 36613
-    name: Ribatejada
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.66420000'
-    longitude: '-3.38976000'
-  -
-    id: 36639
-    name: Rivas-Vaciamadrid
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.32605000'
-    longitude: '-3.51089000'
-  -
-    id: 36651
-    name: 'Robledillo de la Jara'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.95054000'
-    longitude: '-3.52181000'
-  -
-    id: 36654
-    name: 'Robledo de Chavela'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.50062000'
-    longitude: '-4.23635000'
-  -
-    id: 36686
-    name: 'Rozas de Puerto Real'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.31667000'
-    longitude: '-4.48333000'
-  -
-    id: 36745
-    name: Salamanca
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.42972000'
-    longitude: '-3.67975000'
-  -
-    id: 36799
-    name: 'San Agustín del Guadalix'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.67882000'
-    longitude: '-3.61639000'
-  -
-    id: 36812
-    name: 'San Blas-Canillejas'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.43893000'
-    longitude: '-3.61537000'
-  -
-    id: 36836
-    name: 'San Fernando de Henares'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.42386000'
-    longitude: '-3.53261000'
-  -
-    id: 36858
-    name: 'San Lorenzo de El Escorial'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.59144000'
-    longitude: '-4.14738000'
-  -
-    id: 36873
-    name: 'San Martín de la Vega'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.20735000'
-    longitude: '-3.57063000'
-  -
-    id: 36870
-    name: 'San Martín de Valdeiglesias'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.36185000'
-    longitude: '-4.39831000'
-  -
-    id: 36922
-    name: 'San Sebastián de los Reyes'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.55555000'
-    longitude: '-3.62733000'
-  -
-    id: 37079
-    name: 'Santa María de la Alameda'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.59492000'
-    longitude: '-4.25772000'
-  -
-    id: 37146
-    name: Santorcaz
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.47176000'
-    longitude: '-3.23462000'
-  -
-    id: 37225
-    name: 'Serranillos del Valle'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.20211000'
-    longitude: '-3.88187000'
-  -
-    id: 37240
-    name: 'Sevilla La Nueva'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.34775000'
-    longitude: '-4.02727000'
-  -
-    id: 37354
-    name: 'Talamanca de Jarama'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.74325000'
-    longitude: '-3.50889000'
-  -
-    id: 37417
-    name: 'Tetuán de las Victorias'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.45975000'
-    longitude: '-3.69750000'
-  -
-    id: 37422
-    name: Tielmes
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.24652000'
-    longitude: '-3.31461000'
-  -
-    id: 37431
-    name: Titulcia
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.13537000'
-    longitude: '-3.56763000'
-  -
-    id: 37538
-    name: 'Torrejón de Ardoz'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.45535000'
-    longitude: '-3.46973000'
-  -
-    id: 37540
-    name: 'Torrejón de la Calzada'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.19886000'
-    longitude: '-3.79700000'
-  -
-    id: 37539
-    name: 'Torrejón de Velasco'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.18746000'
-    longitude: '-3.77681000'
-  -
-    id: 37543
-    name: Torrelaguna
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.82764000'
-    longitude: '-3.53683000'
-  -
-    id: 37551
-    name: Torrelodones
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.57654000'
-    longitude: '-3.92658000'
-  -
-    id: 37557
-    name: 'Torremocha de Jarama'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.84148000'
-    longitude: '-3.49666000'
-  -
-    id: 37577
-    name: 'Torres de la Alameda'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.40264000'
-    longitude: '-3.35767000'
-  -
-    id: 37629
-    name: 'Tres Cantos'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.60092000'
-    longitude: '-3.70806000'
-  -
-    id: 37705
-    name: Usera
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.38866000'
-    longitude: '-3.70035000'
-  -
-    id: 37726
-    name: Valdaracete
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.20770000'
-    longitude: '-3.19101000'
-  -
-    id: 37735
-    name: Valdeavero
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.62980000'
-    longitude: '-3.33001000'
-  -
-    id: 37765
-    name: Valdemanco
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.87039000'
-    longitude: '-3.65873000'
-  -
-    id: 37767
-    name: Valdemaqueda
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.51201000'
-    longitude: '-4.29722000'
-  -
-    id: 37772
-    name: Valdemorillo
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.50064000'
-    longitude: '-4.06710000'
-  -
-    id: 37774
-    name: Valdemoro
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.19081000'
-    longitude: '-3.67887000'
-  -
-    id: 37781
-    name: Valdeolmos
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.63708000'
-    longitude: '-3.45064000'
-  -
-    id: 37786
-    name: Valdepiélagos
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.75842000'
-    longitude: '-3.46163000'
-  -
-    id: 37804
-    name: 'Valdetorres de Jarama'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.69366000'
-    longitude: '-3.51156000'
-  -
-    id: 37810
-    name: Valdilecha
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.29530000'
-    longitude: '-3.30233000'
-  -
-    id: 37882
-    name: 'Valverde de Alcalá'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.41667000'
-    longitude: '-3.29631000'
-  -
-    id: 37931
-    name: 'Velilla de San Antonio'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.36516000'
-    longitude: '-3.48484000'
-  -
-    id: 37946
-    name: Venturada
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.79717000'
-    longitude: '-3.61974000'
-  -
-    id: 37963
-    name: Vicálvaro
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.40000000'
-    longitude: '-3.60000000'
-  -
-    id: 38009
-    name: 'Villa de Vallecas'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.36695000'
-    longitude: '-3.60146000'
-  -
-    id: 38012
-    name: 'Villa del Prado'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.27852000'
-    longitude: '-4.30534000'
-  -
-    id: 38034
-    name: Villaconejos
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.10139000'
-    longitude: '-3.48258000'
-  -
-    id: 38105
-    name: Villalbilla
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.43044000'
-    longitude: '-3.29904000'
-  -
-    id: 38131
-    name: 'Villamanrique de Tajo'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.06617000'
-    longitude: '-3.23668000'
-  -
-    id: 38133
-    name: Villamanta
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.29858000'
-    longitude: '-4.10880000'
-  -
-    id: 38134
-    name: Villamantilla
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.33846000'
-    longitude: '-4.12986000'
-  -
-    id: 38196
-    name: 'Villanueva de la Cañada'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.44689000'
-    longitude: '-4.00428000'
-  -
-    id: 38187
-    name: 'Villanueva de Perales'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.34541000'
-    longitude: '-4.09891000'
-  -
-    id: 38219
-    name: 'Villanueva del Pardillo'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.49014000'
-    longitude: '-3.96383000'
-  -
-    id: 38257
-    name: 'Villar del Olmo'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.33468000'
-    longitude: '-3.23399000'
-  -
-    id: 38273
-    name: 'Villarejo de Salvanés'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.16663000'
-    longitude: '-3.27277000'
-  -
-    id: 38343
-    name: Villaverde
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.35000000'
-    longitude: '-3.70000000'
-  -
-    id: 38357
-    name: 'Villaviciosa de Odón'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.35810000'
-    longitude: '-3.90430000'
-  -
-    id: 38360
-    name: 'Villavieja del Lozoya'
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '41.00396000'
-    longitude: '-3.66870000'
-  -
-    id: 38482
-    name: Zarzalejo
-    state_id: 1158
-    state_code: MD
-    country_id: 207
-    country_code: ES
-    latitude: '40.54811000'
-    longitude: '-4.18176000'
-  -
     id: 31900
     name: Abadía
     state_id: 1190
@@ -1006110,6 +1004778,1698 @@ city:
     latitude: '42.60501000'
     longitude: '-3.22632000'
   -
+    id: 31985
+    name: Ajalvir
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.53205000'
+    longitude: '-3.47841000'
+  -
+    id: 31995
+    name: 'Alameda del Valle'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.91870000'
+    longitude: '-3.84243000'
+  -
+    id: 32072
+    name: 'Alcalá de Henares'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.48205000'
+    longitude: '-3.35996000'
+  -
+    id: 32097
+    name: Alcobendas
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.54746000'
+    longitude: '-3.64197000'
+  -
+    id: 32119
+    name: Alcorcón
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.34582000'
+    longitude: '-3.82487000'
+  -
+    id: 32144
+    name: 'Aldea del Fresno'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.32360000'
+    longitude: '-4.20319000'
+  -
+    id: 32219
+    name: Algete
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.59711000'
+    longitude: '-3.49743000'
+  -
+    id: 32327
+    name: Alpedrete
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.65889000'
+    longitude: '-4.02512000'
+  -
+    id: 32351
+    name: Ambite
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.33190000'
+    longitude: '-3.18034000'
+  -
+    id: 32368
+    name: Anchuelo
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.46527000'
+    longitude: '-3.26838000'
+  -
+    id: 32412
+    name: Aranjuez
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.03108000'
+    longitude: '-3.60246000'
+  -
+    id: 32462
+    name: Arganda
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.30076000'
+    longitude: '-3.43722000'
+  -
+    id: 32464
+    name: Arganzuela
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.40021000'
+    longitude: '-3.69618000'
+  -
+    id: 32513
+    name: Arroyomolinos
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.26951000'
+    longitude: '-3.91946000'
+  -
+    id: 32636
+    name: 'Barajas de Madrid'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.47366000'
+    longitude: '-3.57777000'
+  -
+    id: 32695
+    name: Batres
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.20981000'
+    longitude: '-3.92331000'
+  -
+    id: 32725
+    name: 'Becerril de la Sierra'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.71699000'
+    longitude: '-3.98858000'
+  -
+    id: 32750
+    name: 'Belmonte de Tajo'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.13162000'
+    longitude: '-3.33580000'
+  -
+    id: 32875
+    name: 'Berzosa del Lozoya'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.97320000'
+    longitude: '-3.52009000'
+  -
+    id: 32917
+    name: 'Boadilla del Monte'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.40500000'
+    longitude: '-3.87835000'
+  -
+    id: 32918
+    name: Boalo
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.71603000'
+    longitude: '-3.91656000'
+  -
+    id: 32969
+    name: Braojos
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '41.04040000'
+    longitude: '-3.64329000'
+  -
+    id: 32975
+    name: 'Brea de Tajo'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.23333000'
+    longitude: '-3.10000000'
+  -
+    id: 32994
+    name: Brunete
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.40532000'
+    longitude: '-3.99850000'
+  -
+    id: 33013
+    name: 'Buitrago del Lozoya'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.99090000'
+    longitude: '-3.63365000'
+  -
+    id: 33038
+    name: Bustarviejo
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.85720000'
+    longitude: '-3.70766000'
+  -
+    id: 33068
+    name: 'Cabanillas de la Sierra'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.82009000'
+    longitude: '-3.62438000'
+  -
+    id: 33115
+    name: 'Cadalso de los Vidrios'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.30067000'
+    longitude: '-4.43348000'
+  -
+    id: 33170
+    name: 'Camarma de Esteruelas'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.55032000'
+    longitude: '-3.37295000'
+  -
+    id: 33201
+    name: 'Campo Real'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.33333000'
+    longitude: '-3.38333000'
+  -
+    id: 33232
+    name: Canencia
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.90728000'
+    longitude: '-3.73523000'
+  -
+    id: 33274
+    name: Carabaña
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.25424000'
+    longitude: '-3.23572000'
+  -
+    id: 33272
+    name: Carabanchel
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.39094000'
+    longitude: '-3.72420000'
+  -
+    id: 33354
+    name: Casarrubuelos
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.17146000'
+    longitude: '-3.83105000'
+  -
+    id: 33570
+    name: Cenicientos
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.26459000'
+    longitude: '-4.46683000'
+  -
+    id: 33579
+    name: Cercedilla
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.74101000'
+    longitude: '-4.05644000'
+  -
+    id: 33596
+    name: 'Cervera de Buitrago'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.91988000'
+    longitude: '-3.52702000'
+  -
+    id: 33615
+    name: Chamartín
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.46206000'
+    longitude: '-3.67660000'
+  -
+    id: 33616
+    name: Chamberí
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.43404000'
+    longitude: '-3.70379000'
+  -
+    id: 33618
+    name: Chapinería
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.37891000'
+    longitude: '-4.21009000'
+  -
+    id: 33640
+    name: Chinchón
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.14020000'
+    longitude: '-3.42267000'
+  -
+    id: 33658
+    name: Ciempozuelos
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.15913000'
+    longitude: '-3.62103000'
+  -
+    id: 33695
+    name: 'City Center'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.41831000'
+    longitude: '-3.70275000'
+  -
+    id: 33696
+    name: 'Ciudad Lineal'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.44505000'
+    longitude: '-3.65132000'
+  -
+    id: 33709
+    name: Cobeña
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.56667000'
+    longitude: '-3.50000000'
+  -
+    id: 33733
+    name: 'Collado Mediano'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.69326000'
+    longitude: '-4.02280000'
+  -
+    id: 33736
+    name: Collado-Villalba
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.63506000'
+    longitude: '-4.00486000'
+  -
+    id: 33744
+    name: 'Colmenar de Oreja'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.10675000'
+    longitude: '-3.38547000'
+  -
+    id: 33745
+    name: 'Colmenar del Arroyo'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.41897000'
+    longitude: '-4.19845000'
+  -
+    id: 33742
+    name: 'Colmenar Viejo'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.65909000'
+    longitude: '-3.76762000'
+  -
+    id: 33746
+    name: Colmenarejo
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.56063000'
+    longitude: '-4.01713000'
+  -
+    id: 33796
+    name: Corpa
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.42327000'
+    longitude: '-3.26003000'
+  -
+    id: 33817
+    name: Coslada
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.42378000'
+    longitude: '-3.56129000'
+  -
+    id: 33845
+    name: Cubas
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.18900000'
+    longitude: '-3.83526000'
+  -
+    id: 33908
+    name: 'Daganzo de Arriba'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.54293000'
+    longitude: '-3.45457000'
+  -
+    id: 34029
+    name: 'El Álamo'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.23066000'
+    longitude: '-3.99447000'
+  -
+    id: 33997
+    name: 'El Escorial'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.58254000'
+    longitude: '-4.12846000'
+  -
+    id: 34002
+    name: 'El Molar'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.73215000'
+    longitude: '-3.57969000'
+  -
+    id: 34003
+    name: 'El Pardo'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.51454000'
+    longitude: '-3.77253000'
+  -
+    id: 34024
+    name: 'El Vellón'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.76495000'
+    longitude: '-3.57969000'
+  -
+    id: 34147
+    name: Estremera
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.18333000'
+    longitude: '-3.10000000'
+  -
+    id: 34249
+    name: Fresnedillas
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.48704000'
+    longitude: '-4.17146000'
+  -
+    id: 34259
+    name: 'Fresno de Torote'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.59040000'
+    longitude: '-3.41003000'
+  -
+    id: 34277
+    name: 'Fuencarral-El Pardo'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.49840000'
+    longitude: '-3.73140000'
+  -
+    id: 34283
+    name: Fuenlabrada
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.28419000'
+    longitude: '-3.79415000'
+  -
+    id: 34302
+    name: 'Fuente el Saz'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.63215000'
+    longitude: '-3.51146000'
+  -
+    id: 34361
+    name: 'Fuentidueña de Tajo'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.11574000'
+    longitude: '-3.15718000'
+  -
+    id: 34373
+    name: Galapagar
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.57830000'
+    longitude: '-4.00426000'
+  -
+    id: 34415
+    name: 'Garganta de los Montes'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.91992000'
+    longitude: '-3.68375000'
+  -
+    id: 34430
+    name: Gascones
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '41.01843000'
+    longitude: '-3.64217000'
+  -
+    id: 34459
+    name: Getafe
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.30571000'
+    longitude: '-3.73295000'
+  -
+    id: 34516
+    name: Griñón
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.21249000'
+    longitude: '-3.85482000'
+  -
+    id: 34524
+    name: 'Guadalix de la Sierra'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.78496000'
+    longitude: '-3.69347000'
+  -
+    id: 34528
+    name: Guadarrama
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.67270000'
+    longitude: '-4.08949000'
+  -
+    id: 34652
+    name: 'Horcajo de la Sierra'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '41.06723000'
+    longitude: '-3.58534000'
+  -
+    id: 34654
+    name: 'Horcajuelo de la Sierra'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '41.06019000'
+    longitude: '-3.54640000'
+  -
+    id: 34667
+    name: Hortaleza
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.47444000'
+    longitude: '-3.64110000'
+  -
+    id: 34674
+    name: 'Hoyo de Manzanares'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.62265000'
+    longitude: '-3.90733000'
+  -
+    id: 34701
+    name: 'Humanes de Madrid'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.25038000'
+    longitude: '-3.83062000'
+  -
+    id: 34860
+    name: 'La Cabrera'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.86386000'
+    longitude: '-3.61265000'
+  -
+    id: 34985
+    name: 'Las Matas'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.55779000'
+    longitude: '-3.89173000'
+  -
+    id: 34991
+    name: 'Las Rozas de Madrid'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.49292000'
+    longitude: '-3.87371000'
+  -
+    id: 34992
+    name: 'Las Tablas'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.50649000'
+    longitude: '-3.67235000'
+  -
+    id: 35002
+    name: Latina
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.38897000'
+    longitude: '-3.74569000'
+  -
+    id: 35021
+    name: Leganés
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.32718000'
+    longitude: '-3.76350000'
+  -
+    id: 35099
+    name: Loeches
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.38343000'
+    longitude: '-3.41460000'
+  -
+    id: 35127
+    name: 'Los Molinos'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.71578000'
+    longitude: '-4.07402000'
+  -
+    id: 35134
+    name: 'Los Santos de la Humosa'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.49968000'
+    longitude: '-3.25332000'
+  -
+    id: 35145
+    name: Lozoya
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.94949000'
+    longitude: '-3.79086000'
+  -
+    id: 35186
+    name: Madrid
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.41650000'
+    longitude: '-3.70256000'
+  -
+    id: 35214
+    name: Majadahonda
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.47353000'
+    longitude: '-3.87182000'
+  -
+    id: 35267
+    name: 'Manzanares el Real'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.72627000'
+    longitude: '-3.86265000'
+  -
+    id: 35366
+    name: Meco
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.55274000'
+    longitude: '-3.32894000'
+  -
+    id: 35384
+    name: 'Mejorada del Campo'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.39283000'
+    longitude: '-3.48194000'
+  -
+    id: 35442
+    name: 'Miraflores de la Sierra'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.81550000'
+    longitude: '-3.76213000'
+  -
+    id: 35501
+    name: Moncloa-Aravaca
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.43547000'
+    longitude: '-3.73170000'
+  -
+    id: 35555
+    name: 'Montejo de la Sierra'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '41.05955000'
+    longitude: '-3.52993000'
+  -
+    id: 35602
+    name: 'Moraleja de Enmedio'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.26125000'
+    longitude: '-3.85963000'
+  -
+    id: 35612
+    name: Moralzarzal
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.67816000'
+    longitude: '-3.97070000'
+  -
+    id: 35616
+    name: 'Morata de Tajuña'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.22680000'
+    longitude: '-3.43269000'
+  -
+    id: 35617
+    name: Moratalaz
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.40742000'
+    longitude: '-3.64935000'
+  -
+    id: 35708
+    name: Móstoles
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.32234000'
+    longitude: '-3.86496000'
+  -
+    id: 35731
+    name: Navacerrada
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.72905000'
+    longitude: '-4.01696000'
+  -
+    id: 35742
+    name: Navalafuente
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.82063000'
+    longitude: '-3.67266000'
+  -
+    id: 35743
+    name: Navalagamella
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.46894000'
+    longitude: '-4.12334000'
+  -
+    id: 35744
+    name: Navalcarnero
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.28908000'
+    longitude: '-4.01197000'
+  -
+    id: 35758
+    name: Navalquejigo
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.60705000'
+    longitude: '-4.04966000'
+  -
+    id: 35783
+    name: 'Navas del Rey'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.38610000'
+    longitude: '-4.25117000'
+  -
+    id: 35835
+    name: 'Nuevo Baztán'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.36731000'
+    longitude: '-3.24125000'
+  -
+    id: 36053
+    name: 'Paracuellos de Jarama'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.50353000'
+    longitude: '-3.52775000'
+  -
+    id: 36070
+    name: Parla
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.23604000'
+    longitude: '-3.76752000'
+  -
+    id: 36082
+    name: Patones
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.85563000'
+    longitude: '-3.48490000'
+  -
+    id: 36097
+    name: Pedrezuela
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.74277000'
+    longitude: '-3.59980000'
+  -
+    id: 36122
+    name: 'Pelayos de la Presa'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.36051000'
+    longitude: '-4.33462000'
+  -
+    id: 36139
+    name: 'Perales de Tajuña'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.23130000'
+    longitude: '-3.35021000'
+  -
+    id: 36160
+    name: 'Pezuela de las Torres'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.41613000'
+    longitude: '-3.17363000'
+  -
+    id: 36192
+    name: 'Pinar de Chamartín'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.47903000'
+    longitude: '-3.66836000'
+  -
+    id: 36207
+    name: 'Pinilla del Valle'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.92448000'
+    longitude: '-3.81688000'
+  -
+    id: 36215
+    name: Pinto
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.24147000'
+    longitude: '-3.69999000'
+  -
+    id: 36331
+    name: 'Pozuelo de Alarcón'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.43293000'
+    longitude: '-3.81338000'
+  -
+    id: 36338
+    name: 'Pozuelo del Rey'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.36463000'
+    longitude: '-3.31699000'
+  -
+    id: 36406
+    name: 'Prádena del Rincón'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '41.04414000'
+    longitude: '-3.54075000'
+  -
+    id: 36379
+    name: 'Provincia de Madrid'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.40225000'
+    longitude: '-3.71029000'
+  -
+    id: 36437
+    name: 'Puente de Vallecas'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.39354000'
+    longitude: '-3.66200000'
+  -
+    id: 36500
+    name: Quijorna
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.42763000'
+    longitude: '-4.05683000'
+  -
+    id: 36547
+    name: Rascafría
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.90407000'
+    longitude: '-3.87898000'
+  -
+    id: 36563
+    name: Redueña
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.81685000'
+    longitude: '-3.59837000'
+  -
+    id: 36587
+    name: Retiro
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.41317000'
+    longitude: '-3.68307000'
+  -
+    id: 36613
+    name: Ribatejada
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.66420000'
+    longitude: '-3.38976000'
+  -
+    id: 36639
+    name: Rivas-Vaciamadrid
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.32605000'
+    longitude: '-3.51089000'
+  -
+    id: 36651
+    name: 'Robledillo de la Jara'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.95054000'
+    longitude: '-3.52181000'
+  -
+    id: 36654
+    name: 'Robledo de Chavela'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.50062000'
+    longitude: '-4.23635000'
+  -
+    id: 36686
+    name: 'Rozas de Puerto Real'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.31667000'
+    longitude: '-4.48333000'
+  -
+    id: 36745
+    name: Salamanca
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.42972000'
+    longitude: '-3.67975000'
+  -
+    id: 36799
+    name: 'San Agustín del Guadalix'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.67882000'
+    longitude: '-3.61639000'
+  -
+    id: 36812
+    name: 'San Blas-Canillejas'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.43893000'
+    longitude: '-3.61537000'
+  -
+    id: 36836
+    name: 'San Fernando de Henares'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.42386000'
+    longitude: '-3.53261000'
+  -
+    id: 36858
+    name: 'San Lorenzo de El Escorial'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.59144000'
+    longitude: '-4.14738000'
+  -
+    id: 36873
+    name: 'San Martín de la Vega'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.20735000'
+    longitude: '-3.57063000'
+  -
+    id: 36870
+    name: 'San Martín de Valdeiglesias'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.36185000'
+    longitude: '-4.39831000'
+  -
+    id: 36922
+    name: 'San Sebastián de los Reyes'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.55555000'
+    longitude: '-3.62733000'
+  -
+    id: 37079
+    name: 'Santa María de la Alameda'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.59492000'
+    longitude: '-4.25772000'
+  -
+    id: 37146
+    name: Santorcaz
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.47176000'
+    longitude: '-3.23462000'
+  -
+    id: 37225
+    name: 'Serranillos del Valle'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.20211000'
+    longitude: '-3.88187000'
+  -
+    id: 37240
+    name: 'Sevilla La Nueva'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.34775000'
+    longitude: '-4.02727000'
+  -
+    id: 37354
+    name: 'Talamanca de Jarama'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.74325000'
+    longitude: '-3.50889000'
+  -
+    id: 37417
+    name: 'Tetuán de las Victorias'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.45975000'
+    longitude: '-3.69750000'
+  -
+    id: 37422
+    name: Tielmes
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.24652000'
+    longitude: '-3.31461000'
+  -
+    id: 37431
+    name: Titulcia
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.13537000'
+    longitude: '-3.56763000'
+  -
+    id: 37538
+    name: 'Torrejón de Ardoz'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.45535000'
+    longitude: '-3.46973000'
+  -
+    id: 37540
+    name: 'Torrejón de la Calzada'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.19886000'
+    longitude: '-3.79700000'
+  -
+    id: 37539
+    name: 'Torrejón de Velasco'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.18746000'
+    longitude: '-3.77681000'
+  -
+    id: 37543
+    name: Torrelaguna
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.82764000'
+    longitude: '-3.53683000'
+  -
+    id: 37551
+    name: Torrelodones
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.57654000'
+    longitude: '-3.92658000'
+  -
+    id: 37557
+    name: 'Torremocha de Jarama'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.84148000'
+    longitude: '-3.49666000'
+  -
+    id: 37577
+    name: 'Torres de la Alameda'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.40264000'
+    longitude: '-3.35767000'
+  -
+    id: 37629
+    name: 'Tres Cantos'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.60092000'
+    longitude: '-3.70806000'
+  -
+    id: 37705
+    name: Usera
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.38866000'
+    longitude: '-3.70035000'
+  -
+    id: 37726
+    name: Valdaracete
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.20770000'
+    longitude: '-3.19101000'
+  -
+    id: 37735
+    name: Valdeavero
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.62980000'
+    longitude: '-3.33001000'
+  -
+    id: 37765
+    name: Valdemanco
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.87039000'
+    longitude: '-3.65873000'
+  -
+    id: 37767
+    name: Valdemaqueda
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.51201000'
+    longitude: '-4.29722000'
+  -
+    id: 37772
+    name: Valdemorillo
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.50064000'
+    longitude: '-4.06710000'
+  -
+    id: 37774
+    name: Valdemoro
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.19081000'
+    longitude: '-3.67887000'
+  -
+    id: 37781
+    name: Valdeolmos
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.63708000'
+    longitude: '-3.45064000'
+  -
+    id: 37786
+    name: Valdepiélagos
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.75842000'
+    longitude: '-3.46163000'
+  -
+    id: 37804
+    name: 'Valdetorres de Jarama'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.69366000'
+    longitude: '-3.51156000'
+  -
+    id: 37810
+    name: Valdilecha
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.29530000'
+    longitude: '-3.30233000'
+  -
+    id: 37882
+    name: 'Valverde de Alcalá'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.41667000'
+    longitude: '-3.29631000'
+  -
+    id: 37931
+    name: 'Velilla de San Antonio'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.36516000'
+    longitude: '-3.48484000'
+  -
+    id: 37946
+    name: Venturada
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.79717000'
+    longitude: '-3.61974000'
+  -
+    id: 37963
+    name: Vicálvaro
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.40000000'
+    longitude: '-3.60000000'
+  -
+    id: 38009
+    name: 'Villa de Vallecas'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.36695000'
+    longitude: '-3.60146000'
+  -
+    id: 38012
+    name: 'Villa del Prado'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.27852000'
+    longitude: '-4.30534000'
+  -
+    id: 38034
+    name: Villaconejos
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.10139000'
+    longitude: '-3.48258000'
+  -
+    id: 38105
+    name: Villalbilla
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.43044000'
+    longitude: '-3.29904000'
+  -
+    id: 38131
+    name: 'Villamanrique de Tajo'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.06617000'
+    longitude: '-3.23668000'
+  -
+    id: 38133
+    name: Villamanta
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.29858000'
+    longitude: '-4.10880000'
+  -
+    id: 38134
+    name: Villamantilla
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.33846000'
+    longitude: '-4.12986000'
+  -
+    id: 38196
+    name: 'Villanueva de la Cañada'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.44689000'
+    longitude: '-4.00428000'
+  -
+    id: 38187
+    name: 'Villanueva de Perales'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.34541000'
+    longitude: '-4.09891000'
+  -
+    id: 38219
+    name: 'Villanueva del Pardillo'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.49014000'
+    longitude: '-3.96383000'
+  -
+    id: 38257
+    name: 'Villar del Olmo'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.33468000'
+    longitude: '-3.23399000'
+  -
+    id: 38273
+    name: 'Villarejo de Salvanés'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.16663000'
+    longitude: '-3.27277000'
+  -
+    id: 38343
+    name: Villaverde
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.35000000'
+    longitude: '-3.70000000'
+  -
+    id: 38357
+    name: 'Villaviciosa de Odón'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.35810000'
+    longitude: '-3.90430000'
+  -
+    id: 38360
+    name: 'Villavieja del Lozoya'
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '41.00396000'
+    longitude: '-3.66870000'
+  -
+    id: 38482
+    name: Zarzalejo
+    state_id: 1158
+    state_code: MD
+    country_id: 207
+    country_code: ES
+    latitude: '40.54811000'
+    longitude: '-4.18176000'
+  -
     id: 35391
     name: Melilla
     state_id: 1159
@@ -1006118,6 +1006478,519 @@ city:
     country_code: ES
     latitude: '35.29369000'
     longitude: '-2.93833000'
+  -
+    id: 31903
+    name: Abanilla
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.20537000'
+    longitude: '-1.04153000'
+  -
+    id: 31905
+    name: Abarán
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.20551000'
+    longitude: '-1.39907000'
+  -
+    id: 38574
+    name: Águilas
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.40630000'
+    longitude: '-1.58289000'
+  -
+    id: 32057
+    name: Albudeite
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.02895000'
+    longitude: '-1.38664000'
+  -
+    id: 32084
+    name: Alcantarilla
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.96939000'
+    longitude: '-1.21714000'
+  -
+    id: 32182
+    name: Aledo
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.79341000'
+    longitude: '-1.57356000'
+  -
+    id: 32229
+    name: Alguazas
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.05356000'
+    longitude: '-1.25051000'
+  -
+    id: 32236
+    name: 'Alhama de Murcia'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.85103000'
+    longitude: '-1.42507000'
+  -
+    id: 32430
+    name: Archena
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.11631000'
+    longitude: '-1.30043000'
+  -
+    id: 32546
+    name: Atamaría
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.59989000'
+    longitude: '-0.80682000'
+  -
+    id: 32677
+    name: 'Barrio de la Concepción'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.60000000'
+    longitude: '-1.00000000'
+  -
+    id: 32800
+    name: Beniel
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.04636000'
+    longitude: '-1.00233000'
+  -
+    id: 32905
+    name: Blanca
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.17910000'
+    longitude: '-1.37473000'
+  -
+    id: 33018
+    name: Bullas
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.04667000'
+    longitude: '-1.67227000'
+  -
+    id: 33131
+    name: Calasparra
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.22997000'
+    longitude: '-1.69986000'
+  -
+    id: 33211
+    name: 'Campos del Río'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.03966000'
+    longitude: '-1.35306000'
+  -
+    id: 33277
+    name: Caravaca
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.10558000'
+    longitude: '-1.86343000'
+  -
+    id: 33336
+    name: Cartagena
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.60512000'
+    longitude: '-0.98623000'
+  -
+    id: 33560
+    name: Cehegín
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.09242000'
+    longitude: '-1.79850000'
+  -
+    id: 33610
+    name: Ceuti
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.07859000'
+    longitude: '-1.27467000'
+  -
+    id: 33659
+    name: Cieza
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.23998000'
+    longitude: '-1.41987000'
+  -
+    id: 33706
+    name: Cobatillas
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.05545000'
+    longitude: '-1.07683000'
+  -
+    id: 34009
+    name: 'El Plan'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.65000000'
+    longitude: '-1.01667000'
+  -
+    id: 34104
+    name: Esparragal
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.03333000'
+    longitude: '-1.08333000'
+  -
+    id: 34231
+    name: Fortuna
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.18140000'
+    longitude: '-1.12590000'
+  -
+    id: 34308
+    name: 'Fuente-Álamo de Murcia'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.72389000'
+    longitude: '-1.16972000'
+  -
+    id: 34828
+    name: Jumilla
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.47917000'
+    longitude: '-1.32500000'
+  -
+    id: 34893
+    name: 'La Manga del Mar Menor'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.64129000'
+    longitude: '-0.71651000'
+  -
+    id: 34931
+    name: 'La Torrecilla'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.62363000'
+    longitude: '-1.72785000'
+  -
+    id: 34932
+    name: 'La Unión'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.61915000'
+    longitude: '-0.87799000'
+  -
+    id: 34993
+    name: 'Las Torres de Cotillas'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.02822000'
+    longitude: '-1.24188000'
+  -
+    id: 35046
+    name: Librilla
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.88642000'
+    longitude: '-1.35557000'
+  -
+    id: 35092
+    name: 'Lo Pagán'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.81761000'
+    longitude: '-0.78832000'
+  -
+    id: 35113
+    name: Lorca
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.67119000'
+    longitude: '-1.70170000'
+  -
+    id: 35115
+    name: Lorquí
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.08261000'
+    longitude: '-1.25103000'
+  -
+    id: 35116
+    name: 'Los Alcázares'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.74425000'
+    longitude: '-0.85041000'
+  -
+    id: 35121
+    name: 'Los Gabatos'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.63333000'
+    longitude: '-1.00000000'
+  -
+    id: 35125
+    name: 'Los Martínez'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.81841000'
+    longitude: '-1.07880000'
+  -
+    id: 35356
+    name: Mazarrón
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.59920000'
+    longitude: '-1.31493000'
+  -
+    id: 35478
+    name: 'Molina de Segura'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.05456000'
+    longitude: '-1.20763000'
+  -
+    id: 35618
+    name: Moratalla
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.18928000'
+    longitude: '-1.89183000'
+  -
+    id: 35661
+    name: Mula
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.04095000'
+    longitude: '-1.49014000'
+  -
+    id: 35671
+    name: Murcia
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.98662000'
+    longitude: '-1.14146000'
+  -
+    id: 35871
+    name: Ojós
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.14700000'
+    longitude: '-1.34261000'
+  -
+    id: 36245
+    name: Pliego
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.98946000'
+    longitude: '-1.50444000'
+  -
+    id: 36445
+    name: 'Puerto Lumbreras'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.56329000'
+    longitude: '-1.80974000'
+  -
+    id: 36621
+    name: Ricote
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.15338000'
+    longitude: '-1.36557000'
+  -
+    id: 36840
+    name: 'San Javier'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.80626000'
+    longitude: '-0.83736000'
+  -
+    id: 36910
+    name: 'San Pedro del Pinatar'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.83568000'
+    longitude: '-0.79102000'
+  -
+    id: 36945
+    name: 'Sangonera la Verde'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.92862000'
+    longitude: '-1.20794000'
+  -
+    id: 37026
+    name: 'Santa Cruz'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.02180000'
+    longitude: '-1.05749000'
+  -
+    id: 37116
+    name: 'Santiago de la Ribera'
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.79681000'
+    longitude: '-0.80544000'
+  -
+    id: 37145
+    name: Santomera
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.06147000'
+    longitude: '-1.04877000'
+  -
+    id: 37507
+    name: Torre-Pacheco
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.74293000'
+    longitude: '-0.95396000'
+  -
+    id: 37606
+    name: Totana
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '37.76880000'
+    longitude: '-1.50229000'
+  -
+    id: 37678
+    name: Ulea
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.14045000'
+    longitude: '-1.33007000'
+  -
+    id: 38431
+    name: Yecla
+    state_id: 1176
+    state_code: MC
+    country_id: 207
+    country_code: ES
+    latitude: '38.61365000'
+    longitude: '-1.11468000'
   -
     id: 31920
     name: Abáigar
@@ -1007702,519 +1008575,6 @@ city:
     country_code: ES
     latitude: '42.69247000'
     longitude: '-2.29982000'
-  -
-    id: 31903
-    name: Abanilla
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.20537000'
-    longitude: '-1.04153000'
-  -
-    id: 31905
-    name: Abarán
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.20551000'
-    longitude: '-1.39907000'
-  -
-    id: 38574
-    name: Águilas
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.40630000'
-    longitude: '-1.58289000'
-  -
-    id: 32057
-    name: Albudeite
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.02895000'
-    longitude: '-1.38664000'
-  -
-    id: 32084
-    name: Alcantarilla
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.96939000'
-    longitude: '-1.21714000'
-  -
-    id: 32182
-    name: Aledo
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.79341000'
-    longitude: '-1.57356000'
-  -
-    id: 32229
-    name: Alguazas
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.05356000'
-    longitude: '-1.25051000'
-  -
-    id: 32236
-    name: 'Alhama de Murcia'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.85103000'
-    longitude: '-1.42507000'
-  -
-    id: 32430
-    name: Archena
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.11631000'
-    longitude: '-1.30043000'
-  -
-    id: 32546
-    name: Atamaría
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.59989000'
-    longitude: '-0.80682000'
-  -
-    id: 32677
-    name: 'Barrio de la Concepción'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.60000000'
-    longitude: '-1.00000000'
-  -
-    id: 32800
-    name: Beniel
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.04636000'
-    longitude: '-1.00233000'
-  -
-    id: 32905
-    name: Blanca
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.17910000'
-    longitude: '-1.37473000'
-  -
-    id: 33018
-    name: Bullas
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.04667000'
-    longitude: '-1.67227000'
-  -
-    id: 33131
-    name: Calasparra
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.22997000'
-    longitude: '-1.69986000'
-  -
-    id: 33211
-    name: 'Campos del Río'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.03966000'
-    longitude: '-1.35306000'
-  -
-    id: 33277
-    name: Caravaca
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.10558000'
-    longitude: '-1.86343000'
-  -
-    id: 33336
-    name: Cartagena
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.60512000'
-    longitude: '-0.98623000'
-  -
-    id: 33560
-    name: Cehegín
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.09242000'
-    longitude: '-1.79850000'
-  -
-    id: 33610
-    name: Ceuti
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.07859000'
-    longitude: '-1.27467000'
-  -
-    id: 33659
-    name: Cieza
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.23998000'
-    longitude: '-1.41987000'
-  -
-    id: 33706
-    name: Cobatillas
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.05545000'
-    longitude: '-1.07683000'
-  -
-    id: 34009
-    name: 'El Plan'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.65000000'
-    longitude: '-1.01667000'
-  -
-    id: 34104
-    name: Esparragal
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.03333000'
-    longitude: '-1.08333000'
-  -
-    id: 34231
-    name: Fortuna
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.18140000'
-    longitude: '-1.12590000'
-  -
-    id: 34308
-    name: 'Fuente-Álamo de Murcia'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.72389000'
-    longitude: '-1.16972000'
-  -
-    id: 34828
-    name: Jumilla
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.47917000'
-    longitude: '-1.32500000'
-  -
-    id: 34893
-    name: 'La Manga del Mar Menor'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.64129000'
-    longitude: '-0.71651000'
-  -
-    id: 34931
-    name: 'La Torrecilla'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.62363000'
-    longitude: '-1.72785000'
-  -
-    id: 34932
-    name: 'La Unión'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.61915000'
-    longitude: '-0.87799000'
-  -
-    id: 34993
-    name: 'Las Torres de Cotillas'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.02822000'
-    longitude: '-1.24188000'
-  -
-    id: 35046
-    name: Librilla
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.88642000'
-    longitude: '-1.35557000'
-  -
-    id: 35092
-    name: 'Lo Pagán'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.81761000'
-    longitude: '-0.78832000'
-  -
-    id: 35113
-    name: Lorca
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.67119000'
-    longitude: '-1.70170000'
-  -
-    id: 35115
-    name: Lorquí
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.08261000'
-    longitude: '-1.25103000'
-  -
-    id: 35116
-    name: 'Los Alcázares'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.74425000'
-    longitude: '-0.85041000'
-  -
-    id: 35121
-    name: 'Los Gabatos'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.63333000'
-    longitude: '-1.00000000'
-  -
-    id: 35125
-    name: 'Los Martínez'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.81841000'
-    longitude: '-1.07880000'
-  -
-    id: 35356
-    name: Mazarrón
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.59920000'
-    longitude: '-1.31493000'
-  -
-    id: 35478
-    name: 'Molina de Segura'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.05456000'
-    longitude: '-1.20763000'
-  -
-    id: 35618
-    name: Moratalla
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.18928000'
-    longitude: '-1.89183000'
-  -
-    id: 35661
-    name: Mula
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.04095000'
-    longitude: '-1.49014000'
-  -
-    id: 35671
-    name: Murcia
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.98662000'
-    longitude: '-1.14146000'
-  -
-    id: 35871
-    name: Ojós
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.14700000'
-    longitude: '-1.34261000'
-  -
-    id: 36245
-    name: Pliego
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.98946000'
-    longitude: '-1.50444000'
-  -
-    id: 36445
-    name: 'Puerto Lumbreras'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.56329000'
-    longitude: '-1.80974000'
-  -
-    id: 36621
-    name: Ricote
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.15338000'
-    longitude: '-1.36557000'
-  -
-    id: 36840
-    name: 'San Javier'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.80626000'
-    longitude: '-0.83736000'
-  -
-    id: 36910
-    name: 'San Pedro del Pinatar'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.83568000'
-    longitude: '-0.79102000'
-  -
-    id: 36945
-    name: 'Sangonera la Verde'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.92862000'
-    longitude: '-1.20794000'
-  -
-    id: 37026
-    name: 'Santa Cruz'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.02180000'
-    longitude: '-1.05749000'
-  -
-    id: 37116
-    name: 'Santiago de la Ribera'
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.79681000'
-    longitude: '-0.80544000'
-  -
-    id: 37145
-    name: Santomera
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.06147000'
-    longitude: '-1.04877000'
-  -
-    id: 37507
-    name: Torre-Pacheco
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.74293000'
-    longitude: '-0.95396000'
-  -
-    id: 37606
-    name: Totana
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '37.76880000'
-    longitude: '-1.50229000'
-  -
-    id: 37678
-    name: Ulea
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.14045000'
-    longitude: '-1.33007000'
-  -
-    id: 38431
-    name: Yecla
-    state_id: 1176
-    state_code: MC
-    country_id: 207
-    country_code: ES
-    latitude: '38.61365000'
-    longitude: '-1.11468000'
   -
     id: 31932
     name: Ademuz
@@ -1059444,15 +1059804,6 @@ city:
     latitude: '39.67743000'
     longitude: '29.15523000'
   -
-    id: 108901
-    name: İnegol
-    state_id: 2163
-    state_code: '16'
-    country_id: 225
-    country_code: TR
-    latitude: '40.07806000'
-    longitude: '29.51333000'
-  -
     id: 108902
     name: İnegöl
     state_id: 2163
@@ -1059461,6 +1059812,15 @@ city:
     country_code: TR
     latitude: '40.01193000'
     longitude: '29.53678000'
+  -
+    id: 108901
+    name: İnegol
+    state_id: 2163
+    state_code: '16'
+    country_id: 225
+    country_code: TR
+    latitude: '40.07806000'
+    longitude: '29.51333000'
   -
     id: 108925
     name: İznik
@@ -1063962,15 +1064322,6 @@ city:
     latitude: '40.86368000'
     longitude: '29.31942000'
   -
-    id: 108871
-    name: Ümraniye
-    state_id: 2170
-    state_code: '34'
-    country_id: 225
-    country_code: TR
-    latitude: '41.03482000'
-    longitude: '29.10896000'
-  -
     id: 108631
     name: Umraniye
     state_id: 2170
@@ -1063979,6 +1064330,15 @@ city:
     country_code: TR
     latitude: '41.01643000'
     longitude: '29.12476000'
+  -
+    id: 108871
+    name: Ümraniye
+    state_id: 2170
+    state_code: '34'
+    country_id: 225
+    country_code: TR
+    latitude: '41.03482000'
+    longitude: '29.10896000'
   -
     id: 108874
     name: Üsküdar
@@ -1065384,15 +1065744,6 @@ city:
     latitude: '38.65710000'
     longitude: '35.45832000'
   -
-    id: 107849
-    name: Incesu
-    state_id: 2200
-    state_code: '38'
-    country_id: 225
-    country_code: TR
-    latitude: '38.63789000'
-    longitude: '35.19394000'
-  -
     id: 108896
     name: İncesu
     state_id: 2200
@@ -1065401,6 +1065752,15 @@ city:
     country_code: TR
     latitude: '38.62240000'
     longitude: '35.18261000'
+  -
+    id: 107849
+    name: Incesu
+    state_id: 2200
+    state_code: '38'
+    country_id: 225
+    country_code: TR
+    latitude: '38.63789000'
+    longitude: '35.19394000'
   -
     id: 107954
     name: Kayseri
@@ -1311147,15 +1311507,6 @@ city:
     latitude: '15.63460000'
     longitude: '43.33720000'
   -
-    id: 130850
-    name: Hajjah
-    state_id: 1244
-    state_code: HJ
-    country_id: 245
-    country_code: YE
-    latitude: '15.68160000'
-    longitude: '43.44996000'
-  -
     id: 131011
     name: Ḩajjah
     state_id: 1244
@@ -1311164,6 +1311515,15 @@ city:
     country_code: YE
     latitude: '15.69425000'
     longitude: '43.60582000'
+  -
+    id: 130850
+    name: Hajjah
+    state_id: 1244
+    state_code: HJ
+    country_id: 245
+    country_code: YE
+    latitude: '15.68160000'
+    longitude: '43.44996000'
   -
     id: 130854
     name: 'Harad District'

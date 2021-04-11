@@ -4111,6 +4111,406 @@
     <longitude>5.41373000</longitude>
   </city>
   <city>
+    <id>146185</id>
+    <name>Aïn El Berd District</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>35.35000000</latitude>
+    <longitude>-0.51667000</longitude>
+  </city>
+  <city>
+    <id>146186</id>
+    <name>Balidat Ameur</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>32.95138900</latitude>
+    <longitude>5.98055600</longitude>
+  </city>
+  <city>
+    <id>146187</id>
+    <name>Belarbi</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>35.15149480</latitude>
+    <longitude>-0.45679090</longitude>
+  </city>
+  <city>
+    <id>146188</id>
+    <name>Ben Badis, Sid Bel Abbés</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>34.95277778</latitude>
+    <longitude>-0.91444444</longitude>
+  </city>
+  <city>
+    <id>146189</id>
+    <name>Djamaa</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>33.53137870</latitude>
+    <longitude>5.99098210</longitude>
+  </city>
+  <city>
+    <id>146190</id>
+    <name>El Bour</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>32.16305556</latitude>
+    <longitude>5.34527778</longitude>
+  </city>
+  <city>
+    <id>146191</id>
+    <name>El Hadjira</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>32.61666667</latitude>
+    <longitude>5.51666667</longitude>
+  </city>
+  <city>
+    <id>146192</id>
+    <name>Haoud El Hamra</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>31.88944444</latitude>
+    <longitude>5.97305556</longitude>
+  </city>
+  <city>
+    <id>146193</id>
+    <name>Hassi Messaoud</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>31.70000000</latitude>
+    <longitude>6.06666667</longitude>
+  </city>
+  <city>
+    <id>146194</id>
+    <name>Lamtar</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>35.07062700</latitude>
+    <longitude>-0.79814000</longitude>
+  </city>
+  <city>
+    <id>146195</id>
+    <name>Marhoum</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>34.44600420</latitude>
+    <longitude>-0.19502440</longitude>
+  </city>
+  <city>
+    <id>146196</id>
+    <name>Megarine</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>33.19262320</latitude>
+    <longitude>6.09346390</longitude>
+  </city>
+  <city>
+    <id>146197</id>
+    <name>Merine</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>34.78074720</latitude>
+    <longitude>-0.45104030</longitude>
+  </city>
+  <city>
+    <id>146198</id>
+    <name>Mezaourou</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>34.81732670</latitude>
+    <longitude>-0.62331890</longitude>
+  </city>
+  <city>
+    <id>146199</id>
+    <name>Moggar</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>33.26722222</latitude>
+    <longitude>6.06777778</longitude>
+  </city>
+  <city>
+    <id>146200</id>
+    <name>Moulay Slissen</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>34.81666667</latitude>
+    <longitude>-0.76666667</longitude>
+  </city>
+  <city>
+    <id>146201</id>
+    <name>N'Goussa</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>32.14087970</latitude>
+    <longitude>5.30828480</longitude>
+  </city>
+  <city>
+    <id>146202</id>
+    <name>Ouargla</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>31.95000000</latitude>
+    <longitude>5.31666667</longitude>
+  </city>
+  <city>
+    <id>146203</id>
+    <name>Rouissat</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>31.93657600</latitude>
+    <longitude>5.33540730</longitude>
+  </city>
+  <city>
+    <id>146204</id>
+    <name>Sfissef</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>35.23440280</latitude>
+    <longitude>-0.24341580</longitude>
+  </city>
+  <city>
+    <id>146205</id>
+    <name>Sidi Ali Boussidi</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>35.10000000</latitude>
+    <longitude>-0.83333333</longitude>
+  </city>
+  <city>
+    <id>146206</id>
+    <name>Sidi Amrane</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>33.50000000</latitude>
+    <longitude>6.01666667</longitude>
+  </city>
+  <city>
+    <id>146207</id>
+    <name>Sidi Bel Abbès</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>35.20000000</latitude>
+    <longitude>-0.63333333</longitude>
+  </city>
+  <city>
+    <id>146208</id>
+    <name>Sidi Brahim</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>35.26055600</latitude>
+    <longitude>-0.56750000</longitude>
+  </city>
+  <city>
+    <id>146209</id>
+    <name>Sidi Hamadouche</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>35.29916667</latitude>
+    <longitude>-0.54888889</longitude>
+  </city>
+  <city>
+    <id>146210</id>
+    <name>Sidi Slimane</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>33.28861111</latitude>
+    <longitude>6.09472222</longitude>
+  </city>
+  <city>
+    <id>146211</id>
+    <name>Sidi Yacoub</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>35.13333333</latitude>
+    <longitude>-0.78333333</longitude>
+  </city>
+  <city>
+    <id>146212</id>
+    <name>Sidi Yahia</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>33.52166667</latitude>
+    <longitude>5.94555556</longitude>
+  </city>
+  <city>
+    <id>146213</id>
+    <name>Tabia, Sid Bel Abbés</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>35.01783660</latitude>
+    <longitude>-0.73385240</longitude>
+  </city>
+  <city>
+    <id>146214</id>
+    <name>Taibet</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>33.08391890</latitude>
+    <longitude>6.39996530</longitude>
+  </city>
+  <city>
+    <id>146215</id>
+    <name>Tamellaht</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>33.01190000</latitude>
+    <longitude>6.00972000</longitude>
+  </city>
+  <city>
+    <id>146216</id>
+    <name>Tamerna Djedida</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>33.44640000</latitude>
+    <longitude>5.95639000</longitude>
+  </city>
+  <city>
+    <id>146217</id>
+    <name>Tebesbest</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>33.12001290</latitude>
+    <longitude>6.08007430</longitude>
+  </city>
+  <city>
+    <id>146218</id>
+    <name>Teghalimet</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>34.88283300</latitude>
+    <longitude>-0.56000230</longitude>
+  </city>
+  <city>
+    <id>146219</id>
+    <name>Telagh</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>34.78490640</latitude>
+    <longitude>-0.57317730</longitude>
+  </city>
+  <city>
+    <id>146220</id>
+    <name>Tenezara</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>34.96341170</latitude>
+    <longitude>-0.61446190</longitude>
+  </city>
+  <city>
+    <id>146221</id>
+    <name>Tenira</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>35.01966420</latitude>
+    <longitude>-0.53206440</longitude>
+  </city>
+  <city>
+    <id>146222</id>
+    <name>Tessala</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>35.24300000</latitude>
+    <longitude>-0.77316300</longitude>
+  </city>
+  <city>
+    <id>146223</id>
+    <name>Touggourt</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>33.10000000</latitude>
+    <longitude>6.06666667</longitude>
+  </city>
+  <city>
+    <id>146224</id>
+    <name>Zerouala</name>
+    <state_id>4902</state_id>
+    <state_code>22</state_code>
+    <country_id>4</country_id>
+    <country_code>DZ</country_code>
+    <latitude>35.24232450</latitude>
+    <longitude>-0.52219390</longitude>
+  </city>
+  <city>
     <id>31239</id>
     <name>Azzaba</name>
     <state_id>1110</state_id>
@@ -61571,16 +61971,6 @@
     <longitude>14.30194000</longitude>
   </city>
   <city>
-    <id>143796</id>
-    <name>Ferndorf</name>
-    <state_id>2057</state_id>
-    <state_code>2</state_code>
-    <country_id>15</country_id>
-    <country_code>AT</country_code>
-    <latitude>46.73611111</latitude>
-    <longitude>13.62638889</longitude>
-  </city>
-  <city>
     <id>1981</id>
     <name>Ferndorf</name>
     <state_id>2057</state_id>
@@ -61589,6 +61979,16 @@
     <country_code>AT</country_code>
     <latitude>46.73651000</latitude>
     <longitude>13.62661000</longitude>
+  </city>
+  <city>
+    <id>143796</id>
+    <name>Ferndorf</name>
+    <state_id>2057</state_id>
+    <state_code>2</state_code>
+    <country_id>15</country_id>
+    <country_code>AT</country_code>
+    <latitude>46.73611111</latitude>
+    <longitude>13.62638889</longitude>
   </city>
   <city>
     <id>1988</id>
@@ -61641,16 +62041,6 @@
     <longitude>14.86027778</longitude>
   </city>
   <city>
-    <id>143798</id>
-    <name>Frauenstein</name>
-    <state_id>2057</state_id>
-    <state_code>2</state_code>
-    <country_id>15</country_id>
-    <country_code>AT</country_code>
-    <latitude>46.81361111</latitude>
-    <longitude>14.36750000</longitude>
-  </city>
-  <city>
     <id>2015</id>
     <name>Frauenstein</name>
     <state_id>2057</state_id>
@@ -61659,6 +62049,16 @@
     <country_code>AT</country_code>
     <latitude>46.81417000</latitude>
     <longitude>14.29417000</longitude>
+  </city>
+  <city>
+    <id>143798</id>
+    <name>Frauenstein</name>
+    <state_id>2057</state_id>
+    <state_code>2</state_code>
+    <country_id>15</country_id>
+    <country_code>AT</country_code>
+    <latitude>46.81361111</latitude>
+    <longitude>14.36750000</longitude>
   </city>
   <city>
     <id>2021</id>
@@ -61681,16 +62081,6 @@
     <longitude>14.04513000</longitude>
   </city>
   <city>
-    <id>143799</id>
-    <name>Friesach</name>
-    <state_id>2057</state_id>
-    <state_code>2</state_code>
-    <country_id>15</country_id>
-    <country_code>AT</country_code>
-    <latitude>46.95250000</latitude>
-    <longitude>14.40972222</longitude>
-  </city>
-  <city>
     <id>2024</id>
     <name>Friesach</name>
     <state_id>2057</state_id>
@@ -61699,6 +62089,16 @@
     <country_code>AT</country_code>
     <latitude>46.95528000</latitude>
     <longitude>14.40583000</longitude>
+  </city>
+  <city>
+    <id>143799</id>
+    <name>Friesach</name>
+    <state_id>2057</state_id>
+    <state_code>2</state_code>
+    <country_id>15</country_id>
+    <country_code>AT</country_code>
+    <latitude>46.95250000</latitude>
+    <longitude>14.40972222</longitude>
   </city>
   <city>
     <id>2036</id>
@@ -63331,16 +63731,6 @@
     <longitude>14.41667000</longitude>
   </city>
   <city>
-    <id>3618</id>
-    <name>Trebesing</name>
-    <state_id>2057</state_id>
-    <state_code>2</state_code>
-    <country_id>15</country_id>
-    <country_code>AT</country_code>
-    <latitude>46.88639000</latitude>
-    <longitude>13.51028000</longitude>
-  </city>
-  <city>
     <id>143861</id>
     <name>Trebesing</name>
     <state_id>2057</state_id>
@@ -63349,6 +63739,16 @@
     <country_code>AT</country_code>
     <latitude>46.88305556</latitude>
     <longitude>13.51055556</longitude>
+  </city>
+  <city>
+    <id>3618</id>
+    <name>Trebesing</name>
+    <state_id>2057</state_id>
+    <state_code>2</state_code>
+    <country_id>15</country_id>
+    <country_code>AT</country_code>
+    <latitude>46.88639000</latitude>
+    <longitude>13.51028000</longitude>
   </city>
   <city>
     <id>143862</id>
@@ -63591,16 +63991,6 @@
     <longitude>14.19166667</longitude>
   </city>
   <city>
-    <id>3794</id>
-    <name>Wernberg</name>
-    <state_id>2057</state_id>
-    <state_code>2</state_code>
-    <country_id>15</country_id>
-    <country_code>AT</country_code>
-    <latitude>46.61667000</latitude>
-    <longitude>13.93333000</longitude>
-  </city>
-  <city>
     <id>143869</id>
     <name>Wernberg</name>
     <state_id>2057</state_id>
@@ -63609,6 +63999,16 @@
     <country_code>AT</country_code>
     <latitude>46.62305556</latitude>
     <longitude>13.93944444</longitude>
+  </city>
+  <city>
+    <id>3794</id>
+    <name>Wernberg</name>
+    <state_id>2057</state_id>
+    <state_code>2</state_code>
+    <country_id>15</country_id>
+    <country_code>AT</country_code>
+    <latitude>46.61667000</latitude>
+    <longitude>13.93333000</longitude>
   </city>
   <city>
     <id>3833</id>
@@ -85601,16 +86001,6 @@
     <longitude>90.00033000</longitude>
   </city>
   <city>
-    <id>8457</id>
-    <name>Bandarban</name>
-    <state_id>803</state_id>
-    <state_code>B</state_code>
-    <country_id>19</country_id>
-    <country_code>BD</country_code>
-    <latitude>22.00000000</latitude>
-    <longitude>92.33333000</longitude>
-  </city>
-  <city>
     <id>8473</id>
     <name>Bāndarban</name>
     <state_id>803</state_id>
@@ -85619,6 +86009,16 @@
     <country_code>BD</country_code>
     <latitude>22.19534000</latitude>
     <longitude>92.21946000</longitude>
+  </city>
+  <city>
+    <id>8457</id>
+    <name>Bandarban</name>
+    <state_id>803</state_id>
+    <state_code>B</state_code>
+    <country_id>19</country_id>
+    <country_code>BD</country_code>
+    <latitude>22.00000000</latitude>
+    <longitude>92.33333000</longitude>
   </city>
   <city>
     <id>8468</id>
@@ -86021,16 +86421,6 @@
     <longitude>90.78291000</longitude>
   </city>
   <city>
-    <id>8527</id>
-    <name>Madaripur</name>
-    <state_id>771</state_id>
-    <state_code>13</state_code>
-    <country_id>19</country_id>
-    <country_code>BD</country_code>
-    <latitude>23.25000000</latitude>
-    <longitude>90.20000000</longitude>
-  </city>
-  <city>
     <id>8542</id>
     <name>Mādārīpur</name>
     <state_id>771</state_id>
@@ -86039,6 +86429,16 @@
     <country_code>BD</country_code>
     <latitude>23.17097000</latitude>
     <longitude>90.20935000</longitude>
+  </city>
+  <city>
+    <id>8527</id>
+    <name>Madaripur</name>
+    <state_id>771</state_id>
+    <state_code>13</state_code>
+    <country_id>19</country_id>
+    <country_code>BD</country_code>
+    <latitude>23.25000000</latitude>
+    <longitude>90.20000000</longitude>
   </city>
   <city>
     <id>8531</id>
@@ -195501,16 +195901,6 @@
     <longitude>-73.29572000</longitude>
   </city>
   <city>
-    <id>20768</id>
-    <name>Cómbita</name>
-    <state_id>2903</state_id>
-    <state_code>BOY</state_code>
-    <country_id>48</country_id>
-    <country_code>CO</country_code>
-    <latitude>5.68760000</latitude>
-    <longitude>-73.32942000</longitude>
-  </city>
-  <city>
     <id>20723</id>
     <name>Combita</name>
     <state_id>2903</state_id>
@@ -195519,6 +195909,16 @@
     <country_code>CO</country_code>
     <latitude>5.63333000</latitude>
     <longitude>-73.31667000</longitude>
+  </city>
+  <city>
+    <id>20768</id>
+    <name>Cómbita</name>
+    <state_id>2903</state_id>
+    <state_code>BOY</state_code>
+    <country_id>48</country_id>
+    <country_code>CO</country_code>
+    <latitude>5.68760000</latitude>
+    <longitude>-73.32942000</longitude>
   </city>
   <city>
     <id>20736</id>
@@ -198661,16 +199061,6 @@
     <longitude>-74.49147000</longitude>
   </city>
   <city>
-    <id>20766</id>
-    <name>Cáqueza</name>
-    <state_id>2875</state_id>
-    <state_code>CUN</state_code>
-    <country_id>48</country_id>
-    <country_code>CO</country_code>
-    <latitude>4.40569000</latitude>
-    <longitude>-73.94683000</longitude>
-  </city>
-  <city>
     <id>20648</id>
     <name>Caqueza</name>
     <state_id>2875</state_id>
@@ -198679,6 +199069,16 @@
     <country_code>CO</country_code>
     <latitude>4.38708000</latitude>
     <longitude>-73.95722000</longitude>
+  </city>
+  <city>
+    <id>20766</id>
+    <name>Cáqueza</name>
+    <state_id>2875</state_id>
+    <state_code>CUN</state_code>
+    <country_id>48</country_id>
+    <country_code>CO</country_code>
+    <latitude>4.40569000</latitude>
+    <longitude>-73.94683000</longitude>
   </city>
   <city>
     <id>20655</id>
@@ -199561,16 +199961,6 @@
     <longitude>-74.14435000</longitude>
   </city>
   <city>
-    <id>143875</id>
-    <name>Tibacuy</name>
-    <state_id>2875</state_id>
-    <state_code>CUN</state_code>
-    <country_id>48</country_id>
-    <country_code>CO</country_code>
-    <latitude>4.35111111</latitude>
-    <longitude>-72.45638889</longitude>
-  </city>
-  <city>
     <id>21522</id>
     <name>Tibacuy</name>
     <state_id>2875</state_id>
@@ -199579,6 +199969,16 @@
     <country_code>CO</country_code>
     <latitude>4.30606000</latitude>
     <longitude>-74.51639000</longitude>
+  </city>
+  <city>
+    <id>143875</id>
+    <name>Tibacuy</name>
+    <state_id>2875</state_id>
+    <state_code>CUN</state_code>
+    <country_id>48</country_id>
+    <country_code>CO</country_code>
+    <latitude>4.35111111</latitude>
+    <longitude>-72.45638889</longitude>
   </city>
   <city>
     <id>21525</id>
@@ -199651,16 +200051,6 @@
     <longitude>-74.07104000</longitude>
   </city>
   <city>
-    <id>143876</id>
-    <name>Útica</name>
-    <state_id>2875</state_id>
-    <state_code>CUN</state_code>
-    <country_id>48</country_id>
-    <country_code>CO</country_code>
-    <latitude>5.18861111</latitude>
-    <longitude>-74.48111111</longitude>
-  </city>
-  <city>
     <id>21640</id>
     <name>Útica</name>
     <state_id>2875</state_id>
@@ -199669,6 +200059,16 @@
     <country_code>CO</country_code>
     <latitude>5.16977000</latitude>
     <longitude>-74.50134000</longitude>
+  </city>
+  <city>
+    <id>143876</id>
+    <name>Útica</name>
+    <state_id>2875</state_id>
+    <state_code>CUN</state_code>
+    <country_id>48</country_id>
+    <country_code>CO</country_code>
+    <latitude>5.18861111</latitude>
+    <longitude>-74.48111111</longitude>
   </city>
   <city>
     <id>21587</id>
@@ -201061,16 +201461,6 @@
     <longitude>-77.70103000</longitude>
   </city>
   <city>
-    <id>20517</id>
-    <name>Ancuya</name>
-    <state_id>2897</state_id>
-    <state_code>NAR</state_code>
-    <country_id>48</country_id>
-    <country_code>CO</country_code>
-    <latitude>1.26330000</latitude>
-    <longitude>-77.51376000</longitude>
-  </city>
-  <city>
     <id>20518</id>
     <name>Ancuyá</name>
     <state_id>2897</state_id>
@@ -201079,6 +201469,16 @@
     <country_code>CO</country_code>
     <latitude>1.26538000</latitude>
     <longitude>-77.53258000</longitude>
+  </city>
+  <city>
+    <id>20517</id>
+    <name>Ancuya</name>
+    <state_id>2897</state_id>
+    <state_code>NAR</state_code>
+    <country_id>48</country_id>
+    <country_code>CO</country_code>
+    <latitude>1.26330000</latitude>
+    <longitude>-77.51376000</longitude>
   </city>
   <city>
     <id>20539</id>
@@ -201851,16 +202251,6 @@
     <longitude>-72.86538000</longitude>
   </city>
   <city>
-    <id>20764</id>
-    <name>Cáchira</name>
-    <state_id>2877</state_id>
-    <state_code>NSA</state_code>
-    <country_id>48</country_id>
-    <country_code>CO</country_code>
-    <latitude>7.74104000</latitude>
-    <longitude>-73.04830000</longitude>
-  </city>
-  <city>
     <id>20620</id>
     <name>Cachirá</name>
     <state_id>2877</state_id>
@@ -201869,6 +202259,16 @@
     <country_code>CO</country_code>
     <latitude>7.75000000</latitude>
     <longitude>-73.16667000</longitude>
+  </city>
+  <city>
+    <id>20764</id>
+    <name>Cáchira</name>
+    <state_id>2877</state_id>
+    <state_code>NSA</state_code>
+    <country_id>48</country_id>
+    <country_code>CO</country_code>
+    <latitude>7.74104000</latitude>
+    <longitude>-73.04830000</longitude>
   </city>
   <city>
     <id>20765</id>
@@ -245031,16 +245431,6 @@
     <longitude>37.70000000</longitude>
   </city>
   <city>
-    <id>38728</id>
-    <name>Āsosa</name>
-    <state_id>9</state_id>
-    <state_code>BE</state_code>
-    <country_id>70</country_id>
-    <country_code>ET</country_code>
-    <latitude>10.06667000</latitude>
-    <longitude>34.53333000</longitude>
-  </city>
-  <city>
     <id>38596</id>
     <name>Asosa</name>
     <state_id>9</state_id>
@@ -245049,6 +245439,16 @@
     <country_code>ET</country_code>
     <latitude>10.00000000</latitude>
     <longitude>34.50000000</longitude>
+  </city>
+  <city>
+    <id>38728</id>
+    <name>Āsosa</name>
+    <state_id>9</state_id>
+    <state_code>BE</state_code>
+    <country_id>70</country_id>
+    <country_code>ET</country_code>
+    <latitude>10.06667000</latitude>
+    <longitude>34.53333000</longitude>
   </city>
   <city>
     <id>38679</id>
@@ -420391,16 +420791,6 @@
     <longitude>19.88362000</longitude>
   </city>
   <city>
-    <id>52840</id>
-    <name>Lefkada</name>
-    <state_id>2131</state_id>
-    <state_code>F</state_code>
-    <country_id>85</country_id>
-    <country_code>GR</country_code>
-    <latitude>38.75000000</latitude>
-    <longitude>20.66667000</longitude>
-  </city>
-  <city>
     <id>52841</id>
     <name>Lefkáda</name>
     <state_id>2131</state_id>
@@ -420409,6 +420799,16 @@
     <country_code>GR</country_code>
     <latitude>38.83036000</latitude>
     <longitude>20.70442000</longitude>
+  </city>
+  <city>
+    <id>52840</id>
+    <name>Lefkada</name>
+    <state_id>2131</state_id>
+    <state_code>F</state_code>
+    <country_id>85</country_id>
+    <country_code>GR</country_code>
+    <latitude>38.75000000</latitude>
+    <longitude>20.66667000</longitude>
   </city>
   <city>
     <id>52842</id>
@@ -722181,16 +722581,6 @@
     <longitude>-107.63278000</longitude>
   </city>
   <city>
-    <id>68096</id>
-    <name>Adolfo Ruíz Cortínes</name>
-    <state_id>3449</state_id>
-    <state_code>SIN</state_code>
-    <country_id>142</country_id>
-    <country_code>MX</country_code>
-    <latitude>25.75000000</latitude>
-    <longitude>-108.75000000</longitude>
-  </city>
-  <city>
     <id>68094</id>
     <name>Adolfo Ruiz Cortines</name>
     <state_id>3449</state_id>
@@ -722199,6 +722589,16 @@
     <country_code>MX</country_code>
     <latitude>25.70275000</latitude>
     <longitude>-108.71975000</longitude>
+  </city>
+  <city>
+    <id>68096</id>
+    <name>Adolfo Ruíz Cortínes</name>
+    <state_id>3449</state_id>
+    <state_code>SIN</state_code>
+    <country_id>142</country_id>
+    <country_code>MX</country_code>
+    <latitude>25.75000000</latitude>
+    <longitude>-108.75000000</longitude>
   </city>
   <city>
     <id>68109</id>
@@ -731101,16 +731501,6 @@
     <longitude>-97.85506000</longitude>
   </city>
   <city>
-    <id>76406</id>
-    <name>Ángel R. Cabada</name>
-    <state_id>3464</state_id>
-    <state_code>VER</state_code>
-    <country_id>142</country_id>
-    <country_code>MX</country_code>
-    <latitude>18.59601000</latitude>
-    <longitude>-95.44580000</longitude>
-  </city>
-  <city>
     <id>68273</id>
     <name>Angel R. Cabada</name>
     <state_id>3464</state_id>
@@ -731119,6 +731509,16 @@
     <country_code>MX</country_code>
     <latitude>18.60798000</latitude>
     <longitude>-95.39724000</longitude>
+  </city>
+  <city>
+    <id>76406</id>
+    <name>Ángel R. Cabada</name>
+    <state_id>3464</state_id>
+    <state_code>VER</state_code>
+    <country_id>142</country_id>
+    <country_code>MX</country_code>
+    <latitude>18.59601000</latitude>
+    <longitude>-95.44580000</longitude>
   </city>
   <city>
     <id>68281</id>
@@ -808351,6 +808751,16 @@
     <longitude>120.68333333</longitude>
   </city>
   <city>
+    <id>145663</id>
+    <name>San Francisco</name>
+    <state_id>1326</state_id>
+    <state_code>AGS</state_code>
+    <country_id>174</country_id>
+    <country_code>PH</country_code>
+    <latitude>15.35555556</latitude>
+    <longitude>120.84000000</longitude>
+  </city>
+  <city>
     <id>145664</id>
     <name>San Francisco</name>
     <state_id>1326</state_id>
@@ -808369,16 +808779,6 @@
     <country_code>PH</country_code>
     <latitude>14.96166667</latitude>
     <longitude>120.54527778</longitude>
-  </city>
-  <city>
-    <id>145663</id>
-    <name>San Francisco</name>
-    <state_id>1326</state_id>
-    <state_code>AGS</state_code>
-    <country_id>174</country_id>
-    <country_code>PH</country_code>
-    <latitude>15.35555556</latitude>
-    <longitude>120.84000000</longitude>
   </city>
   <city>
     <id>145666</id>
@@ -813641,16 +814041,6 @@
     <longitude>123.15510000</longitude>
   </city>
   <city>
-    <id>81670</id>
-    <name>Bañga</name>
-    <state_id>1336</state_id>
-    <state_code>ANT</state_code>
-    <country_id>174</country_id>
-    <country_code>PH</country_code>
-    <latitude>11.63870000</latitude>
-    <longitude>122.33410000</longitude>
-  </city>
-  <city>
     <id>81522</id>
     <name>Banga</name>
     <state_id>1336</state_id>
@@ -813659,6 +814049,16 @@
     <country_code>PH</country_code>
     <latitude>10.50180000</latitude>
     <longitude>122.82890000</longitude>
+  </city>
+  <city>
+    <id>81670</id>
+    <name>Bañga</name>
+    <state_id>1336</state_id>
+    <state_code>ANT</state_code>
+    <country_id>174</country_id>
+    <country_code>PH</country_code>
+    <latitude>11.63870000</latitude>
+    <longitude>122.33410000</longitude>
   </city>
   <city>
     <id>81570</id>
@@ -877831,16 +878231,6 @@
     <longitude>19.19498000</longitude>
   </city>
   <city>
-    <id>88753</id>
-    <name>powiat Łódzki Wschodni</name>
-    <state_id>1636</state_id>
-    <state_code>LD</state_code>
-    <country_id>176</country_id>
-    <country_code>PL</country_code>
-    <latitude>51.76529000</latitude>
-    <longitude>19.48288000</longitude>
-  </city>
-  <city>
     <id>87753</id>
     <name>Powiat łódzki wschodni</name>
     <state_id>1636</state_id>
@@ -877849,6 +878239,16 @@
     <country_code>PL</country_code>
     <latitude>51.68616000</latitude>
     <longitude>19.70098000</longitude>
+  </city>
+  <city>
+    <id>88753</id>
+    <name>powiat Łódzki Wschodni</name>
+    <state_id>1636</state_id>
+    <state_code>LD</state_code>
+    <country_id>176</country_id>
+    <country_code>PL</country_code>
+    <latitude>51.76529000</latitude>
+    <longitude>19.48288000</longitude>
   </city>
   <city>
     <id>88752</id>
@@ -893471,16 +893871,6 @@
     <longitude>19.33645000</longitude>
   </city>
   <city>
-    <id>88866</id>
-    <name>Świętajno</name>
-    <state_id>1628</state_id>
-    <state_code>WN</state_code>
-    <country_id>176</country_id>
-    <country_code>PL</country_code>
-    <latitude>53.56692000</latitude>
-    <longitude>21.21546000</longitude>
-  </city>
-  <city>
     <id>88276</id>
     <name>Swiętajno</name>
     <state_id>1628</state_id>
@@ -893489,6 +893879,16 @@
     <country_code>PL</country_code>
     <latitude>54.00151000</latitude>
     <longitude>22.31830000</longitude>
+  </city>
+  <city>
+    <id>88866</id>
+    <name>Świętajno</name>
+    <state_id>1628</state_id>
+    <state_code>WN</state_code>
+    <country_id>176</country_id>
+    <country_code>PL</country_code>
+    <latitude>53.56692000</latitude>
+    <longitude>21.21546000</longitude>
   </city>
   <city>
     <id>88305</id>
@@ -939801,16 +940201,6 @@
     <longitude>23.44645000</longitude>
   </city>
   <city>
-    <id>106014</id>
-    <name>Sălcuţa</name>
-    <state_id>4742</state_id>
-    <state_code>DJ</state_code>
-    <country_id>181</country_id>
-    <country_code>RO</country_code>
-    <latitude>44.25000000</latitude>
-    <longitude>23.43333000</longitude>
-  </city>
-  <city>
     <id>106015</id>
     <name>Sălcuța</name>
     <state_id>4742</state_id>
@@ -939819,6 +940209,16 @@
     <country_code>RO</country_code>
     <latitude>44.15986000</latitude>
     <longitude>23.70247000</longitude>
+  </city>
+  <city>
+    <id>106014</id>
+    <name>Sălcuţa</name>
+    <state_id>4742</state_id>
+    <state_code>DJ</state_code>
+    <country_id>181</country_id>
+    <country_code>RO</country_code>
+    <latitude>44.25000000</latitude>
+    <longitude>23.43333000</longitude>
   </city>
   <city>
     <id>106031</id>
@@ -951491,16 +951891,6 @@
     <longitude>27.56667000</longitude>
   </city>
   <city>
-    <id>97032</id>
-    <name>Şcheia</name>
-    <state_id>4735</state_id>
-    <state_code>IS</state_code>
-    <country_id>181</country_id>
-    <country_code>RO</country_code>
-    <latitude>46.93333000</latitude>
-    <longitude>27.51667000</longitude>
-  </city>
-  <city>
     <id>96265</id>
     <name>Scheia</name>
     <state_id>4735</state_id>
@@ -951509,6 +951899,16 @@
     <country_code>RO</country_code>
     <latitude>47.11725000</latitude>
     <longitude>26.88153000</longitude>
+  </city>
+  <city>
+    <id>97032</id>
+    <name>Şcheia</name>
+    <state_id>4735</state_id>
+    <state_code>IS</state_code>
+    <country_id>181</country_id>
+    <country_code>RO</country_code>
+    <latitude>46.93333000</latitude>
+    <longitude>27.51667000</longitude>
   </city>
   <city>
     <id>96273</id>
@@ -958581,16 +958981,6 @@
     <longitude>24.65919000</longitude>
   </city>
   <city>
-    <id>90459</id>
-    <name>Bârza</name>
-    <state_id>4738</state_id>
-    <state_code>OT</state_code>
-    <country_id>181</country_id>
-    <country_code>RO</country_code>
-    <latitude>44.32811000</latitude>
-    <longitude>24.14188000</longitude>
-  </city>
-  <city>
     <id>90065</id>
     <name>Barza</name>
     <state_id>4738</state_id>
@@ -958599,6 +958989,16 @@
     <country_code>RO</country_code>
     <latitude>44.33333000</latitude>
     <longitude>24.78333000</longitude>
+  </city>
+  <city>
+    <id>90459</id>
+    <name>Bârza</name>
+    <state_id>4738</state_id>
+    <state_code>OT</state_code>
+    <country_id>181</country_id>
+    <country_code>RO</country_code>
+    <latitude>44.32811000</latitude>
+    <longitude>24.14188000</longitude>
   </city>
   <city>
     <id>90140</id>
@@ -1089191,1886 +1089591,6 @@
     <longitude>-5.32042000</longitude>
   </city>
   <city>
-    <id>31985</id>
-    <name>Ajalvir</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.53205000</latitude>
-    <longitude>-3.47841000</longitude>
-  </city>
-  <city>
-    <id>31995</id>
-    <name>Alameda del Valle</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.91870000</latitude>
-    <longitude>-3.84243000</longitude>
-  </city>
-  <city>
-    <id>32072</id>
-    <name>Alcalá de Henares</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.48205000</latitude>
-    <longitude>-3.35996000</longitude>
-  </city>
-  <city>
-    <id>32097</id>
-    <name>Alcobendas</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.54746000</latitude>
-    <longitude>-3.64197000</longitude>
-  </city>
-  <city>
-    <id>32119</id>
-    <name>Alcorcón</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.34582000</latitude>
-    <longitude>-3.82487000</longitude>
-  </city>
-  <city>
-    <id>32144</id>
-    <name>Aldea del Fresno</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.32360000</latitude>
-    <longitude>-4.20319000</longitude>
-  </city>
-  <city>
-    <id>32219</id>
-    <name>Algete</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.59711000</latitude>
-    <longitude>-3.49743000</longitude>
-  </city>
-  <city>
-    <id>32327</id>
-    <name>Alpedrete</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.65889000</latitude>
-    <longitude>-4.02512000</longitude>
-  </city>
-  <city>
-    <id>32351</id>
-    <name>Ambite</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.33190000</latitude>
-    <longitude>-3.18034000</longitude>
-  </city>
-  <city>
-    <id>32368</id>
-    <name>Anchuelo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.46527000</latitude>
-    <longitude>-3.26838000</longitude>
-  </city>
-  <city>
-    <id>32412</id>
-    <name>Aranjuez</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.03108000</latitude>
-    <longitude>-3.60246000</longitude>
-  </city>
-  <city>
-    <id>32462</id>
-    <name>Arganda</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.30076000</latitude>
-    <longitude>-3.43722000</longitude>
-  </city>
-  <city>
-    <id>32464</id>
-    <name>Arganzuela</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.40021000</latitude>
-    <longitude>-3.69618000</longitude>
-  </city>
-  <city>
-    <id>32513</id>
-    <name>Arroyomolinos</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.26951000</latitude>
-    <longitude>-3.91946000</longitude>
-  </city>
-  <city>
-    <id>32636</id>
-    <name>Barajas de Madrid</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.47366000</latitude>
-    <longitude>-3.57777000</longitude>
-  </city>
-  <city>
-    <id>32695</id>
-    <name>Batres</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.20981000</latitude>
-    <longitude>-3.92331000</longitude>
-  </city>
-  <city>
-    <id>32725</id>
-    <name>Becerril de la Sierra</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.71699000</latitude>
-    <longitude>-3.98858000</longitude>
-  </city>
-  <city>
-    <id>32750</id>
-    <name>Belmonte de Tajo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.13162000</latitude>
-    <longitude>-3.33580000</longitude>
-  </city>
-  <city>
-    <id>32875</id>
-    <name>Berzosa del Lozoya</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.97320000</latitude>
-    <longitude>-3.52009000</longitude>
-  </city>
-  <city>
-    <id>32917</id>
-    <name>Boadilla del Monte</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.40500000</latitude>
-    <longitude>-3.87835000</longitude>
-  </city>
-  <city>
-    <id>32918</id>
-    <name>Boalo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.71603000</latitude>
-    <longitude>-3.91656000</longitude>
-  </city>
-  <city>
-    <id>32969</id>
-    <name>Braojos</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>41.04040000</latitude>
-    <longitude>-3.64329000</longitude>
-  </city>
-  <city>
-    <id>32975</id>
-    <name>Brea de Tajo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.23333000</latitude>
-    <longitude>-3.10000000</longitude>
-  </city>
-  <city>
-    <id>32994</id>
-    <name>Brunete</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.40532000</latitude>
-    <longitude>-3.99850000</longitude>
-  </city>
-  <city>
-    <id>33013</id>
-    <name>Buitrago del Lozoya</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.99090000</latitude>
-    <longitude>-3.63365000</longitude>
-  </city>
-  <city>
-    <id>33038</id>
-    <name>Bustarviejo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.85720000</latitude>
-    <longitude>-3.70766000</longitude>
-  </city>
-  <city>
-    <id>33068</id>
-    <name>Cabanillas de la Sierra</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.82009000</latitude>
-    <longitude>-3.62438000</longitude>
-  </city>
-  <city>
-    <id>33115</id>
-    <name>Cadalso de los Vidrios</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.30067000</latitude>
-    <longitude>-4.43348000</longitude>
-  </city>
-  <city>
-    <id>33170</id>
-    <name>Camarma de Esteruelas</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.55032000</latitude>
-    <longitude>-3.37295000</longitude>
-  </city>
-  <city>
-    <id>33201</id>
-    <name>Campo Real</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.33333000</latitude>
-    <longitude>-3.38333000</longitude>
-  </city>
-  <city>
-    <id>33232</id>
-    <name>Canencia</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.90728000</latitude>
-    <longitude>-3.73523000</longitude>
-  </city>
-  <city>
-    <id>33274</id>
-    <name>Carabaña</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.25424000</latitude>
-    <longitude>-3.23572000</longitude>
-  </city>
-  <city>
-    <id>33272</id>
-    <name>Carabanchel</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.39094000</latitude>
-    <longitude>-3.72420000</longitude>
-  </city>
-  <city>
-    <id>33354</id>
-    <name>Casarrubuelos</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.17146000</latitude>
-    <longitude>-3.83105000</longitude>
-  </city>
-  <city>
-    <id>33570</id>
-    <name>Cenicientos</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.26459000</latitude>
-    <longitude>-4.46683000</longitude>
-  </city>
-  <city>
-    <id>33579</id>
-    <name>Cercedilla</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.74101000</latitude>
-    <longitude>-4.05644000</longitude>
-  </city>
-  <city>
-    <id>33596</id>
-    <name>Cervera de Buitrago</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.91988000</latitude>
-    <longitude>-3.52702000</longitude>
-  </city>
-  <city>
-    <id>33615</id>
-    <name>Chamartín</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.46206000</latitude>
-    <longitude>-3.67660000</longitude>
-  </city>
-  <city>
-    <id>33616</id>
-    <name>Chamberí</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.43404000</latitude>
-    <longitude>-3.70379000</longitude>
-  </city>
-  <city>
-    <id>33618</id>
-    <name>Chapinería</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.37891000</latitude>
-    <longitude>-4.21009000</longitude>
-  </city>
-  <city>
-    <id>33640</id>
-    <name>Chinchón</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.14020000</latitude>
-    <longitude>-3.42267000</longitude>
-  </city>
-  <city>
-    <id>33658</id>
-    <name>Ciempozuelos</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.15913000</latitude>
-    <longitude>-3.62103000</longitude>
-  </city>
-  <city>
-    <id>33695</id>
-    <name>City Center</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.41831000</latitude>
-    <longitude>-3.70275000</longitude>
-  </city>
-  <city>
-    <id>33696</id>
-    <name>Ciudad Lineal</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.44505000</latitude>
-    <longitude>-3.65132000</longitude>
-  </city>
-  <city>
-    <id>33709</id>
-    <name>Cobeña</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.56667000</latitude>
-    <longitude>-3.50000000</longitude>
-  </city>
-  <city>
-    <id>33733</id>
-    <name>Collado Mediano</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.69326000</latitude>
-    <longitude>-4.02280000</longitude>
-  </city>
-  <city>
-    <id>33736</id>
-    <name>Collado-Villalba</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.63506000</latitude>
-    <longitude>-4.00486000</longitude>
-  </city>
-  <city>
-    <id>33744</id>
-    <name>Colmenar de Oreja</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.10675000</latitude>
-    <longitude>-3.38547000</longitude>
-  </city>
-  <city>
-    <id>33745</id>
-    <name>Colmenar del Arroyo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.41897000</latitude>
-    <longitude>-4.19845000</longitude>
-  </city>
-  <city>
-    <id>33742</id>
-    <name>Colmenar Viejo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.65909000</latitude>
-    <longitude>-3.76762000</longitude>
-  </city>
-  <city>
-    <id>33746</id>
-    <name>Colmenarejo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.56063000</latitude>
-    <longitude>-4.01713000</longitude>
-  </city>
-  <city>
-    <id>33796</id>
-    <name>Corpa</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.42327000</latitude>
-    <longitude>-3.26003000</longitude>
-  </city>
-  <city>
-    <id>33817</id>
-    <name>Coslada</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.42378000</latitude>
-    <longitude>-3.56129000</longitude>
-  </city>
-  <city>
-    <id>33845</id>
-    <name>Cubas</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.18900000</latitude>
-    <longitude>-3.83526000</longitude>
-  </city>
-  <city>
-    <id>33908</id>
-    <name>Daganzo de Arriba</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.54293000</latitude>
-    <longitude>-3.45457000</longitude>
-  </city>
-  <city>
-    <id>34029</id>
-    <name>El Álamo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.23066000</latitude>
-    <longitude>-3.99447000</longitude>
-  </city>
-  <city>
-    <id>33997</id>
-    <name>El Escorial</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.58254000</latitude>
-    <longitude>-4.12846000</longitude>
-  </city>
-  <city>
-    <id>34002</id>
-    <name>El Molar</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.73215000</latitude>
-    <longitude>-3.57969000</longitude>
-  </city>
-  <city>
-    <id>34003</id>
-    <name>El Pardo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.51454000</latitude>
-    <longitude>-3.77253000</longitude>
-  </city>
-  <city>
-    <id>34024</id>
-    <name>El Vellón</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.76495000</latitude>
-    <longitude>-3.57969000</longitude>
-  </city>
-  <city>
-    <id>34147</id>
-    <name>Estremera</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.18333000</latitude>
-    <longitude>-3.10000000</longitude>
-  </city>
-  <city>
-    <id>34249</id>
-    <name>Fresnedillas</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.48704000</latitude>
-    <longitude>-4.17146000</longitude>
-  </city>
-  <city>
-    <id>34259</id>
-    <name>Fresno de Torote</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.59040000</latitude>
-    <longitude>-3.41003000</longitude>
-  </city>
-  <city>
-    <id>34277</id>
-    <name>Fuencarral-El Pardo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.49840000</latitude>
-    <longitude>-3.73140000</longitude>
-  </city>
-  <city>
-    <id>34283</id>
-    <name>Fuenlabrada</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.28419000</latitude>
-    <longitude>-3.79415000</longitude>
-  </city>
-  <city>
-    <id>34302</id>
-    <name>Fuente el Saz</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.63215000</latitude>
-    <longitude>-3.51146000</longitude>
-  </city>
-  <city>
-    <id>34361</id>
-    <name>Fuentidueña de Tajo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.11574000</latitude>
-    <longitude>-3.15718000</longitude>
-  </city>
-  <city>
-    <id>34373</id>
-    <name>Galapagar</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.57830000</latitude>
-    <longitude>-4.00426000</longitude>
-  </city>
-  <city>
-    <id>34415</id>
-    <name>Garganta de los Montes</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.91992000</latitude>
-    <longitude>-3.68375000</longitude>
-  </city>
-  <city>
-    <id>34430</id>
-    <name>Gascones</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>41.01843000</latitude>
-    <longitude>-3.64217000</longitude>
-  </city>
-  <city>
-    <id>34459</id>
-    <name>Getafe</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.30571000</latitude>
-    <longitude>-3.73295000</longitude>
-  </city>
-  <city>
-    <id>34516</id>
-    <name>Griñón</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.21249000</latitude>
-    <longitude>-3.85482000</longitude>
-  </city>
-  <city>
-    <id>34524</id>
-    <name>Guadalix de la Sierra</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.78496000</latitude>
-    <longitude>-3.69347000</longitude>
-  </city>
-  <city>
-    <id>34528</id>
-    <name>Guadarrama</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.67270000</latitude>
-    <longitude>-4.08949000</longitude>
-  </city>
-  <city>
-    <id>34652</id>
-    <name>Horcajo de la Sierra</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>41.06723000</latitude>
-    <longitude>-3.58534000</longitude>
-  </city>
-  <city>
-    <id>34654</id>
-    <name>Horcajuelo de la Sierra</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>41.06019000</latitude>
-    <longitude>-3.54640000</longitude>
-  </city>
-  <city>
-    <id>34667</id>
-    <name>Hortaleza</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.47444000</latitude>
-    <longitude>-3.64110000</longitude>
-  </city>
-  <city>
-    <id>34674</id>
-    <name>Hoyo de Manzanares</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.62265000</latitude>
-    <longitude>-3.90733000</longitude>
-  </city>
-  <city>
-    <id>34701</id>
-    <name>Humanes de Madrid</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.25038000</latitude>
-    <longitude>-3.83062000</longitude>
-  </city>
-  <city>
-    <id>34860</id>
-    <name>La Cabrera</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.86386000</latitude>
-    <longitude>-3.61265000</longitude>
-  </city>
-  <city>
-    <id>34985</id>
-    <name>Las Matas</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.55779000</latitude>
-    <longitude>-3.89173000</longitude>
-  </city>
-  <city>
-    <id>34991</id>
-    <name>Las Rozas de Madrid</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.49292000</latitude>
-    <longitude>-3.87371000</longitude>
-  </city>
-  <city>
-    <id>34992</id>
-    <name>Las Tablas</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.50649000</latitude>
-    <longitude>-3.67235000</longitude>
-  </city>
-  <city>
-    <id>35002</id>
-    <name>Latina</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.38897000</latitude>
-    <longitude>-3.74569000</longitude>
-  </city>
-  <city>
-    <id>35021</id>
-    <name>Leganés</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.32718000</latitude>
-    <longitude>-3.76350000</longitude>
-  </city>
-  <city>
-    <id>35099</id>
-    <name>Loeches</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.38343000</latitude>
-    <longitude>-3.41460000</longitude>
-  </city>
-  <city>
-    <id>35127</id>
-    <name>Los Molinos</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.71578000</latitude>
-    <longitude>-4.07402000</longitude>
-  </city>
-  <city>
-    <id>35134</id>
-    <name>Los Santos de la Humosa</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.49968000</latitude>
-    <longitude>-3.25332000</longitude>
-  </city>
-  <city>
-    <id>35145</id>
-    <name>Lozoya</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.94949000</latitude>
-    <longitude>-3.79086000</longitude>
-  </city>
-  <city>
-    <id>35186</id>
-    <name>Madrid</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.41650000</latitude>
-    <longitude>-3.70256000</longitude>
-  </city>
-  <city>
-    <id>35214</id>
-    <name>Majadahonda</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.47353000</latitude>
-    <longitude>-3.87182000</longitude>
-  </city>
-  <city>
-    <id>35267</id>
-    <name>Manzanares el Real</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.72627000</latitude>
-    <longitude>-3.86265000</longitude>
-  </city>
-  <city>
-    <id>35366</id>
-    <name>Meco</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.55274000</latitude>
-    <longitude>-3.32894000</longitude>
-  </city>
-  <city>
-    <id>35384</id>
-    <name>Mejorada del Campo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.39283000</latitude>
-    <longitude>-3.48194000</longitude>
-  </city>
-  <city>
-    <id>35442</id>
-    <name>Miraflores de la Sierra</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.81550000</latitude>
-    <longitude>-3.76213000</longitude>
-  </city>
-  <city>
-    <id>35501</id>
-    <name>Moncloa-Aravaca</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.43547000</latitude>
-    <longitude>-3.73170000</longitude>
-  </city>
-  <city>
-    <id>35555</id>
-    <name>Montejo de la Sierra</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>41.05955000</latitude>
-    <longitude>-3.52993000</longitude>
-  </city>
-  <city>
-    <id>35602</id>
-    <name>Moraleja de Enmedio</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.26125000</latitude>
-    <longitude>-3.85963000</longitude>
-  </city>
-  <city>
-    <id>35612</id>
-    <name>Moralzarzal</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.67816000</latitude>
-    <longitude>-3.97070000</longitude>
-  </city>
-  <city>
-    <id>35616</id>
-    <name>Morata de Tajuña</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.22680000</latitude>
-    <longitude>-3.43269000</longitude>
-  </city>
-  <city>
-    <id>35617</id>
-    <name>Moratalaz</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.40742000</latitude>
-    <longitude>-3.64935000</longitude>
-  </city>
-  <city>
-    <id>35708</id>
-    <name>Móstoles</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.32234000</latitude>
-    <longitude>-3.86496000</longitude>
-  </city>
-  <city>
-    <id>35731</id>
-    <name>Navacerrada</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.72905000</latitude>
-    <longitude>-4.01696000</longitude>
-  </city>
-  <city>
-    <id>35742</id>
-    <name>Navalafuente</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.82063000</latitude>
-    <longitude>-3.67266000</longitude>
-  </city>
-  <city>
-    <id>35743</id>
-    <name>Navalagamella</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.46894000</latitude>
-    <longitude>-4.12334000</longitude>
-  </city>
-  <city>
-    <id>35744</id>
-    <name>Navalcarnero</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.28908000</latitude>
-    <longitude>-4.01197000</longitude>
-  </city>
-  <city>
-    <id>35758</id>
-    <name>Navalquejigo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.60705000</latitude>
-    <longitude>-4.04966000</longitude>
-  </city>
-  <city>
-    <id>35783</id>
-    <name>Navas del Rey</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.38610000</latitude>
-    <longitude>-4.25117000</longitude>
-  </city>
-  <city>
-    <id>35835</id>
-    <name>Nuevo Baztán</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.36731000</latitude>
-    <longitude>-3.24125000</longitude>
-  </city>
-  <city>
-    <id>36053</id>
-    <name>Paracuellos de Jarama</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.50353000</latitude>
-    <longitude>-3.52775000</longitude>
-  </city>
-  <city>
-    <id>36070</id>
-    <name>Parla</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.23604000</latitude>
-    <longitude>-3.76752000</longitude>
-  </city>
-  <city>
-    <id>36082</id>
-    <name>Patones</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.85563000</latitude>
-    <longitude>-3.48490000</longitude>
-  </city>
-  <city>
-    <id>36097</id>
-    <name>Pedrezuela</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.74277000</latitude>
-    <longitude>-3.59980000</longitude>
-  </city>
-  <city>
-    <id>36122</id>
-    <name>Pelayos de la Presa</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.36051000</latitude>
-    <longitude>-4.33462000</longitude>
-  </city>
-  <city>
-    <id>36139</id>
-    <name>Perales de Tajuña</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.23130000</latitude>
-    <longitude>-3.35021000</longitude>
-  </city>
-  <city>
-    <id>36160</id>
-    <name>Pezuela de las Torres</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.41613000</latitude>
-    <longitude>-3.17363000</longitude>
-  </city>
-  <city>
-    <id>36192</id>
-    <name>Pinar de Chamartín</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.47903000</latitude>
-    <longitude>-3.66836000</longitude>
-  </city>
-  <city>
-    <id>36207</id>
-    <name>Pinilla del Valle</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.92448000</latitude>
-    <longitude>-3.81688000</longitude>
-  </city>
-  <city>
-    <id>36215</id>
-    <name>Pinto</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.24147000</latitude>
-    <longitude>-3.69999000</longitude>
-  </city>
-  <city>
-    <id>36331</id>
-    <name>Pozuelo de Alarcón</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.43293000</latitude>
-    <longitude>-3.81338000</longitude>
-  </city>
-  <city>
-    <id>36338</id>
-    <name>Pozuelo del Rey</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.36463000</latitude>
-    <longitude>-3.31699000</longitude>
-  </city>
-  <city>
-    <id>36406</id>
-    <name>Prádena del Rincón</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>41.04414000</latitude>
-    <longitude>-3.54075000</longitude>
-  </city>
-  <city>
-    <id>36379</id>
-    <name>Provincia de Madrid</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.40225000</latitude>
-    <longitude>-3.71029000</longitude>
-  </city>
-  <city>
-    <id>36437</id>
-    <name>Puente de Vallecas</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.39354000</latitude>
-    <longitude>-3.66200000</longitude>
-  </city>
-  <city>
-    <id>36500</id>
-    <name>Quijorna</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.42763000</latitude>
-    <longitude>-4.05683000</longitude>
-  </city>
-  <city>
-    <id>36547</id>
-    <name>Rascafría</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.90407000</latitude>
-    <longitude>-3.87898000</longitude>
-  </city>
-  <city>
-    <id>36563</id>
-    <name>Redueña</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.81685000</latitude>
-    <longitude>-3.59837000</longitude>
-  </city>
-  <city>
-    <id>36587</id>
-    <name>Retiro</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.41317000</latitude>
-    <longitude>-3.68307000</longitude>
-  </city>
-  <city>
-    <id>36613</id>
-    <name>Ribatejada</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.66420000</latitude>
-    <longitude>-3.38976000</longitude>
-  </city>
-  <city>
-    <id>36639</id>
-    <name>Rivas-Vaciamadrid</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.32605000</latitude>
-    <longitude>-3.51089000</longitude>
-  </city>
-  <city>
-    <id>36651</id>
-    <name>Robledillo de la Jara</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.95054000</latitude>
-    <longitude>-3.52181000</longitude>
-  </city>
-  <city>
-    <id>36654</id>
-    <name>Robledo de Chavela</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.50062000</latitude>
-    <longitude>-4.23635000</longitude>
-  </city>
-  <city>
-    <id>36686</id>
-    <name>Rozas de Puerto Real</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.31667000</latitude>
-    <longitude>-4.48333000</longitude>
-  </city>
-  <city>
-    <id>36745</id>
-    <name>Salamanca</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.42972000</latitude>
-    <longitude>-3.67975000</longitude>
-  </city>
-  <city>
-    <id>36799</id>
-    <name>San Agustín del Guadalix</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.67882000</latitude>
-    <longitude>-3.61639000</longitude>
-  </city>
-  <city>
-    <id>36812</id>
-    <name>San Blas-Canillejas</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.43893000</latitude>
-    <longitude>-3.61537000</longitude>
-  </city>
-  <city>
-    <id>36836</id>
-    <name>San Fernando de Henares</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.42386000</latitude>
-    <longitude>-3.53261000</longitude>
-  </city>
-  <city>
-    <id>36858</id>
-    <name>San Lorenzo de El Escorial</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.59144000</latitude>
-    <longitude>-4.14738000</longitude>
-  </city>
-  <city>
-    <id>36873</id>
-    <name>San Martín de la Vega</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.20735000</latitude>
-    <longitude>-3.57063000</longitude>
-  </city>
-  <city>
-    <id>36870</id>
-    <name>San Martín de Valdeiglesias</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.36185000</latitude>
-    <longitude>-4.39831000</longitude>
-  </city>
-  <city>
-    <id>36922</id>
-    <name>San Sebastián de los Reyes</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.55555000</latitude>
-    <longitude>-3.62733000</longitude>
-  </city>
-  <city>
-    <id>37079</id>
-    <name>Santa María de la Alameda</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.59492000</latitude>
-    <longitude>-4.25772000</longitude>
-  </city>
-  <city>
-    <id>37146</id>
-    <name>Santorcaz</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.47176000</latitude>
-    <longitude>-3.23462000</longitude>
-  </city>
-  <city>
-    <id>37225</id>
-    <name>Serranillos del Valle</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.20211000</latitude>
-    <longitude>-3.88187000</longitude>
-  </city>
-  <city>
-    <id>37240</id>
-    <name>Sevilla La Nueva</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.34775000</latitude>
-    <longitude>-4.02727000</longitude>
-  </city>
-  <city>
-    <id>37354</id>
-    <name>Talamanca de Jarama</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.74325000</latitude>
-    <longitude>-3.50889000</longitude>
-  </city>
-  <city>
-    <id>37417</id>
-    <name>Tetuán de las Victorias</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.45975000</latitude>
-    <longitude>-3.69750000</longitude>
-  </city>
-  <city>
-    <id>37422</id>
-    <name>Tielmes</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.24652000</latitude>
-    <longitude>-3.31461000</longitude>
-  </city>
-  <city>
-    <id>37431</id>
-    <name>Titulcia</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.13537000</latitude>
-    <longitude>-3.56763000</longitude>
-  </city>
-  <city>
-    <id>37538</id>
-    <name>Torrejón de Ardoz</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.45535000</latitude>
-    <longitude>-3.46973000</longitude>
-  </city>
-  <city>
-    <id>37540</id>
-    <name>Torrejón de la Calzada</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.19886000</latitude>
-    <longitude>-3.79700000</longitude>
-  </city>
-  <city>
-    <id>37539</id>
-    <name>Torrejón de Velasco</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.18746000</latitude>
-    <longitude>-3.77681000</longitude>
-  </city>
-  <city>
-    <id>37543</id>
-    <name>Torrelaguna</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.82764000</latitude>
-    <longitude>-3.53683000</longitude>
-  </city>
-  <city>
-    <id>37551</id>
-    <name>Torrelodones</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.57654000</latitude>
-    <longitude>-3.92658000</longitude>
-  </city>
-  <city>
-    <id>37557</id>
-    <name>Torremocha de Jarama</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.84148000</latitude>
-    <longitude>-3.49666000</longitude>
-  </city>
-  <city>
-    <id>37577</id>
-    <name>Torres de la Alameda</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.40264000</latitude>
-    <longitude>-3.35767000</longitude>
-  </city>
-  <city>
-    <id>37629</id>
-    <name>Tres Cantos</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.60092000</latitude>
-    <longitude>-3.70806000</longitude>
-  </city>
-  <city>
-    <id>37705</id>
-    <name>Usera</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.38866000</latitude>
-    <longitude>-3.70035000</longitude>
-  </city>
-  <city>
-    <id>37726</id>
-    <name>Valdaracete</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.20770000</latitude>
-    <longitude>-3.19101000</longitude>
-  </city>
-  <city>
-    <id>37735</id>
-    <name>Valdeavero</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.62980000</latitude>
-    <longitude>-3.33001000</longitude>
-  </city>
-  <city>
-    <id>37765</id>
-    <name>Valdemanco</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.87039000</latitude>
-    <longitude>-3.65873000</longitude>
-  </city>
-  <city>
-    <id>37767</id>
-    <name>Valdemaqueda</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.51201000</latitude>
-    <longitude>-4.29722000</longitude>
-  </city>
-  <city>
-    <id>37772</id>
-    <name>Valdemorillo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.50064000</latitude>
-    <longitude>-4.06710000</longitude>
-  </city>
-  <city>
-    <id>37774</id>
-    <name>Valdemoro</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.19081000</latitude>
-    <longitude>-3.67887000</longitude>
-  </city>
-  <city>
-    <id>37781</id>
-    <name>Valdeolmos</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.63708000</latitude>
-    <longitude>-3.45064000</longitude>
-  </city>
-  <city>
-    <id>37786</id>
-    <name>Valdepiélagos</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.75842000</latitude>
-    <longitude>-3.46163000</longitude>
-  </city>
-  <city>
-    <id>37804</id>
-    <name>Valdetorres de Jarama</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.69366000</latitude>
-    <longitude>-3.51156000</longitude>
-  </city>
-  <city>
-    <id>37810</id>
-    <name>Valdilecha</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.29530000</latitude>
-    <longitude>-3.30233000</longitude>
-  </city>
-  <city>
-    <id>37882</id>
-    <name>Valverde de Alcalá</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.41667000</latitude>
-    <longitude>-3.29631000</longitude>
-  </city>
-  <city>
-    <id>37931</id>
-    <name>Velilla de San Antonio</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.36516000</latitude>
-    <longitude>-3.48484000</longitude>
-  </city>
-  <city>
-    <id>37946</id>
-    <name>Venturada</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.79717000</latitude>
-    <longitude>-3.61974000</longitude>
-  </city>
-  <city>
-    <id>37963</id>
-    <name>Vicálvaro</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.40000000</latitude>
-    <longitude>-3.60000000</longitude>
-  </city>
-  <city>
-    <id>38009</id>
-    <name>Villa de Vallecas</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.36695000</latitude>
-    <longitude>-3.60146000</longitude>
-  </city>
-  <city>
-    <id>38012</id>
-    <name>Villa del Prado</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.27852000</latitude>
-    <longitude>-4.30534000</longitude>
-  </city>
-  <city>
-    <id>38034</id>
-    <name>Villaconejos</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.10139000</latitude>
-    <longitude>-3.48258000</longitude>
-  </city>
-  <city>
-    <id>38105</id>
-    <name>Villalbilla</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.43044000</latitude>
-    <longitude>-3.29904000</longitude>
-  </city>
-  <city>
-    <id>38131</id>
-    <name>Villamanrique de Tajo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.06617000</latitude>
-    <longitude>-3.23668000</longitude>
-  </city>
-  <city>
-    <id>38133</id>
-    <name>Villamanta</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.29858000</latitude>
-    <longitude>-4.10880000</longitude>
-  </city>
-  <city>
-    <id>38134</id>
-    <name>Villamantilla</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.33846000</latitude>
-    <longitude>-4.12986000</longitude>
-  </city>
-  <city>
-    <id>38196</id>
-    <name>Villanueva de la Cañada</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.44689000</latitude>
-    <longitude>-4.00428000</longitude>
-  </city>
-  <city>
-    <id>38187</id>
-    <name>Villanueva de Perales</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.34541000</latitude>
-    <longitude>-4.09891000</longitude>
-  </city>
-  <city>
-    <id>38219</id>
-    <name>Villanueva del Pardillo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.49014000</latitude>
-    <longitude>-3.96383000</longitude>
-  </city>
-  <city>
-    <id>38257</id>
-    <name>Villar del Olmo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.33468000</latitude>
-    <longitude>-3.23399000</longitude>
-  </city>
-  <city>
-    <id>38273</id>
-    <name>Villarejo de Salvanés</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.16663000</latitude>
-    <longitude>-3.27277000</longitude>
-  </city>
-  <city>
-    <id>38343</id>
-    <name>Villaverde</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.35000000</latitude>
-    <longitude>-3.70000000</longitude>
-  </city>
-  <city>
-    <id>38357</id>
-    <name>Villaviciosa de Odón</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.35810000</latitude>
-    <longitude>-3.90430000</longitude>
-  </city>
-  <city>
-    <id>38360</id>
-    <name>Villavieja del Lozoya</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>41.00396000</latitude>
-    <longitude>-3.66870000</longitude>
-  </city>
-  <city>
-    <id>38482</id>
-    <name>Zarzalejo</name>
-    <state_id>1158</state_id>
-    <state_code>MD</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>40.54811000</latitude>
-    <longitude>-4.18176000</longitude>
-  </city>
-  <city>
     <id>31900</id>
     <name>Abadía</name>
     <state_id>1190</state_id>
@@ -1117901,6 +1116421,1886 @@
     <longitude>-3.22632000</longitude>
   </city>
   <city>
+    <id>31985</id>
+    <name>Ajalvir</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.53205000</latitude>
+    <longitude>-3.47841000</longitude>
+  </city>
+  <city>
+    <id>31995</id>
+    <name>Alameda del Valle</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.91870000</latitude>
+    <longitude>-3.84243000</longitude>
+  </city>
+  <city>
+    <id>32072</id>
+    <name>Alcalá de Henares</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.48205000</latitude>
+    <longitude>-3.35996000</longitude>
+  </city>
+  <city>
+    <id>32097</id>
+    <name>Alcobendas</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.54746000</latitude>
+    <longitude>-3.64197000</longitude>
+  </city>
+  <city>
+    <id>32119</id>
+    <name>Alcorcón</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.34582000</latitude>
+    <longitude>-3.82487000</longitude>
+  </city>
+  <city>
+    <id>32144</id>
+    <name>Aldea del Fresno</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.32360000</latitude>
+    <longitude>-4.20319000</longitude>
+  </city>
+  <city>
+    <id>32219</id>
+    <name>Algete</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.59711000</latitude>
+    <longitude>-3.49743000</longitude>
+  </city>
+  <city>
+    <id>32327</id>
+    <name>Alpedrete</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.65889000</latitude>
+    <longitude>-4.02512000</longitude>
+  </city>
+  <city>
+    <id>32351</id>
+    <name>Ambite</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.33190000</latitude>
+    <longitude>-3.18034000</longitude>
+  </city>
+  <city>
+    <id>32368</id>
+    <name>Anchuelo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.46527000</latitude>
+    <longitude>-3.26838000</longitude>
+  </city>
+  <city>
+    <id>32412</id>
+    <name>Aranjuez</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.03108000</latitude>
+    <longitude>-3.60246000</longitude>
+  </city>
+  <city>
+    <id>32462</id>
+    <name>Arganda</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.30076000</latitude>
+    <longitude>-3.43722000</longitude>
+  </city>
+  <city>
+    <id>32464</id>
+    <name>Arganzuela</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.40021000</latitude>
+    <longitude>-3.69618000</longitude>
+  </city>
+  <city>
+    <id>32513</id>
+    <name>Arroyomolinos</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.26951000</latitude>
+    <longitude>-3.91946000</longitude>
+  </city>
+  <city>
+    <id>32636</id>
+    <name>Barajas de Madrid</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.47366000</latitude>
+    <longitude>-3.57777000</longitude>
+  </city>
+  <city>
+    <id>32695</id>
+    <name>Batres</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.20981000</latitude>
+    <longitude>-3.92331000</longitude>
+  </city>
+  <city>
+    <id>32725</id>
+    <name>Becerril de la Sierra</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.71699000</latitude>
+    <longitude>-3.98858000</longitude>
+  </city>
+  <city>
+    <id>32750</id>
+    <name>Belmonte de Tajo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.13162000</latitude>
+    <longitude>-3.33580000</longitude>
+  </city>
+  <city>
+    <id>32875</id>
+    <name>Berzosa del Lozoya</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.97320000</latitude>
+    <longitude>-3.52009000</longitude>
+  </city>
+  <city>
+    <id>32917</id>
+    <name>Boadilla del Monte</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.40500000</latitude>
+    <longitude>-3.87835000</longitude>
+  </city>
+  <city>
+    <id>32918</id>
+    <name>Boalo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.71603000</latitude>
+    <longitude>-3.91656000</longitude>
+  </city>
+  <city>
+    <id>32969</id>
+    <name>Braojos</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>41.04040000</latitude>
+    <longitude>-3.64329000</longitude>
+  </city>
+  <city>
+    <id>32975</id>
+    <name>Brea de Tajo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.23333000</latitude>
+    <longitude>-3.10000000</longitude>
+  </city>
+  <city>
+    <id>32994</id>
+    <name>Brunete</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.40532000</latitude>
+    <longitude>-3.99850000</longitude>
+  </city>
+  <city>
+    <id>33013</id>
+    <name>Buitrago del Lozoya</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.99090000</latitude>
+    <longitude>-3.63365000</longitude>
+  </city>
+  <city>
+    <id>33038</id>
+    <name>Bustarviejo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.85720000</latitude>
+    <longitude>-3.70766000</longitude>
+  </city>
+  <city>
+    <id>33068</id>
+    <name>Cabanillas de la Sierra</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.82009000</latitude>
+    <longitude>-3.62438000</longitude>
+  </city>
+  <city>
+    <id>33115</id>
+    <name>Cadalso de los Vidrios</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.30067000</latitude>
+    <longitude>-4.43348000</longitude>
+  </city>
+  <city>
+    <id>33170</id>
+    <name>Camarma de Esteruelas</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.55032000</latitude>
+    <longitude>-3.37295000</longitude>
+  </city>
+  <city>
+    <id>33201</id>
+    <name>Campo Real</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.33333000</latitude>
+    <longitude>-3.38333000</longitude>
+  </city>
+  <city>
+    <id>33232</id>
+    <name>Canencia</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.90728000</latitude>
+    <longitude>-3.73523000</longitude>
+  </city>
+  <city>
+    <id>33274</id>
+    <name>Carabaña</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.25424000</latitude>
+    <longitude>-3.23572000</longitude>
+  </city>
+  <city>
+    <id>33272</id>
+    <name>Carabanchel</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.39094000</latitude>
+    <longitude>-3.72420000</longitude>
+  </city>
+  <city>
+    <id>33354</id>
+    <name>Casarrubuelos</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.17146000</latitude>
+    <longitude>-3.83105000</longitude>
+  </city>
+  <city>
+    <id>33570</id>
+    <name>Cenicientos</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.26459000</latitude>
+    <longitude>-4.46683000</longitude>
+  </city>
+  <city>
+    <id>33579</id>
+    <name>Cercedilla</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.74101000</latitude>
+    <longitude>-4.05644000</longitude>
+  </city>
+  <city>
+    <id>33596</id>
+    <name>Cervera de Buitrago</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.91988000</latitude>
+    <longitude>-3.52702000</longitude>
+  </city>
+  <city>
+    <id>33615</id>
+    <name>Chamartín</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.46206000</latitude>
+    <longitude>-3.67660000</longitude>
+  </city>
+  <city>
+    <id>33616</id>
+    <name>Chamberí</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.43404000</latitude>
+    <longitude>-3.70379000</longitude>
+  </city>
+  <city>
+    <id>33618</id>
+    <name>Chapinería</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.37891000</latitude>
+    <longitude>-4.21009000</longitude>
+  </city>
+  <city>
+    <id>33640</id>
+    <name>Chinchón</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.14020000</latitude>
+    <longitude>-3.42267000</longitude>
+  </city>
+  <city>
+    <id>33658</id>
+    <name>Ciempozuelos</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.15913000</latitude>
+    <longitude>-3.62103000</longitude>
+  </city>
+  <city>
+    <id>33695</id>
+    <name>City Center</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.41831000</latitude>
+    <longitude>-3.70275000</longitude>
+  </city>
+  <city>
+    <id>33696</id>
+    <name>Ciudad Lineal</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.44505000</latitude>
+    <longitude>-3.65132000</longitude>
+  </city>
+  <city>
+    <id>33709</id>
+    <name>Cobeña</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.56667000</latitude>
+    <longitude>-3.50000000</longitude>
+  </city>
+  <city>
+    <id>33733</id>
+    <name>Collado Mediano</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.69326000</latitude>
+    <longitude>-4.02280000</longitude>
+  </city>
+  <city>
+    <id>33736</id>
+    <name>Collado-Villalba</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.63506000</latitude>
+    <longitude>-4.00486000</longitude>
+  </city>
+  <city>
+    <id>33744</id>
+    <name>Colmenar de Oreja</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.10675000</latitude>
+    <longitude>-3.38547000</longitude>
+  </city>
+  <city>
+    <id>33745</id>
+    <name>Colmenar del Arroyo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.41897000</latitude>
+    <longitude>-4.19845000</longitude>
+  </city>
+  <city>
+    <id>33742</id>
+    <name>Colmenar Viejo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.65909000</latitude>
+    <longitude>-3.76762000</longitude>
+  </city>
+  <city>
+    <id>33746</id>
+    <name>Colmenarejo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.56063000</latitude>
+    <longitude>-4.01713000</longitude>
+  </city>
+  <city>
+    <id>33796</id>
+    <name>Corpa</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.42327000</latitude>
+    <longitude>-3.26003000</longitude>
+  </city>
+  <city>
+    <id>33817</id>
+    <name>Coslada</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.42378000</latitude>
+    <longitude>-3.56129000</longitude>
+  </city>
+  <city>
+    <id>33845</id>
+    <name>Cubas</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.18900000</latitude>
+    <longitude>-3.83526000</longitude>
+  </city>
+  <city>
+    <id>33908</id>
+    <name>Daganzo de Arriba</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.54293000</latitude>
+    <longitude>-3.45457000</longitude>
+  </city>
+  <city>
+    <id>34029</id>
+    <name>El Álamo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.23066000</latitude>
+    <longitude>-3.99447000</longitude>
+  </city>
+  <city>
+    <id>33997</id>
+    <name>El Escorial</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.58254000</latitude>
+    <longitude>-4.12846000</longitude>
+  </city>
+  <city>
+    <id>34002</id>
+    <name>El Molar</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.73215000</latitude>
+    <longitude>-3.57969000</longitude>
+  </city>
+  <city>
+    <id>34003</id>
+    <name>El Pardo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.51454000</latitude>
+    <longitude>-3.77253000</longitude>
+  </city>
+  <city>
+    <id>34024</id>
+    <name>El Vellón</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.76495000</latitude>
+    <longitude>-3.57969000</longitude>
+  </city>
+  <city>
+    <id>34147</id>
+    <name>Estremera</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.18333000</latitude>
+    <longitude>-3.10000000</longitude>
+  </city>
+  <city>
+    <id>34249</id>
+    <name>Fresnedillas</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.48704000</latitude>
+    <longitude>-4.17146000</longitude>
+  </city>
+  <city>
+    <id>34259</id>
+    <name>Fresno de Torote</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.59040000</latitude>
+    <longitude>-3.41003000</longitude>
+  </city>
+  <city>
+    <id>34277</id>
+    <name>Fuencarral-El Pardo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.49840000</latitude>
+    <longitude>-3.73140000</longitude>
+  </city>
+  <city>
+    <id>34283</id>
+    <name>Fuenlabrada</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.28419000</latitude>
+    <longitude>-3.79415000</longitude>
+  </city>
+  <city>
+    <id>34302</id>
+    <name>Fuente el Saz</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.63215000</latitude>
+    <longitude>-3.51146000</longitude>
+  </city>
+  <city>
+    <id>34361</id>
+    <name>Fuentidueña de Tajo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.11574000</latitude>
+    <longitude>-3.15718000</longitude>
+  </city>
+  <city>
+    <id>34373</id>
+    <name>Galapagar</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.57830000</latitude>
+    <longitude>-4.00426000</longitude>
+  </city>
+  <city>
+    <id>34415</id>
+    <name>Garganta de los Montes</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.91992000</latitude>
+    <longitude>-3.68375000</longitude>
+  </city>
+  <city>
+    <id>34430</id>
+    <name>Gascones</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>41.01843000</latitude>
+    <longitude>-3.64217000</longitude>
+  </city>
+  <city>
+    <id>34459</id>
+    <name>Getafe</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.30571000</latitude>
+    <longitude>-3.73295000</longitude>
+  </city>
+  <city>
+    <id>34516</id>
+    <name>Griñón</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.21249000</latitude>
+    <longitude>-3.85482000</longitude>
+  </city>
+  <city>
+    <id>34524</id>
+    <name>Guadalix de la Sierra</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.78496000</latitude>
+    <longitude>-3.69347000</longitude>
+  </city>
+  <city>
+    <id>34528</id>
+    <name>Guadarrama</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.67270000</latitude>
+    <longitude>-4.08949000</longitude>
+  </city>
+  <city>
+    <id>34652</id>
+    <name>Horcajo de la Sierra</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>41.06723000</latitude>
+    <longitude>-3.58534000</longitude>
+  </city>
+  <city>
+    <id>34654</id>
+    <name>Horcajuelo de la Sierra</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>41.06019000</latitude>
+    <longitude>-3.54640000</longitude>
+  </city>
+  <city>
+    <id>34667</id>
+    <name>Hortaleza</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.47444000</latitude>
+    <longitude>-3.64110000</longitude>
+  </city>
+  <city>
+    <id>34674</id>
+    <name>Hoyo de Manzanares</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.62265000</latitude>
+    <longitude>-3.90733000</longitude>
+  </city>
+  <city>
+    <id>34701</id>
+    <name>Humanes de Madrid</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.25038000</latitude>
+    <longitude>-3.83062000</longitude>
+  </city>
+  <city>
+    <id>34860</id>
+    <name>La Cabrera</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.86386000</latitude>
+    <longitude>-3.61265000</longitude>
+  </city>
+  <city>
+    <id>34985</id>
+    <name>Las Matas</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.55779000</latitude>
+    <longitude>-3.89173000</longitude>
+  </city>
+  <city>
+    <id>34991</id>
+    <name>Las Rozas de Madrid</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.49292000</latitude>
+    <longitude>-3.87371000</longitude>
+  </city>
+  <city>
+    <id>34992</id>
+    <name>Las Tablas</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.50649000</latitude>
+    <longitude>-3.67235000</longitude>
+  </city>
+  <city>
+    <id>35002</id>
+    <name>Latina</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.38897000</latitude>
+    <longitude>-3.74569000</longitude>
+  </city>
+  <city>
+    <id>35021</id>
+    <name>Leganés</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.32718000</latitude>
+    <longitude>-3.76350000</longitude>
+  </city>
+  <city>
+    <id>35099</id>
+    <name>Loeches</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.38343000</latitude>
+    <longitude>-3.41460000</longitude>
+  </city>
+  <city>
+    <id>35127</id>
+    <name>Los Molinos</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.71578000</latitude>
+    <longitude>-4.07402000</longitude>
+  </city>
+  <city>
+    <id>35134</id>
+    <name>Los Santos de la Humosa</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.49968000</latitude>
+    <longitude>-3.25332000</longitude>
+  </city>
+  <city>
+    <id>35145</id>
+    <name>Lozoya</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.94949000</latitude>
+    <longitude>-3.79086000</longitude>
+  </city>
+  <city>
+    <id>35186</id>
+    <name>Madrid</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.41650000</latitude>
+    <longitude>-3.70256000</longitude>
+  </city>
+  <city>
+    <id>35214</id>
+    <name>Majadahonda</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.47353000</latitude>
+    <longitude>-3.87182000</longitude>
+  </city>
+  <city>
+    <id>35267</id>
+    <name>Manzanares el Real</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.72627000</latitude>
+    <longitude>-3.86265000</longitude>
+  </city>
+  <city>
+    <id>35366</id>
+    <name>Meco</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.55274000</latitude>
+    <longitude>-3.32894000</longitude>
+  </city>
+  <city>
+    <id>35384</id>
+    <name>Mejorada del Campo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.39283000</latitude>
+    <longitude>-3.48194000</longitude>
+  </city>
+  <city>
+    <id>35442</id>
+    <name>Miraflores de la Sierra</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.81550000</latitude>
+    <longitude>-3.76213000</longitude>
+  </city>
+  <city>
+    <id>35501</id>
+    <name>Moncloa-Aravaca</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.43547000</latitude>
+    <longitude>-3.73170000</longitude>
+  </city>
+  <city>
+    <id>35555</id>
+    <name>Montejo de la Sierra</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>41.05955000</latitude>
+    <longitude>-3.52993000</longitude>
+  </city>
+  <city>
+    <id>35602</id>
+    <name>Moraleja de Enmedio</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.26125000</latitude>
+    <longitude>-3.85963000</longitude>
+  </city>
+  <city>
+    <id>35612</id>
+    <name>Moralzarzal</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.67816000</latitude>
+    <longitude>-3.97070000</longitude>
+  </city>
+  <city>
+    <id>35616</id>
+    <name>Morata de Tajuña</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.22680000</latitude>
+    <longitude>-3.43269000</longitude>
+  </city>
+  <city>
+    <id>35617</id>
+    <name>Moratalaz</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.40742000</latitude>
+    <longitude>-3.64935000</longitude>
+  </city>
+  <city>
+    <id>35708</id>
+    <name>Móstoles</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.32234000</latitude>
+    <longitude>-3.86496000</longitude>
+  </city>
+  <city>
+    <id>35731</id>
+    <name>Navacerrada</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.72905000</latitude>
+    <longitude>-4.01696000</longitude>
+  </city>
+  <city>
+    <id>35742</id>
+    <name>Navalafuente</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.82063000</latitude>
+    <longitude>-3.67266000</longitude>
+  </city>
+  <city>
+    <id>35743</id>
+    <name>Navalagamella</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.46894000</latitude>
+    <longitude>-4.12334000</longitude>
+  </city>
+  <city>
+    <id>35744</id>
+    <name>Navalcarnero</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.28908000</latitude>
+    <longitude>-4.01197000</longitude>
+  </city>
+  <city>
+    <id>35758</id>
+    <name>Navalquejigo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.60705000</latitude>
+    <longitude>-4.04966000</longitude>
+  </city>
+  <city>
+    <id>35783</id>
+    <name>Navas del Rey</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.38610000</latitude>
+    <longitude>-4.25117000</longitude>
+  </city>
+  <city>
+    <id>35835</id>
+    <name>Nuevo Baztán</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.36731000</latitude>
+    <longitude>-3.24125000</longitude>
+  </city>
+  <city>
+    <id>36053</id>
+    <name>Paracuellos de Jarama</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.50353000</latitude>
+    <longitude>-3.52775000</longitude>
+  </city>
+  <city>
+    <id>36070</id>
+    <name>Parla</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.23604000</latitude>
+    <longitude>-3.76752000</longitude>
+  </city>
+  <city>
+    <id>36082</id>
+    <name>Patones</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.85563000</latitude>
+    <longitude>-3.48490000</longitude>
+  </city>
+  <city>
+    <id>36097</id>
+    <name>Pedrezuela</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.74277000</latitude>
+    <longitude>-3.59980000</longitude>
+  </city>
+  <city>
+    <id>36122</id>
+    <name>Pelayos de la Presa</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.36051000</latitude>
+    <longitude>-4.33462000</longitude>
+  </city>
+  <city>
+    <id>36139</id>
+    <name>Perales de Tajuña</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.23130000</latitude>
+    <longitude>-3.35021000</longitude>
+  </city>
+  <city>
+    <id>36160</id>
+    <name>Pezuela de las Torres</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.41613000</latitude>
+    <longitude>-3.17363000</longitude>
+  </city>
+  <city>
+    <id>36192</id>
+    <name>Pinar de Chamartín</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.47903000</latitude>
+    <longitude>-3.66836000</longitude>
+  </city>
+  <city>
+    <id>36207</id>
+    <name>Pinilla del Valle</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.92448000</latitude>
+    <longitude>-3.81688000</longitude>
+  </city>
+  <city>
+    <id>36215</id>
+    <name>Pinto</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.24147000</latitude>
+    <longitude>-3.69999000</longitude>
+  </city>
+  <city>
+    <id>36331</id>
+    <name>Pozuelo de Alarcón</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.43293000</latitude>
+    <longitude>-3.81338000</longitude>
+  </city>
+  <city>
+    <id>36338</id>
+    <name>Pozuelo del Rey</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.36463000</latitude>
+    <longitude>-3.31699000</longitude>
+  </city>
+  <city>
+    <id>36406</id>
+    <name>Prádena del Rincón</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>41.04414000</latitude>
+    <longitude>-3.54075000</longitude>
+  </city>
+  <city>
+    <id>36379</id>
+    <name>Provincia de Madrid</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.40225000</latitude>
+    <longitude>-3.71029000</longitude>
+  </city>
+  <city>
+    <id>36437</id>
+    <name>Puente de Vallecas</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.39354000</latitude>
+    <longitude>-3.66200000</longitude>
+  </city>
+  <city>
+    <id>36500</id>
+    <name>Quijorna</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.42763000</latitude>
+    <longitude>-4.05683000</longitude>
+  </city>
+  <city>
+    <id>36547</id>
+    <name>Rascafría</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.90407000</latitude>
+    <longitude>-3.87898000</longitude>
+  </city>
+  <city>
+    <id>36563</id>
+    <name>Redueña</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.81685000</latitude>
+    <longitude>-3.59837000</longitude>
+  </city>
+  <city>
+    <id>36587</id>
+    <name>Retiro</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.41317000</latitude>
+    <longitude>-3.68307000</longitude>
+  </city>
+  <city>
+    <id>36613</id>
+    <name>Ribatejada</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.66420000</latitude>
+    <longitude>-3.38976000</longitude>
+  </city>
+  <city>
+    <id>36639</id>
+    <name>Rivas-Vaciamadrid</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.32605000</latitude>
+    <longitude>-3.51089000</longitude>
+  </city>
+  <city>
+    <id>36651</id>
+    <name>Robledillo de la Jara</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.95054000</latitude>
+    <longitude>-3.52181000</longitude>
+  </city>
+  <city>
+    <id>36654</id>
+    <name>Robledo de Chavela</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.50062000</latitude>
+    <longitude>-4.23635000</longitude>
+  </city>
+  <city>
+    <id>36686</id>
+    <name>Rozas de Puerto Real</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.31667000</latitude>
+    <longitude>-4.48333000</longitude>
+  </city>
+  <city>
+    <id>36745</id>
+    <name>Salamanca</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.42972000</latitude>
+    <longitude>-3.67975000</longitude>
+  </city>
+  <city>
+    <id>36799</id>
+    <name>San Agustín del Guadalix</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.67882000</latitude>
+    <longitude>-3.61639000</longitude>
+  </city>
+  <city>
+    <id>36812</id>
+    <name>San Blas-Canillejas</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.43893000</latitude>
+    <longitude>-3.61537000</longitude>
+  </city>
+  <city>
+    <id>36836</id>
+    <name>San Fernando de Henares</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.42386000</latitude>
+    <longitude>-3.53261000</longitude>
+  </city>
+  <city>
+    <id>36858</id>
+    <name>San Lorenzo de El Escorial</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.59144000</latitude>
+    <longitude>-4.14738000</longitude>
+  </city>
+  <city>
+    <id>36873</id>
+    <name>San Martín de la Vega</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.20735000</latitude>
+    <longitude>-3.57063000</longitude>
+  </city>
+  <city>
+    <id>36870</id>
+    <name>San Martín de Valdeiglesias</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.36185000</latitude>
+    <longitude>-4.39831000</longitude>
+  </city>
+  <city>
+    <id>36922</id>
+    <name>San Sebastián de los Reyes</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.55555000</latitude>
+    <longitude>-3.62733000</longitude>
+  </city>
+  <city>
+    <id>37079</id>
+    <name>Santa María de la Alameda</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.59492000</latitude>
+    <longitude>-4.25772000</longitude>
+  </city>
+  <city>
+    <id>37146</id>
+    <name>Santorcaz</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.47176000</latitude>
+    <longitude>-3.23462000</longitude>
+  </city>
+  <city>
+    <id>37225</id>
+    <name>Serranillos del Valle</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.20211000</latitude>
+    <longitude>-3.88187000</longitude>
+  </city>
+  <city>
+    <id>37240</id>
+    <name>Sevilla La Nueva</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.34775000</latitude>
+    <longitude>-4.02727000</longitude>
+  </city>
+  <city>
+    <id>37354</id>
+    <name>Talamanca de Jarama</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.74325000</latitude>
+    <longitude>-3.50889000</longitude>
+  </city>
+  <city>
+    <id>37417</id>
+    <name>Tetuán de las Victorias</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.45975000</latitude>
+    <longitude>-3.69750000</longitude>
+  </city>
+  <city>
+    <id>37422</id>
+    <name>Tielmes</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.24652000</latitude>
+    <longitude>-3.31461000</longitude>
+  </city>
+  <city>
+    <id>37431</id>
+    <name>Titulcia</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.13537000</latitude>
+    <longitude>-3.56763000</longitude>
+  </city>
+  <city>
+    <id>37538</id>
+    <name>Torrejón de Ardoz</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.45535000</latitude>
+    <longitude>-3.46973000</longitude>
+  </city>
+  <city>
+    <id>37540</id>
+    <name>Torrejón de la Calzada</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.19886000</latitude>
+    <longitude>-3.79700000</longitude>
+  </city>
+  <city>
+    <id>37539</id>
+    <name>Torrejón de Velasco</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.18746000</latitude>
+    <longitude>-3.77681000</longitude>
+  </city>
+  <city>
+    <id>37543</id>
+    <name>Torrelaguna</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.82764000</latitude>
+    <longitude>-3.53683000</longitude>
+  </city>
+  <city>
+    <id>37551</id>
+    <name>Torrelodones</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.57654000</latitude>
+    <longitude>-3.92658000</longitude>
+  </city>
+  <city>
+    <id>37557</id>
+    <name>Torremocha de Jarama</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.84148000</latitude>
+    <longitude>-3.49666000</longitude>
+  </city>
+  <city>
+    <id>37577</id>
+    <name>Torres de la Alameda</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.40264000</latitude>
+    <longitude>-3.35767000</longitude>
+  </city>
+  <city>
+    <id>37629</id>
+    <name>Tres Cantos</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.60092000</latitude>
+    <longitude>-3.70806000</longitude>
+  </city>
+  <city>
+    <id>37705</id>
+    <name>Usera</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.38866000</latitude>
+    <longitude>-3.70035000</longitude>
+  </city>
+  <city>
+    <id>37726</id>
+    <name>Valdaracete</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.20770000</latitude>
+    <longitude>-3.19101000</longitude>
+  </city>
+  <city>
+    <id>37735</id>
+    <name>Valdeavero</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.62980000</latitude>
+    <longitude>-3.33001000</longitude>
+  </city>
+  <city>
+    <id>37765</id>
+    <name>Valdemanco</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.87039000</latitude>
+    <longitude>-3.65873000</longitude>
+  </city>
+  <city>
+    <id>37767</id>
+    <name>Valdemaqueda</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.51201000</latitude>
+    <longitude>-4.29722000</longitude>
+  </city>
+  <city>
+    <id>37772</id>
+    <name>Valdemorillo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.50064000</latitude>
+    <longitude>-4.06710000</longitude>
+  </city>
+  <city>
+    <id>37774</id>
+    <name>Valdemoro</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.19081000</latitude>
+    <longitude>-3.67887000</longitude>
+  </city>
+  <city>
+    <id>37781</id>
+    <name>Valdeolmos</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.63708000</latitude>
+    <longitude>-3.45064000</longitude>
+  </city>
+  <city>
+    <id>37786</id>
+    <name>Valdepiélagos</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.75842000</latitude>
+    <longitude>-3.46163000</longitude>
+  </city>
+  <city>
+    <id>37804</id>
+    <name>Valdetorres de Jarama</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.69366000</latitude>
+    <longitude>-3.51156000</longitude>
+  </city>
+  <city>
+    <id>37810</id>
+    <name>Valdilecha</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.29530000</latitude>
+    <longitude>-3.30233000</longitude>
+  </city>
+  <city>
+    <id>37882</id>
+    <name>Valverde de Alcalá</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.41667000</latitude>
+    <longitude>-3.29631000</longitude>
+  </city>
+  <city>
+    <id>37931</id>
+    <name>Velilla de San Antonio</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.36516000</latitude>
+    <longitude>-3.48484000</longitude>
+  </city>
+  <city>
+    <id>37946</id>
+    <name>Venturada</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.79717000</latitude>
+    <longitude>-3.61974000</longitude>
+  </city>
+  <city>
+    <id>37963</id>
+    <name>Vicálvaro</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.40000000</latitude>
+    <longitude>-3.60000000</longitude>
+  </city>
+  <city>
+    <id>38009</id>
+    <name>Villa de Vallecas</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.36695000</latitude>
+    <longitude>-3.60146000</longitude>
+  </city>
+  <city>
+    <id>38012</id>
+    <name>Villa del Prado</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.27852000</latitude>
+    <longitude>-4.30534000</longitude>
+  </city>
+  <city>
+    <id>38034</id>
+    <name>Villaconejos</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.10139000</latitude>
+    <longitude>-3.48258000</longitude>
+  </city>
+  <city>
+    <id>38105</id>
+    <name>Villalbilla</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.43044000</latitude>
+    <longitude>-3.29904000</longitude>
+  </city>
+  <city>
+    <id>38131</id>
+    <name>Villamanrique de Tajo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.06617000</latitude>
+    <longitude>-3.23668000</longitude>
+  </city>
+  <city>
+    <id>38133</id>
+    <name>Villamanta</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.29858000</latitude>
+    <longitude>-4.10880000</longitude>
+  </city>
+  <city>
+    <id>38134</id>
+    <name>Villamantilla</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.33846000</latitude>
+    <longitude>-4.12986000</longitude>
+  </city>
+  <city>
+    <id>38196</id>
+    <name>Villanueva de la Cañada</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.44689000</latitude>
+    <longitude>-4.00428000</longitude>
+  </city>
+  <city>
+    <id>38187</id>
+    <name>Villanueva de Perales</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.34541000</latitude>
+    <longitude>-4.09891000</longitude>
+  </city>
+  <city>
+    <id>38219</id>
+    <name>Villanueva del Pardillo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.49014000</latitude>
+    <longitude>-3.96383000</longitude>
+  </city>
+  <city>
+    <id>38257</id>
+    <name>Villar del Olmo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.33468000</latitude>
+    <longitude>-3.23399000</longitude>
+  </city>
+  <city>
+    <id>38273</id>
+    <name>Villarejo de Salvanés</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.16663000</latitude>
+    <longitude>-3.27277000</longitude>
+  </city>
+  <city>
+    <id>38343</id>
+    <name>Villaverde</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.35000000</latitude>
+    <longitude>-3.70000000</longitude>
+  </city>
+  <city>
+    <id>38357</id>
+    <name>Villaviciosa de Odón</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.35810000</latitude>
+    <longitude>-3.90430000</longitude>
+  </city>
+  <city>
+    <id>38360</id>
+    <name>Villavieja del Lozoya</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>41.00396000</latitude>
+    <longitude>-3.66870000</longitude>
+  </city>
+  <city>
+    <id>38482</id>
+    <name>Zarzalejo</name>
+    <state_id>1158</state_id>
+    <state_code>MD</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>40.54811000</latitude>
+    <longitude>-4.18176000</longitude>
+  </city>
+  <city>
     <id>35391</id>
     <name>Melilla</name>
     <state_id>1159</state_id>
@@ -1117909,6 +1118309,576 @@
     <country_code>ES</country_code>
     <latitude>35.29369000</latitude>
     <longitude>-2.93833000</longitude>
+  </city>
+  <city>
+    <id>31903</id>
+    <name>Abanilla</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.20537000</latitude>
+    <longitude>-1.04153000</longitude>
+  </city>
+  <city>
+    <id>31905</id>
+    <name>Abarán</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.20551000</latitude>
+    <longitude>-1.39907000</longitude>
+  </city>
+  <city>
+    <id>38574</id>
+    <name>Águilas</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.40630000</latitude>
+    <longitude>-1.58289000</longitude>
+  </city>
+  <city>
+    <id>32057</id>
+    <name>Albudeite</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.02895000</latitude>
+    <longitude>-1.38664000</longitude>
+  </city>
+  <city>
+    <id>32084</id>
+    <name>Alcantarilla</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.96939000</latitude>
+    <longitude>-1.21714000</longitude>
+  </city>
+  <city>
+    <id>32182</id>
+    <name>Aledo</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.79341000</latitude>
+    <longitude>-1.57356000</longitude>
+  </city>
+  <city>
+    <id>32229</id>
+    <name>Alguazas</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.05356000</latitude>
+    <longitude>-1.25051000</longitude>
+  </city>
+  <city>
+    <id>32236</id>
+    <name>Alhama de Murcia</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.85103000</latitude>
+    <longitude>-1.42507000</longitude>
+  </city>
+  <city>
+    <id>32430</id>
+    <name>Archena</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.11631000</latitude>
+    <longitude>-1.30043000</longitude>
+  </city>
+  <city>
+    <id>32546</id>
+    <name>Atamaría</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.59989000</latitude>
+    <longitude>-0.80682000</longitude>
+  </city>
+  <city>
+    <id>32677</id>
+    <name>Barrio de la Concepción</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.60000000</latitude>
+    <longitude>-1.00000000</longitude>
+  </city>
+  <city>
+    <id>32800</id>
+    <name>Beniel</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.04636000</latitude>
+    <longitude>-1.00233000</longitude>
+  </city>
+  <city>
+    <id>32905</id>
+    <name>Blanca</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.17910000</latitude>
+    <longitude>-1.37473000</longitude>
+  </city>
+  <city>
+    <id>33018</id>
+    <name>Bullas</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.04667000</latitude>
+    <longitude>-1.67227000</longitude>
+  </city>
+  <city>
+    <id>33131</id>
+    <name>Calasparra</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.22997000</latitude>
+    <longitude>-1.69986000</longitude>
+  </city>
+  <city>
+    <id>33211</id>
+    <name>Campos del Río</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.03966000</latitude>
+    <longitude>-1.35306000</longitude>
+  </city>
+  <city>
+    <id>33277</id>
+    <name>Caravaca</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.10558000</latitude>
+    <longitude>-1.86343000</longitude>
+  </city>
+  <city>
+    <id>33336</id>
+    <name>Cartagena</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.60512000</latitude>
+    <longitude>-0.98623000</longitude>
+  </city>
+  <city>
+    <id>33560</id>
+    <name>Cehegín</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.09242000</latitude>
+    <longitude>-1.79850000</longitude>
+  </city>
+  <city>
+    <id>33610</id>
+    <name>Ceuti</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.07859000</latitude>
+    <longitude>-1.27467000</longitude>
+  </city>
+  <city>
+    <id>33659</id>
+    <name>Cieza</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.23998000</latitude>
+    <longitude>-1.41987000</longitude>
+  </city>
+  <city>
+    <id>33706</id>
+    <name>Cobatillas</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.05545000</latitude>
+    <longitude>-1.07683000</longitude>
+  </city>
+  <city>
+    <id>34009</id>
+    <name>El Plan</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.65000000</latitude>
+    <longitude>-1.01667000</longitude>
+  </city>
+  <city>
+    <id>34104</id>
+    <name>Esparragal</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.03333000</latitude>
+    <longitude>-1.08333000</longitude>
+  </city>
+  <city>
+    <id>34231</id>
+    <name>Fortuna</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.18140000</latitude>
+    <longitude>-1.12590000</longitude>
+  </city>
+  <city>
+    <id>34308</id>
+    <name>Fuente-Álamo de Murcia</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.72389000</latitude>
+    <longitude>-1.16972000</longitude>
+  </city>
+  <city>
+    <id>34828</id>
+    <name>Jumilla</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.47917000</latitude>
+    <longitude>-1.32500000</longitude>
+  </city>
+  <city>
+    <id>34893</id>
+    <name>La Manga del Mar Menor</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.64129000</latitude>
+    <longitude>-0.71651000</longitude>
+  </city>
+  <city>
+    <id>34931</id>
+    <name>La Torrecilla</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.62363000</latitude>
+    <longitude>-1.72785000</longitude>
+  </city>
+  <city>
+    <id>34932</id>
+    <name>La Unión</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.61915000</latitude>
+    <longitude>-0.87799000</longitude>
+  </city>
+  <city>
+    <id>34993</id>
+    <name>Las Torres de Cotillas</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.02822000</latitude>
+    <longitude>-1.24188000</longitude>
+  </city>
+  <city>
+    <id>35046</id>
+    <name>Librilla</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.88642000</latitude>
+    <longitude>-1.35557000</longitude>
+  </city>
+  <city>
+    <id>35092</id>
+    <name>Lo Pagán</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.81761000</latitude>
+    <longitude>-0.78832000</longitude>
+  </city>
+  <city>
+    <id>35113</id>
+    <name>Lorca</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.67119000</latitude>
+    <longitude>-1.70170000</longitude>
+  </city>
+  <city>
+    <id>35115</id>
+    <name>Lorquí</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.08261000</latitude>
+    <longitude>-1.25103000</longitude>
+  </city>
+  <city>
+    <id>35116</id>
+    <name>Los Alcázares</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.74425000</latitude>
+    <longitude>-0.85041000</longitude>
+  </city>
+  <city>
+    <id>35121</id>
+    <name>Los Gabatos</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.63333000</latitude>
+    <longitude>-1.00000000</longitude>
+  </city>
+  <city>
+    <id>35125</id>
+    <name>Los Martínez</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.81841000</latitude>
+    <longitude>-1.07880000</longitude>
+  </city>
+  <city>
+    <id>35356</id>
+    <name>Mazarrón</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.59920000</latitude>
+    <longitude>-1.31493000</longitude>
+  </city>
+  <city>
+    <id>35478</id>
+    <name>Molina de Segura</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.05456000</latitude>
+    <longitude>-1.20763000</longitude>
+  </city>
+  <city>
+    <id>35618</id>
+    <name>Moratalla</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.18928000</latitude>
+    <longitude>-1.89183000</longitude>
+  </city>
+  <city>
+    <id>35661</id>
+    <name>Mula</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.04095000</latitude>
+    <longitude>-1.49014000</longitude>
+  </city>
+  <city>
+    <id>35671</id>
+    <name>Murcia</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.98662000</latitude>
+    <longitude>-1.14146000</longitude>
+  </city>
+  <city>
+    <id>35871</id>
+    <name>Ojós</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.14700000</latitude>
+    <longitude>-1.34261000</longitude>
+  </city>
+  <city>
+    <id>36245</id>
+    <name>Pliego</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.98946000</latitude>
+    <longitude>-1.50444000</longitude>
+  </city>
+  <city>
+    <id>36445</id>
+    <name>Puerto Lumbreras</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.56329000</latitude>
+    <longitude>-1.80974000</longitude>
+  </city>
+  <city>
+    <id>36621</id>
+    <name>Ricote</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.15338000</latitude>
+    <longitude>-1.36557000</longitude>
+  </city>
+  <city>
+    <id>36840</id>
+    <name>San Javier</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.80626000</latitude>
+    <longitude>-0.83736000</longitude>
+  </city>
+  <city>
+    <id>36910</id>
+    <name>San Pedro del Pinatar</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.83568000</latitude>
+    <longitude>-0.79102000</longitude>
+  </city>
+  <city>
+    <id>36945</id>
+    <name>Sangonera la Verde</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.92862000</latitude>
+    <longitude>-1.20794000</longitude>
+  </city>
+  <city>
+    <id>37026</id>
+    <name>Santa Cruz</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.02180000</latitude>
+    <longitude>-1.05749000</longitude>
+  </city>
+  <city>
+    <id>37116</id>
+    <name>Santiago de la Ribera</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.79681000</latitude>
+    <longitude>-0.80544000</longitude>
+  </city>
+  <city>
+    <id>37145</id>
+    <name>Santomera</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.06147000</latitude>
+    <longitude>-1.04877000</longitude>
+  </city>
+  <city>
+    <id>37507</id>
+    <name>Torre-Pacheco</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.74293000</latitude>
+    <longitude>-0.95396000</longitude>
+  </city>
+  <city>
+    <id>37606</id>
+    <name>Totana</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>37.76880000</latitude>
+    <longitude>-1.50229000</longitude>
+  </city>
+  <city>
+    <id>37678</id>
+    <name>Ulea</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.14045000</latitude>
+    <longitude>-1.33007000</longitude>
+  </city>
+  <city>
+    <id>38431</id>
+    <name>Yecla</name>
+    <state_id>1176</state_id>
+    <state_code>MC</state_code>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <latitude>38.61365000</latitude>
+    <longitude>-1.11468000</longitude>
   </city>
   <city>
     <id>31920</id>
@@ -1119669,576 +1120639,6 @@
     <country_code>ES</country_code>
     <latitude>42.69247000</latitude>
     <longitude>-2.29982000</longitude>
-  </city>
-  <city>
-    <id>31903</id>
-    <name>Abanilla</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.20537000</latitude>
-    <longitude>-1.04153000</longitude>
-  </city>
-  <city>
-    <id>31905</id>
-    <name>Abarán</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.20551000</latitude>
-    <longitude>-1.39907000</longitude>
-  </city>
-  <city>
-    <id>38574</id>
-    <name>Águilas</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.40630000</latitude>
-    <longitude>-1.58289000</longitude>
-  </city>
-  <city>
-    <id>32057</id>
-    <name>Albudeite</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.02895000</latitude>
-    <longitude>-1.38664000</longitude>
-  </city>
-  <city>
-    <id>32084</id>
-    <name>Alcantarilla</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.96939000</latitude>
-    <longitude>-1.21714000</longitude>
-  </city>
-  <city>
-    <id>32182</id>
-    <name>Aledo</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.79341000</latitude>
-    <longitude>-1.57356000</longitude>
-  </city>
-  <city>
-    <id>32229</id>
-    <name>Alguazas</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.05356000</latitude>
-    <longitude>-1.25051000</longitude>
-  </city>
-  <city>
-    <id>32236</id>
-    <name>Alhama de Murcia</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.85103000</latitude>
-    <longitude>-1.42507000</longitude>
-  </city>
-  <city>
-    <id>32430</id>
-    <name>Archena</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.11631000</latitude>
-    <longitude>-1.30043000</longitude>
-  </city>
-  <city>
-    <id>32546</id>
-    <name>Atamaría</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.59989000</latitude>
-    <longitude>-0.80682000</longitude>
-  </city>
-  <city>
-    <id>32677</id>
-    <name>Barrio de la Concepción</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.60000000</latitude>
-    <longitude>-1.00000000</longitude>
-  </city>
-  <city>
-    <id>32800</id>
-    <name>Beniel</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.04636000</latitude>
-    <longitude>-1.00233000</longitude>
-  </city>
-  <city>
-    <id>32905</id>
-    <name>Blanca</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.17910000</latitude>
-    <longitude>-1.37473000</longitude>
-  </city>
-  <city>
-    <id>33018</id>
-    <name>Bullas</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.04667000</latitude>
-    <longitude>-1.67227000</longitude>
-  </city>
-  <city>
-    <id>33131</id>
-    <name>Calasparra</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.22997000</latitude>
-    <longitude>-1.69986000</longitude>
-  </city>
-  <city>
-    <id>33211</id>
-    <name>Campos del Río</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.03966000</latitude>
-    <longitude>-1.35306000</longitude>
-  </city>
-  <city>
-    <id>33277</id>
-    <name>Caravaca</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.10558000</latitude>
-    <longitude>-1.86343000</longitude>
-  </city>
-  <city>
-    <id>33336</id>
-    <name>Cartagena</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.60512000</latitude>
-    <longitude>-0.98623000</longitude>
-  </city>
-  <city>
-    <id>33560</id>
-    <name>Cehegín</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.09242000</latitude>
-    <longitude>-1.79850000</longitude>
-  </city>
-  <city>
-    <id>33610</id>
-    <name>Ceuti</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.07859000</latitude>
-    <longitude>-1.27467000</longitude>
-  </city>
-  <city>
-    <id>33659</id>
-    <name>Cieza</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.23998000</latitude>
-    <longitude>-1.41987000</longitude>
-  </city>
-  <city>
-    <id>33706</id>
-    <name>Cobatillas</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.05545000</latitude>
-    <longitude>-1.07683000</longitude>
-  </city>
-  <city>
-    <id>34009</id>
-    <name>El Plan</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.65000000</latitude>
-    <longitude>-1.01667000</longitude>
-  </city>
-  <city>
-    <id>34104</id>
-    <name>Esparragal</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.03333000</latitude>
-    <longitude>-1.08333000</longitude>
-  </city>
-  <city>
-    <id>34231</id>
-    <name>Fortuna</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.18140000</latitude>
-    <longitude>-1.12590000</longitude>
-  </city>
-  <city>
-    <id>34308</id>
-    <name>Fuente-Álamo de Murcia</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.72389000</latitude>
-    <longitude>-1.16972000</longitude>
-  </city>
-  <city>
-    <id>34828</id>
-    <name>Jumilla</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.47917000</latitude>
-    <longitude>-1.32500000</longitude>
-  </city>
-  <city>
-    <id>34893</id>
-    <name>La Manga del Mar Menor</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.64129000</latitude>
-    <longitude>-0.71651000</longitude>
-  </city>
-  <city>
-    <id>34931</id>
-    <name>La Torrecilla</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.62363000</latitude>
-    <longitude>-1.72785000</longitude>
-  </city>
-  <city>
-    <id>34932</id>
-    <name>La Unión</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.61915000</latitude>
-    <longitude>-0.87799000</longitude>
-  </city>
-  <city>
-    <id>34993</id>
-    <name>Las Torres de Cotillas</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.02822000</latitude>
-    <longitude>-1.24188000</longitude>
-  </city>
-  <city>
-    <id>35046</id>
-    <name>Librilla</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.88642000</latitude>
-    <longitude>-1.35557000</longitude>
-  </city>
-  <city>
-    <id>35092</id>
-    <name>Lo Pagán</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.81761000</latitude>
-    <longitude>-0.78832000</longitude>
-  </city>
-  <city>
-    <id>35113</id>
-    <name>Lorca</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.67119000</latitude>
-    <longitude>-1.70170000</longitude>
-  </city>
-  <city>
-    <id>35115</id>
-    <name>Lorquí</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.08261000</latitude>
-    <longitude>-1.25103000</longitude>
-  </city>
-  <city>
-    <id>35116</id>
-    <name>Los Alcázares</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.74425000</latitude>
-    <longitude>-0.85041000</longitude>
-  </city>
-  <city>
-    <id>35121</id>
-    <name>Los Gabatos</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.63333000</latitude>
-    <longitude>-1.00000000</longitude>
-  </city>
-  <city>
-    <id>35125</id>
-    <name>Los Martínez</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.81841000</latitude>
-    <longitude>-1.07880000</longitude>
-  </city>
-  <city>
-    <id>35356</id>
-    <name>Mazarrón</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.59920000</latitude>
-    <longitude>-1.31493000</longitude>
-  </city>
-  <city>
-    <id>35478</id>
-    <name>Molina de Segura</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.05456000</latitude>
-    <longitude>-1.20763000</longitude>
-  </city>
-  <city>
-    <id>35618</id>
-    <name>Moratalla</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.18928000</latitude>
-    <longitude>-1.89183000</longitude>
-  </city>
-  <city>
-    <id>35661</id>
-    <name>Mula</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.04095000</latitude>
-    <longitude>-1.49014000</longitude>
-  </city>
-  <city>
-    <id>35671</id>
-    <name>Murcia</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.98662000</latitude>
-    <longitude>-1.14146000</longitude>
-  </city>
-  <city>
-    <id>35871</id>
-    <name>Ojós</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.14700000</latitude>
-    <longitude>-1.34261000</longitude>
-  </city>
-  <city>
-    <id>36245</id>
-    <name>Pliego</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.98946000</latitude>
-    <longitude>-1.50444000</longitude>
-  </city>
-  <city>
-    <id>36445</id>
-    <name>Puerto Lumbreras</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.56329000</latitude>
-    <longitude>-1.80974000</longitude>
-  </city>
-  <city>
-    <id>36621</id>
-    <name>Ricote</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.15338000</latitude>
-    <longitude>-1.36557000</longitude>
-  </city>
-  <city>
-    <id>36840</id>
-    <name>San Javier</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.80626000</latitude>
-    <longitude>-0.83736000</longitude>
-  </city>
-  <city>
-    <id>36910</id>
-    <name>San Pedro del Pinatar</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.83568000</latitude>
-    <longitude>-0.79102000</longitude>
-  </city>
-  <city>
-    <id>36945</id>
-    <name>Sangonera la Verde</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.92862000</latitude>
-    <longitude>-1.20794000</longitude>
-  </city>
-  <city>
-    <id>37026</id>
-    <name>Santa Cruz</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.02180000</latitude>
-    <longitude>-1.05749000</longitude>
-  </city>
-  <city>
-    <id>37116</id>
-    <name>Santiago de la Ribera</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.79681000</latitude>
-    <longitude>-0.80544000</longitude>
-  </city>
-  <city>
-    <id>37145</id>
-    <name>Santomera</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.06147000</latitude>
-    <longitude>-1.04877000</longitude>
-  </city>
-  <city>
-    <id>37507</id>
-    <name>Torre-Pacheco</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.74293000</latitude>
-    <longitude>-0.95396000</longitude>
-  </city>
-  <city>
-    <id>37606</id>
-    <name>Totana</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>37.76880000</latitude>
-    <longitude>-1.50229000</longitude>
-  </city>
-  <city>
-    <id>37678</id>
-    <name>Ulea</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.14045000</latitude>
-    <longitude>-1.33007000</longitude>
-  </city>
-  <city>
-    <id>38431</id>
-    <name>Yecla</name>
-    <state_id>1176</state_id>
-    <state_code>MC</state_code>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <latitude>38.61365000</latitude>
-    <longitude>-1.11468000</longitude>
   </city>
   <city>
     <id>31932</id>
@@ -1177161,16 +1177561,6 @@
     <longitude>29.15523000</longitude>
   </city>
   <city>
-    <id>108901</id>
-    <name>İnegol</name>
-    <state_id>2163</state_id>
-    <state_code>16</state_code>
-    <country_id>225</country_id>
-    <country_code>TR</country_code>
-    <latitude>40.07806000</latitude>
-    <longitude>29.51333000</longitude>
-  </city>
-  <city>
     <id>108902</id>
     <name>İnegöl</name>
     <state_id>2163</state_id>
@@ -1177179,6 +1177569,16 @@
     <country_code>TR</country_code>
     <latitude>40.01193000</latitude>
     <longitude>29.53678000</longitude>
+  </city>
+  <city>
+    <id>108901</id>
+    <name>İnegol</name>
+    <state_id>2163</state_id>
+    <state_code>16</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>40.07806000</latitude>
+    <longitude>29.51333000</longitude>
   </city>
   <city>
     <id>108925</id>
@@ -1182181,16 +1182581,6 @@
     <longitude>29.31942000</longitude>
   </city>
   <city>
-    <id>108871</id>
-    <name>Ümraniye</name>
-    <state_id>2170</state_id>
-    <state_code>34</state_code>
-    <country_id>225</country_id>
-    <country_code>TR</country_code>
-    <latitude>41.03482000</latitude>
-    <longitude>29.10896000</longitude>
-  </city>
-  <city>
     <id>108631</id>
     <name>Umraniye</name>
     <state_id>2170</state_id>
@@ -1182199,6 +1182589,16 @@
     <country_code>TR</country_code>
     <latitude>41.01643000</latitude>
     <longitude>29.12476000</longitude>
+  </city>
+  <city>
+    <id>108871</id>
+    <name>Ümraniye</name>
+    <state_id>2170</state_id>
+    <state_code>34</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>41.03482000</latitude>
+    <longitude>29.10896000</longitude>
   </city>
   <city>
     <id>108874</id>
@@ -1183761,16 +1184161,6 @@
     <longitude>35.45832000</longitude>
   </city>
   <city>
-    <id>107849</id>
-    <name>Incesu</name>
-    <state_id>2200</state_id>
-    <state_code>38</state_code>
-    <country_id>225</country_id>
-    <country_code>TR</country_code>
-    <latitude>38.63789000</latitude>
-    <longitude>35.19394000</longitude>
-  </city>
-  <city>
     <id>108896</id>
     <name>İncesu</name>
     <state_id>2200</state_id>
@@ -1183779,6 +1184169,16 @@
     <country_code>TR</country_code>
     <latitude>38.62240000</latitude>
     <longitude>35.18261000</longitude>
+  </city>
+  <city>
+    <id>107849</id>
+    <name>Incesu</name>
+    <state_id>2200</state_id>
+    <state_code>38</state_code>
+    <country_id>225</country_id>
+    <country_code>TR</country_code>
+    <latitude>38.63789000</latitude>
+    <longitude>35.19394000</longitude>
   </city>
   <city>
     <id>107954</id>
@@ -1456831,16 +1457231,6 @@
     <longitude>43.33720000</longitude>
   </city>
   <city>
-    <id>130850</id>
-    <name>Hajjah</name>
-    <state_id>1244</state_id>
-    <state_code>HJ</state_code>
-    <country_id>245</country_id>
-    <country_code>YE</country_code>
-    <latitude>15.68160000</latitude>
-    <longitude>43.44996000</longitude>
-  </city>
-  <city>
     <id>131011</id>
     <name>Ḩajjah</name>
     <state_id>1244</state_id>
@@ -1456849,6 +1457239,16 @@
     <country_code>YE</country_code>
     <latitude>15.69425000</latitude>
     <longitude>43.60582000</longitude>
+  </city>
+  <city>
+    <id>130850</id>
+    <name>Hajjah</name>
+    <state_id>1244</state_id>
+    <state_code>HJ</state_code>
+    <country_id>245</country_id>
+    <country_code>YE</country_code>
+    <latitude>15.68160000</latitude>
+    <longitude>43.44996000</longitude>
   </city>
   <city>
     <id>130854</id>
