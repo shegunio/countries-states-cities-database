@@ -461558,10 +461558,20 @@ country_city:
         latitude: '46.28166000'
         longitude: '23.06098000'
       -
+        id: 146225
+        name: Abuș
+        latitude: '46.35000000'
+        longitude: '24.38333333'
+      -
         id: 89878
         name: Acâş
         latitude: '47.53333000'
         longitude: '22.78333000'
+      -
+        id: 146226
+        name: Acățari
+        latitude: '46.48333333'
+        longitude: '24.63333333'
       -
         id: 89877
         name: Acriș
@@ -461572,6 +461582,11 @@ country_city:
         name: Adamclisi
         latitude: '44.08333000'
         longitude: '27.95000000'
+      -
+        id: 146230
+        name: Adămuș
+        latitude: '46.30000000'
+        longitude: '24.23000000'
       -
         id: 89886
         name: Adânca
@@ -461612,6 +461627,21 @@ country_city:
         name: 'Adjudu Vechi'
         latitude: '46.13485000'
         longitude: '27.18891000'
+      -
+        id: 146227
+        name: Adrian
+        latitude: '46.78209200'
+        longitude: '24.83324200'
+      -
+        id: 146228
+        name: 'Adrianu Mare'
+        latitude: '46.49357300'
+        longitude: '24.80324400'
+      -
+        id: 146229
+        name: 'Adrianu Mic'
+        latitude: '46.50082100'
+        longitude: '24.79051400'
       -
         id: 89884
         name: Adunaţi
@@ -461693,6 +461723,11 @@ country_city:
         latitude: '47.88075000'
         longitude: '23.00340000'
       -
+        id: 146231
+        name: Agrișteu
+        latitude: '46.39172800'
+        longitude: '24.68379600'
+      -
         id: 89902
         name: 'Agrișu Mare'
         latitude: '46.27243000'
@@ -461767,6 +461802,11 @@ country_city:
         name: Albeşti
         latitude: '43.80000000'
         longitude: '28.41667000'
+      -
+        id: 146232
+        name: Albești
+        latitude: '46.23000000'
+        longitude: '24.85000000'
       -
         id: 89920
         name: Albești-Muru
@@ -461893,6 +461933,11 @@ country_city:
         latitude: '47.03333000'
         longitude: '23.75000000'
       -
+        id: 146233
+        name: Aluniș
+        latitude: '46.90000000'
+        longitude: '24.82000000'
+      -
         id: 89942
         name: Alunișu
         latitude: '44.71667000'
@@ -461963,6 +462008,11 @@ country_city:
         latitude: '45.75000000'
         longitude: '26.83333000'
       -
+        id: 146234
+        name: Andreneasa
+        latitude: '46.96784300'
+        longitude: '25.02423500'
+      -
         id: 89957
         name: Andrid
         latitude: '47.51667000'
@@ -461977,6 +462027,11 @@ country_city:
         name: Anghelești
         latitude: '46.07875000'
         longitude: '27.06459000'
+      -
+        id: 146235
+        name: Angofa
+        latitude: '46.18658200'
+        longitude: '24.78418000'
       -
         id: 89961
         name: Anieș
@@ -462023,6 +462078,11 @@ country_city:
         latitude: '46.81667000'
         longitude: '23.75000000'
       -
+        id: 146236
+        name: Apalina
+        latitude: '46.75231300'
+        longitude: '24.69275500'
+      -
         id: 89971
         name: Apaţa
         latitude: '45.95000000'
@@ -462037,6 +462097,11 @@ country_city:
         name: 'Apele Vii'
         latitude: '44.06667000'
         longitude: '24.06667000'
+      -
+        id: 146237
+        name: Apold
+        latitude: '46.12777778'
+        longitude: '24.81805556'
       -
         id: 89973
         name: 'Apoldu de Jos'
@@ -462078,6 +462143,11 @@ country_city:
         latitude: '46.48333000'
         longitude: '22.05000000'
       -
+        id: 146238
+        name: Archita
+        latitude: '46.18194444'
+        longitude: '25.08750000'
+      -
         id: 89981
         name: Arcuș
         latitude: '45.90077000'
@@ -462097,6 +462167,11 @@ country_city:
         name: Ardusat
         latitude: '47.65000000'
         longitude: '23.36667000'
+      -
+        id: 146723
+        name: Arduzel
+        latitude: '47.44804500'
+        longitude: '23.26686200'
       -
         id: 89985
         name: Arefu
@@ -462138,6 +462213,16 @@ country_city:
         latitude: '46.47641000'
         longitude: '22.75741000'
       -
+        id: 146724
+        name: 'Arieșu de Câmp'
+        latitude: '47.63977000'
+        longitude: '23.39872600'
+      -
+        id: 146725
+        name: 'Arieșu de Pădure'
+        latitude: '47.58623800'
+        longitude: '23.47910600'
+      -
         id: 89993
         name: Arini
         latitude: '46.35000000'
@@ -462173,6 +462258,11 @@ country_city:
         latitude: '45.73436000'
         longitude: '24.61906000'
       -
+        id: 146239
+        name: Arșița
+        latitude: '46.78587400'
+        longitude: '24.99858500'
+      -
         id: 90000
         name: Arsura
         latitude: '46.81333000'
@@ -462188,10 +462278,20 @@ country_city:
         latitude: '46.98333000'
         longitude: '23.48333000'
       -
+        id: 146726
+        name: Aspra
+        latitude: '47.45021000'
+        longitude: '23.63817900'
+      -
         id: 90015
         name: Aştileu
         latitude: '47.03333000'
         longitude: '22.38333000'
+      -
+        id: 146727
+        name: 'Asuaju de Jos'
+        latitude: '47.54051900'
+        longitude: '23.22298700'
       -
         id: 90001
         name: 'Asuaju de Sus'
@@ -462208,10 +462308,20 @@ country_city:
         latitude: '46.45000000'
         longitude: '25.05000000'
       -
+        id: 146242
+        name: Ațintiș
+        latitude: '46.43000000'
+        longitude: '24.10000000'
+      -
         id: 90004
         name: Augustin
         latitude: '46.04613000'
         longitude: '25.55333000'
+      -
+        id: 146240
+        name: 'Aurel Vlaicu'
+        latitude: '46.17787000'
+        longitude: '24.82072000'
       -
         id: 90005
         name: Auşeu
@@ -462238,6 +462348,11 @@ country_city:
         latitude: '46.33333000'
         longitude: '25.01667000'
       -
+        id: 146241
+        name: Avrămești
+        latitude: '46.53620800'
+        longitude: '24.09928400'
+      -
         id: 90008
         name: Avrig
         latitude: '45.71667000'
@@ -462257,6 +462372,11 @@ country_city:
         name: Azuga
         latitude: '45.45000000'
         longitude: '25.55000000'
+      -
+        id: 146728
+        name: Baba
+        latitude: '47.34026800'
+        longitude: '23.74561100'
       -
         id: 90017
         name: 'Baba Ana'
@@ -462408,10 +462528,20 @@ country_city:
         latitude: '43.92286000'
         longitude: '24.98274000'
       -
+        id: 146282
+        name: Băgaciu
+        latitude: '46.27000000'
+        longitude: '24.37000000'
+      -
         id: 90026
         name: Bahna
         latitude: '46.78333000'
         longitude: '26.78333000'
+      -
+        id: 146243
+        name: Bahnea
+        latitude: '46.37000000'
+        longitude: '24.48000000'
       -
         id: 90027
         name: Baia
@@ -462447,6 +462577,16 @@ country_city:
         name: 'Baia Mare'
         latitude: '47.65729000'
         longitude: '23.56808000'
+      -
+        id: 95111
+        name: 'Baia Mare'
+        latitude: '47.74048000'
+        longitude: '23.60337000'
+      -
+        id: 95455
+        name: 'Baia Sprie'
+        latitude: '47.66446000'
+        longitude: '23.66970000'
       -
         id: 90030
         name: 'Baia Sprie'
@@ -462518,6 +462658,11 @@ country_city:
         latitude: '47.70614000'
         longitude: '23.49326000'
       -
+        id: 146283
+        name: Băița
+        latitude: '46.83635200'
+        longitude: '24.52999700'
+      -
         id: 90498
         name: 'Băiţa de sub Codru'
         latitude: '47.53333000'
@@ -462542,6 +462687,11 @@ country_city:
         name: Bala
         latitude: '44.88389000'
         longitude: '22.83333000'
+      -
+        id: 146284
+        name: Băla
+        latitude: '46.72000000'
+        longitude: '24.50000000'
       -
         id: 90519
         name: Bălăbănești
@@ -462598,6 +462748,11 @@ country_city:
         latitude: '46.10000000'
         longitude: '27.66667000'
       -
+        id: 146285
+        name: Bălăușeri
+        latitude: '46.40000000'
+        longitude: '24.68333333'
+      -
         id: 90039
         name: Balc
         latitude: '47.28333000'
@@ -462627,6 +462782,11 @@ country_city:
         name: Bălcești
         latitude: '45.10516000'
         longitude: '23.63290000'
+      -
+        id: 146244
+        name: Balda
+        latitude: '46.73352800'
+        longitude: '24.14361600'
       -
         id: 90440
         name: Bâldana
@@ -462793,6 +462953,11 @@ country_city:
         latitude: '46.30291000'
         longitude: '25.94422000'
       -
+        id: 146245
+        name: Band
+        latitude: '46.58333333'
+        longitude: '24.38333333'
+      -
         id: 90529
         name: Băneasa
         latitude: '43.93975000'
@@ -462853,6 +463018,11 @@ country_city:
         latitude: '47.03333000'
         longitude: '27.05000000'
       -
+        id: 146278
+        name: Bâra
+        latitude: '46.57221300'
+        longitude: '24.87262000'
+      -
         id: 90545
         name: Bărăbanț
         latitude: '46.09930000'
@@ -462903,6 +463073,11 @@ country_city:
         latitude: '44.86667000'
         longitude: '23.50000000'
       -
+        id: 146286
+        name: Bărboși
+        latitude: '46.58087200'
+        longitude: '24.18193500'
+      -
         id: 90539
         name: Bărbulești
         latitude: '44.72629000'
@@ -462943,6 +463118,16 @@ country_city:
         latitude: '45.75000000'
         longitude: '27.46667000'
       -
+        id: 146287
+        name: Bărdești
+        latitude: '46.59451300'
+        longitude: '24.51309400'
+      -
+        id: 146742
+        name: Bârgău
+        latitude: '47.68343800'
+        longitude: '23.39971200'
+      -
         id: 90448
         name: Bârgăuani
         latitude: '46.98333000'
@@ -462962,6 +463147,16 @@ country_city:
         name: Bârlad
         latitude: '46.23175000'
         longitude: '27.66907000'
+      -
+        id: 146279
+        name: Bârlibaș
+        latitude: '46.68896500'
+        longitude: '24.24549400'
+      -
+        id: 146280
+        name: Bârlibășoaia
+        latitude: '46.29336500'
+        longitude: '24.83495500'
       -
         id: 90451
         name: Bârlogu
@@ -463032,6 +463227,11 @@ country_city:
         name: Bârza
         latitude: '44.32811000'
         longitude: '24.14188000'
+      -
+        id: 146281
+        name: Bârza
+        latitude: '46.55000000'
+        longitude: '24.13333000'
       -
         id: 90460
         name: Bârzava
@@ -463118,6 +463318,11 @@ country_city:
         latitude: '44.84830000'
         longitude: '26.04031000'
       -
+        id: 146246
+        name: Batoș
+        latitude: '46.88611111'
+        longitude: '24.65555556'
+      -
         id: 90553
         name: Bătrâna
         latitude: '45.78333000'
@@ -463172,6 +463377,21 @@ country_city:
         name: Beclean
         latitude: '47.18333000'
         longitude: '24.18333000'
+      -
+        id: 146247
+        name: Bedeni
+        latitude: '46.46760600'
+        longitude: '24.78337400'
+      -
+        id: 146248
+        name: 'Beica de Jos'
+        latitude: '46.73423000'
+        longitude: '24.79671000'
+      -
+        id: 146249
+        name: 'Beica de Sus'
+        latitude: '46.73795400'
+        longitude: '24.82270100'
       -
         id: 90081
         name: Beidaud
@@ -463268,6 +463488,11 @@ country_city:
         latitude: '44.31417000'
         longitude: '26.18556000'
       -
+        id: 146729
+        name: Berchez
+        latitude: '47.51892400'
+        longitude: '23.50569300'
+      -
         id: 90100
         name: Berchișești
         latitude: '47.52306000'
@@ -463277,6 +463502,11 @@ country_city:
         name: 'Beregsău Mare'
         latitude: '45.75921000'
         longitude: '21.02666000'
+      -
+        id: 146250
+        name: Bereni
+        latitude: '46.55000000'
+        longitude: '24.86666667'
       -
         id: 90107
         name: Berești
@@ -463313,10 +463543,20 @@ country_city:
         latitude: '46.37611000'
         longitude: '28.14778000'
       -
+        id: 146251
+        name: Berghia
+        latitude: '46.53964600'
+        longitude: '24.42961400'
+      -
         id: 90109
         name: Berghin
         latitude: '46.07782000'
         longitude: '23.73742000'
+      -
+        id: 146730
+        name: Berința
+        latitude: '47.54066900'
+        longitude: '23.67692900'
       -
         id: 90110
         name: Berislăveşti
@@ -463337,6 +463577,11 @@ country_city:
         name: Berlişte
         latitude: '44.98667000'
         longitude: '21.46306000'
+      -
+        id: 146252
+        name: Bernadea
+        latitude: '46.37406800'
+        longitude: '24.45846600'
       -
         id: 90114
         name: Bertea
@@ -463378,6 +463623,11 @@ country_city:
         latitude: '45.83306000'
         longitude: '21.95278000'
       -
+        id: 146253
+        name: Beu
+        latitude: '46.57393000'
+        longitude: '24.71942400'
+      -
         id: 90121
         name: Beuca
         latitude: '44.25200000'
@@ -463388,10 +463638,20 @@ country_city:
         latitude: '45.15000000'
         longitude: '25.51667000'
       -
+        id: 146254
+        name: Bezid
+        latitude: '46.40639300'
+        longitude: '24.92238400'
+      -
         id: 90123
         name: Beznea
         latitude: '46.95967000'
         longitude: '22.61954000'
+      -
+        id: 146255
+        name: Bicașu
+        latitude: '46.81066200'
+        longitude: '24.95608700'
       -
         id: 90125
         name: Bicaz
@@ -463417,6 +463677,11 @@ country_city:
         name: Bichigiu
         latitude: '47.42522000'
         longitude: '24.33893000'
+      -
+        id: 146256
+        name: Bichiș
+        latitude: '46.36666667'
+        longitude: '24.10000000'
       -
         id: 90130
         name: Biertan
@@ -463497,6 +463762,11 @@ country_city:
         name: Bistra
         latitude: '47.25478000'
         longitude: '22.42295000'
+      -
+        id: 146257
+        name: 'Bistra Mureșului'
+        latitude: '46.96093200'
+        longitude: '24.90505900'
       -
         id: 90146
         name: Bistreț
@@ -463603,10 +463873,20 @@ country_city:
         latitude: '45.00000000'
         longitude: '26.01667000'
       -
+        id: 146731
+        name: Blidari
+        latitude: '47.77970000'
+        longitude: '23.61370400'
+      -
         id: 90159
         name: Blideşti
         latitude: '46.30000000'
         longitude: '23.13333000'
+      -
+        id: 146258
+        name: Blidireasa
+        latitude: '46.76394400'
+        longitude: '25.03065100'
       -
         id: 90174
         name: Bobâlna
@@ -463622,6 +463902,11 @@ country_city:
         name: Boboc
         latitude: '45.19570000'
         longitude: '26.98136000'
+      -
+        id: 146259
+        name: Bobohalma
+        latitude: '46.35142200'
+        longitude: '24.23505000'
       -
         id: 90170
         name: Boboiești
@@ -463642,6 +463927,11 @@ country_city:
         name: Bobulești
         latitude: '47.75135000'
         longitude: '27.22697000'
+      -
+        id: 146732
+        name: Bocicoel
+        latitude: '47.69861111'
+        longitude: '24.31916667'
       -
         id: 90175
         name: 'Bocicoiu Mare'
@@ -463692,6 +463982,11 @@ country_city:
         name: Bogata
         latitude: '47.40789000'
         longitude: '26.18655000'
+      -
+        id: 146260
+        name: Bogata
+        latitude: '46.45640800'
+        longitude: '24.11961700'
       -
         id: 90185
         name: Bogaţi
@@ -463788,6 +464083,11 @@ country_city:
         latitude: '47.38333000'
         longitude: '22.53333000'
       -
+        id: 146733
+        name: Boiereni
+        latitude: '47.38885900'
+        longitude: '23.93048300'
+      -
         id: 90204
         name: Boinești
         latitude: '47.91567000'
@@ -463802,6 +464102,11 @@ country_city:
         name: Boița
         latitude: '45.63454000'
         longitude: '24.26037000'
+      -
+        id: 146261
+        name: Boiu
+        latitude: '46.26570300'
+        longitude: '24.87482300'
       -
         id: 90205
         name: 'Boiu Mare'
@@ -463848,6 +464153,16 @@ country_city:
         latitude: '44.44889000'
         longitude: '25.75778000'
       -
+        id: 146262
+        name: Bolintineni
+        latitude: '46.49245700'
+        longitude: '24.71309300'
+      -
+        id: 146263
+        name: Bologaia
+        latitude: '46.63685600'
+        longitude: '24.25876800'
+      -
         id: 90215
         name: Boloteşti
         latitude: '45.83333000'
@@ -463862,6 +464177,11 @@ country_city:
         name: Bolvașnița
         latitude: '45.34558000'
         longitude: '22.31012000'
+      -
+        id: 146734
+        name: Bontăieni
+        latitude: '47.61221500'
+        longitude: '23.72160000'
       -
         id: 90219
         name: Bonțida
@@ -463893,6 +464213,11 @@ country_city:
         latitude: '47.48200000'
         longitude: '23.84071000'
       -
+        id: 146264
+        name: Bord
+        latitude: '46.39368900'
+        longitude: '24.22694000'
+      -
         id: 90223
         name: 'Bordeasca Veche'
         latitude: '45.54447000'
@@ -463912,6 +464237,11 @@ country_city:
         name: Bordeşti
         latitude: '45.55000000'
         longitude: '27.05000000'
+      -
+        id: 146265
+        name: Bordoșiu
+        latitude: '46.39629600'
+        longitude: '24.78414100'
       -
         id: 90227
         name: Borduşani
@@ -463963,10 +464293,20 @@ country_city:
         latitude: '46.93333000'
         longitude: '23.66667000'
       -
+        id: 95468
+        name: Borşa
+        latitude: '47.66965000'
+        longitude: '24.68846000'
+      -
         id: 90234
         name: Borsec
         latitude: '46.95000000'
         longitude: '25.56667000'
+      -
+        id: 146266
+        name: Borzia
+        latitude: '46.96974200'
+        longitude: '24.93240200'
       -
         id: 90240
         name: Bosanci
@@ -463982,6 +464322,11 @@ country_city:
         name: Boşorod
         latitude: '45.68333000'
         longitude: '23.08333000'
+      -
+        id: 146267
+        name: Botei
+        latitude: '46.63939700'
+        longitude: '24.13197800'
       -
         id: 90242
         name: Boteni
@@ -464003,6 +464348,11 @@ country_city:
         latitude: '45.01667000'
         longitude: '25.13333000'
       -
+        id: 146268
+        name: Botez
+        latitude: '46.38674600'
+        longitude: '24.02429900'
+      -
         id: 90244
         name: Botiz
         latitude: '47.83333000'
@@ -464012,6 +464362,11 @@ country_city:
         name: Botiza
         latitude: '47.66667000'
         longitude: '24.15000000'
+      -
+        id: 146269
+        name: Botorca
+        latitude: '46.28231800'
+        longitude: '24.30157300'
       -
         id: 90246
         name: Botoroaga
@@ -464042,6 +464397,26 @@ country_city:
         name: Boureni
         latitude: '47.26497000'
         longitude: '26.97672000'
+      -
+        id: 146735
+        name: 'Bozânta Mare'
+        latitude: '47.63965800'
+        longitude: '23.44165500'
+      -
+        id: 146736
+        name: 'Bozânta Mică'
+        latitude: '47.63641400'
+        longitude: '23.42235700'
+      -
+        id: 146270
+        name: Bozed
+        latitude: '46.68735700'
+        longitude: '24.46226000'
+      -
+        id: 146271
+        name: Bozeni
+        latitude: '46.53212400'
+        longitude: '24.67124300'
       -
         id: 90252
         name: Bozieni
@@ -464092,6 +464467,11 @@ country_city:
         name: Brădeşti
         latitude: '44.48333000'
         longitude: '23.63333000'
+      -
+        id: 146274
+        name: Brădețelu
+        latitude: '46.75538900'
+        longitude: '25.05171000'
       -
         id: 90325
         name: Brădicești
@@ -464182,6 +464562,11 @@ country_city:
         name: Brâncoveanca
         latitude: '43.94075000'
         longitude: '24.69336000'
+      -
+        id: 146273
+        name: Brâncovenești
+        latitude: '46.87000000'
+        longitude: '24.77000000'
       -
         id: 90320
         name: Brâncoveni
@@ -464328,6 +464713,11 @@ country_city:
         latitude: '47.61502000'
         longitude: '25.31816000'
       -
+        id: 146272
+        name: Breaza
+        latitude: '46.77000000'
+        longitude: '24.63000000'
+      -
         id: 90287
         name: 'Breaza de Jos'
         latitude: '45.17125000'
@@ -464352,6 +464742,11 @@ country_city:
         name: Brebeni
         latitude: '44.36667000'
         longitude: '24.45000000'
+      -
+        id: 146737
+        name: Brebeni
+        latitude: '47.50358200'
+        longitude: '23.78135600'
       -
         id: 90292
         name: Brebu
@@ -464553,6 +464948,11 @@ country_city:
         latitude: '47.03333000'
         longitude: '23.06667000'
       -
+        id: 146738
+        name: Buciumi
+        latitude: '47.47032600'
+        longitude: '23.48925800'
+      -
         id: 90362
         name: Bucoşniţa
         latitude: '45.30000000'
@@ -464708,6 +465108,11 @@ country_city:
         latitude: '45.66667000'
         longitude: '25.80000000'
       -
+        id: 146275
+        name: 'Budiu Mic'
+        latitude: '46.50920600'
+        longitude: '24.58480700'
+      -
         id: 90387
         name: Budureasa
         latitude: '46.66667000'
@@ -464757,6 +465162,16 @@ country_city:
         name: Buhuşi
         latitude: '46.71667000'
         longitude: '26.70000000'
+      -
+        id: 146276
+        name: Bujor
+        latitude: '46.65534000'
+        longitude: '24.17342200'
+      -
+        id: 146277
+        name: Bujor-Hodaie
+        latitude: '46.64494700'
+        longitude: '24.16832800'
       -
         id: 90398
         name: Bujoreni
@@ -464888,6 +465303,11 @@ country_city:
         latitude: '47.15552000'
         longitude: '22.17096000'
       -
+        id: 146741
+        name: Bușag
+        latitude: '47.65871500'
+        longitude: '23.42775200'
+      -
         id: 90437
         name: Bușca
         latitude: '44.11166000'
@@ -464907,6 +465327,11 @@ country_city:
         name: Butea
         latitude: '47.06667000'
         longitude: '26.91667000'
+      -
+        id: 146739
+        name: Buteasa
+        latitude: '47.44830300'
+        longitude: '23.54987800'
       -
         id: 90426
         name: Buteni
@@ -464943,6 +465368,11 @@ country_city:
         latitude: '44.01667000'
         longitude: '25.23333000'
       -
+        id: 146740
+        name: Buzești
+        latitude: '47.60844900'
+        longitude: '23.35416900'
+      -
         id: 90432
         name: Buziaş
         latitude: '45.64917000'
@@ -464978,10 +465408,20 @@ country_city:
         latitude: '47.63333000'
         longitude: '25.90000000'
       -
+        id: 146345
+        name: Căciulata
+        latitude: '46.71513500'
+        longitude: '24.40602300'
+      -
         id: 93824
         name: Căciulați
         latitude: '44.62741000'
         longitude: '26.17255000'
+      -
+        id: 146346
+        name: Căcuciu
+        latitude: '46.72559400'
+        longitude: '24.84986700'
       -
         id: 90560
         name: Cadea
@@ -465088,6 +465528,11 @@ country_city:
         latitude: '45.23333000'
         longitude: '24.33333000'
       -
+        id: 146347
+        name: Călimănești
+        latitude: '46.41332500'
+        longitude: '24.73270900'
+      -
         id: 93836
         name: Călina
         latitude: '44.70205000'
@@ -465158,6 +465603,11 @@ country_city:
         latitude: '44.16502000'
         longitude: '23.76060000'
       -
+        id: 146348
+        name: Călugăreni
+        latitude: '46.62981900'
+        longitude: '24.87772300'
+      -
         id: 93845
         name: Călugăreni
         latitude: '44.17167000'
@@ -465172,6 +465622,11 @@ country_city:
         name: Călui
         latitude: '44.45297000'
         longitude: '24.06360000'
+      -
+        id: 146349
+        name: Călușeri
+        latitude: '46.60637300'
+        longitude: '24.73717300'
       -
         id: 90566
         name: Calvini
@@ -465213,6 +465668,11 @@ country_city:
         latitude: '46.36667000'
         longitude: '23.05000000'
       -
+        id: 146342
+        name: Câmpenița
+        latitude: '46.65121100'
+        longitude: '24.48733800'
+      -
         id: 93797
         name: 'Câmpia Turzii'
         latitude: '46.55000000'
@@ -465227,6 +465687,11 @@ country_city:
         name: Câmpineanca
         latitude: '45.71166000'
         longitude: '27.12832000'
+      -
+        id: 146343
+        name: 'Câmpu Cetății'
+        latitude: '46.67042700'
+        longitude: '25.01397300'
       -
         id: 93800
         name: Câmpulung
@@ -465273,6 +465738,11 @@ country_city:
         latitude: '45.08333000'
         longitude: '25.21667000'
       -
+        id: 146344
+        name: Cându
+        latitude: '46.59917700'
+        longitude: '24.88790900'
+      -
         id: 93856
         name: Căneşti
         latitude: '45.40000000'
@@ -465282,6 +465752,11 @@ country_city:
         name: Căpâlna
         latitude: '46.73333000'
         longitude: '22.10000000'
+      -
+        id: 146352
+        name: 'Căpâlna de Sus'
+        latitude: '46.37846300'
+        longitude: '24.43502000'
       -
         id: 93863
         name: Căpâlniţa
@@ -465302,6 +465777,11 @@ country_city:
         name: Căpeni
         latitude: '46.04111000'
         longitude: '25.57858000'
+      -
+        id: 146350
+        name: Căpeți
+        latitude: '46.63147000'
+        longitude: '25.07876000'
       -
         id: 93858
         name: Căpleni
@@ -465337,6 +465817,11 @@ country_city:
         name: 'Capu Piscului'
         latitude: '45.17999000'
         longitude: '24.97679000'
+      -
+        id: 146351
+        name: 'Căpușu de Câmpie'
+        latitude: '46.54226300'
+        longitude: '24.31414200'
       -
         id: 93861
         name: 'Căpuşu Mare'
@@ -465392,6 +465877,11 @@ country_city:
         name: Cărbunari
         latitude: '44.83444000'
         longitude: '21.74417000'
+      -
+        id: 146761
+        name: Cărbunari
+        latitude: '47.57515600'
+        longitude: '23.64403400'
       -
         id: 93868
         name: Cărbuneşti
@@ -465478,6 +465968,11 @@ country_city:
         latitude: '45.18407000'
         longitude: '23.58052000'
       -
+        id: 146762
+        name: Cărpiniș
+        latitude: '47.57555500'
+        longitude: '23.70336500'
+      -
         id: 93819
         name: Cârţa
         latitude: '45.78333000'
@@ -465548,6 +466043,11 @@ country_city:
         latitude: '44.22865000'
         longitude: '23.13921000'
       -
+        id: 146288
+        name: Cașva
+        latitude: '46.78193600'
+        longitude: '24.87788000'
+      -
         id: 90596
         name: Caţa
         latitude: '46.08333000'
@@ -465557,6 +466057,11 @@ country_city:
         name: Catalina
         latitude: '45.96667000'
         longitude: '26.15000000'
+      -
+        id: 146763
+        name: Cătălina
+        latitude: '47.60383500'
+        longitude: '23.54459100'
       -
         id: 90588
         name: Cataloi
@@ -465628,6 +466133,11 @@ country_city:
         latitude: '47.66667000'
         longitude: '23.86667000'
       -
+        id: 95637
+        name: Cavnic
+        latitude: '47.64989000'
+        longitude: '23.82547000'
+      -
         id: 90593
         name: Cazaci
         latitude: '44.80152000'
@@ -465688,6 +466198,11 @@ country_city:
         latitude: '45.01175000'
         longitude: '23.20211000'
       -
+        id: 146289
+        name: Cecălaca
+        latitude: '46.39449200'
+        longitude: '24.04013200'
+      -
         id: 90606
         name: Cefa
         latitude: '46.91667000'
@@ -465717,6 +466232,11 @@ country_city:
         name: Ceica
         latitude: '46.85000000'
         longitude: '22.18333000'
+      -
+        id: 146290
+        name: Ceie
+        latitude: '46.46406600'
+        longitude: '24.98427000'
       -
         id: 90612
         name: Celaru
@@ -465797,6 +466317,16 @@ country_city:
         name: 'Cergău Mic'
         latitude: '46.08333000'
         longitude: '23.93333000'
+      -
+        id: 146291
+        name: Cerghid
+        latitude: '46.41450900'
+        longitude: '24.44602000'
+      -
+        id: 146292
+        name: Cerghizel
+        latitude: '46.44451000'
+        longitude: '24.44687800'
       -
         id: 90627
         name: Cermei
@@ -465908,10 +466438,25 @@ country_city:
         latitude: '46.24794000'
         longitude: '24.17244000'
       -
+        id: 146743
+        name: Cetățele
+        latitude: '47.59880900'
+        longitude: '23.73945000'
+      -
         id: 90650
         name: Cetăţeni
         latitude: '45.20000000'
         longitude: '25.18333000'
+      -
+        id: 146293
+        name: Ceuaș
+        latitude: '46.34277778'
+        longitude: '24.44305556'
+      -
+        id: 146294
+        name: 'Ceuașu de Câmpie'
+        latitude: '46.64293200'
+        longitude: '24.51387100'
       -
         id: 90651
         name: Cezieni
@@ -465922,6 +466467,11 @@ country_city:
         name: Checea
         latitude: '45.75298000'
         longitude: '20.83596000'
+      -
+        id: 146744
+        name: Chechiș
+        latitude: '47.58441400'
+        longitude: '23.60388500'
       -
         id: 90653
         name: Cheia
@@ -465937,6 +466487,11 @@ country_city:
         name: Chendrea
         latitude: '47.12236000'
         longitude: '23.29904000'
+      -
+        id: 146295
+        name: Chendu
+        latitude: '46.39086900'
+        longitude: '24.73045000'
       -
         id: 90656
         name: Cherechiu
@@ -465963,6 +466518,11 @@ country_city:
         latitude: '47.41943000'
         longitude: '22.33877000'
       -
+        id: 146296
+        name: Chețani
+        latitude: '46.47000000'
+        longitude: '24.03000000'
+      -
         id: 90659
         name: 'Chevereşu Mare'
         latitude: '45.66694000'
@@ -465972,6 +466532,11 @@ country_city:
         name: Chiajna
         latitude: '44.46000000'
         longitude: '25.97333000'
+      -
+        id: 146297
+        name: Chibed
+        latitude: '46.52944444'
+        longitude: '24.96333333'
       -
         id: 90663
         name: Chichiş
@@ -465988,6 +466553,16 @@ country_city:
         latitude: '47.38333000'
         longitude: '22.88333000'
       -
+        id: 146298
+        name: 'Chiheru de Jos'
+        latitude: '46.68700200'
+        longitude: '24.88163600'
+      -
+        id: 146299
+        name: 'Chiheru de Sus'
+        latitude: '46.68134800'
+        longitude: '24.90359800'
+      -
         id: 90666
         name: 'Chilia Veche'
         latitude: '45.41667000'
@@ -466002,6 +466577,16 @@ country_city:
         name: Chiliile
         latitude: '45.45000000'
         longitude: '26.58333000'
+      -
+        id: 146300
+        name: Chinari
+        latitude: '46.60525700'
+        longitude: '24.58969100'
+      -
+        id: 146301
+        name: Chinciuș
+        latitude: '46.35235400'
+        longitude: '24.18323300'
       -
         id: 90669
         name: Chinteni
@@ -466048,6 +466633,11 @@ country_city:
         latitude: '44.05036000'
         longitude: '25.77726000'
       -
+        id: 146302
+        name: Chirileu
+        latitude: '46.47664400'
+        longitude: '24.38296500'
+      -
         id: 90678
         name: Chirnogeni
         latitude: '43.90000000'
@@ -466062,6 +466652,11 @@ country_city:
         name: Chirpăr
         latitude: '45.90000000'
         longitude: '24.60000000'
+      -
+        id: 146303
+        name: Chisălița
+        latitude: '46.56809100'
+        longitude: '24.31475700'
       -
         id: 90681
         name: Chiscani
@@ -466123,10 +466718,25 @@ country_city:
         latitude: '47.23333000'
         longitude: '24.25000000'
       -
+        id: 146745
+        name: Chiuzbaia
+        latitude: '47.69954800'
+        longitude: '23.68056000'
+      -
         id: 90693
         name: Ciacova
         latitude: '45.50806000'
         longitude: '21.12861000'
+      -
+        id: 146304
+        name: Ciba
+        latitude: '46.47922600'
+        longitude: '24.56806300'
+      -
+        id: 146305
+        name: Cibu
+        latitude: '46.37903800'
+        longitude: '24.80370800'
       -
         id: 90699
         name: Cicănești
@@ -466178,15 +466788,30 @@ country_city:
         latitude: '45.91667000'
         longitude: '24.80000000'
       -
+        id: 146306
+        name: Cinta
+        latitude: '46.46022000'
+        longitude: '24.55103800'
+      -
         id: 90704
         name: Cintei
         latitude: '46.44434000'
         longitude: '21.56556000'
       -
+        id: 146307
+        name: Cioarga
+        latitude: '46.49385600'
+        longitude: '24.07296500'
+      -
         id: 90705
         name: Ciobanu
         latitude: '44.71759000'
         longitude: '27.98698000'
+      -
+        id: 146308
+        name: Ciobotani
+        latitude: '46.95037600'
+        longitude: '25.26872900'
       -
         id: 90713
         name: Ciocănari
@@ -466243,6 +466868,11 @@ country_city:
         latitude: '44.81667000'
         longitude: '27.23333000'
       -
+        id: 146746
+        name: Ciocotiș
+        latitude: '47.55666000'
+        longitude: '23.79649900'
+      -
         id: 90717
         name: Ciofliceni
         latitude: '44.68122000'
@@ -466262,6 +466892,11 @@ country_city:
         name: Ciolpani
         latitude: '44.73333000'
         longitude: '26.08333000'
+      -
+        id: 146747
+        name: Ciolt
+        latitude: '47.48385400'
+        longitude: '23.50944300'
       -
         id: 90721
         name: Ciomăgeşti
@@ -466313,6 +466948,16 @@ country_city:
         latitude: '46.90000000'
         longitude: '27.83333000'
       -
+        id: 146309
+        name: Cipaieni
+        latitude: '46.53242900'
+        longitude: '24.16726100'
+      -
+        id: 146310
+        name: Cipău
+        latitude: '46.44875700'
+        longitude: '24.27785900'
+      -
         id: 90731
         name: 'Ciprian Porumbescu'
         latitude: '47.56667000'
@@ -466337,6 +466982,16 @@ country_city:
         name: Cireşu
         latitude: '44.95000000'
         longitude: '27.35000000'
+      -
+        id: 146311
+        name: Ciretea
+        latitude: '46.60623600'
+        longitude: '24.17041800'
+      -
+        id: 146312
+        name: Cirhagău
+        latitude: '46.66041500'
+        longitude: '24.10686800'
       -
         id: 90736
         name: Cislău
@@ -466398,6 +467053,11 @@ country_city:
         latitude: '46.05000000'
         longitude: '23.61667000'
       -
+        id: 146313
+        name: Ciulea
+        latitude: '46.66667800'
+        longitude: '24.26355200'
+      -
         id: 90747
         name: Ciulniţa
         latitude: '44.53333000'
@@ -466453,6 +467113,11 @@ country_city:
         latitude: '47.05000000'
         longitude: '27.56667000'
       -
+        id: 146314
+        name: Ciurgău
+        latitude: '46.50132300'
+        longitude: '24.10504400'
+      -
         id: 90758
         name: Ciurila
         latitude: '46.65000000'
@@ -466467,6 +467132,11 @@ country_city:
         name: Ciușlea
         latitude: '45.78761000'
         longitude: '27.30644000'
+      -
+        id: 146748
+        name: Ciuta
+        latitude: '47.44713800'
+        longitude: '22.98833000'
       -
         id: 90760
         name: Ciutelec
@@ -466503,6 +467173,11 @@ country_city:
         latitude: '47.75396000'
         longitude: '25.85691000'
       -
+        id: 146315
+        name: Cloașterf
+        latitude: '46.14655300'
+        longitude: '24.99720400'
+      -
         id: 90769
         name: Clocotici
         latitude: '45.24495000'
@@ -466532,6 +467207,16 @@ country_city:
         name: Coaș
         latitude: '47.53957000'
         longitude: '23.58584000'
+      -
+        id: 146316
+        name: 'Coasta Grindului'
+        latitude: '46.49549800'
+        longitude: '23.98263600'
+      -
+        id: 146317
+        name: 'Coasta Mare'
+        latitude: '46.69290700'
+        longitude: '24.36331000'
       -
         id: 90775
         name: Cobadin
@@ -466592,6 +467277,11 @@ country_city:
         name: Codlea
         latitude: '45.70000000'
         longitude: '25.45000000'
+      -
+        id: 146749
+        name: 'Codru Butesii'
+        latitude: '47.46817900'
+        longitude: '23.60146300'
       -
         id: 90787
         name: Cogealac
@@ -466673,6 +467363,11 @@ country_city:
         latitude: '45.38333000'
         longitude: '26.38333000'
       -
+        id: 146750
+        name: Colțirea
+        latitude: '47.60996100'
+        longitude: '23.40519700'
+      -
         id: 90803
         name: Comana
         latitude: '44.17056000'
@@ -466742,6 +467437,11 @@ country_city:
         name: 'Comloşu Mare'
         latitude: '45.89056000'
         longitude: '20.62722000'
+      -
+        id: 146318
+        name: Comori
+        latitude: '46.73580300'
+        longitude: '24.89690600'
       -
         id: 90815
         name: Comoșteni
@@ -470218,6 +470918,11 @@ country_city:
         latitude: '46.28891000'
         longitude: '27.49249000'
       -
+        id: 146319
+        name: 'Comuna Coroisânmartin'
+        latitude: '46.40376000'
+        longitude: '24.59766000'
+      -
         id: 91448
         name: 'Comuna Corund'
         latitude: '46.48060000'
@@ -472987,6 +473692,11 @@ country_city:
         name: 'Comuna Ibăneşti'
         latitude: '48.04435000'
         longitude: '26.40450000'
+      -
+        id: 146320
+        name: 'Comuna Ibănești Pădure'
+        latitude: '46.76302000'
+        longitude: '25.03118000'
       -
         id: 92059
         name: 'Comuna Iclod'
@@ -476988,6 +477698,11 @@ country_city:
         latitude: '44.94214000'
         longitude: '27.21863000'
       -
+        id: 146321
+        name: 'Comuna Rușii Munți'
+        latitude: '46.91988000'
+        longitude: '24.83521000'
+      -
         id: 93078
         name: 'Comuna Săbăoani'
         latitude: '47.00187000'
@@ -480698,6 +481413,11 @@ country_city:
         latitude: '47.61667000'
         longitude: '26.83333000'
       -
+        id: 146751
+        name: Copalnic
+        latitude: '47.52041800'
+        longitude: '23.65562700'
+      -
         id: 93601
         name: 'Copalnic Mănăştur'
         latitude: '47.50000000'
@@ -480727,6 +481447,11 @@ country_city:
         name: Corbeni
         latitude: '45.30000000'
         longitude: '24.65000000'
+      -
+        id: 146322
+        name: Corbești
+        latitude: '46.42943000'
+        longitude: '24.59075500'
       -
         id: 93614
         name: Corbi
@@ -480783,6 +481508,11 @@ country_city:
         latitude: '46.95000000'
         longitude: '21.98333000'
       -
+        id: 146323
+        name: Cordoș
+        latitude: '46.51284700'
+        longitude: '24.02304400'
+      -
         id: 93623
         name: Cordun
         latitude: '46.95000000'
@@ -480838,6 +481568,16 @@ country_city:
         latitude: '44.78333000'
         longitude: '25.86667000'
       -
+        id: 146324
+        name: Cornești
+        latitude: '46.29222222'
+        longitude: '24.21277778'
+      -
+        id: 146752
+        name: Cornești
+        latitude: '47.81675500'
+        longitude: '23.96811700'
+      -
         id: 93632
         name: Cornetu
         latitude: '45.50456000'
@@ -480857,6 +481597,11 @@ country_city:
         name: Corni
         latitude: '45.85000000'
         longitude: '27.76667000'
+      -
+        id: 146753
+        name: Corni
+        latitude: '47.47831800'
+        longitude: '23.01904200'
       -
         id: 93638
         name: Corni-Albești
@@ -480893,6 +481638,11 @@ country_city:
         latitude: '45.90000000'
         longitude: '27.61667000'
       -
+        id: 146325
+        name: Coroi
+        latitude: '46.40909900'
+        longitude: '24.63389100'
+      -
         id: 93647
         name: Coroieni
         latitude: '47.36667000'
@@ -480912,6 +481662,16 @@ country_city:
         name: Coropceni
         latitude: '46.94193000'
         longitude: '27.83710000'
+      -
+        id: 146754
+        name: Coruia
+        latitude: '47.56334800'
+        longitude: '23.59653000'
+      -
+        id: 146326
+        name: Corunca
+        latitude: '46.51666667'
+        longitude: '24.61666667'
       -
         id: 93651
         name: Corund
@@ -480998,6 +481758,11 @@ country_city:
         latitude: '45.74111000'
         longitude: '21.84917000'
       -
+        id: 146755
+        name: Costeni
+        latitude: '47.53705400'
+        longitude: '23.91464600'
+      -
         id: 93658
         name: Costeşti
         latitude: '45.15000000'
@@ -481052,6 +481817,11 @@ country_city:
         name: Costişa
         latitude: '46.75000000'
         longitude: '26.65000000'
+      -
+        id: 146756
+        name: Coștiui
+        latitude: '47.87931200'
+        longitude: '24.03031700'
       -
         id: 93669
         name: Costuleni
@@ -481108,6 +481878,11 @@ country_city:
         latitude: '44.45971000'
         longitude: '23.65688000'
       -
+        id: 146327
+        name: Cotorinau
+        latitude: '46.72378800'
+        longitude: '24.37166200'
+      -
         id: 93677
         name: 'Cotu Vameș'
         latitude: '46.90600000'
@@ -481117,6 +481892,11 @@ country_city:
         name: Cotumba
         latitude: '46.49743000'
         longitude: '26.19112000'
+      -
+        id: 146328
+        name: Cotuș
+        latitude: '46.57562100'
+        longitude: '24.67169900'
       -
         id: 93696
         name: Coţuşca
@@ -481152,6 +481932,11 @@ country_city:
         name: Cozieni
         latitude: '45.33333000'
         longitude: '26.48333000'
+      -
+        id: 146329
+        name: Cozma
+        latitude: '46.80707200'
+        longitude: '24.52253200'
       -
         id: 93685
         name: Cozmeni
@@ -481193,6 +481978,11 @@ country_city:
         latitude: '47.95551000'
         longitude: '23.98267000'
       -
+        id: 146332
+        name: Crăciunești
+        latitude: '46.47930000'
+        longitude: '24.58234000'
+      -
         id: 93703
         name: Craidorolţ
         latitude: '47.61667000'
@@ -481202,6 +481992,11 @@ country_city:
         name: Crăiești
         latitude: '45.94314000'
         longitude: '27.81136000'
+      -
+        id: 146333
+        name: Crăiești
+        latitude: '46.29628000'
+        longitude: '24.19674800'
       -
         id: 93704
         name: Craiova
@@ -481293,6 +482088,11 @@ country_city:
         latitude: '45.63333000'
         longitude: '22.06667000'
       -
+        id: 146331
+        name: Criș
+        latitude: '46.14388889'
+        longitude: '24.69388889'
+      -
         id: 93733
         name: Crişan
         latitude: '44.96667000'
@@ -481327,6 +482127,11 @@ country_city:
         name: Cristești
         latitude: '47.16224000'
         longitude: '27.08155000'
+      -
+        id: 146330
+        name: Cristești
+        latitude: '46.50000000'
+        longitude: '24.48333333'
       -
         id: 93721
         name: 'Cristeștii Ciceului'
@@ -481448,6 +482253,16 @@ country_city:
         latitude: '44.95000000'
         longitude: '24.51667000'
       -
+        id: 146334
+        name: Cucerdea
+        latitude: '46.40222222'
+        longitude: '24.26583333'
+      -
+        id: 146335
+        name: Cuci
+        latitude: '46.47000000'
+        longitude: '24.15000000'
+      -
         id: 93758
         name: Cuciulata
         latitude: '45.94389000'
@@ -481483,15 +482298,30 @@ country_city:
         latitude: '46.99040000'
         longitude: '26.29455000'
       -
+        id: 146757
+        name: Cufoaia
+        latitude: '47.47924400'
+        longitude: '23.80338200'
+      -
         id: 93765
         name: Cugir
         latitude: '45.83651000'
         longitude: '23.36998000'
       -
+        id: 146336
+        name: Cuieșd
+        latitude: '46.60168200'
+        longitude: '24.47811600'
+      -
         id: 93766
         name: Cujmir
         latitude: '44.20667000'
         longitude: '22.92667000'
+      -
+        id: 146758
+        name: Culcea
+        latitude: '47.56609000'
+        longitude: '23.55536200'
       -
         id: 93767
         name: 'Culciu Mic'
@@ -481503,10 +482333,20 @@ country_city:
         latitude: '44.25759000'
         longitude: '28.46643000'
       -
+        id: 146337
+        name: Culpiu
+        latitude: '46.63960800'
+        longitude: '24.43258000'
+      -
         id: 93769
         name: Cumpăna
         latitude: '44.11667000'
         longitude: '28.56667000'
+      -
+        id: 146338
+        name: Cund
+        latitude: '46.27278100'
+        longitude: '24.51228800'
       -
         id: 93770
         name: Cungrea
@@ -481528,6 +482368,11 @@ country_city:
         latitude: '44.20000000'
         longitude: '26.58333000'
       -
+        id: 146339
+        name: Curețe
+        latitude: '46.74116800'
+        longitude: '24.43177000'
+      -
         id: 93773
         name: Curtea
         latitude: '45.81667000'
@@ -481537,6 +482382,11 @@ country_city:
         name: 'Curtea de Argeş'
         latitude: '45.13422000'
         longitude: '24.67409000'
+      -
+        id: 146340
+        name: Curteni
+        latitude: '46.59436100'
+        longitude: '24.57501100'
       -
         id: 93775
         name: Curteşti
@@ -481557,6 +482407,21 @@ country_city:
         name: Curtuișeni
         latitude: '47.54633000'
         longitude: '22.20263000'
+      -
+        id: 146759
+        name: 'Curtuiușu Mare'
+        latitude: '47.42743300'
+        longitude: '23.44777200'
+      -
+        id: 146760
+        name: 'Curtuiușu Mic'
+        latitude: '47.54299300'
+        longitude: '23.62531100'
+      -
+        id: 146341
+        name: Cuștelnic
+        latitude: '46.33896200'
+        longitude: '24.31176800'
       -
         id: 93780
         name: Cut
@@ -481643,6 +482508,11 @@ country_city:
         latitude: '44.00000000'
         longitude: '25.98333000'
       -
+        id: 146353
+        name: Daia
+        latitude: '46.14444444'
+        longitude: '24.89861111'
+      -
         id: 93889
         name: 'Daia Română'
         latitude: '46.01667000'
@@ -481663,10 +482533,20 @@ country_city:
         latitude: '45.92242000'
         longitude: '25.98741000'
       -
+        id: 146354
+        name: Dalu
+        latitude: '46.54544100'
+        longitude: '24.08882800'
+      -
         id: 94122
         name: Dămăcușeni
         latitude: '47.45709000'
         longitude: '23.90914000'
+      -
+        id: 146374
+        name: Dâmbău
+        latitude: '46.31997900'
+        longitude: '24.23443000'
       -
         id: 94104
         name: Dâmbovicioara
@@ -481688,10 +482568,20 @@ country_city:
         latitude: '45.04533000'
         longitude: '25.88854000'
       -
+        id: 146373
+        name: Dâmbu
+        latitude: '46.74256000'
+        longitude: '24.26858500'
+      -
         id: 94119
         name: Dămieneşti
         latitude: '46.73333000'
         longitude: '26.98333000'
+      -
+        id: 146375
+        name: Dămieni
+        latitude: '46.62612200'
+        longitude: '24.86071400'
       -
         id: 94120
         name: Dămoc
@@ -481723,6 +482613,16 @@ country_city:
         latitude: '44.15000000'
         longitude: '24.56667000'
       -
+        id: 146355
+        name: Daneș
+        latitude: '46.22111111'
+        longitude: '24.70472222'
+      -
+        id: 146770
+        name: Dănești
+        latitude: '47.61980900'
+        longitude: '23.73249900'
+      -
         id: 94126
         name: Dăneşti
         latitude: '46.85000000'
@@ -481737,6 +482637,11 @@ country_city:
         name: Dăneşti
         latitude: '46.51667000'
         longitude: '25.75000000'
+      -
+        id: 146771
+        name: 'Dăneștii Chioarului'
+        latitude: '47.55381600'
+        longitude: '23.34478400'
       -
         id: 94129
         name: Dăneţi
@@ -481833,10 +482738,25 @@ country_city:
         latitude: '44.60000000'
         longitude: '26.23333000'
       -
+        id: 146376
+        name: Dătășeni
+        latitude: '46.47474800'
+        longitude: '24.17485200'
+      -
         id: 93898
         name: Davideşti
         latitude: '45.01667000'
         longitude: '25.03333000'
+      -
+        id: 146356
+        name: Deag
+        latitude: '46.38918500'
+        longitude: '24.19220400'
+      -
+        id: 146357
+        name: Deaj
+        latitude: '46.34710800'
+        longitude: '24.40206500'
       -
         id: 93899
         name: Dealu
@@ -481853,6 +482773,11 @@ country_city:
         latitude: '44.98252000'
         longitude: '23.86749000'
       -
+        id: 146764
+        name: 'Dealu Corbului'
+        latitude: '47.44966500'
+        longitude: '23.68523300'
+      -
         id: 93902
         name: 'Dealu Dănicei'
         latitude: '44.90000000'
@@ -481868,6 +482793,11 @@ country_city:
         latitude: '45.16072000'
         longitude: '25.44871000'
       -
+        id: 146765
+        name: 'Dealu Mare'
+        latitude: '47.36026500'
+        longitude: '23.81520600'
+      -
         id: 93905
         name: 'Dealu Morii'
         latitude: '46.31667000'
@@ -481882,6 +482812,16 @@ country_city:
         name: Decindeni
         latitude: '44.91234000'
         longitude: '25.32607000'
+      -
+        id: 146358
+        name: Deda
+        latitude: '46.93333333'
+        longitude: '24.90000000'
+      -
+        id: 146359
+        name: Dedrad
+        latitude: '46.81666667'
+        longitude: '24.66666667'
       -
         id: 93908
         name: Dedulești
@@ -481927,6 +482867,11 @@ country_city:
         name: Deleni
         latitude: '46.35360000'
         longitude: '26.77628000'
+      -
+        id: 146360
+        name: Deleni
+        latitude: '46.26340300'
+        longitude: '24.34119000'
       -
         id: 93917
         name: Deleşti
@@ -482028,6 +482973,16 @@ country_city:
         latitude: '46.31667000'
         longitude: '22.25000000'
       -
+        id: 146361
+        name: 'Dileu Nou'
+        latitude: '46.46326500'
+        longitude: '24.33267600'
+      -
+        id: 146362
+        name: 'Dileu Vechi'
+        latitude: '46.47109000'
+        longitude: '24.30987500'
+      -
         id: 93937
         name: Dimăcheni
         latitude: '47.91139000'
@@ -482103,6 +483058,11 @@ country_city:
         latitude: '45.91667000'
         longitude: '22.56667000'
       -
+        id: 146363
+        name: Dobra
+        latitude: '46.58142400'
+        longitude: '24.23734900'
+      -
         id: 93950
         name: Dobreni
         latitude: '44.41667000'
@@ -482142,6 +483102,11 @@ country_city:
         name: Dobric
         latitude: '47.24690000'
         longitude: '24.12777000'
+      -
+        id: 146766
+        name: 'Dobricu Lăpușului'
+        latitude: '47.49748400'
+        longitude: '23.90800600'
       -
         id: 93958
         name: Dobridor
@@ -482408,6 +483373,11 @@ country_city:
         latitude: '44.22676000'
         longitude: '24.98542000'
       -
+        id: 146365
+        name: 'Drăculea Bandului'
+        latitude: '46.62041700'
+        longitude: '24.33844200'
+      -
         id: 94055
         name: 'Drăgăești Ungureni'
         latitude: '44.94557000'
@@ -482472,6 +483442,11 @@ country_city:
         name: Drăgeşti
         latitude: '46.88333000'
         longitude: '22.13333000'
+      -
+        id: 146767
+        name: Drăghia
+        latitude: '47.35166300'
+        longitude: '23.77478400'
       -
         id: 94038
         name: Drăghiceni
@@ -482542,6 +483517,11 @@ country_city:
         name: Dragomireşti
         latitude: '44.91667000'
         longitude: '25.33333000'
+      -
+        id: 95639
+        name: Dragomireşti
+        latitude: '47.66860000'
+        longitude: '24.29542000'
       -
         id: 94020
         name: Dragomirești-Deal
@@ -482673,6 +483653,16 @@ country_city:
         latitude: '44.62693000'
         longitude: '22.65288000'
       -
+        id: 146364
+        name: Drojdii
+        latitude: '46.54596600'
+        longitude: '24.85711100'
+      -
+        id: 146366
+        name: 'Dubiștea de Pădure'
+        latitude: '46.77679100'
+        longitude: '24.96515100'
+      -
         id: 94066
         name: Dubova
         latitude: '44.61667000'
@@ -482707,6 +483697,11 @@ country_city:
         name: Dudu
         latitude: '43.97897000'
         longitude: '24.67786000'
+      -
+        id: 146367
+        name: Dulcea
+        latitude: '46.75769000'
+        longitude: '25.03246700'
       -
         id: 94073
         name: Dulceşti
@@ -482748,6 +483743,16 @@ country_city:
         latitude: '47.21620000'
         longitude: '26.46309000'
       -
+        id: 146368
+        name: Dumbrava
+        latitude: '46.94206800'
+        longitude: '24.80491400'
+      -
+        id: 146768
+        name: Dumbrava
+        latitude: '47.49324800'
+        longitude: '23.87236300'
+      -
         id: 94082
         name: 'Dumbrava de Sus'
         latitude: '44.51667000'
@@ -482782,6 +483787,11 @@ country_city:
         name: Dumbrăveşti
         latitude: '45.08333000'
         longitude: '26.00000000'
+      -
+        id: 146369
+        name: Dumbrăvioara
+        latitude: '46.64096000'
+        longitude: '24.63796700'
       -
         id: 94088
         name: Dumbrăviţa
@@ -482833,6 +483843,11 @@ country_city:
         latitude: '47.21667000'
         longitude: '24.48333000'
       -
+        id: 146370
+        name: Dumitreni
+        latitude: '46.40092600'
+        longitude: '24.75854800'
+      -
         id: 94098
         name: Dumitrești
         latitude: '44.68370000'
@@ -482842,6 +483857,11 @@ country_city:
         name: Dumitrești
         latitude: '45.55243000'
         longitude: '26.92727000'
+      -
+        id: 146371
+        name: Dumitreștii
+        latitude: '46.52174500'
+        longitude: '24.78759200'
       -
         id: 94100
         name: Dumitrița
@@ -482853,10 +483873,20 @@ country_city:
         latitude: '44.20463000'
         longitude: '27.79058000'
       -
+        id: 146372
+        name: 'După Deal'
+        latitude: '46.51740800'
+        longitude: '24.24629600'
+      -
         id: 94102
         name: Durneşti
         latitude: '47.76667000'
         longitude: '27.10000000'
+      -
+        id: 146769
+        name: Durușa
+        latitude: '47.41291400'
+        longitude: '23.46473400'
       -
         id: 94137
         name: 'Eforie Nord'
@@ -482897,6 +483927,26 @@ country_city:
         name: Erbiceni
         latitude: '47.26667000'
         longitude: '27.23333000'
+      -
+        id: 146377
+        name: Ercea
+        latitude: '46.73081400'
+        longitude: '24.51057400'
+      -
+        id: 146378
+        name: Eremieni
+        latitude: '46.53641900'
+        longitude: '24.87158200'
+      -
+        id: 146379
+        name: Eremitu
+        latitude: '46.66666667'
+        longitude: '24.93333333'
+      -
+        id: 146380
+        name: Ernei
+        latitude: '46.60000000'
+        longitude: '24.65000000'
       -
         id: 94147
         name: Eşelniţa
@@ -482983,6 +484033,31 @@ country_city:
         latitude: '47.45000000'
         longitude: '26.30000000'
       -
+        id: 146391
+        name: Fânațe
+        latitude: '46.53239000'
+        longitude: '24.21537200'
+      -
+        id: 146779
+        name: Fânațe
+        latitude: '47.53463800'
+        longitude: '23.75791900'
+      -
+        id: 146392
+        name: 'Fânațele Mădărașului'
+        latitude: '46.62596200'
+        longitude: '24.36273200'
+      -
+        id: 146393
+        name: 'Fânațele Socolului'
+        latitude: '46.79298700'
+        longitude: '24.48803200'
+      -
+        id: 146394
+        name: 'Fântâna Babii'
+        latitude: '46.67742200'
+        longitude: '24.33776400'
+      -
         id: 94235
         name: 'Fântâna Mare'
         latitude: '47.41432000'
@@ -483027,6 +484102,21 @@ country_city:
         name: Fântânele
         latitude: '44.71667000'
         longitude: '25.86667000'
+      -
+        id: 146395
+        name: Fântânele
+        latitude: '46.41666667'
+        longitude: '24.75000000'
+      -
+        id: 146780
+        name: Fântânele
+        latitude: '47.41135100'
+        longitude: '23.82600000'
+      -
+        id: 146396
+        name: Fărăgău
+        latitude: '46.77000000'
+        longitude: '24.52000000'
       -
         id: 94150
         name: Faraoaní
@@ -483113,6 +484203,11 @@ country_city:
         latitude: '44.56667000'
         longitude: '24.01667000'
       -
+        id: 146781
+        name: Făurești
+        latitude: '47.56319400'
+        longitude: '23.75004900'
+      -
         id: 94151
         name: Feisa
         latitude: '46.22608000'
@@ -483132,6 +484227,11 @@ country_city:
         name: Feleacu
         latitude: '46.71667000'
         longitude: '23.61667000'
+      -
+        id: 146381
+        name: Feleag
+        latitude: '46.24110000'
+        longitude: '25.01418800'
       -
         id: 94155
         name: Feliceni
@@ -483153,10 +484253,25 @@ country_city:
         latitude: '46.78179000'
         longitude: '27.70093000'
       -
+        id: 146772
+        name: Ferești
+        latitude: '47.83055556'
+        longitude: '23.94916667'
+      -
         id: 94158
         name: Ferestrău-Oituz
         latitude: '46.20249000'
         longitude: '26.57629000'
+      -
+        id: 146773
+        name: Fericea
+        latitude: '47.40662600'
+        longitude: '23.39370000'
+      -
+        id: 146774
+        name: Fersig
+        latitude: '47.54049300'
+        longitude: '23.38371200'
       -
         id: 94160
         name: Feteşti
@@ -483208,6 +484323,11 @@ country_city:
         latitude: '46.93333000'
         longitude: '23.06667000'
       -
+        id: 146382
+        name: Filea
+        latitude: '46.94179700'
+        longitude: '24.88375500'
+      -
         id: 94170
         name: Filia
         latitude: '46.14409000'
@@ -483248,6 +484368,21 @@ country_city:
         latitude: '44.98333000'
         longitude: '25.78333000'
       -
+        id: 146383
+        name: Filitelnic
+        latitude: '46.36694444'
+        longitude: '24.66611111'
+      -
+        id: 146384
+        name: 'Filpișu Mare'
+        latitude: '46.75332700'
+        longitude: '24.58749800'
+      -
+        id: 146385
+        name: 'Filpișu Mic'
+        latitude: '46.78219700'
+        longitude: '24.60124800'
+      -
         id: 94178
         name: Finiş
         latitude: '46.63333000'
@@ -483258,10 +484393,30 @@ country_city:
         latitude: '44.80000000'
         longitude: '25.80000000'
       -
+        id: 146775
+        name: 'Finteușu Mare'
+        latitude: '47.54000600'
+        longitude: '23.46451200'
+      -
+        id: 146776
+        name: 'Finteușu Mic'
+        latitude: '47.56778800'
+        longitude: '23.45390100'
+      -
+        id: 146777
+        name: Firiza
+        latitude: '47.74889200'
+        longitude: '23.60494900'
+      -
         id: 94183
         name: Fișer
         latitude: '46.07912000'
         longitude: '25.15103000'
+      -
+        id: 146386
+        name: Fițcău
+        latitude: '46.89908200'
+        longitude: '24.87000200'
       -
         id: 94180
         name: Fitioneşti
@@ -483338,6 +484493,11 @@ country_city:
         latitude: '47.25000000'
         longitude: '22.53333000'
       -
+        id: 146387
+        name: Foi
+        latitude: '46.47996100'
+        longitude: '24.59973400'
+      -
         id: 94196
         name: Foieni
         latitude: '47.70000000'
@@ -483362,6 +484522,11 @@ country_city:
         name: Forotic
         latitude: '45.23028000'
         longitude: '21.58750000'
+      -
+        id: 146778
+        name: 'Frâncenii Boiului'
+        latitude: '47.39969200'
+        longitude: '23.61791000'
       -
         id: 94201
         name: Frasin
@@ -483463,6 +484628,11 @@ country_city:
         latitude: '46.20634000'
         longitude: '27.76904000'
       -
+        id: 146388
+        name: Frunzeni
+        latitude: '46.81445800'
+        longitude: '24.56796900'
+      -
         id: 94216
         name: Frunzi
         latitude: '46.90000000'
@@ -483483,6 +484653,11 @@ country_city:
         latitude: '45.45000000'
         longitude: '25.30000000'
       -
+        id: 146390
+        name: Fundătura
+        latitude: '46.54329000'
+        longitude: '24.04357400'
+      -
         id: 94225
         name: Fundeni
         latitude: '44.38333000'
@@ -483502,6 +484677,11 @@ country_city:
         name: Fundeni
         latitude: '45.29141000'
         longitude: '26.88028000'
+      -
+        id: 146389
+        name: Fundoaia
+        latitude: '46.82762500'
+        longitude: '24.90466000'
       -
         id: 94229
         name: 'Fundu Moldovei'
@@ -483563,6 +484743,11 @@ country_city:
         latitude: '46.33333000'
         longitude: '27.21667000'
       -
+        id: 146418
+        name: Găiești
+        latitude: '46.42549700'
+        longitude: '24.67088000'
+      -
         id: 94501
         name: Găinești
         latitude: '47.41968000'
@@ -483578,6 +484763,11 @@ country_city:
         latitude: '47.91667000'
         longitude: '25.80000000'
       -
+        id: 146420
+        name: Gălăoaia
+        latitude: '46.97086700'
+        longitude: '24.91824900'
+      -
         id: 94508
         name: Gălășești
         latitude: '44.95593000'
@@ -483587,6 +484777,11 @@ country_city:
         name: Gălăţeni
         latitude: '44.21667000'
         longitude: '25.35000000'
+      -
+        id: 146421
+        name: Gălățeni
+        latitude: '46.47319700'
+        longitude: '24.70785400'
       -
         id: 94272
         name: Galaţi
@@ -483633,6 +484828,11 @@ country_city:
         latitude: '44.30544000'
         longitude: '27.66972000'
       -
+        id: 146419
+        name: Gălești
+        latitude: '46.51666667'
+        longitude: '24.75000000'
+      -
         id: 94478
         name: Gâlgău
         latitude: '47.28183000'
@@ -483668,6 +484868,11 @@ country_city:
         latitude: '46.28810000'
         longitude: '21.65137000'
       -
+        id: 146417
+        name: Gâmbuț
+        latitude: '46.35242400'
+        longitude: '24.06523300'
+      -
         id: 94509
         name: Găneasa
         latitude: '44.41667000'
@@ -483682,6 +484887,11 @@ country_city:
         name: Gănești
         latitude: '46.08970000'
         longitude: '27.99337000'
+      -
+        id: 146422
+        name: Gănești
+        latitude: '46.33000000'
+        longitude: '24.35000000'
       -
         id: 94480
         name: Gângiova
@@ -483788,6 +484998,11 @@ country_city:
         latitude: '43.73333000'
         longitude: '25.70000000'
       -
+        id: 146397
+        name: 'Gaura Sângerului'
+        latitude: '46.60031700'
+        longitude: '24.12539700'
+      -
         id: 94515
         name: Găvănești
         latitude: '45.08825000'
@@ -483873,6 +485088,11 @@ country_city:
         latitude: '44.98701000'
         longitude: '25.30670000'
       -
+        id: 146398
+        name: Gheja
+        latitude: '46.44494800'
+        longitude: '24.06135900'
+      -
         id: 94298
         name: Ghelari
         latitude: '45.71667000'
@@ -483892,6 +485112,11 @@ country_city:
         name: 'Gheorghe Doja'
         latitude: '44.61622000'
         longitude: '27.18740000'
+      -
+        id: 146399
+        name: 'Gheorghe Doja'
+        latitude: '46.46666667'
+        longitude: '24.50000000'
       -
         id: 94302
         name: 'Gheorghe Lazăr'
@@ -483963,6 +485188,11 @@ country_city:
         latitude: '45.43315000'
         longitude: '21.58126000'
       -
+        id: 146400
+        name: Ghidașteu
+        latitude: '46.55460300'
+        longitude: '24.26810100'
+      -
         id: 94316
         name: Ghidfalău
         latitude: '45.90000000'
@@ -484028,6 +485258,11 @@ country_city:
         latitude: '44.65000000'
         longitude: '28.03333000'
       -
+        id: 146401
+        name: Ghindari
+        latitude: '46.50000000'
+        longitude: '24.91666667'
+      -
         id: 94327
         name: Ghindeni
         latitude: '44.21223000'
@@ -484037,6 +485272,11 @@ country_city:
         name: Ghinești
         latitude: '44.74774000'
         longitude: '25.55300000'
+      -
+        id: 146402
+        name: Ghinești
+        latitude: '46.49611100'
+        longitude: '24.86619200'
       -
         id: 94331
         name: Ghioca
@@ -484138,6 +485378,11 @@ country_city:
         latitude: '47.81667000'
         longitude: '23.93333000'
       -
+        id: 146403
+        name: Giuluș
+        latitude: '46.40126200'
+        longitude: '24.31114300'
+      -
         id: 94351
         name: Giulvăz
         latitude: '45.54889000'
@@ -484147,6 +485392,11 @@ country_city:
         name: Giurgeni
         latitude: '44.76667000'
         longitude: '27.88333000'
+      -
+        id: 146404
+        name: Giurgiș
+        latitude: '46.51705900'
+        longitude: '23.96957900'
       -
         id: 94354
         name: Giurgiţa
@@ -484167,6 +485417,11 @@ country_city:
         name: Giuvărăşti
         latitude: '43.80000000'
         longitude: '24.70000000'
+      -
+        id: 146406
+        name: Glăjărie
+        latitude: '46.83271000'
+        longitude: '24.93285000'
       -
         id: 94366
         name: Glăvăneşti
@@ -484193,6 +485448,11 @@ country_city:
         latitude: '45.24163000'
         longitude: '25.44994000'
       -
+        id: 146782
+        name: Glod
+        latitude: '47.72711800'
+        longitude: '24.08322500'
+      -
         id: 94361
         name: Glodeanu-Sărat
         latitude: '44.86667000'
@@ -484207,6 +485467,11 @@ country_city:
         name: Glodeni
         latitude: '45.01667000'
         longitude: '25.46667000'
+      -
+        id: 146405
+        name: Glodeni
+        latitude: '46.65000000'
+        longitude: '24.60000000'
       -
         id: 94363
         name: 'Glodenii Gândului'
@@ -484237,6 +485502,11 @@ country_city:
         name: Goești
         latitude: '47.15654000'
         longitude: '27.13659000'
+      -
+        id: 146407
+        name: Gogan
+        latitude: '46.30491700'
+        longitude: '24.51711900'
       -
         id: 94371
         name: Gogoşari
@@ -484303,6 +485573,11 @@ country_city:
         latitude: '47.78333000'
         longitude: '26.85000000'
       -
+        id: 146408
+        name: Goreni
+        latitude: '46.85458100'
+        longitude: '24.65413800'
+      -
         id: 94384
         name: Gorganu
         latitude: '44.84241000'
@@ -484317,6 +485592,11 @@ country_city:
         name: Gorgota
         latitude: '44.97626000'
         longitude: '25.50837000'
+      -
+        id: 146409
+        name: Gornești
+        latitude: '46.66666667'
+        longitude: '24.65000000'
       -
         id: 94387
         name: Gornet
@@ -484398,6 +485678,11 @@ country_city:
         latitude: '45.11861000'
         longitude: '21.59889000'
       -
+        id: 146415
+        name: Grădini
+        latitude: '46.61474400'
+        longitude: '24.09034300'
+      -
         id: 94399
         name: Gradiștea
         latitude: '44.88803000'
@@ -484458,6 +485743,11 @@ country_city:
         latitude: '44.43333000'
         longitude: '25.45000000'
       -
+        id: 146414
+        name: Grâușorul
+        latitude: '46.59913400'
+        longitude: '24.83048600'
+      -
         id: 94402
         name: Greaca
         latitude: '44.10944000'
@@ -484467,6 +485757,11 @@ country_city:
         name: Grebănu
         latitude: '45.38333000'
         longitude: '26.96667000'
+      -
+        id: 146410
+        name: 'Grebenișu de Câmpie'
+        latitude: '46.60000000'
+        longitude: '24.30000000'
       -
         id: 94403
         name: Greblești
@@ -484508,6 +485803,11 @@ country_city:
         latitude: '45.08901000'
         longitude: '21.61731000'
       -
+        id: 146411
+        name: Grindeni
+        latitude: '46.50005900'
+        longitude: '23.99692300'
+      -
         id: 94412
         name: Grindu
         latitude: '44.76667000'
@@ -484537,6 +485837,16 @@ country_city:
         name: Griviţa
         latitude: '45.71667000'
         longitude: '27.65000000'
+      -
+        id: 146412
+        name: 'Groapa Rădăii'
+        latitude: '46.65809200'
+        longitude: '24.23434300'
+      -
+        id: 146783
+        name: Groape
+        latitude: '47.44449000'
+        longitude: '23.72530100'
       -
         id: 94418
         name: Grojdibodu
@@ -484597,6 +485907,11 @@ country_city:
         name: Gruia
         latitude: '44.26750000'
         longitude: '22.70472000'
+      -
+        id: 146413
+        name: Gruișor
+        latitude: '46.45273900'
+        longitude: '24.61717000'
       -
         id: 94430
         name: Gruiu
@@ -484748,6 +486063,11 @@ country_city:
         latitude: '46.79379000'
         longitude: '21.86480000'
       -
+        id: 146416
+        name: Gurghiu
+        latitude: '46.76666667'
+        longitude: '24.85000000'
+      -
         id: 94473
         name: Guruieni
         latitude: '44.05845000'
@@ -484767,6 +486087,21 @@ country_city:
         name: Hăbeni
         latitude: '44.85629000'
         longitude: '25.62873000'
+      -
+        id: 146423
+        name: Habic
+        latitude: '46.70796000'
+        longitude: '24.79060100'
+      -
+        id: 146431
+        name: Hădăreni
+        latitude: '46.46698400'
+        longitude: '23.98373800'
+      -
+        id: 146424
+        name: Hagău
+        latitude: '46.71628100'
+        longitude: '24.37286100'
       -
         id: 94596
         name: Hăghiac
@@ -484823,6 +486158,11 @@ country_city:
         latitude: '45.11667000'
         longitude: '28.36667000'
       -
+        id: 146784
+        name: 'Handalu Ilbei'
+        latitude: '47.73549800'
+        longitude: '23.36451000'
+      -
         id: 94603
         name: Hăneşti
         latitude: '47.91667000'
@@ -484842,6 +486182,11 @@ country_city:
         name: 'Hanu Conachi'
         latitude: '45.58650000'
         longitude: '27.59481000'
+      -
+        id: 146432
+        name: Hărănglab
+        latitude: '46.30475800'
+        longitude: '24.41535300'
       -
         id: 94608
         name: Hărău
@@ -484868,6 +486213,11 @@ country_city:
         latitude: '47.27732000'
         longitude: '26.81394000'
       -
+        id: 146788
+        name: Hărnicești
+        latitude: '47.78213200'
+        longitude: '23.88658900'
+      -
         id: 94593
         name: Hârşeni
         latitude: '45.75000000'
@@ -484887,6 +486237,11 @@ country_city:
         name: Hărțăgani
         latitude: '46.05012000'
         longitude: '22.92183000'
+      -
+        id: 146433
+        name: Hărțău
+        latitude: '46.57732800'
+        longitude: '24.47862300'
       -
         id: 94590
         name: Hârtieşti
@@ -484953,15 +486308,35 @@ country_city:
         latitude: '47.25000000'
         longitude: '23.01667000'
       -
+        id: 146425
+        name: Herepea
+        latitude: '46.33074300'
+        longitude: '24.15515700'
+      -
+        id: 146426
+        name: Herghelia
+        latitude: '46.63106000'
+        longitude: '24.47818800'
+      -
         id: 94532
         name: Herla
         latitude: '47.44286000'
         longitude: '26.01254000'
       -
+        id: 146427
+        name: Hetiur
+        latitude: '46.26813000'
+        longitude: '24.76680100'
+      -
         id: 94534
         name: Hida
         latitude: '47.06667000'
         longitude: '23.28333000'
+      -
+        id: 146785
+        name: Hideaga
+        latitude: '47.59132500'
+        longitude: '23.42202000'
       -
         id: 94535
         name: 'Hidişelu de Sus'
@@ -484998,6 +486373,16 @@ country_city:
         latitude: '46.81311000'
         longitude: '26.77596000'
       -
+        id: 146428
+        name: Hodac
+        latitude: '46.77447700'
+        longitude: '24.92232400'
+      -
+        id: 146429
+        name: Hodaia
+        latitude: '46.77367600'
+        longitude: '24.47928200'
+      -
         id: 94542
         name: Hodod
         latitude: '47.40000000'
@@ -485017,6 +486402,11 @@ country_city:
         name: Hodoșa
         latitude: '46.86558000'
         longitude: '25.44620000'
+      -
+        id: 146430
+        name: Hodoșa
+        latitude: '46.63333333'
+        longitude: '24.81666667'
       -
         id: 94546
         name: Hoghilag
@@ -485142,6 +486532,16 @@ country_city:
         name: Hotarele
         latitude: '44.17250000'
         longitude: '26.37028000'
+      -
+        id: 146786
+        name: Hoteni
+        latitude: '47.77191500'
+        longitude: '23.89993300'
+      -
+        id: 146787
+        name: Hovrila
+        latitude: '47.45969700'
+        longitude: '23.50842200'
       -
         id: 94571
         name: Hudeşti
@@ -485298,6 +486698,11 @@ country_city:
         latitude: '46.55000000'
         longitude: '23.51667000'
       -
+        id: 146434
+        name: 'Iara de Mureș'
+        latitude: '46.66148400'
+        longitude: '24.73055600'
+      -
         id: 94630
         name: Iaşi
         latitude: '47.16667000'
@@ -485338,10 +486743,35 @@ country_city:
         latitude: '46.39482000'
         longitude: '27.62548000'
       -
+        id: 146435
+        name: Ibănești-Pădure
+        latitude: '46.75919300'
+        longitude: '24.98359200'
+      -
         id: 94631
         name: Ibrianu
         latitude: '44.77509000'
         longitude: '25.84375000'
+      -
+        id: 146436
+        name: Icland
+        latitude: '46.61196900'
+        longitude: '24.69337700'
+      -
+        id: 146437
+        name: 'Iclandu Mare'
+        latitude: '46.52810400'
+        longitude: '24.26536500'
+      -
+        id: 146438
+        name: Iclănzel
+        latitude: '46.53000000'
+        longitude: '24.28000000'
+      -
+        id: 146439
+        name: Iclănzel
+        latitude: '46.53663000'
+        longitude: '24.27153000'
       -
         id: 94634
         name: Iclod
@@ -485368,6 +486798,26 @@ country_city:
         latitude: '46.80000000'
         longitude: '26.93333000'
       -
+        id: 146440
+        name: 'Ideciu de Jos'
+        latitude: '46.80000000'
+        longitude: '24.75000000'
+      -
+        id: 146441
+        name: Idicel-Pădure
+        latitude: '46.85463900'
+        longitude: '24.85723300'
+      -
+        id: 146442
+        name: Idiciu
+        latitude: '46.27625000'
+        longitude: '24.46105000'
+      -
+        id: 146443
+        name: Idrifaia
+        latitude: '46.38758400'
+        longitude: '24.46444400'
+      -
         id: 94639
         name: 'Iecea Mare'
         latitude: '45.85074000'
@@ -485392,6 +486842,16 @@ country_city:
         name: Iepureşti
         latitude: '44.25806000'
         longitude: '25.88222000'
+      -
+        id: 146444
+        name: Iernut
+        latitude: '46.45333333'
+        longitude: '24.23333333'
+      -
+        id: 146445
+        name: Iernuțeni
+        latitude: '46.76386600'
+        longitude: '24.71919100'
       -
         id: 94644
         name: Ieud
@@ -485438,6 +486898,11 @@ country_city:
         latitude: '46.11313000'
         longitude: '20.78496000'
       -
+        id: 146446
+        name: Ihod
+        latitude: '46.63494800'
+        longitude: '24.79898600'
+      -
         id: 94653
         name: Ilba
         latitude: '47.71280000'
@@ -485462,6 +486927,21 @@ country_city:
         name: Ilieni
         latitude: '45.80000000'
         longitude: '25.76667000'
+      -
+        id: 146447
+        name: Ilieni
+        latitude: '46.46370800'
+        longitude: '24.53021400'
+      -
+        id: 146448
+        name: Ilieși
+        latitude: '46.58255100'
+        longitude: '25.12801700'
+      -
+        id: 146449
+        name: Ilioara
+        latitude: '46.64585000'
+        longitude: '24.74758800'
       -
         id: 94658
         name: Ilișești
@@ -485492,6 +486972,11 @@ country_city:
         name: Imper
         latitude: '46.21667000'
         longitude: '26.10000000'
+      -
+        id: 146789
+        name: Inău
+        latitude: '47.51733400'
+        longitude: '23.82483400'
       -
         id: 94664
         name: Independenţa
@@ -485547,6 +487032,16 @@ country_city:
         name: Intregalde
         latitude: '46.25000000'
         longitude: '23.41667000'
+      -
+        id: 146856
+        name: Întrerâuri
+        latitude: '47.48607300'
+        longitude: '23.61508700'
+      -
+        id: 146450
+        name: Iod
+        latitude: '46.97336800'
+        longitude: '24.97719600'
       -
         id: 94672
         name: Iojib
@@ -485643,6 +487138,11 @@ country_city:
         latitude: '45.37794000'
         longitude: '23.34201000'
       -
+        id: 146451
+        name: Isla
+        latitude: '46.62475600'
+        longitude: '24.78563700'
+      -
         id: 94690
         name: Islaz
         latitude: '44.46117000'
@@ -485652,6 +487152,16 @@ country_city:
         name: Islaz
         latitude: '43.72006000'
         longitude: '24.76436000'
+      -
+        id: 146453
+        name: Iștan-Tău
+        latitude: '46.65015200'
+        longitude: '24.30310400'
+      -
+        id: 146454
+        name: Iștihaza
+        latitude: '46.39267900'
+        longitude: '24.10524100'
       -
         id: 94692
         name: Istria
@@ -485677,6 +487187,11 @@ country_city:
         name: Ivănești
         latitude: '46.63481000'
         longitude: '27.46048000'
+      -
+        id: 146452
+        name: Ivănești
+        latitude: '46.54204500'
+        longitude: '24.67634700'
       -
         id: 94696
         name: Iveşti
@@ -485758,6 +487273,11 @@ country_city:
         latitude: '45.28376000'
         longitude: '26.00119000'
       -
+        id: 146790
+        name: Izvoarele
+        latitude: '47.75338480'
+        longitude: '23.71439510'
+      -
         id: 94713
         name: 'Izvoarele Sucevei'
         latitude: '47.75000000'
@@ -485797,6 +487317,21 @@ country_city:
         name: 'Izvoru Dulce'
         latitude: '45.34178000'
         longitude: '26.77730000'
+      -
+        id: 146455
+        name: Jabenița
+        latitude: '46.78259000'
+        longitude: '24.79395400'
+      -
+        id: 146456
+        name: Jacodu
+        latitude: '46.32780000'
+        longitude: '24.83030000'
+      -
+        id: 146457
+        name: Jacu
+        latitude: '46.32157900'
+        longitude: '24.81406500'
       -
         id: 94722
         name: 'Jamu Mare'
@@ -485938,6 +487473,11 @@ country_city:
         latitude: '47.21667000'
         longitude: '24.68333000'
       -
+        id: 146791
+        name: Jugăstreni
+        latitude: '47.39527000'
+        longitude: '23.66424800'
+      -
         id: 94750
         name: Jugur
         latitude: '45.19255000'
@@ -486043,6 +487583,11 @@ country_city:
         latitude: '47.61830000'
         longitude: '23.47913000'
       -
+        id: 146478
+        name: Lăpușna
+        latitude: '46.76794900'
+        longitude: '25.21501800'
+      -
         id: 94897
         name: Lăpuşnicel
         latitude: '44.98306000'
@@ -486058,15 +487603,50 @@ country_city:
         latitude: '46.35060000'
         longitude: '26.53321000'
       -
+        id: 146458
+        name: Larga
+        latitude: '46.71971100'
+        longitude: '24.18108000'
+      -
+        id: 146792
+        name: Larga
+        latitude: '47.45200800'
+        longitude: '24.10506800'
+      -
         id: 94762
         name: Largu
         latitude: '44.96667000'
         longitude: '27.15000000'
       -
+        id: 146795
+        name: Lăschia
+        latitude: '47.54331800'
+        longitude: '23.73214200'
+      -
+        id: 146479
+        name: Lăscud
+        latitude: '46.39182100'
+        longitude: '24.35564600'
+      -
+        id: 146459
+        name: 'Laslău Mare'
+        latitude: '46.38420800'
+        longitude: '24.54075600'
+      -
+        id: 146460
+        name: 'Laslău Mic'
+        latitude: '46.36777778'
+        longitude: '24.55500000'
+      -
         id: 94763
         name: Laslea
         latitude: '46.21667000'
         longitude: '24.65000000'
+      -
+        id: 146480
+        name: Lăureni
+        latitude: '46.54272000'
+        longitude: '24.73292800'
       -
         id: 94764
         name: Laza
@@ -486088,6 +487668,11 @@ country_city:
         latitude: '45.15659000'
         longitude: '24.99540000'
       -
+        id: 146793
+        name: 'Lazu Baciului'
+        latitude: '47.90513100'
+        longitude: '23.92052200'
+      -
         id: 94765
         name: Lazuri
         latitude: '44.87859000'
@@ -486103,10 +487688,25 @@ country_city:
         latitude: '46.58333000'
         longitude: '22.40000000'
       -
+        id: 146461
+        name: Lechincioara
+        latitude: '46.66570200'
+        longitude: '24.42008900'
+      -
+        id: 146462
+        name: Lechința
+        latitude: '46.47375600'
+        longitude: '24.22653500'
+      -
         id: 94768
         name: Lechinţa
         latitude: '47.01667000'
         longitude: '24.35000000'
+      -
+        id: 146463
+        name: Lefaia
+        latitude: '46.74793000'
+        longitude: '24.47041800'
       -
         id: 94769
         name: Lehliu
@@ -486153,6 +487753,11 @@ country_city:
         latitude: '45.87194000'
         longitude: '20.79944000'
       -
+        id: 146464
+        name: Leniș
+        latitude: '46.72792900'
+        longitude: '24.42005400'
+      -
         id: 94778
         name: Leorda
         latitude: '47.81667000'
@@ -486163,10 +487768,30 @@ country_city:
         latitude: '44.78333000'
         longitude: '25.11667000'
       -
+        id: 146465
+        name: Leordeni
+        latitude: '46.47107700'
+        longitude: '24.48631800'
+      -
         id: 94780
         name: Leordina
         latitude: '47.78333000'
         longitude: '24.25000000'
+      -
+        id: 146466
+        name: Leorința
+        latitude: '46.60825000'
+        longitude: '24.22974100'
+      -
+        id: 146467
+        name: Leorința-Șăulia
+        latitude: '46.61897300'
+        longitude: '24.21220900'
+      -
+        id: 146468
+        name: Lepindea
+        latitude: '46.32888500'
+        longitude: '24.47545900'
       -
         id: 94781
         name: Lereşti
@@ -486262,6 +487887,11 @@ country_city:
         name: Limpeziș
         latitude: '44.95357000'
         longitude: '26.70490000'
+      -
+        id: 146469
+        name: Linț
+        latitude: '46.53319700'
+        longitude: '24.00205700'
       -
         id: 94807
         name: Lipăneşti
@@ -486368,6 +487998,11 @@ country_city:
         latitude: '45.03838000'
         longitude: '24.97676000'
       -
+        id: 146470
+        name: Livezeni
+        latitude: '46.55000000'
+        longitude: '24.63333333'
+      -
         id: 94819
         name: Livezi
         latitude: '44.84029000'
@@ -486408,6 +488043,11 @@ country_city:
         latitude: '45.93333000'
         longitude: '24.10000000'
       -
+        id: 146471
+        name: Logig
+        latitude: '46.87945600'
+        longitude: '24.57377600'
+      -
         id: 94829
         name: Logreşti
         latitude: '44.90000000'
@@ -486433,6 +488073,11 @@ country_city:
         latitude: '45.48333000'
         longitude: '26.58333000'
       -
+        id: 146472
+        name: Loțu
+        latitude: '46.40028800'
+        longitude: '24.89633600'
+      -
         id: 94834
         name: Lovrin
         latitude: '45.96806000'
@@ -486452,6 +488097,11 @@ country_city:
         name: Lucăceni
         latitude: '47.74194000'
         longitude: '22.47819000'
+      -
+        id: 146794
+        name: Lucăcești
+        latitude: '47.53995600'
+        longitude: '23.33550400'
       -
         id: 94837
         name: Lucieni
@@ -486483,6 +488133,11 @@ country_city:
         latitude: '45.91667000'
         longitude: '23.90000000'
       -
+        id: 146473
+        name: Luduș
+        latitude: '46.47777778'
+        longitude: '24.09611111'
+      -
         id: 94844
         name: Lueta
         latitude: '46.26667000'
@@ -486502,6 +488157,11 @@ country_city:
         name: Luica
         latitude: '44.23333000'
         longitude: '26.58333000'
+      -
+        id: 146474
+        name: Luieriu
+        latitude: '46.84547800'
+        longitude: '24.72105100'
       -
         id: 94848
         name: Luizi-Călugăra
@@ -486568,10 +488228,20 @@ country_city:
         latitude: '43.83333000'
         longitude: '24.76667000'
       -
+        id: 146475
+        name: Lunca
+        latitude: '46.84925500'
+        longitude: '24.57591800'
+      -
         id: 94861
         name: 'Lunca Banului'
         latitude: '46.59500000'
         longitude: '28.16833000'
+      -
+        id: 146476
+        name: 'Lunca Bradului'
+        latitude: '46.95000000'
+        longitude: '25.10000000'
       -
         id: 94862
         name: 'Lunca Cernii de Jos'
@@ -486622,6 +488292,11 @@ country_city:
         name: 'Lunca Mureşului'
         latitude: '46.43333000'
         longitude: '23.90000000'
+      -
+        id: 146477
+        name: 'Lunca Mureșului'
+        latitude: '46.87459900'
+        longitude: '24.79073300'
       -
         id: 94869
         name: 'Lunca Prahovei'
@@ -486718,6 +488393,11 @@ country_city:
         latitude: '43.91667000'
         longitude: '23.70000000'
       -
+        id: 146508
+        name: Măcicășești
+        latitude: '46.63959400'
+        longitude: '24.23585700'
+      -
         id: 95229
         name: Măcin
         latitude: '45.24371000'
@@ -486737,6 +488417,16 @@ country_city:
         name: Mădăraș
         latitude: '46.49472000'
         longitude: '25.74750000'
+      -
+        id: 146509
+        name: Mădăraș
+        latitude: '46.60000000'
+        longitude: '24.43333333'
+      -
+        id: 146510
+        name: Mădărășeni
+        latitude: '46.50305556'
+        longitude: '24.25666667'
       -
         id: 95232
         name: Mădârjac
@@ -486762,6 +488452,16 @@ country_city:
         name: Măgeşti
         latitude: '47.01667000'
         longitude: '22.45000000'
+      -
+        id: 146511
+        name: Măgherani
+        latitude: '46.56666667'
+        longitude: '24.90000000'
+      -
+        id: 146512
+        name: Măgheruș
+        latitude: '46.32166667'
+        longitude: '24.68722222'
       -
         id: 95238
         name: Măgireşti
@@ -486813,6 +488513,11 @@ country_city:
         latitude: '45.06667000'
         longitude: '25.73333000'
       -
+        id: 146800
+        name: Măgureni
+        latitude: '47.48671600'
+        longitude: '23.74353500'
+      -
         id: 95246
         name: Măguri
         latitude: '46.62849000'
@@ -486832,6 +488537,16 @@ country_city:
         name: Maia
         latitude: '44.73616000'
         longitude: '26.40151000'
+      -
+        id: 146481
+        name: Maia
+        latitude: '46.58118100'
+        longitude: '24.84818400'
+      -
+        id: 146482
+        name: Maiad
+        latitude: '46.51967000'
+        longitude: '24.71485000'
       -
         id: 95248
         name: Măicăneşti
@@ -486853,10 +488568,20 @@ country_city:
         latitude: '46.04189000'
         longitude: '21.10702000'
       -
+        id: 146483
+        name: Maiorești
+        latitude: '46.90787200'
+        longitude: '24.81060000'
+      -
         id: 94909
         name: Mal
         latitude: '47.06979000'
         longitude: '22.81441000'
+      -
+        id: 146513
+        name: Mălăești
+        latitude: '46.62793400'
+        longitude: '24.09674800'
       -
         id: 94910
         name: Malaia
@@ -486878,10 +488603,20 @@ country_city:
         latitude: '44.11667000'
         longitude: '24.93333000'
       -
+        id: 146484
+        name: Maldaoci
+        latitude: '46.41133400'
+        longitude: '24.03977300'
+      -
         id: 95252
         name: Măldăreşti
         latitude: '45.11667000'
         longitude: '24.00000000'
+      -
+        id: 146485
+        name: Malea
+        latitude: '46.58268900'
+        longitude: '24.19079500'
       -
         id: 95253
         name: Mălini
@@ -486952,6 +488687,11 @@ country_city:
         name: Manasia
         latitude: '44.70000000'
         longitude: '26.66667000'
+      -
+        id: 146801
+        name: Mănăstirea
+        latitude: '47.80299200'
+        longitude: '23.92222100'
       -
         id: 95261
         name: Mănăstirea
@@ -487063,6 +488803,11 @@ country_city:
         latitude: '45.88333000'
         longitude: '27.23333000'
       -
+        id: 146515
+        name: Mărășești
+        latitude: '46.59302200'
+        longitude: '24.35327500'
+      -
         id: 95265
         name: Măraşu
         latitude: '44.85000000'
@@ -487077,6 +488822,11 @@ country_city:
         name: Mărcești
         latitude: '44.80537000'
         longitude: '25.70951000'
+      -
+        id: 146514
+        name: Mărculeni
+        latitude: '46.59712800'
+        longitude: '24.86524000'
       -
         id: 95267
         name: Mărculești
@@ -487283,6 +489033,11 @@ country_city:
         latitude: '45.21339000'
         longitude: '26.75607000'
       -
+        id: 146516
+        name: Mătrici
+        latitude: '46.65278900'
+        longitude: '24.90256400'
+      -
         id: 95292
         name: Măureni
         latitude: '45.40389000'
@@ -487413,10 +489168,35 @@ country_city:
         latitude: '44.25190000'
         longitude: '24.87550000'
       -
+        id: 146486
+        name: Merișor
+        latitude: '46.69921400'
+        longitude: '24.54977700'
+      -
+        id: 146796
+        name: Merișor
+        latitude: '47.66090600'
+        longitude: '23.41025800'
+      -
+        id: 146487
+        name: Merișoru
+        latitude: '46.57026200'
+        longitude: '24.21403300'
+      -
         id: 94961
         name: 'Meseşenii de Jos'
         latitude: '47.15000000'
         longitude: '22.98333000'
+      -
+        id: 146797
+        name: Mesteacăn
+        latitude: '47.38124200'
+        longitude: '23.52177700'
+      -
+        id: 146488
+        name: Meștera
+        latitude: '46.96845800'
+        longitude: '25.19289400'
       -
         id: 94962
         name: Meteş
@@ -487432,6 +489212,11 @@ country_city:
         name: Mica
         latitude: '47.13333000'
         longitude: '23.93333000'
+      -
+        id: 146489
+        name: Mica
+        latitude: '46.36804600'
+        longitude: '24.41240500'
       -
         id: 94971
         name: Micăsasa
@@ -487467,6 +489252,11 @@ country_city:
         name: Micula
         latitude: '47.90000000'
         longitude: '22.95000000'
+      -
+        id: 146490
+        name: 'Miercurea Nirajului'
+        latitude: '46.53000000'
+        longitude: '24.80000000'
       -
         id: 94972
         name: 'Miercurea Sibiului'
@@ -487527,6 +489317,11 @@ country_city:
         name: 'Mihai Viteazu'
         latitude: '46.53333000'
         longitude: '23.75000000'
+      -
+        id: 146491
+        name: 'Mihai Viteazu'
+        latitude: '46.15526900'
+        longitude: '25.02788100'
       -
         id: 94981
         name: 'Mihai Vodă'
@@ -487593,6 +489388,11 @@ country_city:
         latitude: '46.15000000'
         longitude: '23.73333000'
       -
+        id: 146492
+        name: 'Miheșu de Câmpie'
+        latitude: '46.68000000'
+        longitude: '24.15000000'
+      -
         id: 94986
         name: Mihoveni
         latitude: '47.67994000'
@@ -487612,6 +489412,11 @@ country_city:
         name: Milaş
         latitude: '46.81667000'
         longitude: '24.43333000'
+      -
+        id: 146493
+        name: Milășel
+        latitude: '46.74269900'
+        longitude: '24.45249900'
       -
         id: 95001
         name: Milcoiu
@@ -487703,6 +489508,11 @@ country_city:
         latitude: '45.13508000'
         longitude: '26.37714000'
       -
+        id: 146494
+        name: Mirigioaia
+        latitude: '46.80204700'
+        longitude: '24.92823500'
+      -
         id: 95018
         name: 'Miron Costin'
         latitude: '46.92030000'
@@ -487783,6 +489593,11 @@ country_city:
         latitude: '44.16667000'
         longitude: '26.60000000'
       -
+        id: 146495
+        name: Mitrești
+        latitude: '46.58449300'
+        longitude: '24.80146800'
+      -
         id: 95033
         name: Mitrofani
         latitude: '44.73268000'
@@ -487808,6 +489623,11 @@ country_city:
         latitude: '47.56667000'
         longitude: '26.23333000'
       -
+        id: 146496
+        name: 'Moara de Jos'
+        latitude: '46.56450400'
+        longitude: '24.09194200'
+      -
         id: 95040
         name: 'Moara Domnească'
         latitude: '46.71448000'
@@ -487832,6 +489652,11 @@ country_city:
         name: Moceşti
         latitude: '45.05000000'
         longitude: '26.25000000'
+      -
+        id: 146798
+        name: Mocira
+        latitude: '47.62295000'
+        longitude: '23.52506000'
       -
         id: 95045
         name: Mociu
@@ -487868,6 +489693,11 @@ country_city:
         latitude: '45.11667000'
         longitude: '23.91667000'
       -
+        id: 146497
+        name: Mogoaia
+        latitude: '46.67027100'
+        longitude: '24.23240700'
+      -
         id: 95056
         name: Mogoș
         latitude: '46.27554000'
@@ -487882,6 +489712,11 @@ country_city:
         name: Mogoşeşti
         latitude: '47.03333000'
         longitude: '27.53333000'
+      -
+        id: 146799
+        name: Mogoșești
+        latitude: '47.58681000'
+        longitude: '23.40365200'
       -
         id: 95054
         name: Mogoşeşti-Siret
@@ -487902,6 +489737,11 @@ country_city:
         name: Moineşti
         latitude: '46.47523000'
         longitude: '26.48907000'
+      -
+        id: 146498
+        name: Moișa
+        latitude: '46.68456000'
+        longitude: '24.52819500'
       -
         id: 95059
         name: Moisei
@@ -487958,6 +489798,11 @@ country_city:
         latitude: '46.96667000'
         longitude: '24.70000000'
       -
+        id: 146501
+        name: Morăreni
+        latitude: '46.92435800'
+        longitude: '24.83138600'
+      -
         id: 95075
         name: Morăreşti
         latitude: '45.01667000'
@@ -487973,6 +489818,11 @@ country_city:
         latitude: '44.98301000'
         longitude: '25.64415000'
       -
+        id: 146499
+        name: Morești
+        latitude: '46.48937800'
+        longitude: '24.43994000'
+      -
         id: 95072
         name: Moroeni
         latitude: '45.21667000'
@@ -487987,6 +489837,11 @@ country_city:
         name: Morunglav
         latitude: '44.46667000'
         longitude: '24.11667000'
+      -
+        id: 146500
+        name: Moruț
+        latitude: '46.74355500'
+        longitude: '24.19908400'
       -
         id: 95076
         name: Moscu
@@ -488027,6 +489882,11 @@ country_city:
         name: Moșteni
         latitude: '44.19787000'
         longitude: '25.50854000'
+      -
+        id: 146502
+        name: Moșuni
+        latitude: '46.56914500'
+        longitude: '24.74331100'
       -
         id: 95097
         name: Moțăieni
@@ -488162,11 +490022,6 @@ country_city:
         name: 'Municipiul Bacãu'
         latitude: '46.56854000'
         longitude: '26.91135000'
-      -
-        id: 95111
-        name: 'Municipiul Baia Mare'
-        latitude: '47.74048000'
-        longitude: '23.60337000'
       -
         id: 95121
         name: 'Municipiul Bãileşti'
@@ -488523,11 +490378,6 @@ country_city:
         latitude: '45.79383000'
         longitude: '24.13533000'
       -
-        id: 95182
-        name: 'Municipiul Sighetu Marmaţiei'
-        latitude: '47.91914000'
-        longitude: '23.88679000'
-      -
         id: 95183
         name: 'Municipiul Slatina'
         latitude: '44.44276000'
@@ -488628,6 +490478,26 @@ country_city:
         latitude: '46.68968000'
         longitude: '27.77763000'
       -
+        id: 146503
+        name: 'Mura Mare'
+        latitude: '46.65696600'
+        longitude: '24.78016600'
+      -
+        id: 146504
+        name: 'Mura Mică'
+        latitude: '46.64909100'
+        longitude: '24.76523800'
+      -
+        id: 146505
+        name: Mureni
+        latitude: '46.23041000'
+        longitude: '24.98921200'
+      -
+        id: 146506
+        name: Mureșeni
+        latitude: '46.52327600'
+        longitude: '24.52160800'
+      -
         id: 95204
         name: Murfatlar
         latitude: '44.18333000'
@@ -488647,6 +490517,11 @@ country_city:
         name: Murgeşti
         latitude: '45.40000000'
         longitude: '26.88333000'
+      -
+        id: 146507
+        name: Murgești
+        latitude: '46.48087900'
+        longitude: '24.65516400'
       -
         id: 95208
         name: Murighiol
@@ -488677,6 +490552,16 @@ country_city:
         name: Nadăș
         latitude: '46.22490000'
         longitude: '21.95036000'
+      -
+        id: 146518
+        name: Nadășa
+        latitude: '46.70274700'
+        longitude: '24.81713700'
+      -
+        id: 146517
+        name: Nadeș
+        latitude: '46.32138889'
+        longitude: '24.71916667'
       -
         id: 95367
         name: Nădlac
@@ -488723,6 +490608,16 @@ country_city:
         latitude: '44.26667000'
         longitude: '26.58333000'
       -
+        id: 146519
+        name: Nandra
+        latitude: '46.38300400'
+        longitude: '24.07663700'
+      -
+        id: 146803
+        name: Nănești
+        latitude: '47.83812000'
+        longitude: '24.01104900'
+      -
         id: 95372
         name: Năneşti
         latitude: '45.55000000'
@@ -488763,10 +490658,25 @@ country_city:
         latitude: '43.74208000'
         longitude: '25.09410000'
       -
+        id: 146520
+        name: Nazna
+        latitude: '46.53552000'
+        longitude: '24.50210000'
+      -
+        id: 146521
+        name: Neagra
+        latitude: '46.97229600'
+        longitude: '25.14685300'
+      -
         id: 95303
         name: 'Neagra Șarului'
         latitude: '47.23907000'
         longitude: '25.32923000'
+      -
+        id: 146522
+        name: Neaua
+        latitude: '46.48333333'
+        longitude: '24.83333333'
       -
         id: 95304
         name: Necşeşti
@@ -488818,6 +490728,11 @@ country_city:
         latitude: '44.60000000'
         longitude: '25.11667000'
       -
+        id: 146802
+        name: Negreia
+        latitude: '47.63538800'
+        longitude: '23.74406500'
+      -
         id: 95314
         name: Negreni
         latitude: '46.95378000'
@@ -488827,6 +490742,11 @@ country_city:
         name: Negreni
         latitude: '44.56848000'
         longitude: '24.59535000'
+      -
+        id: 146523
+        name: 'Negrenii de Câmpie'
+        latitude: '46.64561200'
+        longitude: '24.28743200'
       -
         id: 95316
         name: Negreşti
@@ -488953,6 +490873,11 @@ country_city:
         latitude: '46.43918000'
         longitude: '25.84446000'
       -
+        id: 146524
+        name: Nicolești
+        latitude: '46.47705500'
+        longitude: '24.55574600'
+      -
         id: 95341
         name: Nicoreşti
         latitude: '45.93223000'
@@ -488972,6 +490897,16 @@ country_city:
         name: Niculiţel
         latitude: '45.18333000'
         longitude: '28.48333000'
+      -
+        id: 146525
+        name: 'Nima Milășelului'
+        latitude: '46.72838700'
+        longitude: '24.44362800'
+      -
+        id: 146526
+        name: 'Nima Râciului'
+        latitude: '46.70365200'
+        longitude: '24.44356700'
       -
         id: 95345
         name: 'Nimigea de Jos'
@@ -489098,6 +491033,11 @@ country_city:
         latitude: '47.80569000'
         longitude: '22.73085000'
       -
+        id: 146527
+        name: 'Oarba de Mureș'
+        latitude: '46.46325400'
+        longitude: '24.29078300'
+      -
         id: 95382
         name: Oarda
         latitude: '46.03333000'
@@ -489118,6 +491058,11 @@ country_city:
         latitude: '47.45827000'
         longitude: '23.12742000'
       -
+        id: 146804
+        name: 'Oarța de Sus'
+        latitude: '47.46793300'
+        longitude: '23.07767300'
+      -
         id: 95389
         name: Obârşia
         latitude: '43.88333000'
@@ -489132,6 +491077,11 @@ country_city:
         name: Obârşia-Cloşani
         latitude: '45.01667000'
         longitude: '22.68333000'
+      -
+        id: 146528
+        name: Obârșie
+        latitude: '46.74781600'
+        longitude: '24.39270800'
       -
         id: 95386
         name: Oboga
@@ -489203,6 +491153,11 @@ country_city:
         latitude: '46.48333000'
         longitude: '23.46667000'
       -
+        id: 146805
+        name: Ocoliș
+        latitude: '47.60203400'
+        longitude: '23.57926900'
+      -
         id: 95403
         name: Ocolna
         latitude: '43.87917000'
@@ -489222,6 +491177,11 @@ country_city:
         name: Odăile
         latitude: '45.38333000'
         longitude: '26.55000000'
+      -
+        id: 146806
+        name: Odești
+        latitude: '47.51595000'
+        longitude: '23.09587300'
       -
         id: 95406
         name: Odobeşti
@@ -489248,6 +491208,11 @@ country_city:
         latitude: '46.30000000'
         longitude: '25.30000000'
       -
+        id: 146529
+        name: Odrihei
+        latitude: '46.40458500'
+        longitude: '24.56771400'
+      -
         id: 95412
         name: 'Oeștii Pământeni'
         latitude: '45.25241000'
@@ -489257,6 +491222,11 @@ country_city:
         name: Oglinzi
         latitude: '47.25055000'
         longitude: '26.35026000'
+      -
+        id: 146530
+        name: Ogra
+        latitude: '46.43000000'
+        longitude: '24.32000000'
       -
         id: 95414
         name: Ograda
@@ -489398,6 +491368,11 @@ country_city:
         latitude: '46.81667000'
         longitude: '27.15000000'
       -
+        id: 146531
+        name: Onuca
+        latitude: '46.72629700'
+        longitude: '24.58120400'
+      -
         id: 95442
         name: Oporelu
         latitude: '44.60000000'
@@ -489482,11 +491457,6 @@ country_city:
         name: 'Oraş Baia de Arieş'
         latitude: '46.37933000'
         longitude: '23.29903000'
-      -
-        id: 95455
-        name: 'Oraş Baia Sprie'
-        latitude: '47.66446000'
-        longitude: '23.66970000'
       -
         id: 95481
         name: 'Oraş Bãicoi'
@@ -489578,11 +491548,6 @@ country_city:
         latitude: '44.44356000'
         longitude: '25.73930000'
       -
-        id: 95468
-        name: 'Oraş Borşa'
-        latitude: '47.66965000'
-        longitude: '24.68846000'
-      -
         id: 95467
         name: 'Oraş Borsec'
         latitude: '46.96551000'
@@ -489662,11 +491627,6 @@ country_city:
         name: 'Oraş Câmpeni'
         latitude: '46.38493000'
         longitude: '23.04553000'
-      -
-        id: 95637
-        name: 'Oraș Cavnic'
-        latitude: '47.64989000'
-        longitude: '23.82547000'
       -
         id: 95506
         name: 'Oraş Cãzãneşti'
@@ -489772,11 +491732,6 @@ country_city:
         name: 'Oraş Drãgãneşti-Olt'
         latitude: '44.17618000'
         longitude: '24.50836000'
-      -
-        id: 95639
-        name: 'Oraș Dragomireşti'
-        latitude: '47.66860000'
-        longitude: '24.29542000'
       -
         id: 95511
         name: 'Oraş Dumbrãveni'
@@ -490173,11 +492128,6 @@ country_city:
         latitude: '45.78967000'
         longitude: '23.89532000'
       -
-        id: 95645
-        name: 'Oraș Săliştea de Sus'
-        latitude: '47.66019000'
-        longitude: '24.35336000'
-      -
         id: 95595
         name: 'Oraş Sângeorz-Bãi'
         latitude: '47.37780000'
@@ -490213,11 +492163,6 @@ country_city:
         latitude: '44.09434000'
         longitude: '23.74197000'
       -
-        id: 95644
-        name: 'Oraș Seini'
-        latitude: '47.75000000'
-        longitude: '23.28333000'
-      -
         id: 95587
         name: 'Oraş Simeria'
         latitude: '45.85296000'
@@ -490252,11 +492197,6 @@ country_city:
         name: 'Oraş Solca'
         latitude: '47.70078000'
         longitude: '25.83488000'
-      -
-        id: 95651
-        name: 'Oraș Şomcuta Mare'
-        latitude: '47.51667000'
-        longitude: '23.46667000'
       -
         id: 95630
         name: 'Oraş Ştefãneşti'
@@ -490308,11 +492248,6 @@ country_city:
         latitude: '47.20788000'
         longitude: '27.01196000'
       -
-        id: 95648
-        name: 'Oraș Târgu Lăpuş'
-        latitude: '47.46124000'
-        longitude: '23.85353000'
-      -
         id: 95608
         name: 'Oraş Târgu Neamţ'
         latitude: '47.19698000'
@@ -490327,11 +492262,6 @@ country_city:
         name: 'Oraș Tăşnad'
         latitude: '47.48333000'
         longitude: '22.58333000'
-      -
-        id: 95649
-        name: 'Oraș Tăuţii-Măgherăuş'
-        latitude: '47.72129000'
-        longitude: '23.48601000'
       -
         id: 95601
         name: 'Oraş Techirghiol'
@@ -490367,11 +492297,6 @@ country_city:
         name: 'Oraş Turceni'
         latitude: '44.71779000'
         longitude: '23.35419000'
-      -
-        id: 95611
-        name: 'Oraş Ulmeni'
-        latitude: '47.46209000'
-        longitude: '23.27925000'
       -
         id: 95612
         name: 'Oraş Uricani'
@@ -490417,11 +492342,6 @@ country_city:
         name: 'Oraş Videle'
         latitude: '44.27660000'
         longitude: '25.57844000'
-      -
-        id: 95619
-        name: 'Oraş Vişeu De Sus'
-        latitude: '47.71493000'
-        longitude: '24.41707000'
       -
         id: 95620
         name: 'Oraş Vlãhiţa'
@@ -490523,6 +492443,11 @@ country_city:
         latitude: '46.01667000'
         longitude: '25.55000000'
       -
+        id: 146532
+        name: Ormeniș
+        latitude: '46.32852600'
+        longitude: '24.54506000'
+      -
         id: 95663
         name: Orodel
         latitude: '44.23333000'
@@ -490533,6 +492458,21 @@ country_city:
         latitude: '48.17758000'
         longitude: '26.34856000'
       -
+        id: 146533
+        name: Oroiu
+        latitude: '46.54309200'
+        longitude: '24.35470000'
+      -
+        id: 146534
+        name: Orosia
+        latitude: '46.45651100'
+        longitude: '24.14050800'
+      -
+        id: 146535
+        name: Orșova
+        latitude: '46.75153400'
+        longitude: '24.90642800'
+      -
         id: 95669
         name: Orşova
         latitude: '44.72299000'
@@ -490542,6 +492482,11 @@ country_city:
         name: Orţişoara
         latitude: '45.96361000'
         longitude: '21.19833000'
+      -
+        id: 146807
+        name: Orțița
+        latitude: '47.46262000'
+        longitude: '23.09427500'
       -
         id: 95671
         name: Osebiți
@@ -490643,10 +492588,20 @@ country_city:
         latitude: '44.25800000'
         longitude: '28.56083000'
       -
+        id: 146536
+        name: Ozd
+        latitude: '46.35726900'
+        longitude: '24.12032200'
+      -
         id: 95687
         name: Ozun
         latitude: '45.80000000'
         longitude: '25.85000000'
+      -
+        id: 146555
+        name: Păcureni
+        latitude: '46.66185500'
+        longitude: '24.55651500'
       -
         id: 96004
         name: Păcureţi
@@ -490678,6 +492633,11 @@ country_city:
         latitude: '44.42722000'
         longitude: '22.99250000'
       -
+        id: 146556
+        name: Pădurea
+        latitude: '46.63298200'
+        longitude: '24.17731400'
+      -
         id: 96005
         name: 'Pădurea Neagră'
         latitude: '47.16554000'
@@ -490707,6 +492667,16 @@ country_city:
         name: Pădureni
         latitude: '46.59316000'
         longitude: '24.02700000'
+      -
+        id: 146557
+        name: Pădureni
+        latitude: '46.64053200'
+        longitude: '24.71624700'
+      -
+        id: 146558
+        name: Păingeni
+        latitude: '46.68003300'
+        longitude: '24.56196300'
       -
         id: 95697
         name: Palanca
@@ -490798,6 +492768,11 @@ country_city:
         latitude: '46.33333000'
         longitude: '21.70000000'
       -
+        id: 146559
+        name: Pănet
+        latitude: '46.55000000'
+        longitude: '24.46666667'
+      -
         id: 95996
         name: Pângărăcior
         latitude: '46.93333000'
@@ -490838,6 +492813,11 @@ country_city:
         latitude: '45.78333000'
         longitude: '26.13333000'
       -
+        id: 146537
+        name: 'Papiu Ilarian'
+        latitude: '46.55932100'
+        longitude: '24.20059000'
+      -
         id: 95997
         name: Pâraie
         latitude: '47.46299000'
@@ -490847,6 +492827,16 @@ country_city:
         name: Pârâu
         latitude: '45.85000000'
         longitude: '25.18333000'
+      -
+        id: 146553
+        name: 'Pârâu Crucii'
+        latitude: '46.70860800'
+        longitude: '24.35673000'
+      -
+        id: 146554
+        name: 'Pârâu Mare'
+        latitude: '46.76387600'
+        longitude: '25.00424200'
       -
         id: 95710
         name: Parava
@@ -490918,6 +492908,11 @@ country_city:
         latitude: '47.40000000'
         longitude: '24.55000000'
       -
+        id: 146560
+        name: Păsăreni
+        latitude: '46.48333333'
+        longitude: '24.70000000'
+      -
         id: 95718
         name: Paşcani
         latitude: '47.24690000'
@@ -490958,6 +492953,11 @@ country_city:
         latitude: '46.01667000'
         longitude: '23.90000000'
       -
+        id: 146561
+        name: Păucișoara
+        latitude: '46.35088900'
+        longitude: '24.35118800'
+      -
         id: 96028
         name: Păuleni-Ciuc
         latitude: '46.40000000'
@@ -490982,6 +492982,11 @@ country_city:
         name: Păuliş
         latitude: '46.11667000'
         longitude: '21.58333000'
+      -
+        id: 146562
+        name: Păuloaia
+        latitude: '46.80427800'
+        longitude: '24.88358100'
       -
         id: 96033
         name: Păuneşti
@@ -491088,6 +493093,11 @@ country_city:
         latitude: '44.68472000'
         longitude: '26.01389000'
       -
+        id: 146538
+        name: Periș
+        latitude: '46.69422300'
+        longitude: '24.66336800'
+      -
         id: 95736
         name: Perişani
         latitude: '45.38333000'
@@ -491168,6 +493178,21 @@ country_city:
         latitude: '45.80000000'
         longitude: '22.88333000'
       -
+        id: 146539
+        name: Petea
+        latitude: '46.51038700'
+        longitude: '24.34575400'
+      -
+        id: 146540
+        name: Petelea
+        latitude: '46.73000000'
+        longitude: '24.72000000'
+      -
+        id: 146808
+        name: Peteritea
+        latitude: '47.42291100'
+        longitude: '23.74368400'
+      -
         id: 95758
         name: Petrăchioaia
         latitude: '44.58099000'
@@ -491212,6 +493237,16 @@ country_city:
         name: Petrila
         latitude: '45.45000000'
         longitude: '23.41667000'
+      -
+        id: 146541
+        name: Petrilaca
+        latitude: '46.41111200'
+        longitude: '24.14594500'
+      -
+        id: 146542
+        name: 'Petrilaca de Mureș'
+        latitude: '46.68921400'
+        longitude: '24.75298500'
       -
         id: 95753
         name: Petriş
@@ -491262,6 +493297,11 @@ country_city:
         name: Piatra
         latitude: '43.81667000'
         longitude: '25.16667000'
+      -
+        id: 146809
+        name: Piatra
+        latitude: '47.99565500'
+        longitude: '23.53842100'
       -
         id: 95771
         name: 'Piatra Neamţ'
@@ -491317,6 +493357,11 @@ country_city:
         name: Pietriceaua
         latitude: '45.21910000'
         longitude: '25.80859000'
+      -
+        id: 146543
+        name: Pietriș
+        latitude: '46.93593700'
+        longitude: '24.84407800'
       -
         id: 95782
         name: Pietrișu
@@ -491377,6 +493422,11 @@ country_city:
         name: Pilu
         latitude: '46.56667000'
         longitude: '21.35000000'
+      -
+        id: 146544
+        name: Pipea
+        latitude: '46.32523500'
+        longitude: '24.77454600'
       -
         id: 95794
         name: Pipirig
@@ -491528,6 +493578,11 @@ country_city:
         latitude: '47.13333000'
         longitude: '22.68333000'
       -
+        id: 146810
+        name: Plopiș
+        latitude: '47.58962200'
+        longitude: '23.77273700'
+      -
         id: 95825
         name: Plopşoru
         latitude: '44.78333000'
@@ -491587,6 +493642,11 @@ country_city:
         name: Plutonița
         latitude: '47.48081000'
         longitude: '25.79145000'
+      -
+        id: 146545
+        name: Poarta
+        latitude: '46.73516700'
+        longitude: '24.56146700'
       -
         id: 95836
         name: 'Poarta Albă'
@@ -491673,10 +493733,20 @@ country_city:
         latitude: '46.46667000'
         longitude: '26.53333000'
       -
+        id: 146546
+        name: Poduri
+        latitude: '46.63458400'
+        longitude: '24.06107200'
+      -
         id: 95853
         name: Poeni
         latitude: '44.40000000'
         longitude: '25.33333000'
+      -
+        id: 146547
+        name: Pogăceaua
+        latitude: '46.68000000'
+        longitude: '24.30000000'
       -
         id: 95854
         name: Pogana
@@ -491752,6 +493822,11 @@ country_city:
         name: 'Poiana Blenchii'
         latitude: '47.30000000'
         longitude: '23.75000000'
+      -
+        id: 146811
+        name: 'Poiana Botizii'
+        latitude: '47.59333700'
+        longitude: '24.02531400'
       -
         id: 95873
         name: 'Poiana Câmpina'
@@ -491893,6 +493968,11 @@ country_city:
         latitude: '46.28333000'
         longitude: '23.28333000'
       -
+        id: 146548
+        name: Poienița
+        latitude: '46.55562300'
+        longitude: '24.67008400'
+      -
         id: 95897
         name: Pojejena
         latitude: '44.77417000'
@@ -492018,10 +494098,20 @@ country_city:
         latitude: '43.93333000'
         longitude: '25.36667000'
       -
+        id: 146549
+        name: Porumbac
+        latitude: '46.48110300'
+        longitude: '24.26471900'
+      -
         id: 95922
         name: 'Porumbacu de Jos'
         latitude: '45.75000000'
         longitude: '24.45000000'
+      -
+        id: 146550
+        name: Porumbeni
+        latitude: '46.63684000'
+        longitude: '24.54680400'
       -
         id: 95923
         name: 'Porumbenii Mari'
@@ -492047,6 +494137,11 @@ country_city:
         name: Poseștii-Pământeni
         latitude: '45.26667000'
         longitude: '26.15000000'
+      -
+        id: 146812
+        name: Posta
+        latitude: '47.54781300'
+        longitude: '23.49390200'
       -
         id: 95937
         name: 'Poşta Câlnău'
@@ -492153,6 +494248,16 @@ country_city:
         latitude: '47.61085000'
         longitude: '26.35414000'
       -
+        id: 146813
+        name: 'Preluca Nouă'
+        latitude: '47.46697200'
+        longitude: '23.65150800'
+      -
+        id: 146814
+        name: 'Preluca Veche'
+        latitude: '47.46941300'
+        longitude: '23.70789700'
+      -
         id: 95946
         name: Preuteşti
         latitude: '47.45000000'
@@ -492162,6 +494267,11 @@ country_city:
         name: Pribești
         latitude: '46.91001000'
         longitude: '27.79659000'
+      -
+        id: 146815
+        name: Pribilești
+        latitude: '47.56523000'
+        longitude: '23.37328400'
       -
         id: 95948
         name: Priboieni
@@ -492188,6 +494298,11 @@ country_city:
         latitude: '45.06667000'
         longitude: '23.68333000'
       -
+        id: 146551
+        name: Pripoare
+        latitude: '46.52467900'
+        longitude: '24.19844400'
+      -
         id: 95953
         name: Priponeşti
         latitude: '46.08333000'
@@ -492202,6 +494317,11 @@ country_city:
         name: Priseaca
         latitude: '44.51667000'
         longitude: '24.45000000'
+      -
+        id: 146816
+        name: Prislop
+        latitude: '47.41155400'
+        longitude: '23.55339400'
       -
         id: 95955
         name: Pristol
@@ -492348,6 +494468,11 @@ country_city:
         latitude: '47.24596000'
         longitude: '22.72374000'
       -
+        id: 146552
+        name: Pusta
+        latitude: '46.67812300'
+        longitude: '24.35814900'
+      -
         id: 95987
         name: Pustiana
         latitude: '46.58990000'
@@ -492387,6 +494512,11 @@ country_city:
         name: Răcăciuni
         latitude: '46.33333000'
         longitude: '26.98333000'
+      -
+        id: 146563
+        name: Racameț
+        latitude: '46.51306800'
+        longitude: '24.24043900'
       -
         id: 96182
         name: Răcari
@@ -492447,6 +494577,11 @@ country_city:
         name: Raciu
         latitude: '44.81791000'
         longitude: '25.44106000'
+      -
+        id: 146573
+        name: Râciu
+        latitude: '46.68000000'
+        longitude: '24.40000000'
       -
         id: 96189
         name: Răcoasa
@@ -492643,10 +494778,20 @@ country_city:
         latitude: '44.88872000'
         longitude: '25.35778000'
       -
+        id: 146564
+        name: Ranta
+        latitude: '46.48492400'
+        longitude: '24.13149500'
+      -
         id: 96173
         name: Rânzești
         latitude: '46.22101000'
         longitude: '28.09468000'
+      -
+        id: 146574
+        name: 'Râpa de Jos'
+        latitude: '46.94084800'
+        longitude: '24.76608000'
       -
         id: 96204
         name: Răpănaşu
@@ -492723,6 +494868,11 @@ country_city:
         latitude: '45.66083000'
         longitude: '27.28723000'
       -
+        id: 146575
+        name: Răstolița
+        latitude: '46.98000000'
+        longitude: '25.03000000'
+      -
         id: 96209
         name: Răsuceni
         latitude: '44.09167000'
@@ -492772,6 +494922,16 @@ country_city:
         name: 'Războienii de Jos'
         latitude: '47.06887000'
         longitude: '26.56374000'
+      -
+        id: 146576
+        name: Răzoare
+        latitude: '46.69243000'
+        longitude: '24.19386000'
+      -
+        id: 146824
+        name: Răzoare
+        latitude: '47.44440600'
+        longitude: '23.77943200'
       -
         id: 96216
         name: Răzvad
@@ -492823,6 +494983,11 @@ country_city:
         latitude: '44.53333000'
         longitude: '25.01667000'
       -
+        id: 146565
+        name: Recea
+        latitude: '46.46500600'
+        longitude: '24.41671800'
+      -
         id: 96072
         name: 'Recea Cristur'
         latitude: '47.06667000'
@@ -492873,6 +495038,16 @@ country_city:
         latitude: '45.78333000'
         longitude: '26.83333000'
       -
+        id: 146817
+        name: Remecioara
+        latitude: '47.51397700'
+        longitude: '23.55886000'
+      -
+        id: 146566
+        name: Remetea
+        latitude: '46.57294300'
+        longitude: '24.52136900'
+      -
         id: 96081
         name: Remetea
         latitude: '46.78333000'
@@ -492897,6 +495072,11 @@ country_city:
         name: Remeţi
         latitude: '47.98333000'
         longitude: '23.63333000'
+      -
+        id: 146818
+        name: 'Remeți pe Someș'
+        latitude: '47.48143500'
+        longitude: '23.33929800'
       -
         id: 96086
         name: Remuș
@@ -492938,6 +495118,11 @@ country_city:
         latitude: '46.57485000'
         longitude: '22.44584000'
       -
+        id: 146567
+        name: Rigmani
+        latitude: '46.50898800'
+        longitude: '24.83835000'
+      -
         id: 96094
         name: Rimetea
         latitude: '46.45000000'
@@ -492963,6 +495148,11 @@ country_city:
         latitude: '44.66667000'
         longitude: '25.03333000'
       -
+        id: 146819
+        name: Rodina
+        latitude: '47.51826800'
+        longitude: '23.25352900'
+      -
         id: 96099
         name: Rodna
         latitude: '47.41667000'
@@ -492982,6 +495172,11 @@ country_city:
         name: Rogoz
         latitude: '47.46749000'
         longitude: '23.93214000'
+      -
+        id: 146820
+        name: Rohia
+        latitude: '47.40612600'
+        longitude: '23.85804000'
       -
         id: 96103
         name: Rojiște
@@ -493023,6 +495218,11 @@ country_city:
         latitude: '47.73141000'
         longitude: '27.24027000'
       -
+        id: 146821
+        name: Românești
+        latitude: '47.40336300'
+        longitude: '23.64537600'
+      -
         id: 96114
         name: Români
         latitude: '44.97310000'
@@ -493057,6 +495257,11 @@ country_city:
         name: 'Rona de Sus'
         latitude: '47.90000000'
         longitude: '24.05000000'
+      -
+        id: 146568
+        name: Rora
+        latitude: '46.22606400'
+        longitude: '24.74332800'
       -
         id: 96134
         name: Roșcani
@@ -493138,6 +495343,11 @@ country_city:
         latitude: '44.61265000'
         longitude: '26.53496000'
       -
+        id: 146571
+        name: Roșiori
+        latitude: '46.51433400'
+        longitude: '24.09475600'
+      -
         id: 96141
         name: 'Roșiorii de Vede'
         latitude: '44.11667000'
@@ -493147,6 +495357,11 @@ country_city:
         name: Roșu
         latitude: '44.45025000'
         longitude: '26.01122000'
+      -
+        id: 146569
+        name: Roteni
+        latitude: '46.45874900'
+        longitude: '24.68182600'
       -
         id: 96119
         name: Rotunda
@@ -493162,6 +495377,11 @@ country_city:
         name: Rotunda
         latitude: '43.98333000'
         longitude: '24.31667000'
+      -
+        id: 146570
+        name: Roua
+        latitude: '46.38236300'
+        longitude: '24.82890600'
       -
         id: 96122
         name: Rovinari
@@ -493258,6 +495478,11 @@ country_city:
         latitude: '47.28333000'
         longitude: '23.60000000'
       -
+        id: 146822
+        name: Rus
+        latitude: '47.61292400'
+        longitude: '23.66938300'
+      -
         id: 96162
         name: Rusăneşti
         latitude: '43.93333000'
@@ -493288,6 +495513,16 @@ country_city:
         latitude: '44.95000000'
         longitude: '27.21667000'
       -
+        id: 146572
+        name: Rușii-Munți
+        latitude: '46.91667000'
+        longitude: '24.85000000'
+      -
+        id: 146823
+        name: Rușor
+        latitude: '47.50440500'
+        longitude: '23.71101800'
+      -
         id: 105988
         name: Săbăoani
         latitude: '47.01667000'
@@ -493303,6 +495538,21 @@ country_city:
         latitude: '47.20174000'
         longitude: '25.81760000'
       -
+        id: 146618
+        name: Săbed
+        latitude: '46.66449900'
+        longitude: '24.44631900'
+      -
+        id: 146834
+        name: Săbișa
+        latitude: '47.72946200'
+        longitude: '23.32900600'
+      -
+        id: 146620
+        name: Săcădat
+        latitude: '46.62453400'
+        longitude: '25.06206000'
+      -
         id: 105999
         name: Săcădat
         latitude: '47.03333000'
@@ -493317,6 +495567,16 @@ country_city:
         name: Săcălaz
         latitude: '45.75833000'
         longitude: '21.11222000'
+      -
+        id: 146619
+        name: 'Săcalu de Pădure'
+        latitude: '46.88368600'
+        longitude: '24.71133700'
+      -
+        id: 146621
+        name: Săcăreni
+        latitude: '46.59987700'
+        longitude: '24.69729600'
       -
         id: 106002
         name: Săcăşeni
@@ -493408,15 +495668,20 @@ country_city:
         latitude: '43.85577000'
         longitude: '24.72789000'
       -
-        id: 96516
-        name: Sâg
-        latitude: '47.07545000'
-        longitude: '22.78084000'
+        id: 146702
+        name: Șaeș
+        latitude: '46.15277778'
+        longitude: '24.76944444'
       -
         id: 97027
         name: Şag
         latitude: '45.64861000'
         longitude: '21.17556000'
+      -
+        id: 96516
+        name: Sâg
+        latitude: '47.07545000'
+        longitude: '22.78084000'
       -
         id: 106003
         name: Săgeata
@@ -493448,10 +495713,20 @@ country_city:
         latitude: '47.21667000'
         longitude: '22.05000000'
       -
+        id: 146622
+        name: Sălard
+        latitude: '46.95145600'
+        longitude: '25.07545400'
+      -
         id: 106007
         name: 'Sălaşu de Sus'
         latitude: '45.51667000'
         longitude: '22.95000000'
+      -
+        id: 146623
+        name: Sălașuri
+        latitude: '46.37551400'
+        longitude: '24.77606700'
       -
         id: 106024
         name: Sălăţig
@@ -493528,6 +495803,11 @@ country_city:
         latitude: '46.40000000'
         longitude: '23.41667000'
       -
+        id: 146624
+        name: Sălcud
+        latitude: '46.40755500'
+        longitude: '24.17140700'
+      -
         id: 106014
         name: Sălcuţa
         latitude: '44.25000000'
@@ -493553,6 +495833,11 @@ country_city:
         latitude: '45.79633000'
         longitude: '23.88677000'
       -
+        id: 146835
+        name: Săliște
+        latitude: '47.49595700'
+        longitude: '23.11222500'
+      -
         id: 106020
         name: Săliștea
         latitude: '45.90744000'
@@ -493563,10 +495848,20 @@ country_city:
         latitude: '47.65000000'
         longitude: '24.35000000'
       -
+        id: 95645
+        name: 'Săliştea de Sus'
+        latitude: '47.66019000'
+        longitude: '24.35336000'
+      -
         id: 106019
         name: Săliştea-Deal
         latitude: '45.90000000'
         longitude: '23.40000000'
+      -
+        id: 146836
+        name: Sălnița
+        latitude: '47.41159000'
+        longitude: '23.67218900'
       -
         id: 96236
         name: Salonta
@@ -493577,6 +495872,11 @@ country_city:
         name: Sălsig
         latitude: '47.53333000'
         longitude: '23.30000000'
+      -
+        id: 146833
+        name: Sâlța
+        latitude: '47.73740700'
+        longitude: '24.17945100'
       -
         id: 96237
         name: Salva
@@ -493607,6 +495907,11 @@ country_city:
         name: Sâmbotin
         latitude: '45.13333000'
         longitude: '23.33333000'
+      -
+        id: 146598
+        name: Sâmbriaș
+        latitude: '46.66180800'
+        longitude: '24.82884000'
       -
         id: 96518
         name: Sâmbureşti
@@ -493648,6 +495953,11 @@ country_city:
         latitude: '46.83333000'
         longitude: '22.98333000'
       -
+        id: 146599
+        name: 'Sâncraiu de Mureș'
+        latitude: '46.55000000'
+        longitude: '24.52000000'
+      -
         id: 96528
         name: Sândominic
         latitude: '46.58400000'
@@ -493657,6 +495967,11 @@ country_city:
         name: Şandra
         latitude: '45.92500000'
         longitude: '20.89028000'
+      -
+        id: 146703
+        name: Șandru
+        latitude: '46.53733300'
+        longitude: '24.21063300'
       -
         id: 106025
         name: Sănduleni
@@ -493668,15 +495983,45 @@ country_city:
         latitude: '46.58333000'
         longitude: '23.71667000'
       -
+        id: 146600
+        name: 'Sângeorgiu de Câmpie'
+        latitude: '46.72695300'
+        longitude: '24.29665200'
+      -
+        id: 146601
+        name: 'Sângeorgiu de Mureș'
+        latitude: '46.57643400'
+        longitude: '24.60420700'
+      -
+        id: 146602
+        name: 'Sângeorgiu de Pădure'
+        latitude: '46.43027778'
+        longitude: '24.84166667'
+      -
         id: 96529
         name: Sângeorz-Băi
         latitude: '47.36850000'
         longitude: '24.67212000'
       -
+        id: 146603
+        name: Sânger
+        latitude: '46.55000000'
+        longitude: '24.13000000'
+      -
         id: 96530
         name: Sângeru
         latitude: '45.13333000'
         longitude: '26.35000000'
+      -
+        id: 146604
+        name: 'Sângeru de Pădure'
+        latitude: '46.64071800'
+        longitude: '24.66506300'
+      -
+        id: 146605
+        name: Sâniacob
+        latitude: '46.42354300'
+        longitude: '24.13191600'
       -
         id: 96531
         name: Sâniob
@@ -493687,6 +496032,16 @@ country_city:
         name: Sanislău
         latitude: '47.63333000'
         longitude: '22.33333000'
+      -
+        id: 146606
+        name: Sânișor
+        latitude: '46.55017300'
+        longitude: '24.70070400'
+      -
+        id: 146608
+        name: Sânmărghita
+        latitude: '46.48157100'
+        longitude: '24.37233200'
       -
         id: 96537
         name: Sânmărghita
@@ -493707,6 +496062,16 @@ country_city:
         name: Sânmărtin
         latitude: '46.90000000'
         longitude: '23.56667000'
+      -
+        id: 146609
+        name: 'Sânmărtinu de Câmpie'
+        latitude: '46.72812200'
+        longitude: '24.40843300'
+      -
+        id: 146607
+        name: 'Sânmihai de Pădure'
+        latitude: '46.72888900'
+        longitude: '24.87474000'
       -
         id: 96534
         name: 'Sânmihaiu Almaşului'
@@ -493743,10 +496108,20 @@ country_city:
         latitude: '46.88333000'
         longitude: '23.41667000'
       -
+        id: 146610
+        name: Sânpaul
+        latitude: '46.45000000'
+        longitude: '24.35000000'
+      -
         id: 96543
         name: Sânpetru
         latitude: '45.71082000'
         longitude: '25.63678000'
+      -
+        id: 146611
+        name: 'Sânpetru de Câmpie'
+        latitude: '46.72000000'
+        longitude: '24.27000000'
       -
         id: 96544
         name: 'Sânpetru German'
@@ -493762,6 +496137,11 @@ country_city:
         name: Sânsimion
         latitude: '46.25000000'
         longitude: '25.88333000'
+      -
+        id: 146612
+        name: Sânsimion
+        latitude: '46.49549400'
+        longitude: '24.83458500'
       -
         id: 97113
         name: Șanț
@@ -493783,6 +496163,11 @@ country_city:
         latitude: '46.35000000'
         longitude: '21.50000000'
       -
+        id: 146613
+        name: 'Sântana de Mureș'
+        latitude: '46.57611111'
+        longitude: '24.55416667'
+      -
         id: 105977
         name: Sântandrei
         latitude: '47.06615000'
@@ -493803,10 +496188,30 @@ country_city:
         latitude: '46.13333000'
         longitude: '23.65000000'
       -
+        id: 146614
+        name: Sântioana
+        latitude: '46.28367500'
+        longitude: '24.55132300'
+      -
+        id: 146615
+        name: 'Sântioana de Mureș'
+        latitude: '46.51465700'
+        longitude: '24.45714100'
+      -
         id: 105980
         name: Sântion
         latitude: '47.09634000'
         longitude: '21.83660000'
+      -
+        id: 146616
+        name: Sântu
+        latitude: '46.80168000'
+        longitude: '24.60074400'
+      -
+        id: 146617
+        name: Sânvăsii
+        latitude: '46.49573400'
+        longitude: '24.74002600'
       -
         id: 105982
         name: Sânzieni
@@ -493817,6 +496222,11 @@ country_city:
         name: Săpânţa
         latitude: '47.96667000'
         longitude: '23.70000000'
+      -
+        id: 146704
+        name: Șapartoc
+        latitude: '46.23333333'
+        longitude: '24.85000000'
       -
         id: 106027
         name: Săpoca
@@ -493858,6 +496268,11 @@ country_city:
         latitude: '44.63422000'
         longitude: '26.92686000'
       -
+        id: 146627
+        name: Sărățeni
+        latitude: '46.56233333'
+        longitude: '25.00891667'
+      -
         id: 106036
         name: Sărăuad
         latitude: '47.47944000'
@@ -493893,6 +496308,11 @@ country_city:
         latitude: '46.12814000'
         longitude: '23.53520000'
       -
+        id: 146705
+        name: 'Șardu Nirajului'
+        latitude: '46.54426000'
+        longitude: '24.75285600'
+      -
         id: 96246
         name: Sarichioi
         latitude: '44.95000000'
@@ -493907,6 +496327,16 @@ country_city:
         name: Şărmăşag
         latitude: '47.35000000'
         longitude: '22.83333000'
+      -
+        id: 146626
+        name: Sărmășel
+        latitude: '46.76062500'
+        longitude: '24.17885400'
+      -
+        id: 146625
+        name: Sărmașu
+        latitude: '46.75361111'
+        longitude: '24.16666667'
       -
         id: 96247
         name: Sarmizegetusa
@@ -493947,6 +496377,11 @@ country_city:
         name: 'Sasca Montană'
         latitude: '44.88546000'
         longitude: '21.70915000'
+      -
+        id: 146577
+        name: Saschiz
+        latitude: '46.18333333'
+        longitude: '24.96666667'
       -
         id: 106039
         name: Săsciori
@@ -494023,10 +496458,25 @@ country_city:
         latitude: '44.26918000'
         longitude: '28.22579000'
       -
+        id: 146578
+        name: 'Satu Nou'
+        latitude: '46.45681300'
+        longitude: '24.51225400'
+      -
         id: 96261
         name: 'Satu Nou Calopăr'
         latitude: '44.16667000'
         longitude: '23.76667000'
+      -
+        id: 146825
+        name: 'Satu Nou de Jos'
+        latitude: '47.61620400'
+        longitude: '23.56850000'
+      -
+        id: 146826
+        name: 'Satu Nou de Sus'
+        latitude: '47.63847400'
+        longitude: '23.63476500'
       -
         id: 96262
         name: Satulung
@@ -494052,6 +496502,21 @@ country_city:
         name: Săuleşti
         latitude: '44.80000000'
         longitude: '23.48333000'
+      -
+        id: 146717
+        name: Șăulia
+        latitude: '46.63000000'
+        longitude: '24.22000000'
+      -
+        id: 146718
+        name: Șăulița
+        latitude: '46.66267700'
+        longitude: '24.21505400'
+      -
+        id: 146719
+        name: Șăușa
+        latitude: '46.50376200'
+        longitude: '24.39614600'
       -
         id: 106049
         name: Săvădisla
@@ -494233,6 +496698,11 @@ country_city:
         latitude: '46.26133000'
         longitude: '27.01548000'
       -
+        id: 146579
+        name: Scurta
+        latitude: '46.66065800'
+        longitude: '24.24954500'
+      -
         id: 96288
         name: Scurtești
         latitude: '45.23759000'
@@ -494277,6 +496747,11 @@ country_city:
         name: Sebeş
         latitude: '45.95646000'
         longitude: '23.57100000'
+      -
+        id: 146580
+        name: Sebeș
+        latitude: '46.93202200'
+        longitude: '24.86438100'
       -
         id: 96303
         name: Sebeșel
@@ -494393,6 +496868,11 @@ country_city:
         latitude: '47.75000000'
         longitude: '23.28333000'
       -
+        id: 95644
+        name: Seini
+        latitude: '47.75000000'
+        longitude: '23.28333000'
+      -
         id: 97034
         name: Şeitin
         latitude: '46.10000000'
@@ -494402,6 +496882,11 @@ country_city:
         name: Şelaru
         latitude: '44.47667000'
         longitude: '25.29997000'
+      -
+        id: 146581
+        name: Seleuș
+        latitude: '46.36280300'
+        longitude: '24.58870800'
       -
         id: 96324
         name: Seleuş
@@ -494428,6 +496913,11 @@ country_city:
         latitude: '47.95171000'
         longitude: '26.32817000'
       -
+        id: 146582
+        name: Senereuș
+        latitude: '46.33231500'
+        longitude: '24.64704100'
+      -
         id: 97116
         name: Șepreuș
         latitude: '46.57125000'
@@ -494453,6 +496943,11 @@ country_city:
         latitude: '47.82684000'
         longitude: '26.14009000'
       -
+        id: 146706
+        name: Șerbeni
+        latitude: '46.71475400'
+        longitude: '24.86647900'
+      -
         id: 97117
         name: Șerboeni
         latitude: '44.63818000'
@@ -494467,6 +496962,21 @@ country_city:
         name: Serdanu
         latitude: '44.62732000'
         longitude: '25.63124000'
+      -
+        id: 146583
+        name: Seuca
+        latitude: '46.33060600'
+        longitude: '24.32907100'
+      -
+        id: 146707
+        name: 'Șeulia de Mureș'
+        latitude: '46.41588800'
+        longitude: '24.24719600'
+      -
+        id: 146584
+        name: 'Sfântu Gheorghe'
+        latitude: '46.45355000'
+        longitude: '24.26593500'
       -
         id: 96328
         name: 'Sfântu Gheorghe'
@@ -494507,6 +497017,11 @@ country_city:
         name: Sic
         latitude: '46.93333000'
         longitude: '23.88333000'
+      -
+        id: 146585
+        name: Sicele
+        latitude: '46.69435400'
+        longitude: '24.29203800'
       -
         id: 96334
         name: Sicheviţa
@@ -494558,10 +497073,25 @@ country_city:
         latitude: '47.93195000'
         longitude: '23.88603000'
       -
+        id: 95182
+        name: 'Sighetu Marmaţiei'
+        latitude: '47.91914000'
+        longitude: '23.88679000'
+      -
+        id: 146586
+        name: Sighișoara
+        latitude: '46.21694444'
+        longitude: '24.79111111'
+      -
         id: 96337
         name: Sihlea
         latitude: '45.50000000'
         longitude: '27.11667000'
+      -
+        id: 146708
+        name: 'Șilea Nirajului'
+        latitude: '46.59887300'
+        longitude: '24.92319300'
       -
         id: 97048
         name: Şilindia
@@ -494682,6 +497212,21 @@ country_city:
         name: 'Şinca Veche'
         latitude: '45.76667000'
         longitude: '25.16667000'
+      -
+        id: 146709
+        name: Șincai
+        latitude: '46.66341000'
+        longitude: '24.37640000'
+      -
+        id: 146710
+        name: Șincai-Fânațe
+        latitude: '46.65494100'
+        longitude: '24.33687400'
+      -
+        id: 146857
+        name: Șindrești
+        latitude: '47.60659500'
+        longitude: '23.69513300'
       -
         id: 97127
         name: Șindrilari
@@ -494833,6 +497378,11 @@ country_city:
         latitude: '44.40000000'
         longitude: '24.31667000'
       -
+        id: 146827
+        name: Slătioara
+        latitude: '47.75186300'
+        longitude: '24.08980000'
+      -
         id: 96364
         name: 'Slava Cercheză'
         latitude: '44.90128000'
@@ -494963,6 +497513,11 @@ country_city:
         latitude: '44.70000000'
         longitude: '26.18333000'
       -
+        id: 146711
+        name: Șoard
+        latitude: '46.26301500'
+        longitude: '24.92628200'
+      -
         id: 97063
         name: Şoarş
         latitude: '45.92859000'
@@ -494987,6 +497542,11 @@ country_city:
         name: Socol
         latitude: '44.86083000'
         longitude: '21.37028000'
+      -
+        id: 146587
+        name: 'Socolu de Câmpie'
+        latitude: '46.79141500'
+        longitude: '24.51575300'
       -
         id: 96398
         name: Socond
@@ -495038,6 +497598,11 @@ country_city:
         latitude: '45.91667000'
         longitude: '22.90000000'
       -
+        id: 146712
+        name: Șoimuș
+        latitude: '46.39387700'
+        longitude: '24.58703200'
+      -
         id: 96404
         name: Solca
         latitude: '47.70000000'
@@ -495053,6 +497618,11 @@ country_city:
         latitude: '46.76667000'
         longitude: '27.78333000'
       -
+        id: 146588
+        name: Solocma
+        latitude: '46.47591700'
+        longitude: '24.99525900'
+      -
         id: 96406
         name: Soloneț
         latitude: '47.68682000'
@@ -495063,7 +497633,17 @@ country_city:
         latitude: '46.55000000'
         longitude: '26.51667000'
       -
+        id: 146589
+        name: Solovăstru
+        latitude: '46.77000000'
+        longitude: '24.77000000'
+      -
         id: 97069
+        name: 'Şomcuta Mare'
+        latitude: '47.51667000'
+        longitude: '23.46667000'
+      -
+        id: 95651
         name: 'Şomcuta Mare'
         latitude: '47.51667000'
         longitude: '23.46667000'
@@ -495072,6 +497652,16 @@ country_city:
         name: Someş-Odorhei
         latitude: '47.31667000'
         longitude: '23.26667000'
+      -
+        id: 146828
+        name: Someș-Uileac
+        latitude: '47.45918200'
+        longitude: '23.22755400'
+      -
+        id: 146713
+        name: Șomoștelnic
+        latitude: '46.39175000'
+        longitude: '24.38529700'
       -
         id: 96409
         name: Somova
@@ -495108,6 +497698,11 @@ country_city:
         latitude: '44.84194000'
         longitude: '21.86278000'
       -
+        id: 146714
+        name: Șoromiclea
+        latitude: '46.26024500'
+        longitude: '24.77110000'
+      -
         id: 97074
         name: Şotânga
         latitude: '44.98333000'
@@ -495122,6 +497717,11 @@ country_city:
         name: Şovarna
         latitude: '44.85361000'
         longitude: '22.79250000'
+      -
+        id: 146590
+        name: Sovata
+        latitude: '46.59611111'
+        longitude: '25.07444444'
       -
         id: 96413
         name: Spanţov
@@ -495197,6 +497797,11 @@ country_city:
         name: Stancea
         latitude: '44.13680000'
         longitude: '26.81226000'
+      -
+        id: 146593
+        name: Stânceni
+        latitude: '46.98000000'
+        longitude: '25.23000000'
       -
         id: 96472
         name: Stâncești
@@ -495308,6 +497913,16 @@ country_city:
         latitude: '46.31692000'
         longitude: '26.51250000'
       -
+        id: 146715
+        name: Ștefanca
+        latitude: '46.68570600'
+        longitude: '24.23161500'
+      -
+        id: 146716
+        name: Ștefăneaca
+        latitude: '46.61190300'
+        longitude: '24.11069200'
+      -
         id: 97084
         name: Ştefăneşti
         latitude: '44.86506000'
@@ -495348,6 +497963,11 @@ country_city:
         latitude: '45.06359000'
         longitude: '21.85216000'
       -
+        id: 146592
+        name: Stejărenii
+        latitude: '46.15367200'
+        longitude: '24.72434500'
+      -
         id: 96425
         name: Stejari
         latitude: '44.76667000'
@@ -495367,6 +497987,16 @@ country_city:
         name: Stejaru
         latitude: '44.18333000'
         longitude: '24.88333000'
+      -
+        id: 146829
+        name: Stejera
+        latitude: '47.44189900'
+        longitude: '23.42443800'
+      -
+        id: 146591
+        name: Stejeriș
+        latitude: '46.47889700'
+        longitude: '24.61642100'
       -
         id: 96429
         name: Stelnica
@@ -495428,6 +498058,11 @@ country_city:
         latitude: '44.18333000'
         longitude: '24.63333000'
       -
+        id: 146830
+        name: Stoiceni
+        latitude: '47.51121300'
+        longitude: '23.88079900'
+      -
         id: 96439
         name: Stoileşti
         latitude: '44.90000000'
@@ -495483,6 +498118,11 @@ country_city:
         latitude: '44.46897000'
         longitude: '24.97315000'
       -
+        id: 146832
+        name: Strâmbu-Băiuț
+        latitude: '47.59839500'
+        longitude: '23.98257400'
+      -
         id: 96461
         name: Strâmtura
         latitude: '47.78333000'
@@ -495527,6 +498167,11 @@ country_city:
         name: Stremţ
         latitude: '46.21667000'
         longitude: '23.63333000'
+      -
+        id: 146831
+        name: Stremț
+        latitude: '47.49183600'
+        longitude: '23.07710300'
       -
         id: 96454
         name: Stroeşti
@@ -495578,6 +498223,11 @@ country_city:
         latitude: '46.76667000'
         longitude: '23.96667000'
       -
+        id: 146594
+        name: 'Sub Pădure'
+        latitude: '46.37013700'
+        longitude: '24.32634000'
+      -
         id: 96486
         name: Subcetate
         latitude: '46.85000000'
@@ -495627,6 +498277,11 @@ country_city:
         name: Şugag
         latitude: '45.76667000'
         longitude: '23.63333000'
+      -
+        id: 146858
+        name: Șugău
+        latitude: '47.88362700'
+        longitude: '23.90900900'
       -
         id: 96495
         name: Suhaia
@@ -495682,6 +498337,11 @@ country_city:
         name: Șupitca
         latitude: '47.60941000'
         longitude: '26.78359000'
+      -
+        id: 146595
+        name: Suplac
+        latitude: '46.38333333'
+        longitude: '24.51666667'
       -
         id: 96502
         name: 'Suplacu de Barcău'
@@ -495743,6 +498403,11 @@ country_city:
         latitude: '44.58333000'
         longitude: '24.10000000'
       -
+        id: 146596
+        name: Suseni
+        latitude: '46.81437100'
+        longitude: '24.73169500'
+      -
         id: 96510
         name: Suseni
         latitude: '46.66667000'
@@ -495773,6 +498438,11 @@ country_city:
         latitude: '45.21667000'
         longitude: '27.43333000'
       -
+        id: 146597
+        name: Suveica
+        latitude: '46.43351900'
+        longitude: '24.71653800'
+      -
         id: 96515
         name: Sviniţa
         latitude: '44.49972000'
@@ -495787,6 +498457,11 @@ country_city:
         name: Tăbărăști
         latitude: '45.07948000'
         longitude: '26.91943000'
+      -
+        id: 146645
+        name: Tăblășeni
+        latitude: '46.51762600'
+        longitude: '24.30666900'
       -
         id: 96600
         name: Tăcuta
@@ -495843,6 +498518,11 @@ country_city:
         latitude: '44.46667000'
         longitude: '26.55000000'
       -
+        id: 146840
+        name: Tămaia
+        latitude: '47.59353500'
+        longitude: '23.36340400'
+      -
         id: 96605
         name: Tămașda
         latitude: '46.64453000'
@@ -495852,6 +498532,11 @@ country_city:
         name: Tămăşeni
         latitude: '46.98333000'
         longitude: '26.93333000'
+      -
+        id: 146841
+        name: Tămășești
+        latitude: '47.50343400'
+        longitude: '23.18904200'
       -
         id: 96608
         name: Tămășeu
@@ -495877,6 +498562,11 @@ country_city:
         name: Tâmna
         latitude: '44.56667000'
         longitude: '23.01667000'
+      -
+        id: 146642
+        name: Tâmpa
+        latitude: '46.53019200'
+        longitude: '24.76634600'
       -
         id: 106057
         name: Tanacu
@@ -495963,6 +498653,16 @@ country_city:
         latitude: '47.45261000'
         longitude: '23.86539000'
       -
+        id: 95648
+        name: 'Târgu Lăpuş'
+        latitude: '47.46124000'
+        longitude: '23.85353000'
+      -
+        id: 146643
+        name: 'Târgu Mureș'
+        latitude: '46.54972222'
+        longitude: '24.55972222'
+      -
         id: 96586
         name: 'Târgu Neamţ'
         latitude: '47.20000000'
@@ -496022,6 +498722,11 @@ country_city:
         name: Târnava
         latitude: '44.14440000'
         longitude: '25.56347000'
+      -
+        id: 146644
+        name: Târnăveni
+        latitude: '46.32628000'
+        longitude: '24.28540000'
       -
         id: 96595
         name: Târnova
@@ -496118,6 +498823,16 @@ country_city:
         latitude: '44.63333000'
         longitude: '24.63333000'
       -
+        id: 146646
+        name: Tău
+        latitude: '46.59441600'
+        longitude: '24.15418800'
+      -
+        id: 146647
+        name: Tăureni
+        latitude: '46.58333333'
+        longitude: '24.10000000'
+      -
         id: 96625
         name: Tăureni
         latitude: '46.26667000'
@@ -496148,6 +498863,11 @@ country_city:
         latitude: '47.65000000'
         longitude: '23.48333000'
       -
+        id: 95649
+        name: Tăuţii-Măgherăuş
+        latitude: '47.72129000'
+        longitude: '23.48601000'
+      -
         id: 106064
         name: Tazlău
         latitude: '46.71667000'
@@ -496162,6 +498882,11 @@ country_city:
         name: Teasc
         latitude: '44.16454000'
         longitude: '23.86461000'
+      -
+        id: 146837
+        name: 'Teceu Mic'
+        latitude: '48.00305000'
+        longitude: '23.58080500'
       -
         id: 106068
         name: Techirghiol
@@ -496207,6 +498932,11 @@ country_city:
         name: Telciu
         latitude: '47.43333000'
         longitude: '24.40000000'
+      -
+        id: 146628
+        name: Teleac
+        latitude: '46.67222222'
+        longitude: '24.79166667'
       -
         id: 106077
         name: Telec
@@ -496318,6 +499048,11 @@ country_city:
         latitude: '47.10000000'
         longitude: '26.53333000'
       -
+        id: 146859
+        name: Țicău
+        latitude: '47.44566300'
+        longitude: '23.30722800'
+      -
         id: 106093
         name: Tichileşti
         latitude: '45.11667000'
@@ -496352,6 +499087,11 @@ country_city:
         name: Ţigăneşti
         latitude: '43.90000000'
         longitude: '25.36667000'
+      -
+        id: 146720
+        name: Țigmandru
+        latitude: '46.35000000'
+        longitude: '24.71666667'
       -
         id: 106096
         name: Tigveni
@@ -496413,15 +499153,40 @@ country_city:
         latitude: '46.47563000'
         longitude: '21.63431000'
       -
+        id: 146721
+        name: Țiptelnic
+        latitude: '46.58462100'
+        longitude: '24.41422800'
+      -
         id: 106105
         name: Tiream
         latitude: '47.61667000'
         longitude: '22.46667000'
       -
+        id: 146629
+        name: Tireu
+        latitude: '46.76660800'
+        longitude: '24.99456200'
+      -
+        id: 146630
+        name: Tirimia
+        latitude: '46.44927300'
+        longitude: '24.49162200'
+      -
+        id: 146631
+        name: Tirimioara
+        latitude: '46.45462800'
+        longitude: '24.54789400'
+      -
         id: 106106
         name: Tisa
         latitude: '47.94844000'
         longitude: '23.95768000'
+      -
+        id: 146632
+        name: Tisieu
+        latitude: '46.76559400'
+        longitude: '25.01258300'
       -
         id: 106107
         name: Tismana
@@ -496438,6 +499203,11 @@ country_city:
         latitude: '45.41971000'
         longitude: '24.39323000'
       -
+        id: 146633
+        name: Titiana
+        latitude: '46.73168900'
+        longitude: '24.18650000'
+      -
         id: 106110
         name: Titu
         latitude: '44.65000000'
@@ -496447,6 +499217,11 @@ country_city:
         name: Tiur
         latitude: '46.16009000'
         longitude: '23.88927000'
+      -
+        id: 146634
+        name: Toaca
+        latitude: '46.79860900'
+        longitude: '24.96550400'
       -
         id: 106112
         name: Toboliu
@@ -496478,6 +499253,11 @@ country_city:
         latitude: '46.85000000'
         longitude: '27.36667000'
       -
+        id: 146635
+        name: Tofalău
+        latitude: '46.58706100'
+        longitude: '24.65770500'
+      -
         id: 106118
         name: Toflea
         latitude: '46.06372000'
@@ -496487,6 +499267,16 @@ country_city:
         name: 'Tohanu Nou'
         latitude: '45.55208000'
         longitude: '25.38622000'
+      -
+        id: 146855
+        name: tohat
+        latitude: '47.49475700'
+        longitude: '23.30669100'
+      -
+        id: 146636
+        name: Toldal
+        latitude: '46.70509200'
+        longitude: '24.58155000'
       -
         id: 97141
         name: Țolici
@@ -496527,6 +499317,16 @@ country_city:
         name: Tomşani
         latitude: '44.95000000'
         longitude: '26.28333000'
+      -
+        id: 146637
+        name: Tonciu
+        latitude: '46.78025200'
+        longitude: '24.55201300'
+      -
+        id: 146722
+        name: Țopa
+        latitude: '46.25444700'
+        longitude: '24.88161900'
       -
         id: 106127
         name: Topalu
@@ -496593,6 +499393,11 @@ country_city:
         latitude: '44.01667000'
         longitude: '28.45000000'
       -
+        id: 146638
+        name: Torba
+        latitude: '46.54745800'
+        longitude: '24.88758400'
+      -
         id: 106140
         name: Tormac
         latitude: '45.52083000'
@@ -496658,6 +499463,16 @@ country_city:
         latitude: '45.33857000'
         longitude: '25.72767000'
       -
+        id: 146639
+        name: 'Trei Sate'
+        latitude: '46.47630600'
+        longitude: '24.89778900'
+      -
+        id: 146838
+        name: Trestia
+        latitude: '47.56474400'
+        longitude: '23.79368500'
+      -
         id: 106152
         name: Trestiana
         latitude: '46.20000000'
@@ -496707,6 +499522,11 @@ country_city:
         name: Troianul
         latitude: '44.00000000'
         longitude: '25.00000000'
+      -
+        id: 146640
+        name: Troița
+        latitude: '46.48442300'
+        longitude: '24.76977400'
       -
         id: 106162
         name: Truşeşti
@@ -496772,6 +499592,11 @@ country_city:
         name: Tulgheş
         latitude: '46.95000000'
         longitude: '25.76667000'
+      -
+        id: 146839
+        name: Tulghieș
+        latitude: '47.50091000'
+        longitude: '23.37081400'
       -
         id: 106175
         name: Tulnici
@@ -496893,6 +499718,11 @@ country_city:
         latitude: '47.93333000'
         longitude: '23.08333000'
       -
+        id: 146641
+        name: Tușinu
+        latitude: '46.73331200'
+        longitude: '24.22759300'
+      -
         id: 96574
         name: Tuşnad
         latitude: '46.20000000'
@@ -496968,6 +499798,11 @@ country_city:
         latitude: '44.39657000'
         longitude: '25.14488000'
       -
+        id: 146648
+        name: Uila
+        latitude: '46.93055556'
+        longitude: '24.61805556'
+      -
         id: 96640
         name: 'Uileacu de Beiuș'
         latitude: '46.68532000'
@@ -496982,6 +499817,11 @@ country_city:
         name: Uivar
         latitude: '45.65806000'
         longitude: '20.90583000'
+      -
+        id: 146649
+        name: Ulieș
+        latitude: '46.73348000'
+        longitude: '24.33354800'
       -
         id: 96643
         name: Ulieşti
@@ -497008,6 +499848,11 @@ country_city:
         latitude: '44.15000000'
         longitude: '26.71667000'
       -
+        id: 95611
+        name: Ulmeni
+        latitude: '47.46209000'
+        longitude: '23.27925000'
+      -
         id: 96648
         name: Ulmi
         latitude: '44.48667000'
@@ -497017,6 +499862,11 @@ country_city:
         name: Ulmi
         latitude: '44.90000000'
         longitude: '25.50000000'
+      -
+        id: 146842
+        name: Ulmoasa
+        latitude: '47.73242300'
+        longitude: '23.53324100'
       -
         id: 96650
         name: Ulmu
@@ -497048,6 +499898,11 @@ country_city:
         latitude: '44.50000000'
         longitude: '24.96667000'
       -
+        id: 146650
+        name: Ungheni
+        latitude: '46.48583333'
+        longitude: '24.46083333'
+      -
         id: 96656
         name: Ungra
         latitude: '45.98333000'
@@ -497057,6 +499912,11 @@ country_city:
         name: Unguraş
         latitude: '47.11667000'
         longitude: '24.05000000'
+      -
+        id: 146843
+        name: Unguraș
+        latitude: '47.62904400'
+        longitude: '23.67893300'
       -
         id: 96658
         name: Ungureni
@@ -497158,6 +500018,21 @@ country_city:
         latitude: '45.33731000'
         longitude: '23.15240000'
       -
+        id: 146651
+        name: Uricea
+        latitude: '46.78384900'
+        longitude: '24.98407300'
+      -
+        id: 146652
+        name: 'Urisiu de Jos'
+        latitude: '46.71085300'
+        longitude: '24.89609000'
+      -
+        id: 146653
+        name: 'Urisiu de Sus'
+        latitude: '46.70622300'
+        longitude: '24.91108700'
+      -
         id: 96678
         name: Uriu
         latitude: '47.20000000'
@@ -497183,6 +500058,11 @@ country_city:
         latitude: '46.76667000'
         longitude: '24.36667000'
       -
+        id: 146844
+        name: Urmeniș
+        latitude: '47.52357200'
+        longitude: '23.19626000'
+      -
         id: 96683
         name: Ursa
         latitude: '43.78783000'
@@ -497197,6 +500077,11 @@ country_city:
         name: Urși
         latitude: '44.99404000'
         longitude: '24.08895000'
+      -
+        id: 146654
+        name: Ursoaia
+        latitude: '46.54948600'
+        longitude: '24.22471300'
       -
         id: 96685
         name: Urzica
@@ -497253,10 +500138,20 @@ country_city:
         latitude: '47.88333000'
         longitude: '26.41667000'
       -
+        id: 146845
+        name: Vad
+        latitude: '47.52145800'
+        longitude: '23.71161400'
+      -
         id: 96694
         name: Vad
         latitude: '47.20000000'
         longitude: '23.75000000'
+      -
+        id: 146690
+        name: Vădaș
+        latitude: '46.45589800'
+        longitude: '24.81939400'
       -
         id: 96953
         name: Vădastra
@@ -497272,6 +500167,11 @@ country_city:
         name: Vădeni
         latitude: '45.36667000'
         longitude: '27.93333000'
+      -
+        id: 146655
+        name: Vadu
+        latitude: '46.60812200'
+        longitude: '24.78187700'
       -
         id: 96695
         name: 'Vadu Crişului'
@@ -497333,10 +500233,20 @@ country_city:
         latitude: '46.82823000'
         longitude: '23.94724000'
       -
+        id: 146656
+        name: Vaidacuta
+        latitude: '46.41906200'
+        longitude: '24.52626400'
+      -
         id: 96705
         name: Vaideeni
         latitude: '45.16667000'
         longitude: '23.93333000'
+      -
+        id: 146657
+        name: Vaideiu
+        latitude: '46.49534200'
+        longitude: '24.32084000'
       -
         id: 96925
         name: Vâlcăneşti
@@ -497392,6 +500302,16 @@ country_city:
         name: Vale
         latitude: '46.94910000'
         longitude: '25.37869000'
+      -
+        id: 146658
+        name: Valea
+        latitude: '46.56328700'
+        longitude: '24.79691400'
+      -
+        id: 146659
+        name: 'Valea Albeștiului'
+        latitude: '46.21461700'
+        longitude: '24.84833800'
       -
         id: 96708
         name: 'Valea Argovei'
@@ -497458,10 +500378,20 @@ country_city:
         latitude: '45.06525000'
         longitude: '26.22793000'
       -
+        id: 146846
+        name: 'Valea Cufundoasă'
+        latitude: '47.94086600'
+        longitude: '23.92678900'
+      -
         id: 96721
         name: 'Valea Dacilor'
         latitude: '44.19495000'
         longitude: '28.31776000'
+      -
+        id: 146660
+        name: 'Valea Dăii'
+        latitude: '46.22569300'
+        longitude: '24.89612400'
       -
         id: 96722
         name: 'Valea Danului'
@@ -497478,20 +500408,50 @@ country_city:
         latitude: '45.11428000'
         longitude: '26.20787000'
       -
+        id: 146661
+        name: 'Valea Frăției'
+        latitude: '46.64504900'
+        longitude: '24.06656500'
+      -
+        id: 146662
+        name: 'Valea Glodului'
+        latitude: '46.64699400'
+        longitude: '24.08480800'
+      -
         id: 96725
         name: 'Valea Grecului'
         latitude: '46.71985000'
         longitude: '28.10123000'
+      -
+        id: 146847
+        name: 'Valea Hotarului'
+        latitude: '47.93119500'
+        longitude: '23.84362600'
       -
         id: 96726
         name: 'Valea Iaşului'
         latitude: '45.18333000'
         longitude: '24.71667000'
       -
+        id: 146663
+        name: 'Valea Iclandului'
+        latitude: '46.53439200'
+        longitude: '24.25391100'
+      -
         id: 96727
         name: 'Valea Ierii'
         latitude: '46.65000000'
         longitude: '23.35000000'
+      -
+        id: 146664
+        name: 'Valea Izvoarelor'
+        latitude: '46.43855300'
+        longitude: '24.37597400'
+      -
+        id: 146665
+        name: 'Valea Largă'
+        latitude: '46.62000000'
+        longitude: '24.07000000'
       -
         id: 96728
         name: 'Valea Leurzii'
@@ -497558,6 +500518,11 @@ country_city:
         latitude: '45.11263000'
         longitude: '23.08004000'
       -
+        id: 146666
+        name: 'Valea Mare'
+        latitude: '46.63761900'
+        longitude: '24.30019400'
+      -
         id: 96738
         name: 'Valea Mare Pravăț'
         latitude: '45.29171000'
@@ -497583,10 +500548,20 @@ country_city:
         latitude: '47.46667000'
         longitude: '26.03333000'
       -
+        id: 146848
+        name: 'Valea Neagră'
+        latitude: '47.76631800'
+        longitude: '23.62108600'
+      -
         id: 96744
         name: 'Valea Nucarilor'
         latitude: '45.03333000'
         longitude: '28.93333000'
+      -
+        id: 146667
+        name: 'Valea Pădurii'
+        latitude: '46.61968600'
+        longitude: '24.05370200'
       -
         id: 96746
         name: 'Valea Părului'
@@ -497613,6 +500588,11 @@ country_city:
         latitude: '46.62082000'
         longitude: '25.95827000'
       -
+        id: 146668
+        name: 'Valea Rece'
+        latitude: '46.57106800'
+        longitude: '24.33606500'
+      -
         id: 96749
         name: 'Valea Roșie'
         latitude: '44.17755000'
@@ -497623,10 +500603,35 @@ country_city:
         latitude: '45.49622000'
         longitude: '26.82361000'
       -
+        id: 146671
+        name: 'Valea Sânmărtinului'
+        latitude: '46.74316600'
+        longitude: '24.33757900'
+      -
+        id: 146672
+        name: 'Valea Sânpetrului'
+        latitude: '46.62258200'
+        longitude: '24.28666100'
+      -
+        id: 146676
+        name: 'Valea Șapartocului'
+        latitude: '46.20599700'
+        longitude: '24.84857400'
+      -
         id: 96758
         name: 'Valea Sării'
         latitude: '45.87686000'
         longitude: '26.79873000'
+      -
+        id: 146669
+        name: 'Valea Sasului'
+        latitude: '46.82271600'
+        longitude: '24.48454000'
+      -
+        id: 146670
+        name: 'Valea Seacă'
+        latitude: '46.74536500'
+        longitude: '24.40752500'
       -
         id: 96752
         name: 'Valea Seacă'
@@ -497658,10 +500663,20 @@ country_city:
         latitude: '43.98333000'
         longitude: '23.86667000'
       -
+        id: 146849
+        name: 'Valea Stejarului'
+        latitude: '47.87441400'
+        longitude: '23.98952800'
+      -
         id: 96757
         name: 'Valea Strâmbă'
         latitude: '46.69429000'
         longitude: '25.59956000'
+      -
+        id: 146677
+        name: 'Valea Șurii'
+        latitude: '46.63676400'
+        longitude: '24.05260900'
       -
         id: 96760
         name: 'Valea Târsei'
@@ -497672,6 +500687,21 @@ country_city:
         name: 'Valea Teilor'
         latitude: '45.11150000'
         longitude: '28.48801000'
+      -
+        id: 146673
+        name: 'Valea Ulieșului'
+        latitude: '46.73656700'
+        longitude: '24.36880600'
+      -
+        id: 146674
+        name: 'Valea Ungurului'
+        latitude: '46.80499200'
+        longitude: '24.48055400'
+      -
+        id: 146675
+        name: 'Valea Urieșului'
+        latitude: '46.63004600'
+        longitude: '24.08490200'
       -
         id: 96761
         name: 'Valea Ursului'
@@ -497718,6 +500748,11 @@ country_city:
         latitude: '46.59278000'
         longitude: '28.06250000'
       -
+        id: 146691
+        name: Văleni
+        latitude: '46.66275900'
+        longitude: '24.27123700'
+      -
         id: 96963
         name: Văleni-Dâmbovița
         latitude: '45.16667000'
@@ -497728,10 +500763,25 @@ country_city:
         latitude: '44.85755000'
         longitude: '24.98930000'
       -
+        id: 146692
+        name: Vălenii
+        latitude: '46.44691400'
+        longitude: '24.64708600'
+      -
         id: 96965
         name: 'Vălenii de Munte'
         latitude: '45.18333000'
         longitude: '26.03333000'
+      -
+        id: 146693
+        name: 'Vălenii de Mureș'
+        latitude: '46.89274400'
+        longitude: '24.79792600'
+      -
+        id: 146853
+        name: 'Vălenii Lăpușului'
+        latitude: '47.40572900'
+        longitude: '23.78592100'
       -
         id: 96966
         name: 'Vălenii Șomcutei'
@@ -497743,6 +500793,11 @@ country_city:
         latitude: '46.05000000'
         longitude: '22.85000000'
       -
+        id: 146694
+        name: Vălișoara
+        latitude: '46.53172600'
+        longitude: '24.19993200'
+      -
         id: 96967
         name: Văliug
         latitude: '45.23333000'
@@ -497752,6 +500807,11 @@ country_city:
         name: 'Valu lui Traian'
         latitude: '44.16667000'
         longitude: '28.46667000'
+      -
+        id: 146695
+        name: Vălureni
+        latitude: '46.50021400'
+        longitude: '24.54600700'
       -
         id: 96770
         name: Vama
@@ -497793,6 +500853,11 @@ country_city:
         latitude: '46.62456000'
         longitude: '21.67332000'
       -
+        id: 146689
+        name: Vânători
+        latitude: '46.24113400'
+        longitude: '24.92259400'
+      -
         id: 96933
         name: Vânători-Neamţ
         latitude: '47.20000000'
@@ -497827,6 +500892,11 @@ country_city:
         name: 'Vărădia de Mureş'
         latitude: '46.01667000'
         longitude: '22.15000000'
+      -
+        id: 146854
+        name: Vărai
+        latitude: '47.38618500'
+        longitude: '23.45107600'
       -
         id: 96974
         name: Vărăşti
@@ -497877,6 +500947,11 @@ country_city:
         name: Vârfurile
         latitude: '46.31667000'
         longitude: '22.51667000'
+      -
+        id: 146696
+        name: Vărgata
+        latitude: '46.56666667'
+        longitude: '24.80000000'
       -
         id: 96941
         name: Vârghiş
@@ -497963,6 +501038,11 @@ country_city:
         latitude: '46.18333000'
         longitude: '22.60000000'
       -
+        id: 146697
+        name: Vătava
+        latitude: '46.96109300'
+        longitude: '24.76506800'
+      -
         id: 96777
         name: 'Vatra Dornei'
         latitude: '47.35000000'
@@ -497992,6 +501072,11 @@ country_city:
         name: Vela
         latitude: '44.28333000'
         longitude: '23.41667000'
+      -
+        id: 146678
+        name: Venchi
+        latitude: '46.24552300'
+        longitude: '24.74306200'
       -
         id: 96785
         name: Verbiţa
@@ -498048,6 +501133,16 @@ country_city:
         latitude: '45.71752000'
         longitude: '24.23958000'
       -
+        id: 146679
+        name: Veța
+        latitude: '46.56007300'
+        longitude: '24.72308300'
+      -
+        id: 146680
+        name: Vețca
+        latitude: '46.35000000'
+        longitude: '24.78333333'
+      -
         id: 96798
         name: Veţel
         latitude: '45.90000000'
@@ -498067,6 +501162,11 @@ country_city:
         name: Veza
         latitude: '46.16747000'
         longitude: '23.92470000'
+      -
+        id: 146850
+        name: Vicea
+        latitude: '47.45094800'
+        longitude: '23.24101100'
       -
         id: 96800
         name: 'Vicovu de Jos'
@@ -498123,6 +501223,11 @@ country_city:
         latitude: '45.91667000'
         longitude: '26.90000000'
       -
+        id: 146681
+        name: Vidrasău
+        latitude: '46.47483400'
+        longitude: '24.41266200'
+      -
         id: 96812
         name: Vierșani
         latitude: '44.87875000'
@@ -498138,6 +501243,11 @@ country_city:
         latitude: '44.96011000'
         longitude: '25.45796000'
       -
+        id: 146682
+        name: Viforoasa
+        latitude: '46.43189400'
+        longitude: '24.80981600'
+      -
         id: 96814
         name: Viile
         latitude: '45.80691000'
@@ -498148,6 +501258,11 @@ country_city:
         latitude: '44.16200000'
         longitude: '27.75769000'
       -
+        id: 146851
+        name: 'Viile Apei'
+        latitude: '47.78109100'
+        longitude: '23.29103500'
+      -
         id: 96816
         name: 'Viile Satu Mare'
         latitude: '47.66667000'
@@ -498157,6 +501272,16 @@ country_city:
         name: 'Viile Tecii'
         latitude: '46.93333000'
         longitude: '24.48333000'
+      -
+        id: 146683
+        name: Viilor
+        latitude: '46.23755800'
+        longitude: '24.80933300'
+      -
+        id: 146684
+        name: Viișoara
+        latitude: '46.28000000'
+        longitude: '24.60000000'
       -
         id: 96818
         name: Viişoara
@@ -498212,6 +501337,11 @@ country_city:
         name: Viișoara
         latitude: '44.07758000'
         longitude: '28.19424000'
+      -
+        id: 146852
+        name: 'Vima Mare'
+        latitude: '47.38170200'
+        longitude: '23.70853400'
       -
         id: 96829
         name: 'Vima Mică'
@@ -498288,6 +501418,11 @@ country_city:
         latitude: '47.71667000'
         longitude: '24.43333000'
       -
+        id: 95619
+        name: 'Vişeu De Sus'
+        latitude: '47.71493000'
+        longitude: '24.41707000'
+      -
         id: 96849
         name: Vişina
         latitude: '44.58333000'
@@ -498302,6 +501437,11 @@ country_city:
         name: 'Vișina Nouă'
         latitude: '43.87434000'
         longitude: '24.41820000'
+      -
+        id: 146685
+        name: Vișinelu
+        latitude: '46.73790000'
+        longitude: '24.10240000'
       -
         id: 96851
         name: Vişineşti
@@ -498483,6 +501623,11 @@ country_city:
         latitude: '45.30007000'
         longitude: '25.07225000'
       -
+        id: 146686
+        name: Voiniceni
+        latitude: '46.61371800'
+        longitude: '24.52496800'
+      -
         id: 96883
         name: Voiteg
         latitude: '45.46889000'
@@ -498497,6 +501642,11 @@ country_city:
         name: Voitinel
         latitude: '47.88366000'
         longitude: '25.75735000'
+      -
+        id: 146687
+        name: Voivodeni
+        latitude: '46.70000000'
+        longitude: '24.63333333'
       -
         id: 96886
         name: Voivozi
@@ -498577,6 +501727,11 @@ country_city:
         name: Vulcan
         latitude: '45.38333000'
         longitude: '23.26667000'
+      -
+        id: 146688
+        name: Vulcan
+        latitude: '46.14891700'
+        longitude: '24.85367000'
       -
         id: 96902
         name: 'Vulcana Băi'
@@ -498673,6 +501828,11 @@ country_city:
         latitude: '46.13274000'
         longitude: '21.21821000'
       -
+        id: 146698
+        name: Zagăr
+        latitude: '46.35083333'
+        longitude: '24.61638889'
+      -
         id: 96978
         name: Zagavia
         latitude: '47.41911000'
@@ -498723,6 +501883,11 @@ country_city:
         latitude: '44.15511000'
         longitude: '24.09832000'
       -
+        id: 146701
+        name: Zăpodea
+        latitude: '46.54057000'
+        longitude: '24.11751200'
+      -
         id: 97013
         name: Zăpodeni
         latitude: '46.75000000'
@@ -498752,6 +501917,11 @@ country_city:
         name: Zătreni
         latitude: '44.76667000'
         longitude: '23.85000000'
+      -
+        id: 146699
+        name: 'Zau de Câmpie'
+        latitude: '46.60000000'
+        longitude: '24.13000000'
       -
         id: 97019
         name: Zăuan
@@ -498837,6 +502007,11 @@ country_city:
         name: Zimnicele
         latitude: '43.66126000'
         longitude: '25.41291000'
+      -
+        id: 146700
+        name: Zimți
+        latitude: '46.75979000'
+        longitude: '25.04912200'
       -
         id: 96997
         name: Zizin
