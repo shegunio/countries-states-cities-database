@@ -284169,11 +284169,11 @@
     </cities>
   </state_city>
   <state_city>
-    <id>4032</id>
-    <name>Dadra and Nagar Haveli</name>
-    <state_code>DN</state_code>
-    <latitude>20.32287780</latitude>
-    <longitude>72.96672540</longitude>
+    <id>4033</id>
+    <name>Dadra and Nagar Haveli and Daman and Diu</name>
+    <state_code>DH</state_code>
+    <latitude>20.39737360</latitude>
+    <longitude>72.83279910</longitude>
     <country_id>101</country_id>
     <cities>
       <id>134459</id>
@@ -284194,20 +284194,6 @@
       <longitude>73.00811000</longitude>
     </cities>
     <cities>
-      <id>133937</id>
-      <name>Silvassa</name>
-      <latitude>20.27386000</latitude>
-      <longitude>72.99673000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>4033</id>
-    <name>Daman and Diu</name>
-    <state_code>DD</state_code>
-    <latitude>20.39737360</latitude>
-    <longitude>72.83279910</longitude>
-    <country_id>101</country_id>
-    <cities>
       <id>131649</id>
       <name>Daman</name>
       <latitude>20.41431000</latitude>
@@ -284224,6 +284210,12 @@
       <name>Diu</name>
       <latitude>20.72081000</latitude>
       <longitude>70.93989000</longitude>
+    </cities>
+    <cities>
+      <id>133937</id>
+      <name>Silvassa</name>
+      <latitude>20.27386000</latitude>
+      <longitude>72.99673000</longitude>
     </cities>
   </state_city>
   <state_city>
@@ -299044,12 +299036,6 @@
       <longitude>83.03294000</longitude>
     </cities>
     <cities>
-      <id>57616</id>
-      <name>Ajodhya</name>
-      <latitude>26.79909000</latitude>
-      <longitude>82.20470000</longitude>
-    </cities>
-    <cities>
       <id>57621</id>
       <name>Akbarpur</name>
       <latitude>26.42953000</latitude>
@@ -299066,12 +299052,6 @@
       <name>Aligarh</name>
       <latitude>27.83333000</latitude>
       <longitude>78.16667000</longitude>
-    </cities>
-    <cities>
-      <id>57640</id>
-      <name>Allahabad</name>
-      <latitude>25.42012000</latitude>
-      <longitude>81.88385000</longitude>
     </cities>
     <cities>
       <id>57641</id>
@@ -299162,6 +299142,12 @@
       <name>Auras</name>
       <latitude>26.91414000</latitude>
       <longitude>80.50792000</longitude>
+    </cities>
+    <cities>
+      <id>57616</id>
+      <name>Ayodhya</name>
+      <latitude>26.79909000</latitude>
+      <longitude>82.20470000</longitude>
     </cities>
     <cities>
       <id>57777</id>
@@ -301238,6 +301224,12 @@
       <name>Pratapgarh</name>
       <latitude>25.75000000</latitude>
       <longitude>81.75000000</longitude>
+    </cities>
+    <cities>
+      <id>57640</id>
+      <name>Prayagraj (Allahabad)</name>
+      <latitude>25.42012000</latitude>
+      <longitude>81.88385000</longitude>
     </cities>
     <cities>
       <id>133495</id>
@@ -309440,7 +309432,7 @@
   <state_city>
     <id>3929</id>
     <name>Alborz Province</name>
-    <state_code>32</state_code>
+    <state_code>30</state_code>
     <latitude>35.99604670</latitude>
     <longitude>50.92892460</longitude>
     <country_id>103</country_id>
@@ -309490,7 +309482,7 @@
   <state_city>
     <id>3934</id>
     <name>Ardabil Province</name>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <latitude>38.48532760</latitude>
     <longitude>47.89112090</longitude>
     <country_id>103</country_id>
@@ -309588,7 +309580,7 @@
   <state_city>
     <id>3932</id>
     <name>Bushehr Province</name>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <latitude>28.76207390</latitude>
     <longitude>51.51500770</longitude>
     <country_id>103</country_id>
@@ -309674,7 +309666,7 @@
   <state_city>
     <id>3921</id>
     <name>Chaharmahal and Bakhtiari Province</name>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <latitude>31.99704190</latitude>
     <longitude>50.66138490</longitude>
     <country_id>103</country_id>
@@ -309760,7 +309752,7 @@
   <state_city>
     <id>3944</id>
     <name>East Azerbaijan Province</name>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <latitude>37.90357330</latitude>
     <longitude>46.26821090</longitude>
     <country_id>103</country_id>
@@ -309906,7 +309898,7 @@
   <state_city>
     <id>3939</id>
     <name>Fars Province</name>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <latitude>29.10438130</latitude>
     <longitude>53.04589300</longitude>
     <country_id>103</country_id>
@@ -310148,7 +310140,7 @@
   <state_city>
     <id>3920</id>
     <name>Gilan Province</name>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <latitude>37.28094550</latitude>
     <longitude>49.59241340</longitude>
     <country_id>103</country_id>
@@ -310420,9 +310412,2921 @@
     </cities>
   </state_city>
   <state_city>
+    <id>4920</id>
+    <name>Hamadan Province</name>
+    <state_code>13</state_code>
+    <latitude>34.91936070</latitude>
+    <longitude>47.48329250</longitude>
+    <country_id>103</country_id>
+    <cities>
+      <id>146942</id>
+      <name>Ab Meshkin</name>
+      <latitude>35.61305556</latitude>
+      <longitude>48.26916667</longitude>
+    </cities>
+    <cities>
+      <id>146943</id>
+      <name>Abarlaq-e Sofla</name>
+      <latitude>34.67138889</latitude>
+      <longitude>48.22833333</longitude>
+    </cities>
+    <cities>
+      <id>146944</id>
+      <name>Abdalan</name>
+      <latitude>34.65277778</latitude>
+      <longitude>48.24555556</longitude>
+    </cities>
+    <cities>
+      <id>146945</id>
+      <name>Abdol Rahim</name>
+      <latitude>34.62638889</latitude>
+      <longitude>49.01750000</longitude>
+    </cities>
+    <cities>
+      <id>146946</id>
+      <name>Abrumand</name>
+      <latitude>34.90277778</latitude>
+      <longitude>48.32027778</longitude>
+    </cities>
+    <cities>
+      <id>146947</id>
+      <name>Abshineh</name>
+      <latitude>34.78194400</latitude>
+      <longitude>48.61472200</longitude>
+    </cities>
+    <cities>
+      <id>146948</id>
+      <name>Abu ol Fathabad</name>
+      <latitude>34.05666667</latitude>
+      <longitude>48.50916667</longitude>
+    </cities>
+    <cities>
+      <id>146949</id>
+      <name>Aghcheh Qayah</name>
+      <latitude>35.35000000</latitude>
+      <longitude>48.34250000</longitude>
+    </cities>
+    <cities>
+      <id>146950</id>
+      <name>Ahmadabad-e Tappeh</name>
+      <latitude>34.61277778</latitude>
+      <longitude>48.99277778</longitude>
+    </cities>
+    <cities>
+      <id>146951</id>
+      <name>Ahu Tappeh</name>
+      <latitude>34.93777778</latitude>
+      <longitude>48.00111111</longitude>
+    </cities>
+    <cities>
+      <id>146952</id>
+      <name>Ajin</name>
+      <latitude>34.73611111</latitude>
+      <longitude>47.92416667</longitude>
+    </cities>
+    <cities>
+      <id>146953</id>
+      <name>Ajorlu</name>
+      <latitude>35.13833333</latitude>
+      <longitude>49.22944444</longitude>
+    </cities>
+    <cities>
+      <id>146954</id>
+      <name>Akanlu</name>
+      <latitude>35.61416667</latitude>
+      <longitude>48.18805556</longitude>
+    </cities>
+    <cities>
+      <id>146955</id>
+      <name>Akleh</name>
+      <latitude>35.20277778</latitude>
+      <longitude>49.08250000</longitude>
+    </cities>
+    <cities>
+      <id>146956</id>
+      <name>Alan-e Sofla</name>
+      <latitude>35.28416667</latitude>
+      <longitude>48.21583333</longitude>
+    </cities>
+    <cities>
+      <id>146957</id>
+      <name>Alanjeh</name>
+      <latitude>34.75083333</latitude>
+      <longitude>47.95972222</longitude>
+    </cities>
+    <cities>
+      <id>146958</id>
+      <name>Alfavut</name>
+      <latitude>34.64000000</latitude>
+      <longitude>48.74972222</longitude>
+    </cities>
+    <cities>
+      <id>146959</id>
+      <name>Aliabad-e Posht Shahr</name>
+      <latitude>34.83777778</latitude>
+      <longitude>48.51111111</longitude>
+    </cities>
+    <cities>
+      <id>146960</id>
+      <name>Amirabad-e Kord</name>
+      <latitude>34.97611111</latitude>
+      <longitude>49.09166667</longitude>
+    </cities>
+    <cities>
+      <id>146961</id>
+      <name>Amzajerd</name>
+      <latitude>34.93666667</latitude>
+      <longitude>48.53250000</longitude>
+    </cities>
+    <cities>
+      <id>146962</id>
+      <name>Angoshteh</name>
+      <latitude>34.09138900</latitude>
+      <longitude>48.54000000</longitude>
+    </cities>
+    <cities>
+      <id>146963</id>
+      <name>Anjir Baghi</name>
+      <latitude>35.19250000</latitude>
+      <longitude>48.53166667</longitude>
+    </cities>
+    <cities>
+      <id>146964</id>
+      <name>Ansar ol Emam</name>
+      <latitude>34.85861111</latitude>
+      <longitude>48.49083333</longitude>
+    </cities>
+    <cities>
+      <id>146965</id>
+      <name>Anuch</name>
+      <latitude>34.10805600</latitude>
+      <longitude>48.57333300</longitude>
+    </cities>
+    <cities>
+      <id>146966</id>
+      <name>Aq Bolagh-e Aqdaq</name>
+      <latitude>35.61166667</latitude>
+      <longitude>48.44138889</longitude>
+    </cities>
+    <cities>
+      <id>146967</id>
+      <name>Aq Bolagh-e Latgah</name>
+      <latitude>34.98444400</latitude>
+      <longitude>48.55527800</longitude>
+    </cities>
+    <cities>
+      <id>146968</id>
+      <name>Aq Bolagh-e Morshed</name>
+      <latitude>35.61777778</latitude>
+      <longitude>48.02972222</longitude>
+    </cities>
+    <cities>
+      <id>146969</id>
+      <name>Aq Chay</name>
+      <latitude>35.47916667</latitude>
+      <longitude>49.10388889</longitude>
+    </cities>
+    <cities>
+      <id>146970</id>
+      <name>Aqa Bolaghi</name>
+      <latitude>35.36694444</latitude>
+      <longitude>48.24361111</longitude>
+    </cities>
+    <cities>
+      <id>146971</id>
+      <name>Aqa Jan Bolaghi</name>
+      <latitude>34.84583333</latitude>
+      <longitude>48.05305556</longitude>
+    </cities>
+    <cities>
+      <id>146972</id>
+      <name>Aqaj</name>
+      <latitude>34.95583333</latitude>
+      <longitude>49.32416667</longitude>
+    </cities>
+    <cities>
+      <id>146973</id>
+      <name>Aqcheh Kharabeh</name>
+      <latitude>35.71361111</latitude>
+      <longitude>48.77638889</longitude>
+    </cities>
+    <cities>
+      <id>146974</id>
+      <name>Aqchelu</name>
+      <latitude>35.13138889</latitude>
+      <longitude>48.49166667</longitude>
+    </cities>
+    <cities>
+      <id>146975</id>
+      <name>Arges-e Sofla</name>
+      <latitude>34.07388889</latitude>
+      <longitude>48.86388889</longitude>
+    </cities>
+    <cities>
+      <id>146976</id>
+      <name>Arikan</name>
+      <latitude>34.53222222</latitude>
+      <longitude>48.36055556</longitude>
+    </cities>
+    <cities>
+      <id>146977</id>
+      <name>Arpa Darreh</name>
+      <latitude>35.69138889</latitude>
+      <longitude>48.80500000</longitude>
+    </cities>
+    <cities>
+      <id>146978</id>
+      <name>Arteh Bolagh</name>
+      <latitude>34.32638889</latitude>
+      <longitude>48.54916667</longitude>
+    </cities>
+    <cities>
+      <id>146979</id>
+      <name>Artiman</name>
+      <latitude>34.57944400</latitude>
+      <longitude>48.44777800</longitude>
+    </cities>
+    <cities>
+      <id>146980</id>
+      <name>Arzan Fud</name>
+      <latitude>34.65527778</latitude>
+      <longitude>48.65416667</longitude>
+    </cities>
+    <cities>
+      <id>146981</id>
+      <name>Arzuvaj</name>
+      <latitude>34.65444444</latitude>
+      <longitude>48.37305556</longitude>
+    </cities>
+    <cities>
+      <id>146982</id>
+      <name>Asadabad</name>
+      <latitude>34.78222222</latitude>
+      <longitude>48.11833333</longitude>
+    </cities>
+    <cities>
+      <id>146983</id>
+      <name>Ashmizan</name>
+      <latitude>34.10361111</latitude>
+      <longitude>48.88444444</longitude>
+    </cities>
+    <cities>
+      <id>146984</id>
+      <name>Avarzaman</name>
+      <latitude>34.26638889</latitude>
+      <longitude>48.51222222</longitude>
+    </cities>
+    <cities>
+      <id>146985</id>
+      <name>Azandarian</name>
+      <latitude>34.50888889</latitude>
+      <longitude>48.68666667</longitude>
+    </cities>
+    <cities>
+      <id>146986</id>
+      <name>Aznahri</name>
+      <latitude>34.23750000</latitude>
+      <longitude>48.14833333</longitude>
+    </cities>
+    <cities>
+      <id>146987</id>
+      <name>Baba Khanjar</name>
+      <latitude>35.55166667</latitude>
+      <longitude>48.54972222</longitude>
+    </cities>
+    <cities>
+      <id>146988</id>
+      <name>Baba Pir</name>
+      <latitude>34.61416667</latitude>
+      <longitude>48.40194444</longitude>
+    </cities>
+    <cities>
+      <id>146989</id>
+      <name>Baba Qasem</name>
+      <latitude>34.08000000</latitude>
+      <longitude>48.44805556</longitude>
+    </cities>
+    <cities>
+      <id>146990</id>
+      <name>Babolqani</name>
+      <latitude>34.24277778</latitude>
+      <longitude>49.05750000</longitude>
+    </cities>
+    <cities>
+      <id>146991</id>
+      <name>Bad Khvoreh</name>
+      <latitude>34.74305556</latitude>
+      <longitude>48.08027778</longitude>
+    </cities>
+    <cities>
+      <id>146992</id>
+      <name>Bahar</name>
+      <latitude>34.90694444</latitude>
+      <longitude>48.44138889</longitude>
+    </cities>
+    <cities>
+      <id>146993</id>
+      <name>Band Aman</name>
+      <latitude>34.22388889</latitude>
+      <longitude>48.22861111</longitude>
+    </cities>
+    <cities>
+      <id>146994</id>
+      <name>Banesareh</name>
+      <latitude>34.23750000</latitude>
+      <longitude>48.43333333</longitude>
+    </cities>
+    <cities>
+      <id>146995</id>
+      <name>Baraband</name>
+      <latitude>34.75194444</latitude>
+      <longitude>48.79861111</longitude>
+    </cities>
+    <cities>
+      <id>146996</id>
+      <name>Bargecheh</name>
+      <latitude>34.45138900</latitude>
+      <longitude>48.30111100</longitude>
+    </cities>
+    <cities>
+      <id>146997</id>
+      <name>Barreh Farakh</name>
+      <latitude>34.38555556</latitude>
+      <longitude>48.08638889</longitude>
+    </cities>
+    <cities>
+      <id>146998</id>
+      <name>Barzul</name>
+      <latitude>34.21277778</latitude>
+      <longitude>48.25888889</longitude>
+    </cities>
+    <cities>
+      <id>146999</id>
+      <name>Bashqurtaran</name>
+      <latitude>35.63722222</latitude>
+      <longitude>48.11694444</longitude>
+    </cities>
+    <cities>
+      <id>147000</id>
+      <name>Bazeran</name>
+      <latitude>35.15611111</latitude>
+      <longitude>49.42305556</longitude>
+    </cities>
+    <cities>
+      <id>147001</id>
+      <name>Behkandan</name>
+      <latitude>35.27222222</latitude>
+      <longitude>49.09888889</longitude>
+    </cities>
+    <cities>
+      <id>147002</id>
+      <name>Belartu</name>
+      <latitude>34.33555556</latitude>
+      <longitude>48.51583333</longitude>
+    </cities>
+    <cities>
+      <id>147003</id>
+      <name>Beshik Tappeh</name>
+      <latitude>35.53611111</latitude>
+      <longitude>48.41805556</longitude>
+    </cities>
+    <cities>
+      <id>147004</id>
+      <name>Biaj</name>
+      <latitude>34.81500000</latitude>
+      <longitude>48.09916667</longitude>
+    </cities>
+    <cities>
+      <id>147005</id>
+      <name>Biatan-e Sofla</name>
+      <latitude>34.02527778</latitude>
+      <longitude>48.95805556</longitude>
+    </cities>
+    <cities>
+      <id>147006</id>
+      <name>Bid Korpeh-ye Sofla</name>
+      <latitude>34.02111111</latitude>
+      <longitude>48.89166667</longitude>
+    </cities>
+    <cities>
+      <id>147007</id>
+      <name>Bid Korpeh-ye Vosta</name>
+      <latitude>34.01944444</latitude>
+      <longitude>48.88722222</longitude>
+    </cities>
+    <cities>
+      <id>147008</id>
+      <name>Bifanaj</name>
+      <latitude>34.61472222</latitude>
+      <longitude>48.01694444</longitude>
+    </cities>
+    <cities>
+      <id>147009</id>
+      <name>Bighash</name>
+      <latitude>34.09111111</latitude>
+      <longitude>49.06833333</longitude>
+    </cities>
+    <cities>
+      <id>147010</id>
+      <name>Bish Aghaj</name>
+      <latitude>34.46111111</latitude>
+      <longitude>48.78583333</longitude>
+    </cities>
+    <cities>
+      <id>147011</id>
+      <name>Bitervan</name>
+      <latitude>34.65444444</latitude>
+      <longitude>47.91055556</longitude>
+    </cities>
+    <cities>
+      <id>147012</id>
+      <name>Borjaki</name>
+      <latitude>34.32861111</latitude>
+      <longitude>48.03305556</longitude>
+    </cities>
+    <cities>
+      <id>147013</id>
+      <name>Boyukabad</name>
+      <latitude>35.05972222</latitude>
+      <longitude>48.84166667</longitude>
+    </cities>
+    <cities>
+      <id>147014</id>
+      <name>Bozchalu</name>
+      <latitude>35.16888889</latitude>
+      <longitude>49.22444444</longitude>
+    </cities>
+    <cities>
+      <id>147015</id>
+      <name>Bozineh Jerd</name>
+      <latitude>35.02472222</latitude>
+      <longitude>48.94388889</longitude>
+    </cities>
+    <cities>
+      <id>147016</id>
+      <name>Bujin</name>
+      <latitude>34.80722222</latitude>
+      <longitude>48.05916667</longitude>
+    </cities>
+    <cities>
+      <id>147017</id>
+      <name>Bustandar</name>
+      <latitude>34.44861111</latitude>
+      <longitude>48.41944444</longitude>
+    </cities>
+    <cities>
+      <id>147018</id>
+      <name>Buyaqchi</name>
+      <latitude>34.84750000</latitude>
+      <longitude>49.08916667</longitude>
+    </cities>
+    <cities>
+      <id>147019</id>
+      <name>Chahar Bolagh</name>
+      <latitude>35.58111111</latitude>
+      <longitude>48.65000000</longitude>
+    </cities>
+    <cities>
+      <id>147020</id>
+      <name>Chal Boqa</name>
+      <latitude>35.42055556</latitude>
+      <longitude>48.92750000</longitude>
+    </cities>
+    <cities>
+      <id>147021</id>
+      <name>Chaleh Kand</name>
+      <latitude>35.27500000</latitude>
+      <longitude>48.29944444</longitude>
+    </cities>
+    <cities>
+      <id>147022</id>
+      <name>Charoq</name>
+      <latitude>34.84416667</latitude>
+      <longitude>48.06611111</longitude>
+    </cities>
+    <cities>
+      <id>147023</id>
+      <name>Chasht Khvoreh</name>
+      <latitude>34.46444444</latitude>
+      <longitude>48.26694444</longitude>
+    </cities>
+    <cities>
+      <id>147024</id>
+      <name>Chenari</name>
+      <latitude>34.23194444</latitude>
+      <longitude>48.17611111</longitude>
+    </cities>
+    <cities>
+      <id>147025</id>
+      <name>Cheshmeh Malek</name>
+      <latitude>34.75500000</latitude>
+      <longitude>48.49305556</longitude>
+    </cities>
+    <cities>
+      <id>147026</id>
+      <name>Cheshmeh Pahn-e Nanaj</name>
+      <latitude>34.45888889</latitude>
+      <longitude>48.76750000</longitude>
+    </cities>
+    <cities>
+      <id>147027</id>
+      <name>Cheshmeh Qandab</name>
+      <latitude>34.62694444</latitude>
+      <longitude>48.09111111</longitude>
+    </cities>
+    <cities>
+      <id>147028</id>
+      <name>Cheshmeh Qareh</name>
+      <latitude>34.90611111</latitude>
+      <longitude>47.87111111</longitude>
+    </cities>
+    <cities>
+      <id>147029</id>
+      <name>Cheshmeh Qassaban</name>
+      <latitude>34.85777778</latitude>
+      <longitude>48.41888889</longitude>
+    </cities>
+    <cities>
+      <id>147030</id>
+      <name>Cheshmeh Valad</name>
+      <latitude>34.87805556</latitude>
+      <longitude>47.98388889</longitude>
+    </cities>
+    <cities>
+      <id>147031</id>
+      <name>Cheshmeh Zowraq</name>
+      <latitude>34.06611111</latitude>
+      <longitude>49.10083333</longitude>
+    </cities>
+    <cities>
+      <id>147032</id>
+      <name>Choqa Sarahi</name>
+      <latitude>34.31527778</latitude>
+      <longitude>48.04888889</longitude>
+    </cities>
+    <cities>
+      <id>147033</id>
+      <name>Chowtash</name>
+      <latitude>34.83694444</latitude>
+      <longitude>48.25194444</longitude>
+    </cities>
+    <cities>
+      <id>147034</id>
+      <name>Chulak Qapanuri</name>
+      <latitude>34.23472222</latitude>
+      <longitude>48.30000000</longitude>
+    </cities>
+    <cities>
+      <id>147035</id>
+      <name>Dahnejerd</name>
+      <latitude>34.96750000</latitude>
+      <longitude>48.50055600</longitude>
+    </cities>
+    <cities>
+      <id>147036</id>
+      <name>Dali Chu</name>
+      <latitude>35.52138889</latitude>
+      <longitude>48.02027778</longitude>
+    </cities>
+    <cities>
+      <id>147037</id>
+      <name>Damaq</name>
+      <latitude>35.44277778</latitude>
+      <longitude>48.82305556</longitude>
+    </cities>
+    <cities>
+      <id>147038</id>
+      <name>Daqdaqabad</name>
+      <latitude>35.18277778</latitude>
+      <longitude>48.78833333</longitude>
+    </cities>
+    <cities>
+      <id>147039</id>
+      <name>Dar Qeshlaq</name>
+      <latitude>35.49222222</latitude>
+      <longitude>48.05583333</longitude>
+    </cities>
+    <cities>
+      <id>147040</id>
+      <name>Darani-ye Sofla</name>
+      <latitude>34.49888889</latitude>
+      <longitude>48.41222222</longitude>
+    </cities>
+    <cities>
+      <id>147041</id>
+      <name>Darcham</name>
+      <latitude>34.26027778</latitude>
+      <longitude>48.82083333</longitude>
+    </cities>
+    <cities>
+      <id>147042</id>
+      <name>Darreh Chenar</name>
+      <latitude>34.09944444</latitude>
+      <longitude>48.80305556</longitude>
+    </cities>
+    <cities>
+      <id>147043</id>
+      <name>Darreh Mianeh-ye Sofla</name>
+      <latitude>34.07277778</latitude>
+      <longitude>48.83527778</longitude>
+    </cities>
+    <cities>
+      <id>147044</id>
+      <name>Darreh Mirza</name>
+      <latitude>34.37611111</latitude>
+      <longitude>48.00750000</longitude>
+    </cities>
+    <cities>
+      <id>147045</id>
+      <name>Darreh-ye Ebrahim</name>
+      <latitude>34.10166667</latitude>
+      <longitude>48.39444444</longitude>
+    </cities>
+    <cities>
+      <id>147046</id>
+      <name>Darsibeh</name>
+      <latitude>34.26972222</latitude>
+      <longitude>48.00694444</longitude>
+    </cities>
+    <cities>
+      <id>147047</id>
+      <name>Davijan</name>
+      <latitude>34.22027778</latitude>
+      <longitude>48.85833333</longitude>
+    </cities>
+    <cities>
+      <id>147048</id>
+      <name>Deh Chaneh</name>
+      <latitude>34.10527778</latitude>
+      <longitude>49.12027778</longitude>
+    </cities>
+    <cities>
+      <id>147049</id>
+      <name>Deh Dalian</name>
+      <latitude>34.80472222</latitude>
+      <longitude>48.71138889</longitude>
+    </cities>
+    <cities>
+      <id>147050</id>
+      <name>Deh Ful</name>
+      <latitude>34.22694444</latitude>
+      <longitude>48.31388889</longitude>
+    </cities>
+    <cities>
+      <id>147051</id>
+      <name>Deh Mianeh</name>
+      <latitude>34.17305556</latitude>
+      <longitude>49.04944444</longitude>
+    </cities>
+    <cities>
+      <id>147052</id>
+      <name>Deh Nush</name>
+      <latitude>34.76111111</latitude>
+      <longitude>48.00305556</longitude>
+    </cities>
+    <cities>
+      <id>147053</id>
+      <name>Deh Piaz</name>
+      <latitude>34.88194444</latitude>
+      <longitude>48.51472222</longitude>
+    </cities>
+    <cities>
+      <id>147054</id>
+      <name>Deh-e Shaker</name>
+      <latitude>34.37888889</latitude>
+      <longitude>48.54777778</longitude>
+    </cities>
+    <cities>
+      <id>147055</id>
+      <name>Dehnow-e Avarzaman</name>
+      <latitude>34.30694444</latitude>
+      <longitude>48.55694444</longitude>
+    </cities>
+    <cities>
+      <id>147056</id>
+      <name>Dingeleh Kahriz</name>
+      <latitude>34.81111111</latitude>
+      <longitude>48.68472222</longitude>
+    </cities>
+    <cities>
+      <id>147057</id>
+      <name>Do Rudan</name>
+      <latitude>34.55972222</latitude>
+      <longitude>48.41472222</longitude>
+    </cities>
+    <cities>
+      <id>147058</id>
+      <name>Doraneh</name>
+      <latitude>34.23138889</latitude>
+      <longitude>48.21944444</longitude>
+    </cities>
+    <cities>
+      <id>147059</id>
+      <name>Dorudgaran</name>
+      <latitude>34.02027800</latitude>
+      <longitude>48.92472200</longitude>
+    </cities>
+    <cities>
+      <id>147060</id>
+      <name>Dow Baraleh</name>
+      <latitude>34.90222222</latitude>
+      <longitude>48.03361111</longitude>
+    </cities>
+    <cities>
+      <id>147061</id>
+      <name>Dowlatabad-e Hajjilu</name>
+      <latitude>35.28111111</latitude>
+      <longitude>48.88694444</longitude>
+    </cities>
+    <cities>
+      <id>147062</id>
+      <name>Dowlujerdin-e Bala</name>
+      <latitude>35.34777778</latitude>
+      <longitude>49.10944444</longitude>
+    </cities>
+    <cities>
+      <id>147063</id>
+      <name>Durijan</name>
+      <latitude>34.30555556</latitude>
+      <longitude>48.48972222</longitude>
+    </cities>
+    <cities>
+      <id>147064</id>
+      <name>Durnian</name>
+      <latitude>35.48194444</latitude>
+      <longitude>49.04000000</longitude>
+    </cities>
+    <cities>
+      <id>147065</id>
+      <name>Emamzadeh Khatun</name>
+      <latitude>34.04972222</latitude>
+      <longitude>48.95222222</longitude>
+    </cities>
+    <cities>
+      <id>147066</id>
+      <name>Emamzadeh Pir Nahan</name>
+      <latitude>35.01138889</latitude>
+      <longitude>49.04111111</longitude>
+    </cities>
+    <cities>
+      <id>147067</id>
+      <name>Eskanan</name>
+      <latitude>34.35805556</latitude>
+      <longitude>48.59277778</longitude>
+    </cities>
+    <cities>
+      <id>147068</id>
+      <name>Fahrumand</name>
+      <latitude>34.22416667</latitude>
+      <longitude>48.31194444</longitude>
+    </cities>
+    <cities>
+      <id>147069</id>
+      <name>Famast</name>
+      <latitude>34.03897000</latitude>
+      <longitude>48.46260000</longitude>
+    </cities>
+    <cities>
+      <id>147070</id>
+      <name>Famenin</name>
+      <latitude>35.11388889</latitude>
+      <longitude>48.97166667</longitude>
+    </cities>
+    <cities>
+      <id>147071</id>
+      <name>Farasfaj</name>
+      <latitude>34.48611111</latitude>
+      <longitude>48.28555556</longitude>
+    </cities>
+    <cities>
+      <id>147072</id>
+      <name>Farsban</name>
+      <latitude>34.24416667</latitude>
+      <longitude>48.11916667</longitude>
+    </cities>
+    <cities>
+      <id>147073</id>
+      <name>Farvaz</name>
+      <latitude>34.22694444</latitude>
+      <longitude>48.90111111</longitude>
+    </cities>
+    <cities>
+      <id>147074</id>
+      <name>Faryazan</name>
+      <latitude>34.52305600</latitude>
+      <longitude>48.33250000</longitude>
+    </cities>
+    <cities>
+      <id>147075</id>
+      <name>Fasijan</name>
+      <latitude>34.83666667</latitude>
+      <longitude>48.30472222</longitude>
+    </cities>
+    <cities>
+      <id>147076</id>
+      <name>Fiazaman</name>
+      <latitude>34.13111111</latitude>
+      <longitude>48.39638889</longitude>
+    </cities>
+    <cities>
+      <id>147077</id>
+      <name>Firuzabad-e Sofla</name>
+      <latitude>34.34694444</latitude>
+      <longitude>48.09638889</longitude>
+    </cities>
+    <cities>
+      <id>147078</id>
+      <name>Firuzan</name>
+      <latitude>34.27861111</latitude>
+      <longitude>48.24000000</longitude>
+    </cities>
+    <cities>
+      <id>147079</id>
+      <name>Gamasa</name>
+      <latitude>34.23027778</latitude>
+      <longitude>49.08750000</longitude>
+    </cities>
+    <cities>
+      <id>147080</id>
+      <name>Gamasb</name>
+      <latitude>34.04000000</latitude>
+      <longitude>48.46500000</longitude>
+    </cities>
+    <cities>
+      <id>147081</id>
+      <name>Ganj Tappeh</name>
+      <latitude>34.93333300</latitude>
+      <longitude>48.46361100</longitude>
+    </cities>
+    <cities>
+      <id>147082</id>
+      <name>Ganjab</name>
+      <latitude>34.45277778</latitude>
+      <longitude>48.98722222</longitude>
+    </cities>
+    <cities>
+      <id>147083</id>
+      <name>Gashani</name>
+      <latitude>34.66055556</latitude>
+      <longitude>48.39138889</longitude>
+    </cities>
+    <cities>
+      <id>147084</id>
+      <name>Gav Zaban</name>
+      <latitude>35.22916667</latitude>
+      <longitude>48.30527778</longitude>
+    </cities>
+    <cities>
+      <id>147085</id>
+      <name>Gavkaran</name>
+      <latitude>34.48694444</latitude>
+      <longitude>48.12000000</longitude>
+    </cities>
+    <cities>
+      <id>147086</id>
+      <name>Ghazyatan</name>
+      <latitude>35.33222222</latitude>
+      <longitude>48.93166667</longitude>
+    </cities>
+    <cities>
+      <id>147087</id>
+      <name>Gholam Veys</name>
+      <latitude>35.63000000</latitude>
+      <longitude>48.52583333</longitude>
+    </cities>
+    <cities>
+      <id>147088</id>
+      <name>Givaki</name>
+      <latitude>34.27250000</latitude>
+      <longitude>48.08111111</longitude>
+    </cities>
+    <cities>
+      <id>147089</id>
+      <name>Giyan</name>
+      <latitude>34.17805556</latitude>
+      <longitude>48.24416667</longitude>
+    </cities>
+    <cities>
+      <id>147090</id>
+      <name>Gol Darreh-ye Anuch</name>
+      <latitude>34.10222222</latitude>
+      <longitude>48.59861111</longitude>
+    </cities>
+    <cities>
+      <id>147091</id>
+      <name>Gol Heydar</name>
+      <latitude>34.06250000</latitude>
+      <longitude>48.41666667</longitude>
+    </cities>
+    <cities>
+      <id>147092</id>
+      <name>Golparabad</name>
+      <latitude>34.15500000</latitude>
+      <longitude>49.05777778</longitude>
+    </cities>
+    <cities>
+      <id>147093</id>
+      <name>Golshir</name>
+      <latitude>34.40000000</latitude>
+      <longitude>48.68333333</longitude>
+    </cities>
+    <cities>
+      <id>147094</id>
+      <name>Golushjerd</name>
+      <latitude>34.36611111</latitude>
+      <longitude>48.79000000</longitude>
+    </cities>
+    <cities>
+      <id>147095</id>
+      <name>Gomush Bolagh</name>
+      <latitude>34.93194444</latitude>
+      <longitude>48.28972222</longitude>
+    </cities>
+    <cities>
+      <id>147096</id>
+      <name>Gonbad Chay</name>
+      <latitude>34.86833300</latitude>
+      <longitude>48.83138900</longitude>
+    </cities>
+    <cities>
+      <id>147097</id>
+      <name>Gonbad-e Kabud</name>
+      <latitude>34.21722222</latitude>
+      <longitude>48.14777778</longitude>
+    </cities>
+    <cities>
+      <id>147098</id>
+      <name>Gostar</name>
+      <latitude>35.46388889</latitude>
+      <longitude>48.87638889</longitude>
+    </cities>
+    <cities>
+      <id>147099</id>
+      <name>Gozal Abdal</name>
+      <latitude>35.32166667</latitude>
+      <longitude>48.23861111</longitude>
+    </cities>
+    <cities>
+      <id>147100</id>
+      <name>Gug Qash</name>
+      <latitude>35.68750000</latitude>
+      <longitude>48.02530000</longitude>
+    </cities>
+    <cities>
+      <id>147101</id>
+      <name>Gujak</name>
+      <latitude>34.54083333</latitude>
+      <longitude>48.84027778</longitude>
+    </cities>
+    <cities>
+      <id>147102</id>
+      <name>Gulvand</name>
+      <latitude>34.38083333</latitude>
+      <longitude>48.97527778</longitude>
+    </cities>
+    <cities>
+      <id>147103</id>
+      <name>Gunestan</name>
+      <latitude>34.03027778</latitude>
+      <longitude>48.91833333</longitude>
+    </cities>
+    <cities>
+      <id>147104</id>
+      <name>Gur Gaz</name>
+      <latitude>34.93333333</latitude>
+      <longitude>48.79111111</longitude>
+    </cities>
+    <cities>
+      <id>147105</id>
+      <name>Gurjiu</name>
+      <latitude>34.18583333</latitude>
+      <longitude>48.40555556</longitude>
+    </cities>
+    <cities>
+      <id>147106</id>
+      <name>Gushalan</name>
+      <latitude>34.83500000</latitude>
+      <longitude>48.32250000</longitude>
+    </cities>
+    <cities>
+      <id>147107</id>
+      <name>Gusheh-ye Kasavand</name>
+      <latitude>34.15527778</latitude>
+      <longitude>48.95944444</longitude>
+    </cities>
+    <cities>
+      <id>147108</id>
+      <name>Hajji Kheder</name>
+      <latitude>34.12722222</latitude>
+      <longitude>48.74833333</longitude>
+    </cities>
+    <cities>
+      <id>147109</id>
+      <name>Hajji Maqsud</name>
+      <latitude>34.96972222</latitude>
+      <longitude>48.87972222</longitude>
+    </cities>
+    <cities>
+      <id>147110</id>
+      <name>Hajji Tu</name>
+      <latitude>34.45083300</latitude>
+      <longitude>48.35361100</longitude>
+    </cities>
+    <cities>
+      <id>147111</id>
+      <name>Hamadan</name>
+      <latitude>34.80000000</latitude>
+      <longitude>48.51666667</longitude>
+    </cities>
+    <cities>
+      <id>147112</id>
+      <name>Hamilabad</name>
+      <latitude>34.40250000</latitude>
+      <longitude>48.46083333</longitude>
+    </cities>
+    <cities>
+      <id>147113</id>
+      <name>Hamzehlu-ye Sofla</name>
+      <latitude>34.05777778</latitude>
+      <longitude>49.07777778</longitude>
+    </cities>
+    <cities>
+      <id>147114</id>
+      <name>Haramabad</name>
+      <latitude>34.28166667</latitude>
+      <longitude>48.78250000</longitude>
+    </cities>
+    <cities>
+      <id>147115</id>
+      <name>Hasan Kusej</name>
+      <latitude>34.24833333</latitude>
+      <longitude>48.57527778</longitude>
+    </cities>
+    <cities>
+      <id>147116</id>
+      <name>Hasan Teymur</name>
+      <latitude>35.37583333</latitude>
+      <longitude>48.36361111</longitude>
+    </cities>
+    <cities>
+      <id>147117</id>
+      <name>Hasanabad-e Emam</name>
+      <latitude>34.95027778</latitude>
+      <longitude>48.05083333</longitude>
+    </cities>
+    <cities>
+      <id>147118</id>
+      <name>Hasanabad-e Qush Bolagh</name>
+      <latitude>34.42361111</latitude>
+      <longitude>48.65444444</longitude>
+    </cities>
+    <cities>
+      <id>147119</id>
+      <name>Hasanabad-e Sheverin</name>
+      <latitude>34.84250000</latitude>
+      <longitude>48.54916667</longitude>
+    </cities>
+    <cities>
+      <id>147120</id>
+      <name>Heriraz</name>
+      <latitude>34.20527778</latitude>
+      <longitude>48.74305556</longitude>
+    </cities>
+    <cities>
+      <id>147121</id>
+      <name>Hesar-e Qarah Baghi</name>
+      <latitude>34.82250000</latitude>
+      <longitude>48.26861111</longitude>
+    </cities>
+    <cities>
+      <id>147122</id>
+      <name>Hesar-e Qujeh Baghi</name>
+      <latitude>35.23861111</latitude>
+      <longitude>48.55972222</longitude>
+    </cities>
+    <cities>
+      <id>147123</id>
+      <name>Heydareh-ye Dar-e Emam</name>
+      <latitude>34.82055556</latitude>
+      <longitude>48.34694444</longitude>
+    </cities>
+    <cities>
+      <id>147124</id>
+      <name>Heydareh-ye Posht-e Shahr</name>
+      <latitude>34.80250000</latitude>
+      <longitude>48.45750000</longitude>
+    </cities>
+    <cities>
+      <id>147125</id>
+      <name>Hizaj</name>
+      <latitude>34.93000000</latitude>
+      <longitude>49.14333333</longitude>
+    </cities>
+    <cities>
+      <id>147126</id>
+      <name>Holvar-e Sofla</name>
+      <latitude>34.68000000</latitude>
+      <longitude>48.13472222</longitude>
+    </cities>
+    <cities>
+      <id>147127</id>
+      <name>Hom-e Khosrow</name>
+      <latitude>34.31472222</latitude>
+      <longitude>48.01000000</longitude>
+    </cities>
+    <cities>
+      <id>147128</id>
+      <name>Horhoreh</name>
+      <latitude>34.39111111</latitude>
+      <longitude>48.36027778</longitude>
+    </cities>
+    <cities>
+      <id>147129</id>
+      <name>Hoseynabad-e Bahar</name>
+      <latitude>34.86750000</latitude>
+      <longitude>48.36833333</longitude>
+    </cities>
+    <cities>
+      <id>147130</id>
+      <name>Hoseynabad-e Nazem</name>
+      <latitude>34.29527800</latitude>
+      <longitude>48.60416700</longitude>
+    </cities>
+    <cities>
+      <id>147131</id>
+      <name>Hoseynabad-e Shamlu</name>
+      <latitude>34.44611111</latitude>
+      <longitude>48.62055556</longitude>
+    </cities>
+    <cities>
+      <id>147132</id>
+      <name>Hudaraj</name>
+      <latitude>34.73361111</latitude>
+      <longitude>48.16194444</longitude>
+    </cities>
+    <cities>
+      <id>147133</id>
+      <name>Iraneh</name>
+      <latitude>34.24305556</latitude>
+      <longitude>48.59750000</longitude>
+    </cities>
+    <cities>
+      <id>147134</id>
+      <name>Isti Bolagh</name>
+      <latitude>35.69500000</latitude>
+      <longitude>48.26611111</longitude>
+    </cities>
+    <cities>
+      <id>147135</id>
+      <name>Jamishlu</name>
+      <latitude>35.24583333</latitude>
+      <longitude>48.97666667</longitude>
+    </cities>
+    <cities>
+      <id>147136</id>
+      <name>Jaria</name>
+      <latitude>34.35166667</latitude>
+      <longitude>48.46861111</longitude>
+    </cities>
+    <cities>
+      <id>147137</id>
+      <name>Javar Sajin</name>
+      <latitude>35.28583333</latitude>
+      <longitude>49.22138889</longitude>
+    </cities>
+    <cities>
+      <id>147138</id>
+      <name>Jerbanlu</name>
+      <latitude>35.58638889</latitude>
+      <longitude>48.92916667</longitude>
+    </cities>
+    <cities>
+      <id>147139</id>
+      <name>Jighi</name>
+      <latitude>35.20027778</latitude>
+      <longitude>48.49388889</longitude>
+    </cities>
+    <cities>
+      <id>147140</id>
+      <name>Jijan Kuh</name>
+      <latitude>34.48111111</latitude>
+      <longitude>48.50694444</longitude>
+    </cities>
+    <cities>
+      <id>147141</id>
+      <name>Jijian Rud</name>
+      <latitude>34.35638889</latitude>
+      <longitude>48.60861111</longitude>
+    </cities>
+    <cities>
+      <id>147142</id>
+      <name>Jin Taraqayah</name>
+      <latitude>35.34555556</latitude>
+      <longitude>48.43250000</longitude>
+    </cities>
+    <cities>
+      <id>147143</id>
+      <name>Juraqan</name>
+      <latitude>34.88472222</latitude>
+      <longitude>48.55444444</longitude>
+    </cities>
+    <cities>
+      <id>147144</id>
+      <name>Kaboodrahang</name>
+      <latitude>35.20833333</latitude>
+      <longitude>48.72388889</longitude>
+    </cities>
+    <cities>
+      <id>147145</id>
+      <name>Kahard</name>
+      <latitude>35.28555556</latitude>
+      <longitude>49.00527778</longitude>
+    </cities>
+    <cities>
+      <id>147146</id>
+      <name>Kahkadan</name>
+      <latitude>34.14388889</latitude>
+      <longitude>48.65805556</longitude>
+    </cities>
+    <cities>
+      <id>147147</id>
+      <name>Kahriz-e Baba Hoseyn</name>
+      <latitude>35.53388889</latitude>
+      <longitude>47.94027778</longitude>
+    </cities>
+    <cities>
+      <id>147148</id>
+      <name>Kahriz-e Boqazi</name>
+      <latitude>35.51138889</latitude>
+      <longitude>48.81833333</longitude>
+    </cities>
+    <cities>
+      <id>147149</id>
+      <name>Kahriz-e Hoseynabad-e Nazem</name>
+      <latitude>34.31888889</latitude>
+      <longitude>48.62777778</longitude>
+    </cities>
+    <cities>
+      <id>147150</id>
+      <name>Kahriz-e Jamal</name>
+      <latitude>34.33500000</latitude>
+      <longitude>48.14611111</longitude>
+    </cities>
+    <cities>
+      <id>147151</id>
+      <name>Kahriz-e Salim</name>
+      <latitude>34.32888889</latitude>
+      <longitude>48.16222222</longitude>
+    </cities>
+    <cities>
+      <id>147152</id>
+      <name>Kal Kabud</name>
+      <latitude>35.48083333</latitude>
+      <longitude>48.85277778</longitude>
+    </cities>
+    <cities>
+      <id>147153</id>
+      <name>Kalb Hesari</name>
+      <latitude>35.36694444</latitude>
+      <longitude>48.39583333</longitude>
+    </cities>
+    <cities>
+      <id>147154</id>
+      <name>Kalilabad</name>
+      <latitude>34.33916667</latitude>
+      <longitude>48.54472222</longitude>
+    </cities>
+    <cities>
+      <id>147155</id>
+      <name>Kamak-e Sofla</name>
+      <latitude>34.88750000</latitude>
+      <longitude>47.96861111</longitude>
+    </cities>
+    <cities>
+      <id>147156</id>
+      <name>Kamar Boneh</name>
+      <latitude>34.17500000</latitude>
+      <longitude>48.63500000</longitude>
+    </cities>
+    <cities>
+      <id>147157</id>
+      <name>Kamazan</name>
+      <latitude>34.15083333</latitude>
+      <longitude>48.95333333</longitude>
+    </cities>
+    <cities>
+      <id>147158</id>
+      <name>Kand Halan</name>
+      <latitude>34.50111111</latitude>
+      <longitude>48.78194444</longitude>
+    </cities>
+    <cities>
+      <id>147159</id>
+      <name>Kand Tappeh</name>
+      <latitude>35.20138889</latitude>
+      <longitude>48.30555556</longitude>
+    </cities>
+    <cities>
+      <id>147160</id>
+      <name>Kand-e Bolaghi</name>
+      <latitude>35.43000000</latitude>
+      <longitude>48.32277778</longitude>
+    </cities>
+    <cities>
+      <id>147161</id>
+      <name>Kangavar-e Kohneh</name>
+      <latitude>34.34194444</latitude>
+      <longitude>47.97611111</longitude>
+    </cities>
+    <cities>
+      <id>147162</id>
+      <name>Karafs</name>
+      <latitude>35.36333333</latitude>
+      <longitude>49.29888889</longitude>
+    </cities>
+    <cities>
+      <id>147163</id>
+      <name>Kark-e Sofla</name>
+      <latitude>34.16944444</latitude>
+      <longitude>48.29138889</longitude>
+    </cities>
+    <cities>
+      <id>147164</id>
+      <name>Kartilabad</name>
+      <latitude>34.31361111</latitude>
+      <longitude>48.64916667</longitude>
+    </cities>
+    <cities>
+      <id>147165</id>
+      <name>Kasavand</name>
+      <latitude>34.15222222</latitude>
+      <longitude>48.96972222</longitude>
+    </cities>
+    <cities>
+      <id>147166</id>
+      <name>Kaslan Qayah</name>
+      <latitude>35.19388889</latitude>
+      <longitude>48.18611111</longitude>
+    </cities>
+    <cities>
+      <id>147167</id>
+      <name>Kavanaj</name>
+      <latitude>34.66388889</latitude>
+      <longitude>47.89694444</longitude>
+    </cities>
+    <cities>
+      <id>147168</id>
+      <name>Kesb</name>
+      <latitude>34.41416667</latitude>
+      <longitude>48.72250000</longitude>
+    </cities>
+    <cities>
+      <id>147169</id>
+      <name>Keykaleh</name>
+      <latitude>34.11500000</latitude>
+      <longitude>48.93916667</longitude>
+    </cities>
+    <cities>
+      <id>147170</id>
+      <name>Keyni Sayeh</name>
+      <latitude>34.82583333</latitude>
+      <longitude>47.88638889</longitude>
+    </cities>
+    <cities>
+      <id>147171</id>
+      <name>Khabar Arkhi</name>
+      <latitude>35.36333333</latitude>
+      <longitude>48.27666667</longitude>
+    </cities>
+    <cities>
+      <id>147172</id>
+      <name>Khaku</name>
+      <latitude>34.72638889</latitude>
+      <longitude>48.53638889</longitude>
+    </cities>
+    <cities>
+      <id>147173</id>
+      <name>Khaleq Verdi</name>
+      <latitude>35.41083333</latitude>
+      <longitude>48.18111111</longitude>
+    </cities>
+    <cities>
+      <id>147174</id>
+      <name>Khalil Kord</name>
+      <latitude>34.97805556</latitude>
+      <longitude>48.25305556</longitude>
+    </cities>
+    <cities>
+      <id>147175</id>
+      <name>Kheradmand</name>
+      <latitude>34.62583333</latitude>
+      <longitude>48.93138889</longitude>
+    </cities>
+    <cities>
+      <id>147176</id>
+      <name>Kheyr Qoli</name>
+      <latitude>34.20222222</latitude>
+      <longitude>48.40138889</longitude>
+    </cities>
+    <cities>
+      <id>147177</id>
+      <name>Khomeygan</name>
+      <latitude>35.36972222</latitude>
+      <longitude>49.02333333</longitude>
+    </cities>
+    <cities>
+      <id>147178</id>
+      <name>Khvajeh Hesar</name>
+      <latitude>35.00000000</latitude>
+      <longitude>49.33916667</longitude>
+    </cities>
+    <cities>
+      <id>147179</id>
+      <name>Khvajeh Hoseyni</name>
+      <latitude>34.15500000</latitude>
+      <longitude>48.37861111</longitude>
+    </cities>
+    <cities>
+      <id>147180</id>
+      <name>Khvajeh Kandi</name>
+      <latitude>35.36194444</latitude>
+      <longitude>48.38500000</longitude>
+    </cities>
+    <cities>
+      <id>147181</id>
+      <name>Khvoshab-e Sofla</name>
+      <latitude>35.01777778</latitude>
+      <longitude>48.35750000</longitude>
+    </cities>
+    <cities>
+      <id>147182</id>
+      <name>Kitu</name>
+      <latitude>35.31972222</latitude>
+      <longitude>48.15333333</longitude>
+    </cities>
+    <cities>
+      <id>147183</id>
+      <name>Kohnush</name>
+      <latitude>34.72583333</latitude>
+      <longitude>48.27777778</longitude>
+    </cities>
+    <cities>
+      <id>147184</id>
+      <name>Kolanjan</name>
+      <latitude>34.59444444</latitude>
+      <longitude>48.39250000</longitude>
+    </cities>
+    <cities>
+      <id>147185</id>
+      <name>Konjineh</name>
+      <latitude>34.79222222</latitude>
+      <longitude>48.62972222</longitude>
+    </cities>
+    <cities>
+      <id>147186</id>
+      <name>Kord Bolagh</name>
+      <latitude>34.76722222</latitude>
+      <longitude>48.65277778</longitude>
+    </cities>
+    <cities>
+      <id>147187</id>
+      <name>Korzan</name>
+      <latitude>34.59444444</latitude>
+      <longitude>48.35361111</longitude>
+    </cities>
+    <cities>
+      <id>147188</id>
+      <name>Kowzareh</name>
+      <latitude>34.69861100</latitude>
+      <longitude>49.01138900</longitude>
+    </cities>
+    <cities>
+      <id>147189</id>
+      <name>Kuhani</name>
+      <latitude>34.15388900</latitude>
+      <longitude>48.40500000</longitude>
+    </cities>
+    <cities>
+      <id>147190</id>
+      <name>Kur Kahriz</name>
+      <latitude>34.71722222</latitude>
+      <longitude>48.77333333</longitude>
+    </cities>
+    <cities>
+      <id>147191</id>
+      <name>Kusaj Khalil</name>
+      <latitude>34.40416667</latitude>
+      <longitude>48.58805556</longitude>
+    </cities>
+    <cities>
+      <id>147192</id>
+      <name>Kutah Darreh</name>
+      <latitude>34.32055556</latitude>
+      <longitude>47.95388889</longitude>
+    </cities>
+    <cities>
+      <id>147193</id>
+      <name>Laleh Dan</name>
+      <latitude>35.58111111</latitude>
+      <longitude>48.95416667</longitude>
+    </cities>
+    <cities>
+      <id>147194</id>
+      <name>Lalejin</name>
+      <latitude>34.97444444</latitude>
+      <longitude>48.47555556</longitude>
+    </cities>
+    <cities>
+      <id>147195</id>
+      <name>Lamiyan</name>
+      <latitude>34.46277778</latitude>
+      <longitude>48.19277778</longitude>
+    </cities>
+    <cities>
+      <id>147196</id>
+      <name>Latgah</name>
+      <latitude>34.98944400</latitude>
+      <longitude>48.54638900</longitude>
+    </cities>
+    <cities>
+      <id>147197</id>
+      <name>Lavashan</name>
+      <latitude>34.25055556</latitude>
+      <longitude>48.27416667</longitude>
+    </cities>
+    <cities>
+      <id>147198</id>
+      <name>Leyli Yadegar</name>
+      <latitude>34.28583333</latitude>
+      <longitude>48.21027778</longitude>
+    </cities>
+    <cities>
+      <id>147199</id>
+      <name>Luluhar</name>
+      <latitude>34.31611111</latitude>
+      <longitude>48.45416667</longitude>
+    </cities>
+    <cities>
+      <id>147200</id>
+      <name>Mahanabad</name>
+      <latitude>34.18083333</latitude>
+      <longitude>48.20972222</longitude>
+    </cities>
+    <cities>
+      <id>147201</id>
+      <name>Mahbar</name>
+      <latitude>34.87611111</latitude>
+      <longitude>48.80777778</longitude>
+    </cities>
+    <cities>
+      <id>147202</id>
+      <name>Mahdaviyeh</name>
+      <latitude>34.08333333</latitude>
+      <longitude>48.88333333</longitude>
+    </cities>
+    <cities>
+      <id>147203</id>
+      <name>Mahnian</name>
+      <latitude>35.50250000</latitude>
+      <longitude>49.06583333</longitude>
+    </cities>
+    <cities>
+      <id>147204</id>
+      <name>Malayer</name>
+      <latitude>34.29416667</latitude>
+      <longitude>48.82000000</longitude>
+    </cities>
+    <cities>
+      <id>147205</id>
+      <name>Malek-e Ashtar</name>
+      <latitude>34.95222222</latitude>
+      <longitude>48.31500000</longitude>
+    </cities>
+    <cities>
+      <id>147206</id>
+      <name>Malusan</name>
+      <latitude>34.32333333</latitude>
+      <longitude>48.33000000</longitude>
+    </cities>
+    <cities>
+      <id>147207</id>
+      <name>Mangavi</name>
+      <latitude>34.65750000</latitude>
+      <longitude>48.70861111</longitude>
+    </cities>
+    <cities>
+      <id>147208</id>
+      <name>Marvil</name>
+      <latitude>34.16805556</latitude>
+      <longitude>48.88694444</longitude>
+    </cities>
+    <cities>
+      <id>147209</id>
+      <name>Maryanaj</name>
+      <latitude>34.83083333</latitude>
+      <longitude>48.45916667</longitude>
+    </cities>
+    <cities>
+      <id>147210</id>
+      <name>Masjedin</name>
+      <latitude>35.54277778</latitude>
+      <longitude>48.26333333</longitude>
+    </cities>
+    <cities>
+      <id>147211</id>
+      <name>Menjan</name>
+      <latitude>34.44805556</latitude>
+      <longitude>48.23555556</longitude>
+    </cities>
+    <cities>
+      <id>147212</id>
+      <name>Mesinak</name>
+      <latitude>35.27222222</latitude>
+      <longitude>49.15111111</longitude>
+    </cities>
+    <cities>
+      <id>147213</id>
+      <name>Meyvaleh</name>
+      <latitude>34.83194444</latitude>
+      <longitude>47.85527778</longitude>
+    </cities>
+    <cities>
+      <id>147214</id>
+      <name>Mianzulan</name>
+      <latitude>34.31222222</latitude>
+      <longitude>48.51555556</longitude>
+    </cities>
+    <cities>
+      <id>147215</id>
+      <name>Mihamleh-ye Sofla</name>
+      <latitude>35.10000000</latitude>
+      <longitude>48.30805556</longitude>
+    </cities>
+    <cities>
+      <id>147216</id>
+      <name>Milab</name>
+      <latitude>34.05277778</latitude>
+      <longitude>48.47972222</longitude>
+    </cities>
+    <cities>
+      <id>147217</id>
+      <name>Mirza Hesari</name>
+      <latitude>35.12750000</latitude>
+      <longitude>48.45944400</longitude>
+    </cities>
+    <cities>
+      <id>147218</id>
+      <name>Mishen</name>
+      <latitude>34.15750000</latitude>
+      <longitude>48.92722222</longitude>
+    </cities>
+    <cities>
+      <id>147219</id>
+      <name>Mobarakin</name>
+      <latitude>35.09805556</latitude>
+      <longitude>49.42416667</longitude>
+    </cities>
+    <cities>
+      <id>147220</id>
+      <name>Mohajeran</name>
+      <latitude>35.07388889</latitude>
+      <longitude>48.61666667</longitude>
+    </cities>
+    <cities>
+      <id>147221</id>
+      <name>Mohammadabad-e Chulak</name>
+      <latitude>34.24666667</latitude>
+      <longitude>48.30444444</longitude>
+    </cities>
+    <cities>
+      <id>147222</id>
+      <name>Mohammadiyeh-e Sofla</name>
+      <latitude>34.14611111</latitude>
+      <longitude>48.33861111</longitude>
+    </cities>
+    <cities>
+      <id>147223</id>
+      <name>Mohara</name>
+      <latitude>34.55527778</latitude>
+      <longitude>48.86861111</longitude>
+    </cities>
+    <cities>
+      <id>147224</id>
+      <name>Mokarrabi</name>
+      <latitude>34.62500000</latitude>
+      <longitude>48.69777778</longitude>
+    </cities>
+    <cities>
+      <id>147225</id>
+      <name>Molham Darreh</name>
+      <latitude>34.83138889</latitude>
+      <longitude>48.14527778</longitude>
+    </cities>
+    <cities>
+      <id>147226</id>
+      <name>Molla Bodagh</name>
+      <latitude>35.63138889</latitude>
+      <longitude>48.73888889</longitude>
+    </cities>
+    <cities>
+      <id>147227</id>
+      <name>Monavvar Tappeh</name>
+      <latitude>34.72027778</latitude>
+      <longitude>47.91111111</longitude>
+    </cities>
+    <cities>
+      <id>147228</id>
+      <name>Morghabad</name>
+      <latitude>35.18833333</latitude>
+      <longitude>49.28277778</longitude>
+    </cities>
+    <cities>
+      <id>147229</id>
+      <name>Mowdaran</name>
+      <latitude>34.33250000</latitude>
+      <longitude>48.47138889</longitude>
+    </cities>
+    <cities>
+      <id>147230</id>
+      <name>Musa Bolaghi</name>
+      <latitude>34.59888889</latitude>
+      <longitude>48.94111111</longitude>
+    </cities>
+    <cities>
+      <id>147231</id>
+      <name>Nahandar</name>
+      <latitude>34.14944444</latitude>
+      <longitude>48.96833333</longitude>
+    </cities>
+    <cities>
+      <id>147232</id>
+      <name>Nahavand</name>
+      <latitude>34.18833333</latitude>
+      <longitude>48.37694444</longitude>
+    </cities>
+    <cities>
+      <id>147233</id>
+      <name>Najafiyeh</name>
+      <latitude>34.55500000</latitude>
+      <longitude>48.38638889</longitude>
+    </cities>
+    <cities>
+      <id>147234</id>
+      <name>Nakilabad</name>
+      <latitude>34.36777778</latitude>
+      <longitude>48.65694444</longitude>
+    </cities>
+    <cities>
+      <id>147235</id>
+      <name>Nakin</name>
+      <latitude>35.38805556</latitude>
+      <longitude>49.26527778</longitude>
+    </cities>
+    <cities>
+      <id>147236</id>
+      <name>Namileh</name>
+      <latitude>34.27111111</latitude>
+      <longitude>48.82000000</longitude>
+    </cities>
+    <cities>
+      <id>147237</id>
+      <name>Nanaj</name>
+      <latitude>34.42000000</latitude>
+      <longitude>48.75388889</longitude>
+    </cities>
+    <cities>
+      <id>147238</id>
+      <name>Nazul</name>
+      <latitude>34.22833333</latitude>
+      <longitude>48.71805556</longitude>
+    </cities>
+    <cities>
+      <id>147239</id>
+      <name>Negar Khatun</name>
+      <latitude>35.11861111</latitude>
+      <longitude>48.92555556</longitude>
+    </cities>
+    <cities>
+      <id>147240</id>
+      <name>Negarabad</name>
+      <latitude>35.47583333</latitude>
+      <longitude>48.53277778</longitude>
+    </cities>
+    <cities>
+      <id>147241</id>
+      <name>Nehenjeh</name>
+      <latitude>34.54111111</latitude>
+      <longitude>48.71722222</longitude>
+    </cities>
+    <cities>
+      <id>147242</id>
+      <name>Nesar</name>
+      <latitude>34.07694444</latitude>
+      <longitude>48.46861111</longitude>
+    </cities>
+    <cities>
+      <id>147243</id>
+      <name>Neshar</name>
+      <latitude>34.67722222</latitude>
+      <longitude>48.86694444</longitude>
+    </cities>
+    <cities>
+      <id>147244</id>
+      <name>Niyanj</name>
+      <latitude>35.34861111</latitude>
+      <longitude>48.91722222</longitude>
+    </cities>
+    <cities>
+      <id>147245</id>
+      <name>Nosratabad-e Behraz</name>
+      <latitude>34.69222222</latitude>
+      <longitude>48.08555556</longitude>
+    </cities>
+    <cities>
+      <id>147246</id>
+      <name>Nosratabad-e Laklak</name>
+      <latitude>34.66472222</latitude>
+      <longitude>47.96277778</longitude>
+    </cities>
+    <cities>
+      <id>147247</id>
+      <name>Nurabad-e Simineh</name>
+      <latitude>34.82194444</latitude>
+      <longitude>48.29277778</longitude>
+    </cities>
+    <cities>
+      <id>147248</id>
+      <name>Ojaq</name>
+      <latitude>35.64000000</latitude>
+      <longitude>48.84583333</longitude>
+    </cities>
+    <cities>
+      <id>147249</id>
+      <name>Ommatlar</name>
+      <latitude>35.43611111</latitude>
+      <longitude>48.96861111</longitude>
+    </cities>
+    <cities>
+      <id>147250</id>
+      <name>Oshtoran</name>
+      <latitude>34.63805556</latitude>
+      <longitude>48.29555556</longitude>
+    </cities>
+    <cities>
+      <id>147251</id>
+      <name>Oshtorjin</name>
+      <latitude>34.77583333</latitude>
+      <longitude>48.17222222</longitude>
+    </cities>
+    <cities>
+      <id>147252</id>
+      <name>Ovraqin</name>
+      <latitude>35.28222222</latitude>
+      <longitude>48.69111111</longitude>
+    </cities>
+    <cities>
+      <id>147253</id>
+      <name>Owrteh Qamish</name>
+      <latitude>35.57083333</latitude>
+      <longitude>48.62916667</longitude>
+    </cities>
+    <cities>
+      <id>147254</id>
+      <name>Owryad</name>
+      <latitude>35.26277778</latitude>
+      <longitude>48.37250000</longitude>
+    </cities>
+    <cities>
+      <id>147255</id>
+      <name>Pahnabad</name>
+      <latitude>34.84166667</latitude>
+      <longitude>48.61472222</longitude>
+    </cities>
+    <cities>
+      <id>147256</id>
+      <name>Panbeh Dar</name>
+      <latitude>34.06527778</latitude>
+      <longitude>48.44555556</longitude>
+    </cities>
+    <cities>
+      <id>147257</id>
+      <name>Parluk</name>
+      <latitude>35.06555556</latitude>
+      <longitude>48.24611111</longitude>
+    </cities>
+    <cities>
+      <id>147258</id>
+      <name>Parvaraq</name>
+      <latitude>35.15583333</latitude>
+      <longitude>48.76777778</longitude>
+    </cities>
+    <cities>
+      <id>147259</id>
+      <name>Payandeh</name>
+      <latitude>35.44194444</latitude>
+      <longitude>48.85305556</longitude>
+    </cities>
+    <cities>
+      <id>147260</id>
+      <name>Peyhan</name>
+      <latitude>34.12972222</latitude>
+      <longitude>48.86750000</longitude>
+    </cities>
+    <cities>
+      <id>147261</id>
+      <name>Pileh Jin</name>
+      <latitude>35.38388889</latitude>
+      <longitude>48.85583333</longitude>
+    </cities>
+    <cities>
+      <id>147262</id>
+      <name>Pir Anbar</name>
+      <latitude>35.24250000</latitude>
+      <longitude>48.51361111</longitude>
+    </cities>
+    <cities>
+      <id>147263</id>
+      <name>Pir Badam</name>
+      <latitude>35.56722222</latitude>
+      <longitude>48.13888889</longitude>
+    </cities>
+    <cities>
+      <id>147264</id>
+      <name>Pir Khodaverdi</name>
+      <latitude>34.32500000</latitude>
+      <longitude>48.92861111</longitude>
+    </cities>
+    <cities>
+      <id>147265</id>
+      <name>Pir Malu</name>
+      <latitude>34.91222222</latitude>
+      <longitude>48.06611111</longitude>
+    </cities>
+    <cities>
+      <id>147266</id>
+      <name>Pir Mishan</name>
+      <latitude>34.39166667</latitude>
+      <longitude>48.66611111</longitude>
+    </cities>
+    <cities>
+      <id>147267</id>
+      <name>Pir Savaran</name>
+      <latitude>34.11805556</latitude>
+      <longitude>48.77861111</longitude>
+    </cities>
+    <cities>
+      <id>147268</id>
+      <name>Pir Yusof</name>
+      <latitude>34.68888889</latitude>
+      <longitude>47.89277778</longitude>
+    </cities>
+    <cities>
+      <id>147269</id>
+      <name>Piruz</name>
+      <latitude>34.13500000</latitude>
+      <longitude>49.04527778</longitude>
+    </cities>
+    <cities>
+      <id>147270</id>
+      <name>Poshtjin</name>
+      <latitude>35.31416667</latitude>
+      <longitude>49.07166667</longitude>
+    </cities>
+    <cities>
+      <id>147271</id>
+      <name>Qabanqoli</name>
+      <latitude>35.19833333</latitude>
+      <longitude>49.17833333</longitude>
+    </cities>
+    <cities>
+      <id>147272</id>
+      <name>Qader Khalaj</name>
+      <latitude>35.40111111</latitude>
+      <longitude>48.73000000</longitude>
+    </cities>
+    <cities>
+      <id>147273</id>
+      <name>Qadimi</name>
+      <latitude>34.65194444</latitude>
+      <longitude>48.73666667</longitude>
+    </cities>
+    <cities>
+      <id>147274</id>
+      <name>Qahavand</name>
+      <latitude>34.86027778</latitude>
+      <longitude>49.00472222</longitude>
+    </cities>
+    <cities>
+      <id>147275</id>
+      <name>Qajar Ab-e Sofla</name>
+      <latitude>34.43527778</latitude>
+      <longitude>48.97527778</longitude>
+    </cities>
+    <cities>
+      <id>147276</id>
+      <name>Qarah Day</name>
+      <latitude>35.12527778</latitude>
+      <longitude>49.28222222</longitude>
+    </cities>
+    <cities>
+      <id>147277</id>
+      <name>Qarah Tegini</name>
+      <latitude>34.44027778</latitude>
+      <longitude>48.93555556</longitude>
+    </cities>
+    <cities>
+      <id>147278</id>
+      <name>Qaranqu Darreh</name>
+      <latitude>35.51305556</latitude>
+      <longitude>48.17750000</longitude>
+    </cities>
+    <cities>
+      <id>147279</id>
+      <name>Qasabestan</name>
+      <latitude>34.42000000</latitude>
+      <longitude>48.18777778</longitude>
+    </cities>
+    <cities>
+      <id>147280</id>
+      <name>Qasemabad-e Laklak</name>
+      <latitude>34.67527778</latitude>
+      <longitude>47.97222222</longitude>
+    </cities>
+    <cities>
+      <id>147281</id>
+      <name>Qater Owlan</name>
+      <latitude>35.37527778</latitude>
+      <longitude>48.93166667</longitude>
+    </cities>
+    <cities>
+      <id>147282</id>
+      <name>Qayesh</name>
+      <latitude>35.49611111</latitude>
+      <longitude>48.86694444</longitude>
+    </cities>
+    <cities>
+      <id>147283</id>
+      <name>Qazan Qarah</name>
+      <latitude>35.66190000</latitude>
+      <longitude>48.08220000</longitude>
+    </cities>
+    <cities>
+      <id>147284</id>
+      <name>Qazi Mardan</name>
+      <latitude>34.77694444</latitude>
+      <longitude>48.01416667</longitude>
+    </cities>
+    <cities>
+      <id>147285</id>
+      <name>Qeshlaq Baba Rostam</name>
+      <latitude>34.14194444</latitude>
+      <longitude>48.36250000</longitude>
+    </cities>
+    <cities>
+      <id>147286</id>
+      <name>Qeshlaq-e Anuch</name>
+      <latitude>34.11611111</latitude>
+      <longitude>48.57777778</longitude>
+    </cities>
+    <cities>
+      <id>147287</id>
+      <name>Qeshlaq-e Deh Ful</name>
+      <latitude>34.24388889</latitude>
+      <longitude>48.33750000</longitude>
+    </cities>
+    <cities>
+      <id>147288</id>
+      <name>Qeshlaq-e Dehnow</name>
+      <latitude>34.50000000</latitude>
+      <longitude>48.56666667</longitude>
+    </cities>
+    <cities>
+      <id>147289</id>
+      <name>Qeshlaq-e Mohammadi</name>
+      <latitude>34.06666667</latitude>
+      <longitude>48.91666667</longitude>
+    </cities>
+    <cities>
+      <id>147290</id>
+      <name>Qeshlaq-e Najaf</name>
+      <latitude>34.37222222</latitude>
+      <longitude>48.24500000</longitude>
+    </cities>
+    <cities>
+      <id>147291</id>
+      <name>Qeshlaq-e Pust Shuran</name>
+      <latitude>34.40305556</latitude>
+      <longitude>48.21638889</longitude>
+    </cities>
+    <cities>
+      <id>147292</id>
+      <name>Qeshlaq-e Qobad</name>
+      <latitude>34.58777778</latitude>
+      <longitude>48.89583333</longitude>
+    </cities>
+    <cities>
+      <id>147293</id>
+      <name>Qeshlaq-e Shirazi</name>
+      <latitude>34.38388889</latitude>
+      <longitude>48.93916667</longitude>
+    </cities>
+    <cities>
+      <id>147294</id>
+      <name>Qeshlaq-e Sofla</name>
+      <latitude>34.70083333</latitude>
+      <longitude>49.06972222</longitude>
+    </cities>
+    <cities>
+      <id>147295</id>
+      <name>Qeshlaq-e Valiollah</name>
+      <latitude>34.35222222</latitude>
+      <longitude>48.22416667</longitude>
+    </cities>
+    <cities>
+      <id>147296</id>
+      <name>Qeydli Bolagh</name>
+      <latitude>35.01500000</latitude>
+      <longitude>48.28750000</longitude>
+    </cities>
+    <cities>
+      <id>147297</id>
+      <name>Qilab</name>
+      <latitude>34.30444444</latitude>
+      <longitude>48.06083333</longitude>
+    </cities>
+    <cities>
+      <id>147298</id>
+      <name>Qohurd-e Sofla</name>
+      <latitude>35.47111100</latitude>
+      <longitude>48.05944400</longitude>
+    </cities>
+    <cities>
+      <id>147299</id>
+      <name>Qoli Laleh-ye Sofla</name>
+      <latitude>34.52805556</latitude>
+      <longitude>48.25972222</longitude>
+    </cities>
+    <cities>
+      <id>147300</id>
+      <name>Qolqolabad</name>
+      <latitude>35.13083333</latitude>
+      <longitude>49.29083333</longitude>
+    </cities>
+    <cities>
+      <id>147301</id>
+      <name>Quch Tappeh</name>
+      <latitude>34.92722222</latitude>
+      <longitude>48.02611111</longitude>
+    </cities>
+    <cities>
+      <id>147302</id>
+      <name>Qushjeh</name>
+      <latitude>35.66416667</latitude>
+      <longitude>48.30555556</longitude>
+    </cities>
+    <cities>
+      <id>147303</id>
+      <name>Rahmanabad, Malayer</name>
+      <latitude>34.08861111</latitude>
+      <longitude>48.58555556</longitude>
+    </cities>
+    <cities>
+      <id>147304</id>
+      <name>Ramishan</name>
+      <latitude>35.15972222</latitude>
+      <longitude>48.80500000</longitude>
+    </cities>
+    <cities>
+      <id>147305</id>
+      <name>Rastguyan</name>
+      <latitude>34.91666667</latitude>
+      <longitude>48.21666667</longitude>
+    </cities>
+    <cities>
+      <id>147306</id>
+      <name>Rasulabad-e Sofla</name>
+      <latitude>34.87888889</latitude>
+      <longitude>48.21861111</longitude>
+    </cities>
+    <cities>
+      <id>147307</id>
+      <name>Ravand-e Vosta</name>
+      <latitude>34.13333333</latitude>
+      <longitude>48.34916667</longitude>
+    </cities>
+    <cities>
+      <id>147308</id>
+      <name>Rayegan-e Sofla</name>
+      <latitude>35.07111100</latitude>
+      <longitude>48.66333300</longitude>
+    </cities>
+    <cities>
+      <id>147309</id>
+      <name>Razaj</name>
+      <latitude>34.89527778</latitude>
+      <longitude>49.14666667</longitude>
+    </cities>
+    <cities>
+      <id>147310</id>
+      <name>Razan</name>
+      <latitude>35.38638889</latitude>
+      <longitude>49.03361111</longitude>
+    </cities>
+    <cities>
+      <id>147311</id>
+      <name>Razini</name>
+      <latitude>34.26777778</latitude>
+      <longitude>48.12611111</longitude>
+    </cities>
+    <cities>
+      <id>147312</id>
+      <name>Reza Baghi</name>
+      <latitude>35.18277778</latitude>
+      <longitude>49.31444444</longitude>
+    </cities>
+    <cities>
+      <id>147313</id>
+      <name>Rezvankadeh</name>
+      <latitude>34.25000000</latitude>
+      <longitude>48.83333333</longitude>
+    </cities>
+    <cities>
+      <id>147314</id>
+      <name>Rivasijan</name>
+      <latitude>34.57722222</latitude>
+      <longitude>48.43194444</longitude>
+    </cities>
+    <cities>
+      <id>147315</id>
+      <name>Robat-e Sheverin</name>
+      <latitude>34.86111111</latitude>
+      <longitude>48.60027778</longitude>
+    </cities>
+    <cities>
+      <id>147316</id>
+      <name>Rud Avar</name>
+      <latitude>34.55055556</latitude>
+      <longitude>48.41055556</longitude>
+    </cities>
+    <cities>
+      <id>147317</id>
+      <name>Rud-e Hasan-e Sofla</name>
+      <latitude>34.12444444</latitude>
+      <longitude>48.37166667</longitude>
+    </cities>
+    <cities>
+      <id>147318</id>
+      <name>Safa Riz</name>
+      <latitude>35.40694444</latitude>
+      <longitude>48.30611111</longitude>
+    </cities>
+    <cities>
+      <id>147319</id>
+      <name>Sahamabad</name>
+      <latitude>34.55388889</latitude>
+      <longitude>48.30472222</longitude>
+    </cities>
+    <cities>
+      <id>147320</id>
+      <name>Salehabad</name>
+      <latitude>34.92361111</latitude>
+      <longitude>48.34250000</longitude>
+    </cities>
+    <cities>
+      <id>147321</id>
+      <name>Salilak</name>
+      <latitude>35.25277778</latitude>
+      <longitude>49.11888889</longitude>
+    </cities>
+    <cities>
+      <id>147322</id>
+      <name>Saluk</name>
+      <latitude>34.34138889</latitude>
+      <longitude>48.99305556</longitude>
+    </cities>
+    <cities>
+      <id>147323</id>
+      <name>Samen</name>
+      <latitude>34.20916667</latitude>
+      <longitude>48.70583333</longitude>
+    </cities>
+    <cities>
+      <id>147324</id>
+      <name>Sanaj</name>
+      <latitude>35.12222222</latitude>
+      <longitude>49.02555556</longitude>
+    </cities>
+    <cities>
+      <id>147325</id>
+      <name>Sanjuzan</name>
+      <latitude>34.65611111</latitude>
+      <longitude>48.39333333</longitude>
+    </cities>
+    <cities>
+      <id>147326</id>
+      <name>Sar Duran</name>
+      <latitude>34.20305556</latitude>
+      <longitude>48.26388889</longitude>
+    </cities>
+    <cities>
+      <id>147327</id>
+      <name>Sarab-e Tajar</name>
+      <latitude>34.23222222</latitude>
+      <longitude>48.60638889</longitude>
+    </cities>
+    <cities>
+      <id>147328</id>
+      <name>Saravak</name>
+      <latitude>35.17916667</latitude>
+      <longitude>48.94638889</longitude>
+    </cities>
+    <cities>
+      <id>147329</id>
+      <name>Sarayjuq</name>
+      <latitude>35.42888889</latitude>
+      <longitude>47.96194444</longitude>
+    </cities>
+    <cities>
+      <id>147330</id>
+      <name>Sarijlu</name>
+      <latitude>35.61250000</latitude>
+      <longitude>48.89222222</longitude>
+    </cities>
+    <cities>
+      <id>147331</id>
+      <name>Sarkan</name>
+      <latitude>34.60166667</latitude>
+      <longitude>48.45055556</longitude>
+    </cities>
+    <cities>
+      <id>147332</id>
+      <name>Saziyan</name>
+      <latitude>34.57361111</latitude>
+      <longitude>48.15361111</longitude>
+    </cities>
+    <cities>
+      <id>147333</id>
+      <name>Sefid Khaneh</name>
+      <latitude>34.06972222</latitude>
+      <longitude>48.50805556</longitude>
+    </cities>
+    <cities>
+      <id>147334</id>
+      <name>Segavi</name>
+      <latitude>34.58527778</latitude>
+      <longitude>48.10083333</longitude>
+    </cities>
+    <cities>
+      <id>147335</id>
+      <name>Setaq</name>
+      <latitude>35.04583300</latitude>
+      <longitude>49.29638900</longitude>
+    </cities>
+    <cities>
+      <id>147336</id>
+      <name>Shademaneh</name>
+      <latitude>34.36166667</latitude>
+      <longitude>48.28055556</longitude>
+    </cities>
+    <cities>
+      <id>147337</id>
+      <name>Shanabad</name>
+      <latitude>34.60888889</latitude>
+      <longitude>48.10416667</longitude>
+    </cities>
+    <cities>
+      <id>147338</id>
+      <name>Shanjur</name>
+      <latitude>35.29722222</latitude>
+      <longitude>49.17638889</longitude>
+    </cities>
+    <cities>
+      <id>147339</id>
+      <name>Sharifabad-e Quzan</name>
+      <latitude>34.41222222</latitude>
+      <longitude>48.82583333</longitude>
+    </cities>
+    <cities>
+      <id>147340</id>
+      <name>Sharifabad-e Tajar</name>
+      <latitude>34.26472222</latitude>
+      <longitude>48.63833333</longitude>
+    </cities>
+    <cities>
+      <id>147341</id>
+      <name>Shatzal</name>
+      <latitude>34.30305556</latitude>
+      <longitude>47.97388889</longitude>
+    </cities>
+    <cities>
+      <id>147342</id>
+      <name>Shavand</name>
+      <latitude>35.37527778</latitude>
+      <longitude>49.20972222</longitude>
+    </cities>
+    <cities>
+      <id>147343</id>
+      <name>Sheverin</name>
+      <latitude>34.80750000</latitude>
+      <longitude>48.57027778</longitude>
+    </cities>
+    <cities>
+      <id>147344</id>
+      <name>Sheykh Jarrah</name>
+      <latitude>35.50222222</latitude>
+      <longitude>48.22250000</longitude>
+    </cities>
+    <cities>
+      <id>147345</id>
+      <name>Shilandar-e Sofla</name>
+      <latitude>34.66750000</latitude>
+      <longitude>48.16861111</longitude>
+    </cities>
+    <cities>
+      <id>147346</id>
+      <name>Shir Barat</name>
+      <latitude>35.63333333</latitude>
+      <longitude>48.38250000</longitude>
+    </cities>
+    <cities>
+      <id>147347</id>
+      <name>Shirin Su</name>
+      <latitude>35.49277778</latitude>
+      <longitude>48.45055556</longitude>
+    </cities>
+    <cities>
+      <id>147348</id>
+      <name>Shush Ab</name>
+      <latitude>34.35361111</latitude>
+      <longitude>48.63222222</longitude>
+    </cities>
+    <cities>
+      <id>147349</id>
+      <name>Siah Goleh</name>
+      <latitude>34.94583333</latitude>
+      <longitude>47.96833333</longitude>
+    </cities>
+    <cities>
+      <id>147350</id>
+      <name>Sib Dar</name>
+      <latitude>34.21694444</latitude>
+      <longitude>48.78472222</longitude>
+    </cities>
+    <cities>
+      <id>147351</id>
+      <name>Silvar</name>
+      <latitude>34.74583333</latitude>
+      <longitude>48.50666667</longitude>
+    </cities>
+    <cities>
+      <id>147352</id>
+      <name>Simin-e Abaru</name>
+      <latitude>34.68250000</latitude>
+      <longitude>48.58583300</longitude>
+    </cities>
+    <cities>
+      <id>147353</id>
+      <name>Simin-e Zagheh</name>
+      <latitude>34.87666667</latitude>
+      <longitude>48.32166667</longitude>
+    </cities>
+    <cities>
+      <id>147354</id>
+      <name>Siravand</name>
+      <latitude>34.79527778</latitude>
+      <longitude>47.99638889</longitude>
+    </cities>
+    <cities>
+      <id>147355</id>
+      <name>Sistaneh</name>
+      <latitude>34.66333333</latitude>
+      <longitude>48.32055556</longitude>
+    </cities>
+    <cities>
+      <id>147356</id>
+      <name>Solulan</name>
+      <latitude>34.82611111</latitude>
+      <longitude>48.42944444</longitude>
+    </cities>
+    <cities>
+      <id>147357</id>
+      <name>Sorkh Kand</name>
+      <latitude>34.08750000</latitude>
+      <longitude>48.42916667</longitude>
+    </cities>
+    <cities>
+      <id>147358</id>
+      <name>Sulijeh</name>
+      <latitude>35.26860000</latitude>
+      <longitude>48.33440000</longitude>
+    </cities>
+    <cities>
+      <id>147359</id>
+      <name>Surtajin</name>
+      <latitude>35.53560000</latitude>
+      <longitude>49.01390000</longitude>
+    </cities>
+    <cities>
+      <id>147360</id>
+      <name>Sutlaq</name>
+      <latitude>34.57640000</latitude>
+      <longitude>48.27750000</longitude>
+    </cities>
+    <cities>
+      <id>147361</id>
+      <name>Tafrijan</name>
+      <latitude>34.76330000</latitude>
+      <longitude>48.58190000</longitude>
+    </cities>
+    <cities>
+      <id>147362</id>
+      <name>Tahunabad</name>
+      <latitude>34.83860000</latitude>
+      <longitude>48.86640000</longitude>
+    </cities>
+    <cities>
+      <id>147363</id>
+      <name>Tajar-e Samen</name>
+      <latitude>34.22560000</latitude>
+      <longitude>48.66500000</longitude>
+    </cities>
+    <cities>
+      <id>147364</id>
+      <name>Takhtiabad</name>
+      <latitude>34.81220000</latitude>
+      <longitude>47.83780000</longitude>
+    </cities>
+    <cities>
+      <id>147365</id>
+      <name>Taleh Jerd-e Sofla</name>
+      <latitude>34.04580000</latitude>
+      <longitude>48.87780000</longitude>
+    </cities>
+    <cities>
+      <id>147366</id>
+      <name>Tamuzan</name>
+      <latitude>35.27970000</latitude>
+      <longitude>49.13280000</longitude>
+    </cities>
+    <cities>
+      <id>147367</id>
+      <name>Tappeh Yazdan</name>
+      <latitude>34.33670000</latitude>
+      <longitude>48.02250000</longitude>
+    </cities>
+    <cities>
+      <id>147368</id>
+      <name>Tappeh-ye Dibi</name>
+      <latitude>35.42920000</latitude>
+      <longitude>48.69420000</longitude>
+    </cities>
+    <cities>
+      <id>147369</id>
+      <name>Taraqayah</name>
+      <latitude>35.31890000</latitude>
+      <longitude>48.37110000</longitude>
+    </cities>
+    <cities>
+      <id>147370</id>
+      <name>Tarik Darreh-ye Bala</name>
+      <latitude>34.27330000</latitude>
+      <longitude>47.93920000</longitude>
+    </cities>
+    <cities>
+      <id>147371</id>
+      <name>Tarkhinabad</name>
+      <latitude>34.81530000</latitude>
+      <longitude>48.12250000</longitude>
+    </cities>
+    <cities>
+      <id>147372</id>
+      <name>Tas Tappeh</name>
+      <latitude>35.16390000</latitude>
+      <longitude>48.48330000</longitude>
+    </cities>
+    <cities>
+      <id>147373</id>
+      <name>Tasbandi</name>
+      <latitude>34.56140000</latitude>
+      <longitude>48.79060000</longitude>
+    </cities>
+    <cities>
+      <id>147374</id>
+      <name>Tasran</name>
+      <latitude>35.33830000</latitude>
+      <longitude>48.63390000</longitude>
+    </cities>
+    <cities>
+      <id>147375</id>
+      <name>Tavaleh</name>
+      <latitude>35.15440000</latitude>
+      <longitude>49.04390000</longitude>
+    </cities>
+    <cities>
+      <id>147376</id>
+      <name>Tavaneh</name>
+      <latitude>34.21138900</latitude>
+      <longitude>48.18583300</longitude>
+    </cities>
+    <cities>
+      <id>147377</id>
+      <name>Taveh</name>
+      <latitude>35.11670000</latitude>
+      <longitude>49.02720000</longitude>
+    </cities>
+    <cities>
+      <id>147378</id>
+      <name>Tavilan-e Sofla</name>
+      <latitude>34.79940000</latitude>
+      <longitude>47.86940000</longitude>
+    </cities>
+    <cities>
+      <id>147379</id>
+      <name>Tazehnab-e Sofla</name>
+      <latitude>34.09780000</latitude>
+      <longitude>48.31530000</longitude>
+    </cities>
+    <cities>
+      <id>147380</id>
+      <name>Termianak</name>
+      <latitude>34.63190000</latitude>
+      <longitude>48.17360000</longitude>
+    </cities>
+    <cities>
+      <id>147381</id>
+      <name>Timi Jan</name>
+      <latitude>34.69030000</latitude>
+      <longitude>48.34140000</longitude>
+    </cities>
+    <cities>
+      <id>147382</id>
+      <name>Tuchaqaz</name>
+      <latitude>34.29970000</latitude>
+      <longitude>48.71500000</longitude>
+    </cities>
+    <cities>
+      <id>147383</id>
+      <name>Tulki Tappeh</name>
+      <latitude>35.49530000</latitude>
+      <longitude>48.95780000</longitude>
+    </cities>
+    <cities>
+      <id>147384</id>
+      <name>Tusk-e Sofla</name>
+      <latitude>34.25000000</latitude>
+      <longitude>48.99000000</longitude>
+    </cities>
+    <cities>
+      <id>147385</id>
+      <name>Tutal</name>
+      <latitude>34.51500000</latitude>
+      <longitude>49.02140000</longitude>
+    </cities>
+    <cities>
+      <id>147386</id>
+      <name>Tuyserkan</name>
+      <latitude>34.54805556</latitude>
+      <longitude>48.44666667</longitude>
+    </cities>
+    <cities>
+      <id>147387</id>
+      <name>Vafr-e Jin</name>
+      <latitude>34.81030000</latitude>
+      <longitude>48.38420000</longitude>
+    </cities>
+    <cities>
+      <id>147388</id>
+      <name>Vahandeh</name>
+      <latitude>35.50940000</latitude>
+      <longitude>49.04750000</longitude>
+    </cities>
+    <cities>
+      <id>147389</id>
+      <name>Vahman</name>
+      <latitude>34.26080000</latitude>
+      <longitude>48.27080000</longitude>
+    </cities>
+    <cities>
+      <id>147390</id>
+      <name>Vahnan</name>
+      <latitude>34.79000000</latitude>
+      <longitude>48.28860000</longitude>
+    </cities>
+    <cities>
+      <id>147391</id>
+      <name>Vali Mohammad</name>
+      <latitude>35.15190000</latitude>
+      <longitude>48.38060000</longitude>
+    </cities>
+    <cities>
+      <id>147392</id>
+      <name>Vali Sir Ab</name>
+      <latitude>34.23280000</latitude>
+      <longitude>48.18940000</longitude>
+    </cities>
+    <cities>
+      <id>147393</id>
+      <name>Vandarabad</name>
+      <latitude>34.66970000</latitude>
+      <longitude>48.07890000</longitude>
+    </cities>
+    <cities>
+      <id>147394</id>
+      <name>Varayeneh</name>
+      <latitude>34.07920000</latitude>
+      <longitude>48.40560000</longitude>
+    </cities>
+    <cities>
+      <id>147395</id>
+      <name>Varazaneh</name>
+      <latitude>34.18640000</latitude>
+      <longitude>48.18610000</longitude>
+    </cities>
+    <cities>
+      <id>147396</id>
+      <name>Varchaq</name>
+      <latitude>34.37170000</latitude>
+      <longitude>48.89780000</longitude>
+    </cities>
+    <cities>
+      <id>147397</id>
+      <name>Vardavard-e Sofla</name>
+      <latitude>34.70030000</latitude>
+      <longitude>48.29390000</longitude>
+    </cities>
+    <cities>
+      <id>147398</id>
+      <name>Vardavard-e Vosta</name>
+      <latitude>34.70440000</latitude>
+      <longitude>48.30170000</longitude>
+    </cities>
+    <cities>
+      <id>147399</id>
+      <name>Varkaneh</name>
+      <latitude>34.67690000</latitude>
+      <longitude>48.61920000</longitude>
+    </cities>
+    <cities>
+      <id>147400</id>
+      <name>Varqestan</name>
+      <latitude>35.39640000</latitude>
+      <longitude>49.00920000</longitude>
+    </cities>
+    <cities>
+      <id>147401</id>
+      <name>Varvazin</name>
+      <latitude>35.36580000</latitude>
+      <longitude>48.96060000</longitude>
+    </cities>
+    <cities>
+      <id>147402</id>
+      <name>Vasaj</name>
+      <latitude>34.32060000</latitude>
+      <longitude>48.22580000</longitude>
+    </cities>
+    <cities>
+      <id>147403</id>
+      <name>Vashur</name>
+      <latitude>35.23170000</latitude>
+      <longitude>48.35170000</longitude>
+    </cities>
+    <cities>
+      <id>147404</id>
+      <name>Vasleh</name>
+      <latitude>35.21280000</latitude>
+      <longitude>48.34640000</longitude>
+    </cities>
+    <cities>
+      <id>147405</id>
+      <name>Vesht</name>
+      <latitude>34.13860000</latitude>
+      <longitude>48.46830000</longitude>
+    </cities>
+    <cities>
+      <id>147406</id>
+      <name>Vezendan</name>
+      <latitude>34.95810000</latitude>
+      <longitude>49.31250000</longitude>
+    </cities>
+    <cities>
+      <id>147407</id>
+      <name>Yalfan</name>
+      <latitude>34.73640000</latitude>
+      <longitude>48.61110000</longitude>
+    </cities>
+    <cities>
+      <id>147408</id>
+      <name>Yarom Qayah</name>
+      <latitude>35.06890000</latitude>
+      <longitude>49.38170000</longitude>
+    </cities>
+    <cities>
+      <id>147409</id>
+      <name>Yaromjeh Bagh</name>
+      <latitude>35.51750000</latitude>
+      <longitude>48.67640000</longitude>
+    </cities>
+    <cities>
+      <id>147410</id>
+      <name>Yeganeh</name>
+      <latitude>34.80720000</latitude>
+      <longitude>48.63780000</longitude>
+    </cities>
+    <cities>
+      <id>147411</id>
+      <name>Yekanabad</name>
+      <latitude>34.87360000</latitude>
+      <longitude>48.45420000</longitude>
+    </cities>
+    <cities>
+      <id>147412</id>
+      <name>Yekleh</name>
+      <latitude>34.87777800</latitude>
+      <longitude>49.00666700</longitude>
+    </cities>
+    <cities>
+      <id>147413</id>
+      <name>Yeserlu</name>
+      <latitude>35.06110000</latitude>
+      <longitude>48.78360000</longitude>
+    </cities>
+    <cities>
+      <id>147414</id>
+      <name>Yunes</name>
+      <latitude>34.15860000</latitude>
+      <longitude>48.67330000</longitude>
+    </cities>
+    <cities>
+      <id>147415</id>
+      <name>Yunji</name>
+      <latitude>34.35860000</latitude>
+      <longitude>48.78170000</longitude>
+    </cities>
+    <cities>
+      <id>147416</id>
+      <name>Zagheh-ye Anuch</name>
+      <latitude>34.14780000</latitude>
+      <longitude>48.55420000</longitude>
+    </cities>
+    <cities>
+      <id>147417</id>
+      <name>Zagheh-ye Tasbandi</name>
+      <latitude>34.60360000</latitude>
+      <longitude>48.81110000</longitude>
+    </cities>
+    <cities>
+      <id>147418</id>
+      <name>Zaghlijeh</name>
+      <latitude>35.15280000</latitude>
+      <longitude>49.37580000</longitude>
+    </cities>
+    <cities>
+      <id>147419</id>
+      <name>Zamanabad-e Mohammadabad</name>
+      <latitude>34.41250000</latitude>
+      <longitude>48.64220000</longitude>
+    </cities>
+    <cities>
+      <id>147420</id>
+      <name>Zangeneh-ye Sofla</name>
+      <latitude>34.14670000</latitude>
+      <longitude>49.01670000</longitude>
+    </cities>
+    <cities>
+      <id>147421</id>
+      <name>Zapon</name>
+      <latitude>34.38390000</latitude>
+      <longitude>48.18940000</longitude>
+    </cities>
+    <cities>
+      <id>147422</id>
+      <name>Zaramin-e Sofla</name>
+      <latitude>34.19360000</latitude>
+      <longitude>48.30000000</longitude>
+    </cities>
+    <cities>
+      <id>147423</id>
+      <name>Zarrin Bagh</name>
+      <latitude>34.29470000</latitude>
+      <longitude>48.05190000</longitude>
+    </cities>
+    <cities>
+      <id>147424</id>
+      <name>Zeraq</name>
+      <latitude>35.07140000</latitude>
+      <longitude>49.16940000</longitude>
+    </cities>
+    <cities>
+      <id>147425</id>
+      <name>Zirabiyeh</name>
+      <latitude>34.41330000</latitude>
+      <longitude>48.61690000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
     <id>3937</id>
     <name>Hormozgan Province</name>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <latitude>27.13872300</latitude>
     <longitude>55.13758340</longitude>
     <country_id>103</country_id>
@@ -310532,7 +313436,7 @@
   <state_city>
     <id>3918</id>
     <name>Ilam Province</name>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <latitude>33.29576180</latitude>
     <longitude>46.67053400</longitude>
     <country_id>103</country_id>
@@ -310630,7 +313534,7 @@
   <state_city>
     <id>3923</id>
     <name>Isfahan Province</name>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <latitude>33.27710730</latitude>
     <longitude>52.36133780</longitude>
     <country_id>103</country_id>
@@ -310938,7 +313842,7 @@
   <state_city>
     <id>3943</id>
     <name>Kerman Province</name>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <latitude>29.48500890</latitude>
     <longitude>57.64390480</longitude>
     <country_id>103</country_id>
@@ -311126,7 +314030,7 @@
   <state_city>
     <id>3919</id>
     <name>Kermanshah Province</name>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <latitude>34.45762330</latitude>
     <longitude>46.67053400</longitude>
     <country_id>103</country_id>
@@ -311260,7 +314164,7 @@
   <state_city>
     <id>3917</id>
     <name>Khuzestan Province</name>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <latitude>31.43601490</latitude>
     <longitude>49.04131200</longitude>
     <country_id>103</country_id>
@@ -311502,7 +314406,7 @@
   <state_city>
     <id>3926</id>
     <name>Kohgiluyeh and Boyer-Ahmad Province</name>
-    <state_code>18</state_code>
+    <state_code>17</state_code>
     <latitude>30.72458600</latitude>
     <longitude>50.84563230</longitude>
     <country_id>103</country_id>
@@ -311576,7 +314480,7 @@
   <state_city>
     <id>3935</id>
     <name>Kurdistan Province</name>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <latitude>35.95535790</latitude>
     <longitude>47.13621250</longitude>
     <country_id>103</country_id>
@@ -311668,7 +314572,7 @@
   <state_city>
     <id>3928</id>
     <name>Lorestan Province</name>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <latitude>33.58183940</latitude>
     <longitude>48.39881860</longitude>
     <country_id>103</country_id>
@@ -311784,7 +314688,7 @@
   <state_city>
     <id>3916</id>
     <name>Markazi Province</name>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <latitude>34.61230500</latitude>
     <longitude>49.85472660</longitude>
     <country_id>103</country_id>
@@ -311894,7 +314798,7 @@
   <state_city>
     <id>3938</id>
     <name>Mazandaran Province</name>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <latitude>36.22623930</latitude>
     <longitude>52.53186040</longitude>
     <country_id>103</country_id>
@@ -312094,7 +314998,7 @@
   <state_city>
     <id>3942</id>
     <name>North Khorasan Province</name>
-    <state_code>31</state_code>
+    <state_code>28</state_code>
     <latitude>37.47103530</latitude>
     <longitude>57.10131880</longitude>
     <country_id>103</country_id>
@@ -312162,7 +315066,7 @@
   <state_city>
     <id>3941</id>
     <name>Qazvin Province</name>
-    <state_code>28</state_code>
+    <state_code>26</state_code>
     <latitude>36.08813170</latitude>
     <longitude>49.85472660</longitude>
     <country_id>103</country_id>
@@ -312218,7 +315122,7 @@
   <state_city>
     <id>3922</id>
     <name>Qom Province</name>
-    <state_code>26</state_code>
+    <state_code>25</state_code>
     <latitude>34.64157640</latitude>
     <longitude>50.87460350</longitude>
     <country_id>103</country_id>
@@ -312232,7 +315136,7 @@
   <state_city>
     <id>3927</id>
     <name>Razavi Khorasan Province</name>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <latitude>35.10202530</latitude>
     <longitude>59.10417580</longitude>
     <country_id>103</country_id>
@@ -312462,7 +315366,7 @@
   <state_city>
     <id>3940</id>
     <name>Semnan Province</name>
-    <state_code>12</state_code>
+    <state_code>20</state_code>
     <latitude>35.22555850</latitude>
     <longitude>54.43421380</longitude>
     <country_id>103</country_id>
@@ -312536,7 +315440,7 @@
   <state_city>
     <id>3931</id>
     <name>Sistan and Baluchestan</name>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <latitude>27.52999060</latitude>
     <longitude>60.58206760</longitude>
     <country_id>103</country_id>
@@ -312792,7 +315696,7 @@
   <state_city>
     <id>3945</id>
     <name>Tehran Province</name>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <latitude>35.72484160</latitude>
     <longitude>51.38165300</longitude>
     <country_id>103</country_id>
@@ -312980,7 +315884,7 @@
   <state_city>
     <id>3924</id>
     <name>West Azarbaijan Province</name>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <latitude>37.45500620</latitude>
     <longitude>45.00000000</longitude>
     <country_id>103</country_id>
@@ -313144,7 +316048,7 @@
   <state_city>
     <id>3936</id>
     <name>Yazd Province</name>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <latitude>32.10063870</latitude>
     <longitude>54.43421380</longitude>
     <country_id>103</country_id>
@@ -313248,7 +316152,7 @@
   <state_city>
     <id>3925</id>
     <name>Zanjan Province</name>
-    <state_code>11</state_code>
+    <state_code>19</state_code>
     <latitude>36.50181850</latitude>
     <longitude>48.39881860</longitude>
     <country_id>103</country_id>
@@ -469212,6 +472116,33 @@
       <latitude>47.21079000</latitude>
       <longitude>27.80047000</longitude>
     </cities>
+  </state_city>
+  <state_city>
+    <id>4917</id>
+    <name>La Colle</name>
+    <state_code>CL</state_code>
+    <latitude>43.73274650</latitude>
+    <longitude>7.41372760</longitude>
+    <country_id>145</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4918</id>
+    <name>La Condamine</name>
+    <state_code>CO</state_code>
+    <latitude>43.73506650</latitude>
+    <longitude>7.41990600</longitude>
+    <country_id>145</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4919</id>
+    <name>Moneghetti</name>
+    <state_code>MG</state_code>
+    <latitude>43.73649270</latitude>
+    <longitude>7.41533830</longitude>
+    <country_id>145</country_id>
+    <cities/>
   </state_city>
   <state_city>
     <id>1973</id>
@@ -652723,6 +655654,506 @@
       <name>Zolotkovo</name>
       <latitude>55.52810000</latitude>
       <longitude>41.10530000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>4916</id>
+    <name>Volgograd Oblast</name>
+    <state_code>VGG</state_code>
+    <latitude>49.25873930</latitude>
+    <longitude>39.81544630</longitude>
+    <country_id>182</country_id>
+    <cities>
+      <id>146860</id>
+      <name>Alimov-Lyubimovsky</name>
+      <latitude>50.26631944</latitude>
+      <longitude>42.75618611</longitude>
+    </cities>
+    <cities>
+      <id>146861</id>
+      <name>Amochayevsky</name>
+      <latitude>50.70363889</latitude>
+      <longitude>42.42831944</longitude>
+    </cities>
+    <cities>
+      <id>146862</id>
+      <name>Antipovka</name>
+      <latitude>49.83000000</latitude>
+      <longitude>45.31222222</longitude>
+    </cities>
+    <cities>
+      <id>146863</id>
+      <name>Archedino-Chernushinsky</name>
+      <latitude>49.87194444</latitude>
+      <longitude>44.16388889</longitude>
+    </cities>
+    <cities>
+      <id>146864</id>
+      <name>Archedinskaya</name>
+      <latitude>49.89305556</latitude>
+      <longitude>43.11250000</longitude>
+    </cities>
+    <cities>
+      <id>146865</id>
+      <name>Beluzhino-Koldairov</name>
+      <latitude>49.28033200</latitude>
+      <longitude>43.71795500</longitude>
+    </cities>
+    <cities>
+      <id>146866</id>
+      <name>Bereslavka</name>
+      <latitude>48.61190900</latitude>
+      <longitude>44.05960700</longitude>
+    </cities>
+    <cities>
+      <id>146867</id>
+      <name>Bobrovsky 2-y</name>
+      <latitude>49.48820000</latitude>
+      <longitude>42.75470000</longitude>
+    </cities>
+    <cities>
+      <id>146868</id>
+      <name>Burnatsky</name>
+      <latitude>50.42997222</latitude>
+      <longitude>42.95563056</longitude>
+    </cities>
+    <cities>
+      <id>146869</id>
+      <name>Buyerak-Popovsky</name>
+      <latitude>49.55060000</latitude>
+      <longitude>42.61350000</longitude>
+    </cities>
+    <cities>
+      <id>146870</id>
+      <name>Bykovo, Volgograd Oblast</name>
+      <latitude>49.76444444</latitude>
+      <longitude>45.39138889</longitude>
+    </cities>
+    <cities>
+      <id>146871</id>
+      <name>Chernyshkovsky</name>
+      <latitude>48.42111111</latitude>
+      <longitude>42.23333333</longitude>
+    </cities>
+    <cities>
+      <id>146872</id>
+      <name>Chiganaki 1-ye</name>
+      <latitude>49.78505833</latitude>
+      <longitude>42.72091944</longitude>
+    </cities>
+    <cities>
+      <id>146873</id>
+      <name>Chiganaki 2-ye</name>
+      <latitude>49.76481389</latitude>
+      <longitude>42.70378889</longitude>
+    </cities>
+    <cities>
+      <id>146874</id>
+      <name>Danilovka, Volgograd Oblast</name>
+      <latitude>50.36666667</latitude>
+      <longitude>44.11666667</longitude>
+    </cities>
+    <cities>
+      <id>146875</id>
+      <name>Dubovka</name>
+      <latitude>49.05000000</latitude>
+      <longitude>44.83333333</longitude>
+    </cities>
+    <cities>
+      <id>146876</id>
+      <name>Elton</name>
+      <latitude>49.12722222</latitude>
+      <longitude>46.84694444</longitude>
+    </cities>
+    <cities>
+      <id>146877</id>
+      <name>Fastov</name>
+      <latitude>49.07411000</latitude>
+      <longitude>44.20814000</longitude>
+    </cities>
+    <cities>
+      <id>146878</id>
+      <name>Frolovo</name>
+      <latitude>49.77138889</latitude>
+      <longitude>43.66222222</longitude>
+    </cities>
+    <cities>
+      <id>146879</id>
+      <name>Glubokovsky</name>
+      <latitude>49.46330000</latitude>
+      <longitude>42.90550000</longitude>
+    </cities>
+    <cities>
+      <id>146880</id>
+      <name>Gorbatovsky</name>
+      <latitude>49.35910000</latitude>
+      <longitude>42.04060000</longitude>
+    </cities>
+    <cities>
+      <id>146881</id>
+      <name>Gornaya Polyana</name>
+      <latitude>48.50138889</latitude>
+      <longitude>45.11944444</longitude>
+    </cities>
+    <cities>
+      <id>146882</id>
+      <name>Gorodishche, Volgograd Oblast</name>
+      <latitude>48.80000000</latitude>
+      <longitude>44.48333333</longitude>
+    </cities>
+    <cities>
+      <id>146883</id>
+      <name>Ilovlya</name>
+      <latitude>49.30333333</latitude>
+      <longitude>43.97972222</longitude>
+    </cities>
+    <cities>
+      <id>146884</id>
+      <name>Kalach-na-Donu</name>
+      <latitude>48.68333333</latitude>
+      <longitude>43.53333333</longitude>
+    </cities>
+    <cities>
+      <id>146885</id>
+      <name>Kamyshin</name>
+      <latitude>50.08333333</latitude>
+      <longitude>45.40000000</longitude>
+    </cities>
+    <cities>
+      <id>146886</id>
+      <name>Karpovsky</name>
+      <latitude>50.32108056</latitude>
+      <longitude>42.58680278</longitude>
+    </cities>
+    <cities>
+      <id>146887</id>
+      <name>Kletskaya</name>
+      <latitude>49.31472222</latitude>
+      <longitude>43.06194444</longitude>
+    </cities>
+    <cities>
+      <id>146888</id>
+      <name>Kolotsky</name>
+      <latitude>49.25952000</latitude>
+      <longitude>43.99259000</longitude>
+    </cities>
+    <cities>
+      <id>146889</id>
+      <name>Kotelnikovo</name>
+      <latitude>47.63333333</latitude>
+      <longitude>43.13333333</longitude>
+    </cities>
+    <cities>
+      <id>146890</id>
+      <name>Kotovo</name>
+      <latitude>50.31666667</latitude>
+      <longitude>44.80000000</longitude>
+    </cities>
+    <cities>
+      <id>146891</id>
+      <name>Krasnoslobodsk</name>
+      <latitude>48.70000000</latitude>
+      <longitude>44.56666667</longitude>
+    </cities>
+    <cities>
+      <id>146892</id>
+      <name>Krasny Yar, Volgograd Oblast</name>
+      <latitude>50.69638889</latitude>
+      <longitude>44.72805556</longitude>
+    </cities>
+    <cities>
+      <id>146893</id>
+      <name>Kumylzhenskaya</name>
+      <latitude>49.88083333</latitude>
+      <longitude>42.58972222</longitude>
+    </cities>
+    <cities>
+      <id>146894</id>
+      <name>Leninsk</name>
+      <latitude>48.70000000</latitude>
+      <longitude>45.20000000</longitude>
+    </cities>
+    <cities>
+      <id>146895</id>
+      <name>Log</name>
+      <latitude>49.48444444</latitude>
+      <longitude>43.86138889</longitude>
+    </cities>
+    <cities>
+      <id>146896</id>
+      <name>Medveditsky</name>
+      <latitude>50.78527778</latitude>
+      <longitude>44.71277778</longitude>
+    </cities>
+    <cities>
+      <id>146897</id>
+      <name>Mikhaylovka</name>
+      <latitude>50.06666667</latitude>
+      <longitude>43.23333333</longitude>
+    </cities>
+    <cities>
+      <id>146898</id>
+      <name>Mikhaylovka Urban Okrug</name>
+      <latitude>50.06666667</latitude>
+      <longitude>43.23333333</longitude>
+    </cities>
+    <cities>
+      <id>146899</id>
+      <name>Mitkin</name>
+      <latitude>49.74354167</latitude>
+      <longitude>42.25430833</longitude>
+    </cities>
+    <cities>
+      <id>146900</id>
+      <name>Nekhayevskaya</name>
+      <latitude>50.40861111</latitude>
+      <longitude>41.74944444</longitude>
+    </cities>
+    <cities>
+      <id>146901</id>
+      <name>Nikolayevsk</name>
+      <latitude>50.01666667</latitude>
+      <longitude>45.45000000</longitude>
+    </cities>
+    <cities>
+      <id>146902</id>
+      <name>Nizhny Chir</name>
+      <latitude>48.35972222</latitude>
+      <longitude>43.08638889</longitude>
+    </cities>
+    <cities>
+      <id>146903</id>
+      <name>Novoanninsky</name>
+      <latitude>50.51666667</latitude>
+      <longitude>42.66666667</longitude>
+    </cities>
+    <cities>
+      <id>146904</id>
+      <name>Novonikolayevsky, Volgograd Oblast</name>
+      <latitude>50.96666670</latitude>
+      <longitude>42.36666670</longitude>
+    </cities>
+    <cities>
+      <id>146905</id>
+      <name>Novonikolskoe</name>
+      <latitude>49.19397500</latitude>
+      <longitude>45.01108611</longitude>
+    </cities>
+    <cities>
+      <id>146906</id>
+      <name>Novy Rogachik</name>
+      <latitude>48.67694444</latitude>
+      <longitude>44.06083333</longitude>
+    </cities>
+    <cities>
+      <id>146907</id>
+      <name>Oktyabrsky</name>
+      <latitude>48.65555556</latitude>
+      <longitude>43.79555556</longitude>
+    </cities>
+    <cities>
+      <id>146908</id>
+      <name>Olkhovka, Volgograd Oblast</name>
+      <latitude>49.85444444</latitude>
+      <longitude>44.56333333</longitude>
+    </cities>
+    <cities>
+      <id>146909</id>
+      <name>Otruba</name>
+      <latitude>50.04300000</latitude>
+      <longitude>43.12150000</longitude>
+    </cities>
+    <cities>
+      <id>146910</id>
+      <name>Pallasovka</name>
+      <latitude>50.05000000</latitude>
+      <longitude>46.88333333</longitude>
+    </cities>
+    <cities>
+      <id>146911</id>
+      <name>Petrov Val</name>
+      <latitude>50.13333333</latitude>
+      <longitude>45.21666667</longitude>
+    </cities>
+    <cities>
+      <id>146912</id>
+      <name>Poltavsky</name>
+      <latitude>50.37360000</latitude>
+      <longitude>43.07290000</longitude>
+    </cities>
+    <cities>
+      <id>146913</id>
+      <name>Popovsky</name>
+      <latitude>50.60229722</latitude>
+      <longitude>42.41745278</longitude>
+    </cities>
+    <cities>
+      <id>146914</id>
+      <name>Preobrazhenskaya, Volgograd Oblast</name>
+      <latitude>50.74083333</latitude>
+      <longitude>43.05194444</longitude>
+    </cities>
+    <cities>
+      <id>146915</id>
+      <name>Primorsk</name>
+      <latitude>49.26527778</latitude>
+      <longitude>45.02888889</longitude>
+    </cities>
+    <cities>
+      <id>146916</id>
+      <name>Repino</name>
+      <latitude>48.55252000</latitude>
+      <longitude>44.79595000</longitude>
+    </cities>
+    <cities>
+      <id>146917</id>
+      <name>Rogachev</name>
+      <latitude>50.66952222</latitude>
+      <longitude>42.41200556</longitude>
+    </cities>
+    <cities>
+      <id>146918</id>
+      <name>Rubyozhny</name>
+      <latitude>49.81750000</latitude>
+      <longitude>44.05027778</longitude>
+    </cities>
+    <cities>
+      <id>146919</id>
+      <name>Rudnya, Volgograd Oblast</name>
+      <latitude>50.79805556</latitude>
+      <longitude>44.56000000</longitude>
+    </cities>
+    <cities>
+      <id>146920</id>
+      <name>Russko-Osinovsky</name>
+      <latitude>49.97500000</latitude>
+      <longitude>44.10305556</longitude>
+    </cities>
+    <cities>
+      <id>146921</id>
+      <name>Samoylovsky</name>
+      <latitude>49.87533056</latitude>
+      <longitude>42.39540556</longitude>
+    </cities>
+    <cities>
+      <id>146922</id>
+      <name>Satarovsky</name>
+      <latitude>50.27939722</latitude>
+      <longitude>42.59351944</longitude>
+    </cities>
+    <cities>
+      <id>146923</id>
+      <name>Savinka</name>
+      <latitude>50.07848000</latitude>
+      <longitude>47.09936000</longitude>
+    </cities>
+    <cities>
+      <id>146924</id>
+      <name>Sebrovo</name>
+      <latitude>50.09810000</latitude>
+      <longitude>43.29760000</longitude>
+    </cities>
+    <cities>
+      <id>146925</id>
+      <name>Serafimovich</name>
+      <latitude>49.58333333</latitude>
+      <longitude>42.73333333</longitude>
+    </cities>
+    <cities>
+      <id>146926</id>
+      <name>Shirokov</name>
+      <latitude>49.12103000</latitude>
+      <longitude>44.26507000</longitude>
+    </cities>
+    <cities>
+      <id>146927</id>
+      <name>Slashchyovskaya</name>
+      <latitude>49.86000000</latitude>
+      <longitude>42.33611111</longitude>
+    </cities>
+    <cities>
+      <id>146928</id>
+      <name>Sovetsky District</name>
+      <latitude>48.66666667</latitude>
+      <longitude>44.45000000</longitude>
+    </cities>
+    <cities>
+      <id>146929</id>
+      <name>Srednyaya Akhtuba</name>
+      <latitude>48.71111111</latitude>
+      <longitude>44.86403000</longitude>
+    </cities>
+    <cities>
+      <id>146930</id>
+      <name>Staraya Poltavka</name>
+      <latitude>50.47861111</latitude>
+      <longitude>46.48222222</longitude>
+    </cities>
+    <cities>
+      <id>146931</id>
+      <name>Surovikino</name>
+      <latitude>48.60000000</latitude>
+      <longitude>42.85000000</longitude>
+    </cities>
+    <cities>
+      <id>146932</id>
+      <name>Svetly Yar</name>
+      <latitude>48.47472222</latitude>
+      <longitude>44.78083333</longitude>
+    </cities>
+    <cities>
+      <id>146933</id>
+      <name>Tochilkin</name>
+      <latitude>49.73334722</latitude>
+      <longitude>42.69625278</longitude>
+    </cities>
+    <cities>
+      <id>146934</id>
+      <name>Uryupinsk</name>
+      <latitude>50.80000000</latitude>
+      <longitude>42.01666667</longitude>
+    </cities>
+    <cities>
+      <id>146935</id>
+      <name>Vodstroy</name>
+      <latitude>48.84593056</latitude>
+      <longitude>44.55466667</longitude>
+    </cities>
+    <cities>
+      <id>146936</id>
+      <name>Volgograd</name>
+      <latitude>48.70000000</latitude>
+      <longitude>44.48333333</longitude>
+    </cities>
+    <cities>
+      <id>146937</id>
+      <name>Volzhsky</name>
+      <latitude>48.78333333</latitude>
+      <longitude>44.76666667</longitude>
+    </cities>
+    <cities>
+      <id>146938</id>
+      <name>Voroshilovskiy District, Volgograd</name>
+      <latitude>48.70000000</latitude>
+      <longitude>44.46666667</longitude>
+    </cities>
+    <cities>
+      <id>146939</id>
+      <name>Yelan</name>
+      <latitude>50.94611111</latitude>
+      <longitude>43.73638889</longitude>
+    </cities>
+    <cities>
+      <id>146940</id>
+      <name>Zaplavnoye</name>
+      <latitude>48.70472222</latitude>
+      <longitude>45.02277778</longitude>
+    </cities>
+    <cities>
+      <id>146941</id>
+      <name>Zhirnovsk</name>
+      <latitude>50.98333333</latitude>
+      <longitude>44.76666667</longitude>
     </cities>
   </state_city>
   <state_city>
