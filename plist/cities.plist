@@ -813508,7 +813508,7 @@
 		<key>name</key>
 		<string>Amli</string>
 		<key>state_code</key>
-		<string>DN</string>
+		<string>DH</string>
 		<key>state_id</key>
 		<string>4033</string>
 	</dict>
@@ -813526,7 +813526,7 @@
 		<key>name</key>
 		<string>Dadra</string>
 		<key>state_code</key>
-		<string>DN</string>
+		<string>DH</string>
 		<key>state_id</key>
 		<string>4033</string>
 	</dict>
@@ -813544,7 +813544,7 @@
 		<key>name</key>
 		<string>Dadra &amp; Nagar Haveli</string>
 		<key>state_code</key>
-		<string>DN</string>
+		<string>DH</string>
 		<key>state_id</key>
 		<string>4033</string>
 	</dict>
@@ -813562,7 +813562,7 @@
 		<key>name</key>
 		<string>Daman</string>
 		<key>state_code</key>
-		<string>DD</string>
+		<string>DH</string>
 		<key>state_id</key>
 		<string>4033</string>
 	</dict>
@@ -813580,7 +813580,7 @@
 		<key>name</key>
 		<string>Daman District</string>
 		<key>state_code</key>
-		<string>DD</string>
+		<string>DH</string>
 		<key>state_id</key>
 		<string>4033</string>
 	</dict>
@@ -813598,7 +813598,7 @@
 		<key>name</key>
 		<string>Diu</string>
 		<key>state_code</key>
-		<string>DD</string>
+		<string>DH</string>
 		<key>state_id</key>
 		<string>4033</string>
 	</dict>
@@ -813616,7 +813616,7 @@
 		<key>name</key>
 		<string>Silvassa</string>
 		<key>state_code</key>
-		<string>DN</string>
+		<string>DH</string>
 		<key>state_id</key>
 		<string>4033</string>
 	</dict>
@@ -896920,7 +896920,7 @@
 		<key>name</key>
 		<string>Fardis</string>
 		<key>state_code</key>
-		<string>32</string>
+		<string>30</string>
 		<key>state_id</key>
 		<string>3929</string>
 	</dict>
@@ -896938,7 +896938,7 @@
 		<key>name</key>
 		<string>Karaj</string>
 		<key>state_code</key>
-		<string>32</string>
+		<string>30</string>
 		<key>state_id</key>
 		<string>3929</string>
 	</dict>
@@ -896956,7 +896956,7 @@
 		<key>name</key>
 		<string>Naz̧arābād</string>
 		<key>state_code</key>
-		<string>32</string>
+		<string>30</string>
 		<key>state_id</key>
 		<string>3929</string>
 	</dict>
@@ -896974,7 +896974,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Eshtehārd</string>
 		<key>state_code</key>
-		<string>32</string>
+		<string>30</string>
 		<key>state_id</key>
 		<string>3929</string>
 	</dict>
@@ -896992,7 +896992,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Naz̧arābād</string>
 		<key>state_code</key>
-		<string>32</string>
+		<string>30</string>
 		<key>state_id</key>
 		<string>3929</string>
 	</dict>
@@ -897010,7 +897010,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sāvojbolāgh</string>
 		<key>state_code</key>
-		<string>32</string>
+		<string>30</string>
 		<key>state_id</key>
 		<string>3929</string>
 	</dict>
@@ -897028,7 +897028,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ţāleqān</string>
 		<key>state_code</key>
-		<string>32</string>
+		<string>30</string>
 		<key>state_id</key>
 		<string>3929</string>
 	</dict>
@@ -897046,7 +897046,7 @@
 		<key>name</key>
 		<string>Ardabīl</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897064,7 +897064,7 @@
 		<key>name</key>
 		<string>Bīleh Savār</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897082,7 +897082,7 @@
 		<key>name</key>
 		<string>Khalkhāl</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897100,7 +897100,7 @@
 		<key>name</key>
 		<string>Omīdcheh</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897118,7 +897118,7 @@
 		<key>name</key>
 		<string>Pārsābād</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897136,7 +897136,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ardabīl</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897154,7 +897154,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bīleh Savār</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897172,7 +897172,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Germī</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897190,7 +897190,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khalkhāl</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897208,7 +897208,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kows̄ar</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897226,7 +897226,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Meshgīn Shahr</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897244,7 +897244,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Namīn</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897262,7 +897262,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Nīr</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897280,7 +897280,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Pārsābād</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897298,7 +897298,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sar‘eyn</string>
 		<key>state_code</key>
-		<string>03</string>
+		<string>24</string>
 		<key>state_id</key>
 		<string>3934</string>
 	</dict>
@@ -897316,7 +897316,7 @@
 		<key>name</key>
 		<string>Ahram</string>
 		<key>state_code</key>
-		<string>06</string>
+		<string>18</string>
 		<key>state_id</key>
 		<string>3932</string>
 	</dict>
@@ -897334,7 +897334,7 @@
 		<key>name</key>
 		<string>Bandar-e Genāveh</string>
 		<key>state_code</key>
-		<string>06</string>
+		<string>18</string>
 		<key>state_id</key>
 		<string>3932</string>
 	</dict>
@@ -897352,7 +897352,7 @@
 		<key>name</key>
 		<string>Borāzjān</string>
 		<key>state_code</key>
-		<string>06</string>
+		<string>18</string>
 		<key>state_id</key>
 		<string>3932</string>
 	</dict>
@@ -897370,7 +897370,7 @@
 		<key>name</key>
 		<string>Bushehr</string>
 		<key>state_code</key>
-		<string>06</string>
+		<string>18</string>
 		<key>state_id</key>
 		<string>3932</string>
 	</dict>
@@ -897388,7 +897388,7 @@
 		<key>name</key>
 		<string>Deylam</string>
 		<key>state_code</key>
-		<string>06</string>
+		<string>18</string>
 		<key>state_id</key>
 		<string>3932</string>
 	</dict>
@@ -897406,7 +897406,7 @@
 		<key>name</key>
 		<string>Khārk</string>
 		<key>state_code</key>
-		<string>06</string>
+		<string>18</string>
 		<key>state_id</key>
 		<string>3932</string>
 	</dict>
@@ -897424,7 +897424,7 @@
 		<key>name</key>
 		<string>Shahrestān-e ‘Asalūyeh</string>
 		<key>state_code</key>
-		<string>06</string>
+		<string>18</string>
 		<key>state_id</key>
 		<string>3932</string>
 	</dict>
@@ -897442,7 +897442,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Būshehr</string>
 		<key>state_code</key>
-		<string>06</string>
+		<string>18</string>
 		<key>state_id</key>
 		<string>3932</string>
 	</dict>
@@ -897460,7 +897460,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Dashtestān</string>
 		<key>state_code</key>
-		<string>06</string>
+		<string>18</string>
 		<key>state_id</key>
 		<string>3932</string>
 	</dict>
@@ -897478,7 +897478,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Dashtī</string>
 		<key>state_code</key>
-		<string>06</string>
+		<string>18</string>
 		<key>state_id</key>
 		<string>3932</string>
 	</dict>
@@ -897496,7 +897496,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Genāveh</string>
 		<key>state_code</key>
-		<string>06</string>
+		<string>18</string>
 		<key>state_id</key>
 		<string>3932</string>
 	</dict>
@@ -897514,7 +897514,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kangān</string>
 		<key>state_code</key>
-		<string>06</string>
+		<string>18</string>
 		<key>state_id</key>
 		<string>3932</string>
 	</dict>
@@ -897532,7 +897532,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Tangestān</string>
 		<key>state_code</key>
-		<string>06</string>
+		<string>18</string>
 		<key>state_id</key>
 		<string>3932</string>
 	</dict>
@@ -897550,7 +897550,7 @@
 		<key>name</key>
 		<string>Ben</string>
 		<key>state_code</key>
-		<string>08</string>
+		<string>14</string>
 		<key>state_id</key>
 		<string>3921</string>
 	</dict>
@@ -897568,7 +897568,7 @@
 		<key>name</key>
 		<string>Borūjen</string>
 		<key>state_code</key>
-		<string>08</string>
+		<string>14</string>
 		<key>state_id</key>
 		<string>3921</string>
 	</dict>
@@ -897586,7 +897586,7 @@
 		<key>name</key>
 		<string>Chelgard</string>
 		<key>state_code</key>
-		<string>08</string>
+		<string>14</string>
 		<key>state_id</key>
 		<string>3921</string>
 	</dict>
@@ -897604,7 +897604,7 @@
 		<key>name</key>
 		<string>Farrokh Shahr</string>
 		<key>state_code</key>
-		<string>08</string>
+		<string>14</string>
 		<key>state_id</key>
 		<string>3921</string>
 	</dict>
@@ -897622,7 +897622,7 @@
 		<key>name</key>
 		<string>Fārsān</string>
 		<key>state_code</key>
-		<string>08</string>
+		<string>14</string>
 		<key>state_id</key>
 		<string>3921</string>
 	</dict>
@@ -897640,7 +897640,7 @@
 		<key>name</key>
 		<string>Saman</string>
 		<key>state_code</key>
-		<string>08</string>
+		<string>14</string>
 		<key>state_id</key>
 		<string>3921</string>
 	</dict>
@@ -897658,7 +897658,7 @@
 		<key>name</key>
 		<string>Shahr-e Kord</string>
 		<key>state_code</key>
-		<string>08</string>
+		<string>14</string>
 		<key>state_id</key>
 		<string>3921</string>
 	</dict>
@@ -897676,7 +897676,7 @@
 		<key>name</key>
 		<string>Shahrekord</string>
 		<key>state_code</key>
-		<string>08</string>
+		<string>14</string>
 		<key>state_id</key>
 		<string>3921</string>
 	</dict>
@@ -897694,7 +897694,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Borūjen</string>
 		<key>state_code</key>
-		<string>08</string>
+		<string>14</string>
 		<key>state_id</key>
 		<string>3921</string>
 	</dict>
@@ -897712,7 +897712,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Fārsān</string>
 		<key>state_code</key>
-		<string>08</string>
+		<string>14</string>
 		<key>state_id</key>
 		<string>3921</string>
 	</dict>
@@ -897730,7 +897730,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kīār</string>
 		<key>state_code</key>
-		<string>08</string>
+		<string>14</string>
 		<key>state_id</key>
 		<string>3921</string>
 	</dict>
@@ -897748,7 +897748,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kūhrang</string>
 		<key>state_code</key>
-		<string>08</string>
+		<string>14</string>
 		<key>state_id</key>
 		<string>3921</string>
 	</dict>
@@ -897766,7 +897766,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Lordegān</string>
 		<key>state_code</key>
-		<string>08</string>
+		<string>14</string>
 		<key>state_id</key>
 		<string>3921</string>
 	</dict>
@@ -897784,7 +897784,7 @@
 		<key>name</key>
 		<string>‘Ajab Shīr</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -897802,7 +897802,7 @@
 		<key>name</key>
 		<string>Ahar</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -897820,7 +897820,7 @@
 		<key>name</key>
 		<string>Bonāb</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -897838,7 +897838,7 @@
 		<key>name</key>
 		<string>Hashtrūd</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -897856,7 +897856,7 @@
 		<key>name</key>
 		<string>Marand</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -897874,7 +897874,7 @@
 		<key>name</key>
 		<string>Sarāb</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -897892,7 +897892,7 @@
 		<key>name</key>
 		<string>Shahrestān-e ‘Ajab Shīr</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -897910,7 +897910,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Āz̄arshahr</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -897928,7 +897928,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bonāb</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -897946,7 +897946,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bostānābād</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -897964,7 +897964,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Chārāvīmāq</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -897982,7 +897982,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Hashtrūd</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -898000,7 +898000,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Herīs</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -898018,7 +898018,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Jolfā</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -898036,7 +898036,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khodā Āfarīn</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -898054,7 +898054,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Malekān</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -898072,7 +898072,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Marāgheh</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -898090,7 +898090,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Mīāneh</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -898108,7 +898108,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Oskū</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -898126,7 +898126,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sarāb</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -898144,7 +898144,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Tabrīz</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -898162,7 +898162,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Varzaqān</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -898180,7 +898180,7 @@
 		<key>name</key>
 		<string>Tabriz</string>
 		<key>state_code</key>
-		<string>01</string>
+		<string>03</string>
 		<key>state_id</key>
 		<string>3944</string>
 	</dict>
@@ -898198,7 +898198,7 @@
 		<key>name</key>
 		<string>Ābādeh</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898216,7 +898216,7 @@
 		<key>name</key>
 		<string>Akbarābād</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898234,7 +898234,7 @@
 		<key>name</key>
 		<string>Dārāb</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898252,7 +898252,7 @@
 		<key>name</key>
 		<string>Fasā</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898270,7 +898270,7 @@
 		<key>name</key>
 		<string>Fīrūzābād</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898288,7 +898288,7 @@
 		<key>name</key>
 		<string>Gerāsh</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898306,7 +898306,7 @@
 		<key>name</key>
 		<string>Kāzerūn</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898324,7 +898324,7 @@
 		<key>name</key>
 		<string>Mamasanī</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898342,7 +898342,7 @@
 		<key>name</key>
 		<string>Marvdasht</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898360,7 +898360,7 @@
 		<key>name</key>
 		<string>Mohr</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898378,7 +898378,7 @@
 		<key>name</key>
 		<string>Neyrīz</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898396,7 +898396,7 @@
 		<key>name</key>
 		<string>Nūrābād</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898414,7 +898414,7 @@
 		<key>name</key>
 		<string>Pāsārgād</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898432,7 +898432,7 @@
 		<key>name</key>
 		<string>Rostam</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898450,7 +898450,7 @@
 		<key>name</key>
 		<string>Shahr-e Qadīm-e Lār</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898468,7 +898468,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ābādeh</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898486,7 +898486,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Arsanjān</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898504,7 +898504,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bavānāt</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898522,7 +898522,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Dārāb</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898540,7 +898540,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Eqlīd</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898558,7 +898558,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Estahbān</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898576,7 +898576,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Farāshband</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898594,7 +898594,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Fasā</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898612,7 +898612,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Fīrūzābād</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898630,7 +898630,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Gerāsh</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898648,7 +898648,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kavār</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898666,7 +898666,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kāzerūn</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898684,7 +898684,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kherāmeh</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898702,7 +898702,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khorrambīd</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898720,7 +898720,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Lāmerd</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898738,7 +898738,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Lārestān</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898756,7 +898756,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Neyrīz</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898774,7 +898774,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Pāsārgād</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898792,7 +898792,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Qīr va Kārzīn</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898810,7 +898810,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sarvestān</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898828,7 +898828,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sepīdān</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898846,7 +898846,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Shīrāz</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898864,7 +898864,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Zarrīn Dasht</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898882,7 +898882,7 @@
 		<key>name</key>
 		<string>Shiraz</string>
 		<key>state_code</key>
-		<string>14</string>
+		<string>07</string>
 		<key>state_id</key>
 		<string>3939</string>
 	</dict>
@@ -898900,7 +898900,7 @@
 		<key>name</key>
 		<string>Āstāneh-ye Ashrafīyeh</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -898918,7 +898918,7 @@
 		<key>name</key>
 		<string>Āstārā</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -898936,7 +898936,7 @@
 		<key>name</key>
 		<string>Bandar-e Anzalī</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -898954,7 +898954,7 @@
 		<key>name</key>
 		<string>Fūman</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -898972,7 +898972,7 @@
 		<key>name</key>
 		<string>Hashtpar</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -898990,7 +898990,7 @@
 		<key>name</key>
 		<string>Langarūd</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899008,7 +899008,7 @@
 		<key>name</key>
 		<string>Pādegān-e Manjīl</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899026,7 +899026,7 @@
 		<key>name</key>
 		<string>Rasht</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899044,7 +899044,7 @@
 		<key>name</key>
 		<string>Reẕvānshahr</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899062,7 +899062,7 @@
 		<key>name</key>
 		<string>Rūdsar</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899080,7 +899080,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Āstāneh-ye Ashrafīyeh</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899098,7 +899098,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Āstārā</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899116,7 +899116,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bandar-e Anzalī</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899134,7 +899134,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Fūman</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899152,7 +899152,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Lāhījān</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899170,7 +899170,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Langarūd</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899188,7 +899188,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Māsāl</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899206,7 +899206,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Reẕvānshahr</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899224,7 +899224,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Rūdbār</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899242,7 +899242,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Rūdsar</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899260,7 +899260,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sīāhkal</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899278,7 +899278,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Şowme‘eh Sarā</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899296,7 +899296,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Tālesh</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -899314,7 +899314,7 @@
 		<key>name</key>
 		<string>Ziabar (Gaskar)</string>
 		<key>state_code</key>
-		<string>19</string>
+		<string>01</string>
 		<key>state_id</key>
 		<string>3920</string>
 	</dict>
@@ -908386,7 +908386,7 @@
 		<key>name</key>
 		<string>Bandar Abbas</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908404,7 +908404,7 @@
 		<key>name</key>
 		<string>Bandar Lengeh</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908422,7 +908422,7 @@
 		<key>name</key>
 		<string>Bandar-e Lengeh</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908440,7 +908440,7 @@
 		<key>name</key>
 		<string>Bastak</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908458,7 +908458,7 @@
 		<key>name</key>
 		<string>Kīsh</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908476,7 +908476,7 @@
 		<key>name</key>
 		<string>Mīnāb</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908494,7 +908494,7 @@
 		<key>name</key>
 		<string>Qeshm</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908512,7 +908512,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Abū Mūsá</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908530,7 +908530,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bandar ‘Abbās</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908548,7 +908548,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bashāgard</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908566,7 +908566,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ḩājjīābād</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908584,7 +908584,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Jāsk</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908602,7 +908602,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khamīr</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908620,7 +908620,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Mīnāb</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908638,7 +908638,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Pārsīān</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908656,7 +908656,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Rūdān</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908674,7 +908674,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sīrīk</string>
 		<key>state_code</key>
-		<string>23</string>
+		<string>22</string>
 		<key>state_id</key>
 		<string>3937</string>
 	</dict>
@@ -908692,7 +908692,7 @@
 		<key>name</key>
 		<string>Ābdānān</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908710,7 +908710,7 @@
 		<key>name</key>
 		<string>Badreh</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908728,7 +908728,7 @@
 		<key>name</key>
 		<string>Chardavol County</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908746,7 +908746,7 @@
 		<key>name</key>
 		<string>Darreh Shahr</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908764,7 +908764,7 @@
 		<key>name</key>
 		<string>Darrehshahr</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908782,7 +908782,7 @@
 		<key>name</key>
 		<string>Dehlorān</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908800,7 +908800,7 @@
 		<key>name</key>
 		<string>Īlām</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908818,7 +908818,7 @@
 		<key>name</key>
 		<string>Mehrān</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908836,7 +908836,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ābdānān</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908854,7 +908854,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Dehlorān</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908872,7 +908872,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Eyvān</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908890,7 +908890,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Īlām</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908908,7 +908908,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Malekshāhī</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908926,7 +908926,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Mehrān</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908944,7 +908944,7 @@
 		<key>name</key>
 		<string>Sirvan</string>
 		<key>state_code</key>
-		<string>05</string>
+		<string>16</string>
 		<key>state_id</key>
 		<string>3918</string>
 	</dict>
@@ -908962,7 +908962,7 @@
 		<key>name</key>
 		<string>Abrīsham</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -908980,7 +908980,7 @@
 		<key>name</key>
 		<string>Ardestān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -908998,7 +908998,7 @@
 		<key>name</key>
 		<string>Buin va Miandasht</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909016,7 +909016,7 @@
 		<key>name</key>
 		<string>Chādegān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909034,7 +909034,7 @@
 		<key>name</key>
 		<string>Dārān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909052,7 +909052,7 @@
 		<key>name</key>
 		<string>Dehāqān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909070,7 +909070,7 @@
 		<key>name</key>
 		<string>Dorcheh Pīāz</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909088,7 +909088,7 @@
 		<key>name</key>
 		<string>Dowlatābād</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909106,7 +909106,7 @@
 		<key>name</key>
 		<string>Falāvarjān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909124,7 +909124,7 @@
 		<key>name</key>
 		<string>Fareydūnshahr</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909142,7 +909142,7 @@
 		<key>name</key>
 		<string>Fereydan</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909160,7 +909160,7 @@
 		<key>name</key>
 		<string>Golpāyegān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909178,7 +909178,7 @@
 		<key>name</key>
 		<string>Isfahan</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909196,7 +909196,7 @@
 		<key>name</key>
 		<string>Kelīshād va Sūdarjān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909214,7 +909214,7 @@
 		<key>name</key>
 		<string>Khomeynī Shahr</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909232,7 +909232,7 @@
 		<key>name</key>
 		<string>Khūr</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909250,7 +909250,7 @@
 		<key>name</key>
 		<string>Khvānsār</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909268,7 +909268,7 @@
 		<key>name</key>
 		<string>Mobārakeh</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909286,7 +909286,7 @@
 		<key>name</key>
 		<string>Nā’īn</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909304,7 +909304,7 @@
 		<key>name</key>
 		<string>Najafābād</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909322,7 +909322,7 @@
 		<key>name</key>
 		<string>Naţanz</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909340,7 +909340,7 @@
 		<key>name</key>
 		<string>Qahderījān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909358,7 +909358,7 @@
 		<key>name</key>
 		<string>Rehnān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909376,7 +909376,7 @@
 		<key>name</key>
 		<string>Semīrom</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909394,7 +909394,7 @@
 		<key>name</key>
 		<string>Shāhīn Shahr</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909412,7 +909412,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ārān va Bīdgol</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909430,7 +909430,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ardestān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909448,7 +909448,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Borkhvār</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909466,7 +909466,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Chādegān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909484,7 +909484,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Dehāqān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909502,7 +909502,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Eşfahān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909520,7 +909520,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Falāvarjān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909538,7 +909538,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Fareydūnshahr</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909556,7 +909556,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Golpāyegān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909574,7 +909574,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kāshān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909592,7 +909592,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khomeynī Shahr</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909610,7 +909610,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khūr va Bīābānak</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909628,7 +909628,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khvānsār</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909646,7 +909646,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Lenjān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909664,7 +909664,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Mobārakeh</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909682,7 +909682,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Nā’īn</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909700,7 +909700,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Najafābād</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909718,7 +909718,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Naţanz</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909736,7 +909736,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Semīrom</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909754,7 +909754,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Shāhīn Shahr va Meymeh</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909772,7 +909772,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Shahreẕā</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909790,7 +909790,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Tīrān va Karvan</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909808,7 +909808,7 @@
 		<key>name</key>
 		<string>Shahreẕā</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909826,7 +909826,7 @@
 		<key>name</key>
 		<string>Tīrān</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909844,7 +909844,7 @@
 		<key>name</key>
 		<string>Zarrīn Shahr</string>
 		<key>state_code</key>
-		<string>04</string>
+		<string>10</string>
 		<key>state_id</key>
 		<string>3923</string>
 	</dict>
@@ -909862,7 +909862,7 @@
 		<key>name</key>
 		<string>Bāft</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -909880,7 +909880,7 @@
 		<key>name</key>
 		<string>Bam</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -909898,7 +909898,7 @@
 		<key>name</key>
 		<string>Bardsīr</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -909916,7 +909916,7 @@
 		<key>name</key>
 		<string>Kerman</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -909934,7 +909934,7 @@
 		<key>name</key>
 		<string>Kūh Sefīd</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -909952,7 +909952,7 @@
 		<key>name</key>
 		<string>Rafsanjān</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -909970,7 +909970,7 @@
 		<key>name</key>
 		<string>Rāvar</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -909988,7 +909988,7 @@
 		<key>name</key>
 		<string>Rīgān</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910006,7 +910006,7 @@
 		<key>name</key>
 		<string>Shahr-e Bābak</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910024,7 +910024,7 @@
 		<key>name</key>
 		<string>Shahrak-e Pābedānā</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910042,7 +910042,7 @@
 		<key>name</key>
 		<string>Shahrestān-e ‘Anbarābād</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910060,7 +910060,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Anār</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910078,7 +910078,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bāft</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910096,7 +910096,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bardsīr</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910114,7 +910114,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Fāryāb</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910132,7 +910132,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Jīroft</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910150,7 +910150,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kahnūj</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910168,7 +910168,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kermān</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910186,7 +910186,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kūhbanān</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910204,7 +910204,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Manūjān</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910222,7 +910222,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Narmāshīr</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910240,7 +910240,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Orzū‘īyeh</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910258,7 +910258,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Qal‘eh Ganj</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910276,7 +910276,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Rābor</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910294,7 +910294,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Rafsanjān</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910312,7 +910312,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Rūdbār-e Jonūbī</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910330,7 +910330,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Shahr-e Bābak</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910348,7 +910348,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sīrjān</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910366,7 +910366,7 @@
 		<key>name</key>
 		<string>Sirjan</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910384,7 +910384,7 @@
 		<key>name</key>
 		<string>Zarand</string>
 		<key>state_code</key>
-		<string>15</string>
+		<string>08</string>
 		<key>state_id</key>
 		<string>3943</string>
 	</dict>
@@ -910402,7 +910402,7 @@
 		<key>name</key>
 		<string>Harsīn</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910420,7 +910420,7 @@
 		<key>name</key>
 		<string>Javānrūd</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910438,7 +910438,7 @@
 		<key>name</key>
 		<string>Kahrīz</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910456,7 +910456,7 @@
 		<key>name</key>
 		<string>Kangāvar</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910474,7 +910474,7 @@
 		<key>name</key>
 		<string>Kermanshah</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910492,7 +910492,7 @@
 		<key>name</key>
 		<string>Pāveh</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910510,7 +910510,7 @@
 		<key>name</key>
 		<string>Sarpol-e Z̄ahāb</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910528,7 +910528,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Dālāhū</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910546,7 +910546,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Eslāmābād-e Gharb</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910564,7 +910564,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Gīlān-e Gharb</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910582,7 +910582,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Harsīn</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910600,7 +910600,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Javānrūd</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910618,7 +910618,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kangāvar</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910636,7 +910636,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kermānshāh</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910654,7 +910654,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Pāveh</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910672,7 +910672,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Qaşr-e Shīrīn</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910690,7 +910690,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ravānsar</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910708,7 +910708,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Şaḩneh</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910726,7 +910726,7 @@
 		<key>name</key>
 		<string>Shahrestān-e S̄alās̄-e Bābā Jānī</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910744,7 +910744,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sarpol-e Z̄ahāb</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910762,7 +910762,7 @@
 		<key>name</key>
 		<string>Sonqor</string>
 		<key>state_code</key>
-		<string>17</string>
+		<string>05</string>
 		<key>state_id</key>
 		<string>3919</string>
 	</dict>
@@ -910780,7 +910780,7 @@
 		<key>name</key>
 		<string>Abadan</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -910798,7 +910798,7 @@
 		<key>name</key>
 		<string>Aghajari</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -910816,7 +910816,7 @@
 		<key>name</key>
 		<string>Ahvaz</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -910834,7 +910834,7 @@
 		<key>name</key>
 		<string>Bāgh Shahrestān-e Malek</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -910852,7 +910852,7 @@
 		<key>name</key>
 		<string>Behbahān</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -910870,7 +910870,7 @@
 		<key>name</key>
 		<string>Gotvand</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -910888,7 +910888,7 @@
 		<key>name</key>
 		<string>Hamidiyeh</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -910906,7 +910906,7 @@
 		<key>name</key>
 		<string>Jongīyeh</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -910924,7 +910924,7 @@
 		<key>name</key>
 		<string>Karun</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -910942,7 +910942,7 @@
 		<key>name</key>
 		<string>Khorramshahr</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -910960,7 +910960,7 @@
 		<key>name</key>
 		<string>Masjed Soleymān</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -910978,7 +910978,7 @@
 		<key>name</key>
 		<string>Omīdīyeh</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -910996,7 +910996,7 @@
 		<key>name</key>
 		<string>Rāmhormoz</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911014,7 +911014,7 @@
 		<key>name</key>
 		<string>Rāmshīr</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911032,7 +911032,7 @@
 		<key>name</key>
 		<string>sedeyen-e Yek</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911050,7 +911050,7 @@
 		<key>name</key>
 		<string>Shādegān</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911068,7 +911068,7 @@
 		<key>name</key>
 		<string>Shahrak-e Kūlūrī</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911086,7 +911086,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ābādān</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911104,7 +911104,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ahvāz</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911122,7 +911122,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Andīkā</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911140,7 +911140,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Andīmeshk</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911158,7 +911158,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bandar-e Māhshahr</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911176,7 +911176,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bāvī</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911194,7 +911194,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Behbahān</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911212,7 +911212,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Dasht-e Āzādegān</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911230,7 +911230,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Dezfūl</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911248,7 +911248,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Hendījān</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911266,7 +911266,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Īz̄eh</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911284,7 +911284,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Lālī</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911302,7 +911302,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Masjed Soleymān</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911320,7 +911320,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Omīdīyeh</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911338,7 +911338,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Rāmhormoz</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911356,7 +911356,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Rāmshīr</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911374,7 +911374,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Shādegān</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911392,7 +911392,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Shūsh</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911410,7 +911410,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Shūshtar</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911428,7 +911428,7 @@
 		<key>name</key>
 		<string>Shūsh</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911446,7 +911446,7 @@
 		<key>name</key>
 		<string>Shūshtar</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911464,7 +911464,7 @@
 		<key>name</key>
 		<string>Sūsangerd</string>
 		<key>state_code</key>
-		<string>10</string>
+		<string>06</string>
 		<key>state_id</key>
 		<string>3917</string>
 	</dict>
@@ -911482,7 +911482,7 @@
 		<key>name</key>
 		<string>Dehdasht</string>
 		<key>state_code</key>
-		<string>18</string>
+		<string>17</string>
 		<key>state_id</key>
 		<string>3926</string>
 	</dict>
@@ -911500,7 +911500,7 @@
 		<key>name</key>
 		<string>Dogonbadan</string>
 		<key>state_code</key>
-		<string>18</string>
+		<string>17</string>
 		<key>state_id</key>
 		<string>3926</string>
 	</dict>
@@ -911518,7 +911518,7 @@
 		<key>name</key>
 		<string>Landeh</string>
 		<key>state_code</key>
-		<string>18</string>
+		<string>17</string>
 		<key>state_id</key>
 		<string>3926</string>
 	</dict>
@@ -911536,7 +911536,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bahma’ī</string>
 		<key>state_code</key>
-		<string>18</string>
+		<string>17</string>
 		<key>state_id</key>
 		<string>3926</string>
 	</dict>
@@ -911554,7 +911554,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bāsht</string>
 		<key>state_code</key>
-		<string>18</string>
+		<string>17</string>
 		<key>state_id</key>
 		<string>3926</string>
 	</dict>
@@ -911572,7 +911572,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bowyer Aḩmad</string>
 		<key>state_code</key>
-		<string>18</string>
+		<string>17</string>
 		<key>state_id</key>
 		<string>3926</string>
 	</dict>
@@ -911590,7 +911590,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Charām</string>
 		<key>state_code</key>
-		<string>18</string>
+		<string>17</string>
 		<key>state_id</key>
 		<string>3926</string>
 	</dict>
@@ -911608,7 +911608,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Danā</string>
 		<key>state_code</key>
-		<string>18</string>
+		<string>17</string>
 		<key>state_id</key>
 		<string>3926</string>
 	</dict>
@@ -911626,7 +911626,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Gachsārān</string>
 		<key>state_code</key>
-		<string>18</string>
+		<string>17</string>
 		<key>state_id</key>
 		<string>3926</string>
 	</dict>
@@ -911644,7 +911644,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kohgīlūyeh</string>
 		<key>state_code</key>
-		<string>18</string>
+		<string>17</string>
 		<key>state_id</key>
 		<string>3926</string>
 	</dict>
@@ -911662,7 +911662,7 @@
 		<key>name</key>
 		<string>Yasuj</string>
 		<key>state_code</key>
-		<string>18</string>
+		<string>17</string>
 		<key>state_id</key>
 		<string>3926</string>
 	</dict>
@@ -911680,7 +911680,7 @@
 		<key>name</key>
 		<string>Bāneh</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911698,7 +911698,7 @@
 		<key>name</key>
 		<string>Bījār</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911716,7 +911716,7 @@
 		<key>name</key>
 		<string>Kāmyārān</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911734,7 +911734,7 @@
 		<key>name</key>
 		<string>Marīvān</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911752,7 +911752,7 @@
 		<key>name</key>
 		<string>Qorveh</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911770,7 +911770,7 @@
 		<key>name</key>
 		<string>Sanandaj</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911788,7 +911788,7 @@
 		<key>name</key>
 		<string>Saqqez</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911806,7 +911806,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bāneh</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911824,7 +911824,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bījār</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911842,7 +911842,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Dehgolān</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911860,7 +911860,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Dīvāndarreh</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911878,7 +911878,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kāmyārān</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911896,7 +911896,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Marīvān</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911914,7 +911914,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sarvābād</string>
 		<key>state_code</key>
-		<string>16</string>
+		<string>12</string>
 		<key>state_id</key>
 		<string>3935</string>
 	</dict>
@@ -911932,7 +911932,7 @@
 		<key>name</key>
 		<string>Aleshtar</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -911950,7 +911950,7 @@
 		<key>name</key>
 		<string>Alīgūdarz</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -911968,7 +911968,7 @@
 		<key>name</key>
 		<string>Aznā</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -911986,7 +911986,7 @@
 		<key>name</key>
 		<string>Borūjerd</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912004,7 +912004,7 @@
 		<key>name</key>
 		<string>Delfan</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912022,7 +912022,7 @@
 		<key>name</key>
 		<string>Khorramabad</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912040,7 +912040,7 @@
 		<key>name</key>
 		<string>Kūhdasht</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912058,7 +912058,7 @@
 		<key>name</key>
 		<string>Nūrābād</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912076,7 +912076,7 @@
 		<key>name</key>
 		<string>Pol-e Dokhtar</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912094,7 +912094,7 @@
 		<key>name</key>
 		<string>Rumeshkhan County</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912112,7 +912112,7 @@
 		<key>name</key>
 		<string>Selseleh</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912130,7 +912130,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Alīgūdarz</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912148,7 +912148,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Aznā</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912166,7 +912166,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Borūjerd</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912184,7 +912184,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Dūreh</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912202,7 +912202,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khorramābād</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912220,7 +912220,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kūhdasht</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912238,7 +912238,7 @@
 		<key>name</key>
 		<string>Vasīān</string>
 		<key>state_code</key>
-		<string>20</string>
+		<string>15</string>
 		<key>state_id</key>
 		<string>3928</string>
 	</dict>
@@ -912256,7 +912256,7 @@
 		<key>name</key>
 		<string>Ābyek</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912274,7 +912274,7 @@
 		<key>name</key>
 		<string>Arāk</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912292,7 +912292,7 @@
 		<key>name</key>
 		<string>Delījān</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912310,7 +912310,7 @@
 		<key>name</key>
 		<string>Khomeyn</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912328,7 +912328,7 @@
 		<key>name</key>
 		<string>Komījān</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912346,7 +912346,7 @@
 		<key>name</key>
 		<string>Sāveh</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912364,7 +912364,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Arāk</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912382,7 +912382,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Āshtīān</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912400,7 +912400,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Delījān</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912418,7 +912418,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Farahān</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912436,7 +912436,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khondāb</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912454,7 +912454,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Komījān</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912472,7 +912472,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Maḩallāt</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912490,7 +912490,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sāveh</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912508,7 +912508,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Shāzand</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912526,7 +912526,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Zarandīyeh</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912544,7 +912544,7 @@
 		<key>name</key>
 		<string>Tafresh</string>
 		<key>state_code</key>
-		<string>22</string>
+		<string>00</string>
 		<key>state_id</key>
 		<string>3916</string>
 	</dict>
@@ -912562,7 +912562,7 @@
 		<key>name</key>
 		<string>Āmol</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912580,7 +912580,7 @@
 		<key>name</key>
 		<string>Bābol</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912598,7 +912598,7 @@
 		<key>name</key>
 		<string>Bābolsar</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912616,7 +912616,7 @@
 		<key>name</key>
 		<string>Behshahr</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912634,7 +912634,7 @@
 		<key>name</key>
 		<string>Chālūs</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912652,7 +912652,7 @@
 		<key>name</key>
 		<string>Fereydūnkenār</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912670,7 +912670,7 @@
 		<key>name</key>
 		<string>Jūybār</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912688,7 +912688,7 @@
 		<key>name</key>
 		<string>Nashtārūd</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912706,7 +912706,7 @@
 		<key>name</key>
 		<string>Nekā</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912724,7 +912724,7 @@
 		<key>name</key>
 		<string>Nowshahr</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912742,7 +912742,7 @@
 		<key>name</key>
 		<string>Sari</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912760,7 +912760,7 @@
 		<key>name</key>
 		<string>Savadkuh-e Shomali</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912778,7 +912778,7 @@
 		<key>name</key>
 		<string>Shahrestān-e ‘Abbāsābād</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912796,7 +912796,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Āmol</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912814,7 +912814,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bābol</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912832,7 +912832,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bābolsar</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912850,7 +912850,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Chālūs</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912868,7 +912868,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Fareydūnkenār</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912886,7 +912886,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Galūgāh</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912904,7 +912904,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Jūybār</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912922,7 +912922,7 @@
 		<key>name</key>
 		<string>Shahrestan-e Kalār Dasht</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912940,7 +912940,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Maḩmūdābād</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912958,7 +912958,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Mīāndorūd</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912976,7 +912976,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Nekā</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -912994,7 +912994,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Nūr</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -913012,7 +913012,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Qā’em Shahr</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -913030,7 +913030,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Rāmsar</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -913048,7 +913048,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sārī</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -913066,7 +913066,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Savādkūh</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -913084,7 +913084,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Tonekābon</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -913102,7 +913102,7 @@
 		<key>name</key>
 		<string>Simorgh County</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -913120,7 +913120,7 @@
 		<key>name</key>
 		<string>Tonekābon</string>
 		<key>state_code</key>
-		<string>21</string>
+		<string>02</string>
 		<key>state_id</key>
 		<string>3938</string>
 	</dict>
@@ -913138,7 +913138,7 @@
 		<key>name</key>
 		<string>Bojnūrd</string>
 		<key>state_code</key>
-		<string>31</string>
+		<string>28</string>
 		<key>state_id</key>
 		<string>3942</string>
 	</dict>
@@ -913156,7 +913156,7 @@
 		<key>name</key>
 		<string>Esfarāyen</string>
 		<key>state_code</key>
-		<string>31</string>
+		<string>28</string>
 		<key>state_id</key>
 		<string>3942</string>
 	</dict>
@@ -913174,7 +913174,7 @@
 		<key>name</key>
 		<string>Raz and Jargalan</string>
 		<key>state_code</key>
-		<string>31</string>
+		<string>28</string>
 		<key>state_id</key>
 		<string>3942</string>
 	</dict>
@@ -913192,7 +913192,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bojnūrd</string>
 		<key>state_code</key>
-		<string>31</string>
+		<string>28</string>
 		<key>state_id</key>
 		<string>3942</string>
 	</dict>
@@ -913210,7 +913210,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Esfarāyen</string>
 		<key>state_code</key>
-		<string>31</string>
+		<string>28</string>
 		<key>state_id</key>
 		<string>3942</string>
 	</dict>
@@ -913228,7 +913228,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Fārūj</string>
 		<key>state_code</key>
-		<string>31</string>
+		<string>28</string>
 		<key>state_id</key>
 		<string>3942</string>
 	</dict>
@@ -913246,7 +913246,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Jājarm</string>
 		<key>state_code</key>
-		<string>31</string>
+		<string>28</string>
 		<key>state_id</key>
 		<string>3942</string>
 	</dict>
@@ -913264,7 +913264,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Māneh va Samalqān</string>
 		<key>state_code</key>
-		<string>31</string>
+		<string>28</string>
 		<key>state_id</key>
 		<string>3942</string>
 	</dict>
@@ -913282,7 +913282,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Shīrvān</string>
 		<key>state_code</key>
-		<string>31</string>
+		<string>28</string>
 		<key>state_id</key>
 		<string>3942</string>
 	</dict>
@@ -913300,7 +913300,7 @@
 		<key>name</key>
 		<string>Shīrvān</string>
 		<key>state_code</key>
-		<string>31</string>
+		<string>28</string>
 		<key>state_id</key>
 		<string>3942</string>
 	</dict>
@@ -913318,7 +913318,7 @@
 		<key>name</key>
 		<string>Alborz</string>
 		<key>state_code</key>
-		<string>28</string>
+		<string>26</string>
 		<key>state_id</key>
 		<string>3941</string>
 	</dict>
@@ -913336,7 +913336,7 @@
 		<key>name</key>
 		<string>Alvand</string>
 		<key>state_code</key>
-		<string>28</string>
+		<string>26</string>
 		<key>state_id</key>
 		<string>3941</string>
 	</dict>
@@ -913354,7 +913354,7 @@
 		<key>name</key>
 		<string>Avaj</string>
 		<key>state_code</key>
-		<string>28</string>
+		<string>26</string>
 		<key>state_id</key>
 		<string>3941</string>
 	</dict>
@@ -913372,7 +913372,7 @@
 		<key>name</key>
 		<string>Qazvin</string>
 		<key>state_code</key>
-		<string>28</string>
+		<string>26</string>
 		<key>state_id</key>
 		<string>3941</string>
 	</dict>
@@ -913390,7 +913390,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bū’īn Zahrā</string>
 		<key>state_code</key>
-		<string>28</string>
+		<string>26</string>
 		<key>state_id</key>
 		<string>3941</string>
 	</dict>
@@ -913408,7 +913408,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Qazvīn</string>
 		<key>state_code</key>
-		<string>28</string>
+		<string>26</string>
 		<key>state_id</key>
 		<string>3941</string>
 	</dict>
@@ -913426,7 +913426,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Tākestān</string>
 		<key>state_code</key>
-		<string>28</string>
+		<string>26</string>
 		<key>state_id</key>
 		<string>3941</string>
 	</dict>
@@ -913444,7 +913444,7 @@
 		<key>name</key>
 		<string>Tākestān</string>
 		<key>state_code</key>
-		<string>28</string>
+		<string>26</string>
 		<key>state_id</key>
 		<string>3941</string>
 	</dict>
@@ -913462,7 +913462,7 @@
 		<key>name</key>
 		<string>Qom</string>
 		<key>state_code</key>
-		<string>26</string>
+		<string>25</string>
 		<key>state_id</key>
 		<string>3922</string>
 	</dict>
@@ -913480,7 +913480,7 @@
 		<key>name</key>
 		<string>Bardaskan</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913498,7 +913498,7 @@
 		<key>name</key>
 		<string>Chenārān</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913516,7 +913516,7 @@
 		<key>name</key>
 		<string>Dargaz</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913534,7 +913534,7 @@
 		<key>name</key>
 		<string>Dāvarzan</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913552,7 +913552,7 @@
 		<key>name</key>
 		<string>Gonābād</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913570,7 +913570,7 @@
 		<key>name</key>
 		<string>Joveyn</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913588,7 +913588,7 @@
 		<key>name</key>
 		<string>Kāshmar</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913606,7 +913606,7 @@
 		<key>name</key>
 		<string>Mashhad</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913624,7 +913624,7 @@
 		<key>name</key>
 		<string>Neyshābūr</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913642,7 +913642,7 @@
 		<key>name</key>
 		<string>Qūchān</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913660,7 +913660,7 @@
 		<key>name</key>
 		<string>Sabzevar</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913678,7 +913678,7 @@
 		<key>name</key>
 		<string>Sarakhs</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913696,7 +913696,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bajestān</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913714,7 +913714,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bākharz</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913732,7 +913732,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bīnālūd</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913750,7 +913750,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Chenārān</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913768,7 +913768,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Farīmān</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913786,7 +913786,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Fīrūzeh</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913804,7 +913804,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Gonābād</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913822,7 +913822,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Joghatāy</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913840,7 +913840,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kalāt</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913858,7 +913858,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Kāshmar</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913876,7 +913876,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khalīlābād</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913894,7 +913894,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khowshāb</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913912,7 +913912,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khvāf</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913930,7 +913930,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Mah Velāt</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913948,7 +913948,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Neyshābūr</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913966,7 +913966,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Qūchān</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -913984,7 +913984,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Roshtkhvār</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -914002,7 +914002,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sabzevār</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -914020,7 +914020,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Tāybād</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -914038,7 +914038,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Torbat-e Ḩeydarīyeh</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -914056,7 +914056,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Torbat-e Jām</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -914074,7 +914074,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Zāveh</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -914092,7 +914092,7 @@
 		<key>name</key>
 		<string>Tāybād</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -914110,7 +914110,7 @@
 		<key>name</key>
 		<string>Torbat-e Ḩeydarīyeh</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -914128,7 +914128,7 @@
 		<key>name</key>
 		<string>Torbat-e Jām</string>
 		<key>state_code</key>
-		<string>30</string>
+		<string>09</string>
 		<key>state_id</key>
 		<string>3927</string>
 	</dict>
@@ -914146,7 +914146,7 @@
 		<key>name</key>
 		<string>Dāmghān</string>
 		<key>state_code</key>
-		<string>12</string>
+		<string>20</string>
 		<key>state_id</key>
 		<string>3940</string>
 	</dict>
@@ -914164,7 +914164,7 @@
 		<key>name</key>
 		<string>Īstgāh-e Rāh Āhan-e Garmsār</string>
 		<key>state_code</key>
-		<string>12</string>
+		<string>20</string>
 		<key>state_id</key>
 		<string>3940</string>
 	</dict>
@@ -914182,7 +914182,7 @@
 		<key>name</key>
 		<string>Mahdishahr</string>
 		<key>state_code</key>
-		<string>12</string>
+		<string>20</string>
 		<key>state_id</key>
 		<string>3940</string>
 	</dict>
@@ -914200,7 +914200,7 @@
 		<key>name</key>
 		<string>Semnan</string>
 		<key>state_code</key>
-		<string>12</string>
+		<string>20</string>
 		<key>state_id</key>
 		<string>3940</string>
 	</dict>
@@ -914218,7 +914218,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ārādān</string>
 		<key>state_code</key>
-		<string>12</string>
+		<string>20</string>
 		<key>state_id</key>
 		<string>3940</string>
 	</dict>
@@ -914236,7 +914236,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Dāmghān</string>
 		<key>state_code</key>
-		<string>12</string>
+		<string>20</string>
 		<key>state_id</key>
 		<string>3940</string>
 	</dict>
@@ -914254,7 +914254,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Garmsār</string>
 		<key>state_code</key>
-		<string>12</string>
+		<string>20</string>
 		<key>state_id</key>
 		<string>3940</string>
 	</dict>
@@ -914272,7 +914272,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Mayāmey</string>
 		<key>state_code</key>
-		<string>12</string>
+		<string>20</string>
 		<key>state_id</key>
 		<string>3940</string>
 	</dict>
@@ -914290,7 +914290,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Semnān</string>
 		<key>state_code</key>
-		<string>12</string>
+		<string>20</string>
 		<key>state_id</key>
 		<string>3940</string>
 	</dict>
@@ -914308,7 +914308,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Shāhrūd</string>
 		<key>state_code</key>
-		<string>12</string>
+		<string>20</string>
 		<key>state_id</key>
 		<string>3940</string>
 	</dict>
@@ -914326,7 +914326,7 @@
 		<key>name</key>
 		<string>Shahrud</string>
 		<key>state_code</key>
-		<string>12</string>
+		<string>20</string>
 		<key>state_id</key>
 		<string>3940</string>
 	</dict>
@@ -914344,7 +914344,7 @@
 		<key>name</key>
 		<string>Chabahar</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914362,7 +914362,7 @@
 		<key>name</key>
 		<string>Fannūj</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914380,7 +914380,7 @@
 		<key>name</key>
 		<string>Fanuj</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914398,7 +914398,7 @@
 		<key>name</key>
 		<string>Hamoon</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914416,7 +914416,7 @@
 		<key>name</key>
 		<string>Iranshahr</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914434,7 +914434,7 @@
 		<key>name</key>
 		<string>Khāsh</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914452,7 +914452,7 @@
 		<key>name</key>
 		<string>Mirjaveh</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914470,7 +914470,7 @@
 		<key>name</key>
 		<string>Nīkshahr</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914488,7 +914488,7 @@
 		<key>name</key>
 		<string>Nimruz</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914506,7 +914506,7 @@
 		<key>name</key>
 		<string>Noşratābād</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914524,7 +914524,7 @@
 		<key>name</key>
 		<string>Qaser-e Qand</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914542,7 +914542,7 @@
 		<key>name</key>
 		<string>Qaşr-e Qand</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914560,7 +914560,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Chābahār</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914578,7 +914578,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Dalgān</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914596,7 +914596,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Hīrmand</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914614,7 +914614,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Īrānshahr</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914632,7 +914632,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khāsh</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914650,7 +914650,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Konārak</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914668,7 +914668,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Mehrestān</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914686,7 +914686,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Nīkshahr</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914704,7 +914704,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sarāvān</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914722,7 +914722,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sarbāz</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914740,7 +914740,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Sīb va Sūrān</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914758,7 +914758,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Zābol</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914776,7 +914776,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Zāhedān</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914794,7 +914794,7 @@
 		<key>name</key>
 		<string>Zābol</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914812,7 +914812,7 @@
 		<key>name</key>
 		<string>Zahedan</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -914830,7 +914830,7 @@
 		<key>name</key>
 		<string>Zehak</string>
 		<key>state_code</key>
-		<string>13</string>
+		<string>11</string>
 		<key>state_id</key>
 		<string>3931</string>
 	</dict>
@@ -915064,7 +915064,7 @@
 		<key>name</key>
 		<string>Damāvand</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915082,7 +915082,7 @@
 		<key>name</key>
 		<string>Eqbālīyeh</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915100,7 +915100,7 @@
 		<key>name</key>
 		<string>Eslāmshahr</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915118,7 +915118,7 @@
 		<key>name</key>
 		<string>Malārd</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915136,7 +915136,7 @@
 		<key>name</key>
 		<string>Pardis</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915154,7 +915154,7 @@
 		<key>name</key>
 		<string>Pīshvā</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915172,7 +915172,7 @@
 		<key>name</key>
 		<string>Qarchak</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915190,7 +915190,7 @@
 		<key>name</key>
 		<string>Qods</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915208,7 +915208,7 @@
 		<key>name</key>
 		<string>Rey</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915226,7 +915226,7 @@
 		<key>name</key>
 		<string>Robāţ Karīm</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915244,7 +915244,7 @@
 		<key>name</key>
 		<string>Shahrak-e Emām Ḩasan</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915262,7 +915262,7 @@
 		<key>name</key>
 		<string>Shahre Jadide Andisheh</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915280,7 +915280,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bahārestān</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915298,7 +915298,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Damāvand</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915316,7 +915316,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Eslāmshahr</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915334,7 +915334,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Fīrūzkūh</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915352,7 +915352,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Malārd</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915370,7 +915370,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Pākdasht</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915388,7 +915388,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Pīshvā</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915406,7 +915406,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Robāţ Karīm</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915424,7 +915424,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Shahrīār</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915442,7 +915442,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Shemīrānāt</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915460,7 +915460,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Tehrān</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915478,7 +915478,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Varāmīn</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915496,7 +915496,7 @@
 		<key>name</key>
 		<string>Shahrīār</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915514,7 +915514,7 @@
 		<key>name</key>
 		<string>Sharīfābād</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915532,7 +915532,7 @@
 		<key>name</key>
 		<string>Soleh Bon</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915550,7 +915550,7 @@
 		<key>name</key>
 		<string>Ţāleb ābād</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915568,7 +915568,7 @@
 		<key>name</key>
 		<string>Tehran</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915586,7 +915586,7 @@
 		<key>name</key>
 		<string>Varāmīn</string>
 		<key>state_code</key>
-		<string>07</string>
+		<string>23</string>
 		<key>state_id</key>
 		<string>3945</string>
 	</dict>
@@ -915604,7 +915604,7 @@
 		<key>name</key>
 		<string>Būkān</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915622,7 +915622,7 @@
 		<key>name</key>
 		<string>Chāypāreh</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915640,7 +915640,7 @@
 		<key>name</key>
 		<string>Khowy</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915658,7 +915658,7 @@
 		<key>name</key>
 		<string>Mahābād</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915676,7 +915676,7 @@
 		<key>name</key>
 		<string>Mīāndoāb</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915694,7 +915694,7 @@
 		<key>name</key>
 		<string>Naqadeh</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915712,7 +915712,7 @@
 		<key>name</key>
 		<string>Orūmīyeh</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915730,7 +915730,7 @@
 		<key>name</key>
 		<string>Oshnavīyeh</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915748,7 +915748,7 @@
 		<key>name</key>
 		<string>Piranshahr</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915766,7 +915766,7 @@
 		<key>name</key>
 		<string>Poldasht</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915784,7 +915784,7 @@
 		<key>name</key>
 		<string>Qarah Ẕīā’ od Dīn</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915802,7 +915802,7 @@
 		<key>name</key>
 		<string>Salmās</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915820,7 +915820,7 @@
 		<key>name</key>
 		<string>Sardasht</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915838,7 +915838,7 @@
 		<key>name</key>
 		<string>Shāhīn Dezh</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915856,7 +915856,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Būkān</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915874,7 +915874,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Chāldorān</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915892,7 +915892,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Mahābād</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915910,7 +915910,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Mākū</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915928,7 +915928,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Mīāndoāb</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915946,7 +915946,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Orūmīyeh</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915964,7 +915964,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Oshnavīyeh</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -915982,7 +915982,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Pīrānshahr</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -916000,7 +916000,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Salmās</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -916018,7 +916018,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Shāhīn Dezh</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -916036,7 +916036,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Takāb</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -916054,7 +916054,7 @@
 		<key>name</key>
 		<string>Takāb</string>
 		<key>state_code</key>
-		<string>02</string>
+		<string>04</string>
 		<key>state_id</key>
 		<string>3924</string>
 	</dict>
@@ -916072,7 +916072,7 @@
 		<key>name</key>
 		<string>Ardakān</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916090,7 +916090,7 @@
 		<key>name</key>
 		<string>Bāfq</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916108,7 +916108,7 @@
 		<key>name</key>
 		<string>Khavāş Kūh</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916126,7 +916126,7 @@
 		<key>name</key>
 		<string>Mahrīz</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916144,7 +916144,7 @@
 		<key>name</key>
 		<string>Meybod</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916162,7 +916162,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Abarkūh</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916180,7 +916180,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ardakān</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916198,7 +916198,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ashkez̄ar</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916216,7 +916216,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Bāfq</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916234,7 +916234,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Behābād</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916252,7 +916252,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khātam</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916270,7 +916270,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Mehrīz</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916288,7 +916288,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Yazd</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916306,7 +916306,7 @@
 		<key>name</key>
 		<string>Tabas</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916324,7 +916324,7 @@
 		<key>name</key>
 		<string>Taft</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916342,7 +916342,7 @@
 		<key>name</key>
 		<string>Yazd</string>
 		<key>state_code</key>
-		<string>25</string>
+		<string>21</string>
 		<key>state_id</key>
 		<string>3936</string>
 	</dict>
@@ -916360,7 +916360,7 @@
 		<key>name</key>
 		<string>Abhar</string>
 		<key>state_code</key>
-		<string>11</string>
+		<string>19</string>
 		<key>state_id</key>
 		<string>3925</string>
 	</dict>
@@ -916378,7 +916378,7 @@
 		<key>name</key>
 		<string>Alvand</string>
 		<key>state_code</key>
-		<string>11</string>
+		<string>19</string>
 		<key>state_id</key>
 		<string>3925</string>
 	</dict>
@@ -916396,7 +916396,7 @@
 		<key>name</key>
 		<string>Khorramdarreh</string>
 		<key>state_code</key>
-		<string>11</string>
+		<string>19</string>
 		<key>state_id</key>
 		<string>3925</string>
 	</dict>
@@ -916414,7 +916414,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ījrūd</string>
 		<key>state_code</key>
-		<string>11</string>
+		<string>19</string>
 		<key>state_id</key>
 		<string>3925</string>
 	</dict>
@@ -916432,7 +916432,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Khodābandeh</string>
 		<key>state_code</key>
-		<string>11</string>
+		<string>19</string>
 		<key>state_id</key>
 		<string>3925</string>
 	</dict>
@@ -916450,7 +916450,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Māhneshān</string>
 		<key>state_code</key>
-		<string>11</string>
+		<string>19</string>
 		<key>state_id</key>
 		<string>3925</string>
 	</dict>
@@ -916468,7 +916468,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Ţārom</string>
 		<key>state_code</key>
-		<string>11</string>
+		<string>19</string>
 		<key>state_id</key>
 		<string>3925</string>
 	</dict>
@@ -916486,7 +916486,7 @@
 		<key>name</key>
 		<string>Shahrestān-e Zanjān</string>
 		<key>state_code</key>
-		<string>11</string>
+		<string>19</string>
 		<key>state_id</key>
 		<string>3925</string>
 	</dict>
@@ -916504,7 +916504,7 @@
 		<key>name</key>
 		<string>Soltaniyeh</string>
 		<key>state_code</key>
-		<string>11</string>
+		<string>19</string>
 		<key>state_id</key>
 		<string>3925</string>
 	</dict>
@@ -916522,7 +916522,7 @@
 		<key>name</key>
 		<string>Zanjān</string>
 		<key>state_code</key>
-		<string>11</string>
+		<string>19</string>
 		<key>state_id</key>
 		<string>3925</string>
 	</dict>

@@ -451944,7 +451944,7 @@
     <id>134459</id>
     <name>Amli</name>
     <state_id>4033</state_id>
-    <state_code>DN</state_code>
+    <state_code>DH</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>20.28333000</latitude>
@@ -451954,7 +451954,7 @@
     <id>131639</id>
     <name>Dadra</name>
     <state_id>4033</state_id>
-    <state_code>DN</state_code>
+    <state_code>DH</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>20.32504000</latitude>
@@ -451964,7 +451964,7 @@
     <id>131640</id>
     <name>Dadra &amp; Nagar Haveli</name>
     <state_id>4033</state_id>
-    <state_code>DN</state_code>
+    <state_code>DH</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>20.20651000</latitude>
@@ -451974,7 +451974,7 @@
     <id>131649</id>
     <name>Daman</name>
     <state_id>4033</state_id>
-    <state_code>DD</state_code>
+    <state_code>DH</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>20.41431000</latitude>
@@ -451984,7 +451984,7 @@
     <id>131650</id>
     <name>Daman District</name>
     <state_id>4033</state_id>
-    <state_code>DD</state_code>
+    <state_code>DH</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>20.41667000</latitude>
@@ -451994,7 +451994,7 @@
     <id>131779</id>
     <name>Diu</name>
     <state_id>4033</state_id>
-    <state_code>DD</state_code>
+    <state_code>DH</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>20.72081000</latitude>
@@ -452004,7 +452004,7 @@
     <id>133937</id>
     <name>Silvassa</name>
     <state_id>4033</state_id>
-    <state_code>DN</state_code>
+    <state_code>DH</state_code>
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <latitude>20.27386000</latitude>
@@ -498284,7 +498284,7 @@
     <id>134635</id>
     <name>Fardis</name>
     <state_id>3929</state_id>
-    <state_code>32</state_code>
+    <state_code>30</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.72318000</latitude>
@@ -498294,7 +498294,7 @@
     <id>134664</id>
     <name>Karaj</name>
     <state_id>3929</state_id>
-    <state_code>32</state_code>
+    <state_code>30</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.83266000</latitude>
@@ -498304,7 +498304,7 @@
     <id>134710</id>
     <name>Naz̧arābād</name>
     <state_id>3929</state_id>
-    <state_code>32</state_code>
+    <state_code>30</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.95411000</latitude>
@@ -498314,7 +498314,7 @@
     <id>134858</id>
     <name>Shahrestān-e Eshtehārd</name>
     <state_id>3929</state_id>
-    <state_code>32</state_code>
+    <state_code>30</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.72813000</latitude>
@@ -498324,7 +498324,7 @@
     <id>134978</id>
     <name>Shahrestān-e Naz̧arābād</name>
     <state_id>3929</state_id>
-    <state_code>32</state_code>
+    <state_code>30</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.91366000</latitude>
@@ -498334,7 +498334,7 @@
     <id>135051</id>
     <name>Shahrestān-e Sāvojbolāgh</name>
     <state_id>3929</state_id>
-    <state_code>32</state_code>
+    <state_code>30</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.00000000</latitude>
@@ -498344,7 +498344,7 @@
     <id>135096</id>
     <name>Shahrestān-e Ţāleqān</name>
     <state_id>3929</state_id>
-    <state_code>32</state_code>
+    <state_code>30</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.20528000</latitude>
@@ -498354,7 +498354,7 @@
     <id>134568</id>
     <name>Ardabīl</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.24980000</latitude>
@@ -498364,7 +498364,7 @@
     <id>134602</id>
     <name>Bīleh Savār</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>39.37961000</latitude>
@@ -498374,7 +498374,7 @@
     <id>134669</id>
     <name>Khalkhāl</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.61837000</latitude>
@@ -498384,7 +498384,7 @@
     <id>134722</id>
     <name>Omīdcheh</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.28667000</latitude>
@@ -498394,7 +498394,7 @@
     <id>134731</id>
     <name>Pārsābād</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>39.64820000</latitude>
@@ -498404,7 +498404,7 @@
     <id>134792</id>
     <name>Shahrestān-e Ardabīl</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.25000000</latitude>
@@ -498414,7 +498414,7 @@
     <id>134826</id>
     <name>Shahrestān-e Bīleh Savār</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>39.36667000</latitude>
@@ -498424,7 +498424,7 @@
     <id>134882</id>
     <name>Shahrestān-e Germī</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>39.00000000</latitude>
@@ -498434,7 +498434,7 @@
     <id>134911</id>
     <name>Shahrestān-e Khalkhāl</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.40604000</latitude>
@@ -498444,7 +498444,7 @@
     <id>134932</id>
     <name>Shahrestān-e Kows̄ar</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.72142000</latitude>
@@ -498454,7 +498454,7 @@
     <id>134964</id>
     <name>Shahrestān-e Meshgīn Shahr</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.43333000</latitude>
@@ -498464,7 +498464,7 @@
     <id>134976</id>
     <name>Shahrestān-e Namīn</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.38333000</latitude>
@@ -498474,7 +498474,7 @@
     <id>134986</id>
     <name>Shahrestān-e Nīr</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.00000000</latitude>
@@ -498484,7 +498484,7 @@
     <id>134994</id>
     <name>Shahrestān-e Pārsābād</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>39.58333000</latitude>
@@ -498494,7 +498494,7 @@
     <id>135031</id>
     <name>Shahrestān-e Sar‘eyn</name>
     <state_id>3934</state_id>
-    <state_code>03</state_code>
+    <state_code>24</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.18333000</latitude>
@@ -498504,7 +498504,7 @@
     <id>134560</id>
     <name>Ahram</name>
     <state_id>3932</state_id>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.88260000</latitude>
@@ -498514,7 +498514,7 @@
     <id>134579</id>
     <name>Bandar-e Genāveh</name>
     <state_id>3932</state_id>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.57910000</latitude>
@@ -498524,7 +498524,7 @@
     <id>134589</id>
     <name>Borāzjān</name>
     <state_id>3932</state_id>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.26990000</latitude>
@@ -498534,7 +498534,7 @@
     <id>134594</id>
     <name>Bushehr</name>
     <state_id>3932</state_id>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.96887000</latitude>
@@ -498544,7 +498544,7 @@
     <id>134621</id>
     <name>Deylam</name>
     <state_id>3932</state_id>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.02286000</latitude>
@@ -498554,7 +498554,7 @@
     <id>134678</id>
     <name>Khārk</name>
     <state_id>3932</state_id>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.26139000</latitude>
@@ -498564,7 +498564,7 @@
     <id>135103</id>
     <name>Shahrestān-e ‘Asalūyeh</name>
     <state_id>3932</state_id>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.45000000</latitude>
@@ -498574,7 +498574,7 @@
     <id>134830</id>
     <name>Shahrestān-e Būshehr</name>
     <state_id>3932</state_id>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.14186000</latitude>
@@ -498584,7 +498584,7 @@
     <id>134844</id>
     <name>Shahrestān-e Dashtestān</name>
     <state_id>3932</state_id>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.28333000</latitude>
@@ -498594,7 +498594,7 @@
     <id>134845</id>
     <name>Shahrestān-e Dashtī</name>
     <state_id>3932</state_id>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.48685000</latitude>
@@ -498604,7 +498604,7 @@
     <id>134881</id>
     <name>Shahrestān-e Genāveh</name>
     <state_id>3932</state_id>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.64574000</latitude>
@@ -498614,7 +498614,7 @@
     <id>134906</id>
     <name>Shahrestān-e Kangān</name>
     <state_id>3932</state_id>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.71330000</latitude>
@@ -498624,7 +498624,7 @@
     <id>135059</id>
     <name>Shahrestān-e Tangestān</name>
     <state_id>3932</state_id>
-    <state_code>06</state_code>
+    <state_code>18</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.88333000</latitude>
@@ -498634,7 +498634,7 @@
     <id>134586</id>
     <name>Ben</name>
     <state_id>3921</state_id>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.53556000</latitude>
@@ -498644,7 +498644,7 @@
     <id>134590</id>
     <name>Borūjen</name>
     <state_id>3921</state_id>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.96523000</latitude>
@@ -498654,7 +498654,7 @@
     <id>134607</id>
     <name>Chelgard</name>
     <state_id>3921</state_id>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.46720000</latitude>
@@ -498664,7 +498664,7 @@
     <id>134637</id>
     <name>Farrokh Shahr</name>
     <state_id>3921</state_id>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.27174000</latitude>
@@ -498674,7 +498674,7 @@
     <id>134641</id>
     <name>Fārsān</name>
     <state_id>3921</state_id>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.25694000</latitude>
@@ -498684,7 +498684,7 @@
     <id>134764</id>
     <name>Saman</name>
     <state_id>3921</state_id>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.44980000</latitude>
@@ -498694,7 +498694,7 @@
     <id>134777</id>
     <name>Shahr-e Kord</name>
     <state_id>3921</state_id>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.32612000</latitude>
@@ -498704,7 +498704,7 @@
     <id>134783</id>
     <name>Shahrekord</name>
     <state_id>3921</state_id>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.31667000</latitude>
@@ -498714,7 +498714,7 @@
     <id>134813</id>
     <name>Shahrestān-e Borūjen</name>
     <state_id>3921</state_id>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.90000000</latitude>
@@ -498724,7 +498724,7 @@
     <id>134871</id>
     <name>Shahrestān-e Fārsān</name>
     <state_id>3921</state_id>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.25779000</latitude>
@@ -498734,7 +498734,7 @@
     <id>134937</id>
     <name>Shahrestān-e Kīār</name>
     <state_id>3921</state_id>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.00000000</latitude>
@@ -498744,7 +498744,7 @@
     <id>134940</id>
     <name>Shahrestān-e Kūhrang</name>
     <state_id>3921</state_id>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.41667000</latitude>
@@ -498754,7 +498754,7 @@
     <id>134943</id>
     <name>Shahrestān-e Lordegān</name>
     <state_id>3921</state_id>
-    <state_code>08</state_code>
+    <state_code>14</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.43333000</latitude>
@@ -498764,7 +498764,7 @@
     <id>135160</id>
     <name>‘Ajab Shīr</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.47760000</latitude>
@@ -498774,7 +498774,7 @@
     <id>134559</id>
     <name>Ahar</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.47740000</latitude>
@@ -498784,7 +498784,7 @@
     <id>134588</id>
     <name>Bonāb</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.34040000</latitude>
@@ -498794,7 +498794,7 @@
     <id>134654</id>
     <name>Hashtrūd</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.47790000</latitude>
@@ -498804,7 +498804,7 @@
     <id>134695</id>
     <name>Marand</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.43290000</latitude>
@@ -498814,7 +498814,7 @@
     <id>134771</id>
     <name>Sarāb</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.94080000</latitude>
@@ -498824,7 +498824,7 @@
     <id>135100</id>
     <name>Shahrestān-e ‘Ajab Shīr</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.50002000</latitude>
@@ -498834,7 +498834,7 @@
     <id>135089</id>
     <name>Shahrestān-e Āz̄arshahr</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.75001000</latitude>
@@ -498844,7 +498844,7 @@
     <id>134811</id>
     <name>Shahrestān-e Bonāb</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.33338000</latitude>
@@ -498854,7 +498854,7 @@
     <id>134815</id>
     <name>Shahrestān-e Bostānābād</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.83333000</latitude>
@@ -498864,7 +498864,7 @@
     <id>134838</id>
     <name>Shahrestān-e Chārāvīmāq</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.10012000</latitude>
@@ -498874,7 +498874,7 @@
     <id>134892</id>
     <name>Shahrestān-e Hashtrūd</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.46670000</latitude>
@@ -498884,7 +498884,7 @@
     <id>134894</id>
     <name>Shahrestān-e Herīs</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.23058000</latitude>
@@ -498894,7 +498894,7 @@
     <id>134898</id>
     <name>Shahrestān-e Jolfā</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.83343000</latitude>
@@ -498904,7 +498904,7 @@
     <id>134915</id>
     <name>Shahrestān-e Khodā Āfarīn</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>39.06667000</latitude>
@@ -498914,7 +498914,7 @@
     <id>134951</id>
     <name>Shahrestān-e Malekān</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.13338000</latitude>
@@ -498924,7 +498924,7 @@
     <id>134954</id>
     <name>Shahrestān-e Marāgheh</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.38061000</latitude>
@@ -498934,7 +498934,7 @@
     <id>134974</id>
     <name>Shahrestān-e Mīāneh</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.41667000</latitude>
@@ -498944,7 +498944,7 @@
     <id>134992</id>
     <name>Shahrestān-e Oskū</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.95005000</latitude>
@@ -498954,7 +498954,7 @@
     <id>135028</id>
     <name>Shahrestān-e Sarāb</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.98340000</latitude>
@@ -498964,7 +498964,7 @@
     <id>135057</id>
     <name>Shahrestān-e Tabrīz</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.08333000</latitude>
@@ -498974,7 +498974,7 @@
     <id>135068</id>
     <name>Shahrestān-e Varzaqān</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.59492000</latitude>
@@ -498984,7 +498984,7 @@
     <id>135125</id>
     <name>Tabriz</name>
     <state_id>3944</state_id>
-    <state_code>01</state_code>
+    <state_code>03</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.08000000</latitude>
@@ -498994,7 +498994,7 @@
     <id>135151</id>
     <name>Ābādeh</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.16080000</latitude>
@@ -499004,7 +499004,7 @@
     <id>134562</id>
     <name>Akbarābād</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.24640000</latitude>
@@ -499014,7 +499014,7 @@
     <id>134626</id>
     <name>Dārāb</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.75194000</latitude>
@@ -499024,7 +499024,7 @@
     <id>134638</id>
     <name>Fasā</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.93830000</latitude>
@@ -499034,7 +499034,7 @@
     <id>134642</id>
     <name>Fīrūzābād</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.84380000</latitude>
@@ -499044,7 +499044,7 @@
     <id>134644</id>
     <name>Gerāsh</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.66966000</latitude>
@@ -499054,7 +499054,7 @@
     <id>134684</id>
     <name>Kāzerūn</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.61919000</latitude>
@@ -499064,7 +499064,7 @@
     <id>134694</id>
     <name>Mamasanī</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.03333000</latitude>
@@ -499074,7 +499074,7 @@
     <id>134696</id>
     <name>Marvdasht</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.08333000</latitude>
@@ -499084,7 +499084,7 @@
     <id>134704</id>
     <name>Mohr</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.55520000</latitude>
@@ -499094,7 +499094,7 @@
     <id>134713</id>
     <name>Neyrīz</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.19880000</latitude>
@@ -499104,7 +499104,7 @@
     <id>134721</id>
     <name>Nūrābād</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.11405000</latitude>
@@ -499114,7 +499114,7 @@
     <id>134732</id>
     <name>Pāsārgād</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.20194000</latitude>
@@ -499124,7 +499124,7 @@
     <id>134755</id>
     <name>Rostam</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.40000000</latitude>
@@ -499134,7 +499134,7 @@
     <id>134778</id>
     <name>Shahr-e Qadīm-e Lār</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.68336000</latitude>
@@ -499144,7 +499144,7 @@
     <id>135079</id>
     <name>Shahrestān-e Ābādeh</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.25000000</latitude>
@@ -499154,7 +499154,7 @@
     <id>134795</id>
     <name>Shahrestān-e Arsanjān</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.80000000</latitude>
@@ -499164,7 +499164,7 @@
     <id>134807</id>
     <name>Shahrestān-e Bavānāt</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.33333000</latitude>
@@ -499174,7 +499174,7 @@
     <id>134853</id>
     <name>Shahrestān-e Dārāb</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.56667000</latitude>
@@ -499184,7 +499184,7 @@
     <id>134856</id>
     <name>Shahrestān-e Eqlīd</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.70000000</latitude>
@@ -499194,7 +499194,7 @@
     <id>134861</id>
     <name>Shahrestān-e Estahbān</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.11667000</latitude>
@@ -499204,7 +499204,7 @@
     <id>134868</id>
     <name>Shahrestān-e Farāshband</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.75000000</latitude>
@@ -499214,7 +499214,7 @@
     <id>134870</id>
     <name>Shahrestān-e Fasā</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.96667000</latitude>
@@ -499224,7 +499224,7 @@
     <id>134876</id>
     <name>Shahrestān-e Fīrūzābād</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.91667000</latitude>
@@ -499234,7 +499234,7 @@
     <id>134883</id>
     <name>Shahrestān-e Gerāsh</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.65000000</latitude>
@@ -499244,7 +499244,7 @@
     <id>134908</id>
     <name>Shahrestān-e Kavār</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.21667000</latitude>
@@ -499254,7 +499254,7 @@
     <id>134936</id>
     <name>Shahrestān-e Kāzerūn</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.50000000</latitude>
@@ -499264,7 +499264,7 @@
     <id>134914</id>
     <name>Shahrestān-e Kherāmeh</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.50000000</latitude>
@@ -499274,7 +499274,7 @@
     <id>134919</id>
     <name>Shahrestān-e Khorrambīd</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.50000000</latitude>
@@ -499284,7 +499284,7 @@
     <id>134946</id>
     <name>Shahrestān-e Lāmerd</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.36667000</latitude>
@@ -499294,7 +499294,7 @@
     <id>134947</id>
     <name>Shahrestān-e Lārestān</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.75000000</latitude>
@@ -499304,7 +499304,7 @@
     <id>134982</id>
     <name>Shahrestān-e Neyrīz</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.33333000</latitude>
@@ -499314,7 +499314,7 @@
     <id>134996</id>
     <name>Shahrestān-e Pāsārgād</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.13333000</latitude>
@@ -499324,7 +499324,7 @@
     <id>135005</id>
     <name>Shahrestān-e Qīr va Kārzīn</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.31667000</latitude>
@@ -499334,7 +499334,7 @@
     <id>135026</id>
     <name>Shahrestān-e Sarvestān</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.21667000</latitude>
@@ -499344,7 +499344,7 @@
     <id>135035</id>
     <name>Shahrestān-e Sepīdān</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.15000000</latitude>
@@ -499354,7 +499354,7 @@
     <id>135046</id>
     <name>Shahrestān-e Shīrāz</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.58333000</latitude>
@@ -499364,7 +499364,7 @@
     <id>135073</id>
     <name>Shahrestān-e Zarrīn Dasht</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.30000000</latitude>
@@ -499374,7 +499374,7 @@
     <id>135108</id>
     <name>Shiraz</name>
     <state_id>3939</state_id>
-    <state_code>14</state_code>
+    <state_code>07</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.61031000</latitude>
@@ -499384,7 +499384,7 @@
     <id>135154</id>
     <name>Āstāneh-ye Ashrafīyeh</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.26318000</latitude>
@@ -499394,7 +499394,7 @@
     <id>135155</id>
     <name>Āstārā</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.42910000</latitude>
@@ -499404,7 +499404,7 @@
     <id>134578</id>
     <name>Bandar-e Anzalī</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.47318000</latitude>
@@ -499414,7 +499414,7 @@
     <id>134643</id>
     <name>Fūman</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.22400000</latitude>
@@ -499424,7 +499424,7 @@
     <id>134653</id>
     <name>Hashtpar</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.79658000</latitude>
@@ -499434,7 +499434,7 @@
     <id>134689</id>
     <name>Langarūd</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.19548000</latitude>
@@ -499444,7 +499444,7 @@
     <id>134730</id>
     <name>Pādegān-e Manjīl</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.74150000</latitude>
@@ -499454,7 +499454,7 @@
     <id>134749</id>
     <name>Rasht</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.27611000</latitude>
@@ -499464,7 +499464,7 @@
     <id>134753</id>
     <name>Reẕvānshahr</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.54976000</latitude>
@@ -499474,7 +499474,7 @@
     <id>134761</id>
     <name>Rūdsar</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.13696000</latitude>
@@ -499484,7 +499484,7 @@
     <id>135086</id>
     <name>Shahrestān-e Āstāneh-ye Ashrafīyeh</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.31667000</latitude>
@@ -499494,7 +499494,7 @@
     <id>135087</id>
     <name>Shahrestān-e Āstārā</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.33333000</latitude>
@@ -499504,7 +499504,7 @@
     <id>134803</id>
     <name>Shahrestān-e Bandar-e Anzalī</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.45000000</latitude>
@@ -499514,7 +499514,7 @@
     <id>134877</id>
     <name>Shahrestān-e Fūman</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.16667000</latitude>
@@ -499524,7 +499524,7 @@
     <id>134944</id>
     <name>Shahrestān-e Lāhījān</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.21667000</latitude>
@@ -499534,7 +499534,7 @@
     <id>134941</id>
     <name>Shahrestān-e Langarūd</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.15000000</latitude>
@@ -499544,7 +499544,7 @@
     <id>134969</id>
     <name>Shahrestān-e Māsāl</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.35000000</latitude>
@@ -499554,7 +499554,7 @@
     <id>135009</id>
     <name>Shahrestān-e Reẕvānshahr</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.53333000</latitude>
@@ -499564,7 +499564,7 @@
     <id>135017</id>
     <name>Shahrestān-e Rūdbār</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.80000000</latitude>
@@ -499574,7 +499574,7 @@
     <id>135019</id>
     <name>Shahrestān-e Rūdsar</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.86667000</latitude>
@@ -499584,7 +499584,7 @@
     <id>135055</id>
     <name>Shahrestān-e Sīāhkal</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.93333000</latitude>
@@ -499594,7 +499594,7 @@
     <id>135095</id>
     <name>Shahrestān-e Şowme‘eh Sarā</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.33333000</latitude>
@@ -499604,7 +499604,7 @@
     <id>135065</id>
     <name>Shahrestān-e Tālesh</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.90000000</latitude>
@@ -499614,7 +499614,7 @@
     <id>135146</id>
     <name>Ziabar (Gaskar)</name>
     <state_id>3920</state_id>
-    <state_code>19</state_code>
+    <state_code>01</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.42610000</latitude>
@@ -504654,7 +504654,7 @@
     <id>134576</id>
     <name>Bandar Abbas</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.18650000</latitude>
@@ -504664,7 +504664,7 @@
     <id>134577</id>
     <name>Bandar Lengeh</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.78333000</latitude>
@@ -504674,7 +504674,7 @@
     <id>134580</id>
     <name>Bandar-e Lengeh</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.55792000</latitude>
@@ -504684,7 +504684,7 @@
     <id>134583</id>
     <name>Bastak</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.20000000</latitude>
@@ -504694,7 +504694,7 @@
     <id>134685</id>
     <name>Kīsh</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.55778000</latitude>
@@ -504704,7 +504704,7 @@
     <id>134705</id>
     <name>Mīnāb</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.13104000</latitude>
@@ -504714,7 +504714,7 @@
     <id>134742</id>
     <name>Qeshm</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.78333000</latitude>
@@ -504724,7 +504724,7 @@
     <id>134786</id>
     <name>Shahrestān-e Abū Mūsá</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.05474000</latitude>
@@ -504734,7 +504734,7 @@
     <id>134802</id>
     <name>Shahrestān-e Bandar ‘Abbās</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.55000000</latitude>
@@ -504744,7 +504744,7 @@
     <id>134806</id>
     <name>Shahrestān-e Bashāgard</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.45000000</latitude>
@@ -504754,7 +504754,7 @@
     <id>135098</id>
     <name>Shahrestān-e Ḩājjīābād</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.33333000</latitude>
@@ -504764,7 +504764,7 @@
     <id>134900</id>
     <name>Shahrestān-e Jāsk</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>25.88333000</latitude>
@@ -504774,7 +504774,7 @@
     <id>134913</id>
     <name>Shahrestān-e Khamīr</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.26667000</latitude>
@@ -504784,7 +504784,7 @@
     <id>134970</id>
     <name>Shahrestān-e Mīnāb</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.93333000</latitude>
@@ -504794,7 +504794,7 @@
     <id>134995</id>
     <name>Shahrestān-e Pārsīān</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.16667000</latitude>
@@ -504804,7 +504804,7 @@
     <id>135020</id>
     <name>Shahrestān-e Rūdān</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.53333000</latitude>
@@ -504814,7 +504814,7 @@
     <id>135054</id>
     <name>Shahrestān-e Sīrīk</name>
     <state_id>3937</state_id>
-    <state_code>23</state_code>
+    <state_code>22</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.50000000</latitude>
@@ -504824,7 +504824,7 @@
     <id>135149</id>
     <name>Ābdānān</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.99260000</latitude>
@@ -504834,7 +504834,7 @@
     <id>134574</id>
     <name>Badreh</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.00000000</latitude>
@@ -504844,7 +504844,7 @@
     <id>134606</id>
     <name>Chardavol County</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.75910000</latitude>
@@ -504854,7 +504854,7 @@
     <id>134614</id>
     <name>Darreh Shahr</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.14447000</latitude>
@@ -504864,7 +504864,7 @@
     <id>134615</id>
     <name>Darrehshahr</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.13333000</latitude>
@@ -504874,7 +504874,7 @@
     <id>134617</id>
     <name>Dehlorān</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.69410000</latitude>
@@ -504884,7 +504884,7 @@
     <id>135157</id>
     <name>Īlām</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.63740000</latitude>
@@ -504894,7 +504894,7 @@
     <id>134700</id>
     <name>Mehrān</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.12220000</latitude>
@@ -504904,7 +504904,7 @@
     <id>135078</id>
     <name>Shahrestān-e Ābdānān</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.88333000</latitude>
@@ -504914,7 +504914,7 @@
     <id>134847</id>
     <name>Shahrestān-e Dehlorān</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.68333000</latitude>
@@ -504924,7 +504924,7 @@
     <id>134862</id>
     <name>Shahrestān-e Eyvān</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.90000000</latitude>
@@ -504934,7 +504934,7 @@
     <id>135091</id>
     <name>Shahrestān-e Īlām</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.68333000</latitude>
@@ -504944,7 +504944,7 @@
     <id>134950</id>
     <name>Shahrestān-e Malekshāhī</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.30000000</latitude>
@@ -504954,7 +504954,7 @@
     <id>134962</id>
     <name>Shahrestān-e Mehrān</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.28333000</latitude>
@@ -504964,7 +504964,7 @@
     <id>135117</id>
     <name>Sirvan</name>
     <state_id>3918</state_id>
-    <state_code>05</state_code>
+    <state_code>16</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.75460000</latitude>
@@ -504974,7 +504974,7 @@
     <id>134557</id>
     <name>Abrīsham</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.55613000</latitude>
@@ -504984,7 +504984,7 @@
     <id>134570</id>
     <name>Ardestān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.37610000</latitude>
@@ -504994,7 +504994,7 @@
     <id>134593</id>
     <name>Buin va Miandasht</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.07241000</latitude>
@@ -505004,7 +505004,7 @@
     <id>134609</id>
     <name>Chādegān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.76825000</latitude>
@@ -505014,7 +505014,7 @@
     <id>134627</id>
     <name>Dārān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.98871000</latitude>
@@ -505024,7 +505024,7 @@
     <id>134618</id>
     <name>Dehāqān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.94004000</latitude>
@@ -505034,7 +505034,7 @@
     <id>134623</id>
     <name>Dorcheh Pīāz</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.61528000</latitude>
@@ -505044,7 +505044,7 @@
     <id>134624</id>
     <name>Dowlatābād</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.79978000</latitude>
@@ -505054,7 +505054,7 @@
     <id>134632</id>
     <name>Falāvarjān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.55530000</latitude>
@@ -505064,7 +505064,7 @@
     <id>134636</id>
     <name>Fareydūnshahr</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.94098000</latitude>
@@ -505074,7 +505074,7 @@
     <id>134639</id>
     <name>Fereydan</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.10000000</latitude>
@@ -505084,7 +505084,7 @@
     <id>134645</id>
     <name>Golpāyegān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.45370000</latitude>
@@ -505094,7 +505094,7 @@
     <id>134656</id>
     <name>Isfahan</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.65246000</latitude>
@@ -505104,7 +505104,7 @@
     <id>134666</id>
     <name>Kelīshād va Sūdarjān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.55118000</latitude>
@@ -505114,7 +505114,7 @@
     <id>134672</id>
     <name>Khomeynī Shahr</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.68560000</latitude>
@@ -505124,7 +505124,7 @@
     <id>134680</id>
     <name>Khūr</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.77512000</latitude>
@@ -505134,7 +505134,7 @@
     <id>134677</id>
     <name>Khvānsār</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.22052000</latitude>
@@ -505144,7 +505144,7 @@
     <id>134703</id>
     <name>Mobārakeh</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.34651000</latitude>
@@ -505154,7 +505154,7 @@
     <id>134718</id>
     <name>Nā’īn</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.86006000</latitude>
@@ -505164,7 +505164,7 @@
     <id>134707</id>
     <name>Najafābād</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.63440000</latitude>
@@ -505174,7 +505174,7 @@
     <id>134711</id>
     <name>Naţanz</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.51118000</latitude>
@@ -505184,7 +505184,7 @@
     <id>134735</id>
     <name>Qahderījān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.57670000</latitude>
@@ -505194,7 +505194,7 @@
     <id>134751</id>
     <name>Rehnān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.68325000</latitude>
@@ -505204,7 +505204,7 @@
     <id>134775</id>
     <name>Semīrom</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.41667000</latitude>
@@ -505214,7 +505214,7 @@
     <id>135111</id>
     <name>Shāhīn Shahr</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.85788000</latitude>
@@ -505224,7 +505224,7 @@
     <id>135084</id>
     <name>Shahrestān-e Ārān va Bīdgol</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.10000000</latitude>
@@ -505234,7 +505234,7 @@
     <id>134794</id>
     <name>Shahrestān-e Ardestān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.45000000</latitude>
@@ -505244,7 +505244,7 @@
     <id>134812</id>
     <name>Shahrestān-e Borkhvār</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.98333000</latitude>
@@ -505254,7 +505254,7 @@
     <id>134835</id>
     <name>Shahrestān-e Chādegān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.75000000</latitude>
@@ -505264,7 +505264,7 @@
     <id>134848</id>
     <name>Shahrestān-e Dehāqān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.98333000</latitude>
@@ -505274,7 +505274,7 @@
     <id>134863</id>
     <name>Shahrestān-e Eşfahān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.26667000</latitude>
@@ -505284,7 +505284,7 @@
     <id>134864</id>
     <name>Shahrestān-e Falāvarjān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.50000000</latitude>
@@ -505294,7 +505294,7 @@
     <id>134867</id>
     <name>Shahrestān-e Fareydūnshahr</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.86667000</latitude>
@@ -505304,7 +505304,7 @@
     <id>134884</id>
     <name>Shahrestān-e Golpāyegān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.50000000</latitude>
@@ -505314,7 +505314,7 @@
     <id>134935</id>
     <name>Shahrestān-e Kāshān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.88333000</latitude>
@@ -505324,7 +505324,7 @@
     <id>134917</id>
     <name>Shahrestān-e Khomeynī Shahr</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.65000000</latitude>
@@ -505334,7 +505334,7 @@
     <id>134926</id>
     <name>Shahrestān-e Khūr va Bīābānak</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.76667000</latitude>
@@ -505344,7 +505344,7 @@
     <id>134923</id>
     <name>Shahrestān-e Khvānsār</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.25000000</latitude>
@@ -505354,7 +505354,7 @@
     <id>134942</id>
     <name>Shahrestān-e Lenjān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.36667000</latitude>
@@ -505364,7 +505364,7 @@
     <id>134965</id>
     <name>Shahrestān-e Mobārakeh</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.26667000</latitude>
@@ -505374,7 +505374,7 @@
     <id>134984</id>
     <name>Shahrestān-e Nā’īn</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.46664000</latitude>
@@ -505384,7 +505384,7 @@
     <id>134975</id>
     <name>Shahrestān-e Najafābād</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.93333000</latitude>
@@ -505394,7 +505394,7 @@
     <id>134979</id>
     <name>Shahrestān-e Naţanz</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.55000000</latitude>
@@ -505404,7 +505404,7 @@
     <id>135034</id>
     <name>Shahrestān-e Semīrom</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.30000000</latitude>
@@ -505414,7 +505414,7 @@
     <id>135043</id>
     <name>Shahrestān-e Shāhīn Shahr va Meymeh</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.28333000</latitude>
@@ -505424,7 +505424,7 @@
     <id>135037</id>
     <name>Shahrestān-e Shahreẕā</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.90000000</latitude>
@@ -505434,7 +505434,7 @@
     <id>135067</id>
     <name>Shahrestān-e Tīrān va Karvan</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.83333000</latitude>
@@ -505444,7 +505444,7 @@
     <id>135104</id>
     <name>Shahreẕā</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.00890000</latitude>
@@ -505454,7 +505454,7 @@
     <id>135136</id>
     <name>Tīrān</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.70260000</latitude>
@@ -505464,7 +505464,7 @@
     <id>135144</id>
     <name>Zarrīn Shahr</name>
     <state_id>3923</state_id>
-    <state_code>04</state_code>
+    <state_code>10</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.38970000</latitude>
@@ -505474,7 +505474,7 @@
     <id>134598</id>
     <name>Bāft</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.23310000</latitude>
@@ -505484,7 +505484,7 @@
     <id>134575</id>
     <name>Bam</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.06667000</latitude>
@@ -505494,7 +505494,7 @@
     <id>134582</id>
     <name>Bardsīr</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.92266000</latitude>
@@ -505504,7 +505504,7 @@
     <id>134667</id>
     <name>Kerman</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.28321000</latitude>
@@ -505514,7 +505514,7 @@
     <id>134686</id>
     <name>Kūh Sefīd</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.27620000</latitude>
@@ -505524,7 +505524,7 @@
     <id>134748</id>
     <name>Rafsanjān</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.40670000</latitude>
@@ -505534,7 +505534,7 @@
     <id>134759</id>
     <name>Rāvar</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.26562000</latitude>
@@ -505544,7 +505544,7 @@
     <id>134760</id>
     <name>Rīgān</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.43333000</latitude>
@@ -505554,7 +505554,7 @@
     <id>134776</id>
     <name>Shahr-e Bābak</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.11650000</latitude>
@@ -505564,7 +505564,7 @@
     <id>134781</id>
     <name>Shahrak-e Pābedānā</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.13444000</latitude>
@@ -505574,7 +505574,7 @@
     <id>135102</id>
     <name>Shahrestān-e ‘Anbarābād</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.43333000</latitude>
@@ -505584,7 +505584,7 @@
     <id>134791</id>
     <name>Shahrestān-e Anār</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.85000000</latitude>
@@ -505594,7 +505594,7 @@
     <id>134820</id>
     <name>Shahrestān-e Bāft</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.10000000</latitude>
@@ -505604,7 +505604,7 @@
     <id>134805</id>
     <name>Shahrestān-e Bardsīr</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.83333000</latitude>
@@ -505614,7 +505614,7 @@
     <id>134872</id>
     <name>Shahrestān-e Fāryāb</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.20000000</latitude>
@@ -505624,7 +505624,7 @@
     <id>134901</id>
     <name>Shahrestān-e Jīroft</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.83333000</latitude>
@@ -505634,7 +505634,7 @@
     <id>134903</id>
     <name>Shahrestān-e Kahnūj</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.90000000</latitude>
@@ -505644,7 +505644,7 @@
     <id>134909</id>
     <name>Shahrestān-e Kermān</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.33333000</latitude>
@@ -505654,7 +505654,7 @@
     <id>134938</id>
     <name>Shahrestān-e Kūhbanān</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.38333000</latitude>
@@ -505664,7 +505664,7 @@
     <id>134953</id>
     <name>Shahrestān-e Manūjān</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.35000000</latitude>
@@ -505674,7 +505674,7 @@
     <id>134977</id>
     <name>Shahrestān-e Narmāshīr</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.26667000</latitude>
@@ -505684,7 +505684,7 @@
     <id>134989</id>
     <name>Shahrestān-e Orzū‘īyeh</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.46667000</latitude>
@@ -505694,7 +505694,7 @@
     <id>135000</id>
     <name>Shahrestān-e Qal‘eh Ganj</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.20000000</latitude>
@@ -505704,7 +505704,7 @@
     <id>135012</id>
     <name>Shahrestān-e Rābor</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.25000000</latitude>
@@ -505714,7 +505714,7 @@
     <id>135007</id>
     <name>Shahrestān-e Rafsanjān</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.53333000</latitude>
@@ -505724,7 +505724,7 @@
     <id>135018</id>
     <name>Shahrestān-e Rūdbār-e Jonūbī</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.90000000</latitude>
@@ -505734,7 +505734,7 @@
     <id>135036</id>
     <name>Shahrestān-e Shahr-e Bābak</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.23333000</latitude>
@@ -505744,7 +505744,7 @@
     <id>135053</id>
     <name>Shahrestān-e Sīrjān</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.36667000</latitude>
@@ -505754,7 +505754,7 @@
     <id>135116</id>
     <name>Sirjan</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.45137000</latitude>
@@ -505764,7 +505764,7 @@
     <id>135143</id>
     <name>Zarand</name>
     <state_id>3943</state_id>
-    <state_code>15</state_code>
+    <state_code>08</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.81271000</latitude>
@@ -505774,7 +505774,7 @@
     <id>134652</id>
     <name>Harsīn</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.27210000</latitude>
@@ -505784,7 +505784,7 @@
     <id>134657</id>
     <name>Javānrūd</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.79611000</latitude>
@@ -505794,7 +505794,7 @@
     <id>134661</id>
     <name>Kahrīz</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.38380000</latitude>
@@ -505804,7 +505804,7 @@
     <id>134663</id>
     <name>Kangāvar</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.50430000</latitude>
@@ -505814,7 +505814,7 @@
     <id>134668</id>
     <name>Kermanshah</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.31417000</latitude>
@@ -505824,7 +505824,7 @@
     <id>134733</id>
     <name>Pāveh</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.04340000</latitude>
@@ -505834,7 +505834,7 @@
     <id>134770</id>
     <name>Sarpol-e Z̄ahāb</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.46109000</latitude>
@@ -505844,7 +505844,7 @@
     <id>134851</id>
     <name>Shahrestān-e Dālāhū</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.41667000</latitude>
@@ -505854,7 +505854,7 @@
     <id>134860</id>
     <name>Shahrestān-e Eslāmābād-e Gharb</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.05000000</latitude>
@@ -505864,7 +505864,7 @@
     <id>134890</id>
     <name>Shahrestān-e Gīlān-e Gharb</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.13333000</latitude>
@@ -505874,7 +505874,7 @@
     <id>134891</id>
     <name>Shahrestān-e Harsīn</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.35000000</latitude>
@@ -505884,7 +505884,7 @@
     <id>134896</id>
     <name>Shahrestān-e Javānrūd</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.86667000</latitude>
@@ -505894,7 +505894,7 @@
     <id>134907</id>
     <name>Shahrestān-e Kangāvar</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.48333000</latitude>
@@ -505904,7 +505904,7 @@
     <id>134910</id>
     <name>Shahrestān-e Kermānshāh</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.33333000</latitude>
@@ -505914,7 +505914,7 @@
     <id>134997</id>
     <name>Shahrestān-e Pāveh</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.05000000</latitude>
@@ -505924,7 +505924,7 @@
     <id>135002</id>
     <name>Shahrestān-e Qaşr-e Shīrīn</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.20000000</latitude>
@@ -505934,7 +505934,7 @@
     <id>135008</id>
     <name>Shahrestān-e Ravānsar</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.75000000</latitude>
@@ -505944,7 +505944,7 @@
     <id>135094</id>
     <name>Shahrestān-e Şaḩneh</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.58333000</latitude>
@@ -505954,7 +505954,7 @@
     <id>135056</id>
     <name>Shahrestān-e S̄alās̄-e Bābā Jānī</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.81667000</latitude>
@@ -505964,7 +505964,7 @@
     <id>135025</id>
     <name>Shahrestān-e Sarpol-e Z̄ahāb</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.50000000</latitude>
@@ -505974,7 +505974,7 @@
     <id>135120</id>
     <name>Sonqor</name>
     <state_id>3919</state_id>
-    <state_code>17</state_code>
+    <state_code>05</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.78187000</latitude>
@@ -505984,7 +505984,7 @@
     <id>134555</id>
     <name>Abadan</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.33920000</latitude>
@@ -505994,7 +505994,7 @@
     <id>134558</id>
     <name>Aghajari</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.70060000</latitude>
@@ -506004,7 +506004,7 @@
     <id>134561</id>
     <name>Ahvaz</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.31901000</latitude>
@@ -506014,7 +506014,7 @@
     <id>134599</id>
     <name>Bāgh Shahrestān-e Malek</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.50000000</latitude>
@@ -506024,7 +506024,7 @@
     <id>134584</id>
     <name>Behbahān</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.59590000</latitude>
@@ -506034,7 +506034,7 @@
     <id>134649</id>
     <name>Gotvand</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.21667000</latitude>
@@ -506044,7 +506044,7 @@
     <id>134650</id>
     <name>Hamidiyeh</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.48107000</latitude>
@@ -506054,7 +506054,7 @@
     <id>134658</id>
     <name>Jongīyeh</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.25583000</latitude>
@@ -506064,7 +506064,7 @@
     <id>134665</id>
     <name>Karun</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.27618000</latitude>
@@ -506074,7 +506074,7 @@
     <id>134675</id>
     <name>Khorramshahr</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.44079000</latitude>
@@ -506084,7 +506084,7 @@
     <id>134699</id>
     <name>Masjed Soleymān</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.93640000</latitude>
@@ -506094,7 +506094,7 @@
     <id>134723</id>
     <name>Omīdīyeh</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.76277000</latitude>
@@ -506104,7 +506104,7 @@
     <id>134757</id>
     <name>Rāmhormoz</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.27997000</latitude>
@@ -506114,7 +506114,7 @@
     <id>134758</id>
     <name>Rāmshīr</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.89315000</latitude>
@@ -506124,7 +506124,7 @@
     <id>135148</id>
     <name>sedeyen-e Yek</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.36205000</latitude>
@@ -506134,7 +506134,7 @@
     <id>135109</id>
     <name>Shādegān</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.64924000</latitude>
@@ -506144,7 +506144,7 @@
     <id>134780</id>
     <name>Shahrak-e Kūlūrī</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.35276000</latitude>
@@ -506154,7 +506154,7 @@
     <id>135080</id>
     <name>Shahrestān-e Ābādān</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.21667000</latitude>
@@ -506164,7 +506164,7 @@
     <id>134787</id>
     <name>Shahrestān-e Ahvāz</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.25000000</latitude>
@@ -506174,7 +506174,7 @@
     <id>134789</id>
     <name>Shahrestān-e Andīkā</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.16667000</latitude>
@@ -506184,7 +506184,7 @@
     <id>134790</id>
     <name>Shahrestān-e Andīmeshk</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.70000000</latitude>
@@ -506194,7 +506194,7 @@
     <id>134804</id>
     <name>Shahrestān-e Bandar-e Māhshahr</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.63333000</latitude>
@@ -506204,7 +506204,7 @@
     <id>134824</id>
     <name>Shahrestān-e Bāvī</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.50000000</latitude>
@@ -506214,7 +506214,7 @@
     <id>134808</id>
     <name>Shahrestān-e Behbahān</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.56667000</latitude>
@@ -506224,7 +506224,7 @@
     <id>134843</id>
     <name>Shahrestān-e Dasht-e Āzādegān</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.70000000</latitude>
@@ -506234,7 +506234,7 @@
     <id>134850</id>
     <name>Shahrestān-e Dezfūl</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.56667000</latitude>
@@ -506244,7 +506244,7 @@
     <id>134893</id>
     <name>Shahrestān-e Hendījān</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.33333000</latitude>
@@ -506254,7 +506254,7 @@
     <id>135093</id>
     <name>Shahrestān-e Īz̄eh</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.91667000</latitude>
@@ -506264,7 +506264,7 @@
     <id>134945</id>
     <name>Shahrestān-e Lālī</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.41667000</latitude>
@@ -506274,7 +506274,7 @@
     <id>134957</id>
     <name>Shahrestān-e Masjed Soleymān</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.98333000</latitude>
@@ -506284,7 +506284,7 @@
     <id>134988</id>
     <name>Shahrestān-e Omīdīyeh</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.75000000</latitude>
@@ -506294,7 +506294,7 @@
     <id>135013</id>
     <name>Shahrestān-e Rāmhormoz</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.21667000</latitude>
@@ -506304,7 +506304,7 @@
     <id>135015</id>
     <name>Shahrestān-e Rāmshīr</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.96667000</latitude>
@@ -506314,7 +506314,7 @@
     <id>135040</id>
     <name>Shahrestān-e Shādegān</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.66667000</latitude>
@@ -506324,7 +506324,7 @@
     <id>135047</id>
     <name>Shahrestān-e Shūsh</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.03333000</latitude>
@@ -506334,7 +506334,7 @@
     <id>135048</id>
     <name>Shahrestān-e Shūshtar</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.90000000</latitude>
@@ -506344,7 +506344,7 @@
     <id>135113</id>
     <name>Shūsh</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.19420000</latitude>
@@ -506354,7 +506354,7 @@
     <id>135114</id>
     <name>Shūshtar</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.04972000</latitude>
@@ -506364,7 +506364,7 @@
     <id>135122</id>
     <name>Sūsangerd</name>
     <state_id>3917</state_id>
-    <state_code>10</state_code>
+    <state_code>06</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.56350000</latitude>
@@ -506374,7 +506374,7 @@
     <id>134616</id>
     <name>Dehdasht</name>
     <state_id>3926</state_id>
-    <state_code>18</state_code>
+    <state_code>17</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.79490000</latitude>
@@ -506384,7 +506384,7 @@
     <id>134622</id>
     <name>Dogonbadan</name>
     <state_id>3926</state_id>
-    <state_code>18</state_code>
+    <state_code>17</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.35860000</latitude>
@@ -506394,7 +506394,7 @@
     <id>134688</id>
     <name>Landeh</name>
     <state_id>3926</state_id>
-    <state_code>18</state_code>
+    <state_code>17</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.97994000</latitude>
@@ -506404,7 +506404,7 @@
     <id>134799</id>
     <name>Shahrestān-e Bahma’ī</name>
     <state_id>3926</state_id>
-    <state_code>18</state_code>
+    <state_code>17</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.05000000</latitude>
@@ -506414,7 +506414,7 @@
     <id>134823</id>
     <name>Shahrestān-e Bāsht</name>
     <state_id>3926</state_id>
-    <state_code>18</state_code>
+    <state_code>17</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.45000000</latitude>
@@ -506424,7 +506424,7 @@
     <id>134816</id>
     <name>Shahrestān-e Bowyer Aḩmad</name>
     <state_id>3926</state_id>
-    <state_code>18</state_code>
+    <state_code>17</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.78333000</latitude>
@@ -506434,7 +506434,7 @@
     <id>134832</id>
     <name>Shahrestān-e Charām</name>
     <state_id>3926</state_id>
-    <state_code>18</state_code>
+    <state_code>17</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.76667000</latitude>
@@ -506444,7 +506444,7 @@
     <id>134841</id>
     <name>Shahrestān-e Danā</name>
     <state_id>3926</state_id>
-    <state_code>18</state_code>
+    <state_code>17</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.95000000</latitude>
@@ -506454,7 +506454,7 @@
     <id>134878</id>
     <name>Shahrestān-e Gachsārān</name>
     <state_id>3926</state_id>
-    <state_code>18</state_code>
+    <state_code>17</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.33333000</latitude>
@@ -506464,7 +506464,7 @@
     <id>134928</id>
     <name>Shahrestān-e Kohgīlūyeh</name>
     <state_id>3926</state_id>
-    <state_code>18</state_code>
+    <state_code>17</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.03333000</latitude>
@@ -506474,7 +506474,7 @@
     <id>135139</id>
     <name>Yasuj</name>
     <state_id>3926</state_id>
-    <state_code>18</state_code>
+    <state_code>17</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.66824000</latitude>
@@ -506484,7 +506484,7 @@
     <id>134600</id>
     <name>Bāneh</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.99750000</latitude>
@@ -506494,7 +506494,7 @@
     <id>134601</id>
     <name>Bījār</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.86680000</latitude>
@@ -506504,7 +506504,7 @@
     <id>134682</id>
     <name>Kāmyārān</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.79560000</latitude>
@@ -506514,7 +506514,7 @@
     <id>134697</id>
     <name>Marīvān</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.51829000</latitude>
@@ -506524,7 +506524,7 @@
     <id>134745</id>
     <name>Qorveh</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.16640000</latitude>
@@ -506534,7 +506534,7 @@
     <id>134765</id>
     <name>Sanandaj</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.31495000</latitude>
@@ -506544,7 +506544,7 @@
     <id>134766</id>
     <name>Saqqez</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.24992000</latitude>
@@ -506554,7 +506554,7 @@
     <id>134822</id>
     <name>Shahrestān-e Bāneh</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.98333000</latitude>
@@ -506564,7 +506564,7 @@
     <id>134825</id>
     <name>Shahrestān-e Bījār</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.86667000</latitude>
@@ -506574,7 +506574,7 @@
     <id>134846</id>
     <name>Shahrestān-e Dehgolān</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.35000000</latitude>
@@ -506584,7 +506584,7 @@
     <id>134854</id>
     <name>Shahrestān-e Dīvāndarreh</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.91667000</latitude>
@@ -506594,7 +506594,7 @@
     <id>134933</id>
     <name>Shahrestān-e Kāmyārān</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.91667000</latitude>
@@ -506604,7 +506604,7 @@
     <id>134956</id>
     <name>Shahrestān-e Marīvān</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.56667000</latitude>
@@ -506614,7 +506614,7 @@
     <id>135027</id>
     <name>Shahrestān-e Sarvābād</name>
     <state_id>3935</state_id>
-    <state_code>16</state_code>
+    <state_code>12</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.25000000</latitude>
@@ -506624,7 +506624,7 @@
     <id>134564</id>
     <name>Aleshtar</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.86419000</latitude>
@@ -506634,7 +506634,7 @@
     <id>134567</id>
     <name>Alīgūdarz</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.40400000</latitude>
@@ -506644,7 +506644,7 @@
     <id>134573</id>
     <name>Aznā</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.45643000</latitude>
@@ -506654,7 +506654,7 @@
     <id>134591</id>
     <name>Borūjerd</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.89730000</latitude>
@@ -506664,7 +506664,7 @@
     <id>134619</id>
     <name>Delfan</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.05000000</latitude>
@@ -506674,7 +506674,7 @@
     <id>134673</id>
     <name>Khorramabad</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.48778000</latitude>
@@ -506684,7 +506684,7 @@
     <id>134687</id>
     <name>Kūhdasht</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.53335000</latitude>
@@ -506694,7 +506694,7 @@
     <id>134720</id>
     <name>Nūrābād</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.07340000</latitude>
@@ -506704,7 +506704,7 @@
     <id>134728</id>
     <name>Pol-e Dokhtar</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.16667000</latitude>
@@ -506714,7 +506714,7 @@
     <id>134756</id>
     <name>Rumeshkhan County</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.27960000</latitude>
@@ -506724,7 +506724,7 @@
     <id>134773</id>
     <name>Selseleh</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.83333000</latitude>
@@ -506734,7 +506734,7 @@
     <id>134788</id>
     <name>Shahrestān-e Alīgūdarz</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.08333000</latitude>
@@ -506744,7 +506744,7 @@
     <id>134798</id>
     <name>Shahrestān-e Aznā</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.46667000</latitude>
@@ -506754,7 +506754,7 @@
     <id>134814</id>
     <name>Shahrestān-e Borūjerd</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.88333000</latitude>
@@ -506764,7 +506764,7 @@
     <id>134855</id>
     <name>Shahrestān-e Dūreh</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.61667000</latitude>
@@ -506774,7 +506774,7 @@
     <id>134920</id>
     <name>Shahrestān-e Khorramābād</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.38333000</latitude>
@@ -506784,7 +506784,7 @@
     <id>134939</id>
     <name>Shahrestān-e Kūhdasht</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.51667000</latitude>
@@ -506794,7 +506794,7 @@
     <id>135138</id>
     <name>Vasīān</name>
     <state_id>3928</state_id>
-    <state_code>20</state_code>
+    <state_code>15</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.49083000</latitude>
@@ -506804,7 +506804,7 @@
     <id>135150</id>
     <name>Ābyek</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.06667000</latitude>
@@ -506814,7 +506814,7 @@
     <id>134571</id>
     <name>Arāk</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.09493000</latitude>
@@ -506824,7 +506824,7 @@
     <id>134620</id>
     <name>Delījān</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.99050000</latitude>
@@ -506834,7 +506834,7 @@
     <id>134671</id>
     <name>Khomeyn</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.63889000</latitude>
@@ -506844,7 +506844,7 @@
     <id>134681</id>
     <name>Komījān</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.72142000</latitude>
@@ -506854,7 +506854,7 @@
     <id>135121</id>
     <name>Sāveh</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.02130000</latitude>
@@ -506864,7 +506864,7 @@
     <id>134796</id>
     <name>Shahrestān-e Arāk</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.13333000</latitude>
@@ -506874,7 +506874,7 @@
     <id>135085</id>
     <name>Shahrestān-e Āshtīān</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.45000000</latitude>
@@ -506884,7 +506884,7 @@
     <id>134849</id>
     <name>Shahrestān-e Delījān</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.03333000</latitude>
@@ -506894,7 +506894,7 @@
     <id>134865</id>
     <name>Shahrestān-e Farahān</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.60000000</latitude>
@@ -506904,7 +506904,7 @@
     <id>134918</id>
     <name>Shahrestān-e Khondāb</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.36667000</latitude>
@@ -506914,7 +506914,7 @@
     <id>134929</id>
     <name>Shahrestān-e Komījān</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.76667000</latitude>
@@ -506924,7 +506924,7 @@
     <id>134959</id>
     <name>Shahrestān-e Maḩallāt</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.91667000</latitude>
@@ -506934,7 +506934,7 @@
     <id>135050</id>
     <name>Shahrestān-e Sāveh</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.10000000</latitude>
@@ -506944,7 +506944,7 @@
     <id>135044</id>
     <name>Shahrestān-e Shāzand</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.90000000</latitude>
@@ -506954,7 +506954,7 @@
     <id>135072</id>
     <name>Shahrestān-e Zarandīyeh</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.36667000</latitude>
@@ -506964,7 +506964,7 @@
     <id>135126</id>
     <name>Tafresh</name>
     <state_id>3916</state_id>
-    <state_code>22</state_code>
+    <state_code>00</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.69307000</latitude>
@@ -506974,7 +506974,7 @@
     <id>135152</id>
     <name>Āmol</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.46961000</latitude>
@@ -506984,7 +506984,7 @@
     <id>134595</id>
     <name>Bābol</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.55132000</latitude>
@@ -506994,7 +506994,7 @@
     <id>134596</id>
     <name>Bābolsar</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.70251000</latitude>
@@ -507004,7 +507004,7 @@
     <id>134585</id>
     <name>Behshahr</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.69235000</latitude>
@@ -507014,7 +507014,7 @@
     <id>134610</id>
     <name>Chālūs</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.65500000</latitude>
@@ -507024,7 +507024,7 @@
     <id>134640</id>
     <name>Fereydūnkenār</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.68642000</latitude>
@@ -507034,7 +507034,7 @@
     <id>134660</id>
     <name>Jūybār</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.64115000</latitude>
@@ -507044,7 +507044,7 @@
     <id>134709</id>
     <name>Nashtārūd</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.75090000</latitude>
@@ -507054,7 +507054,7 @@
     <id>134712</id>
     <name>Nekā</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.65079000</latitude>
@@ -507064,7 +507064,7 @@
     <id>134716</id>
     <name>Nowshahr</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.64852000</latitude>
@@ -507074,7 +507074,7 @@
     <id>134769</id>
     <name>Sari</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.56332000</latitude>
@@ -507084,7 +507084,7 @@
     <id>134772</id>
     <name>Savadkuh-e Shomali</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.97765000</latitude>
@@ -507094,7 +507094,7 @@
     <id>135099</id>
     <name>Shahrestān-e ‘Abbāsābād</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.63333000</latitude>
@@ -507104,7 +507104,7 @@
     <id>135081</id>
     <name>Shahrestān-e Āmol</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.20000000</latitude>
@@ -507114,7 +507114,7 @@
     <id>134817</id>
     <name>Shahrestān-e Bābol</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.31667000</latitude>
@@ -507124,7 +507124,7 @@
     <id>134818</id>
     <name>Shahrestān-e Bābolsar</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.66667000</latitude>
@@ -507134,7 +507134,7 @@
     <id>134837</id>
     <name>Shahrestān-e Chālūs</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.45000000</latitude>
@@ -507144,7 +507144,7 @@
     <id>134866</id>
     <name>Shahrestān-e Fareydūnkenār</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.63333000</latitude>
@@ -507154,7 +507154,7 @@
     <id>134879</id>
     <name>Shahrestān-e Galūgāh</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.71667000</latitude>
@@ -507164,7 +507164,7 @@
     <id>134902</id>
     <name>Shahrestān-e Jūybār</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.66667000</latitude>
@@ -507174,7 +507174,7 @@
     <id>134784</id>
     <name>Shahrestan-e Kalār Dasht</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.45000000</latitude>
@@ -507184,7 +507184,7 @@
     <id>134960</id>
     <name>Shahrestān-e Maḩmūdābād</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.60000000</latitude>
@@ -507194,7 +507194,7 @@
     <id>134972</id>
     <name>Shahrestān-e Mīāndorūd</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.58333000</latitude>
@@ -507204,7 +507204,7 @@
     <id>134981</id>
     <name>Shahrestān-e Nekā</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.51667000</latitude>
@@ -507214,7 +507214,7 @@
     <id>134987</id>
     <name>Shahrestān-e Nūr</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.31667000</latitude>
@@ -507224,7 +507224,7 @@
     <id>135003</id>
     <name>Shahrestān-e Qā’em Shahr</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.48333000</latitude>
@@ -507234,7 +507234,7 @@
     <id>135014</id>
     <name>Shahrestān-e Rāmsar</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.76667000</latitude>
@@ -507244,7 +507244,7 @@
     <id>135049</id>
     <name>Shahrestān-e Sārī</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.33333000</latitude>
@@ -507254,7 +507254,7 @@
     <id>135032</id>
     <name>Shahrestān-e Savādkūh</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.08333000</latitude>
@@ -507264,7 +507264,7 @@
     <id>135061</id>
     <name>Shahrestān-e Tonekābon</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.63333000</latitude>
@@ -507274,7 +507274,7 @@
     <id>135115</id>
     <name>Simorgh County</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.57914000</latitude>
@@ -507284,7 +507284,7 @@
     <id>135130</id>
     <name>Tonekābon</name>
     <state_id>3938</state_id>
-    <state_code>21</state_code>
+    <state_code>02</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.81626000</latitude>
@@ -507294,7 +507294,7 @@
     <id>134587</id>
     <name>Bojnūrd</name>
     <state_id>3942</state_id>
-    <state_code>31</state_code>
+    <state_code>28</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.47473000</latitude>
@@ -507304,7 +507304,7 @@
     <id>134630</id>
     <name>Esfarāyen</name>
     <state_id>3942</state_id>
-    <state_code>31</state_code>
+    <state_code>28</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.07645000</latitude>
@@ -507314,7 +507314,7 @@
     <id>134750</id>
     <name>Raz and Jargalan</name>
     <state_id>3942</state_id>
-    <state_code>31</state_code>
+    <state_code>28</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.93060000</latitude>
@@ -507324,7 +507324,7 @@
     <id>134810</id>
     <name>Shahrestān-e Bojnūrd</name>
     <state_id>3942</state_id>
-    <state_code>31</state_code>
+    <state_code>28</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.83333000</latitude>
@@ -507334,7 +507334,7 @@
     <id>134857</id>
     <name>Shahrestān-e Esfarāyen</name>
     <state_id>3942</state_id>
-    <state_code>31</state_code>
+    <state_code>28</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.00000000</latitude>
@@ -507344,7 +507344,7 @@
     <id>134873</id>
     <name>Shahrestān-e Fārūj</name>
     <state_id>3942</state_id>
-    <state_code>31</state_code>
+    <state_code>28</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.21667000</latitude>
@@ -507354,7 +507354,7 @@
     <id>134899</id>
     <name>Shahrestān-e Jājarm</name>
     <state_id>3942</state_id>
-    <state_code>31</state_code>
+    <state_code>28</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.01667000</latitude>
@@ -507364,7 +507364,7 @@
     <id>134968</id>
     <name>Shahrestān-e Māneh va Samalqān</name>
     <state_id>3942</state_id>
-    <state_code>31</state_code>
+    <state_code>28</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.70000000</latitude>
@@ -507374,7 +507374,7 @@
     <id>135045</id>
     <name>Shahrestān-e Shīrvān</name>
     <state_id>3942</state_id>
-    <state_code>31</state_code>
+    <state_code>28</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.53333000</latitude>
@@ -507384,7 +507384,7 @@
     <id>135112</id>
     <name>Shīrvān</name>
     <state_id>3942</state_id>
-    <state_code>31</state_code>
+    <state_code>28</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.39669000</latitude>
@@ -507394,7 +507394,7 @@
     <id>134563</id>
     <name>Alborz</name>
     <state_id>3941</state_id>
-    <state_code>28</state_code>
+    <state_code>26</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.18861000</latitude>
@@ -507404,7 +507404,7 @@
     <id>134565</id>
     <name>Alvand</name>
     <state_id>3941</state_id>
-    <state_code>28</state_code>
+    <state_code>26</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.18930000</latitude>
@@ -507414,7 +507414,7 @@
     <id>134572</id>
     <name>Avaj</name>
     <state_id>3941</state_id>
-    <state_code>28</state_code>
+    <state_code>26</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.57685000</latitude>
@@ -507424,7 +507424,7 @@
     <id>134740</id>
     <name>Qazvin</name>
     <state_id>3941</state_id>
-    <state_code>28</state_code>
+    <state_code>26</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.26877000</latitude>
@@ -507434,7 +507434,7 @@
     <id>134831</id>
     <name>Shahrestān-e Bū’īn Zahrā</name>
     <state_id>3941</state_id>
-    <state_code>28</state_code>
+    <state_code>26</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.61667000</latitude>
@@ -507444,7 +507444,7 @@
     <id>135001</id>
     <name>Shahrestān-e Qazvīn</name>
     <state_id>3941</state_id>
-    <state_code>28</state_code>
+    <state_code>26</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.43333000</latitude>
@@ -507454,7 +507454,7 @@
     <id>135064</id>
     <name>Shahrestān-e Tākestān</name>
     <state_id>3941</state_id>
-    <state_code>28</state_code>
+    <state_code>26</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.00000000</latitude>
@@ -507464,7 +507464,7 @@
     <id>135134</id>
     <name>Tākestān</name>
     <state_id>3941</state_id>
-    <state_code>28</state_code>
+    <state_code>26</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.07057000</latitude>
@@ -507474,7 +507474,7 @@
     <id>134744</id>
     <name>Qom</name>
     <state_id>3922</state_id>
-    <state_code>26</state_code>
+    <state_code>25</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.64010000</latitude>
@@ -507484,7 +507484,7 @@
     <id>134581</id>
     <name>Bardaskan</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.26667000</latitude>
@@ -507494,7 +507494,7 @@
     <id>134608</id>
     <name>Chenārān</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.64546000</latitude>
@@ -507504,7 +507504,7 @@
     <id>134613</id>
     <name>Dargaz</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.33333000</latitude>
@@ -507514,7 +507514,7 @@
     <id>134628</id>
     <name>Dāvarzan</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.33333000</latitude>
@@ -507524,7 +507524,7 @@
     <id>134647</id>
     <name>Gonābād</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.35287000</latitude>
@@ -507534,7 +507534,7 @@
     <id>134659</id>
     <name>Joveyn</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.58333000</latitude>
@@ -507544,7 +507544,7 @@
     <id>134683</id>
     <name>Kāshmar</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.23831000</latitude>
@@ -507554,7 +507554,7 @@
     <id>134698</id>
     <name>Mashhad</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.31559000</latitude>
@@ -507564,7 +507564,7 @@
     <id>134714</id>
     <name>Neyshābūr</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.21329000</latitude>
@@ -507574,7 +507574,7 @@
     <id>134747</id>
     <name>Qūchān</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.10600000</latitude>
@@ -507584,7 +507584,7 @@
     <id>134762</id>
     <name>Sabzevar</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.21260000</latitude>
@@ -507594,7 +507594,7 @@
     <id>134767</id>
     <name>Sarakhs</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.54490000</latitude>
@@ -507604,7 +507604,7 @@
     <id>134801</id>
     <name>Shahrestān-e Bajestān</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.58333000</latitude>
@@ -507614,7 +507614,7 @@
     <id>134821</id>
     <name>Shahrestān-e Bākharz</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.01667000</latitude>
@@ -507624,7 +507624,7 @@
     <id>134827</id>
     <name>Shahrestān-e Bīnālūd</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.26667000</latitude>
@@ -507634,7 +507634,7 @@
     <id>134833</id>
     <name>Shahrestān-e Chenārān</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.66667000</latitude>
@@ -507644,7 +507644,7 @@
     <id>134869</id>
     <name>Shahrestān-e Farīmān</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.70000000</latitude>
@@ -507654,7 +507654,7 @@
     <id>134874</id>
     <name>Shahrestān-e Fīrūzeh</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.30000000</latitude>
@@ -507664,7 +507664,7 @@
     <id>134887</id>
     <name>Shahrestān-e Gonābād</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.38333000</latitude>
@@ -507674,7 +507674,7 @@
     <id>134897</id>
     <name>Shahrestān-e Joghatāy</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.66667000</latitude>
@@ -507684,7 +507684,7 @@
     <id>134905</id>
     <name>Shahrestān-e Kalāt</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.90000000</latitude>
@@ -507694,7 +507694,7 @@
     <id>134934</id>
     <name>Shahrestān-e Kāshmar</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.43333000</latitude>
@@ -507704,7 +507704,7 @@
     <id>134912</id>
     <name>Shahrestān-e Khalīlābād</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.11667000</latitude>
@@ -507714,7 +507714,7 @@
     <id>134921</id>
     <name>Shahrestān-e Khowshāb</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.43333000</latitude>
@@ -507724,7 +507724,7 @@
     <id>134922</id>
     <name>Shahrestān-e Khvāf</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.50000000</latitude>
@@ -507734,7 +507734,7 @@
     <id>134948</id>
     <name>Shahrestān-e Mah Velāt</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.98333000</latitude>
@@ -507744,7 +507744,7 @@
     <id>134983</id>
     <name>Shahrestān-e Neyshābūr</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.21667000</latitude>
@@ -507754,7 +507754,7 @@
     <id>135006</id>
     <name>Shahrestān-e Qūchān</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.06667000</latitude>
@@ -507764,7 +507764,7 @@
     <id>135011</id>
     <name>Shahrestān-e Roshtkhvār</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.91667000</latitude>
@@ -507774,7 +507774,7 @@
     <id>135021</id>
     <name>Shahrestān-e Sabzevār</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.01667000</latitude>
@@ -507784,7 +507784,7 @@
     <id>135066</id>
     <name>Shahrestān-e Tāybād</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.73333000</latitude>
@@ -507794,7 +507794,7 @@
     <id>135063</id>
     <name>Shahrestān-e Torbat-e Ḩeydarīyeh</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.46667000</latitude>
@@ -507804,7 +507804,7 @@
     <id>135062</id>
     <name>Shahrestān-e Torbat-e Jām</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.46667000</latitude>
@@ -507814,7 +507814,7 @@
     <id>135076</id>
     <name>Shahrestān-e Zāveh</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.28333000</latitude>
@@ -507824,7 +507824,7 @@
     <id>135135</id>
     <name>Tāybād</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.74000000</latitude>
@@ -507834,7 +507834,7 @@
     <id>135132</id>
     <name>Torbat-e Ḩeydarīyeh</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.27401000</latitude>
@@ -507844,7 +507844,7 @@
     <id>135131</id>
     <name>Torbat-e Jām</name>
     <state_id>3927</state_id>
-    <state_code>30</state_code>
+    <state_code>09</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.24400000</latitude>
@@ -507854,7 +507854,7 @@
     <id>134625</id>
     <name>Dāmghān</name>
     <state_id>3940</state_id>
-    <state_code>12</state_code>
+    <state_code>20</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.16790000</latitude>
@@ -507864,7 +507864,7 @@
     <id>135158</id>
     <name>Īstgāh-e Rāh Āhan-e Garmsār</name>
     <state_id>3940</state_id>
-    <state_code>12</state_code>
+    <state_code>20</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.23455000</latitude>
@@ -507874,7 +507874,7 @@
     <id>134690</id>
     <name>Mahdishahr</name>
     <state_id>3940</state_id>
-    <state_code>12</state_code>
+    <state_code>20</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.70806000</latitude>
@@ -507884,7 +507884,7 @@
     <id>134774</id>
     <name>Semnan</name>
     <state_id>3940</state_id>
-    <state_code>12</state_code>
+    <state_code>20</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.57691000</latitude>
@@ -507894,7 +507894,7 @@
     <id>135083</id>
     <name>Shahrestān-e Ārādān</name>
     <state_id>3940</state_id>
-    <state_code>12</state_code>
+    <state_code>20</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.90000000</latitude>
@@ -507904,7 +507904,7 @@
     <id>134852</id>
     <name>Shahrestān-e Dāmghān</name>
     <state_id>3940</state_id>
-    <state_code>12</state_code>
+    <state_code>20</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.50000000</latitude>
@@ -507914,7 +507914,7 @@
     <id>134880</id>
     <name>Shahrestān-e Garmsār</name>
     <state_id>3940</state_id>
-    <state_code>12</state_code>
+    <state_code>20</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>34.96362000</latitude>
@@ -507924,7 +507924,7 @@
     <id>134958</id>
     <name>Shahrestān-e Mayāmey</name>
     <state_id>3940</state_id>
-    <state_code>12</state_code>
+    <state_code>20</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.63333000</latitude>
@@ -507934,7 +507934,7 @@
     <id>135033</id>
     <name>Shahrestān-e Semnān</name>
     <state_id>3940</state_id>
-    <state_code>12</state_code>
+    <state_code>20</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.11667000</latitude>
@@ -507944,7 +507944,7 @@
     <id>135041</id>
     <name>Shahrestān-e Shāhrūd</name>
     <state_id>3940</state_id>
-    <state_code>12</state_code>
+    <state_code>20</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.50000000</latitude>
@@ -507954,7 +507954,7 @@
     <id>135105</id>
     <name>Shahrud</name>
     <state_id>3940</state_id>
-    <state_code>12</state_code>
+    <state_code>20</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.41819000</latitude>
@@ -507964,7 +507964,7 @@
     <id>134605</id>
     <name>Chabahar</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>25.29190000</latitude>
@@ -507974,7 +507974,7 @@
     <id>134633</id>
     <name>Fannūj</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.57583000</latitude>
@@ -507984,7 +507984,7 @@
     <id>134634</id>
     <name>Fanuj</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.57468000</latitude>
@@ -507994,7 +507994,7 @@
     <id>134651</id>
     <name>Hamoon</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.93686000</latitude>
@@ -508004,7 +508004,7 @@
     <id>134655</id>
     <name>Iranshahr</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.20245000</latitude>
@@ -508014,7 +508014,7 @@
     <id>134679</id>
     <name>Khāsh</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.22107000</latitude>
@@ -508024,7 +508024,7 @@
     <id>134702</id>
     <name>Mirjaveh</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.01752000</latitude>
@@ -508034,7 +508034,7 @@
     <id>134719</id>
     <name>Nīkshahr</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.22580000</latitude>
@@ -508044,7 +508044,7 @@
     <id>134715</id>
     <name>Nimruz</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.10333000</latitude>
@@ -508054,7 +508054,7 @@
     <id>134717</id>
     <name>Noşratābād</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.90000000</latitude>
@@ -508064,7 +508064,7 @@
     <id>134739</id>
     <name>Qaser-e Qand</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.22693000</latitude>
@@ -508074,7 +508074,7 @@
     <id>134741</id>
     <name>Qaşr-e Qand</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.24833000</latitude>
@@ -508084,7 +508084,7 @@
     <id>134834</id>
     <name>Shahrestān-e Chābahār</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>25.56832000</latitude>
@@ -508094,7 +508094,7 @@
     <id>134839</id>
     <name>Shahrestān-e Dalgān</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.31667000</latitude>
@@ -508104,7 +508104,7 @@
     <id>134895</id>
     <name>Shahrestān-e Hīrmand</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.25000000</latitude>
@@ -508114,7 +508114,7 @@
     <id>135092</id>
     <name>Shahrestān-e Īrānshahr</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.61945000</latitude>
@@ -508124,7 +508124,7 @@
     <id>134924</id>
     <name>Shahrestān-e Khāsh</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>28.21667000</latitude>
@@ -508134,7 +508134,7 @@
     <id>134930</id>
     <name>Shahrestān-e Konārak</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>25.55000000</latitude>
@@ -508144,7 +508144,7 @@
     <id>134961</id>
     <name>Shahrestān-e Mehrestān</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.05000000</latitude>
@@ -508154,7 +508154,7 @@
     <id>134985</id>
     <name>Shahrestān-e Nīkshahr</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.25000000</latitude>
@@ -508164,7 +508164,7 @@
     <id>135029</id>
     <name>Shahrestān-e Sarāvān</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.32351000</latitude>
@@ -508174,7 +508174,7 @@
     <id>135023</id>
     <name>Shahrestān-e Sarbāz</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>26.43393000</latitude>
@@ -508184,7 +508184,7 @@
     <id>135052</id>
     <name>Shahrestān-e Sīb va Sūrān</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>27.33333000</latitude>
@@ -508194,7 +508194,7 @@
     <id>135074</id>
     <name>Shahrestān-e Zābol</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.85431000</latitude>
@@ -508204,7 +508204,7 @@
     <id>135075</id>
     <name>Shahrestān-e Zāhedān</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.48002000</latitude>
@@ -508214,7 +508214,7 @@
     <id>135147</id>
     <name>Zābol</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.03060000</latitude>
@@ -508224,7 +508224,7 @@
     <id>135141</id>
     <name>Zahedan</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>29.49630000</latitude>
@@ -508234,7 +508234,7 @@
     <id>135145</id>
     <name>Zehak</name>
     <state_id>3931</state_id>
-    <state_code>13</state_code>
+    <state_code>11</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.86667000</latitude>
@@ -508364,7 +508364,7 @@
     <id>134612</id>
     <name>Damāvand</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.71842000</latitude>
@@ -508374,7 +508374,7 @@
     <id>134629</id>
     <name>Eqbālīyeh</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.30220000</latitude>
@@ -508384,7 +508384,7 @@
     <id>134631</id>
     <name>Eslāmshahr</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.55222000</latitude>
@@ -508394,7 +508394,7 @@
     <id>134693</id>
     <name>Malārd</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.66590000</latitude>
@@ -508404,7 +508404,7 @@
     <id>134726</id>
     <name>Pardis</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.74169000</latitude>
@@ -508414,7 +508414,7 @@
     <id>134734</id>
     <name>Pīshvā</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.30800000</latitude>
@@ -508424,7 +508424,7 @@
     <id>134737</id>
     <name>Qarchak</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.42867000</latitude>
@@ -508434,7 +508434,7 @@
     <id>134743</id>
     <name>Qods</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.71667000</latitude>
@@ -508444,7 +508444,7 @@
     <id>134752</id>
     <name>Rey</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.37448000</latitude>
@@ -508454,7 +508454,7 @@
     <id>134754</id>
     <name>Robāţ Karīm</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.48460000</latitude>
@@ -508464,7 +508464,7 @@
     <id>134779</id>
     <name>Shahrak-e Emām Ḩasan</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.48846000</latitude>
@@ -508474,7 +508474,7 @@
     <id>134782</id>
     <name>Shahre Jadide Andisheh</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.68030000</latitude>
@@ -508484,7 +508484,7 @@
     <id>134800</id>
     <name>Shahrestān-e Bahārestān</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.53333000</latitude>
@@ -508494,7 +508494,7 @@
     <id>134840</id>
     <name>Shahrestān-e Damāvand</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.63005000</latitude>
@@ -508504,7 +508504,7 @@
     <id>134859</id>
     <name>Shahrestān-e Eslāmshahr</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.58333000</latitude>
@@ -508514,7 +508514,7 @@
     <id>134875</id>
     <name>Shahrestān-e Fīrūzkūh</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.72852000</latitude>
@@ -508524,7 +508524,7 @@
     <id>134952</id>
     <name>Shahrestān-e Malārd</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.63333000</latitude>
@@ -508534,7 +508534,7 @@
     <id>134993</id>
     <name>Shahrestān-e Pākdasht</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.49448000</latitude>
@@ -508544,7 +508544,7 @@
     <id>134999</id>
     <name>Shahrestān-e Pīshvā</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.35000000</latitude>
@@ -508554,7 +508554,7 @@
     <id>135010</id>
     <name>Shahrestān-e Robāţ Karīm</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.52115000</latitude>
@@ -508564,7 +508564,7 @@
     <id>135038</id>
     <name>Shahrestān-e Shahrīār</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.62828000</latitude>
@@ -508574,7 +508574,7 @@
     <id>135039</id>
     <name>Shahrestān-e Shemīrānāt</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.93141000</latitude>
@@ -508584,7 +508584,7 @@
     <id>135060</id>
     <name>Shahrestān-e Tehrān</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.71006000</latitude>
@@ -508594,7 +508594,7 @@
     <id>135069</id>
     <name>Shahrestān-e Varāmīn</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.33081000</latitude>
@@ -508604,7 +508604,7 @@
     <id>135106</id>
     <name>Shahrīār</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.65884000</latitude>
@@ -508614,7 +508614,7 @@
     <id>135107</id>
     <name>Sharīfābād</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.42750000</latitude>
@@ -508624,7 +508624,7 @@
     <id>135118</id>
     <name>Soleh Bon</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.76841000</latitude>
@@ -508634,7 +508634,7 @@
     <id>135159</id>
     <name>Ţāleb ābād</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.50130000</latitude>
@@ -508644,7 +508644,7 @@
     <id>135129</id>
     <name>Tehran</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.69439000</latitude>
@@ -508654,7 +508654,7 @@
     <id>135137</id>
     <name>Varāmīn</name>
     <state_id>3945</state_id>
-    <state_code>07</state_code>
+    <state_code>23</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>35.32420000</latitude>
@@ -508664,7 +508664,7 @@
     <id>134604</id>
     <name>Būkān</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.52100000</latitude>
@@ -508674,7 +508674,7 @@
     <id>134611</id>
     <name>Chāypāreh</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.86667000</latitude>
@@ -508684,7 +508684,7 @@
     <id>134676</id>
     <name>Khowy</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.55030000</latitude>
@@ -508694,7 +508694,7 @@
     <id>134692</id>
     <name>Mahābād</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.76310000</latitude>
@@ -508704,7 +508704,7 @@
     <id>134706</id>
     <name>Mīāndoāb</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.96667000</latitude>
@@ -508714,7 +508714,7 @@
     <id>134708</id>
     <name>Naqadeh</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.95530000</latitude>
@@ -508724,7 +508724,7 @@
     <id>134724</id>
     <name>Orūmīyeh</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.55274000</latitude>
@@ -508734,7 +508734,7 @@
     <id>134725</id>
     <name>Oshnavīyeh</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.03970000</latitude>
@@ -508744,7 +508744,7 @@
     <id>134727</id>
     <name>Piranshahr</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.70100000</latitude>
@@ -508754,7 +508754,7 @@
     <id>134729</id>
     <name>Poldasht</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>39.34800000</latitude>
@@ -508764,7 +508764,7 @@
     <id>134736</id>
     <name>Qarah Ẕīā’ od Dīn</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.89150000</latitude>
@@ -508774,7 +508774,7 @@
     <id>134763</id>
     <name>Salmās</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.19730000</latitude>
@@ -508784,7 +508784,7 @@
     <id>134768</id>
     <name>Sardasht</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.21670000</latitude>
@@ -508794,7 +508794,7 @@
     <id>135110</id>
     <name>Shāhīn Dezh</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.67930000</latitude>
@@ -508804,7 +508804,7 @@
     <id>134829</id>
     <name>Shahrestān-e Būkān</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.60002000</latitude>
@@ -508814,7 +508814,7 @@
     <id>134836</id>
     <name>Shahrestān-e Chāldorān</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>39.06667000</latitude>
@@ -508824,7 +508824,7 @@
     <id>134949</id>
     <name>Shahrestān-e Mahābād</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.76667000</latitude>
@@ -508834,7 +508834,7 @@
     <id>134967</id>
     <name>Shahrestān-e Mākū</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>39.41669000</latitude>
@@ -508844,7 +508844,7 @@
     <id>134973</id>
     <name>Shahrestān-e Mīāndoāb</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.89999000</latitude>
@@ -508854,7 +508854,7 @@
     <id>134990</id>
     <name>Shahrestān-e Orūmīyeh</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.55000000</latitude>
@@ -508864,7 +508864,7 @@
     <id>134991</id>
     <name>Shahrestān-e Oshnavīyeh</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>37.05000000</latitude>
@@ -508874,7 +508874,7 @@
     <id>134998</id>
     <name>Shahrestān-e Pīrānshahr</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.70000000</latitude>
@@ -508884,7 +508884,7 @@
     <id>135022</id>
     <name>Shahrestān-e Salmās</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>38.18333000</latitude>
@@ -508894,7 +508894,7 @@
     <id>135042</id>
     <name>Shahrestān-e Shāhīn Dezh</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.68337000</latitude>
@@ -508904,7 +508904,7 @@
     <id>135058</id>
     <name>Shahrestān-e Takāb</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.53345000</latitude>
@@ -508914,7 +508914,7 @@
     <id>135128</id>
     <name>Takāb</name>
     <state_id>3924</state_id>
-    <state_code>02</state_code>
+    <state_code>04</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.40090000</latitude>
@@ -508924,7 +508924,7 @@
     <id>134569</id>
     <name>Ardakān</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.31001000</latitude>
@@ -508934,7 +508934,7 @@
     <id>134597</id>
     <name>Bāfq</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.60350000</latitude>
@@ -508944,7 +508944,7 @@
     <id>134670</id>
     <name>Khavāş Kūh</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.30611000</latitude>
@@ -508954,7 +508954,7 @@
     <id>134691</id>
     <name>Mahrīz</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.58428000</latitude>
@@ -508964,7 +508964,7 @@
     <id>134701</id>
     <name>Meybod</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.18333000</latitude>
@@ -508974,7 +508974,7 @@
     <id>134785</id>
     <name>Shahrestān-e Abarkūh</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.00000000</latitude>
@@ -508984,7 +508984,7 @@
     <id>134793</id>
     <name>Shahrestān-e Ardakān</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.65000000</latitude>
@@ -508994,7 +508994,7 @@
     <id>134797</id>
     <name>Shahrestān-e Ashkez̄ar</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.00000000</latitude>
@@ -509004,7 +509004,7 @@
     <id>134819</id>
     <name>Shahrestān-e Bāfq</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.66667000</latitude>
@@ -509014,7 +509014,7 @@
     <id>134809</id>
     <name>Shahrestān-e Behābād</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>32.01667000</latitude>
@@ -509024,7 +509024,7 @@
     <id>134925</id>
     <name>Shahrestān-e Khātam</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>30.38333000</latitude>
@@ -509034,7 +509034,7 @@
     <id>134963</id>
     <name>Shahrestān-e Mehrīz</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.41667000</latitude>
@@ -509044,7 +509044,7 @@
     <id>135070</id>
     <name>Shahrestān-e Yazd</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.88980000</latitude>
@@ -509054,7 +509054,7 @@
     <id>135123</id>
     <name>Tabas</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>33.59586000</latitude>
@@ -509064,7 +509064,7 @@
     <id>135127</id>
     <name>Taft</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.74384000</latitude>
@@ -509074,7 +509074,7 @@
     <id>135140</id>
     <name>Yazd</name>
     <state_id>3936</state_id>
-    <state_code>25</state_code>
+    <state_code>21</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>31.89722000</latitude>
@@ -509084,7 +509084,7 @@
     <id>134556</id>
     <name>Abhar</name>
     <state_id>3925</state_id>
-    <state_code>11</state_code>
+    <state_code>19</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.14680000</latitude>
@@ -509094,7 +509094,7 @@
     <id>134566</id>
     <name>Alvand</name>
     <state_id>3925</state_id>
-    <state_code>11</state_code>
+    <state_code>19</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.31885000</latitude>
@@ -509104,7 +509104,7 @@
     <id>134674</id>
     <name>Khorramdarreh</name>
     <state_id>3925</state_id>
-    <state_code>11</state_code>
+    <state_code>19</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.23333000</latitude>
@@ -509114,7 +509114,7 @@
     <id>135090</id>
     <name>Shahrestān-e Ījrūd</name>
     <state_id>3925</state_id>
-    <state_code>11</state_code>
+    <state_code>19</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.33333000</latitude>
@@ -509124,7 +509124,7 @@
     <id>134916</id>
     <name>Shahrestān-e Khodābandeh</name>
     <state_id>3925</state_id>
-    <state_code>11</state_code>
+    <state_code>19</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.00000000</latitude>
@@ -509134,7 +509134,7 @@
     <id>134966</id>
     <name>Shahrestān-e Māhneshān</name>
     <state_id>3925</state_id>
-    <state_code>11</state_code>
+    <state_code>19</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.66667000</latitude>
@@ -509144,7 +509144,7 @@
     <id>135097</id>
     <name>Shahrestān-e Ţārom</name>
     <state_id>3925</state_id>
-    <state_code>11</state_code>
+    <state_code>19</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.95000000</latitude>
@@ -509154,7 +509154,7 @@
     <id>135071</id>
     <name>Shahrestān-e Zanjān</name>
     <state_id>3925</state_id>
-    <state_code>11</state_code>
+    <state_code>19</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.58333000</latitude>
@@ -509164,7 +509164,7 @@
     <id>135119</id>
     <name>Soltaniyeh</name>
     <state_id>3925</state_id>
-    <state_code>11</state_code>
+    <state_code>19</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.43235000</latitude>
@@ -509174,7 +509174,7 @@
     <id>135142</id>
     <name>Zanjān</name>
     <state_id>3925</state_id>
-    <state_code>11</state_code>
+    <state_code>19</state_code>
     <country_id>103</country_id>
     <country_code>IR</country_code>
     <latitude>36.67642000</latitude>
