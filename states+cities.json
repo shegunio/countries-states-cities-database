@@ -132720,696 +132720,6 @@
         ]
     },
     {
-        "id": 2754,
-        "name": "Bandundu Province",
-        "state_code": "BN",
-        "latitude": "-4.16367900",
-        "longitude": "18.80761950",
-        "country_id": 51,
-        "cities": []
-    },
-    {
-        "id": 2746,
-        "name": "Bas-Congo province",
-        "state_code": "BC",
-        "latitude": "-5.23656850",
-        "longitude": "13.91439900",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17231,
-                "name": "Boma",
-                "latitude": "-5.85098000",
-                "longitude": "13.05364000"
-            },
-            {
-                "id": 17258,
-                "name": "Kasangulu",
-                "latitude": "-4.58330000",
-                "longitude": "15.16554000"
-            },
-            {
-                "id": 17278,
-                "name": "Matadi",
-                "latitude": "-5.83861000",
-                "longitude": "13.46306000"
-            },
-            {
-                "id": 17280,
-                "name": "Mbanza-Ngungu",
-                "latitude": "-5.25837000",
-                "longitude": "14.85838000"
-            },
-            {
-                "id": 17282,
-                "name": "Moanda",
-                "latitude": "-5.92753000",
-                "longitude": "12.37148000"
-            },
-            {
-                "id": 17288,
-                "name": "Tshela",
-                "latitude": "-4.99707000",
-                "longitude": "12.94840000"
-            }
-        ]
-    },
-    {
-        "id": 2753,
-        "name": "Bas-Uele",
-        "state_code": "BU",
-        "latitude": "3.99010090",
-        "longitude": "24.90422080",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17225,
-                "name": "Aketi",
-                "latitude": "2.73877000",
-                "longitude": "23.78326000"
-            },
-            {
-                "id": 17232,
-                "name": "Bondo",
-                "latitude": "3.81461000",
-                "longitude": "23.68665000"
-            },
-            {
-                "id": 17241,
-                "name": "Buta",
-                "latitude": "2.78582000",
-                "longitude": "24.72997000"
-            }
-        ]
-    },
-    {
-        "id": 2744,
-        "name": "Équateur",
-        "state_code": "EQ",
-        "latitude": "-1.83123900",
-        "longitude": "-78.18340600",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17245,
-                "name": "Gemena",
-                "latitude": "3.25651000",
-                "longitude": "19.77234000"
-            },
-            {
-                "id": 17269,
-                "name": "Lisala",
-                "latitude": "2.15127000",
-                "longitude": "21.51672000"
-            },
-            {
-                "id": 17274,
-                "name": "Lukolela",
-                "latitude": "-1.06046000",
-                "longitude": "17.18210000"
-            },
-            {
-                "id": 17279,
-                "name": "Mbandaka",
-                "latitude": "0.04865000",
-                "longitude": "18.26034000"
-            }
-        ]
-    },
-    {
-        "id": 2750,
-        "name": "Haut-Katanga Province",
-        "state_code": "HK",
-        "latitude": "-10.41020750",
-        "longitude": "27.54958460",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17247,
-                "name": "Haut Katanga",
-                "latitude": "-10.46044000",
-                "longitude": "27.94322000"
-            },
-            {
-                "id": 17255,
-                "name": "Kambove",
-                "latitude": "-10.87352000",
-                "longitude": "26.59746000"
-            },
-            {
-                "id": 17264,
-                "name": "Kipushi",
-                "latitude": "-11.76097000",
-                "longitude": "27.25135000"
-            },
-            {
-                "id": 17268,
-                "name": "Likasi",
-                "latitude": "-10.98303000",
-                "longitude": "26.73840000"
-            },
-            {
-                "id": 17272,
-                "name": "Lubumbashi",
-                "latitude": "-11.66089000",
-                "longitude": "27.47938000"
-            }
-        ]
-    },
-    {
-        "id": 2758,
-        "name": "Haut-Lomami District",
-        "state_code": "HL",
-        "latitude": "-7.70527520",
-        "longitude": "24.90422080",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17235,
-                "name": "Bukama",
-                "latitude": "-9.20443000",
-                "longitude": "25.85475000"
-            },
-            {
-                "id": 17256,
-                "name": "Kamina",
-                "latitude": "-8.73508000",
-                "longitude": "24.99798000"
-            }
-        ]
-    },
-    {
-        "id": 2734,
-        "name": "Haut-Uele",
-        "state_code": "HU",
-        "latitude": "3.58451540",
-        "longitude": "28.29943500",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17250,
-                "name": "Isiro",
-                "latitude": "2.77391000",
-                "longitude": "27.61603000"
-            },
-            {
-                "id": 17291,
-                "name": "Wamba",
-                "latitude": "2.14838000",
-                "longitude": "27.99466000"
-            },
-            {
-                "id": 17292,
-                "name": "Watsa",
-                "latitude": "3.03716000",
-                "longitude": "29.53551000"
-            }
-        ]
-    },
-    {
-        "id": 2751,
-        "name": "Ituri Interim Administration",
-        "state_code": "IT",
-        "latitude": "1.59576820",
-        "longitude": "29.41793240",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17239,
-                "name": "Bunia",
-                "latitude": "1.55941000",
-                "longitude": "30.25224000"
-            }
-        ]
-    },
-    {
-        "id": 2757,
-        "name": "Kasaï District",
-        "state_code": "KS",
-        "latitude": "-5.04719790",
-        "longitude": "20.71224650",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17248,
-                "name": "Ilebo",
-                "latitude": "-4.33111000",
-                "longitude": "20.58638000"
-            },
-            {
-                "id": 17273,
-                "name": "Luebo",
-                "latitude": "-5.35218000",
-                "longitude": "21.42192000"
-            },
-            {
-                "id": 17284,
-                "name": "Mweka",
-                "latitude": "-4.85187000",
-                "longitude": "21.55950000"
-            },
-            {
-                "id": 17289,
-                "name": "Tshikapa",
-                "latitude": "-6.41621000",
-                "longitude": "20.79995000"
-            }
-        ]
-    },
-    {
-        "id": 2737,
-        "name": "Kasaï-Occidental",
-        "state_code": "KW",
-        "latitude": "-5.32054730",
-        "longitude": "21.85685860",
-        "country_id": 51,
-        "cities": []
-    },
-    {
-        "id": 2735,
-        "name": "Kasaï-Oriental",
-        "state_code": "KE",
-        "latitude": "-6.03362300",
-        "longitude": "23.57285010",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17243,
-                "name": "Gandajika",
-                "latitude": "-6.74504000",
-                "longitude": "23.95328000"
-            },
-            {
-                "id": 17253,
-                "name": "Kabinda",
-                "latitude": "-6.13791000",
-                "longitude": "24.48179000"
-            },
-            {
-                "id": 17281,
-                "name": "Mbuji-Mayi",
-                "latitude": "-6.13603000",
-                "longitude": "23.58979000"
-            }
-        ]
-    },
-    {
-        "id": 2742,
-        "name": "Katanga Province",
-        "state_code": "KA",
-        "latitude": "-8.88511450",
-        "longitude": "26.41938900",
-        "country_id": 51,
-        "cities": []
-    },
-    {
-        "id": 2741,
-        "name": "Kinshasa",
-        "state_code": "KN",
-        "latitude": "-4.44193110",
-        "longitude": "15.26629310",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17263,
-                "name": "Kinshasa",
-                "latitude": "-4.32758000",
-                "longitude": "15.31357000"
-            },
-            {
-                "id": 17277,
-                "name": "Masina",
-                "latitude": "-4.38361000",
-                "longitude": "15.39139000"
-            }
-        ]
-    },
-    {
-        "id": 2740,
-        "name": "Kwango District",
-        "state_code": "KG",
-        "latitude": "-6.43374090",
-        "longitude": "17.66888700",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17260,
-                "name": "Kasongo-Lunda",
-                "latitude": "-6.47833000",
-                "longitude": "16.81735000"
-            }
-        ]
-    },
-    {
-        "id": 2759,
-        "name": "Kwilu District",
-        "state_code": "KL",
-        "latitude": "-5.11888250",
-        "longitude": "18.42760470",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17226,
-                "name": "Bandundu",
-                "latitude": "-3.31687000",
-                "longitude": "17.38063000"
-            },
-            {
-                "id": 17237,
-                "name": "Bulungu",
-                "latitude": "-4.54437000",
-                "longitude": "18.60364000"
-            },
-            {
-                "id": 17261,
-                "name": "Kikwit",
-                "latitude": "-5.04098000",
-                "longitude": "18.81619000"
-            },
-            {
-                "id": 17276,
-                "name": "Mangai",
-                "latitude": "-4.02328000",
-                "longitude": "19.53385000"
-            }
-        ]
-    },
-    {
-        "id": 2747,
-        "name": "Lomami Province",
-        "state_code": "LO",
-        "latitude": "-6.14539310",
-        "longitude": "24.52426400",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17271,
-                "name": "Lubao",
-                "latitude": "-5.38771000",
-                "longitude": "25.74885000"
-            },
-            {
-                "id": 17285,
-                "name": "Mwene-Ditu",
-                "latitude": "-7.00906000",
-                "longitude": "23.45278000"
-            }
-        ]
-    },
-    {
-        "id": 2755,
-        "name": "Mai-Ndombe Province",
-        "state_code": "MN",
-        "latitude": "-2.63574340",
-        "longitude": "18.42760470",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17230,
-                "name": "Bolobo",
-                "latitude": "-2.15800000",
-                "longitude": "16.23249000"
-            },
-            {
-                "id": 17249,
-                "name": "Inongo",
-                "latitude": "-1.92750000",
-                "longitude": "18.28810000"
-            },
-            {
-                "id": 17283,
-                "name": "Mushie",
-                "latitude": "-3.01728000",
-                "longitude": "16.92238000"
-            },
-            {
-                "id": 17286,
-                "name": "Nioki",
-                "latitude": "-2.72037000",
-                "longitude": "17.69001000"
-            }
-        ]
-    },
-    {
-        "id": 2745,
-        "name": "Maniema",
-        "state_code": "MA",
-        "latitude": "-3.07309290",
-        "longitude": "26.04138890",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17257,
-                "name": "Kampene",
-                "latitude": "-3.59678000",
-                "longitude": "26.66715000"
-            },
-            {
-                "id": 17259,
-                "name": "Kasongo",
-                "latitude": "-4.42741000",
-                "longitude": "26.66656000"
-            },
-            {
-                "id": 17262,
-                "name": "Kindu",
-                "latitude": "-2.94373000",
-                "longitude": "25.92237000"
-            }
-        ]
-    },
-    {
-        "id": 2752,
-        "name": "Mongala District",
-        "state_code": "MO",
-        "latitude": "1.99623240",
-        "longitude": "21.47528510",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17238,
-                "name": "Bumba",
-                "latitude": "2.18771000",
-                "longitude": "22.46827000"
-            }
-        ]
-    },
-    {
-        "id": 2739,
-        "name": "Nord-Ubangi District",
-        "state_code": "NU",
-        "latitude": "3.78787260",
-        "longitude": "21.47528510",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17234,
-                "name": "Bosobolo",
-                "latitude": "4.18980000",
-                "longitude": "19.88330000"
-            },
-            {
-                "id": 17240,
-                "name": "Businga",
-                "latitude": "3.33863000",
-                "longitude": "20.88577000"
-            },
-            {
-                "id": 17244,
-                "name": "Gbadolite",
-                "latitude": "4.27900000",
-                "longitude": "21.00284000"
-            }
-        ]
-    },
-    {
-        "id": 2749,
-        "name": "North Kivu",
-        "state_code": "NK",
-        "latitude": "-0.79177290",
-        "longitude": "29.04599270",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17228,
-                "name": "Beni",
-                "latitude": "0.49113000",
-                "longitude": "29.47306000"
-            },
-            {
-                "id": 17242,
-                "name": "Butembo",
-                "latitude": "0.14164000",
-                "longitude": "29.29117000"
-            },
-            {
-                "id": 17246,
-                "name": "Goma",
-                "latitude": "-1.67409000",
-                "longitude": "29.22845000"
-            },
-            {
-                "id": 17287,
-                "name": "Sake",
-                "latitude": "-1.57386000",
-                "longitude": "29.04339000"
-            }
-        ]
-    },
-    {
-        "id": 2736,
-        "name": "Orientale Province",
-        "state_code": "OR",
-        "latitude": "1.64062960",
-        "longitude": "26.41938900",
-        "country_id": 51,
-        "cities": []
-    },
-    {
-        "id": 2743,
-        "name": "Sankuru District",
-        "state_code": "SA",
-        "latitude": "-2.84374530",
-        "longitude": "23.38235450",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17270,
-                "name": "Lodja",
-                "latitude": "-3.52105000",
-                "longitude": "23.60050000"
-            },
-            {
-                "id": 17275,
-                "name": "Lusambo",
-                "latitude": "-4.97503000",
-                "longitude": "23.44391000"
-            }
-        ]
-    },
-    {
-        "id": 2738,
-        "name": "South Kivu",
-        "state_code": "SK",
-        "latitude": "-3.01165800",
-        "longitude": "28.29943500",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17236,
-                "name": "Bukavu",
-                "latitude": "-2.49077000",
-                "longitude": "28.84281000"
-            },
-            {
-                "id": 17252,
-                "name": "Kabare",
-                "latitude": "-2.49682000",
-                "longitude": "28.79081000"
-            },
-            {
-                "id": 17290,
-                "name": "Uvira",
-                "latitude": "-3.39534000",
-                "longitude": "29.13779000"
-            }
-        ]
-    },
-    {
-        "id": 2748,
-        "name": "Sud-Ubangi",
-        "state_code": "SU",
-        "latitude": "3.22999420",
-        "longitude": "19.18800470",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17233,
-                "name": "Bongandanga",
-                "latitude": "1.50695000",
-                "longitude": "21.07260000"
-            },
-            {
-                "id": 17267,
-                "name": "Libenge",
-                "latitude": "3.65332000",
-                "longitude": "18.63566000"
-            }
-        ]
-    },
-    {
-        "id": 2733,
-        "name": "Tanganyika Province",
-        "state_code": "TA",
-        "latitude": "-6.27401180",
-        "longitude": "27.92490020",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17251,
-                "name": "Kabalo",
-                "latitude": "-6.05255000",
-                "longitude": "26.91430000"
-            },
-            {
-                "id": 17254,
-                "name": "Kalemie",
-                "latitude": "-5.94749000",
-                "longitude": "29.19471000"
-            },
-            {
-                "id": 17266,
-                "name": "Kongolo",
-                "latitude": "-5.38532000",
-                "longitude": "27.00029000"
-            }
-        ]
-    },
-    {
-        "id": 2756,
-        "name": "Tshopo District",
-        "state_code": "TO",
-        "latitude": "0.54554620",
-        "longitude": "24.90422080",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17227,
-                "name": "Basoko",
-                "latitude": "1.23909000",
-                "longitude": "23.61598000"
-            },
-            {
-                "id": 17265,
-                "name": "Kisangani",
-                "latitude": "0.51528000",
-                "longitude": "25.19099000"
-            },
-            {
-                "id": 17293,
-                "name": "Yangambi",
-                "latitude": "0.76755000",
-                "longitude": "24.43973000"
-            }
-        ]
-    },
-    {
-        "id": 2732,
-        "name": "Tshuapa District",
-        "state_code": "TU",
-        "latitude": "-0.99030230",
-        "longitude": "23.02888440",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17229,
-                "name": "Boende",
-                "latitude": "-0.28163000",
-                "longitude": "20.88053000"
-            }
-        ]
-    },
-    {
         "id": 1215,
         "name": "Alajuela Province",
         "state_code": "A",
@@ -150283,6 +149593,696 @@
         "longitude": "16.10378080",
         "country_id": 58,
         "cities": []
+    },
+    {
+        "id": 2754,
+        "name": "Bandundu Province",
+        "state_code": "BN",
+        "latitude": "-4.16367900",
+        "longitude": "18.80761950",
+        "country_id": 51,
+        "cities": []
+    },
+    {
+        "id": 2746,
+        "name": "Bas-Congo province",
+        "state_code": "BC",
+        "latitude": "-5.23656850",
+        "longitude": "13.91439900",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17231,
+                "name": "Boma",
+                "latitude": "-5.85098000",
+                "longitude": "13.05364000"
+            },
+            {
+                "id": 17258,
+                "name": "Kasangulu",
+                "latitude": "-4.58330000",
+                "longitude": "15.16554000"
+            },
+            {
+                "id": 17278,
+                "name": "Matadi",
+                "latitude": "-5.83861000",
+                "longitude": "13.46306000"
+            },
+            {
+                "id": 17280,
+                "name": "Mbanza-Ngungu",
+                "latitude": "-5.25837000",
+                "longitude": "14.85838000"
+            },
+            {
+                "id": 17282,
+                "name": "Moanda",
+                "latitude": "-5.92753000",
+                "longitude": "12.37148000"
+            },
+            {
+                "id": 17288,
+                "name": "Tshela",
+                "latitude": "-4.99707000",
+                "longitude": "12.94840000"
+            }
+        ]
+    },
+    {
+        "id": 2753,
+        "name": "Bas-Uele",
+        "state_code": "BU",
+        "latitude": "3.99010090",
+        "longitude": "24.90422080",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17225,
+                "name": "Aketi",
+                "latitude": "2.73877000",
+                "longitude": "23.78326000"
+            },
+            {
+                "id": 17232,
+                "name": "Bondo",
+                "latitude": "3.81461000",
+                "longitude": "23.68665000"
+            },
+            {
+                "id": 17241,
+                "name": "Buta",
+                "latitude": "2.78582000",
+                "longitude": "24.72997000"
+            }
+        ]
+    },
+    {
+        "id": 2744,
+        "name": "Équateur",
+        "state_code": "EQ",
+        "latitude": "-1.83123900",
+        "longitude": "-78.18340600",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17245,
+                "name": "Gemena",
+                "latitude": "3.25651000",
+                "longitude": "19.77234000"
+            },
+            {
+                "id": 17269,
+                "name": "Lisala",
+                "latitude": "2.15127000",
+                "longitude": "21.51672000"
+            },
+            {
+                "id": 17274,
+                "name": "Lukolela",
+                "latitude": "-1.06046000",
+                "longitude": "17.18210000"
+            },
+            {
+                "id": 17279,
+                "name": "Mbandaka",
+                "latitude": "0.04865000",
+                "longitude": "18.26034000"
+            }
+        ]
+    },
+    {
+        "id": 2750,
+        "name": "Haut-Katanga Province",
+        "state_code": "HK",
+        "latitude": "-10.41020750",
+        "longitude": "27.54958460",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17247,
+                "name": "Haut Katanga",
+                "latitude": "-10.46044000",
+                "longitude": "27.94322000"
+            },
+            {
+                "id": 17255,
+                "name": "Kambove",
+                "latitude": "-10.87352000",
+                "longitude": "26.59746000"
+            },
+            {
+                "id": 17264,
+                "name": "Kipushi",
+                "latitude": "-11.76097000",
+                "longitude": "27.25135000"
+            },
+            {
+                "id": 17268,
+                "name": "Likasi",
+                "latitude": "-10.98303000",
+                "longitude": "26.73840000"
+            },
+            {
+                "id": 17272,
+                "name": "Lubumbashi",
+                "latitude": "-11.66089000",
+                "longitude": "27.47938000"
+            }
+        ]
+    },
+    {
+        "id": 2758,
+        "name": "Haut-Lomami District",
+        "state_code": "HL",
+        "latitude": "-7.70527520",
+        "longitude": "24.90422080",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17235,
+                "name": "Bukama",
+                "latitude": "-9.20443000",
+                "longitude": "25.85475000"
+            },
+            {
+                "id": 17256,
+                "name": "Kamina",
+                "latitude": "-8.73508000",
+                "longitude": "24.99798000"
+            }
+        ]
+    },
+    {
+        "id": 2734,
+        "name": "Haut-Uele",
+        "state_code": "HU",
+        "latitude": "3.58451540",
+        "longitude": "28.29943500",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17250,
+                "name": "Isiro",
+                "latitude": "2.77391000",
+                "longitude": "27.61603000"
+            },
+            {
+                "id": 17291,
+                "name": "Wamba",
+                "latitude": "2.14838000",
+                "longitude": "27.99466000"
+            },
+            {
+                "id": 17292,
+                "name": "Watsa",
+                "latitude": "3.03716000",
+                "longitude": "29.53551000"
+            }
+        ]
+    },
+    {
+        "id": 2751,
+        "name": "Ituri Interim Administration",
+        "state_code": "IT",
+        "latitude": "1.59576820",
+        "longitude": "29.41793240",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17239,
+                "name": "Bunia",
+                "latitude": "1.55941000",
+                "longitude": "30.25224000"
+            }
+        ]
+    },
+    {
+        "id": 2757,
+        "name": "Kasaï District",
+        "state_code": "KS",
+        "latitude": "-5.04719790",
+        "longitude": "20.71224650",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17248,
+                "name": "Ilebo",
+                "latitude": "-4.33111000",
+                "longitude": "20.58638000"
+            },
+            {
+                "id": 17273,
+                "name": "Luebo",
+                "latitude": "-5.35218000",
+                "longitude": "21.42192000"
+            },
+            {
+                "id": 17284,
+                "name": "Mweka",
+                "latitude": "-4.85187000",
+                "longitude": "21.55950000"
+            },
+            {
+                "id": 17289,
+                "name": "Tshikapa",
+                "latitude": "-6.41621000",
+                "longitude": "20.79995000"
+            }
+        ]
+    },
+    {
+        "id": 2737,
+        "name": "Kasaï-Occidental",
+        "state_code": "KW",
+        "latitude": "-5.32054730",
+        "longitude": "21.85685860",
+        "country_id": 51,
+        "cities": []
+    },
+    {
+        "id": 2735,
+        "name": "Kasaï-Oriental",
+        "state_code": "KE",
+        "latitude": "-6.03362300",
+        "longitude": "23.57285010",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17243,
+                "name": "Gandajika",
+                "latitude": "-6.74504000",
+                "longitude": "23.95328000"
+            },
+            {
+                "id": 17253,
+                "name": "Kabinda",
+                "latitude": "-6.13791000",
+                "longitude": "24.48179000"
+            },
+            {
+                "id": 17281,
+                "name": "Mbuji-Mayi",
+                "latitude": "-6.13603000",
+                "longitude": "23.58979000"
+            }
+        ]
+    },
+    {
+        "id": 2742,
+        "name": "Katanga Province",
+        "state_code": "KA",
+        "latitude": "-8.88511450",
+        "longitude": "26.41938900",
+        "country_id": 51,
+        "cities": []
+    },
+    {
+        "id": 2741,
+        "name": "Kinshasa",
+        "state_code": "KN",
+        "latitude": "-4.44193110",
+        "longitude": "15.26629310",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17263,
+                "name": "Kinshasa",
+                "latitude": "-4.32758000",
+                "longitude": "15.31357000"
+            },
+            {
+                "id": 17277,
+                "name": "Masina",
+                "latitude": "-4.38361000",
+                "longitude": "15.39139000"
+            }
+        ]
+    },
+    {
+        "id": 2740,
+        "name": "Kwango District",
+        "state_code": "KG",
+        "latitude": "-6.43374090",
+        "longitude": "17.66888700",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17260,
+                "name": "Kasongo-Lunda",
+                "latitude": "-6.47833000",
+                "longitude": "16.81735000"
+            }
+        ]
+    },
+    {
+        "id": 2759,
+        "name": "Kwilu District",
+        "state_code": "KL",
+        "latitude": "-5.11888250",
+        "longitude": "18.42760470",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17226,
+                "name": "Bandundu",
+                "latitude": "-3.31687000",
+                "longitude": "17.38063000"
+            },
+            {
+                "id": 17237,
+                "name": "Bulungu",
+                "latitude": "-4.54437000",
+                "longitude": "18.60364000"
+            },
+            {
+                "id": 17261,
+                "name": "Kikwit",
+                "latitude": "-5.04098000",
+                "longitude": "18.81619000"
+            },
+            {
+                "id": 17276,
+                "name": "Mangai",
+                "latitude": "-4.02328000",
+                "longitude": "19.53385000"
+            }
+        ]
+    },
+    {
+        "id": 2747,
+        "name": "Lomami Province",
+        "state_code": "LO",
+        "latitude": "-6.14539310",
+        "longitude": "24.52426400",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17271,
+                "name": "Lubao",
+                "latitude": "-5.38771000",
+                "longitude": "25.74885000"
+            },
+            {
+                "id": 17285,
+                "name": "Mwene-Ditu",
+                "latitude": "-7.00906000",
+                "longitude": "23.45278000"
+            }
+        ]
+    },
+    {
+        "id": 2755,
+        "name": "Mai-Ndombe Province",
+        "state_code": "MN",
+        "latitude": "-2.63574340",
+        "longitude": "18.42760470",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17230,
+                "name": "Bolobo",
+                "latitude": "-2.15800000",
+                "longitude": "16.23249000"
+            },
+            {
+                "id": 17249,
+                "name": "Inongo",
+                "latitude": "-1.92750000",
+                "longitude": "18.28810000"
+            },
+            {
+                "id": 17283,
+                "name": "Mushie",
+                "latitude": "-3.01728000",
+                "longitude": "16.92238000"
+            },
+            {
+                "id": 17286,
+                "name": "Nioki",
+                "latitude": "-2.72037000",
+                "longitude": "17.69001000"
+            }
+        ]
+    },
+    {
+        "id": 2745,
+        "name": "Maniema",
+        "state_code": "MA",
+        "latitude": "-3.07309290",
+        "longitude": "26.04138890",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17257,
+                "name": "Kampene",
+                "latitude": "-3.59678000",
+                "longitude": "26.66715000"
+            },
+            {
+                "id": 17259,
+                "name": "Kasongo",
+                "latitude": "-4.42741000",
+                "longitude": "26.66656000"
+            },
+            {
+                "id": 17262,
+                "name": "Kindu",
+                "latitude": "-2.94373000",
+                "longitude": "25.92237000"
+            }
+        ]
+    },
+    {
+        "id": 2752,
+        "name": "Mongala District",
+        "state_code": "MO",
+        "latitude": "1.99623240",
+        "longitude": "21.47528510",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17238,
+                "name": "Bumba",
+                "latitude": "2.18771000",
+                "longitude": "22.46827000"
+            }
+        ]
+    },
+    {
+        "id": 2739,
+        "name": "Nord-Ubangi District",
+        "state_code": "NU",
+        "latitude": "3.78787260",
+        "longitude": "21.47528510",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17234,
+                "name": "Bosobolo",
+                "latitude": "4.18980000",
+                "longitude": "19.88330000"
+            },
+            {
+                "id": 17240,
+                "name": "Businga",
+                "latitude": "3.33863000",
+                "longitude": "20.88577000"
+            },
+            {
+                "id": 17244,
+                "name": "Gbadolite",
+                "latitude": "4.27900000",
+                "longitude": "21.00284000"
+            }
+        ]
+    },
+    {
+        "id": 2749,
+        "name": "North Kivu",
+        "state_code": "NK",
+        "latitude": "-0.79177290",
+        "longitude": "29.04599270",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17228,
+                "name": "Beni",
+                "latitude": "0.49113000",
+                "longitude": "29.47306000"
+            },
+            {
+                "id": 17242,
+                "name": "Butembo",
+                "latitude": "0.14164000",
+                "longitude": "29.29117000"
+            },
+            {
+                "id": 17246,
+                "name": "Goma",
+                "latitude": "-1.67409000",
+                "longitude": "29.22845000"
+            },
+            {
+                "id": 17287,
+                "name": "Sake",
+                "latitude": "-1.57386000",
+                "longitude": "29.04339000"
+            }
+        ]
+    },
+    {
+        "id": 2736,
+        "name": "Orientale Province",
+        "state_code": "OR",
+        "latitude": "1.64062960",
+        "longitude": "26.41938900",
+        "country_id": 51,
+        "cities": []
+    },
+    {
+        "id": 2743,
+        "name": "Sankuru District",
+        "state_code": "SA",
+        "latitude": "-2.84374530",
+        "longitude": "23.38235450",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17270,
+                "name": "Lodja",
+                "latitude": "-3.52105000",
+                "longitude": "23.60050000"
+            },
+            {
+                "id": 17275,
+                "name": "Lusambo",
+                "latitude": "-4.97503000",
+                "longitude": "23.44391000"
+            }
+        ]
+    },
+    {
+        "id": 2738,
+        "name": "South Kivu",
+        "state_code": "SK",
+        "latitude": "-3.01165800",
+        "longitude": "28.29943500",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17236,
+                "name": "Bukavu",
+                "latitude": "-2.49077000",
+                "longitude": "28.84281000"
+            },
+            {
+                "id": 17252,
+                "name": "Kabare",
+                "latitude": "-2.49682000",
+                "longitude": "28.79081000"
+            },
+            {
+                "id": 17290,
+                "name": "Uvira",
+                "latitude": "-3.39534000",
+                "longitude": "29.13779000"
+            }
+        ]
+    },
+    {
+        "id": 2748,
+        "name": "Sud-Ubangi",
+        "state_code": "SU",
+        "latitude": "3.22999420",
+        "longitude": "19.18800470",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17233,
+                "name": "Bongandanga",
+                "latitude": "1.50695000",
+                "longitude": "21.07260000"
+            },
+            {
+                "id": 17267,
+                "name": "Libenge",
+                "latitude": "3.65332000",
+                "longitude": "18.63566000"
+            }
+        ]
+    },
+    {
+        "id": 2733,
+        "name": "Tanganyika Province",
+        "state_code": "TA",
+        "latitude": "-6.27401180",
+        "longitude": "27.92490020",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17251,
+                "name": "Kabalo",
+                "latitude": "-6.05255000",
+                "longitude": "26.91430000"
+            },
+            {
+                "id": 17254,
+                "name": "Kalemie",
+                "latitude": "-5.94749000",
+                "longitude": "29.19471000"
+            },
+            {
+                "id": 17266,
+                "name": "Kongolo",
+                "latitude": "-5.38532000",
+                "longitude": "27.00029000"
+            }
+        ]
+    },
+    {
+        "id": 2756,
+        "name": "Tshopo District",
+        "state_code": "TO",
+        "latitude": "0.54554620",
+        "longitude": "24.90422080",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17227,
+                "name": "Basoko",
+                "latitude": "1.23909000",
+                "longitude": "23.61598000"
+            },
+            {
+                "id": 17265,
+                "name": "Kisangani",
+                "latitude": "0.51528000",
+                "longitude": "25.19099000"
+            },
+            {
+                "id": 17293,
+                "name": "Yangambi",
+                "latitude": "0.76755000",
+                "longitude": "24.43973000"
+            }
+        ]
+    },
+    {
+        "id": 2732,
+        "name": "Tshuapa District",
+        "state_code": "TU",
+        "latitude": "-0.99030230",
+        "longitude": "23.02888440",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17229,
+                "name": "Boende",
+                "latitude": "-0.28163000",
+                "longitude": "20.88053000"
+            }
+        ]
     },
     {
         "id": 1530,
@@ -480470,8 +480470,17 @@
         ]
     },
     {
+        "id": 4928,
+        "name": "Agadir-Ida-Ou-Tanane",
+        "state_code": "AGD",
+        "latitude": "30.64620910",
+        "longitude": "-9.83390610",
+        "country_id": 149,
+        "cities": []
+    },
+    {
         "id": 3320,
-        "name": "Al Haouz Province",
+        "name": "Al Haouz",
         "state_code": "HAO",
         "latitude": "31.29567290",
         "longitude": "-7.87216000",
@@ -480480,7 +480489,7 @@
     },
     {
         "id": 3267,
-        "name": "Al Hoceïma Province",
+        "name": "Al Hoceïma",
         "state_code": "HOC",
         "latitude": "35.24455890",
         "longitude": "-3.93174680",
@@ -480489,7 +480498,7 @@
     },
     {
         "id": 3266,
-        "name": "Aousserd Province",
+        "name": "Aousserd (EH)",
         "state_code": "AOU",
         "latitude": "22.55215380",
         "longitude": "-14.32973530",
@@ -480498,7 +480507,7 @@
     },
     {
         "id": 3297,
-        "name": "Assa-Zag Province",
+        "name": "Assa-Zag (EH-partial)",
         "state_code": "ASZ",
         "latitude": "28.14023950",
         "longitude": "-9.72326730",
@@ -480664,7 +480673,7 @@
     },
     {
         "id": 3321,
-        "name": "Azilal Province",
+        "name": "Azilal",
         "state_code": "AZI",
         "latitude": "32.00426200",
         "longitude": "-6.57833870",
@@ -480672,11 +480681,11 @@
         "cities": []
     },
     {
-        "id": 3304,
-        "name": "Ben Slimane Province",
-        "state_code": "BES",
-        "latitude": "33.61896980",
-        "longitude": "-7.13055360",
+        "id": 3272,
+        "name": "Béni Mellal",
+        "state_code": "BEM",
+        "latitude": "32.34244300",
+        "longitude": "-6.37579900",
         "country_id": 149,
         "cities": []
     },
@@ -480690,17 +480699,17 @@
         "cities": []
     },
     {
-        "id": 3272,
-        "name": "Béni-Mellal Province",
-        "state_code": "BEM",
-        "latitude": "32.34244300",
-        "longitude": "-6.37579900",
+        "id": 3304,
+        "name": "Benslimane",
+        "state_code": "BES",
+        "latitude": "33.61896980",
+        "longitude": "-7.13055360",
         "country_id": 149,
         "cities": []
     },
     {
         "id": 3285,
-        "name": "Berkane Province",
+        "name": "Berkane",
         "state_code": "BER",
         "latitude": "34.88408760",
         "longitude": "-2.34188700",
@@ -480708,8 +480717,17 @@
         "cities": []
     },
     {
+        "id": 4929,
+        "name": "Berrechid",
+        "state_code": "BRR",
+        "latitude": "33.26025230",
+        "longitude": "-7.59848370",
+        "country_id": 149,
+        "cities": []
+    },
+    {
         "id": 3275,
-        "name": "Boujdour Province",
+        "name": "Boujdour (EH)",
         "state_code": "BOD",
         "latitude": "26.12524930",
         "longitude": "-14.48473470",
@@ -480718,10 +480736,19 @@
     },
     {
         "id": 3270,
-        "name": "Boulemane Province",
+        "name": "Boulemane",
         "state_code": "BOM",
         "latitude": "33.36251590",
         "longitude": "-4.73033970",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4930,
+        "name": "Casablanca",
+        "state_code": "CAS",
+        "latitude": "33.57226780",
+        "longitude": "-7.65703260",
         "country_id": 149,
         "cities": []
     },
@@ -480863,7 +480890,7 @@
     },
     {
         "id": 3310,
-        "name": "Chefchaouen Province",
+        "name": "Chefchaouen",
         "state_code": "CHE",
         "latitude": "35.01817200",
         "longitude": "-5.14320680",
@@ -480872,7 +480899,7 @@
     },
     {
         "id": 3274,
-        "name": "Chichaoua Province",
+        "name": "Chichaoua",
         "state_code": "CHI",
         "latitude": "31.53835810",
         "longitude": "-8.76463880",
@@ -480880,8 +480907,17 @@
         "cities": []
     },
     {
+        "id": 3302,
+        "name": "Chtouka-Ait Baha",
+        "state_code": "CHT",
+        "latitude": "30.10724220",
+        "longitude": "-9.27855830",
+        "country_id": 149,
+        "cities": []
+    },
+    {
         "id": 3306,
-        "name": "Dakhla-Oued Ed-Dahab",
+        "name": "Dakhla-Oued Ed-Dahab (EH)",
         "state_code": "12",
         "latitude": "22.73378920",
         "longitude": "-14.28611160",
@@ -481013,8 +481049,17 @@
         ]
     },
     {
+        "id": 4931,
+        "name": "Driouch",
+        "state_code": "DRI",
+        "latitude": "34.97603200",
+        "longitude": "-3.39644930",
+        "country_id": 149,
+        "cities": []
+    },
+    {
         "id": 3291,
-        "name": "El Hajeb Province",
+        "name": "El Hajeb",
         "state_code": "HAJ",
         "latitude": "33.68573500",
         "longitude": "-5.36778440",
@@ -481023,7 +481068,7 @@
     },
     {
         "id": 3280,
-        "name": "El Jadida Province",
+        "name": "El Jadida",
         "state_code": "JDI",
         "latitude": "33.23163260",
         "longitude": "-8.50071160",
@@ -481031,8 +481076,17 @@
         "cities": []
     },
     {
+        "id": 3309,
+        "name": "El Kelâa des Sraghna",
+        "state_code": "KES",
+        "latitude": "32.05227670",
+        "longitude": "-7.35165580",
+        "country_id": 149,
+        "cities": []
+    },
+    {
         "id": 3299,
-        "name": "Errachidia Province",
+        "name": "Errachidia",
         "state_code": "ERR",
         "latitude": "31.90512750",
         "longitude": "-4.72775280",
@@ -481041,7 +481095,7 @@
     },
     {
         "id": 3292,
-        "name": "Es Semara Province",
+        "name": "Es-Semara (EH-partial)",
         "state_code": "ESM",
         "latitude": "26.74185600",
         "longitude": "-11.67836710",
@@ -481050,7 +481104,7 @@
     },
     {
         "id": 3316,
-        "name": "Essaouira Province",
+        "name": "Essaouira",
         "state_code": "ESI",
         "latitude": "31.50849260",
         "longitude": "-9.75950410",
@@ -481059,10 +481113,19 @@
     },
     {
         "id": 3300,
-        "name": "Fahs Anjra Province",
+        "name": "Fahs-Anjra",
         "state_code": "FAH",
         "latitude": "35.76019920",
         "longitude": "-5.66683060",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4932,
+        "name": "Fès",
+        "state_code": "FES",
+        "latitude": "34.02395790",
+        "longitude": "-5.03675990",
         "country_id": 149,
         "cities": []
     },
@@ -481246,7 +481309,7 @@
     },
     {
         "id": 3301,
-        "name": "Figuig Province",
+        "name": "Figuig",
         "state_code": "FIG",
         "latitude": "32.10926130",
         "longitude": "-1.22980600",
@@ -481254,8 +481317,17 @@
         "cities": []
     },
     {
+        "id": 4933,
+        "name": "Fquih Ben Salah",
+        "state_code": "FQH",
+        "latitude": "32.50016800",
+        "longitude": "-6.71007170",
+        "country_id": 149,
+        "cities": []
+    },
+    {
         "id": 3265,
-        "name": "Guelmim Province",
+        "name": "Guelmim",
         "state_code": "GUE",
         "latitude": "28.98836590",
         "longitude": "-10.05274980",
@@ -481264,7 +481336,7 @@
     },
     {
         "id": 3305,
-        "name": "Guelmim-Oued Noun",
+        "name": "Guelmim-Oued Noun (EH-partial)",
         "state_code": "10",
         "latitude": "28.48442810",
         "longitude": "-10.08072980",
@@ -481297,8 +481369,17 @@
         ]
     },
     {
+        "id": 4934,
+        "name": "Guercif",
+        "state_code": "GUF",
+        "latitude": "34.23450360",
+        "longitude": "-3.38130050",
+        "country_id": 149,
+        "cities": []
+    },
+    {
         "id": 3325,
-        "name": "Ifrane Province",
+        "name": "Ifrane",
         "state_code": "IFR",
         "latitude": "33.52280620",
         "longitude": "-5.11095520",
@@ -481307,7 +481388,7 @@
     },
     {
         "id": 3294,
-        "name": "Inezgane-Aït Melloul Prefecture",
+        "name": "Inezgane-Ait Melloul",
         "state_code": "INE",
         "latitude": "30.35090980",
         "longitude": "-9.38951100",
@@ -481316,7 +481397,7 @@
     },
     {
         "id": 3307,
-        "name": "Jerada Province",
+        "name": "Jerada",
         "state_code": "JRA",
         "latitude": "34.30617910",
         "longitude": "-2.17941360",
@@ -481324,17 +481405,8 @@
         "cities": []
     },
     {
-        "id": 3309,
-        "name": "Kelaat Sraghna Province",
-        "state_code": "KES",
-        "latitude": "32.05227670",
-        "longitude": "-7.35165580",
-        "country_id": 149,
-        "cities": []
-    },
-    {
         "id": 3308,
-        "name": "Kénitra Province",
+        "name": "Kénitra",
         "state_code": "KEN",
         "latitude": "34.25405030",
         "longitude": "-6.58901660",
@@ -481470,7 +481542,7 @@
     },
     {
         "id": 3276,
-        "name": "Khémisset Province",
+        "name": "Khémisset",
         "state_code": "KHE",
         "latitude": "33.81537040",
         "longitude": "-6.05733020",
@@ -481479,7 +481551,7 @@
     },
     {
         "id": 3317,
-        "name": "Khénifra Province",
+        "name": "Khénifra",
         "state_code": "KHN",
         "latitude": "32.93404710",
         "longitude": "-5.66157100",
@@ -481645,7 +481717,7 @@
     },
     {
         "id": 3326,
-        "name": "Khouribga Province",
+        "name": "Khouribga",
         "state_code": "KHO",
         "latitude": "32.88602300",
         "longitude": "-6.92086550",
@@ -481653,123 +481725,8 @@
         "cities": []
     },
     {
-        "id": 3293,
-        "name": "Laâyoune Province",
-        "state_code": "LAA",
-        "latitude": "27.15003840",
-        "longitude": "-13.19907580",
-        "country_id": 149,
-        "cities": []
-    },
-    {
-        "id": 3298,
-        "name": "Laâyoune-Sakia El Hamra",
-        "state_code": "11",
-        "latitude": "27.86831940",
-        "longitude": "-11.98046130",
-        "country_id": 149,
-        "cities": [
-            {
-                "id": 67052,
-                "name": "Akhfennir",
-                "latitude": "28.09455000",
-                "longitude": "-12.05157000"
-            },
-            {
-                "id": 67089,
-                "name": "Boujdour",
-                "latitude": "25.66172000",
-                "longitude": "-13.68419000"
-            },
-            {
-                "id": 67115,
-                "name": "Es-Semara",
-                "latitude": "27.75000000",
-                "longitude": "-11.00000000"
-            },
-            {
-                "id": 67127,
-                "name": "Gueltat Zemmour",
-                "latitude": "25.14276000",
-                "longitude": "-12.37168000"
-            },
-            {
-                "id": 67154,
-                "name": "Laayoune",
-                "latitude": "27.83333000",
-                "longitude": "-12.33333000"
-            },
-            {
-                "id": 67220,
-                "name": "Smara",
-                "latitude": "26.73841000",
-                "longitude": "-11.67194000"
-            },
-            {
-                "id": 67239,
-                "name": "Tarfaya",
-                "latitude": "27.93901000",
-                "longitude": "-12.92082000"
-            }
-        ]
-    },
-    {
-        "id": 3268,
-        "name": "Larache Province",
-        "state_code": "LAR",
-        "latitude": "35.17442710",
-        "longitude": "-6.14739640",
-        "country_id": 149,
-        "cities": []
-    },
-    {
-        "id": 3288,
-        "name": "Marrakesh-Safi",
-        "state_code": "07",
-        "latitude": "31.73308330",
-        "longitude": "-8.13385580",
-        "country_id": 149,
-        "cities": []
-    },
-    {
-        "id": 3284,
-        "name": "Mediouna Province",
-        "state_code": "MED",
-        "latitude": "33.45409390",
-        "longitude": "-7.51660200",
-        "country_id": 149,
-        "cities": []
-    },
-    {
-        "id": 3315,
-        "name": "Moulay Yacoub Province",
-        "state_code": "MOU",
-        "latitude": "34.08744790",
-        "longitude": "-5.17840190",
-        "country_id": 149,
-        "cities": []
-    },
-    {
-        "id": 3281,
-        "name": "Nador Province",
-        "state_code": "NAD",
-        "latitude": "34.91719260",
-        "longitude": "-2.85771050",
-        "country_id": 149,
-        "cities": []
-    },
-    {
-        "id": 3287,
-        "name": "Nouaceur Province",
-        "state_code": "NOU",
-        "latitude": "33.36703930",
-        "longitude": "-7.57325370",
-        "country_id": 149,
-        "cities": []
-    },
-    {
         "id": 3271,
-        "name": "Oriental",
+        "name": "L'Oriental",
         "state_code": "02",
         "latitude": "37.06968300",
         "longitude": "-94.51227700",
@@ -481898,8 +481855,168 @@
         ]
     },
     {
+        "id": 3293,
+        "name": "Laâyoune (EH)",
+        "state_code": "LAA",
+        "latitude": "27.15003840",
+        "longitude": "-13.19907580",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 3298,
+        "name": "Laâyoune-Sakia El Hamra (EH-partial)",
+        "state_code": "11",
+        "latitude": "27.86831940",
+        "longitude": "-11.98046130",
+        "country_id": 149,
+        "cities": [
+            {
+                "id": 67052,
+                "name": "Akhfennir",
+                "latitude": "28.09455000",
+                "longitude": "-12.05157000"
+            },
+            {
+                "id": 67089,
+                "name": "Boujdour",
+                "latitude": "25.66172000",
+                "longitude": "-13.68419000"
+            },
+            {
+                "id": 67115,
+                "name": "Es-Semara",
+                "latitude": "27.75000000",
+                "longitude": "-11.00000000"
+            },
+            {
+                "id": 67127,
+                "name": "Gueltat Zemmour",
+                "latitude": "25.14276000",
+                "longitude": "-12.37168000"
+            },
+            {
+                "id": 67154,
+                "name": "Laayoune",
+                "latitude": "27.83333000",
+                "longitude": "-12.33333000"
+            },
+            {
+                "id": 67220,
+                "name": "Smara",
+                "latitude": "26.73841000",
+                "longitude": "-11.67194000"
+            },
+            {
+                "id": 67239,
+                "name": "Tarfaya",
+                "latitude": "27.93901000",
+                "longitude": "-12.92082000"
+            }
+        ]
+    },
+    {
+        "id": 3268,
+        "name": "Larache",
+        "state_code": "LAR",
+        "latitude": "35.17442710",
+        "longitude": "-6.14739640",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4936,
+        "name": "M’diq-Fnideq",
+        "state_code": "MDF",
+        "latitude": "35.77330190",
+        "longitude": "-5.51433000",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4935,
+        "name": "Marrakech",
+        "state_code": "MAR",
+        "latitude": "31.63460230",
+        "longitude": "-8.07789320",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 3288,
+        "name": "Marrakesh-Safi",
+        "state_code": "07",
+        "latitude": "31.73308330",
+        "longitude": "-8.13385580",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 3284,
+        "name": "Médiouna",
+        "state_code": "MED",
+        "latitude": "33.45409390",
+        "longitude": "-7.51660200",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4937,
+        "name": "Meknès",
+        "state_code": "MEK",
+        "latitude": "33.88100000",
+        "longitude": "-5.57303970",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4938,
+        "name": "Midelt",
+        "state_code": "MID",
+        "latitude": "32.68550790",
+        "longitude": "-4.75017090",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4939,
+        "name": "Mohammadia",
+        "state_code": "MOH",
+        "latitude": "33.68737490",
+        "longitude": "-7.42391420",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 3315,
+        "name": "Moulay Yacoub",
+        "state_code": "MOU",
+        "latitude": "34.08744790",
+        "longitude": "-5.17840190",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 3281,
+        "name": "Nador",
+        "state_code": "NAD",
+        "latitude": "34.91719260",
+        "longitude": "-2.85771050",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 3287,
+        "name": "Nouaceur",
+        "state_code": "NOU",
+        "latitude": "33.36703930",
+        "longitude": "-7.57325370",
+        "country_id": 149,
+        "cities": []
+    },
+    {
         "id": 3269,
-        "name": "Ouarzazate Province",
+        "name": "Ouarzazate",
         "state_code": "OUA",
         "latitude": "30.93354360",
         "longitude": "-6.93701600",
@@ -481908,7 +482025,7 @@
     },
     {
         "id": 3319,
-        "name": "Oued Ed-Dahab Province",
+        "name": "Oued Ed-Dahab (EH)",
         "state_code": "OUD",
         "latitude": "22.73378920",
         "longitude": "-14.28611160",
@@ -481935,8 +482052,53 @@
         ]
     },
     {
+        "id": 4941,
+        "name": "Ouezzane",
+        "state_code": "OUZ",
+        "latitude": "34.80634500",
+        "longitude": "-5.59145050",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4940,
+        "name": "Oujda-Angad",
+        "state_code": "OUJ",
+        "latitude": "34.68375040",
+        "longitude": "-2.29932390",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4942,
+        "name": "Rabat",
+        "state_code": "RAB",
+        "latitude": "33.96919900",
+        "longitude": "-6.92730290",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4927,
+        "name": "Rabat-Salé-Kénitra",
+        "state_code": "04",
+        "latitude": "34.07686400",
+        "longitude": "-7.34544760",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4943,
+        "name": "Rehamna",
+        "state_code": "REH",
+        "latitude": "32.20329050",
+        "longitude": "-8.56896710",
+        "country_id": 149,
+        "cities": []
+    },
+    {
         "id": 3311,
-        "name": "Safi Province",
+        "name": "Safi",
         "state_code": "SAF",
         "latitude": "32.29898720",
         "longitude": "-9.10134980",
@@ -482071,8 +482233,17 @@
         ]
     },
     {
+        "id": 4944,
+        "name": "Salé",
+        "state_code": "SAL",
+        "latitude": "34.03775700",
+        "longitude": "-6.84270730",
+        "country_id": 149,
+        "cities": []
+    },
+    {
         "id": 3289,
-        "name": "Sefrou Province",
+        "name": "Sefrou",
         "state_code": "SEF",
         "latitude": "33.83052440",
         "longitude": "-4.83531540",
@@ -482081,7 +482252,7 @@
     },
     {
         "id": 3282,
-        "name": "Settat Province",
+        "name": "Settat",
         "state_code": "SET",
         "latitude": "32.99242420",
         "longitude": "-7.62226650",
@@ -482089,17 +482260,26 @@
         "cities": []
     },
     {
-        "id": 3302,
-        "name": "Shtouka Ait Baha Province",
-        "state_code": "CHT",
-        "latitude": "30.10724220",
-        "longitude": "-9.27855830",
+        "id": 4945,
+        "name": "Sidi Bennour",
+        "state_code": "SIB",
+        "latitude": "32.64926020",
+        "longitude": "-8.44714530",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4946,
+        "name": "Sidi Ifni",
+        "state_code": "SIF",
+        "latitude": "29.36657970",
+        "longitude": "-10.21084850",
         "country_id": 149,
         "cities": []
     },
     {
         "id": 3279,
-        "name": "Sidi Kacem Province",
+        "name": "Sidi Kacem",
         "state_code": "SIK",
         "latitude": "34.22601720",
         "longitude": "-5.71291640",
@@ -482107,11 +482287,20 @@
         "cities": []
     },
     {
-        "id": 3273,
-        "name": "Sidi Youssef Ben Ali",
-        "state_code": "SYB",
-        "latitude": "31.60843730",
-        "longitude": "-7.96530670",
+        "id": 4952,
+        "name": "Sidi Slimane",
+        "state_code": "SIL",
+        "latitude": "34.27378280",
+        "longitude": "-5.98059720",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4947,
+        "name": "Skhirate-Témara",
+        "state_code": "SKH",
+        "latitude": "33.76224250",
+        "longitude": "-7.04190520",
         "country_id": 149,
         "cities": []
     },
@@ -482126,10 +482315,19 @@
     },
     {
         "id": 3286,
-        "name": "Tan-Tan Province",
+        "name": "Tan-Tan (EH-partial)",
         "state_code": "TNT",
         "latitude": "28.03012000",
         "longitude": "-11.16173560",
+        "country_id": 149,
+        "cities": []
+    },
+    {
+        "id": 4950,
+        "name": "Tanger-Assilah",
+        "state_code": "TNG",
+        "latitude": "35.76325390",
+        "longitude": "-5.90450980",
         "country_id": 149,
         "cities": []
     },
@@ -482313,7 +482511,7 @@
     },
     {
         "id": 3323,
-        "name": "Taounate Province",
+        "name": "Taounate",
         "state_code": "TAO",
         "latitude": "34.53691700",
         "longitude": "-4.63986930",
@@ -482322,7 +482520,7 @@
     },
     {
         "id": 3322,
-        "name": "Taourirt Province",
+        "name": "Taourirt",
         "state_code": "TAI",
         "latitude": "34.21259800",
         "longitude": "-2.69838680",
@@ -482330,8 +482528,17 @@
         "cities": []
     },
     {
+        "id": 4948,
+        "name": "Tarfaya (EH-partial)",
+        "state_code": "TAF",
+        "latitude": "27.93777010",
+        "longitude": "-12.92940630",
+        "country_id": 149,
+        "cities": []
+    },
+    {
         "id": 3314,
-        "name": "Taroudant Province",
+        "name": "Taroudannt",
         "state_code": "TAR",
         "latitude": "30.47271260",
         "longitude": "-8.87487650",
@@ -482340,7 +482547,7 @@
     },
     {
         "id": 3312,
-        "name": "Tata Province",
+        "name": "Tata",
         "state_code": "TAT",
         "latitude": "29.75087700",
         "longitude": "-7.97563430",
@@ -482349,7 +482556,7 @@
     },
     {
         "id": 3296,
-        "name": "Taza Province",
+        "name": "Taza",
         "state_code": "TAZ",
         "latitude": "34.27889530",
         "longitude": "-3.58126920",
@@ -482358,7 +482565,7 @@
     },
     {
         "id": 3318,
-        "name": "Tétouan Province",
+        "name": "Tétouan",
         "state_code": "TET",
         "latitude": "35.58889950",
         "longitude": "-5.36255160",
@@ -482366,8 +482573,17 @@
         "cities": []
     },
     {
+        "id": 4949,
+        "name": "Tinghir",
+        "state_code": "TIN",
+        "latitude": "31.48507940",
+        "longitude": "-6.20192980",
+        "country_id": 149,
+        "cities": []
+    },
+    {
         "id": 3277,
-        "name": "Tiznit Province",
+        "name": "Tiznit",
         "state_code": "TIZ",
         "latitude": "29.69339200",
         "longitude": "-9.73215700",
@@ -482375,8 +482591,17 @@
         "cities": []
     },
     {
+        "id": 4951,
+        "name": "Youssoufia",
+        "state_code": "YUS",
+        "latitude": "32.02006790",
+        "longitude": "-8.86926480",
+        "country_id": 149,
+        "cities": []
+    },
+    {
         "id": 3283,
-        "name": "Zagora Province",
+        "name": "Zagora",
         "state_code": "ZAG",
         "latitude": "30.57860930",
         "longitude": "-5.89871390",
@@ -497638,7 +497863,7 @@
     },
     {
         "id": 303,
-        "name": "Abia State",
+        "name": "Abia",
         "state_code": "AB",
         "latitude": "5.45273540",
         "longitude": "7.52484140",
@@ -497683,8 +497908,42 @@
         ]
     },
     {
+        "id": 293,
+        "name": "Abuja Federal Capital Territory",
+        "state_code": "FC",
+        "latitude": "8.89406910",
+        "longitude": "7.18604020",
+        "country_id": 161,
+        "cities": [
+            {
+                "id": 76749,
+                "name": "Abuja",
+                "latitude": "9.05785000",
+                "longitude": "7.49508000"
+            },
+            {
+                "id": 76990,
+                "name": "Kuje",
+                "latitude": "8.87952000",
+                "longitude": "7.22756000"
+            },
+            {
+                "id": 76997,
+                "name": "Kwali",
+                "latitude": "8.88346000",
+                "longitude": "7.01858000"
+            },
+            {
+                "id": 77014,
+                "name": "Madala",
+                "latitude": "9.10444000",
+                "longitude": "7.21333000"
+            }
+        ]
+    },
+    {
         "id": 320,
-        "name": "Adamawa State",
+        "name": "Adamawa",
         "state_code": "AD",
         "latitude": "9.32647510",
         "longitude": "12.39838530",
@@ -497760,7 +498019,7 @@
     },
     {
         "id": 304,
-        "name": "Akwa Ibom State",
+        "name": "Akwa Ibom",
         "state_code": "AK",
         "latitude": "4.90573710",
         "longitude": "7.85366750",
@@ -497800,7 +498059,7 @@
     },
     {
         "id": 315,
-        "name": "Anambra State",
+        "name": "Anambra",
         "state_code": "AN",
         "latitude": "6.22089970",
         "longitude": "6.93695590",
@@ -497882,7 +498141,7 @@
     },
     {
         "id": 312,
-        "name": "Bauchi State",
+        "name": "Bauchi",
         "state_code": "BA",
         "latitude": "10.77606240",
         "longitude": "9.99919430",
@@ -498018,7 +498277,7 @@
     },
     {
         "id": 305,
-        "name": "Bayelsa State",
+        "name": "Bayelsa",
         "state_code": "BY",
         "latitude": "4.77190710",
         "longitude": "6.06985260",
@@ -498046,7 +498305,7 @@
     },
     {
         "id": 291,
-        "name": "Benue State",
+        "name": "Benue",
         "state_code": "BE",
         "latitude": "7.33690240",
         "longitude": "8.74036870",
@@ -498116,7 +498375,7 @@
     },
     {
         "id": 307,
-        "name": "Borno State",
+        "name": "Borno",
         "state_code": "BO",
         "latitude": "11.88463560",
         "longitude": "13.15196650",
@@ -498258,7 +498517,7 @@
     },
     {
         "id": 314,
-        "name": "Cross River State",
+        "name": "Cross River",
         "state_code": "CR",
         "latitude": "5.87017240",
         "longitude": "8.59880140",
@@ -498298,7 +498557,7 @@
     },
     {
         "id": 316,
-        "name": "Delta State",
+        "name": "Delta",
         "state_code": "DE",
         "latitude": "33.74537840",
         "longitude": "-90.73545080",
@@ -498392,7 +498651,7 @@
     },
     {
         "id": 311,
-        "name": "Ebonyi State",
+        "name": "Ebonyi",
         "state_code": "EB",
         "latitude": "6.26492320",
         "longitude": "8.01373020",
@@ -498432,7 +498691,7 @@
     },
     {
         "id": 318,
-        "name": "Edo State",
+        "name": "Edo",
         "state_code": "ED",
         "latitude": "6.63418310",
         "longitude": "5.93040560",
@@ -498496,7 +498755,7 @@
     },
     {
         "id": 309,
-        "name": "Ekiti State",
+        "name": "Ekiti",
         "state_code": "EK",
         "latitude": "7.71898620",
         "longitude": "5.31095050",
@@ -498584,7 +498843,7 @@
     },
     {
         "id": 289,
-        "name": "Enugu State",
+        "name": "Enugu",
         "state_code": "EN",
         "latitude": "6.53635300",
         "longitude": "7.43561940",
@@ -498683,42 +498942,8 @@
         ]
     },
     {
-        "id": 293,
-        "name": "Federal Capital Territory",
-        "state_code": "FC",
-        "latitude": "8.89406910",
-        "longitude": "7.18604020",
-        "country_id": 161,
-        "cities": [
-            {
-                "id": 76749,
-                "name": "Abuja",
-                "latitude": "9.05785000",
-                "longitude": "7.49508000"
-            },
-            {
-                "id": 76990,
-                "name": "Kuje",
-                "latitude": "8.87952000",
-                "longitude": "7.22756000"
-            },
-            {
-                "id": 76997,
-                "name": "Kwali",
-                "latitude": "8.88346000",
-                "longitude": "7.01858000"
-            },
-            {
-                "id": 77014,
-                "name": "Madala",
-                "latitude": "9.10444000",
-                "longitude": "7.21333000"
-            }
-        ]
-    },
-    {
         "id": 310,
-        "name": "Gombe State",
+        "name": "Gombe",
         "state_code": "GO",
         "latitude": "10.36377950",
         "longitude": "11.19275870",
@@ -498812,7 +499037,7 @@
     },
     {
         "id": 308,
-        "name": "Imo State",
+        "name": "Imo",
         "state_code": "IM",
         "latitude": "5.57201220",
         "longitude": "7.05882190",
@@ -498858,7 +499083,7 @@
     },
     {
         "id": 288,
-        "name": "Jigawa State",
+        "name": "Jigawa",
         "state_code": "JI",
         "latitude": "12.22801200",
         "longitude": "9.56158670",
@@ -498952,7 +499177,7 @@
     },
     {
         "id": 294,
-        "name": "Kaduna State",
+        "name": "Kaduna",
         "state_code": "KD",
         "latitude": "10.37640060",
         "longitude": "7.70945370",
@@ -499058,7 +499283,7 @@
     },
     {
         "id": 300,
-        "name": "Kano State",
+        "name": "Kano",
         "state_code": "KN",
         "latitude": "11.74706980",
         "longitude": "8.52471070",
@@ -499086,7 +499311,7 @@
     },
     {
         "id": 313,
-        "name": "Katsina State",
+        "name": "Katsina",
         "state_code": "KT",
         "latitude": "12.37967070",
         "longitude": "7.63057480",
@@ -499180,7 +499405,7 @@
     },
     {
         "id": 290,
-        "name": "Kebbi State",
+        "name": "Kebbi",
         "state_code": "KE",
         "latitude": "11.49420030",
         "longitude": "4.23333550",
@@ -499298,7 +499523,7 @@
     },
     {
         "id": 298,
-        "name": "Kogi State",
+        "name": "Kogi",
         "state_code": "KO",
         "latitude": "7.73373250",
         "longitude": "6.69058360",
@@ -499398,7 +499623,7 @@
     },
     {
         "id": 295,
-        "name": "Kwara State",
+        "name": "Kwara",
         "state_code": "KW",
         "latitude": "8.96689610",
         "longitude": "4.38740510",
@@ -499544,7 +499769,7 @@
     },
     {
         "id": 301,
-        "name": "Nasarawa State",
+        "name": "Nasarawa",
         "state_code": "NA",
         "latitude": "8.49979080",
         "longitude": "8.19969370",
@@ -499590,7 +499815,7 @@
     },
     {
         "id": 317,
-        "name": "Niger State",
+        "name": "Niger",
         "state_code": "NI",
         "latitude": "9.93092240",
         "longitude": "5.59832100",
@@ -499714,7 +499939,7 @@
     },
     {
         "id": 323,
-        "name": "Ogun State",
+        "name": "Ogun",
         "state_code": "OG",
         "latitude": "6.99797470",
         "longitude": "3.47373780",
@@ -499796,7 +500021,7 @@
     },
     {
         "id": 321,
-        "name": "Ondo State",
+        "name": "Ondo",
         "state_code": "ON",
         "latitude": "6.91486820",
         "longitude": "5.14781440",
@@ -499860,7 +500085,7 @@
     },
     {
         "id": 322,
-        "name": "Osun State",
+        "name": "Osun",
         "state_code": "OS",
         "latitude": "7.56289640",
         "longitude": "4.51995930",
@@ -499978,7 +500203,7 @@
     },
     {
         "id": 296,
-        "name": "Oyo State",
+        "name": "Oyo",
         "state_code": "OY",
         "latitude": "8.15738090",
         "longitude": "3.61465340",
@@ -500072,7 +500297,7 @@
     },
     {
         "id": 302,
-        "name": "Plateau State",
+        "name": "Plateau",
         "state_code": "PL",
         "latitude": "9.21820930",
         "longitude": "9.51794880",
@@ -500141,8 +500366,96 @@
         ]
     },
     {
+        "id": 4926,
+        "name": "Rivers",
+        "state_code": "RI",
+        "latitude": "5.02134200",
+        "longitude": "6.43760220",
+        "country_id": 161,
+        "cities": [
+            {
+                "id": 148541,
+                "name": "Abalama",
+                "latitude": "4.76305556",
+                "longitude": "6.84027778"
+            },
+            {
+                "id": 148542,
+                "name": "Abonnema",
+                "latitude": "4.72311690",
+                "longitude": "6.77884610"
+            },
+            {
+                "id": 148543,
+                "name": "Ahoada",
+                "latitude": "5.08333333",
+                "longitude": "6.65000000"
+            },
+            {
+                "id": 148544,
+                "name": "Bori",
+                "latitude": "4.67277778",
+                "longitude": "7.37027778"
+            },
+            {
+                "id": 148545,
+                "name": "Buguma",
+                "latitude": "4.73333333",
+                "longitude": "6.86666667"
+            },
+            {
+                "id": 148546,
+                "name": "Chokocho",
+                "latitude": "4.99083300",
+                "longitude": "7.05444400"
+            },
+            {
+                "id": 148547,
+                "name": "Elele",
+                "latitude": "5.10184167",
+                "longitude": "6.81902222"
+            },
+            {
+                "id": 148548,
+                "name": "Obonoma",
+                "latitude": "4.71138889",
+                "longitude": "6.79083333"
+            },
+            {
+                "id": 148549,
+                "name": "Omoku",
+                "latitude": "5.34200000",
+                "longitude": "6.65600000"
+            },
+            {
+                "id": 148550,
+                "name": "Onne",
+                "latitude": "4.74444444",
+                "longitude": "7.03611111"
+            },
+            {
+                "id": 148551,
+                "name": "Opobo",
+                "latitude": "4.51138889",
+                "longitude": "7.54000000"
+            },
+            {
+                "id": 148552,
+                "name": "Port Harcourt",
+                "latitude": "4.75000000",
+                "longitude": "7.00000000"
+            },
+            {
+                "id": 148553,
+                "name": "Rumuokoro",
+                "latitude": "4.86666667",
+                "longitude": "6.98333333"
+            }
+        ]
+    },
+    {
         "id": 292,
-        "name": "Sokoto State",
+        "name": "Sokoto",
         "state_code": "SO",
         "latitude": "13.05331430",
         "longitude": "5.32227220",
@@ -500212,7 +500525,7 @@
     },
     {
         "id": 319,
-        "name": "Taraba State",
+        "name": "Taraba",
         "state_code": "TA",
         "latitude": "7.99936160",
         "longitude": "10.77398630",
@@ -500282,7 +500595,7 @@
     },
     {
         "id": 297,
-        "name": "Yobe State",
+        "name": "Yobe",
         "state_code": "YO",
         "latitude": "12.29387600",
         "longitude": "11.43904110",
@@ -500388,7 +500701,7 @@
     },
     {
         "id": 299,
-        "name": "Zamfara State",
+        "name": "Zamfara",
         "state_code": "ZA",
         "latitude": "12.12218050",
         "longitude": "6.22358190",

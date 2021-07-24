@@ -126833,466 +126833,6 @@
     </cities>
   </country_city>
   <country_city>
-    <id>51</id>
-    <name>Congo The Democratic Republic Of The</name>
-    <iso3>COD</iso3>
-    <iso2>CD</iso2>
-    <phone_code>243</phone_code>
-    <capital>Kinshasa</capital>
-    <currency>CDF</currency>
-    <currency_symbol>FC</currency_symbol>
-    <tld>.cd</tld>
-    <native>République démocratique du Congo</native>
-    <region>Africa</region>
-    <subregion>Middle Africa</subregion>
-    <timezones>
-      <zoneName>Africa/Kinshasa</zoneName>
-      <gmtOffset>3600</gmtOffset>
-      <gmtOffsetName>UTC+01:00</gmtOffsetName>
-      <abbreviation>WAT</abbreviation>
-      <tzName>West Africa Time</tzName>
-    </timezones>
-    <timezones>
-      <zoneName>Africa/Lubumbashi</zoneName>
-      <gmtOffset>7200</gmtOffset>
-      <gmtOffsetName>UTC+02:00</gmtOffsetName>
-      <abbreviation>CAT</abbreviation>
-      <tzName>Central Africa Time</tzName>
-    </timezones>
-    <translations>
-      <kr>콩고 민주 공화국</kr>
-      <br>RD Congo</br>
-      <pt>RD Congo</pt>
-      <nl>Congo [DRC]</nl>
-      <hr>Kongo, Demokratska Republika</hr>
-      <fa>جمهوری کنگو</fa>
-      <de>Kongo (Dem. Rep.)</de>
-      <es>Congo (Rep. Dem.)</es>
-      <fr>Congo (Rép. dém.)</fr>
-      <ja>コンゴ民主共和国</ja>
-      <it>Congo (Rep. Dem.)</it>
-      <cn>刚果（金）</cn>
-    </translations>
-    <latitude>0.00000000</latitude>
-    <longitude>25.00000000</longitude>
-    <emoji>🇨🇩</emoji>
-    <emojiU>U+1F1E8 U+1F1E9</emojiU>
-    <cities>
-      <id>17225</id>
-      <name>Aketi</name>
-      <latitude>2.73877000</latitude>
-      <longitude>23.78326000</longitude>
-    </cities>
-    <cities>
-      <id>17226</id>
-      <name>Bandundu</name>
-      <latitude>-3.31687000</latitude>
-      <longitude>17.38063000</longitude>
-    </cities>
-    <cities>
-      <id>17227</id>
-      <name>Basoko</name>
-      <latitude>1.23909000</latitude>
-      <longitude>23.61598000</longitude>
-    </cities>
-    <cities>
-      <id>17228</id>
-      <name>Beni</name>
-      <latitude>0.49113000</latitude>
-      <longitude>29.47306000</longitude>
-    </cities>
-    <cities>
-      <id>17229</id>
-      <name>Boende</name>
-      <latitude>-0.28163000</latitude>
-      <longitude>20.88053000</longitude>
-    </cities>
-    <cities>
-      <id>17230</id>
-      <name>Bolobo</name>
-      <latitude>-2.15800000</latitude>
-      <longitude>16.23249000</longitude>
-    </cities>
-    <cities>
-      <id>17231</id>
-      <name>Boma</name>
-      <latitude>-5.85098000</latitude>
-      <longitude>13.05364000</longitude>
-    </cities>
-    <cities>
-      <id>17232</id>
-      <name>Bondo</name>
-      <latitude>3.81461000</latitude>
-      <longitude>23.68665000</longitude>
-    </cities>
-    <cities>
-      <id>17233</id>
-      <name>Bongandanga</name>
-      <latitude>1.50695000</latitude>
-      <longitude>21.07260000</longitude>
-    </cities>
-    <cities>
-      <id>17234</id>
-      <name>Bosobolo</name>
-      <latitude>4.18980000</latitude>
-      <longitude>19.88330000</longitude>
-    </cities>
-    <cities>
-      <id>17235</id>
-      <name>Bukama</name>
-      <latitude>-9.20443000</latitude>
-      <longitude>25.85475000</longitude>
-    </cities>
-    <cities>
-      <id>17236</id>
-      <name>Bukavu</name>
-      <latitude>-2.49077000</latitude>
-      <longitude>28.84281000</longitude>
-    </cities>
-    <cities>
-      <id>17237</id>
-      <name>Bulungu</name>
-      <latitude>-4.54437000</latitude>
-      <longitude>18.60364000</longitude>
-    </cities>
-    <cities>
-      <id>17238</id>
-      <name>Bumba</name>
-      <latitude>2.18771000</latitude>
-      <longitude>22.46827000</longitude>
-    </cities>
-    <cities>
-      <id>17239</id>
-      <name>Bunia</name>
-      <latitude>1.55941000</latitude>
-      <longitude>30.25224000</longitude>
-    </cities>
-    <cities>
-      <id>17240</id>
-      <name>Businga</name>
-      <latitude>3.33863000</latitude>
-      <longitude>20.88577000</longitude>
-    </cities>
-    <cities>
-      <id>17241</id>
-      <name>Buta</name>
-      <latitude>2.78582000</latitude>
-      <longitude>24.72997000</longitude>
-    </cities>
-    <cities>
-      <id>17242</id>
-      <name>Butembo</name>
-      <latitude>0.14164000</latitude>
-      <longitude>29.29117000</longitude>
-    </cities>
-    <cities>
-      <id>17243</id>
-      <name>Gandajika</name>
-      <latitude>-6.74504000</latitude>
-      <longitude>23.95328000</longitude>
-    </cities>
-    <cities>
-      <id>17244</id>
-      <name>Gbadolite</name>
-      <latitude>4.27900000</latitude>
-      <longitude>21.00284000</longitude>
-    </cities>
-    <cities>
-      <id>17245</id>
-      <name>Gemena</name>
-      <latitude>3.25651000</latitude>
-      <longitude>19.77234000</longitude>
-    </cities>
-    <cities>
-      <id>17246</id>
-      <name>Goma</name>
-      <latitude>-1.67409000</latitude>
-      <longitude>29.22845000</longitude>
-    </cities>
-    <cities>
-      <id>17247</id>
-      <name>Haut Katanga</name>
-      <latitude>-10.46044000</latitude>
-      <longitude>27.94322000</longitude>
-    </cities>
-    <cities>
-      <id>17248</id>
-      <name>Ilebo</name>
-      <latitude>-4.33111000</latitude>
-      <longitude>20.58638000</longitude>
-    </cities>
-    <cities>
-      <id>17249</id>
-      <name>Inongo</name>
-      <latitude>-1.92750000</latitude>
-      <longitude>18.28810000</longitude>
-    </cities>
-    <cities>
-      <id>17250</id>
-      <name>Isiro</name>
-      <latitude>2.77391000</latitude>
-      <longitude>27.61603000</longitude>
-    </cities>
-    <cities>
-      <id>17251</id>
-      <name>Kabalo</name>
-      <latitude>-6.05255000</latitude>
-      <longitude>26.91430000</longitude>
-    </cities>
-    <cities>
-      <id>17252</id>
-      <name>Kabare</name>
-      <latitude>-2.49682000</latitude>
-      <longitude>28.79081000</longitude>
-    </cities>
-    <cities>
-      <id>17253</id>
-      <name>Kabinda</name>
-      <latitude>-6.13791000</latitude>
-      <longitude>24.48179000</longitude>
-    </cities>
-    <cities>
-      <id>17254</id>
-      <name>Kalemie</name>
-      <latitude>-5.94749000</latitude>
-      <longitude>29.19471000</longitude>
-    </cities>
-    <cities>
-      <id>17255</id>
-      <name>Kambove</name>
-      <latitude>-10.87352000</latitude>
-      <longitude>26.59746000</longitude>
-    </cities>
-    <cities>
-      <id>17256</id>
-      <name>Kamina</name>
-      <latitude>-8.73508000</latitude>
-      <longitude>24.99798000</longitude>
-    </cities>
-    <cities>
-      <id>17257</id>
-      <name>Kampene</name>
-      <latitude>-3.59678000</latitude>
-      <longitude>26.66715000</longitude>
-    </cities>
-    <cities>
-      <id>17258</id>
-      <name>Kasangulu</name>
-      <latitude>-4.58330000</latitude>
-      <longitude>15.16554000</longitude>
-    </cities>
-    <cities>
-      <id>17259</id>
-      <name>Kasongo</name>
-      <latitude>-4.42741000</latitude>
-      <longitude>26.66656000</longitude>
-    </cities>
-    <cities>
-      <id>17260</id>
-      <name>Kasongo-Lunda</name>
-      <latitude>-6.47833000</latitude>
-      <longitude>16.81735000</longitude>
-    </cities>
-    <cities>
-      <id>17261</id>
-      <name>Kikwit</name>
-      <latitude>-5.04098000</latitude>
-      <longitude>18.81619000</longitude>
-    </cities>
-    <cities>
-      <id>17262</id>
-      <name>Kindu</name>
-      <latitude>-2.94373000</latitude>
-      <longitude>25.92237000</longitude>
-    </cities>
-    <cities>
-      <id>17263</id>
-      <name>Kinshasa</name>
-      <latitude>-4.32758000</latitude>
-      <longitude>15.31357000</longitude>
-    </cities>
-    <cities>
-      <id>17264</id>
-      <name>Kipushi</name>
-      <latitude>-11.76097000</latitude>
-      <longitude>27.25135000</longitude>
-    </cities>
-    <cities>
-      <id>17265</id>
-      <name>Kisangani</name>
-      <latitude>0.51528000</latitude>
-      <longitude>25.19099000</longitude>
-    </cities>
-    <cities>
-      <id>17266</id>
-      <name>Kongolo</name>
-      <latitude>-5.38532000</latitude>
-      <longitude>27.00029000</longitude>
-    </cities>
-    <cities>
-      <id>17267</id>
-      <name>Libenge</name>
-      <latitude>3.65332000</latitude>
-      <longitude>18.63566000</longitude>
-    </cities>
-    <cities>
-      <id>17268</id>
-      <name>Likasi</name>
-      <latitude>-10.98303000</latitude>
-      <longitude>26.73840000</longitude>
-    </cities>
-    <cities>
-      <id>17269</id>
-      <name>Lisala</name>
-      <latitude>2.15127000</latitude>
-      <longitude>21.51672000</longitude>
-    </cities>
-    <cities>
-      <id>17270</id>
-      <name>Lodja</name>
-      <latitude>-3.52105000</latitude>
-      <longitude>23.60050000</longitude>
-    </cities>
-    <cities>
-      <id>17271</id>
-      <name>Lubao</name>
-      <latitude>-5.38771000</latitude>
-      <longitude>25.74885000</longitude>
-    </cities>
-    <cities>
-      <id>17272</id>
-      <name>Lubumbashi</name>
-      <latitude>-11.66089000</latitude>
-      <longitude>27.47938000</longitude>
-    </cities>
-    <cities>
-      <id>17273</id>
-      <name>Luebo</name>
-      <latitude>-5.35218000</latitude>
-      <longitude>21.42192000</longitude>
-    </cities>
-    <cities>
-      <id>17274</id>
-      <name>Lukolela</name>
-      <latitude>-1.06046000</latitude>
-      <longitude>17.18210000</longitude>
-    </cities>
-    <cities>
-      <id>17275</id>
-      <name>Lusambo</name>
-      <latitude>-4.97503000</latitude>
-      <longitude>23.44391000</longitude>
-    </cities>
-    <cities>
-      <id>17276</id>
-      <name>Mangai</name>
-      <latitude>-4.02328000</latitude>
-      <longitude>19.53385000</longitude>
-    </cities>
-    <cities>
-      <id>17277</id>
-      <name>Masina</name>
-      <latitude>-4.38361000</latitude>
-      <longitude>15.39139000</longitude>
-    </cities>
-    <cities>
-      <id>17278</id>
-      <name>Matadi</name>
-      <latitude>-5.83861000</latitude>
-      <longitude>13.46306000</longitude>
-    </cities>
-    <cities>
-      <id>17279</id>
-      <name>Mbandaka</name>
-      <latitude>0.04865000</latitude>
-      <longitude>18.26034000</longitude>
-    </cities>
-    <cities>
-      <id>17280</id>
-      <name>Mbanza-Ngungu</name>
-      <latitude>-5.25837000</latitude>
-      <longitude>14.85838000</longitude>
-    </cities>
-    <cities>
-      <id>17281</id>
-      <name>Mbuji-Mayi</name>
-      <latitude>-6.13603000</latitude>
-      <longitude>23.58979000</longitude>
-    </cities>
-    <cities>
-      <id>17282</id>
-      <name>Moanda</name>
-      <latitude>-5.92753000</latitude>
-      <longitude>12.37148000</longitude>
-    </cities>
-    <cities>
-      <id>17283</id>
-      <name>Mushie</name>
-      <latitude>-3.01728000</latitude>
-      <longitude>16.92238000</longitude>
-    </cities>
-    <cities>
-      <id>17284</id>
-      <name>Mweka</name>
-      <latitude>-4.85187000</latitude>
-      <longitude>21.55950000</longitude>
-    </cities>
-    <cities>
-      <id>17285</id>
-      <name>Mwene-Ditu</name>
-      <latitude>-7.00906000</latitude>
-      <longitude>23.45278000</longitude>
-    </cities>
-    <cities>
-      <id>17286</id>
-      <name>Nioki</name>
-      <latitude>-2.72037000</latitude>
-      <longitude>17.69001000</longitude>
-    </cities>
-    <cities>
-      <id>17287</id>
-      <name>Sake</name>
-      <latitude>-1.57386000</latitude>
-      <longitude>29.04339000</longitude>
-    </cities>
-    <cities>
-      <id>17288</id>
-      <name>Tshela</name>
-      <latitude>-4.99707000</latitude>
-      <longitude>12.94840000</longitude>
-    </cities>
-    <cities>
-      <id>17289</id>
-      <name>Tshikapa</name>
-      <latitude>-6.41621000</latitude>
-      <longitude>20.79995000</longitude>
-    </cities>
-    <cities>
-      <id>17290</id>
-      <name>Uvira</name>
-      <latitude>-3.39534000</latitude>
-      <longitude>29.13779000</longitude>
-    </cities>
-    <cities>
-      <id>17291</id>
-      <name>Wamba</name>
-      <latitude>2.14838000</latitude>
-      <longitude>27.99466000</longitude>
-    </cities>
-    <cities>
-      <id>17292</id>
-      <name>Watsa</name>
-      <latitude>3.03716000</latitude>
-      <longitude>29.53551000</longitude>
-    </cities>
-    <cities>
-      <id>17293</id>
-      <name>Yangambi</name>
-      <latitude>0.76755000</latitude>
-      <longitude>24.43973000</longitude>
-    </cities>
-  </country_city>
-  <country_city>
     <id>52</id>
     <name>Cook Islands</name>
     <iso3>COK</iso3>
@@ -142878,6 +142418,466 @@
       <name>Zvole</name>
       <latitude>49.93466000</latitude>
       <longitude>14.41769000</longitude>
+    </cities>
+  </country_city>
+  <country_city>
+    <id>51</id>
+    <name>Democratic Republic of the Congo</name>
+    <iso3>COD</iso3>
+    <iso2>CD</iso2>
+    <phone_code>243</phone_code>
+    <capital>Kinshasa</capital>
+    <currency>CDF</currency>
+    <currency_symbol>FC</currency_symbol>
+    <tld>.cd</tld>
+    <native>République démocratique du Congo</native>
+    <region>Africa</region>
+    <subregion>Middle Africa</subregion>
+    <timezones>
+      <zoneName>Africa/Kinshasa</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>WAT</abbreviation>
+      <tzName>West Africa Time</tzName>
+    </timezones>
+    <timezones>
+      <zoneName>Africa/Lubumbashi</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>CAT</abbreviation>
+      <tzName>Central Africa Time</tzName>
+    </timezones>
+    <translations>
+      <kr>콩고 민주 공화국</kr>
+      <br>RD Congo</br>
+      <pt>RD Congo</pt>
+      <nl>Congo [DRC]</nl>
+      <hr>Kongo, Demokratska Republika</hr>
+      <fa>جمهوری کنگو</fa>
+      <de>Kongo (Dem. Rep.)</de>
+      <es>Congo (Rep. Dem.)</es>
+      <fr>Congo (Rép. dém.)</fr>
+      <ja>コンゴ民主共和国</ja>
+      <it>Congo (Rep. Dem.)</it>
+      <cn>刚果（金）</cn>
+    </translations>
+    <latitude>0.00000000</latitude>
+    <longitude>25.00000000</longitude>
+    <emoji>🇨🇩</emoji>
+    <emojiU>U+1F1E8 U+1F1E9</emojiU>
+    <cities>
+      <id>17225</id>
+      <name>Aketi</name>
+      <latitude>2.73877000</latitude>
+      <longitude>23.78326000</longitude>
+    </cities>
+    <cities>
+      <id>17226</id>
+      <name>Bandundu</name>
+      <latitude>-3.31687000</latitude>
+      <longitude>17.38063000</longitude>
+    </cities>
+    <cities>
+      <id>17227</id>
+      <name>Basoko</name>
+      <latitude>1.23909000</latitude>
+      <longitude>23.61598000</longitude>
+    </cities>
+    <cities>
+      <id>17228</id>
+      <name>Beni</name>
+      <latitude>0.49113000</latitude>
+      <longitude>29.47306000</longitude>
+    </cities>
+    <cities>
+      <id>17229</id>
+      <name>Boende</name>
+      <latitude>-0.28163000</latitude>
+      <longitude>20.88053000</longitude>
+    </cities>
+    <cities>
+      <id>17230</id>
+      <name>Bolobo</name>
+      <latitude>-2.15800000</latitude>
+      <longitude>16.23249000</longitude>
+    </cities>
+    <cities>
+      <id>17231</id>
+      <name>Boma</name>
+      <latitude>-5.85098000</latitude>
+      <longitude>13.05364000</longitude>
+    </cities>
+    <cities>
+      <id>17232</id>
+      <name>Bondo</name>
+      <latitude>3.81461000</latitude>
+      <longitude>23.68665000</longitude>
+    </cities>
+    <cities>
+      <id>17233</id>
+      <name>Bongandanga</name>
+      <latitude>1.50695000</latitude>
+      <longitude>21.07260000</longitude>
+    </cities>
+    <cities>
+      <id>17234</id>
+      <name>Bosobolo</name>
+      <latitude>4.18980000</latitude>
+      <longitude>19.88330000</longitude>
+    </cities>
+    <cities>
+      <id>17235</id>
+      <name>Bukama</name>
+      <latitude>-9.20443000</latitude>
+      <longitude>25.85475000</longitude>
+    </cities>
+    <cities>
+      <id>17236</id>
+      <name>Bukavu</name>
+      <latitude>-2.49077000</latitude>
+      <longitude>28.84281000</longitude>
+    </cities>
+    <cities>
+      <id>17237</id>
+      <name>Bulungu</name>
+      <latitude>-4.54437000</latitude>
+      <longitude>18.60364000</longitude>
+    </cities>
+    <cities>
+      <id>17238</id>
+      <name>Bumba</name>
+      <latitude>2.18771000</latitude>
+      <longitude>22.46827000</longitude>
+    </cities>
+    <cities>
+      <id>17239</id>
+      <name>Bunia</name>
+      <latitude>1.55941000</latitude>
+      <longitude>30.25224000</longitude>
+    </cities>
+    <cities>
+      <id>17240</id>
+      <name>Businga</name>
+      <latitude>3.33863000</latitude>
+      <longitude>20.88577000</longitude>
+    </cities>
+    <cities>
+      <id>17241</id>
+      <name>Buta</name>
+      <latitude>2.78582000</latitude>
+      <longitude>24.72997000</longitude>
+    </cities>
+    <cities>
+      <id>17242</id>
+      <name>Butembo</name>
+      <latitude>0.14164000</latitude>
+      <longitude>29.29117000</longitude>
+    </cities>
+    <cities>
+      <id>17243</id>
+      <name>Gandajika</name>
+      <latitude>-6.74504000</latitude>
+      <longitude>23.95328000</longitude>
+    </cities>
+    <cities>
+      <id>17244</id>
+      <name>Gbadolite</name>
+      <latitude>4.27900000</latitude>
+      <longitude>21.00284000</longitude>
+    </cities>
+    <cities>
+      <id>17245</id>
+      <name>Gemena</name>
+      <latitude>3.25651000</latitude>
+      <longitude>19.77234000</longitude>
+    </cities>
+    <cities>
+      <id>17246</id>
+      <name>Goma</name>
+      <latitude>-1.67409000</latitude>
+      <longitude>29.22845000</longitude>
+    </cities>
+    <cities>
+      <id>17247</id>
+      <name>Haut Katanga</name>
+      <latitude>-10.46044000</latitude>
+      <longitude>27.94322000</longitude>
+    </cities>
+    <cities>
+      <id>17248</id>
+      <name>Ilebo</name>
+      <latitude>-4.33111000</latitude>
+      <longitude>20.58638000</longitude>
+    </cities>
+    <cities>
+      <id>17249</id>
+      <name>Inongo</name>
+      <latitude>-1.92750000</latitude>
+      <longitude>18.28810000</longitude>
+    </cities>
+    <cities>
+      <id>17250</id>
+      <name>Isiro</name>
+      <latitude>2.77391000</latitude>
+      <longitude>27.61603000</longitude>
+    </cities>
+    <cities>
+      <id>17251</id>
+      <name>Kabalo</name>
+      <latitude>-6.05255000</latitude>
+      <longitude>26.91430000</longitude>
+    </cities>
+    <cities>
+      <id>17252</id>
+      <name>Kabare</name>
+      <latitude>-2.49682000</latitude>
+      <longitude>28.79081000</longitude>
+    </cities>
+    <cities>
+      <id>17253</id>
+      <name>Kabinda</name>
+      <latitude>-6.13791000</latitude>
+      <longitude>24.48179000</longitude>
+    </cities>
+    <cities>
+      <id>17254</id>
+      <name>Kalemie</name>
+      <latitude>-5.94749000</latitude>
+      <longitude>29.19471000</longitude>
+    </cities>
+    <cities>
+      <id>17255</id>
+      <name>Kambove</name>
+      <latitude>-10.87352000</latitude>
+      <longitude>26.59746000</longitude>
+    </cities>
+    <cities>
+      <id>17256</id>
+      <name>Kamina</name>
+      <latitude>-8.73508000</latitude>
+      <longitude>24.99798000</longitude>
+    </cities>
+    <cities>
+      <id>17257</id>
+      <name>Kampene</name>
+      <latitude>-3.59678000</latitude>
+      <longitude>26.66715000</longitude>
+    </cities>
+    <cities>
+      <id>17258</id>
+      <name>Kasangulu</name>
+      <latitude>-4.58330000</latitude>
+      <longitude>15.16554000</longitude>
+    </cities>
+    <cities>
+      <id>17259</id>
+      <name>Kasongo</name>
+      <latitude>-4.42741000</latitude>
+      <longitude>26.66656000</longitude>
+    </cities>
+    <cities>
+      <id>17260</id>
+      <name>Kasongo-Lunda</name>
+      <latitude>-6.47833000</latitude>
+      <longitude>16.81735000</longitude>
+    </cities>
+    <cities>
+      <id>17261</id>
+      <name>Kikwit</name>
+      <latitude>-5.04098000</latitude>
+      <longitude>18.81619000</longitude>
+    </cities>
+    <cities>
+      <id>17262</id>
+      <name>Kindu</name>
+      <latitude>-2.94373000</latitude>
+      <longitude>25.92237000</longitude>
+    </cities>
+    <cities>
+      <id>17263</id>
+      <name>Kinshasa</name>
+      <latitude>-4.32758000</latitude>
+      <longitude>15.31357000</longitude>
+    </cities>
+    <cities>
+      <id>17264</id>
+      <name>Kipushi</name>
+      <latitude>-11.76097000</latitude>
+      <longitude>27.25135000</longitude>
+    </cities>
+    <cities>
+      <id>17265</id>
+      <name>Kisangani</name>
+      <latitude>0.51528000</latitude>
+      <longitude>25.19099000</longitude>
+    </cities>
+    <cities>
+      <id>17266</id>
+      <name>Kongolo</name>
+      <latitude>-5.38532000</latitude>
+      <longitude>27.00029000</longitude>
+    </cities>
+    <cities>
+      <id>17267</id>
+      <name>Libenge</name>
+      <latitude>3.65332000</latitude>
+      <longitude>18.63566000</longitude>
+    </cities>
+    <cities>
+      <id>17268</id>
+      <name>Likasi</name>
+      <latitude>-10.98303000</latitude>
+      <longitude>26.73840000</longitude>
+    </cities>
+    <cities>
+      <id>17269</id>
+      <name>Lisala</name>
+      <latitude>2.15127000</latitude>
+      <longitude>21.51672000</longitude>
+    </cities>
+    <cities>
+      <id>17270</id>
+      <name>Lodja</name>
+      <latitude>-3.52105000</latitude>
+      <longitude>23.60050000</longitude>
+    </cities>
+    <cities>
+      <id>17271</id>
+      <name>Lubao</name>
+      <latitude>-5.38771000</latitude>
+      <longitude>25.74885000</longitude>
+    </cities>
+    <cities>
+      <id>17272</id>
+      <name>Lubumbashi</name>
+      <latitude>-11.66089000</latitude>
+      <longitude>27.47938000</longitude>
+    </cities>
+    <cities>
+      <id>17273</id>
+      <name>Luebo</name>
+      <latitude>-5.35218000</latitude>
+      <longitude>21.42192000</longitude>
+    </cities>
+    <cities>
+      <id>17274</id>
+      <name>Lukolela</name>
+      <latitude>-1.06046000</latitude>
+      <longitude>17.18210000</longitude>
+    </cities>
+    <cities>
+      <id>17275</id>
+      <name>Lusambo</name>
+      <latitude>-4.97503000</latitude>
+      <longitude>23.44391000</longitude>
+    </cities>
+    <cities>
+      <id>17276</id>
+      <name>Mangai</name>
+      <latitude>-4.02328000</latitude>
+      <longitude>19.53385000</longitude>
+    </cities>
+    <cities>
+      <id>17277</id>
+      <name>Masina</name>
+      <latitude>-4.38361000</latitude>
+      <longitude>15.39139000</longitude>
+    </cities>
+    <cities>
+      <id>17278</id>
+      <name>Matadi</name>
+      <latitude>-5.83861000</latitude>
+      <longitude>13.46306000</longitude>
+    </cities>
+    <cities>
+      <id>17279</id>
+      <name>Mbandaka</name>
+      <latitude>0.04865000</latitude>
+      <longitude>18.26034000</longitude>
+    </cities>
+    <cities>
+      <id>17280</id>
+      <name>Mbanza-Ngungu</name>
+      <latitude>-5.25837000</latitude>
+      <longitude>14.85838000</longitude>
+    </cities>
+    <cities>
+      <id>17281</id>
+      <name>Mbuji-Mayi</name>
+      <latitude>-6.13603000</latitude>
+      <longitude>23.58979000</longitude>
+    </cities>
+    <cities>
+      <id>17282</id>
+      <name>Moanda</name>
+      <latitude>-5.92753000</latitude>
+      <longitude>12.37148000</longitude>
+    </cities>
+    <cities>
+      <id>17283</id>
+      <name>Mushie</name>
+      <latitude>-3.01728000</latitude>
+      <longitude>16.92238000</longitude>
+    </cities>
+    <cities>
+      <id>17284</id>
+      <name>Mweka</name>
+      <latitude>-4.85187000</latitude>
+      <longitude>21.55950000</longitude>
+    </cities>
+    <cities>
+      <id>17285</id>
+      <name>Mwene-Ditu</name>
+      <latitude>-7.00906000</latitude>
+      <longitude>23.45278000</longitude>
+    </cities>
+    <cities>
+      <id>17286</id>
+      <name>Nioki</name>
+      <latitude>-2.72037000</latitude>
+      <longitude>17.69001000</longitude>
+    </cities>
+    <cities>
+      <id>17287</id>
+      <name>Sake</name>
+      <latitude>-1.57386000</latitude>
+      <longitude>29.04339000</longitude>
+    </cities>
+    <cities>
+      <id>17288</id>
+      <name>Tshela</name>
+      <latitude>-4.99707000</latitude>
+      <longitude>12.94840000</longitude>
+    </cities>
+    <cities>
+      <id>17289</id>
+      <name>Tshikapa</name>
+      <latitude>-6.41621000</latitude>
+      <longitude>20.79995000</longitude>
+    </cities>
+    <cities>
+      <id>17290</id>
+      <name>Uvira</name>
+      <latitude>-3.39534000</latitude>
+      <longitude>29.13779000</longitude>
+    </cities>
+    <cities>
+      <id>17291</id>
+      <name>Wamba</name>
+      <latitude>2.14838000</latitude>
+      <longitude>27.99466000</longitude>
+    </cities>
+    <cities>
+      <id>17292</id>
+      <name>Watsa</name>
+      <latitude>3.03716000</latitude>
+      <longitude>29.53551000</longitude>
+    </cities>
+    <cities>
+      <id>17293</id>
+      <name>Yangambi</name>
+      <latitude>0.76755000</latitude>
+      <longitude>24.43973000</longitude>
     </cities>
   </country_city>
   <country_city>
@@ -476259,6 +476259,12 @@
       <longitude>8.11368000</longitude>
     </cities>
     <cities>
+      <id>148541</id>
+      <name>Abalama</name>
+      <latitude>4.76305556</latitude>
+      <longitude>6.84027778</longitude>
+    </cities>
+    <cities>
       <id>76746</id>
       <name>Abeokuta</name>
       <latitude>7.15571000</latitude>
@@ -476269,6 +476275,12 @@
       <name>Abocho</name>
       <latitude>7.56770000</latitude>
       <longitude>6.98630000</longitude>
+    </cities>
+    <cities>
+      <id>148542</id>
+      <name>Abonnema</name>
+      <latitude>4.72311690</latitude>
+      <longitude>6.77884610</longitude>
     </cities>
     <cities>
       <id>76748</id>
@@ -476341,6 +476353,12 @@
       <name>Agulu</name>
       <latitude>6.10045000</latitude>
       <longitude>7.06100000</longitude>
+    </cities>
+    <cities>
+      <id>148543</id>
+      <name>Ahoada</name>
+      <latitude>5.08333333</latitude>
+      <longitude>6.65000000</longitude>
     </cities>
     <cities>
       <id>76760</id>
@@ -476667,6 +476685,12 @@
       <longitude>5.92375000</longitude>
     </cities>
     <cities>
+      <id>148544</id>
+      <name>Bori</name>
+      <latitude>4.67277778</latitude>
+      <longitude>7.37027778</longitude>
+    </cities>
+    <cities>
       <id>76814</id>
       <name>Bornu Yassu</name>
       <latitude>12.27503000</latitude>
@@ -476683,6 +476707,12 @@
       <name>Bugana</name>
       <latitude>7.99917000</latitude>
       <longitude>7.58361000</longitude>
+    </cities>
+    <cities>
+      <id>148545</id>
+      <name>Buguma</name>
+      <latitude>4.73333333</latitude>
+      <longitude>6.86666667</longitude>
     </cities>
     <cities>
       <id>76817</id>
@@ -476713,6 +476743,12 @@
       <name>Calabar</name>
       <latitude>4.95893000</latitude>
       <longitude>8.32695000</longitude>
+    </cities>
+    <cities>
+      <id>148546</id>
+      <name>Chokocho</name>
+      <latitude>4.99083300</latitude>
+      <longitude>7.05444400</longitude>
     </cities>
     <cities>
       <id>76822</id>
@@ -476941,6 +476977,12 @@
       <name>Ekpoma</name>
       <latitude>6.74300000</latitude>
       <longitude>6.14029000</longitude>
+    </cities>
+    <cities>
+      <id>148547</id>
+      <name>Elele</name>
+      <latitude>5.10184167</latitude>
+      <longitude>6.81902222</longitude>
     </cities>
     <cities>
       <id>76860</id>
@@ -478077,6 +478119,12 @@
       <longitude>7.63333000</longitude>
     </cities>
     <cities>
+      <id>148548</id>
+      <name>Obonoma</name>
+      <latitude>4.71138889</latitude>
+      <longitude>6.79083333</longitude>
+    </cities>
+    <cities>
       <id>77049</id>
       <name>Ochobo</name>
       <latitude>7.18045000</latitude>
@@ -478173,6 +478221,12 @@
       <longitude>4.18333000</longitude>
     </cities>
     <cities>
+      <id>148549</id>
+      <name>Omoku</name>
+      <latitude>5.34200000</latitude>
+      <longitude>6.65600000</longitude>
+    </cities>
+    <cities>
       <id>77065</id>
       <name>Omu-Aran</name>
       <latitude>8.13857000</latitude>
@@ -478197,10 +478251,22 @@
       <longitude>6.78569000</longitude>
     </cities>
     <cities>
+      <id>148550</id>
+      <name>Onne</name>
+      <latitude>4.74444444</latitude>
+      <longitude>7.03611111</longitude>
+    </cities>
+    <cities>
       <id>77069</id>
       <name>Opi</name>
       <latitude>6.78223000</latitude>
       <longitude>7.43319000</longitude>
+    </cities>
+    <cities>
+      <id>148551</id>
+      <name>Opobo</name>
+      <latitude>4.51138889</latitude>
+      <longitude>7.54000000</longitude>
     </cities>
     <cities>
       <id>77070</id>
@@ -478317,6 +478383,12 @@
       <longitude>10.95229000</longitude>
     </cities>
     <cities>
+      <id>148552</id>
+      <name>Port Harcourt</name>
+      <latitude>4.75000000</latitude>
+      <longitude>7.00000000</longitude>
+    </cities>
+    <cities>
       <id>77089</id>
       <name>Potiskum</name>
       <latitude>11.71391000</latitude>
@@ -478345,6 +478417,12 @@
       <name>Ruma</name>
       <latitude>12.86260000</latitude>
       <longitude>7.23469000</longitude>
+    </cities>
+    <cities>
+      <id>148553</id>
+      <name>Rumuokoro</name>
+      <latitude>4.86666667</latitude>
+      <longitude>6.98333333</longitude>
     </cities>
     <cities>
       <id>77094</id>
