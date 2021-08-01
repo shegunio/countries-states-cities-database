@@ -87458,12 +87458,6 @@
       <longitude>-43.10556000</longitude>
     </cities>
     <cities>
-      <id>10401</id>
-      <name>Armação de Búzios</name>
-      <latitude>-22.74694000</latitude>
-      <longitude>-41.88167000</longitude>
-    </cities>
-    <cities>
       <id>10402</id>
       <name>Armação dos Búzios</name>
       <latitude>-22.76948000</latitude>
@@ -148186,61 +148180,8 @@
     <cities/>
   </state_city>
   <state_city>
-    <id>2754</id>
-    <name>Bandundu Province</name>
-    <state_code>BN</state_code>
-    <latitude>-4.16367900</latitude>
-    <longitude>18.80761950</longitude>
-    <country_id>51</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
-    <id>2746</id>
-    <name>Bas-Congo province</name>
-    <state_code>BC</state_code>
-    <latitude>-5.23656850</latitude>
-    <longitude>13.91439900</longitude>
-    <country_id>51</country_id>
-    <cities>
-      <id>17231</id>
-      <name>Boma</name>
-      <latitude>-5.85098000</latitude>
-      <longitude>13.05364000</longitude>
-    </cities>
-    <cities>
-      <id>17258</id>
-      <name>Kasangulu</name>
-      <latitude>-4.58330000</latitude>
-      <longitude>15.16554000</longitude>
-    </cities>
-    <cities>
-      <id>17278</id>
-      <name>Matadi</name>
-      <latitude>-5.83861000</latitude>
-      <longitude>13.46306000</longitude>
-    </cities>
-    <cities>
-      <id>17280</id>
-      <name>Mbanza-Ngungu</name>
-      <latitude>-5.25837000</latitude>
-      <longitude>14.85838000</longitude>
-    </cities>
-    <cities>
-      <id>17282</id>
-      <name>Moanda</name>
-      <latitude>-5.92753000</latitude>
-      <longitude>12.37148000</longitude>
-    </cities>
-    <cities>
-      <id>17288</id>
-      <name>Tshela</name>
-      <latitude>-4.99707000</latitude>
-      <longitude>12.94840000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
     <id>2753</id>
-    <name>Bas-Uele</name>
+    <name>Bas-Uélé</name>
     <state_code>BU</state_code>
     <latitude>3.99010090</latitude>
     <longitude>24.90422080</longitude>
@@ -148298,7 +148239,7 @@
   </state_city>
   <state_city>
     <id>2750</id>
-    <name>Haut-Katanga Province</name>
+    <name>Haut-Katanga</name>
     <state_code>HK</state_code>
     <latitude>-10.41020750</latitude>
     <longitude>27.54958460</longitude>
@@ -148336,7 +148277,7 @@
   </state_city>
   <state_city>
     <id>2758</id>
-    <name>Haut-Lomami District</name>
+    <name>Haut-Lomami</name>
     <state_code>HL</state_code>
     <latitude>-7.70527520</latitude>
     <longitude>24.90422080</longitude>
@@ -148356,7 +148297,7 @@
   </state_city>
   <state_city>
     <id>2734</id>
-    <name>Haut-Uele</name>
+    <name>Haut-Uélé</name>
     <state_code>HU</state_code>
     <latitude>3.58451540</latitude>
     <longitude>28.29943500</longitude>
@@ -148382,7 +148323,7 @@
   </state_city>
   <state_city>
     <id>2751</id>
-    <name>Ituri Interim Administration</name>
+    <name>Ituri</name>
     <state_code>IT</state_code>
     <latitude>1.59576820</latitude>
     <longitude>29.41793240</longitude>
@@ -148396,7 +148337,7 @@
   </state_city>
   <state_city>
     <id>2757</id>
-    <name>Kasaï District</name>
+    <name>Kasaï</name>
     <state_code>KS</state_code>
     <latitude>-5.04719790</latitude>
     <longitude>20.71224650</longitude>
@@ -148427,17 +148368,17 @@
     </cities>
   </state_city>
   <state_city>
-    <id>2737</id>
-    <name>Kasaï-Occidental</name>
-    <state_code>KW</state_code>
-    <latitude>-5.32054730</latitude>
-    <longitude>21.85685860</longitude>
+    <id>2742</id>
+    <name>Kasaï Central</name>
+    <state_code>KC</state_code>
+    <latitude>-8.44045910</latitude>
+    <longitude>20.41659340</longitude>
     <country_id>51</country_id>
     <cities/>
   </state_city>
   <state_city>
     <id>2735</id>
-    <name>Kasaï-Oriental</name>
+    <name>Kasaï Oriental</name>
     <state_code>KE</state_code>
     <latitude>-6.03362300</latitude>
     <longitude>23.57285010</longitude>
@@ -148462,15 +148403,6 @@
     </cities>
   </state_city>
   <state_city>
-    <id>2742</id>
-    <name>Katanga Province</name>
-    <state_code>KA</state_code>
-    <latitude>-8.88511450</latitude>
-    <longitude>26.41938900</longitude>
-    <country_id>51</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
     <id>2741</id>
     <name>Kinshasa</name>
     <state_code>KN</state_code>
@@ -148491,8 +148423,52 @@
     </cities>
   </state_city>
   <state_city>
+    <id>2746</id>
+    <name>Kongo Central</name>
+    <state_code>BC</state_code>
+    <latitude>-5.23656850</latitude>
+    <longitude>13.91439900</longitude>
+    <country_id>51</country_id>
+    <cities>
+      <id>17231</id>
+      <name>Boma</name>
+      <latitude>-5.85098000</latitude>
+      <longitude>13.05364000</longitude>
+    </cities>
+    <cities>
+      <id>17258</id>
+      <name>Kasangulu</name>
+      <latitude>-4.58330000</latitude>
+      <longitude>15.16554000</longitude>
+    </cities>
+    <cities>
+      <id>17278</id>
+      <name>Matadi</name>
+      <latitude>-5.83861000</latitude>
+      <longitude>13.46306000</longitude>
+    </cities>
+    <cities>
+      <id>17280</id>
+      <name>Mbanza-Ngungu</name>
+      <latitude>-5.25837000</latitude>
+      <longitude>14.85838000</longitude>
+    </cities>
+    <cities>
+      <id>17282</id>
+      <name>Moanda</name>
+      <latitude>-5.92753000</latitude>
+      <longitude>12.37148000</longitude>
+    </cities>
+    <cities>
+      <id>17288</id>
+      <name>Tshela</name>
+      <latitude>-4.99707000</latitude>
+      <longitude>12.94840000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
     <id>2740</id>
-    <name>Kwango District</name>
+    <name>Kwango</name>
     <state_code>KG</state_code>
     <latitude>-6.43374090</latitude>
     <longitude>17.66888700</longitude>
@@ -148506,7 +148482,7 @@
   </state_city>
   <state_city>
     <id>2759</id>
-    <name>Kwilu District</name>
+    <name>Kwilu</name>
     <state_code>KL</state_code>
     <latitude>-5.11888250</latitude>
     <longitude>18.42760470</longitude>
@@ -148538,7 +148514,7 @@
   </state_city>
   <state_city>
     <id>2747</id>
-    <name>Lomami Province</name>
+    <name>Lomami</name>
     <state_code>LO</state_code>
     <latitude>-6.14539310</latitude>
     <longitude>24.52426400</longitude>
@@ -148557,8 +148533,17 @@
     </cities>
   </state_city>
   <state_city>
+    <id>4953</id>
+    <name>Lualaba</name>
+    <state_code>LU</state_code>
+    <latitude>-10.48086980</latitude>
+    <longitude>25.62978160</longitude>
+    <country_id>51</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
     <id>2755</id>
-    <name>Mai-Ndombe Province</name>
+    <name>Mai-Ndombe</name>
     <state_code>MN</state_code>
     <latitude>-2.63574340</latitude>
     <longitude>18.42760470</longitude>
@@ -148616,7 +148601,7 @@
   </state_city>
   <state_city>
     <id>2752</id>
-    <name>Mongala District</name>
+    <name>Mongala</name>
     <state_code>MO</state_code>
     <latitude>1.99623240</latitude>
     <longitude>21.47528510</longitude>
@@ -148629,34 +148614,8 @@
     </cities>
   </state_city>
   <state_city>
-    <id>2739</id>
-    <name>Nord-Ubangi District</name>
-    <state_code>NU</state_code>
-    <latitude>3.78787260</latitude>
-    <longitude>21.47528510</longitude>
-    <country_id>51</country_id>
-    <cities>
-      <id>17234</id>
-      <name>Bosobolo</name>
-      <latitude>4.18980000</latitude>
-      <longitude>19.88330000</longitude>
-    </cities>
-    <cities>
-      <id>17240</id>
-      <name>Businga</name>
-      <latitude>3.33863000</latitude>
-      <longitude>20.88577000</longitude>
-    </cities>
-    <cities>
-      <id>17244</id>
-      <name>Gbadolite</name>
-      <latitude>4.27900000</latitude>
-      <longitude>21.00284000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
     <id>2749</id>
-    <name>North Kivu</name>
+    <name>Nord-Kivu</name>
     <state_code>NK</state_code>
     <latitude>-0.79177290</latitude>
     <longitude>29.04599270</longitude>
@@ -148687,17 +148646,34 @@
     </cities>
   </state_city>
   <state_city>
-    <id>2736</id>
-    <name>Orientale Province</name>
-    <state_code>OR</state_code>
-    <latitude>1.64062960</latitude>
-    <longitude>26.41938900</longitude>
+    <id>2739</id>
+    <name>Nord-Ubangi</name>
+    <state_code>NU</state_code>
+    <latitude>3.78787260</latitude>
+    <longitude>21.47528510</longitude>
     <country_id>51</country_id>
-    <cities/>
+    <cities>
+      <id>17234</id>
+      <name>Bosobolo</name>
+      <latitude>4.18980000</latitude>
+      <longitude>19.88330000</longitude>
+    </cities>
+    <cities>
+      <id>17240</id>
+      <name>Businga</name>
+      <latitude>3.33863000</latitude>
+      <longitude>20.88577000</longitude>
+    </cities>
+    <cities>
+      <id>17244</id>
+      <name>Gbadolite</name>
+      <latitude>4.27900000</latitude>
+      <longitude>21.00284000</longitude>
+    </cities>
   </state_city>
   <state_city>
     <id>2743</id>
-    <name>Sankuru District</name>
+    <name>Sankuru</name>
     <state_code>SA</state_code>
     <latitude>-2.84374530</latitude>
     <longitude>23.38235450</longitude>
@@ -148717,7 +148693,7 @@
   </state_city>
   <state_city>
     <id>2738</id>
-    <name>South Kivu</name>
+    <name>Sud-Kivu</name>
     <state_code>SK</state_code>
     <latitude>-3.01165800</latitude>
     <longitude>28.29943500</longitude>
@@ -148763,7 +148739,7 @@
   </state_city>
   <state_city>
     <id>2733</id>
-    <name>Tanganyika Province</name>
+    <name>Tanganyika</name>
     <state_code>TA</state_code>
     <latitude>-6.27401180</latitude>
     <longitude>27.92490020</longitude>
@@ -148789,7 +148765,7 @@
   </state_city>
   <state_city>
     <id>2756</id>
-    <name>Tshopo District</name>
+    <name>Tshopo</name>
     <state_code>TO</state_code>
     <latitude>0.54554620</latitude>
     <longitude>24.90422080</longitude>
@@ -148815,7 +148791,7 @@
   </state_city>
   <state_city>
     <id>2732</id>
-    <name>Tshuapa District</name>
+    <name>Tshuapa</name>
     <state_code>TU</state_code>
     <latitude>-0.99030230</latitude>
     <longitude>23.02888440</longitude>
@@ -354810,7 +354786,7 @@
     </cities>
     <cities>
       <id>60627</id>
-      <name>Scanzo-Rosciate</name>
+      <name>Scanzorosciate</name>
       <latitude>45.71078000</latitude>
       <longitude>9.73505000</longitude>
     </cities>
@@ -740970,6 +740946,50 @@
     </cities>
   </state_city>
   <state_city>
+    <id>4954</id>
+    <name>Chaiyaphum</name>
+    <state_code>36</state_code>
+    <latitude>16.00749740</latitude>
+    <longitude>101.61291720</longitude>
+    <country_id>219</country_id>
+    <cities>
+      <id>148554</id>
+      <name>Bamnet Narong</name>
+      <latitude>15.50189000</latitude>
+      <longitude>101.68982000</longitude>
+    </cities>
+    <cities>
+      <id>148555</id>
+      <name>Chaiyaphum</name>
+      <latitude>15.81047000</latitude>
+      <longitude>102.02881000</longitude>
+    </cities>
+    <cities>
+      <id>148556</id>
+      <name>Kaeng Khro</name>
+      <latitude>16.10861111</latitude>
+      <longitude>102.25805556</longitude>
+    </cities>
+    <cities>
+      <id>148557</id>
+      <name>Kaset Sombun</name>
+      <latitude>16.28053000</latitude>
+      <longitude>101.95422000</longitude>
+    </cities>
+    <cities>
+      <id>148558</id>
+      <name>Nakhon Nayok</name>
+      <latitude>14.20305600</latitude>
+      <longitude>101.21500000</longitude>
+    </cities>
+    <cities>
+      <id>148559</id>
+      <name>Phu Khiao</name>
+      <latitude>16.37650000</latitude>
+      <longitude>102.12853000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
     <id>3486</id>
     <name>Chanthaburi</name>
     <state_code>22</state_code>
@@ -742587,7 +742607,7 @@
   </state_city>
   <state_city>
     <id>3543</id>
-    <name>Lopburi</name>
+    <name>Lop Buri</name>
     <state_code>16</state_code>
     <latitude>14.79950810</latitude>
     <longitude>100.65337060</longitude>
@@ -744346,7 +744366,7 @@
   </state_city>
   <state_city>
     <id>3549</id>
-    <name>Phang Nga</name>
+    <name>Phangnga</name>
     <state_code>82</state_code>
     <latitude>8.45014140</latitude>
     <longitude>98.52553170</longitude>
@@ -746854,7 +746874,7 @@
   </state_city>
   <state_city>
     <id>3524</id>
-    <name>Suphanburi</name>
+    <name>Suphan Buri</name>
     <state_code>72</state_code>
     <latitude>14.47448920</latitude>
     <longitude>100.11771280</longitude>

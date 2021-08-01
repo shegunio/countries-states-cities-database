@@ -124389,15 +124389,6 @@ city:
     latitude: '-22.23056000'
     longitude: '-43.10556000'
   -
-    id: 10401
-    name: 'Armação de Búzios'
-    state_id: 1997
-    state_code: RJ
-    country_id: 31
-    country_code: BR
-    latitude: '-22.74694000'
-    longitude: '-41.88167000'
-  -
     id: 10402
     name: 'Armação dos Búzios'
     state_id: 1997
@@ -209349,60 +209340,6 @@ city:
     latitude: '49.46603000'
     longitude: '18.09249000'
   -
-    id: 17231
-    name: Boma
-    state_id: 2746
-    state_code: BC
-    country_id: 51
-    country_code: CD
-    latitude: '-5.85098000'
-    longitude: '13.05364000'
-  -
-    id: 17258
-    name: Kasangulu
-    state_id: 2746
-    state_code: BC
-    country_id: 51
-    country_code: CD
-    latitude: '-4.58330000'
-    longitude: '15.16554000'
-  -
-    id: 17278
-    name: Matadi
-    state_id: 2746
-    state_code: BC
-    country_id: 51
-    country_code: CD
-    latitude: '-5.83861000'
-    longitude: '13.46306000'
-  -
-    id: 17280
-    name: Mbanza-Ngungu
-    state_id: 2746
-    state_code: BC
-    country_id: 51
-    country_code: CD
-    latitude: '-5.25837000'
-    longitude: '14.85838000'
-  -
-    id: 17282
-    name: Moanda
-    state_id: 2746
-    state_code: BC
-    country_id: 51
-    country_code: CD
-    latitude: '-5.92753000'
-    longitude: '12.37148000'
-  -
-    id: 17288
-    name: Tshela
-    state_id: 2746
-    state_code: BC
-    country_id: 51
-    country_code: CD
-    latitude: '-4.99707000'
-    longitude: '12.94840000'
-  -
     id: 17225
     name: Aketi
     state_id: 2753
@@ -209646,6 +209583,60 @@ city:
     latitude: '-4.38361000'
     longitude: '15.39139000'
   -
+    id: 17231
+    name: Boma
+    state_id: 2746
+    state_code: BC
+    country_id: 51
+    country_code: CD
+    latitude: '-5.85098000'
+    longitude: '13.05364000'
+  -
+    id: 17258
+    name: Kasangulu
+    state_id: 2746
+    state_code: BC
+    country_id: 51
+    country_code: CD
+    latitude: '-4.58330000'
+    longitude: '15.16554000'
+  -
+    id: 17278
+    name: Matadi
+    state_id: 2746
+    state_code: BC
+    country_id: 51
+    country_code: CD
+    latitude: '-5.83861000'
+    longitude: '13.46306000'
+  -
+    id: 17280
+    name: Mbanza-Ngungu
+    state_id: 2746
+    state_code: BC
+    country_id: 51
+    country_code: CD
+    latitude: '-5.25837000'
+    longitude: '14.85838000'
+  -
+    id: 17282
+    name: Moanda
+    state_id: 2746
+    state_code: BC
+    country_id: 51
+    country_code: CD
+    latitude: '-5.92753000'
+    longitude: '12.37148000'
+  -
+    id: 17288
+    name: Tshela
+    state_id: 2746
+    state_code: BC
+    country_id: 51
+    country_code: CD
+    latitude: '-4.99707000'
+    longitude: '12.94840000'
+  -
     id: 17260
     name: Kasongo-Lunda
     state_id: 2740
@@ -209781,33 +209772,6 @@ city:
     latitude: '2.18771000'
     longitude: '22.46827000'
   -
-    id: 17234
-    name: Bosobolo
-    state_id: 2739
-    state_code: NU
-    country_id: 51
-    country_code: CD
-    latitude: '4.18980000'
-    longitude: '19.88330000'
-  -
-    id: 17240
-    name: Businga
-    state_id: 2739
-    state_code: NU
-    country_id: 51
-    country_code: CD
-    latitude: '3.33863000'
-    longitude: '20.88577000'
-  -
-    id: 17244
-    name: Gbadolite
-    state_id: 2739
-    state_code: NU
-    country_id: 51
-    country_code: CD
-    latitude: '4.27900000'
-    longitude: '21.00284000'
-  -
     id: 17228
     name: Beni
     state_id: 2749
@@ -209843,6 +209807,33 @@ city:
     country_code: CD
     latitude: '-1.57386000'
     longitude: '29.04339000'
+  -
+    id: 17234
+    name: Bosobolo
+    state_id: 2739
+    state_code: NU
+    country_id: 51
+    country_code: CD
+    latitude: '4.18980000'
+    longitude: '19.88330000'
+  -
+    id: 17240
+    name: Businga
+    state_id: 2739
+    state_code: NU
+    country_id: 51
+    country_code: CD
+    latitude: '3.33863000'
+    longitude: '20.88577000'
+  -
+    id: 17244
+    name: Gbadolite
+    state_id: 2739
+    state_code: NU
+    country_id: 51
+    country_code: CD
+    latitude: '4.27900000'
+    longitude: '21.00284000'
   -
     id: 17270
     name: Lodja
@@ -510211,7 +510202,7 @@ city:
     longitude: '9.60905000'
   -
     id: 60627
-    name: Scanzo-Rosciate
+    name: Scanzorosciate
     state_id: 1705
     state_code: '25'
     country_id: 107
@@ -1061459,6 +1061450,60 @@ city:
     country_code: TH
     latitude: '15.18636000'
     longitude: '100.12353000'
+  -
+    id: 148554
+    name: 'Bamnet Narong'
+    state_id: 4954
+    state_code: '36'
+    country_id: 219
+    country_code: TH
+    latitude: '15.50189000'
+    longitude: '101.68982000'
+  -
+    id: 148555
+    name: Chaiyaphum
+    state_id: 4954
+    state_code: '36'
+    country_id: 219
+    country_code: TH
+    latitude: '15.81047000'
+    longitude: '102.02881000'
+  -
+    id: 148556
+    name: 'Kaeng Khro'
+    state_id: 4954
+    state_code: '36'
+    country_id: 219
+    country_code: TH
+    latitude: '16.10861111'
+    longitude: '102.25805556'
+  -
+    id: 148557
+    name: 'Kaset Sombun'
+    state_id: 4954
+    state_code: '36'
+    country_id: 219
+    country_code: TH
+    latitude: '16.28053000'
+    longitude: '101.95422000'
+  -
+    id: 148558
+    name: 'Nakhon Nayok'
+    state_id: 4954
+    state_code: '36'
+    country_id: 219
+    country_code: TH
+    latitude: '14.20305600'
+    longitude: '101.21500000'
+  -
+    id: 148559
+    name: 'Phu Khiao'
+    state_id: 4954
+    state_code: '36'
+    country_id: 219
+    country_code: TH
+    latitude: '16.37650000'
+    longitude: '102.12853000'
   -
     id: 105364
     name: 'Amphoe Kaeng Hang Maeo'

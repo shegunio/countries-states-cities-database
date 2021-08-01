@@ -88184,12 +88184,6 @@
                 "longitude": "-43.10556000"
             },
             {
-                "id": 10401,
-                "name": "Armação de Búzios",
-                "latitude": "-22.74694000",
-                "longitude": "-41.88167000"
-            },
-            {
                 "id": 10402,
                 "name": "Armação dos Búzios",
                 "latitude": "-22.76948000",
@@ -149595,63 +149589,8 @@
         "cities": []
     },
     {
-        "id": 2754,
-        "name": "Bandundu Province",
-        "state_code": "BN",
-        "latitude": "-4.16367900",
-        "longitude": "18.80761950",
-        "country_id": 51,
-        "cities": []
-    },
-    {
-        "id": 2746,
-        "name": "Bas-Congo province",
-        "state_code": "BC",
-        "latitude": "-5.23656850",
-        "longitude": "13.91439900",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17231,
-                "name": "Boma",
-                "latitude": "-5.85098000",
-                "longitude": "13.05364000"
-            },
-            {
-                "id": 17258,
-                "name": "Kasangulu",
-                "latitude": "-4.58330000",
-                "longitude": "15.16554000"
-            },
-            {
-                "id": 17278,
-                "name": "Matadi",
-                "latitude": "-5.83861000",
-                "longitude": "13.46306000"
-            },
-            {
-                "id": 17280,
-                "name": "Mbanza-Ngungu",
-                "latitude": "-5.25837000",
-                "longitude": "14.85838000"
-            },
-            {
-                "id": 17282,
-                "name": "Moanda",
-                "latitude": "-5.92753000",
-                "longitude": "12.37148000"
-            },
-            {
-                "id": 17288,
-                "name": "Tshela",
-                "latitude": "-4.99707000",
-                "longitude": "12.94840000"
-            }
-        ]
-    },
-    {
         "id": 2753,
-        "name": "Bas-Uele",
+        "name": "Bas-Uélé",
         "state_code": "BU",
         "latitude": "3.99010090",
         "longitude": "24.90422080",
@@ -149713,7 +149652,7 @@
     },
     {
         "id": 2750,
-        "name": "Haut-Katanga Province",
+        "name": "Haut-Katanga",
         "state_code": "HK",
         "latitude": "-10.41020750",
         "longitude": "27.54958460",
@@ -149753,7 +149692,7 @@
     },
     {
         "id": 2758,
-        "name": "Haut-Lomami District",
+        "name": "Haut-Lomami",
         "state_code": "HL",
         "latitude": "-7.70527520",
         "longitude": "24.90422080",
@@ -149775,7 +149714,7 @@
     },
     {
         "id": 2734,
-        "name": "Haut-Uele",
+        "name": "Haut-Uélé",
         "state_code": "HU",
         "latitude": "3.58451540",
         "longitude": "28.29943500",
@@ -149803,7 +149742,7 @@
     },
     {
         "id": 2751,
-        "name": "Ituri Interim Administration",
+        "name": "Ituri",
         "state_code": "IT",
         "latitude": "1.59576820",
         "longitude": "29.41793240",
@@ -149819,7 +149758,7 @@
     },
     {
         "id": 2757,
-        "name": "Kasaï District",
+        "name": "Kasaï",
         "state_code": "KS",
         "latitude": "-5.04719790",
         "longitude": "20.71224650",
@@ -149852,17 +149791,17 @@
         ]
     },
     {
-        "id": 2737,
-        "name": "Kasaï-Occidental",
-        "state_code": "KW",
-        "latitude": "-5.32054730",
-        "longitude": "21.85685860",
+        "id": 2742,
+        "name": "Kasaï Central",
+        "state_code": "KC",
+        "latitude": "-8.44045910",
+        "longitude": "20.41659340",
         "country_id": 51,
         "cities": []
     },
     {
         "id": 2735,
-        "name": "Kasaï-Oriental",
+        "name": "Kasaï Oriental",
         "state_code": "KE",
         "latitude": "-6.03362300",
         "longitude": "23.57285010",
@@ -149889,15 +149828,6 @@
         ]
     },
     {
-        "id": 2742,
-        "name": "Katanga Province",
-        "state_code": "KA",
-        "latitude": "-8.88511450",
-        "longitude": "26.41938900",
-        "country_id": 51,
-        "cities": []
-    },
-    {
         "id": 2741,
         "name": "Kinshasa",
         "state_code": "KN",
@@ -149920,8 +149850,54 @@
         ]
     },
     {
+        "id": 2746,
+        "name": "Kongo Central",
+        "state_code": "BC",
+        "latitude": "-5.23656850",
+        "longitude": "13.91439900",
+        "country_id": 51,
+        "cities": [
+            {
+                "id": 17231,
+                "name": "Boma",
+                "latitude": "-5.85098000",
+                "longitude": "13.05364000"
+            },
+            {
+                "id": 17258,
+                "name": "Kasangulu",
+                "latitude": "-4.58330000",
+                "longitude": "15.16554000"
+            },
+            {
+                "id": 17278,
+                "name": "Matadi",
+                "latitude": "-5.83861000",
+                "longitude": "13.46306000"
+            },
+            {
+                "id": 17280,
+                "name": "Mbanza-Ngungu",
+                "latitude": "-5.25837000",
+                "longitude": "14.85838000"
+            },
+            {
+                "id": 17282,
+                "name": "Moanda",
+                "latitude": "-5.92753000",
+                "longitude": "12.37148000"
+            },
+            {
+                "id": 17288,
+                "name": "Tshela",
+                "latitude": "-4.99707000",
+                "longitude": "12.94840000"
+            }
+        ]
+    },
+    {
         "id": 2740,
-        "name": "Kwango District",
+        "name": "Kwango",
         "state_code": "KG",
         "latitude": "-6.43374090",
         "longitude": "17.66888700",
@@ -149937,7 +149913,7 @@
     },
     {
         "id": 2759,
-        "name": "Kwilu District",
+        "name": "Kwilu",
         "state_code": "KL",
         "latitude": "-5.11888250",
         "longitude": "18.42760470",
@@ -149971,7 +149947,7 @@
     },
     {
         "id": 2747,
-        "name": "Lomami Province",
+        "name": "Lomami",
         "state_code": "LO",
         "latitude": "-6.14539310",
         "longitude": "24.52426400",
@@ -149992,8 +149968,17 @@
         ]
     },
     {
+        "id": 4953,
+        "name": "Lualaba",
+        "state_code": "LU",
+        "latitude": "-10.48086980",
+        "longitude": "25.62978160",
+        "country_id": 51,
+        "cities": []
+    },
+    {
         "id": 2755,
-        "name": "Mai-Ndombe Province",
+        "name": "Mai-Ndombe",
         "state_code": "MN",
         "latitude": "-2.63574340",
         "longitude": "18.42760470",
@@ -150055,7 +150040,7 @@
     },
     {
         "id": 2752,
-        "name": "Mongala District",
+        "name": "Mongala",
         "state_code": "MO",
         "latitude": "1.99623240",
         "longitude": "21.47528510",
@@ -150070,36 +150055,8 @@
         ]
     },
     {
-        "id": 2739,
-        "name": "Nord-Ubangi District",
-        "state_code": "NU",
-        "latitude": "3.78787260",
-        "longitude": "21.47528510",
-        "country_id": 51,
-        "cities": [
-            {
-                "id": 17234,
-                "name": "Bosobolo",
-                "latitude": "4.18980000",
-                "longitude": "19.88330000"
-            },
-            {
-                "id": 17240,
-                "name": "Businga",
-                "latitude": "3.33863000",
-                "longitude": "20.88577000"
-            },
-            {
-                "id": 17244,
-                "name": "Gbadolite",
-                "latitude": "4.27900000",
-                "longitude": "21.00284000"
-            }
-        ]
-    },
-    {
         "id": 2749,
-        "name": "North Kivu",
+        "name": "Nord-Kivu",
         "state_code": "NK",
         "latitude": "-0.79177290",
         "longitude": "29.04599270",
@@ -150132,17 +150089,36 @@
         ]
     },
     {
-        "id": 2736,
-        "name": "Orientale Province",
-        "state_code": "OR",
-        "latitude": "1.64062960",
-        "longitude": "26.41938900",
+        "id": 2739,
+        "name": "Nord-Ubangi",
+        "state_code": "NU",
+        "latitude": "3.78787260",
+        "longitude": "21.47528510",
         "country_id": 51,
-        "cities": []
+        "cities": [
+            {
+                "id": 17234,
+                "name": "Bosobolo",
+                "latitude": "4.18980000",
+                "longitude": "19.88330000"
+            },
+            {
+                "id": 17240,
+                "name": "Businga",
+                "latitude": "3.33863000",
+                "longitude": "20.88577000"
+            },
+            {
+                "id": 17244,
+                "name": "Gbadolite",
+                "latitude": "4.27900000",
+                "longitude": "21.00284000"
+            }
+        ]
     },
     {
         "id": 2743,
-        "name": "Sankuru District",
+        "name": "Sankuru",
         "state_code": "SA",
         "latitude": "-2.84374530",
         "longitude": "23.38235450",
@@ -150164,7 +150140,7 @@
     },
     {
         "id": 2738,
-        "name": "South Kivu",
+        "name": "Sud-Kivu",
         "state_code": "SK",
         "latitude": "-3.01165800",
         "longitude": "28.29943500",
@@ -150214,7 +150190,7 @@
     },
     {
         "id": 2733,
-        "name": "Tanganyika Province",
+        "name": "Tanganyika",
         "state_code": "TA",
         "latitude": "-6.27401180",
         "longitude": "27.92490020",
@@ -150242,7 +150218,7 @@
     },
     {
         "id": 2756,
-        "name": "Tshopo District",
+        "name": "Tshopo",
         "state_code": "TO",
         "latitude": "0.54554620",
         "longitude": "24.90422080",
@@ -150270,7 +150246,7 @@
     },
     {
         "id": 2732,
-        "name": "Tshuapa District",
+        "name": "Tshuapa",
         "state_code": "TU",
         "latitude": "-0.99030230",
         "longitude": "23.02888440",
@@ -357294,7 +357270,7 @@
             },
             {
                 "id": 60627,
-                "name": "Scanzo-Rosciate",
+                "name": "Scanzorosciate",
                 "latitude": "45.71078000",
                 "longitude": "9.73505000"
             },
@@ -746869,6 +746845,52 @@
         ]
     },
     {
+        "id": 4954,
+        "name": "Chaiyaphum",
+        "state_code": "36",
+        "latitude": "16.00749740",
+        "longitude": "101.61291720",
+        "country_id": 219,
+        "cities": [
+            {
+                "id": 148554,
+                "name": "Bamnet Narong",
+                "latitude": "15.50189000",
+                "longitude": "101.68982000"
+            },
+            {
+                "id": 148555,
+                "name": "Chaiyaphum",
+                "latitude": "15.81047000",
+                "longitude": "102.02881000"
+            },
+            {
+                "id": 148556,
+                "name": "Kaeng Khro",
+                "latitude": "16.10861111",
+                "longitude": "102.25805556"
+            },
+            {
+                "id": 148557,
+                "name": "Kaset Sombun",
+                "latitude": "16.28053000",
+                "longitude": "101.95422000"
+            },
+            {
+                "id": 148558,
+                "name": "Nakhon Nayok",
+                "latitude": "14.20305600",
+                "longitude": "101.21500000"
+            },
+            {
+                "id": 148559,
+                "name": "Phu Khiao",
+                "latitude": "16.37650000",
+                "longitude": "102.12853000"
+            }
+        ]
+    },
+    {
         "id": 3486,
         "name": "Chanthaburi",
         "state_code": "22",
@@ -748512,7 +748534,7 @@
     },
     {
         "id": 3543,
-        "name": "Lopburi",
+        "name": "Lop Buri",
         "state_code": "16",
         "latitude": "14.79950810",
         "longitude": "100.65337060",
@@ -750305,7 +750327,7 @@
     },
     {
         "id": 3549,
-        "name": "Phang Nga",
+        "name": "Phangnga",
         "state_code": "82",
         "latitude": "8.45014140",
         "longitude": "98.52553170",
@@ -752867,7 +752889,7 @@
     },
     {
         "id": 3524,
-        "name": "Suphanburi",
+        "name": "Suphan Buri",
         "state_code": "72",
         "latitude": "14.47448920",
         "longitude": "100.11771280",

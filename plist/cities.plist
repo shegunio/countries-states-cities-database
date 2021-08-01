@@ -248786,24 +248786,6 @@
 		<key>country_id</key>
 		<string>31</string>
 		<key>id</key>
-		<string>10401</string>
-		<key>latitude</key>
-		<string>-22.74694000</string>
-		<key>longitude</key>
-		<string>-41.88167000</string>
-		<key>name</key>
-		<string>Armação de Búzios</string>
-		<key>state_code</key>
-		<string>RJ</string>
-		<key>state_id</key>
-		<string>1997</string>
-	</dict>
-	<dict>
-		<key>country_code</key>
-		<string>BR</string>
-		<key>country_id</key>
-		<string>31</string>
-		<key>id</key>
 		<string>10402</string>
 		<key>latitude</key>
 		<string>-22.76948000</string>
@@ -418706,114 +418688,6 @@
 		<key>country_id</key>
 		<string>51</string>
 		<key>id</key>
-		<string>17231</string>
-		<key>latitude</key>
-		<string>-5.85098000</string>
-		<key>longitude</key>
-		<string>13.05364000</string>
-		<key>name</key>
-		<string>Boma</string>
-		<key>state_code</key>
-		<string>BC</string>
-		<key>state_id</key>
-		<string>2746</string>
-	</dict>
-	<dict>
-		<key>country_code</key>
-		<string>CD</string>
-		<key>country_id</key>
-		<string>51</string>
-		<key>id</key>
-		<string>17258</string>
-		<key>latitude</key>
-		<string>-4.58330000</string>
-		<key>longitude</key>
-		<string>15.16554000</string>
-		<key>name</key>
-		<string>Kasangulu</string>
-		<key>state_code</key>
-		<string>BC</string>
-		<key>state_id</key>
-		<string>2746</string>
-	</dict>
-	<dict>
-		<key>country_code</key>
-		<string>CD</string>
-		<key>country_id</key>
-		<string>51</string>
-		<key>id</key>
-		<string>17278</string>
-		<key>latitude</key>
-		<string>-5.83861000</string>
-		<key>longitude</key>
-		<string>13.46306000</string>
-		<key>name</key>
-		<string>Matadi</string>
-		<key>state_code</key>
-		<string>BC</string>
-		<key>state_id</key>
-		<string>2746</string>
-	</dict>
-	<dict>
-		<key>country_code</key>
-		<string>CD</string>
-		<key>country_id</key>
-		<string>51</string>
-		<key>id</key>
-		<string>17280</string>
-		<key>latitude</key>
-		<string>-5.25837000</string>
-		<key>longitude</key>
-		<string>14.85838000</string>
-		<key>name</key>
-		<string>Mbanza-Ngungu</string>
-		<key>state_code</key>
-		<string>BC</string>
-		<key>state_id</key>
-		<string>2746</string>
-	</dict>
-	<dict>
-		<key>country_code</key>
-		<string>CD</string>
-		<key>country_id</key>
-		<string>51</string>
-		<key>id</key>
-		<string>17282</string>
-		<key>latitude</key>
-		<string>-5.92753000</string>
-		<key>longitude</key>
-		<string>12.37148000</string>
-		<key>name</key>
-		<string>Moanda</string>
-		<key>state_code</key>
-		<string>BC</string>
-		<key>state_id</key>
-		<string>2746</string>
-	</dict>
-	<dict>
-		<key>country_code</key>
-		<string>CD</string>
-		<key>country_id</key>
-		<string>51</string>
-		<key>id</key>
-		<string>17288</string>
-		<key>latitude</key>
-		<string>-4.99707000</string>
-		<key>longitude</key>
-		<string>12.94840000</string>
-		<key>name</key>
-		<string>Tshela</string>
-		<key>state_code</key>
-		<string>BC</string>
-		<key>state_id</key>
-		<string>2746</string>
-	</dict>
-	<dict>
-		<key>country_code</key>
-		<string>CD</string>
-		<key>country_id</key>
-		<string>51</string>
-		<key>id</key>
 		<string>17225</string>
 		<key>latitude</key>
 		<string>2.73877000</string>
@@ -419300,6 +419174,114 @@
 		<key>country_id</key>
 		<string>51</string>
 		<key>id</key>
+		<string>17231</string>
+		<key>latitude</key>
+		<string>-5.85098000</string>
+		<key>longitude</key>
+		<string>13.05364000</string>
+		<key>name</key>
+		<string>Boma</string>
+		<key>state_code</key>
+		<string>BC</string>
+		<key>state_id</key>
+		<string>2746</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>CD</string>
+		<key>country_id</key>
+		<string>51</string>
+		<key>id</key>
+		<string>17258</string>
+		<key>latitude</key>
+		<string>-4.58330000</string>
+		<key>longitude</key>
+		<string>15.16554000</string>
+		<key>name</key>
+		<string>Kasangulu</string>
+		<key>state_code</key>
+		<string>BC</string>
+		<key>state_id</key>
+		<string>2746</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>CD</string>
+		<key>country_id</key>
+		<string>51</string>
+		<key>id</key>
+		<string>17278</string>
+		<key>latitude</key>
+		<string>-5.83861000</string>
+		<key>longitude</key>
+		<string>13.46306000</string>
+		<key>name</key>
+		<string>Matadi</string>
+		<key>state_code</key>
+		<string>BC</string>
+		<key>state_id</key>
+		<string>2746</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>CD</string>
+		<key>country_id</key>
+		<string>51</string>
+		<key>id</key>
+		<string>17280</string>
+		<key>latitude</key>
+		<string>-5.25837000</string>
+		<key>longitude</key>
+		<string>14.85838000</string>
+		<key>name</key>
+		<string>Mbanza-Ngungu</string>
+		<key>state_code</key>
+		<string>BC</string>
+		<key>state_id</key>
+		<string>2746</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>CD</string>
+		<key>country_id</key>
+		<string>51</string>
+		<key>id</key>
+		<string>17282</string>
+		<key>latitude</key>
+		<string>-5.92753000</string>
+		<key>longitude</key>
+		<string>12.37148000</string>
+		<key>name</key>
+		<string>Moanda</string>
+		<key>state_code</key>
+		<string>BC</string>
+		<key>state_id</key>
+		<string>2746</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>CD</string>
+		<key>country_id</key>
+		<string>51</string>
+		<key>id</key>
+		<string>17288</string>
+		<key>latitude</key>
+		<string>-4.99707000</string>
+		<key>longitude</key>
+		<string>12.94840000</string>
+		<key>name</key>
+		<string>Tshela</string>
+		<key>state_code</key>
+		<string>BC</string>
+		<key>state_id</key>
+		<string>2746</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>CD</string>
+		<key>country_id</key>
+		<string>51</string>
+		<key>id</key>
 		<string>17260</string>
 		<key>latitude</key>
 		<string>-6.47833000</string>
@@ -419570,60 +419552,6 @@
 		<key>country_id</key>
 		<string>51</string>
 		<key>id</key>
-		<string>17234</string>
-		<key>latitude</key>
-		<string>4.18980000</string>
-		<key>longitude</key>
-		<string>19.88330000</string>
-		<key>name</key>
-		<string>Bosobolo</string>
-		<key>state_code</key>
-		<string>NU</string>
-		<key>state_id</key>
-		<string>2739</string>
-	</dict>
-	<dict>
-		<key>country_code</key>
-		<string>CD</string>
-		<key>country_id</key>
-		<string>51</string>
-		<key>id</key>
-		<string>17240</string>
-		<key>latitude</key>
-		<string>3.33863000</string>
-		<key>longitude</key>
-		<string>20.88577000</string>
-		<key>name</key>
-		<string>Businga</string>
-		<key>state_code</key>
-		<string>NU</string>
-		<key>state_id</key>
-		<string>2739</string>
-	</dict>
-	<dict>
-		<key>country_code</key>
-		<string>CD</string>
-		<key>country_id</key>
-		<string>51</string>
-		<key>id</key>
-		<string>17244</string>
-		<key>latitude</key>
-		<string>4.27900000</string>
-		<key>longitude</key>
-		<string>21.00284000</string>
-		<key>name</key>
-		<string>Gbadolite</string>
-		<key>state_code</key>
-		<string>NU</string>
-		<key>state_id</key>
-		<string>2739</string>
-	</dict>
-	<dict>
-		<key>country_code</key>
-		<string>CD</string>
-		<key>country_id</key>
-		<string>51</string>
-		<key>id</key>
 		<string>17228</string>
 		<key>latitude</key>
 		<string>0.49113000</string>
@@ -419689,6 +419617,60 @@
 		<string>NK</string>
 		<key>state_id</key>
 		<string>2749</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>CD</string>
+		<key>country_id</key>
+		<string>51</string>
+		<key>id</key>
+		<string>17234</string>
+		<key>latitude</key>
+		<string>4.18980000</string>
+		<key>longitude</key>
+		<string>19.88330000</string>
+		<key>name</key>
+		<string>Bosobolo</string>
+		<key>state_code</key>
+		<string>NU</string>
+		<key>state_id</key>
+		<string>2739</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>CD</string>
+		<key>country_id</key>
+		<string>51</string>
+		<key>id</key>
+		<string>17240</string>
+		<key>latitude</key>
+		<string>3.33863000</string>
+		<key>longitude</key>
+		<string>20.88577000</string>
+		<key>name</key>
+		<string>Businga</string>
+		<key>state_code</key>
+		<string>NU</string>
+		<key>state_id</key>
+		<string>2739</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>CD</string>
+		<key>country_id</key>
+		<string>51</string>
+		<key>id</key>
+		<string>17244</string>
+		<key>latitude</key>
+		<string>4.27900000</string>
+		<key>longitude</key>
+		<string>21.00284000</string>
+		<key>name</key>
+		<string>Gbadolite</string>
+		<key>state_code</key>
+		<string>NU</string>
+		<key>state_id</key>
+		<string>2739</string>
 	</dict>
 	<dict>
 		<key>country_code</key>
@@ -1020434,7 +1020416,7 @@
 		<key>longitude</key>
 		<string>9.73505000</string>
 		<key>name</key>
-		<string>Scanzo-Rosciate</string>
+		<string>Scanzorosciate</string>
 		<key>state_code</key>
 		<string>25</string>
 		<key>state_id</key>
@@ -2122921,6 +2122903,114 @@
 		<string>18</string>
 		<key>state_id</key>
 		<string>3522</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>TH</string>
+		<key>country_id</key>
+		<string>219</string>
+		<key>id</key>
+		<string>148554</string>
+		<key>latitude</key>
+		<string>15.50189000</string>
+		<key>longitude</key>
+		<string>101.68982000</string>
+		<key>name</key>
+		<string>Bamnet Narong</string>
+		<key>state_code</key>
+		<string>36</string>
+		<key>state_id</key>
+		<string>4954</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>TH</string>
+		<key>country_id</key>
+		<string>219</string>
+		<key>id</key>
+		<string>148555</string>
+		<key>latitude</key>
+		<string>15.81047000</string>
+		<key>longitude</key>
+		<string>102.02881000</string>
+		<key>name</key>
+		<string>Chaiyaphum</string>
+		<key>state_code</key>
+		<string>36</string>
+		<key>state_id</key>
+		<string>4954</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>TH</string>
+		<key>country_id</key>
+		<string>219</string>
+		<key>id</key>
+		<string>148556</string>
+		<key>latitude</key>
+		<string>16.10861111</string>
+		<key>longitude</key>
+		<string>102.25805556</string>
+		<key>name</key>
+		<string>Kaeng Khro</string>
+		<key>state_code</key>
+		<string>36</string>
+		<key>state_id</key>
+		<string>4954</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>TH</string>
+		<key>country_id</key>
+		<string>219</string>
+		<key>id</key>
+		<string>148557</string>
+		<key>latitude</key>
+		<string>16.28053000</string>
+		<key>longitude</key>
+		<string>101.95422000</string>
+		<key>name</key>
+		<string>Kaset Sombun</string>
+		<key>state_code</key>
+		<string>36</string>
+		<key>state_id</key>
+		<string>4954</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>TH</string>
+		<key>country_id</key>
+		<string>219</string>
+		<key>id</key>
+		<string>148558</string>
+		<key>latitude</key>
+		<string>14.20305600</string>
+		<key>longitude</key>
+		<string>101.21500000</string>
+		<key>name</key>
+		<string>Nakhon Nayok</string>
+		<key>state_code</key>
+		<string>36</string>
+		<key>state_id</key>
+		<string>4954</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>TH</string>
+		<key>country_id</key>
+		<string>219</string>
+		<key>id</key>
+		<string>148559</string>
+		<key>latitude</key>
+		<string>16.37650000</string>
+		<key>longitude</key>
+		<string>102.12853000</string>
+		<key>name</key>
+		<string>Phu Khiao</string>
+		<key>state_code</key>
+		<string>36</string>
+		<key>state_id</key>
+		<string>4954</string>
 	</dict>
 	<dict>
 		<key>country_code</key>

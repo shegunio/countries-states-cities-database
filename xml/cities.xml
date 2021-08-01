@@ -138211,16 +138211,6 @@
     <longitude>-43.10556000</longitude>
   </city>
   <city>
-    <id>10401</id>
-    <name>Armação de Búzios</name>
-    <state_id>1997</state_id>
-    <state_code>RJ</state_code>
-    <country_id>31</country_id>
-    <country_code>BR</country_code>
-    <latitude>-22.74694000</latitude>
-    <longitude>-41.88167000</longitude>
-  </city>
-  <city>
     <id>10402</id>
     <name>Armação dos Búzios</name>
     <state_id>1997</state_id>
@@ -232611,66 +232601,6 @@
     <longitude>18.09249000</longitude>
   </city>
   <city>
-    <id>17231</id>
-    <name>Boma</name>
-    <state_id>2746</state_id>
-    <state_code>BC</state_code>
-    <country_id>51</country_id>
-    <country_code>CD</country_code>
-    <latitude>-5.85098000</latitude>
-    <longitude>13.05364000</longitude>
-  </city>
-  <city>
-    <id>17258</id>
-    <name>Kasangulu</name>
-    <state_id>2746</state_id>
-    <state_code>BC</state_code>
-    <country_id>51</country_id>
-    <country_code>CD</country_code>
-    <latitude>-4.58330000</latitude>
-    <longitude>15.16554000</longitude>
-  </city>
-  <city>
-    <id>17278</id>
-    <name>Matadi</name>
-    <state_id>2746</state_id>
-    <state_code>BC</state_code>
-    <country_id>51</country_id>
-    <country_code>CD</country_code>
-    <latitude>-5.83861000</latitude>
-    <longitude>13.46306000</longitude>
-  </city>
-  <city>
-    <id>17280</id>
-    <name>Mbanza-Ngungu</name>
-    <state_id>2746</state_id>
-    <state_code>BC</state_code>
-    <country_id>51</country_id>
-    <country_code>CD</country_code>
-    <latitude>-5.25837000</latitude>
-    <longitude>14.85838000</longitude>
-  </city>
-  <city>
-    <id>17282</id>
-    <name>Moanda</name>
-    <state_id>2746</state_id>
-    <state_code>BC</state_code>
-    <country_id>51</country_id>
-    <country_code>CD</country_code>
-    <latitude>-5.92753000</latitude>
-    <longitude>12.37148000</longitude>
-  </city>
-  <city>
-    <id>17288</id>
-    <name>Tshela</name>
-    <state_id>2746</state_id>
-    <state_code>BC</state_code>
-    <country_id>51</country_id>
-    <country_code>CD</country_code>
-    <latitude>-4.99707000</latitude>
-    <longitude>12.94840000</longitude>
-  </city>
-  <city>
     <id>17225</id>
     <name>Aketi</name>
     <state_id>2753</state_id>
@@ -232941,6 +232871,66 @@
     <longitude>15.39139000</longitude>
   </city>
   <city>
+    <id>17231</id>
+    <name>Boma</name>
+    <state_id>2746</state_id>
+    <state_code>BC</state_code>
+    <country_id>51</country_id>
+    <country_code>CD</country_code>
+    <latitude>-5.85098000</latitude>
+    <longitude>13.05364000</longitude>
+  </city>
+  <city>
+    <id>17258</id>
+    <name>Kasangulu</name>
+    <state_id>2746</state_id>
+    <state_code>BC</state_code>
+    <country_id>51</country_id>
+    <country_code>CD</country_code>
+    <latitude>-4.58330000</latitude>
+    <longitude>15.16554000</longitude>
+  </city>
+  <city>
+    <id>17278</id>
+    <name>Matadi</name>
+    <state_id>2746</state_id>
+    <state_code>BC</state_code>
+    <country_id>51</country_id>
+    <country_code>CD</country_code>
+    <latitude>-5.83861000</latitude>
+    <longitude>13.46306000</longitude>
+  </city>
+  <city>
+    <id>17280</id>
+    <name>Mbanza-Ngungu</name>
+    <state_id>2746</state_id>
+    <state_code>BC</state_code>
+    <country_id>51</country_id>
+    <country_code>CD</country_code>
+    <latitude>-5.25837000</latitude>
+    <longitude>14.85838000</longitude>
+  </city>
+  <city>
+    <id>17282</id>
+    <name>Moanda</name>
+    <state_id>2746</state_id>
+    <state_code>BC</state_code>
+    <country_id>51</country_id>
+    <country_code>CD</country_code>
+    <latitude>-5.92753000</latitude>
+    <longitude>12.37148000</longitude>
+  </city>
+  <city>
+    <id>17288</id>
+    <name>Tshela</name>
+    <state_id>2746</state_id>
+    <state_code>BC</state_code>
+    <country_id>51</country_id>
+    <country_code>CD</country_code>
+    <latitude>-4.99707000</latitude>
+    <longitude>12.94840000</longitude>
+  </city>
+  <city>
     <id>17260</id>
     <name>Kasongo-Lunda</name>
     <state_id>2740</state_id>
@@ -233091,36 +233081,6 @@
     <longitude>22.46827000</longitude>
   </city>
   <city>
-    <id>17234</id>
-    <name>Bosobolo</name>
-    <state_id>2739</state_id>
-    <state_code>NU</state_code>
-    <country_id>51</country_id>
-    <country_code>CD</country_code>
-    <latitude>4.18980000</latitude>
-    <longitude>19.88330000</longitude>
-  </city>
-  <city>
-    <id>17240</id>
-    <name>Businga</name>
-    <state_id>2739</state_id>
-    <state_code>NU</state_code>
-    <country_id>51</country_id>
-    <country_code>CD</country_code>
-    <latitude>3.33863000</latitude>
-    <longitude>20.88577000</longitude>
-  </city>
-  <city>
-    <id>17244</id>
-    <name>Gbadolite</name>
-    <state_id>2739</state_id>
-    <state_code>NU</state_code>
-    <country_id>51</country_id>
-    <country_code>CD</country_code>
-    <latitude>4.27900000</latitude>
-    <longitude>21.00284000</longitude>
-  </city>
-  <city>
     <id>17228</id>
     <name>Beni</name>
     <state_id>2749</state_id>
@@ -233159,6 +233119,36 @@
     <country_code>CD</country_code>
     <latitude>-1.57386000</latitude>
     <longitude>29.04339000</longitude>
+  </city>
+  <city>
+    <id>17234</id>
+    <name>Bosobolo</name>
+    <state_id>2739</state_id>
+    <state_code>NU</state_code>
+    <country_id>51</country_id>
+    <country_code>CD</country_code>
+    <latitude>4.18980000</latitude>
+    <longitude>19.88330000</longitude>
+  </city>
+  <city>
+    <id>17240</id>
+    <name>Businga</name>
+    <state_id>2739</state_id>
+    <state_code>NU</state_code>
+    <country_id>51</country_id>
+    <country_code>CD</country_code>
+    <latitude>3.33863000</latitude>
+    <longitude>20.88577000</longitude>
+  </city>
+  <city>
+    <id>17244</id>
+    <name>Gbadolite</name>
+    <state_id>2739</state_id>
+    <state_code>NU</state_code>
+    <country_id>51</country_id>
+    <country_code>CD</country_code>
+    <latitude>4.27900000</latitude>
+    <longitude>21.00284000</longitude>
   </city>
   <city>
     <id>17270</id>
@@ -566902,7 +566892,7 @@
   </city>
   <city>
     <id>60627</id>
-    <name>Scanzo-Rosciate</name>
+    <name>Scanzorosciate</name>
     <state_id>1705</state_id>
     <state_code>25</state_code>
     <country_id>107</country_id>
@@ -1179399,6 +1179389,66 @@
     <country_code>TH</country_code>
     <latitude>15.18636000</latitude>
     <longitude>100.12353000</longitude>
+  </city>
+  <city>
+    <id>148554</id>
+    <name>Bamnet Narong</name>
+    <state_id>4954</state_id>
+    <state_code>36</state_code>
+    <country_id>219</country_id>
+    <country_code>TH</country_code>
+    <latitude>15.50189000</latitude>
+    <longitude>101.68982000</longitude>
+  </city>
+  <city>
+    <id>148555</id>
+    <name>Chaiyaphum</name>
+    <state_id>4954</state_id>
+    <state_code>36</state_code>
+    <country_id>219</country_id>
+    <country_code>TH</country_code>
+    <latitude>15.81047000</latitude>
+    <longitude>102.02881000</longitude>
+  </city>
+  <city>
+    <id>148556</id>
+    <name>Kaeng Khro</name>
+    <state_id>4954</state_id>
+    <state_code>36</state_code>
+    <country_id>219</country_id>
+    <country_code>TH</country_code>
+    <latitude>16.10861111</latitude>
+    <longitude>102.25805556</longitude>
+  </city>
+  <city>
+    <id>148557</id>
+    <name>Kaset Sombun</name>
+    <state_id>4954</state_id>
+    <state_code>36</state_code>
+    <country_id>219</country_id>
+    <country_code>TH</country_code>
+    <latitude>16.28053000</latitude>
+    <longitude>101.95422000</longitude>
+  </city>
+  <city>
+    <id>148558</id>
+    <name>Nakhon Nayok</name>
+    <state_id>4954</state_id>
+    <state_code>36</state_code>
+    <country_id>219</country_id>
+    <country_code>TH</country_code>
+    <latitude>14.20305600</latitude>
+    <longitude>101.21500000</longitude>
+  </city>
+  <city>
+    <id>148559</id>
+    <name>Phu Khiao</name>
+    <state_id>4954</state_id>
+    <state_code>36</state_code>
+    <country_id>219</country_id>
+    <country_code>TH</country_code>
+    <latitude>16.37650000</latitude>
+    <longitude>102.12853000</longitude>
   </city>
   <city>
     <id>105364</id>

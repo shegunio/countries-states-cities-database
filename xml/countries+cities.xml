@@ -5,6 +5,7 @@
     <name>Afghanistan</name>
     <iso3>AFG</iso3>
     <iso2>AF</iso2>
+    <numeric_code>004</numeric_code>
     <phone_code>93</phone_code>
     <capital>Kabul</capital>
     <currency>AFN</currency>
@@ -596,6 +597,7 @@
     <name>Aland Islands</name>
     <iso3>ALA</iso3>
     <iso2>AX</iso2>
+    <numeric_code>248</numeric_code>
     <phone_code>+358-18</phone_code>
     <capital>Mariehamn</capital>
     <currency>EUR</currency>
@@ -636,6 +638,7 @@
     <name>Albania</name>
     <iso3>ALB</iso3>
     <iso2>AL</iso2>
+    <numeric_code>008</numeric_code>
     <phone_code>355</phone_code>
     <capital>Tirana</capital>
     <currency>ALL</currency>
@@ -1455,6 +1458,7 @@
     <name>Algeria</name>
     <iso3>DZA</iso3>
     <iso2>DZ</iso2>
+    <numeric_code>012</numeric_code>
     <phone_code>213</phone_code>
     <capital>Algiers</capital>
     <currency>DZD</currency>
@@ -3252,6 +3256,7 @@
     <name>American Samoa</name>
     <iso3>ASM</iso3>
     <iso2>AS</iso2>
+    <numeric_code>016</numeric_code>
     <phone_code>+1-684</phone_code>
     <capital>Pago Pago</capital>
     <currency>USD</currency>
@@ -3292,6 +3297,7 @@
     <name>Andorra</name>
     <iso3>AND</iso3>
     <iso2>AD</iso2>
+    <numeric_code>020</numeric_code>
     <phone_code>376</phone_code>
     <capital>Andorra la Vella</capital>
     <currency>EUR</currency>
@@ -3391,6 +3397,7 @@
     <name>Angola</name>
     <iso3>AGO</iso3>
     <iso2>AO</iso2>
+    <numeric_code>024</numeric_code>
     <phone_code>244</phone_code>
     <capital>Luanda</capital>
     <currency>AOA</currency>
@@ -3718,6 +3725,7 @@
     <name>Anguilla</name>
     <iso3>AIA</iso3>
     <iso2>AI</iso2>
+    <numeric_code>660</numeric_code>
     <phone_code>+1-264</phone_code>
     <capital>The Valley</capital>
     <currency>XCD</currency>
@@ -3758,6 +3766,7 @@
     <name>Antarctica</name>
     <iso3>ATA</iso3>
     <iso2>AQ</iso2>
+    <numeric_code>010</numeric_code>
     <phone_code>672</phone_code>
     <capital></capital>
     <currency>AAD</currency>
@@ -3861,6 +3870,7 @@
     <name>Antigua And Barbuda</name>
     <iso3>ATG</iso3>
     <iso2>AG</iso2>
+    <numeric_code>028</numeric_code>
     <phone_code>+1-268</phone_code>
     <capital>St. John's</capital>
     <currency>XCD</currency>
@@ -3954,6 +3964,7 @@
     <name>Argentina</name>
     <iso3>ARG</iso3>
     <iso2>AR</iso2>
+    <numeric_code>032</numeric_code>
     <phone_code>54</phone_code>
     <capital>Buenos Aires</capital>
     <currency>ARS</currency>
@@ -9848,6 +9859,7 @@
     <name>Armenia</name>
     <iso3>ARM</iso3>
     <iso2>AM</iso2>
+    <numeric_code>051</numeric_code>
     <phone_code>374</phone_code>
     <capital>Yerevan</capital>
     <currency>AMD</currency>
@@ -11735,6 +11747,7 @@
     <name>Aruba</name>
     <iso3>ABW</iso3>
     <iso2>AW</iso2>
+    <numeric_code>533</numeric_code>
     <phone_code>297</phone_code>
     <capital>Oranjestad</capital>
     <currency>AWG</currency>
@@ -11775,6 +11788,7 @@
     <name>Australia</name>
     <iso3>AUS</iso3>
     <iso2>AU</iso2>
+    <numeric_code>036</numeric_code>
     <phone_code>61</phone_code>
     <capital>Canberra</capital>
     <currency>AUD</currency>
@@ -36708,6 +36722,7 @@
     <name>Austria</name>
     <iso3>AUT</iso3>
     <iso2>AT</iso2>
+    <numeric_code>040</numeric_code>
     <phone_code>43</phone_code>
     <capital>Vienna</capital>
     <currency>EUR</currency>
@@ -50913,6 +50928,7 @@
     <name>Azerbaijan</name>
     <iso3>AZE</iso3>
     <iso2>AZ</iso2>
+    <numeric_code>031</numeric_code>
     <phone_code>994</phone_code>
     <capital>Baku</capital>
     <currency>AZN</currency>
@@ -52020,6 +52036,7 @@
     <name>Bahamas The</name>
     <iso3>BHS</iso3>
     <iso2>BS</iso2>
+    <numeric_code>044</numeric_code>
     <phone_code>+1-242</phone_code>
     <capital>Nassau</capital>
     <currency>BSD</currency>
@@ -52185,6 +52202,7 @@
     <name>Bahrain</name>
     <iso3>BHR</iso3>
     <iso2>BH</iso2>
+    <numeric_code>048</numeric_code>
     <phone_code>973</phone_code>
     <capital>Manama</capital>
     <currency>BHD</currency>
@@ -52278,6 +52296,7 @@
     <name>Bangladesh</name>
     <iso3>BGD</iso3>
     <iso2>BD</iso2>
+    <numeric_code>050</numeric_code>
     <phone_code>880</phone_code>
     <capital>Dhaka</capital>
     <currency>BDT</currency>
@@ -53163,6 +53182,7 @@
     <name>Barbados</name>
     <iso3>BRB</iso3>
     <iso2>BB</iso2>
+    <numeric_code>052</numeric_code>
     <phone_code>+1-246</phone_code>
     <capital>Bridgetown</capital>
     <currency>BBD</currency>
@@ -53244,6 +53264,7 @@
     <name>Belarus</name>
     <iso3>BLR</iso3>
     <iso2>BY</iso2>
+    <numeric_code>112</numeric_code>
     <phone_code>375</phone_code>
     <capital>Minsk</capital>
     <currency>BYN</currency>
@@ -55257,6 +55278,7 @@
     <name>Belgium</name>
     <iso3>BEL</iso3>
     <iso2>BE</iso2>
+    <numeric_code>056</numeric_code>
     <phone_code>32</phone_code>
     <capital>Brussels</capital>
     <currency>EUR</currency>
@@ -58596,6 +58618,7 @@
     <name>Belize</name>
     <iso3>BLZ</iso3>
     <iso2>BZ</iso2>
+    <numeric_code>084</numeric_code>
     <phone_code>501</phone_code>
     <capital>Belmopan</capital>
     <currency>BZD</currency>
@@ -58713,6 +58736,7 @@
     <name>Benin</name>
     <iso3>BEN</iso3>
     <iso2>BJ</iso2>
+    <numeric_code>204</numeric_code>
     <phone_code>229</phone_code>
     <capital>Porto-Novo</capital>
     <currency>XOF</currency>
@@ -58968,6 +58992,7 @@
     <name>Bermuda</name>
     <iso3>BMU</iso3>
     <iso2>BM</iso2>
+    <numeric_code>060</numeric_code>
     <phone_code>+1-441</phone_code>
     <capital>Hamilton</capital>
     <currency>BMD</currency>
@@ -59008,6 +59033,7 @@
     <name>Bhutan</name>
     <iso3>BTN</iso3>
     <iso2>BT</iso2>
+    <numeric_code>064</numeric_code>
     <phone_code>975</phone_code>
     <capital>Thimphu</capital>
     <currency>BTN</currency>
@@ -59191,6 +59217,7 @@
     <name>Bolivia</name>
     <iso3>BOL</iso3>
     <iso2>BO</iso2>
+    <numeric_code>068</numeric_code>
     <phone_code>591</phone_code>
     <capital>Sucre</capital>
     <currency>BOB</currency>
@@ -60598,6 +60625,7 @@
     <name>Bonaire, Sint Eustatius and Saba</name>
     <iso3>BES</iso3>
     <iso2>BQ</iso2>
+    <numeric_code>535</numeric_code>
     <phone_code>599</phone_code>
     <capital>Kralendijk</capital>
     <currency>USD</currency>
@@ -60634,6 +60662,7 @@
     <name>Bosnia and Herzegovina</name>
     <iso3>BIH</iso3>
     <iso2>BA</iso2>
+    <numeric_code>070</numeric_code>
     <phone_code>387</phone_code>
     <capital>Sarajevo</capital>
     <currency>BAM</currency>
@@ -62065,6 +62094,7 @@
     <name>Botswana</name>
     <iso3>BWA</iso3>
     <iso2>BW</iso2>
+    <numeric_code>072</numeric_code>
     <phone_code>267</phone_code>
     <capital>Gaborone</capital>
     <currency>BWP</currency>
@@ -62554,6 +62584,7 @@
     <name>Bouvet Island</name>
     <iso3>BVT</iso3>
     <iso2>BV</iso2>
+    <numeric_code>074</numeric_code>
     <phone_code>0055</phone_code>
     <capital></capital>
     <currency>NOK</currency>
@@ -62594,6 +62625,7 @@
     <name>Brazil</name>
     <iso3>BRA</iso3>
     <iso2>BR</iso2>
+    <numeric_code>076</numeric_code>
     <phone_code>55</phone_code>
     <capital>Brasilia</capital>
     <currency>BRL</currency>
@@ -65041,12 +65073,6 @@
       <name>Armação</name>
       <latitude>-27.74963000</latitude>
       <longitude>-48.50713000</longitude>
-    </cities>
-    <cities>
-      <id>10401</id>
-      <name>Armação de Búzios</name>
-      <latitude>-22.74694000</latitude>
-      <longitude>-41.88167000</longitude>
     </cities>
     <cities>
       <id>10402</id>
@@ -89469,16 +89495,16 @@
       <longitude>-50.92583000</longitude>
     </cities>
     <cities>
-      <id>14461</id>
-      <name>Santa Filomena</name>
-      <latitude>-8.89582000</latitude>
-      <longitude>-45.66715000</longitude>
-    </cities>
-    <cities>
       <id>14462</id>
       <name>Santa Filomena</name>
       <latitude>-8.28797000</latitude>
       <longitude>-40.59304000</longitude>
+    </cities>
+    <cities>
+      <id>14461</id>
+      <name>Santa Filomena</name>
+      <latitude>-8.89582000</latitude>
+      <longitude>-45.66715000</longitude>
     </cities>
     <cities>
       <id>14463</id>
@@ -96584,6 +96610,7 @@
     <name>British Indian Ocean Territory</name>
     <iso3>IOT</iso3>
     <iso2>IO</iso2>
+    <numeric_code>086</numeric_code>
     <phone_code>246</phone_code>
     <capital>Diego Garcia</capital>
     <currency>USD</currency>
@@ -96624,6 +96651,7 @@
     <name>Brunei</name>
     <iso3>BRN</iso3>
     <iso2>BN</iso2>
+    <numeric_code>096</numeric_code>
     <phone_code>673</phone_code>
     <capital>Bandar Seri Begawan</capital>
     <currency>BND</currency>
@@ -96717,6 +96745,7 @@
     <name>Bulgaria</name>
     <iso3>BGR</iso3>
     <iso2>BG</iso2>
+    <numeric_code>100</numeric_code>
     <phone_code>359</phone_code>
     <capital>Sofia</capital>
     <currency>BGN</currency>
@@ -99780,6 +99809,7 @@
     <name>Burkina Faso</name>
     <iso3>BFA</iso3>
     <iso2>BF</iso2>
+    <numeric_code>854</numeric_code>
     <phone_code>226</phone_code>
     <capital>Ouagadougou</capital>
     <currency>XOF</currency>
@@ -100371,6 +100401,7 @@
     <name>Burundi</name>
     <iso3>BDI</iso3>
     <iso2>BI</iso2>
+    <numeric_code>108</numeric_code>
     <phone_code>257</phone_code>
     <capital>Bujumbura</capital>
     <currency>BIF</currency>
@@ -100512,6 +100543,7 @@
     <name>Cambodia</name>
     <iso3>KHM</iso3>
     <iso2>KH</iso2>
+    <numeric_code>116</numeric_code>
     <phone_code>855</phone_code>
     <capital>Phnom Penh</capital>
     <currency>KHR</currency>
@@ -101187,6 +101219,7 @@
     <name>Cameroon</name>
     <iso3>CMR</iso3>
     <iso2>CM</iso2>
+    <numeric_code>120</numeric_code>
     <phone_code>237</phone_code>
     <capital>Yaounde</capital>
     <currency>XAF</currency>
@@ -102060,6 +102093,7 @@
     <name>Canada</name>
     <iso3>CAN</iso3>
     <iso2>CA</iso2>
+    <numeric_code>124</numeric_code>
     <phone_code>1</phone_code>
     <capital>Ottawa</capital>
     <currency>CAD</currency>
@@ -108762,6 +108796,7 @@
     <name>Cape Verde</name>
     <iso3>CPV</iso3>
     <iso2>CV</iso2>
+    <numeric_code>132</numeric_code>
     <phone_code>238</phone_code>
     <capital>Praia</capital>
     <currency>CVE</currency>
@@ -108945,6 +108980,7 @@
     <name>Cayman Islands</name>
     <iso3>CYM</iso3>
     <iso2>KY</iso2>
+    <numeric_code>136</numeric_code>
     <phone_code>+1-345</phone_code>
     <capital>George Town</capital>
     <currency>KYD</currency>
@@ -108985,6 +109021,7 @@
     <name>Central African Republic</name>
     <iso3>CAF</iso3>
     <iso2>CF</iso2>
+    <numeric_code>140</numeric_code>
     <phone_code>236</phone_code>
     <capital>Bangui</capital>
     <currency>XAF</currency>
@@ -109282,6 +109319,7 @@
     <name>Chad</name>
     <iso3>TCD</iso3>
     <iso2>TD</iso2>
+    <numeric_code>148</numeric_code>
     <phone_code>235</phone_code>
     <capital>N'Djamena</capital>
     <currency>XAF</currency>
@@ -109567,6 +109605,7 @@
     <name>Chile</name>
     <iso3>CHL</iso3>
     <iso2>CL</iso2>
+    <numeric_code>152</numeric_code>
     <phone_code>56</phone_code>
     <capital>Santiago</capital>
     <currency>CLP</currency>
@@ -111696,6 +111735,7 @@
     <name>China</name>
     <iso3>CHN</iso3>
     <iso2>CN</iso2>
+    <numeric_code>156</numeric_code>
     <phone_code>86</phone_code>
     <capital>Beijing</capital>
     <currency>CNY</currency>
@@ -119026,6 +119066,7 @@
     <name>Christmas Island</name>
     <iso3>CXR</iso3>
     <iso2>CX</iso2>
+    <numeric_code>162</numeric_code>
     <phone_code>61</phone_code>
     <capital>Flying Fish Cove</capital>
     <currency>AUD</currency>
@@ -119066,6 +119107,7 @@
     <name>Cocos (Keeling) Islands</name>
     <iso3>CCK</iso3>
     <iso2>CC</iso2>
+    <numeric_code>166</numeric_code>
     <phone_code>61</phone_code>
     <capital>West Island</capital>
     <currency>AUD</currency>
@@ -119106,6 +119148,7 @@
     <name>Colombia</name>
     <iso3>COL</iso3>
     <iso2>CO</iso2>
+    <numeric_code>170</numeric_code>
     <phone_code>57</phone_code>
     <capital>Bogota</capital>
     <currency>COP</currency>
@@ -126129,6 +126172,7 @@
     <name>Comoros</name>
     <iso3>COM</iso3>
     <iso2>KM</iso2>
+    <numeric_code>174</numeric_code>
     <phone_code>269</phone_code>
     <capital>Moroni</capital>
     <currency>KMF</currency>
@@ -126696,6 +126740,7 @@
     <name>Congo</name>
     <iso3>COG</iso3>
     <iso2>CG</iso2>
+    <numeric_code>178</numeric_code>
     <phone_code>242</phone_code>
     <capital>Brazzaville</capital>
     <currency>XAF</currency>
@@ -126837,6 +126882,7 @@
     <name>Cook Islands</name>
     <iso3>COK</iso3>
     <iso2>CK</iso2>
+    <numeric_code>184</numeric_code>
     <phone_code>682</phone_code>
     <capital>Avarua</capital>
     <currency>NZD</currency>
@@ -126877,6 +126923,7 @@
     <name>Costa Rica</name>
     <iso3>CRI</iso3>
     <iso2>CR</iso2>
+    <numeric_code>188</numeric_code>
     <phone_code>506</phone_code>
     <capital>San Jose</capital>
     <currency>CRC</currency>
@@ -127870,6 +127917,7 @@
     <name>Cote D'Ivoire (Ivory Coast)</name>
     <iso3>CIV</iso3>
     <iso2>CI</iso2>
+    <numeric_code>384</numeric_code>
     <phone_code>225</phone_code>
     <capital>Yamoussoukro</capital>
     <currency>XOF</currency>
@@ -128419,6 +128467,7 @@
     <name>Croatia</name>
     <iso3>HRV</iso3>
     <iso2>HR</iso2>
+    <numeric_code>191</numeric_code>
     <phone_code>385</phone_code>
     <capital>Zagreb</capital>
     <currency>HRK</currency>
@@ -132442,6 +132491,7 @@
     <name>Cuba</name>
     <iso3>CUB</iso3>
     <iso2>CU</iso2>
+    <numeric_code>192</numeric_code>
     <phone_code>53</phone_code>
     <capital>Havana</capital>
     <currency>CUP</currency>
@@ -133603,6 +133653,7 @@
     <name>Curaçao</name>
     <iso3>CUW</iso3>
     <iso2>CW</iso2>
+    <numeric_code>531</numeric_code>
     <phone_code>599</phone_code>
     <capital>Willemstad</capital>
     <currency>ANG</currency>
@@ -133640,6 +133691,7 @@
     <name>Cyprus</name>
     <iso3>CYP</iso3>
     <iso2>CY</iso2>
+    <numeric_code>196</numeric_code>
     <phone_code>357</phone_code>
     <capital>Nicosia</capital>
     <currency>EUR</currency>
@@ -134256,6 +134308,7 @@
     <name>Czech Republic</name>
     <iso3>CZE</iso3>
     <iso2>CZ</iso2>
+    <numeric_code>203</numeric_code>
     <phone_code>420</phone_code>
     <capital>Prague</capital>
     <currency>CZK</currency>
@@ -142425,6 +142478,7 @@
     <name>Democratic Republic of the Congo</name>
     <iso3>COD</iso3>
     <iso2>CD</iso2>
+    <numeric_code>180</numeric_code>
     <phone_code>243</phone_code>
     <capital>Kinshasa</capital>
     <currency>CDF</currency>
@@ -142885,6 +142939,7 @@
     <name>Denmark</name>
     <iso3>DNK</iso3>
     <iso2>DK</iso2>
+    <numeric_code>208</numeric_code>
     <phone_code>45</phone_code>
     <capital>Copenhagen</capital>
     <currency>DKK</currency>
@@ -145498,6 +145553,7 @@
     <name>Djibouti</name>
     <iso3>DJI</iso3>
     <iso2>DJ</iso2>
+    <numeric_code>262</numeric_code>
     <phone_code>253</phone_code>
     <capital>Djibouti</capital>
     <currency>DJF</currency>
@@ -145609,6 +145665,7 @@
     <name>Dominica</name>
     <iso3>DMA</iso3>
     <iso2>DM</iso2>
+    <numeric_code>212</numeric_code>
     <phone_code>+1-767</phone_code>
     <capital>Roseau</capital>
     <currency>XCD</currency>
@@ -145750,6 +145807,7 @@
     <name>Dominican Republic</name>
     <iso3>DOM</iso3>
     <iso2>DO</iso2>
+    <numeric_code>214</numeric_code>
     <phone_code>+1-809 and 1-829</phone_code>
     <capital>Santo Domingo</capital>
     <currency>DOP</currency>
@@ -147031,6 +147089,7 @@
     <name>East Timor</name>
     <iso3>TLS</iso3>
     <iso2>TL</iso2>
+    <numeric_code>626</numeric_code>
     <phone_code>670</phone_code>
     <capital>Dili</capital>
     <currency>USD</currency>
@@ -147370,6 +147429,7 @@
     <name>Ecuador</name>
     <iso3>ECU</iso3>
     <iso2>EC</iso2>
+    <numeric_code>218</numeric_code>
     <phone_code>593</phone_code>
     <capital>Quito</capital>
     <currency>USD</currency>
@@ -148100,6 +148160,7 @@
     <name>Egypt</name>
     <iso3>EGY</iso3>
     <iso2>EG</iso2>
+    <numeric_code>818</numeric_code>
     <phone_code>20</phone_code>
     <capital>Cairo</capital>
     <currency>EGP</currency>
@@ -148895,6 +148956,7 @@
     <name>El Salvador</name>
     <iso3>SLV</iso3>
     <iso2>SV</iso2>
+    <numeric_code>222</numeric_code>
     <phone_code>503</phone_code>
     <capital>San Salvador</capital>
     <currency>USD</currency>
@@ -149534,6 +149596,7 @@
     <name>Equatorial Guinea</name>
     <iso3>GNQ</iso3>
     <iso2>GQ</iso2>
+    <numeric_code>226</numeric_code>
     <phone_code>240</phone_code>
     <capital>Malabo</capital>
     <currency>XAF</currency>
@@ -149717,6 +149780,7 @@
     <name>Eritrea</name>
     <iso3>ERI</iso3>
     <iso2>ER</iso2>
+    <numeric_code>232</numeric_code>
     <phone_code>291</phone_code>
     <capital>Asmara</capital>
     <currency>ERN</currency>
@@ -149822,6 +149886,7 @@
     <name>Estonia</name>
     <iso3>EST</iso3>
     <iso2>EE</iso2>
+    <numeric_code>233</numeric_code>
     <phone_code>372</phone_code>
     <capital>Tallinn</capital>
     <currency>EUR</currency>
@@ -150833,6 +150898,7 @@
     <name>Ethiopia</name>
     <iso3>ETH</iso3>
     <iso2>ET</iso2>
+    <numeric_code>231</numeric_code>
     <phone_code>251</phone_code>
     <capital>Addis Ababa</capital>
     <currency>ETB</currency>
@@ -151736,6 +151802,7 @@
     <name>Falkland Islands</name>
     <iso3>FLK</iso3>
     <iso2>FK</iso2>
+    <numeric_code>238</numeric_code>
     <phone_code>500</phone_code>
     <capital>Stanley</capital>
     <currency>FKP</currency>
@@ -151776,6 +151843,7 @@
     <name>Faroe Islands</name>
     <iso3>FRO</iso3>
     <iso2>FO</iso2>
+    <numeric_code>234</numeric_code>
     <phone_code>298</phone_code>
     <capital>Torshavn</capital>
     <currency>DKK</currency>
@@ -151816,6 +151884,7 @@
     <name>Fiji Islands</name>
     <iso3>FJI</iso3>
     <iso2>FJ</iso2>
+    <numeric_code>242</numeric_code>
     <phone_code>679</phone_code>
     <capital>Suva</capital>
     <currency>FJD</currency>
@@ -151975,6 +152044,7 @@
     <name>Finland</name>
     <iso3>FIN</iso3>
     <iso2>FI</iso2>
+    <numeric_code>246</numeric_code>
     <phone_code>358</phone_code>
     <capital>Helsinki</capital>
     <currency>EUR</currency>
@@ -154426,6 +154496,7 @@
     <name>France</name>
     <iso3>FRA</iso3>
     <iso2>FR</iso2>
+    <numeric_code>250</numeric_code>
     <phone_code>33</phone_code>
     <capital>Paris</capital>
     <currency>EUR</currency>
@@ -207835,6 +207906,7 @@
     <name>French Guiana</name>
     <iso3>GUF</iso3>
     <iso2>GF</iso2>
+    <numeric_code>254</numeric_code>
     <phone_code>594</phone_code>
     <capital>Cayenne</capital>
     <currency>EUR</currency>
@@ -207875,6 +207947,7 @@
     <name>French Polynesia</name>
     <iso3>PYF</iso3>
     <iso2>PF</iso2>
+    <numeric_code>258</numeric_code>
     <phone_code>689</phone_code>
     <capital>Papeete</capital>
     <currency>XPF</currency>
@@ -207929,6 +208002,7 @@
     <name>French Southern Territories</name>
     <iso3>ATF</iso3>
     <iso2>TF</iso2>
+    <numeric_code>260</numeric_code>
     <phone_code>262</phone_code>
     <capital>Port-aux-Francais</capital>
     <currency>EUR</currency>
@@ -207969,6 +208043,7 @@
     <name>Gabon</name>
     <iso3>GAB</iso3>
     <iso2>GA</iso2>
+    <numeric_code>266</numeric_code>
     <phone_code>241</phone_code>
     <capital>Libreville</capital>
     <currency>XAF</currency>
@@ -208176,6 +208251,7 @@
     <name>Gambia The</name>
     <iso3>GMB</iso3>
     <iso2>GM</iso2>
+    <numeric_code>270</numeric_code>
     <phone_code>220</phone_code>
     <capital>Banjul</capital>
     <currency>GMD</currency>
@@ -208839,6 +208915,7 @@
     <name>Georgia</name>
     <iso3>GEO</iso3>
     <iso2>GE</iso2>
+    <numeric_code>268</numeric_code>
     <phone_code>995</phone_code>
     <capital>Tbilisi</capital>
     <currency>GEL</currency>
@@ -209550,6 +209627,7 @@
     <name>Germany</name>
     <iso3>DEU</iso3>
     <iso2>DE</iso2>
+    <numeric_code>276</numeric_code>
     <phone_code>49</phone_code>
     <capital>Berlin</capital>
     <currency>EUR</currency>
@@ -252178,6 +252256,7 @@
     <name>Ghana</name>
     <iso3>GHA</iso3>
     <iso2>GH</iso2>
+    <numeric_code>288</numeric_code>
     <phone_code>233</phone_code>
     <capital>Accra</capital>
     <currency>GHS</currency>
@@ -252637,6 +252716,7 @@
     <name>Gibraltar</name>
     <iso3>GIB</iso3>
     <iso2>GI</iso2>
+    <numeric_code>292</numeric_code>
     <phone_code>350</phone_code>
     <capital>Gibraltar</capital>
     <currency>GIP</currency>
@@ -252677,6 +252757,7 @@
     <name>Greece</name>
     <iso3>GRC</iso3>
     <iso2>GR</iso2>
+    <numeric_code>300</numeric_code>
     <phone_code>30</phone_code>
     <capital>Athens</capital>
     <currency>EUR</currency>
@@ -258866,6 +258947,7 @@
     <name>Greenland</name>
     <iso3>GRL</iso3>
     <iso2>GL</iso2>
+    <numeric_code>304</numeric_code>
     <phone_code>299</phone_code>
     <capital>Nuuk</capital>
     <currency>DKK</currency>
@@ -258927,6 +259009,7 @@
     <name>Grenada</name>
     <iso3>GRD</iso3>
     <iso2>GD</iso2>
+    <numeric_code>308</numeric_code>
     <phone_code>+1-473</phone_code>
     <capital>St. George's</capital>
     <currency>XCD</currency>
@@ -259008,6 +259091,7 @@
     <name>Guadeloupe</name>
     <iso3>GLP</iso3>
     <iso2>GP</iso2>
+    <numeric_code>312</numeric_code>
     <phone_code>590</phone_code>
     <capital>Basse-Terre</capital>
     <currency>EUR</currency>
@@ -259048,6 +259132,7 @@
     <name>Guam</name>
     <iso3>GUM</iso3>
     <iso2>GU</iso2>
+    <numeric_code>316</numeric_code>
     <phone_code>+1-671</phone_code>
     <capital>Hagatna</capital>
     <currency>USD</currency>
@@ -259088,6 +259173,7 @@
     <name>Guatemala</name>
     <iso3>GTM</iso3>
     <iso2>GT</iso2>
+    <numeric_code>320</numeric_code>
     <phone_code>502</phone_code>
     <capital>Guatemala City</capital>
     <currency>GTQ</currency>
@@ -261419,6 +261505,7 @@
     <name>Guernsey and Alderney</name>
     <iso3>GGY</iso3>
     <iso2>GG</iso2>
+    <numeric_code>831</numeric_code>
     <phone_code>+44-1481</phone_code>
     <capital>St Peter Port</capital>
     <currency>GBP</currency>
@@ -261459,6 +261546,7 @@
     <name>Guinea</name>
     <iso3>GIN</iso3>
     <iso2>GN</iso2>
+    <numeric_code>324</numeric_code>
     <phone_code>224</phone_code>
     <capital>Conakry</capital>
     <currency>GNF</currency>
@@ -261822,6 +261910,7 @@
     <name>Guinea-Bissau</name>
     <iso3>GNB</iso3>
     <iso2>GW</iso2>
+    <numeric_code>624</numeric_code>
     <phone_code>245</phone_code>
     <capital>Bissau</capital>
     <currency>XOF</currency>
@@ -261945,6 +262034,7 @@
     <name>Guyana</name>
     <iso3>GUY</iso3>
     <iso2>GY</iso2>
+    <numeric_code>328</numeric_code>
     <phone_code>592</phone_code>
     <capital>Georgetown</capital>
     <currency>GYD</currency>
@@ -262068,6 +262158,7 @@
     <name>Haiti</name>
     <iso3>HTI</iso3>
     <iso2>HT</iso2>
+    <numeric_code>332</numeric_code>
     <phone_code>509</phone_code>
     <capital>Port-au-Prince</capital>
     <currency>HTG</currency>
@@ -262851,6 +262942,7 @@
     <name>Heard Island and McDonald Islands</name>
     <iso3>HMD</iso3>
     <iso2>HM</iso2>
+    <numeric_code>334</numeric_code>
     <phone_code>672</phone_code>
     <capital></capital>
     <currency>AUD</currency>
@@ -262891,6 +262983,7 @@
     <name>Honduras</name>
     <iso3>HND</iso3>
     <iso2>HN</iso2>
+    <numeric_code>340</numeric_code>
     <phone_code>504</phone_code>
     <capital>Tegucigalpa</capital>
     <currency>HNL</currency>
@@ -266200,6 +266293,7 @@
     <name>Hong Kong S.A.R.</name>
     <iso3>HKG</iso3>
     <iso2>HK</iso2>
+    <numeric_code>344</numeric_code>
     <phone_code>852</phone_code>
     <capital>Hong Kong</capital>
     <currency>HKD</currency>
@@ -266240,6 +266334,7 @@
     <name>Hungary</name>
     <iso3>HUN</iso3>
     <iso2>HU</iso2>
+    <numeric_code>348</numeric_code>
     <phone_code>36</phone_code>
     <capital>Budapest</capital>
     <currency>HUF</currency>
@@ -272309,6 +272404,7 @@
     <name>Iceland</name>
     <iso3>ISL</iso3>
     <iso2>IS</iso2>
+    <numeric_code>352</numeric_code>
     <phone_code>354</phone_code>
     <capital>Reykjavik</capital>
     <currency>ISK</currency>
@@ -272792,6 +272888,7 @@
     <name>India</name>
     <iso3>IND</iso3>
     <iso2>IN</iso2>
+    <numeric_code>356</numeric_code>
     <phone_code>91</phone_code>
     <capital>New Delhi</capital>
     <currency>INR</currency>
@@ -298277,6 +298374,7 @@
     <name>Indonesia</name>
     <iso3>IDN</iso3>
     <iso2>ID</iso2>
+    <numeric_code>360</numeric_code>
     <phone_code>62</phone_code>
     <capital>Jakarta</capital>
     <currency>IDR</currency>
@@ -303671,6 +303769,7 @@
     <name>Iran</name>
     <iso3>IRN</iso3>
     <iso2>IR</iso2>
+    <numeric_code>364</numeric_code>
     <phone_code>98</phone_code>
     <capital>Tehran</capital>
     <currency>IRR</currency>
@@ -310249,6 +310348,7 @@
     <name>Iraq</name>
     <iso3>IRQ</iso3>
     <iso2>IQ</iso2>
+    <numeric_code>368</numeric_code>
     <phone_code>964</phone_code>
     <capital>Baghdad</capital>
     <currency>IQD</currency>
@@ -310774,6 +310874,7 @@
     <name>Ireland</name>
     <iso3>IRL</iso3>
     <iso2>IE</iso2>
+    <numeric_code>372</numeric_code>
     <phone_code>353</phone_code>
     <capital>Dublin</capital>
     <currency>EUR</currency>
@@ -313045,6 +313146,7 @@
     <name>Israel</name>
     <iso3>ISR</iso3>
     <iso2>IL</iso2>
+    <numeric_code>376</numeric_code>
     <phone_code>972</phone_code>
     <capital>Jerusalem</capital>
     <currency>ILS</currency>
@@ -313984,6 +314086,7 @@
     <name>Italy</name>
     <iso3>ITA</iso3>
     <iso2>IT</iso2>
+    <numeric_code>380</numeric_code>
     <phone_code>39</phone_code>
     <capital>Rome</capital>
     <currency>EUR</currency>
@@ -363735,7 +363838,7 @@
     </cities>
     <cities>
       <id>60627</id>
-      <name>Scanzo-Rosciate</name>
+      <name>Scanzorosciate</name>
       <latitude>45.71078000</latitude>
       <longitude>9.73505000</longitude>
     </cities>
@@ -373711,6 +373814,7 @@
     <name>Jamaica</name>
     <iso3>JAM</iso3>
     <iso2>JM</iso2>
+    <numeric_code>388</numeric_code>
     <phone_code>+1-876</phone_code>
     <capital>Kingston</capital>
     <currency>JMD</currency>
@@ -378790,6 +378894,7 @@
     <name>Japan</name>
     <iso3>JPN</iso3>
     <iso2>JP</iso2>
+    <numeric_code>392</numeric_code>
     <phone_code>81</phone_code>
     <capital>Tokyo</capital>
     <currency>JPY</currency>
@@ -388855,6 +388960,7 @@
     <name>Jersey</name>
     <iso3>JEY</iso3>
     <iso2>JE</iso2>
+    <numeric_code>832</numeric_code>
     <phone_code>+44-1534</phone_code>
     <capital>Saint Helier</capital>
     <currency>GBP</currency>
@@ -388895,6 +389001,7 @@
     <name>Jordan</name>
     <iso3>JOR</iso3>
     <iso2>JO</iso2>
+    <numeric_code>400</numeric_code>
     <phone_code>962</phone_code>
     <capital>Amman</capital>
     <currency>JOD</currency>
@@ -389426,6 +389533,7 @@
     <name>Kazakhstan</name>
     <iso3>KAZ</iso3>
     <iso2>KZ</iso2>
+    <numeric_code>398</numeric_code>
     <phone_code>7</phone_code>
     <capital>Astana</capital>
     <currency>KZT</currency>
@@ -391067,6 +391175,7 @@
     <name>Kenya</name>
     <iso3>KEN</iso3>
     <iso2>KE</iso2>
+    <numeric_code>404</numeric_code>
     <phone_code>254</phone_code>
     <capital>Nairobi</capital>
     <currency>KES</currency>
@@ -391766,6 +391875,7 @@
     <name>Kiribati</name>
     <iso3>KIR</iso3>
     <iso2>KI</iso2>
+    <numeric_code>296</numeric_code>
     <phone_code>686</phone_code>
     <capital>Tarawa</capital>
     <currency>AUD</currency>
@@ -392047,6 +392157,7 @@
     <name>Kosovo</name>
     <iso3>XKX</iso3>
     <iso2>XK</iso2>
+    <numeric_code>926</numeric_code>
     <phone_code>383</phone_code>
     <capital>Pristina</capital>
     <currency>EUR</currency>
@@ -392077,6 +392188,7 @@
     <name>Kuwait</name>
     <iso3>KWT</iso3>
     <iso2>KW</iso2>
+    <numeric_code>414</numeric_code>
     <phone_code>965</phone_code>
     <capital>Kuwait City</capital>
     <currency>KWD</currency>
@@ -392266,6 +392378,7 @@
     <name>Kyrgyzstan</name>
     <iso3>KGZ</iso3>
     <iso2>KG</iso2>
+    <numeric_code>417</numeric_code>
     <phone_code>996</phone_code>
     <capital>Bishkek</capital>
     <currency>KGS</currency>
@@ -392623,6 +392736,7 @@
     <name>Laos</name>
     <iso3>LAO</iso3>
     <iso2>LA</iso2>
+    <numeric_code>418</numeric_code>
     <phone_code>856</phone_code>
     <capital>Vientiane</capital>
     <currency>LAK</currency>
@@ -393118,6 +393232,7 @@
     <name>Latvia</name>
     <iso3>LVA</iso3>
     <iso2>LV</iso2>
+    <numeric_code>428</numeric_code>
     <phone_code>371</phone_code>
     <capital>Riga</capital>
     <currency>EUR</currency>
@@ -393907,6 +394022,7 @@
     <name>Lebanon</name>
     <iso3>LBN</iso3>
     <iso2>LB</iso2>
+    <numeric_code>422</numeric_code>
     <phone_code>961</phone_code>
     <capital>Beirut</capital>
     <currency>LBP</currency>
@@ -394102,6 +394218,7 @@
     <name>Lesotho</name>
     <iso3>LSO</iso3>
     <iso2>LS</iso2>
+    <numeric_code>426</numeric_code>
     <phone_code>266</phone_code>
     <capital>Maseru</capital>
     <currency>LSL</currency>
@@ -394213,6 +394330,7 @@
     <name>Liberia</name>
     <iso3>LBR</iso3>
     <iso2>LR</iso2>
+    <numeric_code>430</numeric_code>
     <phone_code>231</phone_code>
     <capital>Monrovia</capital>
     <currency>LRD</currency>
@@ -394360,6 +394478,7 @@
     <name>Libya</name>
     <iso3>LBY</iso3>
     <iso2>LY</iso2>
+    <numeric_code>434</numeric_code>
     <phone_code>218</phone_code>
     <capital>Tripolis</capital>
     <currency>LYD</currency>
@@ -394705,6 +394824,7 @@
     <name>Liechtenstein</name>
     <iso3>LIE</iso3>
     <iso2>LI</iso2>
+    <numeric_code>438</numeric_code>
     <phone_code>423</phone_code>
     <capital>Vaduz</capital>
     <currency>CHF</currency>
@@ -394810,6 +394930,7 @@
     <name>Lithuania</name>
     <iso3>LTU</iso3>
     <iso2>LT</iso2>
+    <numeric_code>440</numeric_code>
     <phone_code>370</phone_code>
     <capital>Vilnius</capital>
     <currency>EUR</currency>
@@ -395623,6 +395744,7 @@
     <name>Luxembourg</name>
     <iso3>LUX</iso3>
     <iso2>LU</iso2>
+    <numeric_code>442</numeric_code>
     <phone_code>352</phone_code>
     <capital>Luxembourg</capital>
     <currency>EUR</currency>
@@ -396526,6 +396648,7 @@
     <name>Macau S.A.R.</name>
     <iso3>MAC</iso3>
     <iso2>MO</iso2>
+    <numeric_code>446</numeric_code>
     <phone_code>853</phone_code>
     <capital>Macao</capital>
     <currency>MOP</currency>
@@ -396566,6 +396689,7 @@
     <name>Macedonia</name>
     <iso3>MKD</iso3>
     <iso2>MK</iso2>
+    <numeric_code>807</numeric_code>
     <phone_code>389</phone_code>
     <capital>Skopje</capital>
     <currency>MKD</currency>
@@ -397787,6 +397911,7 @@
     <name>Madagascar</name>
     <iso3>MDG</iso3>
     <iso2>MG</iso2>
+    <numeric_code>450</numeric_code>
     <phone_code>261</phone_code>
     <capital>Antananarivo</capital>
     <currency>MGA</currency>
@@ -397880,6 +398005,7 @@
     <name>Malawi</name>
     <iso3>MWI</iso3>
     <iso2>MW</iso2>
+    <numeric_code>454</numeric_code>
     <phone_code>265</phone_code>
     <capital>Lilongwe</capital>
     <currency>MWK</currency>
@@ -398285,6 +398411,7 @@
     <name>Malaysia</name>
     <iso3>MYS</iso3>
     <iso2>MY</iso2>
+    <numeric_code>458</numeric_code>
     <phone_code>60</phone_code>
     <capital>Kuala Lumpur</capital>
     <currency>MYR</currency>
@@ -399405,6 +399532,7 @@
     <name>Maldives</name>
     <iso3>MDV</iso3>
     <iso2>MV</iso2>
+    <numeric_code>462</numeric_code>
     <phone_code>960</phone_code>
     <capital>Male</capital>
     <currency>MVR</currency>
@@ -399570,6 +399698,7 @@
     <name>Mali</name>
     <iso3>MLI</iso3>
     <iso2>ML</iso2>
+    <numeric_code>466</numeric_code>
     <phone_code>223</phone_code>
     <capital>Bamako</capital>
     <currency>XOF</currency>
@@ -399891,6 +400020,7 @@
     <name>Malta</name>
     <iso3>MLT</iso3>
     <iso2>MT</iso2>
+    <numeric_code>470</numeric_code>
     <phone_code>356</phone_code>
     <capital>Valletta</capital>
     <currency>EUR</currency>
@@ -400338,6 +400468,7 @@
     <name>Man (Isle of)</name>
     <iso3>IMN</iso3>
     <iso2>IM</iso2>
+    <numeric_code>833</numeric_code>
     <phone_code>+44-1624</phone_code>
     <capital>Douglas, Isle of Man</capital>
     <currency>GBP</currency>
@@ -400378,6 +400509,7 @@
     <name>Marshall Islands</name>
     <iso3>MHL</iso3>
     <iso2>MH</iso2>
+    <numeric_code>584</numeric_code>
     <phone_code>692</phone_code>
     <capital>Majuro</capital>
     <currency>USD</currency>
@@ -400425,6 +400557,7 @@
     <name>Martinique</name>
     <iso3>MTQ</iso3>
     <iso2>MQ</iso2>
+    <numeric_code>474</numeric_code>
     <phone_code>596</phone_code>
     <capital>Fort-de-France</capital>
     <currency>EUR</currency>
@@ -400465,6 +400598,7 @@
     <name>Mauritania</name>
     <iso3>MRT</iso3>
     <iso2>MR</iso2>
+    <numeric_code>478</numeric_code>
     <phone_code>222</phone_code>
     <capital>Nouakchott</capital>
     <currency>MRO</currency>
@@ -400594,6 +400728,7 @@
     <name>Mauritius</name>
     <iso3>MUS</iso3>
     <iso2>MU</iso2>
+    <numeric_code>480</numeric_code>
     <phone_code>230</phone_code>
     <capital>Port Louis</capital>
     <currency>MUR</currency>
@@ -401215,6 +401350,7 @@
     <name>Mayotte</name>
     <iso3>MYT</iso3>
     <iso2>YT</iso2>
+    <numeric_code>175</numeric_code>
     <phone_code>262</phone_code>
     <capital>Mamoudzou</capital>
     <currency>EUR</currency>
@@ -401255,6 +401391,7 @@
     <name>Mexico</name>
     <iso3>MEX</iso3>
     <iso2>MX</iso2>
+    <numeric_code>484</numeric_code>
     <phone_code>52</phone_code>
     <capital>Mexico City</capital>
     <currency>MXN</currency>
@@ -456408,6 +456545,7 @@
     <name>Micronesia</name>
     <iso3>FSM</iso3>
     <iso2>FM</iso2>
+    <numeric_code>583</numeric_code>
     <phone_code>691</phone_code>
     <capital>Palikir</capital>
     <currency>USD</currency>
@@ -456947,6 +457085,7 @@
     <name>Moldova</name>
     <iso3>MDA</iso3>
     <iso2>MD</iso2>
+    <numeric_code>498</numeric_code>
     <phone_code>373</phone_code>
     <capital>Chisinau</capital>
     <currency>MDL</currency>
@@ -457418,6 +457557,7 @@
     <name>Monaco</name>
     <iso3>MCO</iso3>
     <iso2>MC</iso2>
+    <numeric_code>492</numeric_code>
     <phone_code>377</phone_code>
     <capital>Monaco</capital>
     <currency>EUR</currency>
@@ -457458,6 +457598,7 @@
     <name>Mongolia</name>
     <iso3>MNG</iso3>
     <iso2>MN</iso2>
+    <numeric_code>496</numeric_code>
     <phone_code>976</phone_code>
     <capital>Ulan Bator</capital>
     <currency>MNT</currency>
@@ -457739,6 +457880,7 @@
     <name>Montenegro</name>
     <iso3>MNE</iso3>
     <iso2>ME</iso2>
+    <numeric_code>499</numeric_code>
     <phone_code>382</phone_code>
     <capital>Podgorica</capital>
     <currency>EUR</currency>
@@ -457982,6 +458124,7 @@
     <name>Montserrat</name>
     <iso3>MSR</iso3>
     <iso2>MS</iso2>
+    <numeric_code>500</numeric_code>
     <phone_code>+1-664</phone_code>
     <capital>Plymouth</capital>
     <currency>XCD</currency>
@@ -458022,6 +458165,7 @@
     <name>Morocco</name>
     <iso3>MAR</iso3>
     <iso2>MA</iso2>
+    <numeric_code>504</numeric_code>
     <phone_code>212</phone_code>
     <capital>Rabat</capital>
     <currency>MAD</currency>
@@ -459405,6 +459549,7 @@
     <name>Mozambique</name>
     <iso3>MOZ</iso3>
     <iso2>MZ</iso2>
+    <numeric_code>508</numeric_code>
     <phone_code>258</phone_code>
     <capital>Maputo</capital>
     <currency>MZN</currency>
@@ -459672,6 +459817,7 @@
     <name>Myanmar</name>
     <iso3>MMR</iso3>
     <iso2>MM</iso2>
+    <numeric_code>104</numeric_code>
     <phone_code>95</phone_code>
     <capital>Nay Pyi Taw</capital>
     <currency>MMK</currency>
@@ -460155,6 +460301,7 @@
     <name>Namibia</name>
     <iso3>NAM</iso3>
     <iso2>NA</iso2>
+    <numeric_code>516</numeric_code>
     <phone_code>264</phone_code>
     <capital>Windhoek</capital>
     <currency>NAD</currency>
@@ -460482,6 +460629,7 @@
     <name>Nauru</name>
     <iso3>NRU</iso3>
     <iso2>NR</iso2>
+    <numeric_code>520</numeric_code>
     <phone_code>674</phone_code>
     <capital>Yaren</capital>
     <currency>AUD</currency>
@@ -460563,6 +460711,7 @@
     <name>Nepal</name>
     <iso3>NPL</iso3>
     <iso2>NP</iso2>
+    <numeric_code>524</numeric_code>
     <phone_code>977</phone_code>
     <capital>Kathmandu</capital>
     <currency>NPR</currency>
@@ -460932,6 +461081,7 @@
     <name>Netherlands</name>
     <iso3>NLD</iso3>
     <iso2>NL</iso2>
+    <numeric_code>528</numeric_code>
     <phone_code>31</phone_code>
     <capital>Amsterdam</capital>
     <currency>EUR</currency>
@@ -471411,6 +471561,7 @@
     <name>New Caledonia</name>
     <iso3>NCL</iso3>
     <iso2>NC</iso2>
+    <numeric_code>540</numeric_code>
     <phone_code>687</phone_code>
     <capital>Noumea</capital>
     <currency>XPF</currency>
@@ -471451,6 +471602,7 @@
     <name>New Zealand</name>
     <iso3>NZL</iso3>
     <iso2>NZ</iso2>
+    <numeric_code>554</numeric_code>
     <phone_code>64</phone_code>
     <capital>Wellington</capital>
     <currency>NZD</currency>
@@ -472445,6 +472597,7 @@
     <name>Nicaragua</name>
     <iso3>NIC</iso3>
     <iso2>NI</iso2>
+    <numeric_code>558</numeric_code>
     <phone_code>505</phone_code>
     <capital>Managua</capital>
     <currency>NIO</currency>
@@ -473342,6 +473495,7 @@
     <name>Niger</name>
     <iso3>NER</iso3>
     <iso2>NE</iso2>
+    <numeric_code>562</numeric_code>
     <phone_code>227</phone_code>
     <capital>Niamey</capital>
     <currency>XOF</currency>
@@ -473801,6 +473955,7 @@
     <name>Nigeria</name>
     <iso3>NGA</iso3>
     <iso2>NG</iso2>
+    <numeric_code>566</numeric_code>
     <phone_code>234</phone_code>
     <capital>Abuja</capital>
     <currency>NGN</currency>
@@ -476378,6 +476533,7 @@
     <name>Niue</name>
     <iso3>NIU</iso3>
     <iso2>NU</iso2>
+    <numeric_code>570</numeric_code>
     <phone_code>683</phone_code>
     <capital>Alofi</capital>
     <currency>NZD</currency>
@@ -476418,6 +476574,7 @@
     <name>Norfolk Island</name>
     <iso3>NFK</iso3>
     <iso2>NF</iso2>
+    <numeric_code>574</numeric_code>
     <phone_code>672</phone_code>
     <capital>Kingston</capital>
     <currency>AUD</currency>
@@ -476458,6 +476615,7 @@
     <name>North Korea</name>
     <iso3>PRK</iso3>
     <iso2>KP</iso2>
+    <numeric_code>408</numeric_code>
     <phone_code>850</phone_code>
     <capital>Pyongyang</capital>
     <currency>KPW</currency>
@@ -476977,6 +477135,7 @@
     <name>Northern Mariana Islands</name>
     <iso3>MNP</iso3>
     <iso2>MP</iso2>
+    <numeric_code>580</numeric_code>
     <phone_code>+1-670</phone_code>
     <capital>Saipan</capital>
     <currency>USD</currency>
@@ -477017,6 +477176,7 @@
     <name>Norway</name>
     <iso3>NOR</iso3>
     <iso2>NO</iso2>
+    <numeric_code>578</numeric_code>
     <phone_code>47</phone_code>
     <capital>Oslo</capital>
     <currency>NOK</currency>
@@ -481064,6 +481224,7 @@
     <name>Oman</name>
     <iso3>OMN</iso3>
     <iso2>OM</iso2>
+    <numeric_code>512</numeric_code>
     <phone_code>968</phone_code>
     <capital>Muscat</capital>
     <currency>OMR</currency>
@@ -481271,6 +481432,7 @@
     <name>Pakistan</name>
     <iso3>PAK</iso3>
     <iso2>PK</iso2>
+    <numeric_code>586</numeric_code>
     <phone_code>92</phone_code>
     <capital>Islamabad</capital>
     <currency>PKR</currency>
@@ -484058,6 +484220,7 @@
     <name>Palau</name>
     <iso3>PLW</iso3>
     <iso2>PW</iso2>
+    <numeric_code>585</numeric_code>
     <phone_code>680</phone_code>
     <capital>Melekeok</capital>
     <currency>USD</currency>
@@ -484193,6 +484356,7 @@
     <name>Palestinian Territory Occupied</name>
     <iso3>PSE</iso3>
     <iso2>PS</iso2>
+    <numeric_code>275</numeric_code>
     <phone_code>970</phone_code>
     <capital>East Jerusalem</capital>
     <currency>ILS</currency>
@@ -484240,6 +484404,7 @@
     <name>Panama</name>
     <iso3>PAN</iso3>
     <iso2>PA</iso2>
+    <numeric_code>591</numeric_code>
     <phone_code>507</phone_code>
     <capital>Panama City</capital>
     <currency>PAB</currency>
@@ -487879,6 +488044,7 @@
     <name>Papua new Guinea</name>
     <iso3>PNG</iso3>
     <iso2>PG</iso2>
+    <numeric_code>598</numeric_code>
     <phone_code>675</phone_code>
     <capital>Port Moresby</capital>
     <currency>PGK</currency>
@@ -488531,6 +488697,7 @@
     <name>Paraguay</name>
     <iso3>PRY</iso3>
     <iso2>PY</iso2>
+    <numeric_code>600</numeric_code>
     <phone_code>595</phone_code>
     <capital>Asuncion</capital>
     <currency>PYG</currency>
@@ -489410,6 +489577,7 @@
     <name>Peru</name>
     <iso3>PER</iso3>
     <iso2>PE</iso2>
+    <numeric_code>604</numeric_code>
     <phone_code>51</phone_code>
     <capital>Lima</capital>
     <currency>PEN</currency>
@@ -492347,6 +492515,7 @@
     <name>Philippines</name>
     <iso3>PHL</iso3>
     <iso2>PH</iso2>
+    <numeric_code>608</numeric_code>
     <phone_code>63</phone_code>
     <capital>Manila</capital>
     <currency>PHP</currency>
@@ -531506,6 +531675,7 @@
     <name>Pitcairn Island</name>
     <iso3>PCN</iso3>
     <iso2>PN</iso2>
+    <numeric_code>612</numeric_code>
     <phone_code>870</phone_code>
     <capital>Adamstown</capital>
     <currency>NZD</currency>
@@ -531546,6 +531716,7 @@
     <name>Poland</name>
     <iso3>POL</iso3>
     <iso2>PL</iso2>
+    <numeric_code>616</numeric_code>
     <phone_code>48</phone_code>
     <capital>Warsaw</capital>
     <currency>PLN</currency>
@@ -550341,6 +550512,7 @@
     <name>Portugal</name>
     <iso3>PRT</iso3>
     <iso2>PT</iso2>
+    <numeric_code>620</numeric_code>
     <phone_code>351</phone_code>
     <capital>Lisbon</capital>
     <currency>EUR</currency>
@@ -558272,6 +558444,7 @@
     <name>Puerto Rico</name>
     <iso3>PRI</iso3>
     <iso2>PR</iso2>
+    <numeric_code>630</numeric_code>
     <phone_code>+1-787 and 1-939</phone_code>
     <capital>San Juan</capital>
     <currency>USD</currency>
@@ -558312,6 +558485,7 @@
     <name>Qatar</name>
     <iso3>QAT</iso3>
     <iso2>QA</iso2>
+    <numeric_code>634</numeric_code>
     <phone_code>974</phone_code>
     <capital>Doha</capital>
     <currency>QAR</currency>
@@ -558441,6 +558615,7 @@
     <name>Reunion</name>
     <iso3>REU</iso3>
     <iso2>RE</iso2>
+    <numeric_code>638</numeric_code>
     <phone_code>262</phone_code>
     <capital>Saint-Denis</capital>
     <currency>EUR</currency>
@@ -558481,6 +558656,7 @@
     <name>Romania</name>
     <iso3>ROU</iso3>
     <iso2>RO</iso2>
+    <numeric_code>642</numeric_code>
     <phone_code>40</phone_code>
     <capital>Bucharest</capital>
     <currency>RON</currency>
@@ -607006,6 +607182,7 @@
     <name>Russia</name>
     <iso3>RUS</iso3>
     <iso2>RU</iso2>
+    <numeric_code>643</numeric_code>
     <phone_code>7</phone_code>
     <capital>Moscow</capital>
     <currency>RUB</currency>
@@ -640490,6 +640667,7 @@
     <name>Rwanda</name>
     <iso3>RWA</iso3>
     <iso2>RW</iso2>
+    <numeric_code>646</numeric_code>
     <phone_code>250</phone_code>
     <capital>Kigali</capital>
     <currency>RWF</currency>
@@ -640601,6 +640779,7 @@
     <name>Saint Helena</name>
     <iso3>SHN</iso3>
     <iso2>SH</iso2>
+    <numeric_code>654</numeric_code>
     <phone_code>290</phone_code>
     <capital>Jamestown</capital>
     <currency>SHP</currency>
@@ -640641,6 +640820,7 @@
     <name>Saint Kitts And Nevis</name>
     <iso3>KNA</iso3>
     <iso2>KN</iso2>
+    <numeric_code>659</numeric_code>
     <phone_code>+1-869</phone_code>
     <capital>Basseterre</capital>
     <currency>XCD</currency>
@@ -640758,6 +640938,7 @@
     <name>Saint Lucia</name>
     <iso3>LCA</iso3>
     <iso2>LC</iso2>
+    <numeric_code>662</numeric_code>
     <phone_code>+1-758</phone_code>
     <capital>Castries</capital>
     <currency>XCD</currency>
@@ -643683,6 +643864,7 @@
     <name>Saint Pierre and Miquelon</name>
     <iso3>SPM</iso3>
     <iso2>PM</iso2>
+    <numeric_code>666</numeric_code>
     <phone_code>508</phone_code>
     <capital>Saint-Pierre</capital>
     <currency>EUR</currency>
@@ -643723,6 +643905,7 @@
     <name>Saint Vincent And The Grenadines</name>
     <iso3>VCT</iso3>
     <iso2>VC</iso2>
+    <numeric_code>670</numeric_code>
     <phone_code>+1-784</phone_code>
     <capital>Kingstown</capital>
     <currency>XCD</currency>
@@ -643816,6 +643999,7 @@
     <name>Saint-Barthelemy</name>
     <iso3>BLM</iso3>
     <iso2>BL</iso2>
+    <numeric_code>652</numeric_code>
     <phone_code>590</phone_code>
     <capital>Gustavia</capital>
     <currency>EUR</currency>
@@ -643856,6 +644040,7 @@
     <name>Saint-Martin (French part)</name>
     <iso3>MAF</iso3>
     <iso2>MF</iso2>
+    <numeric_code>663</numeric_code>
     <phone_code>590</phone_code>
     <capital>Marigot</capital>
     <currency>EUR</currency>
@@ -643896,6 +644081,7 @@
     <name>Samoa</name>
     <iso3>WSM</iso3>
     <iso2>WS</iso2>
+    <numeric_code>882</numeric_code>
     <phone_code>685</phone_code>
     <capital>Apia</capital>
     <currency>WST</currency>
@@ -644055,6 +644241,7 @@
     <name>San Marino</name>
     <iso3>SMR</iso3>
     <iso2>SM</iso2>
+    <numeric_code>674</numeric_code>
     <phone_code>378</phone_code>
     <capital>San Marino</capital>
     <currency>EUR</currency>
@@ -644148,6 +644335,7 @@
     <name>Sao Tome and Principe</name>
     <iso3>STP</iso3>
     <iso2>ST</iso2>
+    <numeric_code>678</numeric_code>
     <phone_code>239</phone_code>
     <capital>Sao Tome</capital>
     <currency>STD</currency>
@@ -644217,6 +644405,7 @@
     <name>Saudi Arabia</name>
     <iso3>SAU</iso3>
     <iso2>SA</iso2>
+    <numeric_code>682</numeric_code>
     <phone_code>966</phone_code>
     <capital>Riyadh</capital>
     <currency>SAR</currency>
@@ -644826,6 +645015,7 @@
     <name>Senegal</name>
     <iso3>SEN</iso3>
     <iso2>SN</iso2>
+    <numeric_code>686</numeric_code>
     <phone_code>221</phone_code>
     <capital>Dakar</capital>
     <currency>XOF</currency>
@@ -645303,6 +645493,7 @@
     <name>Serbia</name>
     <iso3>SRB</iso3>
     <iso2>RS</iso2>
+    <numeric_code>688</numeric_code>
     <phone_code>381</phone_code>
     <capital>Belgrade</capital>
     <currency>RSD</currency>
@@ -647346,6 +647537,7 @@
     <name>Seychelles</name>
     <iso3>SYC</iso3>
     <iso2>SC</iso2>
+    <numeric_code>690</numeric_code>
     <phone_code>248</phone_code>
     <capital>Victoria</capital>
     <currency>SCR</currency>
@@ -647433,6 +647625,7 @@
     <name>Sierra Leone</name>
     <iso3>SLE</iso3>
     <iso2>SL</iso2>
+    <numeric_code>694</numeric_code>
     <phone_code>232</phone_code>
     <capital>Freetown</capital>
     <currency>SLL</currency>
@@ -648012,6 +648205,7 @@
     <name>Singapore</name>
     <iso3>SGP</iso3>
     <iso2>SG</iso2>
+    <numeric_code>702</numeric_code>
     <phone_code>65</phone_code>
     <capital>Singapur</capital>
     <currency>SGD</currency>
@@ -648063,6 +648257,7 @@
     <name>Sint Maarten (Dutch part)</name>
     <iso3>SXM</iso3>
     <iso2>SX</iso2>
+    <numeric_code>534</numeric_code>
     <phone_code>1721</phone_code>
     <capital>Philipsburg</capital>
     <currency>ANG</currency>
@@ -648100,6 +648295,7 @@
     <name>Slovakia</name>
     <iso3>SVK</iso3>
     <iso2>SK</iso2>
+    <numeric_code>703</numeric_code>
     <phone_code>421</phone_code>
     <capital>Bratislava</capital>
     <currency>EUR</currency>
@@ -649537,6 +649733,7 @@
     <name>Slovenia</name>
     <iso3>SVN</iso3>
     <iso2>SI</iso2>
+    <numeric_code>705</numeric_code>
     <phone_code>386</phone_code>
     <capital>Ljubljana</capital>
     <currency>EUR</currency>
@@ -651442,6 +651639,7 @@
     <name>Solomon Islands</name>
     <iso3>SLB</iso3>
     <iso2>SB</iso2>
+    <numeric_code>090</numeric_code>
     <phone_code>677</phone_code>
     <capital>Honiara</capital>
     <currency>SBD</currency>
@@ -651523,6 +651721,7 @@
     <name>Somalia</name>
     <iso3>SOM</iso3>
     <iso2>SO</iso2>
+    <numeric_code>706</numeric_code>
     <phone_code>252</phone_code>
     <capital>Mogadishu</capital>
     <currency>SOS</currency>
@@ -651838,6 +652037,7 @@
     <name>South Africa</name>
     <iso3>ZAF</iso3>
     <iso2>ZA</iso2>
+    <numeric_code>710</numeric_code>
     <phone_code>27</phone_code>
     <capital>Pretoria</capital>
     <currency>ZAR</currency>
@@ -653761,6 +653961,7 @@
     <name>South Georgia</name>
     <iso3>SGS</iso3>
     <iso2>GS</iso2>
+    <numeric_code>239</numeric_code>
     <phone_code>500</phone_code>
     <capital>Grytviken</capital>
     <currency>GBP</currency>
@@ -653801,6 +654002,7 @@
     <name>South Korea</name>
     <iso3>KOR</iso3>
     <iso2>KR</iso2>
+    <numeric_code>410</numeric_code>
     <phone_code>82</phone_code>
     <capital>Seoul</capital>
     <currency>KRW</currency>
@@ -655694,6 +655896,7 @@
     <name>South Sudan</name>
     <iso3>SSD</iso3>
     <iso2>SS</iso2>
+    <numeric_code>728</numeric_code>
     <phone_code>211</phone_code>
     <capital>Juba</capital>
     <currency>SSP</currency>
@@ -655739,6 +655942,7 @@
     <name>Spain</name>
     <iso3>ESP</iso3>
     <iso2>ES</iso2>
+    <numeric_code>724</numeric_code>
     <phone_code>34</phone_code>
     <capital>Madrid</capital>
     <currency>EUR</currency>
@@ -695944,6 +696148,7 @@
     <name>Sri Lanka</name>
     <iso3>LKA</iso3>
     <iso2>LK</iso2>
+    <numeric_code>144</numeric_code>
     <phone_code>94</phone_code>
     <capital>Colombo</capital>
     <currency>LKR</currency>
@@ -696865,6 +697070,7 @@
     <name>Sudan</name>
     <iso3>SDN</iso3>
     <iso2>SD</iso2>
+    <numeric_code>729</numeric_code>
     <phone_code>249</phone_code>
     <capital>Khartoum</capital>
     <currency>SDG</currency>
@@ -697330,6 +697536,7 @@
     <name>Suriname</name>
     <iso3>SUR</iso3>
     <iso2>SR</iso2>
+    <numeric_code>740</numeric_code>
     <phone_code>597</phone_code>
     <capital>Paramaribo</capital>
     <currency>SRD</currency>
@@ -697447,6 +697654,7 @@
     <name>Svalbard And Jan Mayen Islands</name>
     <iso3>SJM</iso3>
     <iso2>SJ</iso2>
+    <numeric_code>744</numeric_code>
     <phone_code>47</phone_code>
     <capital>Longyearbyen</capital>
     <currency>NOK</currency>
@@ -697487,6 +697695,7 @@
     <name>Swaziland</name>
     <iso3>SWZ</iso3>
     <iso2>SZ</iso2>
+    <numeric_code>748</numeric_code>
     <phone_code>268</phone_code>
     <capital>Mbabane</capital>
     <currency>SZL</currency>
@@ -697730,6 +697939,7 @@
     <name>Sweden</name>
     <iso3>SWE</iso3>
     <iso2>SE</iso2>
+    <numeric_code>752</numeric_code>
     <phone_code>46</phone_code>
     <capital>Stockholm</capital>
     <currency>SEK</currency>
@@ -704201,6 +704411,7 @@
     <name>Switzerland</name>
     <iso3>CHE</iso3>
     <iso2>CH</iso2>
+    <numeric_code>756</numeric_code>
     <phone_code>41</phone_code>
     <capital>Bern</capital>
     <currency>CHF</currency>
@@ -713258,6 +713469,7 @@
     <name>Syria</name>
     <iso3>SYR</iso3>
     <iso2>SY</iso2>
+    <numeric_code>760</numeric_code>
     <phone_code>963</phone_code>
     <capital>Damascus</capital>
     <currency>SYP</currency>
@@ -714149,6 +714361,7 @@
     <name>Taiwan</name>
     <iso3>TWN</iso3>
     <iso2>TW</iso2>
+    <numeric_code>158</numeric_code>
     <phone_code>886</phone_code>
     <capital>Taipei</capital>
     <currency>TWD</currency>
@@ -714428,6 +714641,7 @@
     <name>Tajikistan</name>
     <iso3>TJK</iso3>
     <iso2>TJ</iso2>
+    <numeric_code>762</numeric_code>
     <phone_code>992</phone_code>
     <capital>Dushanbe</capital>
     <currency>TJS</currency>
@@ -714887,6 +715101,7 @@
     <name>Tanzania</name>
     <iso3>TZA</iso3>
     <iso2>TZ</iso2>
+    <numeric_code>834</numeric_code>
     <phone_code>255</phone_code>
     <capital>Dodoma</capital>
     <currency>TZS</currency>
@@ -716504,6 +716719,7 @@
     <name>Thailand</name>
     <iso3>THA</iso3>
     <iso2>TH</iso2>
+    <numeric_code>764</numeric_code>
     <phone_code>66</phone_code>
     <capital>Bangkok</capital>
     <currency>THB</currency>
@@ -721680,6 +721896,12 @@
       <longitude>102.50128000</longitude>
     </cities>
     <cities>
+      <id>148554</id>
+      <name>Bamnet Narong</name>
+      <latitude>15.50189000</latitude>
+      <longitude>101.68982000</longitude>
+    </cities>
+    <cities>
       <id>106383</id>
       <name>Ban Ao Nang</name>
       <latitude>8.04580000</latitude>
@@ -722178,6 +722400,12 @@
       <longitude>99.19861000</longitude>
     </cities>
     <cities>
+      <id>148555</id>
+      <name>Chaiyaphum</name>
+      <latitude>15.81047000</latitude>
+      <longitude>102.02881000</longitude>
+    </cities>
+    <cities>
       <id>106466</id>
       <name>Chaiyo</name>
       <latitude>14.67639000</latitude>
@@ -722418,6 +722646,12 @@
       <longitude>100.99758000</longitude>
     </cities>
     <cities>
+      <id>148556</id>
+      <name>Kaeng Khro</name>
+      <latitude>16.10861111</latitude>
+      <longitude>102.25805556</longitude>
+    </cities>
+    <cities>
       <id>106506</id>
       <name>Kalasin</name>
       <latitude>16.43281000</latitude>
@@ -722470,6 +722704,12 @@
       <name>Kao Liao</name>
       <latitude>15.85053000</latitude>
       <longitude>100.07914000</longitude>
+    </cities>
+    <cities>
+      <id>148557</id>
+      <name>Kaset Sombun</name>
+      <latitude>16.28053000</latitude>
+      <longitude>101.95422000</longitude>
     </cities>
     <cities>
       <id>106515</id>
@@ -722866,6 +723106,12 @@
       <name>Nakhon Nayok</name>
       <latitude>14.20463000</latitude>
       <longitude>101.21295000</longitude>
+    </cities>
+    <cities>
+      <id>148558</id>
+      <name>Nakhon Nayok</name>
+      <latitude>14.20305600</latitude>
+      <longitude>101.21500000</longitude>
     </cities>
     <cities>
       <id>106581</id>
@@ -723274,6 +723520,12 @@
       <name>Phrai Bueng</name>
       <latitude>14.74833000</latitude>
       <longitude>104.36261000</longitude>
+    </cities>
+    <cities>
+      <id>148559</id>
+      <name>Phu Khiao</name>
+      <latitude>16.37650000</latitude>
+      <longitude>102.12853000</longitude>
     </cities>
     <cities>
       <id>106649</id>
@@ -723947,6 +724199,7 @@
     <name>Togo</name>
     <iso3>TGO</iso3>
     <iso2>TG</iso2>
+    <numeric_code>768</numeric_code>
     <phone_code>228</phone_code>
     <capital>Lome</capital>
     <currency>XOF</currency>
@@ -724118,6 +724371,7 @@
     <name>Tokelau</name>
     <iso3>TKL</iso3>
     <iso2>TK</iso2>
+    <numeric_code>772</numeric_code>
     <phone_code>690</phone_code>
     <capital></capital>
     <currency>NZD</currency>
@@ -724158,6 +724412,7 @@
     <name>Tonga</name>
     <iso3>TON</iso3>
     <iso2>TO</iso2>
+    <numeric_code>776</numeric_code>
     <phone_code>676</phone_code>
     <capital>Nuku'alofa</capital>
     <currency>TOP</currency>
@@ -724245,6 +724500,7 @@
     <name>Trinidad And Tobago</name>
     <iso3>TTO</iso3>
     <iso2>TT</iso2>
+    <numeric_code>780</numeric_code>
     <phone_code>+1-868</phone_code>
     <capital>Port of Spain</capital>
     <currency>TTD</currency>
@@ -724434,6 +724690,7 @@
     <name>Tunisia</name>
     <iso3>TUN</iso3>
     <iso2>TN</iso2>
+    <numeric_code>788</numeric_code>
     <phone_code>216</phone_code>
     <capital>Tunis</capital>
     <currency>TND</currency>
@@ -725277,6 +725534,7 @@
     <name>Turkey</name>
     <iso3>TUR</iso3>
     <iso2>TR</iso2>
+    <numeric_code>792</numeric_code>
     <phone_code>90</phone_code>
     <capital>Ankara</capital>
     <currency>TRY</currency>
@@ -733536,6 +733794,7 @@
     <name>Turkmenistan</name>
     <iso3>TKM</iso3>
     <iso2>TM</iso2>
+    <numeric_code>795</numeric_code>
     <phone_code>993</phone_code>
     <capital>Ashgabat</capital>
     <currency>TMT</currency>
@@ -733755,6 +734014,7 @@
     <name>Turks And Caicos Islands</name>
     <iso3>TCA</iso3>
     <iso2>TC</iso2>
+    <numeric_code>796</numeric_code>
     <phone_code>+1-649</phone_code>
     <capital>Cockburn Town</capital>
     <currency>USD</currency>
@@ -733795,6 +734055,7 @@
     <name>Tuvalu</name>
     <iso3>TUV</iso3>
     <iso2>TV</iso2>
+    <numeric_code>798</numeric_code>
     <phone_code>688</phone_code>
     <capital>Funafuti</capital>
     <currency>AUD</currency>
@@ -733888,6 +734149,7 @@
     <name>Uganda</name>
     <iso3>UGA</iso3>
     <iso2>UG</iso2>
+    <numeric_code>800</numeric_code>
     <phone_code>256</phone_code>
     <capital>Kampala</capital>
     <currency>UGX</currency>
@@ -734473,6 +734735,7 @@
     <name>Ukraine</name>
     <iso3>UKR</iso3>
     <iso2>UA</iso2>
+    <numeric_code>804</numeric_code>
     <phone_code>380</phone_code>
     <capital>Kiev</capital>
     <currency>UAH</currency>
@@ -743947,6 +744210,7 @@
     <name>United Arab Emirates</name>
     <iso3>ARE</iso3>
     <iso2>AE</iso2>
+    <numeric_code>784</numeric_code>
     <phone_code>971</phone_code>
     <capital>Abu Dhabi</capital>
     <currency>AED</currency>
@@ -744220,6 +744484,7 @@
     <name>United Kingdom</name>
     <iso3>GBR</iso3>
     <iso2>GB</iso2>
+    <numeric_code>826</numeric_code>
     <phone_code>44</phone_code>
     <capital>London</capital>
     <currency>GBP</currency>
@@ -767485,6 +767750,7 @@
     <name>United States</name>
     <iso3>USA</iso3>
     <iso2>US</iso2>
+    <numeric_code>840</numeric_code>
     <phone_code>1</phone_code>
     <capital>Washington</capital>
     <currency>USD</currency>
@@ -886622,6 +886888,7 @@
     <name>United States Minor Outlying Islands</name>
     <iso3>UMI</iso3>
     <iso2>UM</iso2>
+    <numeric_code>581</numeric_code>
     <phone_code>1</phone_code>
     <capital></capital>
     <currency>USD</currency>
@@ -886669,6 +886936,7 @@
     <name>Uruguay</name>
     <iso3>URY</iso3>
     <iso2>UY</iso2>
+    <numeric_code>858</numeric_code>
     <phone_code>598</phone_code>
     <capital>Montevideo</capital>
     <currency>UYU</currency>
@@ -887446,6 +887714,7 @@
     <name>Uzbekistan</name>
     <iso3>UZB</iso3>
     <iso2>UZ</iso2>
+    <numeric_code>860</numeric_code>
     <phone_code>998</phone_code>
     <capital>Tashkent</capital>
     <currency>UZS</currency>
@@ -888302,6 +888571,7 @@
     <name>Vanuatu</name>
     <iso3>VUT</iso3>
     <iso2>VU</iso2>
+    <numeric_code>548</numeric_code>
     <phone_code>678</phone_code>
     <capital>Port Vila</capital>
     <currency>VUV</currency>
@@ -888383,6 +888653,7 @@
     <name>Vatican City State (Holy See)</name>
     <iso3>VAT</iso3>
     <iso2>VA</iso2>
+    <numeric_code>336</numeric_code>
     <phone_code>379</phone_code>
     <capital>Vatican City</capital>
     <currency>EUR</currency>
@@ -888423,6 +888694,7 @@
     <name>Venezuela</name>
     <iso3>VEN</iso3>
     <iso2>VE</iso2>
+    <numeric_code>862</numeric_code>
     <phone_code>58</phone_code>
     <capital>Caracas</capital>
     <currency>VEF</currency>
@@ -889266,6 +889538,7 @@
     <name>Vietnam</name>
     <iso3>VNM</iso3>
     <iso2>VN</iso2>
+    <numeric_code>704</numeric_code>
     <phone_code>84</phone_code>
     <capital>Hanoi</capital>
     <currency>VND</currency>
@@ -892107,6 +892380,7 @@
     <name>Virgin Islands (British)</name>
     <iso3>VGB</iso3>
     <iso2>VG</iso2>
+    <numeric_code>092</numeric_code>
     <phone_code>+1-284</phone_code>
     <capital>Road Town</capital>
     <currency>USD</currency>
@@ -892147,6 +892421,7 @@
     <name>Virgin Islands (US)</name>
     <iso3>VIR</iso3>
     <iso2>VI</iso2>
+    <numeric_code>850</numeric_code>
     <phone_code>+1-340</phone_code>
     <capital>Charlotte Amalie</capital>
     <currency>USD</currency>
@@ -892186,6 +892461,7 @@
     <name>Wallis And Futuna Islands</name>
     <iso3>WLF</iso3>
     <iso2>WF</iso2>
+    <numeric_code>876</numeric_code>
     <phone_code>681</phone_code>
     <capital>Mata Utu</capital>
     <currency>XPF</currency>
@@ -892226,6 +892502,7 @@
     <name>Western Sahara</name>
     <iso3>ESH</iso3>
     <iso2>EH</iso2>
+    <numeric_code>732</numeric_code>
     <phone_code>212</phone_code>
     <capital>El-Aaiun</capital>
     <currency>MAD</currency>
@@ -892266,6 +892543,7 @@
     <name>Yemen</name>
     <iso3>YEM</iso3>
     <iso2>YE</iso2>
+    <numeric_code>887</numeric_code>
     <phone_code>967</phone_code>
     <capital>Sanaa</capital>
     <currency>YER</currency>
@@ -894357,6 +894635,7 @@
     <name>Zambia</name>
     <iso3>ZMB</iso3>
     <iso2>ZM</iso2>
+    <numeric_code>894</numeric_code>
     <phone_code>260</phone_code>
     <capital>Lusaka</capital>
     <currency>ZMW</currency>
@@ -894822,6 +895101,7 @@
     <name>Zimbabwe</name>
     <iso3>ZWE</iso3>
     <iso2>ZW</iso2>
+    <numeric_code>716</numeric_code>
     <phone_code>263</phone_code>
     <capital>Harare</capital>
     <currency>ZWL</currency>
