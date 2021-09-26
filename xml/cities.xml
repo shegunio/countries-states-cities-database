@@ -110021,6 +110021,26 @@
     <longitude>-41.09222000</longitude>
   </city>
   <city>
+    <id>10776</id>
+    <name>Brasília</name>
+    <state_id>2017</state_id>
+    <state_code>DF</state_code>
+    <country_id>31</country_id>
+    <country_code>BR</country_code>
+    <latitude>-15.77972000</latitude>
+    <longitude>-47.92972000</longitude>
+  </city>
+  <city>
+    <id>13934</id>
+    <name>Planaltina</name>
+    <state_id>2017</state_id>
+    <state_code>DF</state_code>
+    <country_id>31</country_id>
+    <country_code>BR</country_code>
+    <latitude>-15.61791000</latitude>
+    <longitude>-47.64874000</longitude>
+  </city>
+  <city>
     <id>10087</id>
     <name>Afonso Cláudio</name>
     <state_id>2018</state_id>
@@ -110809,26 +110829,6 @@
     <country_code>BR</country_code>
     <latitude>-20.31944000</latitude>
     <longitude>-40.33778000</longitude>
-  </city>
-  <city>
-    <id>10776</id>
-    <name>Brasília</name>
-    <state_id>2017</state_id>
-    <state_code>DF</state_code>
-    <country_id>31</country_id>
-    <country_code>BR</country_code>
-    <latitude>-15.77972000</latitude>
-    <longitude>-47.92972000</longitude>
-  </city>
-  <city>
-    <id>13934</id>
-    <name>Planaltina</name>
-    <state_id>2017</state_id>
-    <state_code>DF</state_code>
-    <country_id>31</country_id>
-    <country_code>BR</country_code>
-    <latitude>-15.61791000</latitude>
-    <longitude>-47.64874000</longitude>
   </city>
   <city>
     <id>10053</id>
@@ -273579,16 +273579,6 @@
     <country_code>FR</country_code>
     <latitude>47.92383000</latitude>
     <longitude>-1.24124000</longitude>
-  </city>
-  <city>
-    <id>45438</id>
-    <name>Rd pt des Chataigniers, Rte de Milizac, Guilers, Finistère, France</name>
-    <state_id>4807</state_id>
-    <state_code>BRE</state_code>
-    <country_id>75</country_id>
-    <country_code>FR</country_code>
-    <latitude>48.43387000</latitude>
-    <longitude>-4.56809000</longitude>
   </city>
   <city>
     <id>45685</id>
@@ -1059361,6 +1059351,16 @@
     <longitude>42.50528000</longitude>
   </city>
   <city>
+    <id>148592</id>
+    <name>Al Bahah</name>
+    <state_id>2853</state_id>
+    <state_code>14</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>20.01288000</latitude>
+    <longitude>41.46767000</longitude>
+  </city>
+  <city>
     <id>102827</id>
     <name>Al Majāridah</name>
     <state_id>2853</state_id>
@@ -1059369,6 +1059369,26 @@
     <country_code>SA</country_code>
     <latitude>19.12361000</latitude>
     <longitude>41.91111000</longitude>
+  </city>
+  <city>
+    <id>148593</id>
+    <name>Al Mindak</name>
+    <state_id>2853</state_id>
+    <state_code>14</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>20.15888889</latitude>
+    <longitude>41.28333333</longitude>
+  </city>
+  <city>
+    <id>148594</id>
+    <name>Al Qahab</name>
+    <state_id>2853</state_id>
+    <state_code>14</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>18.92560000</latitude>
+    <longitude>41.95500000</longitude>
   </city>
   <city>
     <id>102840</id>
@@ -1059381,6 +1059401,16 @@
     <longitude>42.12009000</longitude>
   </city>
   <city>
+    <id>148595</id>
+    <name>Hajrah</name>
+    <state_id>2853</state_id>
+    <state_code>14</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>20.23333333</latitude>
+    <longitude>41.05000000</longitude>
+  </city>
+  <city>
     <id>102861</id>
     <name>Khamis Mushait</name>
     <state_id>2853</state_id>
@@ -1059389,6 +1059419,36 @@
     <country_code>SA</country_code>
     <latitude>18.30000000</latitude>
     <longitude>42.73333000</longitude>
+  </city>
+  <city>
+    <id>148596</id>
+    <name>Ma`riyah</name>
+    <state_id>2853</state_id>
+    <state_code>14</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>18.85000000</latitude>
+    <longitude>41.96670000</longitude>
+  </city>
+  <city>
+    <id>148597</id>
+    <name>Mifa</name>
+    <state_id>2853</state_id>
+    <state_code>14</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>18.89170000</latitude>
+    <longitude>41.96330000</longitude>
+  </city>
+  <city>
+    <id>148598</id>
+    <name>Munayzir</name>
+    <state_id>2853</state_id>
+    <state_code>14</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>18.94640000</latitude>
+    <longitude>41.91640000</longitude>
   </city>
   <city>
     <id>102871</id>
@@ -1059421,6 +1059481,106 @@
     <longitude>42.40000000</longitude>
   </city>
   <city>
+    <id>148602</id>
+    <name>Abu `Urwah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.65000000</latitude>
+    <longitude>39.70000000</longitude>
+  </city>
+  <city>
+    <id>148599</id>
+    <name>Abu Hisani</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.73060000</latitude>
+    <longitude>39.78330000</longitude>
+  </city>
+  <city>
+    <id>148600</id>
+    <name>Abu Qirfah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.76670000</latitude>
+    <longitude>39.68330000</longitude>
+  </city>
+  <city>
+    <id>148601</id>
+    <name>Abu Shu`ayb</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.58330000</latitude>
+    <longitude>39.70000000</longitude>
+  </city>
+  <city>
+    <id>148603</id>
+    <name>Ad Dabbah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.71670000</latitude>
+    <longitude>39.83330000</longitude>
+  </city>
+  <city>
+    <id>148604</id>
+    <name>Ad Dawh</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.77220000</latitude>
+    <longitude>39.70140000</longitude>
+  </city>
+  <city>
+    <id>148605</id>
+    <name>Ad Dur</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.81670000</latitude>
+    <longitude>39.76670000</longitude>
+  </city>
+  <city>
+    <id>148663</id>
+    <name>Al Ābār</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.09810000</latitude>
+    <longitude>39.91030000</longitude>
+  </city>
+  <city>
+    <id>148606</id>
+    <name>Al Adl</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.44361000</latitude>
+    <longitude>39.85611000</longitude>
+  </city>
+  <city>
+    <id>148607</id>
+    <name>Al Ashraf</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.52360000</latitude>
+    <longitude>39.61670000</longitude>
+  </city>
+  <city>
     <id>102815</id>
     <name>Al Bahah</name>
     <state_id>2859</state_id>
@@ -1059431,6 +1059591,386 @@
     <longitude>41.46767000</longitude>
   </city>
   <city>
+    <id>148608</id>
+    <name>Al Balad</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.48780000</latitude>
+    <longitude>39.19360000</longitude>
+  </city>
+  <city>
+    <id>148609</id>
+    <name>Al Barabir</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.52030000</latitude>
+    <longitude>39.63250000</longitude>
+  </city>
+  <city>
+    <id>148610</id>
+    <name>Al Bi'ar</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.64972222</latitude>
+    <longitude>39.67027778</longitude>
+  </city>
+  <city>
+    <id>148611</id>
+    <name>Al Birk</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>18.21631000</latitude>
+    <longitude>41.53593000</longitude>
+  </city>
+  <city>
+    <id>148612</id>
+    <name>Al Buraykah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.78610000</latitude>
+    <longitude>39.71670000</longitude>
+  </city>
+  <city>
+    <id>148613</id>
+    <name>Al Fawwarah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.83280000</latitude>
+    <longitude>40.16110000</longitude>
+  </city>
+  <city>
+    <id>148614</id>
+    <name>Al Faydah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.98440000</latitude>
+    <longitude>39.38470000</longitude>
+  </city>
+  <city>
+    <id>148615</id>
+    <name>Al Fazz</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.98330000</latitude>
+    <longitude>39.52220000</longitude>
+  </city>
+  <city>
+    <id>148616</id>
+    <name>Al Gharith</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.60000000</latitude>
+    <longitude>41.88330000</longitude>
+  </city>
+  <city>
+    <id>148617</id>
+    <name>Al Ghassalah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.45000000</latitude>
+    <longitude>39.86670000</longitude>
+  </city>
+  <city>
+    <id>148618</id>
+    <name>Al Ghulah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.95000000</latitude>
+    <longitude>39.31670000</longitude>
+  </city>
+  <city>
+    <id>148619</id>
+    <name>Al Hada</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.36860000</latitude>
+    <longitude>40.28470000</longitude>
+  </city>
+  <city>
+    <id>148620</id>
+    <name>Al Halaqah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.35000000</latitude>
+    <longitude>40.45000000</longitude>
+  </city>
+  <city>
+    <id>148621</id>
+    <name>Al Hamimah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.51670000</latitude>
+    <longitude>39.63330000</longitude>
+  </city>
+  <city>
+    <id>148622</id>
+    <name>Al Harra', Makkah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.95000000</latitude>
+    <longitude>39.48333333</longitude>
+  </city>
+  <city>
+    <id>148623</id>
+    <name>Al Hawiyah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.42415000</latitude>
+    <longitude>40.49303000</longitude>
+  </city>
+  <city>
+    <id>148624</id>
+    <name>Al Iskan</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.40000000</latitude>
+    <longitude>39.78330000</longitude>
+  </city>
+  <city>
+    <id>148625</id>
+    <name>Al Jadidah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.67030000</latitude>
+    <longitude>40.12640000</longitude>
+  </city>
+  <city>
+    <id>148626</id>
+    <name>Al Jami`ah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.46670000</latitude>
+    <longitude>39.25000000</longitude>
+  </city>
+  <city>
+    <id>148627</id>
+    <name>Al Jid`</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.93330000</latitude>
+    <longitude>39.58330000</longitude>
+  </city>
+  <city>
+    <id>148628</id>
+    <name>Al Ju`ranah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.56670000</latitude>
+    <longitude>39.95000000</longitude>
+  </city>
+  <city>
+    <id>148629</id>
+    <name>Al Khadra', Makkah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.46777778</latitude>
+    <longitude>39.90472222</longitude>
+  </city>
+  <city>
+    <id>148630</id>
+    <name>Al Khalas</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.70000000</latitude>
+    <longitude>39.80000000</longitude>
+  </city>
+  <city>
+    <id>148631</id>
+    <name>Al Khamrah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.43330000</latitude>
+    <longitude>39.46670000</longitude>
+  </city>
+  <city>
+    <id>148632</id>
+    <name>Al Khaydar</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.46940000</latitude>
+    <longitude>40.63060000</longitude>
+  </city>
+  <city>
+    <id>148633</id>
+    <name>Al Khayf</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.68330000</latitude>
+    <longitude>39.73330000</longitude>
+  </city>
+  <city>
+    <id>148634</id>
+    <name>Al Khulasah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.68330000</latitude>
+    <longitude>39.91670000</longitude>
+  </city>
+  <city>
+    <id>148635</id>
+    <name>Al Kidwah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.78330000</latitude>
+    <longitude>39.68330000</longitude>
+  </city>
+  <city>
+    <id>148636</id>
+    <name>Al Kura`</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.80000000</latitude>
+    <longitude>39.13330000</longitude>
+  </city>
+  <city>
+    <id>148637</id>
+    <name>Al Ma`rash</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.13330000</latitude>
+    <longitude>40.60000000</longitude>
+  </city>
+  <city>
+    <id>148638</id>
+    <name>Al Madiq, Makkah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.67580000</latitude>
+    <longitude>40.13080000</longitude>
+  </city>
+  <city>
+    <id>148639</id>
+    <name>Al Maghal</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.96670000</latitude>
+    <longitude>39.55000000</longitude>
+  </city>
+  <city>
+    <id>148640</id>
+    <name>Al Mahjar</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.43330000</latitude>
+    <longitude>39.20000000</longitude>
+  </city>
+  <city>
+    <id>148641</id>
+    <name>Al Maqrah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.26670000</latitude>
+    <longitude>39.95000000</longitude>
+  </city>
+  <city>
+    <id>148642</id>
+    <name>Al Masarrah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.36670000</latitude>
+    <longitude>40.46670000</longitude>
+  </city>
+  <city>
+    <id>148643</id>
+    <name>Al Masfalah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.41670000</latitude>
+    <longitude>39.81670000</longitude>
+  </city>
+  <city>
+    <id>148644</id>
+    <name>Al Mashayikh</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.35000000</latitude>
+    <longitude>40.33330000</longitude>
+  </city>
+  <city>
+    <id>148645</id>
+    <name>Al Mathnah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.26666667</latitude>
+    <longitude>40.38333333</longitude>
+  </city>
+  <city>
     <id>102829</id>
     <name>Al Mindak</name>
     <state_id>2859</state_id>
@@ -1059439,6 +1059979,1016 @@
     <country_code>SA</country_code>
     <latitude>20.15880000</latitude>
     <longitude>41.28337000</longitude>
+  </city>
+  <city>
+    <id>148646</id>
+    <name>Al Mubarak</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.70000000</latitude>
+    <longitude>39.90000000</longitude>
+  </city>
+  <city>
+    <id>148647</id>
+    <name>Al Mudawwarah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.26670000</latitude>
+    <longitude>39.96670000</longitude>
+  </city>
+  <city>
+    <id>148648</id>
+    <name>Al Mulayha'</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.80000000</latitude>
+    <longitude>40.35000000</longitude>
+  </city>
+  <city>
+    <id>148649</id>
+    <name>Al Mundassah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.63330000</latitude>
+    <longitude>39.74860000</longitude>
+  </city>
+  <city>
+    <id>148650</id>
+    <name>Al Muqayti`</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.54860000</latitude>
+    <longitude>39.78610000</longitude>
+  </city>
+  <city>
+    <id>148651</id>
+    <name>Al Muqr</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.00000000</latitude>
+    <longitude>39.38330000</longitude>
+  </city>
+  <city>
+    <id>148652</id>
+    <name>Al Muwayh</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.43333000</latitude>
+    <longitude>41.75829000</longitude>
+  </city>
+  <city>
+    <id>148653</id>
+    <name>Al Qadimah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.35000000</latitude>
+    <longitude>39.15000000</longitude>
+  </city>
+  <city>
+    <id>148654</id>
+    <name>Al Qararah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.42890000</latitude>
+    <longitude>39.82810000</longitude>
+  </city>
+  <city>
+    <id>148655</id>
+    <name>Al Qaryat</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.46670000</latitude>
+    <longitude>39.20000000</longitude>
+  </city>
+  <city>
+    <id>148656</id>
+    <name>Al Qawba`iyah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.66670000</latitude>
+    <longitude>39.98330000</longitude>
+  </city>
+  <city>
+    <id>148657</id>
+    <name>Al Qirshan</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.56670000</latitude>
+    <longitude>39.70000000</longitude>
+  </city>
+  <city>
+    <id>148658</id>
+    <name>Al Qu`tubah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.93330000</latitude>
+    <longitude>40.36670000</longitude>
+  </city>
+  <city>
+    <id>148659</id>
+    <name>Al Qufayf</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.83330000</latitude>
+    <longitude>40.45000000</longitude>
+  </city>
+  <city>
+    <id>148660</id>
+    <name>Al Qushashiyah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.43330000</latitude>
+    <longitude>39.83330000</longitude>
+  </city>
+  <city>
+    <id>148661</id>
+    <name>Al Ukhaydir</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.93330000</latitude>
+    <longitude>40.01670000</longitude>
+  </city>
+  <city>
+    <id>148662</id>
+    <name>Al Waht</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.23330000</latitude>
+    <longitude>40.35000000</longitude>
+  </city>
+  <city>
+    <id>148664</id>
+    <name>Ar Rabwah as Sufla</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.95530000</latitude>
+    <longitude>39.43670000</longitude>
+  </city>
+  <city>
+    <id>148665</id>
+    <name>Ar Rafah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.51670000</latitude>
+    <longitude>40.20000000</longitude>
+  </city>
+  <city>
+    <id>148666</id>
+    <name>Ar Rawdah ash Shamaliyah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.73330000</latitude>
+    <longitude>39.96670000</longitude>
+  </city>
+  <city>
+    <id>148667</id>
+    <name>Ar Rudaymah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.76670000</latitude>
+    <longitude>39.68330000</longitude>
+  </city>
+  <city>
+    <id>148668</id>
+    <name>Arya`</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.08560000</latitude>
+    <longitude>40.62390000</longitude>
+  </city>
+  <city>
+    <id>148669</id>
+    <name>As Sadr</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.51890000</latitude>
+    <longitude>40.19750000</longitude>
+  </city>
+  <city>
+    <id>148670</id>
+    <name>As Samd ash Shamali</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.67500000</latitude>
+    <longitude>39.75000000</longitude>
+  </city>
+  <city>
+    <id>148671</id>
+    <name>As Sayl al Kabir</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.62640000</latitude>
+    <longitude>40.41530000</longitude>
+  </city>
+  <city>
+    <id>148672</id>
+    <name>As Sayl as Saghir</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.50640000</latitude>
+    <longitude>40.48220000</longitude>
+  </city>
+  <city>
+    <id>148673</id>
+    <name>As Sifyani</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.47560000</latitude>
+    <longitude>39.84310000</longitude>
+  </city>
+  <city>
+    <id>148674</id>
+    <name>As Sudayrah, Makkah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.36190000</latitude>
+    <longitude>40.85470000</longitude>
+  </city>
+  <city>
+    <id>148675</id>
+    <name>As Suwadah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.13390000</latitude>
+    <longitude>40.51170000</longitude>
+  </city>
+  <city>
+    <id>148676</id>
+    <name>Ash Shajwah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.66440000</latitude>
+    <longitude>40.01140000</longitude>
+  </city>
+  <city>
+    <id>148677</id>
+    <name>Ash Shamiyah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.84110000</latitude>
+    <longitude>39.52440000</longitude>
+  </city>
+  <city>
+    <id>148678</id>
+    <name>Ash Shara'i`</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.46305556</latitude>
+    <longitude>39.94611111</longitude>
+  </city>
+  <city>
+    <id>148679</id>
+    <name>Ash Shaybi</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.69580000</latitude>
+    <longitude>39.94170000</longitude>
+  </city>
+  <city>
+    <id>148680</id>
+    <name>Ash Shi`b</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.96890000</latitude>
+    <longitude>39.48610000</longitude>
+  </city>
+  <city>
+    <id>148681</id>
+    <name>Ash Shishah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.35030000</latitude>
+    <longitude>39.89190000</longitude>
+  </city>
+  <city>
+    <id>148682</id>
+    <name>Ash Shumaysi</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.58330000</latitude>
+    <longitude>39.68330000</longitude>
+  </city>
+  <city>
+    <id>148683</id>
+    <name>Ash Shuwaybit</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.37970000</latitude>
+    <longitude>40.51940000</longitude>
+  </city>
+  <city>
+    <id>148684</id>
+    <name>At Tan`im</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.48250000</latitude>
+    <longitude>39.80500000</longitude>
+  </city>
+  <city>
+    <id>148685</id>
+    <name>At Tarfa'</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.70638889</latitude>
+    <longitude>39.87138889</longitude>
+  </city>
+  <city>
+    <id>148686</id>
+    <name>At Turqi</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.94920000</latitude>
+    <longitude>39.41310000</longitude>
+  </city>
+  <city>
+    <id>148687</id>
+    <name>Az Zaymah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.61860000</latitude>
+    <longitude>40.11330000</longitude>
+  </city>
+  <city>
+    <id>148688</id>
+    <name>Az Zilal</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.48890000</latitude>
+    <longitude>39.59420000</longitude>
+  </city>
+  <city>
+    <id>148689</id>
+    <name>Az Zughbah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.71670000</latitude>
+    <longitude>39.94580000</longitude>
+  </city>
+  <city>
+    <id>148690</id>
+    <name>Az Zurra`</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.91060000</latitude>
+    <longitude>39.40000000</longitude>
+  </city>
+  <city>
+    <id>148691</id>
+    <name>Az Zuwayb</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.91670000</latitude>
+    <longitude>39.96940000</longitude>
+  </city>
+  <city>
+    <id>148692</id>
+    <name>Bahrat al Qadimah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.41330000</latitude>
+    <longitude>39.49390000</longitude>
+  </city>
+  <city>
+    <id>148693</id>
+    <name>Bahwil</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.42940000</latitude>
+    <longitude>39.42940000</longitude>
+  </city>
+  <city>
+    <id>148694</id>
+    <name>Baranah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.55420000</latitude>
+    <longitude>39.82220000</longitude>
+  </city>
+  <city>
+    <id>148695</id>
+    <name>Barzah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.98000000</latitude>
+    <longitude>39.67560000</longitude>
+  </city>
+  <city>
+    <id>148696</id>
+    <name>Bashm</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.48220000</latitude>
+    <longitude>39.82080000</longitude>
+  </city>
+  <city>
+    <id>148697</id>
+    <name>Buraykah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.34440000</latitude>
+    <longitude>39.32000000</longitude>
+  </city>
+  <city>
+    <id>148698</id>
+    <name>Burayman</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.63750000</latitude>
+    <longitude>39.22640000</longitude>
+  </city>
+  <city>
+    <id>148699</id>
+    <name>CITY GHRAN</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.97380000</latitude>
+    <longitude>39.36820000</longitude>
+  </city>
+  <city>
+    <id>148700</id>
+    <name>Dabyah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.42470000</latitude>
+    <longitude>39.44610000</longitude>
+  </city>
+  <city>
+    <id>148701</id>
+    <name>Dahaban</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.93333333</latitude>
+    <longitude>39.11666667</longitude>
+  </city>
+  <city>
+    <id>148702</id>
+    <name>Dughaybjah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.59030000</latitude>
+    <longitude>41.35970000</longitude>
+  </city>
+  <city>
+    <id>148703</id>
+    <name>Fayd</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.91720000</latitude>
+    <longitude>39.38830000</longitude>
+  </city>
+  <city>
+    <id>148704</id>
+    <name>Ghran</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.98027000</latitude>
+    <longitude>39.36521000</longitude>
+  </city>
+  <city>
+    <id>148705</id>
+    <name>Hadda'</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.45027778</latitude>
+    <longitude>39.55444444</longitude>
+  </city>
+  <city>
+    <id>148706</id>
+    <name>Haddat ash Sham</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.79670000</latitude>
+    <longitude>39.68330000</longitude>
+  </city>
+  <city>
+    <id>148707</id>
+    <name>Hadhah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.65250000</latitude>
+    <longitude>40.01420000</longitude>
+  </city>
+  <city>
+    <id>148708</id>
+    <name>Hajrah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>20.23333333</latitude>
+    <longitude>41.05000000</longitude>
+  </city>
+  <city>
+    <id>148709</id>
+    <name>Hajur</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.01780000</latitude>
+    <longitude>39.73030000</longitude>
+  </city>
+  <city>
+    <id>148710</id>
+    <name>Halamah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.95420000</latitude>
+    <longitude>39.70280000</longitude>
+  </city>
+  <city>
+    <id>148711</id>
+    <name>Husnah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.80000000</latitude>
+    <longitude>39.59166667</longitude>
+  </city>
+  <city>
+    <id>148712</id>
+    <name>Jarwal</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.43330000</latitude>
+    <longitude>39.81670000</longitude>
+  </city>
+  <city>
+    <id>148713</id>
+    <name>Jeddah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.54277778</latitude>
+    <longitude>39.17277778</longitude>
+  </city>
+  <city>
+    <id>148714</id>
+    <name>Julayyil</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.95830000</latitude>
+    <longitude>39.75830000</longitude>
+  </city>
+  <city>
+    <id>148715</id>
+    <name>Khumrah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.37280000</latitude>
+    <longitude>39.22610000</longitude>
+  </city>
+  <city>
+    <id>148716</id>
+    <name>Kulakh</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.29640000</latitude>
+    <longitude>40.79690000</longitude>
+  </city>
+  <city>
+    <id>148717</id>
+    <name>Madrakah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.97970000</latitude>
+    <longitude>39.98750000</longitude>
+  </city>
+  <city>
+    <id>148718</id>
+    <name>Mafruq</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.52220000</latitude>
+    <longitude>40.17940000</longitude>
+  </city>
+  <city>
+    <id>148719</id>
+    <name>Malakan</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.21580000</latitude>
+    <longitude>39.95030000</longitude>
+  </city>
+  <city>
+    <id>148720</id>
+    <name>Mashajji</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.73890000</latitude>
+    <longitude>39.96670000</longitude>
+  </city>
+  <city>
+    <id>148721</id>
+    <name>Masihat Mahd al Hayl</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.94170000</latitude>
+    <longitude>39.88610000</longitude>
+  </city>
+  <city>
+    <id>148722</id>
+    <name>Maskar</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.75000000</latitude>
+    <longitude>40.31640000</longitude>
+  </city>
+  <city>
+    <id>148723</id>
+    <name>Matiyah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.54170000</latitude>
+    <longitude>39.81940000</longitude>
+  </city>
+  <city>
+    <id>148724</id>
+    <name>Mecca</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.42250000</latitude>
+    <longitude>39.82611111</longitude>
+  </city>
+  <city>
+    <id>148725</id>
+    <name>Mina</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.41333333</latitude>
+    <longitude>39.89333333</longitude>
+  </city>
+  <city>
+    <id>148726</id>
+    <name>Murshidiyah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.48890000</latitude>
+    <longitude>39.79440000</longitude>
+  </city>
+  <city>
+    <id>148727</id>
+    <name>Mushrif</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.62920000</latitude>
+    <longitude>41.35670000</longitude>
+  </city>
+  <city>
+    <id>148728</id>
+    <name>Nughayshiyah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.21670000</latitude>
+    <longitude>40.75000000</longitude>
+  </city>
+  <city>
+    <id>148729</id>
+    <name>Nuzlat al Faqin</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.00000000</latitude>
+    <longitude>39.41670000</longitude>
+  </city>
+  <city>
+    <id>148730</id>
+    <name>Qiya</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.06670000</latitude>
+    <longitude>41.01670000</longitude>
+  </city>
+  <city>
+    <id>148731</id>
+    <name>Quwayzah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.49030000</latitude>
+    <longitude>39.27670000</longitude>
+  </city>
+  <city>
+    <id>148732</id>
+    <name>Rabwah Ghran</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.98330000</latitude>
+    <longitude>39.41670000</longitude>
+  </city>
+  <city>
+    <id>148733</id>
+    <name>Raqiyah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.76670000</latitude>
+    <longitude>40.35000000</longitude>
+  </city>
+  <city>
+    <id>148734</id>
+    <name>Sabuhah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.58330000</latitude>
+    <longitude>40.11670000</longitude>
+  </city>
+  <city>
+    <id>148735</id>
+    <name>Shi`b `amir</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.43330000</latitude>
+    <longitude>39.83330000</longitude>
+  </city>
+  <city>
+    <id>148736</id>
+    <name>Shira`ayn</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.28330000</latitude>
+    <longitude>40.78330000</longitude>
+  </city>
+  <city>
+    <id>148737</id>
+    <name>Sulaym</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.58330000</latitude>
+    <longitude>39.63330000</longitude>
+  </city>
+  <city>
+    <id>148738</id>
+    <name>Sumaymah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.25000000</latitude>
+    <longitude>39.16670000</longitude>
+  </city>
+  <city>
+    <id>148739</id>
+    <name>Suways</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.95000000</latitude>
+    <longitude>39.96670000</longitude>
+  </city>
+  <city>
+    <id>148740</id>
+    <name>Ta'if</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.26666667</latitude>
+    <longitude>40.41666667</longitude>
+  </city>
+  <city>
+    <id>148741</id>
+    <name>Tharwah</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.51670000</latitude>
+    <longitude>39.61670000</longitude>
+  </city>
+  <city>
+    <id>148742</id>
+    <name>Thuwal</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.28333333</latitude>
+    <longitude>39.10000000</longitude>
+  </city>
+  <city>
+    <id>148743</id>
+    <name>Usfan</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.92306000</latitude>
+    <longitude>39.35594000</longitude>
+  </city>
+  <city>
+    <id>148744</id>
+    <name>Wadi al Jalil</name>
+    <state_id>2859</state_id>
+    <state_code>11</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.46670000</latitude>
+    <longitude>39.85000000</longitude>
+  </city>
+  <city>
+    <id>148588</id>
+    <name>Al Isawiyah</name>
+    <state_id>2857</state_id>
+    <state_code>12</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>30.71681000</latitude>
+    <longitude>37.97767000</longitude>
+  </city>
+  <city>
+    <id>148589</id>
+    <name>Al-Haditha</name>
+    <state_id>2857</state_id>
+    <state_code>12</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>31.45601100</latitude>
+    <longitude>37.14814000</longitude>
+  </city>
+  <city>
+    <id>148590</id>
+    <name>Halat Ammar</name>
+    <state_id>2857</state_id>
+    <state_code>12</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>29.15944444</latitude>
+    <longitude>36.07500000</longitude>
   </city>
   <city>
     <id>102872</id>
@@ -1059471,6 +1061021,16 @@
     <longitude>40.38925000</longitude>
   </city>
   <city>
+    <id>148591</id>
+    <name>Tabarjal</name>
+    <state_id>2857</state_id>
+    <state_code>12</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>30.50000000</latitude>
+    <longitude>38.21670000</longitude>
+  </city>
+  <city>
     <id>102898</id>
     <name>Ţubarjal</name>
     <state_id>2857</state_id>
@@ -1059481,14 +1061041,364 @@
     <longitude>38.21603000</longitude>
   </city>
   <city>
+    <id>148866</id>
+    <name>`Ajmiyah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.21670000</latitude>
+    <longitude>38.50000000</longitude>
+  </city>
+  <city>
+    <id>148867</id>
+    <name>`Alya'</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.82360000</latitude>
+    <longitude>38.88330000</longitude>
+  </city>
+  <city>
+    <id>148868</id>
+    <name>`Ushash</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.50000000</latitude>
+    <longitude>38.91670000</longitude>
+  </city>
+  <city>
+    <id>148869</id>
+    <name>`Ushayrah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.01860000</latitude>
+    <longitude>39.67310000</longitude>
+  </city>
+  <city>
+    <id>148802</id>
+    <name>Abu Dhiba</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.19890000</latitude>
+    <longitude>39.55780000</longitude>
+  </city>
+  <city>
+    <id>148804</id>
+    <name>Abū Shayţānah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.86670000</latitude>
+    <longitude>38.36670000</longitude>
+  </city>
+  <city>
+    <id>148803</id>
+    <name>Abyar 'Ali</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.41666667</latitude>
+    <longitude>39.55000000</longitude>
+  </city>
+  <city>
+    <id>148805</id>
+    <name>Ad Dulu`</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.76670000</latitude>
+    <longitude>39.53330000</longitude>
+  </city>
+  <city>
+    <id>148823</id>
+    <name>Al `Awali</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.45000000</latitude>
+    <longitude>39.61670000</longitude>
+  </city>
+  <city>
+    <id>148824</id>
+    <name>Al `Uqul</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.50000000</latitude>
+    <longitude>39.81670000</longitude>
+  </city>
+  <city>
+    <id>148806</id>
+    <name>Al Akhal</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.31560000</latitude>
+    <longitude>39.85940000</longitude>
+  </city>
+  <city>
+    <id>148807</id>
+    <name>Al Bardiyah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.04390000</latitude>
+    <longitude>39.60610000</longitude>
+  </city>
+  <city>
+    <id>148808</id>
+    <name>Al Biqa'</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.38861111</latitude>
+    <longitude>38.59888889</longitude>
+  </city>
+  <city>
+    <id>148809</id>
+    <name>Al Bustan</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.27830000</latitude>
+    <longitude>39.24280000</longitude>
+  </city>
+  <city>
+    <id>148810</id>
+    <name>Al Faqirah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.42170000</latitude>
+    <longitude>39.70970000</longitude>
+  </city>
+  <city>
+    <id>148811</id>
+    <name>Al Furaysh</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.22000000</latitude>
+    <longitude>39.28140000</longitude>
+  </city>
+  <city>
+    <id>148812</id>
+    <name>Al Fuwayliq</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>26.44360000</latitude>
+    <longitude>43.25164000</longitude>
+  </city>
+  <city>
+    <id>148813</id>
+    <name>Al Jabriyah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.25000000</latitude>
+    <longitude>38.51670000</longitude>
+  </city>
+  <city>
+    <id>148814</id>
+    <name>Al Jissah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.33330000</latitude>
+    <longitude>40.30000000</longitude>
+  </city>
+  <city>
+    <id>148815</id>
+    <name>Al Kharma'</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.90000000</latitude>
+    <longitude>38.90000000</longitude>
+  </city>
+  <city>
+    <id>148816</id>
+    <name>Al Madiq, Al Madinah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.32220000</latitude>
+    <longitude>39.62030000</longitude>
+  </city>
+  <city>
+    <id>148817</id>
+    <name>Al Malbanah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.18330000</latitude>
+    <longitude>39.51670000</longitude>
+  </city>
+  <city>
+    <id>148818</id>
+    <name>Al Mufrihat</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.35000000</latitude>
+    <longitude>39.41670000</longitude>
+  </city>
+  <city>
+    <id>148819</id>
+    <name>Al Multasa</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.08330000</latitude>
+    <longitude>38.15000000</longitude>
+  </city>
+  <city>
+    <id>148820</id>
+    <name>Al Musayjid</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.08330000</latitude>
+    <longitude>39.10000000</longitude>
+  </city>
+  <city>
+    <id>148821</id>
+    <name>Al Thybiyah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>26.02700000</latitude>
+    <longitude>43.15700000</longitude>
+  </city>
+  <city>
+    <id>148822</id>
+    <name>Al Wuday</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.17890000</latitude>
+    <longitude>39.54810000</longitude>
+  </city>
+  <city>
+    <id>148825</id>
+    <name>Al-Jafr</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>25.41666667</latitude>
+    <longitude>49.61666667</longitude>
+  </city>
+  <city>
     <id>102839</id>
-    <name>Al-`Ula</name>
+    <name>Al-Ula</name>
     <state_id>2851</state_id>
     <state_code>03</state_code>
     <country_id>194</country_id>
     <country_code>SA</country_code>
     <latitude>26.60853000</latitude>
     <longitude>37.92316000</longitude>
+  </city>
+  <city>
+    <id>148826</id>
+    <name>Ar Rass</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>25.86666667</latitude>
+    <longitude>43.50000000</longitude>
+  </city>
+  <city>
+    <id>148827</id>
+    <name>As Sadayir</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.25000000</latitude>
+    <longitude>39.18330000</longitude>
+  </city>
+  <city>
+    <id>148828</id>
+    <name>As Safra'</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.01277778</latitude>
+    <longitude>38.92277778</longitude>
+  </city>
+  <city>
+    <id>148829</id>
+    <name>As Sumariyah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.92140000</latitude>
+    <longitude>39.61780000</longitude>
+  </city>
+  <city>
+    <id>148830</id>
+    <name>As Suwayriqiyah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.35000000</latitude>
+    <longitude>40.31670000</longitude>
+  </city>
+  <city>
+    <id>148831</id>
+    <name>Ash Shufayyah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.81670000</latitude>
+    <longitude>39.15000000</longitude>
+  </city>
+  <city>
+    <id>148832</id>
+    <name>Asira</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.33330000</latitude>
+    <longitude>38.63330000</longitude>
   </city>
   <city>
     <id>102849</id>
@@ -1059501,6 +1061411,216 @@
     <longitude>38.79047000</longitude>
   </city>
   <city>
+    <id>148833</id>
+    <name>Baq`a'</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.21666667</latitude>
+    <longitude>38.71666667</longitude>
+  </city>
+  <city>
+    <id>148834</id>
+    <name>Bartiyah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.28330000</latitude>
+    <longitude>38.58330000</longitude>
+  </city>
+  <city>
+    <id>148835</id>
+    <name>Bi'r al Mashi</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.21666667</latitude>
+    <longitude>39.55000000</longitude>
+  </city>
+  <city>
+    <id>148836</id>
+    <name>Birkah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.82030000</latitude>
+    <longitude>38.85970000</longitude>
+  </city>
+  <city>
+    <id>148837</id>
+    <name>Buraidah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>26.33333333</latitude>
+    <longitude>43.96666667</longitude>
+  </city>
+  <city>
+    <id>148838</id>
+    <name>Dukhnah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>25.35621000</latitude>
+    <longitude>43.62268000</longitude>
+  </city>
+  <city>
+    <id>148839</id>
+    <name>Far`</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.81670000</latitude>
+    <longitude>38.86670000</longitude>
+  </city>
+  <city>
+    <id>148840</id>
+    <name>Fiji</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.26666667</latitude>
+    <longitude>38.56666667</longitude>
+  </city>
+  <city>
+    <id>148841</id>
+    <name>Harthiyah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.25000000</latitude>
+    <longitude>38.55000000</longitude>
+  </city>
+  <city>
+    <id>148842</id>
+    <name>Hasa, Al Madinah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.28333333</latitude>
+    <longitude>38.60000000</longitude>
+  </city>
+  <city>
+    <id>148843</id>
+    <name>Haylat Radi al Baham</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.08390000</latitude>
+    <longitude>39.72500000</longitude>
+  </city>
+  <city>
+    <id>148844</id>
+    <name>Husayniyah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.86666667</latitude>
+    <longitude>38.90000000</longitude>
+  </city>
+  <city>
+    <id>148845</id>
+    <name>Jadidah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.81670000</latitude>
+    <longitude>38.83330000</longitude>
+  </city>
+  <city>
+    <id>148846</id>
+    <name>Khayf Fadil</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.26670000</latitude>
+    <longitude>38.56670000</longitude>
+  </city>
+  <city>
+    <id>148847</id>
+    <name>Madsus</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.35000000</latitude>
+    <longitude>38.55000000</longitude>
+  </city>
+  <city>
+    <id>148848</id>
+    <name>Mahattat al Hafah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.75000000</latitude>
+    <longitude>39.30000000</longitude>
+  </city>
+  <city>
+    <id>148849</id>
+    <name>Maqrah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.41670000</latitude>
+    <longitude>38.70000000</longitude>
+  </city>
+  <city>
+    <id>148850</id>
+    <name>Maqshush</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.58330000</latitude>
+    <longitude>38.60000000</longitude>
+  </city>
+  <city>
+    <id>148851</id>
+    <name>Masahili</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.03330000</latitude>
+    <longitude>38.23330000</longitude>
+  </city>
+  <city>
+    <id>148852</id>
+    <name>Mastoorah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.11090000</latitude>
+    <longitude>38.85068889</longitude>
+  </city>
+  <city>
+    <id>148853</id>
+    <name>Mawarah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.20000000</latitude>
+    <longitude>38.43330000</longitude>
+  </city>
+  <city>
     <id>102865</id>
     <name>Medina</name>
     <state_id>2851</state_id>
@@ -1059511,6 +1061631,76 @@
     <longitude>39.61417000</longitude>
   </city>
   <city>
+    <id>148854</id>
+    <name>Milhah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.05000000</latitude>
+    <longitude>38.30000000</longitude>
+  </city>
+  <city>
+    <id>148855</id>
+    <name>Nujayl</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.26670000</latitude>
+    <longitude>38.65000000</longitude>
+  </city>
+  <city>
+    <id>148856</id>
+    <name>Qaba'</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.40000000</latitude>
+    <longitude>39.65000000</longitude>
+  </city>
+  <city>
+    <id>148857</id>
+    <name>Qiba</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>27.40285000</latitude>
+    <longitude>44.32770000</longitude>
+  </city>
+  <city>
+    <id>148858</id>
+    <name>Rayyis</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.56670000</latitude>
+    <longitude>38.60000000</longitude>
+  </city>
+  <city>
+    <id>148859</id>
+    <name>Sha`tha'</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.23333333</latitude>
+    <longitude>38.53333333</longitude>
+  </city>
+  <city>
+    <id>148860</id>
+    <name>Sidi Hamzah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.50000000</latitude>
+    <longitude>39.61670000</longitude>
+  </city>
+  <city>
     <id>102879</id>
     <name>Sulţānah</name>
     <state_id>2851</state_id>
@@ -1059519,6 +1061709,56 @@
     <country_code>SA</country_code>
     <latitude>24.49258000</latitude>
     <longitude>39.58572000</longitude>
+  </city>
+  <city>
+    <id>148861</id>
+    <name>Suq Suwayq</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.36670000</latitude>
+    <longitude>38.45000000</longitude>
+  </city>
+  <city>
+    <id>148862</id>
+    <name>Suqubiya</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.23330000</latitude>
+    <longitude>38.50000000</longitude>
+  </city>
+  <city>
+    <id>148863</id>
+    <name>Suwadah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.03330000</latitude>
+    <longitude>38.20000000</longitude>
+  </city>
+  <city>
+    <id>148864</id>
+    <name>Tanūmah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>27.10000000</latitude>
+    <longitude>44.13333333</longitude>
+  </city>
+  <city>
+    <id>148865</id>
+    <name>Wasitah</name>
+    <state_id>2851</state_id>
+    <state_code>03</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.88330000</latitude>
+    <longitude>38.90000000</longitude>
   </city>
   <city>
     <id>102892</id>
@@ -1059571,6 +1061811,16 @@
     <longitude>44.22228000</longitude>
   </city>
   <city>
+    <id>148575</id>
+    <name>Al Thybiyah</name>
+    <state_id>2861</state_id>
+    <state_code>05</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>26.02700000</latitude>
+    <longitude>43.15700000</longitude>
+  </city>
+  <city>
     <id>102841</id>
     <name>Ar Rass</name>
     <state_id>2861</state_id>
@@ -1059579,6 +1061829,26 @@
     <country_code>SA</country_code>
     <latitude>25.86944000</latitude>
     <longitude>43.49730000</longitude>
+  </city>
+  <city>
+    <id>148576</id>
+    <name>Arar</name>
+    <state_id>2861</state_id>
+    <state_code>05</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>30.98333333</latitude>
+    <longitude>41.01666667</longitude>
+  </city>
+  <city>
+    <id>148577</id>
+    <name>Buraidah</name>
+    <state_id>2861</state_id>
+    <state_code>05</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>26.33333333</latitude>
+    <longitude>43.96666667</longitude>
   </city>
   <city>
     <id>102850</id>
@@ -1059591,6 +1061861,36 @@
     <longitude>43.97497000</longitude>
   </city>
   <city>
+    <id>148578</id>
+    <name>Dukhnah</name>
+    <state_id>2861</state_id>
+    <state_code>05</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>25.35621000</latitude>
+    <longitude>43.62268000</longitude>
+  </city>
+  <city>
+    <id>148579</id>
+    <name>Nisab</name>
+    <state_id>2861</state_id>
+    <state_code>05</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>29.19274000</latitude>
+    <longitude>44.71598000</longitude>
+  </city>
+  <city>
+    <id>148580</id>
+    <name>Qiba</name>
+    <state_id>2861</state_id>
+    <state_code>05</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>27.40285000</latitude>
+    <longitude>44.32770000</longitude>
+  </city>
+  <city>
     <id>102883</id>
     <name>Tanūmah</name>
     <state_id>2861</state_id>
@@ -1059599,6 +1061899,16 @@
     <country_code>SA</country_code>
     <latitude>27.10000000</latitude>
     <longitude>44.13333000</longitude>
+  </city>
+  <city>
+    <id>148581</id>
+    <name>Umm Radamah</name>
+    <state_id>2861</state_id>
+    <state_code>05</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>28.67985000</latitude>
+    <longitude>44.69549000</longitude>
   </city>
   <city>
     <id>102891</id>
@@ -1059751,6 +1062061,46 @@
     <longitude>49.60000000</longitude>
   </city>
   <city>
+    <id>148560</id>
+    <name>Al Ubaylah</name>
+    <state_id>2856</state_id>
+    <state_code>04</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.98417000</latitude>
+    <longitude>50.93966000</longitude>
+  </city>
+  <city>
+    <id>148561</id>
+    <name>Al-Awamiyah</name>
+    <state_id>2856</state_id>
+    <state_code>04</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>26.58333300</latitude>
+    <longitude>49.98333300</longitude>
+  </city>
+  <city>
+    <id>148562</id>
+    <name>Al-Awjam</name>
+    <state_id>2856</state_id>
+    <state_code>04</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>26.55830000</latitude>
+    <longitude>49.95030000</longitude>
+  </city>
+  <city>
+    <id>148563</id>
+    <name>Al-Mubarraz</name>
+    <state_id>2856</state_id>
+    <state_code>04</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>25.44160000</latitude>
+    <longitude>49.66420000</longitude>
+  </city>
+  <city>
     <id>102843</id>
     <name>As Saffānīyah</name>
     <state_id>2856</state_id>
@@ -1059801,6 +1062151,16 @@
     <longitude>50.11396000</longitude>
   </city>
   <city>
+    <id>148564</id>
+    <name>Ha'il </name>
+    <state_id>2856</state_id>
+    <state_code>04</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>27.51666667</latitude>
+    <longitude>41.68333333</longitude>
+  </city>
+  <city>
     <id>102857</id>
     <name>Hafar Al-Batin</name>
     <state_id>2856</state_id>
@@ -1059809,6 +1062169,26 @@
     <country_code>SA</country_code>
     <latitude>28.43279000</latitude>
     <longitude>45.97077000</longitude>
+  </city>
+  <city>
+    <id>148565</id>
+    <name>Haradh</name>
+    <state_id>2856</state_id>
+    <state_code>04</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.14555556</latitude>
+    <longitude>49.06527778</longitude>
+  </city>
+  <city>
+    <id>148566</id>
+    <name>Jubbah</name>
+    <state_id>2856</state_id>
+    <state_code>04</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>28.00620000</latitude>
+    <longitude>40.94160000</longitude>
   </city>
   <city>
     <id>102860</id>
@@ -1059831,6 +1062211,16 @@
     <longitude>50.20833000</longitude>
   </city>
   <city>
+    <id>148567</id>
+    <name>Mawqaq</name>
+    <state_id>2856</state_id>
+    <state_code>04</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>27.38398000</latitude>
+    <longitude>41.17635000</longitude>
+  </city>
+  <city>
     <id>102868</id>
     <name>Mulayjah</name>
     <state_id>2856</state_id>
@@ -1059841,6 +1062231,16 @@
     <longitude>48.42419000</longitude>
   </city>
   <city>
+    <id>148568</id>
+    <name>Nariyah</name>
+    <state_id>2856</state_id>
+    <state_code>04</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>27.46990000</latitude>
+    <longitude>48.48440000</longitude>
+  </city>
+  <city>
     <id>102870</id>
     <name>Qaisumah</name>
     <state_id>2856</state_id>
@@ -1059849,6 +1062249,16 @@
     <country_code>SA</country_code>
     <latitude>28.31117000</latitude>
     <longitude>46.12729000</longitude>
+  </city>
+  <city>
+    <id>148569</id>
+    <name>Qufar</name>
+    <state_id>2856</state_id>
+    <state_code>04</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>27.41534000</latitude>
+    <longitude>41.61903000</longitude>
   </city>
   <city>
     <id>102873</id>
@@ -1059871,14 +1062281,24 @@
     <longitude>49.95522000</longitude>
   </city>
   <city>
-    <id>102878</id>
+    <id>148571</id>
     <name>Sayhāt</name>
     <state_id>2856</state_id>
     <state_code>04</state_code>
     <country_id>194</country_id>
     <country_code>SA</country_code>
-    <latitude>26.48345000</latitude>
-    <longitude>50.04849000</longitude>
+    <latitude>26.47500000</latitude>
+    <longitude>50.04166667</longitude>
+  </city>
+  <city>
+    <id>148572</id>
+    <name>Simira</name>
+    <state_id>2856</state_id>
+    <state_code>04</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>26.49418000</latitude>
+    <longitude>42.12494000</longitude>
   </city>
   <city>
     <id>102888</id>
@@ -1059891,6 +1062311,16 @@
     <longitude>50.04028000</longitude>
   </city>
   <city>
+    <id>148573</id>
+    <name>Udhailiyah</name>
+    <state_id>2856</state_id>
+    <state_code>04</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>25.13330000</latitude>
+    <longitude>49.30000000</longitude>
+  </city>
+  <city>
     <id>102890</id>
     <name>Umm as Sāhik</name>
     <state_id>2856</state_id>
@@ -1059899,6 +1062329,16 @@
     <country_code>SA</country_code>
     <latitude>26.65361000</latitude>
     <longitude>49.91639000</longitude>
+  </city>
+  <city>
+    <id>148574</id>
+    <name>Uqair</name>
+    <state_id>2856</state_id>
+    <state_code>04</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>25.64310000</latitude>
+    <longitude>50.21440000</longitude>
   </city>
   <city>
     <id>102856</id>
@@ -1059911,6 +1062351,46 @@
     <longitude>41.69073000</longitude>
   </city>
   <city>
+    <id>148582</id>
+    <name>Jubbah</name>
+    <state_id>2855</state_id>
+    <state_code>06</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>28.00620000</latitude>
+    <longitude>40.94160000</longitude>
+  </city>
+  <city>
+    <id>148583</id>
+    <name>Mawqaq</name>
+    <state_id>2855</state_id>
+    <state_code>06</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>27.38398000</latitude>
+    <longitude>41.17635000</longitude>
+  </city>
+  <city>
+    <id>148584</id>
+    <name>Qufar</name>
+    <state_id>2855</state_id>
+    <state_code>06</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>27.41534000</latitude>
+    <longitude>41.61903000</longitude>
+  </city>
+  <city>
+    <id>148585</id>
+    <name>Simira</name>
+    <state_id>2855</state_id>
+    <state_code>06</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>26.49418000</latitude>
+    <longitude>42.12494000</longitude>
+  </city>
+  <city>
     <id>102806</id>
     <name>Abū ‘Arīsh</name>
     <state_id>2858</state_id>
@@ -1059919,6 +1062399,16 @@
     <country_code>SA</country_code>
     <latitude>16.96887000</latitude>
     <longitude>42.83251000</longitude>
+  </city>
+  <city>
+    <id>148745</id>
+    <name>Abu Radif</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.61860000</latitude>
+    <longitude>43.13110000</longitude>
   </city>
   <city>
     <id>102807</id>
@@ -1059931,6 +1062421,116 @@
     <longitude>42.25261000</longitude>
   </city>
   <city>
+    <id>148746</id>
+    <name>Ad Dur`iyah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.58420000</latitude>
+    <longitude>42.84310000</longitude>
+  </city>
+  <city>
+    <id>148747</id>
+    <name>Adh Dhagharir</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.67780000</latitude>
+    <longitude>42.95920000</longitude>
+  </city>
+  <city>
+    <id>148775</id>
+    <name>Al `Ulayin</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>17.15000000</latitude>
+    <longitude>43.17080000</longitude>
+  </city>
+  <city>
+    <id>148776</id>
+    <name>Al `Usaylah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.92030000</latitude>
+    <longitude>42.73530000</longitude>
+  </city>
+  <city>
+    <id>148748</id>
+    <name>Al Badawi</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.63330000</latitude>
+    <longitude>42.86500000</longitude>
+  </city>
+  <city>
+    <id>148749</id>
+    <name>Al Hadrur</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.54360000</latitude>
+    <longitude>42.86720000</longitude>
+  </city>
+  <city>
+    <id>148750</id>
+    <name>Al Hanashah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.55810000</latitude>
+    <longitude>42.76530000</longitude>
+  </city>
+  <city>
+    <id>148751</id>
+    <name>Al Harani</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.77500000</latitude>
+    <longitude>42.90970000</longitude>
+  </city>
+  <city>
+    <id>148752</id>
+    <name>Al Hasamah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.68333333</latitude>
+    <longitude>42.92694444</longitude>
+  </city>
+  <city>
+    <id>148753</id>
+    <name>Al Hijfar</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.54440000</latitude>
+    <longitude>42.84720000</longitude>
+  </city>
+  <city>
+    <id>148754</id>
+    <name>Al Jadi</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.64500000</latitude>
+    <longitude>42.99470000</longitude>
+  </city>
+  <city>
     <id>102822</id>
     <name>Al Jarādīyah</name>
     <state_id>2858</state_id>
@@ -1059939,6 +1062539,246 @@
     <country_code>SA</country_code>
     <latitude>16.57946000</latitude>
     <longitude>42.91240000</longitude>
+  </city>
+  <city>
+    <id>148755</id>
+    <name>Al Jawah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.95670000</latitude>
+    <longitude>43.02970000</longitude>
+  </city>
+  <city>
+    <id>148756</id>
+    <name>Al Jirbah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.92640000</latitude>
+    <longitude>42.88610000</longitude>
+  </city>
+  <city>
+    <id>148757</id>
+    <name>Al Karbus</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.87330000</latitude>
+    <longitude>42.63170000</longitude>
+  </city>
+  <city>
+    <id>148758</id>
+    <name>Al Kawahilah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.96140000</latitude>
+    <longitude>42.67250000</longitude>
+  </city>
+  <city>
+    <id>148759</id>
+    <name>Al Khadra', Jizan</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.58583333</latitude>
+    <longitude>42.96333333</longitude>
+  </city>
+  <city>
+    <id>148760</id>
+    <name>Al Kharabah, Jizan</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.75580000</latitude>
+    <longitude>42.95470000</longitude>
+  </city>
+  <city>
+    <id>148761</id>
+    <name>Al Kharadilah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.92720000</latitude>
+    <longitude>42.62640000</longitude>
+  </city>
+  <city>
+    <id>148762</id>
+    <name>Al Khashabiyah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.94030000</latitude>
+    <longitude>42.64310000</longitude>
+  </city>
+  <city>
+    <id>148763</id>
+    <name>Al Khubah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.78860000</latitude>
+    <longitude>43.22190000</longitude>
+  </city>
+  <city>
+    <id>148764</id>
+    <name>Al Kirs</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.57720000</latitude>
+    <longitude>42.94750000</longitude>
+  </city>
+  <city>
+    <id>148765</id>
+    <name>Al Luqiyah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.66060000</latitude>
+    <longitude>43.04000000</longitude>
+  </city>
+  <city>
+    <id>148766</id>
+    <name>Al Ma`ayin</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.61080000</latitude>
+    <longitude>43.14720000</longitude>
+  </city>
+  <city>
+    <id>148767</id>
+    <name>Al Madaya</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.76970000</latitude>
+    <longitude>42.73110000</longitude>
+  </city>
+  <city>
+    <id>148768</id>
+    <name>Al Mali</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.79530000</latitude>
+    <longitude>42.95360000</longitude>
+  </city>
+  <city>
+    <id>148769</id>
+    <name>Al Mayasam</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.94780000</latitude>
+    <longitude>42.72110000</longitude>
+  </city>
+  <city>
+    <id>148770</id>
+    <name>Al Qa'im</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.71944444</latitude>
+    <longitude>42.97666667</longitude>
+  </city>
+  <city>
+    <id>148771</id>
+    <name>Al Quful</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.67330000</latitude>
+    <longitude>43.07890000</longitude>
+  </city>
+  <city>
+    <id>148772</id>
+    <name>Al Qurayb</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.97500000</latitude>
+    <longitude>42.72530000</longitude>
+  </city>
+  <city>
+    <id>148773</id>
+    <name>Al Quwah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.79940000</latitude>
+    <longitude>43.22500000</longitude>
+  </city>
+  <city>
+    <id>148774</id>
+    <name>Al Wasili</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.94690000</latitude>
+    <longitude>42.69030000</longitude>
+  </city>
+  <city>
+    <id>148777</id>
+    <name>An Najamiyah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.56470000</latitude>
+    <longitude>42.94390000</longitude>
+  </city>
+  <city>
+    <id>148778</id>
+    <name>Ar Rukubah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.62220000</latitude>
+    <longitude>42.96750000</longitude>
+  </city>
+  <city>
+    <id>148779</id>
+    <name>Ash Shuqayq</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>17.70305556</latitude>
+    <longitude>42.02944444</longitude>
+  </city>
+  <city>
+    <id>148780</id>
+    <name>Bakhshat Yamani</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.89860000</latitude>
+    <longitude>42.59890000</longitude>
   </city>
   <city>
     <id>102854</id>
@@ -1059951,6 +1062791,36 @@
     <longitude>42.11833000</longitude>
   </city>
   <city>
+    <id>148781</id>
+    <name>Ghawiyah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.56500000</latitude>
+    <longitude>43.11080000</longitude>
+  </city>
+  <city>
+    <id>148782</id>
+    <name>Hamayyah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.98940000</latitude>
+    <longitude>43.16030000</longitude>
+  </city>
+  <city>
+    <id>148783</id>
+    <name>Hamdah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.76190000</latitude>
+    <longitude>42.92220000</longitude>
+  </city>
+  <city>
     <id>102859</id>
     <name>Jizan</name>
     <state_id>2858</state_id>
@@ -1059959,6 +1062829,96 @@
     <country_code>SA</country_code>
     <latitude>16.88917000</latitude>
     <longitude>42.55111000</longitude>
+  </city>
+  <city>
+    <id>148784</id>
+    <name>Juha, Saudi Arabia</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.66940000</latitude>
+    <longitude>42.89220000</longitude>
+  </city>
+  <city>
+    <id>148785</id>
+    <name>Ka`lul</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.89750000</latitude>
+    <longitude>42.84670000</longitude>
+  </city>
+  <city>
+    <id>148786</id>
+    <name>Khabath Sa`id</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.99780000</latitude>
+    <longitude>42.73220000</longitude>
+  </city>
+  <city>
+    <id>148787</id>
+    <name>Khalfah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.55470000</latitude>
+    <longitude>43.08940000</longitude>
+  </city>
+  <city>
+    <id>148788</id>
+    <name>Khatib, Saudi Arabia</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.89610000</latitude>
+    <longitude>41.85750000</longitude>
+  </city>
+  <city>
+    <id>148789</id>
+    <name>Khumsiyah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.77140000</latitude>
+    <longitude>42.80190000</longitude>
+  </city>
+  <city>
+    <id>148790</id>
+    <name>Khushaym</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.88000000</latitude>
+    <longitude>43.13720000</longitude>
+  </city>
+  <city>
+    <id>148791</id>
+    <name>Mahatah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.83330000</latitude>
+    <longitude>43.16670000</longitude>
+  </city>
+  <city>
+    <id>148792</id>
+    <name>Malgocta</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.99777778</latitude>
+    <longitude>42.67388889</longitude>
   </city>
   <city>
     <id>102866</id>
@@ -1059981,6 +1062941,76 @@
     <longitude>42.73333000</longitude>
   </city>
   <city>
+    <id>148793</id>
+    <name>Mukambal</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.59360000</latitude>
+    <longitude>43.03280000</longitude>
+  </city>
+  <city>
+    <id>148794</id>
+    <name>Mundaraq</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.75420000</latitude>
+    <longitude>43.14890000</longitude>
+  </city>
+  <city>
+    <id>148795</id>
+    <name>Muwassam</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.41670000</latitude>
+    <longitude>42.82580000</longitude>
+  </city>
+  <city>
+    <id>148796</id>
+    <name>Qitabir</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>17.33330000</latitude>
+    <longitude>43.25000000</longitude>
+  </city>
+  <city>
+    <id>148797</id>
+    <name>Quwayda'</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.73333333</latitude>
+    <longitude>42.89027778</longitude>
+  </city>
+  <city>
+    <id>148798</id>
+    <name>Rahwan</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.83330000</latitude>
+    <longitude>43.21670000</longitude>
+  </city>
+  <city>
+    <id>148799</id>
+    <name>Rawkhah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.94780000</latitude>
+    <longitude>42.79330000</longitude>
+  </city>
+  <city>
     <id>102894</id>
     <name>Şabyā</name>
     <state_id>2858</state_id>
@@ -1059989,6 +1063019,26 @@
     <country_code>SA</country_code>
     <latitude>17.14950000</latitude>
     <longitude>42.62537000</longitude>
+  </city>
+  <city>
+    <id>148800</id>
+    <name>Sadiliyah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.92640000</latitude>
+    <longitude>42.83000000</longitude>
+  </city>
+  <city>
+    <id>148801</id>
+    <name>Salamah</name>
+    <state_id>2858</state_id>
+    <state_code>09</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>16.97530000</latitude>
+    <longitude>42.75640000</longitude>
   </city>
   <city>
     <id>102897</id>
@@ -1060001,6 +1063051,226 @@
     <longitude>42.94435000</longitude>
   </city>
   <city>
+    <id>148870</id>
+    <name>Abha</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>18.21666667</latitude>
+    <longitude>42.50000000</longitude>
+  </city>
+  <city>
+    <id>148874</id>
+    <name>Abu `Urwah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.65000000</latitude>
+    <longitude>39.70000000</longitude>
+  </city>
+  <city>
+    <id>148871</id>
+    <name>Abu Hisani</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.73060000</latitude>
+    <longitude>39.78330000</longitude>
+  </city>
+  <city>
+    <id>148872</id>
+    <name>Abu Qirfah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.76670000</latitude>
+    <longitude>39.68330000</longitude>
+  </city>
+  <city>
+    <id>148873</id>
+    <name>Abu Shu`ayb</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.58330000</latitude>
+    <longitude>39.70000000</longitude>
+  </city>
+  <city>
+    <id>148875</id>
+    <name>Ad Dabbah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.71670000</latitude>
+    <longitude>39.83330000</longitude>
+  </city>
+  <city>
+    <id>148876</id>
+    <name>Ad Dawh</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.77220000</latitude>
+    <longitude>39.70140000</longitude>
+  </city>
+  <city>
+    <id>148877</id>
+    <name>Ad Dur</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.81670000</latitude>
+    <longitude>39.76670000</longitude>
+  </city>
+  <city>
+    <id>148935</id>
+    <name>Al Ābār</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.09810000</latitude>
+    <longitude>39.91030000</longitude>
+  </city>
+  <city>
+    <id>148878</id>
+    <name>Al Adl</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.44361000</latitude>
+    <longitude>39.85611000</longitude>
+  </city>
+  <city>
+    <id>148879</id>
+    <name>Al Ashraf</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.52360000</latitude>
+    <longitude>39.61670000</longitude>
+  </city>
+  <city>
+    <id>148880</id>
+    <name>Al Balad</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.48780000</latitude>
+    <longitude>39.19360000</longitude>
+  </city>
+  <city>
+    <id>148881</id>
+    <name>Al Barabir</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.52030000</latitude>
+    <longitude>39.63250000</longitude>
+  </city>
+  <city>
+    <id>148882</id>
+    <name>Al Bi'ar</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.64972222</latitude>
+    <longitude>39.67027778</longitude>
+  </city>
+  <city>
+    <id>148883</id>
+    <name>Al Birk</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>18.21631000</latitude>
+    <longitude>41.53593000</longitude>
+  </city>
+  <city>
+    <id>148884</id>
+    <name>Al Buraykah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.78610000</latitude>
+    <longitude>39.71670000</longitude>
+  </city>
+  <city>
+    <id>148885</id>
+    <name>Al Fawwarah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.83280000</latitude>
+    <longitude>40.16110000</longitude>
+  </city>
+  <city>
+    <id>148886</id>
+    <name>Al Faydah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.98440000</latitude>
+    <longitude>39.38470000</longitude>
+  </city>
+  <city>
+    <id>148887</id>
+    <name>Al Fazz</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.98330000</latitude>
+    <longitude>39.52220000</longitude>
+  </city>
+  <city>
+    <id>148888</id>
+    <name>Al Gharith</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.60000000</latitude>
+    <longitude>41.88330000</longitude>
+  </city>
+  <city>
+    <id>148889</id>
+    <name>Al Ghassalah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.45000000</latitude>
+    <longitude>39.86670000</longitude>
+  </city>
+  <city>
+    <id>148890</id>
+    <name>Al Ghulah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.95000000</latitude>
+    <longitude>39.31670000</longitude>
+  </city>
+  <city>
     <id>102819</id>
     <name>Al Hadā</name>
     <state_id>2850</state_id>
@@ -1060009,6 +1063279,96 @@
     <country_code>SA</country_code>
     <latitude>21.36753000</latitude>
     <longitude>40.28694000</longitude>
+  </city>
+  <city>
+    <id>148891</id>
+    <name>Al Halaqah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.35000000</latitude>
+    <longitude>40.45000000</longitude>
+  </city>
+  <city>
+    <id>148892</id>
+    <name>Al Hamimah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.51670000</latitude>
+    <longitude>39.63330000</longitude>
+  </city>
+  <city>
+    <id>148893</id>
+    <name>Al Harra', Makkah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.95000000</latitude>
+    <longitude>39.48333333</longitude>
+  </city>
+  <city>
+    <id>148894</id>
+    <name>Al Hawiyah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.42415000</latitude>
+    <longitude>40.49303000</longitude>
+  </city>
+  <city>
+    <id>148895</id>
+    <name>Al Iskan</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.40000000</latitude>
+    <longitude>39.78330000</longitude>
+  </city>
+  <city>
+    <id>148896</id>
+    <name>Al Jadidah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.67030000</latitude>
+    <longitude>40.12640000</longitude>
+  </city>
+  <city>
+    <id>148897</id>
+    <name>Al Jami`ah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.46670000</latitude>
+    <longitude>39.25000000</longitude>
+  </city>
+  <city>
+    <id>148898</id>
+    <name>Al Jid`</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.93330000</latitude>
+    <longitude>39.58330000</longitude>
+  </city>
+  <city>
+    <id>148899</id>
+    <name>Al Ju`ranah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.56670000</latitude>
+    <longitude>39.95000000</longitude>
   </city>
   <city>
     <id>102824</id>
@@ -1060021,6 +1063381,246 @@
     <longitude>39.69806000</longitude>
   </city>
   <city>
+    <id>148900</id>
+    <name>Al Khadra', Makkah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.46777778</latitude>
+    <longitude>39.90472222</longitude>
+  </city>
+  <city>
+    <id>148901</id>
+    <name>Al Khalas</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.70000000</latitude>
+    <longitude>39.80000000</longitude>
+  </city>
+  <city>
+    <id>148902</id>
+    <name>Al Khamrah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.43330000</latitude>
+    <longitude>39.46670000</longitude>
+  </city>
+  <city>
+    <id>148903</id>
+    <name>Al Khaydar</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.46940000</latitude>
+    <longitude>40.63060000</longitude>
+  </city>
+  <city>
+    <id>148904</id>
+    <name>Al Khayf</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.68330000</latitude>
+    <longitude>39.73330000</longitude>
+  </city>
+  <city>
+    <id>148905</id>
+    <name>Al Khulasah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.68330000</latitude>
+    <longitude>39.91670000</longitude>
+  </city>
+  <city>
+    <id>148906</id>
+    <name>Al Kidwah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.78330000</latitude>
+    <longitude>39.68330000</longitude>
+  </city>
+  <city>
+    <id>148907</id>
+    <name>Al Kura`</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.80000000</latitude>
+    <longitude>39.13330000</longitude>
+  </city>
+  <city>
+    <id>148908</id>
+    <name>Al Ma`rash</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.13330000</latitude>
+    <longitude>40.60000000</longitude>
+  </city>
+  <city>
+    <id>148909</id>
+    <name>Al Madiq, Makkah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.67580000</latitude>
+    <longitude>40.13080000</longitude>
+  </city>
+  <city>
+    <id>148910</id>
+    <name>Al Maghal</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.96670000</latitude>
+    <longitude>39.55000000</longitude>
+  </city>
+  <city>
+    <id>148911</id>
+    <name>Al Mahjar</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.43330000</latitude>
+    <longitude>39.20000000</longitude>
+  </city>
+  <city>
+    <id>148912</id>
+    <name>Al Majāridah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>19.12361111</latitude>
+    <longitude>41.91111111</longitude>
+  </city>
+  <city>
+    <id>148913</id>
+    <name>Al Maqrah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.26670000</latitude>
+    <longitude>39.95000000</longitude>
+  </city>
+  <city>
+    <id>148914</id>
+    <name>Al Masarrah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.36670000</latitude>
+    <longitude>40.46670000</longitude>
+  </city>
+  <city>
+    <id>148915</id>
+    <name>Al Masfalah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.41670000</latitude>
+    <longitude>39.81670000</longitude>
+  </city>
+  <city>
+    <id>148916</id>
+    <name>Al Mashayikh</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.35000000</latitude>
+    <longitude>40.33330000</longitude>
+  </city>
+  <city>
+    <id>148917</id>
+    <name>Al Mathnah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.26666667</latitude>
+    <longitude>40.38333333</longitude>
+  </city>
+  <city>
+    <id>148918</id>
+    <name>Al Mubarak</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.70000000</latitude>
+    <longitude>39.90000000</longitude>
+  </city>
+  <city>
+    <id>148919</id>
+    <name>Al Mudawwarah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.26670000</latitude>
+    <longitude>39.96670000</longitude>
+  </city>
+  <city>
+    <id>148920</id>
+    <name>Al Mulayha'</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.80000000</latitude>
+    <longitude>40.35000000</longitude>
+  </city>
+  <city>
+    <id>148921</id>
+    <name>Al Mundassah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.63330000</latitude>
+    <longitude>39.74860000</longitude>
+  </city>
+  <city>
+    <id>148922</id>
+    <name>Al Muqayti`</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.54860000</latitude>
+    <longitude>39.78610000</longitude>
+  </city>
+  <city>
+    <id>148923</id>
+    <name>Al Muqr</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.00000000</latitude>
+    <longitude>39.38330000</longitude>
+  </city>
+  <city>
     <id>102833</id>
     <name>Al Muwayh</name>
     <state_id>2850</state_id>
@@ -1060029,6 +1063629,236 @@
     <country_code>SA</country_code>
     <latitude>22.43333000</latitude>
     <longitude>41.75829000</longitude>
+  </city>
+  <city>
+    <id>148924</id>
+    <name>Al Qadimah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.35000000</latitude>
+    <longitude>39.15000000</longitude>
+  </city>
+  <city>
+    <id>148925</id>
+    <name>Al Qahab</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>18.92560000</latitude>
+    <longitude>41.95500000</longitude>
+  </city>
+  <city>
+    <id>148926</id>
+    <name>Al Qararah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.42890000</latitude>
+    <longitude>39.82810000</longitude>
+  </city>
+  <city>
+    <id>148927</id>
+    <name>Al Qaryat</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.46670000</latitude>
+    <longitude>39.20000000</longitude>
+  </city>
+  <city>
+    <id>148928</id>
+    <name>Al Qawba`iyah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.66670000</latitude>
+    <longitude>39.98330000</longitude>
+  </city>
+  <city>
+    <id>148929</id>
+    <name>Al Qirshan</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.56670000</latitude>
+    <longitude>39.70000000</longitude>
+  </city>
+  <city>
+    <id>148930</id>
+    <name>Al Qu`tubah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.93330000</latitude>
+    <longitude>40.36670000</longitude>
+  </city>
+  <city>
+    <id>148931</id>
+    <name>Al Qufayf</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.83330000</latitude>
+    <longitude>40.45000000</longitude>
+  </city>
+  <city>
+    <id>148932</id>
+    <name>Al Qushashiyah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.43330000</latitude>
+    <longitude>39.83330000</longitude>
+  </city>
+  <city>
+    <id>148933</id>
+    <name>Al Ukhaydir</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.93330000</latitude>
+    <longitude>40.01670000</longitude>
+  </city>
+  <city>
+    <id>148934</id>
+    <name>Al Waht</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.23330000</latitude>
+    <longitude>40.35000000</longitude>
+  </city>
+  <city>
+    <id>148936</id>
+    <name>Ar Rabwah as Sufla</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.95530000</latitude>
+    <longitude>39.43670000</longitude>
+  </city>
+  <city>
+    <id>148937</id>
+    <name>Ar Rafah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.51670000</latitude>
+    <longitude>40.20000000</longitude>
+  </city>
+  <city>
+    <id>148938</id>
+    <name>Ar Rawdah ash Shamaliyah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.73330000</latitude>
+    <longitude>39.96670000</longitude>
+  </city>
+  <city>
+    <id>148939</id>
+    <name>Ar Rudaymah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.76670000</latitude>
+    <longitude>39.68330000</longitude>
+  </city>
+  <city>
+    <id>148940</id>
+    <name>Arya`</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.08560000</latitude>
+    <longitude>40.62390000</longitude>
+  </city>
+  <city>
+    <id>148941</id>
+    <name>As Sadr</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.51890000</latitude>
+    <longitude>40.19750000</longitude>
+  </city>
+  <city>
+    <id>148942</id>
+    <name>As Samd ash Shamali</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.67500000</latitude>
+    <longitude>39.75000000</longitude>
+  </city>
+  <city>
+    <id>148943</id>
+    <name>As Sayl al Kabir</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.62640000</latitude>
+    <longitude>40.41530000</longitude>
+  </city>
+  <city>
+    <id>148944</id>
+    <name>As Sayl as Saghir</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.50640000</latitude>
+    <longitude>40.48220000</longitude>
+  </city>
+  <city>
+    <id>148945</id>
+    <name>As Sifyani</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.47560000</latitude>
+    <longitude>39.84310000</longitude>
+  </city>
+  <city>
+    <id>148946</id>
+    <name>As Sudayrah, Makkah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.36190000</latitude>
+    <longitude>40.85470000</longitude>
+  </city>
+  <city>
+    <id>148947</id>
+    <name>As Suwadah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.13390000</latitude>
+    <longitude>40.51170000</longitude>
   </city>
   <city>
     <id>102845</id>
@@ -1060041,6 +1063871,286 @@
     <longitude>40.31185000</longitude>
   </city>
   <city>
+    <id>148948</id>
+    <name>Ash Shajwah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.66440000</latitude>
+    <longitude>40.01140000</longitude>
+  </city>
+  <city>
+    <id>148949</id>
+    <name>Ash Shamiyah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.84110000</latitude>
+    <longitude>39.52440000</longitude>
+  </city>
+  <city>
+    <id>148950</id>
+    <name>Ash Shara'i`</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.46305556</latitude>
+    <longitude>39.94611111</longitude>
+  </city>
+  <city>
+    <id>148951</id>
+    <name>Ash Shaybi</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.69580000</latitude>
+    <longitude>39.94170000</longitude>
+  </city>
+  <city>
+    <id>148952</id>
+    <name>Ash Shi`b</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.96890000</latitude>
+    <longitude>39.48610000</longitude>
+  </city>
+  <city>
+    <id>148953</id>
+    <name>Ash Shishah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.35030000</latitude>
+    <longitude>39.89190000</longitude>
+  </city>
+  <city>
+    <id>148954</id>
+    <name>Ash Shumaysi</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.58330000</latitude>
+    <longitude>39.68330000</longitude>
+  </city>
+  <city>
+    <id>148955</id>
+    <name>Ash Shuwaybit</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.37970000</latitude>
+    <longitude>40.51940000</longitude>
+  </city>
+  <city>
+    <id>148956</id>
+    <name>At Tan`im</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.48250000</latitude>
+    <longitude>39.80500000</longitude>
+  </city>
+  <city>
+    <id>148957</id>
+    <name>At Tarfa'</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.70638889</latitude>
+    <longitude>39.87138889</longitude>
+  </city>
+  <city>
+    <id>148958</id>
+    <name>At Turqi</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.94920000</latitude>
+    <longitude>39.41310000</longitude>
+  </city>
+  <city>
+    <id>148959</id>
+    <name>Az Zaymah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.61860000</latitude>
+    <longitude>40.11330000</longitude>
+  </city>
+  <city>
+    <id>148960</id>
+    <name>Az Zilal</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.48890000</latitude>
+    <longitude>39.59420000</longitude>
+  </city>
+  <city>
+    <id>148961</id>
+    <name>Az Zughbah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.71670000</latitude>
+    <longitude>39.94580000</longitude>
+  </city>
+  <city>
+    <id>148962</id>
+    <name>Az Zurra`</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.91060000</latitude>
+    <longitude>39.40000000</longitude>
+  </city>
+  <city>
+    <id>148963</id>
+    <name>Az Zuwayb</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.91670000</latitude>
+    <longitude>39.96940000</longitude>
+  </city>
+  <city>
+    <id>148964</id>
+    <name>Bahrat al Qadimah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.41330000</latitude>
+    <longitude>39.49390000</longitude>
+  </city>
+  <city>
+    <id>148965</id>
+    <name>Bahwil</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.42940000</latitude>
+    <longitude>39.42940000</longitude>
+  </city>
+  <city>
+    <id>148966</id>
+    <name>Baranah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.55420000</latitude>
+    <longitude>39.82220000</longitude>
+  </city>
+  <city>
+    <id>148967</id>
+    <name>Barzah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.98000000</latitude>
+    <longitude>39.67560000</longitude>
+  </city>
+  <city>
+    <id>148968</id>
+    <name>Bashm</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.48220000</latitude>
+    <longitude>39.82080000</longitude>
+  </city>
+  <city>
+    <id>148969</id>
+    <name>Buraykah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.34440000</latitude>
+    <longitude>39.32000000</longitude>
+  </city>
+  <city>
+    <id>148970</id>
+    <name>Burayman</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.63750000</latitude>
+    <longitude>39.22640000</longitude>
+  </city>
+  <city>
+    <id>148971</id>
+    <name>CITY GHRAN</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.97380000</latitude>
+    <longitude>39.36820000</longitude>
+  </city>
+  <city>
+    <id>148972</id>
+    <name>Dabyah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.42470000</latitude>
+    <longitude>39.44610000</longitude>
+  </city>
+  <city>
+    <id>148973</id>
+    <name>Dahaban</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.93333333</latitude>
+    <longitude>39.11666667</longitude>
+  </city>
+  <city>
+    <id>148974</id>
+    <name>Dughaybjah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.59030000</latitude>
+    <longitude>41.35970000</longitude>
+  </city>
+  <city>
+    <id>148975</id>
+    <name>Fayd</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.91720000</latitude>
+    <longitude>39.38830000</longitude>
+  </city>
+  <city>
     <id>102855</id>
     <name>Ghran</name>
     <state_id>2850</state_id>
@@ -1060049,6 +1064159,76 @@
     <country_code>SA</country_code>
     <latitude>21.98027000</latitude>
     <longitude>39.36521000</longitude>
+  </city>
+  <city>
+    <id>148976</id>
+    <name>Hadda'</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.45027778</latitude>
+    <longitude>39.55444444</longitude>
+  </city>
+  <city>
+    <id>148977</id>
+    <name>Haddat ash Sham</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.79670000</latitude>
+    <longitude>39.68330000</longitude>
+  </city>
+  <city>
+    <id>148978</id>
+    <name>Hadhah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.65250000</latitude>
+    <longitude>40.01420000</longitude>
+  </city>
+  <city>
+    <id>148979</id>
+    <name>Hajur</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.01780000</latitude>
+    <longitude>39.73030000</longitude>
+  </city>
+  <city>
+    <id>148980</id>
+    <name>Halamah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.95420000</latitude>
+    <longitude>39.70280000</longitude>
+  </city>
+  <city>
+    <id>148981</id>
+    <name>Husnah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.80000000</latitude>
+    <longitude>39.59166667</longitude>
+  </city>
+  <city>
+    <id>148982</id>
+    <name>Jarwal</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.43330000</latitude>
+    <longitude>39.81670000</longitude>
   </city>
   <city>
     <id>102858</id>
@@ -1060061,6 +1064241,126 @@
     <longitude>39.19797000</longitude>
   </city>
   <city>
+    <id>148983</id>
+    <name>Julayyil</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.95830000</latitude>
+    <longitude>39.75830000</longitude>
+  </city>
+  <city>
+    <id>148984</id>
+    <name>Khamis Mushait</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>18.30000000</latitude>
+    <longitude>42.73333333</longitude>
+  </city>
+  <city>
+    <id>148985</id>
+    <name>Khumrah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.37280000</latitude>
+    <longitude>39.22610000</longitude>
+  </city>
+  <city>
+    <id>148986</id>
+    <name>Kulakh</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.29640000</latitude>
+    <longitude>40.79690000</longitude>
+  </city>
+  <city>
+    <id>148987</id>
+    <name>Ma`riyah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>18.85000000</latitude>
+    <longitude>41.96670000</longitude>
+  </city>
+  <city>
+    <id>148988</id>
+    <name>Madrakah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.97970000</latitude>
+    <longitude>39.98750000</longitude>
+  </city>
+  <city>
+    <id>148989</id>
+    <name>Mafruq</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.52220000</latitude>
+    <longitude>40.17940000</longitude>
+  </city>
+  <city>
+    <id>148990</id>
+    <name>Malakan</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.21580000</latitude>
+    <longitude>39.95030000</longitude>
+  </city>
+  <city>
+    <id>148991</id>
+    <name>Mashajji</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.73890000</latitude>
+    <longitude>39.96670000</longitude>
+  </city>
+  <city>
+    <id>148992</id>
+    <name>Masihat Mahd al Hayl</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.94170000</latitude>
+    <longitude>39.88610000</longitude>
+  </city>
+  <city>
+    <id>148993</id>
+    <name>Maskar</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.75000000</latitude>
+    <longitude>40.31640000</longitude>
+  </city>
+  <city>
+    <id>148994</id>
+    <name>Matiyah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.54170000</latitude>
+    <longitude>39.81940000</longitude>
+  </city>
+  <city>
     <id>102864</id>
     <name>Mecca</name>
     <state_id>2850</state_id>
@@ -1060069,6 +1064369,96 @@
     <country_code>SA</country_code>
     <latitude>21.42664000</latitude>
     <longitude>39.82563000</longitude>
+  </city>
+  <city>
+    <id>148995</id>
+    <name>Mifa</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>18.89170000</latitude>
+    <longitude>41.96330000</longitude>
+  </city>
+  <city>
+    <id>148996</id>
+    <name>Mina</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.41333333</latitude>
+    <longitude>39.89333333</longitude>
+  </city>
+  <city>
+    <id>148997</id>
+    <name>Munayzir</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>18.94640000</latitude>
+    <longitude>41.91640000</longitude>
+  </city>
+  <city>
+    <id>148998</id>
+    <name>Murshidiyah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.48890000</latitude>
+    <longitude>39.79440000</longitude>
+  </city>
+  <city>
+    <id>148999</id>
+    <name>Mushrif</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.62920000</latitude>
+    <longitude>41.35670000</longitude>
+  </city>
+  <city>
+    <id>149000</id>
+    <name>Nughayshiyah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.21670000</latitude>
+    <longitude>40.75000000</longitude>
+  </city>
+  <city>
+    <id>149001</id>
+    <name>Nuzlat al Faqin</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.00000000</latitude>
+    <longitude>39.41670000</longitude>
+  </city>
+  <city>
+    <id>149002</id>
+    <name>Qiya</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.06670000</latitude>
+    <longitude>41.01670000</longitude>
+  </city>
+  <city>
+    <id>149003</id>
+    <name>Quwayzah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.49030000</latitude>
+    <longitude>39.27670000</longitude>
   </city>
   <city>
     <id>102875</id>
@@ -1060081,14 +1064471,124 @@
     <longitude>39.03493000</longitude>
   </city>
   <city>
+    <id>149004</id>
+    <name>Rabwah Ghran</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.98330000</latitude>
+    <longitude>39.41670000</longitude>
+  </city>
+  <city>
+    <id>149005</id>
+    <name>Raqiyah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.76670000</latitude>
+    <longitude>40.35000000</longitude>
+  </city>
+  <city>
+    <id>149006</id>
+    <name>Sabuhah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.58330000</latitude>
+    <longitude>40.11670000</longitude>
+  </city>
+  <city>
+    <id>149007</id>
+    <name>Shi`b `amir</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.43330000</latitude>
+    <longitude>39.83330000</longitude>
+  </city>
+  <city>
+    <id>149008</id>
+    <name>Shira`ayn</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.28330000</latitude>
+    <longitude>40.78330000</longitude>
+  </city>
+  <city>
+    <id>149009</id>
+    <name>Sulaym</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.58330000</latitude>
+    <longitude>39.63330000</longitude>
+  </city>
+  <city>
+    <id>149010</id>
+    <name>Sumaymah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.25000000</latitude>
+    <longitude>39.16670000</longitude>
+  </city>
+  <city>
+    <id>149011</id>
+    <name>Suways</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.95000000</latitude>
+    <longitude>39.96670000</longitude>
+  </city>
+  <city>
     <id>102884</id>
-    <name>Ta’if</name>
+    <name>Ta'if</name>
     <state_id>2850</state_id>
     <state_code>02</state_code>
     <country_id>194</country_id>
     <country_code>SA</country_code>
     <latitude>21.27028000</latitude>
     <longitude>40.41583000</longitude>
+  </city>
+  <city>
+    <id>149012</id>
+    <name>Tabālah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>19.95000000</latitude>
+    <longitude>42.40000000</longitude>
+  </city>
+  <city>
+    <id>149013</id>
+    <name>Tharwah</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.51670000</latitude>
+    <longitude>39.61670000</longitude>
+  </city>
+  <city>
+    <id>149014</id>
+    <name>Thuwal</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.28333333</latitude>
+    <longitude>39.10000000</longitude>
   </city>
   <city>
     <id>102886</id>
@@ -1060099,6 +1064599,26 @@
     <country_code>SA</country_code>
     <latitude>21.21406000</latitude>
     <longitude>41.63310000</longitude>
+  </city>
+  <city>
+    <id>149015</id>
+    <name>Usfan</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.92306000</latitude>
+    <longitude>39.35594000</longitude>
+  </city>
+  <city>
+    <id>149016</id>
+    <name>Wadi al Jalil</name>
+    <state_id>2850</state_id>
+    <state_code>02</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>21.46670000</latitude>
+    <longitude>39.85000000</longitude>
   </city>
   <city>
     <id>102869</id>
@@ -1060121,6 +1064641,16 @@
     <longitude>41.03808000</longitude>
   </city>
   <city>
+    <id>148586</id>
+    <name>Nisab</name>
+    <state_id>2854</state_id>
+    <state_code>08</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>29.19274000</latitude>
+    <longitude>44.71598000</longitude>
+  </city>
+  <city>
     <id>102887</id>
     <name>Turaif</name>
     <state_id>2854</state_id>
@@ -1060129,6 +1064659,16 @@
     <country_code>SA</country_code>
     <latitude>31.67252000</latitude>
     <longitude>38.66374000</longitude>
+  </city>
+  <city>
+    <id>148587</id>
+    <name>Umm Radamah</name>
+    <state_id>2854</state_id>
+    <state_code>08</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>28.67985000</latitude>
+    <longitude>44.69549000</longitude>
   </city>
   <city>
     <id>102808</id>
@@ -1060181,6 +1064721,36 @@
     <longitude>45.34813000</longitude>
   </city>
   <city>
+    <id>149017</id>
+    <name>Al Bir</name>
+    <state_id>2849</state_id>
+    <state_code>01</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>25.30000000</latitude>
+    <longitude>45.96670000</longitude>
+  </city>
+  <city>
+    <id>149018</id>
+    <name>Al Hair</name>
+    <state_id>2849</state_id>
+    <state_code>01</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.39072000</latitude>
+    <longitude>46.98677000</longitude>
+  </city>
+  <city>
+    <id>149019</id>
+    <name>Al Jurayfah</name>
+    <state_id>2849</state_id>
+    <state_code>01</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>25.52932000</latitude>
+    <longitude>45.25644000</longitude>
+  </city>
+  <city>
     <id>102826</id>
     <name>Al Kharj</name>
     <state_id>2849</state_id>
@@ -1060189,6 +1064759,26 @@
     <country_code>SA</country_code>
     <latitude>24.15541000</latitude>
     <longitude>47.33457000</longitude>
+  </city>
+  <city>
+    <id>149020</id>
+    <name>Ar Rayn</name>
+    <state_id>2849</state_id>
+    <state_code>01</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>23.54995000</latitude>
+    <longitude>45.50463000</longitude>
+  </city>
+  <city>
+    <id>149021</id>
+    <name>As Salamiyah</name>
+    <state_id>2849</state_id>
+    <state_code>01</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.20154000</latitude>
+    <longitude>47.28872000</longitude>
   </city>
   <city>
     <id>102844</id>
@@ -1060211,6 +1064801,66 @@
     <longitude>44.81542000</longitude>
   </city>
   <city>
+    <id>149022</id>
+    <name>Dawadmi</name>
+    <state_id>2849</state_id>
+    <state_code>01</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.50772000</latitude>
+    <longitude>44.39237000</longitude>
+  </city>
+  <city>
+    <id>149023</id>
+    <name>Diriyah</name>
+    <state_id>2849</state_id>
+    <state_code>01</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.75187000</latitude>
+    <longitude>46.53874000</longitude>
+  </city>
+  <city>
+    <id>149024</id>
+    <name>Harmah</name>
+    <state_id>2849</state_id>
+    <state_code>01</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>25.91666667</latitude>
+    <longitude>45.33333333</longitude>
+  </city>
+  <city>
+    <id>149025</id>
+    <name>Jalajil</name>
+    <state_id>2849</state_id>
+    <state_code>01</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>25.66666667</latitude>
+    <longitude>45.45000000</longitude>
+  </city>
+  <city>
+    <id>149026</id>
+    <name>Layla</name>
+    <state_id>2849</state_id>
+    <state_code>01</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>22.28330000</latitude>
+    <longitude>46.73330000</longitude>
+  </city>
+  <city>
+    <id>149027</id>
+    <name>Manfuha</name>
+    <state_id>2849</state_id>
+    <state_code>01</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.59611111</latitude>
+    <longitude>46.72722222</longitude>
+  </city>
+  <city>
     <id>102863</id>
     <name>Marāt</name>
     <state_id>2849</state_id>
@@ -1060219,6 +1064869,26 @@
     <country_code>SA</country_code>
     <latitude>25.07064000</latitude>
     <longitude>45.45775000</longitude>
+  </city>
+  <city>
+    <id>149028</id>
+    <name>Najan</name>
+    <state_id>2849</state_id>
+    <state_code>01</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>24.07746000</latitude>
+    <longitude>47.16590000</longitude>
+  </city>
+  <city>
+    <id>149029</id>
+    <name>Najran</name>
+    <state_id>2849</state_id>
+    <state_code>01</state_code>
+    <country_id>194</country_id>
+    <country_code>SA</country_code>
+    <latitude>17.49170000</latitude>
+    <longitude>44.13220000</longitude>
   </city>
   <city>
     <id>102874</id>
