@@ -307493,86 +307493,6 @@
     </cities>
   </state_city>
   <state_city>
-    <id>1820</id>
-    <name>Bangka Belitung Islands</name>
-    <state_code>BB</state_code>
-    <latitude>-2.74105130</latitude>
-    <longitude>106.44058720</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56329</id>
-      <name>Kabupaten Bangka</name>
-      <latitude>-1.91667000</latitude>
-      <longitude>105.93333000</longitude>
-    </cities>
-    <cities>
-      <id>56330</id>
-      <name>Kabupaten Bangka Barat</name>
-      <latitude>-1.95839000</latitude>
-      <longitude>105.53741000</longitude>
-    </cities>
-    <cities>
-      <id>56331</id>
-      <name>Kabupaten Bangka Selatan</name>
-      <latitude>-2.66803000</latitude>
-      <longitude>106.01257000</longitude>
-    </cities>
-    <cities>
-      <id>56332</id>
-      <name>Kabupaten Bangka Tengah</name>
-      <latitude>-2.33989000</latitude>
-      <longitude>106.11420000</longitude>
-    </cities>
-    <cities>
-      <id>56350</id>
-      <name>Kabupaten Belitung</name>
-      <latitude>-2.86667000</latitude>
-      <longitude>107.70000000</longitude>
-    </cities>
-    <cities>
-      <id>56351</id>
-      <name>Kabupaten Belitung Timur</name>
-      <latitude>-2.96270000</latitude>
-      <longitude>108.15216000</longitude>
-    </cities>
-    <cities>
-      <id>56781</id>
-      <name>Kota Pangkal Pinang</name>
-      <latitude>-2.13333000</latitude>
-      <longitude>106.13333000</longitude>
-    </cities>
-    <cities>
-      <id>56859</id>
-      <name>Manggar</name>
-      <latitude>-2.88333000</latitude>
-      <longitude>108.26667000</longitude>
-    </cities>
-    <cities>
-      <id>56881</id>
-      <name>Muntok</name>
-      <latitude>-2.06719000</latitude>
-      <longitude>105.16228000</longitude>
-    </cities>
-    <cities>
-      <id>56912</id>
-      <name>Pangkalpinang</name>
-      <latitude>-2.12914000</latitude>
-      <longitude>106.11377000</longitude>
-    </cities>
-    <cities>
-      <id>57009</id>
-      <name>Sungailiat</name>
-      <latitude>-1.85442000</latitude>
-      <longitude>106.12215000</longitude>
-    </cities>
-    <cities>
-      <id>57017</id>
-      <name>Tanjung Pandan</name>
-      <latitude>-2.73353000</latitude>
-      <longitude>107.63477000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
     <id>1810</id>
     <name>Banten</name>
     <state_code>BT</state_code>
@@ -307751,8 +307671,870 @@
     </cities>
   </state_city>
   <state_city>
+    <id>1829</id>
+    <name>DI Yogyakarta</name>
+    <state_code>YO</state_code>
+    <latitude>-7.87538490</latitude>
+    <longitude>110.42620880</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56192</id>
+      <name>Bambanglipuro</name>
+      <latitude>-7.95000000</latitude>
+      <longitude>110.28333000</longitude>
+    </cities>
+    <cities>
+      <id>56204</id>
+      <name>Bantul</name>
+      <latitude>-7.88806000</latitude>
+      <longitude>110.32889000</longitude>
+    </cities>
+    <cities>
+      <id>56264</id>
+      <name>Depok</name>
+      <latitude>-7.76250000</latitude>
+      <longitude>110.43167000</longitude>
+    </cities>
+    <cities>
+      <id>56276</id>
+      <name>Gamping Lor</name>
+      <latitude>-7.79556000</latitude>
+      <longitude>110.32639000</longitude>
+    </cities>
+    <cities>
+      <id>56282</id>
+      <name>Godean</name>
+      <latitude>-7.76972000</latitude>
+      <longitude>110.29389000</longitude>
+    </cities>
+    <cities>
+      <id>56338</id>
+      <name>Kabupaten Bantul</name>
+      <latitude>-7.90000000</latitude>
+      <longitude>110.36667000</longitude>
+    </cities>
+    <cities>
+      <id>56414</id>
+      <name>Kabupaten Gunung Kidul</name>
+      <latitude>-7.98333000</latitude>
+      <longitude>110.61667000</longitude>
+    </cities>
+    <cities>
+      <id>56473</id>
+      <name>Kabupaten Kulon Progo</name>
+      <latitude>-7.64500000</latitude>
+      <longitude>110.02694000</longitude>
+    </cities>
+    <cities>
+      <id>56637</id>
+      <name>Kabupaten Sleman</name>
+      <latitude>-7.68167000</latitude>
+      <longitude>110.32333000</longitude>
+    </cities>
+    <cities>
+      <id>56702</id>
+      <name>Kasihan</name>
+      <latitude>-7.82694000</latitude>
+      <longitude>110.32917000</longitude>
+    </cities>
+    <cities>
+      <id>56816</id>
+      <name>Kota Yogyakarta</name>
+      <latitude>-7.80000000</latitude>
+      <longitude>110.37500000</longitude>
+    </cities>
+    <cities>
+      <id>56868</id>
+      <name>Melati</name>
+      <latitude>-7.73333000</latitude>
+      <longitude>110.36667000</longitude>
+    </cities>
+    <cities>
+      <id>56908</id>
+      <name>Pandak</name>
+      <latitude>-7.91306000</latitude>
+      <longitude>110.29361000</longitude>
+    </cities>
+    <cities>
+      <id>56943</id>
+      <name>Pundong</name>
+      <latitude>-7.95222000</latitude>
+      <longitude>110.34861000</longitude>
+    </cities>
+    <cities>
+      <id>56972</id>
+      <name>Sewon</name>
+      <latitude>-7.87639000</latitude>
+      <longitude>110.35889000</longitude>
+    </cities>
+    <cities>
+      <id>56988</id>
+      <name>Sleman</name>
+      <latitude>-7.71556000</latitude>
+      <longitude>110.35556000</longitude>
+    </cities>
+    <cities>
+      <id>56998</id>
+      <name>Srandakan</name>
+      <latitude>-7.93861000</latitude>
+      <longitude>110.25056000</longitude>
+    </cities>
+    <cities>
+      <id>57061</id>
+      <name>Yogyakarta</name>
+      <latitude>-7.80139000</latitude>
+      <longitude>110.36472000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1805</id>
+    <name>DKI Jakarta</name>
+    <state_code>JK</state_code>
+    <latitude>-6.20876340</latitude>
+    <longitude>106.84559900</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56293</id>
+      <name>Jakarta</name>
+      <latitude>-6.21462000</latitude>
+      <longitude>106.84513000</longitude>
+    </cities>
+    <cities>
+      <id>56722</id>
+      <name>Kota Administrasi Jakarta Barat</name>
+      <latitude>-6.16760000</latitude>
+      <longitude>106.76730000</longitude>
+    </cities>
+    <cities>
+      <id>56723</id>
+      <name>Kota Administrasi Jakarta Pusat</name>
+      <latitude>-6.17770000</latitude>
+      <longitude>106.84030000</longitude>
+    </cities>
+    <cities>
+      <id>56724</id>
+      <name>Kota Administrasi Jakarta Selatan</name>
+      <latitude>-6.26600000</latitude>
+      <longitude>106.81350000</longitude>
+    </cities>
+    <cities>
+      <id>56725</id>
+      <name>Kota Administrasi Jakarta Timur</name>
+      <latitude>-6.25210000</latitude>
+      <longitude>106.88400000</longitude>
+    </cities>
+    <cities>
+      <id>56726</id>
+      <name>Kota Administrasi Jakarta Utara</name>
+      <latitude>-6.13390000</latitude>
+      <longitude>106.88230000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1812</id>
+    <name>Gorontalo</name>
+    <state_code>GO</state_code>
+    <latitude>0.54354420</latitude>
+    <longitude>123.05676930</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56285</id>
+      <name>Gorontalo</name>
+      <latitude>0.53750000</latitude>
+      <longitude>123.06250000</longitude>
+    </cities>
+    <cities>
+      <id>56365</id>
+      <name>Kabupaten Boalemo</name>
+      <latitude>0.62689000</latitude>
+      <longitude>122.35680000</longitude>
+    </cities>
+    <cities>
+      <id>56375</id>
+      <name>Kabupaten Bone Bolango</name>
+      <latitude>0.50296000</latitude>
+      <longitude>123.27501000</longitude>
+    </cities>
+    <cities>
+      <id>56410</id>
+      <name>Kabupaten Gorontalo</name>
+      <latitude>0.57280000</latitude>
+      <longitude>122.23370000</longitude>
+    </cities>
+    <cities>
+      <id>56411</id>
+      <name>Kabupaten Gorontalo Utara</name>
+      <latitude>0.77000000</latitude>
+      <longitude>122.31667000</longitude>
+    </cities>
+    <cities>
+      <id>56595</id>
+      <name>Kabupaten Pohuwato</name>
+      <latitude>0.70980000</latitude>
+      <longitude>121.59582000</longitude>
+    </cities>
+    <cities>
+      <id>56753</id>
+      <name>Kota Gorontalo</name>
+      <latitude>0.53333000</latitude>
+      <longitude>123.10000000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1815</id>
+    <name>Jambi</name>
+    <state_code>JA</state_code>
+    <latitude>-1.61012290</latitude>
+    <longitude>103.61312030</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56214</id>
+      <name>Bejubang Dua</name>
+      <latitude>-1.79230000</latitude>
+      <longitude>103.31670000</longitude>
+    </cities>
+    <cities>
+      <id>56294</id>
+      <name>Jambi City</name>
+      <latitude>-1.60000000</latitude>
+      <longitude>103.61667000</longitude>
+    </cities>
+    <cities>
+      <id>56347</id>
+      <name>Kabupaten Batang Hari</name>
+      <latitude>-1.75000000</latitude>
+      <longitude>103.11667000</longitude>
+    </cities>
+    <cities>
+      <id>56382</id>
+      <name>Kabupaten Bungo</name>
+      <latitude>-1.50222000</latitude>
+      <longitude>101.96000000</longitude>
+    </cities>
+    <cities>
+      <id>56458</id>
+      <name>Kabupaten Kerinci</name>
+      <latitude>-2.03333000</latitude>
+      <longitude>101.53333000</longitude>
+    </cities>
+    <cities>
+      <id>56532</id>
+      <name>Kabupaten Merangin</name>
+      <latitude>-2.06933000</latitude>
+      <longitude>102.13303000</longitude>
+    </cities>
+    <cities>
+      <id>56543</id>
+      <name>Kabupaten Muaro Jambi</name>
+      <latitude>-1.55214000</latitude>
+      <longitude>103.82163000</longitude>
+    </cities>
+    <cities>
+      <id>56618</id>
+      <name>Kabupaten Sarolangun</name>
+      <latitude>-2.30000000</latitude>
+      <longitude>102.65000000</longitude>
+    </cities>
+    <cities>
+      <id>56668</id>
+      <name>Kabupaten Tanjung Jabung Barat</name>
+      <latitude>-1.15440000</latitude>
+      <longitude>103.24402000</longitude>
+    </cities>
+    <cities>
+      <id>56669</id>
+      <name>Kabupaten Tanjung Jabung Timur</name>
+      <latitude>-1.13198000</latitude>
+      <longitude>103.61755000</longitude>
+    </cities>
+    <cities>
+      <id>56675</id>
+      <name>Kabupaten Tebo</name>
+      <latitude>-1.45576000</latitude>
+      <longitude>102.37473000</longitude>
+    </cities>
+    <cities>
+      <id>56755</id>
+      <name>Kota Jambi</name>
+      <latitude>-1.61667000</latitude>
+      <longitude>103.65000000</longitude>
+    </cities>
+    <cities>
+      <id>56802</id>
+      <name>Kota Sungai Penuh</name>
+      <latitude>-2.10896000</latitude>
+      <longitude>101.32175000</longitude>
+    </cities>
+    <cities>
+      <id>56822</id>
+      <name>Kuala Tungkal</name>
+      <latitude>-0.81623000</latitude>
+      <longitude>103.46111000</longitude>
+    </cities>
+    <cities>
+      <id>56869</id>
+      <name>Mendaha</name>
+      <latitude>-1.01630000</latitude>
+      <longitude>103.59331000</longitude>
+    </cities>
+    <cities>
+      <id>56978</id>
+      <name>Simpang</name>
+      <latitude>-1.26424000</latitude>
+      <longitude>104.09701000</longitude>
+    </cities>
+    <cities>
+      <id>57008</id>
+      <name>Sungai Penuh</name>
+      <latitude>-2.05610000</latitude>
+      <longitude>101.39130000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1825</id>
+    <name>Jawa Barat</name>
+    <state_code>JB</state_code>
+    <latitude>-7.09091100</latitude>
+    <longitude>107.66888700</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56182</id>
+      <name>Arjawinangun</name>
+      <latitude>-6.64528000</latitude>
+      <longitude>108.41028000</longitude>
+    </cities>
+    <cities>
+      <id>56183</id>
+      <name>Astanajapura</name>
+      <latitude>-6.80170000</latitude>
+      <longitude>108.63110000</longitude>
+    </cities>
+    <cities>
+      <id>56196</id>
+      <name>Bandung</name>
+      <latitude>-6.92222000</latitude>
+      <longitude>107.60694000</longitude>
+    </cities>
+    <cities>
+      <id>56199</id>
+      <name>Banjar</name>
+      <latitude>-7.19550000</latitude>
+      <longitude>107.43130000</longitude>
+    </cities>
+    <cities>
+      <id>56202</id>
+      <name>Banjaran</name>
+      <latitude>-7.04528000</latitude>
+      <longitude>107.58778000</longitude>
+    </cities>
+    <cities>
+      <id>56215</id>
+      <name>Bekasi</name>
+      <latitude>-6.23490000</latitude>
+      <longitude>106.98960000</longitude>
+    </cities>
+    <cities>
+      <id>56226</id>
+      <name>Bogor</name>
+      <latitude>-6.59444000</latitude>
+      <longitude>106.78917000</longitude>
+    </cities>
+    <cities>
+      <id>56237</id>
+      <name>Caringin</name>
+      <latitude>-6.70611000</latitude>
+      <longitude>106.82139000</longitude>
+    </cities>
+    <cities>
+      <id>56240</id>
+      <name>Ciamis</name>
+      <latitude>-7.32570000</latitude>
+      <longitude>108.35340000</longitude>
+    </cities>
+    <cities>
+      <id>56241</id>
+      <name>Ciampea</name>
+      <latitude>-6.55472000</latitude>
+      <longitude>106.70083000</longitude>
+    </cities>
+    <cities>
+      <id>56242</id>
+      <name>Cibinong</name>
+      <latitude>-6.48167000</latitude>
+      <longitude>106.85417000</longitude>
+    </cities>
+    <cities>
+      <id>56243</id>
+      <name>Cicurug</name>
+      <latitude>-6.78139000</latitude>
+      <longitude>106.78250000</longitude>
+    </cities>
+    <cities>
+      <id>56244</id>
+      <name>Cikampek</name>
+      <latitude>-6.41972000</latitude>
+      <longitude>107.45583000</longitude>
+    </cities>
+    <cities>
+      <id>56245</id>
+      <name>Cikarang</name>
+      <latitude>-6.26111000</latitude>
+      <longitude>107.15278000</longitude>
+    </cities>
+    <cities>
+      <id>56246</id>
+      <name>Cikupa</name>
+      <latitude>-6.23639000</latitude>
+      <longitude>106.50833000</longitude>
+    </cities>
+    <cities>
+      <id>56247</id>
+      <name>Cileungsir</name>
+      <latitude>-6.39472000</latitude>
+      <longitude>106.95917000</longitude>
+    </cities>
+    <cities>
+      <id>56248</id>
+      <name>Cileunyi</name>
+      <latitude>-6.93889000</latitude>
+      <longitude>107.75278000</longitude>
+    </cities>
+    <cities>
+      <id>56249</id>
+      <name>Cimahi</name>
+      <latitude>-6.87222000</latitude>
+      <longitude>107.54250000</longitude>
+    </cities>
+    <cities>
+      <id>56250</id>
+      <name>Ciputat</name>
+      <latitude>-6.23750000</latitude>
+      <longitude>106.69556000</longitude>
+    </cities>
+    <cities>
+      <id>56251</id>
+      <name>Ciranjang-hilir</name>
+      <latitude>-6.82000000</latitude>
+      <longitude>107.25722000</longitude>
+    </cities>
+    <cities>
+      <id>56252</id>
+      <name>Cirebon</name>
+      <latitude>-6.70630000</latitude>
+      <longitude>108.55700000</longitude>
+    </cities>
+    <cities>
+      <id>56253</id>
+      <name>Citeureup</name>
+      <latitude>-6.48556000</latitude>
+      <longitude>106.88194000</longitude>
+    </cities>
+    <cities>
+      <id>56265</id>
+      <name>Depok</name>
+      <latitude>-6.40000000</latitude>
+      <longitude>106.81861000</longitude>
+    </cities>
+    <cities>
+      <id>56291</id>
+      <name>Indramayu</name>
+      <latitude>-6.32639000</latitude>
+      <longitude>108.32000000</longitude>
+    </cities>
+    <cities>
+      <id>56296</id>
+      <name>Jatibarang</name>
+      <latitude>-6.47472000</latitude>
+      <longitude>108.31528000</longitude>
+    </cities>
+    <cities>
+      <id>56298</id>
+      <name>Jatiwangi</name>
+      <latitude>-6.73361000</latitude>
+      <longitude>108.26278000</longitude>
+    </cities>
+    <cities>
+      <id>56324</id>
+      <name>Kabupaten Bandung</name>
+      <latitude>-7.10000000</latitude>
+      <longitude>107.60000000</longitude>
+    </cities>
+    <cities>
+      <id>56325</id>
+      <name>Kabupaten Bandung Barat</name>
+      <latitude>-6.83333000</latitude>
+      <longitude>107.48333000</longitude>
+    </cities>
+    <cities>
+      <id>56349</id>
+      <name>Kabupaten Bekasi</name>
+      <latitude>-6.24667000</latitude>
+      <longitude>107.10833000</longitude>
+    </cities>
+    <cities>
+      <id>56366</id>
+      <name>Kabupaten Bogor</name>
+      <latitude>-6.58333000</latitude>
+      <longitude>106.71667000</longitude>
+    </cities>
+    <cities>
+      <id>56390</id>
+      <name>Kabupaten Ciamis</name>
+      <latitude>-7.28333000</latitude>
+      <longitude>108.41667000</longitude>
+    </cities>
+    <cities>
+      <id>56391</id>
+      <name>Kabupaten Cianjur</name>
+      <latitude>-6.77250000</latitude>
+      <longitude>107.08306000</longitude>
+    </cities>
+    <cities>
+      <id>56393</id>
+      <name>Kabupaten Cirebon</name>
+      <latitude>-6.80000000</latitude>
+      <longitude>108.56667000</longitude>
+    </cities>
+    <cities>
+      <id>56407</id>
+      <name>Kabupaten Garut</name>
+      <latitude>-7.38333000</latitude>
+      <longitude>107.76667000</longitude>
+    </cities>
+    <cities>
+      <id>56426</id>
+      <name>Kabupaten Indramayu</name>
+      <latitude>-6.45000000</latitude>
+      <longitude>108.16667000</longitude>
+    </cities>
+    <cities>
+      <id>56440</id>
+      <name>Kabupaten Karawang</name>
+      <latitude>-6.26667000</latitude>
+      <longitude>107.41667000</longitude>
+    </cities>
+    <cities>
+      <id>56474</id>
+      <name>Kabupaten Kuningan</name>
+      <latitude>-7.00000000</latitude>
+      <longitude>108.55000000</longitude>
+    </cities>
+    <cities>
+      <id>56508</id>
+      <name>Kabupaten Majalengka</name>
+      <latitude>-6.81667000</latitude>
+      <longitude>108.28333000</longitude>
+    </cities>
+    <cities>
+      <id>56575</id>
+      <name>Kabupaten Pangandaran</name>
+      <latitude>-7.66730000</latitude>
+      <longitude>108.64037000</longitude>
+    </cities>
+    <cities>
+      <id>56606</id>
+      <name>Kabupaten Purwakarta</name>
+      <latitude>-6.58333000</latitude>
+      <longitude>107.45000000</longitude>
+    </cities>
+    <cities>
+      <id>56644</id>
+      <name>Kabupaten Subang</name>
+      <latitude>-6.50833000</latitude>
+      <longitude>107.70250000</longitude>
+    </cities>
+    <cities>
+      <id>56645</id>
+      <name>Kabupaten Sukabumi</name>
+      <latitude>-7.06667000</latitude>
+      <longitude>106.70000000</longitude>
+    </cities>
+    <cities>
+      <id>56654</id>
+      <name>Kabupaten Sumedang</name>
+      <latitude>-6.81667000</latitude>
+      <longitude>107.98333000</longitude>
+    </cities>
+    <cities>
+      <id>56674</id>
+      <name>Kabupaten Tasikmalaya</name>
+      <latitude>-7.50000000</latitude>
+      <longitude>108.13333000</longitude>
+    </cities>
+    <cities>
+      <id>56698</id>
+      <name>Karangampel</name>
+      <latitude>-6.46222000</latitude>
+      <longitude>108.45194000</longitude>
+    </cities>
+    <cities>
+      <id>56700</id>
+      <name>Karangsembung</name>
+      <latitude>-6.84870000</latitude>
+      <longitude>108.64220000</longitude>
+    </cities>
+    <cities>
+      <id>56704</id>
+      <name>Kawalu</name>
+      <latitude>-7.38170000</latitude>
+      <longitude>108.20820000</longitude>
+    </cities>
+    <cities>
+      <id>56718</id>
+      <name>Klangenan</name>
+      <latitude>-6.70944000</latitude>
+      <longitude>108.44000000</longitude>
+    </cities>
+    <cities>
+      <id>56731</id>
+      <name>Kota Bandung</name>
+      <latitude>-6.91750000</latitude>
+      <longitude>107.62444000</longitude>
+    </cities>
+    <cities>
+      <id>56732</id>
+      <name>Kota Banjar</name>
+      <latitude>-7.36996000</latitude>
+      <longitude>108.53209000</longitude>
+    </cities>
+    <cities>
+      <id>56738</id>
+      <name>Kota Bekasi</name>
+      <latitude>-6.28333000</latitude>
+      <longitude>106.98333000</longitude>
+    </cities>
+    <cities>
+      <id>56744</id>
+      <name>Kota Bogor</name>
+      <latitude>-6.59167000</latitude>
+      <longitude>106.80000000</longitude>
+    </cities>
+    <cities>
+      <id>56748</id>
+      <name>Kota Cimahi</name>
+      <latitude>-6.89167000</latitude>
+      <longitude>107.55000000</longitude>
+    </cities>
+    <cities>
+      <id>56749</id>
+      <name>Kota Cirebon</name>
+      <latitude>-6.75000000</latitude>
+      <longitude>108.55000000</longitude>
+    </cities>
+    <cities>
+      <id>56751</id>
+      <name>Kota Depok</name>
+      <latitude>-6.40000000</latitude>
+      <longitude>106.81667000</longitude>
+    </cities>
+    <cities>
+      <id>56801</id>
+      <name>Kota Sukabumi</name>
+      <latitude>-6.95000000</latitude>
+      <longitude>106.93333000</longitude>
+    </cities>
+    <cities>
+      <id>56809</id>
+      <name>Kota Tasikmalaya</name>
+      <latitude>-7.35000000</latitude>
+      <longitude>108.21667000</longitude>
+    </cities>
+    <cities>
+      <id>56819</id>
+      <name>Kresek</name>
+      <latitude>-6.13139000</latitude>
+      <longitude>106.37972000</longitude>
+    </cities>
+    <cities>
+      <id>56825</id>
+      <name>Kuningan</name>
+      <latitude>-6.97583000</latitude>
+      <longitude>108.48306000</longitude>
+    </cities>
+    <cities>
+      <id>56842</id>
+      <name>Lembang</name>
+      <latitude>-6.81167000</latitude>
+      <longitude>107.61750000</longitude>
+    </cities>
+    <cities>
+      <id>56852</id>
+      <name>Majalengka</name>
+      <latitude>-6.83611000</latitude>
+      <longitude>108.22778000</longitude>
+    </cities>
+    <cities>
+      <id>56861</id>
+      <name>Margahayukencana</name>
+      <latitude>-6.97083000</latitude>
+      <longitude>107.56750000</longitude>
+    </cities>
+    <cities>
+      <id>56886</id>
+      <name>Ngawi</name>
+      <latitude>-7.40380000</latitude>
+      <longitude>111.44610000</longitude>
+    </cities>
+    <cities>
+      <id>56892</id>
+      <name>Padalarang</name>
+      <latitude>-6.83778000</latitude>
+      <longitude>107.47278000</longitude>
+    </cities>
+    <cities>
+      <id>56899</id>
+      <name>Palimanan</name>
+      <latitude>-6.70694000</latitude>
+      <longitude>108.42417000</longitude>
+    </cities>
+    <cities>
+      <id>56902</id>
+      <name>Pamanukan</name>
+      <latitude>-6.28417000</latitude>
+      <longitude>107.81056000</longitude>
+    </cities>
+    <cities>
+      <id>56904</id>
+      <name>Pameungpeuk</name>
+      <latitude>-7.01833000</latitude>
+      <longitude>107.60389000</longitude>
+    </cities>
+    <cities>
+      <id>56905</id>
+      <name>Pamulang</name>
+      <latitude>-6.34278000</latitude>
+      <longitude>106.73833000</longitude>
+    </cities>
+    <cities>
+      <id>56918</id>
+      <name>Parung</name>
+      <latitude>-6.42139000</latitude>
+      <longitude>106.73306000</longitude>
+    </cities>
+    <cities>
+      <id>56919</id>
+      <name>Pasarkemis</name>
+      <latitude>-6.17028000</latitude>
+      <longitude>106.53028000</longitude>
+    </cities>
+    <cities>
+      <id>56920</id>
+      <name>Paseh</name>
+      <latitude>-7.10260000</latitude>
+      <longitude>107.76410000</longitude>
+    </cities>
+    <cities>
+      <id>56928</id>
+      <name>Pelabuhanratu</name>
+      <latitude>-6.98750000</latitude>
+      <longitude>106.55139000</longitude>
+    </cities>
+    <cities>
+      <id>56934</id>
+      <name>Plumbon</name>
+      <latitude>-6.70500000</latitude>
+      <longitude>108.47278000</longitude>
+    </cities>
+    <cities>
+      <id>56945</id>
+      <name>Purwakarta</name>
+      <latitude>-6.55694000</latitude>
+      <longitude>107.44333000</longitude>
+    </cities>
+    <cities>
+      <id>56948</id>
+      <name>Rajapolah</name>
+      <latitude>-7.22100000</latitude>
+      <longitude>108.18960000</longitude>
+    </cities>
+    <cities>
+      <id>56954</id>
+      <name>Rengasdengklok</name>
+      <latitude>-6.15917000</latitude>
+      <longitude>107.29806000</longitude>
+    </cities>
+    <cities>
+      <id>56962</id>
+      <name>Sawangan</name>
+      <latitude>-6.40278000</latitude>
+      <longitude>106.77444000</longitude>
+    </cities>
+    <cities>
+      <id>56968</id>
+      <name>Sepatan</name>
+      <latitude>-6.11889000</latitude>
+      <longitude>106.57500000</longitude>
+    </cities>
+    <cities>
+      <id>56971</id>
+      <name>Serpong</name>
+      <latitude>-6.31694000</latitude>
+      <longitude>106.66417000</longitude>
+    </cities>
+    <cities>
+      <id>56980</id>
+      <name>Singaparna</name>
+      <latitude>-7.35150000</latitude>
+      <longitude>108.11100000</longitude>
+    </cities>
+    <cities>
+      <id>56994</id>
+      <name>Soreang</name>
+      <latitude>-7.03306000</latitude>
+      <longitude>107.51833000</longitude>
+    </cities>
+    <cities>
+      <id>57001</id>
+      <name>Sukabumi</name>
+      <latitude>-6.91806000</latitude>
+      <longitude>106.92667000</longitude>
+    </cities>
+    <cities>
+      <id>57003</id>
+      <name>Sumber</name>
+      <latitude>-6.76028000</latitude>
+      <longitude>108.48306000</longitude>
+    </cities>
+    <cities>
+      <id>57005</id>
+      <name>Sumedang</name>
+      <latitude>-6.85861000</latitude>
+      <longitude>107.91639000</longitude>
+    </cities>
+    <cities>
+      <id>57006</id>
+      <name>Sumedang Utara</name>
+      <latitude>-6.85000000</latitude>
+      <longitude>107.91667000</longitude>
+    </cities>
+    <cities>
+      <id>57025</id>
+      <name>Tasikmalaya</name>
+      <latitude>-7.32740000</latitude>
+      <longitude>108.22070000</longitude>
+    </cities>
+    <cities>
+      <id>57030</id>
+      <name>Teluknaga</name>
+      <latitude>-6.09889000</latitude>
+      <longitude>106.63806000</longitude>
+    </cities>
+    <cities>
+      <id>57050</id>
+      <name>Wanaraja</name>
+      <latitude>-7.17490000</latitude>
+      <longitude>107.98080000</longitude>
+    </cities>
+    <cities>
+      <id>57056</id>
+      <name>Weru</name>
+      <latitude>-6.71100000</latitude>
+      <longitude>108.50370000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
     <id>1802</id>
-    <name>Central Java</name>
+    <name>Jawa Tengah</name>
     <state_code>JT</state_code>
     <latitude>-7.15097500</latitude>
     <longitude>110.14025940</longitude>
@@ -308437,228 +309219,8 @@
     </cities>
   </state_city>
   <state_city>
-    <id>1794</id>
-    <name>Central Kalimantan</name>
-    <state_code>KT</state_code>
-    <latitude>-1.68148780</latitude>
-    <longitude>113.38235450</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56342</id>
-      <name>Kabupaten Barito Selatan</name>
-      <latitude>-1.86667000</latitude>
-      <longitude>114.73333000</longitude>
-    </cities>
-    <cities>
-      <id>56343</id>
-      <name>Kabupaten Barito Timur</name>
-      <latitude>-1.93333000</latitude>
-      <longitude>115.10000000</longitude>
-    </cities>
-    <cities>
-      <id>56344</id>
-      <name>Kabupaten Barito Utara</name>
-      <latitude>-0.98333000</latitude>
-      <longitude>115.10000000</longitude>
-    </cities>
-    <cities>
-      <id>56415</id>
-      <name>Kabupaten Gunung Mas</name>
-      <latitude>-0.95000000</latitude>
-      <longitude>113.50000000</longitude>
-    </cities>
-    <cities>
-      <id>56437</id>
-      <name>Kabupaten Kapuas</name>
-      <latitude>-2.01667000</latitude>
-      <longitude>114.38333000</longitude>
-    </cities>
-    <cities>
-      <id>56443</id>
-      <name>Kabupaten Katingan</name>
-      <latitude>-2.06667000</latitude>
-      <longitude>113.40000000</longitude>
-    </cities>
-    <cities>
-      <id>56469</id>
-      <name>Kabupaten Kotawaringin Barat</name>
-      <latitude>-2.40000000</latitude>
-      <longitude>111.73333000</longitude>
-    </cities>
-    <cities>
-      <id>56470</id>
-      <name>Kabupaten Kotawaringin Timur</name>
-      <latitude>-2.08333000</latitude>
-      <longitude>112.75000000</longitude>
-    </cities>
-    <cities>
-      <id>56482</id>
-      <name>Kabupaten Lamandau</name>
-      <latitude>-1.83828000</latitude>
-      <longitude>111.28690000</longitude>
-    </cities>
-    <cities>
-      <id>56547</id>
-      <name>Kabupaten Murung Raya</name>
-      <latitude>-0.01667000</latitude>
-      <longitude>114.26667000</longitude>
-    </cities>
-    <cities>
-      <id>56601</id>
-      <name>Kabupaten Pulang Pisau</name>
-      <latitude>-3.11858000</latitude>
-      <longitude>113.86230000</longitude>
-    </cities>
-    <cities>
-      <id>56625</id>
-      <name>Kabupaten Seruyan</name>
-      <latitude>-2.33333000</latitude>
-      <longitude>112.25000000</longitude>
-    </cities>
-    <cities>
-      <id>56646</id>
-      <name>Kabupaten Sukamara</name>
-      <latitude>-2.62675000</latitude>
-      <longitude>111.23681000</longitude>
-    </cities>
-    <cities>
-      <id>56777</id>
-      <name>Kota Palangka Raya</name>
-      <latitude>-1.76979000</latitude>
-      <longitude>113.73126000</longitude>
-    </cities>
-    <cities>
-      <id>56823</id>
-      <name>Kualakapuas</name>
-      <latitude>-3.00913000</latitude>
-      <longitude>114.38759000</longitude>
-    </cities>
-    <cities>
-      <id>56897</id>
-      <name>Palangkaraya</name>
-      <latitude>-2.20833000</latitude>
-      <longitude>113.91667000</longitude>
-    </cities>
-    <cities>
-      <id>56911</id>
-      <name>Pangkalanbuun</name>
-      <latitude>-2.68320000</latitude>
-      <longitude>111.62590000</longitude>
-    </cities>
-    <cities>
-      <id>56961</id>
-      <name>Sampit</name>
-      <latitude>-2.53150000</latitude>
-      <longitude>112.94960000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1813</id>
-    <name>Central Sulawesi</name>
-    <state_code>ST</state_code>
-    <latitude>-1.43002540</latitude>
-    <longitude>121.44561790</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56326</id>
-      <name>Kabupaten Banggai</name>
-      <latitude>-0.91141000</latitude>
-      <longitude>122.71836000</longitude>
-    </cities>
-    <cities>
-      <id>56327</id>
-      <name>Kabupaten Banggai Kepulauan</name>
-      <latitude>-1.30236000</latitude>
-      <longitude>123.03726000</longitude>
-    </cities>
-    <cities>
-      <id>56328</id>
-      <name>Kabupaten Banggai Laut</name>
-      <latitude>-1.61841000</latitude>
-      <longitude>123.49388000</longitude>
-    </cities>
-    <cities>
-      <id>56383</id>
-      <name>Kabupaten Buol</name>
-      <latitude>1.04656000</latitude>
-      <longitude>121.36867000</longitude>
-    </cities>
-    <cities>
-      <id>56401</id>
-      <name>Kabupaten Donggala</name>
-      <latitude>-0.58333000</latitude>
-      <longitude>119.85000000</longitude>
-    </cities>
-    <cities>
-      <id>56541</id>
-      <name>Kabupaten Morowali Utara</name>
-      <latitude>-1.72070000</latitude>
-      <longitude>121.24649000</longitude>
-    </cities>
-    <cities>
-      <id>56578</id>
-      <name>Kabupaten Parigi Moutong</name>
-      <latitude>0.33680000</latitude>
-      <longitude>120.17841000</longitude>
-    </cities>
-    <cities>
-      <id>56598</id>
-      <name>Kabupaten Poso</name>
-      <latitude>-1.65000000</latitude>
-      <longitude>120.50000000</longitude>
-    </cities>
-    <cities>
-      <id>56630</id>
-      <name>Kabupaten Sigi</name>
-      <latitude>-1.38500000</latitude>
-      <longitude>119.96694000</longitude>
-    </cities>
-    <cities>
-      <id>56682</id>
-      <name>Kabupaten Toli-Toli</name>
-      <latitude>1.30862000</latitude>
-      <longitude>120.88643000</longitude>
-    </cities>
-    <cities>
-      <id>56780</id>
-      <name>Kota Palu</name>
-      <latitude>-0.86972000</latitude>
-      <longitude>119.90000000</longitude>
-    </cities>
-    <cities>
-      <id>56849</id>
-      <name>Luwuk</name>
-      <latitude>-0.95160000</latitude>
-      <longitude>122.78750000</longitude>
-    </cities>
-    <cities>
-      <id>56876</id>
-      <name>Morowali Regency</name>
-      <latitude>-2.76062000</latitude>
-      <longitude>121.95267000</longitude>
-    </cities>
-    <cities>
-      <id>56901</id>
-      <name>Palu</name>
-      <latitude>-0.90833000</latitude>
-      <longitude>119.87083000</longitude>
-    </cities>
-    <cities>
-      <id>56937</id>
-      <name>Poso</name>
-      <latitude>-1.39590000</latitude>
-      <longitude>120.75240000</longitude>
-    </cities>
-    <cities>
-      <id>57034</id>
-      <name>Tojo Una-Una Regency</name>
-      <latitude>-1.20360000</latitude>
-      <longitude>121.48201000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
     <id>1827</id>
-    <name>East Java</name>
+    <name>Jawa Timur</name>
     <state_code>JI</state_code>
     <latitude>-7.53606390</latitude>
     <longitude>112.23840170</longitude>
@@ -309325,8 +309887,243 @@
     </cities>
   </state_city>
   <state_city>
+    <id>1806</id>
+    <name>Kalimantan Barat</name>
+    <state_code>KA</state_code>
+    <latitude>0.96188340</latitude>
+    <longitude>114.55484950</longitude>
+    <country_id>102</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>1819</id>
+    <name>Kalimantan Selatan</name>
+    <state_code>KS</state_code>
+    <latitude>-3.09264150</latitude>
+    <longitude>115.28375850</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56181</id>
+      <name>Amuntai</name>
+      <latitude>-2.41773000</latitude>
+      <longitude>115.24941000</longitude>
+    </cities>
+    <cities>
+      <id>56203</id>
+      <name>Banjarmasin</name>
+      <latitude>-3.31987000</latitude>
+      <longitude>114.59075000</longitude>
+    </cities>
+    <cities>
+      <id>56207</id>
+      <name>Barabai</name>
+      <latitude>-2.58333000</latitude>
+      <longitude>115.38333000</longitude>
+    </cities>
+    <cities>
+      <id>56323</id>
+      <name>Kabupaten Balangan</name>
+      <latitude>-2.32314000</latitude>
+      <longitude>115.62922000</longitude>
+    </cities>
+    <cities>
+      <id>56335</id>
+      <name>Kabupaten Banjar</name>
+      <latitude>-3.31667000</latitude>
+      <longitude>115.08333000</longitude>
+    </cities>
+    <cities>
+      <id>56341</id>
+      <name>Kabupaten Barito Kuala</name>
+      <latitude>-3.08333000</latitude>
+      <longitude>114.61667000</longitude>
+    </cities>
+    <cities>
+      <id>56420</id>
+      <name>Kabupaten Hulu Sungai Selatan</name>
+      <latitude>-2.75000000</latitude>
+      <longitude>115.20000000</longitude>
+    </cities>
+    <cities>
+      <id>56421</id>
+      <name>Kabupaten Hulu Sungai Tengah</name>
+      <latitude>-2.61667000</latitude>
+      <longitude>115.41667000</longitude>
+    </cities>
+    <cities>
+      <id>56422</id>
+      <name>Kabupaten Hulu Sungai Utara</name>
+      <latitude>-2.45000000</latitude>
+      <longitude>115.13333000</longitude>
+    </cities>
+    <cities>
+      <id>56468</id>
+      <name>Kabupaten Kota Baru</name>
+      <latitude>-3.00000000</latitude>
+      <longitude>116.00000000</longitude>
+    </cities>
+    <cities>
+      <id>56657</id>
+      <name>Kabupaten Tabalong</name>
+      <latitude>-1.88333000</latitude>
+      <longitude>115.50000000</longitude>
+    </cities>
+    <cities>
+      <id>56663</id>
+      <name>Kabupaten Tanah Bumbu</name>
+      <latitude>-3.45413000</latitude>
+      <longitude>115.70372000</longitude>
+    </cities>
+    <cities>
+      <id>56665</id>
+      <name>Kabupaten Tanah Laut</name>
+      <latitude>-3.88333000</latitude>
+      <longitude>114.86667000</longitude>
+    </cities>
+    <cities>
+      <id>56673</id>
+      <name>Kabupaten Tapin</name>
+      <latitude>-2.91667000</latitude>
+      <longitude>115.03333000</longitude>
+    </cities>
+    <cities>
+      <id>56733</id>
+      <name>Kota Banjar Baru</name>
+      <latitude>-3.41667000</latitude>
+      <longitude>114.83333000</longitude>
+    </cities>
+    <cities>
+      <id>56734</id>
+      <name>Kota Banjarmasin</name>
+      <latitude>-3.32444000</latitude>
+      <longitude>114.59102000</longitude>
+    </cities>
+    <cities>
+      <id>56864</id>
+      <name>Martapura</name>
+      <latitude>-3.41090000</latitude>
+      <longitude>114.86420000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1794</id>
+    <name>Kalimantan Tengah</name>
+    <state_code>KT</state_code>
+    <latitude>-1.68148780</latitude>
+    <longitude>113.38235450</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56342</id>
+      <name>Kabupaten Barito Selatan</name>
+      <latitude>-1.86667000</latitude>
+      <longitude>114.73333000</longitude>
+    </cities>
+    <cities>
+      <id>56343</id>
+      <name>Kabupaten Barito Timur</name>
+      <latitude>-1.93333000</latitude>
+      <longitude>115.10000000</longitude>
+    </cities>
+    <cities>
+      <id>56344</id>
+      <name>Kabupaten Barito Utara</name>
+      <latitude>-0.98333000</latitude>
+      <longitude>115.10000000</longitude>
+    </cities>
+    <cities>
+      <id>56415</id>
+      <name>Kabupaten Gunung Mas</name>
+      <latitude>-0.95000000</latitude>
+      <longitude>113.50000000</longitude>
+    </cities>
+    <cities>
+      <id>56437</id>
+      <name>Kabupaten Kapuas</name>
+      <latitude>-2.01667000</latitude>
+      <longitude>114.38333000</longitude>
+    </cities>
+    <cities>
+      <id>56443</id>
+      <name>Kabupaten Katingan</name>
+      <latitude>-2.06667000</latitude>
+      <longitude>113.40000000</longitude>
+    </cities>
+    <cities>
+      <id>56469</id>
+      <name>Kabupaten Kotawaringin Barat</name>
+      <latitude>-2.40000000</latitude>
+      <longitude>111.73333000</longitude>
+    </cities>
+    <cities>
+      <id>56470</id>
+      <name>Kabupaten Kotawaringin Timur</name>
+      <latitude>-2.08333000</latitude>
+      <longitude>112.75000000</longitude>
+    </cities>
+    <cities>
+      <id>56482</id>
+      <name>Kabupaten Lamandau</name>
+      <latitude>-1.83828000</latitude>
+      <longitude>111.28690000</longitude>
+    </cities>
+    <cities>
+      <id>56547</id>
+      <name>Kabupaten Murung Raya</name>
+      <latitude>-0.01667000</latitude>
+      <longitude>114.26667000</longitude>
+    </cities>
+    <cities>
+      <id>56601</id>
+      <name>Kabupaten Pulang Pisau</name>
+      <latitude>-3.11858000</latitude>
+      <longitude>113.86230000</longitude>
+    </cities>
+    <cities>
+      <id>56625</id>
+      <name>Kabupaten Seruyan</name>
+      <latitude>-2.33333000</latitude>
+      <longitude>112.25000000</longitude>
+    </cities>
+    <cities>
+      <id>56646</id>
+      <name>Kabupaten Sukamara</name>
+      <latitude>-2.62675000</latitude>
+      <longitude>111.23681000</longitude>
+    </cities>
+    <cities>
+      <id>56777</id>
+      <name>Kota Palangka Raya</name>
+      <latitude>-1.76979000</latitude>
+      <longitude>113.73126000</longitude>
+    </cities>
+    <cities>
+      <id>56823</id>
+      <name>Kualakapuas</name>
+      <latitude>-3.00913000</latitude>
+      <longitude>114.38759000</longitude>
+    </cities>
+    <cities>
+      <id>56897</id>
+      <name>Palangkaraya</name>
+      <latitude>-2.20833000</latitude>
+      <longitude>113.91667000</longitude>
+    </cities>
+    <cities>
+      <id>56911</id>
+      <name>Pangkalanbuun</name>
+      <latitude>-2.68320000</latitude>
+      <longitude>111.62590000</longitude>
+    </cities>
+    <cities>
+      <id>56961</id>
+      <name>Sampit</name>
+      <latitude>-2.53150000</latitude>
+      <longitude>112.94960000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
     <id>1804</id>
-    <name>East Kalimantan</name>
+    <name>Kalimantan Timur</name>
     <state_code>KI</state_code>
     <latitude>0.53865860</latitude>
     <longitude>116.41938900</longitude>
@@ -309423,8 +310220,622 @@
     </cities>
   </state_city>
   <state_city>
+    <id>1824</id>
+    <name>Kalimantan Utara</name>
+    <state_code>KU</state_code>
+    <latitude>3.07309290</latitude>
+    <longitude>116.04138890</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56381</id>
+      <name>Kabupaten Bulungan</name>
+      <latitude>3.00000000</latitude>
+      <longitude>117.16667000</longitude>
+    </cities>
+    <cities>
+      <id>56512</id>
+      <name>Kabupaten Malinau</name>
+      <latitude>2.45000000</latitude>
+      <longitude>115.68333000</longitude>
+    </cities>
+    <cities>
+      <id>56562</id>
+      <name>Kabupaten Nunukan</name>
+      <latitude>4.13333000</latitude>
+      <longitude>116.70000000</longitude>
+    </cities>
+    <cities>
+      <id>56661</id>
+      <name>Kabupaten Tana Tidung</name>
+      <latitude>3.55000000</latitude>
+      <longitude>117.25000000</longitude>
+    </cities>
+    <cities>
+      <id>57019</id>
+      <name>Tanjung Selor</name>
+      <latitude>2.83750000</latitude>
+      <longitude>117.36528000</longitude>
+    </cities>
+    <cities>
+      <id>57023</id>
+      <name>Tarakan</name>
+      <latitude>3.31332000</latitude>
+      <longitude>117.59152000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1820</id>
+    <name>Kepulauan Bangka Belitung</name>
+    <state_code>BB</state_code>
+    <latitude>-2.74105130</latitude>
+    <longitude>106.44058720</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56329</id>
+      <name>Kabupaten Bangka</name>
+      <latitude>-1.91667000</latitude>
+      <longitude>105.93333000</longitude>
+    </cities>
+    <cities>
+      <id>56330</id>
+      <name>Kabupaten Bangka Barat</name>
+      <latitude>-1.95839000</latitude>
+      <longitude>105.53741000</longitude>
+    </cities>
+    <cities>
+      <id>56331</id>
+      <name>Kabupaten Bangka Selatan</name>
+      <latitude>-2.66803000</latitude>
+      <longitude>106.01257000</longitude>
+    </cities>
+    <cities>
+      <id>56332</id>
+      <name>Kabupaten Bangka Tengah</name>
+      <latitude>-2.33989000</latitude>
+      <longitude>106.11420000</longitude>
+    </cities>
+    <cities>
+      <id>56350</id>
+      <name>Kabupaten Belitung</name>
+      <latitude>-2.86667000</latitude>
+      <longitude>107.70000000</longitude>
+    </cities>
+    <cities>
+      <id>56351</id>
+      <name>Kabupaten Belitung Timur</name>
+      <latitude>-2.96270000</latitude>
+      <longitude>108.15216000</longitude>
+    </cities>
+    <cities>
+      <id>56781</id>
+      <name>Kota Pangkal Pinang</name>
+      <latitude>-2.13333000</latitude>
+      <longitude>106.13333000</longitude>
+    </cities>
+    <cities>
+      <id>56859</id>
+      <name>Manggar</name>
+      <latitude>-2.88333000</latitude>
+      <longitude>108.26667000</longitude>
+    </cities>
+    <cities>
+      <id>56881</id>
+      <name>Muntok</name>
+      <latitude>-2.06719000</latitude>
+      <longitude>105.16228000</longitude>
+    </cities>
+    <cities>
+      <id>56912</id>
+      <name>Pangkalpinang</name>
+      <latitude>-2.12914000</latitude>
+      <longitude>106.11377000</longitude>
+    </cities>
+    <cities>
+      <id>57009</id>
+      <name>Sungailiat</name>
+      <latitude>-1.85442000</latitude>
+      <longitude>106.12215000</longitude>
+    </cities>
+    <cities>
+      <id>57017</id>
+      <name>Tanjung Pandan</name>
+      <latitude>-2.73353000</latitude>
+      <longitude>107.63477000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1807</id>
+    <name>Kepulauan Riau</name>
+    <state_code>KR</state_code>
+    <latitude>3.94565140</latitude>
+    <longitude>108.14286690</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56361</id>
+      <name>Kabupaten Bintan</name>
+      <latitude>0.95000000</latitude>
+      <longitude>104.61944000</longitude>
+    </cities>
+    <cities>
+      <id>56441</id>
+      <name>Kabupaten Karimun</name>
+      <latitude>0.80764000</latitude>
+      <longitude>103.41911000</longitude>
+    </cities>
+    <cities>
+      <id>56450</id>
+      <name>Kabupaten Kepulauan Anambas</name>
+      <latitude>3.00000000</latitude>
+      <longitude>106.00000000</longitude>
+    </cities>
+    <cities>
+      <id>56495</id>
+      <name>Kabupaten Lingga</name>
+      <latitude>0.20000000</latitude>
+      <longitude>104.61667000</longitude>
+    </cities>
+    <cities>
+      <id>56554</id>
+      <name>Kabupaten Natuna</name>
+      <latitude>4.71417000</latitude>
+      <longitude>107.97639000</longitude>
+    </cities>
+    <cities>
+      <id>56716</id>
+      <name>Kijang</name>
+      <latitude>0.90000000</latitude>
+      <longitude>104.63333000</longitude>
+    </cities>
+    <cities>
+      <id>56735</id>
+      <name>Kota Batam</name>
+      <latitude>1.05211000</latitude>
+      <longitude>104.02851000</longitude>
+    </cities>
+    <cities>
+      <id>56808</id>
+      <name>Kota Tanjung Pinang</name>
+      <latitude>0.91683000</latitude>
+      <longitude>104.44329000</longitude>
+    </cities>
+    <cities>
+      <id>57018</id>
+      <name>Tanjung Pinang</name>
+      <latitude>0.91667000</latitude>
+      <longitude>104.45833000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1811</id>
+    <name>Lampung</name>
+    <state_code>LA</state_code>
+    <latitude>-4.55858490</latitude>
+    <longitude>105.40680790</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56195</id>
+      <name>Bandar Lampung</name>
+      <latitude>-5.42917000</latitude>
+      <longitude>105.26111000</longitude>
+    </cities>
+    <cities>
+      <id>56484</id>
+      <name>Kabupaten Lampung Barat</name>
+      <latitude>-5.14904000</latitude>
+      <longitude>104.19309000</longitude>
+    </cities>
+    <cities>
+      <id>56485</id>
+      <name>Kabupaten Lampung Selatan</name>
+      <latitude>-5.45310000</latitude>
+      <longitude>104.98770000</longitude>
+    </cities>
+    <cities>
+      <id>56486</id>
+      <name>Kabupaten Lampung Tengah</name>
+      <latitude>-4.86667000</latitude>
+      <longitude>105.26667000</longitude>
+    </cities>
+    <cities>
+      <id>56487</id>
+      <name>Kabupaten Lampung Timur</name>
+      <latitude>-5.10273000</latitude>
+      <longitude>105.68003000</longitude>
+    </cities>
+    <cities>
+      <id>56488</id>
+      <name>Kabupaten Lampung Utara</name>
+      <latitude>-4.81667000</latitude>
+      <longitude>104.80000000</longitude>
+    </cities>
+    <cities>
+      <id>56534</id>
+      <name>Kabupaten Mesuji</name>
+      <latitude>-4.04390000</latitude>
+      <longitude>105.40130000</longitude>
+    </cities>
+    <cities>
+      <id>56590</id>
+      <name>Kabupaten Pesawaran</name>
+      <latitude>-5.42980000</latitude>
+      <longitude>105.17899000</longitude>
+    </cities>
+    <cities>
+      <id>56591</id>
+      <name>Kabupaten Pesisir Barat</name>
+      <latitude>-5.19323000</latitude>
+      <longitude>103.93976000</longitude>
+    </cities>
+    <cities>
+      <id>56599</id>
+      <name>Kabupaten Pringsewu</name>
+      <latitude>-5.42211000</latitude>
+      <longitude>104.93454000</longitude>
+    </cities>
+    <cities>
+      <id>56667</id>
+      <name>Kabupaten Tanggamus</name>
+      <latitude>-5.38508000</latitude>
+      <longitude>104.62349000</longitude>
+    </cities>
+    <cities>
+      <id>56687</id>
+      <name>Kabupaten Tulangbawang</name>
+      <latitude>-4.20604000</latitude>
+      <longitude>105.57999000</longitude>
+    </cities>
+    <cities>
+      <id>56691</id>
+      <name>Kabupaten Way Kanan</name>
+      <latitude>-4.44705000</latitude>
+      <longitude>104.52753000</longitude>
+    </cities>
+    <cities>
+      <id>56730</id>
+      <name>Kota Bandar Lampung</name>
+      <latitude>-5.41667000</latitude>
+      <longitude>105.25000000</longitude>
+    </cities>
+    <cities>
+      <id>56771</id>
+      <name>Kota Metro</name>
+      <latitude>-5.11856000</latitude>
+      <longitude>105.29949000</longitude>
+    </cities>
+    <cities>
+      <id>56817</id>
+      <name>Kotabumi</name>
+      <latitude>-4.82505000</latitude>
+      <longitude>104.88170000</longitude>
+    </cities>
+    <cities>
+      <id>56871</id>
+      <name>Metro</name>
+      <latitude>-5.11306000</latitude>
+      <longitude>105.30667000</longitude>
+    </cities>
+    <cities>
+      <id>57031</id>
+      <name>Terbanggi Besar</name>
+      <latitude>-4.87898000</latitude>
+      <longitude>105.21818000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1800</id>
+    <name>Maluku</name>
+    <state_code>MA</state_code>
+    <latitude>-3.23846160</latitude>
+    <longitude>130.14527340</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56175</id>
+      <name>Amahai</name>
+      <latitude>-3.33984000</latitude>
+      <longitude>128.91975000</longitude>
+    </cities>
+    <cities>
+      <id>56178</id>
+      <name>Ambon</name>
+      <latitude>-3.69583000</latitude>
+      <longitude>128.18333000</longitude>
+    </cities>
+    <cities>
+      <id>56384</id>
+      <name>Kabupaten Buru</name>
+      <latitude>-3.32767000</latitude>
+      <longitude>126.68413000</longitude>
+    </cities>
+    <cities>
+      <id>56385</id>
+      <name>Kabupaten Buru Selatan</name>
+      <latitude>-3.52187000</latitude>
+      <longitude>126.59271000</longitude>
+    </cities>
+    <cities>
+      <id>56451</id>
+      <name>Kabupaten Kepulauan Aru</name>
+      <latitude>-6.17059000</latitude>
+      <longitude>134.46991000</longitude>
+    </cities>
+    <cities>
+      <id>56513</id>
+      <name>Kabupaten Maluku Barat Daya</name>
+      <latitude>-7.82960000</latitude>
+      <longitude>126.17386000</longitude>
+    </cities>
+    <cities>
+      <id>56514</id>
+      <name>Kabupaten Maluku Tengah</name>
+      <latitude>-3.29167000</latitude>
+      <longitude>128.96750000</longitude>
+    </cities>
+    <cities>
+      <id>56515</id>
+      <name>Kabupaten Maluku Tenggara</name>
+      <latitude>-5.75000000</latitude>
+      <longitude>132.73333000</longitude>
+    </cities>
+    <cities>
+      <id>56516</id>
+      <name>Kabupaten Maluku Tenggara Barat</name>
+      <latitude>-7.61186000</latitude>
+      <longitude>131.38000000</longitude>
+    </cities>
+    <cities>
+      <id>56621</id>
+      <name>Kabupaten Seram Bagian Barat</name>
+      <latitude>-3.10270000</latitude>
+      <longitude>128.42996000</longitude>
+    </cities>
+    <cities>
+      <id>56622</id>
+      <name>Kabupaten Seram Bagian Timur</name>
+      <latitude>-3.39851000</latitude>
+      <longitude>130.39167000</longitude>
+    </cities>
+    <cities>
+      <id>56727</id>
+      <name>Kota Ambon</name>
+      <latitude>-3.70000000</latitude>
+      <longitude>128.18333000</longitude>
+    </cities>
+    <cities>
+      <id>56815</id>
+      <name>Kota Tual</name>
+      <latitude>-5.64301000</latitude>
+      <longitude>132.74935000</longitude>
+    </cities>
+    <cities>
+      <id>57041</id>
+      <name>Tual</name>
+      <latitude>-5.62878000</latitude>
+      <longitude>132.75229000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1801</id>
+    <name>Maluku Utara</name>
+    <state_code>MU</state_code>
+    <latitude>1.57099930</latitude>
+    <longitude>127.80876930</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56271</id>
+      <name>East Halmahera Regency</name>
+      <latitude>1.33517000</latitude>
+      <longitude>128.48627000</longitude>
+    </cities>
+    <cities>
+      <id>56416</id>
+      <name>Kabupaten Halmahera Barat</name>
+      <latitude>1.41709000</latitude>
+      <longitude>127.55264000</longitude>
+    </cities>
+    <cities>
+      <id>56417</id>
+      <name>Kabupaten Halmahera Selatan</name>
+      <latitude>-0.39550000</latitude>
+      <longitude>127.90833000</longitude>
+    </cities>
+    <cities>
+      <id>56418</id>
+      <name>Kabupaten Halmahera Tengah</name>
+      <latitude>0.48056000</latitude>
+      <longitude>128.25000000</longitude>
+    </cities>
+    <cities>
+      <id>56419</id>
+      <name>Kabupaten Halmahera Utara</name>
+      <latitude>1.73194000</latitude>
+      <longitude>128.00778000</longitude>
+    </cities>
+    <cities>
+      <id>56455</id>
+      <name>Kabupaten Kepulauan Sula</name>
+      <latitude>-1.86460000</latitude>
+      <longitude>125.69046000</longitude>
+    </cities>
+    <cities>
+      <id>56602</id>
+      <name>Kabupaten Pulau Morotai</name>
+      <latitude>2.19924000</latitude>
+      <longitude>128.40546000</longitude>
+    </cities>
+    <cities>
+      <id>56603</id>
+      <name>Kabupaten Pulau Taliabu</name>
+      <latitude>-1.84578000</latitude>
+      <longitude>124.78992000</longitude>
+    </cities>
+    <cities>
+      <id>56812</id>
+      <name>Kota Ternate</name>
+      <latitude>0.89618000</latitude>
+      <longitude>127.31016000</longitude>
+    </cities>
+    <cities>
+      <id>56813</id>
+      <name>Kota Tidore Kepulauan</name>
+      <latitude>0.60962000</latitude>
+      <longitude>127.56981000</longitude>
+    </cities>
+    <cities>
+      <id>56990</id>
+      <name>Sofifi</name>
+      <latitude>0.73729000</latitude>
+      <longitude>127.55880000</longitude>
+    </cities>
+    <cities>
+      <id>57032</id>
+      <name>Ternate</name>
+      <latitude>0.79065000</latitude>
+      <longitude>127.38424000</longitude>
+    </cities>
+    <cities>
+      <id>57033</id>
+      <name>Tobelo</name>
+      <latitude>1.72837000</latitude>
+      <longitude>128.00948000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1814</id>
+    <name>Nusa Tenggara Barat</name>
+    <state_code>NB</state_code>
+    <latitude>-8.65293340</latitude>
+    <longitude>117.36164760</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56221</id>
+      <name>Bima</name>
+      <latitude>-8.46006000</latitude>
+      <longitude>118.72667000</longitude>
+    </cities>
+    <cities>
+      <id>56267</id>
+      <name>Dompu</name>
+      <latitude>-8.53650000</latitude>
+      <longitude>118.46340000</longitude>
+    </cities>
+    <cities>
+      <id>56281</id>
+      <name>Gili Air</name>
+      <latitude>-8.35783000</latitude>
+      <longitude>116.08240000</longitude>
+    </cities>
+    <cities>
+      <id>56360</id>
+      <name>Kabupaten Bima</name>
+      <latitude>-8.60000000</latitude>
+      <longitude>118.61667000</longitude>
+    </cities>
+    <cities>
+      <id>56400</id>
+      <name>Kabupaten Dompu</name>
+      <latitude>-8.50940000</latitude>
+      <longitude>118.48160000</longitude>
+    </cities>
+    <cities>
+      <id>56496</id>
+      <name>Kabupaten Lombok Barat</name>
+      <latitude>-8.69583000</latitude>
+      <longitude>116.11667000</longitude>
+    </cities>
+    <cities>
+      <id>56497</id>
+      <name>Kabupaten Lombok Tengah</name>
+      <latitude>-8.70000000</latitude>
+      <longitude>116.30000000</longitude>
+    </cities>
+    <cities>
+      <id>56498</id>
+      <name>Kabupaten Lombok Timur</name>
+      <latitude>-8.53333000</latitude>
+      <longitude>116.53333000</longitude>
+    </cities>
+    <cities>
+      <id>56499</id>
+      <name>Kabupaten Lombok Utara</name>
+      <latitude>-8.35214000</latitude>
+      <longitude>116.40152000</longitude>
+    </cities>
+    <cities>
+      <id>56652</id>
+      <name>Kabupaten Sumbawa</name>
+      <latitude>-8.74390000</latitude>
+      <longitude>117.33240000</longitude>
+    </cities>
+    <cities>
+      <id>56653</id>
+      <name>Kabupaten Sumbawa Barat</name>
+      <latitude>-8.75159000</latitude>
+      <longitude>116.92132000</longitude>
+    </cities>
+    <cities>
+      <id>56740</id>
+      <name>Kota Bima</name>
+      <latitude>-8.46728000</latitude>
+      <longitude>118.75259000</longitude>
+    </cities>
+    <cities>
+      <id>56769</id>
+      <name>Kota Mataram</name>
+      <latitude>-8.58330000</latitude>
+      <longitude>116.11670000</longitude>
+    </cities>
+    <cities>
+      <id>56831</id>
+      <name>Labuan Lombok</name>
+      <latitude>-8.50000000</latitude>
+      <longitude>116.66667000</longitude>
+    </cities>
+    <cities>
+      <id>56843</id>
+      <name>Lembar</name>
+      <latitude>-8.72640000</latitude>
+      <longitude>116.07440000</longitude>
+    </cities>
+    <cities>
+      <id>56865</id>
+      <name>Mataram</name>
+      <latitude>-8.58333000</latitude>
+      <longitude>116.11667000</longitude>
+    </cities>
+    <cities>
+      <id>56931</id>
+      <name>Pemenang</name>
+      <latitude>-8.40401000</latitude>
+      <longitude>116.10255000</longitude>
+    </cities>
+    <cities>
+      <id>56938</id>
+      <name>Pototano</name>
+      <latitude>-8.41260000</latitude>
+      <longitude>117.48110000</longitude>
+    </cities>
+    <cities>
+      <id>56940</id>
+      <name>Praya</name>
+      <latitude>-8.70536000</latitude>
+      <longitude>116.27036000</longitude>
+    </cities>
+    <cities>
+      <id>56966</id>
+      <name>Senggigi</name>
+      <latitude>-8.49190000</latitude>
+      <longitude>116.04240000</longitude>
+    </cities>
+    <cities>
+      <id>57002</id>
+      <name>Sumbawa Besar</name>
+      <latitude>-8.49317000</latitude>
+      <longitude>117.42024000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
     <id>1818</id>
-    <name>East Nusa Tenggara</name>
+    <name>Nusa Tenggara Timur</name>
     <state_code>NT</state_code>
     <latitude>-8.65738190</latitude>
     <longitude>121.07937050</longitude>
@@ -309629,577 +311040,904 @@
     </cities>
   </state_city>
   <state_city>
-    <id>1812</id>
-    <name>Gorontalo</name>
-    <state_code>GO</state_code>
-    <latitude>0.54354420</latitude>
-    <longitude>123.05676930</longitude>
+    <id>1798</id>
+    <name>Papua</name>
+    <state_code>PA</state_code>
+    <latitude>-5.01222020</latitude>
+    <longitude>141.34701590</longitude>
     <country_id>102</country_id>
     <cities>
-      <id>56285</id>
-      <name>Gorontalo</name>
-      <latitude>0.53750000</latitude>
-      <longitude>123.06250000</longitude>
+      <id>56173</id>
+      <name>Abepura</name>
+      <latitude>-2.59640000</latitude>
+      <longitude>140.63240000</longitude>
     </cities>
     <cities>
-      <id>56365</id>
-      <name>Kabupaten Boalemo</name>
-      <latitude>0.62689000</latitude>
-      <longitude>122.35680000</longitude>
+      <id>56220</id>
+      <name>Biak</name>
+      <latitude>-1.17670000</latitude>
+      <longitude>136.08200000</longitude>
     </cities>
     <cities>
-      <id>56375</id>
-      <name>Kabupaten Bone Bolango</name>
-      <latitude>0.50296000</latitude>
-      <longitude>123.27501000</longitude>
+      <id>56292</id>
+      <name>Insrom</name>
+      <latitude>-1.14473000</latitude>
+      <longitude>136.03134000</longitude>
     </cities>
     <cities>
-      <id>56410</id>
-      <name>Kabupaten Gorontalo</name>
-      <latitude>0.57280000</latitude>
-      <longitude>122.23370000</longitude>
+      <id>56299</id>
+      <name>Jayapura</name>
+      <latitude>-2.53371000</latitude>
+      <longitude>140.71813000</longitude>
     </cities>
     <cities>
-      <id>56411</id>
-      <name>Kabupaten Gorontalo Utara</name>
-      <latitude>0.77000000</latitude>
-      <longitude>122.31667000</longitude>
+      <id>56321</id>
+      <name>Kabupaten Asmat</name>
+      <latitude>-5.37950000</latitude>
+      <longitude>138.46344000</longitude>
     </cities>
     <cities>
-      <id>56595</id>
-      <name>Kabupaten Pohuwato</name>
-      <latitude>0.70980000</latitude>
-      <longitude>121.59582000</longitude>
+      <id>56359</id>
+      <name>Kabupaten Biak Numfor</name>
+      <latitude>-1.03333000</latitude>
+      <longitude>136.00000000</longitude>
     </cities>
     <cities>
-      <id>56753</id>
-      <name>Kota Gorontalo</name>
+      <id>56376</id>
+      <name>Kabupaten Boven Digoel</name>
+      <latitude>-5.70519000</latitude>
+      <longitude>140.36349000</longitude>
+    </cities>
+    <cities>
+      <id>56395</id>
+      <name>Kabupaten Deiyai</name>
+      <latitude>-3.94737000</latitude>
+      <longitude>135.95032000</longitude>
+    </cities>
+    <cities>
+      <id>56399</id>
+      <name>Kabupaten Dogiyai</name>
+      <latitude>-4.03186000</latitude>
+      <longitude>135.43945000</longitude>
+    </cities>
+    <cities>
+      <id>56427</id>
+      <name>Kabupaten Intan Jaya</name>
+      <latitude>-3.41016000</latitude>
+      <longitude>136.70837000</longitude>
+    </cities>
+    <cities>
+      <id>56428</id>
+      <name>Kabupaten Jayapura</name>
+      <latitude>-3.00000000</latitude>
+      <longitude>139.95000000</longitude>
+    </cities>
+    <cities>
+      <id>56429</id>
+      <name>Kabupaten Jayawijaya</name>
+      <latitude>-4.08333000</latitude>
+      <longitude>139.08333000</longitude>
+    </cities>
+    <cities>
+      <id>56447</id>
+      <name>Kabupaten Keerom</name>
+      <latitude>-3.30000000</latitude>
+      <longitude>140.61667000</longitude>
+    </cities>
+    <cities>
+      <id>56457</id>
+      <name>Kabupaten Kepulauan Yapen</name>
+      <latitude>-1.78773000</latitude>
+      <longitude>136.27716000</longitude>
+    </cities>
+    <cities>
+      <id>56490</id>
+      <name>Kabupaten Lanny Jaya</name>
+      <latitude>-3.91244000</latitude>
+      <longitude>138.28766000</longitude>
+    </cities>
+    <cities>
+      <id>56518</id>
+      <name>Kabupaten Mamberamo Raya</name>
+      <latitude>-2.23561000</latitude>
+      <longitude>137.78229000</longitude>
+    </cities>
+    <cities>
+      <id>56519</id>
+      <name>Kabupaten Mamberamo Tengah</name>
+      <latitude>-2.46064000</latitude>
+      <longitude>138.45245000</longitude>
+    </cities>
+    <cities>
+      <id>56529</id>
+      <name>Kabupaten Mappi</name>
+      <latitude>-6.49971000</latitude>
+      <longitude>139.34441000</longitude>
+    </cities>
+    <cities>
+      <id>56533</id>
+      <name>Kabupaten Merauke</name>
+      <latitude>-7.66667000</latitude>
+      <longitude>139.66667000</longitude>
+    </cities>
+    <cities>
+      <id>56535</id>
+      <name>Kabupaten Mimika</name>
+      <latitude>-4.54357000</latitude>
+      <longitude>136.56555000</longitude>
+    </cities>
+    <cities>
+      <id>56551</id>
+      <name>Kabupaten Nabire</name>
+      <latitude>-3.54016000</latitude>
+      <longitude>135.55511000</longitude>
+    </cities>
+    <cities>
+      <id>56555</id>
+      <name>Kabupaten Nduga</name>
+      <latitude>-4.45093000</latitude>
+      <longitude>138.10089000</longitude>
+    </cities>
+    <cities>
+      <id>56577</id>
+      <name>Kabupaten Paniai</name>
+      <latitude>-3.90000000</latitude>
+      <longitude>136.60000000</longitude>
+    </cities>
+    <cities>
+      <id>56584</id>
+      <name>Kabupaten Pegunungan Bintang</name>
+      <latitude>-4.52167000</latitude>
+      <longitude>140.29541000</longitude>
+    </cities>
+    <cities>
+      <id>56604</id>
+      <name>Kabupaten Puncak Jaya</name>
+      <latitude>-3.67241000</latitude>
+      <longitude>137.43896000</longitude>
+    </cities>
+    <cities>
+      <id>56617</id>
+      <name>Kabupaten Sarmi</name>
+      <latitude>-2.41667000</latitude>
+      <longitude>139.08333000</longitude>
+    </cities>
+    <cities>
+      <id>56656</id>
+      <name>Kabupaten Supiori</name>
+      <latitude>-0.73881000</latitude>
+      <longitude>135.61111000</longitude>
+    </cities>
+    <cities>
+      <id>56683</id>
+      <name>Kabupaten Tolikara</name>
+      <latitude>-3.42661000</latitude>
+      <longitude>137.41699000</longitude>
+    </cities>
+    <cities>
+      <id>56690</id>
+      <name>Kabupaten Waropen</name>
+      <latitude>-2.28600000</latitude>
+      <longitude>137.01837000</longitude>
+    </cities>
+    <cities>
+      <id>56694</id>
+      <name>Kabupaten Yahukimo</name>
+      <latitude>-4.60403000</latitude>
+      <longitude>139.58405000</longitude>
+    </cities>
+    <cities>
+      <id>56695</id>
+      <name>Kabupaten Yalimo</name>
+      <latitude>-3.86037000</latitude>
+      <longitude>138.47305000</longitude>
+    </cities>
+    <cities>
+      <id>56756</id>
+      <name>Kota Jayapura</name>
+      <latitude>-2.64647000</latitude>
+      <longitude>140.77779000</longitude>
+    </cities>
+    <cities>
+      <id>56882</id>
+      <name>Nabire</name>
+      <latitude>-3.35989000</latitude>
+      <longitude>135.50074000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1799</id>
+    <name>Papua Barat</name>
+    <state_code>PB</state_code>
+    <latitude>-1.33611540</latitude>
+    <longitude>133.17471620</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56405</id>
+      <name>Kabupaten Fakfak</name>
+      <latitude>-2.92641000</latitude>
+      <longitude>132.29608000</longitude>
+    </cities>
+    <cities>
+      <id>56435</id>
+      <name>Kabupaten Kaimana</name>
+      <latitude>-3.66093000</latitude>
+      <longitude>133.77451000</longitude>
+    </cities>
+    <cities>
+      <id>56527</id>
+      <name>Kabupaten Manokwari</name>
+      <latitude>-0.90000000</latitude>
+      <longitude>133.75000000</longitude>
+    </cities>
+    <cities>
+      <id>56528</id>
+      <name>Kabupaten Manokwari Selatan</name>
+      <latitude>-1.07980000</latitude>
+      <longitude>133.96729000</longitude>
+    </cities>
+    <cities>
+      <id>56531</id>
+      <name>Kabupaten Maybrat</name>
+      <latitude>-1.21550000</latitude>
+      <longitude>132.35092000</longitude>
+    </cities>
+    <cities>
+      <id>56608</id>
+      <name>Kabupaten Raja Ampat</name>
+      <latitude>-0.50000000</latitude>
+      <longitude>130.00000000</longitude>
+    </cities>
+    <cities>
+      <id>56641</id>
+      <name>Kabupaten Sorong</name>
+      <latitude>-1.16667000</latitude>
+      <longitude>131.50000000</longitude>
+    </cities>
+    <cities>
+      <id>56642</id>
+      <name>Kabupaten Sorong Selatan</name>
+      <latitude>-1.50495000</latitude>
+      <longitude>132.28638000</longitude>
+    </cities>
+    <cities>
+      <id>56660</id>
+      <name>Kabupaten Tambrauw</name>
+      <latitude>-0.60515000</latitude>
+      <longitude>132.48962000</longitude>
+    </cities>
+    <cities>
+      <id>56677</id>
+      <name>Kabupaten Teluk Bintuni</name>
+      <latitude>-1.88037000</latitude>
+      <longitude>133.33105000</longitude>
+    </cities>
+    <cities>
+      <id>56678</id>
+      <name>Kabupaten Teluk Wondama</name>
+      <latitude>-2.70000000</latitude>
+      <longitude>134.50000000</longitude>
+    </cities>
+    <cities>
+      <id>56799</id>
+      <name>Kota Sorong</name>
+      <latitude>-0.86507000</latitude>
+      <longitude>131.25152000</longitude>
+    </cities>
+    <cities>
+      <id>56860</id>
+      <name>Manokwari</name>
+      <latitude>-0.86291000</latitude>
+      <longitude>134.06402000</longitude>
+    </cities>
+    <cities>
+      <id>56995</id>
+      <name>Sorong</name>
+      <latitude>-0.87956000</latitude>
+      <longitude>131.26104000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1809</id>
+    <name>Riau</name>
+    <state_code>RI</state_code>
+    <latitude>0.29334690</latitude>
+    <longitude>101.70682940</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56188</id>
+      <name>Balaipungut</name>
+      <latitude>1.05949000</latitude>
+      <longitude>101.29054000</longitude>
+    </cities>
+    <cities>
+      <id>56208</id>
+      <name>Batam</name>
+      <latitude>1.14937000</latitude>
+      <longitude>104.02491000</longitude>
+    </cities>
+    <cities>
+      <id>56270</id>
+      <name>Dumai</name>
+      <latitude>1.66711000</latitude>
+      <longitude>101.44316000</longitude>
+    </cities>
+    <cities>
+      <id>56354</id>
+      <name>Kabupaten Bengkalis</name>
+      <latitude>0.98380000</latitude>
+      <longitude>102.50960000</longitude>
+    </cities>
+    <cities>
+      <id>56424</id>
+      <name>Kabupaten Indragiri Hilir</name>
+      <latitude>-0.33333000</latitude>
+      <longitude>103.16667000</longitude>
+    </cities>
+    <cities>
+      <id>56425</id>
+      <name>Kabupaten Indragiri Hulu</name>
+      <latitude>-0.55000000</latitude>
+      <longitude>102.31667000</longitude>
+    </cities>
+    <cities>
+      <id>56436</id>
+      <name>Kabupaten Kampar</name>
+      <latitude>0.23440000</latitude>
+      <longitude>101.21310000</longitude>
+    </cities>
+    <cities>
+      <id>56453</id>
+      <name>Kabupaten Kepulauan Meranti</name>
+      <latitude>0.97488000</latitude>
+      <longitude>102.69539000</longitude>
+    </cities>
+    <cities>
+      <id>56471</id>
+      <name>Kabupaten Kuantan Singingi</name>
+      <latitude>-0.47532000</latitude>
+      <longitude>101.45857000</longitude>
+    </cities>
+    <cities>
+      <id>56586</id>
+      <name>Kabupaten Pelalawan</name>
+      <latitude>0.20822000</latitude>
+      <longitude>102.18607000</longitude>
+    </cities>
+    <cities>
+      <id>56611</id>
+      <name>Kabupaten Rokan Hilir</name>
+      <latitude>2.16599000</latitude>
+      <longitude>100.82514000</longitude>
+    </cities>
+    <cities>
+      <id>56612</id>
+      <name>Kabupaten Rokan Hulu</name>
+      <latitude>0.88333000</latitude>
+      <longitude>100.48333000</longitude>
+    </cities>
+    <cities>
+      <id>56626</id>
+      <name>Kabupaten Siak</name>
+      <latitude>0.97453000</latitude>
+      <longitude>102.01355000</longitude>
+    </cities>
+    <cities>
+      <id>56752</id>
+      <name>Kota Dumai</name>
+      <latitude>1.61592000</latitude>
+      <longitude>101.49170000</longitude>
+    </cities>
+    <cities>
+      <id>56787</id>
+      <name>Kota Pekanbaru</name>
       <latitude>0.53333000</latitude>
-      <longitude>123.10000000</longitude>
+      <longitude>101.46667000</longitude>
+    </cities>
+    <cities>
+      <id>56927</id>
+      <name>Pekanbaru</name>
+      <latitude>0.51667000</latitude>
+      <longitude>101.44167000</longitude>
     </cities>
   </state_city>
   <state_city>
-    <id>1805</id>
-    <name>Jakarta</name>
-    <state_code>JK</state_code>
-    <latitude>-6.20876340</latitude>
-    <longitude>106.84559900</longitude>
+    <id>1817</id>
+    <name>Sulawesi Barat</name>
+    <state_code>SR</state_code>
+    <latitude>-2.84413710</latitude>
+    <longitude>119.23207840</longitude>
     <country_id>102</country_id>
     <cities>
-      <id>56293</id>
-      <name>Jakarta</name>
-      <latitude>-6.21462000</latitude>
-      <longitude>106.84513000</longitude>
+      <id>56509</id>
+      <name>Kabupaten Majene</name>
+      <latitude>-3.15000000</latitude>
+      <longitude>118.86667000</longitude>
     </cities>
     <cities>
-      <id>56722</id>
-      <name>Kota Administrasi Jakarta Barat</name>
-      <latitude>-6.16760000</latitude>
-      <longitude>106.76730000</longitude>
+      <id>56517</id>
+      <name>Kabupaten Mamasa</name>
+      <latitude>-2.96492000</latitude>
+      <longitude>119.30631000</longitude>
     </cities>
     <cities>
-      <id>56723</id>
-      <name>Kota Administrasi Jakarta Pusat</name>
-      <latitude>-6.17770000</latitude>
-      <longitude>106.84030000</longitude>
+      <id>56520</id>
+      <name>Kabupaten Mamuju</name>
+      <latitude>-2.50000000</latitude>
+      <longitude>119.41667000</longitude>
     </cities>
     <cities>
-      <id>56724</id>
-      <name>Kota Administrasi Jakarta Selatan</name>
-      <latitude>-6.26600000</latitude>
-      <longitude>106.81350000</longitude>
+      <id>56521</id>
+      <name>Kabupaten Mamuju Tengah</name>
+      <latitude>-2.82120000</latitude>
+      <longitude>119.26620000</longitude>
     </cities>
     <cities>
-      <id>56725</id>
-      <name>Kota Administrasi Jakarta Timur</name>
-      <latitude>-6.25210000</latitude>
-      <longitude>106.88400000</longitude>
+      <id>56522</id>
+      <name>Kabupaten Mamuju Utara</name>
+      <latitude>-1.51639000</latitude>
+      <longitude>119.42139000</longitude>
     </cities>
     <cities>
-      <id>56726</id>
-      <name>Kota Administrasi Jakarta Utara</name>
-      <latitude>-6.13390000</latitude>
-      <longitude>106.88230000</longitude>
+      <id>56596</id>
+      <name>Kabupaten Polewali Mandar</name>
+      <latitude>-3.30000000</latitude>
+      <longitude>119.16667000</longitude>
+    </cities>
+    <cities>
+      <id>56854</id>
+      <name>Majene</name>
+      <latitude>-3.54030000</latitude>
+      <longitude>118.97070000</longitude>
+    </cities>
+    <cities>
+      <id>56857</id>
+      <name>Mamuju</name>
+      <latitude>-2.68056000</latitude>
+      <longitude>118.88611000</longitude>
+    </cities>
+    <cities>
+      <id>56935</id>
+      <name>Polewali</name>
+      <latitude>-3.43240000</latitude>
+      <longitude>119.34350000</longitude>
     </cities>
   </state_city>
   <state_city>
-    <id>1815</id>
-    <name>Jambi</name>
-    <state_code>JA</state_code>
-    <latitude>-1.61012290</latitude>
-    <longitude>103.61312030</longitude>
+    <id>1795</id>
+    <name>Sulawesi Selatan</name>
+    <state_code>SN</state_code>
+    <latitude>-3.66879940</latitude>
+    <longitude>119.97405340</longitude>
     <country_id>102</country_id>
     <cities>
-      <id>56214</id>
-      <name>Bejubang Dua</name>
-      <latitude>-1.79230000</latitude>
-      <longitude>103.31670000</longitude>
+      <id>56273</id>
+      <name>Galesong</name>
+      <latitude>-5.31660000</latitude>
+      <longitude>119.36610000</longitude>
     </cities>
     <cities>
-      <id>56294</id>
-      <name>Jambi City</name>
-      <latitude>-1.60000000</latitude>
-      <longitude>103.61667000</longitude>
+      <id>56337</id>
+      <name>Kabupaten Bantaeng</name>
+      <latitude>-5.48333000</latitude>
+      <longitude>119.98333000</longitude>
     </cities>
     <cities>
-      <id>56347</id>
-      <name>Kabupaten Batang Hari</name>
-      <latitude>-1.75000000</latitude>
-      <longitude>103.11667000</longitude>
+      <id>56345</id>
+      <name>Kabupaten Barru</name>
+      <latitude>-4.43333000</latitude>
+      <longitude>119.68333000</longitude>
     </cities>
     <cities>
-      <id>56382</id>
-      <name>Kabupaten Bungo</name>
-      <latitude>-1.50222000</latitude>
-      <longitude>101.96000000</longitude>
+      <id>56374</id>
+      <name>Kabupaten Bone</name>
+      <latitude>-4.70000000</latitude>
+      <longitude>120.13333000</longitude>
     </cities>
     <cities>
-      <id>56458</id>
-      <name>Kabupaten Kerinci</name>
-      <latitude>-2.03333000</latitude>
-      <longitude>101.53333000</longitude>
-    </cities>
-    <cities>
-      <id>56532</id>
-      <name>Kabupaten Merangin</name>
-      <latitude>-2.06933000</latitude>
-      <longitude>102.13303000</longitude>
-    </cities>
-    <cities>
-      <id>56543</id>
-      <name>Kabupaten Muaro Jambi</name>
-      <latitude>-1.55214000</latitude>
-      <longitude>103.82163000</longitude>
-    </cities>
-    <cities>
-      <id>56618</id>
-      <name>Kabupaten Sarolangun</name>
-      <latitude>-2.30000000</latitude>
-      <longitude>102.65000000</longitude>
-    </cities>
-    <cities>
-      <id>56668</id>
-      <name>Kabupaten Tanjung Jabung Barat</name>
-      <latitude>-1.15440000</latitude>
-      <longitude>103.24402000</longitude>
-    </cities>
-    <cities>
-      <id>56669</id>
-      <name>Kabupaten Tanjung Jabung Timur</name>
-      <latitude>-1.13198000</latitude>
-      <longitude>103.61755000</longitude>
-    </cities>
-    <cities>
-      <id>56675</id>
-      <name>Kabupaten Tebo</name>
-      <latitude>-1.45576000</latitude>
-      <longitude>102.37473000</longitude>
-    </cities>
-    <cities>
-      <id>56755</id>
-      <name>Kota Jambi</name>
-      <latitude>-1.61667000</latitude>
-      <longitude>103.65000000</longitude>
-    </cities>
-    <cities>
-      <id>56802</id>
-      <name>Kota Sungai Penuh</name>
-      <latitude>-2.10896000</latitude>
-      <longitude>101.32175000</longitude>
-    </cities>
-    <cities>
-      <id>56822</id>
-      <name>Kuala Tungkal</name>
-      <latitude>-0.81623000</latitude>
-      <longitude>103.46111000</longitude>
-    </cities>
-    <cities>
-      <id>56869</id>
-      <name>Mendaha</name>
-      <latitude>-1.01630000</latitude>
-      <longitude>103.59331000</longitude>
-    </cities>
-    <cities>
-      <id>56978</id>
-      <name>Simpang</name>
-      <latitude>-1.26424000</latitude>
-      <longitude>104.09701000</longitude>
-    </cities>
-    <cities>
-      <id>57008</id>
-      <name>Sungai Penuh</name>
-      <latitude>-2.05610000</latitude>
-      <longitude>101.39130000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1806</id>
-    <name>Kalimantan</name>
-    <state_code>KA</state_code>
-    <latitude>0.96188340</latitude>
-    <longitude>114.55484950</longitude>
-    <country_id>102</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
-    <id>1811</id>
-    <name>Lampung</name>
-    <state_code>LA</state_code>
-    <latitude>-4.55858490</latitude>
-    <longitude>105.40680790</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56195</id>
-      <name>Bandar Lampung</name>
-      <latitude>-5.42917000</latitude>
-      <longitude>105.26111000</longitude>
-    </cities>
-    <cities>
-      <id>56484</id>
-      <name>Kabupaten Lampung Barat</name>
-      <latitude>-5.14904000</latitude>
-      <longitude>104.19309000</longitude>
-    </cities>
-    <cities>
-      <id>56485</id>
-      <name>Kabupaten Lampung Selatan</name>
-      <latitude>-5.45310000</latitude>
-      <longitude>104.98770000</longitude>
-    </cities>
-    <cities>
-      <id>56486</id>
-      <name>Kabupaten Lampung Tengah</name>
-      <latitude>-4.86667000</latitude>
-      <longitude>105.26667000</longitude>
-    </cities>
-    <cities>
-      <id>56487</id>
-      <name>Kabupaten Lampung Timur</name>
-      <latitude>-5.10273000</latitude>
-      <longitude>105.68003000</longitude>
-    </cities>
-    <cities>
-      <id>56488</id>
-      <name>Kabupaten Lampung Utara</name>
-      <latitude>-4.81667000</latitude>
-      <longitude>104.80000000</longitude>
-    </cities>
-    <cities>
-      <id>56534</id>
-      <name>Kabupaten Mesuji</name>
-      <latitude>-4.04390000</latitude>
-      <longitude>105.40130000</longitude>
-    </cities>
-    <cities>
-      <id>56590</id>
-      <name>Kabupaten Pesawaran</name>
-      <latitude>-5.42980000</latitude>
-      <longitude>105.17899000</longitude>
-    </cities>
-    <cities>
-      <id>56591</id>
-      <name>Kabupaten Pesisir Barat</name>
-      <latitude>-5.19323000</latitude>
-      <longitude>103.93976000</longitude>
-    </cities>
-    <cities>
-      <id>56599</id>
-      <name>Kabupaten Pringsewu</name>
-      <latitude>-5.42211000</latitude>
-      <longitude>104.93454000</longitude>
-    </cities>
-    <cities>
-      <id>56667</id>
-      <name>Kabupaten Tanggamus</name>
-      <latitude>-5.38508000</latitude>
-      <longitude>104.62349000</longitude>
-    </cities>
-    <cities>
-      <id>56687</id>
-      <name>Kabupaten Tulangbawang</name>
-      <latitude>-4.20604000</latitude>
-      <longitude>105.57999000</longitude>
-    </cities>
-    <cities>
-      <id>56691</id>
-      <name>Kabupaten Way Kanan</name>
-      <latitude>-4.44705000</latitude>
-      <longitude>104.52753000</longitude>
-    </cities>
-    <cities>
-      <id>56730</id>
-      <name>Kota Bandar Lampung</name>
+      <id>56380</id>
+      <name>Kabupaten Bulukumba</name>
       <latitude>-5.41667000</latitude>
-      <longitude>105.25000000</longitude>
+      <longitude>120.23333000</longitude>
     </cities>
     <cities>
-      <id>56771</id>
-      <name>Kota Metro</name>
-      <latitude>-5.11856000</latitude>
-      <longitude>105.29949000</longitude>
+      <id>56404</id>
+      <name>Kabupaten Enrekang</name>
+      <latitude>-3.50000000</latitude>
+      <longitude>119.86667000</longitude>
     </cities>
     <cities>
-      <id>56817</id>
-      <name>Kotabumi</name>
-      <latitude>-4.82505000</latitude>
-      <longitude>104.88170000</longitude>
+      <id>56412</id>
+      <name>Kabupaten Gowa</name>
+      <latitude>-5.31667000</latitude>
+      <longitude>119.75000000</longitude>
     </cities>
     <cities>
-      <id>56871</id>
-      <name>Metro</name>
-      <latitude>-5.11306000</latitude>
-      <longitude>105.30667000</longitude>
+      <id>56432</id>
+      <name>Kabupaten Jeneponto</name>
+      <latitude>-5.63333000</latitude>
+      <longitude>119.73333000</longitude>
     </cities>
     <cities>
-      <id>57031</id>
-      <name>Terbanggi Besar</name>
-      <latitude>-4.87898000</latitude>
-      <longitude>105.21818000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1821</id>
-    <name>Lesser Sunda Islands</name>
-    <state_code>NU</state_code>
-    <latitude>-9.00000000</latitude>
-    <longitude>120.00000000</longitude>
-    <country_id>102</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
-    <id>1800</id>
-    <name>Maluku</name>
-    <state_code>MA</state_code>
-    <latitude>-3.23846160</latitude>
-    <longitude>130.14527340</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56175</id>
-      <name>Amahai</name>
-      <latitude>-3.33984000</latitude>
-      <longitude>128.91975000</longitude>
+      <id>56501</id>
+      <name>Kabupaten Luwu</name>
+      <latitude>-2.55770000</latitude>
+      <longitude>121.32420000</longitude>
     </cities>
     <cities>
-      <id>56178</id>
-      <name>Ambon</name>
-      <latitude>-3.69583000</latitude>
-      <longitude>128.18333000</longitude>
+      <id>56502</id>
+      <name>Kabupaten Luwu Timur</name>
+      <latitude>-2.50957000</latitude>
+      <longitude>120.39780000</longitude>
     </cities>
     <cities>
-      <id>56384</id>
-      <name>Kabupaten Buru</name>
-      <latitude>-3.32767000</latitude>
-      <longitude>126.68413000</longitude>
+      <id>56503</id>
+      <name>Kabupaten Luwu Utara</name>
+      <latitude>-2.60000000</latitude>
+      <longitude>120.25000000</longitude>
     </cities>
     <cities>
-      <id>56385</id>
-      <name>Kabupaten Buru Selatan</name>
-      <latitude>-3.52187000</latitude>
-      <longitude>126.59271000</longitude>
+      <id>56530</id>
+      <name>Kabupaten Maros</name>
+      <latitude>-5.05000000</latitude>
+      <longitude>119.71667000</longitude>
     </cities>
     <cities>
-      <id>56451</id>
-      <name>Kabupaten Kepulauan Aru</name>
-      <latitude>-6.17059000</latitude>
-      <longitude>134.46991000</longitude>
+      <id>56576</id>
+      <name>Kabupaten Pangkajene Dan Kepulauan</name>
+      <latitude>-4.78270000</latitude>
+      <longitude>119.55060000</longitude>
     </cities>
     <cities>
-      <id>56513</id>
-      <name>Kabupaten Maluku Barat Daya</name>
-      <latitude>-7.82960000</latitude>
-      <longitude>126.17386000</longitude>
+      <id>56594</id>
+      <name>Kabupaten Pinrang</name>
+      <latitude>-3.61667000</latitude>
+      <longitude>119.60000000</longitude>
     </cities>
     <cities>
-      <id>56514</id>
-      <name>Kabupaten Maluku Tengah</name>
-      <latitude>-3.29167000</latitude>
-      <longitude>128.96750000</longitude>
+      <id>56628</id>
+      <name>Kabupaten Sidenreng Rappang</name>
+      <latitude>-3.85000000</latitude>
+      <longitude>119.96667000</longitude>
     </cities>
     <cities>
-      <id>56515</id>
-      <name>Kabupaten Maluku Tenggara</name>
-      <latitude>-5.75000000</latitude>
-      <longitude>132.73333000</longitude>
+      <id>56635</id>
+      <name>Kabupaten Sinjai</name>
+      <latitude>-5.21667000</latitude>
+      <longitude>120.15000000</longitude>
     </cities>
     <cities>
-      <id>56516</id>
-      <name>Kabupaten Maluku Tenggara Barat</name>
-      <latitude>-7.61186000</latitude>
-      <longitude>131.38000000</longitude>
+      <id>56640</id>
+      <name>Kabupaten Soppeng</name>
+      <latitude>-4.38420000</latitude>
+      <longitude>119.89000000</longitude>
     </cities>
     <cities>
-      <id>56621</id>
-      <name>Kabupaten Seram Bagian Barat</name>
-      <latitude>-3.10270000</latitude>
-      <longitude>128.42996000</longitude>
+      <id>56659</id>
+      <name>Kabupaten Takalar</name>
+      <latitude>-5.41667000</latitude>
+      <longitude>119.51667000</longitude>
     </cities>
     <cities>
-      <id>56622</id>
-      <name>Kabupaten Seram Bagian Timur</name>
-      <latitude>-3.39851000</latitude>
-      <longitude>130.39167000</longitude>
+      <id>56662</id>
+      <name>Kabupaten Tana Toraja</name>
+      <latitude>-3.00240000</latitude>
+      <longitude>119.79655000</longitude>
     </cities>
     <cities>
-      <id>56727</id>
-      <name>Kota Ambon</name>
-      <latitude>-3.70000000</latitude>
-      <longitude>128.18333000</longitude>
+      <id>56684</id>
+      <name>Kabupaten Toraja Utara</name>
+      <latitude>-2.92738000</latitude>
+      <longitude>119.79218000</longitude>
     </cities>
     <cities>
-      <id>56815</id>
-      <name>Kota Tual</name>
-      <latitude>-5.64301000</latitude>
-      <longitude>132.74935000</longitude>
+      <id>56689</id>
+      <name>Kabupaten Wajo</name>
+      <latitude>-4.00000000</latitude>
+      <longitude>120.16667000</longitude>
     </cities>
     <cities>
-      <id>57041</id>
-      <name>Tual</name>
-      <latitude>-5.62878000</latitude>
-      <longitude>132.75229000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1823</id>
-    <name>Maluku Islands</name>
-    <state_code>ML</state_code>
-    <latitude>-2.86461660</latitude>
-    <longitude>129.57659740</longitude>
-    <country_id>102</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
-    <id>1824</id>
-    <name>North Kalimantan</name>
-    <state_code>KU</state_code>
-    <latitude>3.07309290</latitude>
-    <longitude>116.04138890</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56381</id>
-      <name>Kabupaten Bulungan</name>
-      <latitude>3.00000000</latitude>
-      <longitude>117.16667000</longitude>
+      <id>56766</id>
+      <name>Kota Makassar</name>
+      <latitude>-5.15000000</latitude>
+      <longitude>119.45000000</longitude>
     </cities>
     <cities>
-      <id>56512</id>
-      <name>Kabupaten Malinau</name>
-      <latitude>2.45000000</latitude>
-      <longitude>115.68333000</longitude>
+      <id>56779</id>
+      <name>Kota Palopo</name>
+      <latitude>-2.97841000</latitude>
+      <longitude>120.11078000</longitude>
     </cities>
     <cities>
-      <id>56562</id>
-      <name>Kabupaten Nunukan</name>
-      <latitude>4.13333000</latitude>
-      <longitude>116.70000000</longitude>
+      <id>56782</id>
+      <name>Kota Parepare</name>
+      <latitude>-4.03333000</latitude>
+      <longitude>119.65000000</longitude>
     </cities>
     <cities>
-      <id>56661</id>
-      <name>Kabupaten Tana Tidung</name>
-      <latitude>3.55000000</latitude>
-      <longitude>117.25000000</longitude>
+      <id>56855</id>
+      <name>Makassar</name>
+      <latitude>-5.14861000</latitude>
+      <longitude>119.43194000</longitude>
     </cities>
     <cities>
-      <id>57019</id>
-      <name>Tanjung Selor</name>
-      <latitude>2.83750000</latitude>
-      <longitude>117.36528000</longitude>
+      <id>56863</id>
+      <name>Maros</name>
+      <latitude>-5.00600000</latitude>
+      <longitude>119.57270000</longitude>
     </cities>
     <cities>
-      <id>57023</id>
-      <name>Tarakan</name>
-      <latitude>3.31332000</latitude>
-      <longitude>117.59152000</longitude>
+      <id>56900</id>
+      <name>Palopo</name>
+      <latitude>-2.99250000</latitude>
+      <longitude>120.19694000</longitude>
+    </cities>
+    <cities>
+      <id>56916</id>
+      <name>Parepare</name>
+      <latitude>-4.01350000</latitude>
+      <longitude>119.62550000</longitude>
+    </cities>
+    <cities>
+      <id>56952</id>
+      <name>Rantepao</name>
+      <latitude>-2.97010000</latitude>
+      <longitude>119.89780000</longitude>
+    </cities>
+    <cities>
+      <id>56963</id>
+      <name>Selayar Islands Regency</name>
+      <latitude>-6.81667000</latitude>
+      <longitude>120.80000000</longitude>
+    </cities>
+    <cities>
+      <id>56967</id>
+      <name>Sengkang</name>
+      <latitude>-4.12790000</latitude>
+      <longitude>120.02970000</longitude>
+    </cities>
+    <cities>
+      <id>56985</id>
+      <name>Sinjai</name>
+      <latitude>-5.12410000</latitude>
+      <longitude>120.25300000</longitude>
+    </cities>
+    <cities>
+      <id>57052</id>
+      <name>Watampone</name>
+      <latitude>-4.53860000</latitude>
+      <longitude>120.32790000</longitude>
     </cities>
   </state_city>
   <state_city>
-    <id>1801</id>
-    <name>North Maluku</name>
-    <state_code>MU</state_code>
-    <latitude>1.57099930</latitude>
-    <longitude>127.80876930</longitude>
+    <id>1813</id>
+    <name>Sulawesi Tengah</name>
+    <state_code>ST</state_code>
+    <latitude>-1.43002540</latitude>
+    <longitude>121.44561790</longitude>
     <country_id>102</country_id>
     <cities>
-      <id>56271</id>
-      <name>East Halmahera Regency</name>
-      <latitude>1.33517000</latitude>
-      <longitude>128.48627000</longitude>
+      <id>56326</id>
+      <name>Kabupaten Banggai</name>
+      <latitude>-0.91141000</latitude>
+      <longitude>122.71836000</longitude>
     </cities>
     <cities>
-      <id>56416</id>
-      <name>Kabupaten Halmahera Barat</name>
-      <latitude>1.41709000</latitude>
-      <longitude>127.55264000</longitude>
+      <id>56327</id>
+      <name>Kabupaten Banggai Kepulauan</name>
+      <latitude>-1.30236000</latitude>
+      <longitude>123.03726000</longitude>
     </cities>
     <cities>
-      <id>56417</id>
-      <name>Kabupaten Halmahera Selatan</name>
-      <latitude>-0.39550000</latitude>
-      <longitude>127.90833000</longitude>
+      <id>56328</id>
+      <name>Kabupaten Banggai Laut</name>
+      <latitude>-1.61841000</latitude>
+      <longitude>123.49388000</longitude>
     </cities>
     <cities>
-      <id>56418</id>
-      <name>Kabupaten Halmahera Tengah</name>
-      <latitude>0.48056000</latitude>
-      <longitude>128.25000000</longitude>
+      <id>56383</id>
+      <name>Kabupaten Buol</name>
+      <latitude>1.04656000</latitude>
+      <longitude>121.36867000</longitude>
     </cities>
     <cities>
-      <id>56419</id>
-      <name>Kabupaten Halmahera Utara</name>
-      <latitude>1.73194000</latitude>
-      <longitude>128.00778000</longitude>
+      <id>56401</id>
+      <name>Kabupaten Donggala</name>
+      <latitude>-0.58333000</latitude>
+      <longitude>119.85000000</longitude>
     </cities>
     <cities>
-      <id>56455</id>
-      <name>Kabupaten Kepulauan Sula</name>
-      <latitude>-1.86460000</latitude>
-      <longitude>125.69046000</longitude>
+      <id>56541</id>
+      <name>Kabupaten Morowali Utara</name>
+      <latitude>-1.72070000</latitude>
+      <longitude>121.24649000</longitude>
     </cities>
     <cities>
-      <id>56602</id>
-      <name>Kabupaten Pulau Morotai</name>
-      <latitude>2.19924000</latitude>
-      <longitude>128.40546000</longitude>
+      <id>56578</id>
+      <name>Kabupaten Parigi Moutong</name>
+      <latitude>0.33680000</latitude>
+      <longitude>120.17841000</longitude>
     </cities>
     <cities>
-      <id>56603</id>
-      <name>Kabupaten Pulau Taliabu</name>
-      <latitude>-1.84578000</latitude>
-      <longitude>124.78992000</longitude>
+      <id>56598</id>
+      <name>Kabupaten Poso</name>
+      <latitude>-1.65000000</latitude>
+      <longitude>120.50000000</longitude>
     </cities>
     <cities>
-      <id>56812</id>
-      <name>Kota Ternate</name>
-      <latitude>0.89618000</latitude>
-      <longitude>127.31016000</longitude>
+      <id>56630</id>
+      <name>Kabupaten Sigi</name>
+      <latitude>-1.38500000</latitude>
+      <longitude>119.96694000</longitude>
     </cities>
     <cities>
-      <id>56813</id>
-      <name>Kota Tidore Kepulauan</name>
-      <latitude>0.60962000</latitude>
-      <longitude>127.56981000</longitude>
+      <id>56682</id>
+      <name>Kabupaten Toli-Toli</name>
+      <latitude>1.30862000</latitude>
+      <longitude>120.88643000</longitude>
     </cities>
     <cities>
-      <id>56990</id>
-      <name>Sofifi</name>
-      <latitude>0.73729000</latitude>
-      <longitude>127.55880000</longitude>
+      <id>56780</id>
+      <name>Kota Palu</name>
+      <latitude>-0.86972000</latitude>
+      <longitude>119.90000000</longitude>
     </cities>
     <cities>
-      <id>57032</id>
-      <name>Ternate</name>
-      <latitude>0.79065000</latitude>
-      <longitude>127.38424000</longitude>
+      <id>56849</id>
+      <name>Luwuk</name>
+      <latitude>-0.95160000</latitude>
+      <longitude>122.78750000</longitude>
     </cities>
     <cities>
-      <id>57033</id>
-      <name>Tobelo</name>
-      <latitude>1.72837000</latitude>
-      <longitude>128.00948000</longitude>
+      <id>56876</id>
+      <name>Morowali Regency</name>
+      <latitude>-2.76062000</latitude>
+      <longitude>121.95267000</longitude>
+    </cities>
+    <cities>
+      <id>56901</id>
+      <name>Palu</name>
+      <latitude>-0.90833000</latitude>
+      <longitude>119.87083000</longitude>
+    </cities>
+    <cities>
+      <id>56937</id>
+      <name>Poso</name>
+      <latitude>-1.39590000</latitude>
+      <longitude>120.75240000</longitude>
+    </cities>
+    <cities>
+      <id>57034</id>
+      <name>Tojo Una-Una Regency</name>
+      <latitude>-1.20360000</latitude>
+      <longitude>121.48201000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1796</id>
+    <name>Sulawesi Tenggara</name>
+    <state_code>SG</state_code>
+    <latitude>-4.14491000</latitude>
+    <longitude>122.17460500</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56372</id>
+      <name>Kabupaten Bombana</name>
+      <latitude>-4.62570000</latitude>
+      <longitude>121.81641000</longitude>
+    </cities>
+    <cities>
+      <id>56386</id>
+      <name>Kabupaten Buton</name>
+      <latitude>-5.31667000</latitude>
+      <longitude>122.91667000</longitude>
+    </cities>
+    <cities>
+      <id>56387</id>
+      <name>Kabupaten Buton Selatan</name>
+      <latitude>-5.56667000</latitude>
+      <longitude>122.70000000</longitude>
+    </cities>
+    <cities>
+      <id>56388</id>
+      <name>Kabupaten Buton Tengah</name>
+      <latitude>-5.31667000</latitude>
+      <longitude>122.33333000</longitude>
+    </cities>
+    <cities>
+      <id>56389</id>
+      <name>Kabupaten Buton Utara</name>
+      <latitude>-5.01457000</latitude>
+      <longitude>122.93015000</longitude>
+    </cities>
+    <cities>
+      <id>56461</id>
+      <name>Kabupaten Kolaka</name>
+      <latitude>-4.08333000</latitude>
+      <longitude>121.66667000</longitude>
+    </cities>
+    <cities>
+      <id>56462</id>
+      <name>Kabupaten Kolaka Timur</name>
+      <latitude>-4.01807000</latitude>
+      <longitude>121.86172000</longitude>
+    </cities>
+    <cities>
+      <id>56463</id>
+      <name>Kabupaten Kolaka Utara</name>
+      <latitude>-3.10452000</latitude>
+      <longitude>121.12427000</longitude>
+    </cities>
+    <cities>
+      <id>56464</id>
+      <name>Kabupaten Konawe</name>
+      <latitude>-3.91717000</latitude>
+      <longitude>122.08823000</longitude>
+    </cities>
+    <cities>
+      <id>56465</id>
+      <name>Kabupaten Konawe Kepulauan</name>
+      <latitude>-4.11656000</latitude>
+      <longitude>123.10181000</longitude>
+    </cities>
+    <cities>
+      <id>56466</id>
+      <name>Kabupaten Konawe Selatan</name>
+      <latitude>-4.19191000</latitude>
+      <longitude>122.44854000</longitude>
+    </cities>
+    <cities>
+      <id>56467</id>
+      <name>Kabupaten Konawe Utara</name>
+      <latitude>-3.41552000</latitude>
+      <longitude>121.99081000</longitude>
+    </cities>
+    <cities>
+      <id>56545</id>
+      <name>Kabupaten Muna</name>
+      <latitude>-4.96667000</latitude>
+      <longitude>122.66667000</longitude>
+    </cities>
+    <cities>
+      <id>56546</id>
+      <name>Kabupaten Muna Barat</name>
+      <latitude>-4.83333000</latitude>
+      <longitude>122.48333000</longitude>
+    </cities>
+    <cities>
+      <id>56703</id>
+      <name>Katabu</name>
+      <latitude>-4.93330000</latitude>
+      <longitude>122.51670000</longitude>
+    </cities>
+    <cities>
+      <id>56712</id>
+      <name>Kendari</name>
+      <latitude>-3.97780000</latitude>
+      <longitude>122.51507000</longitude>
+    </cities>
+    <cities>
+      <id>56737</id>
+      <name>Kota Baubau</name>
+      <latitude>-5.47700000</latitude>
+      <longitude>122.61660000</longitude>
+    </cities>
+    <cities>
+      <id>56758</id>
+      <name>Kota Kendari</name>
+      <latitude>-3.98333000</latitude>
+      <longitude>122.50000000</longitude>
+    </cities>
+    <cities>
+      <id>57049</id>
+      <name>Wakatobi Regency</name>
+      <latitude>-5.31934000</latitude>
+      <longitude>123.59480000</longitude>
     </cities>
   </state_city>
   <state_city>
     <id>1808</id>
-    <name>North Sulawesi</name>
+    <name>Sulawesi Utara</name>
     <state_code>SA</state_code>
     <latitude>0.62469320</latitude>
     <longitude>123.97500180</longitude>
@@ -310320,8 +312058,312 @@
     </cities>
   </state_city>
   <state_city>
+    <id>1828</id>
+    <name>Sumatera Barat</name>
+    <state_code>SB</state_code>
+    <latitude>-0.73993970</latitude>
+    <longitude>100.80000510</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56234</id>
+      <name>Bukittinggi</name>
+      <latitude>-0.30907000</latitude>
+      <longitude>100.37055000</longitude>
+    </cities>
+    <cities>
+      <id>56318</id>
+      <name>Kabupaten Agam</name>
+      <latitude>-0.25000000</latitude>
+      <longitude>100.16667000</longitude>
+    </cities>
+    <cities>
+      <id>56398</id>
+      <name>Kabupaten Dharmasraya</name>
+      <latitude>-1.05000000</latitude>
+      <longitude>101.36700000</longitude>
+    </cities>
+    <cities>
+      <id>56452</id>
+      <name>Kabupaten Kepulauan Mentawai</name>
+      <latitude>1.98917000</latitude>
+      <longitude>99.51889000</longitude>
+    </cities>
+    <cities>
+      <id>56494</id>
+      <name>Kabupaten Lima Puluh Kota</name>
+      <latitude>-0.01680000</latitude>
+      <longitude>100.58720000</longitude>
+    </cities>
+    <cities>
+      <id>56571</id>
+      <name>Kabupaten Padang Pariaman</name>
+      <latitude>-0.60000000</latitude>
+      <longitude>100.28333000</longitude>
+    </cities>
+    <cities>
+      <id>56579</id>
+      <name>Kabupaten Pasaman</name>
+      <latitude>0.42503000</latitude>
+      <longitude>99.94606000</longitude>
+    </cities>
+    <cities>
+      <id>56580</id>
+      <name>Kabupaten Pasaman Barat</name>
+      <latitude>0.28152000</latitude>
+      <longitude>99.51965000</longitude>
+    </cities>
+    <cities>
+      <id>56592</id>
+      <name>Kabupaten Pesisir Selatan</name>
+      <latitude>-1.58333000</latitude>
+      <longitude>100.85000000</longitude>
+    </cities>
+    <cities>
+      <id>56631</id>
+      <name>Kabupaten Sijunjung</name>
+      <latitude>-1.18270000</latitude>
+      <longitude>101.60560000</longitude>
+    </cities>
+    <cities>
+      <id>56638</id>
+      <name>Kabupaten Solok</name>
+      <latitude>-0.96667000</latitude>
+      <longitude>100.81667000</longitude>
+    </cities>
+    <cities>
+      <id>56639</id>
+      <name>Kabupaten Solok Selatan</name>
+      <latitude>-1.23333000</latitude>
+      <longitude>101.41700000</longitude>
+    </cities>
+    <cities>
+      <id>56664</id>
+      <name>Kabupaten Tanah Datar</name>
+      <latitude>-0.45550000</latitude>
+      <longitude>100.57710000</longitude>
+    </cities>
+    <cities>
+      <id>56746</id>
+      <name>Kota Bukittinggi</name>
+      <latitude>-0.27500000</latitude>
+      <longitude>100.37500000</longitude>
+    </cities>
+    <cities>
+      <id>56773</id>
+      <name>Kota Padang</name>
+      <latitude>-0.98333000</latitude>
+      <longitude>100.45000000</longitude>
+    </cities>
+    <cities>
+      <id>56774</id>
+      <name>Kota Padang Panjang</name>
+      <latitude>-0.45000000</latitude>
+      <longitude>100.43333000</longitude>
+    </cities>
+    <cities>
+      <id>56783</id>
+      <name>Kota Pariaman</name>
+      <latitude>-0.62682000</latitude>
+      <longitude>100.12047000</longitude>
+    </cities>
+    <cities>
+      <id>56785</id>
+      <name>Kota Payakumbuh</name>
+      <latitude>-0.23333000</latitude>
+      <longitude>100.63333000</longitude>
+    </cities>
+    <cities>
+      <id>56794</id>
+      <name>Kota Sawah Lunto</name>
+      <latitude>-0.60000000</latitude>
+      <longitude>100.75000000</longitude>
+    </cities>
+    <cities>
+      <id>56798</id>
+      <name>Kota Solok</name>
+      <latitude>-0.76667000</latitude>
+      <longitude>100.61667000</longitude>
+    </cities>
+    <cities>
+      <id>56893</id>
+      <name>Padang</name>
+      <latitude>-0.94924000</latitude>
+      <longitude>100.35427000</longitude>
+    </cities>
+    <cities>
+      <id>56917</id>
+      <name>Pariaman</name>
+      <latitude>-0.61898000</latitude>
+      <longitude>100.11997000</longitude>
+    </cities>
+    <cities>
+      <id>56923</id>
+      <name>Payakumbuh</name>
+      <latitude>-0.21590000</latitude>
+      <longitude>100.63340000</longitude>
+    </cities>
+    <cities>
+      <id>56977</id>
+      <name>Sijunjung</name>
+      <latitude>-0.70050000</latitude>
+      <longitude>100.97740000</longitude>
+    </cities>
+    <cities>
+      <id>56993</id>
+      <name>Solok</name>
+      <latitude>-0.80060000</latitude>
+      <longitude>100.65710000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1816</id>
+    <name>Sumatera Selatan</name>
+    <state_code>SS</state_code>
+    <latitude>-3.31943740</latitude>
+    <longitude>103.91439900</longitude>
+    <country_id>102</country_id>
+    <cities>
+      <id>56212</id>
+      <name>Baturaja</name>
+      <latitude>-4.12891000</latitude>
+      <longitude>104.16695000</longitude>
+    </cities>
+    <cities>
+      <id>56402</id>
+      <name>Kabupaten Empat Lawang</name>
+      <latitude>3.22667000</latitude>
+      <longitude>99.09256000</longitude>
+    </cities>
+    <cities>
+      <id>56542</id>
+      <name>Kabupaten Muara Enim</name>
+      <latitude>-4.23270000</latitude>
+      <longitude>103.61410000</longitude>
+    </cities>
+    <cities>
+      <id>56548</id>
+      <name>Kabupaten Musi Banyuasin</name>
+      <latitude>-2.41667000</latitude>
+      <longitude>103.75000000</longitude>
+    </cities>
+    <cities>
+      <id>56549</id>
+      <name>Kabupaten Musi Rawas</name>
+      <latitude>-3.08333000</latitude>
+      <longitude>103.20000000</longitude>
+    </cities>
+    <cities>
+      <id>56550</id>
+      <name>Kabupaten Musi Rawas Utara</name>
+      <latitude>-2.48533000</latitude>
+      <longitude>103.29346000</longitude>
+    </cities>
+    <cities>
+      <id>56563</id>
+      <name>Kabupaten Ogan Ilir</name>
+      <latitude>-3.43186000</latitude>
+      <longitude>104.62727000</longitude>
+    </cities>
+    <cities>
+      <id>56564</id>
+      <name>Kabupaten Ogan Komering Ilir</name>
+      <latitude>-3.36667000</latitude>
+      <longitude>105.36667000</longitude>
+    </cities>
+    <cities>
+      <id>56565</id>
+      <name>Kabupaten Ogan Komering Ulu</name>
+      <latitude>-4.13333000</latitude>
+      <longitude>104.03333000</longitude>
+    </cities>
+    <cities>
+      <id>56566</id>
+      <name>Kabupaten Ogan Komering Ulu Selatan</name>
+      <latitude>-4.65728000</latitude>
+      <longitude>104.00659000</longitude>
+    </cities>
+    <cities>
+      <id>56567</id>
+      <name>Kabupaten Ogan Komering Ulu Timur</name>
+      <latitude>-3.85679000</latitude>
+      <longitude>104.75209000</longitude>
+    </cities>
+    <cities>
+      <id>56589</id>
+      <name>Kabupaten Penukal Abab Lematang Ilir</name>
+      <latitude>-3.21342000</latitude>
+      <longitude>104.08722000</longitude>
+    </cities>
+    <cities>
+      <id>56763</id>
+      <name>Kota Lubuklinggau</name>
+      <latitude>-3.29308000</latitude>
+      <longitude>102.85503000</longitude>
+    </cities>
+    <cities>
+      <id>56776</id>
+      <name>Kota Pagar Alam</name>
+      <latitude>-4.13055000</latitude>
+      <longitude>103.26822000</longitude>
+    </cities>
+    <cities>
+      <id>56778</id>
+      <name>Kota Palembang</name>
+      <latitude>-3.00000000</latitude>
+      <longitude>104.71667000</longitude>
+    </cities>
+    <cities>
+      <id>56789</id>
+      <name>Kota Prabumulih</name>
+      <latitude>-3.46202000</latitude>
+      <longitude>104.22290000</longitude>
+    </cities>
+    <cities>
+      <id>56833</id>
+      <name>Lahat</name>
+      <latitude>-3.78514000</latitude>
+      <longitude>103.54279000</longitude>
+    </cities>
+    <cities>
+      <id>56834</id>
+      <name>Lahat Regency</name>
+      <latitude>-3.78640000</latitude>
+      <longitude>103.54280000</longitude>
+    </cities>
+    <cities>
+      <id>56847</id>
+      <name>Lubuklinggau</name>
+      <latitude>-3.29450000</latitude>
+      <longitude>102.86140000</longitude>
+    </cities>
+    <cities>
+      <id>56895</id>
+      <name>Pagar Alam</name>
+      <latitude>-4.02506000</latitude>
+      <longitude>103.24694000</longitude>
+    </cities>
+    <cities>
+      <id>56898</id>
+      <name>Palembang</name>
+      <latitude>-2.91673000</latitude>
+      <longitude>104.74580000</longitude>
+    </cities>
+    <cities>
+      <id>56939</id>
+      <name>Prabumulih</name>
+      <latitude>-3.43447000</latitude>
+      <longitude>104.23056000</longitude>
+    </cities>
+    <cities>
+      <id>57020</id>
+      <name>Tanjungagung</name>
+      <latitude>-3.93728000</latitude>
+      <longitude>103.80465000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
     <id>1792</id>
-    <name>North Sumatra</name>
+    <name>Sumatera Utara</name>
     <state_code>SU</state_code>
     <latitude>2.11535470</latitude>
     <longitude>99.54509740</longitude>
@@ -310685,2084 +312727,6 @@
       <name>Tuktuk Sonak</name>
       <latitude>2.66890000</latitude>
       <longitude>98.85760000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1798</id>
-    <name>Papua</name>
-    <state_code>PA</state_code>
-    <latitude>-5.01222020</latitude>
-    <longitude>141.34701590</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56173</id>
-      <name>Abepura</name>
-      <latitude>-2.59640000</latitude>
-      <longitude>140.63240000</longitude>
-    </cities>
-    <cities>
-      <id>56220</id>
-      <name>Biak</name>
-      <latitude>-1.17670000</latitude>
-      <longitude>136.08200000</longitude>
-    </cities>
-    <cities>
-      <id>56292</id>
-      <name>Insrom</name>
-      <latitude>-1.14473000</latitude>
-      <longitude>136.03134000</longitude>
-    </cities>
-    <cities>
-      <id>56299</id>
-      <name>Jayapura</name>
-      <latitude>-2.53371000</latitude>
-      <longitude>140.71813000</longitude>
-    </cities>
-    <cities>
-      <id>56321</id>
-      <name>Kabupaten Asmat</name>
-      <latitude>-5.37950000</latitude>
-      <longitude>138.46344000</longitude>
-    </cities>
-    <cities>
-      <id>56359</id>
-      <name>Kabupaten Biak Numfor</name>
-      <latitude>-1.03333000</latitude>
-      <longitude>136.00000000</longitude>
-    </cities>
-    <cities>
-      <id>56376</id>
-      <name>Kabupaten Boven Digoel</name>
-      <latitude>-5.70519000</latitude>
-      <longitude>140.36349000</longitude>
-    </cities>
-    <cities>
-      <id>56395</id>
-      <name>Kabupaten Deiyai</name>
-      <latitude>-3.94737000</latitude>
-      <longitude>135.95032000</longitude>
-    </cities>
-    <cities>
-      <id>56399</id>
-      <name>Kabupaten Dogiyai</name>
-      <latitude>-4.03186000</latitude>
-      <longitude>135.43945000</longitude>
-    </cities>
-    <cities>
-      <id>56427</id>
-      <name>Kabupaten Intan Jaya</name>
-      <latitude>-3.41016000</latitude>
-      <longitude>136.70837000</longitude>
-    </cities>
-    <cities>
-      <id>56428</id>
-      <name>Kabupaten Jayapura</name>
-      <latitude>-3.00000000</latitude>
-      <longitude>139.95000000</longitude>
-    </cities>
-    <cities>
-      <id>56429</id>
-      <name>Kabupaten Jayawijaya</name>
-      <latitude>-4.08333000</latitude>
-      <longitude>139.08333000</longitude>
-    </cities>
-    <cities>
-      <id>56447</id>
-      <name>Kabupaten Keerom</name>
-      <latitude>-3.30000000</latitude>
-      <longitude>140.61667000</longitude>
-    </cities>
-    <cities>
-      <id>56457</id>
-      <name>Kabupaten Kepulauan Yapen</name>
-      <latitude>-1.78773000</latitude>
-      <longitude>136.27716000</longitude>
-    </cities>
-    <cities>
-      <id>56490</id>
-      <name>Kabupaten Lanny Jaya</name>
-      <latitude>-3.91244000</latitude>
-      <longitude>138.28766000</longitude>
-    </cities>
-    <cities>
-      <id>56518</id>
-      <name>Kabupaten Mamberamo Raya</name>
-      <latitude>-2.23561000</latitude>
-      <longitude>137.78229000</longitude>
-    </cities>
-    <cities>
-      <id>56519</id>
-      <name>Kabupaten Mamberamo Tengah</name>
-      <latitude>-2.46064000</latitude>
-      <longitude>138.45245000</longitude>
-    </cities>
-    <cities>
-      <id>56529</id>
-      <name>Kabupaten Mappi</name>
-      <latitude>-6.49971000</latitude>
-      <longitude>139.34441000</longitude>
-    </cities>
-    <cities>
-      <id>56533</id>
-      <name>Kabupaten Merauke</name>
-      <latitude>-7.66667000</latitude>
-      <longitude>139.66667000</longitude>
-    </cities>
-    <cities>
-      <id>56535</id>
-      <name>Kabupaten Mimika</name>
-      <latitude>-4.54357000</latitude>
-      <longitude>136.56555000</longitude>
-    </cities>
-    <cities>
-      <id>56551</id>
-      <name>Kabupaten Nabire</name>
-      <latitude>-3.54016000</latitude>
-      <longitude>135.55511000</longitude>
-    </cities>
-    <cities>
-      <id>56555</id>
-      <name>Kabupaten Nduga</name>
-      <latitude>-4.45093000</latitude>
-      <longitude>138.10089000</longitude>
-    </cities>
-    <cities>
-      <id>56577</id>
-      <name>Kabupaten Paniai</name>
-      <latitude>-3.90000000</latitude>
-      <longitude>136.60000000</longitude>
-    </cities>
-    <cities>
-      <id>56584</id>
-      <name>Kabupaten Pegunungan Bintang</name>
-      <latitude>-4.52167000</latitude>
-      <longitude>140.29541000</longitude>
-    </cities>
-    <cities>
-      <id>56604</id>
-      <name>Kabupaten Puncak Jaya</name>
-      <latitude>-3.67241000</latitude>
-      <longitude>137.43896000</longitude>
-    </cities>
-    <cities>
-      <id>56617</id>
-      <name>Kabupaten Sarmi</name>
-      <latitude>-2.41667000</latitude>
-      <longitude>139.08333000</longitude>
-    </cities>
-    <cities>
-      <id>56656</id>
-      <name>Kabupaten Supiori</name>
-      <latitude>-0.73881000</latitude>
-      <longitude>135.61111000</longitude>
-    </cities>
-    <cities>
-      <id>56683</id>
-      <name>Kabupaten Tolikara</name>
-      <latitude>-3.42661000</latitude>
-      <longitude>137.41699000</longitude>
-    </cities>
-    <cities>
-      <id>56690</id>
-      <name>Kabupaten Waropen</name>
-      <latitude>-2.28600000</latitude>
-      <longitude>137.01837000</longitude>
-    </cities>
-    <cities>
-      <id>56694</id>
-      <name>Kabupaten Yahukimo</name>
-      <latitude>-4.60403000</latitude>
-      <longitude>139.58405000</longitude>
-    </cities>
-    <cities>
-      <id>56695</id>
-      <name>Kabupaten Yalimo</name>
-      <latitude>-3.86037000</latitude>
-      <longitude>138.47305000</longitude>
-    </cities>
-    <cities>
-      <id>56756</id>
-      <name>Kota Jayapura</name>
-      <latitude>-2.64647000</latitude>
-      <longitude>140.77779000</longitude>
-    </cities>
-    <cities>
-      <id>56882</id>
-      <name>Nabire</name>
-      <latitude>-3.35989000</latitude>
-      <longitude>135.50074000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1809</id>
-    <name>Riau</name>
-    <state_code>RI</state_code>
-    <latitude>0.29334690</latitude>
-    <longitude>101.70682940</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56188</id>
-      <name>Balaipungut</name>
-      <latitude>1.05949000</latitude>
-      <longitude>101.29054000</longitude>
-    </cities>
-    <cities>
-      <id>56208</id>
-      <name>Batam</name>
-      <latitude>1.14937000</latitude>
-      <longitude>104.02491000</longitude>
-    </cities>
-    <cities>
-      <id>56270</id>
-      <name>Dumai</name>
-      <latitude>1.66711000</latitude>
-      <longitude>101.44316000</longitude>
-    </cities>
-    <cities>
-      <id>56354</id>
-      <name>Kabupaten Bengkalis</name>
-      <latitude>0.98380000</latitude>
-      <longitude>102.50960000</longitude>
-    </cities>
-    <cities>
-      <id>56424</id>
-      <name>Kabupaten Indragiri Hilir</name>
-      <latitude>-0.33333000</latitude>
-      <longitude>103.16667000</longitude>
-    </cities>
-    <cities>
-      <id>56425</id>
-      <name>Kabupaten Indragiri Hulu</name>
-      <latitude>-0.55000000</latitude>
-      <longitude>102.31667000</longitude>
-    </cities>
-    <cities>
-      <id>56436</id>
-      <name>Kabupaten Kampar</name>
-      <latitude>0.23440000</latitude>
-      <longitude>101.21310000</longitude>
-    </cities>
-    <cities>
-      <id>56453</id>
-      <name>Kabupaten Kepulauan Meranti</name>
-      <latitude>0.97488000</latitude>
-      <longitude>102.69539000</longitude>
-    </cities>
-    <cities>
-      <id>56471</id>
-      <name>Kabupaten Kuantan Singingi</name>
-      <latitude>-0.47532000</latitude>
-      <longitude>101.45857000</longitude>
-    </cities>
-    <cities>
-      <id>56586</id>
-      <name>Kabupaten Pelalawan</name>
-      <latitude>0.20822000</latitude>
-      <longitude>102.18607000</longitude>
-    </cities>
-    <cities>
-      <id>56611</id>
-      <name>Kabupaten Rokan Hilir</name>
-      <latitude>2.16599000</latitude>
-      <longitude>100.82514000</longitude>
-    </cities>
-    <cities>
-      <id>56612</id>
-      <name>Kabupaten Rokan Hulu</name>
-      <latitude>0.88333000</latitude>
-      <longitude>100.48333000</longitude>
-    </cities>
-    <cities>
-      <id>56626</id>
-      <name>Kabupaten Siak</name>
-      <latitude>0.97453000</latitude>
-      <longitude>102.01355000</longitude>
-    </cities>
-    <cities>
-      <id>56752</id>
-      <name>Kota Dumai</name>
-      <latitude>1.61592000</latitude>
-      <longitude>101.49170000</longitude>
-    </cities>
-    <cities>
-      <id>56787</id>
-      <name>Kota Pekanbaru</name>
-      <latitude>0.53333000</latitude>
-      <longitude>101.46667000</longitude>
-    </cities>
-    <cities>
-      <id>56927</id>
-      <name>Pekanbaru</name>
-      <latitude>0.51667000</latitude>
-      <longitude>101.44167000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1807</id>
-    <name>Riau Islands</name>
-    <state_code>KR</state_code>
-    <latitude>3.94565140</latitude>
-    <longitude>108.14286690</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56361</id>
-      <name>Kabupaten Bintan</name>
-      <latitude>0.95000000</latitude>
-      <longitude>104.61944000</longitude>
-    </cities>
-    <cities>
-      <id>56441</id>
-      <name>Kabupaten Karimun</name>
-      <latitude>0.80764000</latitude>
-      <longitude>103.41911000</longitude>
-    </cities>
-    <cities>
-      <id>56450</id>
-      <name>Kabupaten Kepulauan Anambas</name>
-      <latitude>3.00000000</latitude>
-      <longitude>106.00000000</longitude>
-    </cities>
-    <cities>
-      <id>56495</id>
-      <name>Kabupaten Lingga</name>
-      <latitude>0.20000000</latitude>
-      <longitude>104.61667000</longitude>
-    </cities>
-    <cities>
-      <id>56554</id>
-      <name>Kabupaten Natuna</name>
-      <latitude>4.71417000</latitude>
-      <longitude>107.97639000</longitude>
-    </cities>
-    <cities>
-      <id>56716</id>
-      <name>Kijang</name>
-      <latitude>0.90000000</latitude>
-      <longitude>104.63333000</longitude>
-    </cities>
-    <cities>
-      <id>56735</id>
-      <name>Kota Batam</name>
-      <latitude>1.05211000</latitude>
-      <longitude>104.02851000</longitude>
-    </cities>
-    <cities>
-      <id>56808</id>
-      <name>Kota Tanjung Pinang</name>
-      <latitude>0.91683000</latitude>
-      <longitude>104.44329000</longitude>
-    </cities>
-    <cities>
-      <id>57018</id>
-      <name>Tanjung Pinang</name>
-      <latitude>0.91667000</latitude>
-      <longitude>104.45833000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1819</id>
-    <name>South Kalimantan</name>
-    <state_code>KS</state_code>
-    <latitude>-3.09264150</latitude>
-    <longitude>115.28375850</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56181</id>
-      <name>Amuntai</name>
-      <latitude>-2.41773000</latitude>
-      <longitude>115.24941000</longitude>
-    </cities>
-    <cities>
-      <id>56203</id>
-      <name>Banjarmasin</name>
-      <latitude>-3.31987000</latitude>
-      <longitude>114.59075000</longitude>
-    </cities>
-    <cities>
-      <id>56207</id>
-      <name>Barabai</name>
-      <latitude>-2.58333000</latitude>
-      <longitude>115.38333000</longitude>
-    </cities>
-    <cities>
-      <id>56323</id>
-      <name>Kabupaten Balangan</name>
-      <latitude>-2.32314000</latitude>
-      <longitude>115.62922000</longitude>
-    </cities>
-    <cities>
-      <id>56335</id>
-      <name>Kabupaten Banjar</name>
-      <latitude>-3.31667000</latitude>
-      <longitude>115.08333000</longitude>
-    </cities>
-    <cities>
-      <id>56341</id>
-      <name>Kabupaten Barito Kuala</name>
-      <latitude>-3.08333000</latitude>
-      <longitude>114.61667000</longitude>
-    </cities>
-    <cities>
-      <id>56420</id>
-      <name>Kabupaten Hulu Sungai Selatan</name>
-      <latitude>-2.75000000</latitude>
-      <longitude>115.20000000</longitude>
-    </cities>
-    <cities>
-      <id>56421</id>
-      <name>Kabupaten Hulu Sungai Tengah</name>
-      <latitude>-2.61667000</latitude>
-      <longitude>115.41667000</longitude>
-    </cities>
-    <cities>
-      <id>56422</id>
-      <name>Kabupaten Hulu Sungai Utara</name>
-      <latitude>-2.45000000</latitude>
-      <longitude>115.13333000</longitude>
-    </cities>
-    <cities>
-      <id>56468</id>
-      <name>Kabupaten Kota Baru</name>
-      <latitude>-3.00000000</latitude>
-      <longitude>116.00000000</longitude>
-    </cities>
-    <cities>
-      <id>56657</id>
-      <name>Kabupaten Tabalong</name>
-      <latitude>-1.88333000</latitude>
-      <longitude>115.50000000</longitude>
-    </cities>
-    <cities>
-      <id>56663</id>
-      <name>Kabupaten Tanah Bumbu</name>
-      <latitude>-3.45413000</latitude>
-      <longitude>115.70372000</longitude>
-    </cities>
-    <cities>
-      <id>56665</id>
-      <name>Kabupaten Tanah Laut</name>
-      <latitude>-3.88333000</latitude>
-      <longitude>114.86667000</longitude>
-    </cities>
-    <cities>
-      <id>56673</id>
-      <name>Kabupaten Tapin</name>
-      <latitude>-2.91667000</latitude>
-      <longitude>115.03333000</longitude>
-    </cities>
-    <cities>
-      <id>56733</id>
-      <name>Kota Banjar Baru</name>
-      <latitude>-3.41667000</latitude>
-      <longitude>114.83333000</longitude>
-    </cities>
-    <cities>
-      <id>56734</id>
-      <name>Kota Banjarmasin</name>
-      <latitude>-3.32444000</latitude>
-      <longitude>114.59102000</longitude>
-    </cities>
-    <cities>
-      <id>56864</id>
-      <name>Martapura</name>
-      <latitude>-3.41090000</latitude>
-      <longitude>114.86420000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1795</id>
-    <name>South Sulawesi</name>
-    <state_code>SN</state_code>
-    <latitude>-3.66879940</latitude>
-    <longitude>119.97405340</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56273</id>
-      <name>Galesong</name>
-      <latitude>-5.31660000</latitude>
-      <longitude>119.36610000</longitude>
-    </cities>
-    <cities>
-      <id>56337</id>
-      <name>Kabupaten Bantaeng</name>
-      <latitude>-5.48333000</latitude>
-      <longitude>119.98333000</longitude>
-    </cities>
-    <cities>
-      <id>56345</id>
-      <name>Kabupaten Barru</name>
-      <latitude>-4.43333000</latitude>
-      <longitude>119.68333000</longitude>
-    </cities>
-    <cities>
-      <id>56374</id>
-      <name>Kabupaten Bone</name>
-      <latitude>-4.70000000</latitude>
-      <longitude>120.13333000</longitude>
-    </cities>
-    <cities>
-      <id>56380</id>
-      <name>Kabupaten Bulukumba</name>
-      <latitude>-5.41667000</latitude>
-      <longitude>120.23333000</longitude>
-    </cities>
-    <cities>
-      <id>56404</id>
-      <name>Kabupaten Enrekang</name>
-      <latitude>-3.50000000</latitude>
-      <longitude>119.86667000</longitude>
-    </cities>
-    <cities>
-      <id>56412</id>
-      <name>Kabupaten Gowa</name>
-      <latitude>-5.31667000</latitude>
-      <longitude>119.75000000</longitude>
-    </cities>
-    <cities>
-      <id>56432</id>
-      <name>Kabupaten Jeneponto</name>
-      <latitude>-5.63333000</latitude>
-      <longitude>119.73333000</longitude>
-    </cities>
-    <cities>
-      <id>56501</id>
-      <name>Kabupaten Luwu</name>
-      <latitude>-2.55770000</latitude>
-      <longitude>121.32420000</longitude>
-    </cities>
-    <cities>
-      <id>56502</id>
-      <name>Kabupaten Luwu Timur</name>
-      <latitude>-2.50957000</latitude>
-      <longitude>120.39780000</longitude>
-    </cities>
-    <cities>
-      <id>56503</id>
-      <name>Kabupaten Luwu Utara</name>
-      <latitude>-2.60000000</latitude>
-      <longitude>120.25000000</longitude>
-    </cities>
-    <cities>
-      <id>56530</id>
-      <name>Kabupaten Maros</name>
-      <latitude>-5.05000000</latitude>
-      <longitude>119.71667000</longitude>
-    </cities>
-    <cities>
-      <id>56576</id>
-      <name>Kabupaten Pangkajene Dan Kepulauan</name>
-      <latitude>-4.78270000</latitude>
-      <longitude>119.55060000</longitude>
-    </cities>
-    <cities>
-      <id>56594</id>
-      <name>Kabupaten Pinrang</name>
-      <latitude>-3.61667000</latitude>
-      <longitude>119.60000000</longitude>
-    </cities>
-    <cities>
-      <id>56628</id>
-      <name>Kabupaten Sidenreng Rappang</name>
-      <latitude>-3.85000000</latitude>
-      <longitude>119.96667000</longitude>
-    </cities>
-    <cities>
-      <id>56635</id>
-      <name>Kabupaten Sinjai</name>
-      <latitude>-5.21667000</latitude>
-      <longitude>120.15000000</longitude>
-    </cities>
-    <cities>
-      <id>56640</id>
-      <name>Kabupaten Soppeng</name>
-      <latitude>-4.38420000</latitude>
-      <longitude>119.89000000</longitude>
-    </cities>
-    <cities>
-      <id>56659</id>
-      <name>Kabupaten Takalar</name>
-      <latitude>-5.41667000</latitude>
-      <longitude>119.51667000</longitude>
-    </cities>
-    <cities>
-      <id>56662</id>
-      <name>Kabupaten Tana Toraja</name>
-      <latitude>-3.00240000</latitude>
-      <longitude>119.79655000</longitude>
-    </cities>
-    <cities>
-      <id>56684</id>
-      <name>Kabupaten Toraja Utara</name>
-      <latitude>-2.92738000</latitude>
-      <longitude>119.79218000</longitude>
-    </cities>
-    <cities>
-      <id>56689</id>
-      <name>Kabupaten Wajo</name>
-      <latitude>-4.00000000</latitude>
-      <longitude>120.16667000</longitude>
-    </cities>
-    <cities>
-      <id>56766</id>
-      <name>Kota Makassar</name>
-      <latitude>-5.15000000</latitude>
-      <longitude>119.45000000</longitude>
-    </cities>
-    <cities>
-      <id>56779</id>
-      <name>Kota Palopo</name>
-      <latitude>-2.97841000</latitude>
-      <longitude>120.11078000</longitude>
-    </cities>
-    <cities>
-      <id>56782</id>
-      <name>Kota Parepare</name>
-      <latitude>-4.03333000</latitude>
-      <longitude>119.65000000</longitude>
-    </cities>
-    <cities>
-      <id>56855</id>
-      <name>Makassar</name>
-      <latitude>-5.14861000</latitude>
-      <longitude>119.43194000</longitude>
-    </cities>
-    <cities>
-      <id>56863</id>
-      <name>Maros</name>
-      <latitude>-5.00600000</latitude>
-      <longitude>119.57270000</longitude>
-    </cities>
-    <cities>
-      <id>56900</id>
-      <name>Palopo</name>
-      <latitude>-2.99250000</latitude>
-      <longitude>120.19694000</longitude>
-    </cities>
-    <cities>
-      <id>56916</id>
-      <name>Parepare</name>
-      <latitude>-4.01350000</latitude>
-      <longitude>119.62550000</longitude>
-    </cities>
-    <cities>
-      <id>56952</id>
-      <name>Rantepao</name>
-      <latitude>-2.97010000</latitude>
-      <longitude>119.89780000</longitude>
-    </cities>
-    <cities>
-      <id>56963</id>
-      <name>Selayar Islands Regency</name>
-      <latitude>-6.81667000</latitude>
-      <longitude>120.80000000</longitude>
-    </cities>
-    <cities>
-      <id>56967</id>
-      <name>Sengkang</name>
-      <latitude>-4.12790000</latitude>
-      <longitude>120.02970000</longitude>
-    </cities>
-    <cities>
-      <id>56985</id>
-      <name>Sinjai</name>
-      <latitude>-5.12410000</latitude>
-      <longitude>120.25300000</longitude>
-    </cities>
-    <cities>
-      <id>57052</id>
-      <name>Watampone</name>
-      <latitude>-4.53860000</latitude>
-      <longitude>120.32790000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1816</id>
-    <name>South Sumatra</name>
-    <state_code>SS</state_code>
-    <latitude>-3.31943740</latitude>
-    <longitude>103.91439900</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56212</id>
-      <name>Baturaja</name>
-      <latitude>-4.12891000</latitude>
-      <longitude>104.16695000</longitude>
-    </cities>
-    <cities>
-      <id>56402</id>
-      <name>Kabupaten Empat Lawang</name>
-      <latitude>3.22667000</latitude>
-      <longitude>99.09256000</longitude>
-    </cities>
-    <cities>
-      <id>56542</id>
-      <name>Kabupaten Muara Enim</name>
-      <latitude>-4.23270000</latitude>
-      <longitude>103.61410000</longitude>
-    </cities>
-    <cities>
-      <id>56548</id>
-      <name>Kabupaten Musi Banyuasin</name>
-      <latitude>-2.41667000</latitude>
-      <longitude>103.75000000</longitude>
-    </cities>
-    <cities>
-      <id>56549</id>
-      <name>Kabupaten Musi Rawas</name>
-      <latitude>-3.08333000</latitude>
-      <longitude>103.20000000</longitude>
-    </cities>
-    <cities>
-      <id>56550</id>
-      <name>Kabupaten Musi Rawas Utara</name>
-      <latitude>-2.48533000</latitude>
-      <longitude>103.29346000</longitude>
-    </cities>
-    <cities>
-      <id>56563</id>
-      <name>Kabupaten Ogan Ilir</name>
-      <latitude>-3.43186000</latitude>
-      <longitude>104.62727000</longitude>
-    </cities>
-    <cities>
-      <id>56564</id>
-      <name>Kabupaten Ogan Komering Ilir</name>
-      <latitude>-3.36667000</latitude>
-      <longitude>105.36667000</longitude>
-    </cities>
-    <cities>
-      <id>56565</id>
-      <name>Kabupaten Ogan Komering Ulu</name>
-      <latitude>-4.13333000</latitude>
-      <longitude>104.03333000</longitude>
-    </cities>
-    <cities>
-      <id>56566</id>
-      <name>Kabupaten Ogan Komering Ulu Selatan</name>
-      <latitude>-4.65728000</latitude>
-      <longitude>104.00659000</longitude>
-    </cities>
-    <cities>
-      <id>56567</id>
-      <name>Kabupaten Ogan Komering Ulu Timur</name>
-      <latitude>-3.85679000</latitude>
-      <longitude>104.75209000</longitude>
-    </cities>
-    <cities>
-      <id>56589</id>
-      <name>Kabupaten Penukal Abab Lematang Ilir</name>
-      <latitude>-3.21342000</latitude>
-      <longitude>104.08722000</longitude>
-    </cities>
-    <cities>
-      <id>56763</id>
-      <name>Kota Lubuklinggau</name>
-      <latitude>-3.29308000</latitude>
-      <longitude>102.85503000</longitude>
-    </cities>
-    <cities>
-      <id>56776</id>
-      <name>Kota Pagar Alam</name>
-      <latitude>-4.13055000</latitude>
-      <longitude>103.26822000</longitude>
-    </cities>
-    <cities>
-      <id>56778</id>
-      <name>Kota Palembang</name>
-      <latitude>-3.00000000</latitude>
-      <longitude>104.71667000</longitude>
-    </cities>
-    <cities>
-      <id>56789</id>
-      <name>Kota Prabumulih</name>
-      <latitude>-3.46202000</latitude>
-      <longitude>104.22290000</longitude>
-    </cities>
-    <cities>
-      <id>56833</id>
-      <name>Lahat</name>
-      <latitude>-3.78514000</latitude>
-      <longitude>103.54279000</longitude>
-    </cities>
-    <cities>
-      <id>56834</id>
-      <name>Lahat Regency</name>
-      <latitude>-3.78640000</latitude>
-      <longitude>103.54280000</longitude>
-    </cities>
-    <cities>
-      <id>56847</id>
-      <name>Lubuklinggau</name>
-      <latitude>-3.29450000</latitude>
-      <longitude>102.86140000</longitude>
-    </cities>
-    <cities>
-      <id>56895</id>
-      <name>Pagar Alam</name>
-      <latitude>-4.02506000</latitude>
-      <longitude>103.24694000</longitude>
-    </cities>
-    <cities>
-      <id>56898</id>
-      <name>Palembang</name>
-      <latitude>-2.91673000</latitude>
-      <longitude>104.74580000</longitude>
-    </cities>
-    <cities>
-      <id>56939</id>
-      <name>Prabumulih</name>
-      <latitude>-3.43447000</latitude>
-      <longitude>104.23056000</longitude>
-    </cities>
-    <cities>
-      <id>57020</id>
-      <name>Tanjungagung</name>
-      <latitude>-3.93728000</latitude>
-      <longitude>103.80465000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1796</id>
-    <name>Southeast Sulawesi</name>
-    <state_code>SG</state_code>
-    <latitude>-4.14491000</latitude>
-    <longitude>122.17460500</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56372</id>
-      <name>Kabupaten Bombana</name>
-      <latitude>-4.62570000</latitude>
-      <longitude>121.81641000</longitude>
-    </cities>
-    <cities>
-      <id>56386</id>
-      <name>Kabupaten Buton</name>
-      <latitude>-5.31667000</latitude>
-      <longitude>122.91667000</longitude>
-    </cities>
-    <cities>
-      <id>56387</id>
-      <name>Kabupaten Buton Selatan</name>
-      <latitude>-5.56667000</latitude>
-      <longitude>122.70000000</longitude>
-    </cities>
-    <cities>
-      <id>56388</id>
-      <name>Kabupaten Buton Tengah</name>
-      <latitude>-5.31667000</latitude>
-      <longitude>122.33333000</longitude>
-    </cities>
-    <cities>
-      <id>56389</id>
-      <name>Kabupaten Buton Utara</name>
-      <latitude>-5.01457000</latitude>
-      <longitude>122.93015000</longitude>
-    </cities>
-    <cities>
-      <id>56461</id>
-      <name>Kabupaten Kolaka</name>
-      <latitude>-4.08333000</latitude>
-      <longitude>121.66667000</longitude>
-    </cities>
-    <cities>
-      <id>56462</id>
-      <name>Kabupaten Kolaka Timur</name>
-      <latitude>-4.01807000</latitude>
-      <longitude>121.86172000</longitude>
-    </cities>
-    <cities>
-      <id>56463</id>
-      <name>Kabupaten Kolaka Utara</name>
-      <latitude>-3.10452000</latitude>
-      <longitude>121.12427000</longitude>
-    </cities>
-    <cities>
-      <id>56464</id>
-      <name>Kabupaten Konawe</name>
-      <latitude>-3.91717000</latitude>
-      <longitude>122.08823000</longitude>
-    </cities>
-    <cities>
-      <id>56465</id>
-      <name>Kabupaten Konawe Kepulauan</name>
-      <latitude>-4.11656000</latitude>
-      <longitude>123.10181000</longitude>
-    </cities>
-    <cities>
-      <id>56466</id>
-      <name>Kabupaten Konawe Selatan</name>
-      <latitude>-4.19191000</latitude>
-      <longitude>122.44854000</longitude>
-    </cities>
-    <cities>
-      <id>56467</id>
-      <name>Kabupaten Konawe Utara</name>
-      <latitude>-3.41552000</latitude>
-      <longitude>121.99081000</longitude>
-    </cities>
-    <cities>
-      <id>56545</id>
-      <name>Kabupaten Muna</name>
-      <latitude>-4.96667000</latitude>
-      <longitude>122.66667000</longitude>
-    </cities>
-    <cities>
-      <id>56546</id>
-      <name>Kabupaten Muna Barat</name>
-      <latitude>-4.83333000</latitude>
-      <longitude>122.48333000</longitude>
-    </cities>
-    <cities>
-      <id>56703</id>
-      <name>Katabu</name>
-      <latitude>-4.93330000</latitude>
-      <longitude>122.51670000</longitude>
-    </cities>
-    <cities>
-      <id>56712</id>
-      <name>Kendari</name>
-      <latitude>-3.97780000</latitude>
-      <longitude>122.51507000</longitude>
-    </cities>
-    <cities>
-      <id>56737</id>
-      <name>Kota Baubau</name>
-      <latitude>-5.47700000</latitude>
-      <longitude>122.61660000</longitude>
-    </cities>
-    <cities>
-      <id>56758</id>
-      <name>Kota Kendari</name>
-      <latitude>-3.98333000</latitude>
-      <longitude>122.50000000</longitude>
-    </cities>
-    <cities>
-      <id>57049</id>
-      <name>Wakatobi Regency</name>
-      <latitude>-5.31934000</latitude>
-      <longitude>123.59480000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1829</id>
-    <name>Special Region of Yogyakarta</name>
-    <state_code>YO</state_code>
-    <latitude>-7.87538490</latitude>
-    <longitude>110.42620880</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56192</id>
-      <name>Bambanglipuro</name>
-      <latitude>-7.95000000</latitude>
-      <longitude>110.28333000</longitude>
-    </cities>
-    <cities>
-      <id>56204</id>
-      <name>Bantul</name>
-      <latitude>-7.88806000</latitude>
-      <longitude>110.32889000</longitude>
-    </cities>
-    <cities>
-      <id>56264</id>
-      <name>Depok</name>
-      <latitude>-7.76250000</latitude>
-      <longitude>110.43167000</longitude>
-    </cities>
-    <cities>
-      <id>56276</id>
-      <name>Gamping Lor</name>
-      <latitude>-7.79556000</latitude>
-      <longitude>110.32639000</longitude>
-    </cities>
-    <cities>
-      <id>56282</id>
-      <name>Godean</name>
-      <latitude>-7.76972000</latitude>
-      <longitude>110.29389000</longitude>
-    </cities>
-    <cities>
-      <id>56338</id>
-      <name>Kabupaten Bantul</name>
-      <latitude>-7.90000000</latitude>
-      <longitude>110.36667000</longitude>
-    </cities>
-    <cities>
-      <id>56414</id>
-      <name>Kabupaten Gunung Kidul</name>
-      <latitude>-7.98333000</latitude>
-      <longitude>110.61667000</longitude>
-    </cities>
-    <cities>
-      <id>56473</id>
-      <name>Kabupaten Kulon Progo</name>
-      <latitude>-7.64500000</latitude>
-      <longitude>110.02694000</longitude>
-    </cities>
-    <cities>
-      <id>56637</id>
-      <name>Kabupaten Sleman</name>
-      <latitude>-7.68167000</latitude>
-      <longitude>110.32333000</longitude>
-    </cities>
-    <cities>
-      <id>56702</id>
-      <name>Kasihan</name>
-      <latitude>-7.82694000</latitude>
-      <longitude>110.32917000</longitude>
-    </cities>
-    <cities>
-      <id>56816</id>
-      <name>Kota Yogyakarta</name>
-      <latitude>-7.80000000</latitude>
-      <longitude>110.37500000</longitude>
-    </cities>
-    <cities>
-      <id>56868</id>
-      <name>Melati</name>
-      <latitude>-7.73333000</latitude>
-      <longitude>110.36667000</longitude>
-    </cities>
-    <cities>
-      <id>56908</id>
-      <name>Pandak</name>
-      <latitude>-7.91306000</latitude>
-      <longitude>110.29361000</longitude>
-    </cities>
-    <cities>
-      <id>56943</id>
-      <name>Pundong</name>
-      <latitude>-7.95222000</latitude>
-      <longitude>110.34861000</longitude>
-    </cities>
-    <cities>
-      <id>56972</id>
-      <name>Sewon</name>
-      <latitude>-7.87639000</latitude>
-      <longitude>110.35889000</longitude>
-    </cities>
-    <cities>
-      <id>56988</id>
-      <name>Sleman</name>
-      <latitude>-7.71556000</latitude>
-      <longitude>110.35556000</longitude>
-    </cities>
-    <cities>
-      <id>56998</id>
-      <name>Srandakan</name>
-      <latitude>-7.93861000</latitude>
-      <longitude>110.25056000</longitude>
-    </cities>
-    <cities>
-      <id>57061</id>
-      <name>Yogyakarta</name>
-      <latitude>-7.80139000</latitude>
-      <longitude>110.36472000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1803</id>
-    <name>Sulawesi</name>
-    <state_code>SL</state_code>
-    <latitude>-1.84790000</latitude>
-    <longitude>120.52790000</longitude>
-    <country_id>102</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
-    <id>1797</id>
-    <name>Sumatra</name>
-    <state_code>SM</state_code>
-    <latitude>-0.58972400</latitude>
-    <longitude>101.34310580</longitude>
-    <country_id>102</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
-    <id>1825</id>
-    <name>West Java</name>
-    <state_code>JB</state_code>
-    <latitude>-7.09091100</latitude>
-    <longitude>107.66888700</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56182</id>
-      <name>Arjawinangun</name>
-      <latitude>-6.64528000</latitude>
-      <longitude>108.41028000</longitude>
-    </cities>
-    <cities>
-      <id>56183</id>
-      <name>Astanajapura</name>
-      <latitude>-6.80170000</latitude>
-      <longitude>108.63110000</longitude>
-    </cities>
-    <cities>
-      <id>56196</id>
-      <name>Bandung</name>
-      <latitude>-6.92222000</latitude>
-      <longitude>107.60694000</longitude>
-    </cities>
-    <cities>
-      <id>56199</id>
-      <name>Banjar</name>
-      <latitude>-7.19550000</latitude>
-      <longitude>107.43130000</longitude>
-    </cities>
-    <cities>
-      <id>56202</id>
-      <name>Banjaran</name>
-      <latitude>-7.04528000</latitude>
-      <longitude>107.58778000</longitude>
-    </cities>
-    <cities>
-      <id>56215</id>
-      <name>Bekasi</name>
-      <latitude>-6.23490000</latitude>
-      <longitude>106.98960000</longitude>
-    </cities>
-    <cities>
-      <id>56226</id>
-      <name>Bogor</name>
-      <latitude>-6.59444000</latitude>
-      <longitude>106.78917000</longitude>
-    </cities>
-    <cities>
-      <id>56237</id>
-      <name>Caringin</name>
-      <latitude>-6.70611000</latitude>
-      <longitude>106.82139000</longitude>
-    </cities>
-    <cities>
-      <id>56240</id>
-      <name>Ciamis</name>
-      <latitude>-7.32570000</latitude>
-      <longitude>108.35340000</longitude>
-    </cities>
-    <cities>
-      <id>56241</id>
-      <name>Ciampea</name>
-      <latitude>-6.55472000</latitude>
-      <longitude>106.70083000</longitude>
-    </cities>
-    <cities>
-      <id>56242</id>
-      <name>Cibinong</name>
-      <latitude>-6.48167000</latitude>
-      <longitude>106.85417000</longitude>
-    </cities>
-    <cities>
-      <id>56243</id>
-      <name>Cicurug</name>
-      <latitude>-6.78139000</latitude>
-      <longitude>106.78250000</longitude>
-    </cities>
-    <cities>
-      <id>56244</id>
-      <name>Cikampek</name>
-      <latitude>-6.41972000</latitude>
-      <longitude>107.45583000</longitude>
-    </cities>
-    <cities>
-      <id>56245</id>
-      <name>Cikarang</name>
-      <latitude>-6.26111000</latitude>
-      <longitude>107.15278000</longitude>
-    </cities>
-    <cities>
-      <id>56246</id>
-      <name>Cikupa</name>
-      <latitude>-6.23639000</latitude>
-      <longitude>106.50833000</longitude>
-    </cities>
-    <cities>
-      <id>56247</id>
-      <name>Cileungsir</name>
-      <latitude>-6.39472000</latitude>
-      <longitude>106.95917000</longitude>
-    </cities>
-    <cities>
-      <id>56248</id>
-      <name>Cileunyi</name>
-      <latitude>-6.93889000</latitude>
-      <longitude>107.75278000</longitude>
-    </cities>
-    <cities>
-      <id>56249</id>
-      <name>Cimahi</name>
-      <latitude>-6.87222000</latitude>
-      <longitude>107.54250000</longitude>
-    </cities>
-    <cities>
-      <id>56250</id>
-      <name>Ciputat</name>
-      <latitude>-6.23750000</latitude>
-      <longitude>106.69556000</longitude>
-    </cities>
-    <cities>
-      <id>56251</id>
-      <name>Ciranjang-hilir</name>
-      <latitude>-6.82000000</latitude>
-      <longitude>107.25722000</longitude>
-    </cities>
-    <cities>
-      <id>56252</id>
-      <name>Cirebon</name>
-      <latitude>-6.70630000</latitude>
-      <longitude>108.55700000</longitude>
-    </cities>
-    <cities>
-      <id>56253</id>
-      <name>Citeureup</name>
-      <latitude>-6.48556000</latitude>
-      <longitude>106.88194000</longitude>
-    </cities>
-    <cities>
-      <id>56265</id>
-      <name>Depok</name>
-      <latitude>-6.40000000</latitude>
-      <longitude>106.81861000</longitude>
-    </cities>
-    <cities>
-      <id>56291</id>
-      <name>Indramayu</name>
-      <latitude>-6.32639000</latitude>
-      <longitude>108.32000000</longitude>
-    </cities>
-    <cities>
-      <id>56296</id>
-      <name>Jatibarang</name>
-      <latitude>-6.47472000</latitude>
-      <longitude>108.31528000</longitude>
-    </cities>
-    <cities>
-      <id>56298</id>
-      <name>Jatiwangi</name>
-      <latitude>-6.73361000</latitude>
-      <longitude>108.26278000</longitude>
-    </cities>
-    <cities>
-      <id>56324</id>
-      <name>Kabupaten Bandung</name>
-      <latitude>-7.10000000</latitude>
-      <longitude>107.60000000</longitude>
-    </cities>
-    <cities>
-      <id>56325</id>
-      <name>Kabupaten Bandung Barat</name>
-      <latitude>-6.83333000</latitude>
-      <longitude>107.48333000</longitude>
-    </cities>
-    <cities>
-      <id>56349</id>
-      <name>Kabupaten Bekasi</name>
-      <latitude>-6.24667000</latitude>
-      <longitude>107.10833000</longitude>
-    </cities>
-    <cities>
-      <id>56366</id>
-      <name>Kabupaten Bogor</name>
-      <latitude>-6.58333000</latitude>
-      <longitude>106.71667000</longitude>
-    </cities>
-    <cities>
-      <id>56390</id>
-      <name>Kabupaten Ciamis</name>
-      <latitude>-7.28333000</latitude>
-      <longitude>108.41667000</longitude>
-    </cities>
-    <cities>
-      <id>56391</id>
-      <name>Kabupaten Cianjur</name>
-      <latitude>-6.77250000</latitude>
-      <longitude>107.08306000</longitude>
-    </cities>
-    <cities>
-      <id>56393</id>
-      <name>Kabupaten Cirebon</name>
-      <latitude>-6.80000000</latitude>
-      <longitude>108.56667000</longitude>
-    </cities>
-    <cities>
-      <id>56407</id>
-      <name>Kabupaten Garut</name>
-      <latitude>-7.38333000</latitude>
-      <longitude>107.76667000</longitude>
-    </cities>
-    <cities>
-      <id>56426</id>
-      <name>Kabupaten Indramayu</name>
-      <latitude>-6.45000000</latitude>
-      <longitude>108.16667000</longitude>
-    </cities>
-    <cities>
-      <id>56440</id>
-      <name>Kabupaten Karawang</name>
-      <latitude>-6.26667000</latitude>
-      <longitude>107.41667000</longitude>
-    </cities>
-    <cities>
-      <id>56474</id>
-      <name>Kabupaten Kuningan</name>
-      <latitude>-7.00000000</latitude>
-      <longitude>108.55000000</longitude>
-    </cities>
-    <cities>
-      <id>56508</id>
-      <name>Kabupaten Majalengka</name>
-      <latitude>-6.81667000</latitude>
-      <longitude>108.28333000</longitude>
-    </cities>
-    <cities>
-      <id>56575</id>
-      <name>Kabupaten Pangandaran</name>
-      <latitude>-7.66730000</latitude>
-      <longitude>108.64037000</longitude>
-    </cities>
-    <cities>
-      <id>56606</id>
-      <name>Kabupaten Purwakarta</name>
-      <latitude>-6.58333000</latitude>
-      <longitude>107.45000000</longitude>
-    </cities>
-    <cities>
-      <id>56644</id>
-      <name>Kabupaten Subang</name>
-      <latitude>-6.50833000</latitude>
-      <longitude>107.70250000</longitude>
-    </cities>
-    <cities>
-      <id>56645</id>
-      <name>Kabupaten Sukabumi</name>
-      <latitude>-7.06667000</latitude>
-      <longitude>106.70000000</longitude>
-    </cities>
-    <cities>
-      <id>56654</id>
-      <name>Kabupaten Sumedang</name>
-      <latitude>-6.81667000</latitude>
-      <longitude>107.98333000</longitude>
-    </cities>
-    <cities>
-      <id>56674</id>
-      <name>Kabupaten Tasikmalaya</name>
-      <latitude>-7.50000000</latitude>
-      <longitude>108.13333000</longitude>
-    </cities>
-    <cities>
-      <id>56698</id>
-      <name>Karangampel</name>
-      <latitude>-6.46222000</latitude>
-      <longitude>108.45194000</longitude>
-    </cities>
-    <cities>
-      <id>56700</id>
-      <name>Karangsembung</name>
-      <latitude>-6.84870000</latitude>
-      <longitude>108.64220000</longitude>
-    </cities>
-    <cities>
-      <id>56704</id>
-      <name>Kawalu</name>
-      <latitude>-7.38170000</latitude>
-      <longitude>108.20820000</longitude>
-    </cities>
-    <cities>
-      <id>56718</id>
-      <name>Klangenan</name>
-      <latitude>-6.70944000</latitude>
-      <longitude>108.44000000</longitude>
-    </cities>
-    <cities>
-      <id>56731</id>
-      <name>Kota Bandung</name>
-      <latitude>-6.91750000</latitude>
-      <longitude>107.62444000</longitude>
-    </cities>
-    <cities>
-      <id>56732</id>
-      <name>Kota Banjar</name>
-      <latitude>-7.36996000</latitude>
-      <longitude>108.53209000</longitude>
-    </cities>
-    <cities>
-      <id>56738</id>
-      <name>Kota Bekasi</name>
-      <latitude>-6.28333000</latitude>
-      <longitude>106.98333000</longitude>
-    </cities>
-    <cities>
-      <id>56744</id>
-      <name>Kota Bogor</name>
-      <latitude>-6.59167000</latitude>
-      <longitude>106.80000000</longitude>
-    </cities>
-    <cities>
-      <id>56748</id>
-      <name>Kota Cimahi</name>
-      <latitude>-6.89167000</latitude>
-      <longitude>107.55000000</longitude>
-    </cities>
-    <cities>
-      <id>56749</id>
-      <name>Kota Cirebon</name>
-      <latitude>-6.75000000</latitude>
-      <longitude>108.55000000</longitude>
-    </cities>
-    <cities>
-      <id>56751</id>
-      <name>Kota Depok</name>
-      <latitude>-6.40000000</latitude>
-      <longitude>106.81667000</longitude>
-    </cities>
-    <cities>
-      <id>56801</id>
-      <name>Kota Sukabumi</name>
-      <latitude>-6.95000000</latitude>
-      <longitude>106.93333000</longitude>
-    </cities>
-    <cities>
-      <id>56809</id>
-      <name>Kota Tasikmalaya</name>
-      <latitude>-7.35000000</latitude>
-      <longitude>108.21667000</longitude>
-    </cities>
-    <cities>
-      <id>56819</id>
-      <name>Kresek</name>
-      <latitude>-6.13139000</latitude>
-      <longitude>106.37972000</longitude>
-    </cities>
-    <cities>
-      <id>56825</id>
-      <name>Kuningan</name>
-      <latitude>-6.97583000</latitude>
-      <longitude>108.48306000</longitude>
-    </cities>
-    <cities>
-      <id>56842</id>
-      <name>Lembang</name>
-      <latitude>-6.81167000</latitude>
-      <longitude>107.61750000</longitude>
-    </cities>
-    <cities>
-      <id>56852</id>
-      <name>Majalengka</name>
-      <latitude>-6.83611000</latitude>
-      <longitude>108.22778000</longitude>
-    </cities>
-    <cities>
-      <id>56861</id>
-      <name>Margahayukencana</name>
-      <latitude>-6.97083000</latitude>
-      <longitude>107.56750000</longitude>
-    </cities>
-    <cities>
-      <id>56886</id>
-      <name>Ngawi</name>
-      <latitude>-7.40380000</latitude>
-      <longitude>111.44610000</longitude>
-    </cities>
-    <cities>
-      <id>56892</id>
-      <name>Padalarang</name>
-      <latitude>-6.83778000</latitude>
-      <longitude>107.47278000</longitude>
-    </cities>
-    <cities>
-      <id>56899</id>
-      <name>Palimanan</name>
-      <latitude>-6.70694000</latitude>
-      <longitude>108.42417000</longitude>
-    </cities>
-    <cities>
-      <id>56902</id>
-      <name>Pamanukan</name>
-      <latitude>-6.28417000</latitude>
-      <longitude>107.81056000</longitude>
-    </cities>
-    <cities>
-      <id>56904</id>
-      <name>Pameungpeuk</name>
-      <latitude>-7.01833000</latitude>
-      <longitude>107.60389000</longitude>
-    </cities>
-    <cities>
-      <id>56905</id>
-      <name>Pamulang</name>
-      <latitude>-6.34278000</latitude>
-      <longitude>106.73833000</longitude>
-    </cities>
-    <cities>
-      <id>56918</id>
-      <name>Parung</name>
-      <latitude>-6.42139000</latitude>
-      <longitude>106.73306000</longitude>
-    </cities>
-    <cities>
-      <id>56919</id>
-      <name>Pasarkemis</name>
-      <latitude>-6.17028000</latitude>
-      <longitude>106.53028000</longitude>
-    </cities>
-    <cities>
-      <id>56920</id>
-      <name>Paseh</name>
-      <latitude>-7.10260000</latitude>
-      <longitude>107.76410000</longitude>
-    </cities>
-    <cities>
-      <id>56928</id>
-      <name>Pelabuhanratu</name>
-      <latitude>-6.98750000</latitude>
-      <longitude>106.55139000</longitude>
-    </cities>
-    <cities>
-      <id>56934</id>
-      <name>Plumbon</name>
-      <latitude>-6.70500000</latitude>
-      <longitude>108.47278000</longitude>
-    </cities>
-    <cities>
-      <id>56945</id>
-      <name>Purwakarta</name>
-      <latitude>-6.55694000</latitude>
-      <longitude>107.44333000</longitude>
-    </cities>
-    <cities>
-      <id>56948</id>
-      <name>Rajapolah</name>
-      <latitude>-7.22100000</latitude>
-      <longitude>108.18960000</longitude>
-    </cities>
-    <cities>
-      <id>56954</id>
-      <name>Rengasdengklok</name>
-      <latitude>-6.15917000</latitude>
-      <longitude>107.29806000</longitude>
-    </cities>
-    <cities>
-      <id>56962</id>
-      <name>Sawangan</name>
-      <latitude>-6.40278000</latitude>
-      <longitude>106.77444000</longitude>
-    </cities>
-    <cities>
-      <id>56968</id>
-      <name>Sepatan</name>
-      <latitude>-6.11889000</latitude>
-      <longitude>106.57500000</longitude>
-    </cities>
-    <cities>
-      <id>56971</id>
-      <name>Serpong</name>
-      <latitude>-6.31694000</latitude>
-      <longitude>106.66417000</longitude>
-    </cities>
-    <cities>
-      <id>56980</id>
-      <name>Singaparna</name>
-      <latitude>-7.35150000</latitude>
-      <longitude>108.11100000</longitude>
-    </cities>
-    <cities>
-      <id>56994</id>
-      <name>Soreang</name>
-      <latitude>-7.03306000</latitude>
-      <longitude>107.51833000</longitude>
-    </cities>
-    <cities>
-      <id>57001</id>
-      <name>Sukabumi</name>
-      <latitude>-6.91806000</latitude>
-      <longitude>106.92667000</longitude>
-    </cities>
-    <cities>
-      <id>57003</id>
-      <name>Sumber</name>
-      <latitude>-6.76028000</latitude>
-      <longitude>108.48306000</longitude>
-    </cities>
-    <cities>
-      <id>57005</id>
-      <name>Sumedang</name>
-      <latitude>-6.85861000</latitude>
-      <longitude>107.91639000</longitude>
-    </cities>
-    <cities>
-      <id>57006</id>
-      <name>Sumedang Utara</name>
-      <latitude>-6.85000000</latitude>
-      <longitude>107.91667000</longitude>
-    </cities>
-    <cities>
-      <id>57025</id>
-      <name>Tasikmalaya</name>
-      <latitude>-7.32740000</latitude>
-      <longitude>108.22070000</longitude>
-    </cities>
-    <cities>
-      <id>57030</id>
-      <name>Teluknaga</name>
-      <latitude>-6.09889000</latitude>
-      <longitude>106.63806000</longitude>
-    </cities>
-    <cities>
-      <id>57050</id>
-      <name>Wanaraja</name>
-      <latitude>-7.17490000</latitude>
-      <longitude>107.98080000</longitude>
-    </cities>
-    <cities>
-      <id>57056</id>
-      <name>Weru</name>
-      <latitude>-6.71100000</latitude>
-      <longitude>108.50370000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1814</id>
-    <name>West Nusa Tenggara</name>
-    <state_code>NB</state_code>
-    <latitude>-8.65293340</latitude>
-    <longitude>117.36164760</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56221</id>
-      <name>Bima</name>
-      <latitude>-8.46006000</latitude>
-      <longitude>118.72667000</longitude>
-    </cities>
-    <cities>
-      <id>56267</id>
-      <name>Dompu</name>
-      <latitude>-8.53650000</latitude>
-      <longitude>118.46340000</longitude>
-    </cities>
-    <cities>
-      <id>56281</id>
-      <name>Gili Air</name>
-      <latitude>-8.35783000</latitude>
-      <longitude>116.08240000</longitude>
-    </cities>
-    <cities>
-      <id>56360</id>
-      <name>Kabupaten Bima</name>
-      <latitude>-8.60000000</latitude>
-      <longitude>118.61667000</longitude>
-    </cities>
-    <cities>
-      <id>56400</id>
-      <name>Kabupaten Dompu</name>
-      <latitude>-8.50940000</latitude>
-      <longitude>118.48160000</longitude>
-    </cities>
-    <cities>
-      <id>56496</id>
-      <name>Kabupaten Lombok Barat</name>
-      <latitude>-8.69583000</latitude>
-      <longitude>116.11667000</longitude>
-    </cities>
-    <cities>
-      <id>56497</id>
-      <name>Kabupaten Lombok Tengah</name>
-      <latitude>-8.70000000</latitude>
-      <longitude>116.30000000</longitude>
-    </cities>
-    <cities>
-      <id>56498</id>
-      <name>Kabupaten Lombok Timur</name>
-      <latitude>-8.53333000</latitude>
-      <longitude>116.53333000</longitude>
-    </cities>
-    <cities>
-      <id>56499</id>
-      <name>Kabupaten Lombok Utara</name>
-      <latitude>-8.35214000</latitude>
-      <longitude>116.40152000</longitude>
-    </cities>
-    <cities>
-      <id>56652</id>
-      <name>Kabupaten Sumbawa</name>
-      <latitude>-8.74390000</latitude>
-      <longitude>117.33240000</longitude>
-    </cities>
-    <cities>
-      <id>56653</id>
-      <name>Kabupaten Sumbawa Barat</name>
-      <latitude>-8.75159000</latitude>
-      <longitude>116.92132000</longitude>
-    </cities>
-    <cities>
-      <id>56740</id>
-      <name>Kota Bima</name>
-      <latitude>-8.46728000</latitude>
-      <longitude>118.75259000</longitude>
-    </cities>
-    <cities>
-      <id>56769</id>
-      <name>Kota Mataram</name>
-      <latitude>-8.58330000</latitude>
-      <longitude>116.11670000</longitude>
-    </cities>
-    <cities>
-      <id>56831</id>
-      <name>Labuan Lombok</name>
-      <latitude>-8.50000000</latitude>
-      <longitude>116.66667000</longitude>
-    </cities>
-    <cities>
-      <id>56843</id>
-      <name>Lembar</name>
-      <latitude>-8.72640000</latitude>
-      <longitude>116.07440000</longitude>
-    </cities>
-    <cities>
-      <id>56865</id>
-      <name>Mataram</name>
-      <latitude>-8.58333000</latitude>
-      <longitude>116.11667000</longitude>
-    </cities>
-    <cities>
-      <id>56931</id>
-      <name>Pemenang</name>
-      <latitude>-8.40401000</latitude>
-      <longitude>116.10255000</longitude>
-    </cities>
-    <cities>
-      <id>56938</id>
-      <name>Pototano</name>
-      <latitude>-8.41260000</latitude>
-      <longitude>117.48110000</longitude>
-    </cities>
-    <cities>
-      <id>56940</id>
-      <name>Praya</name>
-      <latitude>-8.70536000</latitude>
-      <longitude>116.27036000</longitude>
-    </cities>
-    <cities>
-      <id>56966</id>
-      <name>Senggigi</name>
-      <latitude>-8.49190000</latitude>
-      <longitude>116.04240000</longitude>
-    </cities>
-    <cities>
-      <id>57002</id>
-      <name>Sumbawa Besar</name>
-      <latitude>-8.49317000</latitude>
-      <longitude>117.42024000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1799</id>
-    <name>West Papua</name>
-    <state_code>PB</state_code>
-    <latitude>-1.33611540</latitude>
-    <longitude>133.17471620</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56405</id>
-      <name>Kabupaten Fakfak</name>
-      <latitude>-2.92641000</latitude>
-      <longitude>132.29608000</longitude>
-    </cities>
-    <cities>
-      <id>56435</id>
-      <name>Kabupaten Kaimana</name>
-      <latitude>-3.66093000</latitude>
-      <longitude>133.77451000</longitude>
-    </cities>
-    <cities>
-      <id>56527</id>
-      <name>Kabupaten Manokwari</name>
-      <latitude>-0.90000000</latitude>
-      <longitude>133.75000000</longitude>
-    </cities>
-    <cities>
-      <id>56528</id>
-      <name>Kabupaten Manokwari Selatan</name>
-      <latitude>-1.07980000</latitude>
-      <longitude>133.96729000</longitude>
-    </cities>
-    <cities>
-      <id>56531</id>
-      <name>Kabupaten Maybrat</name>
-      <latitude>-1.21550000</latitude>
-      <longitude>132.35092000</longitude>
-    </cities>
-    <cities>
-      <id>56608</id>
-      <name>Kabupaten Raja Ampat</name>
-      <latitude>-0.50000000</latitude>
-      <longitude>130.00000000</longitude>
-    </cities>
-    <cities>
-      <id>56641</id>
-      <name>Kabupaten Sorong</name>
-      <latitude>-1.16667000</latitude>
-      <longitude>131.50000000</longitude>
-    </cities>
-    <cities>
-      <id>56642</id>
-      <name>Kabupaten Sorong Selatan</name>
-      <latitude>-1.50495000</latitude>
-      <longitude>132.28638000</longitude>
-    </cities>
-    <cities>
-      <id>56660</id>
-      <name>Kabupaten Tambrauw</name>
-      <latitude>-0.60515000</latitude>
-      <longitude>132.48962000</longitude>
-    </cities>
-    <cities>
-      <id>56677</id>
-      <name>Kabupaten Teluk Bintuni</name>
-      <latitude>-1.88037000</latitude>
-      <longitude>133.33105000</longitude>
-    </cities>
-    <cities>
-      <id>56678</id>
-      <name>Kabupaten Teluk Wondama</name>
-      <latitude>-2.70000000</latitude>
-      <longitude>134.50000000</longitude>
-    </cities>
-    <cities>
-      <id>56799</id>
-      <name>Kota Sorong</name>
-      <latitude>-0.86507000</latitude>
-      <longitude>131.25152000</longitude>
-    </cities>
-    <cities>
-      <id>56860</id>
-      <name>Manokwari</name>
-      <latitude>-0.86291000</latitude>
-      <longitude>134.06402000</longitude>
-    </cities>
-    <cities>
-      <id>56995</id>
-      <name>Sorong</name>
-      <latitude>-0.87956000</latitude>
-      <longitude>131.26104000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1817</id>
-    <name>West Sulawesi</name>
-    <state_code>SR</state_code>
-    <latitude>-2.84413710</latitude>
-    <longitude>119.23207840</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56509</id>
-      <name>Kabupaten Majene</name>
-      <latitude>-3.15000000</latitude>
-      <longitude>118.86667000</longitude>
-    </cities>
-    <cities>
-      <id>56517</id>
-      <name>Kabupaten Mamasa</name>
-      <latitude>-2.96492000</latitude>
-      <longitude>119.30631000</longitude>
-    </cities>
-    <cities>
-      <id>56520</id>
-      <name>Kabupaten Mamuju</name>
-      <latitude>-2.50000000</latitude>
-      <longitude>119.41667000</longitude>
-    </cities>
-    <cities>
-      <id>56521</id>
-      <name>Kabupaten Mamuju Tengah</name>
-      <latitude>-2.82120000</latitude>
-      <longitude>119.26620000</longitude>
-    </cities>
-    <cities>
-      <id>56522</id>
-      <name>Kabupaten Mamuju Utara</name>
-      <latitude>-1.51639000</latitude>
-      <longitude>119.42139000</longitude>
-    </cities>
-    <cities>
-      <id>56596</id>
-      <name>Kabupaten Polewali Mandar</name>
-      <latitude>-3.30000000</latitude>
-      <longitude>119.16667000</longitude>
-    </cities>
-    <cities>
-      <id>56854</id>
-      <name>Majene</name>
-      <latitude>-3.54030000</latitude>
-      <longitude>118.97070000</longitude>
-    </cities>
-    <cities>
-      <id>56857</id>
-      <name>Mamuju</name>
-      <latitude>-2.68056000</latitude>
-      <longitude>118.88611000</longitude>
-    </cities>
-    <cities>
-      <id>56935</id>
-      <name>Polewali</name>
-      <latitude>-3.43240000</latitude>
-      <longitude>119.34350000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1828</id>
-    <name>West Sumatra</name>
-    <state_code>SB</state_code>
-    <latitude>-0.73993970</latitude>
-    <longitude>100.80000510</longitude>
-    <country_id>102</country_id>
-    <cities>
-      <id>56234</id>
-      <name>Bukittinggi</name>
-      <latitude>-0.30907000</latitude>
-      <longitude>100.37055000</longitude>
-    </cities>
-    <cities>
-      <id>56318</id>
-      <name>Kabupaten Agam</name>
-      <latitude>-0.25000000</latitude>
-      <longitude>100.16667000</longitude>
-    </cities>
-    <cities>
-      <id>56398</id>
-      <name>Kabupaten Dharmasraya</name>
-      <latitude>-1.05000000</latitude>
-      <longitude>101.36700000</longitude>
-    </cities>
-    <cities>
-      <id>56452</id>
-      <name>Kabupaten Kepulauan Mentawai</name>
-      <latitude>1.98917000</latitude>
-      <longitude>99.51889000</longitude>
-    </cities>
-    <cities>
-      <id>56494</id>
-      <name>Kabupaten Lima Puluh Kota</name>
-      <latitude>-0.01680000</latitude>
-      <longitude>100.58720000</longitude>
-    </cities>
-    <cities>
-      <id>56571</id>
-      <name>Kabupaten Padang Pariaman</name>
-      <latitude>-0.60000000</latitude>
-      <longitude>100.28333000</longitude>
-    </cities>
-    <cities>
-      <id>56579</id>
-      <name>Kabupaten Pasaman</name>
-      <latitude>0.42503000</latitude>
-      <longitude>99.94606000</longitude>
-    </cities>
-    <cities>
-      <id>56580</id>
-      <name>Kabupaten Pasaman Barat</name>
-      <latitude>0.28152000</latitude>
-      <longitude>99.51965000</longitude>
-    </cities>
-    <cities>
-      <id>56592</id>
-      <name>Kabupaten Pesisir Selatan</name>
-      <latitude>-1.58333000</latitude>
-      <longitude>100.85000000</longitude>
-    </cities>
-    <cities>
-      <id>56631</id>
-      <name>Kabupaten Sijunjung</name>
-      <latitude>-1.18270000</latitude>
-      <longitude>101.60560000</longitude>
-    </cities>
-    <cities>
-      <id>56638</id>
-      <name>Kabupaten Solok</name>
-      <latitude>-0.96667000</latitude>
-      <longitude>100.81667000</longitude>
-    </cities>
-    <cities>
-      <id>56639</id>
-      <name>Kabupaten Solok Selatan</name>
-      <latitude>-1.23333000</latitude>
-      <longitude>101.41700000</longitude>
-    </cities>
-    <cities>
-      <id>56664</id>
-      <name>Kabupaten Tanah Datar</name>
-      <latitude>-0.45550000</latitude>
-      <longitude>100.57710000</longitude>
-    </cities>
-    <cities>
-      <id>56746</id>
-      <name>Kota Bukittinggi</name>
-      <latitude>-0.27500000</latitude>
-      <longitude>100.37500000</longitude>
-    </cities>
-    <cities>
-      <id>56773</id>
-      <name>Kota Padang</name>
-      <latitude>-0.98333000</latitude>
-      <longitude>100.45000000</longitude>
-    </cities>
-    <cities>
-      <id>56774</id>
-      <name>Kota Padang Panjang</name>
-      <latitude>-0.45000000</latitude>
-      <longitude>100.43333000</longitude>
-    </cities>
-    <cities>
-      <id>56783</id>
-      <name>Kota Pariaman</name>
-      <latitude>-0.62682000</latitude>
-      <longitude>100.12047000</longitude>
-    </cities>
-    <cities>
-      <id>56785</id>
-      <name>Kota Payakumbuh</name>
-      <latitude>-0.23333000</latitude>
-      <longitude>100.63333000</longitude>
-    </cities>
-    <cities>
-      <id>56794</id>
-      <name>Kota Sawah Lunto</name>
-      <latitude>-0.60000000</latitude>
-      <longitude>100.75000000</longitude>
-    </cities>
-    <cities>
-      <id>56798</id>
-      <name>Kota Solok</name>
-      <latitude>-0.76667000</latitude>
-      <longitude>100.61667000</longitude>
-    </cities>
-    <cities>
-      <id>56893</id>
-      <name>Padang</name>
-      <latitude>-0.94924000</latitude>
-      <longitude>100.35427000</longitude>
-    </cities>
-    <cities>
-      <id>56917</id>
-      <name>Pariaman</name>
-      <latitude>-0.61898000</latitude>
-      <longitude>100.11997000</longitude>
-    </cities>
-    <cities>
-      <id>56923</id>
-      <name>Payakumbuh</name>
-      <latitude>-0.21590000</latitude>
-      <longitude>100.63340000</longitude>
-    </cities>
-    <cities>
-      <id>56977</id>
-      <name>Sijunjung</name>
-      <latitude>-0.70050000</latitude>
-      <longitude>100.97740000</longitude>
-    </cities>
-    <cities>
-      <id>56993</id>
-      <name>Solok</name>
-      <latitude>-0.80060000</latitude>
-      <longitude>100.65710000</longitude>
     </cities>
   </state_city>
   <state_city>
