@@ -474848,6 +474848,12 @@
       <longitude>9.00270000</longitude>
     </cities>
     <cities>
+      <id>149066</id>
+      <name>Gboko</name>
+      <latitude>7.33159530</latitude>
+      <longitude>8.97600680</longitude>
+    </cities>
+    <cities>
       <id>76881</id>
       <name>Gbongan</name>
       <latitude>7.47734000</latitude>
@@ -718058,6 +718064,12 @@
       <longitude>31.76694000</longitude>
     </cities>
     <cities>
+      <id>149030</id>
+      <name>Chimala</name>
+      <latitude>-8.85637000</latitude>
+      <longitude>34.02393000</longitude>
+    </cities>
+    <cities>
       <id>109062</id>
       <name>Chiungutwa</name>
       <latitude>-10.88333000</latitude>
@@ -718124,6 +718136,18 @@
       <longitude>37.90000000</longitude>
     </cities>
     <cities>
+      <id>149031</id>
+      <name>Hedaru</name>
+      <latitude>-4.50000000</latitude>
+      <longitude>37.90000000</longitude>
+    </cities>
+    <cities>
+      <id>149032</id>
+      <name>Ibaba</name>
+      <latitude>-9.40000000</latitude>
+      <longitude>33.35000000</longitude>
+    </cities>
+    <cities>
       <id>109073</id>
       <name>Ifakara</name>
       <latitude>-8.13333000</latitude>
@@ -718142,16 +718166,46 @@
       <longitude>33.70000000</longitude>
     </cities>
     <cities>
+      <id>149033</id>
+      <name>Ikama</name>
+      <latitude>-9.26666667</latitude>
+      <longitude>33.83333333</longitude>
+    </cities>
+    <cities>
+      <id>149034</id>
+      <name>Ikinga</name>
+      <latitude>-9.50000000</latitude>
+      <longitude>33.55000000</longitude>
+    </cities>
+    <cities>
+      <id>149035</id>
+      <name>Ikolo</name>
+      <latitude>-9.65000000</latitude>
+      <longitude>33.90000000</longitude>
+    </cities>
+    <cities>
       <id>109076</id>
       <name>Ikungi</name>
       <latitude>-5.13333000</latitude>
       <longitude>34.76667000</longitude>
     </cities>
     <cities>
+      <id>149036</id>
+      <name>Ikuti</name>
+      <latitude>-9.31666667</latitude>
+      <longitude>33.53333333</longitude>
+    </cities>
+    <cities>
       <id>109077</id>
       <name>Ikwiriri</name>
       <latitude>-7.95618000</latitude>
       <longitude>38.97164000</longitude>
+    </cities>
+    <cities>
+      <id>149037</id>
+      <name>Ilembo</name>
+      <latitude>-9.25000000</latitude>
+      <longitude>33.38333333</longitude>
     </cities>
     <cities>
       <id>109078</id>
@@ -718182,6 +718236,12 @@
       <name>Inyonga</name>
       <latitude>-6.71667000</latitude>
       <longitude>32.06667000</longitude>
+    </cities>
+    <cities>
+      <id>149038</id>
+      <name>Ipinda</name>
+      <latitude>-9.48333333</latitude>
+      <longitude>33.90000000</longitude>
     </cities>
     <cities>
       <id>109083</id>
@@ -718220,10 +718280,22 @@
       <longitude>30.46778000</longitude>
     </cities>
     <cities>
+      <id>149039</id>
+      <name>Kabula</name>
+      <latitude>-9.26666667</latitude>
+      <longitude>33.76666667</longitude>
+    </cities>
+    <cities>
       <id>109089</id>
       <name>Kahama</name>
       <latitude>-3.83333000</latitude>
       <longitude>32.60000000</longitude>
+    </cities>
+    <cities>
+      <id>149040</id>
+      <name>Kahe, Tanzania</name>
+      <latitude>-3.50000000</latitude>
+      <longitude>37.43300000</longitude>
     </cities>
     <cities>
       <id>109090</id>
@@ -718242,6 +718314,12 @@
       <name>Kamachumu</name>
       <latitude>-1.61861000</latitude>
       <longitude>31.62000000</longitude>
+    </cities>
+    <cities>
+      <id>149041</id>
+      <name>Kandete</name>
+      <latitude>-9.15000000</latitude>
+      <longitude>33.80000000</longitude>
     </cities>
     <cities>
       <id>109093</id>
@@ -718284,6 +718362,12 @@
       <name>Katoro</name>
       <latitude>-1.39972000</latitude>
       <longitude>31.50028000</longitude>
+    </cities>
+    <cities>
+      <id>149042</id>
+      <name>Katumba</name>
+      <latitude>-9.23333333</latitude>
+      <longitude>33.61666667</longitude>
     </cities>
     <cities>
       <id>109100</id>
@@ -718356,6 +718440,12 @@
       <name>Kihurio</name>
       <latitude>-4.46667000</latitude>
       <longitude>38.06667000</longitude>
+    </cities>
+    <cities>
+      <id>149043</id>
+      <name>Kihurio</name>
+      <latitude>-4.46666667</latitude>
+      <longitude>38.06666667</longitude>
     </cities>
     <cities>
       <id>109112</id>
@@ -718460,6 +718550,12 @@
       <longitude>37.95000000</longitude>
     </cities>
     <cities>
+      <id>149044</id>
+      <name>Kisiwani</name>
+      <latitude>-4.13333000</latitude>
+      <longitude>37.95000000</longitude>
+    </cities>
+    <cities>
       <id>109129</id>
       <name>Kitama</name>
       <latitude>-10.71667000</latitude>
@@ -718476,6 +718572,12 @@
       <name>Kiwengwa</name>
       <latitude>-5.98957000</latitude>
       <longitude>39.37680000</longitude>
+    </cities>
+    <cities>
+      <id>149045</id>
+      <name>Kiwira</name>
+      <latitude>-9.16666667</latitude>
+      <longitude>33.53333333</longitude>
     </cities>
     <cities>
       <id>109132</id>
@@ -718514,6 +718616,12 @@
       <longitude>37.71667000</longitude>
     </cities>
     <cities>
+      <id>149046</id>
+      <name>Kwakoa</name>
+      <latitude>-3.76666667</latitude>
+      <longitude>37.71666667</longitude>
+    </cities>
+    <cities>
       <id>109138</id>
       <name>Kyaka</name>
       <latitude>-1.25222000</latitude>
@@ -718536,6 +718644,12 @@
       <name>Lembeni</name>
       <latitude>-3.78333000</latitude>
       <longitude>37.61667000</longitude>
+    </cities>
+    <cities>
+      <id>149047</id>
+      <name>Lembeni</name>
+      <latitude>-3.78333333</latitude>
+      <longitude>37.61666667</longitude>
     </cities>
     <cities>
       <id>109142</id>
@@ -718580,6 +718694,12 @@
       <longitude>39.13333000</longitude>
     </cities>
     <cities>
+      <id>149048</id>
+      <name>Lupata</name>
+      <latitude>-9.30000000</latitude>
+      <longitude>33.85000000</longitude>
+    </cities>
+    <cities>
       <id>109149</id>
       <name>Lupiro</name>
       <latitude>-8.38333000</latitude>
@@ -718592,6 +718712,12 @@
       <longitude>38.28333000</longitude>
     </cities>
     <cities>
+      <id>149049</id>
+      <name>Lusungo</name>
+      <latitude>-9.50000000</latitude>
+      <longitude>33.98333333</longitude>
+    </cities>
+    <cities>
       <id>109151</id>
       <name>Mabama</name>
       <latitude>-5.13333000</latitude>
@@ -718602,6 +718728,12 @@
       <name>Mabamba</name>
       <latitude>-3.59833000</latitude>
       <longitude>30.50194000</longitude>
+    </cities>
+    <cities>
+      <id>149050</id>
+      <name>Machame</name>
+      <latitude>-3.20611111</latitude>
+      <longitude>37.22638889</longitude>
     </cities>
     <cities>
       <id>109153</id>
@@ -718676,6 +718808,12 @@
       <longitude>37.83333000</longitude>
     </cities>
     <cities>
+      <id>149051</id>
+      <name>Makanya</name>
+      <latitude>-4.36666667</latitude>
+      <longitude>37.83333333</longitude>
+    </cities>
+    <cities>
       <id>109165</id>
       <name>Makumbako</name>
       <latitude>-8.85000000</latitude>
@@ -718742,6 +718880,12 @@
       <longitude>38.61667000</longitude>
     </cities>
     <cities>
+      <id>149052</id>
+      <name>Marangu</name>
+      <latitude>-3.28333000</latitude>
+      <longitude>37.51667000</longitude>
+    </cities>
+    <cities>
       <id>109176</id>
       <name>Masasi</name>
       <latitude>-10.71667000</latitude>
@@ -718752,6 +718896,12 @@
       <name>Masuguru</name>
       <latitude>-11.36667000</latitude>
       <longitude>38.41667000</longitude>
+    </cities>
+    <cities>
+      <id>149053</id>
+      <name>Masukulu</name>
+      <latitude>-9.40000000</latitude>
+      <longitude>33.75000000</longitude>
     </cities>
     <cities>
       <id>109178</id>
@@ -718812,6 +718962,12 @@
       <name>Mbekenyera</name>
       <latitude>-10.00000000</latitude>
       <longitude>38.98333000</longitude>
+    </cities>
+    <cities>
+      <id>149054</id>
+      <name>Mbeya</name>
+      <latitude>-8.90000000</latitude>
+      <longitude>33.45000000</longitude>
     </cities>
     <cities>
       <id>109188</id>
@@ -718928,6 +719084,12 @@
       <longitude>35.81667000</longitude>
     </cities>
     <cities>
+      <id>149055</id>
+      <name>Mlowo</name>
+      <latitude>-9.00000000</latitude>
+      <longitude>32.98333333</longitude>
+    </cities>
+    <cities>
       <id>109207</id>
       <name>Monduli</name>
       <latitude>-3.30000000</latitude>
@@ -718946,10 +719108,22 @@
       <longitude>37.33333000</longitude>
     </cities>
     <cities>
+      <id>149056</id>
+      <name>Moshi</name>
+      <latitude>-3.33488333</latitude>
+      <longitude>37.34038056</longitude>
+    </cities>
+    <cities>
       <id>109210</id>
       <name>Mpanda</name>
       <latitude>-6.34379000</latitude>
       <longitude>31.06951000</longitude>
+    </cities>
+    <cities>
+      <id>149057</id>
+      <name>Mpuguso</name>
+      <latitude>-9.31666667</latitude>
+      <longitude>33.65000000</longitude>
     </cities>
     <cities>
       <id>109211</id>
@@ -719078,10 +719252,28 @@
       <longitude>38.20000000</longitude>
     </cities>
     <cities>
+      <id>149058</id>
+      <name>Mwansanga</name>
+      <latitude>-8.76666667</latitude>
+      <longitude>33.53333333</longitude>
+    </cities>
+    <cities>
       <id>109232</id>
       <name>Mwanza</name>
       <latitude>-2.51667000</latitude>
       <longitude>32.90000000</longitude>
+    </cities>
+    <cities>
+      <id>149059</id>
+      <name>Mwaya</name>
+      <latitude>-9.55000000</latitude>
+      <longitude>33.95000000</longitude>
+    </cities>
+    <cities>
+      <id>149060</id>
+      <name>Mwembe</name>
+      <latitude>-4.15000000</latitude>
+      <longitude>37.85000000</longitude>
     </cities>
     <cities>
       <id>109233</id>
@@ -719336,6 +719528,12 @@
       <longitude>37.88278000</longitude>
     </cities>
     <cities>
+      <id>149061</id>
+      <name>Same</name>
+      <latitude>-4.06666667</latitude>
+      <longitude>37.78333333</longitude>
+    </cities>
+    <cities>
       <id>109275</id>
       <name>Sepuka</name>
       <latitude>-4.75000000</latitude>
@@ -719438,10 +719636,34 @@
       <longitude>35.03333000</longitude>
     </cities>
     <cities>
+      <id>149062</id>
+      <name>Tukuyu</name>
+      <latitude>-9.25833333</latitude>
+      <longitude>33.64166667</longitude>
+    </cities>
+    <cities>
       <id>109292</id>
       <name>Tumbi</name>
       <latitude>-5.06667000</latitude>
       <longitude>32.73333000</longitude>
+    </cities>
+    <cities>
+      <id>149063</id>
+      <name>Tunduma</name>
+      <latitude>-9.30000000</latitude>
+      <longitude>32.76670000</longitude>
+    </cities>
+    <cities>
+      <id>149064</id>
+      <name>Ugweno</name>
+      <latitude>-3.65000000</latitude>
+      <longitude>37.65000000</longitude>
+    </cities>
+    <cities>
+      <id>149065</id>
+      <name>Ulanga</name>
+      <latitude>-8.34361000</latitude>
+      <longitude>34.28970000</longitude>
     </cities>
     <cities>
       <id>109293</id>

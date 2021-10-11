@@ -408267,11 +408267,11 @@
     </states>
     <states>
       <id>203</id>
-      <name>Nakuru District</name>
+      <name>Nakuru County</name>
       <state_code>31</state_code>
       <latitude>-0.30309880</latitude>
       <longitude>36.08002600</longitude>
-      <type></type>
+      <type>county</type>
       <cities>
         <id>64804</id>
         <name>Kijabe</name>
@@ -408348,11 +408348,11 @@
     </states>
     <states>
       <id>209</id>
-      <name>Nyamira District</name>
+      <name>Nyamira County</name>
       <state_code>34</state_code>
       <latitude>-0.56694050</latitude>
       <longitude>34.93412340</longitude>
-      <type></type>
+      <type>county</type>
       <cities>
         <id>64800</id>
         <name>Keroka</name>
@@ -408537,11 +408537,11 @@
     </states>
     <states>
       <id>169</id>
-      <name>Uasin Gishu District</name>
+      <name>Uasin Gishu</name>
       <state_code>44</state_code>
       <latitude>0.55276380</latitude>
       <longitude>35.30272260</longitude>
-      <type></type>
+      <type>county</type>
       <cities>
         <id>64782</id>
         <name>Eldoret</name>
@@ -408551,11 +408551,11 @@
     </states>
     <states>
       <id>202</id>
-      <name>Vihiga District</name>
+      <name>Vihiga County</name>
       <state_code>45</state_code>
       <latitude>0.07675530</latitude>
       <longitude>34.70776650</longitude>
-      <type></type>
+      <type>county</type>
       <cities/>
     </states>
     <states>
@@ -498342,7 +498342,7 @@
       <state_code>AB</state_code>
       <latitude>5.45273540</latitude>
       <longitude>7.52484140</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76744</id>
         <name>Aba</name>
@@ -498386,7 +498386,7 @@
       <state_code>FC</state_code>
       <latitude>8.89406910</latitude>
       <longitude>7.18604020</longitude>
-      <type></type>
+      <type>capital territory</type>
       <cities>
         <id>76749</id>
         <name>Abuja</name>
@@ -498418,7 +498418,7 @@
       <state_code>AD</state_code>
       <latitude>9.32647510</latitude>
       <longitude>12.39838530</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76876</id>
         <name>Ganye</name>
@@ -498492,7 +498492,7 @@
       <state_code>AK</state_code>
       <latitude>4.90573710</latitude>
       <longitude>7.85366750</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76858</id>
         <name>Eket</name>
@@ -498530,7 +498530,7 @@
       <state_code>AN</state_code>
       <latitude>6.22089970</latitude>
       <longitude>6.93695590</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76759</id>
         <name>Agulu</name>
@@ -498610,7 +498610,7 @@
       <state_code>BA</state_code>
       <latitude>10.77606240</latitude>
       <longitude>9.99919430</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76786</id>
         <name>Azare</name>
@@ -498744,7 +498744,7 @@
       <state_code>BY</state_code>
       <latitude>4.77190710</latitude>
       <longitude>6.06985260</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76770</id>
         <name>Amassoma</name>
@@ -498770,7 +498770,7 @@
       <state_code>BE</state_code>
       <latitude>7.33690240</latitude>
       <longitude>8.74036870</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76767</id>
         <name>Aliade</name>
@@ -498782,6 +498782,12 @@
         <name>Boju</name>
         <latitude>7.35572000</latitude>
         <longitude>7.89303000</longitude>
+      </cities>
+      <cities>
+        <id>149066</id>
+        <name>Gboko</name>
+        <latitude>7.33159530</latitude>
+        <longitude>8.97600680</longitude>
       </cities>
       <cities>
         <id>76922</id>
@@ -498838,7 +498844,7 @@
       <state_code>BO</state_code>
       <latitude>11.88463560</latitude>
       <longitude>13.15196650</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76793</id>
         <name>Bama</name>
@@ -498978,7 +498984,7 @@
       <state_code>CR</state_code>
       <latitude>5.87017240</latitude>
       <longitude>8.59880140</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76761</id>
         <name>Akankpa</name>
@@ -499016,7 +499022,7 @@
       <state_code>DE</state_code>
       <latitude>33.74537840</latitude>
       <longitude>-90.73545080</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76748</id>
         <name>Abraka</name>
@@ -499108,7 +499114,7 @@
       <state_code>EB</state_code>
       <latitude>6.26492320</latitude>
       <longitude>8.01373020</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76745</id>
         <name>Abakaliki</name>
@@ -499146,7 +499152,7 @@
       <state_code>ED</state_code>
       <latitude>6.63418310</latitude>
       <longitude>5.93040560</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76757</id>
         <name>Agenebode</name>
@@ -499208,7 +499214,7 @@
       <state_code>EK</state_code>
       <latitude>7.71898620</latitude>
       <longitude>5.31095050</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76752</id>
         <name>Ado-Ekiti</name>
@@ -499294,7 +499300,7 @@
       <state_code>EN</state_code>
       <latitude>6.53635300</latitude>
       <longitude>7.43561940</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76750</id>
         <name>Adani</name>
@@ -499392,7 +499398,7 @@
       <state_code>GO</state_code>
       <latitude>10.36377950</latitude>
       <longitude>11.19275870</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76763</id>
         <name>Akko</name>
@@ -499484,7 +499490,7 @@
       <state_code>IM</state_code>
       <latitude>5.57201220</latitude>
       <longitude>7.05882190</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76925</id>
         <name>Iho</name>
@@ -499528,7 +499534,7 @@
       <state_code>JI</state_code>
       <latitude>12.22801200</latitude>
       <longitude>9.56158670</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76788</id>
         <name>Babura</name>
@@ -499620,7 +499626,7 @@
       <state_code>KD</state_code>
       <latitude>10.37640060</latitude>
       <longitude>7.70945370</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76772</id>
         <name>Anchau</name>
@@ -499724,7 +499730,7 @@
       <state_code>KN</state_code>
       <latitude>11.74706980</latitude>
       <longitude>8.52471070</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76828</id>
         <name>Dan Gora</name>
@@ -499750,7 +499756,7 @@
       <state_code>KT</state_code>
       <latitude>12.37967070</latitude>
       <longitude>7.63057480</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76831</id>
         <name>Danja</name>
@@ -499842,7 +499848,7 @@
       <state_code>KE</state_code>
       <latitude>11.49420030</latitude>
       <longitude>4.23333550</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76778</id>
         <name>Argungu</name>
@@ -499958,7 +499964,7 @@
       <state_code>KO</state_code>
       <latitude>7.73373250</latitude>
       <longitude>6.69058360</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76747</id>
         <name>Abocho</name>
@@ -500056,7 +500062,7 @@
       <state_code>KW</state_code>
       <latitude>8.96689610</latitude>
       <longitude>4.38740510</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76760</id>
         <name>Ajasse Ipo</name>
@@ -500142,7 +500148,7 @@
       <state_code>LA</state_code>
       <latitude>6.52437930</latitude>
       <longitude>3.37920570</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76775</id>
         <name>Apapa</name>
@@ -500198,7 +500204,7 @@
       <state_code>NA</state_code>
       <latitude>8.49979080</latitude>
       <longitude>8.19969370</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76815</id>
         <name>Buga</name>
@@ -500242,7 +500248,7 @@
       <state_code>NI</state_code>
       <latitude>9.93092240</latitude>
       <longitude>5.59832100</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76783</id>
         <name>Auna</name>
@@ -500364,7 +500370,7 @@
       <state_code>OG</state_code>
       <latitude>6.99797470</latitude>
       <longitude>3.47373780</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76746</id>
         <name>Abeokuta</name>
@@ -500444,7 +500450,7 @@
       <state_code>ON</state_code>
       <latitude>6.91486820</latitude>
       <longitude>5.14781440</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76755</id>
         <name>Agbabu</name>
@@ -500506,7 +500512,7 @@
       <state_code>OS</state_code>
       <latitude>7.56289640</latitude>
       <longitude>4.51995930</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76776</id>
         <name>Apomu</name>
@@ -500622,7 +500628,7 @@
       <state_code>OY</state_code>
       <latitude>8.15738090</latitude>
       <longitude>3.61465340</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76758</id>
         <name>Ago Are</name>
@@ -500714,7 +500720,7 @@
       <state_code>PL</state_code>
       <latitude>9.21820930</latitude>
       <longitude>9.51794880</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76771</id>
         <name>Amper</name>
@@ -500782,7 +500788,7 @@
       <state_code>RI</state_code>
       <latitude>5.02134200</latitude>
       <longitude>6.43760220</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>148541</id>
         <name>Abalama</name>
@@ -500868,7 +500874,7 @@
       <state_code>SO</state_code>
       <latitude>13.05331430</latitude>
       <longitude>5.32227220</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76804</id>
         <name>Binji</name>
@@ -500936,7 +500942,7 @@
       <state_code>TA</state_code>
       <latitude>7.99936160</latitude>
       <longitude>10.77398630</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76792</id>
         <name>Baissa</name>
@@ -501004,7 +501010,7 @@
       <state_code>YO</state_code>
       <latitude>12.29387600</latitude>
       <longitude>11.43904110</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76826</id>
         <name>Damaturu</name>
@@ -501108,7 +501114,7 @@
       <state_code>ZA</state_code>
       <latitude>12.12218050</latitude>
       <longitude>6.22358190</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>76773</id>
         <name>Anka</name>
@@ -750921,11 +750927,11 @@
     <emojiU>U+1F1F9 U+1F1FF</emojiU>
     <states>
       <id>1491</id>
-      <name>Arusha Region</name>
+      <name>Arusha</name>
       <state_code>01</state_code>
       <latitude>-3.38692540</latitude>
       <longitude>36.68299270</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109042</id>
         <name>Arusha</name>
@@ -751013,11 +751019,11 @@
     </states>
     <states>
       <id>1490</id>
-      <name>Dar es Salaam Region</name>
+      <name>Dar es Salaam</name>
       <state_code>02</state_code>
       <latitude>-6.79235400</latitude>
       <longitude>39.20832840</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109063</id>
         <name>Dar es Salaam</name>
@@ -751033,11 +751039,11 @@
     </states>
     <states>
       <id>1466</id>
-      <name>Dodoma Region</name>
+      <name>Dodoma</name>
       <state_code>03</state_code>
       <latitude>-6.57382280</latitude>
       <longitude>36.26308460</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109065</id>
         <name>Dodoma</name>
@@ -751083,11 +751089,11 @@
     </states>
     <states>
       <id>1481</id>
-      <name>Geita Region</name>
+      <name>Geita</name>
       <state_code>27</state_code>
       <latitude>-2.82422570</latitude>
       <longitude>32.26538870</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109055</id>
         <name>Buseresere</name>
@@ -751139,11 +751145,11 @@
     </states>
     <states>
       <id>1489</id>
-      <name>Iringa Region</name>
+      <name>Iringa</name>
       <state_code>04</state_code>
       <latitude>-7.78874420</latitude>
       <longitude>35.56578620</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109081</id>
         <name>Ilula</name>
@@ -751183,11 +751189,11 @@
     </states>
     <states>
       <id>1465</id>
-      <name>Kagera Region</name>
+      <name>Kagera</name>
       <state_code>05</state_code>
       <latitude>-1.30011150</latitude>
       <longitude>31.26263660</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109048</id>
         <name>Biharamulo</name>
@@ -751275,11 +751281,11 @@
     </states>
     <states>
       <id>1482</id>
-      <name>Katavi Region</name>
+      <name>Katavi</name>
       <state_code>28</state_code>
       <latitude>-6.36771250</latitude>
       <longitude>31.26263660</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109082</id>
         <name>Inyonga</name>
@@ -751307,11 +751313,11 @@
     </states>
     <states>
       <id>1478</id>
-      <name>Kigoma Region</name>
+      <name>Kigoma</name>
       <state_code>08</state_code>
       <latitude>-4.88240920</latitude>
       <longitude>29.66150550</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109090</id>
         <name>Kakonko</name>
@@ -751363,11 +751369,11 @@
     </states>
     <states>
       <id>1467</id>
-      <name>Kilimanjaro Region</name>
+      <name>Kilimanjaro</name>
       <state_code>09</state_code>
       <latitude>-4.13369270</latitude>
       <longitude>37.80876930</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109072</id>
         <name>Hedaru</name>
@@ -751431,11 +751437,11 @@
     </states>
     <states>
       <id>1483</id>
-      <name>Lindi Region</name>
+      <name>Lindi</name>
       <state_code>12</state_code>
       <latitude>-9.23433940</latitude>
       <longitude>38.31657250</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109142</id>
         <name>Lindi</name>
@@ -751481,11 +751487,11 @@
     </states>
     <states>
       <id>1484</id>
-      <name>Manyara Region</name>
+      <name>Manyara</name>
       <state_code>26</state_code>
       <latitude>-4.31500580</latitude>
       <longitude>36.95410700</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109043</id>
         <name>Babati</name>
@@ -751573,11 +751579,11 @@
     </states>
     <states>
       <id>1468</id>
-      <name>Mara Region</name>
+      <name>Mara</name>
       <state_code>13</state_code>
       <latitude>-1.77535380</latitude>
       <longitude>34.15319470</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109053</id>
         <name>Bukonyo</name>
@@ -751652,12 +751658,236 @@
       </cities>
     </states>
     <states>
+      <id>4955</id>
+      <name>Mbeya</name>
+      <state_code>14</state_code>
+      <latitude>-8.28661120</latitude>
+      <longitude>32.81325370</longitude>
+      <type>Region</type>
+      <cities>
+        <id>149030</id>
+        <name>Chimala</name>
+        <latitude>-8.85637000</latitude>
+        <longitude>34.02393000</longitude>
+      </cities>
+      <cities>
+        <id>149031</id>
+        <name>Hedaru</name>
+        <latitude>-4.50000000</latitude>
+        <longitude>37.90000000</longitude>
+      </cities>
+      <cities>
+        <id>149032</id>
+        <name>Ibaba</name>
+        <latitude>-9.40000000</latitude>
+        <longitude>33.35000000</longitude>
+      </cities>
+      <cities>
+        <id>149033</id>
+        <name>Ikama</name>
+        <latitude>-9.26666667</latitude>
+        <longitude>33.83333333</longitude>
+      </cities>
+      <cities>
+        <id>149034</id>
+        <name>Ikinga</name>
+        <latitude>-9.50000000</latitude>
+        <longitude>33.55000000</longitude>
+      </cities>
+      <cities>
+        <id>149035</id>
+        <name>Ikolo</name>
+        <latitude>-9.65000000</latitude>
+        <longitude>33.90000000</longitude>
+      </cities>
+      <cities>
+        <id>149036</id>
+        <name>Ikuti</name>
+        <latitude>-9.31666667</latitude>
+        <longitude>33.53333333</longitude>
+      </cities>
+      <cities>
+        <id>149037</id>
+        <name>Ilembo</name>
+        <latitude>-9.25000000</latitude>
+        <longitude>33.38333333</longitude>
+      </cities>
+      <cities>
+        <id>149038</id>
+        <name>Ipinda</name>
+        <latitude>-9.48333333</latitude>
+        <longitude>33.90000000</longitude>
+      </cities>
+      <cities>
+        <id>149039</id>
+        <name>Kabula</name>
+        <latitude>-9.26666667</latitude>
+        <longitude>33.76666667</longitude>
+      </cities>
+      <cities>
+        <id>149040</id>
+        <name>Kahe, Tanzania</name>
+        <latitude>-3.50000000</latitude>
+        <longitude>37.43300000</longitude>
+      </cities>
+      <cities>
+        <id>149041</id>
+        <name>Kandete</name>
+        <latitude>-9.15000000</latitude>
+        <longitude>33.80000000</longitude>
+      </cities>
+      <cities>
+        <id>149042</id>
+        <name>Katumba</name>
+        <latitude>-9.23333333</latitude>
+        <longitude>33.61666667</longitude>
+      </cities>
+      <cities>
+        <id>149043</id>
+        <name>Kihurio</name>
+        <latitude>-4.46666667</latitude>
+        <longitude>38.06666667</longitude>
+      </cities>
+      <cities>
+        <id>149044</id>
+        <name>Kisiwani</name>
+        <latitude>-4.13333000</latitude>
+        <longitude>37.95000000</longitude>
+      </cities>
+      <cities>
+        <id>149045</id>
+        <name>Kiwira</name>
+        <latitude>-9.16666667</latitude>
+        <longitude>33.53333333</longitude>
+      </cities>
+      <cities>
+        <id>149046</id>
+        <name>Kwakoa</name>
+        <latitude>-3.76666667</latitude>
+        <longitude>37.71666667</longitude>
+      </cities>
+      <cities>
+        <id>149047</id>
+        <name>Lembeni</name>
+        <latitude>-3.78333333</latitude>
+        <longitude>37.61666667</longitude>
+      </cities>
+      <cities>
+        <id>149048</id>
+        <name>Lupata</name>
+        <latitude>-9.30000000</latitude>
+        <longitude>33.85000000</longitude>
+      </cities>
+      <cities>
+        <id>149049</id>
+        <name>Lusungo</name>
+        <latitude>-9.50000000</latitude>
+        <longitude>33.98333333</longitude>
+      </cities>
+      <cities>
+        <id>149050</id>
+        <name>Machame</name>
+        <latitude>-3.20611111</latitude>
+        <longitude>37.22638889</longitude>
+      </cities>
+      <cities>
+        <id>149051</id>
+        <name>Makanya</name>
+        <latitude>-4.36666667</latitude>
+        <longitude>37.83333333</longitude>
+      </cities>
+      <cities>
+        <id>149052</id>
+        <name>Marangu</name>
+        <latitude>-3.28333000</latitude>
+        <longitude>37.51667000</longitude>
+      </cities>
+      <cities>
+        <id>149053</id>
+        <name>Masukulu</name>
+        <latitude>-9.40000000</latitude>
+        <longitude>33.75000000</longitude>
+      </cities>
+      <cities>
+        <id>149054</id>
+        <name>Mbeya</name>
+        <latitude>-8.90000000</latitude>
+        <longitude>33.45000000</longitude>
+      </cities>
+      <cities>
+        <id>149055</id>
+        <name>Mlowo</name>
+        <latitude>-9.00000000</latitude>
+        <longitude>32.98333333</longitude>
+      </cities>
+      <cities>
+        <id>149056</id>
+        <name>Moshi</name>
+        <latitude>-3.33488333</latitude>
+        <longitude>37.34038056</longitude>
+      </cities>
+      <cities>
+        <id>149057</id>
+        <name>Mpuguso</name>
+        <latitude>-9.31666667</latitude>
+        <longitude>33.65000000</longitude>
+      </cities>
+      <cities>
+        <id>149058</id>
+        <name>Mwansanga</name>
+        <latitude>-8.76666667</latitude>
+        <longitude>33.53333333</longitude>
+      </cities>
+      <cities>
+        <id>149059</id>
+        <name>Mwaya</name>
+        <latitude>-9.55000000</latitude>
+        <longitude>33.95000000</longitude>
+      </cities>
+      <cities>
+        <id>149060</id>
+        <name>Mwembe</name>
+        <latitude>-4.15000000</latitude>
+        <longitude>37.85000000</longitude>
+      </cities>
+      <cities>
+        <id>149061</id>
+        <name>Same</name>
+        <latitude>-4.06666667</latitude>
+        <longitude>37.78333333</longitude>
+      </cities>
+      <cities>
+        <id>149062</id>
+        <name>Tukuyu</name>
+        <latitude>-9.25833333</latitude>
+        <longitude>33.64166667</longitude>
+      </cities>
+      <cities>
+        <id>149063</id>
+        <name>Tunduma</name>
+        <latitude>-9.30000000</latitude>
+        <longitude>32.76670000</longitude>
+      </cities>
+      <cities>
+        <id>149064</id>
+        <name>Ugweno</name>
+        <latitude>-3.65000000</latitude>
+        <longitude>37.65000000</longitude>
+      </cities>
+      <cities>
+        <id>149065</id>
+        <name>Ulanga</name>
+        <latitude>-8.34361000</latitude>
+        <longitude>34.28970000</longitude>
+      </cities>
+    </states>
+    <states>
       <id>1470</id>
-      <name>Morogoro Region</name>
+      <name>Morogoro</name>
       <state_code>16</state_code>
       <latitude>-8.81371730</latitude>
       <longitude>36.95410700</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109070</id>
         <name>Geiro</name>
@@ -751769,11 +751999,11 @@
     </states>
     <states>
       <id>1476</id>
-      <name>Mtwara Region</name>
+      <name>Mtwara</name>
       <state_code>17</state_code>
       <latitude>-10.33984550</latitude>
       <longitude>40.16574660</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109062</id>
         <name>Chiungutwa</name>
@@ -751891,11 +752121,11 @@
     </states>
     <states>
       <id>1479</id>
-      <name>Mwanza Region</name>
+      <name>Mwanza</name>
       <state_code>18</state_code>
       <latitude>-2.46711970</latitude>
       <longitude>32.89868120</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109079</id>
         <name>Ilemela District</name>
@@ -751953,11 +752183,11 @@
     </states>
     <states>
       <id>1480</id>
-      <name>Njombe Region</name>
+      <name>Njombe</name>
       <state_code>29</state_code>
       <latitude>-9.24226320</latitude>
       <longitude>35.12687810</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109078</id>
         <name>Ilembula</name>
@@ -752003,11 +752233,11 @@
     </states>
     <states>
       <id>1488</id>
-      <name>North Pemba Region</name>
+      <name>Pemba North</name>
       <state_code>06</state_code>
       <latitude>-5.03193520</latitude>
       <longitude>39.77555710</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109134</id>
         <name>Konde</name>
@@ -752028,12 +752258,38 @@
       </cities>
     </states>
     <states>
+      <id>1472</id>
+      <name>Pemba South</name>
+      <state_code>10</state_code>
+      <latitude>-5.31469610</latitude>
+      <longitude>39.75495110</longitude>
+      <type>Region</type>
+      <cities>
+        <id>109057</id>
+        <name>Chake Chake</name>
+        <latitude>-5.24586000</latitude>
+        <longitude>39.76659000</longitude>
+      </cities>
+      <cities>
+        <id>109215</id>
+        <name>Mtambile</name>
+        <latitude>-5.38333000</latitude>
+        <longitude>39.70000000</longitude>
+      </cities>
+      <cities>
+        <id>109300</id>
+        <name>Uwelini</name>
+        <latitude>-5.40000000</latitude>
+        <longitude>39.68333000</longitude>
+      </cities>
+    </states>
+    <states>
       <id>1485</id>
-      <name>Pwani Region</name>
+      <name>Pwani</name>
       <state_code>19</state_code>
       <latitude>-7.32377140</latitude>
       <longitude>38.82054540</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109044</id>
         <name>Bagamoyo</name>
@@ -752133,11 +752389,11 @@
     </states>
     <states>
       <id>1477</id>
-      <name>Rukwa Region</name>
+      <name>Rukwa</name>
       <state_code>20</state_code>
       <latitude>-8.01094440</latitude>
       <longitude>31.44561790</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109058</id>
         <name>Chala</name>
@@ -752183,11 +752439,11 @@
     </states>
     <states>
       <id>1486</id>
-      <name>Ruvuma Region</name>
+      <name>Ruvuma</name>
       <state_code>21</state_code>
       <latitude>-10.68787170</latitude>
       <longitude>36.26308460</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109109</id>
         <name>Kigonsera</name>
@@ -752245,11 +752501,11 @@
     </states>
     <states>
       <id>1463</id>
-      <name>Shinyanga Region</name>
+      <name>Shinyanga</name>
       <state_code>22</state_code>
       <latitude>-3.68099610</latitude>
       <longitude>33.42714030</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109084</id>
         <name>Isaka</name>
@@ -752307,11 +752563,11 @@
     </states>
     <states>
       <id>1464</id>
-      <name>Simiyu Region</name>
+      <name>Simiyu</name>
       <state_code>30</state_code>
       <latitude>-2.83087380</latitude>
       <longitude>34.15319470</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109045</id>
         <name>Bariadi</name>
@@ -752369,11 +752625,11 @@
     </states>
     <states>
       <id>1474</id>
-      <name>Singida Region</name>
+      <name>Singida</name>
       <state_code>23</state_code>
       <latitude>-6.74533520</latitude>
       <longitude>34.15319470</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109074</id>
         <name>Igugunu</name>
@@ -752466,38 +752722,21 @@
       </cities>
     </states>
     <states>
-      <id>1472</id>
-      <name>South Pemba Region</name>
-      <state_code>10</state_code>
-      <latitude>-5.31469610</latitude>
-      <longitude>39.75495110</longitude>
-      <type></type>
-      <cities>
-        <id>109057</id>
-        <name>Chake Chake</name>
-        <latitude>-5.24586000</latitude>
-        <longitude>39.76659000</longitude>
-      </cities>
-      <cities>
-        <id>109215</id>
-        <name>Mtambile</name>
-        <latitude>-5.38333000</latitude>
-        <longitude>39.70000000</longitude>
-      </cities>
-      <cities>
-        <id>109300</id>
-        <name>Uwelini</name>
-        <latitude>-5.40000000</latitude>
-        <longitude>39.68333000</longitude>
-      </cities>
+      <id>4956</id>
+      <name>Songwe</name>
+      <state_code>31</state_code>
+      <latitude>-8.27261200</latitude>
+      <longitude>31.71131740</longitude>
+      <type>Region</type>
+      <cities/>
     </states>
     <states>
       <id>1469</id>
-      <name>Tabora Region</name>
+      <name>Tabora</name>
       <state_code>24</state_code>
       <latitude>-5.03421380</latitude>
       <longitude>32.80844960</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109051</id>
         <name>Bukene</name>
@@ -752549,11 +752788,11 @@
     </states>
     <states>
       <id>1487</id>
-      <name>Tanga Region</name>
+      <name>Tanga</name>
       <state_code>25</state_code>
       <latitude>-5.30497890</latitude>
       <longitude>38.31657250</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109060</id>
         <name>Chanika</name>
@@ -752640,50 +752879,12 @@
       </cities>
     </states>
     <states>
-      <id>1471</id>
-      <name>Zanzibar Central/South Region</name>
-      <state_code>11</state_code>
-      <latitude>-6.26428510</latitude>
-      <longitude>39.44502810</longitude>
-      <type></type>
-      <cities>
-        <id>109132</id>
-        <name>Koani</name>
-        <latitude>-6.13333000</latitude>
-        <longitude>39.28333000</longitude>
-      </cities>
-      <cities>
-        <id>109133</id>
-        <name>Koani Ndogo</name>
-        <latitude>-6.13333000</latitude>
-        <longitude>39.28333000</longitude>
-      </cities>
-      <cities>
-        <id>109161</id>
-        <name>Mahonda</name>
-        <latitude>-6.45000000</latitude>
-        <longitude>39.46667000</longitude>
-      </cities>
-      <cities>
-        <id>109250</id>
-        <name>Nganane</name>
-        <latitude>-6.40000000</latitude>
-        <longitude>39.55000000</longitude>
-      </cities>
-      <cities>
-        <id>109281</id>
-        <name>Sokoni</name>
-        <latitude>-6.43333000</latitude>
-        <longitude>39.55000000</longitude>
-      </cities>
-    </states>
-    <states>
       <id>1473</id>
-      <name>Zanzibar North Region</name>
+      <name>Zanzibar North</name>
       <state_code>07</state_code>
       <latitude>-5.93950930</latitude>
       <longitude>39.27910110</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109069</id>
         <name>Gamba</name>
@@ -752716,12 +752917,50 @@
       </cities>
     </states>
     <states>
+      <id>1471</id>
+      <name>Zanzibar South</name>
+      <state_code>11</state_code>
+      <latitude>-6.26428510</latitude>
+      <longitude>39.44502810</longitude>
+      <type>Region</type>
+      <cities>
+        <id>109132</id>
+        <name>Koani</name>
+        <latitude>-6.13333000</latitude>
+        <longitude>39.28333000</longitude>
+      </cities>
+      <cities>
+        <id>109133</id>
+        <name>Koani Ndogo</name>
+        <latitude>-6.13333000</latitude>
+        <longitude>39.28333000</longitude>
+      </cities>
+      <cities>
+        <id>109161</id>
+        <name>Mahonda</name>
+        <latitude>-6.45000000</latitude>
+        <longitude>39.46667000</longitude>
+      </cities>
+      <cities>
+        <id>109250</id>
+        <name>Nganane</name>
+        <latitude>-6.40000000</latitude>
+        <longitude>39.55000000</longitude>
+      </cities>
+      <cities>
+        <id>109281</id>
+        <name>Sokoni</name>
+        <latitude>-6.43333000</latitude>
+        <longitude>39.55000000</longitude>
+      </cities>
+    </states>
+    <states>
       <id>1475</id>
-      <name>Zanzibar Urban/West Region</name>
+      <name>Zanzibar West</name>
       <state_code>15</state_code>
       <latitude>-6.22981360</latitude>
       <longitude>39.25832930</longitude>
-      <type></type>
+      <type>Region</type>
       <cities>
         <id>109304</id>
         <name>Zanzibar</name>

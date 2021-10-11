@@ -343008,11 +343008,11 @@ country_state_city:
             longitude: '37.06933000'
       -
         id: 203
-        name: 'Nakuru District'
+        name: 'Nakuru County'
         state_code: '31'
         latitude: '-0.30309880'
         longitude: '36.08002600'
-        type: null
+        type: county
         cities:
           -
             id: 64804
@@ -343080,11 +343080,11 @@ country_state_city:
         cities: {  }
       -
         id: 209
-        name: 'Nyamira District'
+        name: 'Nyamira County'
         state_code: '34'
         latitude: '-0.56694050'
         longitude: '34.93412340'
-        type: null
+        type: county
         cities:
           -
             id: 64800
@@ -343251,11 +343251,11 @@ country_state_city:
             longitude: '35.59642000'
       -
         id: 169
-        name: 'Uasin Gishu District'
+        name: 'Uasin Gishu'
         state_code: '44'
         latitude: '0.55276380'
         longitude: '35.30272260'
-        type: null
+        type: county
         cities:
           -
             id: 64782
@@ -343264,11 +343264,11 @@ country_state_city:
             longitude: '35.26993000'
       -
         id: 202
-        name: 'Vihiga District'
+        name: 'Vihiga County'
         state_code: '45'
         latitude: '0.07675530'
         longitude: '34.70776650'
-        type: null
+        type: county
         cities: {  }
       -
         id: 182
@@ -419362,7 +419362,7 @@ country_state_city:
         state_code: AB
         latitude: '5.45273540'
         longitude: '7.52484140'
-        type: null
+        type: state
         cities:
           -
             id: 76744
@@ -419400,7 +419400,7 @@ country_state_city:
         state_code: FC
         latitude: '8.89406910'
         longitude: '7.18604020'
-        type: null
+        type: 'capital territory'
         cities:
           -
             id: 76749
@@ -419428,7 +419428,7 @@ country_state_city:
         state_code: AD
         latitude: '9.32647510'
         longitude: '12.39838530'
-        type: null
+        type: state
         cities:
           -
             id: 76876
@@ -419491,7 +419491,7 @@ country_state_city:
         state_code: AK
         latitude: '4.90573710'
         longitude: '7.85366750'
-        type: null
+        type: state
         cities:
           -
             id: 76858
@@ -419524,7 +419524,7 @@ country_state_city:
         state_code: AN
         latitude: '6.22089970'
         longitude: '6.93695590'
-        type: null
+        type: state
         cities:
           -
             id: 76759
@@ -419592,7 +419592,7 @@ country_state_city:
         state_code: BA
         latitude: '10.77606240'
         longitude: '9.99919430'
-        type: null
+        type: state
         cities:
           -
             id: 76786
@@ -419705,7 +419705,7 @@ country_state_city:
         state_code: BY
         latitude: '4.77190710'
         longitude: '6.06985260'
-        type: null
+        type: state
         cities:
           -
             id: 76770
@@ -419728,7 +419728,7 @@ country_state_city:
         state_code: BE
         latitude: '7.33690240'
         longitude: '8.74036870'
-        type: null
+        type: state
         cities:
           -
             id: 76767
@@ -419740,6 +419740,11 @@ country_state_city:
             name: Boju
             latitude: '7.35572000'
             longitude: '7.89303000'
+          -
+            id: 149066
+            name: Gboko
+            latitude: '7.33159530'
+            longitude: '8.97600680'
           -
             id: 76922
             name: Igbor
@@ -419786,7 +419791,7 @@ country_state_city:
         state_code: BO
         latitude: '11.88463560'
         longitude: '13.15196650'
-        type: null
+        type: state
         cities:
           -
             id: 76793
@@ -419904,7 +419909,7 @@ country_state_city:
         state_code: CR
         latitude: '5.87017240'
         longitude: '8.59880140'
-        type: null
+        type: state
         cities:
           -
             id: 76761
@@ -419937,7 +419942,7 @@ country_state_city:
         state_code: DE
         latitude: '33.74537840'
         longitude: '-90.73545080'
-        type: null
+        type: state
         cities:
           -
             id: 76748
@@ -420015,7 +420020,7 @@ country_state_city:
         state_code: EB
         latitude: '6.26492320'
         longitude: '8.01373020'
-        type: null
+        type: state
         cities:
           -
             id: 76745
@@ -420048,7 +420053,7 @@ country_state_city:
         state_code: ED
         latitude: '6.63418310'
         longitude: '5.93040560'
-        type: null
+        type: state
         cities:
           -
             id: 76757
@@ -420101,7 +420106,7 @@ country_state_city:
         state_code: EK
         latitude: '7.71898620'
         longitude: '5.31095050'
-        type: null
+        type: state
         cities:
           -
             id: 76752
@@ -420174,7 +420179,7 @@ country_state_city:
         state_code: EN
         latitude: '6.53635300'
         longitude: '7.43561940'
-        type: null
+        type: state
         cities:
           -
             id: 76750
@@ -420257,7 +420262,7 @@ country_state_city:
         state_code: GO
         latitude: '10.36377950'
         longitude: '11.19275870'
-        type: null
+        type: state
         cities:
           -
             id: 76763
@@ -420335,7 +420340,7 @@ country_state_city:
         state_code: IM
         latitude: '5.57201220'
         longitude: '7.05882190'
-        type: null
+        type: state
         cities:
           -
             id: 76925
@@ -420373,7 +420378,7 @@ country_state_city:
         state_code: JI
         latitude: '12.22801200'
         longitude: '9.56158670'
-        type: null
+        type: state
         cities:
           -
             id: 76788
@@ -420451,7 +420456,7 @@ country_state_city:
         state_code: KD
         latitude: '10.37640060'
         longitude: '7.70945370'
-        type: null
+        type: state
         cities:
           -
             id: 76772
@@ -420539,7 +420544,7 @@ country_state_city:
         state_code: KN
         latitude: '11.74706980'
         longitude: '8.52471070'
-        type: null
+        type: state
         cities:
           -
             id: 76828
@@ -420562,7 +420567,7 @@ country_state_city:
         state_code: KT
         latitude: '12.37967070'
         longitude: '7.63057480'
-        type: null
+        type: state
         cities:
           -
             id: 76831
@@ -420640,7 +420645,7 @@ country_state_city:
         state_code: KE
         latitude: '11.49420030'
         longitude: '4.23333550'
-        type: null
+        type: state
         cities:
           -
             id: 76778
@@ -420738,7 +420743,7 @@ country_state_city:
         state_code: KO
         latitude: '7.73373250'
         longitude: '6.69058360'
-        type: null
+        type: state
         cities:
           -
             id: 76747
@@ -420821,7 +420826,7 @@ country_state_city:
         state_code: KW
         latitude: '8.96689610'
         longitude: '4.38740510'
-        type: null
+        type: state
         cities:
           -
             id: 76760
@@ -420894,7 +420899,7 @@ country_state_city:
         state_code: LA
         latitude: '6.52437930'
         longitude: '3.37920570'
-        type: null
+        type: state
         cities:
           -
             id: 76775
@@ -420942,7 +420947,7 @@ country_state_city:
         state_code: NA
         latitude: '8.49979080'
         longitude: '8.19969370'
-        type: null
+        type: state
         cities:
           -
             id: 76815
@@ -420980,7 +420985,7 @@ country_state_city:
         state_code: NI
         latitude: '9.93092240'
         longitude: '5.59832100'
-        type: null
+        type: state
         cities:
           -
             id: 76783
@@ -421083,7 +421088,7 @@ country_state_city:
         state_code: OG
         latitude: '6.99797470'
         longitude: '3.47373780'
-        type: null
+        type: state
         cities:
           -
             id: 76746
@@ -421151,7 +421156,7 @@ country_state_city:
         state_code: 'ON'
         latitude: '6.91486820'
         longitude: '5.14781440'
-        type: null
+        type: state
         cities:
           -
             id: 76755
@@ -421204,7 +421209,7 @@ country_state_city:
         state_code: OS
         latitude: '7.56289640'
         longitude: '4.51995930'
-        type: null
+        type: state
         cities:
           -
             id: 76776
@@ -421302,7 +421307,7 @@ country_state_city:
         state_code: OY
         latitude: '8.15738090'
         longitude: '3.61465340'
-        type: null
+        type: state
         cities:
           -
             id: 76758
@@ -421380,7 +421385,7 @@ country_state_city:
         state_code: PL
         latitude: '9.21820930'
         longitude: '9.51794880'
-        type: null
+        type: state
         cities:
           -
             id: 76771
@@ -421438,7 +421443,7 @@ country_state_city:
         state_code: RI
         latitude: '5.02134200'
         longitude: '6.43760220'
-        type: null
+        type: state
         cities:
           -
             id: 148541
@@ -421511,7 +421516,7 @@ country_state_city:
         state_code: SO
         latitude: '13.05331430'
         longitude: '5.32227220'
-        type: null
+        type: state
         cities:
           -
             id: 76804
@@ -421569,7 +421574,7 @@ country_state_city:
         state_code: TA
         latitude: '7.99936160'
         longitude: '10.77398630'
-        type: null
+        type: state
         cities:
           -
             id: 76792
@@ -421627,7 +421632,7 @@ country_state_city:
         state_code: YO
         latitude: '12.29387600'
         longitude: '11.43904110'
-        type: null
+        type: state
         cities:
           -
             id: 76826
@@ -421715,7 +421720,7 @@ country_state_city:
         state_code: ZA
         latitude: '12.12218050'
         longitude: '6.22358190'
-        type: null
+        type: state
         cities:
           -
             id: 76773
@@ -631426,11 +631431,11 @@ country_state_city:
     states:
       -
         id: 1491
-        name: 'Arusha Region'
+        name: Arusha
         state_code: '01'
         latitude: '-3.38692540'
         longitude: '36.68299270'
-        type: null
+        type: Region
         cities:
           -
             id: 109042
@@ -631504,11 +631509,11 @@ country_state_city:
             longitude: '36.85000000'
       -
         id: 1490
-        name: 'Dar es Salaam Region'
+        name: 'Dar es Salaam'
         state_code: '02'
         latitude: '-6.79235400'
         longitude: '39.20832840'
-        type: null
+        type: Region
         cities:
           -
             id: 109063
@@ -631522,11 +631527,11 @@ country_state_city:
             longitude: '39.25000000'
       -
         id: 1466
-        name: 'Dodoma Region'
+        name: Dodoma
         state_code: '03'
         latitude: '-6.57382280'
         longitude: '36.26308460'
-        type: null
+        type: Region
         cities:
           -
             id: 109065
@@ -631565,11 +631570,11 @@ country_state_city:
             longitude: '36.03333000'
       -
         id: 1481
-        name: 'Geita Region'
+        name: Geita
         state_code: '27'
         latitude: '-2.82422570'
         longitude: '32.26538870'
-        type: null
+        type: Region
         cities:
           -
             id: 109055
@@ -631613,11 +631618,11 @@ country_state_city:
             longitude: '31.52583000'
       -
         id: 1489
-        name: 'Iringa Region'
+        name: Iringa
         state_code: '04'
         latitude: '-7.78874420'
         longitude: '35.56578620'
-        type: null
+        type: Region
         cities:
           -
             id: 109081
@@ -631651,11 +631656,11 @@ country_state_city:
             longitude: '34.85000000'
       -
         id: 1465
-        name: 'Kagera Region'
+        name: Kagera
         state_code: '05'
         latitude: '-1.30011150'
         longitude: '31.26263660'
-        type: null
+        type: Region
         cities:
           -
             id: 109048
@@ -631729,11 +631734,11 @@ country_state_city:
             longitude: '30.63250000'
       -
         id: 1482
-        name: 'Katavi Region'
+        name: Katavi
         state_code: '28'
         latitude: '-6.36771250'
         longitude: '31.26263660'
-        type: null
+        type: Region
         cities:
           -
             id: 109082
@@ -631757,11 +631762,11 @@ country_state_city:
             longitude: '31.23333000'
       -
         id: 1478
-        name: 'Kigoma Region'
+        name: Kigoma
         state_code: '08'
         latitude: '-4.88240920'
         longitude: '29.66150550'
-        type: null
+        type: Region
         cities:
           -
             id: 109090
@@ -631805,11 +631810,11 @@ country_state_city:
             longitude: '30.39111000'
       -
         id: 1467
-        name: 'Kilimanjaro Region'
+        name: Kilimanjaro
         state_code: '09'
         latitude: '-4.13369270'
         longitude: '37.80876930'
-        type: null
+        type: Region
         cities:
           -
             id: 109072
@@ -631863,11 +631868,11 @@ country_state_city:
             longitude: '37.88278000'
       -
         id: 1483
-        name: 'Lindi Region'
+        name: Lindi
         state_code: '12'
         latitude: '-9.23433940'
         longitude: '38.31657250'
-        type: null
+        type: Region
         cities:
           -
             id: 109142
@@ -631906,11 +631911,11 @@ country_state_city:
             longitude: '38.93333000'
       -
         id: 1484
-        name: 'Manyara Region'
+        name: Manyara
         state_code: '26'
         latitude: '-4.31500580'
         longitude: '36.95410700'
-        type: null
+        type: Region
         cities:
           -
             id: 109043
@@ -631984,11 +631989,11 @@ country_state_city:
             longitude: '35.45000000'
       -
         id: 1468
-        name: 'Mara Region'
+        name: Mara
         state_code: '13'
         latitude: '-1.77535380'
         longitude: '34.15319470'
-        type: null
+        type: Region
         cities:
           -
             id: 109053
@@ -632051,12 +632056,200 @@ country_state_city:
             latitude: '-1.25367000'
             longitude: '34.47596000'
       -
+        id: 4955
+        name: Mbeya
+        state_code: '14'
+        latitude: '-8.28661120'
+        longitude: '32.81325370'
+        type: Region
+        cities:
+          -
+            id: 149030
+            name: Chimala
+            latitude: '-8.85637000'
+            longitude: '34.02393000'
+          -
+            id: 149031
+            name: Hedaru
+            latitude: '-4.50000000'
+            longitude: '37.90000000'
+          -
+            id: 149032
+            name: Ibaba
+            latitude: '-9.40000000'
+            longitude: '33.35000000'
+          -
+            id: 149033
+            name: Ikama
+            latitude: '-9.26666667'
+            longitude: '33.83333333'
+          -
+            id: 149034
+            name: Ikinga
+            latitude: '-9.50000000'
+            longitude: '33.55000000'
+          -
+            id: 149035
+            name: Ikolo
+            latitude: '-9.65000000'
+            longitude: '33.90000000'
+          -
+            id: 149036
+            name: Ikuti
+            latitude: '-9.31666667'
+            longitude: '33.53333333'
+          -
+            id: 149037
+            name: Ilembo
+            latitude: '-9.25000000'
+            longitude: '33.38333333'
+          -
+            id: 149038
+            name: Ipinda
+            latitude: '-9.48333333'
+            longitude: '33.90000000'
+          -
+            id: 149039
+            name: Kabula
+            latitude: '-9.26666667'
+            longitude: '33.76666667'
+          -
+            id: 149040
+            name: 'Kahe, Tanzania'
+            latitude: '-3.50000000'
+            longitude: '37.43300000'
+          -
+            id: 149041
+            name: Kandete
+            latitude: '-9.15000000'
+            longitude: '33.80000000'
+          -
+            id: 149042
+            name: Katumba
+            latitude: '-9.23333333'
+            longitude: '33.61666667'
+          -
+            id: 149043
+            name: Kihurio
+            latitude: '-4.46666667'
+            longitude: '38.06666667'
+          -
+            id: 149044
+            name: Kisiwani
+            latitude: '-4.13333000'
+            longitude: '37.95000000'
+          -
+            id: 149045
+            name: Kiwira
+            latitude: '-9.16666667'
+            longitude: '33.53333333'
+          -
+            id: 149046
+            name: Kwakoa
+            latitude: '-3.76666667'
+            longitude: '37.71666667'
+          -
+            id: 149047
+            name: Lembeni
+            latitude: '-3.78333333'
+            longitude: '37.61666667'
+          -
+            id: 149048
+            name: Lupata
+            latitude: '-9.30000000'
+            longitude: '33.85000000'
+          -
+            id: 149049
+            name: Lusungo
+            latitude: '-9.50000000'
+            longitude: '33.98333333'
+          -
+            id: 149050
+            name: Machame
+            latitude: '-3.20611111'
+            longitude: '37.22638889'
+          -
+            id: 149051
+            name: Makanya
+            latitude: '-4.36666667'
+            longitude: '37.83333333'
+          -
+            id: 149052
+            name: Marangu
+            latitude: '-3.28333000'
+            longitude: '37.51667000'
+          -
+            id: 149053
+            name: Masukulu
+            latitude: '-9.40000000'
+            longitude: '33.75000000'
+          -
+            id: 149054
+            name: Mbeya
+            latitude: '-8.90000000'
+            longitude: '33.45000000'
+          -
+            id: 149055
+            name: Mlowo
+            latitude: '-9.00000000'
+            longitude: '32.98333333'
+          -
+            id: 149056
+            name: Moshi
+            latitude: '-3.33488333'
+            longitude: '37.34038056'
+          -
+            id: 149057
+            name: Mpuguso
+            latitude: '-9.31666667'
+            longitude: '33.65000000'
+          -
+            id: 149058
+            name: Mwansanga
+            latitude: '-8.76666667'
+            longitude: '33.53333333'
+          -
+            id: 149059
+            name: Mwaya
+            latitude: '-9.55000000'
+            longitude: '33.95000000'
+          -
+            id: 149060
+            name: Mwembe
+            latitude: '-4.15000000'
+            longitude: '37.85000000'
+          -
+            id: 149061
+            name: Same
+            latitude: '-4.06666667'
+            longitude: '37.78333333'
+          -
+            id: 149062
+            name: Tukuyu
+            latitude: '-9.25833333'
+            longitude: '33.64166667'
+          -
+            id: 149063
+            name: Tunduma
+            latitude: '-9.30000000'
+            longitude: '32.76670000'
+          -
+            id: 149064
+            name: Ugweno
+            latitude: '-3.65000000'
+            longitude: '37.65000000'
+          -
+            id: 149065
+            name: Ulanga
+            latitude: '-8.34361000'
+            longitude: '34.28970000'
+      -
         id: 1470
-        name: 'Morogoro Region'
+        name: Morogoro
         state_code: '16'
         latitude: '-8.81371730'
         longitude: '36.95410700'
-        type: null
+        type: Region
         cities:
           -
             id: 109070
@@ -632150,11 +632343,11 @@ country_state_city:
             longitude: '38.11667000'
       -
         id: 1476
-        name: 'Mtwara Region'
+        name: Mtwara
         state_code: '17'
         latitude: '-10.33984550'
         longitude: '40.16574660'
-        type: null
+        type: Region
         cities:
           -
             id: 109062
@@ -632253,11 +632446,11 @@ country_state_city:
             longitude: '39.63333000'
       -
         id: 1479
-        name: 'Mwanza Region'
+        name: Mwanza
         state_code: '18'
         latitude: '-2.46711970'
         longitude: '32.89868120'
-        type: null
+        type: Region
         cities:
           -
             id: 109079
@@ -632306,11 +632499,11 @@ country_state_city:
             longitude: '33.00000000'
       -
         id: 1480
-        name: 'Njombe Region'
+        name: Njombe
         state_code: '29'
         latitude: '-9.24226320'
         longitude: '35.12687810'
-        type: null
+        type: Region
         cities:
           -
             id: 109078
@@ -632349,11 +632542,11 @@ country_state_city:
             longitude: '34.77167000'
       -
         id: 1488
-        name: 'North Pemba Region'
+        name: 'Pemba North'
         state_code: '06'
         latitude: '-5.03193520'
         longitude: '39.77555710'
-        type: null
+        type: Region
         cities:
           -
             id: 109134
@@ -632371,12 +632564,35 @@ country_state_city:
             latitude: '-5.05589000'
             longitude: '39.72938000'
       -
+        id: 1472
+        name: 'Pemba South'
+        state_code: '10'
+        latitude: '-5.31469610'
+        longitude: '39.75495110'
+        type: Region
+        cities:
+          -
+            id: 109057
+            name: 'Chake Chake'
+            latitude: '-5.24586000'
+            longitude: '39.76659000'
+          -
+            id: 109215
+            name: Mtambile
+            latitude: '-5.38333000'
+            longitude: '39.70000000'
+          -
+            id: 109300
+            name: Uwelini
+            latitude: '-5.40000000'
+            longitude: '39.68333000'
+      -
         id: 1485
-        name: 'Pwani Region'
+        name: Pwani
         state_code: '19'
         latitude: '-7.32377140'
         longitude: '38.82054540'
-        type: null
+        type: Region
         cities:
           -
             id: 109044
@@ -632460,11 +632676,11 @@ country_state_city:
             longitude: '39.29849000'
       -
         id: 1477
-        name: 'Rukwa Region'
+        name: Rukwa
         state_code: '20'
         latitude: '-8.01094440'
         longitude: '31.44561790'
-        type: null
+        type: Region
         cities:
           -
             id: 109058
@@ -632503,11 +632719,11 @@ country_state_city:
             longitude: '31.61667000'
       -
         id: 1486
-        name: 'Ruvuma Region'
+        name: Ruvuma
         state_code: '21'
         latitude: '-10.68787170'
         longitude: '36.26308460'
-        type: null
+        type: Region
         cities:
           -
             id: 109109
@@ -632556,11 +632772,11 @@ country_state_city:
             longitude: '35.03333000'
       -
         id: 1463
-        name: 'Shinyanga Region'
+        name: Shinyanga
         state_code: '22'
         latitude: '-3.68099610'
         longitude: '33.42714030'
-        type: null
+        type: Region
         cities:
           -
             id: 109084
@@ -632609,11 +632825,11 @@ country_state_city:
             longitude: '33.20000000'
       -
         id: 1464
-        name: 'Simiyu Region'
+        name: Simiyu
         state_code: '30'
         latitude: '-2.83087380'
         longitude: '34.15319470'
-        type: null
+        type: Region
         cities:
           -
             id: 109045
@@ -632662,11 +632878,11 @@ country_state_city:
             longitude: '33.95000000'
       -
         id: 1474
-        name: 'Singida Region'
+        name: Singida
         state_code: '23'
         latitude: '-6.74533520'
         longitude: '34.15319470'
-        type: null
+        type: Region
         cities:
           -
             id: 109074
@@ -632744,35 +632960,20 @@ country_state_city:
             latitude: '-4.81629000'
             longitude: '34.74358000'
       -
-        id: 1472
-        name: 'South Pemba Region'
-        state_code: '10'
-        latitude: '-5.31469610'
-        longitude: '39.75495110'
-        type: null
-        cities:
-          -
-            id: 109057
-            name: 'Chake Chake'
-            latitude: '-5.24586000'
-            longitude: '39.76659000'
-          -
-            id: 109215
-            name: Mtambile
-            latitude: '-5.38333000'
-            longitude: '39.70000000'
-          -
-            id: 109300
-            name: Uwelini
-            latitude: '-5.40000000'
-            longitude: '39.68333000'
+        id: 4956
+        name: Songwe
+        state_code: '31'
+        latitude: '-8.27261200'
+        longitude: '31.71131740'
+        type: Region
+        cities: {  }
       -
         id: 1469
-        name: 'Tabora Region'
+        name: Tabora
         state_code: '24'
         latitude: '-5.03421380'
         longitude: '32.80844960'
-        type: null
+        type: Region
         cities:
           -
             id: 109051
@@ -632816,11 +633017,11 @@ country_state_city:
             longitude: '32.35000000'
       -
         id: 1487
-        name: 'Tanga Region'
+        name: Tanga
         state_code: '25'
         latitude: '-5.30497890'
         longitude: '38.31657250'
-        type: null
+        type: Region
         cities:
           -
             id: 109060
@@ -632893,45 +633094,12 @@ country_state_city:
             latitude: '-5.06893000'
             longitude: '39.09875000'
       -
-        id: 1471
-        name: 'Zanzibar Central/South Region'
-        state_code: '11'
-        latitude: '-6.26428510'
-        longitude: '39.44502810'
-        type: null
-        cities:
-          -
-            id: 109132
-            name: Koani
-            latitude: '-6.13333000'
-            longitude: '39.28333000'
-          -
-            id: 109133
-            name: 'Koani Ndogo'
-            latitude: '-6.13333000'
-            longitude: '39.28333000'
-          -
-            id: 109161
-            name: Mahonda
-            latitude: '-6.45000000'
-            longitude: '39.46667000'
-          -
-            id: 109250
-            name: Nganane
-            latitude: '-6.40000000'
-            longitude: '39.55000000'
-          -
-            id: 109281
-            name: Sokoni
-            latitude: '-6.43333000'
-            longitude: '39.55000000'
-      -
         id: 1473
-        name: 'Zanzibar North Region'
+        name: 'Zanzibar North'
         state_code: '07'
         latitude: '-5.93950930'
         longitude: '39.27910110'
-        type: null
+        type: Region
         cities:
           -
             id: 109069
@@ -632959,12 +633127,45 @@ country_state_city:
             latitude: '-5.72651000'
             longitude: '39.29870000'
       -
+        id: 1471
+        name: 'Zanzibar South'
+        state_code: '11'
+        latitude: '-6.26428510'
+        longitude: '39.44502810'
+        type: Region
+        cities:
+          -
+            id: 109132
+            name: Koani
+            latitude: '-6.13333000'
+            longitude: '39.28333000'
+          -
+            id: 109133
+            name: 'Koani Ndogo'
+            latitude: '-6.13333000'
+            longitude: '39.28333000'
+          -
+            id: 109161
+            name: Mahonda
+            latitude: '-6.45000000'
+            longitude: '39.46667000'
+          -
+            id: 109250
+            name: Nganane
+            latitude: '-6.40000000'
+            longitude: '39.55000000'
+          -
+            id: 109281
+            name: Sokoni
+            latitude: '-6.43333000'
+            longitude: '39.55000000'
+      -
         id: 1475
-        name: 'Zanzibar Urban/West Region'
+        name: 'Zanzibar West'
         state_code: '15'
         latitude: '-6.22981360'
         longitude: '39.25832930'
-        type: null
+        type: Region
         cities:
           -
             id: 109304
