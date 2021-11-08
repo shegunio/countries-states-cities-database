@@ -138637,7 +138637,7 @@
   </state_city>
   <state_city>
     <id>749</id>
-    <name>Famagusta District</name>
+    <name>Famagusta District (Mağusa)</name>
     <state_code>04</state_code>
     <latitude>35.28570230</latitude>
     <longitude>33.84112880</longitude>
@@ -138735,7 +138735,7 @@
   </state_city>
   <state_city>
     <id>744</id>
-    <name>Kyrenia District</name>
+    <name>Kyrenia District (Keryneia)</name>
     <state_code>06</state_code>
     <latitude>35.29919400</latitude>
     <longitude>33.23632460</longitude>
@@ -138761,17 +138761,11 @@
   </state_city>
   <state_city>
     <id>747</id>
-    <name>Larnaca District</name>
+    <name>Larnaca District (Larnaka)</name>
     <state_code>03</state_code>
     <latitude>34.85072060</latitude>
     <longitude>33.48319060</longitude>
     <country_id>57</country_id>
-    <cities>
-      <id>22104</id>
-      <name>Ágios Týchon</name>
-      <latitude>34.72606000</latitude>
-      <longitude>33.13872000</longitude>
-    </cities>
     <cities>
       <id>22015</id>
       <name>Aradíppou</name>
@@ -138895,7 +138889,7 @@
   </state_city>
   <state_city>
     <id>748</id>
-    <name>Limassol District</name>
+    <name>Limassol District (Leymasun)</name>
     <state_code>02</state_code>
     <latitude>34.70713010</latitude>
     <longitude>33.02261740</longitude>
@@ -138905,6 +138899,12 @@
       <name>Ágios Tomás</name>
       <latitude>34.71158000</latitude>
       <longitude>32.73129000</longitude>
+    </cities>
+    <cities>
+      <id>22104</id>
+      <name>Ágios Týchon</name>
+      <latitude>34.72606000</latitude>
+      <longitude>33.13872000</longitude>
     </cities>
     <cities>
       <id>22028</id>
@@ -138999,7 +138999,7 @@
   </state_city>
   <state_city>
     <id>745</id>
-    <name>Nicosia District</name>
+    <name>Nicosia District (Lefkoşa)</name>
     <state_code>01</state_code>
     <latitude>35.18556590</latitude>
     <longitude>33.38227640</longitude>
@@ -139157,7 +139157,7 @@
   </state_city>
   <state_city>
     <id>746</id>
-    <name>Paphos District</name>
+    <name>Paphos District (Pafos)</name>
     <state_code>05</state_code>
     <latitude>34.91645940</latitude>
     <longitude>32.49200880</longitude>
@@ -730834,7 +730834,7 @@
   </state_city>
   <state_city>
     <id>1641</id>
-    <name>Basel-Landschaft</name>
+    <name>Basel-Land</name>
     <state_code>BL</state_code>
     <latitude>47.44181220</latitude>
     <longitude>7.76440020</longitude>
@@ -731117,8 +731117,17 @@
     </cities>
   </state_city>
   <state_city>
+    <id>4957</id>
+    <name>Basel-Stadt</name>
+    <state_code>BS</state_code>
+    <latitude>47.56666700</latitude>
+    <longitude>7.60000000</longitude>
+    <country_id>214</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
     <id>1645</id>
-    <name>canton of Bern</name>
+    <name>Bern</name>
     <state_code>BE</state_code>
     <latitude>46.79886210</latitude>
     <longitude>7.70807010</longitude>
@@ -732460,7 +732469,7 @@
   </state_city>
   <state_city>
     <id>1647</id>
-    <name>Canton of Geneva</name>
+    <name>Geneva</name>
     <state_code>GE</state_code>
     <latitude>46.21800730</latitude>
     <longitude>6.12169250</longitude>
@@ -732635,8 +732644,450 @@
     </cities>
   </state_city>
   <state_city>
+    <id>1661</id>
+    <name>Glarus</name>
+    <state_code>GL</state_code>
+    <latitude>47.04112320</latitude>
+    <longitude>9.06790000</longitude>
+    <country_id>214</country_id>
+    <cities>
+      <id>17529</id>
+      <name>Bilten</name>
+      <latitude>47.14995000</latitude>
+      <longitude>9.02551000</longitude>
+    </cities>
+    <cities>
+      <id>17751</id>
+      <name>Ennenda</name>
+      <latitude>47.03363000</latitude>
+      <longitude>9.07888000</longitude>
+    </cities>
+    <cities>
+      <id>17839</id>
+      <name>Glarus</name>
+      <latitude>47.04057000</latitude>
+      <longitude>9.06804000</longitude>
+    </cities>
+    <cities>
+      <id>18086</id>
+      <name>Linthal</name>
+      <latitude>46.92127000</latitude>
+      <longitude>8.99799000</longitude>
+    </cities>
+    <cities>
+      <id>18097</id>
+      <name>Luchsingen</name>
+      <latitude>46.96640000</latitude>
+      <longitude>9.03715000</longitude>
+    </cities>
+    <cities>
+      <id>18162</id>
+      <name>Mollis</name>
+      <latitude>47.08878000</latitude>
+      <longitude>9.07242000</longitude>
+    </cities>
+    <cities>
+      <id>18235</id>
+      <name>Näfels</name>
+      <latitude>47.09775000</latitude>
+      <longitude>9.06361000</longitude>
+    </cities>
+    <cities>
+      <id>18211</id>
+      <name>Netstal</name>
+      <latitude>47.06337000</latitude>
+      <longitude>9.05734000</longitude>
+    </cities>
+    <cities>
+      <id>18229</id>
+      <name>Niederurnen</name>
+      <latitude>47.12598000</latitude>
+      <longitude>9.05428000</longitude>
+    </cities>
+    <cities>
+      <id>18268</id>
+      <name>Oberurnen</name>
+      <latitude>47.11412000</latitude>
+      <longitude>9.05866000</longitude>
+    </cities>
+    <cities>
+      <id>18475</id>
+      <name>Schwanden</name>
+      <latitude>46.99541000</latitude>
+      <longitude>9.07010000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1660</id>
+    <name>Graubünden</name>
+    <state_code>GR</state_code>
+    <latitude>46.65698710</latitude>
+    <longitude>9.57802570</longitude>
+    <country_id>214</country_id>
+    <cities>
+      <id>17409</id>
+      <name>Arosa</name>
+      <latitude>46.77793000</latitude>
+      <longitude>9.67621000</longitude>
+    </cities>
+    <cities>
+      <id>17411</id>
+      <name>Arvigo</name>
+      <latitude>46.30211000</latitude>
+      <longitude>9.11300000</longitude>
+    </cities>
+    <cities>
+      <id>17547</id>
+      <name>Bonaduz</name>
+      <latitude>46.81103000</latitude>
+      <longitude>9.39821000</longitude>
+    </cities>
+    <cities>
+      <id>17559</id>
+      <name>Breíl</name>
+      <latitude>46.76986000</latitude>
+      <longitude>9.06036000</longitude>
+    </cities>
+    <cities>
+      <id>17571</id>
+      <name>Brusio</name>
+      <latitude>46.25953000</latitude>
+      <longitude>10.12385000</longitude>
+    </cities>
+    <cities>
+      <id>17585</id>
+      <name>Buseno</name>
+      <latitude>46.27381000</latitude>
+      <longitude>9.10735000</longitude>
+    </cities>
+    <cities>
+      <id>17615</id>
+      <name>Cauco</name>
+      <latitude>46.33541000</latitude>
+      <longitude>9.12129000</longitude>
+    </cities>
+    <cities>
+      <id>17617</id>
+      <name>Cazis</name>
+      <latitude>46.71940000</latitude>
+      <longitude>9.43271000</longitude>
+    </cities>
+    <cities>
+      <id>17618</id>
+      <name>Celerina</name>
+      <latitude>46.51217000</latitude>
+      <longitude>9.85794000</longitude>
+    </cities>
+    <cities>
+      <id>17638</id>
+      <name>Chur</name>
+      <latitude>46.84986000</latitude>
+      <longitude>9.53287000</longitude>
+    </cities>
+    <cities>
+      <id>17639</id>
+      <name>Churwalden</name>
+      <latitude>46.78143000</latitude>
+      <longitude>9.54377000</longitude>
+    </cities>
+    <cities>
+      <id>17677</id>
+      <name>Davos</name>
+      <latitude>46.80429000</latitude>
+      <longitude>9.83723000</longitude>
+    </cities>
+    <cities>
+      <id>17699</id>
+      <name>Disentis</name>
+      <latitude>46.70341000</latitude>
+      <longitude>8.85090000</longitude>
+    </cities>
+    <cities>
+      <id>17700</id>
+      <name>Domat</name>
+      <latitude>46.83483000</latitude>
+      <longitude>9.45075000</longitude>
+    </cities>
+    <cities>
+      <id>17783</id>
+      <name>Felsberg</name>
+      <latitude>46.84566000</latitude>
+      <longitude>9.47588000</longitude>
+    </cities>
+    <cities>
+      <id>17793</id>
+      <name>Flims</name>
+      <latitude>46.83705000</latitude>
+      <longitude>9.28458000</longitude>
+    </cities>
+    <cities>
+      <id>17882</id>
+      <name>Grüsch</name>
+      <latitude>46.97965000</latitude>
+      <longitude>9.64639000</longitude>
+    </cities>
+    <cities>
+      <id>17917</id>
+      <name>Hinterrhein</name>
+      <latitude>46.53333000</latitude>
+      <longitude>9.20000000</longitude>
+    </cities>
+    <cities>
+      <id>17947</id>
+      <name>Igis</name>
+      <latitude>46.94531000</latitude>
+      <longitude>9.57218000</longitude>
+    </cities>
+    <cities>
+      <id>17948</id>
+      <name>Ilanz</name>
+      <latitude>46.77413000</latitude>
+      <longitude>9.20461000</longitude>
+    </cities>
+    <cities>
+      <id>17958</id>
+      <name>Jenaz</name>
+      <latitude>46.92892000</latitude>
+      <longitude>9.71275000</longitude>
+    </cities>
+    <cities>
+      <id>17986</id>
+      <name>Klosters Serneus</name>
+      <latitude>46.88918000</latitude>
+      <longitude>9.83826000</longitude>
+    </cities>
+    <cities>
+      <id>18024</id>
+      <name>La Punt Chamues-ch</name>
+      <latitude>46.57887000</latitude>
+      <longitude>9.92015000</longitude>
+    </cities>
+    <cities>
+      <id>18029</id>
+      <name>Laax</name>
+      <latitude>46.80452000</latitude>
+      <longitude>9.25787000</longitude>
+    </cities>
+    <cities>
+      <id>18033</id>
+      <name>Landquart</name>
+      <latitude>46.95000000</latitude>
+      <longitude>9.56667000</longitude>
+    </cities>
+    <cities>
+      <id>18067</id>
+      <name>Lenzerheide</name>
+      <latitude>46.72215000</latitude>
+      <longitude>9.55905000</longitude>
+    </cities>
+    <cities>
+      <id>18105</id>
+      <name>Luzein</name>
+      <latitude>46.91957000</latitude>
+      <longitude>9.76080000</longitude>
+    </cities>
+    <cities>
+      <id>18116</id>
+      <name>Maienfeld</name>
+      <latitude>47.00472000</latitude>
+      <longitude>9.53115000</longitude>
+    </cities>
+    <cities>
+      <id>18117</id>
+      <name>Malans</name>
+      <latitude>46.98096000</latitude>
+      <longitude>9.57527000</longitude>
+    </cities>
+    <cities>
+      <id>18155</id>
+      <name>Mesocco</name>
+      <latitude>46.39390000</latitude>
+      <longitude>9.23333000</longitude>
+    </cities>
+    <cities>
+      <id>18318</id>
+      <name>Pontresina</name>
+      <latitude>46.49550000</latitude>
+      <longitude>9.90126000</longitude>
+    </cities>
+    <cities>
+      <id>18321</id>
+      <name>Poschiavo</name>
+      <latitude>46.32441000</latitude>
+      <longitude>10.05823000</longitude>
+    </cities>
+    <cities>
+      <id>18348</id>
+      <name>Region Albula</name>
+      <latitude>46.60255000</latitude>
+      <longitude>9.65150000</longitude>
+    </cities>
+    <cities>
+      <id>18349</id>
+      <name>Region Bernina</name>
+      <latitude>46.33488000</latitude>
+      <longitude>10.07349000</longitude>
+    </cities>
+    <cities>
+      <id>18350</id>
+      <name>Region Engiadina Bassa / Val Müstair</name>
+      <latitude>46.75212000</latitude>
+      <longitude>10.26032000</longitude>
+    </cities>
+    <cities>
+      <id>18351</id>
+      <name>Region Imboden</name>
+      <latitude>46.84876000</latitude>
+      <longitude>9.36225000</longitude>
+    </cities>
+    <cities>
+      <id>18352</id>
+      <name>Region Landquart</name>
+      <latitude>46.96403000</latitude>
+      <longitude>9.56365000</longitude>
+    </cities>
+    <cities>
+      <id>18353</id>
+      <name>Region Maloja</name>
+      <latitude>46.47448000</latitude>
+      <longitude>9.83138000</longitude>
+    </cities>
+    <cities>
+      <id>18354</id>
+      <name>Region Moesa</name>
+      <latitude>46.35200000</latitude>
+      <longitude>9.17870000</longitude>
+    </cities>
+    <cities>
+      <id>18355</id>
+      <name>Region Plessur</name>
+      <latitude>46.81819000</latitude>
+      <longitude>9.62542000</longitude>
+    </cities>
+    <cities>
+      <id>18356</id>
+      <name>Region Prättigau / Davos</name>
+      <latitude>46.86727000</latitude>
+      <longitude>9.82014000</longitude>
+    </cities>
+    <cities>
+      <id>18357</id>
+      <name>Region Surselva</name>
+      <latitude>46.69564000</latitude>
+      <longitude>9.04834000</longitude>
+    </cities>
+    <cities>
+      <id>18358</id>
+      <name>Region Viamala</name>
+      <latitude>46.58762000</latitude>
+      <longitude>9.40035000</longitude>
+    </cities>
+    <cities>
+      <id>18367</id>
+      <name>Rhäzüns</name>
+      <latitude>46.79891000</latitude>
+      <longitude>9.39764000</longitude>
+    </cities>
+    <cities>
+      <id>18435</id>
+      <name>Samedan</name>
+      <latitude>46.53399000</latitude>
+      <longitude>9.87276000</longitude>
+    </cities>
+    <cities>
+      <id>18457</id>
+      <name>Scharans</name>
+      <latitude>46.71814000</latitude>
+      <longitude>9.45903000</longitude>
+    </cities>
+    <cities>
+      <id>18460</id>
+      <name>Schiers</name>
+      <latitude>46.96973000</latitude>
+      <longitude>9.68720000</longitude>
+    </cities>
+    <cities>
+      <id>18490</id>
+      <name>Scuol</name>
+      <latitude>46.79671000</latitude>
+      <longitude>10.29804000</longitude>
+    </cities>
+    <cities>
+      <id>18522</id>
+      <name>Silvaplana</name>
+      <latitude>46.45810000</latitude>
+      <longitude>9.79514000</longitude>
+    </cities>
+    <cities>
+      <id>18535</id>
+      <name>St. Moritz</name>
+      <latitude>46.49937000</latitude>
+      <longitude>9.84327000</longitude>
+    </cities>
+    <cities>
+      <id>18572</id>
+      <name>Tamins</name>
+      <latitude>46.82964000</latitude>
+      <longitude>9.40648000</longitude>
+    </cities>
+    <cities>
+      <id>18594</id>
+      <name>Thusis</name>
+      <latitude>46.69724000</latitude>
+      <longitude>9.43938000</longitude>
+    </cities>
+    <cities>
+      <id>18596</id>
+      <name>Tiefencastel</name>
+      <latitude>46.66014000</latitude>
+      <longitude>9.57883000</longitude>
+    </cities>
+    <cities>
+      <id>18604</id>
+      <name>Trimmis</name>
+      <latitude>46.90075000</latitude>
+      <longitude>9.56120000</longitude>
+    </cities>
+    <cities>
+      <id>18610</id>
+      <name>Trun</name>
+      <latitude>46.74292000</latitude>
+      <longitude>8.98716000</longitude>
+    </cities>
+    <cities>
+      <id>18637</id>
+      <name>Untervaz</name>
+      <latitude>46.92750000</latitude>
+      <longitude>9.53422000</longitude>
+    </cities>
+    <cities>
+      <id>18660</id>
+      <name>Vals Platz</name>
+      <latitude>46.61647000</latitude>
+      <longitude>9.18025000</longitude>
+    </cities>
+    <cities>
+      <id>18794</id>
+      <name>Zernez</name>
+      <latitude>46.69862000</latitude>
+      <longitude>10.09268000</longitude>
+    </cities>
+    <cities>
+      <id>18795</id>
+      <name>Zizers</name>
+      <latitude>46.93575000</latitude>
+      <longitude>9.56491000</longitude>
+    </cities>
+    <cities>
+      <id>18804</id>
+      <name>Zuoz</name>
+      <latitude>46.60206000</latitude>
+      <longitude>9.95965000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
     <id>1658</id>
-    <name>Canton of Jura</name>
+    <name>Jura</name>
     <state_code>JU</state_code>
     <latitude>47.34444740</latitude>
     <longitude>7.14306080</longitude>
@@ -732764,7 +733215,7 @@
   </state_city>
   <state_city>
     <id>1663</id>
-    <name>Canton of Lucerne</name>
+    <name>Lucerne</name>
     <state_code>LU</state_code>
     <latitude>47.07956710</latitude>
     <longitude>8.16624450</longitude>
@@ -733174,7 +733625,7 @@
   </state_city>
   <state_city>
     <id>1659</id>
-    <name>Canton of Neuchâtel</name>
+    <name>Neuchâtel</name>
     <state_code>NE</state_code>
     <latitude>46.98998740</latitude>
     <longitude>6.92927320</longitude>
@@ -733367,8 +733818,120 @@
     </cities>
   </state_city>
   <state_city>
+    <id>1652</id>
+    <name>Nidwalden</name>
+    <state_code>NW</state_code>
+    <latitude>46.92670160</latitude>
+    <longitude>8.38499820</longitude>
+    <country_id>214</country_id>
+    <cities>
+      <id>17448</id>
+      <name>Beckenried</name>
+      <latitude>46.96653000</latitude>
+      <longitude>8.47575000</longitude>
+    </cities>
+    <cities>
+      <id>17582</id>
+      <name>Buochs</name>
+      <latitude>46.97398000</latitude>
+      <longitude>8.42279000</longitude>
+    </cities>
+    <cities>
+      <id>17675</id>
+      <name>Dallenwil</name>
+      <latitude>46.92420000</latitude>
+      <longitude>8.38785000</longitude>
+    </cities>
+    <cities>
+      <id>17748</id>
+      <name>Emmetten</name>
+      <latitude>46.95658000</latitude>
+      <longitude>8.51467000</longitude>
+    </cities>
+    <cities>
+      <id>17752</id>
+      <name>Ennetbürgen</name>
+      <latitude>46.98423000</latitude>
+      <longitude>8.41003000</longitude>
+    </cities>
+    <cities>
+      <id>17906</id>
+      <name>Hergiswil</name>
+      <latitude>46.98429000</latitude>
+      <longitude>8.30944000</longitude>
+    </cities>
+    <cities>
+      <id>18546</id>
+      <name>Stans</name>
+      <latitude>46.95805000</latitude>
+      <longitude>8.36609000</longitude>
+    </cities>
+    <cities>
+      <id>18547</id>
+      <name>Stansstad</name>
+      <latitude>46.97680000</latitude>
+      <longitude>8.33553000</longitude>
+    </cities>
+    <cities>
+      <id>18763</id>
+      <name>Wolfenschiessen</name>
+      <latitude>46.90322000</latitude>
+      <longitude>8.39423000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1650</id>
+    <name>Obwalden</name>
+    <state_code>OW</state_code>
+    <latitude>46.87785800</latitude>
+    <longitude>8.25124900</longitude>
+    <country_id>214</country_id>
+    <cities>
+      <id>17387</id>
+      <name>Alpnach</name>
+      <latitude>46.94227000</latitude>
+      <longitude>8.27180000</longitude>
+    </cities>
+    <cities>
+      <id>17750</id>
+      <name>Engelberg</name>
+      <latitude>46.82107000</latitude>
+      <longitude>8.40133000</longitude>
+    </cities>
+    <cities>
+      <id>17835</id>
+      <name>Giswil</name>
+      <latitude>46.83333000</latitude>
+      <longitude>8.18065000</longitude>
+    </cities>
+    <cities>
+      <id>17973</id>
+      <name>Kerns</name>
+      <latitude>46.90121000</latitude>
+      <longitude>8.27514000</longitude>
+    </cities>
+    <cities>
+      <id>18101</id>
+      <name>Lungern</name>
+      <latitude>46.78578000</latitude>
+      <longitude>8.15984000</longitude>
+    </cities>
+    <cities>
+      <id>18418</id>
+      <name>Sachseln</name>
+      <latitude>46.86718000</latitude>
+      <longitude>8.23344000</longitude>
+    </cities>
+    <cities>
+      <id>18447</id>
+      <name>Sarnen</name>
+      <latitude>46.89611000</latitude>
+      <longitude>8.24531000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
     <id>1654</id>
-    <name>Canton of Schaffhausen</name>
+    <name>Schaffhausen</name>
     <state_code>SH</state_code>
     <latitude>47.70093640</latitude>
     <longitude>8.56800400</longitude>
@@ -733483,8 +734046,208 @@
     </cities>
   </state_city>
   <state_city>
+    <id>1653</id>
+    <name>Schwyz</name>
+    <state_code>SZ</state_code>
+    <latitude>47.02071380</latitude>
+    <longitude>8.65298840</longitude>
+    <country_id>214</country_id>
+    <cities>
+      <id>17389</id>
+      <name>Altendorf</name>
+      <latitude>47.18994000</latitude>
+      <longitude>8.83823000</longitude>
+    </cities>
+    <cities>
+      <id>17410</id>
+      <name>Arth</name>
+      <latitude>47.06337000</latitude>
+      <longitude>8.52349000</longitude>
+    </cities>
+    <cities>
+      <id>17590</id>
+      <name>Bäch</name>
+      <latitude>47.20388000</latitude>
+      <longitude>8.73224000</longitude>
+    </cities>
+    <cities>
+      <id>17483</id>
+      <name>Bezirk Einsiedeln</name>
+      <latitude>47.10792000</latitude>
+      <longitude>8.76010000</longitude>
+    </cities>
+    <cities>
+      <id>17484</id>
+      <name>Bezirk Gersau</name>
+      <latitude>47.00800000</latitude>
+      <longitude>8.51678000</longitude>
+    </cities>
+    <cities>
+      <id>17490</id>
+      <name>Bezirk Höfe</name>
+      <latitude>47.19043000</latitude>
+      <longitude>8.73960000</longitude>
+    </cities>
+    <cities>
+      <id>17492</id>
+      <name>Bezirk Küssnacht</name>
+      <latitude>47.08611000</latitude>
+      <longitude>8.44444000</longitude>
+    </cities>
+    <cities>
+      <id>17498</id>
+      <name>Bezirk March</name>
+      <latitude>47.16128000</latitude>
+      <longitude>8.91103000</longitude>
+    </cities>
+    <cities>
+      <id>17509</id>
+      <name>Bezirk Schwyz</name>
+      <latitude>47.02814000</latitude>
+      <longitude>8.63619000</longitude>
+    </cities>
+    <cities>
+      <id>17738</id>
+      <name>Einsiedeln</name>
+      <latitude>47.12849000</latitude>
+      <longitude>8.74735000</longitude>
+    </cities>
+    <cities>
+      <id>17787</id>
+      <name>Feusisberg</name>
+      <latitude>47.18707000</latitude>
+      <longitude>8.74724000</longitude>
+    </cities>
+    <cities>
+      <id>17806</id>
+      <name>Freienbach</name>
+      <latitude>47.20534000</latitude>
+      <longitude>8.75842000</longitude>
+    </cities>
+    <cities>
+      <id>17830</id>
+      <name>Gersau</name>
+      <latitude>46.99419000</latitude>
+      <longitude>8.52500000</longitude>
+    </cities>
+    <cities>
+      <id>17848</id>
+      <name>Goldau</name>
+      <latitude>47.04761000</latitude>
+      <longitude>8.54616000</longitude>
+    </cities>
+    <cities>
+      <id>17946</id>
+      <name>Ibach</name>
+      <latitude>47.01105000</latitude>
+      <longitude>8.64538000</longitude>
+    </cities>
+    <cities>
+      <id>17951</id>
+      <name>Ingenbohl</name>
+      <latitude>46.99880000</latitude>
+      <longitude>8.61529000</longitude>
+    </cities>
+    <cities>
+      <id>18019</id>
+      <name>Küssnacht</name>
+      <latitude>47.08557000</latitude>
+      <longitude>8.44206000</longitude>
+    </cities>
+    <cities>
+      <id>18030</id>
+      <name>Lachen</name>
+      <latitude>47.19224000</latitude>
+      <longitude>8.85324000</longitude>
+    </cities>
+    <cities>
+      <id>18179</id>
+      <name>Muotathal</name>
+      <latitude>46.97676000</latitude>
+      <longitude>8.76499000</longitude>
+    </cities>
+    <cities>
+      <id>18310</id>
+      <name>Pfäffikon</name>
+      <latitude>47.20109000</latitude>
+      <longitude>8.77816000</longitude>
+    </cities>
+    <cities>
+      <id>18360</id>
+      <name>Reichenburg</name>
+      <latitude>47.17097000</latitude>
+      <longitude>8.97704000</longitude>
+    </cities>
+    <cities>
+      <id>18393</id>
+      <name>Rothenthurm</name>
+      <latitude>47.10420000</latitude>
+      <longitude>8.67585000</longitude>
+    </cities>
+    <cities>
+      <id>18449</id>
+      <name>Sattel</name>
+      <latitude>47.08246000</latitude>
+      <longitude>8.63565000</longitude>
+    </cities>
+    <cities>
+      <id>18461</id>
+      <name>Schindellegi</name>
+      <latitude>47.17460000</latitude>
+      <longitude>8.71345000</longitude>
+    </cities>
+    <cities>
+      <id>18487</id>
+      <name>Schübelbach</name>
+      <latitude>47.17326000</latitude>
+      <longitude>8.92811000</longitude>
+    </cities>
+    <cities>
+      <id>18481</id>
+      <name>Schwyz</name>
+      <latitude>47.02076000</latitude>
+      <longitude>8.65414000</longitude>
+    </cities>
+    <cities>
+      <id>18516</id>
+      <name>Siebnen</name>
+      <latitude>47.17449000</latitude>
+      <longitude>8.89781000</longitude>
+    </cities>
+    <cities>
+      <id>18553</id>
+      <name>Steinen</name>
+      <latitude>47.04975000</latitude>
+      <longitude>8.61214000</longitude>
+    </cities>
+    <cities>
+      <id>18612</id>
+      <name>Tuggen</name>
+      <latitude>47.20291000</latitude>
+      <longitude>8.94896000</longitude>
+    </cities>
+    <cities>
+      <id>18632</id>
+      <name>Unteriberg</name>
+      <latitude>47.06258000</latitude>
+      <longitude>8.80520000</longitude>
+    </cities>
+    <cities>
+      <id>18693</id>
+      <name>Vorderthal</name>
+      <latitude>47.12172000</latitude>
+      <longitude>8.90225000</longitude>
+    </cities>
+    <cities>
+      <id>18767</id>
+      <name>Wollerau</name>
+      <latitude>47.19478000</latitude>
+      <longitude>8.71903000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
     <id>1662</id>
-    <name>Canton of Solothurn</name>
+    <name>Solothurn</name>
     <state_code>SO</state_code>
     <latitude>47.33207170</latitude>
     <longitude>7.63883850</longitude>
@@ -733810,7 +734573,7 @@
   </state_city>
   <state_city>
     <id>1644</id>
-    <name>Canton of St. Gallen</name>
+    <name>St. Gallen</name>
     <state_code>SG</state_code>
     <latitude>47.14562540</latitude>
     <longitude>9.35043320</longitude>
@@ -734285,8 +735048,764 @@
     </cities>
   </state_city>
   <state_city>
+    <id>1657</id>
+    <name>Thurgau</name>
+    <state_code>TG</state_code>
+    <latitude>47.60378560</latitude>
+    <longitude>9.05573710</longitude>
+    <country_id>214</country_id>
+    <cities>
+      <id>17356</id>
+      <name>Aadorf</name>
+      <latitude>47.49204000</latitude>
+      <longitude>8.90099000</longitude>
+    </cities>
+    <cities>
+      <id>17374</id>
+      <name>Affeltrangen</name>
+      <latitude>47.52581000</latitude>
+      <longitude>9.03307000</longitude>
+    </cities>
+    <cities>
+      <id>17392</id>
+      <name>Altnau</name>
+      <latitude>47.61052000</latitude>
+      <longitude>9.26160000</longitude>
+    </cities>
+    <cities>
+      <id>17395</id>
+      <name>Amriswil</name>
+      <latitude>47.54699000</latitude>
+      <longitude>9.29586000</longitude>
+    </cities>
+    <cities>
+      <id>17402</id>
+      <name>Arbon</name>
+      <latitude>47.51667000</latitude>
+      <longitude>9.43333000</longitude>
+    </cities>
+    <cities>
+      <id>17403</id>
+      <name>Arbon District</name>
+      <latitude>47.54867000</latitude>
+      <longitude>9.35159000</longitude>
+    </cities>
+    <cities>
+      <id>17459</id>
+      <name>Berg</name>
+      <latitude>47.57879000</latitude>
+      <longitude>9.16635000</longitude>
+    </cities>
+    <cities>
+      <id>17552</id>
+      <name>Bottighofen</name>
+      <latitude>47.63643000</latitude>
+      <longitude>9.20882000</longitude>
+    </cities>
+    <cities>
+      <id>17603</id>
+      <name>Bürglen</name>
+      <latitude>47.54921000</latitude>
+      <longitude>9.14950000</longitude>
+    </cities>
+    <cities>
+      <id>17688</id>
+      <name>Diessenhofen</name>
+      <latitude>47.68908000</latitude>
+      <longitude>8.74958000</longitude>
+    </cities>
+    <cities>
+      <id>17733</id>
+      <name>Egnach</name>
+      <latitude>47.54268000</latitude>
+      <longitude>9.38048000</longitude>
+    </cities>
+    <cities>
+      <id>17760</id>
+      <name>Erlen</name>
+      <latitude>47.54814000</latitude>
+      <longitude>9.23415000</longitude>
+    </cities>
+    <cities>
+      <id>17766</id>
+      <name>Ermatingen</name>
+      <latitude>47.67057000</latitude>
+      <longitude>9.08573000</longitude>
+    </cities>
+    <cities>
+      <id>17770</id>
+      <name>Eschenz</name>
+      <latitude>47.64793000</latitude>
+      <longitude>8.87472000</longitude>
+    </cities>
+    <cities>
+      <id>17771</id>
+      <name>Eschlikon</name>
+      <latitude>47.46361000</latitude>
+      <longitude>8.96381000</longitude>
+    </cities>
+    <cities>
+      <id>17789</id>
+      <name>Fischingen</name>
+      <latitude>47.41422000</latitude>
+      <longitude>8.96862000</longitude>
+    </cities>
+    <cities>
+      <id>17803</id>
+      <name>Frauenfeld</name>
+      <latitude>47.55776000</latitude>
+      <longitude>8.89893000</longitude>
+    </cities>
+    <cities>
+      <id>17804</id>
+      <name>Frauenfeld District</name>
+      <latitude>47.61115000</latitude>
+      <longitude>8.89444000</longitude>
+    </cities>
+    <cities>
+      <id>17818</id>
+      <name>Gachnang</name>
+      <latitude>47.53935000</latitude>
+      <longitude>8.85311000</longitude>
+    </cities>
+    <cities>
+      <id>17858</id>
+      <name>Gottlieben</name>
+      <latitude>47.66380000</latitude>
+      <longitude>9.13371000</longitude>
+    </cities>
+    <cities>
+      <id>17889</id>
+      <name>Güttingen</name>
+      <latitude>47.60349000</latitude>
+      <longitude>9.28742000</longitude>
+    </cities>
+    <cities>
+      <id>17928</id>
+      <name>Homburg</name>
+      <latitude>47.63469000</latitude>
+      <longitude>9.00756000</longitude>
+    </cities>
+    <cities>
+      <id>17945</id>
+      <name>Hüttwilen</name>
+      <latitude>47.60674000</latitude>
+      <longitude>8.87343000</longitude>
+    </cities>
+    <cities>
+      <id>18005</id>
+      <name>Kreuzlingen</name>
+      <latitude>47.65051000</latitude>
+      <longitude>9.17504000</longitude>
+    </cities>
+    <cities>
+      <id>18006</id>
+      <name>Kreuzlingen District</name>
+      <latitude>47.63046000</latitude>
+      <longitude>9.16458000</longitude>
+    </cities>
+    <cities>
+      <id>18041</id>
+      <name>Langrickenbach</name>
+      <latitude>47.59353000</latitude>
+      <longitude>9.24727000</longitude>
+    </cities>
+    <cities>
+      <id>18189</id>
+      <name>Märstetten-Dorf</name>
+      <latitude>47.59252000</latitude>
+      <longitude>9.06851000</longitude>
+    </cities>
+    <cities>
+      <id>18135</id>
+      <name>Matzingen</name>
+      <latitude>47.51957000</latitude>
+      <longitude>8.93365000</longitude>
+    </cities>
+    <cities>
+      <id>18198</id>
+      <name>Müllheim</name>
+      <latitude>47.60195000</latitude>
+      <longitude>9.00357000</longitude>
+    </cities>
+    <cities>
+      <id>18202</id>
+      <name>Münchwilen</name>
+      <latitude>47.47719000</latitude>
+      <longitude>8.99677000</longitude>
+    </cities>
+    <cities>
+      <id>18203</id>
+      <name>Münchwilen District</name>
+      <latitude>47.47324000</latitude>
+      <longitude>8.98812000</longitude>
+    </cities>
+    <cities>
+      <id>18205</id>
+      <name>Münsterlingen</name>
+      <latitude>47.63197000</latitude>
+      <longitude>9.23271000</longitude>
+    </cities>
+    <cities>
+      <id>18309</id>
+      <name>Pfyn</name>
+      <latitude>47.59693000</latitude>
+      <longitude>8.95420000</longitude>
+    </cities>
+    <cities>
+      <id>18373</id>
+      <name>Rickenbach bei Wil</name>
+      <latitude>47.44856000</latitude>
+      <longitude>9.04902000</longitude>
+    </cities>
+    <cities>
+      <id>18383</id>
+      <name>Roggwil</name>
+      <latitude>47.49981000</latitude>
+      <longitude>9.39580000</longitude>
+    </cities>
+    <cities>
+      <id>18388</id>
+      <name>Romanshorn</name>
+      <latitude>47.56586000</latitude>
+      <longitude>9.37869000</longitude>
+    </cities>
+    <cities>
+      <id>18433</id>
+      <name>Salmsach</name>
+      <latitude>47.55433000</latitude>
+      <longitude>9.37229000</longitude>
+    </cities>
+    <cities>
+      <id>18525</id>
+      <name>Sirnach</name>
+      <latitude>47.46222000</latitude>
+      <longitude>8.99763000</longitude>
+    </cities>
+    <cities>
+      <id>18549</id>
+      <name>Steckborn</name>
+      <latitude>47.66667000</latitude>
+      <longitude>8.98333000</longitude>
+    </cities>
+    <cities>
+      <id>18557</id>
+      <name>Stettfurt</name>
+      <latitude>47.52588000</latitude>
+      <longitude>8.95317000</longitude>
+    </cities>
+    <cities>
+      <id>18563</id>
+      <name>Sulgen</name>
+      <latitude>47.53967000</latitude>
+      <longitude>9.18585000</longitude>
+    </cities>
+    <cities>
+      <id>18616</id>
+      <name>Tägerwilen</name>
+      <latitude>47.65698000</latitude>
+      <longitude>9.13999000</longitude>
+    </cities>
+    <cities>
+      <id>18593</id>
+      <name>Thundorf</name>
+      <latitude>47.54594000</latitude>
+      <longitude>8.96358000</longitude>
+    </cities>
+    <cities>
+      <id>18652</id>
+      <name>Uttwil</name>
+      <latitude>47.58440000</latitude>
+      <longitude>9.34101000</longitude>
+    </cities>
+    <cities>
+      <id>18698</id>
+      <name>Wagenhausen</name>
+      <latitude>47.66003000</latitude>
+      <longitude>8.84782000</longitude>
+    </cities>
+    <cities>
+      <id>18781</id>
+      <name>Wängi</name>
+      <latitude>47.49654000</latitude>
+      <longitude>8.95325000</longitude>
+    </cities>
+    <cities>
+      <id>18730</id>
+      <name>Weinfelden</name>
+      <latitude>47.56667000</latitude>
+      <longitude>9.10000000</longitude>
+    </cities>
+    <cities>
+      <id>18731</id>
+      <name>Weinfelden District</name>
+      <latitude>47.54237000</latitude>
+      <longitude>9.15713000</longitude>
+    </cities>
+    <cities>
+      <id>18747</id>
+      <name>Wigoltingen</name>
+      <latitude>47.59770000</latitude>
+      <longitude>9.03141000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1643</id>
+    <name>Ticino</name>
+    <state_code>TI</state_code>
+    <latitude>46.33173400</latitude>
+    <longitude>8.80045290</longitude>
+    <country_id>214</country_id>
+    <cities>
+      <id>17361</id>
+      <name>Acquarossa</name>
+      <latitude>46.45473000</latitude>
+      <longitude>8.94261000</longitude>
+    </cities>
+    <cities>
+      <id>17380</id>
+      <name>Agno</name>
+      <latitude>45.99863000</latitude>
+      <longitude>8.90030000</longitude>
+    </cities>
+    <cities>
+      <id>17384</id>
+      <name>Airolo</name>
+      <latitude>46.52855000</latitude>
+      <longitude>8.61189000</longitude>
+    </cities>
+    <cities>
+      <id>17413</id>
+      <name>Arzo</name>
+      <latitude>45.87606000</latitude>
+      <longitude>8.94103000</longitude>
+    </cities>
+    <cities>
+      <id>17414</id>
+      <name>Ascona</name>
+      <latitude>46.15451000</latitude>
+      <longitude>8.77327000</longitude>
+    </cities>
+    <cities>
+      <id>17434</id>
+      <name>Balerna</name>
+      <latitude>45.84638000</latitude>
+      <longitude>9.00724000</longitude>
+    </cities>
+    <cities>
+      <id>17452</id>
+      <name>Bellinzona</name>
+      <latitude>46.19278000</latitude>
+      <longitude>9.01703000</longitude>
+    </cities>
+    <cities>
+      <id>17453</id>
+      <name>Bellinzona District</name>
+      <latitude>46.18858000</latitude>
+      <longitude>9.00254000</longitude>
+    </cities>
+    <cities>
+      <id>17524</id>
+      <name>Biasca</name>
+      <latitude>46.35972000</latitude>
+      <longitude>8.96965000</longitude>
+    </cities>
+    <cities>
+      <id>17533</id>
+      <name>Bioggio</name>
+      <latitude>46.01357000</latitude>
+      <longitude>8.91103000</longitude>
+    </cities>
+    <cities>
+      <id>17540</id>
+      <name>Blenio District</name>
+      <latitude>46.47613000</latitude>
+      <longitude>8.94609000</longitude>
+    </cities>
+    <cities>
+      <id>17544</id>
+      <name>Bodio</name>
+      <latitude>46.37808000</latitude>
+      <longitude>8.90991000</longitude>
+    </cities>
+    <cities>
+      <id>17564</id>
+      <name>Brissago</name>
+      <latitude>46.12013000</latitude>
+      <longitude>8.71181000</longitude>
+    </cities>
+    <cities>
+      <id>17607</id>
+      <name>Cadempino</name>
+      <latitude>46.03672000</latitude>
+      <longitude>8.93403000</longitude>
+    </cities>
+    <cities>
+      <id>17608</id>
+      <name>Cadenazzo</name>
+      <latitude>46.15172000</latitude>
+      <longitude>8.94719000</longitude>
+    </cities>
+    <cities>
+      <id>17609</id>
+      <name>Cadro</name>
+      <latitude>46.04595000</latitude>
+      <longitude>8.98725000</longitude>
+    </cities>
+    <cities>
+      <id>17610</id>
+      <name>Camorino</name>
+      <latitude>46.16483000</latitude>
+      <longitude>9.00547000</longitude>
+    </cities>
+    <cities>
+      <id>17611</id>
+      <name>Canobbio</name>
+      <latitude>46.03592000</latitude>
+      <longitude>8.96605000</longitude>
+    </cities>
+    <cities>
+      <id>17613</id>
+      <name>Caslano</name>
+      <latitude>45.97364000</latitude>
+      <longitude>8.87739000</longitude>
+    </cities>
+    <cities>
+      <id>17614</id>
+      <name>Castel San Pietro</name>
+      <latitude>45.86211000</latitude>
+      <longitude>9.00843000</longitude>
+    </cities>
+    <cities>
+      <id>17620</id>
+      <name>Cevio</name>
+      <latitude>46.31479000</latitude>
+      <longitude>8.60332000</longitude>
+    </cities>
+    <cities>
+      <id>17636</id>
+      <name>Chiasso</name>
+      <latitude>45.83203000</latitude>
+      <longitude>9.03119000</longitude>
+    </cities>
+    <cities>
+      <id>17645</id>
+      <name>Claro</name>
+      <latitude>46.25763000</latitude>
+      <longitude>9.02252000</longitude>
+    </cities>
+    <cities>
+      <id>17648</id>
+      <name>Comano</name>
+      <latitude>46.03635000</latitude>
+      <longitude>8.95526000</longitude>
+    </cities>
+    <cities>
+      <id>17670</id>
+      <name>Cugnasco</name>
+      <latitude>46.17473000</latitude>
+      <longitude>8.91684000</longitude>
+    </cities>
+    <cities>
+      <id>17780</id>
+      <name>Faido</name>
+      <latitude>46.47700000</latitude>
+      <longitude>8.80125000</longitude>
+    </cities>
+    <cities>
+      <id>17836</id>
+      <name>Giubiasco</name>
+      <latitude>46.17246000</latitude>
+      <longitude>9.00793000</longitude>
+    </cities>
+    <cities>
+      <id>17854</id>
+      <name>Gordola</name>
+      <latitude>46.18256000</latitude>
+      <longitude>8.86657000</longitude>
+    </cities>
+    <cities>
+      <id>17863</id>
+      <name>Gravesano</name>
+      <latitude>46.04208000</latitude>
+      <longitude>8.91832000</longitude>
+    </cities>
+    <cities>
+      <id>18053</id>
+      <name>Lavertezzo</name>
+      <latitude>46.25893000</latitude>
+      <longitude>8.83756000</longitude>
+    </cities>
+    <cities>
+      <id>18078</id>
+      <name>Leventina District</name>
+      <latitude>46.46912000</latitude>
+      <longitude>8.75539000</longitude>
+    </cities>
+    <cities>
+      <id>18084</id>
+      <name>Ligornetto</name>
+      <latitude>45.86161000</latitude>
+      <longitude>8.95166000</longitude>
+    </cities>
+    <cities>
+      <id>18088</id>
+      <name>Locarno</name>
+      <latitude>46.17086000</latitude>
+      <longitude>8.79953000</longitude>
+    </cities>
+    <cities>
+      <id>18089</id>
+      <name>Locarno District</name>
+      <latitude>46.18033000</latitude>
+      <longitude>8.75991000</longitude>
+    </cities>
+    <cities>
+      <id>18090</id>
+      <name>Lodrino</name>
+      <latitude>46.30016000</latitude>
+      <longitude>8.97986000</longitude>
+    </cities>
+    <cities>
+      <id>18091</id>
+      <name>Losone</name>
+      <latitude>46.16866000</latitude>
+      <longitude>8.75928000</longitude>
+    </cities>
+    <cities>
+      <id>18098</id>
+      <name>Lugano</name>
+      <latitude>46.01008000</latitude>
+      <longitude>8.96004000</longitude>
+    </cities>
+    <cities>
+      <id>18099</id>
+      <name>Lugano District</name>
+      <latitude>46.02322000</latitude>
+      <longitude>8.93802000</longitude>
+    </cities>
+    <cities>
+      <id>18100</id>
+      <name>Lumino</name>
+      <latitude>46.23020000</latitude>
+      <longitude>9.06420000</longitude>
+    </cities>
+    <cities>
+      <id>18114</id>
+      <name>Magadino</name>
+      <latitude>46.14892000</latitude>
+      <longitude>8.85610000</longitude>
+    </cities>
+    <cities>
+      <id>18120</id>
+      <name>Malvaglia</name>
+      <latitude>46.40588000</latitude>
+      <longitude>8.98190000</longitude>
+    </cities>
+    <cities>
+      <id>18128</id>
+      <name>Massagno</name>
+      <latitude>46.01257000</latitude>
+      <longitude>8.94354000</longitude>
+    </cities>
+    <cities>
+      <id>18145</id>
+      <name>Melano</name>
+      <latitude>45.92202000</latitude>
+      <longitude>8.98435000</longitude>
+    </cities>
+    <cities>
+      <id>18147</id>
+      <name>Melide</name>
+      <latitude>45.95455000</latitude>
+      <longitude>8.94725000</longitude>
+    </cities>
+    <cities>
+      <id>18149</id>
+      <name>Mendrisio</name>
+      <latitude>45.87019000</latitude>
+      <longitude>8.98160000</longitude>
+    </cities>
+    <cities>
+      <id>18150</id>
+      <name>Mendrisio District</name>
+      <latitude>45.86592000</latitude>
+      <longitude>8.99931000</longitude>
+    </cities>
+    <cities>
+      <id>18159</id>
+      <name>Minusio</name>
+      <latitude>46.17769000</latitude>
+      <longitude>8.81473000</longitude>
+    </cities>
+    <cities>
+      <id>18163</id>
+      <name>Montagnola</name>
+      <latitude>45.98323000</latitude>
+      <longitude>8.91786000</longitude>
+    </cities>
+    <cities>
+      <id>18166</id>
+      <name>Monte Carasso</name>
+      <latitude>46.18649000</latitude>
+      <longitude>8.99892000</longitude>
+    </cities>
+    <cities>
+      <id>18170</id>
+      <name>Morbio Inferiore</name>
+      <latitude>45.84915000</latitude>
+      <longitude>9.01907000</longitude>
+    </cities>
+    <cities>
+      <id>18180</id>
+      <name>Muralto</name>
+      <latitude>46.17323000</latitude>
+      <longitude>8.80219000</longitude>
+    </cities>
+    <cities>
+      <id>18231</id>
+      <name>Novazzano</name>
+      <latitude>45.84073000</latitude>
+      <longitude>8.98236000</longitude>
+    </cities>
+    <cities>
+      <id>18325</id>
+      <name>Pregassona</name>
+      <latitude>46.02021000</latitude>
+      <longitude>8.97429000</longitude>
+    </cities>
+    <cities>
+      <id>18331</id>
+      <name>Pura</name>
+      <latitude>45.98647000</latitude>
+      <longitude>8.86877000</longitude>
+    </cities>
+    <cities>
+      <id>18378</id>
+      <name>Riva San Vitale</name>
+      <latitude>45.90123000</latitude>
+      <longitude>8.97167000</longitude>
+    </cities>
+    <cities>
+      <id>18379</id>
+      <name>Riviera District</name>
+      <latitude>46.30926000</latitude>
+      <longitude>8.98148000</longitude>
+    </cities>
+    <cities>
+      <id>18507</id>
+      <name>Sementina</name>
+      <latitude>46.18363000</latitude>
+      <longitude>8.99162000</longitude>
+    </cities>
+    <cities>
+      <id>18530</id>
+      <name>Sorengo</name>
+      <latitude>45.99766000</latitude>
+      <longitude>8.93783000</longitude>
+    </cities>
+    <cities>
+      <id>18536</id>
+      <name>Stabio</name>
+      <latitude>45.84846000</latitude>
+      <longitude>8.93642000</longitude>
+    </cities>
+    <cities>
+      <id>18578</id>
+      <name>Tesserete</name>
+      <latitude>46.06813000</latitude>
+      <longitude>8.96501000</longitude>
+    </cities>
+    <cities>
+      <id>18658</id>
+      <name>Vallemaggia District</name>
+      <latitude>46.35483000</latitude>
+      <longitude>8.60540000</longitude>
+    </cities>
+    <cities>
+      <id>18671</id>
+      <name>Verscio</name>
+      <latitude>46.18482000</latitude>
+      <longitude>8.73224000</longitude>
+    </cities>
+    <cities>
+      <id>18678</id>
+      <name>Viganello</name>
+      <latitude>46.01342000</latitude>
+      <longitude>8.96879000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
+    <id>1642</id>
+    <name>Uri</name>
+    <state_code>UR</state_code>
+    <latitude>41.48606470</latitude>
+    <longitude>-71.53085370</longitude>
+    <country_id>214</country_id>
+    <cities>
+      <id>17388</id>
+      <name>Altdorf</name>
+      <latitude>46.88042000</latitude>
+      <longitude>8.64441000</longitude>
+    </cities>
+    <cities>
+      <id>17397</id>
+      <name>Andermatt</name>
+      <latitude>46.63565000</latitude>
+      <longitude>8.59388000</longitude>
+    </cities>
+    <cities>
+      <id>17416</id>
+      <name>Attinghausen</name>
+      <latitude>46.86255000</latitude>
+      <longitude>8.63036000</longitude>
+    </cities>
+    <cities>
+      <id>17444</id>
+      <name>Bauen</name>
+      <latitude>46.93559000</latitude>
+      <longitude>8.57836000</longitude>
+    </cities>
+    <cities>
+      <id>17602</id>
+      <name>Bürglen</name>
+      <latitude>46.87565000</latitude>
+      <longitude>8.66539000</longitude>
+    </cities>
+    <cities>
+      <id>17768</id>
+      <name>Erstfeld</name>
+      <latitude>46.81885000</latitude>
+      <longitude>8.65052000</longitude>
+    </cities>
+    <cities>
+      <id>17796</id>
+      <name>Flüelen</name>
+      <latitude>46.90478000</latitude>
+      <longitude>8.62396000</longitude>
+    </cities>
+    <cities>
+      <id>18458</id>
+      <name>Schattdorf</name>
+      <latitude>46.86550000</latitude>
+      <longitude>8.65465000</longitude>
+    </cities>
+    <cities>
+      <id>18492</id>
+      <name>Seedorf</name>
+      <latitude>46.88199000</latitude>
+      <longitude>8.61611000</longitude>
+    </cities>
+    <cities>
+      <id>18521</id>
+      <name>Silenen</name>
+      <latitude>46.78910000</latitude>
+      <longitude>8.67325000</longitude>
+    </cities>
+  </state_city>
+  <state_city>
     <id>1648</id>
-    <name>Canton of Valais</name>
+    <name>Valais</name>
     <state_code>VS</state_code>
     <latitude>46.19046140</latitude>
     <longitude>7.54492260</longitude>
@@ -734744,7 +736263,7 @@
   </state_city>
   <state_city>
     <id>1651</id>
-    <name>Canton of Vaud</name>
+    <name>Vaud</name>
     <state_code>VD</state_code>
     <latitude>46.56131350</latitude>
     <longitude>6.53676500</longitude>
@@ -735382,7 +736901,7 @@
   </state_city>
   <state_city>
     <id>1646</id>
-    <name>Canton of Zug</name>
+    <name>Zug</name>
     <state_code>ZG</state_code>
     <latitude>47.16615050</latitude>
     <longitude>8.51547490</longitude>
@@ -735444,7 +736963,7 @@
   </state_city>
   <state_city>
     <id>1656</id>
-    <name>canton of Zürich</name>
+    <name>Zürich</name>
     <state_code>ZH</state_code>
     <latitude>47.35953600</latitude>
     <longitude>8.63564520</longitude>
@@ -737692,1516 +739211,6 @@
       <name>Zürich (Kreis 9) / Altstetten</name>
       <latitude>47.38946000</latitude>
       <longitude>8.48533000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1661</id>
-    <name>Glarus</name>
-    <state_code>GL</state_code>
-    <latitude>47.04112320</latitude>
-    <longitude>9.06790000</longitude>
-    <country_id>214</country_id>
-    <cities>
-      <id>17529</id>
-      <name>Bilten</name>
-      <latitude>47.14995000</latitude>
-      <longitude>9.02551000</longitude>
-    </cities>
-    <cities>
-      <id>17751</id>
-      <name>Ennenda</name>
-      <latitude>47.03363000</latitude>
-      <longitude>9.07888000</longitude>
-    </cities>
-    <cities>
-      <id>17839</id>
-      <name>Glarus</name>
-      <latitude>47.04057000</latitude>
-      <longitude>9.06804000</longitude>
-    </cities>
-    <cities>
-      <id>18086</id>
-      <name>Linthal</name>
-      <latitude>46.92127000</latitude>
-      <longitude>8.99799000</longitude>
-    </cities>
-    <cities>
-      <id>18097</id>
-      <name>Luchsingen</name>
-      <latitude>46.96640000</latitude>
-      <longitude>9.03715000</longitude>
-    </cities>
-    <cities>
-      <id>18162</id>
-      <name>Mollis</name>
-      <latitude>47.08878000</latitude>
-      <longitude>9.07242000</longitude>
-    </cities>
-    <cities>
-      <id>18235</id>
-      <name>Näfels</name>
-      <latitude>47.09775000</latitude>
-      <longitude>9.06361000</longitude>
-    </cities>
-    <cities>
-      <id>18211</id>
-      <name>Netstal</name>
-      <latitude>47.06337000</latitude>
-      <longitude>9.05734000</longitude>
-    </cities>
-    <cities>
-      <id>18229</id>
-      <name>Niederurnen</name>
-      <latitude>47.12598000</latitude>
-      <longitude>9.05428000</longitude>
-    </cities>
-    <cities>
-      <id>18268</id>
-      <name>Oberurnen</name>
-      <latitude>47.11412000</latitude>
-      <longitude>9.05866000</longitude>
-    </cities>
-    <cities>
-      <id>18475</id>
-      <name>Schwanden</name>
-      <latitude>46.99541000</latitude>
-      <longitude>9.07010000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1660</id>
-    <name>Graubünden</name>
-    <state_code>GR</state_code>
-    <latitude>46.65698710</latitude>
-    <longitude>9.57802570</longitude>
-    <country_id>214</country_id>
-    <cities>
-      <id>17409</id>
-      <name>Arosa</name>
-      <latitude>46.77793000</latitude>
-      <longitude>9.67621000</longitude>
-    </cities>
-    <cities>
-      <id>17411</id>
-      <name>Arvigo</name>
-      <latitude>46.30211000</latitude>
-      <longitude>9.11300000</longitude>
-    </cities>
-    <cities>
-      <id>17547</id>
-      <name>Bonaduz</name>
-      <latitude>46.81103000</latitude>
-      <longitude>9.39821000</longitude>
-    </cities>
-    <cities>
-      <id>17559</id>
-      <name>Breíl</name>
-      <latitude>46.76986000</latitude>
-      <longitude>9.06036000</longitude>
-    </cities>
-    <cities>
-      <id>17571</id>
-      <name>Brusio</name>
-      <latitude>46.25953000</latitude>
-      <longitude>10.12385000</longitude>
-    </cities>
-    <cities>
-      <id>17585</id>
-      <name>Buseno</name>
-      <latitude>46.27381000</latitude>
-      <longitude>9.10735000</longitude>
-    </cities>
-    <cities>
-      <id>17615</id>
-      <name>Cauco</name>
-      <latitude>46.33541000</latitude>
-      <longitude>9.12129000</longitude>
-    </cities>
-    <cities>
-      <id>17617</id>
-      <name>Cazis</name>
-      <latitude>46.71940000</latitude>
-      <longitude>9.43271000</longitude>
-    </cities>
-    <cities>
-      <id>17618</id>
-      <name>Celerina</name>
-      <latitude>46.51217000</latitude>
-      <longitude>9.85794000</longitude>
-    </cities>
-    <cities>
-      <id>17638</id>
-      <name>Chur</name>
-      <latitude>46.84986000</latitude>
-      <longitude>9.53287000</longitude>
-    </cities>
-    <cities>
-      <id>17639</id>
-      <name>Churwalden</name>
-      <latitude>46.78143000</latitude>
-      <longitude>9.54377000</longitude>
-    </cities>
-    <cities>
-      <id>17677</id>
-      <name>Davos</name>
-      <latitude>46.80429000</latitude>
-      <longitude>9.83723000</longitude>
-    </cities>
-    <cities>
-      <id>17699</id>
-      <name>Disentis</name>
-      <latitude>46.70341000</latitude>
-      <longitude>8.85090000</longitude>
-    </cities>
-    <cities>
-      <id>17700</id>
-      <name>Domat</name>
-      <latitude>46.83483000</latitude>
-      <longitude>9.45075000</longitude>
-    </cities>
-    <cities>
-      <id>17783</id>
-      <name>Felsberg</name>
-      <latitude>46.84566000</latitude>
-      <longitude>9.47588000</longitude>
-    </cities>
-    <cities>
-      <id>17793</id>
-      <name>Flims</name>
-      <latitude>46.83705000</latitude>
-      <longitude>9.28458000</longitude>
-    </cities>
-    <cities>
-      <id>17882</id>
-      <name>Grüsch</name>
-      <latitude>46.97965000</latitude>
-      <longitude>9.64639000</longitude>
-    </cities>
-    <cities>
-      <id>17917</id>
-      <name>Hinterrhein</name>
-      <latitude>46.53333000</latitude>
-      <longitude>9.20000000</longitude>
-    </cities>
-    <cities>
-      <id>17947</id>
-      <name>Igis</name>
-      <latitude>46.94531000</latitude>
-      <longitude>9.57218000</longitude>
-    </cities>
-    <cities>
-      <id>17948</id>
-      <name>Ilanz</name>
-      <latitude>46.77413000</latitude>
-      <longitude>9.20461000</longitude>
-    </cities>
-    <cities>
-      <id>17958</id>
-      <name>Jenaz</name>
-      <latitude>46.92892000</latitude>
-      <longitude>9.71275000</longitude>
-    </cities>
-    <cities>
-      <id>17986</id>
-      <name>Klosters Serneus</name>
-      <latitude>46.88918000</latitude>
-      <longitude>9.83826000</longitude>
-    </cities>
-    <cities>
-      <id>18024</id>
-      <name>La Punt Chamues-ch</name>
-      <latitude>46.57887000</latitude>
-      <longitude>9.92015000</longitude>
-    </cities>
-    <cities>
-      <id>18029</id>
-      <name>Laax</name>
-      <latitude>46.80452000</latitude>
-      <longitude>9.25787000</longitude>
-    </cities>
-    <cities>
-      <id>18033</id>
-      <name>Landquart</name>
-      <latitude>46.95000000</latitude>
-      <longitude>9.56667000</longitude>
-    </cities>
-    <cities>
-      <id>18067</id>
-      <name>Lenzerheide</name>
-      <latitude>46.72215000</latitude>
-      <longitude>9.55905000</longitude>
-    </cities>
-    <cities>
-      <id>18105</id>
-      <name>Luzein</name>
-      <latitude>46.91957000</latitude>
-      <longitude>9.76080000</longitude>
-    </cities>
-    <cities>
-      <id>18116</id>
-      <name>Maienfeld</name>
-      <latitude>47.00472000</latitude>
-      <longitude>9.53115000</longitude>
-    </cities>
-    <cities>
-      <id>18117</id>
-      <name>Malans</name>
-      <latitude>46.98096000</latitude>
-      <longitude>9.57527000</longitude>
-    </cities>
-    <cities>
-      <id>18155</id>
-      <name>Mesocco</name>
-      <latitude>46.39390000</latitude>
-      <longitude>9.23333000</longitude>
-    </cities>
-    <cities>
-      <id>18318</id>
-      <name>Pontresina</name>
-      <latitude>46.49550000</latitude>
-      <longitude>9.90126000</longitude>
-    </cities>
-    <cities>
-      <id>18321</id>
-      <name>Poschiavo</name>
-      <latitude>46.32441000</latitude>
-      <longitude>10.05823000</longitude>
-    </cities>
-    <cities>
-      <id>18348</id>
-      <name>Region Albula</name>
-      <latitude>46.60255000</latitude>
-      <longitude>9.65150000</longitude>
-    </cities>
-    <cities>
-      <id>18349</id>
-      <name>Region Bernina</name>
-      <latitude>46.33488000</latitude>
-      <longitude>10.07349000</longitude>
-    </cities>
-    <cities>
-      <id>18350</id>
-      <name>Region Engiadina Bassa / Val Müstair</name>
-      <latitude>46.75212000</latitude>
-      <longitude>10.26032000</longitude>
-    </cities>
-    <cities>
-      <id>18351</id>
-      <name>Region Imboden</name>
-      <latitude>46.84876000</latitude>
-      <longitude>9.36225000</longitude>
-    </cities>
-    <cities>
-      <id>18352</id>
-      <name>Region Landquart</name>
-      <latitude>46.96403000</latitude>
-      <longitude>9.56365000</longitude>
-    </cities>
-    <cities>
-      <id>18353</id>
-      <name>Region Maloja</name>
-      <latitude>46.47448000</latitude>
-      <longitude>9.83138000</longitude>
-    </cities>
-    <cities>
-      <id>18354</id>
-      <name>Region Moesa</name>
-      <latitude>46.35200000</latitude>
-      <longitude>9.17870000</longitude>
-    </cities>
-    <cities>
-      <id>18355</id>
-      <name>Region Plessur</name>
-      <latitude>46.81819000</latitude>
-      <longitude>9.62542000</longitude>
-    </cities>
-    <cities>
-      <id>18356</id>
-      <name>Region Prättigau / Davos</name>
-      <latitude>46.86727000</latitude>
-      <longitude>9.82014000</longitude>
-    </cities>
-    <cities>
-      <id>18357</id>
-      <name>Region Surselva</name>
-      <latitude>46.69564000</latitude>
-      <longitude>9.04834000</longitude>
-    </cities>
-    <cities>
-      <id>18358</id>
-      <name>Region Viamala</name>
-      <latitude>46.58762000</latitude>
-      <longitude>9.40035000</longitude>
-    </cities>
-    <cities>
-      <id>18367</id>
-      <name>Rhäzüns</name>
-      <latitude>46.79891000</latitude>
-      <longitude>9.39764000</longitude>
-    </cities>
-    <cities>
-      <id>18435</id>
-      <name>Samedan</name>
-      <latitude>46.53399000</latitude>
-      <longitude>9.87276000</longitude>
-    </cities>
-    <cities>
-      <id>18457</id>
-      <name>Scharans</name>
-      <latitude>46.71814000</latitude>
-      <longitude>9.45903000</longitude>
-    </cities>
-    <cities>
-      <id>18460</id>
-      <name>Schiers</name>
-      <latitude>46.96973000</latitude>
-      <longitude>9.68720000</longitude>
-    </cities>
-    <cities>
-      <id>18490</id>
-      <name>Scuol</name>
-      <latitude>46.79671000</latitude>
-      <longitude>10.29804000</longitude>
-    </cities>
-    <cities>
-      <id>18522</id>
-      <name>Silvaplana</name>
-      <latitude>46.45810000</latitude>
-      <longitude>9.79514000</longitude>
-    </cities>
-    <cities>
-      <id>18535</id>
-      <name>St. Moritz</name>
-      <latitude>46.49937000</latitude>
-      <longitude>9.84327000</longitude>
-    </cities>
-    <cities>
-      <id>18572</id>
-      <name>Tamins</name>
-      <latitude>46.82964000</latitude>
-      <longitude>9.40648000</longitude>
-    </cities>
-    <cities>
-      <id>18594</id>
-      <name>Thusis</name>
-      <latitude>46.69724000</latitude>
-      <longitude>9.43938000</longitude>
-    </cities>
-    <cities>
-      <id>18596</id>
-      <name>Tiefencastel</name>
-      <latitude>46.66014000</latitude>
-      <longitude>9.57883000</longitude>
-    </cities>
-    <cities>
-      <id>18604</id>
-      <name>Trimmis</name>
-      <latitude>46.90075000</latitude>
-      <longitude>9.56120000</longitude>
-    </cities>
-    <cities>
-      <id>18610</id>
-      <name>Trun</name>
-      <latitude>46.74292000</latitude>
-      <longitude>8.98716000</longitude>
-    </cities>
-    <cities>
-      <id>18637</id>
-      <name>Untervaz</name>
-      <latitude>46.92750000</latitude>
-      <longitude>9.53422000</longitude>
-    </cities>
-    <cities>
-      <id>18660</id>
-      <name>Vals Platz</name>
-      <latitude>46.61647000</latitude>
-      <longitude>9.18025000</longitude>
-    </cities>
-    <cities>
-      <id>18794</id>
-      <name>Zernez</name>
-      <latitude>46.69862000</latitude>
-      <longitude>10.09268000</longitude>
-    </cities>
-    <cities>
-      <id>18795</id>
-      <name>Zizers</name>
-      <latitude>46.93575000</latitude>
-      <longitude>9.56491000</longitude>
-    </cities>
-    <cities>
-      <id>18804</id>
-      <name>Zuoz</name>
-      <latitude>46.60206000</latitude>
-      <longitude>9.95965000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1652</id>
-    <name>Nidwalden</name>
-    <state_code>NW</state_code>
-    <latitude>46.92670160</latitude>
-    <longitude>8.38499820</longitude>
-    <country_id>214</country_id>
-    <cities>
-      <id>17448</id>
-      <name>Beckenried</name>
-      <latitude>46.96653000</latitude>
-      <longitude>8.47575000</longitude>
-    </cities>
-    <cities>
-      <id>17582</id>
-      <name>Buochs</name>
-      <latitude>46.97398000</latitude>
-      <longitude>8.42279000</longitude>
-    </cities>
-    <cities>
-      <id>17675</id>
-      <name>Dallenwil</name>
-      <latitude>46.92420000</latitude>
-      <longitude>8.38785000</longitude>
-    </cities>
-    <cities>
-      <id>17748</id>
-      <name>Emmetten</name>
-      <latitude>46.95658000</latitude>
-      <longitude>8.51467000</longitude>
-    </cities>
-    <cities>
-      <id>17752</id>
-      <name>Ennetbürgen</name>
-      <latitude>46.98423000</latitude>
-      <longitude>8.41003000</longitude>
-    </cities>
-    <cities>
-      <id>17906</id>
-      <name>Hergiswil</name>
-      <latitude>46.98429000</latitude>
-      <longitude>8.30944000</longitude>
-    </cities>
-    <cities>
-      <id>18546</id>
-      <name>Stans</name>
-      <latitude>46.95805000</latitude>
-      <longitude>8.36609000</longitude>
-    </cities>
-    <cities>
-      <id>18547</id>
-      <name>Stansstad</name>
-      <latitude>46.97680000</latitude>
-      <longitude>8.33553000</longitude>
-    </cities>
-    <cities>
-      <id>18763</id>
-      <name>Wolfenschiessen</name>
-      <latitude>46.90322000</latitude>
-      <longitude>8.39423000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1650</id>
-    <name>Obwalden</name>
-    <state_code>OW</state_code>
-    <latitude>46.87785800</latitude>
-    <longitude>8.25124900</longitude>
-    <country_id>214</country_id>
-    <cities>
-      <id>17387</id>
-      <name>Alpnach</name>
-      <latitude>46.94227000</latitude>
-      <longitude>8.27180000</longitude>
-    </cities>
-    <cities>
-      <id>17750</id>
-      <name>Engelberg</name>
-      <latitude>46.82107000</latitude>
-      <longitude>8.40133000</longitude>
-    </cities>
-    <cities>
-      <id>17835</id>
-      <name>Giswil</name>
-      <latitude>46.83333000</latitude>
-      <longitude>8.18065000</longitude>
-    </cities>
-    <cities>
-      <id>17973</id>
-      <name>Kerns</name>
-      <latitude>46.90121000</latitude>
-      <longitude>8.27514000</longitude>
-    </cities>
-    <cities>
-      <id>18101</id>
-      <name>Lungern</name>
-      <latitude>46.78578000</latitude>
-      <longitude>8.15984000</longitude>
-    </cities>
-    <cities>
-      <id>18418</id>
-      <name>Sachseln</name>
-      <latitude>46.86718000</latitude>
-      <longitude>8.23344000</longitude>
-    </cities>
-    <cities>
-      <id>18447</id>
-      <name>Sarnen</name>
-      <latitude>46.89611000</latitude>
-      <longitude>8.24531000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1653</id>
-    <name>Schwyz</name>
-    <state_code>SZ</state_code>
-    <latitude>47.02071380</latitude>
-    <longitude>8.65298840</longitude>
-    <country_id>214</country_id>
-    <cities>
-      <id>17389</id>
-      <name>Altendorf</name>
-      <latitude>47.18994000</latitude>
-      <longitude>8.83823000</longitude>
-    </cities>
-    <cities>
-      <id>17410</id>
-      <name>Arth</name>
-      <latitude>47.06337000</latitude>
-      <longitude>8.52349000</longitude>
-    </cities>
-    <cities>
-      <id>17590</id>
-      <name>Bäch</name>
-      <latitude>47.20388000</latitude>
-      <longitude>8.73224000</longitude>
-    </cities>
-    <cities>
-      <id>17483</id>
-      <name>Bezirk Einsiedeln</name>
-      <latitude>47.10792000</latitude>
-      <longitude>8.76010000</longitude>
-    </cities>
-    <cities>
-      <id>17484</id>
-      <name>Bezirk Gersau</name>
-      <latitude>47.00800000</latitude>
-      <longitude>8.51678000</longitude>
-    </cities>
-    <cities>
-      <id>17490</id>
-      <name>Bezirk Höfe</name>
-      <latitude>47.19043000</latitude>
-      <longitude>8.73960000</longitude>
-    </cities>
-    <cities>
-      <id>17492</id>
-      <name>Bezirk Küssnacht</name>
-      <latitude>47.08611000</latitude>
-      <longitude>8.44444000</longitude>
-    </cities>
-    <cities>
-      <id>17498</id>
-      <name>Bezirk March</name>
-      <latitude>47.16128000</latitude>
-      <longitude>8.91103000</longitude>
-    </cities>
-    <cities>
-      <id>17509</id>
-      <name>Bezirk Schwyz</name>
-      <latitude>47.02814000</latitude>
-      <longitude>8.63619000</longitude>
-    </cities>
-    <cities>
-      <id>17738</id>
-      <name>Einsiedeln</name>
-      <latitude>47.12849000</latitude>
-      <longitude>8.74735000</longitude>
-    </cities>
-    <cities>
-      <id>17787</id>
-      <name>Feusisberg</name>
-      <latitude>47.18707000</latitude>
-      <longitude>8.74724000</longitude>
-    </cities>
-    <cities>
-      <id>17806</id>
-      <name>Freienbach</name>
-      <latitude>47.20534000</latitude>
-      <longitude>8.75842000</longitude>
-    </cities>
-    <cities>
-      <id>17830</id>
-      <name>Gersau</name>
-      <latitude>46.99419000</latitude>
-      <longitude>8.52500000</longitude>
-    </cities>
-    <cities>
-      <id>17848</id>
-      <name>Goldau</name>
-      <latitude>47.04761000</latitude>
-      <longitude>8.54616000</longitude>
-    </cities>
-    <cities>
-      <id>17946</id>
-      <name>Ibach</name>
-      <latitude>47.01105000</latitude>
-      <longitude>8.64538000</longitude>
-    </cities>
-    <cities>
-      <id>17951</id>
-      <name>Ingenbohl</name>
-      <latitude>46.99880000</latitude>
-      <longitude>8.61529000</longitude>
-    </cities>
-    <cities>
-      <id>18019</id>
-      <name>Küssnacht</name>
-      <latitude>47.08557000</latitude>
-      <longitude>8.44206000</longitude>
-    </cities>
-    <cities>
-      <id>18030</id>
-      <name>Lachen</name>
-      <latitude>47.19224000</latitude>
-      <longitude>8.85324000</longitude>
-    </cities>
-    <cities>
-      <id>18179</id>
-      <name>Muotathal</name>
-      <latitude>46.97676000</latitude>
-      <longitude>8.76499000</longitude>
-    </cities>
-    <cities>
-      <id>18310</id>
-      <name>Pfäffikon</name>
-      <latitude>47.20109000</latitude>
-      <longitude>8.77816000</longitude>
-    </cities>
-    <cities>
-      <id>18360</id>
-      <name>Reichenburg</name>
-      <latitude>47.17097000</latitude>
-      <longitude>8.97704000</longitude>
-    </cities>
-    <cities>
-      <id>18393</id>
-      <name>Rothenthurm</name>
-      <latitude>47.10420000</latitude>
-      <longitude>8.67585000</longitude>
-    </cities>
-    <cities>
-      <id>18449</id>
-      <name>Sattel</name>
-      <latitude>47.08246000</latitude>
-      <longitude>8.63565000</longitude>
-    </cities>
-    <cities>
-      <id>18461</id>
-      <name>Schindellegi</name>
-      <latitude>47.17460000</latitude>
-      <longitude>8.71345000</longitude>
-    </cities>
-    <cities>
-      <id>18487</id>
-      <name>Schübelbach</name>
-      <latitude>47.17326000</latitude>
-      <longitude>8.92811000</longitude>
-    </cities>
-    <cities>
-      <id>18481</id>
-      <name>Schwyz</name>
-      <latitude>47.02076000</latitude>
-      <longitude>8.65414000</longitude>
-    </cities>
-    <cities>
-      <id>18516</id>
-      <name>Siebnen</name>
-      <latitude>47.17449000</latitude>
-      <longitude>8.89781000</longitude>
-    </cities>
-    <cities>
-      <id>18553</id>
-      <name>Steinen</name>
-      <latitude>47.04975000</latitude>
-      <longitude>8.61214000</longitude>
-    </cities>
-    <cities>
-      <id>18612</id>
-      <name>Tuggen</name>
-      <latitude>47.20291000</latitude>
-      <longitude>8.94896000</longitude>
-    </cities>
-    <cities>
-      <id>18632</id>
-      <name>Unteriberg</name>
-      <latitude>47.06258000</latitude>
-      <longitude>8.80520000</longitude>
-    </cities>
-    <cities>
-      <id>18693</id>
-      <name>Vorderthal</name>
-      <latitude>47.12172000</latitude>
-      <longitude>8.90225000</longitude>
-    </cities>
-    <cities>
-      <id>18767</id>
-      <name>Wollerau</name>
-      <latitude>47.19478000</latitude>
-      <longitude>8.71903000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1657</id>
-    <name>Thurgau</name>
-    <state_code>TG</state_code>
-    <latitude>47.60378560</latitude>
-    <longitude>9.05573710</longitude>
-    <country_id>214</country_id>
-    <cities>
-      <id>17356</id>
-      <name>Aadorf</name>
-      <latitude>47.49204000</latitude>
-      <longitude>8.90099000</longitude>
-    </cities>
-    <cities>
-      <id>17374</id>
-      <name>Affeltrangen</name>
-      <latitude>47.52581000</latitude>
-      <longitude>9.03307000</longitude>
-    </cities>
-    <cities>
-      <id>17392</id>
-      <name>Altnau</name>
-      <latitude>47.61052000</latitude>
-      <longitude>9.26160000</longitude>
-    </cities>
-    <cities>
-      <id>17395</id>
-      <name>Amriswil</name>
-      <latitude>47.54699000</latitude>
-      <longitude>9.29586000</longitude>
-    </cities>
-    <cities>
-      <id>17402</id>
-      <name>Arbon</name>
-      <latitude>47.51667000</latitude>
-      <longitude>9.43333000</longitude>
-    </cities>
-    <cities>
-      <id>17403</id>
-      <name>Arbon District</name>
-      <latitude>47.54867000</latitude>
-      <longitude>9.35159000</longitude>
-    </cities>
-    <cities>
-      <id>17459</id>
-      <name>Berg</name>
-      <latitude>47.57879000</latitude>
-      <longitude>9.16635000</longitude>
-    </cities>
-    <cities>
-      <id>17552</id>
-      <name>Bottighofen</name>
-      <latitude>47.63643000</latitude>
-      <longitude>9.20882000</longitude>
-    </cities>
-    <cities>
-      <id>17603</id>
-      <name>Bürglen</name>
-      <latitude>47.54921000</latitude>
-      <longitude>9.14950000</longitude>
-    </cities>
-    <cities>
-      <id>17688</id>
-      <name>Diessenhofen</name>
-      <latitude>47.68908000</latitude>
-      <longitude>8.74958000</longitude>
-    </cities>
-    <cities>
-      <id>17733</id>
-      <name>Egnach</name>
-      <latitude>47.54268000</latitude>
-      <longitude>9.38048000</longitude>
-    </cities>
-    <cities>
-      <id>17760</id>
-      <name>Erlen</name>
-      <latitude>47.54814000</latitude>
-      <longitude>9.23415000</longitude>
-    </cities>
-    <cities>
-      <id>17766</id>
-      <name>Ermatingen</name>
-      <latitude>47.67057000</latitude>
-      <longitude>9.08573000</longitude>
-    </cities>
-    <cities>
-      <id>17770</id>
-      <name>Eschenz</name>
-      <latitude>47.64793000</latitude>
-      <longitude>8.87472000</longitude>
-    </cities>
-    <cities>
-      <id>17771</id>
-      <name>Eschlikon</name>
-      <latitude>47.46361000</latitude>
-      <longitude>8.96381000</longitude>
-    </cities>
-    <cities>
-      <id>17789</id>
-      <name>Fischingen</name>
-      <latitude>47.41422000</latitude>
-      <longitude>8.96862000</longitude>
-    </cities>
-    <cities>
-      <id>17803</id>
-      <name>Frauenfeld</name>
-      <latitude>47.55776000</latitude>
-      <longitude>8.89893000</longitude>
-    </cities>
-    <cities>
-      <id>17804</id>
-      <name>Frauenfeld District</name>
-      <latitude>47.61115000</latitude>
-      <longitude>8.89444000</longitude>
-    </cities>
-    <cities>
-      <id>17818</id>
-      <name>Gachnang</name>
-      <latitude>47.53935000</latitude>
-      <longitude>8.85311000</longitude>
-    </cities>
-    <cities>
-      <id>17858</id>
-      <name>Gottlieben</name>
-      <latitude>47.66380000</latitude>
-      <longitude>9.13371000</longitude>
-    </cities>
-    <cities>
-      <id>17889</id>
-      <name>Güttingen</name>
-      <latitude>47.60349000</latitude>
-      <longitude>9.28742000</longitude>
-    </cities>
-    <cities>
-      <id>17928</id>
-      <name>Homburg</name>
-      <latitude>47.63469000</latitude>
-      <longitude>9.00756000</longitude>
-    </cities>
-    <cities>
-      <id>17945</id>
-      <name>Hüttwilen</name>
-      <latitude>47.60674000</latitude>
-      <longitude>8.87343000</longitude>
-    </cities>
-    <cities>
-      <id>18005</id>
-      <name>Kreuzlingen</name>
-      <latitude>47.65051000</latitude>
-      <longitude>9.17504000</longitude>
-    </cities>
-    <cities>
-      <id>18006</id>
-      <name>Kreuzlingen District</name>
-      <latitude>47.63046000</latitude>
-      <longitude>9.16458000</longitude>
-    </cities>
-    <cities>
-      <id>18041</id>
-      <name>Langrickenbach</name>
-      <latitude>47.59353000</latitude>
-      <longitude>9.24727000</longitude>
-    </cities>
-    <cities>
-      <id>18189</id>
-      <name>Märstetten-Dorf</name>
-      <latitude>47.59252000</latitude>
-      <longitude>9.06851000</longitude>
-    </cities>
-    <cities>
-      <id>18135</id>
-      <name>Matzingen</name>
-      <latitude>47.51957000</latitude>
-      <longitude>8.93365000</longitude>
-    </cities>
-    <cities>
-      <id>18198</id>
-      <name>Müllheim</name>
-      <latitude>47.60195000</latitude>
-      <longitude>9.00357000</longitude>
-    </cities>
-    <cities>
-      <id>18202</id>
-      <name>Münchwilen</name>
-      <latitude>47.47719000</latitude>
-      <longitude>8.99677000</longitude>
-    </cities>
-    <cities>
-      <id>18203</id>
-      <name>Münchwilen District</name>
-      <latitude>47.47324000</latitude>
-      <longitude>8.98812000</longitude>
-    </cities>
-    <cities>
-      <id>18205</id>
-      <name>Münsterlingen</name>
-      <latitude>47.63197000</latitude>
-      <longitude>9.23271000</longitude>
-    </cities>
-    <cities>
-      <id>18309</id>
-      <name>Pfyn</name>
-      <latitude>47.59693000</latitude>
-      <longitude>8.95420000</longitude>
-    </cities>
-    <cities>
-      <id>18373</id>
-      <name>Rickenbach bei Wil</name>
-      <latitude>47.44856000</latitude>
-      <longitude>9.04902000</longitude>
-    </cities>
-    <cities>
-      <id>18383</id>
-      <name>Roggwil</name>
-      <latitude>47.49981000</latitude>
-      <longitude>9.39580000</longitude>
-    </cities>
-    <cities>
-      <id>18388</id>
-      <name>Romanshorn</name>
-      <latitude>47.56586000</latitude>
-      <longitude>9.37869000</longitude>
-    </cities>
-    <cities>
-      <id>18433</id>
-      <name>Salmsach</name>
-      <latitude>47.55433000</latitude>
-      <longitude>9.37229000</longitude>
-    </cities>
-    <cities>
-      <id>18525</id>
-      <name>Sirnach</name>
-      <latitude>47.46222000</latitude>
-      <longitude>8.99763000</longitude>
-    </cities>
-    <cities>
-      <id>18549</id>
-      <name>Steckborn</name>
-      <latitude>47.66667000</latitude>
-      <longitude>8.98333000</longitude>
-    </cities>
-    <cities>
-      <id>18557</id>
-      <name>Stettfurt</name>
-      <latitude>47.52588000</latitude>
-      <longitude>8.95317000</longitude>
-    </cities>
-    <cities>
-      <id>18563</id>
-      <name>Sulgen</name>
-      <latitude>47.53967000</latitude>
-      <longitude>9.18585000</longitude>
-    </cities>
-    <cities>
-      <id>18616</id>
-      <name>Tägerwilen</name>
-      <latitude>47.65698000</latitude>
-      <longitude>9.13999000</longitude>
-    </cities>
-    <cities>
-      <id>18593</id>
-      <name>Thundorf</name>
-      <latitude>47.54594000</latitude>
-      <longitude>8.96358000</longitude>
-    </cities>
-    <cities>
-      <id>18652</id>
-      <name>Uttwil</name>
-      <latitude>47.58440000</latitude>
-      <longitude>9.34101000</longitude>
-    </cities>
-    <cities>
-      <id>18698</id>
-      <name>Wagenhausen</name>
-      <latitude>47.66003000</latitude>
-      <longitude>8.84782000</longitude>
-    </cities>
-    <cities>
-      <id>18781</id>
-      <name>Wängi</name>
-      <latitude>47.49654000</latitude>
-      <longitude>8.95325000</longitude>
-    </cities>
-    <cities>
-      <id>18730</id>
-      <name>Weinfelden</name>
-      <latitude>47.56667000</latitude>
-      <longitude>9.10000000</longitude>
-    </cities>
-    <cities>
-      <id>18731</id>
-      <name>Weinfelden District</name>
-      <latitude>47.54237000</latitude>
-      <longitude>9.15713000</longitude>
-    </cities>
-    <cities>
-      <id>18747</id>
-      <name>Wigoltingen</name>
-      <latitude>47.59770000</latitude>
-      <longitude>9.03141000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1643</id>
-    <name>Ticino</name>
-    <state_code>TI</state_code>
-    <latitude>46.33173400</latitude>
-    <longitude>8.80045290</longitude>
-    <country_id>214</country_id>
-    <cities>
-      <id>17361</id>
-      <name>Acquarossa</name>
-      <latitude>46.45473000</latitude>
-      <longitude>8.94261000</longitude>
-    </cities>
-    <cities>
-      <id>17380</id>
-      <name>Agno</name>
-      <latitude>45.99863000</latitude>
-      <longitude>8.90030000</longitude>
-    </cities>
-    <cities>
-      <id>17384</id>
-      <name>Airolo</name>
-      <latitude>46.52855000</latitude>
-      <longitude>8.61189000</longitude>
-    </cities>
-    <cities>
-      <id>17413</id>
-      <name>Arzo</name>
-      <latitude>45.87606000</latitude>
-      <longitude>8.94103000</longitude>
-    </cities>
-    <cities>
-      <id>17414</id>
-      <name>Ascona</name>
-      <latitude>46.15451000</latitude>
-      <longitude>8.77327000</longitude>
-    </cities>
-    <cities>
-      <id>17434</id>
-      <name>Balerna</name>
-      <latitude>45.84638000</latitude>
-      <longitude>9.00724000</longitude>
-    </cities>
-    <cities>
-      <id>17452</id>
-      <name>Bellinzona</name>
-      <latitude>46.19278000</latitude>
-      <longitude>9.01703000</longitude>
-    </cities>
-    <cities>
-      <id>17453</id>
-      <name>Bellinzona District</name>
-      <latitude>46.18858000</latitude>
-      <longitude>9.00254000</longitude>
-    </cities>
-    <cities>
-      <id>17524</id>
-      <name>Biasca</name>
-      <latitude>46.35972000</latitude>
-      <longitude>8.96965000</longitude>
-    </cities>
-    <cities>
-      <id>17533</id>
-      <name>Bioggio</name>
-      <latitude>46.01357000</latitude>
-      <longitude>8.91103000</longitude>
-    </cities>
-    <cities>
-      <id>17540</id>
-      <name>Blenio District</name>
-      <latitude>46.47613000</latitude>
-      <longitude>8.94609000</longitude>
-    </cities>
-    <cities>
-      <id>17544</id>
-      <name>Bodio</name>
-      <latitude>46.37808000</latitude>
-      <longitude>8.90991000</longitude>
-    </cities>
-    <cities>
-      <id>17564</id>
-      <name>Brissago</name>
-      <latitude>46.12013000</latitude>
-      <longitude>8.71181000</longitude>
-    </cities>
-    <cities>
-      <id>17607</id>
-      <name>Cadempino</name>
-      <latitude>46.03672000</latitude>
-      <longitude>8.93403000</longitude>
-    </cities>
-    <cities>
-      <id>17608</id>
-      <name>Cadenazzo</name>
-      <latitude>46.15172000</latitude>
-      <longitude>8.94719000</longitude>
-    </cities>
-    <cities>
-      <id>17609</id>
-      <name>Cadro</name>
-      <latitude>46.04595000</latitude>
-      <longitude>8.98725000</longitude>
-    </cities>
-    <cities>
-      <id>17610</id>
-      <name>Camorino</name>
-      <latitude>46.16483000</latitude>
-      <longitude>9.00547000</longitude>
-    </cities>
-    <cities>
-      <id>17611</id>
-      <name>Canobbio</name>
-      <latitude>46.03592000</latitude>
-      <longitude>8.96605000</longitude>
-    </cities>
-    <cities>
-      <id>17613</id>
-      <name>Caslano</name>
-      <latitude>45.97364000</latitude>
-      <longitude>8.87739000</longitude>
-    </cities>
-    <cities>
-      <id>17614</id>
-      <name>Castel San Pietro</name>
-      <latitude>45.86211000</latitude>
-      <longitude>9.00843000</longitude>
-    </cities>
-    <cities>
-      <id>17620</id>
-      <name>Cevio</name>
-      <latitude>46.31479000</latitude>
-      <longitude>8.60332000</longitude>
-    </cities>
-    <cities>
-      <id>17636</id>
-      <name>Chiasso</name>
-      <latitude>45.83203000</latitude>
-      <longitude>9.03119000</longitude>
-    </cities>
-    <cities>
-      <id>17645</id>
-      <name>Claro</name>
-      <latitude>46.25763000</latitude>
-      <longitude>9.02252000</longitude>
-    </cities>
-    <cities>
-      <id>17648</id>
-      <name>Comano</name>
-      <latitude>46.03635000</latitude>
-      <longitude>8.95526000</longitude>
-    </cities>
-    <cities>
-      <id>17670</id>
-      <name>Cugnasco</name>
-      <latitude>46.17473000</latitude>
-      <longitude>8.91684000</longitude>
-    </cities>
-    <cities>
-      <id>17780</id>
-      <name>Faido</name>
-      <latitude>46.47700000</latitude>
-      <longitude>8.80125000</longitude>
-    </cities>
-    <cities>
-      <id>17836</id>
-      <name>Giubiasco</name>
-      <latitude>46.17246000</latitude>
-      <longitude>9.00793000</longitude>
-    </cities>
-    <cities>
-      <id>17854</id>
-      <name>Gordola</name>
-      <latitude>46.18256000</latitude>
-      <longitude>8.86657000</longitude>
-    </cities>
-    <cities>
-      <id>17863</id>
-      <name>Gravesano</name>
-      <latitude>46.04208000</latitude>
-      <longitude>8.91832000</longitude>
-    </cities>
-    <cities>
-      <id>18053</id>
-      <name>Lavertezzo</name>
-      <latitude>46.25893000</latitude>
-      <longitude>8.83756000</longitude>
-    </cities>
-    <cities>
-      <id>18078</id>
-      <name>Leventina District</name>
-      <latitude>46.46912000</latitude>
-      <longitude>8.75539000</longitude>
-    </cities>
-    <cities>
-      <id>18084</id>
-      <name>Ligornetto</name>
-      <latitude>45.86161000</latitude>
-      <longitude>8.95166000</longitude>
-    </cities>
-    <cities>
-      <id>18088</id>
-      <name>Locarno</name>
-      <latitude>46.17086000</latitude>
-      <longitude>8.79953000</longitude>
-    </cities>
-    <cities>
-      <id>18089</id>
-      <name>Locarno District</name>
-      <latitude>46.18033000</latitude>
-      <longitude>8.75991000</longitude>
-    </cities>
-    <cities>
-      <id>18090</id>
-      <name>Lodrino</name>
-      <latitude>46.30016000</latitude>
-      <longitude>8.97986000</longitude>
-    </cities>
-    <cities>
-      <id>18091</id>
-      <name>Losone</name>
-      <latitude>46.16866000</latitude>
-      <longitude>8.75928000</longitude>
-    </cities>
-    <cities>
-      <id>18098</id>
-      <name>Lugano</name>
-      <latitude>46.01008000</latitude>
-      <longitude>8.96004000</longitude>
-    </cities>
-    <cities>
-      <id>18099</id>
-      <name>Lugano District</name>
-      <latitude>46.02322000</latitude>
-      <longitude>8.93802000</longitude>
-    </cities>
-    <cities>
-      <id>18100</id>
-      <name>Lumino</name>
-      <latitude>46.23020000</latitude>
-      <longitude>9.06420000</longitude>
-    </cities>
-    <cities>
-      <id>18114</id>
-      <name>Magadino</name>
-      <latitude>46.14892000</latitude>
-      <longitude>8.85610000</longitude>
-    </cities>
-    <cities>
-      <id>18120</id>
-      <name>Malvaglia</name>
-      <latitude>46.40588000</latitude>
-      <longitude>8.98190000</longitude>
-    </cities>
-    <cities>
-      <id>18128</id>
-      <name>Massagno</name>
-      <latitude>46.01257000</latitude>
-      <longitude>8.94354000</longitude>
-    </cities>
-    <cities>
-      <id>18145</id>
-      <name>Melano</name>
-      <latitude>45.92202000</latitude>
-      <longitude>8.98435000</longitude>
-    </cities>
-    <cities>
-      <id>18147</id>
-      <name>Melide</name>
-      <latitude>45.95455000</latitude>
-      <longitude>8.94725000</longitude>
-    </cities>
-    <cities>
-      <id>18149</id>
-      <name>Mendrisio</name>
-      <latitude>45.87019000</latitude>
-      <longitude>8.98160000</longitude>
-    </cities>
-    <cities>
-      <id>18150</id>
-      <name>Mendrisio District</name>
-      <latitude>45.86592000</latitude>
-      <longitude>8.99931000</longitude>
-    </cities>
-    <cities>
-      <id>18159</id>
-      <name>Minusio</name>
-      <latitude>46.17769000</latitude>
-      <longitude>8.81473000</longitude>
-    </cities>
-    <cities>
-      <id>18163</id>
-      <name>Montagnola</name>
-      <latitude>45.98323000</latitude>
-      <longitude>8.91786000</longitude>
-    </cities>
-    <cities>
-      <id>18166</id>
-      <name>Monte Carasso</name>
-      <latitude>46.18649000</latitude>
-      <longitude>8.99892000</longitude>
-    </cities>
-    <cities>
-      <id>18170</id>
-      <name>Morbio Inferiore</name>
-      <latitude>45.84915000</latitude>
-      <longitude>9.01907000</longitude>
-    </cities>
-    <cities>
-      <id>18180</id>
-      <name>Muralto</name>
-      <latitude>46.17323000</latitude>
-      <longitude>8.80219000</longitude>
-    </cities>
-    <cities>
-      <id>18231</id>
-      <name>Novazzano</name>
-      <latitude>45.84073000</latitude>
-      <longitude>8.98236000</longitude>
-    </cities>
-    <cities>
-      <id>18325</id>
-      <name>Pregassona</name>
-      <latitude>46.02021000</latitude>
-      <longitude>8.97429000</longitude>
-    </cities>
-    <cities>
-      <id>18331</id>
-      <name>Pura</name>
-      <latitude>45.98647000</latitude>
-      <longitude>8.86877000</longitude>
-    </cities>
-    <cities>
-      <id>18378</id>
-      <name>Riva San Vitale</name>
-      <latitude>45.90123000</latitude>
-      <longitude>8.97167000</longitude>
-    </cities>
-    <cities>
-      <id>18379</id>
-      <name>Riviera District</name>
-      <latitude>46.30926000</latitude>
-      <longitude>8.98148000</longitude>
-    </cities>
-    <cities>
-      <id>18507</id>
-      <name>Sementina</name>
-      <latitude>46.18363000</latitude>
-      <longitude>8.99162000</longitude>
-    </cities>
-    <cities>
-      <id>18530</id>
-      <name>Sorengo</name>
-      <latitude>45.99766000</latitude>
-      <longitude>8.93783000</longitude>
-    </cities>
-    <cities>
-      <id>18536</id>
-      <name>Stabio</name>
-      <latitude>45.84846000</latitude>
-      <longitude>8.93642000</longitude>
-    </cities>
-    <cities>
-      <id>18578</id>
-      <name>Tesserete</name>
-      <latitude>46.06813000</latitude>
-      <longitude>8.96501000</longitude>
-    </cities>
-    <cities>
-      <id>18658</id>
-      <name>Vallemaggia District</name>
-      <latitude>46.35483000</latitude>
-      <longitude>8.60540000</longitude>
-    </cities>
-    <cities>
-      <id>18671</id>
-      <name>Verscio</name>
-      <latitude>46.18482000</latitude>
-      <longitude>8.73224000</longitude>
-    </cities>
-    <cities>
-      <id>18678</id>
-      <name>Viganello</name>
-      <latitude>46.01342000</latitude>
-      <longitude>8.96879000</longitude>
-    </cities>
-  </state_city>
-  <state_city>
-    <id>1642</id>
-    <name>Uri</name>
-    <state_code>UR</state_code>
-    <latitude>41.48606470</latitude>
-    <longitude>-71.53085370</longitude>
-    <country_id>214</country_id>
-    <cities>
-      <id>17388</id>
-      <name>Altdorf</name>
-      <latitude>46.88042000</latitude>
-      <longitude>8.64441000</longitude>
-    </cities>
-    <cities>
-      <id>17397</id>
-      <name>Andermatt</name>
-      <latitude>46.63565000</latitude>
-      <longitude>8.59388000</longitude>
-    </cities>
-    <cities>
-      <id>17416</id>
-      <name>Attinghausen</name>
-      <latitude>46.86255000</latitude>
-      <longitude>8.63036000</longitude>
-    </cities>
-    <cities>
-      <id>17444</id>
-      <name>Bauen</name>
-      <latitude>46.93559000</latitude>
-      <longitude>8.57836000</longitude>
-    </cities>
-    <cities>
-      <id>17602</id>
-      <name>Bürglen</name>
-      <latitude>46.87565000</latitude>
-      <longitude>8.66539000</longitude>
-    </cities>
-    <cities>
-      <id>17768</id>
-      <name>Erstfeld</name>
-      <latitude>46.81885000</latitude>
-      <longitude>8.65052000</longitude>
-    </cities>
-    <cities>
-      <id>17796</id>
-      <name>Flüelen</name>
-      <latitude>46.90478000</latitude>
-      <longitude>8.62396000</longitude>
-    </cities>
-    <cities>
-      <id>18458</id>
-      <name>Schattdorf</name>
-      <latitude>46.86550000</latitude>
-      <longitude>8.65465000</longitude>
-    </cities>
-    <cities>
-      <id>18492</id>
-      <name>Seedorf</name>
-      <latitude>46.88199000</latitude>
-      <longitude>8.61611000</longitude>
-    </cities>
-    <cities>
-      <id>18521</id>
-      <name>Silenen</name>
-      <latitude>46.78910000</latitude>
-      <longitude>8.67325000</longitude>
     </cities>
   </state_city>
   <state_city>
@@ -752684,7 +752693,7 @@
   </state_city>
   <state_city>
     <id>2212</id>
-    <name>Adana Province</name>
+    <name>Adana</name>
     <state_code>01</state_code>
     <latitude>37.26123150</latitude>
     <longitude>35.39050460</longitude>
@@ -752794,7 +752803,7 @@
   </state_city>
   <state_city>
     <id>2155</id>
-    <name>Adıyaman Province</name>
+    <name>Adıyaman</name>
     <state_code>02</state_code>
     <latitude>37.90782910</latitude>
     <longitude>38.48499230</longitude>
@@ -752868,7 +752877,7 @@
   </state_city>
   <state_city>
     <id>2179</id>
-    <name>Afyonkarahisar Province</name>
+    <name>Afyonkarahisar</name>
     <state_code>03</state_code>
     <latitude>38.73910990</latitude>
     <longitude>30.71200230</longitude>
@@ -752996,7 +753005,7 @@
   </state_city>
   <state_city>
     <id>2193</id>
-    <name>Ağrı Province</name>
+    <name>Ağrı</name>
     <state_code>04</state_code>
     <latitude>39.62692180</latitude>
     <longitude>43.02159650</longitude>
@@ -753052,7 +753061,7 @@
   </state_city>
   <state_city>
     <id>2210</id>
-    <name>Aksaray Province</name>
+    <name>Aksaray</name>
     <state_code>68</state_code>
     <latitude>38.33520430</latitude>
     <longitude>33.97500180</longitude>
@@ -753114,7 +753123,7 @@
   </state_city>
   <state_city>
     <id>2161</id>
-    <name>Amasya Province</name>
+    <name>Amasya</name>
     <state_code>05</state_code>
     <latitude>40.65166080</latitude>
     <longitude>35.90379660</longitude>
@@ -753176,7 +753185,7 @@
   </state_city>
   <state_city>
     <id>2217</id>
-    <name>Ankara Province</name>
+    <name>Ankara</name>
     <state_code>06</state_code>
     <latitude>39.78052450</latitude>
     <longitude>32.71813750</longitude>
@@ -753364,7 +753373,7 @@
   </state_city>
   <state_city>
     <id>2169</id>
-    <name>Antalya Province</name>
+    <name>Antalya</name>
     <state_code>07</state_code>
     <latitude>37.09516720</latitude>
     <longitude>31.07937050</longitude>
@@ -753594,7 +753603,7 @@
   </state_city>
   <state_city>
     <id>2185</id>
-    <name>Ardahan Province</name>
+    <name>Ardahan</name>
     <state_code>75</state_code>
     <latitude>41.11129640</latitude>
     <longitude>42.78316740</longitude>
@@ -753638,7 +753647,7 @@
   </state_city>
   <state_city>
     <id>2191</id>
-    <name>Artvin Province</name>
+    <name>Artvin</name>
     <state_code>08</state_code>
     <latitude>41.07866400</latitude>
     <longitude>41.76282230</longitude>
@@ -753706,7 +753715,7 @@
   </state_city>
   <state_city>
     <id>2187</id>
-    <name>Aydın Province</name>
+    <name>Aydın</name>
     <state_code>09</state_code>
     <latitude>37.81170330</latitude>
     <longitude>28.48639630</longitude>
@@ -753864,7 +753873,7 @@
   </state_city>
   <state_city>
     <id>2175</id>
-    <name>Balıkesir Province</name>
+    <name>Balıkesir</name>
     <state_code>10</state_code>
     <latitude>39.76167820</latitude>
     <longitude>28.11226790</longitude>
@@ -753998,7 +754007,7 @@
   </state_city>
   <state_city>
     <id>2148</id>
-    <name>Bartın Province</name>
+    <name>Bartın</name>
     <state_code>74</state_code>
     <latitude>41.58105090</latitude>
     <longitude>32.46097940</longitude>
@@ -754030,7 +754039,7 @@
   </state_city>
   <state_city>
     <id>2194</id>
-    <name>Batman Province</name>
+    <name>Batman</name>
     <state_code>72</state_code>
     <latitude>37.83624960</latitude>
     <longitude>41.36057390</longitude>
@@ -754176,7 +754185,7 @@
   </state_city>
   <state_city>
     <id>2177</id>
-    <name>Bayburt Province</name>
+    <name>Bayburt</name>
     <state_code>69</state_code>
     <latitude>40.26032000</latitude>
     <longitude>40.22804800</longitude>
@@ -754208,7 +754217,7 @@
   </state_city>
   <state_city>
     <id>2221</id>
-    <name>Bilecik Province</name>
+    <name>Bilecik</name>
     <state_code>11</state_code>
     <latitude>40.05665550</latitude>
     <longitude>30.06652360</longitude>
@@ -754282,7 +754291,7 @@
   </state_city>
   <state_city>
     <id>2153</id>
-    <name>Bingöl Province</name>
+    <name>Bingöl</name>
     <state_code>12</state_code>
     <latitude>39.06263540</latitude>
     <longitude>40.76960950</longitude>
@@ -754344,7 +754353,7 @@
   </state_city>
   <state_city>
     <id>2215</id>
-    <name>Bitlis Province</name>
+    <name>Bitlis</name>
     <state_code>13</state_code>
     <latitude>38.65231330</latitude>
     <longitude>42.42020280</longitude>
@@ -754406,7 +754415,7 @@
   </state_city>
   <state_city>
     <id>2172</id>
-    <name>Bolu Province</name>
+    <name>Bolu</name>
     <state_code>14</state_code>
     <latitude>40.57597660</latitude>
     <longitude>31.57880860</longitude>
@@ -754468,7 +754477,7 @@
   </state_city>
   <state_city>
     <id>2209</id>
-    <name>Burdur Province</name>
+    <name>Burdur</name>
     <state_code>15</state_code>
     <latitude>37.46126690</latitude>
     <longitude>30.06652360</longitude>
@@ -754560,7 +754569,7 @@
   </state_city>
   <state_city>
     <id>2163</id>
-    <name>Bursa Province</name>
+    <name>Bursa</name>
     <state_code>16</state_code>
     <latitude>40.06554590</latitude>
     <longitude>29.23207840</longitude>
@@ -754802,7 +754811,7 @@
   </state_city>
   <state_city>
     <id>2216</id>
-    <name>Çanakkale Province</name>
+    <name>Çanakkale</name>
     <state_code>17</state_code>
     <latitude>40.05101040</latitude>
     <longitude>26.98524220</longitude>
@@ -754918,7 +754927,7 @@
   </state_city>
   <state_city>
     <id>2168</id>
-    <name>Çankırı Province</name>
+    <name>Çankırı</name>
     <state_code>18</state_code>
     <latitude>40.53690730</latitude>
     <longitude>33.58838930</longitude>
@@ -754998,7 +755007,7 @@
   </state_city>
   <state_city>
     <id>2173</id>
-    <name>Çorum Province</name>
+    <name>Çorum</name>
     <state_code>19</state_code>
     <latitude>40.49982110</latitude>
     <longitude>34.59862630</longitude>
@@ -755096,7 +755105,7 @@
   </state_city>
   <state_city>
     <id>2157</id>
-    <name>Denizli Province</name>
+    <name>Denizli</name>
     <state_code>20</state_code>
     <latitude>37.61283950</latitude>
     <longitude>29.23207840</longitude>
@@ -755248,7 +755257,7 @@
   </state_city>
   <state_city>
     <id>2226</id>
-    <name>Diyarbakır Province</name>
+    <name>Diyarbakır</name>
     <state_code>21</state_code>
     <latitude>38.10663720</latitude>
     <longitude>40.54268960</longitude>
@@ -755424,7 +755433,7 @@
   </state_city>
   <state_city>
     <id>2202</id>
-    <name>Düzce Province</name>
+    <name>Düzce</name>
     <state_code>81</state_code>
     <latitude>40.87705310</latitude>
     <longitude>31.31927130</longitude>
@@ -755480,7 +755489,7 @@
   </state_city>
   <state_city>
     <id>2151</id>
-    <name>Edirne Province</name>
+    <name>Edirne</name>
     <state_code>22</state_code>
     <latitude>41.15172220</latitude>
     <longitude>26.51379640</longitude>
@@ -755548,7 +755557,7 @@
   </state_city>
   <state_city>
     <id>2159</id>
-    <name>Elazığ Province</name>
+    <name>Elazığ</name>
     <state_code>23</state_code>
     <latitude>38.49648040</latitude>
     <longitude>39.21990290</longitude>
@@ -755634,7 +755643,7 @@
   </state_city>
   <state_city>
     <id>2160</id>
-    <name>Erzincan Province</name>
+    <name>Erzincan</name>
     <state_code>24</state_code>
     <latitude>39.76819140</latitude>
     <longitude>39.05013060</longitude>
@@ -755702,7 +755711,7 @@
   </state_city>
   <state_city>
     <id>2165</id>
-    <name>Erzurum Province</name>
+    <name>Erzurum</name>
     <state_code>25</state_code>
     <latitude>40.07467990</latitude>
     <longitude>41.66945620</longitude>
@@ -755842,7 +755851,7 @@
   </state_city>
   <state_city>
     <id>2164</id>
-    <name>Eskişehir Province</name>
+    <name>Eskişehir</name>
     <state_code>26</state_code>
     <latitude>39.63296570</latitude>
     <longitude>31.26263660</longitude>
@@ -755958,7 +755967,7 @@
   </state_city>
   <state_city>
     <id>2203</id>
-    <name>Gaziantep Province</name>
+    <name>Gaziantep</name>
     <state_code>27</state_code>
     <latitude>37.07638820</latitude>
     <longitude>37.38272340</longitude>
@@ -756056,7 +756065,7 @@
   </state_city>
   <state_city>
     <id>2186</id>
-    <name>Giresun Province</name>
+    <name>Giresun</name>
     <state_code>28</state_code>
     <latitude>40.64616720</latitude>
     <longitude>38.59355110</longitude>
@@ -756166,7 +756175,7 @@
   </state_city>
   <state_city>
     <id>2204</id>
-    <name>Gümüşhane Province</name>
+    <name>Gümüşhane</name>
     <state_code>29</state_code>
     <latitude>40.28036730</latitude>
     <longitude>39.31432530</longitude>
@@ -756228,7 +756237,7 @@
   </state_city>
   <state_city>
     <id>2190</id>
-    <name>Hakkâri Province</name>
+    <name>Hakkâri</name>
     <state_code>30</state_code>
     <latitude>37.44593190</latitude>
     <longitude>43.74498410</longitude>
@@ -756272,7 +756281,7 @@
   </state_city>
   <state_city>
     <id>2211</id>
-    <name>Hatay Province</name>
+    <name>Hatay</name>
     <state_code>31</state_code>
     <latitude>36.40184880</latitude>
     <longitude>36.34980970</longitude>
@@ -756520,7 +756529,7 @@
   </state_city>
   <state_city>
     <id>2166</id>
-    <name>Iğdır Province</name>
+    <name>Iğdır</name>
     <state_code>76</state_code>
     <latitude>39.88798410</latitude>
     <longitude>44.00483650</longitude>
@@ -756546,7 +756555,7 @@
   </state_city>
   <state_city>
     <id>2222</id>
-    <name>Isparta Province</name>
+    <name>Isparta</name>
     <state_code>32</state_code>
     <latitude>38.02114640</latitude>
     <longitude>31.07937050</longitude>
@@ -756644,34 +756653,16 @@
   </state_city>
   <state_city>
     <id>2170</id>
-    <name>Istanbul Province</name>
+    <name>Istanbul</name>
     <state_code>34</state_code>
     <latitude>41.16343020</latitude>
     <longitude>28.76644080</longitude>
     <country_id>225</country_id>
     <cities>
-      <id>107061</id>
-      <name>Adalan</name>
-      <latitude>40.87590000</latitude>
-      <longitude>29.08940000</longitude>
-    </cities>
-    <cities>
       <id>107062</id>
       <name>Adalar</name>
       <latitude>40.86913000</latitude>
       <longitude>29.12064000</longitude>
-    </cities>
-    <cities>
-      <id>107245</id>
-      <name>Ağva</name>
-      <latitude>41.13806000</latitude>
-      <longitude>29.85667000</longitude>
-    </cities>
-    <cities>
-      <id>107199</id>
-      <name>Arıköy</name>
-      <latitude>41.23044000</latitude>
-      <longitude>29.00425000</longitude>
     </cities>
     <cities>
       <id>107188</id>
@@ -756746,28 +756737,10 @@
       <longitude>28.96767000</longitude>
     </cities>
     <cities>
-      <id>107375</id>
-      <name>Boyalık</name>
-      <latitude>41.26337000</latitude>
-      <longitude>28.63142000</longitude>
-    </cities>
-    <cities>
-      <id>107421</id>
-      <name>Büyükçavuşlu</name>
-      <latitude>41.24002000</latitude>
-      <longitude>28.06331000</longitude>
-    </cities>
-    <cities>
       <id>107422</id>
       <name>Büyükçekmece</name>
       <latitude>41.04521000</latitude>
       <longitude>28.59573000</longitude>
-    </cities>
-    <cities>
-      <id>108780</id>
-      <name>Çanta</name>
-      <latitude>41.07897000</latitude>
-      <longitude>28.08323000</longitude>
     </cities>
     <cities>
       <id>108788</id>
@@ -756780,18 +756753,6 @@
       <name>Çekmeköy</name>
       <latitude>41.03819000</latitude>
       <longitude>29.20029000</longitude>
-    </cities>
-    <cities>
-      <id>107425</id>
-      <name>Celâliye</name>
-      <latitude>41.05188000</latitude>
-      <longitude>28.41867000</longitude>
-    </cities>
-    <cities>
-      <id>107536</id>
-      <name>Durusu</name>
-      <latitude>41.30337000</latitude>
-      <longitude>28.67635000</longitude>
     </cities>
     <cities>
       <id>107575</id>
@@ -756836,30 +756797,6 @@
       <longitude>28.87882000</longitude>
     </cities>
     <cities>
-      <id>108756</id>
-      <name>güngören merter</name>
-      <latitude>41.00711000</latitude>
-      <longitude>28.88795000</longitude>
-    </cities>
-    <cities>
-      <id>107754</id>
-      <name>Gürpınar</name>
-      <latitude>40.99256000</latitude>
-      <longitude>28.61428000</longitude>
-    </cities>
-    <cities>
-      <id>108927</id>
-      <name>İçmeler</name>
-      <latitude>40.84639000</latitude>
-      <longitude>29.30889000</longitude>
-    </cities>
-    <cities>
-      <id>107851</id>
-      <name>Istanbul</name>
-      <latitude>41.01384000</latitude>
-      <longitude>28.94966000</longitude>
-    </cities>
-    <cities>
       <id>107863</id>
       <name>Kadıköy</name>
       <latitude>40.98229000</latitude>
@@ -756872,28 +756809,10 @@
       <longitude>28.97826000</longitude>
     </cities>
     <cities>
-      <id>107892</id>
-      <name>Karacaköy</name>
-      <latitude>41.40338000</latitude>
-      <longitude>28.38055000</longitude>
-    </cities>
-    <cities>
       <id>107933</id>
       <name>Kartal</name>
       <latitude>40.91197000</latitude>
       <longitude>29.21190000</longitude>
-    </cities>
-    <cities>
-      <id>107942</id>
-      <name>Kavaklı</name>
-      <latitude>41.09258000</latitude>
-      <longitude>28.33172000</longitude>
-    </cities>
-    <cities>
-      <id>108100</id>
-      <name>Kınalı</name>
-      <latitude>40.90713000</latitude>
-      <longitude>29.05499000</longitude>
     </cities>
     <cities>
       <id>108095</id>
@@ -756902,40 +756821,10 @@
       <longitude>28.76983000</longitude>
     </cities>
     <cities>
-      <id>108047</id>
-      <name>Kumburgaz</name>
-      <latitude>41.02108000</latitude>
-      <longitude>28.48033000</longitude>
-    </cities>
-    <cities>
       <id>108146</id>
       <name>Maltepe</name>
       <latitude>40.95890000</latitude>
       <longitude>29.17866000</longitude>
-    </cities>
-    <cities>
-      <id>108199</id>
-      <name>Merter Keresteciler</name>
-      <latitude>41.01295000</latitude>
-      <longitude>28.88593000</longitude>
-    </cities>
-    <cities>
-      <id>108213</id>
-      <name>Mimarsinan</name>
-      <latitude>41.01790000</latitude>
-      <longitude>28.56176000</longitude>
-    </cities>
-    <cities>
-      <id>108221</id>
-      <name>Muratbey</name>
-      <latitude>41.09630000</latitude>
-      <longitude>28.49227000</longitude>
-    </cities>
-    <cities>
-      <id>108287</id>
-      <name>Ortaköy</name>
-      <latitude>41.10154000</latitude>
-      <longitude>28.37588000</longitude>
     </cities>
     <cities>
       <id>108336</id>
@@ -756954,12 +756843,6 @@
       <name>Sarıyer</name>
       <latitude>41.21482000</latitude>
       <longitude>29.05678000</longitude>
-    </cities>
-    <cities>
-      <id>108432</id>
-      <name>Selimpaşa</name>
-      <latitude>41.05448000</latitude>
-      <longitude>28.36678000</longitude>
     </cities>
     <cities>
       <id>108958</id>
@@ -756992,12 +756875,6 @@
       <longitude>28.71740000</longitude>
     </cities>
     <cities>
-      <id>108568</id>
-      <name>Tepecik</name>
-      <latitude>41.02931000</latitude>
-      <longitude>28.54978000</longitude>
-    </cities>
-    <cities>
       <id>108609</id>
       <name>Tuzla</name>
       <latitude>40.86368000</latitude>
@@ -757016,12 +756893,6 @@
       <longitude>29.01366000</longitude>
     </cities>
     <cities>
-      <id>108662</id>
-      <name>Yakuplu</name>
-      <latitude>40.98894000</latitude>
-      <longitude>28.67582000</longitude>
-    </cities>
-    <cities>
       <id>108750</id>
       <name>Zeytinburnu</name>
       <latitude>41.00824000</latitude>
@@ -757030,7 +756901,7 @@
   </state_city>
   <state_city>
     <id>2205</id>
-    <name>İzmir Province</name>
+    <name>İzmir</name>
     <state_code>35</state_code>
     <latitude>38.35916930</latitude>
     <longitude>27.26761160</longitude>
@@ -757296,7 +757167,7 @@
   </state_city>
   <state_city>
     <id>2227</id>
-    <name>Kahramanmaraş Province</name>
+    <name>Kahramanmaraş</name>
     <state_code>46</state_code>
     <latitude>37.75030360</latitude>
     <longitude>36.95410700</longitude>
@@ -757388,7 +757259,7 @@
   </state_city>
   <state_city>
     <id>2223</id>
-    <name>Karabük Province</name>
+    <name>Karabük</name>
     <state_code>78</state_code>
     <latitude>41.18748900</latitude>
     <longitude>32.74174190</longitude>
@@ -757438,7 +757309,7 @@
   </state_city>
   <state_city>
     <id>2184</id>
-    <name>Karaman Province</name>
+    <name>Karaman</name>
     <state_code>70</state_code>
     <latitude>37.24363360</latitude>
     <longitude>33.61757700</longitude>
@@ -757488,7 +757359,7 @@
   </state_city>
   <state_city>
     <id>2208</id>
-    <name>Kars Province</name>
+    <name>Kars</name>
     <state_code>36</state_code>
     <latitude>40.28076360</latitude>
     <longitude>42.99195270</longitude>
@@ -757544,7 +757415,7 @@
   </state_city>
   <state_city>
     <id>2197</id>
-    <name>Kastamonu Province</name>
+    <name>Kastamonu</name>
     <state_code>37</state_code>
     <latitude>41.41038630</latitude>
     <longitude>33.69983340</longitude>
@@ -757672,7 +757543,7 @@
   </state_city>
   <state_city>
     <id>2200</id>
-    <name>Kayseri Province</name>
+    <name>Kayseri</name>
     <state_code>38</state_code>
     <latitude>38.62568540</latitude>
     <longitude>35.74068820</longitude>
@@ -757788,7 +757659,7 @@
   </state_city>
   <state_city>
     <id>2154</id>
-    <name>Kilis Province</name>
+    <name>Kilis</name>
     <state_code>79</state_code>
     <latitude>36.82047750</latitude>
     <longitude>37.16873390</longitude>
@@ -757820,7 +757691,7 @@
   </state_city>
   <state_city>
     <id>2178</id>
-    <name>Kırıkkale Province</name>
+    <name>Kırıkkale</name>
     <state_code>71</state_code>
     <latitude>39.88768780</latitude>
     <longitude>33.75552480</longitude>
@@ -757882,7 +757753,7 @@
   </state_city>
   <state_city>
     <id>2176</id>
-    <name>Kırklareli Province</name>
+    <name>Kırklareli</name>
     <state_code>39</state_code>
     <latitude>41.72597950</latitude>
     <longitude>27.48383900</longitude>
@@ -757944,7 +757815,7 @@
   </state_city>
   <state_city>
     <id>2180</id>
-    <name>Kırşehir Province</name>
+    <name>Kırşehir</name>
     <state_code>40</state_code>
     <latitude>39.22689050</latitude>
     <longitude>33.97500180</longitude>
@@ -757994,7 +757865,7 @@
   </state_city>
   <state_city>
     <id>2195</id>
-    <name>Kocaeli Province</name>
+    <name>Kocaeli</name>
     <state_code>41</state_code>
     <latitude>40.85327040</latitude>
     <longitude>29.88152030</longitude>
@@ -758152,7 +758023,7 @@
   </state_city>
   <state_city>
     <id>2171</id>
-    <name>Konya Province</name>
+    <name>Konya</name>
     <state_code>42</state_code>
     <latitude>37.98381340</latitude>
     <longitude>32.71813750</longitude>
@@ -758388,7 +758259,7 @@
   </state_city>
   <state_city>
     <id>2149</id>
-    <name>Kütahya Province</name>
+    <name>Kütahya</name>
     <state_code>43</state_code>
     <latitude>39.35813700</latitude>
     <longitude>29.60354950</longitude>
@@ -758474,7 +758345,7 @@
   </state_city>
   <state_city>
     <id>2158</id>
-    <name>Malatya Province</name>
+    <name>Malatya</name>
     <state_code>44</state_code>
     <latitude>38.40150570</latitude>
     <longitude>37.95362980</longitude>
@@ -758566,7 +758437,7 @@
   </state_city>
   <state_city>
     <id>2198</id>
-    <name>Manisa Province</name>
+    <name>Manisa</name>
     <state_code>45</state_code>
     <latitude>38.84193730</latitude>
     <longitude>28.11226790</longitude>
@@ -758688,7 +758559,7 @@
   </state_city>
   <state_city>
     <id>2224</id>
-    <name>Mardin Province</name>
+    <name>Mardin</name>
     <state_code>47</state_code>
     <latitude>37.34429290</latitude>
     <longitude>40.61964870</longitude>
@@ -759080,7 +758951,7 @@
   </state_city>
   <state_city>
     <id>2156</id>
-    <name>Mersin Province</name>
+    <name>Mersin</name>
     <state_code>33</state_code>
     <latitude>36.81208580</latitude>
     <longitude>34.64147500</longitude>
@@ -759196,7 +759067,7 @@
   </state_city>
   <state_city>
     <id>2182</id>
-    <name>Muğla Province</name>
+    <name>Muğla</name>
     <state_code>48</state_code>
     <latitude>37.18358190</latitude>
     <longitude>28.48639630</longitude>
@@ -759360,7 +759231,7 @@
   </state_city>
   <state_city>
     <id>2162</id>
-    <name>Muş Province</name>
+    <name>Muş</name>
     <state_code>49</state_code>
     <latitude>38.94618880</latitude>
     <longitude>41.75389310</longitude>
@@ -759410,7 +759281,7 @@
   </state_city>
   <state_city>
     <id>2196</id>
-    <name>Nevşehir Province</name>
+    <name>Nevşehir</name>
     <state_code>50</state_code>
     <latitude>38.69393990</latitude>
     <longitude>34.68565090</longitude>
@@ -759478,7 +759349,7 @@
   </state_city>
   <state_city>
     <id>2189</id>
-    <name>Niğde Province</name>
+    <name>Niğde</name>
     <state_code>51</state_code>
     <latitude>38.09930860</latitude>
     <longitude>34.68565090</longitude>
@@ -759522,7 +759393,7 @@
   </state_city>
   <state_city>
     <id>2174</id>
-    <name>Ordu Province</name>
+    <name>Ordu</name>
     <state_code>52</state_code>
     <latitude>40.79905800</latitude>
     <longitude>37.38990050</longitude>
@@ -759656,7 +759527,7 @@
   </state_city>
   <state_city>
     <id>2214</id>
-    <name>Osmaniye Province</name>
+    <name>Osmaniye</name>
     <state_code>80</state_code>
     <latitude>37.21302580</latitude>
     <longitude>36.17626150</longitude>
@@ -759706,7 +759577,7 @@
   </state_city>
   <state_city>
     <id>2219</id>
-    <name>Rize Province</name>
+    <name>Rize</name>
     <state_code>53</state_code>
     <latitude>40.95814970</latitude>
     <longitude>40.92269850</longitude>
@@ -759780,7 +759651,7 @@
   </state_city>
   <state_city>
     <id>2150</id>
-    <name>Sakarya Province</name>
+    <name>Sakarya</name>
     <state_code>54</state_code>
     <latitude>40.78885500</latitude>
     <longitude>30.40595400</longitude>
@@ -759890,7 +759761,7 @@
   </state_city>
   <state_city>
     <id>2220</id>
-    <name>Samsun Province</name>
+    <name>Samsun</name>
     <state_code>55</state_code>
     <latitude>41.18648590</latitude>
     <longitude>36.13226780</longitude>
@@ -760006,7 +759877,7 @@
   </state_city>
   <state_city>
     <id>2183</id>
-    <name>Şanlıurfa Province</name>
+    <name>Şanlıurfa</name>
     <state_code>63</state_code>
     <latitude>37.35691020</latitude>
     <longitude>39.15436770</longitude>
@@ -760200,7 +760071,7 @@
   </state_city>
   <state_city>
     <id>2207</id>
-    <name>Siirt Province</name>
+    <name>Siirt</name>
     <state_code>56</state_code>
     <latitude>37.86588620</latitude>
     <longitude>42.14945230</longitude>
@@ -760340,7 +760211,7 @@
   </state_city>
   <state_city>
     <id>4854</id>
-    <name>Sinop Province</name>
+    <name>Sinop</name>
     <state_code>57</state_code>
     <latitude>41.55947490</latitude>
     <longitude>34.85805320</longitude>
@@ -760402,7 +760273,7 @@
   </state_city>
   <state_city>
     <id>2181</id>
-    <name>Sivas Province</name>
+    <name>Sivas</name>
     <state_code>58</state_code>
     <latitude>39.44880390</latitude>
     <longitude>37.12944970</longitude>
@@ -760524,7 +760395,7 @@
   </state_city>
   <state_city>
     <id>2225</id>
-    <name>Şırnak Province</name>
+    <name>Şırnak</name>
     <state_code>73</state_code>
     <latitude>37.41874810</latitude>
     <longitude>42.49183380</longitude>
@@ -760760,7 +760631,7 @@
   </state_city>
   <state_city>
     <id>2167</id>
-    <name>Tekirdağ Province</name>
+    <name>Tekirdağ</name>
     <state_code>59</state_code>
     <latitude>41.11212270</latitude>
     <longitude>27.26761160</longitude>
@@ -760864,7 +760735,7 @@
   </state_city>
   <state_city>
     <id>2199</id>
-    <name>Tokat Province</name>
+    <name>Tokat</name>
     <state_code>60</state_code>
     <latitude>40.39027130</latitude>
     <longitude>36.62518630</longitude>
@@ -760944,7 +760815,7 @@
   </state_city>
   <state_city>
     <id>2206</id>
-    <name>Trabzon Province</name>
+    <name>Trabzon</name>
     <state_code>61</state_code>
     <latitude>40.79924100</latitude>
     <longitude>39.58479440</longitude>
@@ -761066,7 +760937,7 @@
   </state_city>
   <state_city>
     <id>2192</id>
-    <name>Tunceli Province</name>
+    <name>Tunceli</name>
     <state_code>62</state_code>
     <latitude>39.30735540</latitude>
     <longitude>39.43877780</longitude>
@@ -761140,7 +761011,7 @@
   </state_city>
   <state_city>
     <id>2201</id>
-    <name>Uşak Province</name>
+    <name>Uşak</name>
     <state_code>64</state_code>
     <latitude>38.54313190</latitude>
     <longitude>29.23207840</longitude>
@@ -761220,7 +761091,7 @@
   </state_city>
   <state_city>
     <id>2152</id>
-    <name>Van Province</name>
+    <name>Van</name>
     <state_code>65</state_code>
     <latitude>38.36794170</latitude>
     <longitude>43.71827870</longitude>
@@ -761318,7 +761189,7 @@
   </state_city>
   <state_city>
     <id>2218</id>
-    <name>Yalova Province</name>
+    <name>Yalova</name>
     <state_code>77</state_code>
     <latitude>40.57759860</latitude>
     <longitude>29.20883030</longitude>
@@ -761398,7 +761269,7 @@
   </state_city>
   <state_city>
     <id>2188</id>
-    <name>Yozgat Province</name>
+    <name>Yozgat</name>
     <state_code>66</state_code>
     <latitude>39.72719790</latitude>
     <longitude>35.10778580</longitude>
@@ -761496,7 +761367,7 @@
   </state_city>
   <state_city>
     <id>2213</id>
-    <name>Zonguldak Province</name>
+    <name>Zonguldak</name>
     <state_code>67</state_code>
     <latitude>41.31249170</latitude>
     <longitude>31.85982510</longitude>

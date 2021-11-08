@@ -728635,12 +728635,6 @@
       <longitude>40.48252000</longitude>
     </cities>
     <cities>
-      <id>107061</id>
-      <name>Adalan</name>
-      <latitude>40.87590000</latitude>
-      <longitude>29.08940000</longitude>
-    </cities>
-    <cities>
       <id>107062</id>
       <name>Adalar</name>
       <latitude>40.86913000</latitude>
@@ -728711,12 +728705,6 @@
       <name>Ağrı</name>
       <latitude>39.71944000</latitude>
       <longitude>43.05139000</longitude>
-    </cities>
-    <cities>
-      <id>107245</id>
-      <name>Ağva</name>
-      <latitude>41.13806000</latitude>
-      <longitude>29.85667000</longitude>
     </cities>
     <cities>
       <id>107075</id>
@@ -729209,12 +729197,6 @@
       <name>Arıcak</name>
       <latitude>38.56340000</latitude>
       <longitude>40.12480000</longitude>
-    </cities>
-    <cities>
-      <id>107199</id>
-      <name>Arıköy</name>
-      <latitude>41.23044000</latitude>
-      <longitude>29.00425000</longitude>
     </cities>
     <cities>
       <id>107187</id>
@@ -730045,12 +730027,6 @@
       <longitude>29.56083000</longitude>
     </cities>
     <cities>
-      <id>107375</id>
-      <name>Boyalık</name>
-      <latitude>41.26337000</latitude>
-      <longitude>28.63142000</longitude>
-    </cities>
-    <cities>
       <id>107376</id>
       <name>Boynuyoğun</name>
       <latitude>36.16935000</latitude>
@@ -730093,16 +730069,16 @@
       <longitude>32.24736000</longitude>
     </cities>
     <cities>
-      <id>107384</id>
-      <name>Bozkurt</name>
-      <latitude>37.77583000</latitude>
-      <longitude>29.60811000</longitude>
-    </cities>
-    <cities>
       <id>107383</id>
       <name>Bozkurt</name>
       <latitude>41.95769000</latitude>
       <longitude>34.01087000</longitude>
+    </cities>
+    <cities>
+      <id>107384</id>
+      <name>Bozkurt</name>
+      <latitude>37.77583000</latitude>
+      <longitude>29.60811000</longitude>
     </cities>
     <cities>
       <id>107388</id>
@@ -730205,12 +730181,6 @@
       <name>Büyükçat</name>
       <latitude>36.11500000</latitude>
       <longitude>36.07740000</longitude>
-    </cities>
-    <cities>
-      <id>107421</id>
-      <name>Büyükçavuşlu</name>
-      <latitude>41.24002000</latitude>
-      <longitude>28.06331000</longitude>
     </cities>
     <cities>
       <id>107422</id>
@@ -730343,12 +730313,6 @@
       <name>Çankaya</name>
       <latitude>39.91790000</latitude>
       <longitude>32.86268000</longitude>
-    </cities>
-    <cities>
-      <id>108780</id>
-      <name>Çanta</name>
-      <latitude>41.07897000</latitude>
-      <longitude>28.08323000</longitude>
     </cities>
     <cities>
       <id>108781</id>
@@ -730493,12 +730457,6 @@
       <name>Çekmeköy</name>
       <latitude>41.03819000</latitude>
       <longitude>29.20029000</longitude>
-    </cities>
-    <cities>
-      <id>107425</id>
-      <name>Celâliye</name>
-      <latitude>41.05188000</latitude>
-      <longitude>28.41867000</longitude>
     </cities>
     <cities>
       <id>108813</id>
@@ -731183,12 +731141,6 @@
       <name>Duruca</name>
       <latitude>37.09309000</latitude>
       <longitude>41.30986000</longitude>
-    </cities>
-    <cities>
-      <id>107536</id>
-      <name>Durusu</name>
-      <latitude>41.30337000</latitude>
-      <longitude>28.67635000</longitude>
     </cities>
     <cities>
       <id>107542</id>
@@ -732061,12 +732013,6 @@
       <longitude>28.87882000</longitude>
     </cities>
     <cities>
-      <id>108756</id>
-      <name>güngören merter</name>
-      <latitude>41.00711000</latitude>
-      <longitude>28.88795000</longitude>
-    </cities>
-    <cities>
       <id>107747</id>
       <name>Günyazı</name>
       <latitude>36.23307000</latitude>
@@ -732095,12 +732041,6 @@
       <name>Gürpınar</name>
       <latitude>38.32372000</latitude>
       <longitude>43.40991000</longitude>
-    </cities>
-    <cities>
-      <id>107754</id>
-      <name>Gürpınar</name>
-      <latitude>40.99256000</latitude>
-      <longitude>28.61428000</longitude>
     </cities>
     <cities>
       <id>107756</id>
@@ -732433,12 +732373,6 @@
       <longitude>31.59917000</longitude>
     </cities>
     <cities>
-      <id>108927</id>
-      <name>İçmeler</name>
-      <latitude>40.84639000</latitude>
-      <longitude>29.30889000</longitude>
-    </cities>
-    <cities>
       <id>108879</id>
       <name>İdil</name>
       <latitude>37.33481000</latitude>
@@ -732643,12 +732577,6 @@
       <longitude>40.99373000</longitude>
     </cities>
     <cities>
-      <id>107851</id>
-      <name>Istanbul</name>
-      <latitude>41.01384000</latitude>
-      <longitude>28.94966000</longitude>
-    </cities>
-    <cities>
       <id>108920</id>
       <name>İvrindi</name>
       <latitude>39.58389000</latitude>
@@ -732839,12 +732767,6 @@
       <name>Karacabey</name>
       <latitude>40.21323000</latitude>
       <longitude>28.36120000</longitude>
-    </cities>
-    <cities>
-      <id>107892</id>
-      <name>Karacaköy</name>
-      <latitude>41.40338000</latitude>
-      <longitude>28.38055000</longitude>
     </cities>
     <cities>
       <id>107893</id>
@@ -733067,12 +732989,6 @@
       <name>Kavak</name>
       <latitude>41.07833000</latitude>
       <longitude>36.04250000</longitude>
-    </cities>
-    <cities>
-      <id>107942</id>
-      <name>Kavaklı</name>
-      <latitude>41.09258000</latitude>
-      <longitude>28.33172000</longitude>
     </cities>
     <cities>
       <id>107943</id>
@@ -733337,12 +733253,6 @@
       <name>Kılıç</name>
       <latitude>40.63306000</latitude>
       <longitude>29.39472000</longitude>
-    </cities>
-    <cities>
-      <id>108100</id>
-      <name>Kınalı</name>
-      <latitude>40.90713000</latitude>
-      <longitude>29.05499000</longitude>
     </cities>
     <cities>
       <id>108101</id>
@@ -733703,12 +733613,6 @@
       <name>Kumbağ</name>
       <latitude>40.88236000</latitude>
       <longitude>27.45919000</longitude>
-    </cities>
-    <cities>
-      <id>108047</id>
-      <name>Kumburgaz</name>
-      <latitude>41.02108000</latitude>
-      <longitude>28.48033000</longitude>
     </cities>
     <cities>
       <id>108054</id>
@@ -734185,12 +734089,6 @@
       <longitude>34.63886000</longitude>
     </cities>
     <cities>
-      <id>108199</id>
-      <name>Merter Keresteciler</name>
-      <latitude>41.01295000</latitude>
-      <longitude>28.88593000</longitude>
-    </cities>
-    <cities>
       <id>108200</id>
       <name>Merzifon İlçesi</name>
       <latitude>40.88348000</latitude>
@@ -734245,12 +734143,6 @@
       <longitude>27.78389000</longitude>
     </cities>
     <cities>
-      <id>108213</id>
-      <name>Mimarsinan</name>
-      <latitude>41.01790000</latitude>
-      <longitude>28.56176000</longitude>
-    </cities>
-    <cities>
       <id>108214</id>
       <name>Minare</name>
       <latitude>36.93083000</latitude>
@@ -734285,12 +734177,6 @@
       <name>Muradiye</name>
       <latitude>38.97889000</latitude>
       <longitude>43.75374000</longitude>
-    </cities>
-    <cities>
-      <id>108221</id>
-      <name>Muratbey</name>
-      <latitude>41.09630000</latitude>
-      <longitude>28.49227000</longitude>
     </cities>
     <cities>
       <id>108222</id>
@@ -734603,12 +734489,6 @@
       <name>Ortaköy</name>
       <latitude>40.27352000</latitude>
       <longitude>35.25175000</longitude>
-    </cities>
-    <cities>
-      <id>108287</id>
-      <name>Ortaköy</name>
-      <latitude>41.10154000</latitude>
-      <longitude>28.37588000</longitude>
     </cities>
     <cities>
       <id>108290</id>
@@ -735307,12 +735187,6 @@
       <longitude>42.78287000</longitude>
     </cities>
     <cities>
-      <id>108432</id>
-      <name>Selimpaşa</name>
-      <latitude>41.05448000</latitude>
-      <longitude>28.36678000</longitude>
-    </cities>
-    <cities>
       <id>108948</id>
       <name>Şemdinli</name>
       <latitude>37.30514000</latitude>
@@ -735943,12 +735817,6 @@
       <longitude>27.87496000</longitude>
     </cities>
     <cities>
-      <id>108568</id>
-      <name>Tepecik</name>
-      <latitude>41.02931000</latitude>
-      <longitude>28.54978000</longitude>
-    </cities>
-    <cities>
       <id>108569</id>
       <name>Tepehan</name>
       <latitude>36.15853000</latitude>
@@ -736403,12 +736271,6 @@
       <name>Yakakent</name>
       <latitude>41.63250000</latitude>
       <longitude>35.52889000</longitude>
-    </cities>
-    <cities>
-      <id>108662</id>
-      <name>Yakuplu</name>
-      <latitude>40.98894000</latitude>
-      <longitude>28.67582000</longitude>
     </cities>
     <cities>
       <id>108663</id>

@@ -1,3 +1,7 @@
+DROP TABLE IF EXISTS `cities`;
+DROP TABLE IF EXISTS `states`;
+DROP TABLE IF EXISTS `countries`;
+
 -- phpMyAdmin SQL Dump
 -- version 4.9.7
 -- https://www.phpmyadmin.net/
@@ -27,7 +31,6 @@ SET time_zone = "+00:00";
 -- Table structure for table `cities`
 --
 
-DROP TABLE IF EXISTS `cities`;
 CREATE TABLE `cities` (
   `id` mediumint(8) UNSIGNED NOT NULL,
   `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
@@ -148357,7 +148360,6 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 -- Table structure for table `countries`
 --
 
-DROP TABLE IF EXISTS `countries`;
 CREATE TABLE `countries` (
   `id` mediumint(8) UNSIGNED NOT NULL,
   `name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
@@ -148649,7 +148651,6 @@ INSERT INTO `countries` (`id`, `name`, `iso3`, `numeric_code`, `iso2`, `phonecod
 -- Table structure for table `states`
 --
 
-DROP TABLE IF EXISTS `states`;
 CREATE TABLE `states` (
   `id` mediumint(8) UNSIGNED NOT NULL,
   `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,

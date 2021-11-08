@@ -729443,12 +729443,6 @@
                 "longitude": "40.48252000"
             },
             {
-                "id": 107061,
-                "name": "Adalan",
-                "latitude": "40.87590000",
-                "longitude": "29.08940000"
-            },
-            {
                 "id": 107062,
                 "name": "Adalar",
                 "latitude": "40.86913000",
@@ -729519,12 +729513,6 @@
                 "name": "Ağrı",
                 "latitude": "39.71944000",
                 "longitude": "43.05139000"
-            },
-            {
-                "id": 107245,
-                "name": "Ağva",
-                "latitude": "41.13806000",
-                "longitude": "29.85667000"
             },
             {
                 "id": 107075,
@@ -730017,12 +730005,6 @@
                 "name": "Arıcak",
                 "latitude": "38.56340000",
                 "longitude": "40.12480000"
-            },
-            {
-                "id": 107199,
-                "name": "Arıköy",
-                "latitude": "41.23044000",
-                "longitude": "29.00425000"
             },
             {
                 "id": 107187,
@@ -730853,12 +730835,6 @@
                 "longitude": "29.56083000"
             },
             {
-                "id": 107375,
-                "name": "Boyalık",
-                "latitude": "41.26337000",
-                "longitude": "28.63142000"
-            },
-            {
                 "id": 107376,
                 "name": "Boynuyoğun",
                 "latitude": "36.16935000",
@@ -730901,16 +730877,16 @@
                 "longitude": "32.24736000"
             },
             {
-                "id": 107384,
-                "name": "Bozkurt",
-                "latitude": "37.77583000",
-                "longitude": "29.60811000"
-            },
-            {
                 "id": 107383,
                 "name": "Bozkurt",
                 "latitude": "41.95769000",
                 "longitude": "34.01087000"
+            },
+            {
+                "id": 107384,
+                "name": "Bozkurt",
+                "latitude": "37.77583000",
+                "longitude": "29.60811000"
             },
             {
                 "id": 107388,
@@ -731013,12 +730989,6 @@
                 "name": "Büyükçat",
                 "latitude": "36.11500000",
                 "longitude": "36.07740000"
-            },
-            {
-                "id": 107421,
-                "name": "Büyükçavuşlu",
-                "latitude": "41.24002000",
-                "longitude": "28.06331000"
             },
             {
                 "id": 107422,
@@ -731151,12 +731121,6 @@
                 "name": "Çankaya",
                 "latitude": "39.91790000",
                 "longitude": "32.86268000"
-            },
-            {
-                "id": 108780,
-                "name": "Çanta",
-                "latitude": "41.07897000",
-                "longitude": "28.08323000"
             },
             {
                 "id": 108781,
@@ -731301,12 +731265,6 @@
                 "name": "Çekmeköy",
                 "latitude": "41.03819000",
                 "longitude": "29.20029000"
-            },
-            {
-                "id": 107425,
-                "name": "Celâliye",
-                "latitude": "41.05188000",
-                "longitude": "28.41867000"
             },
             {
                 "id": 108813,
@@ -731991,12 +731949,6 @@
                 "name": "Duruca",
                 "latitude": "37.09309000",
                 "longitude": "41.30986000"
-            },
-            {
-                "id": 107536,
-                "name": "Durusu",
-                "latitude": "41.30337000",
-                "longitude": "28.67635000"
             },
             {
                 "id": 107542,
@@ -732869,12 +732821,6 @@
                 "longitude": "28.87882000"
             },
             {
-                "id": 108756,
-                "name": "güngören merter",
-                "latitude": "41.00711000",
-                "longitude": "28.88795000"
-            },
-            {
                 "id": 107747,
                 "name": "Günyazı",
                 "latitude": "36.23307000",
@@ -732903,12 +732849,6 @@
                 "name": "Gürpınar",
                 "latitude": "38.32372000",
                 "longitude": "43.40991000"
-            },
-            {
-                "id": 107754,
-                "name": "Gürpınar",
-                "latitude": "40.99256000",
-                "longitude": "28.61428000"
             },
             {
                 "id": 107756,
@@ -733241,12 +733181,6 @@
                 "longitude": "31.59917000"
             },
             {
-                "id": 108927,
-                "name": "İçmeler",
-                "latitude": "40.84639000",
-                "longitude": "29.30889000"
-            },
-            {
                 "id": 108879,
                 "name": "İdil",
                 "latitude": "37.33481000",
@@ -733451,12 +733385,6 @@
                 "longitude": "40.99373000"
             },
             {
-                "id": 107851,
-                "name": "Istanbul",
-                "latitude": "41.01384000",
-                "longitude": "28.94966000"
-            },
-            {
                 "id": 108920,
                 "name": "İvrindi",
                 "latitude": "39.58389000",
@@ -733647,12 +733575,6 @@
                 "name": "Karacabey",
                 "latitude": "40.21323000",
                 "longitude": "28.36120000"
-            },
-            {
-                "id": 107892,
-                "name": "Karacaköy",
-                "latitude": "41.40338000",
-                "longitude": "28.38055000"
             },
             {
                 "id": 107893,
@@ -733875,12 +733797,6 @@
                 "name": "Kavak",
                 "latitude": "41.07833000",
                 "longitude": "36.04250000"
-            },
-            {
-                "id": 107942,
-                "name": "Kavaklı",
-                "latitude": "41.09258000",
-                "longitude": "28.33172000"
             },
             {
                 "id": 107943,
@@ -734145,12 +734061,6 @@
                 "name": "Kılıç",
                 "latitude": "40.63306000",
                 "longitude": "29.39472000"
-            },
-            {
-                "id": 108100,
-                "name": "Kınalı",
-                "latitude": "40.90713000",
-                "longitude": "29.05499000"
             },
             {
                 "id": 108101,
@@ -734511,12 +734421,6 @@
                 "name": "Kumbağ",
                 "latitude": "40.88236000",
                 "longitude": "27.45919000"
-            },
-            {
-                "id": 108047,
-                "name": "Kumburgaz",
-                "latitude": "41.02108000",
-                "longitude": "28.48033000"
             },
             {
                 "id": 108054,
@@ -734993,12 +734897,6 @@
                 "longitude": "34.63886000"
             },
             {
-                "id": 108199,
-                "name": "Merter Keresteciler",
-                "latitude": "41.01295000",
-                "longitude": "28.88593000"
-            },
-            {
                 "id": 108200,
                 "name": "Merzifon İlçesi",
                 "latitude": "40.88348000",
@@ -735053,12 +734951,6 @@
                 "longitude": "27.78389000"
             },
             {
-                "id": 108213,
-                "name": "Mimarsinan",
-                "latitude": "41.01790000",
-                "longitude": "28.56176000"
-            },
-            {
                 "id": 108214,
                 "name": "Minare",
                 "latitude": "36.93083000",
@@ -735093,12 +734985,6 @@
                 "name": "Muradiye",
                 "latitude": "38.97889000",
                 "longitude": "43.75374000"
-            },
-            {
-                "id": 108221,
-                "name": "Muratbey",
-                "latitude": "41.09630000",
-                "longitude": "28.49227000"
             },
             {
                 "id": 108222,
@@ -735411,12 +735297,6 @@
                 "name": "Ortaköy",
                 "latitude": "40.27352000",
                 "longitude": "35.25175000"
-            },
-            {
-                "id": 108287,
-                "name": "Ortaköy",
-                "latitude": "41.10154000",
-                "longitude": "28.37588000"
             },
             {
                 "id": 108290,
@@ -736115,12 +735995,6 @@
                 "longitude": "42.78287000"
             },
             {
-                "id": 108432,
-                "name": "Selimpaşa",
-                "latitude": "41.05448000",
-                "longitude": "28.36678000"
-            },
-            {
                 "id": 108948,
                 "name": "Şemdinli",
                 "latitude": "37.30514000",
@@ -736751,12 +736625,6 @@
                 "longitude": "27.87496000"
             },
             {
-                "id": 108568,
-                "name": "Tepecik",
-                "latitude": "41.02931000",
-                "longitude": "28.54978000"
-            },
-            {
                 "id": 108569,
                 "name": "Tepehan",
                 "latitude": "36.15853000",
@@ -737211,12 +737079,6 @@
                 "name": "Yakakent",
                 "latitude": "41.63250000",
                 "longitude": "35.52889000"
-            },
-            {
-                "id": 108662,
-                "name": "Yakuplu",
-                "latitude": "40.98894000",
-                "longitude": "28.67582000"
             },
             {
                 "id": 108663,

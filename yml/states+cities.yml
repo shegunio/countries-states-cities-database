@@ -116571,7 +116571,7 @@ state_city:
         longitude: '-80.24261000'
   -
     id: 749
-    name: 'Famagusta District'
+    name: 'Famagusta District (Mağusa)'
     state_code: '04'
     latitude: '35.28570230'
     longitude: '33.84112880'
@@ -116654,7 +116654,7 @@ state_city:
         longitude: '33.89167000'
   -
     id: 744
-    name: 'Kyrenia District'
+    name: 'Kyrenia District (Keryneia)'
     state_code: '06'
     latitude: '35.29919400'
     longitude: '33.23632460'
@@ -116677,17 +116677,12 @@ state_city:
         longitude: '33.17368000'
   -
     id: 747
-    name: 'Larnaca District'
+    name: 'Larnaca District (Larnaka)'
     state_code: '03'
     latitude: '34.85072060'
     longitude: '33.48319060'
     country_id: 57
     cities:
-      -
-        id: 22104
-        name: 'Ágios Týchon'
-        latitude: '34.72606000'
-        longitude: '33.13872000'
       -
         id: 22015
         name: Aradíppou
@@ -116790,7 +116785,7 @@ state_city:
         longitude: '33.74245000'
   -
     id: 748
-    name: 'Limassol District'
+    name: 'Limassol District (Leymasun)'
     state_code: '02'
     latitude: '34.70713010'
     longitude: '33.02261740'
@@ -116801,6 +116796,11 @@ state_city:
         name: 'Ágios Tomás'
         latitude: '34.71158000'
         longitude: '32.73129000'
+      -
+        id: 22104
+        name: 'Ágios Týchon'
+        latitude: '34.72606000'
+        longitude: '33.13872000'
       -
         id: 22028
         name: Erími
@@ -116878,7 +116878,7 @@ state_city:
         longitude: '32.96191000'
   -
     id: 745
-    name: 'Nicosia District'
+    name: 'Nicosia District (Lefkoşa)'
     state_code: '01'
     latitude: '35.18556590'
     longitude: '33.38227640'
@@ -117011,7 +117011,7 @@ state_city:
         longitude: '33.32344000'
   -
     id: 746
-    name: 'Paphos District'
+    name: 'Paphos District (Pafos)'
     state_code: '05'
     latitude: '34.91645940'
     longitude: '32.49200880'
@@ -613369,7 +613369,7 @@ state_city:
         longitude: '9.55134000'
   -
     id: 1641
-    name: Basel-Landschaft
+    name: Basel-Land
     state_code: BL
     latitude: '47.44181220'
     longitude: '7.76440020'
@@ -613606,8 +613606,16 @@ state_city:
         latitude: '47.43825000'
         longitude: '7.53027000'
   -
+    id: 4957
+    name: Basel-Stadt
+    state_code: BS
+    latitude: '47.56666700'
+    longitude: '7.60000000'
+    country_id: 214
+    cities: {  }
+  -
     id: 1645
-    name: 'canton of Bern'
+    name: Bern
     state_code: BE
     latitude: '46.79886210'
     longitude: '7.70807010'
@@ -614728,7 +614736,7 @@ state_city:
         longitude: '7.01732000'
   -
     id: 1647
-    name: 'Canton of Geneva'
+    name: Geneva
     state_code: GE
     latitude: '46.21800730'
     longitude: '6.12169250'
@@ -614875,8 +614883,379 @@ state_city:
         latitude: '46.16699000'
         longitude: '6.18436000'
   -
+    id: 1661
+    name: Glarus
+    state_code: GL
+    latitude: '47.04112320'
+    longitude: '9.06790000'
+    country_id: 214
+    cities:
+      -
+        id: 17529
+        name: Bilten
+        latitude: '47.14995000'
+        longitude: '9.02551000'
+      -
+        id: 17751
+        name: Ennenda
+        latitude: '47.03363000'
+        longitude: '9.07888000'
+      -
+        id: 17839
+        name: Glarus
+        latitude: '47.04057000'
+        longitude: '9.06804000'
+      -
+        id: 18086
+        name: Linthal
+        latitude: '46.92127000'
+        longitude: '8.99799000'
+      -
+        id: 18097
+        name: Luchsingen
+        latitude: '46.96640000'
+        longitude: '9.03715000'
+      -
+        id: 18162
+        name: Mollis
+        latitude: '47.08878000'
+        longitude: '9.07242000'
+      -
+        id: 18235
+        name: Näfels
+        latitude: '47.09775000'
+        longitude: '9.06361000'
+      -
+        id: 18211
+        name: Netstal
+        latitude: '47.06337000'
+        longitude: '9.05734000'
+      -
+        id: 18229
+        name: Niederurnen
+        latitude: '47.12598000'
+        longitude: '9.05428000'
+      -
+        id: 18268
+        name: Oberurnen
+        latitude: '47.11412000'
+        longitude: '9.05866000'
+      -
+        id: 18475
+        name: Schwanden
+        latitude: '46.99541000'
+        longitude: '9.07010000'
+  -
+    id: 1660
+    name: Graubünden
+    state_code: GR
+    latitude: '46.65698710'
+    longitude: '9.57802570'
+    country_id: 214
+    cities:
+      -
+        id: 17409
+        name: Arosa
+        latitude: '46.77793000'
+        longitude: '9.67621000'
+      -
+        id: 17411
+        name: Arvigo
+        latitude: '46.30211000'
+        longitude: '9.11300000'
+      -
+        id: 17547
+        name: Bonaduz
+        latitude: '46.81103000'
+        longitude: '9.39821000'
+      -
+        id: 17559
+        name: Breíl
+        latitude: '46.76986000'
+        longitude: '9.06036000'
+      -
+        id: 17571
+        name: Brusio
+        latitude: '46.25953000'
+        longitude: '10.12385000'
+      -
+        id: 17585
+        name: Buseno
+        latitude: '46.27381000'
+        longitude: '9.10735000'
+      -
+        id: 17615
+        name: Cauco
+        latitude: '46.33541000'
+        longitude: '9.12129000'
+      -
+        id: 17617
+        name: Cazis
+        latitude: '46.71940000'
+        longitude: '9.43271000'
+      -
+        id: 17618
+        name: Celerina
+        latitude: '46.51217000'
+        longitude: '9.85794000'
+      -
+        id: 17638
+        name: Chur
+        latitude: '46.84986000'
+        longitude: '9.53287000'
+      -
+        id: 17639
+        name: Churwalden
+        latitude: '46.78143000'
+        longitude: '9.54377000'
+      -
+        id: 17677
+        name: Davos
+        latitude: '46.80429000'
+        longitude: '9.83723000'
+      -
+        id: 17699
+        name: Disentis
+        latitude: '46.70341000'
+        longitude: '8.85090000'
+      -
+        id: 17700
+        name: Domat
+        latitude: '46.83483000'
+        longitude: '9.45075000'
+      -
+        id: 17783
+        name: Felsberg
+        latitude: '46.84566000'
+        longitude: '9.47588000'
+      -
+        id: 17793
+        name: Flims
+        latitude: '46.83705000'
+        longitude: '9.28458000'
+      -
+        id: 17882
+        name: Grüsch
+        latitude: '46.97965000'
+        longitude: '9.64639000'
+      -
+        id: 17917
+        name: Hinterrhein
+        latitude: '46.53333000'
+        longitude: '9.20000000'
+      -
+        id: 17947
+        name: Igis
+        latitude: '46.94531000'
+        longitude: '9.57218000'
+      -
+        id: 17948
+        name: Ilanz
+        latitude: '46.77413000'
+        longitude: '9.20461000'
+      -
+        id: 17958
+        name: Jenaz
+        latitude: '46.92892000'
+        longitude: '9.71275000'
+      -
+        id: 17986
+        name: 'Klosters Serneus'
+        latitude: '46.88918000'
+        longitude: '9.83826000'
+      -
+        id: 18024
+        name: 'La Punt Chamues-ch'
+        latitude: '46.57887000'
+        longitude: '9.92015000'
+      -
+        id: 18029
+        name: Laax
+        latitude: '46.80452000'
+        longitude: '9.25787000'
+      -
+        id: 18033
+        name: Landquart
+        latitude: '46.95000000'
+        longitude: '9.56667000'
+      -
+        id: 18067
+        name: Lenzerheide
+        latitude: '46.72215000'
+        longitude: '9.55905000'
+      -
+        id: 18105
+        name: Luzein
+        latitude: '46.91957000'
+        longitude: '9.76080000'
+      -
+        id: 18116
+        name: Maienfeld
+        latitude: '47.00472000'
+        longitude: '9.53115000'
+      -
+        id: 18117
+        name: Malans
+        latitude: '46.98096000'
+        longitude: '9.57527000'
+      -
+        id: 18155
+        name: Mesocco
+        latitude: '46.39390000'
+        longitude: '9.23333000'
+      -
+        id: 18318
+        name: Pontresina
+        latitude: '46.49550000'
+        longitude: '9.90126000'
+      -
+        id: 18321
+        name: Poschiavo
+        latitude: '46.32441000'
+        longitude: '10.05823000'
+      -
+        id: 18348
+        name: 'Region Albula'
+        latitude: '46.60255000'
+        longitude: '9.65150000'
+      -
+        id: 18349
+        name: 'Region Bernina'
+        latitude: '46.33488000'
+        longitude: '10.07349000'
+      -
+        id: 18350
+        name: 'Region Engiadina Bassa / Val Müstair'
+        latitude: '46.75212000'
+        longitude: '10.26032000'
+      -
+        id: 18351
+        name: 'Region Imboden'
+        latitude: '46.84876000'
+        longitude: '9.36225000'
+      -
+        id: 18352
+        name: 'Region Landquart'
+        latitude: '46.96403000'
+        longitude: '9.56365000'
+      -
+        id: 18353
+        name: 'Region Maloja'
+        latitude: '46.47448000'
+        longitude: '9.83138000'
+      -
+        id: 18354
+        name: 'Region Moesa'
+        latitude: '46.35200000'
+        longitude: '9.17870000'
+      -
+        id: 18355
+        name: 'Region Plessur'
+        latitude: '46.81819000'
+        longitude: '9.62542000'
+      -
+        id: 18356
+        name: 'Region Prättigau / Davos'
+        latitude: '46.86727000'
+        longitude: '9.82014000'
+      -
+        id: 18357
+        name: 'Region Surselva'
+        latitude: '46.69564000'
+        longitude: '9.04834000'
+      -
+        id: 18358
+        name: 'Region Viamala'
+        latitude: '46.58762000'
+        longitude: '9.40035000'
+      -
+        id: 18367
+        name: Rhäzüns
+        latitude: '46.79891000'
+        longitude: '9.39764000'
+      -
+        id: 18435
+        name: Samedan
+        latitude: '46.53399000'
+        longitude: '9.87276000'
+      -
+        id: 18457
+        name: Scharans
+        latitude: '46.71814000'
+        longitude: '9.45903000'
+      -
+        id: 18460
+        name: Schiers
+        latitude: '46.96973000'
+        longitude: '9.68720000'
+      -
+        id: 18490
+        name: Scuol
+        latitude: '46.79671000'
+        longitude: '10.29804000'
+      -
+        id: 18522
+        name: Silvaplana
+        latitude: '46.45810000'
+        longitude: '9.79514000'
+      -
+        id: 18535
+        name: 'St. Moritz'
+        latitude: '46.49937000'
+        longitude: '9.84327000'
+      -
+        id: 18572
+        name: Tamins
+        latitude: '46.82964000'
+        longitude: '9.40648000'
+      -
+        id: 18594
+        name: Thusis
+        latitude: '46.69724000'
+        longitude: '9.43938000'
+      -
+        id: 18596
+        name: Tiefencastel
+        latitude: '46.66014000'
+        longitude: '9.57883000'
+      -
+        id: 18604
+        name: Trimmis
+        latitude: '46.90075000'
+        longitude: '9.56120000'
+      -
+        id: 18610
+        name: Trun
+        latitude: '46.74292000'
+        longitude: '8.98716000'
+      -
+        id: 18637
+        name: Untervaz
+        latitude: '46.92750000'
+        longitude: '9.53422000'
+      -
+        id: 18660
+        name: 'Vals Platz'
+        latitude: '46.61647000'
+        longitude: '9.18025000'
+      -
+        id: 18794
+        name: Zernez
+        latitude: '46.69862000'
+        longitude: '10.09268000'
+      -
+        id: 18795
+        name: Zizers
+        latitude: '46.93575000'
+        longitude: '9.56491000'
+      -
+        id: 18804
+        name: Zuoz
+        latitude: '46.60206000'
+        longitude: '9.95965000'
+  -
     id: 1658
-    name: 'Canton of Jura'
+    name: Jura
     state_code: JU
     latitude: '47.34444740'
     longitude: '7.14306080'
@@ -614984,7 +615363,7 @@ state_city:
         longitude: '7.41342000'
   -
     id: 1663
-    name: 'Canton of Lucerne'
+    name: Lucerne
     state_code: LU
     latitude: '47.07956710'
     longitude: '8.16624450'
@@ -615327,7 +615706,7 @@ state_city:
         longitude: '7.92495000'
   -
     id: 1659
-    name: 'Canton of Neuchâtel'
+    name: Neuchâtel
     state_code: NE
     latitude: '46.98998740'
     longitude: '6.92927320'
@@ -615489,8 +615868,104 @@ state_city:
         latitude: '46.90357000'
         longitude: '6.56310000'
   -
+    id: 1652
+    name: Nidwalden
+    state_code: NW
+    latitude: '46.92670160'
+    longitude: '8.38499820'
+    country_id: 214
+    cities:
+      -
+        id: 17448
+        name: Beckenried
+        latitude: '46.96653000'
+        longitude: '8.47575000'
+      -
+        id: 17582
+        name: Buochs
+        latitude: '46.97398000'
+        longitude: '8.42279000'
+      -
+        id: 17675
+        name: Dallenwil
+        latitude: '46.92420000'
+        longitude: '8.38785000'
+      -
+        id: 17748
+        name: Emmetten
+        latitude: '46.95658000'
+        longitude: '8.51467000'
+      -
+        id: 17752
+        name: Ennetbürgen
+        latitude: '46.98423000'
+        longitude: '8.41003000'
+      -
+        id: 17906
+        name: Hergiswil
+        latitude: '46.98429000'
+        longitude: '8.30944000'
+      -
+        id: 18546
+        name: Stans
+        latitude: '46.95805000'
+        longitude: '8.36609000'
+      -
+        id: 18547
+        name: Stansstad
+        latitude: '46.97680000'
+        longitude: '8.33553000'
+      -
+        id: 18763
+        name: Wolfenschiessen
+        latitude: '46.90322000'
+        longitude: '8.39423000'
+  -
+    id: 1650
+    name: Obwalden
+    state_code: OW
+    latitude: '46.87785800'
+    longitude: '8.25124900'
+    country_id: 214
+    cities:
+      -
+        id: 17387
+        name: Alpnach
+        latitude: '46.94227000'
+        longitude: '8.27180000'
+      -
+        id: 17750
+        name: Engelberg
+        latitude: '46.82107000'
+        longitude: '8.40133000'
+      -
+        id: 17835
+        name: Giswil
+        latitude: '46.83333000'
+        longitude: '8.18065000'
+      -
+        id: 17973
+        name: Kerns
+        latitude: '46.90121000'
+        longitude: '8.27514000'
+      -
+        id: 18101
+        name: Lungern
+        latitude: '46.78578000'
+        longitude: '8.15984000'
+      -
+        id: 18418
+        name: Sachseln
+        latitude: '46.86718000'
+        longitude: '8.23344000'
+      -
+        id: 18447
+        name: Sarnen
+        latitude: '46.89611000'
+        longitude: '8.24531000'
+  -
     id: 1654
-    name: 'Canton of Schaffhausen'
+    name: Schaffhausen
     state_code: SH
     latitude: '47.70093640'
     longitude: '8.56800400'
@@ -615587,8 +616062,176 @@ state_city:
         latitude: '47.66745000'
         longitude: '8.46774000'
   -
+    id: 1653
+    name: Schwyz
+    state_code: SZ
+    latitude: '47.02071380'
+    longitude: '8.65298840'
+    country_id: 214
+    cities:
+      -
+        id: 17389
+        name: Altendorf
+        latitude: '47.18994000'
+        longitude: '8.83823000'
+      -
+        id: 17410
+        name: Arth
+        latitude: '47.06337000'
+        longitude: '8.52349000'
+      -
+        id: 17590
+        name: Bäch
+        latitude: '47.20388000'
+        longitude: '8.73224000'
+      -
+        id: 17483
+        name: 'Bezirk Einsiedeln'
+        latitude: '47.10792000'
+        longitude: '8.76010000'
+      -
+        id: 17484
+        name: 'Bezirk Gersau'
+        latitude: '47.00800000'
+        longitude: '8.51678000'
+      -
+        id: 17490
+        name: 'Bezirk Höfe'
+        latitude: '47.19043000'
+        longitude: '8.73960000'
+      -
+        id: 17492
+        name: 'Bezirk Küssnacht'
+        latitude: '47.08611000'
+        longitude: '8.44444000'
+      -
+        id: 17498
+        name: 'Bezirk March'
+        latitude: '47.16128000'
+        longitude: '8.91103000'
+      -
+        id: 17509
+        name: 'Bezirk Schwyz'
+        latitude: '47.02814000'
+        longitude: '8.63619000'
+      -
+        id: 17738
+        name: Einsiedeln
+        latitude: '47.12849000'
+        longitude: '8.74735000'
+      -
+        id: 17787
+        name: Feusisberg
+        latitude: '47.18707000'
+        longitude: '8.74724000'
+      -
+        id: 17806
+        name: Freienbach
+        latitude: '47.20534000'
+        longitude: '8.75842000'
+      -
+        id: 17830
+        name: Gersau
+        latitude: '46.99419000'
+        longitude: '8.52500000'
+      -
+        id: 17848
+        name: Goldau
+        latitude: '47.04761000'
+        longitude: '8.54616000'
+      -
+        id: 17946
+        name: Ibach
+        latitude: '47.01105000'
+        longitude: '8.64538000'
+      -
+        id: 17951
+        name: Ingenbohl
+        latitude: '46.99880000'
+        longitude: '8.61529000'
+      -
+        id: 18019
+        name: Küssnacht
+        latitude: '47.08557000'
+        longitude: '8.44206000'
+      -
+        id: 18030
+        name: Lachen
+        latitude: '47.19224000'
+        longitude: '8.85324000'
+      -
+        id: 18179
+        name: Muotathal
+        latitude: '46.97676000'
+        longitude: '8.76499000'
+      -
+        id: 18310
+        name: Pfäffikon
+        latitude: '47.20109000'
+        longitude: '8.77816000'
+      -
+        id: 18360
+        name: Reichenburg
+        latitude: '47.17097000'
+        longitude: '8.97704000'
+      -
+        id: 18393
+        name: Rothenthurm
+        latitude: '47.10420000'
+        longitude: '8.67585000'
+      -
+        id: 18449
+        name: Sattel
+        latitude: '47.08246000'
+        longitude: '8.63565000'
+      -
+        id: 18461
+        name: Schindellegi
+        latitude: '47.17460000'
+        longitude: '8.71345000'
+      -
+        id: 18487
+        name: Schübelbach
+        latitude: '47.17326000'
+        longitude: '8.92811000'
+      -
+        id: 18481
+        name: Schwyz
+        latitude: '47.02076000'
+        longitude: '8.65414000'
+      -
+        id: 18516
+        name: Siebnen
+        latitude: '47.17449000'
+        longitude: '8.89781000'
+      -
+        id: 18553
+        name: Steinen
+        latitude: '47.04975000'
+        longitude: '8.61214000'
+      -
+        id: 18612
+        name: Tuggen
+        latitude: '47.20291000'
+        longitude: '8.94896000'
+      -
+        id: 18632
+        name: Unteriberg
+        latitude: '47.06258000'
+        longitude: '8.80520000'
+      -
+        id: 18693
+        name: Vorderthal
+        latitude: '47.12172000'
+        longitude: '8.90225000'
+      -
+        id: 18767
+        name: Wollerau
+        latitude: '47.19478000'
+        longitude: '8.71903000'
+  -
     id: 1662
-    name: 'Canton of Solothurn'
+    name: Solothurn
     state_code: SO
     latitude: '47.33207170'
     longitude: '7.63883850'
@@ -615861,7 +616504,7 @@ state_city:
         longitude: '7.56649000'
   -
     id: 1644
-    name: 'Canton of St. Gallen'
+    name: 'St. Gallen'
     state_code: SG
     latitude: '47.14562540'
     longitude: '9.35043320'
@@ -616258,8 +616901,642 @@ state_city:
         latitude: '47.47452000'
         longitude: '9.11196000'
   -
+    id: 1657
+    name: Thurgau
+    state_code: TG
+    latitude: '47.60378560'
+    longitude: '9.05573710'
+    country_id: 214
+    cities:
+      -
+        id: 17356
+        name: Aadorf
+        latitude: '47.49204000'
+        longitude: '8.90099000'
+      -
+        id: 17374
+        name: Affeltrangen
+        latitude: '47.52581000'
+        longitude: '9.03307000'
+      -
+        id: 17392
+        name: Altnau
+        latitude: '47.61052000'
+        longitude: '9.26160000'
+      -
+        id: 17395
+        name: Amriswil
+        latitude: '47.54699000'
+        longitude: '9.29586000'
+      -
+        id: 17402
+        name: Arbon
+        latitude: '47.51667000'
+        longitude: '9.43333000'
+      -
+        id: 17403
+        name: 'Arbon District'
+        latitude: '47.54867000'
+        longitude: '9.35159000'
+      -
+        id: 17459
+        name: Berg
+        latitude: '47.57879000'
+        longitude: '9.16635000'
+      -
+        id: 17552
+        name: Bottighofen
+        latitude: '47.63643000'
+        longitude: '9.20882000'
+      -
+        id: 17603
+        name: Bürglen
+        latitude: '47.54921000'
+        longitude: '9.14950000'
+      -
+        id: 17688
+        name: Diessenhofen
+        latitude: '47.68908000'
+        longitude: '8.74958000'
+      -
+        id: 17733
+        name: Egnach
+        latitude: '47.54268000'
+        longitude: '9.38048000'
+      -
+        id: 17760
+        name: Erlen
+        latitude: '47.54814000'
+        longitude: '9.23415000'
+      -
+        id: 17766
+        name: Ermatingen
+        latitude: '47.67057000'
+        longitude: '9.08573000'
+      -
+        id: 17770
+        name: Eschenz
+        latitude: '47.64793000'
+        longitude: '8.87472000'
+      -
+        id: 17771
+        name: Eschlikon
+        latitude: '47.46361000'
+        longitude: '8.96381000'
+      -
+        id: 17789
+        name: Fischingen
+        latitude: '47.41422000'
+        longitude: '8.96862000'
+      -
+        id: 17803
+        name: Frauenfeld
+        latitude: '47.55776000'
+        longitude: '8.89893000'
+      -
+        id: 17804
+        name: 'Frauenfeld District'
+        latitude: '47.61115000'
+        longitude: '8.89444000'
+      -
+        id: 17818
+        name: Gachnang
+        latitude: '47.53935000'
+        longitude: '8.85311000'
+      -
+        id: 17858
+        name: Gottlieben
+        latitude: '47.66380000'
+        longitude: '9.13371000'
+      -
+        id: 17889
+        name: Güttingen
+        latitude: '47.60349000'
+        longitude: '9.28742000'
+      -
+        id: 17928
+        name: Homburg
+        latitude: '47.63469000'
+        longitude: '9.00756000'
+      -
+        id: 17945
+        name: Hüttwilen
+        latitude: '47.60674000'
+        longitude: '8.87343000'
+      -
+        id: 18005
+        name: Kreuzlingen
+        latitude: '47.65051000'
+        longitude: '9.17504000'
+      -
+        id: 18006
+        name: 'Kreuzlingen District'
+        latitude: '47.63046000'
+        longitude: '9.16458000'
+      -
+        id: 18041
+        name: Langrickenbach
+        latitude: '47.59353000'
+        longitude: '9.24727000'
+      -
+        id: 18189
+        name: Märstetten-Dorf
+        latitude: '47.59252000'
+        longitude: '9.06851000'
+      -
+        id: 18135
+        name: Matzingen
+        latitude: '47.51957000'
+        longitude: '8.93365000'
+      -
+        id: 18198
+        name: Müllheim
+        latitude: '47.60195000'
+        longitude: '9.00357000'
+      -
+        id: 18202
+        name: Münchwilen
+        latitude: '47.47719000'
+        longitude: '8.99677000'
+      -
+        id: 18203
+        name: 'Münchwilen District'
+        latitude: '47.47324000'
+        longitude: '8.98812000'
+      -
+        id: 18205
+        name: Münsterlingen
+        latitude: '47.63197000'
+        longitude: '9.23271000'
+      -
+        id: 18309
+        name: Pfyn
+        latitude: '47.59693000'
+        longitude: '8.95420000'
+      -
+        id: 18373
+        name: 'Rickenbach bei Wil'
+        latitude: '47.44856000'
+        longitude: '9.04902000'
+      -
+        id: 18383
+        name: Roggwil
+        latitude: '47.49981000'
+        longitude: '9.39580000'
+      -
+        id: 18388
+        name: Romanshorn
+        latitude: '47.56586000'
+        longitude: '9.37869000'
+      -
+        id: 18433
+        name: Salmsach
+        latitude: '47.55433000'
+        longitude: '9.37229000'
+      -
+        id: 18525
+        name: Sirnach
+        latitude: '47.46222000'
+        longitude: '8.99763000'
+      -
+        id: 18549
+        name: Steckborn
+        latitude: '47.66667000'
+        longitude: '8.98333000'
+      -
+        id: 18557
+        name: Stettfurt
+        latitude: '47.52588000'
+        longitude: '8.95317000'
+      -
+        id: 18563
+        name: Sulgen
+        latitude: '47.53967000'
+        longitude: '9.18585000'
+      -
+        id: 18616
+        name: Tägerwilen
+        latitude: '47.65698000'
+        longitude: '9.13999000'
+      -
+        id: 18593
+        name: Thundorf
+        latitude: '47.54594000'
+        longitude: '8.96358000'
+      -
+        id: 18652
+        name: Uttwil
+        latitude: '47.58440000'
+        longitude: '9.34101000'
+      -
+        id: 18698
+        name: Wagenhausen
+        latitude: '47.66003000'
+        longitude: '8.84782000'
+      -
+        id: 18781
+        name: Wängi
+        latitude: '47.49654000'
+        longitude: '8.95325000'
+      -
+        id: 18730
+        name: Weinfelden
+        latitude: '47.56667000'
+        longitude: '9.10000000'
+      -
+        id: 18731
+        name: 'Weinfelden District'
+        latitude: '47.54237000'
+        longitude: '9.15713000'
+      -
+        id: 18747
+        name: Wigoltingen
+        latitude: '47.59770000'
+        longitude: '9.03141000'
+  -
+    id: 1643
+    name: Ticino
+    state_code: TI
+    latitude: '46.33173400'
+    longitude: '8.80045290'
+    country_id: 214
+    cities:
+      -
+        id: 17361
+        name: Acquarossa
+        latitude: '46.45473000'
+        longitude: '8.94261000'
+      -
+        id: 17380
+        name: Agno
+        latitude: '45.99863000'
+        longitude: '8.90030000'
+      -
+        id: 17384
+        name: Airolo
+        latitude: '46.52855000'
+        longitude: '8.61189000'
+      -
+        id: 17413
+        name: Arzo
+        latitude: '45.87606000'
+        longitude: '8.94103000'
+      -
+        id: 17414
+        name: Ascona
+        latitude: '46.15451000'
+        longitude: '8.77327000'
+      -
+        id: 17434
+        name: Balerna
+        latitude: '45.84638000'
+        longitude: '9.00724000'
+      -
+        id: 17452
+        name: Bellinzona
+        latitude: '46.19278000'
+        longitude: '9.01703000'
+      -
+        id: 17453
+        name: 'Bellinzona District'
+        latitude: '46.18858000'
+        longitude: '9.00254000'
+      -
+        id: 17524
+        name: Biasca
+        latitude: '46.35972000'
+        longitude: '8.96965000'
+      -
+        id: 17533
+        name: Bioggio
+        latitude: '46.01357000'
+        longitude: '8.91103000'
+      -
+        id: 17540
+        name: 'Blenio District'
+        latitude: '46.47613000'
+        longitude: '8.94609000'
+      -
+        id: 17544
+        name: Bodio
+        latitude: '46.37808000'
+        longitude: '8.90991000'
+      -
+        id: 17564
+        name: Brissago
+        latitude: '46.12013000'
+        longitude: '8.71181000'
+      -
+        id: 17607
+        name: Cadempino
+        latitude: '46.03672000'
+        longitude: '8.93403000'
+      -
+        id: 17608
+        name: Cadenazzo
+        latitude: '46.15172000'
+        longitude: '8.94719000'
+      -
+        id: 17609
+        name: Cadro
+        latitude: '46.04595000'
+        longitude: '8.98725000'
+      -
+        id: 17610
+        name: Camorino
+        latitude: '46.16483000'
+        longitude: '9.00547000'
+      -
+        id: 17611
+        name: Canobbio
+        latitude: '46.03592000'
+        longitude: '8.96605000'
+      -
+        id: 17613
+        name: Caslano
+        latitude: '45.97364000'
+        longitude: '8.87739000'
+      -
+        id: 17614
+        name: 'Castel San Pietro'
+        latitude: '45.86211000'
+        longitude: '9.00843000'
+      -
+        id: 17620
+        name: Cevio
+        latitude: '46.31479000'
+        longitude: '8.60332000'
+      -
+        id: 17636
+        name: Chiasso
+        latitude: '45.83203000'
+        longitude: '9.03119000'
+      -
+        id: 17645
+        name: Claro
+        latitude: '46.25763000'
+        longitude: '9.02252000'
+      -
+        id: 17648
+        name: Comano
+        latitude: '46.03635000'
+        longitude: '8.95526000'
+      -
+        id: 17670
+        name: Cugnasco
+        latitude: '46.17473000'
+        longitude: '8.91684000'
+      -
+        id: 17780
+        name: Faido
+        latitude: '46.47700000'
+        longitude: '8.80125000'
+      -
+        id: 17836
+        name: Giubiasco
+        latitude: '46.17246000'
+        longitude: '9.00793000'
+      -
+        id: 17854
+        name: Gordola
+        latitude: '46.18256000'
+        longitude: '8.86657000'
+      -
+        id: 17863
+        name: Gravesano
+        latitude: '46.04208000'
+        longitude: '8.91832000'
+      -
+        id: 18053
+        name: Lavertezzo
+        latitude: '46.25893000'
+        longitude: '8.83756000'
+      -
+        id: 18078
+        name: 'Leventina District'
+        latitude: '46.46912000'
+        longitude: '8.75539000'
+      -
+        id: 18084
+        name: Ligornetto
+        latitude: '45.86161000'
+        longitude: '8.95166000'
+      -
+        id: 18088
+        name: Locarno
+        latitude: '46.17086000'
+        longitude: '8.79953000'
+      -
+        id: 18089
+        name: 'Locarno District'
+        latitude: '46.18033000'
+        longitude: '8.75991000'
+      -
+        id: 18090
+        name: Lodrino
+        latitude: '46.30016000'
+        longitude: '8.97986000'
+      -
+        id: 18091
+        name: Losone
+        latitude: '46.16866000'
+        longitude: '8.75928000'
+      -
+        id: 18098
+        name: Lugano
+        latitude: '46.01008000'
+        longitude: '8.96004000'
+      -
+        id: 18099
+        name: 'Lugano District'
+        latitude: '46.02322000'
+        longitude: '8.93802000'
+      -
+        id: 18100
+        name: Lumino
+        latitude: '46.23020000'
+        longitude: '9.06420000'
+      -
+        id: 18114
+        name: Magadino
+        latitude: '46.14892000'
+        longitude: '8.85610000'
+      -
+        id: 18120
+        name: Malvaglia
+        latitude: '46.40588000'
+        longitude: '8.98190000'
+      -
+        id: 18128
+        name: Massagno
+        latitude: '46.01257000'
+        longitude: '8.94354000'
+      -
+        id: 18145
+        name: Melano
+        latitude: '45.92202000'
+        longitude: '8.98435000'
+      -
+        id: 18147
+        name: Melide
+        latitude: '45.95455000'
+        longitude: '8.94725000'
+      -
+        id: 18149
+        name: Mendrisio
+        latitude: '45.87019000'
+        longitude: '8.98160000'
+      -
+        id: 18150
+        name: 'Mendrisio District'
+        latitude: '45.86592000'
+        longitude: '8.99931000'
+      -
+        id: 18159
+        name: Minusio
+        latitude: '46.17769000'
+        longitude: '8.81473000'
+      -
+        id: 18163
+        name: Montagnola
+        latitude: '45.98323000'
+        longitude: '8.91786000'
+      -
+        id: 18166
+        name: 'Monte Carasso'
+        latitude: '46.18649000'
+        longitude: '8.99892000'
+      -
+        id: 18170
+        name: 'Morbio Inferiore'
+        latitude: '45.84915000'
+        longitude: '9.01907000'
+      -
+        id: 18180
+        name: Muralto
+        latitude: '46.17323000'
+        longitude: '8.80219000'
+      -
+        id: 18231
+        name: Novazzano
+        latitude: '45.84073000'
+        longitude: '8.98236000'
+      -
+        id: 18325
+        name: Pregassona
+        latitude: '46.02021000'
+        longitude: '8.97429000'
+      -
+        id: 18331
+        name: Pura
+        latitude: '45.98647000'
+        longitude: '8.86877000'
+      -
+        id: 18378
+        name: 'Riva San Vitale'
+        latitude: '45.90123000'
+        longitude: '8.97167000'
+      -
+        id: 18379
+        name: 'Riviera District'
+        latitude: '46.30926000'
+        longitude: '8.98148000'
+      -
+        id: 18507
+        name: Sementina
+        latitude: '46.18363000'
+        longitude: '8.99162000'
+      -
+        id: 18530
+        name: Sorengo
+        latitude: '45.99766000'
+        longitude: '8.93783000'
+      -
+        id: 18536
+        name: Stabio
+        latitude: '45.84846000'
+        longitude: '8.93642000'
+      -
+        id: 18578
+        name: Tesserete
+        latitude: '46.06813000'
+        longitude: '8.96501000'
+      -
+        id: 18658
+        name: 'Vallemaggia District'
+        latitude: '46.35483000'
+        longitude: '8.60540000'
+      -
+        id: 18671
+        name: Verscio
+        latitude: '46.18482000'
+        longitude: '8.73224000'
+      -
+        id: 18678
+        name: Viganello
+        latitude: '46.01342000'
+        longitude: '8.96879000'
+  -
+    id: 1642
+    name: Uri
+    state_code: UR
+    latitude: '41.48606470'
+    longitude: '-71.53085370'
+    country_id: 214
+    cities:
+      -
+        id: 17388
+        name: Altdorf
+        latitude: '46.88042000'
+        longitude: '8.64441000'
+      -
+        id: 17397
+        name: Andermatt
+        latitude: '46.63565000'
+        longitude: '8.59388000'
+      -
+        id: 17416
+        name: Attinghausen
+        latitude: '46.86255000'
+        longitude: '8.63036000'
+      -
+        id: 17444
+        name: Bauen
+        latitude: '46.93559000'
+        longitude: '8.57836000'
+      -
+        id: 17602
+        name: Bürglen
+        latitude: '46.87565000'
+        longitude: '8.66539000'
+      -
+        id: 17768
+        name: Erstfeld
+        latitude: '46.81885000'
+        longitude: '8.65052000'
+      -
+        id: 17796
+        name: Flüelen
+        latitude: '46.90478000'
+        longitude: '8.62396000'
+      -
+        id: 18458
+        name: Schattdorf
+        latitude: '46.86550000'
+        longitude: '8.65465000'
+      -
+        id: 18492
+        name: Seedorf
+        latitude: '46.88199000'
+        longitude: '8.61611000'
+      -
+        id: 18521
+        name: Silenen
+        latitude: '46.78910000'
+        longitude: '8.67325000'
+  -
     id: 1648
-    name: 'Canton of Valais'
+    name: Valais
     state_code: VS
     latitude: '46.19046140'
     longitude: '7.54492260'
@@ -616642,7 +617919,7 @@ state_city:
         longitude: '7.74863000'
   -
     id: 1651
-    name: 'Canton of Vaud'
+    name: Vaud
     state_code: VD
     latitude: '46.56131350'
     longitude: '6.53676500'
@@ -617175,7 +618452,7 @@ state_city:
         longitude: '6.74249000'
   -
     id: 1646
-    name: 'Canton of Zug'
+    name: Zug
     state_code: ZG
     latitude: '47.16615050'
     longitude: '8.51547490'
@@ -617228,7 +618505,7 @@ state_city:
         longitude: '8.51745000'
   -
     id: 1656
-    name: 'canton of Zürich'
+    name: Zürich
     state_code: ZH
     latitude: '47.35953600'
     longitude: '8.63564520'
@@ -619104,1275 +620381,6 @@ state_city:
         name: 'Zürich (Kreis 9) / Altstetten'
         latitude: '47.38946000'
         longitude: '8.48533000'
-  -
-    id: 1661
-    name: Glarus
-    state_code: GL
-    latitude: '47.04112320'
-    longitude: '9.06790000'
-    country_id: 214
-    cities:
-      -
-        id: 17529
-        name: Bilten
-        latitude: '47.14995000'
-        longitude: '9.02551000'
-      -
-        id: 17751
-        name: Ennenda
-        latitude: '47.03363000'
-        longitude: '9.07888000'
-      -
-        id: 17839
-        name: Glarus
-        latitude: '47.04057000'
-        longitude: '9.06804000'
-      -
-        id: 18086
-        name: Linthal
-        latitude: '46.92127000'
-        longitude: '8.99799000'
-      -
-        id: 18097
-        name: Luchsingen
-        latitude: '46.96640000'
-        longitude: '9.03715000'
-      -
-        id: 18162
-        name: Mollis
-        latitude: '47.08878000'
-        longitude: '9.07242000'
-      -
-        id: 18235
-        name: Näfels
-        latitude: '47.09775000'
-        longitude: '9.06361000'
-      -
-        id: 18211
-        name: Netstal
-        latitude: '47.06337000'
-        longitude: '9.05734000'
-      -
-        id: 18229
-        name: Niederurnen
-        latitude: '47.12598000'
-        longitude: '9.05428000'
-      -
-        id: 18268
-        name: Oberurnen
-        latitude: '47.11412000'
-        longitude: '9.05866000'
-      -
-        id: 18475
-        name: Schwanden
-        latitude: '46.99541000'
-        longitude: '9.07010000'
-  -
-    id: 1660
-    name: Graubünden
-    state_code: GR
-    latitude: '46.65698710'
-    longitude: '9.57802570'
-    country_id: 214
-    cities:
-      -
-        id: 17409
-        name: Arosa
-        latitude: '46.77793000'
-        longitude: '9.67621000'
-      -
-        id: 17411
-        name: Arvigo
-        latitude: '46.30211000'
-        longitude: '9.11300000'
-      -
-        id: 17547
-        name: Bonaduz
-        latitude: '46.81103000'
-        longitude: '9.39821000'
-      -
-        id: 17559
-        name: Breíl
-        latitude: '46.76986000'
-        longitude: '9.06036000'
-      -
-        id: 17571
-        name: Brusio
-        latitude: '46.25953000'
-        longitude: '10.12385000'
-      -
-        id: 17585
-        name: Buseno
-        latitude: '46.27381000'
-        longitude: '9.10735000'
-      -
-        id: 17615
-        name: Cauco
-        latitude: '46.33541000'
-        longitude: '9.12129000'
-      -
-        id: 17617
-        name: Cazis
-        latitude: '46.71940000'
-        longitude: '9.43271000'
-      -
-        id: 17618
-        name: Celerina
-        latitude: '46.51217000'
-        longitude: '9.85794000'
-      -
-        id: 17638
-        name: Chur
-        latitude: '46.84986000'
-        longitude: '9.53287000'
-      -
-        id: 17639
-        name: Churwalden
-        latitude: '46.78143000'
-        longitude: '9.54377000'
-      -
-        id: 17677
-        name: Davos
-        latitude: '46.80429000'
-        longitude: '9.83723000'
-      -
-        id: 17699
-        name: Disentis
-        latitude: '46.70341000'
-        longitude: '8.85090000'
-      -
-        id: 17700
-        name: Domat
-        latitude: '46.83483000'
-        longitude: '9.45075000'
-      -
-        id: 17783
-        name: Felsberg
-        latitude: '46.84566000'
-        longitude: '9.47588000'
-      -
-        id: 17793
-        name: Flims
-        latitude: '46.83705000'
-        longitude: '9.28458000'
-      -
-        id: 17882
-        name: Grüsch
-        latitude: '46.97965000'
-        longitude: '9.64639000'
-      -
-        id: 17917
-        name: Hinterrhein
-        latitude: '46.53333000'
-        longitude: '9.20000000'
-      -
-        id: 17947
-        name: Igis
-        latitude: '46.94531000'
-        longitude: '9.57218000'
-      -
-        id: 17948
-        name: Ilanz
-        latitude: '46.77413000'
-        longitude: '9.20461000'
-      -
-        id: 17958
-        name: Jenaz
-        latitude: '46.92892000'
-        longitude: '9.71275000'
-      -
-        id: 17986
-        name: 'Klosters Serneus'
-        latitude: '46.88918000'
-        longitude: '9.83826000'
-      -
-        id: 18024
-        name: 'La Punt Chamues-ch'
-        latitude: '46.57887000'
-        longitude: '9.92015000'
-      -
-        id: 18029
-        name: Laax
-        latitude: '46.80452000'
-        longitude: '9.25787000'
-      -
-        id: 18033
-        name: Landquart
-        latitude: '46.95000000'
-        longitude: '9.56667000'
-      -
-        id: 18067
-        name: Lenzerheide
-        latitude: '46.72215000'
-        longitude: '9.55905000'
-      -
-        id: 18105
-        name: Luzein
-        latitude: '46.91957000'
-        longitude: '9.76080000'
-      -
-        id: 18116
-        name: Maienfeld
-        latitude: '47.00472000'
-        longitude: '9.53115000'
-      -
-        id: 18117
-        name: Malans
-        latitude: '46.98096000'
-        longitude: '9.57527000'
-      -
-        id: 18155
-        name: Mesocco
-        latitude: '46.39390000'
-        longitude: '9.23333000'
-      -
-        id: 18318
-        name: Pontresina
-        latitude: '46.49550000'
-        longitude: '9.90126000'
-      -
-        id: 18321
-        name: Poschiavo
-        latitude: '46.32441000'
-        longitude: '10.05823000'
-      -
-        id: 18348
-        name: 'Region Albula'
-        latitude: '46.60255000'
-        longitude: '9.65150000'
-      -
-        id: 18349
-        name: 'Region Bernina'
-        latitude: '46.33488000'
-        longitude: '10.07349000'
-      -
-        id: 18350
-        name: 'Region Engiadina Bassa / Val Müstair'
-        latitude: '46.75212000'
-        longitude: '10.26032000'
-      -
-        id: 18351
-        name: 'Region Imboden'
-        latitude: '46.84876000'
-        longitude: '9.36225000'
-      -
-        id: 18352
-        name: 'Region Landquart'
-        latitude: '46.96403000'
-        longitude: '9.56365000'
-      -
-        id: 18353
-        name: 'Region Maloja'
-        latitude: '46.47448000'
-        longitude: '9.83138000'
-      -
-        id: 18354
-        name: 'Region Moesa'
-        latitude: '46.35200000'
-        longitude: '9.17870000'
-      -
-        id: 18355
-        name: 'Region Plessur'
-        latitude: '46.81819000'
-        longitude: '9.62542000'
-      -
-        id: 18356
-        name: 'Region Prättigau / Davos'
-        latitude: '46.86727000'
-        longitude: '9.82014000'
-      -
-        id: 18357
-        name: 'Region Surselva'
-        latitude: '46.69564000'
-        longitude: '9.04834000'
-      -
-        id: 18358
-        name: 'Region Viamala'
-        latitude: '46.58762000'
-        longitude: '9.40035000'
-      -
-        id: 18367
-        name: Rhäzüns
-        latitude: '46.79891000'
-        longitude: '9.39764000'
-      -
-        id: 18435
-        name: Samedan
-        latitude: '46.53399000'
-        longitude: '9.87276000'
-      -
-        id: 18457
-        name: Scharans
-        latitude: '46.71814000'
-        longitude: '9.45903000'
-      -
-        id: 18460
-        name: Schiers
-        latitude: '46.96973000'
-        longitude: '9.68720000'
-      -
-        id: 18490
-        name: Scuol
-        latitude: '46.79671000'
-        longitude: '10.29804000'
-      -
-        id: 18522
-        name: Silvaplana
-        latitude: '46.45810000'
-        longitude: '9.79514000'
-      -
-        id: 18535
-        name: 'St. Moritz'
-        latitude: '46.49937000'
-        longitude: '9.84327000'
-      -
-        id: 18572
-        name: Tamins
-        latitude: '46.82964000'
-        longitude: '9.40648000'
-      -
-        id: 18594
-        name: Thusis
-        latitude: '46.69724000'
-        longitude: '9.43938000'
-      -
-        id: 18596
-        name: Tiefencastel
-        latitude: '46.66014000'
-        longitude: '9.57883000'
-      -
-        id: 18604
-        name: Trimmis
-        latitude: '46.90075000'
-        longitude: '9.56120000'
-      -
-        id: 18610
-        name: Trun
-        latitude: '46.74292000'
-        longitude: '8.98716000'
-      -
-        id: 18637
-        name: Untervaz
-        latitude: '46.92750000'
-        longitude: '9.53422000'
-      -
-        id: 18660
-        name: 'Vals Platz'
-        latitude: '46.61647000'
-        longitude: '9.18025000'
-      -
-        id: 18794
-        name: Zernez
-        latitude: '46.69862000'
-        longitude: '10.09268000'
-      -
-        id: 18795
-        name: Zizers
-        latitude: '46.93575000'
-        longitude: '9.56491000'
-      -
-        id: 18804
-        name: Zuoz
-        latitude: '46.60206000'
-        longitude: '9.95965000'
-  -
-    id: 1652
-    name: Nidwalden
-    state_code: NW
-    latitude: '46.92670160'
-    longitude: '8.38499820'
-    country_id: 214
-    cities:
-      -
-        id: 17448
-        name: Beckenried
-        latitude: '46.96653000'
-        longitude: '8.47575000'
-      -
-        id: 17582
-        name: Buochs
-        latitude: '46.97398000'
-        longitude: '8.42279000'
-      -
-        id: 17675
-        name: Dallenwil
-        latitude: '46.92420000'
-        longitude: '8.38785000'
-      -
-        id: 17748
-        name: Emmetten
-        latitude: '46.95658000'
-        longitude: '8.51467000'
-      -
-        id: 17752
-        name: Ennetbürgen
-        latitude: '46.98423000'
-        longitude: '8.41003000'
-      -
-        id: 17906
-        name: Hergiswil
-        latitude: '46.98429000'
-        longitude: '8.30944000'
-      -
-        id: 18546
-        name: Stans
-        latitude: '46.95805000'
-        longitude: '8.36609000'
-      -
-        id: 18547
-        name: Stansstad
-        latitude: '46.97680000'
-        longitude: '8.33553000'
-      -
-        id: 18763
-        name: Wolfenschiessen
-        latitude: '46.90322000'
-        longitude: '8.39423000'
-  -
-    id: 1650
-    name: Obwalden
-    state_code: OW
-    latitude: '46.87785800'
-    longitude: '8.25124900'
-    country_id: 214
-    cities:
-      -
-        id: 17387
-        name: Alpnach
-        latitude: '46.94227000'
-        longitude: '8.27180000'
-      -
-        id: 17750
-        name: Engelberg
-        latitude: '46.82107000'
-        longitude: '8.40133000'
-      -
-        id: 17835
-        name: Giswil
-        latitude: '46.83333000'
-        longitude: '8.18065000'
-      -
-        id: 17973
-        name: Kerns
-        latitude: '46.90121000'
-        longitude: '8.27514000'
-      -
-        id: 18101
-        name: Lungern
-        latitude: '46.78578000'
-        longitude: '8.15984000'
-      -
-        id: 18418
-        name: Sachseln
-        latitude: '46.86718000'
-        longitude: '8.23344000'
-      -
-        id: 18447
-        name: Sarnen
-        latitude: '46.89611000'
-        longitude: '8.24531000'
-  -
-    id: 1653
-    name: Schwyz
-    state_code: SZ
-    latitude: '47.02071380'
-    longitude: '8.65298840'
-    country_id: 214
-    cities:
-      -
-        id: 17389
-        name: Altendorf
-        latitude: '47.18994000'
-        longitude: '8.83823000'
-      -
-        id: 17410
-        name: Arth
-        latitude: '47.06337000'
-        longitude: '8.52349000'
-      -
-        id: 17590
-        name: Bäch
-        latitude: '47.20388000'
-        longitude: '8.73224000'
-      -
-        id: 17483
-        name: 'Bezirk Einsiedeln'
-        latitude: '47.10792000'
-        longitude: '8.76010000'
-      -
-        id: 17484
-        name: 'Bezirk Gersau'
-        latitude: '47.00800000'
-        longitude: '8.51678000'
-      -
-        id: 17490
-        name: 'Bezirk Höfe'
-        latitude: '47.19043000'
-        longitude: '8.73960000'
-      -
-        id: 17492
-        name: 'Bezirk Küssnacht'
-        latitude: '47.08611000'
-        longitude: '8.44444000'
-      -
-        id: 17498
-        name: 'Bezirk March'
-        latitude: '47.16128000'
-        longitude: '8.91103000'
-      -
-        id: 17509
-        name: 'Bezirk Schwyz'
-        latitude: '47.02814000'
-        longitude: '8.63619000'
-      -
-        id: 17738
-        name: Einsiedeln
-        latitude: '47.12849000'
-        longitude: '8.74735000'
-      -
-        id: 17787
-        name: Feusisberg
-        latitude: '47.18707000'
-        longitude: '8.74724000'
-      -
-        id: 17806
-        name: Freienbach
-        latitude: '47.20534000'
-        longitude: '8.75842000'
-      -
-        id: 17830
-        name: Gersau
-        latitude: '46.99419000'
-        longitude: '8.52500000'
-      -
-        id: 17848
-        name: Goldau
-        latitude: '47.04761000'
-        longitude: '8.54616000'
-      -
-        id: 17946
-        name: Ibach
-        latitude: '47.01105000'
-        longitude: '8.64538000'
-      -
-        id: 17951
-        name: Ingenbohl
-        latitude: '46.99880000'
-        longitude: '8.61529000'
-      -
-        id: 18019
-        name: Küssnacht
-        latitude: '47.08557000'
-        longitude: '8.44206000'
-      -
-        id: 18030
-        name: Lachen
-        latitude: '47.19224000'
-        longitude: '8.85324000'
-      -
-        id: 18179
-        name: Muotathal
-        latitude: '46.97676000'
-        longitude: '8.76499000'
-      -
-        id: 18310
-        name: Pfäffikon
-        latitude: '47.20109000'
-        longitude: '8.77816000'
-      -
-        id: 18360
-        name: Reichenburg
-        latitude: '47.17097000'
-        longitude: '8.97704000'
-      -
-        id: 18393
-        name: Rothenthurm
-        latitude: '47.10420000'
-        longitude: '8.67585000'
-      -
-        id: 18449
-        name: Sattel
-        latitude: '47.08246000'
-        longitude: '8.63565000'
-      -
-        id: 18461
-        name: Schindellegi
-        latitude: '47.17460000'
-        longitude: '8.71345000'
-      -
-        id: 18487
-        name: Schübelbach
-        latitude: '47.17326000'
-        longitude: '8.92811000'
-      -
-        id: 18481
-        name: Schwyz
-        latitude: '47.02076000'
-        longitude: '8.65414000'
-      -
-        id: 18516
-        name: Siebnen
-        latitude: '47.17449000'
-        longitude: '8.89781000'
-      -
-        id: 18553
-        name: Steinen
-        latitude: '47.04975000'
-        longitude: '8.61214000'
-      -
-        id: 18612
-        name: Tuggen
-        latitude: '47.20291000'
-        longitude: '8.94896000'
-      -
-        id: 18632
-        name: Unteriberg
-        latitude: '47.06258000'
-        longitude: '8.80520000'
-      -
-        id: 18693
-        name: Vorderthal
-        latitude: '47.12172000'
-        longitude: '8.90225000'
-      -
-        id: 18767
-        name: Wollerau
-        latitude: '47.19478000'
-        longitude: '8.71903000'
-  -
-    id: 1657
-    name: Thurgau
-    state_code: TG
-    latitude: '47.60378560'
-    longitude: '9.05573710'
-    country_id: 214
-    cities:
-      -
-        id: 17356
-        name: Aadorf
-        latitude: '47.49204000'
-        longitude: '8.90099000'
-      -
-        id: 17374
-        name: Affeltrangen
-        latitude: '47.52581000'
-        longitude: '9.03307000'
-      -
-        id: 17392
-        name: Altnau
-        latitude: '47.61052000'
-        longitude: '9.26160000'
-      -
-        id: 17395
-        name: Amriswil
-        latitude: '47.54699000'
-        longitude: '9.29586000'
-      -
-        id: 17402
-        name: Arbon
-        latitude: '47.51667000'
-        longitude: '9.43333000'
-      -
-        id: 17403
-        name: 'Arbon District'
-        latitude: '47.54867000'
-        longitude: '9.35159000'
-      -
-        id: 17459
-        name: Berg
-        latitude: '47.57879000'
-        longitude: '9.16635000'
-      -
-        id: 17552
-        name: Bottighofen
-        latitude: '47.63643000'
-        longitude: '9.20882000'
-      -
-        id: 17603
-        name: Bürglen
-        latitude: '47.54921000'
-        longitude: '9.14950000'
-      -
-        id: 17688
-        name: Diessenhofen
-        latitude: '47.68908000'
-        longitude: '8.74958000'
-      -
-        id: 17733
-        name: Egnach
-        latitude: '47.54268000'
-        longitude: '9.38048000'
-      -
-        id: 17760
-        name: Erlen
-        latitude: '47.54814000'
-        longitude: '9.23415000'
-      -
-        id: 17766
-        name: Ermatingen
-        latitude: '47.67057000'
-        longitude: '9.08573000'
-      -
-        id: 17770
-        name: Eschenz
-        latitude: '47.64793000'
-        longitude: '8.87472000'
-      -
-        id: 17771
-        name: Eschlikon
-        latitude: '47.46361000'
-        longitude: '8.96381000'
-      -
-        id: 17789
-        name: Fischingen
-        latitude: '47.41422000'
-        longitude: '8.96862000'
-      -
-        id: 17803
-        name: Frauenfeld
-        latitude: '47.55776000'
-        longitude: '8.89893000'
-      -
-        id: 17804
-        name: 'Frauenfeld District'
-        latitude: '47.61115000'
-        longitude: '8.89444000'
-      -
-        id: 17818
-        name: Gachnang
-        latitude: '47.53935000'
-        longitude: '8.85311000'
-      -
-        id: 17858
-        name: Gottlieben
-        latitude: '47.66380000'
-        longitude: '9.13371000'
-      -
-        id: 17889
-        name: Güttingen
-        latitude: '47.60349000'
-        longitude: '9.28742000'
-      -
-        id: 17928
-        name: Homburg
-        latitude: '47.63469000'
-        longitude: '9.00756000'
-      -
-        id: 17945
-        name: Hüttwilen
-        latitude: '47.60674000'
-        longitude: '8.87343000'
-      -
-        id: 18005
-        name: Kreuzlingen
-        latitude: '47.65051000'
-        longitude: '9.17504000'
-      -
-        id: 18006
-        name: 'Kreuzlingen District'
-        latitude: '47.63046000'
-        longitude: '9.16458000'
-      -
-        id: 18041
-        name: Langrickenbach
-        latitude: '47.59353000'
-        longitude: '9.24727000'
-      -
-        id: 18189
-        name: Märstetten-Dorf
-        latitude: '47.59252000'
-        longitude: '9.06851000'
-      -
-        id: 18135
-        name: Matzingen
-        latitude: '47.51957000'
-        longitude: '8.93365000'
-      -
-        id: 18198
-        name: Müllheim
-        latitude: '47.60195000'
-        longitude: '9.00357000'
-      -
-        id: 18202
-        name: Münchwilen
-        latitude: '47.47719000'
-        longitude: '8.99677000'
-      -
-        id: 18203
-        name: 'Münchwilen District'
-        latitude: '47.47324000'
-        longitude: '8.98812000'
-      -
-        id: 18205
-        name: Münsterlingen
-        latitude: '47.63197000'
-        longitude: '9.23271000'
-      -
-        id: 18309
-        name: Pfyn
-        latitude: '47.59693000'
-        longitude: '8.95420000'
-      -
-        id: 18373
-        name: 'Rickenbach bei Wil'
-        latitude: '47.44856000'
-        longitude: '9.04902000'
-      -
-        id: 18383
-        name: Roggwil
-        latitude: '47.49981000'
-        longitude: '9.39580000'
-      -
-        id: 18388
-        name: Romanshorn
-        latitude: '47.56586000'
-        longitude: '9.37869000'
-      -
-        id: 18433
-        name: Salmsach
-        latitude: '47.55433000'
-        longitude: '9.37229000'
-      -
-        id: 18525
-        name: Sirnach
-        latitude: '47.46222000'
-        longitude: '8.99763000'
-      -
-        id: 18549
-        name: Steckborn
-        latitude: '47.66667000'
-        longitude: '8.98333000'
-      -
-        id: 18557
-        name: Stettfurt
-        latitude: '47.52588000'
-        longitude: '8.95317000'
-      -
-        id: 18563
-        name: Sulgen
-        latitude: '47.53967000'
-        longitude: '9.18585000'
-      -
-        id: 18616
-        name: Tägerwilen
-        latitude: '47.65698000'
-        longitude: '9.13999000'
-      -
-        id: 18593
-        name: Thundorf
-        latitude: '47.54594000'
-        longitude: '8.96358000'
-      -
-        id: 18652
-        name: Uttwil
-        latitude: '47.58440000'
-        longitude: '9.34101000'
-      -
-        id: 18698
-        name: Wagenhausen
-        latitude: '47.66003000'
-        longitude: '8.84782000'
-      -
-        id: 18781
-        name: Wängi
-        latitude: '47.49654000'
-        longitude: '8.95325000'
-      -
-        id: 18730
-        name: Weinfelden
-        latitude: '47.56667000'
-        longitude: '9.10000000'
-      -
-        id: 18731
-        name: 'Weinfelden District'
-        latitude: '47.54237000'
-        longitude: '9.15713000'
-      -
-        id: 18747
-        name: Wigoltingen
-        latitude: '47.59770000'
-        longitude: '9.03141000'
-  -
-    id: 1643
-    name: Ticino
-    state_code: TI
-    latitude: '46.33173400'
-    longitude: '8.80045290'
-    country_id: 214
-    cities:
-      -
-        id: 17361
-        name: Acquarossa
-        latitude: '46.45473000'
-        longitude: '8.94261000'
-      -
-        id: 17380
-        name: Agno
-        latitude: '45.99863000'
-        longitude: '8.90030000'
-      -
-        id: 17384
-        name: Airolo
-        latitude: '46.52855000'
-        longitude: '8.61189000'
-      -
-        id: 17413
-        name: Arzo
-        latitude: '45.87606000'
-        longitude: '8.94103000'
-      -
-        id: 17414
-        name: Ascona
-        latitude: '46.15451000'
-        longitude: '8.77327000'
-      -
-        id: 17434
-        name: Balerna
-        latitude: '45.84638000'
-        longitude: '9.00724000'
-      -
-        id: 17452
-        name: Bellinzona
-        latitude: '46.19278000'
-        longitude: '9.01703000'
-      -
-        id: 17453
-        name: 'Bellinzona District'
-        latitude: '46.18858000'
-        longitude: '9.00254000'
-      -
-        id: 17524
-        name: Biasca
-        latitude: '46.35972000'
-        longitude: '8.96965000'
-      -
-        id: 17533
-        name: Bioggio
-        latitude: '46.01357000'
-        longitude: '8.91103000'
-      -
-        id: 17540
-        name: 'Blenio District'
-        latitude: '46.47613000'
-        longitude: '8.94609000'
-      -
-        id: 17544
-        name: Bodio
-        latitude: '46.37808000'
-        longitude: '8.90991000'
-      -
-        id: 17564
-        name: Brissago
-        latitude: '46.12013000'
-        longitude: '8.71181000'
-      -
-        id: 17607
-        name: Cadempino
-        latitude: '46.03672000'
-        longitude: '8.93403000'
-      -
-        id: 17608
-        name: Cadenazzo
-        latitude: '46.15172000'
-        longitude: '8.94719000'
-      -
-        id: 17609
-        name: Cadro
-        latitude: '46.04595000'
-        longitude: '8.98725000'
-      -
-        id: 17610
-        name: Camorino
-        latitude: '46.16483000'
-        longitude: '9.00547000'
-      -
-        id: 17611
-        name: Canobbio
-        latitude: '46.03592000'
-        longitude: '8.96605000'
-      -
-        id: 17613
-        name: Caslano
-        latitude: '45.97364000'
-        longitude: '8.87739000'
-      -
-        id: 17614
-        name: 'Castel San Pietro'
-        latitude: '45.86211000'
-        longitude: '9.00843000'
-      -
-        id: 17620
-        name: Cevio
-        latitude: '46.31479000'
-        longitude: '8.60332000'
-      -
-        id: 17636
-        name: Chiasso
-        latitude: '45.83203000'
-        longitude: '9.03119000'
-      -
-        id: 17645
-        name: Claro
-        latitude: '46.25763000'
-        longitude: '9.02252000'
-      -
-        id: 17648
-        name: Comano
-        latitude: '46.03635000'
-        longitude: '8.95526000'
-      -
-        id: 17670
-        name: Cugnasco
-        latitude: '46.17473000'
-        longitude: '8.91684000'
-      -
-        id: 17780
-        name: Faido
-        latitude: '46.47700000'
-        longitude: '8.80125000'
-      -
-        id: 17836
-        name: Giubiasco
-        latitude: '46.17246000'
-        longitude: '9.00793000'
-      -
-        id: 17854
-        name: Gordola
-        latitude: '46.18256000'
-        longitude: '8.86657000'
-      -
-        id: 17863
-        name: Gravesano
-        latitude: '46.04208000'
-        longitude: '8.91832000'
-      -
-        id: 18053
-        name: Lavertezzo
-        latitude: '46.25893000'
-        longitude: '8.83756000'
-      -
-        id: 18078
-        name: 'Leventina District'
-        latitude: '46.46912000'
-        longitude: '8.75539000'
-      -
-        id: 18084
-        name: Ligornetto
-        latitude: '45.86161000'
-        longitude: '8.95166000'
-      -
-        id: 18088
-        name: Locarno
-        latitude: '46.17086000'
-        longitude: '8.79953000'
-      -
-        id: 18089
-        name: 'Locarno District'
-        latitude: '46.18033000'
-        longitude: '8.75991000'
-      -
-        id: 18090
-        name: Lodrino
-        latitude: '46.30016000'
-        longitude: '8.97986000'
-      -
-        id: 18091
-        name: Losone
-        latitude: '46.16866000'
-        longitude: '8.75928000'
-      -
-        id: 18098
-        name: Lugano
-        latitude: '46.01008000'
-        longitude: '8.96004000'
-      -
-        id: 18099
-        name: 'Lugano District'
-        latitude: '46.02322000'
-        longitude: '8.93802000'
-      -
-        id: 18100
-        name: Lumino
-        latitude: '46.23020000'
-        longitude: '9.06420000'
-      -
-        id: 18114
-        name: Magadino
-        latitude: '46.14892000'
-        longitude: '8.85610000'
-      -
-        id: 18120
-        name: Malvaglia
-        latitude: '46.40588000'
-        longitude: '8.98190000'
-      -
-        id: 18128
-        name: Massagno
-        latitude: '46.01257000'
-        longitude: '8.94354000'
-      -
-        id: 18145
-        name: Melano
-        latitude: '45.92202000'
-        longitude: '8.98435000'
-      -
-        id: 18147
-        name: Melide
-        latitude: '45.95455000'
-        longitude: '8.94725000'
-      -
-        id: 18149
-        name: Mendrisio
-        latitude: '45.87019000'
-        longitude: '8.98160000'
-      -
-        id: 18150
-        name: 'Mendrisio District'
-        latitude: '45.86592000'
-        longitude: '8.99931000'
-      -
-        id: 18159
-        name: Minusio
-        latitude: '46.17769000'
-        longitude: '8.81473000'
-      -
-        id: 18163
-        name: Montagnola
-        latitude: '45.98323000'
-        longitude: '8.91786000'
-      -
-        id: 18166
-        name: 'Monte Carasso'
-        latitude: '46.18649000'
-        longitude: '8.99892000'
-      -
-        id: 18170
-        name: 'Morbio Inferiore'
-        latitude: '45.84915000'
-        longitude: '9.01907000'
-      -
-        id: 18180
-        name: Muralto
-        latitude: '46.17323000'
-        longitude: '8.80219000'
-      -
-        id: 18231
-        name: Novazzano
-        latitude: '45.84073000'
-        longitude: '8.98236000'
-      -
-        id: 18325
-        name: Pregassona
-        latitude: '46.02021000'
-        longitude: '8.97429000'
-      -
-        id: 18331
-        name: Pura
-        latitude: '45.98647000'
-        longitude: '8.86877000'
-      -
-        id: 18378
-        name: 'Riva San Vitale'
-        latitude: '45.90123000'
-        longitude: '8.97167000'
-      -
-        id: 18379
-        name: 'Riviera District'
-        latitude: '46.30926000'
-        longitude: '8.98148000'
-      -
-        id: 18507
-        name: Sementina
-        latitude: '46.18363000'
-        longitude: '8.99162000'
-      -
-        id: 18530
-        name: Sorengo
-        latitude: '45.99766000'
-        longitude: '8.93783000'
-      -
-        id: 18536
-        name: Stabio
-        latitude: '45.84846000'
-        longitude: '8.93642000'
-      -
-        id: 18578
-        name: Tesserete
-        latitude: '46.06813000'
-        longitude: '8.96501000'
-      -
-        id: 18658
-        name: 'Vallemaggia District'
-        latitude: '46.35483000'
-        longitude: '8.60540000'
-      -
-        id: 18671
-        name: Verscio
-        latitude: '46.18482000'
-        longitude: '8.73224000'
-      -
-        id: 18678
-        name: Viganello
-        latitude: '46.01342000'
-        longitude: '8.96879000'
-  -
-    id: 1642
-    name: Uri
-    state_code: UR
-    latitude: '41.48606470'
-    longitude: '-71.53085370'
-    country_id: 214
-    cities:
-      -
-        id: 17388
-        name: Altdorf
-        latitude: '46.88042000'
-        longitude: '8.64441000'
-      -
-        id: 17397
-        name: Andermatt
-        latitude: '46.63565000'
-        longitude: '8.59388000'
-      -
-        id: 17416
-        name: Attinghausen
-        latitude: '46.86255000'
-        longitude: '8.63036000'
-      -
-        id: 17444
-        name: Bauen
-        latitude: '46.93559000'
-        longitude: '8.57836000'
-      -
-        id: 17602
-        name: Bürglen
-        latitude: '46.87565000'
-        longitude: '8.66539000'
-      -
-        id: 17768
-        name: Erstfeld
-        latitude: '46.81885000'
-        longitude: '8.65052000'
-      -
-        id: 17796
-        name: Flüelen
-        latitude: '46.90478000'
-        longitude: '8.62396000'
-      -
-        id: 18458
-        name: Schattdorf
-        latitude: '46.86550000'
-        longitude: '8.65465000'
-      -
-        id: 18492
-        name: Seedorf
-        latitude: '46.88199000'
-        longitude: '8.61611000'
-      -
-        id: 18521
-        name: Silenen
-        latitude: '46.78910000'
-        longitude: '8.67325000'
   -
     id: 2941
     name: 'Al-Hasakah Governorate'
@@ -631867,7 +631875,7 @@ state_city:
         longitude: '10.14292000'
   -
     id: 2212
-    name: 'Adana Province'
+    name: Adana
     state_code: '01'
     latitude: '37.26123150'
     longitude: '35.39050460'
@@ -631960,7 +631968,7 @@ state_city:
         longitude: '35.45402000'
   -
     id: 2155
-    name: 'Adıyaman Province'
+    name: Adıyaman
     state_code: '02'
     latitude: '37.90782910'
     longitude: '38.48499230'
@@ -632023,7 +632031,7 @@ state_city:
         longitude: '37.91610000'
   -
     id: 2179
-    name: 'Afyonkarahisar Province'
+    name: Afyonkarahisar
     state_code: '03'
     latitude: '38.73910990'
     longitude: '30.71200230'
@@ -632131,7 +632139,7 @@ state_city:
         longitude: '31.22806000'
   -
     id: 2193
-    name: 'Ağrı Province'
+    name: Ağrı
     state_code: '04'
     latitude: '39.62692180'
     longitude: '43.02159650'
@@ -632179,7 +632187,7 @@ state_city:
         longitude: '42.77572000'
   -
     id: 2210
-    name: 'Aksaray Province'
+    name: Aksaray
     state_code: '68'
     latitude: '38.33520430'
     longitude: '33.97500180'
@@ -632232,7 +632240,7 @@ state_city:
         longitude: '33.54961000'
   -
     id: 2161
-    name: 'Amasya Province'
+    name: Amasya
     state_code: '05'
     latitude: '40.65166080'
     longitude: '35.90379660'
@@ -632285,7 +632293,7 @@ state_city:
         longitude: '36.32250000'
   -
     id: 2217
-    name: 'Ankara Province'
+    name: Ankara
     state_code: '06'
     latitude: '39.78052450'
     longitude: '32.71813750'
@@ -632443,7 +632451,7 @@ state_city:
         longitude: '32.69555000'
   -
     id: 2169
-    name: 'Antalya Province'
+    name: Antalya
     state_code: '07'
     latitude: '37.09516720'
     longitude: '31.07937050'
@@ -632636,7 +632644,7 @@ state_city:
         longitude: '30.13750000'
   -
     id: 2185
-    name: 'Ardahan Province'
+    name: Ardahan
     state_code: '75'
     latitude: '41.11129640'
     longitude: '42.78316740'
@@ -632674,7 +632682,7 @@ state_city:
         longitude: '42.72917000'
   -
     id: 2191
-    name: 'Artvin Province'
+    name: Artvin
     state_code: '08'
     latitude: '41.07866400'
     longitude: '41.76282230'
@@ -632732,7 +632740,7 @@ state_city:
         longitude: '41.53743000'
   -
     id: 2187
-    name: 'Aydın Province'
+    name: Aydın
     state_code: '09'
     latitude: '37.81170330'
     longitude: '28.48639630'
@@ -632865,7 +632873,7 @@ state_city:
         longitude: '28.19573000'
   -
     id: 2175
-    name: 'Balıkesir Province'
+    name: Balıkesir
     state_code: '10'
     latitude: '39.76167820'
     longitude: '28.11226790'
@@ -632978,7 +632986,7 @@ state_city:
         longitude: '28.15778000'
   -
     id: 2148
-    name: 'Bartın Province'
+    name: Bartın
     state_code: '74'
     latitude: '41.58105090'
     longitude: '32.46097940'
@@ -633006,7 +633014,7 @@ state_city:
         longitude: '32.65066000'
   -
     id: 2194
-    name: 'Batman Province'
+    name: Batman
     state_code: '72'
     latitude: '37.83624960'
     longitude: '41.36057390'
@@ -633129,7 +633137,7 @@ state_city:
         longitude: '41.35340000'
   -
     id: 2177
-    name: 'Bayburt Province'
+    name: Bayburt
     state_code: '69'
     latitude: '40.26032000'
     longitude: '40.22804800'
@@ -633157,7 +633165,7 @@ state_city:
         longitude: '39.89239000'
   -
     id: 2221
-    name: 'Bilecik Province'
+    name: Bilecik
     state_code: '11'
     latitude: '40.05665550'
     longitude: '30.06652360'
@@ -633220,7 +633228,7 @@ state_city:
         longitude: '30.52000000'
   -
     id: 2153
-    name: 'Bingöl Province'
+    name: Bingöl
     state_code: '12'
     latitude: '39.06263540'
     longitude: '40.76960950'
@@ -633273,7 +633281,7 @@ state_city:
         longitude: '40.53368000'
   -
     id: 2215
-    name: 'Bitlis Province'
+    name: Bitlis
     state_code: '13'
     latitude: '38.65231330'
     longitude: '42.42020280'
@@ -633326,7 +633334,7 @@ state_city:
         longitude: '42.28269000'
   -
     id: 2172
-    name: 'Bolu Province'
+    name: Bolu
     state_code: '14'
     latitude: '40.57597660'
     longitude: '31.57880860'
@@ -633379,7 +633387,7 @@ state_city:
         longitude: '32.03375000'
   -
     id: 2209
-    name: 'Burdur Province'
+    name: Burdur
     state_code: '15'
     latitude: '37.46126690'
     longitude: '30.06652360'
@@ -633457,7 +633465,7 @@ state_city:
         longitude: '29.75472000'
   -
     id: 2163
-    name: 'Bursa Province'
+    name: Bursa
     state_code: '16'
     latitude: '40.06554590'
     longitude: '29.23207840'
@@ -633660,7 +633668,7 @@ state_city:
         longitude: '29.03640000'
   -
     id: 2216
-    name: 'Çanakkale Province'
+    name: Çanakkale
     state_code: '17'
     latitude: '40.05101040'
     longitude: '26.98524220'
@@ -633758,7 +633766,7 @@ state_city:
         longitude: '27.25806000'
   -
     id: 2168
-    name: 'Çankırı Province'
+    name: Çankırı
     state_code: '18'
     latitude: '40.53690730'
     longitude: '33.58838930'
@@ -633826,7 +633834,7 @@ state_city:
         longitude: '33.77819000'
   -
     id: 2173
-    name: 'Çorum Province'
+    name: Çorum
     state_code: '19'
     latitude: '40.49982110'
     longitude: '34.59862630'
@@ -633909,7 +633917,7 @@ state_city:
         longitude: '34.45259000'
   -
     id: 2157
-    name: 'Denizli Province'
+    name: Denizli
     state_code: '20'
     latitude: '37.61283950'
     longitude: '29.23207840'
@@ -634037,7 +634045,7 @@ state_city:
         longitude: '29.07058000'
   -
     id: 2226
-    name: 'Diyarbakır Province'
+    name: Diyarbakır
     state_code: '21'
     latitude: '38.10663720'
     longitude: '40.54268960'
@@ -634185,7 +634193,7 @@ state_city:
         longitude: '40.20610000'
   -
     id: 2202
-    name: 'Düzce Province'
+    name: Düzce
     state_code: '81'
     latitude: '40.87705310'
     longitude: '31.31927130'
@@ -634233,7 +634241,7 @@ state_city:
         longitude: '31.45672000'
   -
     id: 2151
-    name: 'Edirne Province'
+    name: Edirne
     state_code: '22'
     latitude: '41.15172220'
     longitude: '26.51379640'
@@ -634291,7 +634299,7 @@ state_city:
         longitude: '26.68850000'
   -
     id: 2159
-    name: 'Elazığ Province'
+    name: Elazığ
     state_code: '23'
     latitude: '38.49648040'
     longitude: '39.21990290'
@@ -634364,7 +634372,7 @@ state_city:
         longitude: '39.87773000'
   -
     id: 2160
-    name: 'Erzincan Province'
+    name: Erzincan
     state_code: '24'
     latitude: '39.76819140'
     longitude: '39.05013060'
@@ -634422,7 +634430,7 @@ state_city:
         longitude: '39.70125000'
   -
     id: 2165
-    name: 'Erzurum Province'
+    name: Erzurum
     state_code: '25'
     latitude: '40.07467990'
     longitude: '41.66945620'
@@ -634540,7 +634548,7 @@ state_city:
         longitude: '41.30997000'
   -
     id: 2164
-    name: 'Eskişehir Province'
+    name: Eskişehir
     state_code: '26'
     latitude: '39.63296570'
     longitude: '31.26263660'
@@ -634638,7 +634646,7 @@ state_city:
         longitude: '30.50206000'
   -
     id: 2203
-    name: 'Gaziantep Province'
+    name: Gaziantep
     state_code: '27'
     latitude: '37.07638820'
     longitude: '37.38272340'
@@ -634721,7 +634729,7 @@ state_city:
         longitude: '37.49488000'
   -
     id: 2186
-    name: 'Giresun Province'
+    name: Giresun
     state_code: '28'
     latitude: '40.64616720'
     longitude: '38.59355110'
@@ -634814,7 +634822,7 @@ state_city:
         longitude: '38.63242000'
   -
     id: 2204
-    name: 'Gümüşhane Province'
+    name: Gümüşhane
     state_code: '29'
     latitude: '40.28036730'
     longitude: '39.31432530'
@@ -634867,7 +634875,7 @@ state_city:
         longitude: '39.52762000'
   -
     id: 2190
-    name: 'Hakkâri Province'
+    name: Hakkâri
     state_code: '30'
     latitude: '37.44593190'
     longitude: '43.74498410'
@@ -634905,7 +634913,7 @@ state_city:
         longitude: '44.25827000'
   -
     id: 2211
-    name: 'Hatay Province'
+    name: Hatay
     state_code: '31'
     latitude: '36.40184880'
     longitude: '36.34980970'
@@ -635113,7 +635121,7 @@ state_city:
         longitude: '36.06272000'
   -
     id: 2166
-    name: 'Iğdır Province'
+    name: Iğdır
     state_code: '76'
     latitude: '39.88798410'
     longitude: '44.00483650'
@@ -635136,7 +635144,7 @@ state_city:
         longitude: '43.65212000'
   -
     id: 2222
-    name: 'Isparta Province'
+    name: Isparta
     state_code: '32'
     latitude: '38.02114640'
     longitude: '31.07937050'
@@ -635219,32 +635227,17 @@ state_city:
         longitude: '31.38639000'
   -
     id: 2170
-    name: 'Istanbul Province'
+    name: Istanbul
     state_code: '34'
     latitude: '41.16343020'
     longitude: '28.76644080'
     country_id: 225
     cities:
       -
-        id: 107061
-        name: Adalan
-        latitude: '40.87590000'
-        longitude: '29.08940000'
-      -
         id: 107062
         name: Adalar
         latitude: '40.86913000'
         longitude: '29.12064000'
-      -
-        id: 107245
-        name: Ağva
-        latitude: '41.13806000'
-        longitude: '29.85667000'
-      -
-        id: 107199
-        name: Arıköy
-        latitude: '41.23044000'
-        longitude: '29.00425000'
       -
         id: 107188
         name: Arnavutköy
@@ -635306,25 +635299,10 @@ state_city:
         latitude: '41.03786000'
         longitude: '28.96767000'
       -
-        id: 107375
-        name: Boyalık
-        latitude: '41.26337000'
-        longitude: '28.63142000'
-      -
-        id: 107421
-        name: Büyükçavuşlu
-        latitude: '41.24002000'
-        longitude: '28.06331000'
-      -
         id: 107422
         name: Büyükçekmece
         latitude: '41.04521000'
         longitude: '28.59573000'
-      -
-        id: 108780
-        name: Çanta
-        latitude: '41.07897000'
-        longitude: '28.08323000'
       -
         id: 108788
         name: Çatalca
@@ -635335,16 +635313,6 @@ state_city:
         name: Çekmeköy
         latitude: '41.03819000'
         longitude: '29.20029000'
-      -
-        id: 107425
-        name: Celâliye
-        latitude: '41.05188000'
-        longitude: '28.41867000'
-      -
-        id: 107536
-        name: Durusu
-        latitude: '41.30337000'
-        longitude: '28.67635000'
       -
         id: 107575
         name: Eminönü
@@ -635381,26 +635349,6 @@ state_city:
         latitude: '41.01787000'
         longitude: '28.87882000'
       -
-        id: 108756
-        name: 'güngören merter'
-        latitude: '41.00711000'
-        longitude: '28.88795000'
-      -
-        id: 107754
-        name: Gürpınar
-        latitude: '40.99256000'
-        longitude: '28.61428000'
-      -
-        id: 108927
-        name: İçmeler
-        latitude: '40.84639000'
-        longitude: '29.30889000'
-      -
-        id: 107851
-        name: Istanbul
-        latitude: '41.01384000'
-        longitude: '28.94966000'
-      -
         id: 107863
         name: Kadıköy
         latitude: '40.98229000'
@@ -635411,60 +635359,20 @@ state_city:
         latitude: '41.08319000'
         longitude: '28.97826000'
       -
-        id: 107892
-        name: Karacaköy
-        latitude: '41.40338000'
-        longitude: '28.38055000'
-      -
         id: 107933
         name: Kartal
         latitude: '40.91197000'
         longitude: '29.21190000'
-      -
-        id: 107942
-        name: Kavaklı
-        latitude: '41.09258000'
-        longitude: '28.33172000'
-      -
-        id: 108100
-        name: Kınalı
-        latitude: '40.90713000'
-        longitude: '29.05499000'
       -
         id: 108095
         name: Küçükçekmece
         latitude: '41.06947000'
         longitude: '28.76983000'
       -
-        id: 108047
-        name: Kumburgaz
-        latitude: '41.02108000'
-        longitude: '28.48033000'
-      -
         id: 108146
         name: Maltepe
         latitude: '40.95890000'
         longitude: '29.17866000'
-      -
-        id: 108199
-        name: 'Merter Keresteciler'
-        latitude: '41.01295000'
-        longitude: '28.88593000'
-      -
-        id: 108213
-        name: Mimarsinan
-        latitude: '41.01790000'
-        longitude: '28.56176000'
-      -
-        id: 108221
-        name: Muratbey
-        latitude: '41.09630000'
-        longitude: '28.49227000'
-      -
-        id: 108287
-        name: Ortaköy
-        latitude: '41.10154000'
-        longitude: '28.37588000'
       -
         id: 108336
         name: Pendik
@@ -635480,11 +635388,6 @@ state_city:
         name: Sarıyer
         latitude: '41.21482000'
         longitude: '29.05678000'
-      -
-        id: 108432
-        name: Selimpaşa
-        latitude: '41.05448000'
-        longitude: '28.36678000'
       -
         id: 108958
         name: Şile
@@ -635511,11 +635414,6 @@ state_city:
         latitude: '41.21792000'
         longitude: '28.71740000'
       -
-        id: 108568
-        name: Tepecik
-        latitude: '41.02931000'
-        longitude: '28.54978000'
-      -
         id: 108609
         name: Tuzla
         latitude: '40.86368000'
@@ -635531,18 +635429,13 @@ state_city:
         latitude: '41.02274000'
         longitude: '29.01366000'
       -
-        id: 108662
-        name: Yakuplu
-        latitude: '40.98894000'
-        longitude: '28.67582000'
-      -
         id: 108750
         name: Zeytinburnu
         latitude: '41.00824000'
         longitude: '28.90952000'
   -
     id: 2205
-    name: 'İzmir Province'
+    name: İzmir
     state_code: '35'
     latitude: '38.35916930'
     longitude: '27.26761160'
@@ -635765,7 +635658,7 @@ state_city:
         longitude: '27.07222000'
   -
     id: 2227
-    name: 'Kahramanmaraş Province'
+    name: Kahramanmaraş
     state_code: '46'
     latitude: '37.75030360'
     longitude: '36.95410700'
@@ -635843,7 +635736,7 @@ state_city:
         longitude: '36.84626000'
   -
     id: 2223
-    name: 'Karabük Province'
+    name: Karabük
     state_code: '78'
     latitude: '41.18748900'
     longitude: '32.74174190'
@@ -635886,7 +635779,7 @@ state_city:
         longitude: '32.33133000'
   -
     id: 2184
-    name: 'Karaman Province'
+    name: Karaman
     state_code: '70'
     latitude: '37.24363360'
     longitude: '33.61757700'
@@ -635929,7 +635822,7 @@ state_city:
         longitude: '32.61203000'
   -
     id: 2208
-    name: 'Kars Province'
+    name: Kars
     state_code: '36'
     latitude: '40.28076360'
     longitude: '42.99195270'
@@ -635977,7 +635870,7 @@ state_city:
         longitude: '43.12769000'
   -
     id: 2197
-    name: 'Kastamonu Province'
+    name: Kastamonu
     state_code: '37'
     latitude: '41.41038630'
     longitude: '33.69983340'
@@ -636085,7 +635978,7 @@ state_city:
         longitude: '34.04013000'
   -
     id: 2200
-    name: 'Kayseri Province'
+    name: Kayseri
     state_code: '38'
     latitude: '38.62568540'
     longitude: '35.74068820'
@@ -636183,7 +636076,7 @@ state_city:
         longitude: '35.11795000'
   -
     id: 2154
-    name: 'Kilis Province'
+    name: Kilis
     state_code: '79'
     latitude: '36.82047750'
     longitude: '37.16873390'
@@ -636211,7 +636104,7 @@ state_city:
         longitude: '37.15083000'
   -
     id: 2178
-    name: 'Kırıkkale Province'
+    name: Kırıkkale
     state_code: '71'
     latitude: '39.88768780'
     longitude: '33.75552480'
@@ -636264,7 +636157,7 @@ state_city:
         longitude: '33.45615000'
   -
     id: 2176
-    name: 'Kırklareli Province'
+    name: Kırklareli
     state_code: '39'
     latitude: '41.72597950'
     longitude: '27.48383900'
@@ -636317,7 +636210,7 @@ state_city:
         longitude: '27.76583000'
   -
     id: 2180
-    name: 'Kırşehir Province'
+    name: Kırşehir
     state_code: '40'
     latitude: '39.22689050'
     longitude: '33.97500180'
@@ -636360,7 +636253,7 @@ state_city:
         longitude: '34.38286000'
   -
     id: 2195
-    name: 'Kocaeli Province'
+    name: Kocaeli
     state_code: '41'
     latitude: '40.85327040'
     longitude: '29.88152030'
@@ -636493,7 +636386,7 @@ state_city:
         longitude: '29.96738000'
   -
     id: 2171
-    name: 'Konya Province'
+    name: Konya
     state_code: '42'
     latitude: '37.98381340'
     longitude: '32.71813750'
@@ -636691,7 +636584,7 @@ state_city:
         longitude: '31.73223000'
   -
     id: 2149
-    name: 'Kütahya Province'
+    name: Kütahya
     state_code: '43'
     latitude: '39.35813700'
     longitude: '29.60354950'
@@ -636764,7 +636657,7 @@ state_city:
         longitude: '29.49866000'
   -
     id: 2158
-    name: 'Malatya Province'
+    name: Malatya
     state_code: '44'
     latitude: '38.40150570'
     longitude: '37.95362980'
@@ -636842,7 +636735,7 @@ state_city:
         longitude: '38.24526000'
   -
     id: 2198
-    name: 'Manisa Province'
+    name: Manisa
     state_code: '45'
     latitude: '38.84193730'
     longitude: '28.11226790'
@@ -636945,7 +636838,7 @@ state_city:
         longitude: '27.67635000'
   -
     id: 2224
-    name: 'Mardin Province'
+    name: Mardin
     state_code: '47'
     latitude: '37.34429290'
     longitude: '40.61964870'
@@ -637273,7 +637166,7 @@ state_city:
         longitude: '41.31778000'
   -
     id: 2156
-    name: 'Mersin Province'
+    name: Mersin
     state_code: '33'
     latitude: '36.81208580'
     longitude: '34.64147500'
@@ -637371,7 +637264,7 @@ state_city:
         longitude: '34.57621000'
   -
     id: 2182
-    name: 'Muğla Province'
+    name: Muğla
     state_code: '48'
     latitude: '37.18358190'
     longitude: '28.48639630'
@@ -637509,7 +637402,7 @@ state_city:
         longitude: '28.11441000'
   -
     id: 2162
-    name: 'Muş Province'
+    name: Muş
     state_code: '49'
     latitude: '38.94618880'
     longitude: '41.75389310'
@@ -637552,7 +637445,7 @@ state_city:
         longitude: '41.45402000'
   -
     id: 2196
-    name: 'Nevşehir Province'
+    name: Nevşehir
     state_code: '50'
     latitude: '38.69393990'
     longitude: '34.68565090'
@@ -637610,7 +637503,7 @@ state_city:
         longitude: '34.94020000'
   -
     id: 2189
-    name: 'Niğde Province'
+    name: Niğde
     state_code: '51'
     latitude: '38.09930860'
     longitude: '34.68565090'
@@ -637648,7 +637541,7 @@ state_city:
         longitude: '34.58737000'
   -
     id: 2174
-    name: 'Ordu Province'
+    name: Ordu
     state_code: '52'
     latitude: '40.79905800'
     longitude: '37.38990050'
@@ -637761,7 +637654,7 @@ state_city:
         longitude: '37.27246000'
   -
     id: 2214
-    name: 'Osmaniye Province'
+    name: Osmaniye
     state_code: '80'
     latitude: '37.21302580'
     longitude: '36.17626150'
@@ -637804,7 +637697,7 @@ state_city:
         longitude: '36.14661000'
   -
     id: 2219
-    name: 'Rize Province'
+    name: Rize
     state_code: '53'
     latitude: '40.95814970'
     longitude: '40.92269850'
@@ -637867,7 +637760,7 @@ state_city:
         longitude: '40.52194000'
   -
     id: 2150
-    name: 'Sakarya Province'
+    name: Sakarya
     state_code: '54'
     latitude: '40.78885500'
     longitude: '30.40595400'
@@ -637960,7 +637853,7 @@ state_city:
         longitude: '30.49278000'
   -
     id: 2220
-    name: 'Samsun Province'
+    name: Samsun
     state_code: '55'
     latitude: '41.18648590'
     longitude: '36.13226780'
@@ -638058,7 +637951,7 @@ state_city:
         longitude: '35.52889000'
   -
     id: 2183
-    name: 'Şanlıurfa Province'
+    name: Şanlıurfa
     state_code: '63'
     latitude: '37.35691020'
     longitude: '39.15436770'
@@ -638221,7 +638114,7 @@ state_city:
         longitude: '40.13194000'
   -
     id: 2207
-    name: 'Siirt Province'
+    name: Siirt
     state_code: '56'
     latitude: '37.86588620'
     longitude: '42.14945230'
@@ -638339,7 +638232,7 @@ state_city:
         longitude: '42.01210000'
   -
     id: 4854
-    name: 'Sinop Province'
+    name: Sinop
     state_code: '57'
     latitude: '41.55947490'
     longitude: '34.85805320'
@@ -638392,7 +638285,7 @@ state_city:
         longitude: '34.33861111'
   -
     id: 2181
-    name: 'Sivas Province'
+    name: Sivas
     state_code: '58'
     latitude: '39.44880390'
     longitude: '37.12944970'
@@ -638495,7 +638388,7 @@ state_city:
         longitude: '37.77499000'
   -
     id: 2225
-    name: 'Şırnak Province'
+    name: Şırnak
     state_code: '73'
     latitude: '37.41874810'
     longitude: '42.49183380'
@@ -638693,7 +638586,7 @@ state_city:
         longitude: '42.42472000'
   -
     id: 2167
-    name: 'Tekirdağ Province'
+    name: Tekirdağ
     state_code: '59'
     latitude: '41.11212270'
     longitude: '27.26761160'
@@ -638781,7 +638674,7 @@ state_city:
         longitude: '27.87833000'
   -
     id: 2199
-    name: 'Tokat Province'
+    name: Tokat
     state_code: '60'
     latitude: '40.39027130'
     longitude: '36.62518630'
@@ -638849,7 +638742,7 @@ state_city:
         longitude: '35.88639000'
   -
     id: 2206
-    name: 'Trabzon Province'
+    name: Trabzon
     state_code: '61'
     latitude: '40.79924100'
     longitude: '39.58479440'
@@ -638952,7 +638845,7 @@ state_city:
         longitude: '39.85546000'
   -
     id: 2192
-    name: 'Tunceli Province'
+    name: Tunceli
     state_code: '62'
     latitude: '39.30735540'
     longitude: '39.43877780'
@@ -639015,7 +638908,7 @@ state_city:
         longitude: '39.54351000'
   -
     id: 2201
-    name: 'Uşak Province'
+    name: Uşak
     state_code: '64'
     latitude: '38.54313190'
     longitude: '29.23207840'
@@ -639083,7 +638976,7 @@ state_city:
         longitude: '29.40580000'
   -
     id: 2152
-    name: 'Van Province'
+    name: Van
     state_code: '65'
     latitude: '38.36794170'
     longitude: '43.71827870'
@@ -639166,7 +639059,7 @@ state_city:
         longitude: '43.38323000'
   -
     id: 2218
-    name: 'Yalova Province'
+    name: Yalova
     state_code: '77'
     latitude: '40.57759860'
     longitude: '29.20883030'
@@ -639234,7 +639127,7 @@ state_city:
         longitude: '29.27693000'
   -
     id: 2188
-    name: 'Yozgat Province'
+    name: Yozgat
     state_code: '66'
     latitude: '39.72719790'
     longitude: '35.10778580'
@@ -639317,7 +639210,7 @@ state_city:
         longitude: '34.80444000'
   -
     id: 2213
-    name: 'Zonguldak Province'
+    name: Zonguldak
     state_code: '67'
     latitude: '41.31249170'
     longitude: '31.85982510'
