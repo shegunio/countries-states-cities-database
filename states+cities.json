@@ -494041,7 +494041,7 @@
     },
     {
         "id": 946,
-        "name": "Boaco Department",
+        "name": "Boaco",
         "state_code": "BO",
         "latitude": "12.46928400",
         "longitude": "-85.66146820",
@@ -494087,7 +494087,7 @@
     },
     {
         "id": 950,
-        "name": "Carazo Department",
+        "name": "Carazo",
         "state_code": "CA",
         "latitude": "11.72747290",
         "longitude": "-86.21584970",
@@ -494151,7 +494151,7 @@
     },
     {
         "id": 954,
-        "name": "Chinandega Department",
+        "name": "Chinandega",
         "state_code": "CI",
         "latitude": "12.88200620",
         "longitude": "-87.14228950",
@@ -494233,7 +494233,7 @@
     },
     {
         "id": 940,
-        "name": "Chontales Department",
+        "name": "Chontales",
         "state_code": "CO",
         "latitude": "11.93947170",
         "longitude": "-85.18940450",
@@ -494297,7 +494297,7 @@
     },
     {
         "id": 945,
-        "name": "Estelí Department",
+        "name": "Estelí",
         "state_code": "ES",
         "latitude": "13.08511390",
         "longitude": "-86.36301970",
@@ -494337,7 +494337,7 @@
     },
     {
         "id": 943,
-        "name": "Granada Department",
+        "name": "Granada",
         "state_code": "GR",
         "latitude": "11.93440730",
         "longitude": "-85.95600050",
@@ -494371,7 +494371,7 @@
     },
     {
         "id": 955,
-        "name": "Jinotega Department",
+        "name": "Jinotega",
         "state_code": "JI",
         "latitude": "13.08839070",
         "longitude": "-85.99939970",
@@ -494429,7 +494429,7 @@
     },
     {
         "id": 944,
-        "name": "León Department",
+        "name": "León",
         "state_code": "LE",
         "latitude": "12.50920370",
         "longitude": "-86.66110830",
@@ -494499,7 +494499,7 @@
     },
     {
         "id": 948,
-        "name": "Madriz Department",
+        "name": "Madriz",
         "state_code": "MD",
         "latitude": "13.47260050",
         "longitude": "-86.45920910",
@@ -494563,7 +494563,7 @@
     },
     {
         "id": 941,
-        "name": "Managua Department",
+        "name": "Managua",
         "state_code": "MN",
         "latitude": "12.13916990",
         "longitude": "-86.33767610",
@@ -494627,7 +494627,7 @@
     },
     {
         "id": 953,
-        "name": "Masaya Department",
+        "name": "Masaya",
         "state_code": "MS",
         "latitude": "11.97593280",
         "longitude": "-86.07334980",
@@ -494715,7 +494715,7 @@
     },
     {
         "id": 947,
-        "name": "Matagalpa Department",
+        "name": "Matagalpa",
         "state_code": "MT",
         "latitude": "12.94984360",
         "longitude": "-85.43755740",
@@ -494773,7 +494773,7 @@
     },
     {
         "id": 951,
-        "name": "North Caribbean Coast Autonomous Region",
+        "name": "North Caribbean Coast",
         "state_code": "AN",
         "latitude": "13.83944560",
         "longitude": "-83.93208060",
@@ -494818,8 +494818,90 @@
         ]
     },
     {
+        "id": 4964,
+        "name": "Nueva Segovia\t",
+        "state_code": "NS",
+        "latitude": "13.76570610",
+        "longitude": "-86.53700390",
+        "country_id": 159,
+        "cities": [
+            {
+                "id": 149132,
+                "name": "Ciudad Antigua",
+                "latitude": "13.63929030",
+                "longitude": "-86.31189830"
+            },
+            {
+                "id": 149133,
+                "name": "Dipilto",
+                "latitude": "13.72225520",
+                "longitude": "-86.51366060"
+            },
+            {
+                "id": 149134,
+                "name": "El Jícaro",
+                "latitude": "13.72222480",
+                "longitude": "-86.14115420"
+            },
+            {
+                "id": 149135,
+                "name": "Jalapa",
+                "latitude": "13.92071420",
+                "longitude": "-86.14212330"
+            },
+            {
+                "id": 149136,
+                "name": "Macuelizo",
+                "latitude": "13.65192960",
+                "longitude": "-86.61427170"
+            },
+            {
+                "id": 149137,
+                "name": "Mozonte",
+                "latitude": "13.65956840",
+                "longitude": "-86.44536490"
+            },
+            {
+                "id": 149138,
+                "name": "Murra",
+                "latitude": "13.75927550",
+                "longitude": "-86.02196840"
+            },
+            {
+                "id": 149139,
+                "name": "Ocotal",
+                "latitude": "13.63411380",
+                "longitude": "-86.50107470"
+            },
+            {
+                "id": 149140,
+                "name": "Quilalí",
+                "latitude": "13.56491080",
+                "longitude": "-86.02921480"
+            },
+            {
+                "id": 149141,
+                "name": "San Fernando",
+                "latitude": "13.67873430",
+                "longitude": "-86.32079750"
+            },
+            {
+                "id": 149142,
+                "name": "Santa María",
+                "latitude": "13.74665480",
+                "longitude": "-86.71124070"
+            },
+            {
+                "id": 149143,
+                "name": "Wiwilí",
+                "latitude": "13.62076450",
+                "longitude": "-85.83169700"
+            }
+        ]
+    },
+    {
         "id": 949,
-        "name": "Río San Juan Department",
+        "name": "Río San Juan",
         "state_code": "SJ",
         "latitude": "11.47816100",
         "longitude": "-84.77333250",
@@ -494859,7 +494941,7 @@
     },
     {
         "id": 942,
-        "name": "Rivas Department",
+        "name": "Rivas",
         "state_code": "RI",
         "latitude": "11.40234900",
         "longitude": "-85.68457800",
@@ -494989,7 +495071,7 @@
     },
     {
         "id": 952,
-        "name": "South Caribbean Coast Autonomous Region",
+        "name": "South Caribbean Coast",
         "state_code": "AS",
         "latitude": "12.19185020",
         "longitude": "-84.10128610",
@@ -645128,6 +645210,12 @@
                 "longitude": "36.83333000"
             },
             {
+                "id": 100783,
+                "name": "Klyazminskoe Reservoir",
+                "latitude": "55.99507000",
+                "longitude": "37.67199000"
+            },
+            {
                 "id": 99141,
                 "name": "Kolomenskiy Rayon",
                 "latitude": "55.08333000",
@@ -645822,12 +645910,6 @@
                 "name": "Posëlok Mar’ino",
                 "latitude": "55.55000000",
                 "longitude": "37.32000000"
-            },
-            {
-                "id": 100783,
-                "name": "Poselok Turisticheskogo pansionata \"Klyazminskoe vodohranilische\"",
-                "latitude": "55.99507000",
-                "longitude": "37.67199000"
             },
             {
                 "id": 100790,
@@ -737198,7 +737280,26 @@
         "latitude": "47.56666700",
         "longitude": "7.60000000",
         "country_id": 214,
-        "cities": []
+        "cities": [
+            {
+                "id": 149129,
+                "name": "Basel",
+                "latitude": "47.55472200",
+                "longitude": "7.59055600"
+            },
+            {
+                "id": 149130,
+                "name": "Bettingen",
+                "latitude": "47.57138900",
+                "longitude": "7.66416700"
+            },
+            {
+                "id": 149131,
+                "name": "Riehen",
+                "latitude": "47.58333300",
+                "longitude": "7.63333300"
+            }
+        ]
     },
     {
         "id": 1645,
@@ -738208,7 +738309,7 @@
     },
     {
         "id": 1640,
-        "name": "Canton of Fribourg",
+        "name": "Fribourg",
         "state_code": "FR",
         "latitude": "46.68167480",
         "longitude": "7.11726350",

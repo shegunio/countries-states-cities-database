@@ -473022,6 +473022,12 @@
       <longitude>-86.86808000</longitude>
     </cities>
     <cities>
+      <id>149132</id>
+      <name>Ciudad Antigua</name>
+      <latitude>13.63929030</latitude>
+      <longitude>-86.31189830</longitude>
+    </cities>
+    <cities>
       <id>77168</id>
       <name>Ciudad Darío</name>
       <latitude>12.73143000</latitude>
@@ -473062,6 +473068,12 @@
       <name>Cuapa</name>
       <latitude>12.26875000</latitude>
       <longitude>-85.38205000</longitude>
+    </cities>
+    <cities>
+      <id>149133</id>
+      <name>Dipilto</name>
+      <latitude>13.72225520</latitude>
+      <longitude>-86.51366060</longitude>
     </cities>
     <cities>
       <id>77178</id>
@@ -473118,6 +473130,12 @@
       <longitude>-86.38057000</longitude>
     </cities>
     <cities>
+      <id>149134</id>
+      <name>El Jícaro</name>
+      <latitude>13.72222480</latitude>
+      <longitude>-86.14115420</longitude>
+    </cities>
+    <cities>
       <id>77185</id>
       <name>El Rama</name>
       <latitude>12.15965000</latitude>
@@ -473170,6 +473188,12 @@
       <name>Greytown</name>
       <latitude>10.94684000</latitude>
       <longitude>-83.73467000</longitude>
+    </cities>
+    <cities>
+      <id>149135</id>
+      <name>Jalapa</name>
+      <latitude>13.92071420</latitude>
+      <longitude>-86.14212330</longitude>
     </cities>
     <cities>
       <id>77194</id>
@@ -473286,6 +473310,12 @@
       <longitude>-86.00833000</longitude>
     </cities>
     <cities>
+      <id>149136</id>
+      <name>Macuelizo</name>
+      <latitude>13.65192960</latitude>
+      <longitude>-86.61427170</longitude>
+    </cities>
+    <cities>
       <id>77213</id>
       <name>Managua</name>
       <latitude>12.13282000</latitude>
@@ -473332,6 +473362,12 @@
       <name>Moyogalpa</name>
       <latitude>11.54006000</latitude>
       <longitude>-85.69795000</longitude>
+    </cities>
+    <cities>
+      <id>149137</id>
+      <name>Mozonte</name>
+      <latitude>13.65956840</latitude>
+      <longitude>-86.44536490</longitude>
     </cities>
     <cities>
       <id>77221</id>
@@ -473436,6 +473472,12 @@
       <longitude>-86.00789000</longitude>
     </cities>
     <cities>
+      <id>149138</id>
+      <name>Murra</name>
+      <latitude>13.75927550</latitude>
+      <longitude>-86.02196840</longitude>
+    </cities>
+    <cities>
       <id>77238</id>
       <name>Muy Muy</name>
       <latitude>12.76224000</latitude>
@@ -473476,6 +473518,12 @@
       <name>Nueva Guinea</name>
       <latitude>11.68758000</latitude>
       <longitude>-84.45616000</longitude>
+    </cities>
+    <cities>
+      <id>149139</id>
+      <name>Ocotal</name>
+      <latitude>13.63411380</latitude>
+      <longitude>-86.50107470</longitude>
     </cities>
     <cities>
       <id>77245</id>
@@ -473526,6 +473574,12 @@
       <longitude>-86.90292000</longitude>
     </cities>
     <cities>
+      <id>149140</id>
+      <name>Quilalí</name>
+      <latitude>13.56491080</latitude>
+      <longitude>-86.02921480</longitude>
+    </cities>
+    <cities>
       <id>77254</id>
       <name>Río Blanco</name>
       <latitude>12.93435000</latitude>
@@ -473548,6 +473602,12 @@
       <name>San Dionisio</name>
       <latitude>12.76023000</latitude>
       <longitude>-85.85018000</longitude>
+    </cities>
+    <cities>
+      <id>149141</id>
+      <name>San Fernando</name>
+      <latitude>13.67873430</latitude>
+      <longitude>-86.32079750</longitude>
     </cities>
     <cities>
       <id>77257</id>
@@ -473650,6 +473710,12 @@
       <name>Santa Lucía</name>
       <latitude>12.53262000</latitude>
       <longitude>-85.71074000</longitude>
+    </cities>
+    <cities>
+      <id>149142</id>
+      <name>Santa María</name>
+      <latitude>13.74665480</latitude>
+      <longitude>-86.71124070</longitude>
     </cities>
     <cities>
       <id>77274</id>
@@ -473782,6 +473848,12 @@
       <name>Waspán</name>
       <latitude>14.74189000</latitude>
       <longitude>-83.97170000</longitude>
+    </cities>
+    <cities>
+      <id>149143</id>
+      <name>Wiwilí</name>
+      <latitude>13.62076450</latitude>
+      <longitude>-85.83169700</longitude>
     </cities>
     <cities>
       <id>77296</id>
@@ -618000,6 +618072,12 @@
       <longitude>52.02674000</longitude>
     </cities>
     <cities>
+      <id>100783</id>
+      <name>Klyazminskoe Reservoir</name>
+      <latitude>55.99507000</latitude>
+      <longitude>37.67199000</longitude>
+    </cities>
+    <cities>
       <id>99109</id>
       <name>Klyuchevsk</name>
       <latitude>57.12160000</latitude>
@@ -628420,12 +628498,6 @@
       <name>Posëlok Mar’ino</name>
       <latitude>55.55000000</latitude>
       <longitude>37.32000000</longitude>
-    </cities>
-    <cities>
-      <id>100783</id>
-      <name>Poselok Turisticheskogo pansionata "Klyazminskoe vodohranilische"</name>
-      <latitude>55.99507000</latitude>
-      <longitude>37.67199000</longitude>
     </cities>
     <cities>
       <id>100785</id>
@@ -708088,6 +708160,12 @@
       <longitude>7.11251000</longitude>
     </cities>
     <cities>
+      <id>149129</id>
+      <name>Basel</name>
+      <latitude>47.55472200</latitude>
+      <longitude>7.59055600</longitude>
+    </cities>
+    <cities>
       <id>17441</id>
       <name>Basse-Nendaz</name>
       <latitude>46.18993000</latitude>
@@ -708254,6 +708332,12 @@
       <name>Besenbüren</name>
       <latitude>47.31439000</latitude>
       <longitude>8.34586000</longitude>
+    </cities>
+    <cities>
+      <id>149130</id>
+      <name>Bettingen</name>
+      <latitude>47.57138900</latitude>
+      <longitude>7.66416700</longitude>
     </cities>
     <cities>
       <id>17468</id>
@@ -713678,6 +713762,12 @@
       <name>Riedholz</name>
       <latitude>47.23158000</latitude>
       <longitude>7.56829000</longitude>
+    </cities>
+    <cities>
+      <id>149131</id>
+      <name>Riehen</name>
+      <latitude>47.58333300</latitude>
+      <longitude>7.63333300</longitude>
     </cities>
     <cities>
       <id>18376</id>

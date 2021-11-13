@@ -855075,6 +855075,138 @@
     <wikiDataId>Q2217458</wikiDataId>
   </city>
   <city>
+    <id>149132</id>
+    <name>Ciudad Antigua</name>
+    <state_id>4964</state_id>
+    <state_code>NS</state_code>
+    <country_id>159</country_id>
+    <country_code>NI</country_code>
+    <latitude>13.63929030</latitude>
+    <longitude>-86.31189830</longitude>
+    <wikiDataId>Q2215588</wikiDataId>
+  </city>
+  <city>
+    <id>149133</id>
+    <name>Dipilto</name>
+    <state_id>4964</state_id>
+    <state_code>NS</state_code>
+    <country_id>159</country_id>
+    <country_code>NI</country_code>
+    <latitude>13.72225520</latitude>
+    <longitude>-86.51366060</longitude>
+    <wikiDataId>Q2215450</wikiDataId>
+  </city>
+  <city>
+    <id>149134</id>
+    <name>El Jícaro</name>
+    <state_id>4964</state_id>
+    <state_code>NS</state_code>
+    <country_id>159</country_id>
+    <country_code>NI</country_code>
+    <latitude>13.72222480</latitude>
+    <longitude>-86.14115420</longitude>
+    <wikiDataId>Q2394975</wikiDataId>
+  </city>
+  <city>
+    <id>149135</id>
+    <name>Jalapa</name>
+    <state_id>4964</state_id>
+    <state_code>NS</state_code>
+    <country_id>159</country_id>
+    <country_code>NI</country_code>
+    <latitude>13.92071420</latitude>
+    <longitude>-86.14212330</longitude>
+    <wikiDataId>Q2395471</wikiDataId>
+  </city>
+  <city>
+    <id>149136</id>
+    <name>Macuelizo</name>
+    <state_id>4964</state_id>
+    <state_code>NS</state_code>
+    <country_id>159</country_id>
+    <country_code>NI</country_code>
+    <latitude>13.65192960</latitude>
+    <longitude>-86.61427170</longitude>
+    <wikiDataId>Q1647684</wikiDataId>
+  </city>
+  <city>
+    <id>149137</id>
+    <name>Mozonte</name>
+    <state_id>4964</state_id>
+    <state_code>NS</state_code>
+    <country_id>159</country_id>
+    <country_code>NI</country_code>
+    <latitude>13.65956840</latitude>
+    <longitude>-86.44536490</longitude>
+    <wikiDataId>Q2215922</wikiDataId>
+  </city>
+  <city>
+    <id>149138</id>
+    <name>Murra</name>
+    <state_id>4964</state_id>
+    <state_code>NS</state_code>
+    <country_id>159</country_id>
+    <country_code>NI</country_code>
+    <latitude>13.75927550</latitude>
+    <longitude>-86.02196840</longitude>
+    <wikiDataId>Q2215609</wikiDataId>
+  </city>
+  <city>
+    <id>149139</id>
+    <name>Ocotal</name>
+    <state_id>4964</state_id>
+    <state_code>NS</state_code>
+    <country_id>159</country_id>
+    <country_code>NI</country_code>
+    <latitude>13.63411380</latitude>
+    <longitude>-86.50107470</longitude>
+    <wikiDataId>Q1025830</wikiDataId>
+  </city>
+  <city>
+    <id>149140</id>
+    <name>Quilalí</name>
+    <state_id>4964</state_id>
+    <state_code>NS</state_code>
+    <country_id>159</country_id>
+    <country_code>NI</country_code>
+    <latitude>13.56491080</latitude>
+    <longitude>-86.02921480</longitude>
+    <wikiDataId>Q2604559</wikiDataId>
+  </city>
+  <city>
+    <id>149141</id>
+    <name>San Fernando</name>
+    <state_id>4964</state_id>
+    <state_code>NS</state_code>
+    <country_id>159</country_id>
+    <country_code>NI</country_code>
+    <latitude>13.67873430</latitude>
+    <longitude>-86.32079750</longitude>
+    <wikiDataId>Q1647665</wikiDataId>
+  </city>
+  <city>
+    <id>149142</id>
+    <name>Santa María</name>
+    <state_id>4964</state_id>
+    <state_code>NS</state_code>
+    <country_id>159</country_id>
+    <country_code>NI</country_code>
+    <latitude>13.74665480</latitude>
+    <longitude>-86.71124070</longitude>
+    <wikiDataId>Q1647660</wikiDataId>
+  </city>
+  <city>
+    <id>149143</id>
+    <name>Wiwilí</name>
+    <state_id>4964</state_id>
+    <state_code>NS</state_code>
+    <country_id>159</country_id>
+    <country_code>NI</country_code>
+    <latitude>13.62076450</latitude>
+    <longitude>-85.83169700</longitude>
+    <wikiDataId>Q1014671</wikiDataId>
+  </city>
+  <city>
     <id>77180</id>
     <name>El Almendro</name>
     <state_id>949</state_id>
@@ -1123277,6 +1123409,17 @@
     <wikiDataId>Q2710109</wikiDataId>
   </city>
   <city>
+    <id>100783</id>
+    <name>Klyazminskoe Reservoir</name>
+    <state_id>1882</state_id>
+    <state_code>MOS</state_code>
+    <country_id>182</country_id>
+    <country_code>RU</country_code>
+    <latitude>55.99507000</latitude>
+    <longitude>37.67199000</longitude>
+    <wikiDataId>Q19521769</wikiDataId>
+  </city>
+  <city>
     <id>99141</id>
     <name>Kolomenskiy Rayon</name>
     <state_id>1882</state_id>
@@ -1124551,17 +1124694,6 @@
     <latitude>55.55000000</latitude>
     <longitude>37.32000000</longitude>
     <wikiDataId>Q37964888</wikiDataId>
-  </city>
-  <city>
-    <id>100783</id>
-    <name>Poselok Turisticheskogo pansionata "Klyazminskoe vodohranilische"</name>
-    <state_id>1882</state_id>
-    <state_code>MOS</state_code>
-    <country_id>182</country_id>
-    <country_code>RU</country_code>
-    <latitude>55.99507000</latitude>
-    <longitude>37.67199000</longitude>
-    <wikiDataId>Q19521769</wikiDataId>
   </city>
   <city>
     <id>100790</id>
@@ -1281378,6 +1281510,39 @@
     <latitude>47.43825000</latitude>
     <longitude>7.53027000</longitude>
     <wikiDataId>Q22659164</wikiDataId>
+  </city>
+  <city>
+    <id>149129</id>
+    <name>Basel</name>
+    <state_id>4957</state_id>
+    <state_code>BS</state_code>
+    <country_id>214</country_id>
+    <country_code>CH</country_code>
+    <latitude>47.55472200</latitude>
+    <longitude>7.59055600</longitude>
+    <wikiDataId>Q78</wikiDataId>
+  </city>
+  <city>
+    <id>149130</id>
+    <name>Bettingen</name>
+    <state_id>4957</state_id>
+    <state_code>BS</state_code>
+    <country_id>214</country_id>
+    <country_code>CH</country_code>
+    <latitude>47.57138900</latitude>
+    <longitude>7.66416700</longitude>
+    <wikiDataId>Q67530</wikiDataId>
+  </city>
+  <city>
+    <id>149131</id>
+    <name>Riehen</name>
+    <state_id>4957</state_id>
+    <state_code>BS</state_code>
+    <country_id>214</country_id>
+    <country_code>CH</country_code>
+    <latitude>47.58333300</latitude>
+    <longitude>7.63333300</longitude>
+    <wikiDataId>Q5262</wikiDataId>
   </city>
   <city>
     <id>17358</id>

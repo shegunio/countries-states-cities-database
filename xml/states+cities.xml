@@ -489980,7 +489980,7 @@
   </state_city>
   <state_city>
     <id>946</id>
-    <name>Boaco Department</name>
+    <name>Boaco</name>
     <state_code>BO</state_code>
     <latitude>12.46928400</latitude>
     <longitude>-85.66146820</longitude>
@@ -490024,7 +490024,7 @@
   </state_city>
   <state_city>
     <id>950</id>
-    <name>Carazo Department</name>
+    <name>Carazo</name>
     <state_code>CA</state_code>
     <latitude>11.72747290</latitude>
     <longitude>-86.21584970</longitude>
@@ -490086,7 +490086,7 @@
   </state_city>
   <state_city>
     <id>954</id>
-    <name>Chinandega Department</name>
+    <name>Chinandega</name>
     <state_code>CI</state_code>
     <latitude>12.88200620</latitude>
     <longitude>-87.14228950</longitude>
@@ -490166,7 +490166,7 @@
   </state_city>
   <state_city>
     <id>940</id>
-    <name>Chontales Department</name>
+    <name>Chontales</name>
     <state_code>CO</state_code>
     <latitude>11.93947170</latitude>
     <longitude>-85.18940450</longitude>
@@ -490228,7 +490228,7 @@
   </state_city>
   <state_city>
     <id>945</id>
-    <name>Estelí Department</name>
+    <name>Estelí</name>
     <state_code>ES</state_code>
     <latitude>13.08511390</latitude>
     <longitude>-86.36301970</longitude>
@@ -490266,7 +490266,7 @@
   </state_city>
   <state_city>
     <id>943</id>
-    <name>Granada Department</name>
+    <name>Granada</name>
     <state_code>GR</state_code>
     <latitude>11.93440730</latitude>
     <longitude>-85.95600050</longitude>
@@ -490298,7 +490298,7 @@
   </state_city>
   <state_city>
     <id>955</id>
-    <name>Jinotega Department</name>
+    <name>Jinotega</name>
     <state_code>JI</state_code>
     <latitude>13.08839070</latitude>
     <longitude>-85.99939970</longitude>
@@ -490354,7 +490354,7 @@
   </state_city>
   <state_city>
     <id>944</id>
-    <name>León Department</name>
+    <name>León</name>
     <state_code>LE</state_code>
     <latitude>12.50920370</latitude>
     <longitude>-86.66110830</longitude>
@@ -490422,7 +490422,7 @@
   </state_city>
   <state_city>
     <id>948</id>
-    <name>Madriz Department</name>
+    <name>Madriz</name>
     <state_code>MD</state_code>
     <latitude>13.47260050</latitude>
     <longitude>-86.45920910</longitude>
@@ -490484,7 +490484,7 @@
   </state_city>
   <state_city>
     <id>941</id>
-    <name>Managua Department</name>
+    <name>Managua</name>
     <state_code>MN</state_code>
     <latitude>12.13916990</latitude>
     <longitude>-86.33767610</longitude>
@@ -490546,7 +490546,7 @@
   </state_city>
   <state_city>
     <id>953</id>
-    <name>Masaya Department</name>
+    <name>Masaya</name>
     <state_code>MS</state_code>
     <latitude>11.97593280</latitude>
     <longitude>-86.07334980</longitude>
@@ -490632,7 +490632,7 @@
   </state_city>
   <state_city>
     <id>947</id>
-    <name>Matagalpa Department</name>
+    <name>Matagalpa</name>
     <state_code>MT</state_code>
     <latitude>12.94984360</latitude>
     <longitude>-85.43755740</longitude>
@@ -490688,7 +490688,7 @@
   </state_city>
   <state_city>
     <id>951</id>
-    <name>North Caribbean Coast Autonomous Region</name>
+    <name>North Caribbean Coast</name>
     <state_code>AN</state_code>
     <latitude>13.83944560</latitude>
     <longitude>-83.93208060</longitude>
@@ -490731,8 +490731,88 @@
     </cities>
   </state_city>
   <state_city>
+    <id>4964</id>
+    <name>Nueva Segovia</name>
+    <state_code>NS</state_code>
+    <latitude>13.76570610</latitude>
+    <longitude>-86.53700390</longitude>
+    <country_id>159</country_id>
+    <cities>
+      <id>149132</id>
+      <name>Ciudad Antigua</name>
+      <latitude>13.63929030</latitude>
+      <longitude>-86.31189830</longitude>
+    </cities>
+    <cities>
+      <id>149133</id>
+      <name>Dipilto</name>
+      <latitude>13.72225520</latitude>
+      <longitude>-86.51366060</longitude>
+    </cities>
+    <cities>
+      <id>149134</id>
+      <name>El Jícaro</name>
+      <latitude>13.72222480</latitude>
+      <longitude>-86.14115420</longitude>
+    </cities>
+    <cities>
+      <id>149135</id>
+      <name>Jalapa</name>
+      <latitude>13.92071420</latitude>
+      <longitude>-86.14212330</longitude>
+    </cities>
+    <cities>
+      <id>149136</id>
+      <name>Macuelizo</name>
+      <latitude>13.65192960</latitude>
+      <longitude>-86.61427170</longitude>
+    </cities>
+    <cities>
+      <id>149137</id>
+      <name>Mozonte</name>
+      <latitude>13.65956840</latitude>
+      <longitude>-86.44536490</longitude>
+    </cities>
+    <cities>
+      <id>149138</id>
+      <name>Murra</name>
+      <latitude>13.75927550</latitude>
+      <longitude>-86.02196840</longitude>
+    </cities>
+    <cities>
+      <id>149139</id>
+      <name>Ocotal</name>
+      <latitude>13.63411380</latitude>
+      <longitude>-86.50107470</longitude>
+    </cities>
+    <cities>
+      <id>149140</id>
+      <name>Quilalí</name>
+      <latitude>13.56491080</latitude>
+      <longitude>-86.02921480</longitude>
+    </cities>
+    <cities>
+      <id>149141</id>
+      <name>San Fernando</name>
+      <latitude>13.67873430</latitude>
+      <longitude>-86.32079750</longitude>
+    </cities>
+    <cities>
+      <id>149142</id>
+      <name>Santa María</name>
+      <latitude>13.74665480</latitude>
+      <longitude>-86.71124070</longitude>
+    </cities>
+    <cities>
+      <id>149143</id>
+      <name>Wiwilí</name>
+      <latitude>13.62076450</latitude>
+      <longitude>-85.83169700</longitude>
+    </cities>
+  </state_city>
+  <state_city>
     <id>949</id>
-    <name>Río San Juan Department</name>
+    <name>Río San Juan</name>
     <state_code>SJ</state_code>
     <latitude>11.47816100</latitude>
     <longitude>-84.77333250</longitude>
@@ -490770,7 +490850,7 @@
   </state_city>
   <state_city>
     <id>942</id>
-    <name>Rivas Department</name>
+    <name>Rivas</name>
     <state_code>RI</state_code>
     <latitude>11.40234900</latitude>
     <longitude>-85.68457800</longitude>
@@ -490898,7 +490978,7 @@
   </state_city>
   <state_city>
     <id>952</id>
-    <name>South Caribbean Coast Autonomous Region</name>
+    <name>South Caribbean Coast</name>
     <state_code>AS</state_code>
     <latitude>12.19185020</latitude>
     <longitude>-84.10128610</longitude>
@@ -640382,6 +640462,12 @@
       <longitude>36.83333000</longitude>
     </cities>
     <cities>
+      <id>100783</id>
+      <name>Klyazminskoe Reservoir</name>
+      <latitude>55.99507000</latitude>
+      <longitude>37.67199000</longitude>
+    </cities>
+    <cities>
       <id>99141</id>
       <name>Kolomenskiy Rayon</name>
       <latitude>55.08333000</latitude>
@@ -641076,12 +641162,6 @@
       <name>Posëlok Mar’ino</name>
       <latitude>55.55000000</latitude>
       <longitude>37.32000000</longitude>
-    </cities>
-    <cities>
-      <id>100783</id>
-      <name>Poselok Turisticheskogo pansionata "Klyazminskoe vodohranilische"</name>
-      <latitude>55.99507000</latitude>
-      <longitude>37.67199000</longitude>
     </cities>
     <cities>
       <id>100790</id>
@@ -731477,7 +731557,24 @@
     <latitude>47.56666700</latitude>
     <longitude>7.60000000</longitude>
     <country_id>214</country_id>
-    <cities/>
+    <cities>
+      <id>149129</id>
+      <name>Basel</name>
+      <latitude>47.55472200</latitude>
+      <longitude>7.59055600</longitude>
+    </cities>
+    <cities>
+      <id>149130</id>
+      <name>Bettingen</name>
+      <latitude>47.57138900</latitude>
+      <longitude>7.66416700</longitude>
+    </cities>
+    <cities>
+      <id>149131</id>
+      <name>Riehen</name>
+      <latitude>47.58333300</latitude>
+      <longitude>7.63333300</longitude>
+    </cities>
   </state_city>
   <state_city>
     <id>1645</id>
@@ -732485,7 +732582,7 @@
   </state_city>
   <state_city>
     <id>1640</id>
-    <name>Canton of Fribourg</name>
+    <name>Fribourg</name>
     <state_code>FR</state_code>
     <latitude>46.68167480</latitude>
     <longitude>7.11726350</longitude>

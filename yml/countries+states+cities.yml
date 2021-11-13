@@ -418334,11 +418334,11 @@ country_state_city:
     states:
       -
         id: 946
-        name: 'Boaco Department'
+        name: Boaco
         state_code: BO
         latitude: '12.46928400'
         longitude: '-85.66146820'
-        type: null
+        type: department
         cities:
           -
             id: 77159
@@ -418372,11 +418372,11 @@ country_state_city:
             longitude: '-85.79798000'
       -
         id: 950
-        name: 'Carazo Department'
+        name: Carazo
         state_code: CA
         latitude: '11.72747290'
         longitude: '-86.21584970'
-        type: null
+        type: department
         cities:
           -
             id: 77176
@@ -418425,11 +418425,11 @@ country_state_city:
             longitude: '-86.21413000'
       -
         id: 954
-        name: 'Chinandega Department'
+        name: Chinandega
         state_code: CI
         latitude: '12.88200620'
         longitude: '-87.14228950'
-        type: null
+        type: department
         cities:
           -
             id: 77165
@@ -418493,11 +418493,11 @@ country_state_city:
             longitude: '-86.90506000'
       -
         id: 940
-        name: 'Chontales Department'
+        name: Chontales
         state_code: CO
         latitude: '11.93947170'
         longitude: '-85.18940450'
-        type: null
+        type: department
         cities:
           -
             id: 77155
@@ -418546,11 +418546,11 @@ country_state_city:
             longitude: '-84.99362000'
       -
         id: 945
-        name: 'Estelí Department'
+        name: Estelí
         state_code: ES
         latitude: '13.08511390'
         longitude: '-86.36301970'
-        type: null
+        type: department
         cities:
           -
             id: 77171
@@ -418579,11 +418579,11 @@ country_state_city:
             longitude: '-86.61234000'
       -
         id: 943
-        name: 'Granada Department'
+        name: Granada
         state_code: GR
         latitude: '11.93440730'
         longitude: '-85.95600050'
-        type: null
+        type: department
         cities:
           -
             id: 77178
@@ -418607,11 +418607,11 @@ country_state_city:
             longitude: '-86.05286000'
       -
         id: 955
-        name: 'Jinotega Department'
+        name: Jinotega
         state_code: JI
         latitude: '13.08839070'
         longitude: '-85.99939970'
-        type: null
+        type: department
         cities:
           -
             id: 77183
@@ -418655,11 +418655,11 @@ country_state_city:
             longitude: '-86.18641000'
       -
         id: 944
-        name: 'León Department'
+        name: León
         state_code: LE
         latitude: '12.50920370'
         longitude: '-86.66110830'
-        type: null
+        type: department
         cities:
           -
             id: 77154
@@ -418713,11 +418713,11 @@ country_state_city:
             longitude: '-86.85938000'
       -
         id: 948
-        name: 'Madriz Department'
+        name: Madriz
         state_code: MD
         latitude: '13.47260050'
         longitude: '-86.45920910'
-        type: null
+        type: department
         cities:
           -
             id: 77211
@@ -418766,11 +418766,11 @@ country_state_city:
             longitude: '-86.49305000'
       -
         id: 941
-        name: 'Managua Department'
+        name: Managua
         state_code: MN
         latitude: '12.13916990'
         longitude: '-86.33767610'
-        type: null
+        type: department
         cities:
           -
             id: 77169
@@ -418819,11 +418819,11 @@ country_state_city:
             longitude: '-86.50571000'
       -
         id: 953
-        name: 'Masaya Department'
+        name: Masaya
         state_code: MS
         latitude: '11.97593280'
         longitude: '-86.07334980'
-        type: null
+        type: department
         cities:
           -
             id: 77164
@@ -418892,11 +418892,11 @@ country_state_city:
             longitude: '-86.01739000'
       -
         id: 947
-        name: 'Matagalpa Department'
+        name: Matagalpa
         state_code: MT
         latitude: '12.94984360'
         longitude: '-85.43755740'
-        type: null
+        type: department
         cities:
           -
             id: 77168
@@ -418940,11 +418940,11 @@ country_state_city:
             longitude: '-85.96474000'
       -
         id: 951
-        name: 'North Caribbean Coast Autonomous Region'
+        name: 'North Caribbean Coast'
         state_code: AN
         latitude: '13.83944560'
         longitude: '-83.93208060'
-        type: null
+        type: "autonomous region\t"
         cities:
           -
             id: 77161
@@ -418977,12 +418977,80 @@ country_state_city:
             latitude: '14.74189000'
             longitude: '-83.97170000'
       -
+        id: 4964
+        name: "Nueva Segovia\t"
+        state_code: NS
+        latitude: '13.76570610'
+        longitude: '-86.53700390'
+        type: department
+        cities:
+          -
+            id: 149132
+            name: 'Ciudad Antigua'
+            latitude: '13.63929030'
+            longitude: '-86.31189830'
+          -
+            id: 149133
+            name: Dipilto
+            latitude: '13.72225520'
+            longitude: '-86.51366060'
+          -
+            id: 149134
+            name: 'El Jícaro'
+            latitude: '13.72222480'
+            longitude: '-86.14115420'
+          -
+            id: 149135
+            name: Jalapa
+            latitude: '13.92071420'
+            longitude: '-86.14212330'
+          -
+            id: 149136
+            name: Macuelizo
+            latitude: '13.65192960'
+            longitude: '-86.61427170'
+          -
+            id: 149137
+            name: Mozonte
+            latitude: '13.65956840'
+            longitude: '-86.44536490'
+          -
+            id: 149138
+            name: Murra
+            latitude: '13.75927550'
+            longitude: '-86.02196840'
+          -
+            id: 149139
+            name: Ocotal
+            latitude: '13.63411380'
+            longitude: '-86.50107470'
+          -
+            id: 149140
+            name: Quilalí
+            latitude: '13.56491080'
+            longitude: '-86.02921480'
+          -
+            id: 149141
+            name: 'San Fernando'
+            latitude: '13.67873430'
+            longitude: '-86.32079750'
+          -
+            id: 149142
+            name: 'Santa María'
+            latitude: '13.74665480'
+            longitude: '-86.71124070'
+          -
+            id: 149143
+            name: Wiwilí
+            latitude: '13.62076450'
+            longitude: '-85.83169700'
+      -
         id: 949
-        name: 'Río San Juan Department'
+        name: 'Río San Juan'
         state_code: SJ
         latitude: '11.47816100'
         longitude: '-84.77333250'
-        type: null
+        type: department
         cities:
           -
             id: 77180
@@ -419011,11 +419079,11 @@ country_state_city:
             longitude: '-84.89991000'
       -
         id: 942
-        name: 'Rivas Department'
+        name: Rivas
         state_code: RI
         latitude: '11.40234900'
         longitude: '-85.68457800'
-        type: null
+        type: department
         cities:
           -
             id: 77156
@@ -419119,11 +419187,11 @@ country_state_city:
             longitude: '-85.93891000'
       -
         id: 952
-        name: 'South Caribbean Coast Autonomous Region'
+        name: 'South Caribbean Coast'
         state_code: AS
         latitude: '12.19185020'
         longitude: '-84.10128610'
-        type: null
+        type: "autonomous region\t"
         cities:
           -
             id: 77158
@@ -545277,6 +545345,11 @@ country_state_city:
             latitude: '56.41667000'
             longitude: '36.83333000'
           -
+            id: 100783
+            name: 'Klyazminskoe Reservoir'
+            latitude: '55.99507000'
+            longitude: '37.67199000'
+          -
             id: 99141
             name: 'Kolomenskiy Rayon'
             latitude: '55.08333000'
@@ -545856,11 +545929,6 @@ country_state_city:
             name: 'Posëlok Mar’ino'
             latitude: '55.55000000'
             longitude: '37.32000000'
-          -
-            id: 100783
-            name: 'Poselok Turisticheskogo pansionata "Klyazminskoe vodohranilische"'
-            latitude: '55.99507000'
-            longitude: '37.67199000'
           -
             id: 100790
             name: Povarovo
@@ -622279,7 +622347,7 @@ country_state_city:
         state_code: AG
         latitude: '47.38766640'
         longitude: '8.25542950'
-        type: null
+        type: canton
         cities:
           -
             id: 17357
@@ -622877,7 +622945,7 @@ country_state_city:
         state_code: AR
         latitude: '47.36648100'
         longitude: '9.30009160'
-        type: null
+        type: canton
         cities:
           -
             id: 17487
@@ -622960,7 +623028,7 @@ country_state_city:
         state_code: AI
         latitude: '47.31619250'
         longitude: '9.43165730'
-        type: null
+        type: canton
         cities:
           -
             id: 17400
@@ -622988,7 +623056,7 @@ country_state_city:
         state_code: BL
         latitude: '47.44181220'
         longitude: '7.76440020'
-        type: null
+        type: canton
         cities:
           -
             id: 17371
@@ -623226,15 +623294,30 @@ country_state_city:
         state_code: BS
         latitude: '47.56666700'
         longitude: '7.60000000'
-        type: null
-        cities: {  }
+        type: canton
+        cities:
+          -
+            id: 149129
+            name: Basel
+            latitude: '47.55472200'
+            longitude: '7.59055600'
+          -
+            id: 149130
+            name: Bettingen
+            latitude: '47.57138900'
+            longitude: '7.66416700'
+          -
+            id: 149131
+            name: Riehen
+            latitude: '47.58333300'
+            longitude: '7.63333300'
       -
         id: 1645
         name: Bern
         state_code: BE
         latitude: '46.79886210'
         longitude: '7.70807010'
-        type: null
+        type: canton
         cities:
           -
             id: 17358
@@ -624068,11 +624151,11 @@ country_state_city:
             longitude: '7.37302000'
       -
         id: 1640
-        name: 'Canton of Fribourg'
+        name: Fribourg
         state_code: FR
         latitude: '46.68167480'
         longitude: '7.11726350'
-        type: null
+        type: canton
         cities:
           -
             id: 17390
@@ -624355,7 +624438,7 @@ country_state_city:
         state_code: GE
         latitude: '46.21800730'
         longitude: '6.12169250'
-        type: null
+        type: canton
         cities:
           -
             id: 17383
@@ -624503,7 +624586,7 @@ country_state_city:
         state_code: GL
         latitude: '47.04112320'
         longitude: '9.06790000'
-        type: null
+        type: canton
         cities:
           -
             id: 17529
@@ -624566,7 +624649,7 @@ country_state_city:
         state_code: GR
         latitude: '46.65698710'
         longitude: '9.57802570'
-        type: null
+        type: canton
         cities:
           -
             id: 17409
@@ -624874,7 +624957,7 @@ country_state_city:
         state_code: JU
         latitude: '47.34444740'
         longitude: '7.14306080'
-        type: null
+        type: canton
         cities:
           -
             id: 17385
@@ -624982,7 +625065,7 @@ country_state_city:
         state_code: LU
         latitude: '47.07956710'
         longitude: '8.16624450'
-        type: null
+        type: canton
         cities:
           -
             id: 17363
@@ -625325,7 +625408,7 @@ country_state_city:
         state_code: NE
         latitude: '46.98998740'
         longitude: '6.92927320'
-        type: null
+        type: canton
         cities:
           -
             id: 17423
@@ -625488,7 +625571,7 @@ country_state_city:
         state_code: NW
         latitude: '46.92670160'
         longitude: '8.38499820'
-        type: null
+        type: canton
         cities:
           -
             id: 17448
@@ -625541,7 +625624,7 @@ country_state_city:
         state_code: OW
         latitude: '46.87785800'
         longitude: '8.25124900'
-        type: null
+        type: canton
         cities:
           -
             id: 17387
@@ -625584,7 +625667,7 @@ country_state_city:
         state_code: SH
         latitude: '47.70093640'
         longitude: '8.56800400'
-        type: null
+        type: canton
         cities:
           -
             id: 17461
@@ -625682,7 +625765,7 @@ country_state_city:
         state_code: SZ
         latitude: '47.02071380'
         longitude: '8.65298840'
-        type: null
+        type: canton
         cities:
           -
             id: 17389
@@ -625850,7 +625933,7 @@ country_state_city:
         state_code: SO
         latitude: '47.33207170'
         longitude: '7.63883850'
-        type: null
+        type: canton
         cities:
           -
             id: 17438
@@ -626123,7 +626206,7 @@ country_state_city:
         state_code: SG
         latitude: '47.14562540'
         longitude: '9.35043320'
-        type: null
+        type: canton
         cities:
           -
             id: 17393
@@ -626521,7 +626604,7 @@ country_state_city:
         state_code: TG
         latitude: '47.60378560'
         longitude: '9.05573710'
-        type: null
+        type: canton
         cities:
           -
             id: 17356
@@ -626774,7 +626857,7 @@ country_state_city:
         state_code: TI
         latitude: '46.33173400'
         longitude: '8.80045290'
-        type: null
+        type: canton
         cities:
           -
             id: 17361
@@ -627097,7 +627180,7 @@ country_state_city:
         state_code: UR
         latitude: '41.48606470'
         longitude: '-71.53085370'
-        type: null
+        type: canton
         cities:
           -
             id: 17388
@@ -627155,7 +627238,7 @@ country_state_city:
         state_code: VS
         latitude: '46.19046140'
         longitude: '7.54492260'
-        type: null
+        type: canton
         cities:
           -
             id: 17405
@@ -627538,7 +627621,7 @@ country_state_city:
         state_code: VD
         latitude: '46.56131350'
         longitude: '6.53676500'
-        type: null
+        type: canton
         cities:
           -
             id: 17381
@@ -628071,7 +628154,7 @@ country_state_city:
         state_code: ZG
         latitude: '47.16615050'
         longitude: '8.51547490'
-        type: null
+        type: canton
         cities:
           -
             id: 17428
@@ -628124,7 +628207,7 @@ country_state_city:
         state_code: ZH
         latitude: '47.35953600'
         longitude: '8.63564520'
-        type: null
+        type: canton
         cities:
           -
             id: 17364

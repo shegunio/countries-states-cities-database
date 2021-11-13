@@ -497150,11 +497150,11 @@
     <emojiU>U+1F1F3 U+1F1EE</emojiU>
     <states>
       <id>946</id>
-      <name>Boaco Department</name>
+      <name>Boaco</name>
       <state_code>BO</state_code>
       <latitude>12.46928400</latitude>
       <longitude>-85.66146820</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77159</id>
         <name>Boaco</name>
@@ -497194,11 +497194,11 @@
     </states>
     <states>
       <id>950</id>
-      <name>Carazo Department</name>
+      <name>Carazo</name>
       <state_code>CA</state_code>
       <latitude>11.72747290</latitude>
       <longitude>-86.21584970</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77176</id>
         <name>Diriamba</name>
@@ -497256,11 +497256,11 @@
     </states>
     <states>
       <id>954</id>
-      <name>Chinandega Department</name>
+      <name>Chinandega</name>
       <state_code>CI</state_code>
       <latitude>12.88200620</latitude>
       <longitude>-87.14228950</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77165</id>
         <name>Chichigalpa</name>
@@ -497336,11 +497336,11 @@
     </states>
     <states>
       <id>940</id>
-      <name>Chontales Department</name>
+      <name>Chontales</name>
       <state_code>CO</state_code>
       <latitude>11.93947170</latitude>
       <longitude>-85.18940450</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77155</id>
         <name>Acoyapa</name>
@@ -497398,11 +497398,11 @@
     </states>
     <states>
       <id>945</id>
-      <name>Estelí Department</name>
+      <name>Estelí</name>
       <state_code>ES</state_code>
       <latitude>13.08511390</latitude>
       <longitude>-86.36301970</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77171</id>
         <name>Condega</name>
@@ -497436,11 +497436,11 @@
     </states>
     <states>
       <id>943</id>
-      <name>Granada Department</name>
+      <name>Granada</name>
       <state_code>GR</state_code>
       <latitude>11.93440730</latitude>
       <longitude>-85.95600050</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77178</id>
         <name>Diriá</name>
@@ -497468,11 +497468,11 @@
     </states>
     <states>
       <id>955</id>
-      <name>Jinotega Department</name>
+      <name>Jinotega</name>
       <state_code>JI</state_code>
       <latitude>13.08839070</latitude>
       <longitude>-85.99939970</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77183</id>
         <name>El Cuá</name>
@@ -497524,11 +497524,11 @@
     </states>
     <states>
       <id>944</id>
-      <name>León Department</name>
+      <name>León</name>
       <state_code>LE</state_code>
       <latitude>12.50920370</latitude>
       <longitude>-86.66110830</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77154</id>
         <name>Achuapa</name>
@@ -497592,11 +497592,11 @@
     </states>
     <states>
       <id>948</id>
-      <name>Madriz Department</name>
+      <name>Madriz</name>
       <state_code>MD</state_code>
       <latitude>13.47260050</latitude>
       <longitude>-86.45920910</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77211</id>
         <name>Las Sabanas</name>
@@ -497654,11 +497654,11 @@
     </states>
     <states>
       <id>941</id>
-      <name>Managua Department</name>
+      <name>Managua</name>
       <state_code>MN</state_code>
       <latitude>12.13916990</latitude>
       <longitude>-86.33767610</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77169</id>
         <name>Ciudad Sandino</name>
@@ -497716,11 +497716,11 @@
     </states>
     <states>
       <id>953</id>
-      <name>Masaya Department</name>
+      <name>Masaya</name>
       <state_code>MS</state_code>
       <latitude>11.97593280</latitude>
       <longitude>-86.07334980</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77164</id>
         <name>Catarina</name>
@@ -497802,11 +497802,11 @@
     </states>
     <states>
       <id>947</id>
-      <name>Matagalpa Department</name>
+      <name>Matagalpa</name>
       <state_code>MT</state_code>
       <latitude>12.94984360</latitude>
       <longitude>-85.43755740</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77168</id>
         <name>Ciudad Darío</name>
@@ -497858,11 +497858,11 @@
     </states>
     <states>
       <id>951</id>
-      <name>North Caribbean Coast Autonomous Region</name>
+      <name>North Caribbean Coast</name>
       <state_code>AN</state_code>
       <latitude>13.83944560</latitude>
       <longitude>-83.93208060</longitude>
-      <type></type>
+      <type>autonomous region</type>
       <cities>
         <id>77161</id>
         <name>Bonanza</name>
@@ -497901,12 +497901,92 @@
       </cities>
     </states>
     <states>
+      <id>4964</id>
+      <name>Nueva Segovia</name>
+      <state_code>NS</state_code>
+      <latitude>13.76570610</latitude>
+      <longitude>-86.53700390</longitude>
+      <type>department</type>
+      <cities>
+        <id>149132</id>
+        <name>Ciudad Antigua</name>
+        <latitude>13.63929030</latitude>
+        <longitude>-86.31189830</longitude>
+      </cities>
+      <cities>
+        <id>149133</id>
+        <name>Dipilto</name>
+        <latitude>13.72225520</latitude>
+        <longitude>-86.51366060</longitude>
+      </cities>
+      <cities>
+        <id>149134</id>
+        <name>El Jícaro</name>
+        <latitude>13.72222480</latitude>
+        <longitude>-86.14115420</longitude>
+      </cities>
+      <cities>
+        <id>149135</id>
+        <name>Jalapa</name>
+        <latitude>13.92071420</latitude>
+        <longitude>-86.14212330</longitude>
+      </cities>
+      <cities>
+        <id>149136</id>
+        <name>Macuelizo</name>
+        <latitude>13.65192960</latitude>
+        <longitude>-86.61427170</longitude>
+      </cities>
+      <cities>
+        <id>149137</id>
+        <name>Mozonte</name>
+        <latitude>13.65956840</latitude>
+        <longitude>-86.44536490</longitude>
+      </cities>
+      <cities>
+        <id>149138</id>
+        <name>Murra</name>
+        <latitude>13.75927550</latitude>
+        <longitude>-86.02196840</longitude>
+      </cities>
+      <cities>
+        <id>149139</id>
+        <name>Ocotal</name>
+        <latitude>13.63411380</latitude>
+        <longitude>-86.50107470</longitude>
+      </cities>
+      <cities>
+        <id>149140</id>
+        <name>Quilalí</name>
+        <latitude>13.56491080</latitude>
+        <longitude>-86.02921480</longitude>
+      </cities>
+      <cities>
+        <id>149141</id>
+        <name>San Fernando</name>
+        <latitude>13.67873430</latitude>
+        <longitude>-86.32079750</longitude>
+      </cities>
+      <cities>
+        <id>149142</id>
+        <name>Santa María</name>
+        <latitude>13.74665480</latitude>
+        <longitude>-86.71124070</longitude>
+      </cities>
+      <cities>
+        <id>149143</id>
+        <name>Wiwilí</name>
+        <latitude>13.62076450</latitude>
+        <longitude>-85.83169700</longitude>
+      </cities>
+    </states>
+    <states>
       <id>949</id>
-      <name>Río San Juan Department</name>
+      <name>Río San Juan</name>
       <state_code>SJ</state_code>
       <latitude>11.47816100</latitude>
       <longitude>-84.77333250</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77180</id>
         <name>El Almendro</name>
@@ -497940,11 +498020,11 @@
     </states>
     <states>
       <id>942</id>
-      <name>Rivas Department</name>
+      <name>Rivas</name>
       <state_code>RI</state_code>
       <latitude>11.40234900</latitude>
       <longitude>-85.68457800</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>77156</id>
         <name>Altagracia</name>
@@ -498068,11 +498148,11 @@
     </states>
     <states>
       <id>952</id>
-      <name>South Caribbean Coast Autonomous Region</name>
+      <name>South Caribbean Coast</name>
       <state_code>AS</state_code>
       <latitude>12.19185020</latitude>
       <longitude>-84.10128610</longitude>
-      <type></type>
+      <type>autonomous region</type>
       <cities>
         <id>77158</id>
         <name>Bluefields</name>
@@ -648722,6 +648802,12 @@
         <longitude>36.83333000</longitude>
       </cities>
       <cities>
+        <id>100783</id>
+        <name>Klyazminskoe Reservoir</name>
+        <latitude>55.99507000</latitude>
+        <longitude>37.67199000</longitude>
+      </cities>
+      <cities>
         <id>99141</id>
         <name>Kolomenskiy Rayon</name>
         <latitude>55.08333000</latitude>
@@ -649416,12 +649502,6 @@
         <name>Posëlok Mar’ino</name>
         <latitude>55.55000000</latitude>
         <longitude>37.32000000</longitude>
-      </cities>
-      <cities>
-        <id>100783</id>
-        <name>Poselok Turisticheskogo pansionata "Klyazminskoe vodohranilische"</name>
-        <latitude>55.99507000</latitude>
-        <longitude>37.67199000</longitude>
       </cities>
       <cities>
         <id>100790</id>
@@ -740064,7 +740144,7 @@
       <state_code>AG</state_code>
       <latitude>47.38766640</latitude>
       <longitude>8.25542950</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17357</id>
         <name>Aarau</name>
@@ -740780,7 +740860,7 @@
       <state_code>AR</state_code>
       <latitude>47.36648100</latitude>
       <longitude>9.30009160</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17487</id>
         <name>Bezirk Hinterland</name>
@@ -740878,7 +740958,7 @@
       <state_code>AI</state_code>
       <latitude>47.31619250</latitude>
       <longitude>9.43165730</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17400</id>
         <name>Appenzell</name>
@@ -740910,7 +740990,7 @@
       <state_code>BL</state_code>
       <latitude>47.44181220</latitude>
       <longitude>7.76440020</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17371</id>
         <name>Aesch</name>
@@ -741194,8 +741274,25 @@
       <state_code>BS</state_code>
       <latitude>47.56666700</latitude>
       <longitude>7.60000000</longitude>
-      <type></type>
-      <cities/>
+      <type>canton</type>
+      <cities>
+        <id>149129</id>
+        <name>Basel</name>
+        <latitude>47.55472200</latitude>
+        <longitude>7.59055600</longitude>
+      </cities>
+      <cities>
+        <id>149130</id>
+        <name>Bettingen</name>
+        <latitude>47.57138900</latitude>
+        <longitude>7.66416700</longitude>
+      </cities>
+      <cities>
+        <id>149131</id>
+        <name>Riehen</name>
+        <latitude>47.58333300</latitude>
+        <longitude>7.63333300</longitude>
+      </cities>
     </states>
     <states>
       <id>1645</id>
@@ -741203,7 +741300,7 @@
       <state_code>BE</state_code>
       <latitude>46.79886210</latitude>
       <longitude>7.70807010</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17358</id>
         <name>Aarberg</name>
@@ -742203,11 +742300,11 @@
     </states>
     <states>
       <id>1640</id>
-      <name>Canton of Fribourg</name>
+      <name>Fribourg</name>
       <state_code>FR</state_code>
       <latitude>46.68167480</latitude>
       <longitude>7.11726350</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17390</id>
         <name>Alterswil</name>
@@ -742545,7 +742642,7 @@
       <state_code>GE</state_code>
       <latitude>46.21800730</latitude>
       <longitude>6.12169250</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17383</id>
         <name>Aire-la-Ville</name>
@@ -742721,7 +742818,7 @@
       <state_code>GL</state_code>
       <latitude>47.04112320</latitude>
       <longitude>9.06790000</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17529</id>
         <name>Bilten</name>
@@ -742795,7 +742892,7 @@
       <state_code>GR</state_code>
       <latitude>46.65698710</latitude>
       <longitude>9.57802570</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17409</id>
         <name>Arosa</name>
@@ -743163,7 +743260,7 @@
       <state_code>JU</state_code>
       <latitude>47.34444740</latitude>
       <longitude>7.14306080</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17385</id>
         <name>Alle</name>
@@ -743291,7 +743388,7 @@
       <state_code>LU</state_code>
       <latitude>47.07956710</latitude>
       <longitude>8.16624450</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17363</id>
         <name>Adligenswil</name>
@@ -743701,7 +743798,7 @@
       <state_code>NE</state_code>
       <latitude>46.98998740</latitude>
       <longitude>6.92927320</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17423</id>
         <name>Auvernier</name>
@@ -743895,7 +743992,7 @@
       <state_code>NW</state_code>
       <latitude>46.92670160</latitude>
       <longitude>8.38499820</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17448</id>
         <name>Beckenried</name>
@@ -743957,7 +744054,7 @@
       <state_code>OW</state_code>
       <latitude>46.87785800</latitude>
       <longitude>8.25124900</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17387</id>
         <name>Alpnach</name>
@@ -744007,7 +744104,7 @@
       <state_code>SH</state_code>
       <latitude>47.70093640</latitude>
       <longitude>8.56800400</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17461</id>
         <name>Beringen</name>
@@ -744123,7 +744220,7 @@
       <state_code>SZ</state_code>
       <latitude>47.02071380</latitude>
       <longitude>8.65298840</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17389</id>
         <name>Altendorf</name>
@@ -744323,7 +744420,7 @@
       <state_code>SO</state_code>
       <latitude>47.33207170</latitude>
       <longitude>7.63883850</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17438</id>
         <name>Balsthal</name>
@@ -744649,7 +744746,7 @@
       <state_code>SG</state_code>
       <latitude>47.14562540</latitude>
       <longitude>9.35043320</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17393</id>
         <name>Altstätten</name>
@@ -745125,7 +745222,7 @@
       <state_code>TG</state_code>
       <latitude>47.60378560</latitude>
       <longitude>9.05573710</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17356</id>
         <name>Aadorf</name>
@@ -745427,7 +745524,7 @@
       <state_code>TI</state_code>
       <latitude>46.33173400</latitude>
       <longitude>8.80045290</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17361</id>
         <name>Acquarossa</name>
@@ -745813,7 +745910,7 @@
       <state_code>UR</state_code>
       <latitude>41.48606470</latitude>
       <longitude>-71.53085370</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17388</id>
         <name>Altdorf</name>
@@ -745881,7 +745978,7 @@
       <state_code>VS</state_code>
       <latitude>46.19046140</latitude>
       <longitude>7.54492260</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17405</id>
         <name>Ardon</name>
@@ -746339,7 +746436,7 @@
       <state_code>VD</state_code>
       <latitude>46.56131350</latitude>
       <longitude>6.53676500</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17381</id>
         <name>Aigle</name>
@@ -746977,7 +747074,7 @@
       <state_code>ZG</state_code>
       <latitude>47.16615050</latitude>
       <longitude>8.51547490</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17428</id>
         <name>Baar</name>
@@ -747039,7 +747136,7 @@
       <state_code>ZH</state_code>
       <latitude>47.35953600</latitude>
       <longitude>8.63564520</longitude>
-      <type></type>
+      <type>canton</type>
       <cities>
         <id>17364</id>
         <name>Adliswil</name>

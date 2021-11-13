@@ -473584,6 +473584,12 @@
                 "longitude": "-86.86808000"
             },
             {
+                "id": 149132,
+                "name": "Ciudad Antigua",
+                "latitude": "13.63929030",
+                "longitude": "-86.31189830"
+            },
+            {
                 "id": 77168,
                 "name": "Ciudad Darío",
                 "latitude": "12.73143000",
@@ -473624,6 +473630,12 @@
                 "name": "Cuapa",
                 "latitude": "12.26875000",
                 "longitude": "-85.38205000"
+            },
+            {
+                "id": 149133,
+                "name": "Dipilto",
+                "latitude": "13.72225520",
+                "longitude": "-86.51366060"
             },
             {
                 "id": 77178,
@@ -473680,6 +473692,12 @@
                 "longitude": "-86.38057000"
             },
             {
+                "id": 149134,
+                "name": "El Jícaro",
+                "latitude": "13.72222480",
+                "longitude": "-86.14115420"
+            },
+            {
                 "id": 77185,
                 "name": "El Rama",
                 "latitude": "12.15965000",
@@ -473732,6 +473750,12 @@
                 "name": "Greytown",
                 "latitude": "10.94684000",
                 "longitude": "-83.73467000"
+            },
+            {
+                "id": 149135,
+                "name": "Jalapa",
+                "latitude": "13.92071420",
+                "longitude": "-86.14212330"
             },
             {
                 "id": 77194,
@@ -473848,6 +473872,12 @@
                 "longitude": "-86.00833000"
             },
             {
+                "id": 149136,
+                "name": "Macuelizo",
+                "latitude": "13.65192960",
+                "longitude": "-86.61427170"
+            },
+            {
                 "id": 77213,
                 "name": "Managua",
                 "latitude": "12.13282000",
@@ -473894,6 +473924,12 @@
                 "name": "Moyogalpa",
                 "latitude": "11.54006000",
                 "longitude": "-85.69795000"
+            },
+            {
+                "id": 149137,
+                "name": "Mozonte",
+                "latitude": "13.65956840",
+                "longitude": "-86.44536490"
             },
             {
                 "id": 77221,
@@ -473998,6 +474034,12 @@
                 "longitude": "-86.00789000"
             },
             {
+                "id": 149138,
+                "name": "Murra",
+                "latitude": "13.75927550",
+                "longitude": "-86.02196840"
+            },
+            {
                 "id": 77238,
                 "name": "Muy Muy",
                 "latitude": "12.76224000",
@@ -474038,6 +474080,12 @@
                 "name": "Nueva Guinea",
                 "latitude": "11.68758000",
                 "longitude": "-84.45616000"
+            },
+            {
+                "id": 149139,
+                "name": "Ocotal",
+                "latitude": "13.63411380",
+                "longitude": "-86.50107470"
             },
             {
                 "id": 77245,
@@ -474088,6 +474136,12 @@
                 "longitude": "-86.90292000"
             },
             {
+                "id": 149140,
+                "name": "Quilalí",
+                "latitude": "13.56491080",
+                "longitude": "-86.02921480"
+            },
+            {
                 "id": 77254,
                 "name": "Río Blanco",
                 "latitude": "12.93435000",
@@ -474110,6 +474164,12 @@
                 "name": "San Dionisio",
                 "latitude": "12.76023000",
                 "longitude": "-85.85018000"
+            },
+            {
+                "id": 149141,
+                "name": "San Fernando",
+                "latitude": "13.67873430",
+                "longitude": "-86.32079750"
             },
             {
                 "id": 77257,
@@ -474212,6 +474272,12 @@
                 "name": "Santa Lucía",
                 "latitude": "12.53262000",
                 "longitude": "-85.71074000"
+            },
+            {
+                "id": 149142,
+                "name": "Santa María",
+                "latitude": "13.74665480",
+                "longitude": "-86.71124070"
             },
             {
                 "id": 77274,
@@ -474344,6 +474410,12 @@
                 "name": "Waspán",
                 "latitude": "14.74189000",
                 "longitude": "-83.97170000"
+            },
+            {
+                "id": 149143,
+                "name": "Wiwilí",
+                "latitude": "13.62076450",
+                "longitude": "-85.83169700"
             },
             {
                 "id": 77296,
@@ -618644,6 +618716,12 @@
                 "longitude": "52.02674000"
             },
             {
+                "id": 100783,
+                "name": "Klyazminskoe Reservoir",
+                "latitude": "55.99507000",
+                "longitude": "37.67199000"
+            },
+            {
                 "id": 99109,
                 "name": "Klyuchevsk",
                 "latitude": "57.12160000",
@@ -629064,12 +629142,6 @@
                 "name": "Posëlok Mar’ino",
                 "latitude": "55.55000000",
                 "longitude": "37.32000000"
-            },
-            {
-                "id": 100783,
-                "name": "Poselok Turisticheskogo pansionata \"Klyazminskoe vodohranilische\"",
-                "latitude": "55.99507000",
-                "longitude": "37.67199000"
             },
             {
                 "id": 100785,
@@ -708854,6 +708926,12 @@
                 "longitude": "7.11251000"
             },
             {
+                "id": 149129,
+                "name": "Basel",
+                "latitude": "47.55472200",
+                "longitude": "7.59055600"
+            },
+            {
                 "id": 17441,
                 "name": "Basse-Nendaz",
                 "latitude": "46.18993000",
@@ -709020,6 +709098,12 @@
                 "name": "Besenbüren",
                 "latitude": "47.31439000",
                 "longitude": "8.34586000"
+            },
+            {
+                "id": 149130,
+                "name": "Bettingen",
+                "latitude": "47.57138900",
+                "longitude": "7.66416700"
             },
             {
                 "id": 17468,
@@ -714444,6 +714528,12 @@
                 "name": "Riedholz",
                 "latitude": "47.23158000",
                 "longitude": "7.56829000"
+            },
+            {
+                "id": 149131,
+                "name": "Riehen",
+                "latitude": "47.58333300",
+                "longitude": "7.63333300"
             },
             {
                 "id": 18376,
