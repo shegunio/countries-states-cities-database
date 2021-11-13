@@ -827648,6 +827648,126 @@
 		<key>country_id</key>
 		<string>83</string>
 		<key>id</key>
+		<string>149070</string>
+		<key>latitude</key>
+		<string>6.81968910</string>
+		<key>longitude</key>
+		<string>-2.80770500</string>
+		<key>name</key>
+		<string>Asunafo North</string>
+		<key>state_code</key>
+		<string>AF</string>
+		<key>state_id</key>
+		<string>53</string>
+		<key>wikiDataId</key>
+		<string>Q752417</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149071</string>
+		<key>latitude</key>
+		<string>6.64801380</string>
+		<key>longitude</key>
+		<string>-2.68874370</string>
+		<key>name</key>
+		<string>Asunafo South</string>
+		<key>state_code</key>
+		<string>AF</string>
+		<key>state_id</key>
+		<string>53</string>
+		<key>wikiDataId</key>
+		<string>Q752420</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149072</string>
+		<key>latitude</key>
+		<string>6.94774860</string>
+		<key>longitude</key>
+		<string>-2.76757160</string>
+		<key>name</key>
+		<string>Asutifi North</string>
+		<key>state_code</key>
+		<string>AF</string>
+		<key>state_id</key>
+		<string>53</string>
+		<key>wikiDataId</key>
+		<string>Q55555112</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149073</string>
+		<key>latitude</key>
+		<string>6.64801380</string>
+		<key>longitude</key>
+		<string>-2.68874370</string>
+		<key>name</key>
+		<string>Asutifi South</string>
+		<key>state_code</key>
+		<string>AF</string>
+		<key>state_id</key>
+		<string>53</string>
+		<key>wikiDataId</key>
+		<string>Q55555134</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149069</string>
+		<key>latitude</key>
+		<string>7.22603010</string>
+		<key>longitude</key>
+		<string>-2.30456560</string>
+		<key>name</key>
+		<string>Tano North</string>
+		<key>state_code</key>
+		<string>AF</string>
+		<key>state_id</key>
+		<string>53</string>
+		<key>wikiDataId</key>
+		<string>Q373327</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149068</string>
+		<key>latitude</key>
+		<string>7.19537930</string>
+		<key>longitude</key>
+		<string>-2.12586610</string>
+		<key>name</key>
+		<string>Tano South</string>
+		<key>state_code</key>
+		<string>AF</string>
+		<key>state_id</key>
+		<string>53</string>
+		<key>wikiDataId</key>
+		<string>Q960302</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
 		<string>52151</string>
 		<key>latitude</key>
 		<string>6.80004000</string>
@@ -827808,19 +827928,19 @@
 		<key>country_id</key>
 		<string>83</string>
 		<key>id</key>
-		<string>52162</string>
+		<string>149086</string>
 		<key>latitude</key>
-		<string>7.09034000</string>
+		<string>8.14956710</string>
 		<key>longitude</key>
-		<string>-2.02498000</string>
+		<string>-2.36639500</string>
 		<key>name</key>
-		<string>Bechem</string>
+		<string>Banda</string>
 		<key>state_code</key>
-		<string>BA</string>
+		<string>BO</string>
 		<key>state_id</key>
-		<string>53</string>
+		<string>4959</string>
 		<key>wikiDataId</key>
-		<string>Q813582</string>
+		<string>Q20312309</string>
 	</dict>
 	<dict>
 		<key>country_code</key>
@@ -827828,19 +827948,19 @@
 		<key>country_id</key>
 		<string>83</string>
 		<key>id</key>
-		<string>52165</string>
+		<string>149087</string>
 		<key>latitude</key>
-		<string>7.45340000</string>
+		<string>7.51117580</string>
 		<key>longitude</key>
-		<string>-2.58404000</string>
+		<string>-2.75998310</string>
 		<key>name</key>
-		<string>Berekum</string>
+		<string>Berekum East</string>
 		<key>state_code</key>
-		<string>BA</string>
+		<string>BO</string>
 		<key>state_id</key>
-		<string>53</string>
+		<string>4959</string>
 		<key>wikiDataId</key>
-		<string>Q818988</string>
+		<string>Q55555195</string>
 	</dict>
 	<dict>
 		<key>country_code</key>
@@ -827848,19 +827968,19 @@
 		<key>country_id</key>
 		<string>83</string>
 		<key>id</key>
-		<string>52170</string>
+		<string>149088</string>
 		<key>latitude</key>
-		<string>7.17487000</string>
+		<string>7.51117580</string>
 		<key>longitude</key>
-		<string>-2.09961000</string>
+		<string>-2.75998310</string>
 		<key>name</key>
-		<string>Duayaw-Nkwanta</string>
+		<string>Berekum West</string>
 		<key>state_code</key>
-		<string>BA</string>
+		<string>BO</string>
 		<key>state_id</key>
-		<string>53</string>
+		<string>4959</string>
 		<key>wikiDataId</key>
-		<string>Q5310449</string>
+		<string>Q104822488</string>
 	</dict>
 	<dict>
 		<key>country_code</key>
@@ -827868,19 +827988,19 @@
 		<key>country_id</key>
 		<string>83</string>
 		<key>id</key>
-		<string>52178</string>
+		<string>149089</string>
 		<key>latitude</key>
-		<string>7.57580000</string>
+		<string>7.27750000</string>
 		<key>longitude</key>
-		<string>-2.78516000</string>
+		<string>-2.87833300</string>
 		<key>name</key>
-		<string>Japekrom</string>
+		<string>Dormaa Central</string>
 		<key>state_code</key>
-		<string>BA</string>
+		<string>BO</string>
 		<key>state_id</key>
-		<string>53</string>
+		<string>4959</string>
 		<key>wikiDataId</key>
-		<string>Q1017008</string>
+		<string>Q692883</string>
 	</dict>
 	<dict>
 		<key>country_code</key>
@@ -827888,19 +828008,19 @@
 		<key>country_id</key>
 		<string>83</string>
 		<key>id</key>
-		<string>52183</string>
+		<string>149090</string>
 		<key>latitude</key>
-		<string>8.05627000</string>
+		<string>7.30000000</string>
 		<key>longitude</key>
-		<string>-1.73058000</string>
+		<string>-2.70000000</string>
 		<key>name</key>
-		<string>Kintampo</string>
+		<string>Dormaa East</string>
 		<key>state_code</key>
-		<string>BA</string>
+		<string>BO</string>
 		<key>state_id</key>
-		<string>53</string>
+		<string>4959</string>
 		<key>wikiDataId</key>
-		<string>Q1742284</string>
+		<string>Q5298060</string>
 	</dict>
 	<dict>
 		<key>country_code</key>
@@ -827908,19 +828028,79 @@
 		<key>country_id</key>
 		<string>83</string>
 		<key>id</key>
-		<string>52204</string>
+		<string>149091</string>
 		<key>latitude</key>
-		<string>7.33991000</string>
+		<string>7.01666700</string>
 		<key>longitude</key>
-		<string>-2.32676000</string>
+		<string>-3.05000000</string>
+		<key>name</key>
+		<string>Dormaa West</string>
+		<key>state_code</key>
+		<string>BO</string>
+		<key>state_id</key>
+		<string>4959</string>
+		<key>wikiDataId</key>
+		<string>Q55555259</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149092</string>
+		<key>latitude</key>
+		<string>7.98832340</string>
+		<key>longitude</key>
+		<string>-2.96858690</string>
+		<key>name</key>
+		<string>Jaman North</string>
+		<key>state_code</key>
+		<string>BO</string>
+		<key>state_id</key>
+		<string>4959</string>
+		<key>wikiDataId</key>
+		<string>Q1504034</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149093</string>
+		<key>latitude</key>
+		<string>7.70843750</string>
+		<key>longitude</key>
+		<string>-3.07501700</string>
+		<key>name</key>
+		<string>Jaman South</string>
+		<key>state_code</key>
+		<string>BO</string>
+		<key>state_id</key>
+		<string>4959</string>
+		<key>wikiDataId</key>
+		<string>Q1504079</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149094</string>
+		<key>latitude</key>
+		<string>7.33803320</string>
+		<key>longitude</key>
+		<string>-2.34871460</string>
 		<key>name</key>
 		<string>Sunyani</string>
 		<key>state_code</key>
-		<string>BA</string>
+		<string>BO</string>
 		<key>state_id</key>
-		<string>53</string>
+		<string>4959</string>
 		<key>wikiDataId</key>
-		<string>Q406037</string>
+		<string>Q1786388</string>
 	</dict>
 	<dict>
 		<key>country_code</key>
@@ -827928,19 +828108,19 @@
 		<key>country_id</key>
 		<string>83</string>
 		<key>id</key>
-		<string>52210</string>
+		<string>149095</string>
 		<key>latitude</key>
-		<string>7.58417000</string>
+		<string>7.35660520</string>
 		<key>longitude</key>
-		<string>-1.93815000</string>
+		<string>-2.44618620</string>
 		<key>name</key>
-		<string>Techiman</string>
+		<string>Sunyani West</string>
 		<key>state_code</key>
-		<string>BA</string>
+		<string>BO</string>
 		<key>state_id</key>
-		<string>53</string>
+		<string>4959</string>
 		<key>wikiDataId</key>
-		<string>Q964069</string>
+		<string>Q7641761</string>
 	</dict>
 	<dict>
 		<key>country_code</key>
@@ -827948,19 +828128,259 @@
 		<key>country_id</key>
 		<string>83</string>
 		<key>id</key>
-		<string>52214</string>
+		<string>149096</string>
 		<key>latitude</key>
-		<string>7.73916000</string>
+		<string>8.18114110</string>
 		<key>longitude</key>
-		<string>-2.10456000</string>
+		<string>-2.86487620</string>
+		<key>name</key>
+		<string>Tain</string>
+		<key>state_code</key>
+		<string>BO</string>
+		<key>state_id</key>
+		<string>4959</string>
+		<key>wikiDataId</key>
+		<string>Q695048</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149097</string>
+		<key>latitude</key>
+		<string>7.74059920</string>
+		<key>longitude</key>
+		<string>-2.12267880</string>
 		<key>name</key>
 		<string>Wenchi</string>
 		<key>state_code</key>
-		<string>BA</string>
+		<string>BO</string>
 		<key>state_id</key>
-		<string>53</string>
+		<string>4959</string>
 		<key>wikiDataId</key>
-		<string>Q2236059</string>
+		<string>Q1504094</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149076</string>
+		<key>latitude</key>
+		<string>7.70237000</string>
+		<key>longitude</key>
+		<string>-1.21979430</string>
+		<key>name</key>
+		<string>Atebubu-Amantin</string>
+		<key>state_code</key>
+		<string>BE</string>
+		<key>state_id</key>
+		<string>4958</string>
+		<key>wikiDataId</key>
+		<string>Q117446</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149077</string>
+		<key>latitude</key>
+		<string>8.39635790</string>
+		<key>longitude</key>
+		<string>-1.82000070</string>
+		<key>name</key>
+		<string>Kintampo North</string>
+		<key>state_code</key>
+		<string>BE</string>
+		<key>state_id</key>
+		<string>4958</string>
+		<key>wikiDataId</key>
+		<string>Q1665763</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149078</string>
+		<key>latitude</key>
+		<string>7.98971320</string>
+		<key>longitude</key>
+		<string>-2.00711150</string>
+		<key>name</key>
+		<string>Kintampo South</string>
+		<key>state_code</key>
+		<string>BE</string>
+		<key>state_id</key>
+		<string>4958</string>
+		<key>wikiDataId</key>
+		<string>Q1504020</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149079</string>
+		<key>latitude</key>
+		<string>7.56603310</string>
+		<key>longitude</key>
+		<string>-1.72365200</string>
+		<key>name</key>
+		<string>Nkoranza North</string>
+		<key>state_code</key>
+		<string>BE</string>
+		<key>state_id</key>
+		<string>4958</string>
+		<key>wikiDataId</key>
+		<string>Q3342359</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149080</string>
+		<key>latitude</key>
+		<string>7.62405120</string>
+		<key>longitude</key>
+		<string>-1.79974460</string>
+		<key>name</key>
+		<string>Nkoranza South</string>
+		<key>state_code</key>
+		<string>BE</string>
+		<key>state_id</key>
+		<string>4958</string>
+		<key>wikiDataId</key>
+		<string>Q7042619</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149082</string>
+		<key>latitude</key>
+		<string>8.22620000</string>
+		<key>longitude</key>
+		<string>-0.65360000</string>
+		<key>name</key>
+		<string>Pru East</string>
+		<key>state_code</key>
+		<string>BE</string>
+		<key>state_id</key>
+		<string>4958</string>
+		<key>wikiDataId</key>
+		<string>Q105081992</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149081</string>
+		<key>latitude</key>
+		<string>8.07359930</string>
+		<key>longitude</key>
+		<string>-1.29055410</string>
+		<key>name</key>
+		<string>Pru West</string>
+		<key>state_code</key>
+		<string>BE</string>
+		<key>state_id</key>
+		<string>4958</string>
+		<key>wikiDataId</key>
+		<string>Q105063588</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149083</string>
+		<key>latitude</key>
+		<string>7.78300000</string>
+		<key>longitude</key>
+		<string>-0.21700000</string>
+		<key>name</key>
+		<string>Sene East</string>
+		<key>state_code</key>
+		<string>BE</string>
+		<key>state_id</key>
+		<string>4958</string>
+		<key>wikiDataId</key>
+		<string>Q55555336</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149084</string>
+		<key>latitude</key>
+		<string>7.73420000</string>
+		<key>longitude</key>
+		<string>-0.68180000</string>
+		<key>name</key>
+		<string>Sene West</string>
+		<key>state_code</key>
+		<string>BE</string>
+		<key>state_id</key>
+		<string>4958</string>
+		<key>wikiDataId</key>
+		<string>Q55555352</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149074</string>
+		<key>latitude</key>
+		<string>7.58968560</string>
+		<key>longitude</key>
+		<string>-1.95122140</string>
+		<key>name</key>
+		<string>Techiman</string>
+		<key>state_code</key>
+		<string>BE</string>
+		<key>state_id</key>
+		<string>4958</string>
+		<key>wikiDataId</key>
+		<string>Q957996</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149075</string>
+		<key>latitude</key>
+		<string>7.70428020</string>
+		<key>longitude</key>
+		<string>-2.08140570</string>
+		<key>name</key>
+		<string>Techiman North</string>
+		<key>state_code</key>
+		<string>BE</string>
+		<key>state_id</key>
+		<string>4958</string>
+		<key>wikiDataId</key>
+		<string>Q20855212</string>
 	</dict>
 	<dict>
 		<key>country_code</key>
@@ -828568,6 +828988,126 @@
 		<key>country_id</key>
 		<string>83</string>
 		<key>id</key>
+		<string>149098</string>
+		<key>latitude</key>
+		<string>10.46609170</string>
+		<key>longitude</key>
+		<string>-0.22711950</string>
+		<key>name</key>
+		<string>Bunkpurugu-Nyakpanduri</string>
+		<key>state_code</key>
+		<string>NE</string>
+		<key>state_id</key>
+		<string>4960</string>
+		<key>wikiDataId</key>
+		<string>Q631255</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149099</string>
+		<key>latitude</key>
+		<string>10.13827720</string>
+		<key>longitude</key>
+		<string>0.28242580</string>
+		<key>name</key>
+		<string>Chereponi</string>
+		<key>state_code</key>
+		<string>NE</string>
+		<key>state_id</key>
+		<string>4960</string>
+		<key>wikiDataId</key>
+		<string>Q5091888</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149100</string>
+		<key>latitude</key>
+		<string>10.42931860</string>
+		<key>longitude</key>
+		<string>-0.53078850</string>
+		<key>name</key>
+		<string>East Mamprusi</string>
+		<key>state_code</key>
+		<string>NE</string>
+		<key>state_id</key>
+		<string>4960</string>
+		<key>wikiDataId</key>
+		<string>Q824725</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149101</string>
+		<key>latitude</key>
+		<string>10.23290000</string>
+		<key>longitude</key>
+		<string>-1.28360000</string>
+		<key>name</key>
+		<string>Mamprugu-Moagduri</string>
+		<key>state_code</key>
+		<string>NE</string>
+		<key>state_id</key>
+		<string>4960</string>
+		<key>wikiDataId</key>
+		<string>Q24698175</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149102</string>
+		<key>latitude</key>
+		<string>10.29906060</string>
+		<key>longitude</key>
+		<string>-1.36750100</string>
+		<key>name</key>
+		<string>West Mamprusi</string>
+		<key>state_code</key>
+		<string>NE</string>
+		<key>state_id</key>
+		<string>4960</string>
+		<key>wikiDataId</key>
+		<string>Q3285080</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149103</string>
+		<key>latitude</key>
+		<string>10.48400000</string>
+		<key>longitude</key>
+		<string>-0.00900000</string>
+		<key>name</key>
+		<string>Yunyoo-Nasuan</string>
+		<key>state_code</key>
+		<string>NE</string>
+		<key>state_id</key>
+		<string>4960</string>
+		<key>wikiDataId</key>
+		<string>Q107070876</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
 		<string>52186</string>
 		<key>latitude</key>
 		<string>8.46885000</string>
@@ -828661,6 +829201,306 @@
 		<string>51</string>
 		<key>wikiDataId</key>
 		<string>Q639066</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149104</string>
+		<key>latitude</key>
+		<string>7.11698690</string>
+		<key>longitude</key>
+		<string>0.32324300</string>
+		<key>name</key>
+		<string>Biakoye</string>
+		<key>state_code</key>
+		<string>OT</string>
+		<key>state_id</key>
+		<string>4961</string>
+		<key>wikiDataId</key>
+		<string>Q2900789</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149105</string>
+		<key>latitude</key>
+		<string>7.40940880</string>
+		<key>longitude</key>
+		<string>0.44301500</string>
+		<key>name</key>
+		<string>Jasikan</string>
+		<key>state_code</key>
+		<string>OT</string>
+		<key>state_id</key>
+		<string>4961</string>
+		<key>wikiDataId</key>
+		<string>Q1432676</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149106</string>
+		<key>latitude</key>
+		<string>7.52631920</string>
+		<key>longitude</key>
+		<string>0.46704770</string>
+		<key>name</key>
+		<string>Kadjebi</string>
+		<key>state_code</key>
+		<string>OT</string>
+		<key>state_id</key>
+		<string>4961</string>
+		<key>wikiDataId</key>
+		<string>Q3191794</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149107</string>
+		<key>latitude</key>
+		<string>7.77196980</string>
+		<key>longitude</key>
+		<string>-0.07763760</string>
+		<key>name</key>
+		<string>Krachi East</string>
+		<key>state_code</key>
+		<string>OT</string>
+		<key>state_id</key>
+		<string>4961</string>
+		<key>wikiDataId</key>
+		<string>Q3199542</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149108</string>
+		<key>latitude</key>
+		<string>8.14849800</string>
+		<key>longitude</key>
+		<string>-0.16349880</string>
+		<key>name</key>
+		<string>Krachi Nchumuru</string>
+		<key>state_code</key>
+		<string>OT</string>
+		<key>state_id</key>
+		<string>4961</string>
+		<key>wikiDataId</key>
+		<string>Q55589875</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149109</string>
+		<key>latitude</key>
+		<string>7.98282160</string>
+		<key>longitude</key>
+		<string>-0.34886270</string>
+		<key>name</key>
+		<string>Krachi West</string>
+		<key>state_code</key>
+		<string>OT</string>
+		<key>state_id</key>
+		<string>4961</string>
+		<key>wikiDataId</key>
+		<string>Q3199541</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149110</string>
+		<key>latitude</key>
+		<string>8.35180760</string>
+		<key>longitude</key>
+		<string>0.12217620</string>
+		<key>name</key>
+		<string>Nkwanta North</string>
+		<key>state_code</key>
+		<string>OT</string>
+		<key>state_id</key>
+		<string>4961</string>
+		<key>wikiDataId</key>
+		<string>Q3342368</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149111</string>
+		<key>latitude</key>
+		<string>8.25931340</string>
+		<key>longitude</key>
+		<string>0.50185190</string>
+		<key>name</key>
+		<string>Nkwanta South</string>
+		<key>state_code</key>
+		<string>OT</string>
+		<key>state_id</key>
+		<string>4961</string>
+		<key>wikiDataId</key>
+		<string>Q977886</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149112</string>
+		<key>latitude</key>
+		<string>9.02996640</string>
+		<key>longitude</key>
+		<string>-2.50694300</string>
+		<key>name</key>
+		<string>Bole</string>
+		<key>state_code</key>
+		<string>SV</string>
+		<key>state_id</key>
+		<string>4962</string>
+		<key>wikiDataId</key>
+		<string>Q820344</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149113</string>
+		<key>latitude</key>
+		<string>8.92784320</string>
+		<key>longitude</key>
+		<string>-1.95369720</string>
+		<key>name</key>
+		<string>Central Gonja</string>
+		<key>state_code</key>
+		<string>SV</string>
+		<key>state_id</key>
+		<string>4962</string>
+		<key>wikiDataId</key>
+		<string>Q225577</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149115</string>
+		<key>latitude</key>
+		<string>8.72568400</string>
+		<key>longitude</key>
+		<string>-1.07135790</string>
+		<key>name</key>
+		<string>East Gonja</string>
+		<key>state_code</key>
+		<string>SV</string>
+		<key>state_id</key>
+		<string>4962</string>
+		<key>wikiDataId</key>
+		<string>Q825097</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149116</string>
+		<key>latitude</key>
+		<string>9.11746690</string>
+		<key>longitude</key>
+		<string>-0.55579360</string>
+		<key>name</key>
+		<string>North East Gonja</string>
+		<key>state_code</key>
+		<string>SV</string>
+		<key>state_id</key>
+		<string>4962</string>
+		<key>wikiDataId</key>
+		<string>Q105555666</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149114</string>
+		<key>latitude</key>
+		<string>9.54130850</string>
+		<key>longitude</key>
+		<string>-1.39766920</string>
+		<key>name</key>
+		<string>North Gonja</string>
+		<key>state_code</key>
+		<string>SV</string>
+		<key>state_id</key>
+		<string>4962</string>
+		<key>wikiDataId</key>
+		<string>Q55570015</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149117</string>
+		<key>latitude</key>
+		<string>9.39114570</string>
+		<key>longitude</key>
+		<string>-2.70611660</string>
+		<key>name</key>
+		<string>Sawla-Tuna-Kalba</string>
+		<key>state_code</key>
+		<string>SV</string>
+		<key>state_id</key>
+		<string>4962</string>
+		<key>wikiDataId</key>
+		<string>Q3474659</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149118</string>
+		<key>latitude</key>
+		<string>9.57513170</string>
+		<key>longitude</key>
+		<string>-2.26440410</string>
+		<key>name</key>
+		<string>West Gonja</string>
+		<key>state_code</key>
+		<string>SV</string>
+		<key>state_id</key>
+		<string>4962</string>
+		<key>wikiDataId</key>
+		<string>Q3110546</string>
 	</dict>
 	<dict>
 		<key>country_code</key>
@@ -829041,6 +829881,186 @@
 		<string>49</string>
 		<key>wikiDataId</key>
 		<string>Q995439</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149119</string>
+		<key>latitude</key>
+		<string>5.75309280</string>
+		<key>longitude</key>
+		<string>-3.07518870</string>
+		<key>name</key>
+		<string>Aowin</string>
+		<key>state_code</key>
+		<string>WN</string>
+		<key>state_id</key>
+		<string>4963</string>
+		<key>wikiDataId</key>
+		<string>Q105985843</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149120</string>
+		<key>latitude</key>
+		<string>6.76860400</string>
+		<key>longitude</key>
+		<string>-3.33302410</string>
+		<key>name</key>
+		<string>Bia East</string>
+		<key>state_code</key>
+		<string>WN</string>
+		<key>state_id</key>
+		<string>4963</string>
+		<key>wikiDataId</key>
+		<string>Q16841443</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149121</string>
+		<key>latitude</key>
+		<string>6.76860400</string>
+		<key>longitude</key>
+		<string>-3.33302410</string>
+		<key>name</key>
+		<string>Bia West</string>
+		<key>state_code</key>
+		<string>WN</string>
+		<key>state_id</key>
+		<string>4963</string>
+		<key>wikiDataId</key>
+		<string>Q17155822</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149122</string>
+		<key>latitude</key>
+		<string>6.30210040</string>
+		<key>longitude</key>
+		<string>-2.35675070</string>
+		<key>name</key>
+		<string>Bibiani-Anhwiaso-Bekwai</string>
+		<key>state_code</key>
+		<string>WN</string>
+		<key>state_id</key>
+		<string>4963</string>
+		<key>wikiDataId</key>
+		<string>Q856281</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149123</string>
+		<key>latitude</key>
+		<string>6.22240910</string>
+		<key>longitude</key>
+		<string>-2.76615150</string>
+		<key>name</key>
+		<string>Bodi</string>
+		<key>state_code</key>
+		<string>WN</string>
+		<key>state_id</key>
+		<string>4963</string>
+		<key>wikiDataId</key>
+		<string>Q55589892</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149124</string>
+		<key>latitude</key>
+		<string>6.33331570</string>
+		<key>longitude</key>
+		<string>-2.84206140</string>
+		<key>name</key>
+		<string>Juaboso</string>
+		<key>state_code</key>
+		<string>WN</string>
+		<key>state_id</key>
+		<string>4963</string>
+		<key>wikiDataId</key>
+		<string>Q683109</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149125</string>
+		<key>latitude</key>
+		<string>6.04285480</string>
+		<key>longitude</key>
+		<string>-2.88133620</string>
+		<key>name</key>
+		<string>Sefwi-Akontombra</string>
+		<key>state_code</key>
+		<string>WN</string>
+		<key>state_id</key>
+		<string>4963</string>
+		<key>wikiDataId</key>
+		<string>Q24698107</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149126</string>
+		<key>latitude</key>
+		<string>6.21965670</string>
+		<key>longitude</key>
+		<string>-2.50059150</string>
+		<key>name</key>
+		<string>Sefwi-Wiawso</string>
+		<key>state_code</key>
+		<string>WN</string>
+		<key>state_id</key>
+		<string>4963</string>
+		<key>wikiDataId</key>
+		<string>Q2265854</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>GH</string>
+		<key>country_id</key>
+		<string>83</string>
+		<key>id</key>
+		<string>149127</string>
+		<key>latitude</key>
+		<string>5.75309280</string>
+		<key>longitude</key>
+		<string>-3.07518870</string>
+		<key>name</key>
+		<string>Suaman</string>
+		<key>state_code</key>
+		<string>WN</string>
+		<key>state_id</key>
+		<string>4963</string>
+		<key>wikiDataId</key>
+		<string>Q55593456</string>
 	</dict>
 	<dict>
 		<key>country_code</key>
@@ -2749401,6 +2750421,26 @@
 		<string>1417</string>
 		<key>wikiDataId</key>
 		<string>Q1085654</string>
+	</dict>
+	<dict>
+		<key>country_code</key>
+		<string>US</string>
+		<key>country_id</key>
+		<string>233</string>
+		<key>id</key>
+		<string>149067</string>
+		<key>latitude</key>
+		<string>39.75687570</string>
+		<key>longitude</key>
+		<string>-75.20697550</string>
+		<key>name</key>
+		<string>Mantua Township</string>
+		<key>state_code</key>
+		<string>NJ</string>
+		<key>state_id</key>
+		<string>1417</string>
+		<key>wikiDataId</key>
+		<string>Q3014914</string>
 	</dict>
 	<dict>
 		<key>country_code</key>

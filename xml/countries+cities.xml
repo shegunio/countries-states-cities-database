@@ -252345,6 +252345,12 @@
       <longitude>0.89728000</longitude>
     </cities>
     <cities>
+      <id>149119</id>
+      <name>Aowin</name>
+      <latitude>5.75309280</latitude>
+      <longitude>-3.07518870</longitude>
+    </cities>
+    <cities>
       <id>52157</id>
       <name>Apam</name>
       <latitude>5.28483000</latitude>
@@ -252355,6 +252361,36 @@
       <name>Asamankese</name>
       <latitude>5.86006000</latitude>
       <longitude>-0.66350000</longitude>
+    </cities>
+    <cities>
+      <id>149070</id>
+      <name>Asunafo North</name>
+      <latitude>6.81968910</latitude>
+      <longitude>-2.80770500</longitude>
+    </cities>
+    <cities>
+      <id>149071</id>
+      <name>Asunafo South</name>
+      <latitude>6.64801380</latitude>
+      <longitude>-2.68874370</longitude>
+    </cities>
+    <cities>
+      <id>149072</id>
+      <name>Asutifi North</name>
+      <latitude>6.94774860</latitude>
+      <longitude>-2.76757160</longitude>
+    </cities>
+    <cities>
+      <id>149073</id>
+      <name>Asutifi South</name>
+      <latitude>6.64801380</latitude>
+      <longitude>-2.68874370</longitude>
+    </cities>
+    <cities>
+      <id>149076</id>
+      <name>Atebubu-Amantin</name>
+      <latitude>7.70237000</latitude>
+      <longitude>-1.21979430</longitude>
     </cities>
     <cities>
       <id>52159</id>
@@ -252369,16 +252405,16 @@
       <longitude>-2.24181000</longitude>
     </cities>
     <cities>
+      <id>149086</id>
+      <name>Banda</name>
+      <latitude>8.14956710</latitude>
+      <longitude>-2.36639500</longitude>
+    </cities>
+    <cities>
       <id>52161</id>
       <name>Bawku</name>
       <latitude>11.06160000</latitude>
       <longitude>-0.24169000</longitude>
-    </cities>
-    <cities>
-      <id>52162</id>
-      <name>Bechem</name>
-      <latitude>7.09034000</latitude>
-      <longitude>-2.02498000</longitude>
     </cities>
     <cities>
       <id>52163</id>
@@ -252393,10 +252429,34 @@
       <longitude>-1.57866000</longitude>
     </cities>
     <cities>
-      <id>52165</id>
-      <name>Berekum</name>
-      <latitude>7.45340000</latitude>
-      <longitude>-2.58404000</longitude>
+      <id>149087</id>
+      <name>Berekum East</name>
+      <latitude>7.51117580</latitude>
+      <longitude>-2.75998310</longitude>
+    </cities>
+    <cities>
+      <id>149088</id>
+      <name>Berekum West</name>
+      <latitude>7.51117580</latitude>
+      <longitude>-2.75998310</longitude>
+    </cities>
+    <cities>
+      <id>149120</id>
+      <name>Bia East</name>
+      <latitude>6.76860400</latitude>
+      <longitude>-3.33302410</longitude>
+    </cities>
+    <cities>
+      <id>149121</id>
+      <name>Bia West</name>
+      <latitude>6.76860400</latitude>
+      <longitude>-3.33302410</longitude>
+    </cities>
+    <cities>
+      <id>149104</id>
+      <name>Biakoye</name>
+      <latitude>7.11698690</latitude>
+      <longitude>0.32324300</longitude>
     </cities>
     <cities>
       <id>52166</id>
@@ -252405,10 +252465,34 @@
       <longitude>-2.31938000</longitude>
     </cities>
     <cities>
+      <id>149122</id>
+      <name>Bibiani-Anhwiaso-Bekwai</name>
+      <latitude>6.30210040</latitude>
+      <longitude>-2.35675070</longitude>
+    </cities>
+    <cities>
+      <id>149123</id>
+      <name>Bodi</name>
+      <latitude>6.22240910</latitude>
+      <longitude>-2.76615150</longitude>
+    </cities>
+    <cities>
+      <id>149112</id>
+      <name>Bole</name>
+      <latitude>9.02996640</latitude>
+      <longitude>-2.50694300</longitude>
+    </cities>
+    <cities>
       <id>52167</id>
       <name>Bolgatanga</name>
       <latitude>10.78556000</latitude>
       <longitude>-0.85139000</longitude>
+    </cities>
+    <cities>
+      <id>149098</id>
+      <name>Bunkpurugu-Nyakpanduri</name>
+      <latitude>10.46609170</latitude>
+      <longitude>-0.22711950</longitude>
     </cities>
     <cities>
       <id>52168</id>
@@ -252417,22 +252501,58 @@
       <longitude>-1.24660000</longitude>
     </cities>
     <cities>
+      <id>149113</id>
+      <name>Central Gonja</name>
+      <latitude>8.92784320</latitude>
+      <longitude>-1.95369720</longitude>
+    </cities>
+    <cities>
+      <id>149099</id>
+      <name>Chereponi</name>
+      <latitude>10.13827720</latitude>
+      <longitude>0.28242580</longitude>
+    </cities>
+    <cities>
       <id>52169</id>
       <name>Dome</name>
       <latitude>5.65003000</latitude>
       <longitude>-0.23610000</longitude>
     </cities>
     <cities>
-      <id>52170</id>
-      <name>Duayaw-Nkwanta</name>
-      <latitude>7.17487000</latitude>
-      <longitude>-2.09961000</longitude>
+      <id>149089</id>
+      <name>Dormaa Central</name>
+      <latitude>7.27750000</latitude>
+      <longitude>-2.87833300</longitude>
+    </cities>
+    <cities>
+      <id>149090</id>
+      <name>Dormaa East</name>
+      <latitude>7.30000000</latitude>
+      <longitude>-2.70000000</longitude>
+    </cities>
+    <cities>
+      <id>149091</id>
+      <name>Dormaa West</name>
+      <latitude>7.01666700</latitude>
+      <longitude>-3.05000000</longitude>
     </cities>
     <cities>
       <id>52171</id>
       <name>Dunkwa</name>
       <latitude>5.95996000</latitude>
       <longitude>-1.77792000</longitude>
+    </cities>
+    <cities>
+      <id>149115</id>
+      <name>East Gonja</name>
+      <latitude>8.72568400</latitude>
+      <longitude>-1.07135790</longitude>
+    </cities>
+    <cities>
+      <id>149100</id>
+      <name>East Mamprusi</name>
+      <latitude>10.42931860</latitude>
+      <longitude>-0.53078850</longitude>
     </cities>
     <cities>
       <id>52172</id>
@@ -252471,10 +252591,34 @@
       <longitude>0.47362000</longitude>
     </cities>
     <cities>
-      <id>52178</id>
-      <name>Japekrom</name>
-      <latitude>7.57580000</latitude>
-      <longitude>-2.78516000</longitude>
+      <id>149092</id>
+      <name>Jaman North</name>
+      <latitude>7.98832340</latitude>
+      <longitude>-2.96858690</longitude>
+    </cities>
+    <cities>
+      <id>149093</id>
+      <name>Jaman South</name>
+      <latitude>7.70843750</latitude>
+      <longitude>-3.07501700</longitude>
+    </cities>
+    <cities>
+      <id>149105</id>
+      <name>Jasikan</name>
+      <latitude>7.40940880</latitude>
+      <longitude>0.44301500</longitude>
+    </cities>
+    <cities>
+      <id>149124</id>
+      <name>Juaboso</name>
+      <latitude>6.33331570</latitude>
+      <longitude>-2.84206140</longitude>
+    </cities>
+    <cities>
+      <id>149106</id>
+      <name>Kadjebi</name>
+      <latitude>7.52631920</latitude>
+      <longitude>0.46704770</longitude>
     </cities>
     <cities>
       <id>52179</id>
@@ -252501,10 +252645,16 @@
       <longitude>-0.55376000</longitude>
     </cities>
     <cities>
-      <id>52183</id>
-      <name>Kintampo</name>
-      <latitude>8.05627000</latitude>
-      <longitude>-1.73058000</longitude>
+      <id>149077</id>
+      <name>Kintampo North</name>
+      <latitude>8.39635790</latitude>
+      <longitude>-1.82000070</longitude>
+    </cities>
+    <cities>
+      <id>149078</id>
+      <name>Kintampo South</name>
+      <latitude>7.98971320</latitude>
+      <longitude>-2.00711150</longitude>
     </cities>
     <cities>
       <id>52184</id>
@@ -252531,6 +252681,24 @@
       <longitude>0.29306000</longitude>
     </cities>
     <cities>
+      <id>149107</id>
+      <name>Krachi East</name>
+      <latitude>7.77196980</latitude>
+      <longitude>-0.07763760</longitude>
+    </cities>
+    <cities>
+      <id>149108</id>
+      <name>Krachi Nchumuru</name>
+      <latitude>8.14849800</latitude>
+      <longitude>-0.16349880</longitude>
+    </cities>
+    <cities>
+      <id>149109</id>
+      <name>Krachi West</name>
+      <latitude>7.98282160</latitude>
+      <longitude>-0.34886270</longitude>
+    </cities>
+    <cities>
       <id>52188</id>
       <name>Kumasi</name>
       <latitude>6.68848000</latitude>
@@ -252541,6 +252709,12 @@
       <name>Mampong</name>
       <latitude>7.06273000</latitude>
       <longitude>-1.40010000</longitude>
+    </cities>
+    <cities>
+      <id>149101</id>
+      <name>Mamprugu-Moagduri</name>
+      <latitude>10.23290000</latitude>
+      <longitude>-1.28360000</longitude>
     </cities>
     <cities>
       <id>52190</id>
@@ -252567,6 +252741,42 @@
       <longitude>-1.09210000</longitude>
     </cities>
     <cities>
+      <id>149079</id>
+      <name>Nkoranza North</name>
+      <latitude>7.56603310</latitude>
+      <longitude>-1.72365200</longitude>
+    </cities>
+    <cities>
+      <id>149080</id>
+      <name>Nkoranza South</name>
+      <latitude>7.62405120</latitude>
+      <longitude>-1.79974460</longitude>
+    </cities>
+    <cities>
+      <id>149110</id>
+      <name>Nkwanta North</name>
+      <latitude>8.35180760</latitude>
+      <longitude>0.12217620</longitude>
+    </cities>
+    <cities>
+      <id>149111</id>
+      <name>Nkwanta South</name>
+      <latitude>8.25931340</latitude>
+      <longitude>0.50185190</longitude>
+    </cities>
+    <cities>
+      <id>149116</id>
+      <name>North East Gonja</name>
+      <latitude>9.11746690</latitude>
+      <longitude>-0.55579360</longitude>
+    </cities>
+    <cities>
+      <id>149114</id>
+      <name>North Gonja</name>
+      <latitude>9.54130850</latitude>
+      <longitude>-1.39766920</longitude>
+    </cities>
+    <cities>
       <id>52194</id>
       <name>Nsawam</name>
       <latitude>5.80893000</latitude>
@@ -252591,6 +252801,18 @@
       <longitude>-2.14295000</longitude>
     </cities>
     <cities>
+      <id>149082</id>
+      <name>Pru East</name>
+      <latitude>8.22620000</latitude>
+      <longitude>-0.65360000</longitude>
+    </cities>
+    <cities>
+      <id>149081</id>
+      <name>Pru West</name>
+      <latitude>8.07359930</latitude>
+      <longitude>-1.29055410</longitude>
+    </cities>
+    <cities>
       <id>52198</id>
       <name>Salaga</name>
       <latitude>8.55083000</latitude>
@@ -252609,10 +252831,40 @@
       <longitude>-0.82530000</longitude>
     </cities>
     <cities>
+      <id>149117</id>
+      <name>Sawla-Tuna-Kalba</name>
+      <latitude>9.39114570</latitude>
+      <longitude>-2.70611660</longitude>
+    </cities>
+    <cities>
+      <id>149125</id>
+      <name>Sefwi-Akontombra</name>
+      <latitude>6.04285480</latitude>
+      <longitude>-2.88133620</longitude>
+    </cities>
+    <cities>
+      <id>149126</id>
+      <name>Sefwi-Wiawso</name>
+      <latitude>6.21965670</latitude>
+      <longitude>-2.50059150</longitude>
+    </cities>
+    <cities>
       <id>52201</id>
       <name>Sekondi-Takoradi</name>
       <latitude>4.92678000</latitude>
       <longitude>-1.75773000</longitude>
+    </cities>
+    <cities>
+      <id>149083</id>
+      <name>Sene East</name>
+      <latitude>7.78300000</latitude>
+      <longitude>-0.21700000</longitude>
+    </cities>
+    <cities>
+      <id>149084</id>
+      <name>Sene West</name>
+      <latitude>7.73420000</latitude>
+      <longitude>-0.68180000</longitude>
     </cities>
     <cities>
       <id>52202</id>
@@ -252621,16 +252873,28 @@
       <longitude>-1.66437000</longitude>
     </cities>
     <cities>
+      <id>149127</id>
+      <name>Suaman</name>
+      <latitude>5.75309280</latitude>
+      <longitude>-3.07518870</longitude>
+    </cities>
+    <cities>
       <id>52203</id>
       <name>Suhum</name>
       <latitude>6.04089000</latitude>
       <longitude>-0.45004000</longitude>
     </cities>
     <cities>
-      <id>52204</id>
+      <id>149094</id>
       <name>Sunyani</name>
-      <latitude>7.33991000</latitude>
-      <longitude>-2.32676000</longitude>
+      <latitude>7.33803320</latitude>
+      <longitude>-2.34871460</longitude>
+    </cities>
+    <cities>
+      <id>149095</id>
+      <name>Sunyani West</name>
+      <latitude>7.35660520</latitude>
+      <longitude>-2.44618620</longitude>
     </cities>
     <cities>
       <id>52205</id>
@@ -252645,6 +252909,12 @@
       <longitude>-1.61370000</longitude>
     </cities>
     <cities>
+      <id>149096</id>
+      <name>Tain</name>
+      <latitude>8.18114110</latitude>
+      <longitude>-2.86487620</longitude>
+    </cities>
+    <cities>
       <id>52207</id>
       <name>Takoradi</name>
       <latitude>4.89816000</latitude>
@@ -252657,16 +252927,34 @@
       <longitude>-0.83930000</longitude>
     </cities>
     <cities>
+      <id>149069</id>
+      <name>Tano North</name>
+      <latitude>7.22603010</latitude>
+      <longitude>-2.30456560</longitude>
+    </cities>
+    <cities>
+      <id>149068</id>
+      <name>Tano South</name>
+      <latitude>7.19537930</latitude>
+      <longitude>-2.12586610</longitude>
+    </cities>
+    <cities>
       <id>52209</id>
       <name>Tarkwa</name>
       <latitude>5.30383000</latitude>
       <longitude>-1.98956000</longitude>
     </cities>
     <cities>
-      <id>52210</id>
+      <id>149074</id>
       <name>Techiman</name>
-      <latitude>7.58417000</latitude>
-      <longitude>-1.93815000</longitude>
+      <latitude>7.58968560</latitude>
+      <longitude>-1.95122140</longitude>
+    </cities>
+    <cities>
+      <id>149075</id>
+      <name>Techiman North</name>
+      <latitude>7.70428020</latitude>
+      <longitude>-2.08140570</longitude>
     </cities>
     <cities>
       <id>52211</id>
@@ -252687,10 +252975,22 @@
       <longitude>-2.50192000</longitude>
     </cities>
     <cities>
-      <id>52214</id>
+      <id>149097</id>
       <name>Wenchi</name>
-      <latitude>7.73916000</latitude>
-      <longitude>-2.10456000</longitude>
+      <latitude>7.74059920</latitude>
+      <longitude>-2.12267880</longitude>
+    </cities>
+    <cities>
+      <id>149118</id>
+      <name>West Gonja</name>
+      <latitude>9.57513170</latitude>
+      <longitude>-2.26440410</longitude>
+    </cities>
+    <cities>
+      <id>149102</id>
+      <name>West Mamprusi</name>
+      <latitude>10.29906060</latitude>
+      <longitude>-1.36750100</longitude>
     </cities>
     <cities>
       <id>52215</id>
@@ -252703,6 +253003,12 @@
       <name>Yendi</name>
       <latitude>9.44272000</latitude>
       <longitude>-0.00991000</longitude>
+    </cities>
+    <cities>
+      <id>149103</id>
+      <name>Yunyoo-Nasuan</name>
+      <latitude>10.48400000</latitude>
+      <longitude>-0.00900000</longitude>
     </cities>
   </country_city>
   <country_city>
@@ -835305,6 +835611,12 @@
       <name>Mantua</name>
       <latitude>41.28394000</latitude>
       <longitude>-81.22399000</longitude>
+    </cities>
+    <cities>
+      <id>149067</id>
+      <name>Mantua Township</name>
+      <latitude>39.75687570</latitude>
+      <longitude>-75.20697550</longitude>
     </cities>
     <cities>
       <id>121161</id>

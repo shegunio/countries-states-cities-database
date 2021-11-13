@@ -2,6 +2,7 @@ DROP TABLE IF EXISTS `cities`;
 DROP TABLE IF EXISTS `states`;
 DROP TABLE IF EXISTS `countries`;
 
+
 -- phpMyAdmin SQL Dump
 -- version 4.9.7
 -- https://www.phpmyadmin.net/

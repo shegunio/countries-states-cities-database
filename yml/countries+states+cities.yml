@@ -221572,12 +221572,50 @@ country_state_city:
     emojiU: 'U+1F1EC U+1F1ED'
     states:
       -
+        id: 53
+        name: Ahafo
+        state_code: AF
+        latitude: '7.58213720'
+        longitude: '-2.54974630'
+        type: region
+        cities:
+          -
+            id: 149070
+            name: 'Asunafo North'
+            latitude: '6.81968910'
+            longitude: '-2.80770500'
+          -
+            id: 149071
+            name: 'Asunafo South'
+            latitude: '6.64801380'
+            longitude: '-2.68874370'
+          -
+            id: 149072
+            name: 'Asutifi North'
+            latitude: '6.94774860'
+            longitude: '-2.76757160'
+          -
+            id: 149073
+            name: 'Asutifi South'
+            latitude: '6.64801380'
+            longitude: '-2.68874370'
+          -
+            id: 149069
+            name: 'Tano North'
+            latitude: '7.22603010'
+            longitude: '-2.30456560'
+          -
+            id: 149068
+            name: 'Tano South'
+            latitude: '7.19537930'
+            longitude: '-2.12586610'
+      -
         id: 48
-        name: 'Ashanti Region'
+        name: Ashanti
         state_code: AH
         latitude: '6.74704360'
         longitude: '-1.52086240'
-        type: null
+        type: region
         cities:
           -
             id: 52151
@@ -221620,60 +221658,143 @@ country_state_city:
             latitude: '6.73156000'
             longitude: '-1.61370000'
       -
-        id: 53
-        name: 'Brong-Ahafo Region'
-        state_code: BA
-        latitude: '7.95592470'
-        longitude: '-1.67606910'
-        type: null
+        id: 4959
+        name: Bono
+        state_code: BO
+        latitude: '7.65000000'
+        longitude: '-2.50000000'
+        type: region
         cities:
           -
-            id: 52162
-            name: Bechem
-            latitude: '7.09034000'
-            longitude: '-2.02498000'
+            id: 149086
+            name: Banda
+            latitude: '8.14956710'
+            longitude: '-2.36639500'
           -
-            id: 52165
-            name: Berekum
-            latitude: '7.45340000'
-            longitude: '-2.58404000'
+            id: 149087
+            name: 'Berekum East'
+            latitude: '7.51117580'
+            longitude: '-2.75998310'
           -
-            id: 52170
-            name: Duayaw-Nkwanta
-            latitude: '7.17487000'
-            longitude: '-2.09961000'
+            id: 149088
+            name: 'Berekum West'
+            latitude: '7.51117580'
+            longitude: '-2.75998310'
           -
-            id: 52178
-            name: Japekrom
-            latitude: '7.57580000'
-            longitude: '-2.78516000'
+            id: 149089
+            name: 'Dormaa Central'
+            latitude: '7.27750000'
+            longitude: '-2.87833300'
           -
-            id: 52183
-            name: Kintampo
-            latitude: '8.05627000'
-            longitude: '-1.73058000'
+            id: 149090
+            name: 'Dormaa East'
+            latitude: '7.30000000'
+            longitude: '-2.70000000'
           -
-            id: 52204
+            id: 149091
+            name: 'Dormaa West'
+            latitude: '7.01666700'
+            longitude: '-3.05000000'
+          -
+            id: 149092
+            name: 'Jaman North'
+            latitude: '7.98832340'
+            longitude: '-2.96858690'
+          -
+            id: 149093
+            name: 'Jaman South'
+            latitude: '7.70843750'
+            longitude: '-3.07501700'
+          -
+            id: 149094
             name: Sunyani
-            latitude: '7.33991000'
-            longitude: '-2.32676000'
+            latitude: '7.33803320'
+            longitude: '-2.34871460'
           -
-            id: 52210
-            name: Techiman
-            latitude: '7.58417000'
-            longitude: '-1.93815000'
+            id: 149095
+            name: 'Sunyani West'
+            latitude: '7.35660520'
+            longitude: '-2.44618620'
           -
-            id: 52214
+            id: 149096
+            name: Tain
+            latitude: '8.18114110'
+            longitude: '-2.86487620'
+          -
+            id: 149097
             name: Wenchi
-            latitude: '7.73916000'
-            longitude: '-2.10456000'
+            latitude: '7.74059920'
+            longitude: '-2.12267880'
+      -
+        id: 4958
+        name: 'Bono East'
+        state_code: BE
+        latitude: '7.75000000'
+        longitude: '-1.05000000'
+        type: region
+        cities:
+          -
+            id: 149076
+            name: Atebubu-Amantin
+            latitude: '7.70237000'
+            longitude: '-1.21979430'
+          -
+            id: 149077
+            name: 'Kintampo North'
+            latitude: '8.39635790'
+            longitude: '-1.82000070'
+          -
+            id: 149078
+            name: 'Kintampo South'
+            latitude: '7.98971320'
+            longitude: '-2.00711150'
+          -
+            id: 149079
+            name: 'Nkoranza North'
+            latitude: '7.56603310'
+            longitude: '-1.72365200'
+          -
+            id: 149080
+            name: 'Nkoranza South'
+            latitude: '7.62405120'
+            longitude: '-1.79974460'
+          -
+            id: 149082
+            name: 'Pru East'
+            latitude: '8.22620000'
+            longitude: '-0.65360000'
+          -
+            id: 149081
+            name: 'Pru West'
+            latitude: '8.07359930'
+            longitude: '-1.29055410'
+          -
+            id: 149083
+            name: 'Sene East'
+            latitude: '7.78300000'
+            longitude: '-0.21700000'
+          -
+            id: 149084
+            name: 'Sene West'
+            latitude: '7.73420000'
+            longitude: '-0.68180000'
+          -
+            id: 149074
+            name: Techiman
+            latitude: '7.58968560'
+            longitude: '-1.95122140'
+          -
+            id: 149075
+            name: 'Techiman North'
+            latitude: '7.70428020'
+            longitude: '-2.08140570'
       -
         id: 52
-        name: 'Central Region'
+        name: Central
         state_code: CP
-        latitude: null
-        longitude: null
-        type: null
+        latitude: '5.50000000'
+        longitude: '-1.00000000'
+        type: region
         cities:
           -
             id: 52157
@@ -221727,11 +221848,11 @@ country_state_city:
             longitude: '-0.62313000'
       -
         id: 50
-        name: 'Eastern Region'
+        name: Eastern
         state_code: EP
-        latitude: null
-        longitude: null
-        type: null
+        latitude: '6.50000000'
+        longitude: '-0.50000000'
+        type: region
         cities:
           -
             id: 52148
@@ -221795,11 +221916,11 @@ country_state_city:
             longitude: '-0.45004000'
       -
         id: 54
-        name: 'Greater Accra Region'
+        name: 'Greater Accra'
         state_code: AA
         latitude: '5.81428360'
         longitude: '0.07467670'
-        type: null
+        type: region
         cities:
           -
             id: 52149
@@ -221842,12 +221963,50 @@ country_state_city:
             latitude: '5.58365000'
             longitude: '-0.10722000'
       -
+        id: 4960
+        name: 'North East'
+        state_code: NE
+        latitude: '10.51666700'
+        longitude: '-0.36666700'
+        type: region
+        cities:
+          -
+            id: 149098
+            name: Bunkpurugu-Nyakpanduri
+            latitude: '10.46609170'
+            longitude: '-0.22711950'
+          -
+            id: 149099
+            name: Chereponi
+            latitude: '10.13827720'
+            longitude: '0.28242580'
+          -
+            id: 149100
+            name: 'East Mamprusi'
+            latitude: '10.42931860'
+            longitude: '-0.53078850'
+          -
+            id: 149101
+            name: Mamprugu-Moagduri
+            latitude: '10.23290000'
+            longitude: '-1.28360000'
+          -
+            id: 149102
+            name: 'West Mamprusi'
+            latitude: '10.29906060'
+            longitude: '-1.36750100'
+          -
+            id: 149103
+            name: Yunyoo-Nasuan
+            latitude: '10.48400000'
+            longitude: '-0.00900000'
+      -
         id: 51
-        name: 'Northern Region'
+        name: Northern
         state_code: NP
-        latitude: null
-        longitude: null
-        type: null
+        latitude: '9.50000000'
+        longitude: '-1.00000000'
+        type: region
         cities:
           -
             id: 52186
@@ -221875,12 +222034,103 @@ country_state_city:
             latitude: '9.44272000'
             longitude: '-0.00991000'
       -
+        id: 4961
+        name: Oti
+        state_code: OT
+        latitude: '7.90000000'
+        longitude: '0.30000000'
+        type: region
+        cities:
+          -
+            id: 149104
+            name: Biakoye
+            latitude: '7.11698690'
+            longitude: '0.32324300'
+          -
+            id: 149105
+            name: Jasikan
+            latitude: '7.40940880'
+            longitude: '0.44301500'
+          -
+            id: 149106
+            name: Kadjebi
+            latitude: '7.52631920'
+            longitude: '0.46704770'
+          -
+            id: 149107
+            name: 'Krachi East'
+            latitude: '7.77196980'
+            longitude: '-0.07763760'
+          -
+            id: 149108
+            name: 'Krachi Nchumuru'
+            latitude: '8.14849800'
+            longitude: '-0.16349880'
+          -
+            id: 149109
+            name: 'Krachi West'
+            latitude: '7.98282160'
+            longitude: '-0.34886270'
+          -
+            id: 149110
+            name: 'Nkwanta North'
+            latitude: '8.35180760'
+            longitude: '0.12217620'
+          -
+            id: 149111
+            name: 'Nkwanta South'
+            latitude: '8.25931340'
+            longitude: '0.50185190'
+      -
+        id: 4962
+        name: Savannah
+        state_code: SV
+        latitude: '9.08333300'
+        longitude: '-1.81666700'
+        type: region
+        cities:
+          -
+            id: 149112
+            name: Bole
+            latitude: '9.02996640'
+            longitude: '-2.50694300'
+          -
+            id: 149113
+            name: 'Central Gonja'
+            latitude: '8.92784320'
+            longitude: '-1.95369720'
+          -
+            id: 149115
+            name: 'East Gonja'
+            latitude: '8.72568400'
+            longitude: '-1.07135790'
+          -
+            id: 149116
+            name: 'North East Gonja'
+            latitude: '9.11746690'
+            longitude: '-0.55579360'
+          -
+            id: 149114
+            name: 'North Gonja'
+            latitude: '9.54130850'
+            longitude: '-1.39766920'
+          -
+            id: 149117
+            name: Sawla-Tuna-Kalba
+            latitude: '9.39114570'
+            longitude: '-2.70611660'
+          -
+            id: 149118
+            name: 'West Gonja'
+            latitude: '9.57513170'
+            longitude: '-2.26440410'
+      -
         id: 55
-        name: 'Upper East Region'
+        name: 'Upper East'
         state_code: UE
         latitude: '10.70824990'
         longitude: '-0.98206680'
-        type: null
+        type: region
         cities:
           -
             id: 52161
@@ -221899,11 +222149,11 @@ country_state_city:
             longitude: '-1.09210000'
       -
         id: 57
-        name: 'Upper West Region'
+        name: 'Upper West'
         state_code: UW
         latitude: '10.25297570'
         longitude: '-2.14502450'
-        type: null
+        type: region
         cities:
           -
             id: 52213
@@ -221912,11 +222162,11 @@ country_state_city:
             longitude: '-2.50192000'
       -
         id: 56
-        name: 'Volta Region'
+        name: Volta
         state_code: TV
         latitude: '6.57813730'
         longitude: '0.45023680'
-        type: null
+        type: region
         cities:
           -
             id: 52150
@@ -221955,11 +222205,11 @@ country_state_city:
             longitude: '0.29306000'
       -
         id: 49
-        name: 'Western Region'
+        name: Western
         state_code: WP
-        latitude: null
-        longitude: null
-        type: null
+        latitude: '5.50000000'
+        longitude: '-2.50000000'
+        type: region
         cities:
           -
             id: 52147
@@ -222001,6 +222251,59 @@ country_state_city:
             name: Tarkwa
             latitude: '5.30383000'
             longitude: '-1.98956000'
+      -
+        id: 4963
+        name: 'Western North'
+        state_code: WN
+        latitude: '6.30000000'
+        longitude: '-2.80000000'
+        type: region
+        cities:
+          -
+            id: 149119
+            name: Aowin
+            latitude: '5.75309280'
+            longitude: '-3.07518870'
+          -
+            id: 149120
+            name: 'Bia East'
+            latitude: '6.76860400'
+            longitude: '-3.33302410'
+          -
+            id: 149121
+            name: 'Bia West'
+            latitude: '6.76860400'
+            longitude: '-3.33302410'
+          -
+            id: 149122
+            name: Bibiani-Anhwiaso-Bekwai
+            latitude: '6.30210040'
+            longitude: '-2.35675070'
+          -
+            id: 149123
+            name: Bodi
+            latitude: '6.22240910'
+            longitude: '-2.76615150'
+          -
+            id: 149124
+            name: Juaboso
+            latitude: '6.33331570'
+            longitude: '-2.84206140'
+          -
+            id: 149125
+            name: Sefwi-Akontombra
+            latitude: '6.04285480'
+            longitude: '-2.88133620'
+          -
+            id: 149126
+            name: Sefwi-Wiawso
+            latitude: '6.21965670'
+            longitude: '-2.50059150'
+          -
+            id: 149127
+            name: Suaman
+            latitude: '5.75309280'
+            longitude: '-3.07518870'
   -
     id: 84
     name: Gibraltar
@@ -735084,6 +735387,11 @@ country_state_city:
             name: Manasquan
             latitude: '40.12623000'
             longitude: '-74.04930000'
+          -
+            id: 149067
+            name: 'Mantua Township'
+            latitude: '39.75687570'
+            longitude: '-75.20697550'
           -
             id: 121162
             name: Manville

@@ -455203,6 +455203,72 @@
     <wikiDataId>Q196996</wikiDataId>
   </city>
   <city>
+    <id>149070</id>
+    <name>Asunafo North</name>
+    <state_id>53</state_id>
+    <state_code>AF</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>6.81968910</latitude>
+    <longitude>-2.80770500</longitude>
+    <wikiDataId>Q752417</wikiDataId>
+  </city>
+  <city>
+    <id>149071</id>
+    <name>Asunafo South</name>
+    <state_id>53</state_id>
+    <state_code>AF</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>6.64801380</latitude>
+    <longitude>-2.68874370</longitude>
+    <wikiDataId>Q752420</wikiDataId>
+  </city>
+  <city>
+    <id>149072</id>
+    <name>Asutifi North</name>
+    <state_id>53</state_id>
+    <state_code>AF</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>6.94774860</latitude>
+    <longitude>-2.76757160</longitude>
+    <wikiDataId>Q55555112</wikiDataId>
+  </city>
+  <city>
+    <id>149073</id>
+    <name>Asutifi South</name>
+    <state_id>53</state_id>
+    <state_code>AF</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>6.64801380</latitude>
+    <longitude>-2.68874370</longitude>
+    <wikiDataId>Q55555134</wikiDataId>
+  </city>
+  <city>
+    <id>149069</id>
+    <name>Tano North</name>
+    <state_id>53</state_id>
+    <state_code>AF</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.22603010</latitude>
+    <longitude>-2.30456560</longitude>
+    <wikiDataId>Q373327</wikiDataId>
+  </city>
+  <city>
+    <id>149068</id>
+    <name>Tano South</name>
+    <state_id>53</state_id>
+    <state_code>AF</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.19537930</latitude>
+    <longitude>-2.12586610</longitude>
+    <wikiDataId>Q960302</wikiDataId>
+  </city>
+  <city>
     <id>52151</id>
     <name>Agogo</name>
     <state_id>48</state_id>
@@ -455291,92 +455357,257 @@
     <wikiDataId>Q7674984</wikiDataId>
   </city>
   <city>
-    <id>52162</id>
-    <name>Bechem</name>
-    <state_id>53</state_id>
-    <state_code>BA</state_code>
+    <id>149086</id>
+    <name>Banda</name>
+    <state_id>4959</state_id>
+    <state_code>BO</state_code>
     <country_id>83</country_id>
     <country_code>GH</country_code>
-    <latitude>7.09034000</latitude>
-    <longitude>-2.02498000</longitude>
-    <wikiDataId>Q813582</wikiDataId>
+    <latitude>8.14956710</latitude>
+    <longitude>-2.36639500</longitude>
+    <wikiDataId>Q20312309</wikiDataId>
   </city>
   <city>
-    <id>52165</id>
-    <name>Berekum</name>
-    <state_id>53</state_id>
-    <state_code>BA</state_code>
+    <id>149087</id>
+    <name>Berekum East</name>
+    <state_id>4959</state_id>
+    <state_code>BO</state_code>
     <country_id>83</country_id>
     <country_code>GH</country_code>
-    <latitude>7.45340000</latitude>
-    <longitude>-2.58404000</longitude>
-    <wikiDataId>Q818988</wikiDataId>
+    <latitude>7.51117580</latitude>
+    <longitude>-2.75998310</longitude>
+    <wikiDataId>Q55555195</wikiDataId>
   </city>
   <city>
-    <id>52170</id>
-    <name>Duayaw-Nkwanta</name>
-    <state_id>53</state_id>
-    <state_code>BA</state_code>
+    <id>149088</id>
+    <name>Berekum West</name>
+    <state_id>4959</state_id>
+    <state_code>BO</state_code>
     <country_id>83</country_id>
     <country_code>GH</country_code>
-    <latitude>7.17487000</latitude>
-    <longitude>-2.09961000</longitude>
-    <wikiDataId>Q5310449</wikiDataId>
+    <latitude>7.51117580</latitude>
+    <longitude>-2.75998310</longitude>
+    <wikiDataId>Q104822488</wikiDataId>
   </city>
   <city>
-    <id>52178</id>
-    <name>Japekrom</name>
-    <state_id>53</state_id>
-    <state_code>BA</state_code>
+    <id>149089</id>
+    <name>Dormaa Central</name>
+    <state_id>4959</state_id>
+    <state_code>BO</state_code>
     <country_id>83</country_id>
     <country_code>GH</country_code>
-    <latitude>7.57580000</latitude>
-    <longitude>-2.78516000</longitude>
-    <wikiDataId>Q1017008</wikiDataId>
+    <latitude>7.27750000</latitude>
+    <longitude>-2.87833300</longitude>
+    <wikiDataId>Q692883</wikiDataId>
   </city>
   <city>
-    <id>52183</id>
-    <name>Kintampo</name>
-    <state_id>53</state_id>
-    <state_code>BA</state_code>
+    <id>149090</id>
+    <name>Dormaa East</name>
+    <state_id>4959</state_id>
+    <state_code>BO</state_code>
     <country_id>83</country_id>
     <country_code>GH</country_code>
-    <latitude>8.05627000</latitude>
-    <longitude>-1.73058000</longitude>
-    <wikiDataId>Q1742284</wikiDataId>
+    <latitude>7.30000000</latitude>
+    <longitude>-2.70000000</longitude>
+    <wikiDataId>Q5298060</wikiDataId>
   </city>
   <city>
-    <id>52204</id>
+    <id>149091</id>
+    <name>Dormaa West</name>
+    <state_id>4959</state_id>
+    <state_code>BO</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.01666700</latitude>
+    <longitude>-3.05000000</longitude>
+    <wikiDataId>Q55555259</wikiDataId>
+  </city>
+  <city>
+    <id>149092</id>
+    <name>Jaman North</name>
+    <state_id>4959</state_id>
+    <state_code>BO</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.98832340</latitude>
+    <longitude>-2.96858690</longitude>
+    <wikiDataId>Q1504034</wikiDataId>
+  </city>
+  <city>
+    <id>149093</id>
+    <name>Jaman South</name>
+    <state_id>4959</state_id>
+    <state_code>BO</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.70843750</latitude>
+    <longitude>-3.07501700</longitude>
+    <wikiDataId>Q1504079</wikiDataId>
+  </city>
+  <city>
+    <id>149094</id>
     <name>Sunyani</name>
-    <state_id>53</state_id>
-    <state_code>BA</state_code>
+    <state_id>4959</state_id>
+    <state_code>BO</state_code>
     <country_id>83</country_id>
     <country_code>GH</country_code>
-    <latitude>7.33991000</latitude>
-    <longitude>-2.32676000</longitude>
-    <wikiDataId>Q406037</wikiDataId>
+    <latitude>7.33803320</latitude>
+    <longitude>-2.34871460</longitude>
+    <wikiDataId>Q1786388</wikiDataId>
   </city>
   <city>
-    <id>52210</id>
-    <name>Techiman</name>
-    <state_id>53</state_id>
-    <state_code>BA</state_code>
+    <id>149095</id>
+    <name>Sunyani West</name>
+    <state_id>4959</state_id>
+    <state_code>BO</state_code>
     <country_id>83</country_id>
     <country_code>GH</country_code>
-    <latitude>7.58417000</latitude>
-    <longitude>-1.93815000</longitude>
-    <wikiDataId>Q964069</wikiDataId>
+    <latitude>7.35660520</latitude>
+    <longitude>-2.44618620</longitude>
+    <wikiDataId>Q7641761</wikiDataId>
   </city>
   <city>
-    <id>52214</id>
+    <id>149096</id>
+    <name>Tain</name>
+    <state_id>4959</state_id>
+    <state_code>BO</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>8.18114110</latitude>
+    <longitude>-2.86487620</longitude>
+    <wikiDataId>Q695048</wikiDataId>
+  </city>
+  <city>
+    <id>149097</id>
     <name>Wenchi</name>
-    <state_id>53</state_id>
-    <state_code>BA</state_code>
+    <state_id>4959</state_id>
+    <state_code>BO</state_code>
     <country_id>83</country_id>
     <country_code>GH</country_code>
-    <latitude>7.73916000</latitude>
-    <longitude>-2.10456000</longitude>
-    <wikiDataId>Q2236059</wikiDataId>
+    <latitude>7.74059920</latitude>
+    <longitude>-2.12267880</longitude>
+    <wikiDataId>Q1504094</wikiDataId>
+  </city>
+  <city>
+    <id>149076</id>
+    <name>Atebubu-Amantin</name>
+    <state_id>4958</state_id>
+    <state_code>BE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.70237000</latitude>
+    <longitude>-1.21979430</longitude>
+    <wikiDataId>Q117446</wikiDataId>
+  </city>
+  <city>
+    <id>149077</id>
+    <name>Kintampo North</name>
+    <state_id>4958</state_id>
+    <state_code>BE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>8.39635790</latitude>
+    <longitude>-1.82000070</longitude>
+    <wikiDataId>Q1665763</wikiDataId>
+  </city>
+  <city>
+    <id>149078</id>
+    <name>Kintampo South</name>
+    <state_id>4958</state_id>
+    <state_code>BE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.98971320</latitude>
+    <longitude>-2.00711150</longitude>
+    <wikiDataId>Q1504020</wikiDataId>
+  </city>
+  <city>
+    <id>149079</id>
+    <name>Nkoranza North</name>
+    <state_id>4958</state_id>
+    <state_code>BE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.56603310</latitude>
+    <longitude>-1.72365200</longitude>
+    <wikiDataId>Q3342359</wikiDataId>
+  </city>
+  <city>
+    <id>149080</id>
+    <name>Nkoranza South</name>
+    <state_id>4958</state_id>
+    <state_code>BE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.62405120</latitude>
+    <longitude>-1.79974460</longitude>
+    <wikiDataId>Q7042619</wikiDataId>
+  </city>
+  <city>
+    <id>149082</id>
+    <name>Pru East</name>
+    <state_id>4958</state_id>
+    <state_code>BE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>8.22620000</latitude>
+    <longitude>-0.65360000</longitude>
+    <wikiDataId>Q105081992</wikiDataId>
+  </city>
+  <city>
+    <id>149081</id>
+    <name>Pru West</name>
+    <state_id>4958</state_id>
+    <state_code>BE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>8.07359930</latitude>
+    <longitude>-1.29055410</longitude>
+    <wikiDataId>Q105063588</wikiDataId>
+  </city>
+  <city>
+    <id>149083</id>
+    <name>Sene East</name>
+    <state_id>4958</state_id>
+    <state_code>BE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.78300000</latitude>
+    <longitude>-0.21700000</longitude>
+    <wikiDataId>Q55555336</wikiDataId>
+  </city>
+  <city>
+    <id>149084</id>
+    <name>Sene West</name>
+    <state_id>4958</state_id>
+    <state_code>BE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.73420000</latitude>
+    <longitude>-0.68180000</longitude>
+    <wikiDataId>Q55555352</wikiDataId>
+  </city>
+  <city>
+    <id>149074</id>
+    <name>Techiman</name>
+    <state_id>4958</state_id>
+    <state_code>BE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.58968560</latitude>
+    <longitude>-1.95122140</longitude>
+    <wikiDataId>Q957996</wikiDataId>
+  </city>
+  <city>
+    <id>149075</id>
+    <name>Techiman North</name>
+    <state_id>4958</state_id>
+    <state_code>BE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.70428020</latitude>
+    <longitude>-2.08140570</longitude>
+    <wikiDataId>Q20855212</wikiDataId>
   </city>
   <city>
     <id>52157</id>
@@ -455709,6 +455940,72 @@
     <wikiDataId>Q1062602</wikiDataId>
   </city>
   <city>
+    <id>149098</id>
+    <name>Bunkpurugu-Nyakpanduri</name>
+    <state_id>4960</state_id>
+    <state_code>NE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>10.46609170</latitude>
+    <longitude>-0.22711950</longitude>
+    <wikiDataId>Q631255</wikiDataId>
+  </city>
+  <city>
+    <id>149099</id>
+    <name>Chereponi</name>
+    <state_id>4960</state_id>
+    <state_code>NE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>10.13827720</latitude>
+    <longitude>0.28242580</longitude>
+    <wikiDataId>Q5091888</wikiDataId>
+  </city>
+  <city>
+    <id>149100</id>
+    <name>East Mamprusi</name>
+    <state_id>4960</state_id>
+    <state_code>NE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>10.42931860</latitude>
+    <longitude>-0.53078850</longitude>
+    <wikiDataId>Q824725</wikiDataId>
+  </city>
+  <city>
+    <id>149101</id>
+    <name>Mamprugu-Moagduri</name>
+    <state_id>4960</state_id>
+    <state_code>NE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>10.23290000</latitude>
+    <longitude>-1.28360000</longitude>
+    <wikiDataId>Q24698175</wikiDataId>
+  </city>
+  <city>
+    <id>149102</id>
+    <name>West Mamprusi</name>
+    <state_id>4960</state_id>
+    <state_code>NE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>10.29906060</latitude>
+    <longitude>-1.36750100</longitude>
+    <wikiDataId>Q3285080</wikiDataId>
+  </city>
+  <city>
+    <id>149103</id>
+    <name>Yunyoo-Nasuan</name>
+    <state_id>4960</state_id>
+    <state_code>NE</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>10.48400000</latitude>
+    <longitude>-0.00900000</longitude>
+    <wikiDataId>Q107070876</wikiDataId>
+  </city>
+  <city>
     <id>52186</id>
     <name>Kpandae</name>
     <state_id>51</state_id>
@@ -455762,6 +456059,171 @@
     <latitude>9.44272000</latitude>
     <longitude>-0.00991000</longitude>
     <wikiDataId>Q639066</wikiDataId>
+  </city>
+  <city>
+    <id>149104</id>
+    <name>Biakoye</name>
+    <state_id>4961</state_id>
+    <state_code>OT</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.11698690</latitude>
+    <longitude>0.32324300</longitude>
+    <wikiDataId>Q2900789</wikiDataId>
+  </city>
+  <city>
+    <id>149105</id>
+    <name>Jasikan</name>
+    <state_id>4961</state_id>
+    <state_code>OT</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.40940880</latitude>
+    <longitude>0.44301500</longitude>
+    <wikiDataId>Q1432676</wikiDataId>
+  </city>
+  <city>
+    <id>149106</id>
+    <name>Kadjebi</name>
+    <state_id>4961</state_id>
+    <state_code>OT</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.52631920</latitude>
+    <longitude>0.46704770</longitude>
+    <wikiDataId>Q3191794</wikiDataId>
+  </city>
+  <city>
+    <id>149107</id>
+    <name>Krachi East</name>
+    <state_id>4961</state_id>
+    <state_code>OT</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.77196980</latitude>
+    <longitude>-0.07763760</longitude>
+    <wikiDataId>Q3199542</wikiDataId>
+  </city>
+  <city>
+    <id>149108</id>
+    <name>Krachi Nchumuru</name>
+    <state_id>4961</state_id>
+    <state_code>OT</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>8.14849800</latitude>
+    <longitude>-0.16349880</longitude>
+    <wikiDataId>Q55589875</wikiDataId>
+  </city>
+  <city>
+    <id>149109</id>
+    <name>Krachi West</name>
+    <state_id>4961</state_id>
+    <state_code>OT</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>7.98282160</latitude>
+    <longitude>-0.34886270</longitude>
+    <wikiDataId>Q3199541</wikiDataId>
+  </city>
+  <city>
+    <id>149110</id>
+    <name>Nkwanta North</name>
+    <state_id>4961</state_id>
+    <state_code>OT</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>8.35180760</latitude>
+    <longitude>0.12217620</longitude>
+    <wikiDataId>Q3342368</wikiDataId>
+  </city>
+  <city>
+    <id>149111</id>
+    <name>Nkwanta South</name>
+    <state_id>4961</state_id>
+    <state_code>OT</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>8.25931340</latitude>
+    <longitude>0.50185190</longitude>
+    <wikiDataId>Q977886</wikiDataId>
+  </city>
+  <city>
+    <id>149112</id>
+    <name>Bole</name>
+    <state_id>4962</state_id>
+    <state_code>SV</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>9.02996640</latitude>
+    <longitude>-2.50694300</longitude>
+    <wikiDataId>Q820344</wikiDataId>
+  </city>
+  <city>
+    <id>149113</id>
+    <name>Central Gonja</name>
+    <state_id>4962</state_id>
+    <state_code>SV</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>8.92784320</latitude>
+    <longitude>-1.95369720</longitude>
+    <wikiDataId>Q225577</wikiDataId>
+  </city>
+  <city>
+    <id>149115</id>
+    <name>East Gonja</name>
+    <state_id>4962</state_id>
+    <state_code>SV</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>8.72568400</latitude>
+    <longitude>-1.07135790</longitude>
+    <wikiDataId>Q825097</wikiDataId>
+  </city>
+  <city>
+    <id>149116</id>
+    <name>North East Gonja</name>
+    <state_id>4962</state_id>
+    <state_code>SV</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>9.11746690</latitude>
+    <longitude>-0.55579360</longitude>
+    <wikiDataId>Q105555666</wikiDataId>
+  </city>
+  <city>
+    <id>149114</id>
+    <name>North Gonja</name>
+    <state_id>4962</state_id>
+    <state_code>SV</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>9.54130850</latitude>
+    <longitude>-1.39766920</longitude>
+    <wikiDataId>Q55570015</wikiDataId>
+  </city>
+  <city>
+    <id>149117</id>
+    <name>Sawla-Tuna-Kalba</name>
+    <state_id>4962</state_id>
+    <state_code>SV</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>9.39114570</latitude>
+    <longitude>-2.70611660</longitude>
+    <wikiDataId>Q3474659</wikiDataId>
+  </city>
+  <city>
+    <id>149118</id>
+    <name>West Gonja</name>
+    <state_id>4962</state_id>
+    <state_code>SV</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>9.57513170</latitude>
+    <longitude>-2.26440410</longitude>
+    <wikiDataId>Q3110546</wikiDataId>
   </city>
   <city>
     <id>52161</id>
@@ -455971,6 +456433,105 @@
     <latitude>5.30383000</latitude>
     <longitude>-1.98956000</longitude>
     <wikiDataId>Q995439</wikiDataId>
+  </city>
+  <city>
+    <id>149119</id>
+    <name>Aowin</name>
+    <state_id>4963</state_id>
+    <state_code>WN</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>5.75309280</latitude>
+    <longitude>-3.07518870</longitude>
+    <wikiDataId>Q105985843</wikiDataId>
+  </city>
+  <city>
+    <id>149120</id>
+    <name>Bia East</name>
+    <state_id>4963</state_id>
+    <state_code>WN</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>6.76860400</latitude>
+    <longitude>-3.33302410</longitude>
+    <wikiDataId>Q16841443</wikiDataId>
+  </city>
+  <city>
+    <id>149121</id>
+    <name>Bia West</name>
+    <state_id>4963</state_id>
+    <state_code>WN</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>6.76860400</latitude>
+    <longitude>-3.33302410</longitude>
+    <wikiDataId>Q17155822</wikiDataId>
+  </city>
+  <city>
+    <id>149122</id>
+    <name>Bibiani-Anhwiaso-Bekwai</name>
+    <state_id>4963</state_id>
+    <state_code>WN</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>6.30210040</latitude>
+    <longitude>-2.35675070</longitude>
+    <wikiDataId>Q856281</wikiDataId>
+  </city>
+  <city>
+    <id>149123</id>
+    <name>Bodi</name>
+    <state_id>4963</state_id>
+    <state_code>WN</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>6.22240910</latitude>
+    <longitude>-2.76615150</longitude>
+    <wikiDataId>Q55589892</wikiDataId>
+  </city>
+  <city>
+    <id>149124</id>
+    <name>Juaboso</name>
+    <state_id>4963</state_id>
+    <state_code>WN</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>6.33331570</latitude>
+    <longitude>-2.84206140</longitude>
+    <wikiDataId>Q683109</wikiDataId>
+  </city>
+  <city>
+    <id>149125</id>
+    <name>Sefwi-Akontombra</name>
+    <state_id>4963</state_id>
+    <state_code>WN</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>6.04285480</latitude>
+    <longitude>-2.88133620</longitude>
+    <wikiDataId>Q24698107</wikiDataId>
+  </city>
+  <city>
+    <id>149126</id>
+    <name>Sefwi-Wiawso</name>
+    <state_id>4963</state_id>
+    <state_code>WN</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>6.21965670</latitude>
+    <longitude>-2.50059150</longitude>
+    <wikiDataId>Q2265854</wikiDataId>
+  </city>
+  <city>
+    <id>149127</id>
+    <name>Suaman</name>
+    <state_id>4963</state_id>
+    <state_code>WN</state_code>
+    <country_id>83</country_id>
+    <country_code>GH</country_code>
+    <latitude>5.75309280</latitude>
+    <longitude>-3.07518870</longitude>
+    <wikiDataId>Q55593456</wikiDataId>
   </city>
   <city>
     <id>52399</id>
@@ -1512169,6 +1512730,17 @@
     <latitude>40.12623000</latitude>
     <longitude>-74.04930000</longitude>
     <wikiDataId>Q1085654</wikiDataId>
+  </city>
+  <city>
+    <id>149067</id>
+    <name>Mantua Township</name>
+    <state_id>1417</state_id>
+    <state_code>NJ</state_code>
+    <country_id>233</country_id>
+    <country_code>US</country_code>
+    <latitude>39.75687570</latitude>
+    <longitude>-75.20697550</longitude>
+    <wikiDataId>Q3014914</wikiDataId>
   </city>
   <city>
     <id>121162</id>
