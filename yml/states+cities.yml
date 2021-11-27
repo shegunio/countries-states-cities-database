@@ -16091,6 +16091,11 @@ state_city:
         latitude: '-33.86877000'
         longitude: '151.27060000'
       -
+        id: 149144
+        name: Rosebery
+        latitude: '-33.91855330'
+        longitude: '151.19612440'
+      -
         id: 7065
         name: Rosehill
         latitude: '-33.82009000'
@@ -17600,6 +17605,11 @@ state_city:
         name: Yagoona
         latitude: '-33.90490000'
         longitude: '151.01996000'
+      -
+        id: 149145
+        name: Yallah
+        latitude: '-34.53375780'
+        longitude: '150.77768450'
       -
         id: 7989
         name: Yamba
@@ -98811,7 +98821,7 @@ state_city:
         longitude: '113.56778000'
   -
     id: 2278
-    name: 'Guangxi Zhuang Autonomous Region'
+    name: 'Guangxi Zhuang'
     state_code: GX
     latitude: '23.72475990'
     longitude: '108.80761950'
@@ -100164,7 +100174,7 @@ state_city:
         longitude: '112.97139000'
   -
     id: 2267
-    name: 'Hong Kong'
+    name: 'Hong Kong SAR'
     state_code: HK
     latitude: '22.31930390'
     longitude: '114.16936110'
@@ -101589,14 +101599,6 @@ state_city:
         latitude: '45.84955000'
         longitude: '123.29730000'
   -
-    id: 2276
-    name: Keelung
-    state_code: TW-KEE
-    latitude: '25.12760330'
-    longitude: '121.73918330'
-    country_id: 45
-    cities: {  }
-  -
     id: 2268
     name: Liaoning
     state_code: LN
@@ -101861,7 +101863,7 @@ state_city:
         longitude: '122.99111000'
   -
     id: 2266
-    name: Macau
+    name: 'Macau SAR'
     state_code: MO
     latitude: '22.19874500'
     longitude: '113.54387300'
@@ -101869,7 +101871,7 @@ state_city:
     cities: {  }
   -
     id: 2262
-    name: 'Ningxia Hui Autonomous Region'
+    name: 'Ningxia Huizu'
     state_code: NX
     latitude: '37.19873100'
     longitude: '106.15809370'
@@ -102875,7 +102877,7 @@ state_city:
         longitude: '104.77689000'
   -
     id: 2255
-    name: 'Taiwan Province, People''s Republic of China'
+    name: Taiwan
     state_code: TW
     latitude: '23.69781000'
     longitude: '120.96051500'
@@ -103142,78 +103144,358 @@ state_city:
         latitude: '31.11788000'
         longitude: '120.84427000'
   -
-    id: 2264
-    name: 'Tibet Autonomous Region'
-    state_code: XZ
-    latitude: '30.15336050'
-    longitude: '88.78786780'
+    id: 2276
+    name: Tianjin
+    state_code: TJ
+    latitude: '39.12522910'
+    longitude: '117.01534350'
     country_id: 45
     cities:
       -
-        id: 19354
-        name: Burang
-        latitude: '30.29559000'
-        longitude: '81.17511000'
+        id: 149146
+        name: Badaogu
+        latitude: '39.47333333'
+        longitude: '117.32972222'
       -
-        id: 19488
-        name: Dêqên
-        latitude: '29.96178000'
-        longitude: '90.71875000'
+        id: 149147
+        name: Baijian
+        latitude: '39.99416667'
+        longitude: '117.20861111'
       -
-        id: 19705
-        name: Jiangzi
-        latitude: '28.92026000'
-        longitude: '89.59956000'
+        id: 149148
+        name: Bamencheng
+        latitude: '39.57777778'
+        longitude: '117.60527778'
       -
-        id: 19812
-        name: Lhasa
-        latitude: '29.65000000'
-        longitude: '91.10000000'
+        id: 149149
+        name: Bangjun
+        latitude: '39.98839000'
+        longitude: '117.26850000'
       -
-        id: 19933
-        name: Nagqu
-        latitude: '31.47678000'
-        longitude: '92.05729000'
+        id: 149150
+        name: Beicang
+        latitude: '39.23007000'
+        longitude: '117.11892000'
       -
-        id: 19934
-        name: 'Nagqu Diqu'
-        latitude: '32.66357000'
-        longitude: '88.93146000'
+        id: 149151
+        name: Beihuaidian
+        latitude: '39.26220000'
+        longitude: '117.57485000'
       -
-        id: 19957
-        name: 'Ngari Diqu'
-        latitude: '33.21836000'
-        longitude: '82.57507000'
+        id: 149152
+        name: Beilizigu
+        latitude: '39.49138889'
+        longitude: '117.46500000'
       -
-        id: 19966
-        name: 'Nyingchi Prefecture'
-        latitude: '29.60092000'
-        longitude: '94.42406000'
+        id: 149153
+        name: Biaokou
+        latitude: '39.32950000'
+        longitude: '117.56914000'
       -
-        id: 20003
-        name: Qamdo
-        latitude: '31.13040000'
-        longitude: '97.17982000'
+        id: 149154
+        name: 'Binhai New Area'
+        latitude: '39.00333333'
+        longitude: '117.71083333'
       -
-        id: 20004
-        name: 'Qamdo Shi'
-        latitude: '31.58370000'
-        longitude: '97.22304000'
+        id: 149155
+        name: Caijiapu
+        latitude: '39.17305556'
+        longitude: '117.81055556'
       -
-        id: 20041
-        name: Rikaze
-        latitude: '29.25000000'
-        longitude: '88.88333000'
+        id: 149156
+        name: Caodian
+        latitude: '39.61194444'
+        longitude: '117.47166667'
       -
-        id: 20049
-        name: Saga
-        latitude: '29.32367000'
-        longitude: '85.22601000'
+        id: 149157
+        name: Chabaihu
+        latitude: '39.46555556'
+        longitude: '117.14833333'
       -
-        id: 20074
-        name: 'Shannan Diqu'
-        latitude: '28.55630000'
-        longitude: '92.55684000'
+        id: 149158
+        name: Changtun
+        latitude: '39.44333333'
+        longitude: '117.07055556'
+      -
+        id: 149159
+        name: Chengtougu
+        latitude: '39.14000000'
+        longitude: '117.77888889'
+      -
+        id: 149160
+        name: Chitu
+        latitude: '39.20333333'
+        longitude: '117.40277778'
+      -
+        id: 149161
+        name: Cuijiamatou
+        latitude: '39.07472222'
+        longitude: '117.30055556'
+      -
+        id: 149162
+        name: Dadunqiu
+        latitude: '39.40611111'
+        longitude: '117.03305556'
+      -
+        id: 149163
+        name: Dakoutun
+        latitude: '39.58555556'
+        longitude: '117.23638889'
+      -
+        id: 149164
+        name: Dashentang
+        latitude: '39.21722222'
+        longitude: '117.95250000'
+      -
+        id: 149165
+        name: Dawangtai
+        latitude: '39.27500000'
+        longitude: '117.48500000'
+      -
+        id: 149166
+        name: Daxinzhuang
+        latitude: '39.50361111'
+        longitude: '117.68611111'
+      -
+        id: 149167
+        name: Dazhongzhuang
+        latitude: '39.68083333'
+        longitude: '117.56416667'
+      -
+        id: 149168
+        name: Dongditou
+        latitude: '39.26638889'
+        longitude: '117.37277778'
+      -
+        id: 149169
+        name: Dongshigu
+        latitude: '39.87889000'
+        longitude: '117.33028000'
+      -
+        id: 149170
+        name: Erwangzhuang
+        latitude: '39.39166667'
+        longitude: '117.35388889'
+      -
+        id: 149171
+        name: Fanzhuang
+        latitude: '39.19361111'
+        longitude: '117.33500000'
+      -
+        id: 149172
+        name: 'Fengtai (Ninghe)'
+        latitude: '39.55805556'
+        longitude: '117.74916667'
+      -
+        id: 149173
+        name: Fuzhuang
+        latitude: '39.26611111'
+        longitude: '117.93444444'
+      -
+        id: 149174
+        name: Gaojingzhuang
+        latitude: '39.41611111'
+        longitude: '117.63000000'
+      -
+        id: 149175
+        name: Hanjiashu
+        latitude: '39.18750000'
+        longitude: '117.07305556'
+      -
+        id: 149176
+        name: Hebeitun
+        latitude: '39.57472222'
+        longitude: '117.11333333'
+      -
+        id: 149177
+        name: Hexiwu
+        latitude: '39.62249000'
+        longitude: '116.95398000'
+      -
+        id: 149178
+        name: Huangcaotuo
+        latitude: '39.17944444'
+        longitude: '117.32166667'
+      -
+        id: 149179
+        name: Huantuo
+        latitude: '39.22638889'
+        longitude: '117.32388889'
+      -
+        id: 149180
+        name: Huogezhuang
+        latitude: '39.74388889'
+        longitude: '117.36750000'
+      -
+        id: 149181
+        name: Jiangwakou
+        latitude: '39.52250000'
+        longitude: '117.70250000'
+      -
+        id: 149183
+        name: Lianzhuang
+        latitude: '39.41000000'
+        longitude: '117.75638889'
+      -
+        id: 149184
+        name: Lintingkou
+        latitude: '39.63027778'
+        longitude: '117.50027778'
+      -
+        id: 149185
+        name: Liujiading
+        latitude: '39.96305556'
+        longitude: '117.19111111'
+      -
+        id: 149186
+        name: Liukuaizhuang
+        latitude: '39.24777778'
+        longitude: '117.33944444'
+      -
+        id: 149187
+        name: Liuzikou
+        latitude: '39.87027778'
+        longitude: '117.34666667'
+      -
+        id: 149188
+        name: Luotuofangzi
+        latitude: '39.08361111'
+        longitude: '117.37694444'
+      -
+        id: 149189
+        name: Meichang
+        latitude: '39.36611111'
+        longitude: '117.18055556'
+      -
+        id: 149190
+        name: Mengquan
+        latitude: '39.82527778'
+        longitude: '117.47666667'
+      -
+        id: 149191
+        name: Panzhuang
+        latitude: '39.33943000'
+        longitude: '117.46820000'
+      -
+        id: 149192
+        name: Qingguang
+        latitude: '39.19668000'
+        longitude: '117.05475000'
+      -
+        id: 149193
+        name: Sangzi
+        latitude: '39.90853000'
+        longitude: '117.16535000'
+      -
+        id: 149194
+        name: Shangcang
+        latitude: '39.90518000'
+        longitude: '117.39553000'
+      -
+        id: 149195
+        name: Shimianzhuang
+        latitude: '39.41800000'
+        longitude: '117.15690000'
+      -
+        id: 149196
+        name: Shuangjiang
+        latitude: '39.04190000'
+        longitude: '117.31235000'
+      -
+        id: 149197
+        name: Sigaozhuang
+        latitude: '39.46713000'
+        longitude: '117.25554000'
+      -
+        id: 149198
+        name: Tianjin
+        latitude: '39.14666667'
+        longitude: '117.20555556'
+      -
+        id: 149199
+        name: Touying
+        latitude: '39.96389000'
+        longitude: '117.21833000'
+      -
+        id: 149200
+        name: Wangqinzhuang
+        latitude: '39.22942000'
+        longitude: '117.08968000'
+      -
+        id: 149201
+        name: Weiwangzhuang
+        latitude: '39.02500000'
+        longitude: '117.44083000'
+      -
+        id: 149202
+        name: Xiawuqi
+        latitude: '39.61551000'
+        longitude: '117.05523000'
+      -
+        id: 149203
+        name: Xiditou
+        latitude: '39.25320000'
+        longitude: '117.34709000'
+      -
+        id: 149204
+        name: Xinkaikou
+        latitude: '39.67996000'
+        longitude: '117.18877000'
+      -
+        id: 149205
+        name: Xitazhuang
+        latitude: '39.93306000'
+        longitude: '117.21083000'
+      -
+        id: 149206
+        name: Yangjinzhuang
+        latitude: '39.86645000'
+        longitude: '117.42592000'
+      -
+        id: 149207
+        name: Yangliuqing
+        latitude: '39.12740000'
+        longitude: '117.00885000'
+      -
+        id: 149208
+        name: Yinliu
+        latitude: '39.98349000'
+        longitude: '117.39904000'
+      -
+        id: 149209
+        name: Yixingfu
+        latitude: '39.19917000'
+        longitude: '117.21139000'
+      -
+        id: 149210
+        name: Youguzhuang
+        latitude: '39.90802000'
+        longitude: '117.24576000'
+      -
+        id: 149211
+        name: Yuelongzhuang
+        latitude: '39.56833000'
+        longitude: '117.85417000'
+      -
+        id: 149212
+        name: Yuguzhuang
+        latitude: '39.64290000'
+        longitude: '117.36470000'
+      -
+        id: 149213
+        name: Zaojiacheng
+        latitude: '39.28174000'
+        longitude: '117.42516000'
+      -
+        id: 149182
+        name: Zhangjiawo
+        latitude: '39.05675000'
+        longitude: '117.03624000'
+      -
+        id: 149214
+        name: Zhaoguli
+        latitude: '39.16673000'
+        longitude: '117.24191000'
   -
     id: 2263
     name: Xinjiang
@@ -103407,6 +103689,79 @@ state_city:
         name: Zangguy
         latitude: '37.28333000'
         longitude: '78.76667000'
+  -
+    id: 2264
+    name: Xizang
+    state_code: XZ
+    latitude: '30.15336050'
+    longitude: '88.78786780'
+    country_id: 45
+    cities:
+      -
+        id: 19354
+        name: Burang
+        latitude: '30.29559000'
+        longitude: '81.17511000'
+      -
+        id: 19488
+        name: Dêqên
+        latitude: '29.96178000'
+        longitude: '90.71875000'
+      -
+        id: 19705
+        name: Jiangzi
+        latitude: '28.92026000'
+        longitude: '89.59956000'
+      -
+        id: 19812
+        name: Lhasa
+        latitude: '29.65000000'
+        longitude: '91.10000000'
+      -
+        id: 19933
+        name: Nagqu
+        latitude: '31.47678000'
+        longitude: '92.05729000'
+      -
+        id: 19934
+        name: 'Nagqu Diqu'
+        latitude: '32.66357000'
+        longitude: '88.93146000'
+      -
+        id: 19957
+        name: 'Ngari Diqu'
+        latitude: '33.21836000'
+        longitude: '82.57507000'
+      -
+        id: 19966
+        name: 'Nyingchi Prefecture'
+        latitude: '29.60092000'
+        longitude: '94.42406000'
+      -
+        id: 20003
+        name: Qamdo
+        latitude: '31.13040000'
+        longitude: '97.17982000'
+      -
+        id: 20004
+        name: 'Qamdo Shi'
+        latitude: '31.58370000'
+        longitude: '97.22304000'
+      -
+        id: 20041
+        name: Rikaze
+        latitude: '29.25000000'
+        longitude: '88.88333000'
+      -
+        id: 20049
+        name: Saga
+        latitude: '29.32367000'
+        longitude: '85.22601000'
+      -
+        id: 20074
+        name: 'Shannan Diqu'
+        latitude: '28.55630000'
+        longitude: '92.55684000'
   -
     id: 2260
     name: Yunnan
@@ -621591,7 +621946,7 @@ state_city:
         longitude: '35.88659000'
   -
     id: 3404
-    name: 'Changhua County'
+    name: Changhua
     state_code: CHA
     latitude: '24.05179630'
     longitude: '120.51613520'
@@ -621608,21 +621963,8 @@ state_city:
         latitude: '23.95671000'
         longitude: '120.57608000'
   -
-    id: 3418
-    name: 'Chiayi City'
-    state_code: CYQ
-    latitude: '23.48007510'
-    longitude: '120.44911130'
-    country_id: 216
-    cities:
-      -
-        id: 109005
-        name: 'Chiayi County'
-        latitude: '23.46333000'
-        longitude: '120.58166000'
-  -
     id: 3408
-    name: 'Chiayi County'
+    name: Chiayi
     state_code: CYI
     latitude: '23.45184280'
     longitude: '120.25546150'
@@ -621639,6 +621981,32 @@ state_city:
         latitude: '23.48556000'
         longitude: '120.44472000'
   -
+    id: 3418
+    name: Chiayi
+    state_code: CYQ
+    latitude: '23.48007510'
+    longitude: '120.44911130'
+    country_id: 216
+    cities:
+      -
+        id: 109005
+        name: 'Chiayi County'
+        latitude: '23.46333000'
+        longitude: '120.58166000'
+  -
+    id: 3423
+    name: Hsinchu
+    state_code: HSQ
+    latitude: '24.83872260'
+    longitude: '121.01772460'
+    country_id: 216
+    cities:
+      -
+        id: 109010
+        name: Hsinchu
+        latitude: '24.80361000'
+        longitude: '120.96861000'
+  -
     id: 3417
     name: Hsinchu
     state_code: HSZ
@@ -621652,21 +622020,8 @@ state_city:
         latitude: '24.67416000'
         longitude: '121.16111000'
   -
-    id: 3423
-    name: 'Hsinchu County'
-    state_code: HSQ
-    latitude: '24.83872260'
-    longitude: '121.01772460'
-    country_id: 216
-    cities:
-      -
-        id: 109010
-        name: Hsinchu
-        latitude: '24.80361000'
-        longitude: '120.96861000'
-  -
     id: 3411
-    name: 'Hualien County'
+    name: Hualien
     state_code: HUA
     latitude: '23.98715890'
     longitude: '121.60157140'
@@ -621696,11 +622051,11 @@ state_city:
         latitude: '22.61626000'
         longitude: '120.31333000'
   -
-    id: 3409
-    name: 'Kaohsiung County'
-    state_code: KHQ
-    latitude: '22.62727840'
-    longitude: '120.30143530'
+    id: 4965
+    name: Keelung
+    state_code: KEE
+    latitude: '25.12418620'
+    longitude: '121.64758340'
     country_id: 216
     cities: {  }
   -
@@ -621723,7 +622078,7 @@ state_city:
         longitude: '118.38861000'
   -
     id: 3420
-    name: 'Lienchiang County'
+    name: Lienchiang
     state_code: LIE
     latitude: '26.15055560'
     longitude: '119.92888890'
@@ -621741,7 +622096,7 @@ state_city:
         longitude: '119.93284000'
   -
     id: 3413
-    name: 'Miaoli County'
+    name: Miaoli
     state_code: MIA
     latitude: '24.56015900'
     longitude: '120.82142650'
@@ -621754,7 +622109,7 @@ state_city:
         longitude: '120.90638000'
   -
     id: 3407
-    name: 'Nantou County'
+    name: Nantou
     state_code: NAN
     latitude: '23.96099810'
     longitude: '120.97186380'
@@ -621781,8 +622136,16 @@ state_city:
         latitude: '23.95908000'
         longitude: '120.68516000'
   -
+    id: 4966
+    name: 'New Taipei'
+    state_code: NWT
+    latitude: '24.98752780'
+    longitude: '121.36459470'
+    country_id: 216
+    cities: {  }
+  -
     id: 3403
-    name: 'Penghu County'
+    name: Penghu
     state_code: PEN
     latitude: '23.57118990'
     longitude: '119.57931570'
@@ -621800,7 +622163,7 @@ state_city:
         longitude: '119.61138000'
   -
     id: 3405
-    name: 'Pingtung County'
+    name: Pingtung
     state_code: PIF
     latitude: '22.55197590'
     longitude: '120.54875970'
@@ -621840,14 +622203,6 @@ state_city:
         latitude: '24.15472000'
         longitude: '120.67297000'
   -
-    id: 3414
-    name: 'Taichung County'
-    state_code: TXQ
-    latitude: '24.14773580'
-    longitude: '120.67364820'
-    country_id: 216
-    cities: {  }
-  -
     id: 3421
     name: Tainan
     state_code: TNN
@@ -621865,14 +622220,6 @@ state_city:
         name: Yujing
         latitude: '23.12493000'
         longitude: '120.46138000'
-  -
-    id: 3401
-    name: 'Tainan County'
-    state_code: TNQ
-    latitude: '22.99972810'
-    longitude: '120.22702770'
-    country_id: 216
-    cities: {  }
   -
     id: 3422
     name: Taipei
@@ -621903,7 +622250,7 @@ state_city:
         longitude: '121.55331000'
   -
     id: 3410
-    name: 'Taitung County'
+    name: Taitung
     state_code: TTT
     latitude: '22.79724470'
     longitude: '121.07137020'
@@ -621921,7 +622268,7 @@ state_city:
         longitude: '121.14440000'
   -
     id: 3419
-    name: 'Taoyuan City'
+    name: Taoyuan
     state_code: TAO
     latitude: '24.99362810'
     longitude: '121.30097980'
@@ -621944,7 +622291,7 @@ state_city:
         longitude: '121.29696000'
   -
     id: 3402
-    name: 'Yilan County'
+    name: Yilan
     state_code: ILA
     latitude: '24.70210730'
     longitude: '121.73775020'
@@ -621957,7 +622304,7 @@ state_city:
         longitude: '121.63361000'
   -
     id: 3416
-    name: 'Yunlin County'
+    name: Yunlin
     state_code: YUN
     latitude: '23.70920330'
     longitude: '120.43133730'
