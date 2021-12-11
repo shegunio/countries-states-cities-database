@@ -8,6 +8,7 @@ country_state_city:
     phone_code: '93'
     capital: Kabul
     currency: AFN
+    currency_name: 'Afghan afghani'
     currency_symbol: ؋
     tld: .af
     native: افغانستان
@@ -771,6 +772,7 @@ country_state_city:
     phone_code: +358-18
     capital: Mariehamn
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .ax
     native: Åland
@@ -810,6 +812,7 @@ country_state_city:
     phone_code: '355'
     capital: Tirana
     currency: ALL
+    currency_name: 'Albanian lek'
     currency_symbol: Lek
     tld: .al
     native: Shqipëria
@@ -1875,6 +1878,7 @@ country_state_city:
     phone_code: '213'
     capital: Algiers
     currency: DZD
+    currency_name: 'Algerian dinar'
     currency_symbol: دج
     tld: .dz
     native: الجزائر
@@ -3843,6 +3847,7 @@ country_state_city:
     phone_code: +1-684
     capital: 'Pago Pago'
     currency: USD
+    currency_name: 'US Dollar'
     currency_symbol: $
     tld: .as
     native: 'American Samoa'
@@ -3882,6 +3887,7 @@ country_state_city:
     phone_code: '376'
     capital: 'Andorra la Vella'
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .ad
     native: Andorra
@@ -4027,6 +4033,7 @@ country_state_city:
     phone_code: '244'
     capital: Luanda
     currency: AOA
+    currency_name: 'Angolan kwanza'
     currency_symbol: Kz
     tld: .ao
     native: Angola
@@ -4442,6 +4449,7 @@ country_state_city:
     phone_code: +1-264
     capital: 'The Valley'
     currency: XCD
+    currency_name: 'East Caribbean dollar'
     currency_symbol: $
     tld: .ai
     native: Anguilla
@@ -4481,6 +4489,7 @@ country_state_city:
     phone_code: '672'
     capital: ''
     currency: AAD
+    currency_name: 'Antarctican dollar'
     currency_symbol: $
     tld: .aq
     native: Antarctica
@@ -4574,6 +4583,7 @@ country_state_city:
     phone_code: +1-268
     capital: 'St. John''s'
     currency: XCD
+    currency_name: 'Eastern Caribbean dollar'
     currency_symbol: $
     tld: .ag
     native: 'Antigua and Barbuda'
@@ -4722,6 +4732,7 @@ country_state_city:
     phone_code: '54'
     capital: 'Buenos Aires'
     currency: ARS
+    currency_name: 'Argentine peso'
     currency_symbol: $
     tld: .ar
     native: Argentina
@@ -9834,6 +9845,7 @@ country_state_city:
     phone_code: '374'
     capital: Yerevan
     currency: AMD
+    currency_name: 'Armenian dram'
     currency_symbol: ֏
     tld: .am
     native: Հայաստան
@@ -11501,6 +11513,7 @@ country_state_city:
     phone_code: '297'
     capital: Oranjestad
     currency: AWG
+    currency_name: 'Aruban florin'
     currency_symbol: ƒ
     tld: .aw
     native: Aruba
@@ -11540,6 +11553,7 @@ country_state_city:
     phone_code: '61'
     capital: Canberra
     currency: AUD
+    currency_name: 'Australian dollar'
     currency_symbol: $
     tld: .au
     native: Australia
@@ -32400,6 +32414,7 @@ country_state_city:
     phone_code: '43'
     capital: Vienna
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .at
     native: Österreich
@@ -44316,6 +44331,7 @@ country_state_city:
     phone_code: '994'
     capital: Baku
     currency: AZN
+    currency_name: 'Azerbaijani manat'
     currency_symbol: m
     tld: .az
     native: Azərbaycan
@@ -45845,6 +45861,7 @@ country_state_city:
     phone_code: +1-242
     capital: Nassau
     currency: BSD
+    currency_name: 'Bahamian dollar'
     currency_symbol: B$
     tld: .bs
     native: Bahamas
@@ -46325,6 +46342,7 @@ country_state_city:
     phone_code: '973'
     capital: Manama
     currency: BHD
+    currency_name: 'Bahraini dinar'
     currency_symbol: .د.ب
     tld: .bh
     native: ‏البحرين
@@ -46449,6 +46467,7 @@ country_state_city:
     phone_code: '880'
     capital: Dhaka
     currency: BDT
+    currency_name: 'Bangladeshi taka'
     currency_symbol: ৳
     tld: .bd
     native: Bangladesh
@@ -47753,6 +47772,7 @@ country_state_city:
     phone_code: +1-246
     capital: Bridgetown
     currency: BBD
+    currency_name: 'Barbadian dollar'
     currency_symbol: Bds$
     tld: .bb
     native: Barbados
@@ -47915,6 +47935,7 @@ country_state_city:
     phone_code: '375'
     capital: Minsk
     currency: BYN
+    currency_name: 'Belarusian ruble'
     currency_symbol: Br
     tld: .by
     native: Белару́сь
@@ -49655,6 +49676,7 @@ country_state_city:
     phone_code: '32'
     capital: Brussels
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .be
     native: België
@@ -52548,6 +52570,7 @@ country_state_city:
     phone_code: '501'
     capital: Belmopan
     currency: BZD
+    currency_name: 'Belize dollar'
     currency_symbol: $
     tld: .bz
     native: Belize
@@ -52700,6 +52723,7 @@ country_state_city:
     phone_code: '229'
     capital: Porto-Novo
     currency: XOF
+    currency_name: 'West African CFA franc'
     currency_symbol: CFA
     tld: .bj
     native: Bénin
@@ -53015,6 +53039,7 @@ country_state_city:
     phone_code: +1-441
     capital: Hamilton
     currency: BMD
+    currency_name: 'Bermudian dollar'
     currency_symbol: $
     tld: .bm
     native: Bermuda
@@ -53142,6 +53167,7 @@ country_state_city:
     phone_code: '975'
     capital: Thimphu
     currency: BTN
+    currency_name: 'Bhutanese ngultrum'
     currency_symbol: Nu.
     tld: .bt
     native: ʼbrug-yul
@@ -53453,6 +53479,7 @@ country_state_city:
     phone_code: '591'
     capital: Sucre
     currency: BOB
+    currency_name: 'Bolivian boliviano'
     currency_symbol: Bs.
     tld: .bo
     native: Bolivia
@@ -54704,6 +54731,7 @@ country_state_city:
     phone_code: '599'
     capital: Kralendijk
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .an
     native: 'Caribisch Nederland'
@@ -54739,6 +54767,7 @@ country_state_city:
     phone_code: '387'
     capital: Sarajevo
     currency: BAM
+    currency_name: 'Bosnia and Herzegovina convertible mark'
     currency_symbol: KM
     tld: .ba
     native: 'Bosna i Hercegovina'
@@ -56042,6 +56071,7 @@ country_state_city:
     phone_code: '267'
     capital: Gaborone
     currency: BWP
+    currency_name: 'Botswana pula'
     currency_symbol: P
     tld: .bw
     native: Botswana
@@ -56536,6 +56566,7 @@ country_state_city:
     phone_code: '0055'
     capital: ''
     currency: NOK
+    currency_name: 'Norwegian Krone'
     currency_symbol: kr
     tld: .bv
     native: Bouvetøya
@@ -56575,6 +56606,7 @@ country_state_city:
     phone_code: '55'
     capital: Brasilia
     currency: BRL
+    currency_name: 'Brazilian real'
     currency_symbol: R$
     tld: .br
     native: Brasil
@@ -85120,6 +85152,7 @@ country_state_city:
     phone_code: '246'
     capital: 'Diego Garcia'
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .io
     native: 'British Indian Ocean Territory'
@@ -85159,6 +85192,7 @@ country_state_city:
     phone_code: '673'
     capital: 'Bandar Seri Begawan'
     currency: BND
+    currency_name: 'Brunei dollar'
     currency_symbol: B$
     tld: .bn
     native: 'Negara Brunei Darussalam'
@@ -85275,6 +85309,7 @@ country_state_city:
     phone_code: '359'
     capital: Sofia
     currency: BGN
+    currency_name: 'Bulgarian lev'
     currency_symbol: Лв.
     tld: .bg
     native: България
@@ -88058,6 +88093,7 @@ country_state_city:
     phone_code: '226'
     capital: Ouagadougou
     currency: XOF
+    currency_name: 'West African CFA franc'
     currency_symbol: CFA
     tld: .bf
     native: 'Burkina Faso'
@@ -89013,6 +89049,7 @@ country_state_city:
     phone_code: '257'
     capital: Bujumbura
     currency: BIF
+    currency_name: 'Burundian franc'
     currency_symbol: FBu
     tld: .bi
     native: Burundi
@@ -89281,6 +89318,7 @@ country_state_city:
     phone_code: '855'
     capital: 'Phnom Penh'
     currency: KHR
+    currency_name: 'Cambodian riel'
     currency_symbol: KHR
     tld: .kh
     native: Kâmpŭchéa
@@ -90034,6 +90072,7 @@ country_state_city:
     phone_code: '237'
     capital: Yaounde
     currency: XAF
+    currency_name: 'Central African CFA franc'
     currency_symbol: FCFA
     tld: .cm
     native: Cameroon
@@ -90848,6 +90887,7 @@ country_state_city:
     phone_code: '1'
     capital: Ottawa
     currency: CAD
+    currency_name: 'Canadian dollar'
     currency_symbol: $
     tld: .ca
     native: Canada
@@ -96548,6 +96588,7 @@ country_state_city:
     phone_code: '238'
     capital: Praia
     currency: CVE
+    currency_name: 'Cape Verdean escudo'
     currency_symbol: $
     tld: .cv
     native: 'Cabo Verde'
@@ -96891,6 +96932,7 @@ country_state_city:
     phone_code: +1-345
     capital: 'George Town'
     currency: KYD
+    currency_name: 'Cayman Islands dollar'
     currency_symbol: $
     tld: .ky
     native: 'Cayman Islands'
@@ -96930,6 +96972,7 @@ country_state_city:
     phone_code: '236'
     capital: Bangui
     currency: XAF
+    currency_name: 'Central African CFA franc'
     currency_symbol: FCFA
     tld: .cf
     native: 'Ködörösêse tî Bêafrîka'
@@ -97320,6 +97363,7 @@ country_state_city:
     phone_code: '235'
     capital: 'N''Djamena'
     currency: XAF
+    currency_name: 'Central African CFA franc'
     currency_symbol: FCFA
     tld: .td
     native: Tchad
@@ -97748,6 +97792,7 @@ country_state_city:
     phone_code: '56'
     capital: Santiago
     currency: CLP
+    currency_name: 'Chilean peso'
     currency_symbol: $
     tld: .cl
     native: Chile
@@ -99657,6 +99702,7 @@ country_state_city:
     phone_code: '86'
     capital: Beijing
     currency: CNY
+    currency_name: 'Chinese yuan'
     currency_symbol: ¥
     tld: .cn
     native: 中国
@@ -106389,6 +106435,7 @@ country_state_city:
     phone_code: '61'
     capital: 'Flying Fish Cove'
     currency: AUD
+    currency_name: 'Australian dollar'
     currency_symbol: $
     tld: .cx
     native: 'Christmas Island'
@@ -106428,6 +106475,7 @@ country_state_city:
     phone_code: '61'
     capital: 'West Island'
     currency: AUD
+    currency_name: 'Australian dollar'
     currency_symbol: $
     tld: .cc
     native: 'Cocos (Keeling) Islands'
@@ -106467,6 +106515,7 @@ country_state_city:
     phone_code: '57'
     capital: Bogota
     currency: COP
+    currency_name: 'Colombian peso'
     currency_symbol: $
     tld: .co
     native: Colombia
@@ -112590,6 +112639,7 @@ country_state_city:
     phone_code: '269'
     capital: Moroni
     currency: KMF
+    currency_name: 'Comorian franc'
     currency_symbol: CF
     tld: .km
     native: Komori
@@ -113093,6 +113143,7 @@ country_state_city:
     phone_code: '242'
     capital: Brazzaville
     currency: XAF
+    currency_name: 'Central African CFA franc'
     currency_symbol: FC
     tld: .cg
     native: 'République du Congo'
@@ -113313,6 +113364,7 @@ country_state_city:
     phone_code: '682'
     capital: Avarua
     currency: NZD
+    currency_name: 'Cook Islands dollar'
     currency_symbol: $
     tld: .ck
     native: 'Cook Islands'
@@ -113352,6 +113404,7 @@ country_state_city:
     phone_code: '506'
     capital: 'San Jose'
     currency: CRC
+    currency_name: 'Costa Rican colón'
     currency_symbol: ₡
     tld: .cr
     native: 'Costa Rica'
@@ -114242,6 +114295,7 @@ country_state_city:
     phone_code: '225'
     capital: Yamoussoukro
     currency: XOF
+    currency_name: 'West African CFA franc'
     currency_symbol: CFA
     tld: .ci
     native: null
@@ -114954,6 +115008,7 @@ country_state_city:
     phone_code: '385'
     capital: Zagreb
     currency: HRK
+    currency_name: 'Croatian kuna'
     currency_symbol: kn
     tld: .hr
     native: Hrvatska
@@ -118473,6 +118528,7 @@ country_state_city:
     phone_code: '53'
     capital: Havana
     currency: CUP
+    currency_name: 'Cuban peso'
     currency_symbol: $
     tld: .cu
     native: Cuba
@@ -119575,6 +119631,7 @@ country_state_city:
     phone_code: '599'
     capital: Willemstad
     currency: ANG
+    currency_name: 'Netherlands Antillean guilder'
     currency_symbol: ƒ
     tld: .cw
     native: Curaçao
@@ -119611,6 +119668,7 @@ country_state_city:
     phone_code: '357'
     capital: Nicosia
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .cy
     native: Κύπρος
@@ -120179,6 +120237,7 @@ country_state_city:
     phone_code: '420'
     capital: Prague
     currency: CZK
+    currency_name: 'Czech koruna'
     currency_symbol: Kč
     tld: .cz
     native: 'Česká republika'
@@ -127713,6 +127772,7 @@ country_state_city:
     phone_code: '243'
     capital: Kinshasa
     currency: CDF
+    currency_name: 'Congolese Franc'
     currency_symbol: FC
     tld: .cd
     native: 'République démocratique du Congo'
@@ -128311,6 +128371,7 @@ country_state_city:
     phone_code: '45'
     capital: Copenhagen
     currency: DKK
+    currency_name: 'Danish krone'
     currency_symbol: Kr.
     tld: .dk
     native: Danmark
@@ -130535,6 +130596,7 @@ country_state_city:
     phone_code: '253'
     capital: Djibouti
     currency: DJF
+    currency_name: 'Djiboutian franc'
     currency_symbol: Fdj
     tld: .dj
     native: Djibouti
@@ -130682,6 +130744,7 @@ country_state_city:
     phone_code: +1-767
     capital: Roseau
     currency: XCD
+    currency_name: 'Eastern Caribbean dollar'
     currency_symbol: $
     tld: .dm
     native: Dominica
@@ -130886,6 +130949,7 @@ country_state_city:
     phone_code: '+1-809 and 1-829'
     capital: 'Santo Domingo'
     currency: DOP
+    currency_name: 'Dominican peso'
     currency_symbol: $
     tld: .do
     native: 'República Dominicana'
@@ -132208,6 +132272,7 @@ country_state_city:
     phone_code: '670'
     capital: Dili
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .tl
     native: Timor-Leste
@@ -132593,6 +132658,7 @@ country_state_city:
     phone_code: '593'
     capital: Quito
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .ec
     native: Ecuador
@@ -133392,6 +133458,7 @@ country_state_city:
     phone_code: '20'
     capital: Cairo
     currency: EGP
+    currency_name: 'Egyptian pound'
     currency_symbol: ج.م
     tld: .eg
     native: مصر‎
@@ -134269,6 +134336,7 @@ country_state_city:
     phone_code: '503'
     capital: 'San Salvador'
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .sv
     native: 'El Salvador'
@@ -134920,6 +134988,7 @@ country_state_city:
     phone_code: '240'
     capital: Malabo
     currency: XAF
+    currency_name: 'Central African CFA franc'
     currency_symbol: FCFA
     tld: .gq
     native: 'Guinea Ecuatorial'
@@ -135151,6 +135220,7 @@ country_state_city:
     phone_code: '291'
     capital: Asmara
     currency: ERN
+    currency_name: 'Eritrean nakfa'
     currency_symbol: Nfk
     tld: .er
     native: ኤርትራ
@@ -135293,6 +135363,7 @@ country_state_city:
     phone_code: '372'
     capital: Tallinn
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .ee
     native: Eesti
@@ -136262,6 +136333,7 @@ country_state_city:
     phone_code: '251'
     capital: 'Addis Ababa'
     currency: ETB
+    currency_name: 'Ethiopian birr'
     currency_symbol: Nkf
     tld: .et
     native: ኢትዮጵያ
@@ -137109,6 +137181,7 @@ country_state_city:
     phone_code: '500'
     capital: Stanley
     currency: FKP
+    currency_name: 'Falkland Islands pound'
     currency_symbol: £
     tld: .fk
     native: 'Falkland Islands'
@@ -137148,6 +137221,7 @@ country_state_city:
     phone_code: '298'
     capital: Torshavn
     currency: DKK
+    currency_name: 'Danish krone'
     currency_symbol: Kr.
     tld: .fo
     native: Føroyar
@@ -137187,6 +137261,7 @@ country_state_city:
     phone_code: '679'
     capital: Suva
     currency: FJD
+    currency_name: 'Fijian dollar'
     currency_symbol: FJ$
     tld: .fj
     native: Fiji
@@ -137478,6 +137553,7 @@ country_state_city:
     phone_code: '358'
     capital: Helsinki
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .fi
     native: Suomi
@@ -139695,6 +139771,7 @@ country_state_city:
     phone_code: '33'
     capital: Paris
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .fr
     native: France
@@ -139726,36 +139803,92 @@ country_state_city:
     emojiU: 'U+1F1EB U+1F1F7'
     states:
       -
-        id: 4800
-        name: Alo
-        state_code: WF-AL
-        latitude: '40.71583620'
-        longitude: '-73.95963170'
-        type: null
+        id: 4967
+        name: Ain
+        state_code: '01'
+        latitude: '46.06508600'
+        longitude: '4.88861500'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4968
+        name: Aisne
+        state_code: '02'
+        latitude: '49.45289210'
+        longitude: '3.04651110'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4969
+        name: Allier
+        state_code: '03'
+        latitude: '46.36708630'
+        longitude: '2.58082770'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4970
+        name: Alpes-de-Haute-Provence
+        state_code: '04'
+        latitude: '44.16377520'
+        longitude: '5.67247800'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4972
+        name: Alpes-Maritimes
+        state_code: '06'
+        latitude: '43.92041700'
+        longitude: '6.61678220'
+        type: 'metropolitan department'
         cities: {  }
       -
         id: 4811
         name: Alsace
-        state_code: A
+        state_code: 6AE
         latitude: '48.31817950'
         longitude: '7.44162410'
-        type: null
+        type: 'European collectivity'
         cities: {  }
       -
-        id: 4808
-        name: Aquitaine
-        state_code: B
-        latitude: '44.70022220'
-        longitude: '-0.29957850'
-        type: null
+        id: 4973
+        name: Ardèche
+        state_code: '07'
+        latitude: '44.81486950'
+        longitude: '3.81334830'
+        type: 'metropolitan department'
         cities: {  }
       -
-        id: 4789
-        name: Auvergne
-        state_code: C
-        latitude: '45.70326950'
-        longitude: '3.34485360'
-        type: null
+        id: 4974
+        name: Ardennes
+        state_code: '08'
+        latitude: '49.69759510'
+        longitude: '4.14895760'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4975
+        name: Ariège
+        state_code: '09'
+        latitude: '42.94347830'
+        longitude: '0.94048640'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4976
+        name: Aube
+        state_code: '10'
+        latitude: '48.31975470'
+        longitude: '3.56371040'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4977
+        name: Aude
+        state_code: '11'
+        latitude: '43.05411400'
+        longitude: '1.90384760'
+        type: 'metropolitan department'
         cities: {  }
       -
         id: 4798
@@ -139763,7 +139896,7 @@ country_state_city:
         state_code: ARA
         latitude: '45.44714310'
         longitude: '4.38525070'
-        type: null
+        type: 'metropolitan region'
         cities:
           -
             id: 39243
@@ -145921,12 +146054,36 @@ country_state_city:
             latitude: '46.56596000'
             longitude: '3.35446000'
       -
+        id: 4978
+        name: Aveyron
+        state_code: '12'
+        latitude: '44.31563620'
+        longitude: '2.08523790'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5035
+        name: "Bas-Rhin\t"
+        state_code: '67'
+        latitude: '48.59864440'
+        longitude: '7.02666760'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4979
+        name: Bouches-du-Rhône
+        state_code: '13'
+        latitude: '43.54038650'
+        longitude: '4.46138290'
+        type: 'metropolitan department'
+        cities: {  }
+      -
         id: 4825
         name: Bourgogne-Franche-Comté
         state_code: BFC
         latitude: '47.28051270'
         longitude: '4.99943720'
-        type: null
+        type: 'metropolitan region'
         cities:
           -
             id: 39267
@@ -148185,11 +148342,11 @@ country_state_city:
             longitude: '6.77431000'
       -
         id: 4807
-        name: Brittany
+        name: Bretagne
         state_code: BRE
         latitude: '48.20204710'
         longitude: '-2.93264350'
-        type: null
+        type: 'metropolitan region'
         cities:
           -
             id: 39254
@@ -151522,12 +151679,20 @@ country_state_city:
             latitude: '48.35000000'
             longitude: '-2.18333000'
       -
-        id: 4788
-        name: Burgundy
-        state_code: D
-        latitude: '47.05250470'
-        longitude: '4.38372150'
-        type: null
+        id: 4981
+        name: Calvados
+        state_code: '14'
+        latitude: '49.09035140'
+        longitude: '-0.91706480'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4982
+        name: Cantal
+        state_code: '15'
+        latitude: '45.04921770'
+        longitude: '2.15672720'
+        type: 'metropolitan department'
         cities: {  }
       -
         id: 4818
@@ -151535,7 +151700,7 @@ country_state_city:
         state_code: CVL
         latitude: '47.75156860'
         longitude: '1.67506310'
-        type: null
+        type: 'metropolitan region'
         cities:
           -
             id: 39237
@@ -153918,20 +154083,52 @@ country_state_city:
             latitude: '46.78609000'
             longitude: '0.87166000'
       -
-        id: 4791
-        name: Champagne-Ardenne
-        state_code: G
-        latitude: '48.79340920'
-        longitude: '4.47252490'
-        type: null
+        id: 4983
+        name: Charente
+        state_code: '16'
+        latitude: '45.66584790'
+        longitude: '-0.31845770'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4984
+        name: Charente-Maritime
+        state_code: '17'
+        latitude: '45.72968280'
+        longitude: '-1.33881160'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4985
+        name: Cher
+        state_code: '18'
+        latitude: '47.02436280'
+        longitude: '1.86627320'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5064
+        name: Clipperton
+        state_code: CP
+        latitude: '10.28335410'
+        longitude: '-109.22542150'
+        type: dependency
+        cities: {  }
+      -
+        id: 4986
+        name: Corrèze
+        state_code: '19'
+        latitude: '45.34237070'
+        longitude: '1.31717330'
+        type: 'metropolitan department'
         cities: {  }
       -
         id: 4806
-        name: Corsica
-        state_code: COR
+        name: Corse
+        state_code: 20R
         latitude: '42.03960420'
         longitude: '9.01289260'
-        type: null
+        type: 'metropolitan collectivity with special status'
         cities:
           -
             id: 39256
@@ -154189,20 +154386,108 @@ country_state_city:
             latitude: '41.74934000'
             longitude: '9.17082000'
       -
-        id: 4805
-        name: Franche-Comté
-        state_code: I
-        latitude: '47.13432070'
-        longitude: '6.02230160'
-        type: null
+        id: 4996
+        name: Corse-du-Sud
+        state_code: 2A
+        latitude: '41.85720550'
+        longitude: '8.41091830'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4987
+        name: 'Côte-d''Or'
+        state_code: '21'
+        latitude: '47.46513020'
+        longitude: '4.23154950'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4988
+        name: 'Côtes-d''Armor'
+        state_code: '22'
+        latitude: '48.46633360'
+        longitude: '-3.34789610'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4989
+        name: Creuse
+        state_code: '23'
+        latitude: '46.05903940'
+        longitude: '1.43150500'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5047
+        name: Deux-Sèvres
+        state_code: '79'
+        latitude: '46.53868170'
+        longitude: '-0.90199480'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4990
+        name: Dordogne
+        state_code: '24'
+        latitude: '45.14234160'
+        longitude: '0.14274080'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4991
+        name: Doubs
+        state_code: '25'
+        latitude: '46.93217740'
+        longitude: '6.34762140'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4992
+        name: Drôme
+        state_code: '26'
+        latitude: '44.72933570'
+        longitude: '4.67821580'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5059
+        name: Essonne
+        state_code: '91'
+        latitude: '48.53046150'
+        longitude: '1.96990560'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4993
+        name: Eure
+        state_code: '27'
+        latitude: '49.07540350'
+        longitude: '0.48937320'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4994
+        name: Eure-et-Loir
+        state_code: '28'
+        latitude: '48.44697840'
+        longitude: '0.81470250'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4995
+        name: Finistère
+        state_code: '29'
+        latitude: '48.22696100'
+        longitude: '-4.82437330'
+        type: 'metropolitan department'
         cities: {  }
       -
         id: 4822
         name: 'French Guiana'
-        state_code: GF
+        state_code: '973'
         latitude: '3.93388900'
         longitude: '-53.12578200'
-        type: null
+        type: 'overseas region'
         cities: {  }
       -
         id: 4824
@@ -154210,15 +154495,47 @@ country_state_city:
         state_code: PF
         latitude: '-17.67974200'
         longitude: '-149.40684300'
-        type: null
+        type: 'overseas collectivity'
+        cities: {  }
+      -
+        id: 5065
+        name: 'French Southern and Antarctic Lands'
+        state_code: TF
+        latitude: '-47.54466040'
+        longitude: '51.28375420'
+        type: 'overseas territory'
+        cities: {  }
+      -
+        id: 4998
+        name: Gard
+        state_code: '30'
+        latitude: '43.95952760'
+        longitude: '3.49356810'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5000
+        name: Gers
+        state_code: '32'
+        latitude: '43.69505340'
+        longitude: '-0.09997280'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5001
+        name: Gironde
+        state_code: '33'
+        latitude: '44.89584690'
+        longitude: '-1.59405320'
+        type: 'metropolitan department'
         cities: {  }
       -
         id: 4820
-        name: 'Grand Est'
+        name: Grand-Est
         state_code: GES
         latitude: '48.69980300'
         longitude: '6.18780740'
-        type: null
+        type: 'metropolitan region'
         cities:
           -
             id: 39245
@@ -158658,10 +158975,90 @@ country_state_city:
       -
         id: 4829
         name: Guadeloupe
-        state_code: GP
+        state_code: '971'
         latitude: '16.26500000'
         longitude: '-61.55100000'
-        type: null
+        type: 'overseas region'
+        cities: {  }
+      -
+        id: 5036
+        name: Haut-Rhin
+        state_code: '68'
+        latitude: '47.86537740'
+        longitude: '6.67113810'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4997
+        name: Haute-Corse
+        state_code: 2B
+        latitude: '42.42958660'
+        longitude: '8.50625610'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4999
+        name: Haute-Garonne
+        state_code: '31'
+        latitude: '43.30505550'
+        longitude: '0.68455150'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5011
+        name: Haute-Loire
+        state_code: '43'
+        latitude: '45.08538060'
+        longitude: '3.22607070'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5020
+        name: Haute-Marne
+        state_code: '52'
+        latitude: '48.13248210'
+        longitude: '4.69834990'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5039
+        name: Haute-Saône
+        state_code: '70'
+        latitude: '47.63789960'
+        longitude: '5.53550550'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5043
+        name: Haute-Savoie
+        state_code: '74'
+        latitude: '46.04452770'
+        longitude: '5.86413800'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5055
+        name: "Haute-Vienne\t"
+        state_code: '87'
+        latitude: '45.91868780'
+        longitude: '0.70972060'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4971
+        name: "Hautes-Alpes\t"
+        state_code: '05'
+        latitude: '44.65626820'
+        longitude: '5.68732110'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5033
+        name: Hautes-Pyrénées
+        state_code: '65'
+        latitude: '43.14294620'
+        longitude: '-0.40097360'
+        type: 'metropolitan department'
         cities: {  }
       -
         id: 4828
@@ -158669,7 +159066,7 @@ country_state_city:
         state_code: HDF
         latitude: '50.48011530'
         longitude: '2.79372650'
-        type: null
+        type: 'metropolitan region'
         cities:
           -
             id: 39235
@@ -163277,12 +163674,28 @@ country_state_city:
             latitude: '51.06096000'
             longitude: '2.49338000'
       -
+        id: 5060
+        name: Hauts-de-Seine
+        state_code: '92'
+        latitude: '48.84030080'
+        longitude: '2.10125590'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5002
+        name: Hérault
+        state_code: '34'
+        latitude: '43.59111200'
+        longitude: '2.80661080'
+        type: 'metropolitan department'
+        cities: {  }
+      -
         id: 4796
         name: Île-de-France
         state_code: IDF
         latitude: '48.84991980'
         longitude: '2.63704110'
-        type: null
+        type: 'metropolitan region'
         cities:
           -
             id: 39239
@@ -166755,68 +167168,228 @@ country_state_city:
             latitude: '48.80546000'
             longitude: '1.85696000'
       -
-        id: 4803
-        name: Languedoc-Roussillon
-        state_code: K
-        latitude: '43.59123560'
-        longitude: '3.25836260'
-        type: null
+        id: 5003
+        name: Ille-et-Vilaine
+        state_code: '35'
+        latitude: '48.17624840'
+        longitude: '-2.21304010'
+        type: 'metropolitan department'
         cities: {  }
       -
-        id: 4792
-        name: Limousin
-        state_code: L
-        latitude: '45.89322310'
-        longitude: '1.56960180'
-        type: null
+        id: 5004
+        name: Indre
+        state_code: '36'
+        latitude: '46.81175500'
+        longitude: '0.97555230'
+        type: 'metropolitan department'
         cities: {  }
       -
-        id: 4801
-        name: Lorraine
-        state_code: M
-        latitude: '48.87442330'
-        longitude: '6.20809320'
-        type: null
+        id: 5005
+        name: Indre-et-Loire
+        state_code: '37'
+        latitude: '47.22285820'
+        longitude: '0.14896190'
+        type: 'metropolitan department'
         cities: {  }
       -
-        id: 4814
-        name: 'Lower Normandy'
-        state_code: P
-        latitude: '48.87884720'
-        longitude: '-0.51574920'
-        type: null
+        id: 5006
+        name: Isère
+        state_code: '38'
+        latitude: '45.28922710'
+        longitude: '4.99023550'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5007
+        name: Jura
+        state_code: '39'
+        latitude: '46.78287410'
+        longitude: '5.16918440'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 4823
+        name: 'La Réunion'
+        state_code: '974'
+        latitude: '-21.11514100'
+        longitude: '55.53638400'
+        type: 'overseas region'
+        cities: {  }
+      -
+        id: 5008
+        name: Landes
+        state_code: '40'
+        latitude: '44.00950800'
+        longitude: '-1.25385790'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5009
+        name: Loir-et-Cher
+        state_code: '41'
+        latitude: '47.65937600'
+        longitude: '0.85376310'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5010
+        name: Loire
+        state_code: '42'
+        latitude: '46.35228120'
+        longitude: '-1.17563390'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5012
+        name: Loire-Atlantique
+        state_code: '44'
+        latitude: '47.34757210'
+        longitude: '-2.34663120'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5013
+        name: Loiret
+        state_code: '45'
+        latitude: '47.91354310'
+        longitude: '1.76009900'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5014
+        name: Lot
+        state_code: '46'
+        latitude: '44.62460700'
+        longitude: '1.03576310'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5015
+        name: Lot-et-Garonne
+        state_code: '47'
+        latitude: '44.36873140'
+        longitude: '-0.09161690'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5016
+        name: Lozère
+        state_code: '48'
+        latitude: '44.54227790'
+        longitude: '2.92934590'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5017
+        name: Maine-et-Loire
+        state_code: '49'
+        latitude: '47.38900340'
+        longitude: '-1.12025270'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5018
+        name: Manche
+        state_code: '50'
+        latitude: '49.08817340'
+        longitude: '-2.46272090'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5019
+        name: Marne
+        state_code: '51'
+        latitude: '48.96107450'
+        longitude: '3.65737670'
+        type: 'metropolitan department'
         cities: {  }
       -
         id: 4827
         name: Martinique
-        state_code: MQ
+        state_code: '972'
         latitude: '14.64152800'
         longitude: '-61.02417400'
-        type: null
+        type: 'overseas region'
+        cities: {  }
+      -
+        id: 5021
+        name: Mayenne
+        state_code: '53'
+        latitude: '48.30668420'
+        longitude: '-0.64901820'
+        type: 'metropolitan department'
         cities: {  }
       -
         id: 4797
         name: Mayotte
-        state_code: YT
+        state_code: '976'
         latitude: '-12.82750000'
         longitude: '45.16624400'
-        type: null
+        type: 'overseas region'
         cities: {  }
       -
-        id: 4793
-        name: Nord-Pas-de-Calais
-        state_code: O
-        latitude: '50.48011530'
-        longitude: '2.79372650'
-        type: null
+        id: 5038
+        name: 'Métropole de Lyon'
+        state_code: 69M
+        latitude: '45.74826290'
+        longitude: '4.59584040'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5022
+        name: Meurthe-et-Moselle
+        state_code: '54'
+        latitude: '48.95566150'
+        longitude: '5.71423500'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5023
+        name: Meuse
+        state_code: '55'
+        latitude: '49.01246200'
+        longitude: '4.81087340'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5024
+        name: Morbihan
+        state_code: '56'
+        latitude: '47.74395180'
+        longitude: '-3.44555240'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5025
+        name: Moselle
+        state_code: '57'
+        latitude: '49.02045660'
+        longitude: '6.20553220'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5026
+        name: Nièvre
+        state_code: '58'
+        latitude: '47.11921640'
+        longitude: '2.97797130'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5027
+        name: Nord
+        state_code: '59'
+        latitude: '50.52854770'
+        longitude: '2.60007760'
+        type: 'metropolitan department'
         cities: {  }
       -
         id: 4804
-        name: Normandy
+        name: Normandie
         state_code: NOR
         latitude: '48.87987040'
         longitude: '0.17125290'
-        type: null
+        type: 'metropolitan region'
         cities:
           -
             id: 39241
@@ -169454,7 +170027,7 @@ country_state_city:
         state_code: NAQ
         latitude: '45.70871820'
         longitude: '0.62689100'
-        type: null
+        type: 'metropolitan region'
         cities:
           -
             id: 39248
@@ -174298,11 +174871,11 @@ country_state_city:
             longitude: '-0.45870000'
       -
         id: 4799
-        name: Occitania
+        name: Occitanie
         state_code: OCC
         latitude: '43.89272320'
         longitude: '3.28276250'
-        type: null
+        type: 'metropolitan region'
         cities:
           -
             id: 39236
@@ -178445,20 +179018,44 @@ country_state_city:
             latitude: '44.55678000'
             longitude: '2.21649000'
       -
+        id: 5028
+        name: Oise
+        state_code: '60'
+        latitude: '49.41173350'
+        longitude: '1.86688250'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5029
+        name: Orne
+        state_code: '61'
+        latitude: '48.57576440'
+        longitude: '-0.50242950'
+        type: 'metropolitan department'
+        cities: {  }
+      -
         id: 4816
         name: Paris
-        state_code: '75'
+        state_code: 75C
         latitude: '48.85661400'
         longitude: '2.35222190'
-        type: null
+        type: 'metropolitan collectivity with special status'
+        cities: {  }
+      -
+        id: 5030
+        name: Pas-de-Calais
+        state_code: '62'
+        latitude: '50.51446990'
+        longitude: '1.81149800'
+        type: 'metropolitan department'
         cities: {  }
       -
         id: 4802
-        name: 'Pays de la Loire'
+        name: Pays-de-la-Loire
         state_code: PDL
         latitude: '47.76328360'
         longitude: '-0.32996870'
-        type: null
+        type: 'metropolitan region'
         cities:
           -
             id: 39234
@@ -181761,28 +182358,12 @@ country_state_city:
             latitude: '47.02229000'
             longitude: '-0.70295000'
       -
-        id: 4790
-        name: Picardy
-        state_code: S
-        latitude: '49.66361270'
-        longitude: '2.52807320'
-        type: null
-        cities: {  }
-      -
-        id: 4815
-        name: Poitou-Charentes
-        state_code: T
-        latitude: '45.90355200'
-        longitude: '-0.30918370'
-        type: null
-        cities: {  }
-      -
         id: 4812
-        name: 'Provence-Alpes-Côte d''Azur'
+        name: Provence-Alpes-Côte-d’Azur
         state_code: PAC
         latitude: '43.93516910'
         longitude: '6.06791940'
-        type: null
+        type: 'metropolitan region'
         cities:
           -
             id: 39294
@@ -184460,36 +185041,36 @@ country_state_city:
             latitude: '43.87787000'
             longitude: '5.84148000'
       -
-        id: 4823
-        name: Réunion
-        state_code: RE
-        latitude: '-21.11514100'
-        longitude: '55.53638400'
-        type: null
+        id: 5031
+        name: Puy-de-Dôme
+        state_code: '63'
+        latitude: '45.77141850'
+        longitude: '2.62626760'
+        type: 'metropolitan department'
         cities: {  }
       -
-        id: 4813
-        name: Rhône-Alpes
-        state_code: V
-        latitude: '45.64029050'
-        longitude: '5.68649940'
-        type: null
+        id: 5032
+        name: Pyrénées-Atlantiques
+        state_code: '64'
+        latitude: '43.18681700'
+        longitude: '-1.44170710'
+        type: 'metropolitan department'
         cities: {  }
       -
-        id: 4794
-        name: 'Saint Barthélemy'
-        state_code: BL
-        latitude: '17.90051340'
-        longitude: '-62.82058710'
-        type: null
+        id: 5034
+        name: Pyrénées-Orientales
+        state_code: '66'
+        latitude: '42.62541790'
+        longitude: '1.88929580'
+        type: 'metropolitan department'
         cities: {  }
       -
-        id: 4809
-        name: 'Saint Martin'
-        state_code: MF
-        latitude: '18.07082980'
-        longitude: '-63.05008090'
-        type: null
+        id: 5037
+        name: Rhône
+        state_code: '69'
+        latitude: '44.93433000'
+        longitude: '4.24093290'
+        type: 'metropolitan department'
         cities: {  }
       -
         id: 4821
@@ -184497,31 +185078,159 @@ country_state_city:
         state_code: PM
         latitude: '46.88520000'
         longitude: '-56.31590000'
-        type: null
+        type: 'overseas collectivity'
         cities: {  }
       -
-        id: 4819
-        name: Sigave
-        state_code: WF-SG
-        latitude: '-14.27325920'
-        longitude: '-178.16329000'
-        type: null
+        id: 4794
+        name: Saint-Barthélemy
+        state_code: BL
+        latitude: '17.90051340'
+        longitude: '-62.82058710'
+        type: 'overseas collectivity'
         cities: {  }
       -
-        id: 4826
-        name: 'Upper Normandy'
-        state_code: Q
-        latitude: '49.52464100'
-        longitude: '0.88283290'
-        type: null
+        id: 4809
+        name: Saint-Martin
+        state_code: MF
+        latitude: '18.07082980'
+        longitude: '-63.05008090'
+        type: 'overseas collectivity'
         cities: {  }
       -
-        id: 4817
-        name: Uvea
-        state_code: WF-UV
-        latitude: '41.98329800'
-        longitude: '-87.66836200'
-        type: null
+        id: 5040
+        name: Saône-et-Loire
+        state_code: '71'
+        latitude: '46.65548830'
+        longitude: '3.98350500'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5041
+        name: Sarthe
+        state_code: '72'
+        latitude: '48.02627330'
+        longitude: '-0.32613170'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5042
+        name: Savoie
+        state_code: '73'
+        latitude: '45.49469900'
+        longitude: '5.84329840'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5045
+        name: Seine-et-Marne
+        state_code: '77'
+        latitude: '48.61853940'
+        longitude: '2.41525610'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5044
+        name: Seine-Maritime
+        state_code: '76'
+        latitude: '49.66096810'
+        longitude: '0.36775610'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5061
+        name: Seine-Saint-Denis
+        state_code: '93'
+        latitude: '48.90993180'
+        longitude: '2.30573790'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5048
+        name: Somme
+        state_code: '80'
+        latitude: '49.96859220'
+        longitude: '1.73106960'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5049
+        name: Tarn
+        state_code: '81'
+        latitude: '43.79149770'
+        longitude: '1.67588930'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5050
+        name: Tarn-et-Garonne
+        state_code: '82'
+        latitude: '44.08089500'
+        longitude: '1.08916570'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5058
+        name: 'Territoire de Belfort'
+        state_code: '90'
+        latitude: '47.62930720'
+        longitude: '6.66962000'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5063
+        name: 'Val-d''Oise'
+        state_code: '95'
+        latitude: '49.07518180'
+        longitude: '1.82169140'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5062
+        name: "Val-de-Marne\t"
+        state_code: '94'
+        latitude: '48.77470040'
+        longitude: '2.32210390'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5051
+        name: Var
+        state_code: '83'
+        latitude: '43.39507300'
+        longitude: '5.73424170'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5052
+        name: Vaucluse
+        state_code: '84'
+        latitude: '44.04475000'
+        longitude: '4.64277180'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5053
+        name: Vendée
+        state_code: '85'
+        latitude: '46.67541030'
+        longitude: '-2.02983920'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5054
+        name: Vienne
+        state_code: '86'
+        latitude: '45.52213140'
+        longitude: '4.84531360'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5056
+        name: Vosges
+        state_code: '88'
+        latitude: '48.16301730'
+        longitude: '5.73556000'
+        type: 'metropolitan department'
         cities: {  }
       -
         id: 4810
@@ -184529,7 +185238,23 @@ country_state_city:
         state_code: WF
         latitude: '-14.29380000'
         longitude: '-178.11650000'
-        type: null
+        type: 'overseas collectivity'
+        cities: {  }
+      -
+        id: 5057
+        name: Yonne
+        state_code: '89'
+        latitude: '47.85476140'
+        longitude: '3.03394040'
+        type: 'metropolitan department'
+        cities: {  }
+      -
+        id: 5046
+        name: Yvelines
+        state_code: '78'
+        latitude: '48.76153010'
+        longitude: '1.27729490'
+        type: 'metropolitan department'
         cities: {  }
   -
     id: 76
@@ -184540,6 +185265,7 @@ country_state_city:
     phone_code: '594'
     capital: Cayenne
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .gf
     native: 'Guyane française'
@@ -184579,6 +185305,7 @@ country_state_city:
     phone_code: '689'
     capital: Papeete
     currency: XPF
+    currency_name: 'CFP franc'
     currency_symbol: ₣
     tld: .pf
     native: 'Polynésie française'
@@ -184630,6 +185357,7 @@ country_state_city:
     phone_code: '262'
     capital: Port-aux-Francais
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .tf
     native: 'Territoire des Terres australes et antarctiques fr'
@@ -184669,6 +185397,7 @@ country_state_city:
     phone_code: '241'
     capital: Libreville
     currency: XAF
+    currency_name: 'Central African CFA franc'
     currency_symbol: FCFA
     tld: .ga
     native: Gabon
@@ -184920,6 +185649,7 @@ country_state_city:
     phone_code: '220'
     capital: Banjul
     currency: GMD
+    currency_name: 'Gambian dalasi'
     currency_symbol: D
     tld: .gm
     native: Gambia
@@ -185527,6 +186257,7 @@ country_state_city:
     phone_code: '995'
     capital: Tbilisi
     currency: GEL
+    currency_name: 'Georgian lari'
     currency_symbol: ლ
     tld: .ge
     native: საქართველო
@@ -186238,6 +186969,7 @@ country_state_city:
     phone_code: '49'
     capital: Berlin
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .de
     native: Deutschland
@@ -221896,6 +222628,7 @@ country_state_city:
     phone_code: '233'
     capital: Accra
     currency: GHS
+    currency_name: 'Ghanaian cedi'
     currency_symbol: GH₵
     tld: .gh
     native: Ghana
@@ -222668,6 +223401,7 @@ country_state_city:
     phone_code: '350'
     capital: Gibraltar
     currency: GIP
+    currency_name: 'Gibraltar pound'
     currency_symbol: £
     tld: .gi
     native: Gibraltar
@@ -222707,6 +223441,7 @@ country_state_city:
     phone_code: '30'
     capital: Athens
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .gr
     native: Ελλάδα
@@ -228175,6 +228910,7 @@ country_state_city:
     phone_code: '299'
     capital: Nuuk
     currency: DKK
+    currency_name: 'Danish krone'
     currency_symbol: Kr.
     tld: .gl
     native: 'Kalaallit Nunaat'
@@ -228232,6 +228968,7 @@ country_state_city:
     phone_code: +1-473
     capital: 'St. George''s'
     currency: XCD
+    currency_name: 'Eastern Caribbean dollar'
     currency_symbol: $
     tld: .gd
     native: Grenada
@@ -228362,6 +229099,7 @@ country_state_city:
     phone_code: '590'
     capital: Basse-Terre
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .gp
     native: Guadeloupe
@@ -228401,6 +229139,7 @@ country_state_city:
     phone_code: +1-671
     capital: Hagatna
     currency: USD
+    currency_name: 'US Dollar'
     currency_symbol: $
     tld: .gu
     native: Guam
@@ -228440,6 +229179,7 @@ country_state_city:
     phone_code: '502'
     capital: 'Guatemala City'
     currency: GTQ
+    currency_name: 'Guatemalan quetzal'
     currency_symbol: Q
     tld: .gt
     native: Guatemala
@@ -230557,6 +231297,7 @@ country_state_city:
     phone_code: +44-1481
     capital: 'St Peter Port'
     currency: GBP
+    currency_name: 'British pound'
     currency_symbol: £
     tld: .gg
     native: Guernsey
@@ -230596,6 +231337,7 @@ country_state_city:
     phone_code: '224'
     capital: Conakry
     currency: GNF
+    currency_name: 'Guinean franc'
     currency_symbol: FG
     tld: .gn
     native: Guinée
@@ -231225,6 +231967,7 @@ country_state_city:
     phone_code: '245'
     capital: Bissau
     currency: XOF
+    currency_name: 'West African CFA franc'
     currency_symbol: CFA
     tld: .gw
     native: Guiné-Bissau
@@ -231422,6 +232165,7 @@ country_state_city:
     phone_code: '592'
     capital: Georgetown
     currency: GYD
+    currency_name: 'Guyanese dollar'
     currency_symbol: $
     tld: .gy
     native: Guyana
@@ -231611,6 +232355,7 @@ country_state_city:
     phone_code: '509'
     capital: Port-au-Prince
     currency: HTG
+    currency_name: 'Haitian gourde'
     currency_symbol: G
     tld: .ht
     native: Haïti
@@ -232350,6 +233095,7 @@ country_state_city:
     phone_code: '672'
     capital: ''
     currency: AUD
+    currency_name: 'Australian dollar'
     currency_symbol: $
     tld: .hm
     native: 'Heard Island and McDonald Islands'
@@ -232389,6 +233135,7 @@ country_state_city:
     phone_code: '504'
     capital: Tegucigalpa
     currency: HNL
+    currency_name: 'Honduran lempira'
     currency_symbol: L
     tld: .hn
     native: Honduras
@@ -235297,6 +236044,7 @@ country_state_city:
     phone_code: '852'
     capital: 'Hong Kong'
     currency: HKD
+    currency_name: 'Hong Kong dollar'
     currency_symbol: $
     tld: .hk
     native: 香港
@@ -235480,6 +236228,7 @@ country_state_city:
     phone_code: '36'
     capital: Budapest
     currency: HUF
+    currency_name: 'Hungarian forint'
     currency_symbol: Ft
     tld: .hu
     native: Magyarország
@@ -240880,6 +241629,7 @@ country_state_city:
     phone_code: '354'
     capital: Reykjavik
     currency: ISK
+    currency_name: 'Icelandic króna'
     currency_symbol: kr
     tld: .is
     native: Ísland
@@ -241353,6 +242103,7 @@ country_state_city:
     phone_code: '91'
     capital: 'New Delhi'
     currency: INR
+    currency_name: 'Indian rupee'
     currency_symbol: ₹
     tld: .in
     native: भारत
@@ -247377,6 +248128,11 @@ country_state_city:
             latitude: '15.15000000'
             longitude: '76.55000000'
           -
+            id: 57924
+            name: Ballary
+            latitude: '15.14205000'
+            longitude: '76.92398000'
+          -
             id: 58136
             name: Banavar
             latitude: '13.41029000'
@@ -247418,14 +248174,9 @@ country_state_city:
             longitude: '75.97252000'
           -
             id: 57922
-            name: Belgaum
+            name: Belagavi
             latitude: '16.33333000'
             longitude: '74.75000000'
-          -
-            id: 57924
-            name: Bellary
-            latitude: '15.14205000'
-            longitude: '76.92398000'
           -
             id: 57925
             name: Belluru
@@ -247466,11 +248217,6 @@ country_state_city:
             name: Bidar
             latitude: '18.08333000'
             longitude: '77.33333000'
-          -
-            id: 58031
-            name: Bijapur
-            latitude: '16.82442000'
-            longitude: '75.71537000'
           -
             id: 58042
             name: Bilgi
@@ -247533,7 +248279,7 @@ country_state_city:
             longitude: '77.87000000'
           -
             id: 131552
-            name: Chikmagalur
+            name: Chikkamagaluru
             latitude: '13.49000000'
             longitude: '75.73000000'
           -
@@ -247667,11 +248413,6 @@ country_state_city:
             latitude: '13.67099000'
             longitude: '77.70414000'
           -
-            id: 132016
-            name: Gulbarga
-            latitude: '17.16667000'
-            longitude: '77.08333000'
-          -
             id: 132017
             name: Guledagudda
             latitude: '16.05025000'
@@ -247793,7 +248534,7 @@ country_state_city:
             longitude: '76.38710000'
           -
             id: 132127
-            name: Hubli
+            name: Hubballi
             latitude: '15.34776000'
             longitude: '75.13378000'
           -
@@ -247841,6 +248582,11 @@ country_state_city:
             name: Kadur
             latitude: '13.55285000'
             longitude: '76.01164000'
+          -
+            id: 132016
+            name: Kalaburgi
+            latitude: '17.16667000'
+            longitude: '77.08333000'
           -
             id: 132351
             name: Kalghatgi
@@ -248048,7 +248794,7 @@ country_state_city:
             longitude: '76.89746000'
           -
             id: 132905
-            name: Mangalore
+            name: Mangaluru
             latitude: '12.91723000'
             longitude: '74.85603000'
           -
@@ -248133,7 +248879,7 @@ country_state_city:
             longitude: '74.48450000'
           -
             id: 133053
-            name: Mysore
+            name: Mysuru
             latitude: '12.23000000'
             longitude: '76.42000000'
           -
@@ -248438,7 +249184,7 @@ country_state_city:
             longitude: '76.90180000'
           -
             id: 134219
-            name: Tumkur
+            name: Tumakuru
             latitude: '13.50000000'
             longitude: '77.00000000'
           -
@@ -248466,6 +249212,11 @@ country_state_city:
             name: Vadigenhalli
             latitude: '13.29724000'
             longitude: '77.80184000'
+          -
+            id: 58031
+            name: Vijayapura
+            latitude: '16.82442000'
+            longitude: '75.71537000'
           -
             id: 134386
             name: Virarajendrapet
@@ -262885,6 +263636,7 @@ country_state_city:
     phone_code: '62'
     capital: Jakarta
     currency: IDR
+    currency_name: 'Indonesian rupiah'
     currency_symbol: Rp
     tld: .id
     native: Indonesia
@@ -267659,6 +268411,7 @@ country_state_city:
     phone_code: '98'
     capital: Tehran
     currency: IRR
+    currency_name: 'Iranian rial'
     currency_symbol: ﷼
     tld: .ir
     native: ایران
@@ -273395,6 +274148,7 @@ country_state_city:
     phone_code: '964'
     capital: Baghdad
     currency: IQD
+    currency_name: 'Iraqi dinar'
     currency_symbol: د.ع
     tld: .iq
     native: العراق
@@ -273983,6 +274737,7 @@ country_state_city:
     phone_code: '353'
     capital: Dublin
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .ie
     native: Éire
@@ -276114,6 +276869,7 @@ country_state_city:
     phone_code: '972'
     capital: Jerusalem
     currency: ILS
+    currency_name: 'Israeli new shekel'
     currency_symbol: ₪
     tld: .il
     native: יִשְׂרָאֵל
@@ -276951,6 +277707,7 @@ country_state_city:
     phone_code: '39'
     capital: Rome
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .it
     native: Italia
@@ -327754,6 +328511,7 @@ country_state_city:
     phone_code: +1-876
     capital: Kingston
     currency: JMD
+    currency_name: 'Jamaican dollar'
     currency_symbol: J$
     tld: .jm
     native: Jamaica
@@ -332105,6 +332863,7 @@ country_state_city:
     phone_code: '81'
     capital: Tokyo
     currency: JPY
+    currency_name: 'Japanese yen'
     currency_symbol: ¥
     tld: .jp
     native: 日本
@@ -340875,6 +341634,7 @@ country_state_city:
     phone_code: +44-1534
     capital: 'Saint Helier'
     currency: GBP
+    currency_name: 'British pound'
     currency_symbol: £
     tld: .je
     native: Jersey
@@ -340914,6 +341674,7 @@ country_state_city:
     phone_code: '962'
     capital: Amman
     currency: JOD
+    currency_name: 'Jordanian dinar'
     currency_symbol: ا.د
     tld: .jo
     native: الأردن
@@ -341459,6 +342220,7 @@ country_state_city:
     phone_code: '7'
     capital: Astana
     currency: KZT
+    currency_name: 'Kazakhstani tenge'
     currency_symbol: лв
     tld: .kz
     native: Қазақстан
@@ -342970,6 +343732,7 @@ country_state_city:
     phone_code: '254'
     capital: Nairobi
     currency: KES
+    currency_name: 'Kenyan shilling'
     currency_symbol: KSh
     tld: .ke
     native: Kenya
@@ -343002,11 +343765,11 @@ country_state_city:
     states:
       -
         id: 181
-        name: 'Baringo County'
+        name: Baringo
         state_code: '01'
         latitude: '0.85549880'
         longitude: '36.08934060'
-        type: null
+        type: county
         cities:
           -
             id: 64774
@@ -343025,11 +343788,11 @@ country_state_city:
             longitude: '35.74303000'
       -
         id: 210
-        name: 'Bomet County'
+        name: Bomet
         state_code: '02'
         latitude: '-0.80150090'
         longitude: '35.30272260'
-        type: null
+        type: county
         cities:
           -
             id: 64870
@@ -343043,11 +343806,11 @@ country_state_city:
             longitude: '35.34156000'
       -
         id: 168
-        name: 'Bungoma County'
+        name: Bungoma
         state_code: '03'
         latitude: '0.56952520'
         longitude: '34.55837660'
-        type: null
+        type: county
         cities:
           -
             id: 64776
@@ -343066,11 +343829,11 @@ country_state_city:
             longitude: '34.77119000'
       -
         id: 161
-        name: 'Busia County'
+        name: Busia
         state_code: '04'
         latitude: '0.43465060'
         longitude: '34.24215970'
-        type: null
+        type: county
         cities:
           -
             id: 64777
@@ -343103,44 +343866,20 @@ country_state_city:
             latitude: '0.09809000'
             longitude: '33.97248000'
       -
-        id: 160
-        name: 'Central Province'
-        state_code: '200'
-        latitude: null
-        longitude: null
-        type: null
-        cities: {  }
-      -
-        id: 172
-        name: 'Coast Province'
-        state_code: '300'
-        latitude: '39.13733050'
-        longitude: '-76.72941440'
-        type: null
-        cities: {  }
-      -
-        id: 189
-        name: 'Eastern Province'
-        state_code: '400'
-        latitude: null
-        longitude: null
-        type: null
-        cities: {  }
-      -
         id: 201
-        name: 'Elgeyo-Marakwet County'
+        name: Elgeyo-Marakwet
         state_code: '05'
         latitude: '1.04982370'
         longitude: '35.47819260'
-        type: null
+        type: county
         cities: {  }
       -
         id: 163
-        name: 'Embu County'
+        name: Embu
         state_code: '06'
         latitude: '-0.65604770'
         longitude: '37.72376780'
-        type: null
+        type: county
         cities:
           -
             id: 64783
@@ -343149,11 +343888,11 @@ country_state_city:
             longitude: '37.45743000'
       -
         id: 196
-        name: 'Garissa County'
+        name: Garissa
         state_code: '07'
         latitude: '-0.45322930'
         longitude: '39.64609880'
-        type: null
+        type: county
         cities:
           -
             id: 64784
@@ -343162,11 +343901,11 @@ country_state_city:
             longitude: '39.64601000'
       -
         id: 195
-        name: 'Homa Bay County'
+        name: 'Homa Bay'
         state_code: '08'
         latitude: '-0.62206550'
         longitude: '34.33103640'
-        type: null
+        type: county
         cities:
           -
             id: 64787
@@ -343185,11 +343924,11 @@ country_state_city:
             longitude: '34.73900000'
       -
         id: 170
-        name: 'Isiolo County'
+        name: Isiolo
         state_code: '09'
         latitude: '0.35243520'
         longitude: '38.48499230'
-        type: null
+        type: county
         cities:
           -
             id: 64788
@@ -343198,11 +343937,11 @@ country_state_city:
             longitude: '37.58218000'
       -
         id: 197
-        name: 'Kajiado County'
+        name: Kajiado
         state_code: '10'
         latitude: '-2.09807510'
         longitude: '36.78195050'
-        type: null
+        type: county
         cities:
           -
             id: 64791
@@ -343221,11 +343960,11 @@ country_state_city:
             longitude: '36.66990000'
       -
         id: 158
-        name: 'Kakamega County'
+        name: Kakamega
         state_code: '11'
         latitude: '0.30789400'
         longitude: '34.77407930'
-        type: null
+        type: county
         cities:
           -
             id: 64778
@@ -343244,11 +343983,11 @@ country_state_city:
             longitude: '34.48796000'
       -
         id: 193
-        name: 'Kericho County'
+        name: Kericho
         state_code: '12'
         latitude: '-0.18279130'
         longitude: '35.47819260'
-        type: null
+        type: county
         cities:
           -
             id: 64799
@@ -343272,11 +344011,11 @@ country_state_city:
             longitude: '35.59359000'
       -
         id: 199
-        name: 'Kiambu County'
+        name: Kiambu
         state_code: '13'
         latitude: '-1.03137010'
         longitude: '36.86807910'
-        type: null
+        type: county
         cities:
           -
             id: 64802
@@ -343293,13 +344032,18 @@ country_state_city:
             name: Limuru
             latitude: '-1.11360000'
             longitude: '36.64205000'
+          -
+            id: 64874
+            name: Thika
+            latitude: '-1.03326000'
+            longitude: '37.06933000'
       -
         id: 174
-        name: 'Kilifi County'
+        name: Kilifi
         state_code: '14'
         latitude: '-3.51065080'
         longitude: '39.90932690'
-        type: null
+        type: county
         cities:
           -
             id: 64789
@@ -343333,11 +344077,11 @@ country_state_city:
             longitude: '39.85687000'
       -
         id: 167
-        name: 'Kirinyaga County'
+        name: Kirinyaga
         state_code: '15'
         latitude: '-0.65905650'
         longitude: '37.38272340'
-        type: null
+        type: county
         cities:
           -
             id: 64801
@@ -343351,11 +344095,11 @@ country_state_city:
             longitude: '37.20875000'
       -
         id: 159
-        name: 'Kisii County'
+        name: Kisii
         state_code: '16'
         latitude: '-0.67733400'
         longitude: '34.77960300'
-        type: null
+        type: county
         cities:
           -
             id: 64810
@@ -343369,11 +344113,11 @@ country_state_city:
             longitude: '34.72579000'
       -
         id: 171
-        name: 'Kisumu County'
+        name: Kisumu
         state_code: '17'
         latitude: '-0.09170160'
         longitude: '34.76795680'
-        type: null
+        type: county
         cities:
           -
             id: 64772
@@ -343392,11 +344136,11 @@ country_state_city:
             longitude: '35.19645000'
       -
         id: 211
-        name: 'Kitui County'
+        name: Kitui
         state_code: '18'
         latitude: '-1.68328220'
         longitude: '38.31657250'
-        type: null
+        type: county
         cities:
           -
             id: 64813
@@ -343410,11 +344154,11 @@ country_state_city:
             longitude: '38.05955000'
       -
         id: 173
-        name: 'Kwale County'
+        name: Kwale
         state_code: '19'
         latitude: '-4.18161150'
         longitude: '39.46056120'
-        type: null
+        type: county
         cities:
           -
             id: 64785
@@ -343443,11 +344187,11 @@ country_state_city:
             longitude: '39.38175000'
       -
         id: 164
-        name: 'Laikipia County'
+        name: Laikipia
         state_code: '20'
         latitude: '0.36060630'
         longitude: '36.78195050'
-        type: null
+        type: county
         cities:
           -
             id: 64850
@@ -343466,11 +344210,11 @@ country_state_city:
             longitude: '36.53806000'
       -
         id: 166
-        name: 'Lamu County'
+        name: Lamu
         state_code: '21'
         latitude: '-2.23550580'
         longitude: '40.47200040'
-        type: null
+        type: county
         cities:
           -
             id: 64816
@@ -343484,11 +344228,11 @@ country_state_city:
             longitude: '40.43827000'
       -
         id: 184
-        name: 'Machakos County'
+        name: Machakos
         state_code: '22'
         latitude: '-1.51768370'
         longitude: '37.26341460'
-        type: null
+        type: county
         cities:
           -
             id: 64773
@@ -343512,11 +344256,11 @@ country_state_city:
             longitude: '37.26521000'
       -
         id: 188
-        name: 'Makueni County'
+        name: Makueni
         state_code: '23'
         latitude: '-2.25587340'
         longitude: '37.89366630'
-        type: null
+        type: county
         cities:
           -
             id: 64825
@@ -343535,11 +344279,11 @@ country_state_city:
             longitude: '37.62882000'
       -
         id: 187
-        name: 'Mandera County'
+        name: Mandera
         state_code: '24'
         latitude: '3.57379910'
         longitude: '40.95868800'
-        type: null
+        type: county
         cities:
           -
             id: 64829
@@ -343548,11 +344292,11 @@ country_state_city:
             longitude: '41.85688000'
       -
         id: 194
-        name: 'Marsabit County'
+        name: Marsabit
         state_code: '25'
         latitude: '2.44264030'
         longitude: '37.97845850'
-        type: null
+        type: county
         cities:
           -
             id: 64833
@@ -343566,11 +344310,11 @@ country_state_city:
             longitude: '39.05610000'
       -
         id: 198
-        name: 'Meru County'
+        name: Meru
         state_code: '26'
         latitude: '0.35571740'
         longitude: '37.80876930'
-        type: null
+        type: county
         cities:
           -
             id: 64834
@@ -343584,11 +344328,11 @@ country_state_city:
             longitude: '37.65587000'
       -
         id: 190
-        name: 'Migori County'
+        name: Migori
         state_code: '27'
         latitude: '-0.93657020'
         longitude: '34.41982430'
-        type: null
+        type: county
         cities:
           -
             id: 64803
@@ -343602,11 +344346,11 @@ country_state_city:
             longitude: '34.47313000'
       -
         id: 200
-        name: 'Mombasa County'
+        name: Mombasa
         state_code: '28'
         latitude: '-3.97682910'
         longitude: '39.71371810'
-        type: null
+        type: county
         cities:
           -
             id: 64838
@@ -343615,11 +344359,11 @@ country_state_city:
             longitude: '39.66359000'
       -
         id: 178
-        name: 'Muranga County'
+        name: 'Murang''a'
         state_code: '29'
         latitude: '-0.78392810'
         longitude: '37.04003390'
-        type: null
+        type: county
         cities:
           -
             id: 64793
@@ -343643,11 +344387,11 @@ country_state_city:
             longitude: '37.15259000'
       -
         id: 191
-        name: Nairobi
-        state_code: '110'
+        name: 'Nairobi City'
+        state_code: '30'
         latitude: '-1.29206590'
         longitude: '36.82194620'
-        type: null
+        type: county
         cities:
           -
             id: 64845
@@ -343659,14 +344403,9 @@ country_state_city:
             name: Pumwani
             latitude: '-1.28333000'
             longitude: '36.85000000'
-          -
-            id: 64874
-            name: Thika
-            latitude: '-1.03326000'
-            longitude: '37.06933000'
       -
         id: 203
-        name: 'Nakuru County'
+        name: Nakuru
         state_code: '31'
         latitude: '-0.30309880'
         longitude: '36.08002600'
@@ -343699,11 +344438,11 @@ country_state_city:
             longitude: '35.86313000'
       -
         id: 165
-        name: 'Nandi District'
+        name: Nandi
         state_code: '32'
         latitude: '0.18358670'
         longitude: '35.12687810'
-        type: null
+        type: county
         cities:
           -
             id: 64796
@@ -343717,11 +344456,11 @@ country_state_city:
             longitude: '35.18426000'
       -
         id: 175
-        name: 'Narok County'
+        name: Narok
         state_code: '33'
         latitude: '-1.10411100'
         longitude: '36.08934060'
-        type: null
+        type: county
         cities:
           -
             id: 64852
@@ -343729,16 +344468,8 @@ country_state_city:
             latitude: '-1.08083000'
             longitude: '35.87111000'
       -
-        id: 162
-        name: 'North Eastern Province'
-        state_code: '500'
-        latitude: '7.78530510'
-        longitude: '81.42789840'
-        type: null
-        cities: {  }
-      -
         id: 209
-        name: 'Nyamira County'
+        name: Nyamira
         state_code: '34'
         latitude: '-0.56694050'
         longitude: '34.93412340'
@@ -343756,11 +344487,11 @@ country_state_city:
             longitude: '34.93583000'
       -
         id: 192
-        name: 'Nyandarua County'
+        name: Nyandarua
         state_code: '35'
         latitude: '-0.18038550'
         longitude: '36.52296410'
-        type: null
+        type: county
         cities:
           -
             id: 64858
@@ -343768,20 +344499,12 @@ country_state_city:
             latitude: '-0.27088000'
             longitude: '36.37917000'
       -
-        id: 204
-        name: 'Nyanza Province'
-        state_code: '600'
-        latitude: '-0.08898940'
-        longitude: '34.77179120'
-        type: null
-        cities: {  }
-      -
         id: 180
-        name: 'Nyeri County'
+        name: Nyeri
         state_code: '36'
         latitude: '-0.41969150'
         longitude: '37.04003390'
-        type: null
+        type: county
         cities:
           -
             id: 64851
@@ -343799,20 +344522,12 @@ country_state_city:
             latitude: '-0.54655000'
             longitude: '36.93178000'
       -
-        id: 179
-        name: 'Rift Valley Province'
-        state_code: '700'
-        latitude: '11.40987370'
-        longitude: '41.28085770'
-        type: null
-        cities: {  }
-      -
         id: 207
-        name: 'Samburu County'
+        name: Samburu
         state_code: '37'
         latitude: '1.21545060'
         longitude: '36.95410700'
-        type: null
+        type: county
         cities:
           -
             id: 64831
@@ -343821,11 +344536,11 @@ country_state_city:
             longitude: '36.69806000'
       -
         id: 186
-        name: 'Siaya County'
+        name: Siaya
         state_code: '38'
         latitude: '-0.06173280'
         longitude: '34.24215970'
-        type: null
+        type: county
         cities:
           -
             id: 64775
@@ -343844,19 +344559,19 @@ country_state_city:
             longitude: '34.53602000'
       -
         id: 176
-        name: 'Taita–Taveta County'
+        name: Taita–Taveta
         state_code: '39'
         latitude: '-3.31606870'
         longitude: '38.48499230'
-        type: null
+        type: county
         cities: {  }
       -
         id: 205
-        name: 'Tana River County'
+        name: 'Tana River'
         state_code: '40'
         latitude: '-1.65184680'
         longitude: '39.65181650'
-        type: null
+        type: county
         cities:
           -
             id: 64786
@@ -343870,11 +344585,11 @@ country_state_city:
             longitude: '40.52620000'
       -
         id: 185
-        name: 'Tharaka Nithi County'
+        name: Tharaka-Nithi
         state_code: '41'
         latitude: '-0.29648510'
         longitude: '37.72376780'
-        type: null
+        type: county
         cities:
           -
             id: 64780
@@ -343883,11 +344598,11 @@ country_state_city:
             longitude: '37.64587000'
       -
         id: 183
-        name: 'Trans-Nzoia District'
+        name: 'Trans Nzoia'
         state_code: '42'
         latitude: '1.05666670'
         longitude: '34.95066250'
-        type: null
+        type: county
         cities:
           -
             id: 64812
@@ -343896,11 +344611,11 @@ country_state_city:
             longitude: '35.00622000'
       -
         id: 206
-        name: 'Turkana County'
+        name: Turkana
         state_code: '43'
         latitude: '3.31224770'
         longitude: '35.56578620'
-        type: null
+        type: county
         cities:
           -
             id: 64819
@@ -343922,7 +344637,7 @@ country_state_city:
             longitude: '35.26993000'
       -
         id: 202
-        name: 'Vihiga County'
+        name: Vihiga
         state_code: '45'
         latitude: '0.07675530'
         longitude: '34.70776650'
@@ -343930,11 +344645,11 @@ country_state_city:
         cities: {  }
       -
         id: 182
-        name: 'Wajir County'
+        name: Wajir
         state_code: '46'
         latitude: '1.63604750'
         longitude: '40.30886260'
-        type: null
+        type: county
         cities:
           -
             id: 64876
@@ -343943,11 +344658,11 @@ country_state_city:
             longitude: '40.05732000'
       -
         id: 208
-        name: 'West Pokot County'
+        name: 'West Pokot'
         state_code: '47'
         latitude: '1.62100760'
         longitude: '35.39050460'
-        type: null
+        type: county
         cities:
           -
             id: 64779
@@ -343974,14 +344689,6 @@ country_state_city:
             name: Wundanyi
             latitude: '-3.39642000'
             longitude: '38.35729000'
-      -
-        id: 177
-        name: 'Western Province'
-        state_code: '800'
-        latitude: null
-        longitude: null
-        type: null
-        cities: {  }
   -
     id: 114
     name: Kiribati
@@ -343991,6 +344698,7 @@ country_state_city:
     phone_code: '686'
     capital: Tarawa
     currency: AUD
+    currency_name: 'Australian dollar'
     currency_symbol: $
     tld: .ki
     native: Kiribati
@@ -344256,6 +344964,7 @@ country_state_city:
     phone_code: '383'
     capital: Pristina
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .xk
     native: 'Republika e Kosovës'
@@ -344341,6 +345050,7 @@ country_state_city:
     phone_code: '965'
     capital: 'Kuwait City'
     currency: KWD
+    currency_name: 'Kuwaiti dinar'
     currency_symbol: ك.د
     tld: .kw
     native: الكويت
@@ -344553,6 +345263,7 @@ country_state_city:
     phone_code: '996'
     capital: Bishkek
     currency: KGS
+    currency_name: 'Kyrgyzstani som'
     currency_symbol: лв
     tld: .kg
     native: Кыргызстан
@@ -344929,6 +345640,7 @@ country_state_city:
     phone_code: '856'
     capital: Vientiane
     currency: LAK
+    currency_name: 'Lao kip'
     currency_symbol: ₭
     tld: .la
     native: ສປປລາວ
@@ -345500,6 +346212,7 @@ country_state_city:
     phone_code: '371'
     capital: Riga
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .lv
     native: Latvija
@@ -347108,6 +347821,7 @@ country_state_city:
     phone_code: '961'
     capital: Beirut
     currency: LBP
+    currency_name: 'Lebanese pound'
     currency_symbol: £
     tld: .lb
     native: لبنان
@@ -347341,6 +348055,7 @@ country_state_city:
     phone_code: '266'
     capital: Maseru
     currency: LSL
+    currency_name: 'Lesotho loti'
     currency_symbol: L
     tld: .ls
     native: Lesotho
@@ -347520,6 +348235,7 @@ country_state_city:
     phone_code: '231'
     capital: Monrovia
     currency: LRD
+    currency_name: 'Liberian dollar'
     currency_symbol: $
     tld: .lr
     native: Liberia
@@ -347769,6 +348485,7 @@ country_state_city:
     phone_code: '218'
     capital: Tripolis
     currency: LYD
+    currency_name: 'Libyan dinar'
     currency_symbol: د.ل
     tld: .ly
     native: ‏ليبيا
@@ -348231,6 +348948,7 @@ country_state_city:
     phone_code: '423'
     capital: Vaduz
     currency: CHF
+    currency_name: 'Swiss franc'
     currency_symbol: CHf
     tld: .li
     native: Liechtenstein
@@ -348413,6 +349131,7 @@ country_state_city:
     phone_code: '370'
     capital: Vilnius
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .lt
     native: Lietuva
@@ -349649,6 +350368,7 @@ country_state_city:
     phone_code: '352'
     capital: Luxembourg
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .lu
     native: Luxembourg
@@ -350528,6 +351248,7 @@ country_state_city:
     phone_code: '853'
     capital: Macao
     currency: MOP
+    currency_name: 'Macanese pataca'
     currency_symbol: $
     tld: .mo
     native: 澳門
@@ -350567,6 +351288,7 @@ country_state_city:
     phone_code: '389'
     capital: Skopje
     currency: MKD
+    currency_name: Denar
     currency_symbol: ден
     tld: .mk
     native: 'Северна Македонија'
@@ -352263,6 +352985,7 @@ country_state_city:
     phone_code: '261'
     capital: Antananarivo
     currency: MGA
+    currency_name: 'Malagasy ariary'
     currency_symbol: Ar
     tld: .mg
     native: Madagasikara
@@ -352395,6 +353118,7 @@ country_state_city:
     phone_code: '265'
     capital: Lilongwe
     currency: MWK
+    currency_name: 'Malawian kwacha'
     currency_symbol: MK
     tld: .mw
     native: Malawi
@@ -352979,6 +353703,7 @@ country_state_city:
     phone_code: '60'
     capital: 'Kuala Lumpur'
     currency: MYR
+    currency_name: 'Malaysian ringgit'
     currency_symbol: RM
     tld: .my
     native: Malaysia
@@ -354047,6 +354772,7 @@ country_state_city:
     phone_code: '960'
     capital: Male
     currency: MVR
+    currency_name: 'Maldivian rufiyaa'
     currency_symbol: Rf
     tld: .mv
     native: Maldives
@@ -354399,6 +355125,7 @@ country_state_city:
     phone_code: '223'
     capital: Bamako
     currency: XOF
+    currency_name: 'West African CFA franc'
     currency_symbol: CFA
     tld: .ml
     native: Mali
@@ -354761,6 +355488,7 @@ country_state_city:
     phone_code: '356'
     capital: Valletta
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .mt
     native: Malta
@@ -355676,6 +356404,7 @@ country_state_city:
     phone_code: +44-1624
     capital: 'Douglas, Isle of Man'
     currency: GBP
+    currency_name: 'British pound'
     currency_symbol: £
     tld: .im
     native: 'Isle of Man'
@@ -355715,6 +356444,7 @@ country_state_city:
     phone_code: '692'
     capital: Majuro
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .mh
     native: M̧ajeļ
@@ -355776,6 +356506,7 @@ country_state_city:
     phone_code: '596'
     capital: Fort-de-France
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .mq
     native: Martinique
@@ -355815,6 +356546,7 @@ country_state_city:
     phone_code: '222'
     capital: Nouakchott
     currency: MRO
+    currency_name: 'Mauritanian ouguiya'
     currency_symbol: MRU
     tld: .mr
     native: موريتانيا
@@ -356049,6 +356781,7 @@ country_state_city:
     phone_code: '230'
     capital: 'Port Louis'
     currency: MUR
+    currency_name: 'Mauritian rupee'
     currency_symbol: ₨
     tld: .mu
     native: Maurice
@@ -356709,6 +357442,7 @@ country_state_city:
     phone_code: '262'
     capital: Mamoudzou
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .yt
     native: Mayotte
@@ -356748,6 +357482,7 @@ country_state_city:
     phone_code: '52'
     capital: 'Mexico City'
     currency: MXN
+    currency_name: 'Mexican peso'
     currency_symbol: $
     tld: .mx
     native: México
@@ -402973,6 +403708,7 @@ country_state_city:
     phone_code: '691'
     capital: Palikir
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .fm
     native: Micronesia
@@ -403461,6 +404197,7 @@ country_state_city:
     phone_code: '373'
     capital: Chisinau
     currency: MDL
+    currency_name: 'Moldovan leu'
     currency_symbol: L
     tld: .md
     native: Moldova
@@ -404148,6 +404885,7 @@ country_state_city:
     phone_code: '377'
     capital: Monaco
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .mc
     native: Monaco
@@ -404211,6 +404949,7 @@ country_state_city:
     phone_code: '976'
     capital: 'Ulan Bator'
     currency: MNT
+    currency_name: 'Mongolian tögrög'
     currency_symbol: ₮
     tld: .mn
     native: 'Монгол улс'
@@ -404620,6 +405359,7 @@ country_state_city:
     phone_code: '382'
     capital: Podgorica
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .me
     native: 'Црна Гора'
@@ -405005,6 +405745,7 @@ country_state_city:
     phone_code: +1-664
     capital: Plymouth
     currency: XCD
+    currency_name: 'Eastern Caribbean dollar'
     currency_symbol: $
     tld: .ms
     native: Montserrat
@@ -405044,6 +405785,7 @@ country_state_city:
     phone_code: '212'
     capital: Rabat
     currency: MAD
+    currency_name: 'Moroccan dirham'
     currency_symbol: DH
     tld: .ma
     native: المغرب
@@ -406899,6 +407641,7 @@ country_state_city:
     phone_code: '258'
     capital: Maputo
     currency: MZN
+    currency_name: 'Mozambican metical'
     currency_symbol: MT
     tld: .mz
     native: Moçambique
@@ -407216,6 +407959,7 @@ country_state_city:
     phone_code: '95'
     capital: 'Nay Pyi Taw'
     currency: MMK
+    currency_name: 'Burmese kyat'
     currency_symbol: K
     tld: .mm
     native: မြန်မာ
@@ -407745,6 +408489,7 @@ country_state_city:
     phone_code: '264'
     capital: Windhoek
     currency: NAD
+    currency_name: 'Namibian dollar'
     currency_symbol: $
     tld: .na
     native: Namibia
@@ -408136,6 +408881,7 @@ country_state_city:
     phone_code: '674'
     capital: Yaren
     currency: AUD
+    currency_name: 'Australian dollar'
     currency_symbol: $
     tld: .nr
     native: Nauru
@@ -408322,6 +409068,7 @@ country_state_city:
     phone_code: '977'
     capital: Kathmandu
     currency: NPR
+    currency_name: 'Nepalese rupee'
     currency_symbol: ₨
     tld: .np
     native: नपल
@@ -408788,6 +409535,7 @@ country_state_city:
     phone_code: '31'
     capital: Amsterdam
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .nl
     native: Nederland
@@ -417647,6 +418395,7 @@ country_state_city:
     phone_code: '687'
     capital: Noumea
     currency: XPF
+    currency_name: 'CFP franc'
     currency_symbol: ₣
     tld: .nc
     native: Nouvelle-Calédonie
@@ -417686,6 +418435,7 @@ country_state_city:
     phone_code: '64'
     capital: Wellington
     currency: NZD
+    currency_name: 'New Zealand dollar'
     currency_symbol: $
     tld: .nz
     native: 'New Zealand'
@@ -418657,6 +419407,7 @@ country_state_city:
     phone_code: '505'
     capital: Managua
     currency: NIO
+    currency_name: 'Nicaraguan córdoba'
     currency_symbol: C$
     tld: .ni
     native: Nicaragua
@@ -419607,6 +420358,7 @@ country_state_city:
     phone_code: '227'
     capital: Niamey
     currency: XOF
+    currency_name: 'West African CFA franc'
     currency_symbol: CFA
     tld: .ne
     native: Niger
@@ -420052,6 +420804,7 @@ country_state_city:
     phone_code: '234'
     capital: Abuja
     currency: NGN
+    currency_name: 'Nigerian naira'
     currency_symbol: ₦
     tld: .ng
     native: Nigeria
@@ -422507,6 +423260,7 @@ country_state_city:
     phone_code: '683'
     capital: Alofi
     currency: NZD
+    currency_name: 'New Zealand dollar'
     currency_symbol: $
     tld: .nu
     native: Niuē
@@ -422546,6 +423300,7 @@ country_state_city:
     phone_code: '672'
     capital: Kingston
     currency: AUD
+    currency_name: 'Australian dollar'
     currency_symbol: $
     tld: .nf
     native: 'Norfolk Island'
@@ -422585,6 +423340,7 @@ country_state_city:
     phone_code: '850'
     capital: Pyongyang
     currency: KPW
+    currency_name: 'North Korean Won'
     currency_symbol: ₩
     tld: .kp
     native: 북한
@@ -423112,6 +423868,7 @@ country_state_city:
     phone_code: +1-670
     capital: Saipan
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .mp
     native: 'Northern Mariana Islands'
@@ -423151,6 +423908,7 @@ country_state_city:
     phone_code: '47'
     capital: Oslo
     currency: NOK
+    currency_name: 'Norwegian krone'
     currency_symbol: kr
     tld: .no
     native: Norge
@@ -426698,6 +427456,7 @@ country_state_city:
     phone_code: '968'
     capital: Muscat
     currency: OMR
+    currency_name: 'Omani rial'
     currency_symbol: .ع.ر
     tld: .om
     native: عمان
@@ -426981,6 +427740,7 @@ country_state_city:
     phone_code: '92'
     capital: Islamabad
     currency: PKR
+    currency_name: 'Pakistani rupee'
     currency_symbol: ₨
     tld: .pk
     native: Pakistan
@@ -429374,6 +430134,7 @@ country_state_city:
     phone_code: '680'
     capital: Melekeok
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .pw
     native: Palau
@@ -429621,6 +430382,7 @@ country_state_city:
     phone_code: '970'
     capital: 'East Jerusalem'
     currency: ILS
+    currency_name: 'Israeli new shekel'
     currency_symbol: ₪
     tld: .ps
     native: فلسطين
@@ -429666,6 +430428,7 @@ country_state_city:
     phone_code: '507'
     capital: 'Panama City'
     currency: PAB
+    currency_name: 'Panamanian balboa'
     currency_symbol: B/.
     tld: .pa
     native: Panamá
@@ -432809,6 +433572,7 @@ country_state_city:
     phone_code: '675'
     capital: 'Port Moresby'
     currency: PGK
+    currency_name: 'Papua New Guinean kina'
     currency_symbol: K
     tld: .pg
     native: 'Papua Niugini'
@@ -433527,6 +434291,7 @@ country_state_city:
     phone_code: '595'
     capital: Asuncion
     currency: PYG
+    currency_name: 'Paraguayan guarani'
     currency_symbol: ₲
     tld: .py
     native: Paraguay
@@ -434402,6 +435167,7 @@ country_state_city:
     phone_code: '51'
     capital: Lima
     currency: PEN
+    currency_name: 'Peruvian sol'
     currency_symbol: S/.
     tld: .pe
     native: Perú
@@ -437056,6 +437822,7 @@ country_state_city:
     phone_code: '63'
     capital: Manila
     currency: PHP
+    currency_name: 'Philippine peso'
     currency_symbol: ₱
     tld: .ph
     native: Pilipinas
@@ -470471,6 +471238,7 @@ country_state_city:
     phone_code: '870'
     capital: Adamstown
     currency: NZD
+    currency_name: 'New Zealand dollar'
     currency_symbol: $
     tld: .pn
     native: 'Pitcairn Islands'
@@ -470510,6 +471278,7 @@ country_state_city:
     phone_code: '48'
     capital: Warsaw
     currency: PLN
+    currency_name: 'Polish złoty'
     currency_symbol: zł
     tld: .pl
     native: Polska
@@ -486307,6 +487076,7 @@ country_state_city:
     phone_code: '351'
     capital: Lisbon
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .pt
     native: Portugal
@@ -493083,6 +493853,7 @@ country_state_city:
     phone_code: '+1-787 and 1-939'
     capital: 'San Juan'
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .pr
     native: 'Puerto Rico'
@@ -493122,6 +493893,7 @@ country_state_city:
     phone_code: '974'
     capital: Doha
     currency: QAR
+    currency_name: 'Qatari riyal'
     currency_symbol: ق.ر
     tld: .qa
     native: قطر
@@ -493300,6 +494072,7 @@ country_state_city:
     phone_code: '262'
     capital: Saint-Denis
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .re
     native: 'La Réunion'
@@ -493339,6 +494112,7 @@ country_state_city:
     phone_code: '40'
     capital: Bucharest
     currency: RON
+    currency_name: 'Romanian leu'
     currency_symbol: lei
     tld: .ro
     native: România
@@ -534119,6 +534893,7 @@ country_state_city:
     phone_code: '7'
     capital: Moscow
     currency: RUB
+    currency_name: 'Russian ruble'
     currency_symbol: ₽
     tld: .ru
     native: Россия
@@ -562705,6 +563480,7 @@ country_state_city:
     phone_code: '250'
     capital: Kigali
     currency: RWF
+    currency_name: 'Rwandan franc'
     currency_symbol: FRw
     tld: .rw
     native: Rwanda
@@ -562844,6 +563620,7 @@ country_state_city:
     phone_code: '290'
     capital: Jamestown
     currency: SHP
+    currency_name: 'Saint Helena pound'
     currency_symbol: £
     tld: .sh
     native: 'Saint Helena'
@@ -562883,6 +563660,7 @@ country_state_city:
     phone_code: +1-869
     capital: Basseterre
     currency: XCD
+    currency_name: 'Eastern Caribbean dollar'
     currency_symbol: $
     tld: .kn
     native: 'Saint Kitts and Nevis'
@@ -563107,6 +563885,7 @@ country_state_city:
     phone_code: +1-758
     capital: Castries
     currency: XCD
+    currency_name: 'Eastern Caribbean dollar'
     currency_symbol: $
     tld: .lc
     native: 'Saint Lucia'
@@ -565647,6 +566426,7 @@ country_state_city:
     phone_code: '508'
     capital: Saint-Pierre
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .pm
     native: Saint-Pierre-et-Miquelon
@@ -565686,6 +566466,7 @@ country_state_city:
     phone_code: +1-784
     capital: Kingstown
     currency: XCD
+    currency_name: 'Eastern Caribbean dollar'
     currency_symbol: $
     tld: .vc
     native: 'Saint Vincent and the Grenadines'
@@ -565818,6 +566599,7 @@ country_state_city:
     phone_code: '590'
     capital: Gustavia
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .bl
     native: Saint-Barthélemy
@@ -565857,6 +566639,7 @@ country_state_city:
     phone_code: '590'
     capital: Marigot
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .mf
     native: Saint-Martin
@@ -565896,6 +566679,7 @@ country_state_city:
     phone_code: '685'
     capital: Apia
     currency: WST
+    currency_name: 'Samoan tālā'
     currency_symbol: SAT
     tld: .ws
     native: Samoa
@@ -566123,6 +566907,7 @@ country_state_city:
     phone_code: '378'
     capital: 'San Marino'
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .sm
     native: 'San Marino'
@@ -566279,6 +567064,7 @@ country_state_city:
     phone_code: '239'
     capital: 'Sao Tome'
     currency: STD
+    currency_name: Dobra
     currency_symbol: Db
     tld: .st
     native: 'São Tomé e Príncipe'
@@ -566359,6 +567145,7 @@ country_state_city:
     phone_code: '966'
     capital: Riyadh
     currency: SAR
+    currency_name: 'Saudi riyal'
     currency_symbol: ﷼
     tld: .sa
     native: 'المملكة العربية السعودية'
@@ -569317,6 +570104,7 @@ country_state_city:
     phone_code: '221'
     capital: Dakar
     currency: XOF
+    currency_name: 'West African CFA franc'
     currency_symbol: CFA
     tld: .sn
     native: Sénégal
@@ -569833,6 +570621,7 @@ country_state_city:
     phone_code: '381'
     capital: Belgrade
     currency: RSD
+    currency_name: 'Serbian dinar'
     currency_symbol: din
     tld: .rs
     native: Србија
@@ -571750,6 +572539,7 @@ country_state_city:
     phone_code: '248'
     capital: Victoria
     currency: SCR
+    currency_name: 'Seychellois rupee'
     currency_symbol: SRe
     tld: .sc
     native: Seychelles
@@ -572021,6 +572811,7 @@ country_state_city:
     phone_code: '232'
     capital: Freetown
     currency: SLL
+    currency_name: 'Sierra Leonean leone'
     currency_symbol: Le
     tld: .sl
     native: 'Sierra Leone'
@@ -572542,6 +573333,7 @@ country_state_city:
     phone_code: '65'
     capital: Singapur
     currency: SGD
+    currency_name: 'Singapore dollar'
     currency_symbol: $
     tld: .sg
     native: Singapore
@@ -572631,6 +573423,7 @@ country_state_city:
     phone_code: '1721'
     capital: Philipsburg
     currency: ANG
+    currency_name: 'Netherlands Antillean guilder'
     currency_symbol: ƒ
     tld: .sx
     native: 'Sint Maarten'
@@ -572667,6 +573460,7 @@ country_state_city:
     phone_code: '421'
     capital: Bratislava
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .sk
     native: Slovensko
@@ -573935,6 +574729,7 @@ country_state_city:
     phone_code: '386'
     capital: Ljubljana
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .si
     native: Slovenija
@@ -577217,6 +578012,7 @@ country_state_city:
     phone_code: '677'
     capital: Honiara
     currency: SBD
+    currency_name: 'Solomon Islands dollar'
     currency_symbol: Si$
     tld: .sb
     native: 'Solomon Islands'
@@ -577371,6 +578167,7 @@ country_state_city:
     phone_code: '252'
     capital: Mogadishu
     currency: SOS
+    currency_name: 'Somali shilling'
     currency_symbol: Sh.so.
     tld: .so
     native: Soomaaliya
@@ -577768,6 +578565,7 @@ country_state_city:
     phone_code: '27'
     capital: Pretoria
     currency: ZAR
+    currency_name: 'South African rand'
     currency_symbol: R
     tld: .za
     native: 'South Africa'
@@ -579449,6 +580247,7 @@ country_state_city:
     phone_code: '500'
     capital: Grytviken
     currency: GBP
+    currency_name: 'British pound'
     currency_symbol: £
     tld: .gs
     native: 'South Georgia'
@@ -579488,6 +580287,7 @@ country_state_city:
     phone_code: '82'
     capital: Seoul
     currency: KRW
+    currency_name: Won
     currency_symbol: ₩
     tld: .kr
     native: 대한민국
@@ -581208,6 +582008,7 @@ country_state_city:
     phone_code: '211'
     capital: Juba
     currency: SSP
+    currency_name: 'South Sudanese pound'
     currency_symbol: £
     tld: .ss
     native: 'South Sudan'
@@ -581332,6 +582133,7 @@ country_state_city:
     phone_code: '34'
     capital: Madrid
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .es
     native: España
@@ -615067,6 +615869,7 @@ country_state_city:
     phone_code: '94'
     capital: Colombo
     currency: LKR
+    currency_name: 'Sri Lankan rupee'
     currency_symbol: Rs
     tld: .lk
     native: 'śrī laṃkāva'
@@ -616105,6 +616908,7 @@ country_state_city:
     phone_code: '249'
     capital: Khartoum
     currency: SDG
+    currency_name: 'Sudanese pound'
     currency_symbol: .س.ج
     tld: .sd
     native: السودان
@@ -616643,6 +617447,7 @@ country_state_city:
     phone_code: '597'
     capital: Paramaribo
     currency: SRD
+    currency_name: 'Surinamese dollar'
     currency_symbol: $
     tld: .sr
     native: Suriname
@@ -616827,6 +617632,7 @@ country_state_city:
     phone_code: '47'
     capital: Longyearbyen
     currency: NOK
+    currency_name: 'Norwegian Krone'
     currency_symbol: kr
     tld: .sj
     native: 'Svalbard og Jan Mayen'
@@ -616866,6 +617672,7 @@ country_state_city:
     phone_code: '268'
     capital: Mbabane
     currency: SZL
+    currency_name: Lilangeni
     currency_symbol: E
     tld: .sz
     native: Swaziland
@@ -617107,6 +617914,7 @@ country_state_city:
     phone_code: '46'
     capital: Stockholm
     currency: SEK
+    currency_name: 'Swedish krona'
     currency_symbol: kr
     tld: .se
     native: Sverige
@@ -622666,6 +623474,7 @@ country_state_city:
     phone_code: '41'
     capital: Bern
     currency: CHF
+    currency_name: 'Swiss franc'
     currency_symbol: CHf
     tld: .ch
     native: Schweiz
@@ -630443,6 +631252,7 @@ country_state_city:
     phone_code: '963'
     capital: Damascus
     currency: SYP
+    currency_name: 'Syrian pound'
     currency_symbol: LS
     tld: .sy
     native: سوريا
@@ -631304,6 +632114,7 @@ country_state_city:
     phone_code: '886'
     capital: Taipei
     currency: TWD
+    currency_name: 'New Taiwan dollar'
     currency_symbol: $
     tld: .tw
     native: 臺灣
@@ -631719,6 +632530,7 @@ country_state_city:
     phone_code: '992'
     capital: Dushanbe
     currency: TJS
+    currency_name: 'Tajikistani somoni'
     currency_symbol: SM
     tld: .tj
     native: Тоҷикистон
@@ -632140,6 +632952,7 @@ country_state_city:
     phone_code: '255'
     capital: Dodoma
     currency: TZS
+    currency_name: 'Tanzanian shilling'
     currency_symbol: TSh
     tld: .tz
     native: Tanzania
@@ -633922,6 +634735,7 @@ country_state_city:
     phone_code: '66'
     capital: Bangkok
     currency: THB
+    currency_name: 'Thai baht'
     currency_symbol: ฿
     tld: .th
     native: ประเทศไทย
@@ -640785,6 +641599,7 @@ country_state_city:
     phone_code: '228'
     capital: Lome
     currency: XOF
+    currency_name: 'West African CFA franc'
     currency_symbol: CFA
     tld: .tg
     native: Togo
@@ -640974,6 +641789,7 @@ country_state_city:
     phone_code: '690'
     capital: ''
     currency: NZD
+    currency_name: 'New Zealand dollar'
     currency_symbol: $
     tld: .tk
     native: Tokelau
@@ -641013,6 +641829,7 @@ country_state_city:
     phone_code: '676'
     capital: 'Nuku''alofa'
     currency: TOP
+    currency_name: 'Tongan paʻanga'
     currency_symbol: $
     tld: .to
     native: Tonga
@@ -641132,6 +641949,7 @@ country_state_city:
     phone_code: +1-868
     capital: 'Port of Spain'
     currency: TTD
+    currency_name: 'Trinidad and Tobago dollar'
     currency_symbol: $
     tld: .tt
     native: 'Trinidad and Tobago'
@@ -641424,6 +642242,7 @@ country_state_city:
     phone_code: '216'
     capital: Tunis
     currency: TND
+    currency_name: 'Tunisian dinar'
     currency_symbol: ت.د
     tld: .tn
     native: تونس
@@ -642317,6 +643136,7 @@ country_state_city:
     phone_code: '90'
     capital: Ankara
     currency: TRY
+    currency_name: 'Turkish lira'
     currency_symbol: ₺
     tld: .tr
     native: Türkiye
@@ -649739,6 +650559,7 @@ country_state_city:
     phone_code: '993'
     capital: Ashgabat
     currency: TMT
+    currency_name: 'Turkmenistan manat'
     currency_symbol: T
     tld: .tm
     native: Türkmenistan
@@ -649976,6 +650797,7 @@ country_state_city:
     phone_code: +1-649
     capital: 'Cockburn Town'
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .tc
     native: 'Turks and Caicos Islands'
@@ -650015,6 +650837,7 @@ country_state_city:
     phone_code: '688'
     capital: Funafuti
     currency: AUD
+    currency_name: 'Australian dollar'
     currency_symbol: $
     tld: .tv
     native: Tuvalu
@@ -650163,6 +650986,7 @@ country_state_city:
     phone_code: '256'
     capital: Kampala
     currency: UGX
+    currency_name: 'Ugandan shilling'
     currency_symbol: USh
     tld: .ug
     native: Uganda
@@ -651657,6 +652481,7 @@ country_state_city:
     phone_code: '380'
     capital: Kiev
     currency: UAH
+    currency_name: 'Ukrainian hryvnia'
     currency_symbol: ₴
     tld: .ua
     native: Україна
@@ -659759,6 +660584,7 @@ country_state_city:
     phone_code: '971'
     capital: 'Abu Dhabi'
     currency: AED
+    currency_name: 'United Arab Emirates dirham'
     currency_symbol: إ.د
     tld: .ae
     native: 'دولة الإمارات العربية المتحدة'
@@ -660049,6 +660875,7 @@ country_state_city:
     phone_code: '44'
     capital: London
     currency: GBP
+    currency_name: 'British pound'
     currency_symbol: £
     tld: .uk
     native: 'United Kingdom'
@@ -681419,6 +682246,7 @@ country_state_city:
     phone_code: '1'
     capital: Washington
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .us
     native: 'United States'
@@ -781244,6 +782072,7 @@ country_state_city:
     phone_code: '1'
     capital: ''
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .us
     native: 'United States Minor Outlying Islands'
@@ -781289,6 +782118,7 @@ country_state_city:
     phone_code: '598'
     capital: Montevideo
     currency: UYU
+    currency_name: 'Uruguayan peso'
     currency_symbol: $
     tld: .uy
     native: Uruguay
@@ -782095,6 +782925,7 @@ country_state_city:
     phone_code: '998'
     capital: Tashkent
     currency: UZS
+    currency_name: 'Uzbekistani soʻm'
     currency_symbol: лв
     tld: .uz
     native: O‘zbekiston
@@ -782927,6 +783758,7 @@ country_state_city:
     phone_code: '678'
     capital: 'Port Vila'
     currency: VUV
+    currency_name: 'Vanuatu vatu'
     currency_symbol: VT
     tld: .vu
     native: Vanuatu
@@ -783049,6 +783881,7 @@ country_state_city:
     phone_code: '379'
     capital: 'Vatican City'
     currency: EUR
+    currency_name: Euro
     currency_symbol: €
     tld: .va
     native: Vaticano
@@ -783088,6 +783921,7 @@ country_state_city:
     phone_code: '58'
     capital: Caracas
     currency: VEF
+    currency_name: Bolívar
     currency_symbol: Bs
     tld: .ve
     native: Venezuela
@@ -783997,6 +784831,7 @@ country_state_city:
     phone_code: '84'
     capital: Hanoi
     currency: VND
+    currency_name: 'Vietnamese đồng'
     currency_symbol: ₫
     tld: .vn
     native: 'Việt Nam'
@@ -786875,6 +787710,7 @@ country_state_city:
     phone_code: +1-284
     capital: 'Road Town'
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .vg
     native: 'British Virgin Islands'
@@ -786914,6 +787750,7 @@ country_state_city:
     phone_code: +1-340
     capital: 'Charlotte Amalie'
     currency: USD
+    currency_name: 'United States dollar'
     currency_symbol: $
     tld: .vi
     native: 'United States Virgin Islands'
@@ -786952,6 +787789,7 @@ country_state_city:
     phone_code: '681'
     capital: 'Mata Utu'
     currency: XPF
+    currency_name: 'CFP franc'
     currency_symbol: ₣
     tld: .wf
     native: 'Wallis et Futuna'
@@ -786991,6 +787829,7 @@ country_state_city:
     phone_code: '212'
     capital: El-Aaiun
     currency: MAD
+    currency_name: 'Moroccan Dirham'
     currency_symbol: MAD
     tld: .eh
     native: 'الصحراء الغربية'
@@ -787030,6 +787869,7 @@ country_state_city:
     phone_code: '967'
     capital: Sanaa
     currency: YER
+    currency_name: 'Yemeni rial'
     currency_symbol: ﷼
     tld: .ye
     native: اليَمَن
@@ -788947,6 +789787,7 @@ country_state_city:
     phone_code: '260'
     capital: Lusaka
     currency: ZMW
+    currency_name: 'Zambian kwacha'
     currency_symbol: ZK
     tld: .zm
     native: Zambia
@@ -789421,6 +790262,7 @@ country_state_city:
     phone_code: '263'
     capital: Harare
     currency: ZWL
+    currency_name: 'Zimbabwe Dollar'
     currency_symbol: $
     tld: .zw
     native: Zimbabwe

@@ -163655,38 +163655,101 @@
         ]
     },
     {
-        "id": 4800,
-        "name": "Alo",
-        "state_code": "WF-AL",
-        "latitude": "40.71583620",
-        "longitude": "-73.95963170",
+        "id": 4967,
+        "name": "Ain",
+        "state_code": "01",
+        "latitude": "46.06508600",
+        "longitude": "4.88861500",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4968,
+        "name": "Aisne",
+        "state_code": "02",
+        "latitude": "49.45289210",
+        "longitude": "3.04651110",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4969,
+        "name": "Allier",
+        "state_code": "03",
+        "latitude": "46.36708630",
+        "longitude": "2.58082770",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4970,
+        "name": "Alpes-de-Haute-Provence",
+        "state_code": "04",
+        "latitude": "44.16377520",
+        "longitude": "5.67247800",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4972,
+        "name": "Alpes-Maritimes",
+        "state_code": "06",
+        "latitude": "43.92041700",
+        "longitude": "6.61678220",
         "country_id": 75,
         "cities": []
     },
     {
         "id": 4811,
         "name": "Alsace",
-        "state_code": "A",
+        "state_code": "6AE",
         "latitude": "48.31817950",
         "longitude": "7.44162410",
         "country_id": 75,
         "cities": []
     },
     {
-        "id": 4808,
-        "name": "Aquitaine",
-        "state_code": "B",
-        "latitude": "44.70022220",
-        "longitude": "-0.29957850",
+        "id": 4973,
+        "name": "Ardèche",
+        "state_code": "07",
+        "latitude": "44.81486950",
+        "longitude": "3.81334830",
         "country_id": 75,
         "cities": []
     },
     {
-        "id": 4789,
-        "name": "Auvergne",
-        "state_code": "C",
-        "latitude": "45.70326950",
-        "longitude": "3.34485360",
+        "id": 4974,
+        "name": "Ardennes",
+        "state_code": "08",
+        "latitude": "49.69759510",
+        "longitude": "4.14895760",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4975,
+        "name": "Ariège",
+        "state_code": "09",
+        "latitude": "42.94347830",
+        "longitude": "0.94048640",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4976,
+        "name": "Aube",
+        "state_code": "10",
+        "latitude": "48.31975470",
+        "longitude": "3.56371040",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4977,
+        "name": "Aude",
+        "state_code": "11",
+        "latitude": "43.05411400",
+        "longitude": "1.90384760",
         "country_id": 75,
         "cities": []
     },
@@ -171087,6 +171150,33 @@
         ]
     },
     {
+        "id": 4978,
+        "name": "Aveyron",
+        "state_code": "12",
+        "latitude": "44.31563620",
+        "longitude": "2.08523790",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5035,
+        "name": "Bas-Rhin\t",
+        "state_code": "67",
+        "latitude": "48.59864440",
+        "longitude": "7.02666760",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4979,
+        "name": "Bouches-du-Rhône",
+        "state_code": "13",
+        "latitude": "43.54038650",
+        "longitude": "4.46138290",
+        "country_id": 75,
+        "cities": []
+    },
+    {
         "id": 4825,
         "name": "Bourgogne-Franche-Comté",
         "state_code": "BFC",
@@ -173804,7 +173894,7 @@
     },
     {
         "id": 4807,
-        "name": "Brittany",
+        "name": "Bretagne",
         "state_code": "BRE",
         "latitude": "48.20204710",
         "longitude": "-2.93264350",
@@ -177809,11 +177899,20 @@
         ]
     },
     {
-        "id": 4788,
-        "name": "Burgundy",
-        "state_code": "D",
-        "latitude": "47.05250470",
-        "longitude": "4.38372150",
+        "id": 4981,
+        "name": "Calvados",
+        "state_code": "14",
+        "latitude": "49.09035140",
+        "longitude": "-0.91706480",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4982,
+        "name": "Cantal",
+        "state_code": "15",
+        "latitude": "45.04921770",
+        "longitude": "2.15672720",
         "country_id": 75,
         "cities": []
     },
@@ -180684,18 +180783,54 @@
         ]
     },
     {
-        "id": 4791,
-        "name": "Champagne-Ardenne",
-        "state_code": "G",
-        "latitude": "48.79340920",
-        "longitude": "4.47252490",
+        "id": 4983,
+        "name": "Charente",
+        "state_code": "16",
+        "latitude": "45.66584790",
+        "longitude": "-0.31845770",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4984,
+        "name": "Charente-Maritime",
+        "state_code": "17",
+        "latitude": "45.72968280",
+        "longitude": "-1.33881160",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4985,
+        "name": "Cher",
+        "state_code": "18",
+        "latitude": "47.02436280",
+        "longitude": "1.86627320",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5064,
+        "name": "Clipperton",
+        "state_code": "CP",
+        "latitude": "10.28335410",
+        "longitude": "-109.22542150",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4986,
+        "name": "Corrèze",
+        "state_code": "19",
+        "latitude": "45.34237070",
+        "longitude": "1.31717330",
         "country_id": 75,
         "cities": []
     },
     {
         "id": 4806,
-        "name": "Corsica",
-        "state_code": "COR",
+        "name": "Corse",
+        "state_code": "20R",
         "latitude": "42.03960420",
         "longitude": "9.01289260",
         "country_id": 75,
@@ -181009,18 +181144,117 @@
         ]
     },
     {
-        "id": 4805,
-        "name": "Franche-Comté",
-        "state_code": "I",
-        "latitude": "47.13432070",
-        "longitude": "6.02230160",
+        "id": 4996,
+        "name": "Corse-du-Sud",
+        "state_code": "2A",
+        "latitude": "41.85720550",
+        "longitude": "8.41091830",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4987,
+        "name": "Côte-d'Or",
+        "state_code": "21",
+        "latitude": "47.46513020",
+        "longitude": "4.23154950",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4988,
+        "name": "Côtes-d'Armor",
+        "state_code": "22",
+        "latitude": "48.46633360",
+        "longitude": "-3.34789610",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4989,
+        "name": "Creuse",
+        "state_code": "23",
+        "latitude": "46.05903940",
+        "longitude": "1.43150500",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5047,
+        "name": "Deux-Sèvres",
+        "state_code": "79",
+        "latitude": "46.53868170",
+        "longitude": "-0.90199480",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4990,
+        "name": "Dordogne",
+        "state_code": "24",
+        "latitude": "45.14234160",
+        "longitude": "0.14274080",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4991,
+        "name": "Doubs",
+        "state_code": "25",
+        "latitude": "46.93217740",
+        "longitude": "6.34762140",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4992,
+        "name": "Drôme",
+        "state_code": "26",
+        "latitude": "44.72933570",
+        "longitude": "4.67821580",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5059,
+        "name": "Essonne",
+        "state_code": "91",
+        "latitude": "48.53046150",
+        "longitude": "1.96990560",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4993,
+        "name": "Eure",
+        "state_code": "27",
+        "latitude": "49.07540350",
+        "longitude": "0.48937320",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4994,
+        "name": "Eure-et-Loir",
+        "state_code": "28",
+        "latitude": "48.44697840",
+        "longitude": "0.81470250",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4995,
+        "name": "Finistère",
+        "state_code": "29",
+        "latitude": "48.22696100",
+        "longitude": "-4.82437330",
         "country_id": 75,
         "cities": []
     },
     {
         "id": 4822,
         "name": "French Guiana",
-        "state_code": "GF",
+        "state_code": "973",
         "latitude": "3.93388900",
         "longitude": "-53.12578200",
         "country_id": 75,
@@ -181036,8 +181270,44 @@
         "cities": []
     },
     {
+        "id": 5065,
+        "name": "French Southern and Antarctic Lands",
+        "state_code": "TF",
+        "latitude": "-47.54466040",
+        "longitude": "51.28375420",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4998,
+        "name": "Gard",
+        "state_code": "30",
+        "latitude": "43.95952760",
+        "longitude": "3.49356810",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5000,
+        "name": "Gers",
+        "state_code": "32",
+        "latitude": "43.69505340",
+        "longitude": "-0.09997280",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5001,
+        "name": "Gironde",
+        "state_code": "33",
+        "latitude": "44.89584690",
+        "longitude": "-1.59405320",
+        "country_id": 75,
+        "cities": []
+    },
+    {
         "id": 4820,
-        "name": "Grand Est",
+        "name": "Grand-Est",
         "state_code": "GES",
         "latitude": "48.69980300",
         "longitude": "6.18780740",
@@ -186370,9 +186640,99 @@
     {
         "id": 4829,
         "name": "Guadeloupe",
-        "state_code": "GP",
+        "state_code": "971",
         "latitude": "16.26500000",
         "longitude": "-61.55100000",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5036,
+        "name": "Haut-Rhin",
+        "state_code": "68",
+        "latitude": "47.86537740",
+        "longitude": "6.67113810",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4997,
+        "name": "Haute-Corse",
+        "state_code": "2B",
+        "latitude": "42.42958660",
+        "longitude": "8.50625610",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4999,
+        "name": "Haute-Garonne",
+        "state_code": "31",
+        "latitude": "43.30505550",
+        "longitude": "0.68455150",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5011,
+        "name": "Haute-Loire",
+        "state_code": "43",
+        "latitude": "45.08538060",
+        "longitude": "3.22607070",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5020,
+        "name": "Haute-Marne",
+        "state_code": "52",
+        "latitude": "48.13248210",
+        "longitude": "4.69834990",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5039,
+        "name": "Haute-Saône",
+        "state_code": "70",
+        "latitude": "47.63789960",
+        "longitude": "5.53550550",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5043,
+        "name": "Haute-Savoie",
+        "state_code": "74",
+        "latitude": "46.04452770",
+        "longitude": "5.86413800",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5055,
+        "name": "Haute-Vienne\t",
+        "state_code": "87",
+        "latitude": "45.91868780",
+        "longitude": "0.70972060",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4971,
+        "name": "Hautes-Alpes\t",
+        "state_code": "05",
+        "latitude": "44.65626820",
+        "longitude": "5.68732110",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5033,
+        "name": "Hautes-Pyrénées",
+        "state_code": "65",
+        "latitude": "43.14294620",
+        "longitude": "-0.40097360",
         "country_id": 75,
         "cities": []
     },
@@ -191913,6 +192273,24 @@
         ]
     },
     {
+        "id": 5060,
+        "name": "Hauts-de-Seine",
+        "state_code": "92",
+        "latitude": "48.84030080",
+        "longitude": "2.10125590",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5002,
+        "name": "Hérault",
+        "state_code": "34",
+        "latitude": "43.59111200",
+        "longitude": "2.80661080",
+        "country_id": 75,
+        "cities": []
+    },
+    {
         "id": 4796,
         "name": "Île-de-France",
         "state_code": "IDF",
@@ -196087,71 +196465,251 @@
         ]
     },
     {
-        "id": 4803,
-        "name": "Languedoc-Roussillon",
-        "state_code": "K",
-        "latitude": "43.59123560",
-        "longitude": "3.25836260",
+        "id": 5003,
+        "name": "Ille-et-Vilaine",
+        "state_code": "35",
+        "latitude": "48.17624840",
+        "longitude": "-2.21304010",
         "country_id": 75,
         "cities": []
     },
     {
-        "id": 4792,
-        "name": "Limousin",
-        "state_code": "L",
-        "latitude": "45.89322310",
-        "longitude": "1.56960180",
+        "id": 5004,
+        "name": "Indre",
+        "state_code": "36",
+        "latitude": "46.81175500",
+        "longitude": "0.97555230",
         "country_id": 75,
         "cities": []
     },
     {
-        "id": 4801,
-        "name": "Lorraine",
-        "state_code": "M",
-        "latitude": "48.87442330",
-        "longitude": "6.20809320",
+        "id": 5005,
+        "name": "Indre-et-Loire",
+        "state_code": "37",
+        "latitude": "47.22285820",
+        "longitude": "0.14896190",
         "country_id": 75,
         "cities": []
     },
     {
-        "id": 4814,
-        "name": "Lower Normandy",
-        "state_code": "P",
-        "latitude": "48.87884720",
-        "longitude": "-0.51574920",
+        "id": 5006,
+        "name": "Isère",
+        "state_code": "38",
+        "latitude": "45.28922710",
+        "longitude": "4.99023550",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5007,
+        "name": "Jura",
+        "state_code": "39",
+        "latitude": "46.78287410",
+        "longitude": "5.16918440",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 4823,
+        "name": "La Réunion",
+        "state_code": "974",
+        "latitude": "-21.11514100",
+        "longitude": "55.53638400",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5008,
+        "name": "Landes",
+        "state_code": "40",
+        "latitude": "44.00950800",
+        "longitude": "-1.25385790",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5009,
+        "name": "Loir-et-Cher",
+        "state_code": "41",
+        "latitude": "47.65937600",
+        "longitude": "0.85376310",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5010,
+        "name": "Loire",
+        "state_code": "42",
+        "latitude": "46.35228120",
+        "longitude": "-1.17563390",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5012,
+        "name": "Loire-Atlantique",
+        "state_code": "44",
+        "latitude": "47.34757210",
+        "longitude": "-2.34663120",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5013,
+        "name": "Loiret",
+        "state_code": "45",
+        "latitude": "47.91354310",
+        "longitude": "1.76009900",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5014,
+        "name": "Lot",
+        "state_code": "46",
+        "latitude": "44.62460700",
+        "longitude": "1.03576310",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5015,
+        "name": "Lot-et-Garonne",
+        "state_code": "47",
+        "latitude": "44.36873140",
+        "longitude": "-0.09161690",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5016,
+        "name": "Lozère",
+        "state_code": "48",
+        "latitude": "44.54227790",
+        "longitude": "2.92934590",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5017,
+        "name": "Maine-et-Loire",
+        "state_code": "49",
+        "latitude": "47.38900340",
+        "longitude": "-1.12025270",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5018,
+        "name": "Manche",
+        "state_code": "50",
+        "latitude": "49.08817340",
+        "longitude": "-2.46272090",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5019,
+        "name": "Marne",
+        "state_code": "51",
+        "latitude": "48.96107450",
+        "longitude": "3.65737670",
         "country_id": 75,
         "cities": []
     },
     {
         "id": 4827,
         "name": "Martinique",
-        "state_code": "MQ",
+        "state_code": "972",
         "latitude": "14.64152800",
         "longitude": "-61.02417400",
         "country_id": 75,
         "cities": []
     },
     {
+        "id": 5021,
+        "name": "Mayenne",
+        "state_code": "53",
+        "latitude": "48.30668420",
+        "longitude": "-0.64901820",
+        "country_id": 75,
+        "cities": []
+    },
+    {
         "id": 4797,
         "name": "Mayotte",
-        "state_code": "YT",
+        "state_code": "976",
         "latitude": "-12.82750000",
         "longitude": "45.16624400",
         "country_id": 75,
         "cities": []
     },
     {
-        "id": 4793,
-        "name": "Nord-Pas-de-Calais",
-        "state_code": "O",
-        "latitude": "50.48011530",
-        "longitude": "2.79372650",
+        "id": 5038,
+        "name": "Métropole de Lyon",
+        "state_code": "69M",
+        "latitude": "45.74826290",
+        "longitude": "4.59584040",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5022,
+        "name": "Meurthe-et-Moselle",
+        "state_code": "54",
+        "latitude": "48.95566150",
+        "longitude": "5.71423500",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5023,
+        "name": "Meuse",
+        "state_code": "55",
+        "latitude": "49.01246200",
+        "longitude": "4.81087340",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5024,
+        "name": "Morbihan",
+        "state_code": "56",
+        "latitude": "47.74395180",
+        "longitude": "-3.44555240",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5025,
+        "name": "Moselle",
+        "state_code": "57",
+        "latitude": "49.02045660",
+        "longitude": "6.20553220",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5026,
+        "name": "Nièvre",
+        "state_code": "58",
+        "latitude": "47.11921640",
+        "longitude": "2.97797130",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5027,
+        "name": "Nord",
+        "state_code": "59",
+        "latitude": "50.52854770",
+        "longitude": "2.60007760",
         "country_id": 75,
         "cities": []
     },
     {
         "id": 4804,
-        "name": "Normandy",
+        "name": "Normandie",
         "state_code": "NOR",
         "latitude": "48.87987040",
         "longitude": "0.17125290",
@@ -205135,7 +205693,7 @@
     },
     {
         "id": 4799,
-        "name": "Occitania",
+        "name": "Occitanie",
         "state_code": "OCC",
         "latitude": "43.89272320",
         "longitude": "3.28276250",
@@ -210112,17 +210670,44 @@
         ]
     },
     {
+        "id": 5028,
+        "name": "Oise",
+        "state_code": "60",
+        "latitude": "49.41173350",
+        "longitude": "1.86688250",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5029,
+        "name": "Orne",
+        "state_code": "61",
+        "latitude": "48.57576440",
+        "longitude": "-0.50242950",
+        "country_id": 75,
+        "cities": []
+    },
+    {
         "id": 4816,
         "name": "Paris",
-        "state_code": "75",
+        "state_code": "75C",
         "latitude": "48.85661400",
         "longitude": "2.35222190",
         "country_id": 75,
         "cities": []
     },
     {
+        "id": 5030,
+        "name": "Pas-de-Calais",
+        "state_code": "62",
+        "latitude": "50.51446990",
+        "longitude": "1.81149800",
+        "country_id": 75,
+        "cities": []
+    },
+    {
         "id": 4802,
-        "name": "Pays de la Loire",
+        "name": "Pays-de-la-Loire",
         "state_code": "PDL",
         "latitude": "47.76328360",
         "longitude": "-0.32996870",
@@ -214091,26 +214676,8 @@
         ]
     },
     {
-        "id": 4790,
-        "name": "Picardy",
-        "state_code": "S",
-        "latitude": "49.66361270",
-        "longitude": "2.52807320",
-        "country_id": 75,
-        "cities": []
-    },
-    {
-        "id": 4815,
-        "name": "Poitou-Charentes",
-        "state_code": "T",
-        "latitude": "45.90355200",
-        "longitude": "-0.30918370",
-        "country_id": 75,
-        "cities": []
-    },
-    {
         "id": 4812,
-        "name": "Provence-Alpes-Côte d'Azur",
+        "name": "Provence-Alpes-Côte-d’Azur",
         "state_code": "PAC",
         "latitude": "43.93516910",
         "longitude": "6.06791940",
@@ -217329,38 +217896,38 @@
         ]
     },
     {
-        "id": 4823,
-        "name": "Réunion",
-        "state_code": "RE",
-        "latitude": "-21.11514100",
-        "longitude": "55.53638400",
+        "id": 5031,
+        "name": "Puy-de-Dôme",
+        "state_code": "63",
+        "latitude": "45.77141850",
+        "longitude": "2.62626760",
         "country_id": 75,
         "cities": []
     },
     {
-        "id": 4813,
-        "name": "Rhône-Alpes",
-        "state_code": "V",
-        "latitude": "45.64029050",
-        "longitude": "5.68649940",
+        "id": 5032,
+        "name": "Pyrénées-Atlantiques",
+        "state_code": "64",
+        "latitude": "43.18681700",
+        "longitude": "-1.44170710",
         "country_id": 75,
         "cities": []
     },
     {
-        "id": 4794,
-        "name": "Saint Barthélemy",
-        "state_code": "BL",
-        "latitude": "17.90051340",
-        "longitude": "-62.82058710",
+        "id": 5034,
+        "name": "Pyrénées-Orientales",
+        "state_code": "66",
+        "latitude": "42.62541790",
+        "longitude": "1.88929580",
         "country_id": 75,
         "cities": []
     },
     {
-        "id": 4809,
-        "name": "Saint Martin",
-        "state_code": "MF",
-        "latitude": "18.07082980",
-        "longitude": "-63.05008090",
+        "id": 5037,
+        "name": "Rhône",
+        "state_code": "69",
+        "latitude": "44.93433000",
+        "longitude": "4.24093290",
         "country_id": 75,
         "cities": []
     },
@@ -217374,29 +217941,173 @@
         "cities": []
     },
     {
-        "id": 4819,
-        "name": "Sigave",
-        "state_code": "WF-SG",
-        "latitude": "-14.27325920",
-        "longitude": "-178.16329000",
+        "id": 4794,
+        "name": "Saint-Barthélemy",
+        "state_code": "BL",
+        "latitude": "17.90051340",
+        "longitude": "-62.82058710",
         "country_id": 75,
         "cities": []
     },
     {
-        "id": 4826,
-        "name": "Upper Normandy",
-        "state_code": "Q",
-        "latitude": "49.52464100",
-        "longitude": "0.88283290",
+        "id": 4809,
+        "name": "Saint-Martin",
+        "state_code": "MF",
+        "latitude": "18.07082980",
+        "longitude": "-63.05008090",
         "country_id": 75,
         "cities": []
     },
     {
-        "id": 4817,
-        "name": "Uvea",
-        "state_code": "WF-UV",
-        "latitude": "41.98329800",
-        "longitude": "-87.66836200",
+        "id": 5040,
+        "name": "Saône-et-Loire",
+        "state_code": "71",
+        "latitude": "46.65548830",
+        "longitude": "3.98350500",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5041,
+        "name": "Sarthe",
+        "state_code": "72",
+        "latitude": "48.02627330",
+        "longitude": "-0.32613170",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5042,
+        "name": "Savoie",
+        "state_code": "73",
+        "latitude": "45.49469900",
+        "longitude": "5.84329840",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5045,
+        "name": "Seine-et-Marne",
+        "state_code": "77",
+        "latitude": "48.61853940",
+        "longitude": "2.41525610",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5044,
+        "name": "Seine-Maritime",
+        "state_code": "76",
+        "latitude": "49.66096810",
+        "longitude": "0.36775610",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5061,
+        "name": "Seine-Saint-Denis",
+        "state_code": "93",
+        "latitude": "48.90993180",
+        "longitude": "2.30573790",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5048,
+        "name": "Somme",
+        "state_code": "80",
+        "latitude": "49.96859220",
+        "longitude": "1.73106960",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5049,
+        "name": "Tarn",
+        "state_code": "81",
+        "latitude": "43.79149770",
+        "longitude": "1.67588930",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5050,
+        "name": "Tarn-et-Garonne",
+        "state_code": "82",
+        "latitude": "44.08089500",
+        "longitude": "1.08916570",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5058,
+        "name": "Territoire de Belfort",
+        "state_code": "90",
+        "latitude": "47.62930720",
+        "longitude": "6.66962000",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5063,
+        "name": "Val-d'Oise",
+        "state_code": "95",
+        "latitude": "49.07518180",
+        "longitude": "1.82169140",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5062,
+        "name": "Val-de-Marne\t",
+        "state_code": "94",
+        "latitude": "48.77470040",
+        "longitude": "2.32210390",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5051,
+        "name": "Var",
+        "state_code": "83",
+        "latitude": "43.39507300",
+        "longitude": "5.73424170",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5052,
+        "name": "Vaucluse",
+        "state_code": "84",
+        "latitude": "44.04475000",
+        "longitude": "4.64277180",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5053,
+        "name": "Vendée",
+        "state_code": "85",
+        "latitude": "46.67541030",
+        "longitude": "-2.02983920",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5054,
+        "name": "Vienne",
+        "state_code": "86",
+        "latitude": "45.52213140",
+        "longitude": "4.84531360",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5056,
+        "name": "Vosges",
+        "state_code": "88",
+        "latitude": "48.16301730",
+        "longitude": "5.73556000",
         "country_id": 75,
         "cities": []
     },
@@ -217406,6 +218117,24 @@
         "state_code": "WF",
         "latitude": "-14.29380000",
         "longitude": "-178.11650000",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5057,
+        "name": "Yonne",
+        "state_code": "89",
+        "latitude": "47.85476140",
+        "longitude": "3.03394040",
+        "country_id": 75,
+        "cities": []
+    },
+    {
+        "id": 5046,
+        "name": "Yvelines",
+        "state_code": "78",
+        "latitude": "48.76153010",
+        "longitude": "1.27729490",
         "country_id": 75,
         "cities": []
     },
@@ -291579,6 +292308,12 @@
                 "longitude": "76.55000000"
             },
             {
+                "id": 57924,
+                "name": "Ballary",
+                "latitude": "15.14205000",
+                "longitude": "76.92398000"
+            },
+            {
                 "id": 58136,
                 "name": "Banavar",
                 "latitude": "13.41029000",
@@ -291628,15 +292363,9 @@
             },
             {
                 "id": 57922,
-                "name": "Belgaum",
+                "name": "Belagavi",
                 "latitude": "16.33333000",
                 "longitude": "74.75000000"
-            },
-            {
-                "id": 57924,
-                "name": "Bellary",
-                "latitude": "15.14205000",
-                "longitude": "76.92398000"
             },
             {
                 "id": 57925,
@@ -291685,12 +292414,6 @@
                 "name": "Bidar",
                 "latitude": "18.08333000",
                 "longitude": "77.33333000"
-            },
-            {
-                "id": 58031,
-                "name": "Bijapur",
-                "latitude": "16.82442000",
-                "longitude": "75.71537000"
             },
             {
                 "id": 58042,
@@ -291766,7 +292489,7 @@
             },
             {
                 "id": 131552,
-                "name": "Chikmagalur",
+                "name": "Chikkamagaluru",
                 "latitude": "13.49000000",
                 "longitude": "75.73000000"
             },
@@ -291927,12 +292650,6 @@
                 "longitude": "77.70414000"
             },
             {
-                "id": 132016,
-                "name": "Gulbarga",
-                "latitude": "17.16667000",
-                "longitude": "77.08333000"
-            },
-            {
                 "id": 132017,
                 "name": "Guledagudda",
                 "latitude": "16.05025000",
@@ -292078,7 +292795,7 @@
             },
             {
                 "id": 132127,
-                "name": "Hubli",
+                "name": "Hubballi",
                 "latitude": "15.34776000",
                 "longitude": "75.13378000"
             },
@@ -292135,6 +292852,12 @@
                 "name": "Kadur",
                 "latitude": "13.55285000",
                 "longitude": "76.01164000"
+            },
+            {
+                "id": 132016,
+                "name": "Kalaburgi",
+                "latitude": "17.16667000",
+                "longitude": "77.08333000"
             },
             {
                 "id": 132351,
@@ -292384,7 +293107,7 @@
             },
             {
                 "id": 132905,
-                "name": "Mangalore",
+                "name": "Mangaluru",
                 "latitude": "12.91723000",
                 "longitude": "74.85603000"
             },
@@ -292486,7 +293209,7 @@
             },
             {
                 "id": 133053,
-                "name": "Mysore",
+                "name": "Mysuru",
                 "latitude": "12.23000000",
                 "longitude": "76.42000000"
             },
@@ -292852,7 +293575,7 @@
             },
             {
                 "id": 134219,
-                "name": "Tumkur",
+                "name": "Tumakuru",
                 "latitude": "13.50000000",
                 "longitude": "77.00000000"
             },
@@ -292885,6 +293608,12 @@
                 "name": "Vadigenhalli",
                 "latitude": "13.29724000",
                 "longitude": "77.80184000"
+            },
+            {
+                "id": 58031,
+                "name": "Vijayapura",
+                "latitude": "16.82442000",
+                "longitude": "75.71537000"
             },
             {
                 "id": 134386,
@@ -405714,7 +406443,7 @@
     },
     {
         "id": 181,
-        "name": "Baringo County",
+        "name": "Baringo",
         "state_code": "01",
         "latitude": "0.85549880",
         "longitude": "36.08934060",
@@ -405742,7 +406471,7 @@
     },
     {
         "id": 210,
-        "name": "Bomet County",
+        "name": "Bomet",
         "state_code": "02",
         "latitude": "-0.80150090",
         "longitude": "35.30272260",
@@ -405764,7 +406493,7 @@
     },
     {
         "id": 168,
-        "name": "Bungoma County",
+        "name": "Bungoma",
         "state_code": "03",
         "latitude": "0.56952520",
         "longitude": "34.55837660",
@@ -405792,7 +406521,7 @@
     },
     {
         "id": 161,
-        "name": "Busia County",
+        "name": "Busia",
         "state_code": "04",
         "latitude": "0.43465060",
         "longitude": "34.24215970",
@@ -405837,35 +406566,8 @@
         ]
     },
     {
-        "id": 160,
-        "name": "Central Province",
-        "state_code": "200",
-        "latitude": null,
-        "longitude": null,
-        "country_id": 113,
-        "cities": []
-    },
-    {
-        "id": 172,
-        "name": "Coast Province",
-        "state_code": "300",
-        "latitude": "39.13733050",
-        "longitude": "-76.72941440",
-        "country_id": 113,
-        "cities": []
-    },
-    {
-        "id": 189,
-        "name": "Eastern Province",
-        "state_code": "400",
-        "latitude": null,
-        "longitude": null,
-        "country_id": 113,
-        "cities": []
-    },
-    {
         "id": 201,
-        "name": "Elgeyo-Marakwet County",
+        "name": "Elgeyo-Marakwet",
         "state_code": "05",
         "latitude": "1.04982370",
         "longitude": "35.47819260",
@@ -405874,7 +406576,7 @@
     },
     {
         "id": 163,
-        "name": "Embu County",
+        "name": "Embu",
         "state_code": "06",
         "latitude": "-0.65604770",
         "longitude": "37.72376780",
@@ -405890,7 +406592,7 @@
     },
     {
         "id": 196,
-        "name": "Garissa County",
+        "name": "Garissa",
         "state_code": "07",
         "latitude": "-0.45322930",
         "longitude": "39.64609880",
@@ -405906,7 +406608,7 @@
     },
     {
         "id": 195,
-        "name": "Homa Bay County",
+        "name": "Homa Bay",
         "state_code": "08",
         "latitude": "-0.62206550",
         "longitude": "34.33103640",
@@ -405934,7 +406636,7 @@
     },
     {
         "id": 170,
-        "name": "Isiolo County",
+        "name": "Isiolo",
         "state_code": "09",
         "latitude": "0.35243520",
         "longitude": "38.48499230",
@@ -405950,7 +406652,7 @@
     },
     {
         "id": 197,
-        "name": "Kajiado County",
+        "name": "Kajiado",
         "state_code": "10",
         "latitude": "-2.09807510",
         "longitude": "36.78195050",
@@ -405978,7 +406680,7 @@
     },
     {
         "id": 158,
-        "name": "Kakamega County",
+        "name": "Kakamega",
         "state_code": "11",
         "latitude": "0.30789400",
         "longitude": "34.77407930",
@@ -406006,7 +406708,7 @@
     },
     {
         "id": 193,
-        "name": "Kericho County",
+        "name": "Kericho",
         "state_code": "12",
         "latitude": "-0.18279130",
         "longitude": "35.47819260",
@@ -406040,7 +406742,7 @@
     },
     {
         "id": 199,
-        "name": "Kiambu County",
+        "name": "Kiambu",
         "state_code": "13",
         "latitude": "-1.03137010",
         "longitude": "36.86807910",
@@ -406063,12 +406765,18 @@
                 "name": "Limuru",
                 "latitude": "-1.11360000",
                 "longitude": "36.64205000"
+            },
+            {
+                "id": 64874,
+                "name": "Thika",
+                "latitude": "-1.03326000",
+                "longitude": "37.06933000"
             }
         ]
     },
     {
         "id": 174,
-        "name": "Kilifi County",
+        "name": "Kilifi",
         "state_code": "14",
         "latitude": "-3.51065080",
         "longitude": "39.90932690",
@@ -406114,7 +406822,7 @@
     },
     {
         "id": 167,
-        "name": "Kirinyaga County",
+        "name": "Kirinyaga",
         "state_code": "15",
         "latitude": "-0.65905650",
         "longitude": "37.38272340",
@@ -406136,7 +406844,7 @@
     },
     {
         "id": 159,
-        "name": "Kisii County",
+        "name": "Kisii",
         "state_code": "16",
         "latitude": "-0.67733400",
         "longitude": "34.77960300",
@@ -406158,7 +406866,7 @@
     },
     {
         "id": 171,
-        "name": "Kisumu County",
+        "name": "Kisumu",
         "state_code": "17",
         "latitude": "-0.09170160",
         "longitude": "34.76795680",
@@ -406186,7 +406894,7 @@
     },
     {
         "id": 211,
-        "name": "Kitui County",
+        "name": "Kitui",
         "state_code": "18",
         "latitude": "-1.68328220",
         "longitude": "38.31657250",
@@ -406208,7 +406916,7 @@
     },
     {
         "id": 173,
-        "name": "Kwale County",
+        "name": "Kwale",
         "state_code": "19",
         "latitude": "-4.18161150",
         "longitude": "39.46056120",
@@ -406248,7 +406956,7 @@
     },
     {
         "id": 164,
-        "name": "Laikipia County",
+        "name": "Laikipia",
         "state_code": "20",
         "latitude": "0.36060630",
         "longitude": "36.78195050",
@@ -406276,7 +406984,7 @@
     },
     {
         "id": 166,
-        "name": "Lamu County",
+        "name": "Lamu",
         "state_code": "21",
         "latitude": "-2.23550580",
         "longitude": "40.47200040",
@@ -406298,7 +407006,7 @@
     },
     {
         "id": 184,
-        "name": "Machakos County",
+        "name": "Machakos",
         "state_code": "22",
         "latitude": "-1.51768370",
         "longitude": "37.26341460",
@@ -406332,7 +407040,7 @@
     },
     {
         "id": 188,
-        "name": "Makueni County",
+        "name": "Makueni",
         "state_code": "23",
         "latitude": "-2.25587340",
         "longitude": "37.89366630",
@@ -406360,7 +407068,7 @@
     },
     {
         "id": 187,
-        "name": "Mandera County",
+        "name": "Mandera",
         "state_code": "24",
         "latitude": "3.57379910",
         "longitude": "40.95868800",
@@ -406376,7 +407084,7 @@
     },
     {
         "id": 194,
-        "name": "Marsabit County",
+        "name": "Marsabit",
         "state_code": "25",
         "latitude": "2.44264030",
         "longitude": "37.97845850",
@@ -406398,7 +407106,7 @@
     },
     {
         "id": 198,
-        "name": "Meru County",
+        "name": "Meru",
         "state_code": "26",
         "latitude": "0.35571740",
         "longitude": "37.80876930",
@@ -406420,7 +407128,7 @@
     },
     {
         "id": 190,
-        "name": "Migori County",
+        "name": "Migori",
         "state_code": "27",
         "latitude": "-0.93657020",
         "longitude": "34.41982430",
@@ -406442,7 +407150,7 @@
     },
     {
         "id": 200,
-        "name": "Mombasa County",
+        "name": "Mombasa",
         "state_code": "28",
         "latitude": "-3.97682910",
         "longitude": "39.71371810",
@@ -406458,7 +407166,7 @@
     },
     {
         "id": 178,
-        "name": "Muranga County",
+        "name": "Murang'a",
         "state_code": "29",
         "latitude": "-0.78392810",
         "longitude": "37.04003390",
@@ -406492,8 +407200,8 @@
     },
     {
         "id": 191,
-        "name": "Nairobi",
-        "state_code": "110",
+        "name": "Nairobi City",
+        "state_code": "30",
         "latitude": "-1.29206590",
         "longitude": "36.82194620",
         "country_id": 113,
@@ -406509,18 +407217,12 @@
                 "name": "Pumwani",
                 "latitude": "-1.28333000",
                 "longitude": "36.85000000"
-            },
-            {
-                "id": 64874,
-                "name": "Thika",
-                "latitude": "-1.03326000",
-                "longitude": "37.06933000"
             }
         ]
     },
     {
         "id": 203,
-        "name": "Nakuru County",
+        "name": "Nakuru",
         "state_code": "31",
         "latitude": "-0.30309880",
         "longitude": "36.08002600",
@@ -406560,7 +407262,7 @@
     },
     {
         "id": 165,
-        "name": "Nandi District",
+        "name": "Nandi",
         "state_code": "32",
         "latitude": "0.18358670",
         "longitude": "35.12687810",
@@ -406582,7 +407284,7 @@
     },
     {
         "id": 175,
-        "name": "Narok County",
+        "name": "Narok",
         "state_code": "33",
         "latitude": "-1.10411100",
         "longitude": "36.08934060",
@@ -406597,17 +407299,8 @@
         ]
     },
     {
-        "id": 162,
-        "name": "North Eastern Province",
-        "state_code": "500",
-        "latitude": "7.78530510",
-        "longitude": "81.42789840",
-        "country_id": 113,
-        "cities": []
-    },
-    {
         "id": 209,
-        "name": "Nyamira County",
+        "name": "Nyamira",
         "state_code": "34",
         "latitude": "-0.56694050",
         "longitude": "34.93412340",
@@ -406629,7 +407322,7 @@
     },
     {
         "id": 192,
-        "name": "Nyandarua County",
+        "name": "Nyandarua",
         "state_code": "35",
         "latitude": "-0.18038550",
         "longitude": "36.52296410",
@@ -406644,17 +407337,8 @@
         ]
     },
     {
-        "id": 204,
-        "name": "Nyanza Province",
-        "state_code": "600",
-        "latitude": "-0.08898940",
-        "longitude": "34.77179120",
-        "country_id": 113,
-        "cities": []
-    },
-    {
         "id": 180,
-        "name": "Nyeri County",
+        "name": "Nyeri",
         "state_code": "36",
         "latitude": "-0.41969150",
         "longitude": "37.04003390",
@@ -406681,17 +407365,8 @@
         ]
     },
     {
-        "id": 179,
-        "name": "Rift Valley Province",
-        "state_code": "700",
-        "latitude": "11.40987370",
-        "longitude": "41.28085770",
-        "country_id": 113,
-        "cities": []
-    },
-    {
         "id": 207,
-        "name": "Samburu County",
+        "name": "Samburu",
         "state_code": "37",
         "latitude": "1.21545060",
         "longitude": "36.95410700",
@@ -406707,7 +407382,7 @@
     },
     {
         "id": 186,
-        "name": "Siaya County",
+        "name": "Siaya",
         "state_code": "38",
         "latitude": "-0.06173280",
         "longitude": "34.24215970",
@@ -406735,7 +407410,7 @@
     },
     {
         "id": 176,
-        "name": "Taita–Taveta County",
+        "name": "Taita–Taveta",
         "state_code": "39",
         "latitude": "-3.31606870",
         "longitude": "38.48499230",
@@ -406744,7 +407419,7 @@
     },
     {
         "id": 205,
-        "name": "Tana River County",
+        "name": "Tana River",
         "state_code": "40",
         "latitude": "-1.65184680",
         "longitude": "39.65181650",
@@ -406766,7 +407441,7 @@
     },
     {
         "id": 185,
-        "name": "Tharaka Nithi County",
+        "name": "Tharaka-Nithi",
         "state_code": "41",
         "latitude": "-0.29648510",
         "longitude": "37.72376780",
@@ -406782,7 +407457,7 @@
     },
     {
         "id": 183,
-        "name": "Trans-Nzoia District",
+        "name": "Trans Nzoia",
         "state_code": "42",
         "latitude": "1.05666670",
         "longitude": "34.95066250",
@@ -406798,7 +407473,7 @@
     },
     {
         "id": 206,
-        "name": "Turkana County",
+        "name": "Turkana",
         "state_code": "43",
         "latitude": "3.31224770",
         "longitude": "35.56578620",
@@ -406830,7 +407505,7 @@
     },
     {
         "id": 202,
-        "name": "Vihiga County",
+        "name": "Vihiga",
         "state_code": "45",
         "latitude": "0.07675530",
         "longitude": "34.70776650",
@@ -406839,7 +407514,7 @@
     },
     {
         "id": 182,
-        "name": "Wajir County",
+        "name": "Wajir",
         "state_code": "46",
         "latitude": "1.63604750",
         "longitude": "40.30886260",
@@ -406855,7 +407530,7 @@
     },
     {
         "id": 208,
-        "name": "West Pokot County",
+        "name": "West Pokot",
         "state_code": "47",
         "latitude": "1.62100760",
         "longitude": "35.39050460",
@@ -406892,15 +407567,6 @@
                 "longitude": "38.35729000"
             }
         ]
-    },
-    {
-        "id": 177,
-        "name": "Western Province",
-        "state_code": "800",
-        "latitude": null,
-        "longitude": null,
-        "country_id": 113,
-        "cities": []
     },
     {
         "id": 1831,

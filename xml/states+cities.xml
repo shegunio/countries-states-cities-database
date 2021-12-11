@@ -161822,38 +161822,101 @@
     </cities>
   </state_city>
   <state_city>
-    <id>4800</id>
-    <name>Alo</name>
-    <state_code>WF-AL</state_code>
-    <latitude>40.71583620</latitude>
-    <longitude>-73.95963170</longitude>
+    <id>4967</id>
+    <name>Ain</name>
+    <state_code>01</state_code>
+    <latitude>46.06508600</latitude>
+    <longitude>4.88861500</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4968</id>
+    <name>Aisne</name>
+    <state_code>02</state_code>
+    <latitude>49.45289210</latitude>
+    <longitude>3.04651110</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4969</id>
+    <name>Allier</name>
+    <state_code>03</state_code>
+    <latitude>46.36708630</latitude>
+    <longitude>2.58082770</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4970</id>
+    <name>Alpes-de-Haute-Provence</name>
+    <state_code>04</state_code>
+    <latitude>44.16377520</latitude>
+    <longitude>5.67247800</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4972</id>
+    <name>Alpes-Maritimes</name>
+    <state_code>06</state_code>
+    <latitude>43.92041700</latitude>
+    <longitude>6.61678220</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
     <id>4811</id>
     <name>Alsace</name>
-    <state_code>A</state_code>
+    <state_code>6AE</state_code>
     <latitude>48.31817950</latitude>
     <longitude>7.44162410</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
-    <id>4808</id>
-    <name>Aquitaine</name>
-    <state_code>B</state_code>
-    <latitude>44.70022220</latitude>
-    <longitude>-0.29957850</longitude>
+    <id>4973</id>
+    <name>Ardèche</name>
+    <state_code>07</state_code>
+    <latitude>44.81486950</latitude>
+    <longitude>3.81334830</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
-    <id>4789</id>
-    <name>Auvergne</name>
-    <state_code>C</state_code>
-    <latitude>45.70326950</latitude>
-    <longitude>3.34485360</longitude>
+    <id>4974</id>
+    <name>Ardennes</name>
+    <state_code>08</state_code>
+    <latitude>49.69759510</latitude>
+    <longitude>4.14895760</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4975</id>
+    <name>Ariège</name>
+    <state_code>09</state_code>
+    <latitude>42.94347830</latitude>
+    <longitude>0.94048640</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4976</id>
+    <name>Aube</name>
+    <state_code>10</state_code>
+    <latitude>48.31975470</latitude>
+    <longitude>3.56371040</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4977</id>
+    <name>Aude</name>
+    <state_code>11</state_code>
+    <latitude>43.05411400</latitude>
+    <longitude>1.90384760</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
@@ -169252,6 +169315,33 @@
     </cities>
   </state_city>
   <state_city>
+    <id>4978</id>
+    <name>Aveyron</name>
+    <state_code>12</state_code>
+    <latitude>44.31563620</latitude>
+    <longitude>2.08523790</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5035</id>
+    <name>Bas-Rhin</name>
+    <state_code>67</state_code>
+    <latitude>48.59864440</latitude>
+    <longitude>7.02666760</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4979</id>
+    <name>Bouches-du-Rhône</name>
+    <state_code>13</state_code>
+    <latitude>43.54038650</latitude>
+    <longitude>4.46138290</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
     <id>4825</id>
     <name>Bourgogne-Franche-Comté</name>
     <state_code>BFC</state_code>
@@ -171967,7 +172057,7 @@
   </state_city>
   <state_city>
     <id>4807</id>
-    <name>Brittany</name>
+    <name>Bretagne</name>
     <state_code>BRE</state_code>
     <latitude>48.20204710</latitude>
     <longitude>-2.93264350</longitude>
@@ -175970,11 +176060,20 @@
     </cities>
   </state_city>
   <state_city>
-    <id>4788</id>
-    <name>Burgundy</name>
-    <state_code>D</state_code>
-    <latitude>47.05250470</latitude>
-    <longitude>4.38372150</longitude>
+    <id>4981</id>
+    <name>Calvados</name>
+    <state_code>14</state_code>
+    <latitude>49.09035140</latitude>
+    <longitude>-0.91706480</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4982</id>
+    <name>Cantal</name>
+    <state_code>15</state_code>
+    <latitude>45.04921770</latitude>
+    <longitude>2.15672720</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
@@ -178843,18 +178942,54 @@
     </cities>
   </state_city>
   <state_city>
-    <id>4791</id>
-    <name>Champagne-Ardenne</name>
-    <state_code>G</state_code>
-    <latitude>48.79340920</latitude>
-    <longitude>4.47252490</longitude>
+    <id>4983</id>
+    <name>Charente</name>
+    <state_code>16</state_code>
+    <latitude>45.66584790</latitude>
+    <longitude>-0.31845770</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4984</id>
+    <name>Charente-Maritime</name>
+    <state_code>17</state_code>
+    <latitude>45.72968280</latitude>
+    <longitude>-1.33881160</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4985</id>
+    <name>Cher</name>
+    <state_code>18</state_code>
+    <latitude>47.02436280</latitude>
+    <longitude>1.86627320</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5064</id>
+    <name>Clipperton</name>
+    <state_code>CP</state_code>
+    <latitude>10.28335410</latitude>
+    <longitude>-109.22542150</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4986</id>
+    <name>Corrèze</name>
+    <state_code>19</state_code>
+    <latitude>45.34237070</latitude>
+    <longitude>1.31717330</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
     <id>4806</id>
-    <name>Corsica</name>
-    <state_code>COR</state_code>
+    <name>Corse</name>
+    <state_code>20R</state_code>
     <latitude>42.03960420</latitude>
     <longitude>9.01289260</longitude>
     <country_id>75</country_id>
@@ -179166,18 +179301,117 @@
     </cities>
   </state_city>
   <state_city>
-    <id>4805</id>
-    <name>Franche-Comté</name>
-    <state_code>I</state_code>
-    <latitude>47.13432070</latitude>
-    <longitude>6.02230160</longitude>
+    <id>4996</id>
+    <name>Corse-du-Sud</name>
+    <state_code>2A</state_code>
+    <latitude>41.85720550</latitude>
+    <longitude>8.41091830</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4987</id>
+    <name>Côte-d'Or</name>
+    <state_code>21</state_code>
+    <latitude>47.46513020</latitude>
+    <longitude>4.23154950</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4988</id>
+    <name>Côtes-d'Armor</name>
+    <state_code>22</state_code>
+    <latitude>48.46633360</latitude>
+    <longitude>-3.34789610</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4989</id>
+    <name>Creuse</name>
+    <state_code>23</state_code>
+    <latitude>46.05903940</latitude>
+    <longitude>1.43150500</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5047</id>
+    <name>Deux-Sèvres</name>
+    <state_code>79</state_code>
+    <latitude>46.53868170</latitude>
+    <longitude>-0.90199480</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4990</id>
+    <name>Dordogne</name>
+    <state_code>24</state_code>
+    <latitude>45.14234160</latitude>
+    <longitude>0.14274080</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4991</id>
+    <name>Doubs</name>
+    <state_code>25</state_code>
+    <latitude>46.93217740</latitude>
+    <longitude>6.34762140</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4992</id>
+    <name>Drôme</name>
+    <state_code>26</state_code>
+    <latitude>44.72933570</latitude>
+    <longitude>4.67821580</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5059</id>
+    <name>Essonne</name>
+    <state_code>91</state_code>
+    <latitude>48.53046150</latitude>
+    <longitude>1.96990560</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4993</id>
+    <name>Eure</name>
+    <state_code>27</state_code>
+    <latitude>49.07540350</latitude>
+    <longitude>0.48937320</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4994</id>
+    <name>Eure-et-Loir</name>
+    <state_code>28</state_code>
+    <latitude>48.44697840</latitude>
+    <longitude>0.81470250</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4995</id>
+    <name>Finistère</name>
+    <state_code>29</state_code>
+    <latitude>48.22696100</latitude>
+    <longitude>-4.82437330</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
     <id>4822</id>
     <name>French Guiana</name>
-    <state_code>GF</state_code>
+    <state_code>973</state_code>
     <latitude>3.93388900</latitude>
     <longitude>-53.12578200</longitude>
     <country_id>75</country_id>
@@ -179193,8 +179427,44 @@
     <cities/>
   </state_city>
   <state_city>
+    <id>5065</id>
+    <name>French Southern and Antarctic Lands</name>
+    <state_code>TF</state_code>
+    <latitude>-47.54466040</latitude>
+    <longitude>51.28375420</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4998</id>
+    <name>Gard</name>
+    <state_code>30</state_code>
+    <latitude>43.95952760</latitude>
+    <longitude>3.49356810</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5000</id>
+    <name>Gers</name>
+    <state_code>32</state_code>
+    <latitude>43.69505340</latitude>
+    <longitude>-0.09997280</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5001</id>
+    <name>Gironde</name>
+    <state_code>33</state_code>
+    <latitude>44.89584690</latitude>
+    <longitude>-1.59405320</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
     <id>4820</id>
-    <name>Grand Est</name>
+    <name>Grand-Est</name>
     <state_code>GES</state_code>
     <latitude>48.69980300</latitude>
     <longitude>6.18780740</longitude>
@@ -184525,9 +184795,99 @@
   <state_city>
     <id>4829</id>
     <name>Guadeloupe</name>
-    <state_code>GP</state_code>
+    <state_code>971</state_code>
     <latitude>16.26500000</latitude>
     <longitude>-61.55100000</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5036</id>
+    <name>Haut-Rhin</name>
+    <state_code>68</state_code>
+    <latitude>47.86537740</latitude>
+    <longitude>6.67113810</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4997</id>
+    <name>Haute-Corse</name>
+    <state_code>2B</state_code>
+    <latitude>42.42958660</latitude>
+    <longitude>8.50625610</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4999</id>
+    <name>Haute-Garonne</name>
+    <state_code>31</state_code>
+    <latitude>43.30505550</latitude>
+    <longitude>0.68455150</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5011</id>
+    <name>Haute-Loire</name>
+    <state_code>43</state_code>
+    <latitude>45.08538060</latitude>
+    <longitude>3.22607070</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5020</id>
+    <name>Haute-Marne</name>
+    <state_code>52</state_code>
+    <latitude>48.13248210</latitude>
+    <longitude>4.69834990</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5039</id>
+    <name>Haute-Saône</name>
+    <state_code>70</state_code>
+    <latitude>47.63789960</latitude>
+    <longitude>5.53550550</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5043</id>
+    <name>Haute-Savoie</name>
+    <state_code>74</state_code>
+    <latitude>46.04452770</latitude>
+    <longitude>5.86413800</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5055</id>
+    <name>Haute-Vienne</name>
+    <state_code>87</state_code>
+    <latitude>45.91868780</latitude>
+    <longitude>0.70972060</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4971</id>
+    <name>Hautes-Alpes</name>
+    <state_code>05</state_code>
+    <latitude>44.65626820</latitude>
+    <longitude>5.68732110</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5033</id>
+    <name>Hautes-Pyrénées</name>
+    <state_code>65</state_code>
+    <latitude>43.14294620</latitude>
+    <longitude>-0.40097360</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
@@ -190066,6 +190426,24 @@
     </cities>
   </state_city>
   <state_city>
+    <id>5060</id>
+    <name>Hauts-de-Seine</name>
+    <state_code>92</state_code>
+    <latitude>48.84030080</latitude>
+    <longitude>2.10125590</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5002</id>
+    <name>Hérault</name>
+    <state_code>34</state_code>
+    <latitude>43.59111200</latitude>
+    <longitude>2.80661080</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
     <id>4796</id>
     <name>Île-de-France</name>
     <state_code>IDF</state_code>
@@ -194238,71 +194616,251 @@
     </cities>
   </state_city>
   <state_city>
-    <id>4803</id>
-    <name>Languedoc-Roussillon</name>
-    <state_code>K</state_code>
-    <latitude>43.59123560</latitude>
-    <longitude>3.25836260</longitude>
+    <id>5003</id>
+    <name>Ille-et-Vilaine</name>
+    <state_code>35</state_code>
+    <latitude>48.17624840</latitude>
+    <longitude>-2.21304010</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
-    <id>4792</id>
-    <name>Limousin</name>
-    <state_code>L</state_code>
-    <latitude>45.89322310</latitude>
-    <longitude>1.56960180</longitude>
+    <id>5004</id>
+    <name>Indre</name>
+    <state_code>36</state_code>
+    <latitude>46.81175500</latitude>
+    <longitude>0.97555230</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
-    <id>4801</id>
-    <name>Lorraine</name>
-    <state_code>M</state_code>
-    <latitude>48.87442330</latitude>
-    <longitude>6.20809320</longitude>
+    <id>5005</id>
+    <name>Indre-et-Loire</name>
+    <state_code>37</state_code>
+    <latitude>47.22285820</latitude>
+    <longitude>0.14896190</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
-    <id>4814</id>
-    <name>Lower Normandy</name>
-    <state_code>P</state_code>
-    <latitude>48.87884720</latitude>
-    <longitude>-0.51574920</longitude>
+    <id>5006</id>
+    <name>Isère</name>
+    <state_code>38</state_code>
+    <latitude>45.28922710</latitude>
+    <longitude>4.99023550</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5007</id>
+    <name>Jura</name>
+    <state_code>39</state_code>
+    <latitude>46.78287410</latitude>
+    <longitude>5.16918440</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>4823</id>
+    <name>La Réunion</name>
+    <state_code>974</state_code>
+    <latitude>-21.11514100</latitude>
+    <longitude>55.53638400</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5008</id>
+    <name>Landes</name>
+    <state_code>40</state_code>
+    <latitude>44.00950800</latitude>
+    <longitude>-1.25385790</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5009</id>
+    <name>Loir-et-Cher</name>
+    <state_code>41</state_code>
+    <latitude>47.65937600</latitude>
+    <longitude>0.85376310</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5010</id>
+    <name>Loire</name>
+    <state_code>42</state_code>
+    <latitude>46.35228120</latitude>
+    <longitude>-1.17563390</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5012</id>
+    <name>Loire-Atlantique</name>
+    <state_code>44</state_code>
+    <latitude>47.34757210</latitude>
+    <longitude>-2.34663120</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5013</id>
+    <name>Loiret</name>
+    <state_code>45</state_code>
+    <latitude>47.91354310</latitude>
+    <longitude>1.76009900</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5014</id>
+    <name>Lot</name>
+    <state_code>46</state_code>
+    <latitude>44.62460700</latitude>
+    <longitude>1.03576310</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5015</id>
+    <name>Lot-et-Garonne</name>
+    <state_code>47</state_code>
+    <latitude>44.36873140</latitude>
+    <longitude>-0.09161690</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5016</id>
+    <name>Lozère</name>
+    <state_code>48</state_code>
+    <latitude>44.54227790</latitude>
+    <longitude>2.92934590</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5017</id>
+    <name>Maine-et-Loire</name>
+    <state_code>49</state_code>
+    <latitude>47.38900340</latitude>
+    <longitude>-1.12025270</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5018</id>
+    <name>Manche</name>
+    <state_code>50</state_code>
+    <latitude>49.08817340</latitude>
+    <longitude>-2.46272090</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5019</id>
+    <name>Marne</name>
+    <state_code>51</state_code>
+    <latitude>48.96107450</latitude>
+    <longitude>3.65737670</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
     <id>4827</id>
     <name>Martinique</name>
-    <state_code>MQ</state_code>
+    <state_code>972</state_code>
     <latitude>14.64152800</latitude>
     <longitude>-61.02417400</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
+    <id>5021</id>
+    <name>Mayenne</name>
+    <state_code>53</state_code>
+    <latitude>48.30668420</latitude>
+    <longitude>-0.64901820</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
     <id>4797</id>
     <name>Mayotte</name>
-    <state_code>YT</state_code>
+    <state_code>976</state_code>
     <latitude>-12.82750000</latitude>
     <longitude>45.16624400</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
-    <id>4793</id>
-    <name>Nord-Pas-de-Calais</name>
-    <state_code>O</state_code>
-    <latitude>50.48011530</latitude>
-    <longitude>2.79372650</longitude>
+    <id>5038</id>
+    <name>Métropole de Lyon</name>
+    <state_code>69M</state_code>
+    <latitude>45.74826290</latitude>
+    <longitude>4.59584040</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5022</id>
+    <name>Meurthe-et-Moselle</name>
+    <state_code>54</state_code>
+    <latitude>48.95566150</latitude>
+    <longitude>5.71423500</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5023</id>
+    <name>Meuse</name>
+    <state_code>55</state_code>
+    <latitude>49.01246200</latitude>
+    <longitude>4.81087340</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5024</id>
+    <name>Morbihan</name>
+    <state_code>56</state_code>
+    <latitude>47.74395180</latitude>
+    <longitude>-3.44555240</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5025</id>
+    <name>Moselle</name>
+    <state_code>57</state_code>
+    <latitude>49.02045660</latitude>
+    <longitude>6.20553220</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5026</id>
+    <name>Nièvre</name>
+    <state_code>58</state_code>
+    <latitude>47.11921640</latitude>
+    <longitude>2.97797130</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5027</id>
+    <name>Nord</name>
+    <state_code>59</state_code>
+    <latitude>50.52854770</latitude>
+    <longitude>2.60007760</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
     <id>4804</id>
-    <name>Normandy</name>
+    <name>Normandie</name>
     <state_code>NOR</state_code>
     <latitude>48.87987040</latitude>
     <longitude>0.17125290</longitude>
@@ -203282,7 +203840,7 @@
   </state_city>
   <state_city>
     <id>4799</id>
-    <name>Occitania</name>
+    <name>Occitanie</name>
     <state_code>OCC</state_code>
     <latitude>43.89272320</latitude>
     <longitude>3.28276250</longitude>
@@ -208257,17 +208815,44 @@
     </cities>
   </state_city>
   <state_city>
+    <id>5028</id>
+    <name>Oise</name>
+    <state_code>60</state_code>
+    <latitude>49.41173350</latitude>
+    <longitude>1.86688250</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5029</id>
+    <name>Orne</name>
+    <state_code>61</state_code>
+    <latitude>48.57576440</latitude>
+    <longitude>-0.50242950</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
     <id>4816</id>
     <name>Paris</name>
-    <state_code>75</state_code>
+    <state_code>75C</state_code>
     <latitude>48.85661400</latitude>
     <longitude>2.35222190</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
+    <id>5030</id>
+    <name>Pas-de-Calais</name>
+    <state_code>62</state_code>
+    <latitude>50.51446990</latitude>
+    <longitude>1.81149800</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
     <id>4802</id>
-    <name>Pays de la Loire</name>
+    <name>Pays-de-la-Loire</name>
     <state_code>PDL</state_code>
     <latitude>47.76328360</latitude>
     <longitude>-0.32996870</longitude>
@@ -212234,26 +212819,8 @@
     </cities>
   </state_city>
   <state_city>
-    <id>4790</id>
-    <name>Picardy</name>
-    <state_code>S</state_code>
-    <latitude>49.66361270</latitude>
-    <longitude>2.52807320</longitude>
-    <country_id>75</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
-    <id>4815</id>
-    <name>Poitou-Charentes</name>
-    <state_code>T</state_code>
-    <latitude>45.90355200</latitude>
-    <longitude>-0.30918370</longitude>
-    <country_id>75</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
     <id>4812</id>
-    <name>Provence-Alpes-Côte d'Azur</name>
+    <name>Provence-Alpes-Côte-d’Azur</name>
     <state_code>PAC</state_code>
     <latitude>43.93516910</latitude>
     <longitude>6.06791940</longitude>
@@ -215470,38 +216037,38 @@
     </cities>
   </state_city>
   <state_city>
-    <id>4823</id>
-    <name>Réunion</name>
-    <state_code>RE</state_code>
-    <latitude>-21.11514100</latitude>
-    <longitude>55.53638400</longitude>
+    <id>5031</id>
+    <name>Puy-de-Dôme</name>
+    <state_code>63</state_code>
+    <latitude>45.77141850</latitude>
+    <longitude>2.62626760</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
-    <id>4813</id>
-    <name>Rhône-Alpes</name>
-    <state_code>V</state_code>
-    <latitude>45.64029050</latitude>
-    <longitude>5.68649940</longitude>
+    <id>5032</id>
+    <name>Pyrénées-Atlantiques</name>
+    <state_code>64</state_code>
+    <latitude>43.18681700</latitude>
+    <longitude>-1.44170710</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
-    <id>4794</id>
-    <name>Saint Barthélemy</name>
-    <state_code>BL</state_code>
-    <latitude>17.90051340</latitude>
-    <longitude>-62.82058710</longitude>
+    <id>5034</id>
+    <name>Pyrénées-Orientales</name>
+    <state_code>66</state_code>
+    <latitude>42.62541790</latitude>
+    <longitude>1.88929580</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
-    <id>4809</id>
-    <name>Saint Martin</name>
-    <state_code>MF</state_code>
-    <latitude>18.07082980</latitude>
-    <longitude>-63.05008090</longitude>
+    <id>5037</id>
+    <name>Rhône</name>
+    <state_code>69</state_code>
+    <latitude>44.93433000</latitude>
+    <longitude>4.24093290</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
@@ -215515,29 +216082,173 @@
     <cities/>
   </state_city>
   <state_city>
-    <id>4819</id>
-    <name>Sigave</name>
-    <state_code>WF-SG</state_code>
-    <latitude>-14.27325920</latitude>
-    <longitude>-178.16329000</longitude>
+    <id>4794</id>
+    <name>Saint-Barthélemy</name>
+    <state_code>BL</state_code>
+    <latitude>17.90051340</latitude>
+    <longitude>-62.82058710</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
-    <id>4826</id>
-    <name>Upper Normandy</name>
-    <state_code>Q</state_code>
-    <latitude>49.52464100</latitude>
-    <longitude>0.88283290</longitude>
+    <id>4809</id>
+    <name>Saint-Martin</name>
+    <state_code>MF</state_code>
+    <latitude>18.07082980</latitude>
+    <longitude>-63.05008090</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
   <state_city>
-    <id>4817</id>
-    <name>Uvea</name>
-    <state_code>WF-UV</state_code>
-    <latitude>41.98329800</latitude>
-    <longitude>-87.66836200</longitude>
+    <id>5040</id>
+    <name>Saône-et-Loire</name>
+    <state_code>71</state_code>
+    <latitude>46.65548830</latitude>
+    <longitude>3.98350500</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5041</id>
+    <name>Sarthe</name>
+    <state_code>72</state_code>
+    <latitude>48.02627330</latitude>
+    <longitude>-0.32613170</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5042</id>
+    <name>Savoie</name>
+    <state_code>73</state_code>
+    <latitude>45.49469900</latitude>
+    <longitude>5.84329840</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5045</id>
+    <name>Seine-et-Marne</name>
+    <state_code>77</state_code>
+    <latitude>48.61853940</latitude>
+    <longitude>2.41525610</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5044</id>
+    <name>Seine-Maritime</name>
+    <state_code>76</state_code>
+    <latitude>49.66096810</latitude>
+    <longitude>0.36775610</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5061</id>
+    <name>Seine-Saint-Denis</name>
+    <state_code>93</state_code>
+    <latitude>48.90993180</latitude>
+    <longitude>2.30573790</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5048</id>
+    <name>Somme</name>
+    <state_code>80</state_code>
+    <latitude>49.96859220</latitude>
+    <longitude>1.73106960</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5049</id>
+    <name>Tarn</name>
+    <state_code>81</state_code>
+    <latitude>43.79149770</latitude>
+    <longitude>1.67588930</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5050</id>
+    <name>Tarn-et-Garonne</name>
+    <state_code>82</state_code>
+    <latitude>44.08089500</latitude>
+    <longitude>1.08916570</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5058</id>
+    <name>Territoire de Belfort</name>
+    <state_code>90</state_code>
+    <latitude>47.62930720</latitude>
+    <longitude>6.66962000</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5063</id>
+    <name>Val-d'Oise</name>
+    <state_code>95</state_code>
+    <latitude>49.07518180</latitude>
+    <longitude>1.82169140</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5062</id>
+    <name>Val-de-Marne</name>
+    <state_code>94</state_code>
+    <latitude>48.77470040</latitude>
+    <longitude>2.32210390</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5051</id>
+    <name>Var</name>
+    <state_code>83</state_code>
+    <latitude>43.39507300</latitude>
+    <longitude>5.73424170</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5052</id>
+    <name>Vaucluse</name>
+    <state_code>84</state_code>
+    <latitude>44.04475000</latitude>
+    <longitude>4.64277180</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5053</id>
+    <name>Vendée</name>
+    <state_code>85</state_code>
+    <latitude>46.67541030</latitude>
+    <longitude>-2.02983920</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5054</id>
+    <name>Vienne</name>
+    <state_code>86</state_code>
+    <latitude>45.52213140</latitude>
+    <longitude>4.84531360</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5056</id>
+    <name>Vosges</name>
+    <state_code>88</state_code>
+    <latitude>48.16301730</latitude>
+    <longitude>5.73556000</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
@@ -215547,6 +216258,24 @@
     <state_code>WF</state_code>
     <latitude>-14.29380000</latitude>
     <longitude>-178.11650000</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5057</id>
+    <name>Yonne</name>
+    <state_code>89</state_code>
+    <latitude>47.85476140</latitude>
+    <longitude>3.03394040</longitude>
+    <country_id>75</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5046</id>
+    <name>Yvelines</name>
+    <state_code>78</state_code>
+    <latitude>48.76153010</latitude>
+    <longitude>1.27729490</longitude>
     <country_id>75</country_id>
     <cities/>
   </state_city>
@@ -289327,6 +290056,12 @@
       <longitude>76.55000000</longitude>
     </cities>
     <cities>
+      <id>57924</id>
+      <name>Ballary</name>
+      <latitude>15.14205000</latitude>
+      <longitude>76.92398000</longitude>
+    </cities>
+    <cities>
       <id>58136</id>
       <name>Banavar</name>
       <latitude>13.41029000</latitude>
@@ -289376,15 +290111,9 @@
     </cities>
     <cities>
       <id>57922</id>
-      <name>Belgaum</name>
+      <name>Belagavi</name>
       <latitude>16.33333000</latitude>
       <longitude>74.75000000</longitude>
-    </cities>
-    <cities>
-      <id>57924</id>
-      <name>Bellary</name>
-      <latitude>15.14205000</latitude>
-      <longitude>76.92398000</longitude>
     </cities>
     <cities>
       <id>57925</id>
@@ -289433,12 +290162,6 @@
       <name>Bidar</name>
       <latitude>18.08333000</latitude>
       <longitude>77.33333000</longitude>
-    </cities>
-    <cities>
-      <id>58031</id>
-      <name>Bijapur</name>
-      <latitude>16.82442000</latitude>
-      <longitude>75.71537000</longitude>
     </cities>
     <cities>
       <id>58042</id>
@@ -289514,7 +290237,7 @@
     </cities>
     <cities>
       <id>131552</id>
-      <name>Chikmagalur</name>
+      <name>Chikkamagaluru</name>
       <latitude>13.49000000</latitude>
       <longitude>75.73000000</longitude>
     </cities>
@@ -289675,12 +290398,6 @@
       <longitude>77.70414000</longitude>
     </cities>
     <cities>
-      <id>132016</id>
-      <name>Gulbarga</name>
-      <latitude>17.16667000</latitude>
-      <longitude>77.08333000</longitude>
-    </cities>
-    <cities>
       <id>132017</id>
       <name>Guledagudda</name>
       <latitude>16.05025000</latitude>
@@ -289826,7 +290543,7 @@
     </cities>
     <cities>
       <id>132127</id>
-      <name>Hubli</name>
+      <name>Hubballi</name>
       <latitude>15.34776000</latitude>
       <longitude>75.13378000</longitude>
     </cities>
@@ -289883,6 +290600,12 @@
       <name>Kadur</name>
       <latitude>13.55285000</latitude>
       <longitude>76.01164000</longitude>
+    </cities>
+    <cities>
+      <id>132016</id>
+      <name>Kalaburgi</name>
+      <latitude>17.16667000</latitude>
+      <longitude>77.08333000</longitude>
     </cities>
     <cities>
       <id>132351</id>
@@ -290132,7 +290855,7 @@
     </cities>
     <cities>
       <id>132905</id>
-      <name>Mangalore</name>
+      <name>Mangaluru</name>
       <latitude>12.91723000</latitude>
       <longitude>74.85603000</longitude>
     </cities>
@@ -290234,7 +290957,7 @@
     </cities>
     <cities>
       <id>133053</id>
-      <name>Mysore</name>
+      <name>Mysuru</name>
       <latitude>12.23000000</latitude>
       <longitude>76.42000000</longitude>
     </cities>
@@ -290600,7 +291323,7 @@
     </cities>
     <cities>
       <id>134219</id>
-      <name>Tumkur</name>
+      <name>Tumakuru</name>
       <latitude>13.50000000</latitude>
       <longitude>77.00000000</longitude>
     </cities>
@@ -290633,6 +291356,12 @@
       <name>Vadigenhalli</name>
       <latitude>13.29724000</latitude>
       <longitude>77.80184000</longitude>
+    </cities>
+    <cities>
+      <id>58031</id>
+      <name>Vijayapura</name>
+      <latitude>16.82442000</latitude>
+      <longitude>75.71537000</longitude>
     </cities>
     <cities>
       <id>134386</id>
@@ -403017,7 +403746,7 @@
   </state_city>
   <state_city>
     <id>181</id>
-    <name>Baringo County</name>
+    <name>Baringo</name>
     <state_code>01</state_code>
     <latitude>0.85549880</latitude>
     <longitude>36.08934060</longitude>
@@ -403043,7 +403772,7 @@
   </state_city>
   <state_city>
     <id>210</id>
-    <name>Bomet County</name>
+    <name>Bomet</name>
     <state_code>02</state_code>
     <latitude>-0.80150090</latitude>
     <longitude>35.30272260</longitude>
@@ -403063,7 +403792,7 @@
   </state_city>
   <state_city>
     <id>168</id>
-    <name>Bungoma County</name>
+    <name>Bungoma</name>
     <state_code>03</state_code>
     <latitude>0.56952520</latitude>
     <longitude>34.55837660</longitude>
@@ -403089,7 +403818,7 @@
   </state_city>
   <state_city>
     <id>161</id>
-    <name>Busia County</name>
+    <name>Busia</name>
     <state_code>04</state_code>
     <latitude>0.43465060</latitude>
     <longitude>34.24215970</longitude>
@@ -403132,35 +403861,8 @@
     </cities>
   </state_city>
   <state_city>
-    <id>160</id>
-    <name>Central Province</name>
-    <state_code>200</state_code>
-    <latitude></latitude>
-    <longitude></longitude>
-    <country_id>113</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
-    <id>172</id>
-    <name>Coast Province</name>
-    <state_code>300</state_code>
-    <latitude>39.13733050</latitude>
-    <longitude>-76.72941440</longitude>
-    <country_id>113</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
-    <id>189</id>
-    <name>Eastern Province</name>
-    <state_code>400</state_code>
-    <latitude></latitude>
-    <longitude></longitude>
-    <country_id>113</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
     <id>201</id>
-    <name>Elgeyo-Marakwet County</name>
+    <name>Elgeyo-Marakwet</name>
     <state_code>05</state_code>
     <latitude>1.04982370</latitude>
     <longitude>35.47819260</longitude>
@@ -403169,7 +403871,7 @@
   </state_city>
   <state_city>
     <id>163</id>
-    <name>Embu County</name>
+    <name>Embu</name>
     <state_code>06</state_code>
     <latitude>-0.65604770</latitude>
     <longitude>37.72376780</longitude>
@@ -403183,7 +403885,7 @@
   </state_city>
   <state_city>
     <id>196</id>
-    <name>Garissa County</name>
+    <name>Garissa</name>
     <state_code>07</state_code>
     <latitude>-0.45322930</latitude>
     <longitude>39.64609880</longitude>
@@ -403197,7 +403899,7 @@
   </state_city>
   <state_city>
     <id>195</id>
-    <name>Homa Bay County</name>
+    <name>Homa Bay</name>
     <state_code>08</state_code>
     <latitude>-0.62206550</latitude>
     <longitude>34.33103640</longitude>
@@ -403223,7 +403925,7 @@
   </state_city>
   <state_city>
     <id>170</id>
-    <name>Isiolo County</name>
+    <name>Isiolo</name>
     <state_code>09</state_code>
     <latitude>0.35243520</latitude>
     <longitude>38.48499230</longitude>
@@ -403237,7 +403939,7 @@
   </state_city>
   <state_city>
     <id>197</id>
-    <name>Kajiado County</name>
+    <name>Kajiado</name>
     <state_code>10</state_code>
     <latitude>-2.09807510</latitude>
     <longitude>36.78195050</longitude>
@@ -403263,7 +403965,7 @@
   </state_city>
   <state_city>
     <id>158</id>
-    <name>Kakamega County</name>
+    <name>Kakamega</name>
     <state_code>11</state_code>
     <latitude>0.30789400</latitude>
     <longitude>34.77407930</longitude>
@@ -403289,7 +403991,7 @@
   </state_city>
   <state_city>
     <id>193</id>
-    <name>Kericho County</name>
+    <name>Kericho</name>
     <state_code>12</state_code>
     <latitude>-0.18279130</latitude>
     <longitude>35.47819260</longitude>
@@ -403321,7 +404023,7 @@
   </state_city>
   <state_city>
     <id>199</id>
-    <name>Kiambu County</name>
+    <name>Kiambu</name>
     <state_code>13</state_code>
     <latitude>-1.03137010</latitude>
     <longitude>36.86807910</longitude>
@@ -403344,10 +404046,16 @@
       <latitude>-1.11360000</latitude>
       <longitude>36.64205000</longitude>
     </cities>
+    <cities>
+      <id>64874</id>
+      <name>Thika</name>
+      <latitude>-1.03326000</latitude>
+      <longitude>37.06933000</longitude>
+    </cities>
   </state_city>
   <state_city>
     <id>174</id>
-    <name>Kilifi County</name>
+    <name>Kilifi</name>
     <state_code>14</state_code>
     <latitude>-3.51065080</latitude>
     <longitude>39.90932690</longitude>
@@ -403391,7 +404099,7 @@
   </state_city>
   <state_city>
     <id>167</id>
-    <name>Kirinyaga County</name>
+    <name>Kirinyaga</name>
     <state_code>15</state_code>
     <latitude>-0.65905650</latitude>
     <longitude>37.38272340</longitude>
@@ -403411,7 +404119,7 @@
   </state_city>
   <state_city>
     <id>159</id>
-    <name>Kisii County</name>
+    <name>Kisii</name>
     <state_code>16</state_code>
     <latitude>-0.67733400</latitude>
     <longitude>34.77960300</longitude>
@@ -403431,7 +404139,7 @@
   </state_city>
   <state_city>
     <id>171</id>
-    <name>Kisumu County</name>
+    <name>Kisumu</name>
     <state_code>17</state_code>
     <latitude>-0.09170160</latitude>
     <longitude>34.76795680</longitude>
@@ -403457,7 +404165,7 @@
   </state_city>
   <state_city>
     <id>211</id>
-    <name>Kitui County</name>
+    <name>Kitui</name>
     <state_code>18</state_code>
     <latitude>-1.68328220</latitude>
     <longitude>38.31657250</longitude>
@@ -403477,7 +404185,7 @@
   </state_city>
   <state_city>
     <id>173</id>
-    <name>Kwale County</name>
+    <name>Kwale</name>
     <state_code>19</state_code>
     <latitude>-4.18161150</latitude>
     <longitude>39.46056120</longitude>
@@ -403515,7 +404223,7 @@
   </state_city>
   <state_city>
     <id>164</id>
-    <name>Laikipia County</name>
+    <name>Laikipia</name>
     <state_code>20</state_code>
     <latitude>0.36060630</latitude>
     <longitude>36.78195050</longitude>
@@ -403541,7 +404249,7 @@
   </state_city>
   <state_city>
     <id>166</id>
-    <name>Lamu County</name>
+    <name>Lamu</name>
     <state_code>21</state_code>
     <latitude>-2.23550580</latitude>
     <longitude>40.47200040</longitude>
@@ -403561,7 +404269,7 @@
   </state_city>
   <state_city>
     <id>184</id>
-    <name>Machakos County</name>
+    <name>Machakos</name>
     <state_code>22</state_code>
     <latitude>-1.51768370</latitude>
     <longitude>37.26341460</longitude>
@@ -403593,7 +404301,7 @@
   </state_city>
   <state_city>
     <id>188</id>
-    <name>Makueni County</name>
+    <name>Makueni</name>
     <state_code>23</state_code>
     <latitude>-2.25587340</latitude>
     <longitude>37.89366630</longitude>
@@ -403619,7 +404327,7 @@
   </state_city>
   <state_city>
     <id>187</id>
-    <name>Mandera County</name>
+    <name>Mandera</name>
     <state_code>24</state_code>
     <latitude>3.57379910</latitude>
     <longitude>40.95868800</longitude>
@@ -403633,7 +404341,7 @@
   </state_city>
   <state_city>
     <id>194</id>
-    <name>Marsabit County</name>
+    <name>Marsabit</name>
     <state_code>25</state_code>
     <latitude>2.44264030</latitude>
     <longitude>37.97845850</longitude>
@@ -403653,7 +404361,7 @@
   </state_city>
   <state_city>
     <id>198</id>
-    <name>Meru County</name>
+    <name>Meru</name>
     <state_code>26</state_code>
     <latitude>0.35571740</latitude>
     <longitude>37.80876930</longitude>
@@ -403673,7 +404381,7 @@
   </state_city>
   <state_city>
     <id>190</id>
-    <name>Migori County</name>
+    <name>Migori</name>
     <state_code>27</state_code>
     <latitude>-0.93657020</latitude>
     <longitude>34.41982430</longitude>
@@ -403693,7 +404401,7 @@
   </state_city>
   <state_city>
     <id>200</id>
-    <name>Mombasa County</name>
+    <name>Mombasa</name>
     <state_code>28</state_code>
     <latitude>-3.97682910</latitude>
     <longitude>39.71371810</longitude>
@@ -403707,7 +404415,7 @@
   </state_city>
   <state_city>
     <id>178</id>
-    <name>Muranga County</name>
+    <name>Murang'a</name>
     <state_code>29</state_code>
     <latitude>-0.78392810</latitude>
     <longitude>37.04003390</longitude>
@@ -403739,8 +404447,8 @@
   </state_city>
   <state_city>
     <id>191</id>
-    <name>Nairobi</name>
-    <state_code>110</state_code>
+    <name>Nairobi City</name>
+    <state_code>30</state_code>
     <latitude>-1.29206590</latitude>
     <longitude>36.82194620</longitude>
     <country_id>113</country_id>
@@ -403756,16 +404464,10 @@
       <latitude>-1.28333000</latitude>
       <longitude>36.85000000</longitude>
     </cities>
-    <cities>
-      <id>64874</id>
-      <name>Thika</name>
-      <latitude>-1.03326000</latitude>
-      <longitude>37.06933000</longitude>
-    </cities>
   </state_city>
   <state_city>
     <id>203</id>
-    <name>Nakuru County</name>
+    <name>Nakuru</name>
     <state_code>31</state_code>
     <latitude>-0.30309880</latitude>
     <longitude>36.08002600</longitude>
@@ -403803,7 +404505,7 @@
   </state_city>
   <state_city>
     <id>165</id>
-    <name>Nandi District</name>
+    <name>Nandi</name>
     <state_code>32</state_code>
     <latitude>0.18358670</latitude>
     <longitude>35.12687810</longitude>
@@ -403823,7 +404525,7 @@
   </state_city>
   <state_city>
     <id>175</id>
-    <name>Narok County</name>
+    <name>Narok</name>
     <state_code>33</state_code>
     <latitude>-1.10411100</latitude>
     <longitude>36.08934060</longitude>
@@ -403836,17 +404538,8 @@
     </cities>
   </state_city>
   <state_city>
-    <id>162</id>
-    <name>North Eastern Province</name>
-    <state_code>500</state_code>
-    <latitude>7.78530510</latitude>
-    <longitude>81.42789840</longitude>
-    <country_id>113</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
     <id>209</id>
-    <name>Nyamira County</name>
+    <name>Nyamira</name>
     <state_code>34</state_code>
     <latitude>-0.56694050</latitude>
     <longitude>34.93412340</longitude>
@@ -403866,7 +404559,7 @@
   </state_city>
   <state_city>
     <id>192</id>
-    <name>Nyandarua County</name>
+    <name>Nyandarua</name>
     <state_code>35</state_code>
     <latitude>-0.18038550</latitude>
     <longitude>36.52296410</longitude>
@@ -403879,17 +404572,8 @@
     </cities>
   </state_city>
   <state_city>
-    <id>204</id>
-    <name>Nyanza Province</name>
-    <state_code>600</state_code>
-    <latitude>-0.08898940</latitude>
-    <longitude>34.77179120</longitude>
-    <country_id>113</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
     <id>180</id>
-    <name>Nyeri County</name>
+    <name>Nyeri</name>
     <state_code>36</state_code>
     <latitude>-0.41969150</latitude>
     <longitude>37.04003390</longitude>
@@ -403914,17 +404598,8 @@
     </cities>
   </state_city>
   <state_city>
-    <id>179</id>
-    <name>Rift Valley Province</name>
-    <state_code>700</state_code>
-    <latitude>11.40987370</latitude>
-    <longitude>41.28085770</longitude>
-    <country_id>113</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
     <id>207</id>
-    <name>Samburu County</name>
+    <name>Samburu</name>
     <state_code>37</state_code>
     <latitude>1.21545060</latitude>
     <longitude>36.95410700</longitude>
@@ -403938,7 +404613,7 @@
   </state_city>
   <state_city>
     <id>186</id>
-    <name>Siaya County</name>
+    <name>Siaya</name>
     <state_code>38</state_code>
     <latitude>-0.06173280</latitude>
     <longitude>34.24215970</longitude>
@@ -403964,7 +404639,7 @@
   </state_city>
   <state_city>
     <id>176</id>
-    <name>Taita–Taveta County</name>
+    <name>Taita–Taveta</name>
     <state_code>39</state_code>
     <latitude>-3.31606870</latitude>
     <longitude>38.48499230</longitude>
@@ -403973,7 +404648,7 @@
   </state_city>
   <state_city>
     <id>205</id>
-    <name>Tana River County</name>
+    <name>Tana River</name>
     <state_code>40</state_code>
     <latitude>-1.65184680</latitude>
     <longitude>39.65181650</longitude>
@@ -403993,7 +404668,7 @@
   </state_city>
   <state_city>
     <id>185</id>
-    <name>Tharaka Nithi County</name>
+    <name>Tharaka-Nithi</name>
     <state_code>41</state_code>
     <latitude>-0.29648510</latitude>
     <longitude>37.72376780</longitude>
@@ -404007,7 +404682,7 @@
   </state_city>
   <state_city>
     <id>183</id>
-    <name>Trans-Nzoia District</name>
+    <name>Trans Nzoia</name>
     <state_code>42</state_code>
     <latitude>1.05666670</latitude>
     <longitude>34.95066250</longitude>
@@ -404021,7 +404696,7 @@
   </state_city>
   <state_city>
     <id>206</id>
-    <name>Turkana County</name>
+    <name>Turkana</name>
     <state_code>43</state_code>
     <latitude>3.31224770</latitude>
     <longitude>35.56578620</longitude>
@@ -404049,7 +404724,7 @@
   </state_city>
   <state_city>
     <id>202</id>
-    <name>Vihiga County</name>
+    <name>Vihiga</name>
     <state_code>45</state_code>
     <latitude>0.07675530</latitude>
     <longitude>34.70776650</longitude>
@@ -404058,7 +404733,7 @@
   </state_city>
   <state_city>
     <id>182</id>
-    <name>Wajir County</name>
+    <name>Wajir</name>
     <state_code>46</state_code>
     <latitude>1.63604750</latitude>
     <longitude>40.30886260</longitude>
@@ -404072,7 +404747,7 @@
   </state_city>
   <state_city>
     <id>208</id>
-    <name>West Pokot County</name>
+    <name>West Pokot</name>
     <state_code>47</state_code>
     <latitude>1.62100760</latitude>
     <longitude>35.39050460</longitude>
@@ -404107,15 +404782,6 @@
       <latitude>-3.39642000</latitude>
       <longitude>38.35729000</longitude>
     </cities>
-  </state_city>
-  <state_city>
-    <id>177</id>
-    <name>Western Province</name>
-    <state_code>800</state_code>
-    <latitude></latitude>
-    <longitude></longitude>
-    <country_id>113</country_id>
-    <cities/>
   </state_city>
   <state_city>
     <id>1831</id>
