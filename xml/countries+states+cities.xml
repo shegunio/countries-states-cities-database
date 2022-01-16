@@ -13615,7 +13615,7 @@
       <state_code>ACT</state_code>
       <latitude>-35.47346790</latitude>
       <longitude>149.01236790</longitude>
-      <type></type>
+      <type>territory</type>
       <cities>
         <id>3915</id>
         <name>Acton</name>
@@ -14199,7 +14199,7 @@
       <state_code>NSW</state_code>
       <latitude>-31.25321830</latitude>
       <longitude>146.92109900</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>3903</id>
         <name>Abbotsbury</name>
@@ -14517,6 +14517,12 @@
         <name>Banksia</name>
         <latitude>-33.94601000</latitude>
         <longitude>151.14304000</longitude>
+      </cities>
+      <cities>
+        <id>149215</id>
+        <name>Banksmeadow</name>
+        <latitude>-33.95603010</latitude>
+        <longitude>151.19736200</longitude>
       </cities>
       <cities>
         <id>4103</id>
@@ -21365,6 +21371,12 @@
         <longitude>150.80402000</longitude>
       </cities>
       <cities>
+        <id>149216</id>
+        <name>Whale Beach</name>
+        <latitude>-33.61241180</latitude>
+        <longitude>151.32540650</longitude>
+      </cities>
+      <cities>
         <id>7831</id>
         <name>Wheeler Heights</name>
         <latitude>-33.73119000</latitude>
@@ -21731,7 +21743,7 @@
       <state_code>NT</state_code>
       <latitude>-19.49141080</latitude>
       <longitude>132.55096030</longitude>
-      <type></type>
+      <type>territory</type>
       <cities>
         <id>3928</id>
         <name>Alawa</name>
@@ -22243,7 +22255,7 @@
       <state_code>QLD</state_code>
       <latitude>-20.91757380</latitude>
       <longitude>142.70279560</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>3914</id>
         <name>Acacia Ridge</name>
@@ -27411,7 +27423,7 @@
       <state_code>SA</state_code>
       <latitude>-30.00023150</latitude>
       <longitude>136.20915470</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>3910</id>
         <name>Aberfoyle Park</name>
@@ -30113,7 +30125,7 @@
       <state_code>TAS</state_code>
       <latitude>-41.45451960</latitude>
       <longitude>145.97066470</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>3916</id>
         <name>Acton Park</name>
@@ -30971,9 +30983,9 @@
       <id>3903</id>
       <name>Victoria</name>
       <state_code>VIC</state_code>
-      <latitude></latitude>
-      <longitude></longitude>
-      <type></type>
+      <latitude>-36.48564230</latitude>
+      <longitude>140.97794250</longitude>
+      <type>state</type>
       <cities>
         <id>3904</id>
         <name>Abbotsford</name>
@@ -35325,7 +35337,7 @@
       <state_code>WA</state_code>
       <latitude>-27.67281680</latitude>
       <longitude>121.62830980</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>3902</id>
         <name>Abbey</name>
@@ -108134,7 +108146,7 @@
       <state_code>AB</state_code>
       <latitude>53.93327060</latitude>
       <longitude>-116.57650350</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>16151</id>
         <name>Airdrie</name>
@@ -108832,7 +108844,7 @@
       <state_code>BC</state_code>
       <latitude>53.72666830</latitude>
       <longitude>-127.64762050</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>16146</id>
         <name>Abbotsford</name>
@@ -109674,7 +109686,7 @@
       <state_code>MB</state_code>
       <latitude>53.76086080</latitude>
       <longitude>-98.81387620</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>16160</id>
         <name>Altona</name>
@@ -109940,7 +109952,7 @@
       <state_code>NB</state_code>
       <latitude>46.56531630</latitude>
       <longitude>-66.46191640</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>16184</id>
         <name>Baie Ste. Anne</name>
@@ -110170,7 +110182,7 @@
       <state_code>NL</state_code>
       <latitude>53.13550910</latitude>
       <longitude>-57.66043640</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>16199</id>
         <name>Bay Roberts</name>
@@ -110370,7 +110382,7 @@
       <state_code>NT</state_code>
       <latitude>64.82554410</latitude>
       <longitude>-124.84573340</longitude>
-      <type></type>
+      <type>territory</type>
       <cities>
         <id>16209</id>
         <name>Behchokǫ̀</name>
@@ -110420,7 +110432,7 @@
       <state_code>NS</state_code>
       <latitude>44.68198660</latitude>
       <longitude>-63.74431100</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>16161</id>
         <name>Amherst</name>
@@ -110686,7 +110698,7 @@
       <state_code>NU</state_code>
       <latitude>70.29977110</latitude>
       <longitude>-83.10757700</longitude>
-      <type></type>
+      <type>territory</type>
       <cities>
         <id>16315</id>
         <name>Clyde River</name>
@@ -110730,7 +110742,7 @@
       <state_code>ON</state_code>
       <latitude>51.25377500</latitude>
       <longitude>-85.32321400</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>16152</id>
         <name>Ajax</name>
@@ -112172,7 +112184,7 @@
       <state_code>PE</state_code>
       <latitude>46.51071200</latitude>
       <longitude>-63.41681360</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>16154</id>
         <name>Alberton</name>
@@ -112234,7 +112246,7 @@
       <state_code>QC</state_code>
       <latitude>52.93991590</latitude>
       <longitude>-73.54913610</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>16147</id>
         <name>Abitibi-Témiscamingue</name>
@@ -114348,7 +114360,7 @@
       <state_code>SK</state_code>
       <latitude>52.93991590</latitude>
       <longitude>-106.45086390</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>16177</id>
         <name>Assiniboia</name>
@@ -114680,7 +114692,7 @@
       <state_code>YT</state_code>
       <latitude>35.50672150</latitude>
       <longitude>-97.76254410</longitude>
-      <type></type>
+      <type>territory</type>
       <cities>
         <id>16358</id>
         <name>Dawson City</name>
@@ -158212,11 +158224,11 @@
     <emojiU>U+1F1EA U+1F1EC</emojiU>
     <states>
       <id>3235</id>
-      <name>Alexandria Governorate</name>
+      <name>Alexandria</name>
       <state_code>ALX</state_code>
       <latitude>30.87605680</latitude>
       <longitude>29.74260400</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31787</id>
         <name>Alexandria</name>
@@ -158226,11 +158238,11 @@
     </states>
     <states>
       <id>3225</id>
-      <name>Aswan Governorate</name>
+      <name>Aswan</name>
       <state_code>ASN</state_code>
       <latitude>23.69664980</latitude>
       <longitude>32.71813750</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31756</id>
         <name>Abu Simbel</name>
@@ -158258,11 +158270,11 @@
     </states>
     <states>
       <id>3236</id>
-      <name>Asyut Governorate</name>
+      <name>Asyut</name>
       <state_code>AST</state_code>
       <latitude>27.21338310</latitude>
       <longitude>31.44561790</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31755</id>
         <name>Abnūb</name>
@@ -158308,11 +158320,11 @@
     </states>
     <states>
       <id>3241</id>
-      <name>Beheira Governorate</name>
+      <name>Beheira</name>
       <state_code>BH</state_code>
       <latitude>30.84809860</latitude>
       <longitude>30.34355060</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31759</id>
         <name>Abū al Maţāmīr</name>
@@ -158364,11 +158376,11 @@
     </states>
     <states>
       <id>3230</id>
-      <name>Beni Suef Governorate</name>
+      <name>Beni Suef</name>
       <state_code>BNS</state_code>
       <latitude>28.89388370</latitude>
       <longitude>31.44561790</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31768</id>
         <name>Al Fashn</name>
@@ -158396,11 +158408,11 @@
     </states>
     <states>
       <id>3223</id>
-      <name>Cairo Governorate</name>
+      <name>Cairo</name>
       <state_code>C</state_code>
       <latitude>29.95375640</latitude>
       <longitude>31.53700030</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31802</id>
         <name>Cairo</name>
@@ -158422,11 +158434,11 @@
     </states>
     <states>
       <id>3245</id>
-      <name>Dakahlia Governorate</name>
+      <name>Dakahlia</name>
       <state_code>DK</state_code>
       <latitude>31.16560440</latitude>
       <longitude>31.49131820</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31880</id>
         <name>‘Izbat al Burj</name>
@@ -158496,11 +158508,11 @@
     </states>
     <states>
       <id>3224</id>
-      <name>Damietta Governorate</name>
+      <name>Damietta</name>
       <state_code>DT</state_code>
       <latitude>31.36257990</latitude>
       <longitude>31.67393710</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31794</id>
         <name>Az Zarqā</name>
@@ -158522,11 +158534,11 @@
     </states>
     <states>
       <id>3238</id>
-      <name>Faiyum Governorate</name>
+      <name>Faiyum</name>
       <state_code>FYM</state_code>
       <latitude>29.30840210</latitude>
       <longitude>30.84284970</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31769</id>
         <name>Al Fayyūm</name>
@@ -158560,11 +158572,11 @@
     </states>
     <states>
       <id>3234</id>
-      <name>Gharbia Governorate</name>
+      <name>Gharbia</name>
       <state_code>GH</state_code>
       <latitude>30.87535560</latitude>
       <longitude>31.03351000</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31777</id>
         <name>Al Maḩallah al Kubrá</name>
@@ -158610,11 +158622,11 @@
     </states>
     <states>
       <id>3239</id>
-      <name>Giza Governorate</name>
+      <name>Giza</name>
       <state_code>GZ</state_code>
       <latitude>28.76662160</latitude>
       <longitude>29.23207840</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31786</id>
         <name>Al ‘Ayyāţ</name>
@@ -158660,11 +158672,11 @@
     </states>
     <states>
       <id>3244</id>
-      <name>Ismailia Governorate</name>
+      <name>Ismailia</name>
       <state_code>IS</state_code>
       <latitude>30.58309340</latitude>
       <longitude>32.26538870</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31821</id>
         <name>Ismailia</name>
@@ -158674,11 +158686,11 @@
     </states>
     <states>
       <id>3222</id>
-      <name>Kafr el-Sheikh Governorate</name>
+      <name>Kafr el-Sheikh</name>
       <state_code>KFS</state_code>
       <latitude>31.30854440</latitude>
       <longitude>30.80394740</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31784</id>
         <name>Al Ḩāmūl</name>
@@ -158724,11 +158736,11 @@
     </states>
     <states>
       <id>3242</id>
-      <name>Luxor Governorate</name>
+      <name>Luxor</name>
       <state_code>LX</state_code>
       <latitude>25.39444440</latitude>
       <longitude>32.49200880</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31832</id>
         <name>Luxor</name>
@@ -158744,11 +158756,11 @@
     </states>
     <states>
       <id>3231</id>
-      <name>Matrouh Governorate</name>
+      <name>Matrouh</name>
       <state_code>MT</state_code>
       <latitude>29.56963500</latitude>
       <longitude>26.41938900</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31785</id>
         <name>Al ‘Alamayn</name>
@@ -158770,11 +158782,11 @@
     </states>
     <states>
       <id>3243</id>
-      <name>Minya Governorate</name>
+      <name>Minya</name>
       <state_code>MN</state_code>
       <latitude>28.28472900</latitude>
       <longitude>30.52790960</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31757</id>
         <name>Abū Qurqāş</name>
@@ -158820,11 +158832,11 @@
     </states>
     <states>
       <id>3228</id>
-      <name>Monufia Governorate</name>
+      <name>Monufia</name>
       <state_code>MNF</state_code>
       <latitude>30.59724550</latitude>
       <longitude>30.98763210</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31767</id>
         <name>Al Bājūr</name>
@@ -158870,11 +158882,11 @@
     </states>
     <states>
       <id>3246</id>
-      <name>New Valley Governorate</name>
+      <name>New Valley</name>
       <state_code>WAD</state_code>
       <latitude>24.54556380</latitude>
       <longitude>27.17353160</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31772</id>
         <name>Al Khārijah</name>
@@ -158890,11 +158902,11 @@
     </states>
     <states>
       <id>3227</id>
-      <name>North Sinai Governorate</name>
+      <name>North Sinai</name>
       <state_code>SIN</state_code>
       <latitude>30.28236500</latitude>
       <longitude>33.61757700</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31788</id>
         <name>Arish</name>
@@ -158904,11 +158916,11 @@
     </states>
     <states>
       <id>3229</id>
-      <name>Port Said Governorate</name>
+      <name>Port Said</name>
       <state_code>PTS</state_code>
       <latitude>31.07586060</latitude>
       <longitude>32.26538870</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31850</id>
         <name>Port Said</name>
@@ -158918,11 +158930,11 @@
     </states>
     <states>
       <id>3232</id>
-      <name>Qalyubia Governorate</name>
+      <name>Qalyubia</name>
       <state_code>KB</state_code>
       <latitude>30.32923680</latitude>
       <longitude>31.21684660</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31771</id>
         <name>Al Khānkah</name>
@@ -158962,11 +158974,11 @@
     </states>
     <states>
       <id>3247</id>
-      <name>Qena Governorate</name>
+      <name>Qena</name>
       <state_code>KN</state_code>
       <latitude>26.23460330</latitude>
       <longitude>32.98883190</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31809</id>
         <name>Dishnā</name>
@@ -159006,11 +159018,11 @@
     </states>
     <states>
       <id>3240</id>
-      <name>Red Sea Governorate</name>
+      <name>Red Sea</name>
       <state_code>BA</state_code>
       <latitude>24.68263160</latitude>
       <longitude>34.15319470</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31780</id>
         <name>Al Quşayr</name>
@@ -159055,12 +159067,104 @@
       </cities>
     </states>
     <states>
+      <id>5067</id>
+      <name>Sharqia</name>
+      <state_code>SHR</state_code>
+      <latitude>30.67305450</latitude>
+      <longitude>31.15932470</longitude>
+      <type>governorate</type>
+      <cities>
+        <id>149220</id>
+        <name>10th of Ramadan</name>
+        <latitude>30.29939390</latitude>
+        <longitude>31.61417890</longitude>
+      </cities>
+      <cities>
+        <id>149228</id>
+        <name>Al Qurein</name>
+        <latitude>26.29300660</latitude>
+        <longitude>31.84950350</longitude>
+      </cities>
+      <cities>
+        <id>149223</id>
+        <name>Awlad Saqr</name>
+        <latitude>30.93096230</latitude>
+        <longitude>31.69132380</longitude>
+      </cities>
+      <cities>
+        <id>149224</id>
+        <name>Bilbeis</name>
+        <latitude>30.41676920</latitude>
+        <longitude>31.55430480</longitude>
+      </cities>
+      <cities>
+        <id>149225</id>
+        <name>Diyarb Negm</name>
+        <latitude>30.74800820</latitude>
+        <longitude>31.38893080</longitude>
+      </cities>
+      <cities>
+        <id>149226</id>
+        <name>El Husseiniya</name>
+        <latitude>31.13933960</latitude>
+        <longitude>32.14949670</longitude>
+      </cities>
+      <cities>
+        <id>149229</id>
+        <name>Faqous</name>
+        <latitude>30.72291740</latitude>
+        <longitude>31.76136580</longitude>
+      </cities>
+      <cities>
+        <id>149230</id>
+        <name>Hihya</name>
+        <latitude>30.65516210</latitude>
+        <longitude>31.50671570</longitude>
+      </cities>
+      <cities>
+        <id>149231</id>
+        <name>Kafr Saqr</name>
+        <latitude>30.77955140</latitude>
+        <longitude>31.61774120</longitude>
+      </cities>
+      <cities>
+        <id>149221</id>
+        <name>Markaz Abū Ḩammād</name>
+        <latitude>30.53604430</latitude>
+        <longitude>31.65970230</longitude>
+      </cities>
+      <cities>
+        <id>149232</id>
+        <name>Mashtoul El Souk</name>
+        <latitude>30.35570110</latitude>
+        <longitude>31.36278530</longitude>
+      </cities>
+      <cities>
+        <id>149233</id>
+        <name>Minya El Qamh</name>
+        <latitude>30.50037450</latitude>
+        <longitude>31.23766850</longitude>
+      </cities>
+      <cities>
+        <id>149234</id>
+        <name>New Salhia</name>
+        <latitude>30.62868790</latitude>
+        <longitude>31.92099060</longitude>
+      </cities>
+      <cities>
+        <id>149235</id>
+        <name>Zagazig</name>
+        <latitude>30.58456230</latitude>
+        <longitude>31.34747790</longitude>
+      </cities>
+    </states>
+    <states>
       <id>3226</id>
-      <name>Sohag Governorate</name>
+      <name>Sohag</name>
       <state_code>SHG</state_code>
       <latitude>26.69383400</latitude>
       <longitude>32.17460500</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31763</id>
         <name>Akhmīm</name>
@@ -159118,11 +159222,11 @@
     </states>
     <states>
       <id>3237</id>
-      <name>South Sinai Governorate</name>
+      <name>South Sinai</name>
       <state_code>JS</state_code>
       <latitude>29.31018280</latitude>
       <longitude>34.15319470</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31803</id>
         <name>Dahab</name>
@@ -159156,11 +159260,11 @@
     </states>
     <states>
       <id>3233</id>
-      <name>Suez Governorate</name>
+      <name>Suez</name>
       <state_code>SUZ</state_code>
       <latitude>29.36822550</latitude>
       <longitude>32.17460500</longitude>
-      <type></type>
+      <type>governorate</type>
       <cities>
         <id>31761</id>
         <name>Ain Sukhna</name>

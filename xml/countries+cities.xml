@@ -13127,6 +13127,12 @@
       <longitude>138.73570000</longitude>
     </cities>
     <cities>
+      <id>149215</id>
+      <name>Banksmeadow</name>
+      <latitude>-33.95603010</latitude>
+      <longitude>151.19736200</longitude>
+    </cities>
+    <cities>
       <id>4103</id>
       <name>Bankstown</name>
       <latitude>-33.91667000</latitude>
@@ -35499,6 +35505,12 @@
       <name>Whalan</name>
       <latitude>-33.75697000</latitude>
       <longitude>150.80402000</longitude>
+    </cities>
+    <cities>
+      <id>149216</id>
+      <name>Whale Beach</name>
+      <latitude>-33.61241180</latitude>
+      <longitude>151.32540650</longitude>
     </cities>
     <cities>
       <id>7831</id>
@@ -148694,6 +148706,12 @@
       <longitude>31.84106000</longitude>
     </cities>
     <cities>
+      <id>149220</id>
+      <name>10th of Ramadan</name>
+      <latitude>30.29939390</latitude>
+      <longitude>31.61417890</longitude>
+    </cities>
+    <cities>
       <id>31755</id>
       <name>Abnūb</name>
       <latitude>27.26960000</latitude>
@@ -148868,6 +148886,12 @@
       <longitude>31.13703000</longitude>
     </cities>
     <cities>
+      <id>149228</id>
+      <name>Al Qurein</name>
+      <latitude>26.29300660</latitude>
+      <longitude>31.84950350</longitude>
+    </cities>
+    <cities>
       <id>31780</id>
       <name>Al Quşayr</name>
       <latitude>26.10426000</latitude>
@@ -148928,6 +148952,12 @@
       <longitude>31.18368000</longitude>
     </cities>
     <cities>
+      <id>149223</id>
+      <name>Awlad Saqr</name>
+      <latitude>30.93096230</latitude>
+      <longitude>31.69132380</longitude>
+    </cities>
+    <cities>
       <id>31793</id>
       <name>Awsīm</name>
       <latitude>30.12303000</latitude>
@@ -148962,6 +148992,12 @@
       <name>Basyūn</name>
       <latitude>30.93976000</latitude>
       <longitude>30.81338000</longitude>
+    </cities>
+    <cities>
+      <id>149224</id>
+      <name>Bilbeis</name>
+      <latitude>30.41676920</latitude>
+      <longitude>31.55430480</longitude>
     </cities>
     <cities>
       <id>31800</id>
@@ -149030,16 +149066,34 @@
       <longitude>30.64784000</longitude>
     </cities>
     <cities>
+      <id>149225</id>
+      <name>Diyarb Negm</name>
+      <latitude>30.74800820</latitude>
+      <longitude>31.38893080</longitude>
+    </cities>
+    <cities>
       <id>31811</id>
       <name>El Gouna</name>
       <latitude>27.39417000</latitude>
       <longitude>33.67825000</longitude>
     </cities>
     <cities>
+      <id>149226</id>
+      <name>El Husseiniya</name>
+      <latitude>31.13933960</latitude>
+      <longitude>32.14949670</longitude>
+    </cities>
+    <cities>
       <id>31812</id>
       <name>El-Tor</name>
       <latitude>28.24168000</latitude>
       <longitude>33.62220000</longitude>
+    </cities>
+    <cities>
+      <id>149229</id>
+      <name>Faqous</name>
+      <latitude>30.72291740</latitude>
+      <longitude>31.76136580</longitude>
     </cities>
     <cities>
       <id>31815</id>
@@ -149076,6 +149130,12 @@
       <name>Ḩawsh ‘Īsá</name>
       <latitude>30.91280000</latitude>
       <longitude>30.29019000</longitude>
+    </cities>
+    <cities>
+      <id>149230</id>
+      <name>Hihya</name>
+      <latitude>30.65516210</latitude>
+      <longitude>31.50671570</longitude>
     </cities>
     <cities>
       <id>31817</id>
@@ -149150,6 +149210,12 @@
       <longitude>30.81805000</longitude>
     </cities>
     <cities>
+      <id>149231</id>
+      <name>Kafr Saqr</name>
+      <latitude>30.77955140</latitude>
+      <longitude>31.61774120</longitude>
+    </cities>
+    <cities>
       <id>31830</id>
       <name>Kawm Ḩamādah</name>
       <latitude>30.76128000</latitude>
@@ -149198,6 +149264,12 @@
       <longitude>30.97004000</longitude>
     </cities>
     <cities>
+      <id>149221</id>
+      <name>Markaz Abū Ḩammād</name>
+      <latitude>30.53604430</latitude>
+      <longitude>31.65970230</longitude>
+    </cities>
+    <cities>
       <id>31840</id>
       <name>Markaz al Uqşur</name>
       <latitude>25.62986000</latitude>
@@ -149228,6 +149300,12 @@
       <longitude>34.89005000</longitude>
     </cities>
     <cities>
+      <id>149232</id>
+      <name>Mashtoul El Souk</name>
+      <latitude>30.35570110</latitude>
+      <longitude>31.36278530</longitude>
+    </cities>
+    <cities>
       <id>31842</id>
       <name>Maţāy</name>
       <latitude>28.41899000</latitude>
@@ -149238,6 +149316,12 @@
       <name>Mersa Matruh</name>
       <latitude>31.35290000</latitude>
       <longitude>27.23725000</longitude>
+    </cities>
+    <cities>
+      <id>149233</id>
+      <name>Minya El Qamh</name>
+      <latitude>30.50037450</latitude>
+      <longitude>31.23766850</longitude>
     </cities>
     <cities>
       <id>31844</id>
@@ -149268,6 +149352,12 @@
       <name>New Cairo</name>
       <latitude>30.03000000</latitude>
       <longitude>31.47000000</longitude>
+    </cities>
+    <cities>
+      <id>149234</id>
+      <name>New Salhia</name>
+      <latitude>30.62868790</latitude>
+      <longitude>31.92099060</longitude>
     </cities>
     <cities>
       <id>31849</id>
@@ -149436,6 +149526,12 @@
       <name>Toukh</name>
       <latitude>30.35487000</latitude>
       <longitude>31.20105000</longitude>
+    </cities>
+    <cities>
+      <id>149235</id>
+      <name>Zagazig</name>
+      <latitude>30.58456230</latitude>
+      <longitude>31.34747790</longitude>
     </cities>
     <cities>
       <id>31874</id>

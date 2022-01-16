@@ -26027,6 +26027,19 @@
     <wikiDataId>Q291305</wikiDataId>
   </city>
   <city>
+    <id>149215</id>
+    <name>Banksmeadow</name>
+    <state_id>3909</state_id>
+    <state_code>NSW</state_code>
+    <state_name>New South Wales</state_name>
+    <country_id>14</country_id>
+    <country_code>AU</country_code>
+    <country_name>Australia</country_name>
+    <latitude>-33.95603010</latitude>
+    <longitude>151.19736200</longitude>
+    <wikiDataId>Q2975781</wikiDataId>
+  </city>
+  <city>
     <id>4103</id>
     <name>Bankstown</name>
     <state_id>3909</state_id>
@@ -40858,6 +40871,19 @@
     <latitude>-33.75697000</latitude>
     <longitude>150.80402000</longitude>
     <wikiDataId>Q1109652</wikiDataId>
+  </city>
+  <city>
+    <id>149216</id>
+    <name>Whale Beach</name>
+    <state_id>3909</state_id>
+    <state_code>NSW</state_code>
+    <state_name>New South Wales</state_name>
+    <country_id>14</country_id>
+    <country_code>AU</country_code>
+    <country_name>Australia</country_name>
+    <latitude>-33.61241180</latitude>
+    <longitude>151.32540650</longitude>
+    <wikiDataId>Q4355595</wikiDataId>
   </city>
   <city>
     <id>7831</id>
@@ -314982,7 +315008,7 @@
     <name>Alexandria</name>
     <state_id>3235</state_id>
     <state_code>ALX</state_code>
-    <state_name>Alexandria Governorate</state_name>
+    <state_name>Alexandria</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -314995,7 +315021,7 @@
     <name>Abu Simbel</name>
     <state_id>3225</state_id>
     <state_code>ASN</state_code>
-    <state_name>Aswan Governorate</state_name>
+    <state_name>Aswan</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315008,7 +315034,7 @@
     <name>Aswan</name>
     <state_id>3225</state_id>
     <state_code>ASN</state_code>
-    <state_name>Aswan Governorate</state_name>
+    <state_name>Aswan</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315021,7 +315047,7 @@
     <name>Idfū</name>
     <state_id>3225</state_id>
     <state_code>ASN</state_code>
-    <state_name>Aswan Governorate</state_name>
+    <state_name>Aswan</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315034,7 +315060,7 @@
     <name>Kawm Umbū</name>
     <state_id>3225</state_id>
     <state_code>ASN</state_code>
-    <state_name>Aswan Governorate</state_name>
+    <state_name>Aswan</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315047,7 +315073,7 @@
     <name>Abnūb</name>
     <state_id>3236</state_id>
     <state_code>AST</state_code>
-    <state_name>Asyut Governorate</state_name>
+    <state_name>Asyut</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315060,7 +315086,7 @@
     <name>Abū Tīj</name>
     <state_id>3236</state_id>
     <state_code>AST</state_code>
-    <state_name>Asyut Governorate</state_name>
+    <state_name>Asyut</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315073,7 +315099,7 @@
     <name>Al Badārī</name>
     <state_id>3236</state_id>
     <state_code>AST</state_code>
-    <state_name>Asyut Governorate</state_name>
+    <state_name>Asyut</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315086,7 +315112,7 @@
     <name>Al Qūşīyah</name>
     <state_id>3236</state_id>
     <state_code>AST</state_code>
-    <state_name>Asyut Governorate</state_name>
+    <state_name>Asyut</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315099,7 +315125,7 @@
     <name>Asyūţ</name>
     <state_id>3236</state_id>
     <state_code>AST</state_code>
-    <state_name>Asyut Governorate</state_name>
+    <state_name>Asyut</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315112,7 +315138,7 @@
     <name>Dayrūţ</name>
     <state_id>3236</state_id>
     <state_code>AST</state_code>
-    <state_name>Asyut Governorate</state_name>
+    <state_name>Asyut</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315125,7 +315151,7 @@
     <name>Manfalūţ</name>
     <state_id>3236</state_id>
     <state_code>AST</state_code>
-    <state_name>Asyut Governorate</state_name>
+    <state_name>Asyut</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315138,7 +315164,7 @@
     <name>Abū al Maţāmīr</name>
     <state_id>3241</state_id>
     <state_code>BH</state_code>
-    <state_name>Beheira Governorate</state_name>
+    <state_name>Beheira</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315151,7 +315177,7 @@
     <name>Ad Dilinjāt</name>
     <state_id>3241</state_id>
     <state_code>BH</state_code>
-    <state_name>Beheira Governorate</state_name>
+    <state_name>Beheira</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315164,7 +315190,7 @@
     <name>Damanhūr</name>
     <state_id>3241</state_id>
     <state_code>BH</state_code>
-    <state_name>Beheira Governorate</state_name>
+    <state_name>Beheira</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315177,7 +315203,7 @@
     <name>Ḩawsh ‘Īsá</name>
     <state_id>3241</state_id>
     <state_code>BH</state_code>
-    <state_name>Beheira Governorate</state_name>
+    <state_name>Beheira</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315190,7 +315216,7 @@
     <name>Idkū</name>
     <state_id>3241</state_id>
     <state_code>BH</state_code>
-    <state_name>Beheira Governorate</state_name>
+    <state_name>Beheira</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315203,7 +315229,7 @@
     <name>Kafr ad Dawwār</name>
     <state_id>3241</state_id>
     <state_code>BH</state_code>
-    <state_name>Beheira Governorate</state_name>
+    <state_name>Beheira</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315216,7 +315242,7 @@
     <name>Kawm Ḩamādah</name>
     <state_id>3241</state_id>
     <state_code>BH</state_code>
-    <state_name>Beheira Governorate</state_name>
+    <state_name>Beheira</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315229,7 +315255,7 @@
     <name>Rosetta</name>
     <state_id>3241</state_id>
     <state_code>BH</state_code>
-    <state_name>Beheira Governorate</state_name>
+    <state_name>Beheira</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315242,7 +315268,7 @@
     <name>Al Fashn</name>
     <state_id>3230</state_id>
     <state_code>BNS</state_code>
-    <state_name>Beni Suef Governorate</state_name>
+    <state_name>Beni Suef</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315255,7 +315281,7 @@
     <name>Banī Suwayf</name>
     <state_id>3230</state_id>
     <state_code>BNS</state_code>
-    <state_name>Beni Suef Governorate</state_name>
+    <state_name>Beni Suef</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315268,7 +315294,7 @@
     <name>Būsh</name>
     <state_id>3230</state_id>
     <state_code>BNS</state_code>
-    <state_name>Beni Suef Governorate</state_name>
+    <state_name>Beni Suef</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315281,7 +315307,7 @@
     <name>Sumusţā as Sulţānī</name>
     <state_id>3230</state_id>
     <state_code>BNS</state_code>
-    <state_name>Beni Suef Governorate</state_name>
+    <state_name>Beni Suef</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315294,7 +315320,7 @@
     <name>Cairo</name>
     <state_id>3223</state_id>
     <state_code>C</state_code>
-    <state_name>Cairo Governorate</state_name>
+    <state_name>Cairo</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315307,7 +315333,7 @@
     <name>Ḩalwān</name>
     <state_id>3223</state_id>
     <state_code>C</state_code>
-    <state_name>Cairo Governorate</state_name>
+    <state_name>Cairo</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315320,7 +315346,7 @@
     <name>New Cairo</name>
     <state_id>3223</state_id>
     <state_code>C</state_code>
-    <state_name>Cairo Governorate</state_name>
+    <state_name>Cairo</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315333,7 +315359,7 @@
     <name>‘Izbat al Burj</name>
     <state_id>3245</state_id>
     <state_code>DK</state_code>
-    <state_name>Dakahlia Governorate</state_name>
+    <state_name>Dakahlia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315346,7 +315372,7 @@
     <name>Ajā</name>
     <state_id>3245</state_id>
     <state_code>DK</state_code>
-    <state_name>Dakahlia Governorate</state_name>
+    <state_name>Dakahlia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315359,7 +315385,7 @@
     <name>Al Jammālīyah</name>
     <state_id>3245</state_id>
     <state_code>DK</state_code>
-    <state_name>Dakahlia Governorate</state_name>
+    <state_name>Dakahlia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315372,7 +315398,7 @@
     <name>Al Manşūrah</name>
     <state_id>3245</state_id>
     <state_code>DK</state_code>
-    <state_name>Dakahlia Governorate</state_name>
+    <state_name>Dakahlia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315385,7 +315411,7 @@
     <name>Al Manzalah</name>
     <state_id>3245</state_id>
     <state_code>DK</state_code>
-    <state_name>Dakahlia Governorate</state_name>
+    <state_name>Dakahlia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315398,7 +315424,7 @@
     <name>Al Maţarīyah</name>
     <state_id>3245</state_id>
     <state_code>DK</state_code>
-    <state_name>Dakahlia Governorate</state_name>
+    <state_name>Dakahlia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315411,7 +315437,7 @@
     <name>Bilqās</name>
     <state_id>3245</state_id>
     <state_code>DK</state_code>
-    <state_name>Dakahlia Governorate</state_name>
+    <state_name>Dakahlia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315424,7 +315450,7 @@
     <name>Dikirnis</name>
     <state_id>3245</state_id>
     <state_code>DK</state_code>
-    <state_name>Dakahlia Governorate</state_name>
+    <state_name>Dakahlia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315437,7 +315463,7 @@
     <name>Minyat an Naşr</name>
     <state_id>3245</state_id>
     <state_code>DK</state_code>
-    <state_name>Dakahlia Governorate</state_name>
+    <state_name>Dakahlia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315450,7 +315476,7 @@
     <name>Shirbīn</name>
     <state_id>3245</state_id>
     <state_code>DK</state_code>
-    <state_name>Dakahlia Governorate</state_name>
+    <state_name>Dakahlia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315463,7 +315489,7 @@
     <name>Ţalkhā</name>
     <state_id>3245</state_id>
     <state_code>DK</state_code>
-    <state_name>Dakahlia Governorate</state_name>
+    <state_name>Dakahlia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315476,7 +315502,7 @@
     <name>Az Zarqā</name>
     <state_id>3224</state_id>
     <state_code>DT</state_code>
-    <state_name>Damietta Governorate</state_name>
+    <state_name>Damietta</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315489,7 +315515,7 @@
     <name>Damietta</name>
     <state_id>3224</state_id>
     <state_code>DT</state_code>
-    <state_name>Damietta Governorate</state_name>
+    <state_name>Damietta</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315502,7 +315528,7 @@
     <name>Fāraskūr</name>
     <state_id>3224</state_id>
     <state_code>DT</state_code>
-    <state_name>Damietta Governorate</state_name>
+    <state_name>Damietta</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315515,7 +315541,7 @@
     <name>Al Fayyūm</name>
     <state_id>3238</state_id>
     <state_code>FYM</state_code>
-    <state_name>Faiyum Governorate</state_name>
+    <state_name>Faiyum</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315528,7 +315554,7 @@
     <name>Al Wāsiţah</name>
     <state_id>3238</state_id>
     <state_code>FYM</state_code>
-    <state_name>Faiyum Governorate</state_name>
+    <state_name>Faiyum</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315541,7 +315567,7 @@
     <name>Ibshawāy</name>
     <state_id>3238</state_id>
     <state_code>FYM</state_code>
-    <state_name>Faiyum Governorate</state_name>
+    <state_name>Faiyum</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315554,7 +315580,7 @@
     <name>Iţsā</name>
     <state_id>3238</state_id>
     <state_code>FYM</state_code>
-    <state_name>Faiyum Governorate</state_name>
+    <state_name>Faiyum</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315567,7 +315593,7 @@
     <name>Ţāmiyah</name>
     <state_id>3238</state_id>
     <state_code>FYM</state_code>
-    <state_name>Faiyum Governorate</state_name>
+    <state_name>Faiyum</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315580,7 +315606,7 @@
     <name>Al Maḩallah al Kubrá</name>
     <state_id>3234</state_id>
     <state_code>GH</state_code>
-    <state_name>Gharbia Governorate</state_name>
+    <state_name>Gharbia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315593,7 +315619,7 @@
     <name>Basyūn</name>
     <state_id>3234</state_id>
     <state_code>GH</state_code>
-    <state_name>Gharbia Governorate</state_name>
+    <state_name>Gharbia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315606,7 +315632,7 @@
     <name>Kafr az Zayyāt</name>
     <state_id>3234</state_id>
     <state_code>GH</state_code>
-    <state_name>Gharbia Governorate</state_name>
+    <state_name>Gharbia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315619,7 +315645,7 @@
     <name>Quţūr</name>
     <state_id>3234</state_id>
     <state_code>GH</state_code>
-    <state_name>Gharbia Governorate</state_name>
+    <state_name>Gharbia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315632,7 +315658,7 @@
     <name>Samannūd</name>
     <state_id>3234</state_id>
     <state_code>GH</state_code>
-    <state_name>Gharbia Governorate</state_name>
+    <state_name>Gharbia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315645,7 +315671,7 @@
     <name>Tanda</name>
     <state_id>3234</state_id>
     <state_code>GH</state_code>
-    <state_name>Gharbia Governorate</state_name>
+    <state_name>Gharbia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315658,7 +315684,7 @@
     <name>Zefta</name>
     <state_id>3234</state_id>
     <state_code>GH</state_code>
-    <state_name>Gharbia Governorate</state_name>
+    <state_name>Gharbia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315671,7 +315697,7 @@
     <name>Al ‘Ayyāţ</name>
     <state_id>3239</state_id>
     <state_code>GZ</state_code>
-    <state_name>Giza Governorate</state_name>
+    <state_name>Giza</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315684,7 +315710,7 @@
     <name>Al Bawīţī</name>
     <state_id>3239</state_id>
     <state_code>GZ</state_code>
-    <state_name>Giza Governorate</state_name>
+    <state_name>Giza</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315697,7 +315723,7 @@
     <name>Al Ḩawāmidīyah</name>
     <state_id>3239</state_id>
     <state_code>GZ</state_code>
-    <state_name>Giza Governorate</state_name>
+    <state_name>Giza</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315710,7 +315736,7 @@
     <name>Aş Şaff</name>
     <state_id>3239</state_id>
     <state_code>GZ</state_code>
-    <state_name>Giza Governorate</state_name>
+    <state_name>Giza</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315723,7 +315749,7 @@
     <name>Awsīm</name>
     <state_id>3239</state_id>
     <state_code>GZ</state_code>
-    <state_name>Giza Governorate</state_name>
+    <state_name>Giza</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315736,7 +315762,7 @@
     <name>Giza</name>
     <state_id>3239</state_id>
     <state_code>GZ</state_code>
-    <state_name>Giza Governorate</state_name>
+    <state_name>Giza</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315749,7 +315775,7 @@
     <name>Madīnat Sittah Uktūbar</name>
     <state_id>3239</state_id>
     <state_code>GZ</state_code>
-    <state_name>Giza Governorate</state_name>
+    <state_name>Giza</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315762,7 +315788,7 @@
     <name>Ismailia</name>
     <state_id>3244</state_id>
     <state_code>IS</state_code>
-    <state_name>Ismailia Governorate</state_name>
+    <state_name>Ismailia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315775,7 +315801,7 @@
     <name>Al Ḩāmūl</name>
     <state_id>3222</state_id>
     <state_code>KFS</state_code>
-    <state_name>Kafr el-Sheikh Governorate</state_name>
+    <state_name>Kafr el-Sheikh</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315788,7 +315814,7 @@
     <name>Disūq</name>
     <state_id>3222</state_id>
     <state_code>KFS</state_code>
-    <state_name>Kafr el-Sheikh Governorate</state_name>
+    <state_name>Kafr el-Sheikh</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315801,7 +315827,7 @@
     <name>Fuwwah</name>
     <state_id>3222</state_id>
     <state_code>KFS</state_code>
-    <state_name>Kafr el-Sheikh Governorate</state_name>
+    <state_name>Kafr el-Sheikh</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315814,7 +315840,7 @@
     <name>Kafr ash Shaykh</name>
     <state_id>3222</state_id>
     <state_code>KFS</state_code>
-    <state_name>Kafr el-Sheikh Governorate</state_name>
+    <state_name>Kafr el-Sheikh</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315827,7 +315853,7 @@
     <name>Markaz Disūq</name>
     <state_id>3222</state_id>
     <state_code>KFS</state_code>
-    <state_name>Kafr el-Sheikh Governorate</state_name>
+    <state_name>Kafr el-Sheikh</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315840,7 +315866,7 @@
     <name>Munshāt ‘Alī Āghā</name>
     <state_id>3222</state_id>
     <state_code>KFS</state_code>
-    <state_name>Kafr el-Sheikh Governorate</state_name>
+    <state_name>Kafr el-Sheikh</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315853,7 +315879,7 @@
     <name>Sīdī Sālim</name>
     <state_id>3222</state_id>
     <state_code>KFS</state_code>
-    <state_name>Kafr el-Sheikh Governorate</state_name>
+    <state_name>Kafr el-Sheikh</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315866,7 +315892,7 @@
     <name>Luxor</name>
     <state_id>3242</state_id>
     <state_code>LX</state_code>
-    <state_name>Luxor Governorate</state_name>
+    <state_name>Luxor</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315879,7 +315905,7 @@
     <name>Markaz al Uqşur</name>
     <state_id>3242</state_id>
     <state_code>LX</state_code>
-    <state_name>Luxor Governorate</state_name>
+    <state_name>Luxor</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315892,7 +315918,7 @@
     <name>Al ‘Alamayn</name>
     <state_id>3231</state_id>
     <state_code>MT</state_code>
-    <state_name>Matrouh Governorate</state_name>
+    <state_name>Matrouh</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315905,7 +315931,7 @@
     <name>Mersa Matruh</name>
     <state_id>3231</state_id>
     <state_code>MT</state_code>
-    <state_name>Matrouh Governorate</state_name>
+    <state_name>Matrouh</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315918,7 +315944,7 @@
     <name>Siwa Oasis</name>
     <state_id>3231</state_id>
     <state_code>MT</state_code>
-    <state_name>Matrouh Governorate</state_name>
+    <state_name>Matrouh</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315931,7 +315957,7 @@
     <name>Abū Qurqāş</name>
     <state_id>3243</state_id>
     <state_code>MN</state_code>
-    <state_name>Minya Governorate</state_name>
+    <state_name>Minya</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315944,7 +315970,7 @@
     <name>Al Minyā</name>
     <state_id>3243</state_id>
     <state_code>MN</state_code>
-    <state_name>Minya Governorate</state_name>
+    <state_name>Minya</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315957,7 +315983,7 @@
     <name>Banī Mazār</name>
     <state_id>3243</state_id>
     <state_code>MN</state_code>
-    <state_name>Minya Governorate</state_name>
+    <state_name>Minya</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315970,7 +315996,7 @@
     <name>Dayr Mawās</name>
     <state_id>3243</state_id>
     <state_code>MN</state_code>
-    <state_name>Minya Governorate</state_name>
+    <state_name>Minya</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315983,7 +316009,7 @@
     <name>Mallawī</name>
     <state_id>3243</state_id>
     <state_code>MN</state_code>
-    <state_name>Minya Governorate</state_name>
+    <state_name>Minya</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -315996,7 +316022,7 @@
     <name>Maţāy</name>
     <state_id>3243</state_id>
     <state_code>MN</state_code>
-    <state_name>Minya Governorate</state_name>
+    <state_name>Minya</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316009,7 +316035,7 @@
     <name>Samālūţ</name>
     <state_id>3243</state_id>
     <state_code>MN</state_code>
-    <state_name>Minya Governorate</state_name>
+    <state_name>Minya</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316022,7 +316048,7 @@
     <name>Al Bājūr</name>
     <state_id>3228</state_id>
     <state_code>MNF</state_code>
-    <state_name>Monufia Governorate</state_name>
+    <state_name>Monufia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316035,7 +316061,7 @@
     <name>Ash Shuhadā’</name>
     <state_id>3228</state_id>
     <state_code>MNF</state_code>
-    <state_name>Monufia Governorate</state_name>
+    <state_name>Monufia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316048,7 +316074,7 @@
     <name>Ashmūn</name>
     <state_id>3228</state_id>
     <state_code>MNF</state_code>
-    <state_name>Monufia Governorate</state_name>
+    <state_name>Monufia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316061,7 +316087,7 @@
     <name>Munūf</name>
     <state_id>3228</state_id>
     <state_code>MNF</state_code>
-    <state_name>Monufia Governorate</state_name>
+    <state_name>Monufia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316074,7 +316100,7 @@
     <name>Quwaysinā</name>
     <state_id>3228</state_id>
     <state_code>MNF</state_code>
-    <state_name>Monufia Governorate</state_name>
+    <state_name>Monufia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316087,7 +316113,7 @@
     <name>Shibīn al Kawm</name>
     <state_id>3228</state_id>
     <state_code>MNF</state_code>
-    <state_name>Monufia Governorate</state_name>
+    <state_name>Monufia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316100,7 +316126,7 @@
     <name>Talā</name>
     <state_id>3228</state_id>
     <state_code>MNF</state_code>
-    <state_name>Monufia Governorate</state_name>
+    <state_name>Monufia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316113,7 +316139,7 @@
     <name>Al Khārijah</name>
     <state_id>3246</state_id>
     <state_code>WAD</state_code>
-    <state_name>New Valley Governorate</state_name>
+    <state_name>New Valley</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316126,7 +316152,7 @@
     <name>Qaşr al Farāfirah</name>
     <state_id>3246</state_id>
     <state_code>WAD</state_code>
-    <state_name>New Valley Governorate</state_name>
+    <state_name>New Valley</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316139,7 +316165,7 @@
     <name>Arish</name>
     <state_id>3227</state_id>
     <state_code>SIN</state_code>
-    <state_name>North Sinai Governorate</state_name>
+    <state_name>North Sinai</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316152,7 +316178,7 @@
     <name>Port Said</name>
     <state_id>3229</state_id>
     <state_code>PTS</state_code>
-    <state_name>Port Said Governorate</state_name>
+    <state_name>Port Said</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316165,7 +316191,7 @@
     <name>Al Khānkah</name>
     <state_id>3232</state_id>
     <state_code>KB</state_code>
-    <state_name>Qalyubia Governorate</state_name>
+    <state_name>Qalyubia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316178,7 +316204,7 @@
     <name>Al Qanāţir al Khayrīyah</name>
     <state_id>3232</state_id>
     <state_code>KB</state_code>
-    <state_name>Qalyubia Governorate</state_name>
+    <state_name>Qalyubia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316191,7 +316217,7 @@
     <name>Banhā</name>
     <state_id>3232</state_id>
     <state_code>KB</state_code>
-    <state_name>Qalyubia Governorate</state_name>
+    <state_name>Qalyubia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316204,7 +316230,7 @@
     <name>Qalyūb</name>
     <state_id>3232</state_id>
     <state_code>KB</state_code>
-    <state_name>Qalyubia Governorate</state_name>
+    <state_name>Qalyubia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316217,7 +316243,7 @@
     <name>Shibīn al Qanāṭir</name>
     <state_id>3232</state_id>
     <state_code>KB</state_code>
-    <state_name>Qalyubia Governorate</state_name>
+    <state_name>Qalyubia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316230,7 +316256,7 @@
     <name>Toukh</name>
     <state_id>3232</state_id>
     <state_code>KB</state_code>
-    <state_name>Qalyubia Governorate</state_name>
+    <state_name>Qalyubia</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316243,7 +316269,7 @@
     <name>Dishnā</name>
     <state_id>3247</state_id>
     <state_code>KN</state_code>
-    <state_name>Qena Governorate</state_name>
+    <state_name>Qena</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316256,7 +316282,7 @@
     <name>Farshūţ</name>
     <state_id>3247</state_id>
     <state_code>KN</state_code>
-    <state_name>Qena Governorate</state_name>
+    <state_name>Qena</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316269,7 +316295,7 @@
     <name>Isnā</name>
     <state_id>3247</state_id>
     <state_code>KN</state_code>
-    <state_name>Qena Governorate</state_name>
+    <state_name>Qena</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316282,7 +316308,7 @@
     <name>Kousa</name>
     <state_id>3247</state_id>
     <state_code>KN</state_code>
-    <state_name>Qena Governorate</state_name>
+    <state_name>Qena</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316295,7 +316321,7 @@
     <name>Naja' Ḥammādī</name>
     <state_id>3247</state_id>
     <state_code>KN</state_code>
-    <state_name>Qena Governorate</state_name>
+    <state_name>Qena</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316308,7 +316334,7 @@
     <name>Qinā</name>
     <state_id>3247</state_id>
     <state_code>KN</state_code>
-    <state_name>Qena Governorate</state_name>
+    <state_name>Qena</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316321,7 +316347,7 @@
     <name>Al Quşayr</name>
     <state_id>3240</state_id>
     <state_code>BA</state_code>
-    <state_name>Red Sea Governorate</state_name>
+    <state_name>Red Sea</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316334,7 +316360,7 @@
     <name>El Gouna</name>
     <state_id>3240</state_id>
     <state_code>BA</state_code>
-    <state_name>Red Sea Governorate</state_name>
+    <state_name>Red Sea</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316347,7 +316373,7 @@
     <name>Hurghada</name>
     <state_id>3240</state_id>
     <state_code>BA</state_code>
-    <state_name>Red Sea Governorate</state_name>
+    <state_name>Red Sea</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316360,7 +316386,7 @@
     <name>Makadi Bay</name>
     <state_id>3240</state_id>
     <state_code>BA</state_code>
-    <state_name>Red Sea Governorate</state_name>
+    <state_name>Red Sea</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316373,7 +316399,7 @@
     <name>Marsa Alam</name>
     <state_id>3240</state_id>
     <state_code>BA</state_code>
-    <state_name>Red Sea Governorate</state_name>
+    <state_name>Red Sea</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316386,7 +316412,7 @@
     <name>Ras Gharib</name>
     <state_id>3240</state_id>
     <state_code>BA</state_code>
-    <state_name>Red Sea Governorate</state_name>
+    <state_name>Red Sea</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316399,7 +316425,7 @@
     <name>Safaga</name>
     <state_id>3240</state_id>
     <state_code>BA</state_code>
-    <state_name>Red Sea Governorate</state_name>
+    <state_name>Red Sea</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316408,11 +316434,193 @@
     <wikiDataId>Q986325</wikiDataId>
   </city>
   <city>
+    <id>149220</id>
+    <name>10th of Ramadan</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>30.29939390</latitude>
+    <longitude>31.61417890</longitude>
+    <wikiDataId>Q337539</wikiDataId>
+  </city>
+  <city>
+    <id>149228</id>
+    <name>Al Qurein</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>26.29300660</latitude>
+    <longitude>31.84950350</longitude>
+    <wikiDataId>Q13634887</wikiDataId>
+  </city>
+  <city>
+    <id>149223</id>
+    <name>Awlad Saqr</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>30.93096230</latitude>
+    <longitude>31.69132380</longitude>
+    <wikiDataId>Q22928786</wikiDataId>
+  </city>
+  <city>
+    <id>149224</id>
+    <name>Bilbeis</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>30.41676920</latitude>
+    <longitude>31.55430480</longitude>
+    <wikiDataId>Q393495</wikiDataId>
+  </city>
+  <city>
+    <id>149225</id>
+    <name>Diyarb Negm</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>30.74800820</latitude>
+    <longitude>31.38893080</longitude>
+    <wikiDataId>Q23951814</wikiDataId>
+  </city>
+  <city>
+    <id>149226</id>
+    <name>El Husseiniya</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>31.13933960</latitude>
+    <longitude>32.14949670</longitude>
+    <wikiDataId>Q5949897</wikiDataId>
+  </city>
+  <city>
+    <id>149229</id>
+    <name>Faqous</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>30.72291740</latitude>
+    <longitude>31.76136580</longitude>
+    <wikiDataId>Q22930182</wikiDataId>
+  </city>
+  <city>
+    <id>149230</id>
+    <name>Hihya</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>30.65516210</latitude>
+    <longitude>31.50671570</longitude>
+    <wikiDataId>Q4165655</wikiDataId>
+  </city>
+  <city>
+    <id>149231</id>
+    <name>Kafr Saqr</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>30.77955140</latitude>
+    <longitude>31.61774120</longitude>
+    <wikiDataId>Q4165658</wikiDataId>
+  </city>
+  <city>
+    <id>149221</id>
+    <name>Markaz Abū Ḩammād</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>30.53604430</latitude>
+    <longitude>31.65970230</longitude>
+    <wikiDataId>Q22928517</wikiDataId>
+  </city>
+  <city>
+    <id>149232</id>
+    <name>Mashtoul El Souk</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>30.35570110</latitude>
+    <longitude>31.36278530</longitude>
+    <wikiDataId>Q16126100</wikiDataId>
+  </city>
+  <city>
+    <id>149233</id>
+    <name>Minya El Qamh</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>30.50037450</latitude>
+    <longitude>31.23766850</longitude>
+    <wikiDataId>Q6024576</wikiDataId>
+  </city>
+  <city>
+    <id>149234</id>
+    <name>New Salhia</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>30.62868790</latitude>
+    <longitude>31.92099060</longitude>
+    <wikiDataId>Q5352068</wikiDataId>
+  </city>
+  <city>
+    <id>149235</id>
+    <name>Zagazig</name>
+    <state_id>5067</state_id>
+    <state_code>SHR</state_code>
+    <state_name>Sharqia</state_name>
+    <country_id>65</country_id>
+    <country_code>EG</country_code>
+    <country_name>Egypt</country_name>
+    <latitude>30.58456230</latitude>
+    <longitude>31.34747790</longitude>
+    <wikiDataId>Q140304</wikiDataId>
+  </city>
+  <city>
     <id>31763</id>
     <name>Akhmīm</name>
     <state_id>3226</state_id>
     <state_code>SHG</state_code>
-    <state_name>Sohag Governorate</state_name>
+    <state_name>Sohag</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316425,7 +316633,7 @@
     <name>Al Balyanā</name>
     <state_id>3226</state_id>
     <state_code>SHG</state_code>
-    <state_name>Sohag Governorate</state_name>
+    <state_name>Sohag</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316438,7 +316646,7 @@
     <name>Al Manshāh</name>
     <state_id>3226</state_id>
     <state_code>SHG</state_code>
-    <state_name>Sohag Governorate</state_name>
+    <state_name>Sohag</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316451,7 +316659,7 @@
     <name>Jirjā</name>
     <state_id>3226</state_id>
     <state_code>SHG</state_code>
-    <state_name>Sohag Governorate</state_name>
+    <state_name>Sohag</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316464,7 +316672,7 @@
     <name>Juhaynah</name>
     <state_id>3226</state_id>
     <state_code>SHG</state_code>
-    <state_name>Sohag Governorate</state_name>
+    <state_name>Sohag</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316477,7 +316685,7 @@
     <name>Markaz Jirjā</name>
     <state_id>3226</state_id>
     <state_code>SHG</state_code>
-    <state_name>Sohag Governorate</state_name>
+    <state_name>Sohag</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316490,7 +316698,7 @@
     <name>Markaz Sūhāj</name>
     <state_id>3226</state_id>
     <state_code>SHG</state_code>
-    <state_name>Sohag Governorate</state_name>
+    <state_name>Sohag</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316503,7 +316711,7 @@
     <name>Sohag</name>
     <state_id>3226</state_id>
     <state_code>SHG</state_code>
-    <state_name>Sohag Governorate</state_name>
+    <state_name>Sohag</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316516,7 +316724,7 @@
     <name>Ţahţā</name>
     <state_id>3226</state_id>
     <state_code>SHG</state_code>
-    <state_name>Sohag Governorate</state_name>
+    <state_name>Sohag</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316529,7 +316737,7 @@
     <name>Dahab</name>
     <state_id>3237</state_id>
     <state_code>JS</state_code>
-    <state_name>South Sinai Governorate</state_name>
+    <state_name>South Sinai</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316542,7 +316750,7 @@
     <name>El-Tor</name>
     <state_id>3237</state_id>
     <state_code>JS</state_code>
-    <state_name>South Sinai Governorate</state_name>
+    <state_name>South Sinai</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316555,7 +316763,7 @@
     <name>Nuwaybi‘a</name>
     <state_id>3237</state_id>
     <state_code>JS</state_code>
-    <state_name>South Sinai Governorate</state_name>
+    <state_name>South Sinai</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316568,7 +316776,7 @@
     <name>Saint Catherine</name>
     <state_id>3237</state_id>
     <state_code>JS</state_code>
-    <state_name>South Sinai Governorate</state_name>
+    <state_name>South Sinai</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316581,7 +316789,7 @@
     <name>Sharm el-Sheikh</name>
     <state_id>3237</state_id>
     <state_code>JS</state_code>
-    <state_name>South Sinai Governorate</state_name>
+    <state_name>South Sinai</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316594,7 +316802,7 @@
     <name>Ain Sukhna</name>
     <state_id>3233</state_id>
     <state_code>SUZ</state_code>
-    <state_name>Suez Governorate</state_name>
+    <state_name>Suez</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>
@@ -316607,7 +316815,7 @@
     <name>Suez</name>
     <state_id>3233</state_id>
     <state_code>SUZ</state_code>
-    <state_name>Suez Governorate</state_name>
+    <state_name>Suez</state_name>
     <country_id>65</country_id>
     <country_code>EG</country_code>
     <country_name>Egypt</country_name>

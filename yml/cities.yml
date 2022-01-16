@@ -24024,6 +24024,18 @@ city:
     longitude: '151.14304000'
     wikiDataId: Q291305
   -
+    id: 149215
+    name: Banksmeadow
+    state_id: 3909
+    state_code: NSW
+    state_name: 'New South Wales'
+    country_id: 14
+    country_code: AU
+    country_name: Australia
+    latitude: '-33.95603010'
+    longitude: '151.19736200'
+    wikiDataId: Q2975781
+  -
     id: 4103
     name: Bankstown
     state_id: 3909
@@ -37715,6 +37727,18 @@ city:
     latitude: '-33.75697000'
     longitude: '150.80402000'
     wikiDataId: Q1109652
+  -
+    id: 149216
+    name: 'Whale Beach'
+    state_id: 3909
+    state_code: NSW
+    state_name: 'New South Wales'
+    country_id: 14
+    country_code: AU
+    country_name: Australia
+    latitude: '-33.61241180'
+    longitude: '151.32540650'
+    wikiDataId: Q4355595
   -
     id: 7831
     name: 'Wheeler Heights'
@@ -290752,7 +290776,7 @@ city:
     name: Alexandria
     state_id: 3235
     state_code: ALX
-    state_name: 'Alexandria Governorate'
+    state_name: Alexandria
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290764,7 +290788,7 @@ city:
     name: 'Abu Simbel'
     state_id: 3225
     state_code: ASN
-    state_name: 'Aswan Governorate'
+    state_name: Aswan
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290776,7 +290800,7 @@ city:
     name: Aswan
     state_id: 3225
     state_code: ASN
-    state_name: 'Aswan Governorate'
+    state_name: Aswan
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290788,7 +290812,7 @@ city:
     name: Idfū
     state_id: 3225
     state_code: ASN
-    state_name: 'Aswan Governorate'
+    state_name: Aswan
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290800,7 +290824,7 @@ city:
     name: 'Kawm Umbū'
     state_id: 3225
     state_code: ASN
-    state_name: 'Aswan Governorate'
+    state_name: Aswan
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290812,7 +290836,7 @@ city:
     name: Abnūb
     state_id: 3236
     state_code: AST
-    state_name: 'Asyut Governorate'
+    state_name: Asyut
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290824,7 +290848,7 @@ city:
     name: 'Abū Tīj'
     state_id: 3236
     state_code: AST
-    state_name: 'Asyut Governorate'
+    state_name: Asyut
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290836,7 +290860,7 @@ city:
     name: 'Al Badārī'
     state_id: 3236
     state_code: AST
-    state_name: 'Asyut Governorate'
+    state_name: Asyut
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290848,7 +290872,7 @@ city:
     name: 'Al Qūşīyah'
     state_id: 3236
     state_code: AST
-    state_name: 'Asyut Governorate'
+    state_name: Asyut
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290860,7 +290884,7 @@ city:
     name: Asyūţ
     state_id: 3236
     state_code: AST
-    state_name: 'Asyut Governorate'
+    state_name: Asyut
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290872,7 +290896,7 @@ city:
     name: Dayrūţ
     state_id: 3236
     state_code: AST
-    state_name: 'Asyut Governorate'
+    state_name: Asyut
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290884,7 +290908,7 @@ city:
     name: Manfalūţ
     state_id: 3236
     state_code: AST
-    state_name: 'Asyut Governorate'
+    state_name: Asyut
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290896,7 +290920,7 @@ city:
     name: 'Abū al Maţāmīr'
     state_id: 3241
     state_code: BH
-    state_name: 'Beheira Governorate'
+    state_name: Beheira
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290908,7 +290932,7 @@ city:
     name: 'Ad Dilinjāt'
     state_id: 3241
     state_code: BH
-    state_name: 'Beheira Governorate'
+    state_name: Beheira
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290920,7 +290944,7 @@ city:
     name: Damanhūr
     state_id: 3241
     state_code: BH
-    state_name: 'Beheira Governorate'
+    state_name: Beheira
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290932,7 +290956,7 @@ city:
     name: 'Ḩawsh ‘Īsá'
     state_id: 3241
     state_code: BH
-    state_name: 'Beheira Governorate'
+    state_name: Beheira
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290944,7 +290968,7 @@ city:
     name: Idkū
     state_id: 3241
     state_code: BH
-    state_name: 'Beheira Governorate'
+    state_name: Beheira
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290956,7 +290980,7 @@ city:
     name: 'Kafr ad Dawwār'
     state_id: 3241
     state_code: BH
-    state_name: 'Beheira Governorate'
+    state_name: Beheira
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290968,7 +290992,7 @@ city:
     name: 'Kawm Ḩamādah'
     state_id: 3241
     state_code: BH
-    state_name: 'Beheira Governorate'
+    state_name: Beheira
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290980,7 +291004,7 @@ city:
     name: Rosetta
     state_id: 3241
     state_code: BH
-    state_name: 'Beheira Governorate'
+    state_name: Beheira
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -290992,7 +291016,7 @@ city:
     name: 'Al Fashn'
     state_id: 3230
     state_code: BNS
-    state_name: 'Beni Suef Governorate'
+    state_name: 'Beni Suef'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291004,7 +291028,7 @@ city:
     name: 'Banī Suwayf'
     state_id: 3230
     state_code: BNS
-    state_name: 'Beni Suef Governorate'
+    state_name: 'Beni Suef'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291016,7 +291040,7 @@ city:
     name: Būsh
     state_id: 3230
     state_code: BNS
-    state_name: 'Beni Suef Governorate'
+    state_name: 'Beni Suef'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291028,7 +291052,7 @@ city:
     name: 'Sumusţā as Sulţānī'
     state_id: 3230
     state_code: BNS
-    state_name: 'Beni Suef Governorate'
+    state_name: 'Beni Suef'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291040,7 +291064,7 @@ city:
     name: Cairo
     state_id: 3223
     state_code: C
-    state_name: 'Cairo Governorate'
+    state_name: Cairo
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291052,7 +291076,7 @@ city:
     name: Ḩalwān
     state_id: 3223
     state_code: C
-    state_name: 'Cairo Governorate'
+    state_name: Cairo
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291064,7 +291088,7 @@ city:
     name: 'New Cairo'
     state_id: 3223
     state_code: C
-    state_name: 'Cairo Governorate'
+    state_name: Cairo
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291076,7 +291100,7 @@ city:
     name: '‘Izbat al Burj'
     state_id: 3245
     state_code: DK
-    state_name: 'Dakahlia Governorate'
+    state_name: Dakahlia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291088,7 +291112,7 @@ city:
     name: Ajā
     state_id: 3245
     state_code: DK
-    state_name: 'Dakahlia Governorate'
+    state_name: Dakahlia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291100,7 +291124,7 @@ city:
     name: 'Al Jammālīyah'
     state_id: 3245
     state_code: DK
-    state_name: 'Dakahlia Governorate'
+    state_name: Dakahlia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291112,7 +291136,7 @@ city:
     name: 'Al Manşūrah'
     state_id: 3245
     state_code: DK
-    state_name: 'Dakahlia Governorate'
+    state_name: Dakahlia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291124,7 +291148,7 @@ city:
     name: 'Al Manzalah'
     state_id: 3245
     state_code: DK
-    state_name: 'Dakahlia Governorate'
+    state_name: Dakahlia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291136,7 +291160,7 @@ city:
     name: 'Al Maţarīyah'
     state_id: 3245
     state_code: DK
-    state_name: 'Dakahlia Governorate'
+    state_name: Dakahlia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291148,7 +291172,7 @@ city:
     name: Bilqās
     state_id: 3245
     state_code: DK
-    state_name: 'Dakahlia Governorate'
+    state_name: Dakahlia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291160,7 +291184,7 @@ city:
     name: Dikirnis
     state_id: 3245
     state_code: DK
-    state_name: 'Dakahlia Governorate'
+    state_name: Dakahlia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291172,7 +291196,7 @@ city:
     name: 'Minyat an Naşr'
     state_id: 3245
     state_code: DK
-    state_name: 'Dakahlia Governorate'
+    state_name: Dakahlia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291184,7 +291208,7 @@ city:
     name: Shirbīn
     state_id: 3245
     state_code: DK
-    state_name: 'Dakahlia Governorate'
+    state_name: Dakahlia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291196,7 +291220,7 @@ city:
     name: Ţalkhā
     state_id: 3245
     state_code: DK
-    state_name: 'Dakahlia Governorate'
+    state_name: Dakahlia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291208,7 +291232,7 @@ city:
     name: 'Az Zarqā'
     state_id: 3224
     state_code: DT
-    state_name: 'Damietta Governorate'
+    state_name: Damietta
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291220,7 +291244,7 @@ city:
     name: Damietta
     state_id: 3224
     state_code: DT
-    state_name: 'Damietta Governorate'
+    state_name: Damietta
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291232,7 +291256,7 @@ city:
     name: Fāraskūr
     state_id: 3224
     state_code: DT
-    state_name: 'Damietta Governorate'
+    state_name: Damietta
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291244,7 +291268,7 @@ city:
     name: 'Al Fayyūm'
     state_id: 3238
     state_code: FYM
-    state_name: 'Faiyum Governorate'
+    state_name: Faiyum
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291256,7 +291280,7 @@ city:
     name: 'Al Wāsiţah'
     state_id: 3238
     state_code: FYM
-    state_name: 'Faiyum Governorate'
+    state_name: Faiyum
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291268,7 +291292,7 @@ city:
     name: Ibshawāy
     state_id: 3238
     state_code: FYM
-    state_name: 'Faiyum Governorate'
+    state_name: Faiyum
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291280,7 +291304,7 @@ city:
     name: Iţsā
     state_id: 3238
     state_code: FYM
-    state_name: 'Faiyum Governorate'
+    state_name: Faiyum
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291292,7 +291316,7 @@ city:
     name: Ţāmiyah
     state_id: 3238
     state_code: FYM
-    state_name: 'Faiyum Governorate'
+    state_name: Faiyum
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291304,7 +291328,7 @@ city:
     name: 'Al Maḩallah al Kubrá'
     state_id: 3234
     state_code: GH
-    state_name: 'Gharbia Governorate'
+    state_name: Gharbia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291316,7 +291340,7 @@ city:
     name: Basyūn
     state_id: 3234
     state_code: GH
-    state_name: 'Gharbia Governorate'
+    state_name: Gharbia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291328,7 +291352,7 @@ city:
     name: 'Kafr az Zayyāt'
     state_id: 3234
     state_code: GH
-    state_name: 'Gharbia Governorate'
+    state_name: Gharbia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291340,7 +291364,7 @@ city:
     name: Quţūr
     state_id: 3234
     state_code: GH
-    state_name: 'Gharbia Governorate'
+    state_name: Gharbia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291352,7 +291376,7 @@ city:
     name: Samannūd
     state_id: 3234
     state_code: GH
-    state_name: 'Gharbia Governorate'
+    state_name: Gharbia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291364,7 +291388,7 @@ city:
     name: Tanda
     state_id: 3234
     state_code: GH
-    state_name: 'Gharbia Governorate'
+    state_name: Gharbia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291376,7 +291400,7 @@ city:
     name: Zefta
     state_id: 3234
     state_code: GH
-    state_name: 'Gharbia Governorate'
+    state_name: Gharbia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291388,7 +291412,7 @@ city:
     name: 'Al ‘Ayyāţ'
     state_id: 3239
     state_code: GZ
-    state_name: 'Giza Governorate'
+    state_name: Giza
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291400,7 +291424,7 @@ city:
     name: 'Al Bawīţī'
     state_id: 3239
     state_code: GZ
-    state_name: 'Giza Governorate'
+    state_name: Giza
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291412,7 +291436,7 @@ city:
     name: 'Al Ḩawāmidīyah'
     state_id: 3239
     state_code: GZ
-    state_name: 'Giza Governorate'
+    state_name: Giza
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291424,7 +291448,7 @@ city:
     name: 'Aş Şaff'
     state_id: 3239
     state_code: GZ
-    state_name: 'Giza Governorate'
+    state_name: Giza
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291436,7 +291460,7 @@ city:
     name: Awsīm
     state_id: 3239
     state_code: GZ
-    state_name: 'Giza Governorate'
+    state_name: Giza
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291448,7 +291472,7 @@ city:
     name: Giza
     state_id: 3239
     state_code: GZ
-    state_name: 'Giza Governorate'
+    state_name: Giza
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291460,7 +291484,7 @@ city:
     name: 'Madīnat Sittah Uktūbar'
     state_id: 3239
     state_code: GZ
-    state_name: 'Giza Governorate'
+    state_name: Giza
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291472,7 +291496,7 @@ city:
     name: Ismailia
     state_id: 3244
     state_code: IS
-    state_name: 'Ismailia Governorate'
+    state_name: Ismailia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291484,7 +291508,7 @@ city:
     name: 'Al Ḩāmūl'
     state_id: 3222
     state_code: KFS
-    state_name: 'Kafr el-Sheikh Governorate'
+    state_name: 'Kafr el-Sheikh'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291496,7 +291520,7 @@ city:
     name: Disūq
     state_id: 3222
     state_code: KFS
-    state_name: 'Kafr el-Sheikh Governorate'
+    state_name: 'Kafr el-Sheikh'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291508,7 +291532,7 @@ city:
     name: Fuwwah
     state_id: 3222
     state_code: KFS
-    state_name: 'Kafr el-Sheikh Governorate'
+    state_name: 'Kafr el-Sheikh'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291520,7 +291544,7 @@ city:
     name: 'Kafr ash Shaykh'
     state_id: 3222
     state_code: KFS
-    state_name: 'Kafr el-Sheikh Governorate'
+    state_name: 'Kafr el-Sheikh'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291532,7 +291556,7 @@ city:
     name: 'Markaz Disūq'
     state_id: 3222
     state_code: KFS
-    state_name: 'Kafr el-Sheikh Governorate'
+    state_name: 'Kafr el-Sheikh'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291544,7 +291568,7 @@ city:
     name: 'Munshāt ‘Alī Āghā'
     state_id: 3222
     state_code: KFS
-    state_name: 'Kafr el-Sheikh Governorate'
+    state_name: 'Kafr el-Sheikh'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291556,7 +291580,7 @@ city:
     name: 'Sīdī Sālim'
     state_id: 3222
     state_code: KFS
-    state_name: 'Kafr el-Sheikh Governorate'
+    state_name: 'Kafr el-Sheikh'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291568,7 +291592,7 @@ city:
     name: Luxor
     state_id: 3242
     state_code: LX
-    state_name: 'Luxor Governorate'
+    state_name: Luxor
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291580,7 +291604,7 @@ city:
     name: 'Markaz al Uqşur'
     state_id: 3242
     state_code: LX
-    state_name: 'Luxor Governorate'
+    state_name: Luxor
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291592,7 +291616,7 @@ city:
     name: 'Al ‘Alamayn'
     state_id: 3231
     state_code: MT
-    state_name: 'Matrouh Governorate'
+    state_name: Matrouh
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291604,7 +291628,7 @@ city:
     name: 'Mersa Matruh'
     state_id: 3231
     state_code: MT
-    state_name: 'Matrouh Governorate'
+    state_name: Matrouh
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291616,7 +291640,7 @@ city:
     name: 'Siwa Oasis'
     state_id: 3231
     state_code: MT
-    state_name: 'Matrouh Governorate'
+    state_name: Matrouh
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291628,7 +291652,7 @@ city:
     name: 'Abū Qurqāş'
     state_id: 3243
     state_code: MN
-    state_name: 'Minya Governorate'
+    state_name: Minya
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291640,7 +291664,7 @@ city:
     name: 'Al Minyā'
     state_id: 3243
     state_code: MN
-    state_name: 'Minya Governorate'
+    state_name: Minya
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291652,7 +291676,7 @@ city:
     name: 'Banī Mazār'
     state_id: 3243
     state_code: MN
-    state_name: 'Minya Governorate'
+    state_name: Minya
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291664,7 +291688,7 @@ city:
     name: 'Dayr Mawās'
     state_id: 3243
     state_code: MN
-    state_name: 'Minya Governorate'
+    state_name: Minya
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291676,7 +291700,7 @@ city:
     name: Mallawī
     state_id: 3243
     state_code: MN
-    state_name: 'Minya Governorate'
+    state_name: Minya
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291688,7 +291712,7 @@ city:
     name: Maţāy
     state_id: 3243
     state_code: MN
-    state_name: 'Minya Governorate'
+    state_name: Minya
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291700,7 +291724,7 @@ city:
     name: Samālūţ
     state_id: 3243
     state_code: MN
-    state_name: 'Minya Governorate'
+    state_name: Minya
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291712,7 +291736,7 @@ city:
     name: 'Al Bājūr'
     state_id: 3228
     state_code: MNF
-    state_name: 'Monufia Governorate'
+    state_name: Monufia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291724,7 +291748,7 @@ city:
     name: 'Ash Shuhadā’'
     state_id: 3228
     state_code: MNF
-    state_name: 'Monufia Governorate'
+    state_name: Monufia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291736,7 +291760,7 @@ city:
     name: Ashmūn
     state_id: 3228
     state_code: MNF
-    state_name: 'Monufia Governorate'
+    state_name: Monufia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291748,7 +291772,7 @@ city:
     name: Munūf
     state_id: 3228
     state_code: MNF
-    state_name: 'Monufia Governorate'
+    state_name: Monufia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291760,7 +291784,7 @@ city:
     name: Quwaysinā
     state_id: 3228
     state_code: MNF
-    state_name: 'Monufia Governorate'
+    state_name: Monufia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291772,7 +291796,7 @@ city:
     name: 'Shibīn al Kawm'
     state_id: 3228
     state_code: MNF
-    state_name: 'Monufia Governorate'
+    state_name: Monufia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291784,7 +291808,7 @@ city:
     name: Talā
     state_id: 3228
     state_code: MNF
-    state_name: 'Monufia Governorate'
+    state_name: Monufia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291796,7 +291820,7 @@ city:
     name: 'Al Khārijah'
     state_id: 3246
     state_code: WAD
-    state_name: 'New Valley Governorate'
+    state_name: 'New Valley'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291808,7 +291832,7 @@ city:
     name: 'Qaşr al Farāfirah'
     state_id: 3246
     state_code: WAD
-    state_name: 'New Valley Governorate'
+    state_name: 'New Valley'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291820,7 +291844,7 @@ city:
     name: Arish
     state_id: 3227
     state_code: SIN
-    state_name: 'North Sinai Governorate'
+    state_name: 'North Sinai'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291832,7 +291856,7 @@ city:
     name: 'Port Said'
     state_id: 3229
     state_code: PTS
-    state_name: 'Port Said Governorate'
+    state_name: 'Port Said'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291844,7 +291868,7 @@ city:
     name: 'Al Khānkah'
     state_id: 3232
     state_code: KB
-    state_name: 'Qalyubia Governorate'
+    state_name: Qalyubia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291856,7 +291880,7 @@ city:
     name: 'Al Qanāţir al Khayrīyah'
     state_id: 3232
     state_code: KB
-    state_name: 'Qalyubia Governorate'
+    state_name: Qalyubia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291868,7 +291892,7 @@ city:
     name: Banhā
     state_id: 3232
     state_code: KB
-    state_name: 'Qalyubia Governorate'
+    state_name: Qalyubia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291880,7 +291904,7 @@ city:
     name: Qalyūb
     state_id: 3232
     state_code: KB
-    state_name: 'Qalyubia Governorate'
+    state_name: Qalyubia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291892,7 +291916,7 @@ city:
     name: 'Shibīn al Qanāṭir'
     state_id: 3232
     state_code: KB
-    state_name: 'Qalyubia Governorate'
+    state_name: Qalyubia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291904,7 +291928,7 @@ city:
     name: Toukh
     state_id: 3232
     state_code: KB
-    state_name: 'Qalyubia Governorate'
+    state_name: Qalyubia
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291916,7 +291940,7 @@ city:
     name: Dishnā
     state_id: 3247
     state_code: KN
-    state_name: 'Qena Governorate'
+    state_name: Qena
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291928,7 +291952,7 @@ city:
     name: Farshūţ
     state_id: 3247
     state_code: KN
-    state_name: 'Qena Governorate'
+    state_name: Qena
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291940,7 +291964,7 @@ city:
     name: Isnā
     state_id: 3247
     state_code: KN
-    state_name: 'Qena Governorate'
+    state_name: Qena
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291952,7 +291976,7 @@ city:
     name: Kousa
     state_id: 3247
     state_code: KN
-    state_name: 'Qena Governorate'
+    state_name: Qena
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291964,7 +291988,7 @@ city:
     name: 'Naja'' Ḥammādī'
     state_id: 3247
     state_code: KN
-    state_name: 'Qena Governorate'
+    state_name: Qena
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291976,7 +292000,7 @@ city:
     name: Qinā
     state_id: 3247
     state_code: KN
-    state_name: 'Qena Governorate'
+    state_name: Qena
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -291988,7 +292012,7 @@ city:
     name: 'Al Quşayr'
     state_id: 3240
     state_code: BA
-    state_name: 'Red Sea Governorate'
+    state_name: 'Red Sea'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292000,7 +292024,7 @@ city:
     name: 'El Gouna'
     state_id: 3240
     state_code: BA
-    state_name: 'Red Sea Governorate'
+    state_name: 'Red Sea'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292012,7 +292036,7 @@ city:
     name: Hurghada
     state_id: 3240
     state_code: BA
-    state_name: 'Red Sea Governorate'
+    state_name: 'Red Sea'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292024,7 +292048,7 @@ city:
     name: 'Makadi Bay'
     state_id: 3240
     state_code: BA
-    state_name: 'Red Sea Governorate'
+    state_name: 'Red Sea'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292036,7 +292060,7 @@ city:
     name: 'Marsa Alam'
     state_id: 3240
     state_code: BA
-    state_name: 'Red Sea Governorate'
+    state_name: 'Red Sea'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292048,7 +292072,7 @@ city:
     name: 'Ras Gharib'
     state_id: 3240
     state_code: BA
-    state_name: 'Red Sea Governorate'
+    state_name: 'Red Sea'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292060,7 +292084,7 @@ city:
     name: Safaga
     state_id: 3240
     state_code: BA
-    state_name: 'Red Sea Governorate'
+    state_name: 'Red Sea'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292068,11 +292092,179 @@ city:
     longitude: '33.93891000'
     wikiDataId: Q986325
   -
+    id: 149220
+    name: '10th of Ramadan'
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '30.29939390'
+    longitude: '31.61417890'
+    wikiDataId: Q337539
+  -
+    id: 149228
+    name: 'Al Qurein'
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '26.29300660'
+    longitude: '31.84950350'
+    wikiDataId: Q13634887
+  -
+    id: 149223
+    name: 'Awlad Saqr'
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '30.93096230'
+    longitude: '31.69132380'
+    wikiDataId: Q22928786
+  -
+    id: 149224
+    name: Bilbeis
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '30.41676920'
+    longitude: '31.55430480'
+    wikiDataId: Q393495
+  -
+    id: 149225
+    name: 'Diyarb Negm'
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '30.74800820'
+    longitude: '31.38893080'
+    wikiDataId: Q23951814
+  -
+    id: 149226
+    name: 'El Husseiniya'
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '31.13933960'
+    longitude: '32.14949670'
+    wikiDataId: Q5949897
+  -
+    id: 149229
+    name: Faqous
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '30.72291740'
+    longitude: '31.76136580'
+    wikiDataId: Q22930182
+  -
+    id: 149230
+    name: Hihya
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '30.65516210'
+    longitude: '31.50671570'
+    wikiDataId: Q4165655
+  -
+    id: 149231
+    name: 'Kafr Saqr'
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '30.77955140'
+    longitude: '31.61774120'
+    wikiDataId: Q4165658
+  -
+    id: 149221
+    name: 'Markaz Abū Ḩammād'
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '30.53604430'
+    longitude: '31.65970230'
+    wikiDataId: Q22928517
+  -
+    id: 149232
+    name: 'Mashtoul El Souk'
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '30.35570110'
+    longitude: '31.36278530'
+    wikiDataId: Q16126100
+  -
+    id: 149233
+    name: 'Minya El Qamh'
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '30.50037450'
+    longitude: '31.23766850'
+    wikiDataId: Q6024576
+  -
+    id: 149234
+    name: 'New Salhia'
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '30.62868790'
+    longitude: '31.92099060'
+    wikiDataId: Q5352068
+  -
+    id: 149235
+    name: Zagazig
+    state_id: 5067
+    state_code: SHR
+    state_name: Sharqia
+    country_id: 65
+    country_code: EG
+    country_name: Egypt
+    latitude: '30.58456230'
+    longitude: '31.34747790'
+    wikiDataId: Q140304
+  -
     id: 31763
     name: Akhmīm
     state_id: 3226
     state_code: SHG
-    state_name: 'Sohag Governorate'
+    state_name: Sohag
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292084,7 +292276,7 @@ city:
     name: 'Al Balyanā'
     state_id: 3226
     state_code: SHG
-    state_name: 'Sohag Governorate'
+    state_name: Sohag
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292096,7 +292288,7 @@ city:
     name: 'Al Manshāh'
     state_id: 3226
     state_code: SHG
-    state_name: 'Sohag Governorate'
+    state_name: Sohag
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292108,7 +292300,7 @@ city:
     name: Jirjā
     state_id: 3226
     state_code: SHG
-    state_name: 'Sohag Governorate'
+    state_name: Sohag
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292120,7 +292312,7 @@ city:
     name: Juhaynah
     state_id: 3226
     state_code: SHG
-    state_name: 'Sohag Governorate'
+    state_name: Sohag
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292132,7 +292324,7 @@ city:
     name: 'Markaz Jirjā'
     state_id: 3226
     state_code: SHG
-    state_name: 'Sohag Governorate'
+    state_name: Sohag
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292144,7 +292336,7 @@ city:
     name: 'Markaz Sūhāj'
     state_id: 3226
     state_code: SHG
-    state_name: 'Sohag Governorate'
+    state_name: Sohag
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292156,7 +292348,7 @@ city:
     name: Sohag
     state_id: 3226
     state_code: SHG
-    state_name: 'Sohag Governorate'
+    state_name: Sohag
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292168,7 +292360,7 @@ city:
     name: Ţahţā
     state_id: 3226
     state_code: SHG
-    state_name: 'Sohag Governorate'
+    state_name: Sohag
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292180,7 +292372,7 @@ city:
     name: Dahab
     state_id: 3237
     state_code: JS
-    state_name: 'South Sinai Governorate'
+    state_name: 'South Sinai'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292192,7 +292384,7 @@ city:
     name: El-Tor
     state_id: 3237
     state_code: JS
-    state_name: 'South Sinai Governorate'
+    state_name: 'South Sinai'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292204,7 +292396,7 @@ city:
     name: Nuwaybi‘a
     state_id: 3237
     state_code: JS
-    state_name: 'South Sinai Governorate'
+    state_name: 'South Sinai'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292216,7 +292408,7 @@ city:
     name: 'Saint Catherine'
     state_id: 3237
     state_code: JS
-    state_name: 'South Sinai Governorate'
+    state_name: 'South Sinai'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292228,7 +292420,7 @@ city:
     name: 'Sharm el-Sheikh'
     state_id: 3237
     state_code: JS
-    state_name: 'South Sinai Governorate'
+    state_name: 'South Sinai'
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292240,7 +292432,7 @@ city:
     name: 'Ain Sukhna'
     state_id: 3233
     state_code: SUZ
-    state_name: 'Suez Governorate'
+    state_name: Suez
     country_id: 65
     country_code: EG
     country_name: Egypt
@@ -292252,7 +292444,7 @@ city:
     name: Suez
     state_id: 3233
     state_code: SUZ
-    state_name: 'Suez Governorate'
+    state_name: Suez
     country_id: 65
     country_code: EG
     country_name: Egypt
