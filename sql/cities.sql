@@ -148457,7 +148457,8 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (149235, 'Timbío', 2884, 'CAU', 48, 'CO', '2.35277888', '-76.68194444', '2022-01-16 15:26:55', '2022-01-16 15:26:55', 1, 'Q2309015'),
 (149236, 'Tuchín', 2898, 'COR', 48, 'CO', '9.18583333', '-75.55527888', '2022-01-16 15:26:55', '2022-01-16 15:26:55', 1, 'Q2606076'),
 (149237, 'Uribe', 2878, 'MET', 48, 'CO', '3.24083333', '-74.35361111', '2022-01-16 15:26:55', '2022-01-16 15:26:55', 1, 'Q1525863'),
-(149238, 'Villa Caro', 2877, 'NSA', 48, 'CO', '7.91472222', '-72.97194444', '2022-01-16 15:26:55', '2022-01-16 15:26:55', 1, 'Q1654451');
+(149238, 'Villa Caro', 2877, 'NSA', 48, 'CO', '7.91472222', '-72.97194444', '2022-01-16 15:26:55', '2022-01-16 15:26:55', 1, 'Q1654451'),
+(149239, 'Caracas', 4855, 'A', 239, 'VE', '10.5', '-66.93333333', '2022-01-16 15:26:55', '2022-01-16 15:26:55', 1, 'Q1533');
 
 --
 -- Indexes for dumped tables
@@ -148479,7 +148480,7 @@ ALTER TABLE `cities`
 -- AUTO_INCREMENT for table `cities`
 --
 ALTER TABLE `cities`
-  MODIFY `id` mediumint(8) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=149239;
+  MODIFY `id` mediumint(8) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=149240;
 
 --
 -- Constraints for dumped tables
