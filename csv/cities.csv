@@ -581,349 +581,349 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 146,Liberta,3705,06,"Saint Paul Parish",10,AG,"Antigua And Barbuda",17.04141000,-61.79052000,Q1771710
 142,"All Saints",3704,07,"Saint Peter Parish",10,AG,"Antigua And Barbuda",17.06671000,-61.79303000,Q1771715
 147,Parham,3704,07,"Saint Peter Parish",10,AG,"Antigua And Barbuda",17.09682000,-61.77046000,Q376195
-682,Balvanera,3656,B,"Buenos Aires Province",11,AR,Argentina,-34.61032000,-58.39766000,Q805848
-683,Barracas,3656,B,"Buenos Aires Province",11,AR,Argentina,-34.64966000,-58.38341000,Q680964
-687,Belgrano,3656,B,"Buenos Aires Province",11,AR,Argentina,-34.56270000,-58.45829000,Q815569
-697,Boedo,3656,B,"Buenos Aires Province",11,AR,Argentina,-34.63333000,-58.41667000,Q890147
-704,"Buenos Aires",3656,B,"Buenos Aires Province",11,AR,Argentina,-34.61315000,-58.37723000,Q1486
-773,Colegiales,3656,B,"Buenos Aires Province",11,AR,Argentina,-34.57365000,-58.44924000,Q106063
-1380,Retiro,3656,B,"Buenos Aires Province",11,AR,Argentina,-34.58333000,-58.38333000,Q44206
-1561,"Villa Lugano",3656,B,"Buenos Aires Province",11,AR,Argentina,-34.67907000,-58.47263000,Q9093939
-1570,"Villa Ortúzar",3656,B,"Buenos Aires Province",11,AR,Argentina,-34.57973000,-58.46829000,Q1016067
-1576,"Villa Santa Rita",3656,B,"Buenos Aires Province",11,AR,Argentina,-34.61082000,-58.48100000,Q10391476
-659,Ancasti,3647,K,"Catamarca Province",11,AR,Argentina,-28.81247000,-65.50145000,Q21845580
-661,Andalgalá,3647,K,"Catamarca Province",11,AR,Argentina,-27.58185000,-66.31626000,Q489679
-663,"Antofagasta de la Sierra",3647,K,"Catamarca Province",11,AR,Argentina,-26.05940000,-67.40636000,Q2536371
-726,Capayán,3647,K,"Catamarca Province",11,AR,Argentina,-28.77436000,-66.04749000,Q21844014
-824,"Departamento de Ambato",3647,K,"Catamarca Province",11,AR,Argentina,-28.00000000,-65.91667000,Q688734
-825,"Departamento de Ancasti",3647,K,"Catamarca Province",11,AR,Argentina,-29.00000000,-65.50000000,Q760261
-826,"Departamento de Andalgalá",3647,K,"Catamarca Province",11,AR,Argentina,-27.58333000,-66.46667000,Q1190227
-829,"Departamento de Antofagasta de la Sierra",3647,K,"Catamarca Province",11,AR,Argentina,-26.00000000,-67.58333000,Q1190229
-846,"Departamento de Capayán",3647,K,"Catamarca Province",11,AR,Argentina,-28.83333000,-66.00000000,Q858107
-849,"Departamento de Capital",3647,K,"Catamarca Province",11,AR,Argentina,-28.41667000,-65.80000000,Q858182
-877,"Departamento de El Alto",3647,K,"Catamarca Province",11,AR,Argentina,-28.41667000,-65.41667000,Q899638
-884,"Departamento de Fray Mamerto Esquiú",3647,K,"Catamarca Province",11,AR,Argentina,-28.30000000,-65.75000000,Q775145
-918,"Departamento de La Paz",3647,K,"Catamarca Province",11,AR,Argentina,-29.25000000,-65.25000000,Q1127089
-959,"Departamento de Pomán",3647,K,"Catamarca Province",11,AR,Argentina,-28.25000000,-66.41667000,Q1190958
-1006,"Departamento de Santa María",3647,K,"Catamarca Province",11,AR,Argentina,-26.66667000,-66.41667000,Q1080656
-1007,"Departamento de Santa Rosa",3647,K,"Catamarca Province",11,AR,Argentina,-28.08333000,-65.25000000,Q638965
-1020,"Departamento de Tinogasta",3647,K,"Catamarca Province",11,AR,Argentina,-27.50000000,-68.00000000,Q1080210
-1030,"Departamento de Valle Viejo",3647,K,"Catamarca Province",11,AR,Argentina,-28.58333000,-65.75000000,Q288586
-1060,"El Rodeo",3647,K,"Catamarca Province",11,AR,Argentina,-28.21518000,-65.87420000,Q21842213
-1078,Fiambalá,3647,K,"Catamarca Province",11,AR,Argentina,-27.67225000,-67.61870000,Q2613214
-1142,Hualfín,3647,K,"Catamarca Province",11,AR,Argentina,-27.22896000,-66.83131000,Q1774287
-1145,Huillapima,3647,K,"Catamarca Province",11,AR,Argentina,-28.72533000,-65.97870000,Q81653
-1149,Icaño,3647,K,"Catamarca Province",11,AR,Argentina,-28.91934000,-65.32817000,Q3791626
-1197,"La Puerta de San José",3647,K,"Catamarca Province",11,AR,Argentina,-27.55000000,-67.01667000,Q1774215
-1239,Londres,3647,K,"Catamarca Province",11,AR,Argentina,-27.71439000,-67.13349000,Q930973
-1243,"Los Altos",3647,K,"Catamarca Province",11,AR,Argentina,-28.04845000,-65.49945000,Q6681893
-1256,"Los Varela",3647,K,"Catamarca Province",11,AR,Argentina,-27.93003000,-65.87153000,Q1774269
-1294,Mutquín,3647,K,"Catamarca Province",11,AR,Argentina,-28.32104000,-66.14253000,Q2387512
-1340,Pomán,3647,K,"Catamarca Province",11,AR,Argentina,-28.39455000,-66.22052000,Q2437304
-1350,"Puerta de Corral Quemado",3647,K,"Catamarca Province",11,AR,Argentina,-27.23000000,-66.93635000,Q1774277
-1378,Recreo,3647,K,"Catamarca Province",11,AR,Argentina,-29.28184000,-65.06096000,Q766923
-1408,"San Antonio",3647,K,"Catamarca Province",11,AR,Argentina,-28.01009000,-65.70874000,Q7413304
-1421,"San Fernando del Valle de Catamarca",3647,K,"Catamarca Province",11,AR,Argentina,-28.46957000,-65.78524000,Q44162
-1464,"Santa María",3647,K,"Catamarca Province",11,AR,Argentina,-26.69547000,-66.04732000,Q1012407
-1505,Tinogasta,3647,K,"Catamarca Province",11,AR,Argentina,-28.06319000,-67.56488000,Q81563
-677,"Aviá Terai",3640,H,"Chaco Province",11,AR,Argentina,-26.68532000,-60.72920000,Q528399
-685,Barranqueras,3640,H,"Chaco Province",11,AR,Argentina,-27.48132000,-58.93925000,Q2885504
-686,Basail,3640,H,"Chaco Province",11,AR,Argentina,-27.88539000,-59.28245000,Q1578997
-719,"Campo Largo",3640,H,"Chaco Province",11,AR,Argentina,-26.80077000,-60.84215000,Q21843910
-730,"Capitán Solari",3640,H,"Chaco Province",11,AR,Argentina,-26.80215000,-59.56089000,Q1579019
-737,Castelli,3640,H,"Chaco Province",11,AR,Argentina,-25.94679000,-60.61947000,Q568624
-753,Charadai,3640,H,"Chaco Province",11,AR,Argentina,-27.65503000,-59.86291000,Q1578855
-754,Charata,3640,H,"Chaco Province",11,AR,Argentina,-27.21438000,-61.18795000,Q1578300
-765,Chorotis,3640,H,"Chaco Province",11,AR,Argentina,-27.91578000,-61.39982000,Q1579594
-767,"Ciervo Petiso",3640,H,"Chaco Province",11,AR,Argentina,-26.58041000,-59.63094000,Q5119715
-776,"Colonia Benítez",3640,H,"Chaco Province",11,AR,Argentina,-27.33099000,-58.94622000,Q1579162
-778,"Colonia Elisa",3640,H,"Chaco Province",11,AR,Argentina,-26.93041000,-59.51861000,Q1579265
-782,"Colonias Unidas",3640,H,"Chaco Province",11,AR,Argentina,-26.69825000,-59.63154000,Q1579067
-791,"Concepción del Bermejo",3640,H,"Chaco Province",11,AR,Argentina,-26.59926000,-60.94617000,Q785491
-799,"Coronel Du Graty",3640,H,"Chaco Province",11,AR,Argentina,-27.68038000,-60.91462000,Q1657891
-804,Corzuela,3640,H,"Chaco Province",11,AR,Argentina,-26.95374000,-60.96928000,Q1135953
-807,Coté-Lai,3640,H,"Chaco Province",11,AR,Argentina,-27.50000000,-59.60000000,Q21829400
-822,"Departamento de Almirante Brown",3640,H,"Chaco Province",11,AR,Argentina,-25.81662000,-61.45576000,Q1190331
-837,"Departamento de Bermejo",3640,H,"Chaco Province",11,AR,Argentina,-27.00000000,-58.66667000,Q792464
-865,"Departamento de Comandante Fernández",3640,H,"Chaco Province",11,AR,Argentina,-26.83333000,-60.50000000,Q868409
-875,"Departamento de Doce de Octubre",3640,H,"Chaco Province",11,AR,Argentina,-27.41667000,-61.33333000,Q899638
-876,"Departamento de Dos de Abril",3640,H,"Chaco Province",11,AR,Argentina,-27.60932000,-61.34473000,Q899638
-890,"Departamento de General Donovan",3640,H,"Chaco Province",11,AR,Argentina,-27.16667000,-59.33333000,Q922325
-892,"Departamento de General Güemes",3640,H,"Chaco Province",11,AR,Argentina,-25.16667000,-61.41667000,Q922325
-909,"Departamento de Independencia",3640,H,"Chaco Province",11,AR,Argentina,-26.66667000,-60.66667000,Q731983
-928,"Departamento de Libertad",3640,H,"Chaco Province",11,AR,Argentina,-27.33333000,-59.33333000,Q279489
-937,"Departamento de Maipú",3640,H,"Chaco Province",11,AR,Argentina,-26.33333000,-60.41667000,Q588032
-950,"Departamento de Nueve de Julio",3640,H,"Chaco Province",11,AR,Argentina,-26.95331000,-61.27627000,Q770031
-954,"Departamento de O’Higgins",3640,H,"Chaco Province",11,AR,Argentina,-27.25000000,-60.66667000,Q770031
-960,"Departamento de Presidencia de la Plaza",3640,H,"Chaco Province",11,AR,Argentina,-27.00000000,-59.75000000,Q1190958
-962,"Departamento de Quitilipi",3640,H,"Chaco Province",11,AR,Argentina,-26.66667000,-60.16667000,Q1063416
-986,"Departamento de San Fernando",3640,H,"Chaco Province",11,AR,Argentina,-27.66667000,-59.16667000,Q1063341
-994,"Departamento de San Lorenzo",3640,H,"Chaco Province",11,AR,Argentina,-27.33333000,-60.41667000,Q1191103
-1010,"Departamento de Sargento Cabral",3640,H,"Chaco Province",11,AR,Argentina,-26.83333000,-59.50000000,Q1063313
-1017,"Departamento de Tapenagá",3640,H,"Chaco Province",11,AR,Argentina,-27.50000000,-59.75000000,Q1063095
-1081,Fontana,3640,H,"Chaco Province",11,AR,Argentina,-27.41813000,-59.02392000,Q923414
-1088,Gancedo,3640,H,"Chaco Province",11,AR,Argentina,-27.49038000,-61.67571000,Q1578967
-1105,"General José de San Martín",3640,H,"Chaco Province",11,AR,Argentina,-26.53743000,-59.34158000,Q2220740
-1109,"General Pinedo",3640,H,"Chaco Province",11,AR,Argentina,-27.31667000,-61.28333000,Q611504
-1114,"General Vedia",3640,H,"Chaco Province",11,AR,Argentina,-26.93382000,-58.66040000,Q1656049
-1135,"Hermoso Campo",3640,H,"Chaco Province",11,AR,Argentina,-27.60816000,-61.34441000,Q751497
-1181,"La Clotilde",3640,H,"Chaco Province",11,AR,Argentina,-27.13333000,-60.66667000,Q1656083
-1186,"La Eduvigis",3640,H,"Chaco Province",11,AR,Argentina,-26.83607000,-59.06211000,Q1657326
-1187,"La Escondida",3640,H,"Chaco Province",11,AR,Argentina,-27.10724000,-59.44784000,Q1656012
-1191,"La Leonesa",3640,H,"Chaco Province",11,AR,Argentina,-27.03786000,-58.70347000,Q1657423
-1201,"La Tigra",3640,H,"Chaco Province",11,AR,Argentina,-27.10996000,-60.58719000,Q21838634
-1203,"La Verde",3640,H,"Chaco Province",11,AR,Argentina,-27.12634000,-59.37352000,Q1657869
-1208,"Laguna Limpia",3640,H,"Chaco Province",11,AR,Argentina,-26.49565000,-59.68083000,Q1656138
-1213,Lapachito,3640,H,"Chaco Province",11,AR,Argentina,-27.15997000,-59.38605000,Q1657314
-1216,"Las Breñas",3640,H,"Chaco Province",11,AR,Argentina,-27.08966000,-61.08161000,Q1017552
-1218,"Las Garcitas",3640,H,"Chaco Province",11,AR,Argentina,-26.61802000,-59.80135000,Q1657855
-1249,"Los Frentones",3640,H,"Chaco Province",11,AR,Argentina,-26.40770000,-61.41367000,Q925007
-1260,Machagai,3640,H,"Chaco Province",11,AR,Argentina,-26.92614000,-60.04955000,Q1579325
-1264,Makallé,3640,H,"Chaco Province",11,AR,Argentina,-27.20687000,-59.28696000,Q602345
-1270,"Margarita Belén",3640,H,"Chaco Province",11,AR,Argentina,-27.26160000,-58.97219000,Q383019
-1296,Napenay,3640,H,"Chaco Province",11,AR,Argentina,-26.73333000,-60.61667000,Q1579131
-1314,"Pampa Almirón",3640,H,"Chaco Province",11,AR,Argentina,-26.70039000,-59.12331000,Q1656116
-1316,"Pampa del Indio",3640,H,"Chaco Province",11,AR,Argentina,-26.04982000,-59.93728000,Q1656045
-1317,"Pampa del Infierno",3640,H,"Chaco Province",11,AR,Argentina,-26.50517000,-61.17436000,Q1578938
-1347,"Presidencia de la Plaza",3640,H,"Chaco Province",11,AR,Argentina,-27.00147000,-59.84243000,Q1656867
-1345,"Presidencia Roca",3640,H,"Chaco Province",11,AR,Argentina,-26.14090000,-59.59541000,Q1657374
-1346,"Presidencia Roque Sáenz Peña",3640,H,"Chaco Province",11,AR,Argentina,-26.78522000,-60.43876000,Q1656936
-1351,"Puerto Bermejo",3640,H,"Chaco Province",11,AR,Argentina,-26.92739000,-58.50917000,Q1656125
-1363,"Puerto Tirol",3640,H,"Chaco Province",11,AR,Argentina,-27.37218000,-59.08206000,Q1003738
-1364,"Puerto Vilelas",3640,H,"Chaco Province",11,AR,Argentina,-27.51414000,-58.93906000,Q1656101
-1370,Quitilipi,3640,H,"Chaco Province",11,AR,Argentina,-26.86913000,-60.21683000,Q1656947
-1379,Resistencia,3640,H,"Chaco Province",11,AR,Argentina,-27.46056000,-58.98389000,Q44206
-1405,Samuhú,3640,H,"Chaco Province",11,AR,Argentina,-27.52116000,-60.39167000,Q7413040
-1414,"San Bernardo",3640,H,"Chaco Province",11,AR,Argentina,-27.28782000,-60.71252000,Q967629
-1471,"Santa Sylvina",3640,H,"Chaco Province",11,AR,Argentina,-27.83261000,-61.13747000,Q1015553
-1493,"Taco Pozo",3640,H,"Chaco Province",11,AR,Argentina,-25.61557000,-63.26708000,Q1579288
-1515,"Tres Isletas",3640,H,"Chaco Province",11,AR,Argentina,-26.34067000,-60.43207000,Q169222
-1586,"Villa Ángela",3640,H,"Chaco Province",11,AR,Argentina,-27.57383000,-60.71526000,Q1657303
-1542,"Villa Berthet",3640,H,"Chaco Province",11,AR,Argentina,-27.29174000,-60.41263000,Q1657333
-655,"Alto Río Senguer",3651,U,"Chubut Province",11,AR,Argentina,-45.04105000,-70.81982000,Q178740
-715,Camarones,3651,U,"Chubut Province",11,AR,Argentina,-44.79709000,-65.70994000,Q972040
-787,"Comodoro Rivadavia",3651,U,"Chubut Province",11,AR,Argentina,-45.86413000,-67.49656000,Q221921
-839,"Departamento de Biedma",3651,U,"Chubut Province",11,AR,Argentina,-42.41667000,-65.00000000,Q573042
-873,"Departamento de Cushamen",3651,U,"Chubut Province",11,AR,Argentina,-42.50000000,-70.83333000,Q899638
-880,"Departamento de Escalante",3651,U,"Chubut Province",11,AR,Argentina,-45.33333000,-67.33333000,Q583893
-883,"Departamento de Florentino Ameghino",3651,U,"Chubut Province",11,AR,Argentina,-44.41667000,-66.16667000,Q991357
-885,"Departamento de Futaleufú",3651,U,"Chubut Province",11,AR,Argentina,-43.08333000,-71.41667000,Q775145
-886,"Departamento de Gaimán",3651,U,"Chubut Province",11,AR,Argentina,-43.33333000,-66.33333000,Q775145
-887,"Departamento de Gastre",3651,U,"Chubut Province",11,AR,Argentina,-42.83333000,-68.66667000,Q775145
-923,"Departamento de Languiñeo",3651,U,"Chubut Province",11,AR,Argentina,-43.33333000,-70.66667000,Q372333
-949,"Departamento de Mártires",3651,U,"Chubut Province",11,AR,Argentina,-43.83333000,-67.16667000,Q770031
-956,"Departamento de Paso de Indios",3651,U,"Chubut Province",11,AR,Argentina,-44.00000000,-68.83333000,Q770031
-963,"Departamento de Rawson",3651,U,"Chubut Province",11,AR,Argentina,-43.12342000,-65.10179000,Q1088518
-979,"Departamento de Río Senguerr",3651,U,"Chubut Province",11,AR,Argentina,-45.33333000,-70.83333000,Q1063078
-1012,"Departamento de Sarmiento",3651,U,"Chubut Province",11,AR,Argentina,-45.33333000,-69.00000000,Q1063313
-1018,"Departamento de Tehuelches",3651,U,"Chubut Province",11,AR,Argentina,-44.22132000,-70.25260000,Q980641
-1019,"Departamento de Telsen",3651,U,"Chubut Province",11,AR,Argentina,-42.41667000,-67.16667000,Q290328
-1042,Dolavón,3651,U,"Chubut Province",11,AR,Argentina,-43.30684000,-65.70651000,Q106043
-1058,"El Maitén",3651,U,"Chubut Province",11,AR,Argentina,-42.04924000,-71.16693000,Q106050
-1070,Esquel,3651,U,"Chubut Province",11,AR,Argentina,-42.91147000,-71.31947000,Q81656
-1087,Gaimán,3651,U,"Chubut Province",11,AR,Argentina,-43.28970000,-65.49290000,Q106055
-1092,Gastre,3651,U,"Chubut Province",11,AR,Argentina,-42.26186000,-69.22112000,Q1016275
-1115,"Gobernador Costa",3651,U,"Chubut Province",11,AR,Argentina,-44.04992000,-70.59798000,Q1773893
-1141,"Hoyo de Epuyén",3651,U,"Chubut Province",11,AR,Argentina,-42.07189000,-71.50811000,Q3720934
-1169,"José de San Martín",3651,U,"Chubut Province",11,AR,Argentina,-44.05032000,-70.46967000,Q1015513
-1206,"Lago Puelo",3651,U,"Chubut Province",11,AR,Argentina,-42.06684000,-71.60384000,Q3825767
-1229,"Las Plumas",3651,U,"Chubut Province",11,AR,Argentina,-43.72058000,-67.28319000,Q1530166
-1359,"Puerto Madryn",3651,U,"Chubut Province",11,AR,Argentina,-42.76920000,-65.03851000,Q748028
-1371,"Rada Tilly",3651,U,"Chubut Province",11,AR,Argentina,-45.92462000,-67.55424000,Q998325
-1374,Rawson,3651,U,"Chubut Province",11,AR,Argentina,-43.30016000,-65.10228000,Q44208
-1393,"Río Mayo",3651,U,"Chubut Province",11,AR,Argentina,-45.68573000,-70.25797000,Q21833451
-1394,"Río Pico",3651,U,"Chubut Province",11,AR,Argentina,-44.17905000,-71.36847000,Q1774299
-1477,Sarmiento,3651,U,"Chubut Province",11,AR,Argentina,-45.58815000,-69.06996000,Q106034
-1499,Tecka,3651,U,"Chubut Province",11,AR,Argentina,-43.49489000,-70.81020000,Q2259996
-1512,Trelew,3651,U,"Chubut Province",11,AR,Argentina,-43.24895000,-65.30505000,Q1009276
-1516,Trevelin,3651,U,"Chubut Province",11,AR,Argentina,-43.08580000,-71.46386000,Q2368288
-639,Achiras,3642,X,"Córdoba Province",11,AR,Argentina,-33.17538000,-64.99331000,Q8187413
-640,"Adelia María",3642,X,"Córdoba Province",11,AR,Argentina,-33.63152000,-64.02097000,Q5682817
-641,"Agua de Oro",3642,X,"Córdoba Province",11,AR,Argentina,-31.06661000,-64.30017000,Q2215108
-647,"Alejandro Roca",3642,X,"Córdoba Province",11,AR,Argentina,-33.35369000,-63.71849000,Q8194200
-648,"Alejo Ledesma",3642,X,"Córdoba Province",11,AR,Argentina,-33.60643000,-62.62304000,Q8194316
-651,Almafuerte,3642,X,"Córdoba Province",11,AR,Argentina,-32.19296000,-64.25559000,Q1935889
-653,"Alta Gracia",3642,X,"Córdoba Province",11,AR,Argentina,-31.65292000,-64.42826000,Q48293
-656,"Altos de Chipión",3642,X,"Córdoba Province",11,AR,Argentina,-30.95590000,-62.33727000,Q3613347
-668,Arias,3642,X,"Córdoba Province",11,AR,Argentina,-33.64411000,-62.40272000,Q2693020
-671,Arroyito,3642,X,"Córdoba Province",11,AR,Argentina,-31.42022000,-63.05002000,Q671062
-672,"Arroyo Cabral",3642,X,"Córdoba Province",11,AR,Argentina,-32.49119000,-63.40126000,Q21845813
-681,Balnearia,3642,X,"Córdoba Province",11,AR,Argentina,-31.00880000,-62.66733000,Q8240830
-688,"Bell Ville",3642,X,"Córdoba Province",11,AR,Argentina,-32.62591000,-62.68873000,Q284308
-695,Berrotarán,3642,X,"Córdoba Province",11,AR,Argentina,-32.45100000,-64.38867000,Q8247020
-701,Brinkmann,3642,X,"Córdoba Province",11,AR,Argentina,-30.86589000,-62.03742000,Q17297395
-702,Buchardo,3642,X,"Córdoba Province",11,AR,Argentina,-34.72263000,-63.50920000,Q8253269
-716,"Camilo Aldao",3642,X,"Córdoba Province",11,AR,Argentina,-33.12745000,-62.09453000,Q2128078
-744,"Cañada de Luque",3642,X,"Córdoba Province",11,AR,Argentina,-30.73341000,-63.72375000,Q8343231
-723,Canals,3642,X,"Córdoba Province",11,AR,Argentina,-33.56542000,-62.88927000,Q2594504
-727,"Capilla del Monte",3642,X,"Córdoba Province",11,AR,Argentina,-30.86088000,-64.52515000,Q1020576
-733,Carnerillo,3642,X,"Córdoba Province",11,AR,Argentina,-32.91371000,-64.02175000,Q8338730
-734,Carrilobo,3642,X,"Córdoba Province",11,AR,Argentina,-31.87296000,-63.11715000,Q8341370
-742,Cavanagh,3642,X,"Córdoba Province",11,AR,Argentina,-33.47606000,-62.33888000,Q8342984
-755,Charras,3642,X,"Córdoba Province",11,AR,Argentina,-33.02400000,-64.04719000,Q21844653
-757,Chazón,3642,X,"Córdoba Province",11,AR,Argentina,-33.07872000,-63.27657000,Q8345116
-769,Cintra,3642,X,"Córdoba Province",11,AR,Argentina,-32.30673000,-62.65214000,Q21842797
-780,"Colonia La Tordilla",3642,X,"Córdoba Province",11,AR,Argentina,-31.23746000,-63.06134000,Q21842946
-781,"Colonia San Bartolomé",3642,X,"Córdoba Province",11,AR,Argentina,-31.52780000,-62.72436000,Q5777842
-815,Córdoba,3642,X,"Córdoba Province",11,AR,Argentina,-31.41350000,-64.18105000,Q44210
-797,"Coronel Baigorria",3642,X,"Córdoba Province",11,AR,Argentina,-32.84770000,-64.36107000,Q8351097
-800,"Coronel Moldes",3642,X,"Córdoba Province",11,AR,Argentina,-33.62270000,-64.59711000,Q21841360
-801,"Corral de Bustos",3642,X,"Córdoba Province",11,AR,Argentina,-33.28205000,-62.18463000,Q5172720
-802,Corralito,3642,X,"Córdoba Province",11,AR,Argentina,-32.02462000,-64.19216000,Q21841392
-805,Cosquín,3642,X,"Córdoba Province",11,AR,Argentina,-31.24508000,-64.46563000,Q48290
-806,"Costa Sacate",3642,X,"Córdoba Province",11,AR,Argentina,-31.64770000,-63.75935000,Q5574326
-809,"Cruz Alta",3642,X,"Córdoba Province",11,AR,Argentina,-33.00887000,-61.80746000,Q21841539
-811,"Cruz del Eje",3642,X,"Córdoba Province",11,AR,Argentina,-30.72644000,-64.80387000,Q1016873
-812,"Cuesta Blanca",3642,X,"Córdoba Province",11,AR,Argentina,-31.48658000,-64.57150000,Q637219
-816,"Dalmacio Vélez Sársfield",3642,X,"Córdoba Province",11,AR,Argentina,-32.61072000,-63.58038000,Q21841723
-1039,"Deán Funes",3642,X,"Córdoba Province",11,AR,Argentina,-30.42036000,-64.34984000,Q525817
-818,"Del Campillo",3642,X,"Córdoba Province",11,AR,Argentina,-34.37659000,-64.49504000,Q8354470
-842,"Departamento de Calamuchita",3642,X,"Córdoba Province",11,AR,Argentina,-32.25000000,-64.58333000,Q665082
-864,"Departamento de Colón",3642,X,"Córdoba Province",11,AR,Argentina,-31.16667000,-64.16667000,Q868409
-871,"Departamento de Cruz del Eje",3642,X,"Córdoba Province",11,AR,Argentina,-30.75000000,-65.00000000,Q635957
-896,"Departamento de General Roca",3642,X,"Córdoba Province",11,AR,Argentina,-34.66667000,-64.25000000,Q368679
-897,"Departamento de General San Martín",3642,X,"Córdoba Province",11,AR,Argentina,-32.50000000,-63.33333000,Q368679
-914,"Departamento de Juárez Celman",3642,X,"Córdoba Province",11,AR,Argentina,-33.33333000,-63.66667000,Q511702
-939,"Departamento de Marcos Juárez",3642,X,"Córdoba Province",11,AR,Argentina,-33.00000000,-62.25000000,Q784895
-943,"Departamento de Minas",3642,X,"Córdoba Province",11,AR,Argentina,-31.00000000,-65.33333000,Q591241
-961,"Departamento de Presidente Roque Sáenz Peña",3642,X,"Córdoba Province",11,AR,Argentina,-34.25000000,-63.50000000,Q1063416
-974,"Departamento de Río Cuarto",3642,X,"Córdoba Province",11,AR,Argentina,-33.33333000,-64.50000000,Q1063409
-976,"Departamento de Río Primero",3642,X,"Córdoba Province",11,AR,Argentina,-31.08333000,-63.50000000,Q1063403
-977,"Departamento de Río Seco",3642,X,"Córdoba Province",11,AR,Argentina,-30.08333000,-63.00000000,Q531018
-978,"Departamento de Río Segundo",3642,X,"Córdoba Province",11,AR,Argentina,-31.75000000,-63.50000000,Q1063078
-981,"Departamento de San Alberto",3642,X,"Córdoba Province",11,AR,Argentina,-31.75000000,-65.25000000,Q633783
-990,"Departamento de San Javier",3642,X,"Córdoba Province",11,AR,Argentina,-32.08333000,-65.16667000,Q777079
-991,"Departamento de San Justo",3642,X,"Córdoba Province",11,AR,Argentina,-31.33333000,-62.66667000,Q950820
-1016,"Departamento de Sobremonte",3642,X,"Córdoba Province",11,AR,Argentina,-29.66667000,-64.08333000,Q1063095
-1022,"Departamento de Totoral",3642,X,"Córdoba Province",11,AR,Argentina,-30.83333000,-63.91667000,Q1063056
-1024,"Departamento de Tulumba",3642,X,"Córdoba Province",11,AR,Argentina,-30.25000000,-63.91667000,Q972349
-1029,"Departamento de Unión",3642,X,"Córdoba Province",11,AR,Argentina,-32.83333000,-62.75000000,Q2317932
-1037,Despeñaderos,3642,X,"Córdoba Province",11,AR,Argentina,-31.81626000,-64.28989000,Q5804390
-1038,Devoto,3642,X,"Córdoba Province",11,AR,Argentina,-31.40431000,-62.30634000,Q21841792
-1049,"El Arañado",3642,X,"Córdoba Province",11,AR,Argentina,-31.74120000,-62.89322000,Q5820863
-1063,"El Tío",3642,X,"Córdoba Province",11,AR,Argentina,-31.38357000,-62.82938000,Q21842250
-1064,Elena,3642,X,"Córdoba Province",11,AR,Argentina,-32.57205000,-64.39481000,Q21842056
-1066,Embalse,3642,X,"Córdoba Province",11,AR,Argentina,-32.18000000,-64.41809000,Q1011693
-1073,Etruria,3642,X,"Córdoba Province",11,AR,Argentina,-32.94008000,-63.24660000,Q1442288
-1096,"General Baldissera",3642,X,"Córdoba Province",11,AR,Argentina,-33.12246000,-62.30630000,Q932486
-1097,"General Cabrera",3642,X,"Córdoba Province",11,AR,Argentina,-32.81313000,-63.87243000,Q973090
-1106,"General Levalle",3642,X,"Córdoba Province",11,AR,Argentina,-34.01472000,-63.92413000,Q938803
-1111,"General Roca",3642,X,"Córdoba Province",11,AR,Argentina,-32.73196000,-61.91599000,Q21839890
-1129,Guatimozín,3642,X,"Córdoba Province",11,AR,Argentina,-33.46149000,-62.43844000,Q21840259
-1136,Hernando,3642,X,"Córdoba Province",11,AR,Argentina,-32.42657000,-63.73333000,Q2648980
-1143,Huanchillas,3642,X,"Córdoba Province",11,AR,Argentina,-33.66653000,-63.63701000,Q21840489
-1144,"Huerta Grande",3642,X,"Córdoba Province",11,AR,Argentina,-31.07524000,-64.49063000,Q21840531
-1146,"Huinca Renancó",3642,X,"Córdoba Province",11,AR,Argentina,-34.84038000,-64.37580000,Q2638654
-1150,Idiazábal,3642,X,"Córdoba Province",11,AR,Argentina,-32.81411000,-63.03252000,Q21840564
-1156,Inriville,3642,X,"Córdoba Province",11,AR,Argentina,-32.94424000,-62.23028000,Q9008605
-1159,"Isla Verde",3642,X,"Córdoba Province",11,AR,Argentina,-33.24104000,-62.40297000,Q21840678
-1160,Italó,3642,X,"Córdoba Province",11,AR,Argentina,-34.79237000,-63.78199000,Q21840687
-1165,"James Craik",3642,X,"Córdoba Province",11,AR,Argentina,-32.16120000,-63.46688000,Q2732721
-1167,"Jesús María",3642,X,"Córdoba Province",11,AR,Argentina,-30.98153000,-64.09424000,Q48288
-1173,"Justiniano Posse",3642,X,"Córdoba Province",11,AR,Argentina,-32.88411000,-62.67788000,Q524744
-1178,"La Calera",3642,X,"Córdoba Province",11,AR,Argentina,-31.34377000,-64.33529000,Q21840871
-1179,"La Carlota",3642,X,"Córdoba Province",11,AR,Argentina,-33.41993000,-63.29769000,Q2336157
-1180,"La Cesira",3642,X,"Córdoba Province",11,AR,Argentina,-33.95115000,-62.97238000,Q10315018
-1185,"La Cumbre",3642,X,"Córdoba Province",11,AR,Argentina,-30.98201000,-64.49139000,Q1798756
-1188,"La Falda",3642,X,"Córdoba Province",11,AR,Argentina,-31.08841000,-64.48987000,Q48294
-1189,"La Francia",3642,X,"Córdoba Province",11,AR,Argentina,-31.40675000,-62.63396000,Q9018548
-1190,"La Granja",3642,X,"Córdoba Province",11,AR,Argentina,-31.00919000,-64.26869000,Q21840995
-1194,"La Para",3642,X,"Córdoba Province",11,AR,Argentina,-30.89416000,-63.00107000,Q977211
-1196,"La Playosa",3642,X,"Córdoba Province",11,AR,Argentina,-32.10002000,-63.03088000,Q9018831
-1204,Laborde,3642,X,"Córdoba Province",11,AR,Argentina,-33.15319000,-62.85661000,Q850581
-1205,Laboulaye,3642,X,"Córdoba Province",11,AR,Argentina,-34.12662000,-63.39119000,Q2520086
-1207,"Laguna Larga",3642,X,"Córdoba Province",11,AR,Argentina,-31.77652000,-63.80104000,Q21838086
-1215,"Las Acequias",3642,X,"Córdoba Province",11,AR,Argentina,-33.28155000,-63.97610000,Q9020363
-1221,"Las Higueras",3642,X,"Córdoba Province",11,AR,Argentina,-33.09231000,-64.28899000,Q21838493
-1222,"Las Junturas",3642,X,"Córdoba Province",11,AR,Argentina,-31.83125000,-63.45016000,Q9020468
-1228,"Las Perdices",3642,X,"Córdoba Province",11,AR,Argentina,-32.69794000,-63.70634000,Q21838558
-1232,"Las Varas",3642,X,"Córdoba Province",11,AR,Argentina,-31.80260000,-62.61655000,Q21838615
-1233,"Las Varillas",3642,X,"Córdoba Province",11,AR,Argentina,-31.87208000,-62.71946000,Q10316445
-1234,Leones,3642,X,"Córdoba Province",11,AR,Argentina,-32.66174000,-62.29678000,Q21838780
-1246,"Los Cocos",3642,X,"Córdoba Province",11,AR,Argentina,-30.92497000,-64.50207000,Q6682609
-1248,"Los Cóndores",3642,X,"Córdoba Province",11,AR,Argentina,-32.31983000,-64.27751000,Q21839069
-1254,"Los Surgentes",3642,X,"Córdoba Province",11,AR,Argentina,-32.98454000,-62.02191000,Q5487799
-1266,Malagueño,3642,X,"Córdoba Province",11,AR,Argentina,-31.46467000,-64.35840000,Q1886644
-1267,"Malvinas Argentinas",3642,X,"Córdoba Province",11,AR,Argentina,-31.38194000,-64.05545000,Q503652
-1269,"Marcos Juárez",3642,X,"Córdoba Province",11,AR,Argentina,-32.69780000,-62.10672000,Q1016881
-1273,Marull,3642,X,"Córdoba Province",11,AR,Argentina,-30.99471000,-62.82576000,Q2500565
-1274,Mattaldi,3642,X,"Córdoba Province",11,AR,Argentina,-34.48194000,-64.17255000,Q21837152
-1277,Mendiolaza,3642,X,"Córdoba Province",11,AR,Argentina,-31.26738000,-64.30087000,Q9031514
-1282,"Mina Clavero",3642,X,"Córdoba Province",11,AR,Argentina,-31.72101000,-65.00619000,Q48348
-1283,Miramar,3642,X,"Córdoba Province",11,AR,Argentina,-30.91859000,-62.67814000,Q991707
-1286,"Monte Buey",3642,X,"Córdoba Province",11,AR,Argentina,-32.91642000,-62.45669000,Q2506369
-1288,"Monte Cristo",3642,X,"Córdoba Province",11,AR,Argentina,-31.34312000,-63.94437000,Q21837558
-1289,"Monte Maíz",3642,X,"Córdoba Province",11,AR,Argentina,-33.20462000,-62.60085000,Q9034750
-1292,Morrison,3642,X,"Córdoba Province",11,AR,Argentina,-32.59480000,-62.83455000,Q21837657
-1293,Morteros,3642,X,"Córdoba Province",11,AR,Argentina,-30.71164000,-61.99862000,Q953723
-1299,Noetinger,3642,X,"Córdoba Province",11,AR,Argentina,-32.36597000,-62.31126000,Q525771
-1305,"Obispo Trejo",3642,X,"Córdoba Province",11,AR,Argentina,-30.78128000,-63.41349000,Q3482948
-1306,Oliva,3642,X,"Córdoba Province",11,AR,Argentina,-32.04158000,-63.56978000,Q3111948
-1307,Oncativo,3642,X,"Córdoba Province",11,AR,Argentina,-31.91353000,-63.68201000,Q2106471
-1308,Ordóñez,3642,X,"Córdoba Province",11,AR,Argentina,-32.84057000,-62.86552000,Q10341376
-1321,Pascanas,3642,X,"Córdoba Province",11,AR,Argentina,-33.12550000,-63.04084000,Q7141762
-1322,Pasco,3642,X,"Córdoba Province",11,AR,Argentina,-32.74733000,-63.34232000,Q21835214
-1333,Pilar,3642,X,"Córdoba Province",11,AR,Argentina,-31.67890000,-63.87964000,Q7193761
-1335,Piquillín,3642,X,"Córdoba Province",11,AR,Argentina,-31.30158000,-63.75788000,Q6076671
-1341,Porteña,3642,X,"Córdoba Province",11,AR,Argentina,-31.01391000,-62.06650000,Q2071003
-1343,"Pozo del Molle",3642,X,"Córdoba Province",11,AR,Argentina,-32.01860000,-62.91984000,Q3909741
-1368,Quilino,3642,X,"Córdoba Province",11,AR,Argentina,-30.21397000,-64.50063000,Q21836395
-1388,"Río Ceballos",3642,X,"Córdoba Province",11,AR,Argentina,-31.16486000,-64.32241000,Q990605
-1390,"Río Cuarto",3642,X,"Córdoba Province",11,AR,Argentina,-33.13067000,-64.34992000,Q983451
-1395,"Río Segundo",3642,X,"Córdoba Province",11,AR,Argentina,-31.65260000,-63.90990000,Q1937588
-1396,"Río Tercero",3642,X,"Córdoba Province",11,AR,Argentina,-32.17301000,-64.11405000,Q994351
-1398,Sacanta,3642,X,"Córdoba Province",11,AR,Argentina,-31.66300000,-63.04505000,Q9072519
-1400,Saldán,3642,X,"Córdoba Province",11,AR,Argentina,-31.30262000,-64.30700000,Q2214082
-1401,Salsacate,3642,X,"Córdoba Province",11,AR,Argentina,-31.31842000,-65.09003000,Q3111167
-1402,Salsipuedes,3642,X,"Córdoba Province",11,AR,Argentina,-31.13725000,-64.29589000,Q21833759
-1404,Sampacho,3642,X,"Córdoba Province",11,AR,Argentina,-33.38390000,-64.72211000,Q2982604
-1406,"San Agustín",3642,X,"Córdoba Province",11,AR,Argentina,-31.97681000,-64.37400000,Q1863952
-1410,"San Antonio de Litín",3642,X,"Córdoba Province",11,AR,Argentina,-32.21377000,-62.63237000,Q9073324
-1412,"San Basilio",3642,X,"Córdoba Province",11,AR,Argentina,-33.49763000,-64.31495000,Q21833822
-1415,"San Carlos",3642,X,"Córdoba Province",11,AR,Argentina,-31.17761000,-65.10245000,Q967364
-1422,"San Francisco",3642,X,"Córdoba Province",11,AR,Argentina,-31.42797000,-62.08266000,Q949535
-1424,"San Francisco del Chañar",3642,X,"Córdoba Province",11,AR,Argentina,-29.78830000,-63.94411000,Q3082023
-1432,"San José de la Dormida",3642,X,"Córdoba Province",11,AR,Argentina,-30.35440000,-63.94871000,Q6119038
-1457,"Santa Eufemia",3642,X,"Córdoba Province",11,AR,Argentina,-33.17659000,-63.28281000,Q10367830
-1462,"Santa Magdalena",3642,X,"Córdoba Province",11,AR,Argentina,-34.51776000,-63.94409000,Q1709980
-1467,"Santa Rosa de Calamuchita",3642,X,"Córdoba Province",11,AR,Argentina,-32.06905000,-64.53631000,Q15329
-1468,"Santa Rosa de Río Primero",3642,X,"Córdoba Province",11,AR,Argentina,-31.15231000,-63.40191000,Q2765854
-1472,"Santiago Temple",3642,X,"Córdoba Province",11,AR,Argentina,-31.38731000,-63.41821000,Q9074307
-1479,"Saturnino M. Laspiur",3642,X,"Córdoba Province",11,AR,Argentina,-31.70287000,-62.48202000,Q21834167
-1481,"Sebastián Elcano",3642,X,"Córdoba Province",11,AR,Argentina,-30.16105000,-63.59360000,Q21834217
-1484,Serrano,3642,X,"Córdoba Province",11,AR,Argentina,-34.46971000,-63.53842000,Q974361
-1485,Serrezuela,3642,X,"Córdoba Province",11,AR,Argentina,-30.63761000,-65.38692000,Q21834373
-1497,Tancacha,3642,X,"Córdoba Province",11,AR,Argentina,-32.24309000,-63.98070000,Q21831429
-1502,Ticino,3642,X,"Córdoba Province",11,AR,Argentina,-32.69350000,-63.43606000,Q21831530
-1517,"Tío Pujio",3642,X,"Córdoba Province",11,AR,Argentina,-32.28790000,-63.35598000,Q6154571
-1507,Toledo,3642,X,"Córdoba Province",11,AR,Argentina,-31.55574000,-64.00947000,Q21831641
-1519,Ucacha,3642,X,"Córdoba Province",11,AR,Argentina,-33.03203000,-63.50666000,Q2628025
-1521,Unquillo,3642,X,"Córdoba Province",11,AR,Argentina,-31.23073000,-64.31615000,Q3120316
-1526,"Valle Hermoso",3642,X,"Córdoba Province",11,AR,Argentina,-31.11732000,-64.48084000,Q9092406
-1532,Viamonte,3642,X,"Córdoba Province",11,AR,Argentina,-33.74647000,-63.09764000,Q21832337
-1535,"Vicuña Mackenna",3642,X,"Córdoba Province",11,AR,Argentina,-33.91965000,-64.39215000,Q918656
-1537,"Villa Allende",3642,X,"Córdoba Province",11,AR,Argentina,-31.29458000,-64.29538000,Q991758
-1538,"Villa Ascasubi",3642,X,"Córdoba Province",11,AR,Argentina,-32.16351000,-63.89157000,Q1973813
-1541,"Villa Berna",3642,X,"Córdoba Province",11,AR,Argentina,-31.91419000,-64.73249000,Q6162060
-1544,"Villa Carlos Paz",3642,X,"Córdoba Province",11,AR,Argentina,-31.42414000,-64.49778000,Q48285
-1546,"Villa Concepción del Tío",3642,X,"Córdoba Province",11,AR,Argentina,-31.32259000,-62.81354000,Q6162106
-1548,"Villa Cura Brochero",3642,X,"Córdoba Province",11,AR,Argentina,-31.70578000,-65.01796000,Q1818180
-1581,"Villa de Soto",3642,X,"Córdoba Province",11,AR,Argentina,-30.85523000,-64.99947000,Q9093952
-1582,"Villa del Dique",3642,X,"Córdoba Province",11,AR,Argentina,-32.17667000,-64.45543000,Q2170454
-1583,"Villa del Rosario",3642,X,"Córdoba Province",11,AR,Argentina,-31.55660000,-63.53452000,Q2314221
-1585,"Villa del Totoral",3642,X,"Córdoba Province",11,AR,Argentina,-30.81667000,-63.71667000,Q2636994
-1549,"Villa Dolores",3642,X,"Córdoba Province",11,AR,Argentina,-31.94585000,-65.18958000,Q374013
-1552,"Villa General Belgrano",3642,X,"Córdoba Province",11,AR,Argentina,-31.97828000,-64.55627000,Q1013424
-1556,"Villa Giardino",3642,X,"Córdoba Province",11,AR,Argentina,-31.03333000,-64.48333000,Q839912
-1558,"Villa Huidobro",3642,X,"Córdoba Province",11,AR,Argentina,-34.83826000,-64.58686000,Q2730365
-1560,"Villa Las Rosas",3642,X,"Córdoba Province",11,AR,Argentina,-31.95021000,-65.05354000,Q9093939
-1563,"Villa María",3642,X,"Córdoba Province",11,AR,Argentina,-32.40751000,-63.24016000,Q2525523
-1567,"Villa Nueva",3642,X,"Córdoba Province",11,AR,Argentina,-32.43293000,-63.24763000,Q6162298
-1573,"Villa Reducción",3642,X,"Córdoba Province",11,AR,Argentina,-33.20105000,-63.86234000,Q11071461
-1575,"Villa Rumipal",3642,X,"Córdoba Province",11,AR,Argentina,-32.18790000,-64.48027000,Q10391476
-1578,"Villa Tulumba",3642,X,"Córdoba Province",11,AR,Argentina,-30.39552000,-64.12241000,Q3111419
-1580,"Villa Valeria",3642,X,"Córdoba Province",11,AR,Argentina,-34.34093000,-64.92030000,Q9093936
-1591,"Wenceslao Escalante",3642,X,"Córdoba Province",11,AR,Argentina,-33.17303000,-62.77078000,Q10393380
+682,Balvanera,3656,B,"Buenos Aires",11,AR,Argentina,-34.61032000,-58.39766000,Q805848
+683,Barracas,3656,B,"Buenos Aires",11,AR,Argentina,-34.64966000,-58.38341000,Q680964
+687,Belgrano,3656,B,"Buenos Aires",11,AR,Argentina,-34.56270000,-58.45829000,Q815569
+697,Boedo,3656,B,"Buenos Aires",11,AR,Argentina,-34.63333000,-58.41667000,Q890147
+704,"Buenos Aires",3656,B,"Buenos Aires",11,AR,Argentina,-34.61315000,-58.37723000,Q1486
+773,Colegiales,3656,B,"Buenos Aires",11,AR,Argentina,-34.57365000,-58.44924000,Q106063
+1380,Retiro,3656,B,"Buenos Aires",11,AR,Argentina,-34.58333000,-58.38333000,Q44206
+1561,"Villa Lugano",3656,B,"Buenos Aires",11,AR,Argentina,-34.67907000,-58.47263000,Q9093939
+1570,"Villa Ortúzar",3656,B,"Buenos Aires",11,AR,Argentina,-34.57973000,-58.46829000,Q1016067
+1576,"Villa Santa Rita",3656,B,"Buenos Aires",11,AR,Argentina,-34.61082000,-58.48100000,Q10391476
+659,Ancasti,3647,K,Catamarca,11,AR,Argentina,-28.81247000,-65.50145000,Q21845580
+661,Andalgalá,3647,K,Catamarca,11,AR,Argentina,-27.58185000,-66.31626000,Q489679
+663,"Antofagasta de la Sierra",3647,K,Catamarca,11,AR,Argentina,-26.05940000,-67.40636000,Q2536371
+726,Capayán,3647,K,Catamarca,11,AR,Argentina,-28.77436000,-66.04749000,Q21844014
+824,"Departamento de Ambato",3647,K,Catamarca,11,AR,Argentina,-28.00000000,-65.91667000,Q688734
+825,"Departamento de Ancasti",3647,K,Catamarca,11,AR,Argentina,-29.00000000,-65.50000000,Q760261
+826,"Departamento de Andalgalá",3647,K,Catamarca,11,AR,Argentina,-27.58333000,-66.46667000,Q1190227
+829,"Departamento de Antofagasta de la Sierra",3647,K,Catamarca,11,AR,Argentina,-26.00000000,-67.58333000,Q1190229
+846,"Departamento de Capayán",3647,K,Catamarca,11,AR,Argentina,-28.83333000,-66.00000000,Q858107
+849,"Departamento de Capital",3647,K,Catamarca,11,AR,Argentina,-28.41667000,-65.80000000,Q858182
+877,"Departamento de El Alto",3647,K,Catamarca,11,AR,Argentina,-28.41667000,-65.41667000,Q899638
+884,"Departamento de Fray Mamerto Esquiú",3647,K,Catamarca,11,AR,Argentina,-28.30000000,-65.75000000,Q775145
+918,"Departamento de La Paz",3647,K,Catamarca,11,AR,Argentina,-29.25000000,-65.25000000,Q1127089
+959,"Departamento de Pomán",3647,K,Catamarca,11,AR,Argentina,-28.25000000,-66.41667000,Q1190958
+1006,"Departamento de Santa María",3647,K,Catamarca,11,AR,Argentina,-26.66667000,-66.41667000,Q1080656
+1007,"Departamento de Santa Rosa",3647,K,Catamarca,11,AR,Argentina,-28.08333000,-65.25000000,Q638965
+1020,"Departamento de Tinogasta",3647,K,Catamarca,11,AR,Argentina,-27.50000000,-68.00000000,Q1080210
+1030,"Departamento de Valle Viejo",3647,K,Catamarca,11,AR,Argentina,-28.58333000,-65.75000000,Q288586
+1060,"El Rodeo",3647,K,Catamarca,11,AR,Argentina,-28.21518000,-65.87420000,Q21842213
+1078,Fiambalá,3647,K,Catamarca,11,AR,Argentina,-27.67225000,-67.61870000,Q2613214
+1142,Hualfín,3647,K,Catamarca,11,AR,Argentina,-27.22896000,-66.83131000,Q1774287
+1145,Huillapima,3647,K,Catamarca,11,AR,Argentina,-28.72533000,-65.97870000,Q81653
+1149,Icaño,3647,K,Catamarca,11,AR,Argentina,-28.91934000,-65.32817000,Q3791626
+1197,"La Puerta de San José",3647,K,Catamarca,11,AR,Argentina,-27.55000000,-67.01667000,Q1774215
+1239,Londres,3647,K,Catamarca,11,AR,Argentina,-27.71439000,-67.13349000,Q930973
+1243,"Los Altos",3647,K,Catamarca,11,AR,Argentina,-28.04845000,-65.49945000,Q6681893
+1256,"Los Varela",3647,K,Catamarca,11,AR,Argentina,-27.93003000,-65.87153000,Q1774269
+1294,Mutquín,3647,K,Catamarca,11,AR,Argentina,-28.32104000,-66.14253000,Q2387512
+1340,Pomán,3647,K,Catamarca,11,AR,Argentina,-28.39455000,-66.22052000,Q2437304
+1350,"Puerta de Corral Quemado",3647,K,Catamarca,11,AR,Argentina,-27.23000000,-66.93635000,Q1774277
+1378,Recreo,3647,K,Catamarca,11,AR,Argentina,-29.28184000,-65.06096000,Q766923
+1408,"San Antonio",3647,K,Catamarca,11,AR,Argentina,-28.01009000,-65.70874000,Q7413304
+1421,"San Fernando del Valle de Catamarca",3647,K,Catamarca,11,AR,Argentina,-28.46957000,-65.78524000,Q44162
+1464,"Santa María",3647,K,Catamarca,11,AR,Argentina,-26.69547000,-66.04732000,Q1012407
+1505,Tinogasta,3647,K,Catamarca,11,AR,Argentina,-28.06319000,-67.56488000,Q81563
+677,"Aviá Terai",3640,H,Chaco,11,AR,Argentina,-26.68532000,-60.72920000,Q528399
+685,Barranqueras,3640,H,Chaco,11,AR,Argentina,-27.48132000,-58.93925000,Q2885504
+686,Basail,3640,H,Chaco,11,AR,Argentina,-27.88539000,-59.28245000,Q1578997
+719,"Campo Largo",3640,H,Chaco,11,AR,Argentina,-26.80077000,-60.84215000,Q21843910
+730,"Capitán Solari",3640,H,Chaco,11,AR,Argentina,-26.80215000,-59.56089000,Q1579019
+737,Castelli,3640,H,Chaco,11,AR,Argentina,-25.94679000,-60.61947000,Q568624
+753,Charadai,3640,H,Chaco,11,AR,Argentina,-27.65503000,-59.86291000,Q1578855
+754,Charata,3640,H,Chaco,11,AR,Argentina,-27.21438000,-61.18795000,Q1578300
+765,Chorotis,3640,H,Chaco,11,AR,Argentina,-27.91578000,-61.39982000,Q1579594
+767,"Ciervo Petiso",3640,H,Chaco,11,AR,Argentina,-26.58041000,-59.63094000,Q5119715
+776,"Colonia Benítez",3640,H,Chaco,11,AR,Argentina,-27.33099000,-58.94622000,Q1579162
+778,"Colonia Elisa",3640,H,Chaco,11,AR,Argentina,-26.93041000,-59.51861000,Q1579265
+782,"Colonias Unidas",3640,H,Chaco,11,AR,Argentina,-26.69825000,-59.63154000,Q1579067
+791,"Concepción del Bermejo",3640,H,Chaco,11,AR,Argentina,-26.59926000,-60.94617000,Q785491
+799,"Coronel Du Graty",3640,H,Chaco,11,AR,Argentina,-27.68038000,-60.91462000,Q1657891
+804,Corzuela,3640,H,Chaco,11,AR,Argentina,-26.95374000,-60.96928000,Q1135953
+807,Coté-Lai,3640,H,Chaco,11,AR,Argentina,-27.50000000,-59.60000000,Q21829400
+822,"Departamento de Almirante Brown",3640,H,Chaco,11,AR,Argentina,-25.81662000,-61.45576000,Q1190331
+837,"Departamento de Bermejo",3640,H,Chaco,11,AR,Argentina,-27.00000000,-58.66667000,Q792464
+865,"Departamento de Comandante Fernández",3640,H,Chaco,11,AR,Argentina,-26.83333000,-60.50000000,Q868409
+875,"Departamento de Doce de Octubre",3640,H,Chaco,11,AR,Argentina,-27.41667000,-61.33333000,Q899638
+876,"Departamento de Dos de Abril",3640,H,Chaco,11,AR,Argentina,-27.60932000,-61.34473000,Q899638
+890,"Departamento de General Donovan",3640,H,Chaco,11,AR,Argentina,-27.16667000,-59.33333000,Q922325
+892,"Departamento de General Güemes",3640,H,Chaco,11,AR,Argentina,-25.16667000,-61.41667000,Q922325
+909,"Departamento de Independencia",3640,H,Chaco,11,AR,Argentina,-26.66667000,-60.66667000,Q731983
+928,"Departamento de Libertad",3640,H,Chaco,11,AR,Argentina,-27.33333000,-59.33333000,Q279489
+937,"Departamento de Maipú",3640,H,Chaco,11,AR,Argentina,-26.33333000,-60.41667000,Q588032
+950,"Departamento de Nueve de Julio",3640,H,Chaco,11,AR,Argentina,-26.95331000,-61.27627000,Q770031
+954,"Departamento de O’Higgins",3640,H,Chaco,11,AR,Argentina,-27.25000000,-60.66667000,Q770031
+960,"Departamento de Presidencia de la Plaza",3640,H,Chaco,11,AR,Argentina,-27.00000000,-59.75000000,Q1190958
+962,"Departamento de Quitilipi",3640,H,Chaco,11,AR,Argentina,-26.66667000,-60.16667000,Q1063416
+986,"Departamento de San Fernando",3640,H,Chaco,11,AR,Argentina,-27.66667000,-59.16667000,Q1063341
+994,"Departamento de San Lorenzo",3640,H,Chaco,11,AR,Argentina,-27.33333000,-60.41667000,Q1191103
+1010,"Departamento de Sargento Cabral",3640,H,Chaco,11,AR,Argentina,-26.83333000,-59.50000000,Q1063313
+1017,"Departamento de Tapenagá",3640,H,Chaco,11,AR,Argentina,-27.50000000,-59.75000000,Q1063095
+1081,Fontana,3640,H,Chaco,11,AR,Argentina,-27.41813000,-59.02392000,Q923414
+1088,Gancedo,3640,H,Chaco,11,AR,Argentina,-27.49038000,-61.67571000,Q1578967
+1105,"General José de San Martín",3640,H,Chaco,11,AR,Argentina,-26.53743000,-59.34158000,Q2220740
+1109,"General Pinedo",3640,H,Chaco,11,AR,Argentina,-27.31667000,-61.28333000,Q611504
+1114,"General Vedia",3640,H,Chaco,11,AR,Argentina,-26.93382000,-58.66040000,Q1656049
+1135,"Hermoso Campo",3640,H,Chaco,11,AR,Argentina,-27.60816000,-61.34441000,Q751497
+1181,"La Clotilde",3640,H,Chaco,11,AR,Argentina,-27.13333000,-60.66667000,Q1656083
+1186,"La Eduvigis",3640,H,Chaco,11,AR,Argentina,-26.83607000,-59.06211000,Q1657326
+1187,"La Escondida",3640,H,Chaco,11,AR,Argentina,-27.10724000,-59.44784000,Q1656012
+1191,"La Leonesa",3640,H,Chaco,11,AR,Argentina,-27.03786000,-58.70347000,Q1657423
+1201,"La Tigra",3640,H,Chaco,11,AR,Argentina,-27.10996000,-60.58719000,Q21838634
+1203,"La Verde",3640,H,Chaco,11,AR,Argentina,-27.12634000,-59.37352000,Q1657869
+1208,"Laguna Limpia",3640,H,Chaco,11,AR,Argentina,-26.49565000,-59.68083000,Q1656138
+1213,Lapachito,3640,H,Chaco,11,AR,Argentina,-27.15997000,-59.38605000,Q1657314
+1216,"Las Breñas",3640,H,Chaco,11,AR,Argentina,-27.08966000,-61.08161000,Q1017552
+1218,"Las Garcitas",3640,H,Chaco,11,AR,Argentina,-26.61802000,-59.80135000,Q1657855
+1249,"Los Frentones",3640,H,Chaco,11,AR,Argentina,-26.40770000,-61.41367000,Q925007
+1260,Machagai,3640,H,Chaco,11,AR,Argentina,-26.92614000,-60.04955000,Q1579325
+1264,Makallé,3640,H,Chaco,11,AR,Argentina,-27.20687000,-59.28696000,Q602345
+1270,"Margarita Belén",3640,H,Chaco,11,AR,Argentina,-27.26160000,-58.97219000,Q383019
+1296,Napenay,3640,H,Chaco,11,AR,Argentina,-26.73333000,-60.61667000,Q1579131
+1314,"Pampa Almirón",3640,H,Chaco,11,AR,Argentina,-26.70039000,-59.12331000,Q1656116
+1316,"Pampa del Indio",3640,H,Chaco,11,AR,Argentina,-26.04982000,-59.93728000,Q1656045
+1317,"Pampa del Infierno",3640,H,Chaco,11,AR,Argentina,-26.50517000,-61.17436000,Q1578938
+1347,"Presidencia de la Plaza",3640,H,Chaco,11,AR,Argentina,-27.00147000,-59.84243000,Q1656867
+1345,"Presidencia Roca",3640,H,Chaco,11,AR,Argentina,-26.14090000,-59.59541000,Q1657374
+1346,"Presidencia Roque Sáenz Peña",3640,H,Chaco,11,AR,Argentina,-26.78522000,-60.43876000,Q1656936
+1351,"Puerto Bermejo",3640,H,Chaco,11,AR,Argentina,-26.92739000,-58.50917000,Q1656125
+1363,"Puerto Tirol",3640,H,Chaco,11,AR,Argentina,-27.37218000,-59.08206000,Q1003738
+1364,"Puerto Vilelas",3640,H,Chaco,11,AR,Argentina,-27.51414000,-58.93906000,Q1656101
+1370,Quitilipi,3640,H,Chaco,11,AR,Argentina,-26.86913000,-60.21683000,Q1656947
+1379,Resistencia,3640,H,Chaco,11,AR,Argentina,-27.46056000,-58.98389000,Q44206
+1405,Samuhú,3640,H,Chaco,11,AR,Argentina,-27.52116000,-60.39167000,Q7413040
+1414,"San Bernardo",3640,H,Chaco,11,AR,Argentina,-27.28782000,-60.71252000,Q967629
+1471,"Santa Sylvina",3640,H,Chaco,11,AR,Argentina,-27.83261000,-61.13747000,Q1015553
+1493,"Taco Pozo",3640,H,Chaco,11,AR,Argentina,-25.61557000,-63.26708000,Q1579288
+1515,"Tres Isletas",3640,H,Chaco,11,AR,Argentina,-26.34067000,-60.43207000,Q169222
+1586,"Villa Ángela",3640,H,Chaco,11,AR,Argentina,-27.57383000,-60.71526000,Q1657303
+1542,"Villa Berthet",3640,H,Chaco,11,AR,Argentina,-27.29174000,-60.41263000,Q1657333
+655,"Alto Río Senguer",3651,U,Chubut,11,AR,Argentina,-45.04105000,-70.81982000,Q178740
+715,Camarones,3651,U,Chubut,11,AR,Argentina,-44.79709000,-65.70994000,Q972040
+787,"Comodoro Rivadavia",3651,U,Chubut,11,AR,Argentina,-45.86413000,-67.49656000,Q221921
+839,"Departamento de Biedma",3651,U,Chubut,11,AR,Argentina,-42.41667000,-65.00000000,Q573042
+873,"Departamento de Cushamen",3651,U,Chubut,11,AR,Argentina,-42.50000000,-70.83333000,Q899638
+880,"Departamento de Escalante",3651,U,Chubut,11,AR,Argentina,-45.33333000,-67.33333000,Q583893
+883,"Departamento de Florentino Ameghino",3651,U,Chubut,11,AR,Argentina,-44.41667000,-66.16667000,Q991357
+885,"Departamento de Futaleufú",3651,U,Chubut,11,AR,Argentina,-43.08333000,-71.41667000,Q775145
+886,"Departamento de Gaimán",3651,U,Chubut,11,AR,Argentina,-43.33333000,-66.33333000,Q775145
+887,"Departamento de Gastre",3651,U,Chubut,11,AR,Argentina,-42.83333000,-68.66667000,Q775145
+923,"Departamento de Languiñeo",3651,U,Chubut,11,AR,Argentina,-43.33333000,-70.66667000,Q372333
+949,"Departamento de Mártires",3651,U,Chubut,11,AR,Argentina,-43.83333000,-67.16667000,Q770031
+956,"Departamento de Paso de Indios",3651,U,Chubut,11,AR,Argentina,-44.00000000,-68.83333000,Q770031
+963,"Departamento de Rawson",3651,U,Chubut,11,AR,Argentina,-43.12342000,-65.10179000,Q1088518
+979,"Departamento de Río Senguerr",3651,U,Chubut,11,AR,Argentina,-45.33333000,-70.83333000,Q1063078
+1012,"Departamento de Sarmiento",3651,U,Chubut,11,AR,Argentina,-45.33333000,-69.00000000,Q1063313
+1018,"Departamento de Tehuelches",3651,U,Chubut,11,AR,Argentina,-44.22132000,-70.25260000,Q980641
+1019,"Departamento de Telsen",3651,U,Chubut,11,AR,Argentina,-42.41667000,-67.16667000,Q290328
+1042,Dolavón,3651,U,Chubut,11,AR,Argentina,-43.30684000,-65.70651000,Q106043
+1058,"El Maitén",3651,U,Chubut,11,AR,Argentina,-42.04924000,-71.16693000,Q106050
+1070,Esquel,3651,U,Chubut,11,AR,Argentina,-42.91147000,-71.31947000,Q81656
+1087,Gaimán,3651,U,Chubut,11,AR,Argentina,-43.28970000,-65.49290000,Q106055
+1092,Gastre,3651,U,Chubut,11,AR,Argentina,-42.26186000,-69.22112000,Q1016275
+1115,"Gobernador Costa",3651,U,Chubut,11,AR,Argentina,-44.04992000,-70.59798000,Q1773893
+1141,"Hoyo de Epuyén",3651,U,Chubut,11,AR,Argentina,-42.07189000,-71.50811000,Q3720934
+1169,"José de San Martín",3651,U,Chubut,11,AR,Argentina,-44.05032000,-70.46967000,Q1015513
+1206,"Lago Puelo",3651,U,Chubut,11,AR,Argentina,-42.06684000,-71.60384000,Q3825767
+1229,"Las Plumas",3651,U,Chubut,11,AR,Argentina,-43.72058000,-67.28319000,Q1530166
+1359,"Puerto Madryn",3651,U,Chubut,11,AR,Argentina,-42.76920000,-65.03851000,Q748028
+1371,"Rada Tilly",3651,U,Chubut,11,AR,Argentina,-45.92462000,-67.55424000,Q998325
+1374,Rawson,3651,U,Chubut,11,AR,Argentina,-43.30016000,-65.10228000,Q44208
+1393,"Río Mayo",3651,U,Chubut,11,AR,Argentina,-45.68573000,-70.25797000,Q21833451
+1394,"Río Pico",3651,U,Chubut,11,AR,Argentina,-44.17905000,-71.36847000,Q1774299
+1477,Sarmiento,3651,U,Chubut,11,AR,Argentina,-45.58815000,-69.06996000,Q106034
+1499,Tecka,3651,U,Chubut,11,AR,Argentina,-43.49489000,-70.81020000,Q2259996
+1512,Trelew,3651,U,Chubut,11,AR,Argentina,-43.24895000,-65.30505000,Q1009276
+1516,Trevelin,3651,U,Chubut,11,AR,Argentina,-43.08580000,-71.46386000,Q2368288
+639,Achiras,3642,X,Córdoba,11,AR,Argentina,-33.17538000,-64.99331000,Q8187413
+640,"Adelia María",3642,X,Córdoba,11,AR,Argentina,-33.63152000,-64.02097000,Q5682817
+641,"Agua de Oro",3642,X,Córdoba,11,AR,Argentina,-31.06661000,-64.30017000,Q2215108
+647,"Alejandro Roca",3642,X,Córdoba,11,AR,Argentina,-33.35369000,-63.71849000,Q8194200
+648,"Alejo Ledesma",3642,X,Córdoba,11,AR,Argentina,-33.60643000,-62.62304000,Q8194316
+651,Almafuerte,3642,X,Córdoba,11,AR,Argentina,-32.19296000,-64.25559000,Q1935889
+653,"Alta Gracia",3642,X,Córdoba,11,AR,Argentina,-31.65292000,-64.42826000,Q48293
+656,"Altos de Chipión",3642,X,Córdoba,11,AR,Argentina,-30.95590000,-62.33727000,Q3613347
+668,Arias,3642,X,Córdoba,11,AR,Argentina,-33.64411000,-62.40272000,Q2693020
+671,Arroyito,3642,X,Córdoba,11,AR,Argentina,-31.42022000,-63.05002000,Q671062
+672,"Arroyo Cabral",3642,X,Córdoba,11,AR,Argentina,-32.49119000,-63.40126000,Q21845813
+681,Balnearia,3642,X,Córdoba,11,AR,Argentina,-31.00880000,-62.66733000,Q8240830
+688,"Bell Ville",3642,X,Córdoba,11,AR,Argentina,-32.62591000,-62.68873000,Q284308
+695,Berrotarán,3642,X,Córdoba,11,AR,Argentina,-32.45100000,-64.38867000,Q8247020
+701,Brinkmann,3642,X,Córdoba,11,AR,Argentina,-30.86589000,-62.03742000,Q17297395
+702,Buchardo,3642,X,Córdoba,11,AR,Argentina,-34.72263000,-63.50920000,Q8253269
+716,"Camilo Aldao",3642,X,Córdoba,11,AR,Argentina,-33.12745000,-62.09453000,Q2128078
+744,"Cañada de Luque",3642,X,Córdoba,11,AR,Argentina,-30.73341000,-63.72375000,Q8343231
+723,Canals,3642,X,Córdoba,11,AR,Argentina,-33.56542000,-62.88927000,Q2594504
+727,"Capilla del Monte",3642,X,Córdoba,11,AR,Argentina,-30.86088000,-64.52515000,Q1020576
+733,Carnerillo,3642,X,Córdoba,11,AR,Argentina,-32.91371000,-64.02175000,Q8338730
+734,Carrilobo,3642,X,Córdoba,11,AR,Argentina,-31.87296000,-63.11715000,Q8341370
+742,Cavanagh,3642,X,Córdoba,11,AR,Argentina,-33.47606000,-62.33888000,Q8342984
+755,Charras,3642,X,Córdoba,11,AR,Argentina,-33.02400000,-64.04719000,Q21844653
+757,Chazón,3642,X,Córdoba,11,AR,Argentina,-33.07872000,-63.27657000,Q8345116
+769,Cintra,3642,X,Córdoba,11,AR,Argentina,-32.30673000,-62.65214000,Q21842797
+780,"Colonia La Tordilla",3642,X,Córdoba,11,AR,Argentina,-31.23746000,-63.06134000,Q21842946
+781,"Colonia San Bartolomé",3642,X,Córdoba,11,AR,Argentina,-31.52780000,-62.72436000,Q5777842
+815,Córdoba,3642,X,Córdoba,11,AR,Argentina,-31.41350000,-64.18105000,Q44210
+797,"Coronel Baigorria",3642,X,Córdoba,11,AR,Argentina,-32.84770000,-64.36107000,Q8351097
+800,"Coronel Moldes",3642,X,Córdoba,11,AR,Argentina,-33.62270000,-64.59711000,Q21841360
+801,"Corral de Bustos",3642,X,Córdoba,11,AR,Argentina,-33.28205000,-62.18463000,Q5172720
+802,Corralito,3642,X,Córdoba,11,AR,Argentina,-32.02462000,-64.19216000,Q21841392
+805,Cosquín,3642,X,Córdoba,11,AR,Argentina,-31.24508000,-64.46563000,Q48290
+806,"Costa Sacate",3642,X,Córdoba,11,AR,Argentina,-31.64770000,-63.75935000,Q5574326
+809,"Cruz Alta",3642,X,Córdoba,11,AR,Argentina,-33.00887000,-61.80746000,Q21841539
+811,"Cruz del Eje",3642,X,Córdoba,11,AR,Argentina,-30.72644000,-64.80387000,Q1016873
+812,"Cuesta Blanca",3642,X,Córdoba,11,AR,Argentina,-31.48658000,-64.57150000,Q637219
+816,"Dalmacio Vélez Sársfield",3642,X,Córdoba,11,AR,Argentina,-32.61072000,-63.58038000,Q21841723
+1039,"Deán Funes",3642,X,Córdoba,11,AR,Argentina,-30.42036000,-64.34984000,Q525817
+818,"Del Campillo",3642,X,Córdoba,11,AR,Argentina,-34.37659000,-64.49504000,Q8354470
+842,"Departamento de Calamuchita",3642,X,Córdoba,11,AR,Argentina,-32.25000000,-64.58333000,Q665082
+864,"Departamento de Colón",3642,X,Córdoba,11,AR,Argentina,-31.16667000,-64.16667000,Q868409
+871,"Departamento de Cruz del Eje",3642,X,Córdoba,11,AR,Argentina,-30.75000000,-65.00000000,Q635957
+896,"Departamento de General Roca",3642,X,Córdoba,11,AR,Argentina,-34.66667000,-64.25000000,Q368679
+897,"Departamento de General San Martín",3642,X,Córdoba,11,AR,Argentina,-32.50000000,-63.33333000,Q368679
+914,"Departamento de Juárez Celman",3642,X,Córdoba,11,AR,Argentina,-33.33333000,-63.66667000,Q511702
+939,"Departamento de Marcos Juárez",3642,X,Córdoba,11,AR,Argentina,-33.00000000,-62.25000000,Q784895
+943,"Departamento de Minas",3642,X,Córdoba,11,AR,Argentina,-31.00000000,-65.33333000,Q591241
+961,"Departamento de Presidente Roque Sáenz Peña",3642,X,Córdoba,11,AR,Argentina,-34.25000000,-63.50000000,Q1063416
+974,"Departamento de Río Cuarto",3642,X,Córdoba,11,AR,Argentina,-33.33333000,-64.50000000,Q1063409
+976,"Departamento de Río Primero",3642,X,Córdoba,11,AR,Argentina,-31.08333000,-63.50000000,Q1063403
+977,"Departamento de Río Seco",3642,X,Córdoba,11,AR,Argentina,-30.08333000,-63.00000000,Q531018
+978,"Departamento de Río Segundo",3642,X,Córdoba,11,AR,Argentina,-31.75000000,-63.50000000,Q1063078
+981,"Departamento de San Alberto",3642,X,Córdoba,11,AR,Argentina,-31.75000000,-65.25000000,Q633783
+990,"Departamento de San Javier",3642,X,Córdoba,11,AR,Argentina,-32.08333000,-65.16667000,Q777079
+991,"Departamento de San Justo",3642,X,Córdoba,11,AR,Argentina,-31.33333000,-62.66667000,Q950820
+1016,"Departamento de Sobremonte",3642,X,Córdoba,11,AR,Argentina,-29.66667000,-64.08333000,Q1063095
+1022,"Departamento de Totoral",3642,X,Córdoba,11,AR,Argentina,-30.83333000,-63.91667000,Q1063056
+1024,"Departamento de Tulumba",3642,X,Córdoba,11,AR,Argentina,-30.25000000,-63.91667000,Q972349
+1029,"Departamento de Unión",3642,X,Córdoba,11,AR,Argentina,-32.83333000,-62.75000000,Q2317932
+1037,Despeñaderos,3642,X,Córdoba,11,AR,Argentina,-31.81626000,-64.28989000,Q5804390
+1038,Devoto,3642,X,Córdoba,11,AR,Argentina,-31.40431000,-62.30634000,Q21841792
+1049,"El Arañado",3642,X,Córdoba,11,AR,Argentina,-31.74120000,-62.89322000,Q5820863
+1063,"El Tío",3642,X,Córdoba,11,AR,Argentina,-31.38357000,-62.82938000,Q21842250
+1064,Elena,3642,X,Córdoba,11,AR,Argentina,-32.57205000,-64.39481000,Q21842056
+1066,Embalse,3642,X,Córdoba,11,AR,Argentina,-32.18000000,-64.41809000,Q1011693
+1073,Etruria,3642,X,Córdoba,11,AR,Argentina,-32.94008000,-63.24660000,Q1442288
+1096,"General Baldissera",3642,X,Córdoba,11,AR,Argentina,-33.12246000,-62.30630000,Q932486
+1097,"General Cabrera",3642,X,Córdoba,11,AR,Argentina,-32.81313000,-63.87243000,Q973090
+1106,"General Levalle",3642,X,Córdoba,11,AR,Argentina,-34.01472000,-63.92413000,Q938803
+1111,"General Roca",3642,X,Córdoba,11,AR,Argentina,-32.73196000,-61.91599000,Q21839890
+1129,Guatimozín,3642,X,Córdoba,11,AR,Argentina,-33.46149000,-62.43844000,Q21840259
+1136,Hernando,3642,X,Córdoba,11,AR,Argentina,-32.42657000,-63.73333000,Q2648980
+1143,Huanchillas,3642,X,Córdoba,11,AR,Argentina,-33.66653000,-63.63701000,Q21840489
+1144,"Huerta Grande",3642,X,Córdoba,11,AR,Argentina,-31.07524000,-64.49063000,Q21840531
+1146,"Huinca Renancó",3642,X,Córdoba,11,AR,Argentina,-34.84038000,-64.37580000,Q2638654
+1150,Idiazábal,3642,X,Córdoba,11,AR,Argentina,-32.81411000,-63.03252000,Q21840564
+1156,Inriville,3642,X,Córdoba,11,AR,Argentina,-32.94424000,-62.23028000,Q9008605
+1159,"Isla Verde",3642,X,Córdoba,11,AR,Argentina,-33.24104000,-62.40297000,Q21840678
+1160,Italó,3642,X,Córdoba,11,AR,Argentina,-34.79237000,-63.78199000,Q21840687
+1165,"James Craik",3642,X,Córdoba,11,AR,Argentina,-32.16120000,-63.46688000,Q2732721
+1167,"Jesús María",3642,X,Córdoba,11,AR,Argentina,-30.98153000,-64.09424000,Q48288
+1173,"Justiniano Posse",3642,X,Córdoba,11,AR,Argentina,-32.88411000,-62.67788000,Q524744
+1178,"La Calera",3642,X,Córdoba,11,AR,Argentina,-31.34377000,-64.33529000,Q21840871
+1179,"La Carlota",3642,X,Córdoba,11,AR,Argentina,-33.41993000,-63.29769000,Q2336157
+1180,"La Cesira",3642,X,Córdoba,11,AR,Argentina,-33.95115000,-62.97238000,Q10315018
+1185,"La Cumbre",3642,X,Córdoba,11,AR,Argentina,-30.98201000,-64.49139000,Q1798756
+1188,"La Falda",3642,X,Córdoba,11,AR,Argentina,-31.08841000,-64.48987000,Q48294
+1189,"La Francia",3642,X,Córdoba,11,AR,Argentina,-31.40675000,-62.63396000,Q9018548
+1190,"La Granja",3642,X,Córdoba,11,AR,Argentina,-31.00919000,-64.26869000,Q21840995
+1194,"La Para",3642,X,Córdoba,11,AR,Argentina,-30.89416000,-63.00107000,Q977211
+1196,"La Playosa",3642,X,Córdoba,11,AR,Argentina,-32.10002000,-63.03088000,Q9018831
+1204,Laborde,3642,X,Córdoba,11,AR,Argentina,-33.15319000,-62.85661000,Q850581
+1205,Laboulaye,3642,X,Córdoba,11,AR,Argentina,-34.12662000,-63.39119000,Q2520086
+1207,"Laguna Larga",3642,X,Córdoba,11,AR,Argentina,-31.77652000,-63.80104000,Q21838086
+1215,"Las Acequias",3642,X,Córdoba,11,AR,Argentina,-33.28155000,-63.97610000,Q9020363
+1221,"Las Higueras",3642,X,Córdoba,11,AR,Argentina,-33.09231000,-64.28899000,Q21838493
+1222,"Las Junturas",3642,X,Córdoba,11,AR,Argentina,-31.83125000,-63.45016000,Q9020468
+1228,"Las Perdices",3642,X,Córdoba,11,AR,Argentina,-32.69794000,-63.70634000,Q21838558
+1232,"Las Varas",3642,X,Córdoba,11,AR,Argentina,-31.80260000,-62.61655000,Q21838615
+1233,"Las Varillas",3642,X,Córdoba,11,AR,Argentina,-31.87208000,-62.71946000,Q10316445
+1234,Leones,3642,X,Córdoba,11,AR,Argentina,-32.66174000,-62.29678000,Q21838780
+1246,"Los Cocos",3642,X,Córdoba,11,AR,Argentina,-30.92497000,-64.50207000,Q6682609
+1248,"Los Cóndores",3642,X,Córdoba,11,AR,Argentina,-32.31983000,-64.27751000,Q21839069
+1254,"Los Surgentes",3642,X,Córdoba,11,AR,Argentina,-32.98454000,-62.02191000,Q5487799
+1266,Malagueño,3642,X,Córdoba,11,AR,Argentina,-31.46467000,-64.35840000,Q1886644
+1267,"Malvinas Argentinas",3642,X,Córdoba,11,AR,Argentina,-31.38194000,-64.05545000,Q503652
+1269,"Marcos Juárez",3642,X,Córdoba,11,AR,Argentina,-32.69780000,-62.10672000,Q1016881
+1273,Marull,3642,X,Córdoba,11,AR,Argentina,-30.99471000,-62.82576000,Q2500565
+1274,Mattaldi,3642,X,Córdoba,11,AR,Argentina,-34.48194000,-64.17255000,Q21837152
+1277,Mendiolaza,3642,X,Córdoba,11,AR,Argentina,-31.26738000,-64.30087000,Q9031514
+1282,"Mina Clavero",3642,X,Córdoba,11,AR,Argentina,-31.72101000,-65.00619000,Q48348
+1283,Miramar,3642,X,Córdoba,11,AR,Argentina,-30.91859000,-62.67814000,Q991707
+1286,"Monte Buey",3642,X,Córdoba,11,AR,Argentina,-32.91642000,-62.45669000,Q2506369
+1288,"Monte Cristo",3642,X,Córdoba,11,AR,Argentina,-31.34312000,-63.94437000,Q21837558
+1289,"Monte Maíz",3642,X,Córdoba,11,AR,Argentina,-33.20462000,-62.60085000,Q9034750
+1292,Morrison,3642,X,Córdoba,11,AR,Argentina,-32.59480000,-62.83455000,Q21837657
+1293,Morteros,3642,X,Córdoba,11,AR,Argentina,-30.71164000,-61.99862000,Q953723
+1299,Noetinger,3642,X,Córdoba,11,AR,Argentina,-32.36597000,-62.31126000,Q525771
+1305,"Obispo Trejo",3642,X,Córdoba,11,AR,Argentina,-30.78128000,-63.41349000,Q3482948
+1306,Oliva,3642,X,Córdoba,11,AR,Argentina,-32.04158000,-63.56978000,Q3111948
+1307,Oncativo,3642,X,Córdoba,11,AR,Argentina,-31.91353000,-63.68201000,Q2106471
+1308,Ordóñez,3642,X,Córdoba,11,AR,Argentina,-32.84057000,-62.86552000,Q10341376
+1321,Pascanas,3642,X,Córdoba,11,AR,Argentina,-33.12550000,-63.04084000,Q7141762
+1322,Pasco,3642,X,Córdoba,11,AR,Argentina,-32.74733000,-63.34232000,Q21835214
+1333,Pilar,3642,X,Córdoba,11,AR,Argentina,-31.67890000,-63.87964000,Q7193761
+1335,Piquillín,3642,X,Córdoba,11,AR,Argentina,-31.30158000,-63.75788000,Q6076671
+1341,Porteña,3642,X,Córdoba,11,AR,Argentina,-31.01391000,-62.06650000,Q2071003
+1343,"Pozo del Molle",3642,X,Córdoba,11,AR,Argentina,-32.01860000,-62.91984000,Q3909741
+1368,Quilino,3642,X,Córdoba,11,AR,Argentina,-30.21397000,-64.50063000,Q21836395
+1388,"Río Ceballos",3642,X,Córdoba,11,AR,Argentina,-31.16486000,-64.32241000,Q990605
+1390,"Río Cuarto",3642,X,Córdoba,11,AR,Argentina,-33.13067000,-64.34992000,Q983451
+1395,"Río Segundo",3642,X,Córdoba,11,AR,Argentina,-31.65260000,-63.90990000,Q1937588
+1396,"Río Tercero",3642,X,Córdoba,11,AR,Argentina,-32.17301000,-64.11405000,Q994351
+1398,Sacanta,3642,X,Córdoba,11,AR,Argentina,-31.66300000,-63.04505000,Q9072519
+1400,Saldán,3642,X,Córdoba,11,AR,Argentina,-31.30262000,-64.30700000,Q2214082
+1401,Salsacate,3642,X,Córdoba,11,AR,Argentina,-31.31842000,-65.09003000,Q3111167
+1402,Salsipuedes,3642,X,Córdoba,11,AR,Argentina,-31.13725000,-64.29589000,Q21833759
+1404,Sampacho,3642,X,Córdoba,11,AR,Argentina,-33.38390000,-64.72211000,Q2982604
+1406,"San Agustín",3642,X,Córdoba,11,AR,Argentina,-31.97681000,-64.37400000,Q1863952
+1410,"San Antonio de Litín",3642,X,Córdoba,11,AR,Argentina,-32.21377000,-62.63237000,Q9073324
+1412,"San Basilio",3642,X,Córdoba,11,AR,Argentina,-33.49763000,-64.31495000,Q21833822
+1415,"San Carlos",3642,X,Córdoba,11,AR,Argentina,-31.17761000,-65.10245000,Q967364
+1422,"San Francisco",3642,X,Córdoba,11,AR,Argentina,-31.42797000,-62.08266000,Q949535
+1424,"San Francisco del Chañar",3642,X,Córdoba,11,AR,Argentina,-29.78830000,-63.94411000,Q3082023
+1432,"San José de la Dormida",3642,X,Córdoba,11,AR,Argentina,-30.35440000,-63.94871000,Q6119038
+1457,"Santa Eufemia",3642,X,Córdoba,11,AR,Argentina,-33.17659000,-63.28281000,Q10367830
+1462,"Santa Magdalena",3642,X,Córdoba,11,AR,Argentina,-34.51776000,-63.94409000,Q1709980
+1467,"Santa Rosa de Calamuchita",3642,X,Córdoba,11,AR,Argentina,-32.06905000,-64.53631000,Q15329
+1468,"Santa Rosa de Río Primero",3642,X,Córdoba,11,AR,Argentina,-31.15231000,-63.40191000,Q2765854
+1472,"Santiago Temple",3642,X,Córdoba,11,AR,Argentina,-31.38731000,-63.41821000,Q9074307
+1479,"Saturnino M. Laspiur",3642,X,Córdoba,11,AR,Argentina,-31.70287000,-62.48202000,Q21834167
+1481,"Sebastián Elcano",3642,X,Córdoba,11,AR,Argentina,-30.16105000,-63.59360000,Q21834217
+1484,Serrano,3642,X,Córdoba,11,AR,Argentina,-34.46971000,-63.53842000,Q974361
+1485,Serrezuela,3642,X,Córdoba,11,AR,Argentina,-30.63761000,-65.38692000,Q21834373
+1497,Tancacha,3642,X,Córdoba,11,AR,Argentina,-32.24309000,-63.98070000,Q21831429
+1502,Ticino,3642,X,Córdoba,11,AR,Argentina,-32.69350000,-63.43606000,Q21831530
+1517,"Tío Pujio",3642,X,Córdoba,11,AR,Argentina,-32.28790000,-63.35598000,Q6154571
+1507,Toledo,3642,X,Córdoba,11,AR,Argentina,-31.55574000,-64.00947000,Q21831641
+1519,Ucacha,3642,X,Córdoba,11,AR,Argentina,-33.03203000,-63.50666000,Q2628025
+1521,Unquillo,3642,X,Córdoba,11,AR,Argentina,-31.23073000,-64.31615000,Q3120316
+1526,"Valle Hermoso",3642,X,Córdoba,11,AR,Argentina,-31.11732000,-64.48084000,Q9092406
+1532,Viamonte,3642,X,Córdoba,11,AR,Argentina,-33.74647000,-63.09764000,Q21832337
+1535,"Vicuña Mackenna",3642,X,Córdoba,11,AR,Argentina,-33.91965000,-64.39215000,Q918656
+1537,"Villa Allende",3642,X,Córdoba,11,AR,Argentina,-31.29458000,-64.29538000,Q991758
+1538,"Villa Ascasubi",3642,X,Córdoba,11,AR,Argentina,-32.16351000,-63.89157000,Q1973813
+1541,"Villa Berna",3642,X,Córdoba,11,AR,Argentina,-31.91419000,-64.73249000,Q6162060
+1544,"Villa Carlos Paz",3642,X,Córdoba,11,AR,Argentina,-31.42414000,-64.49778000,Q48285
+1546,"Villa Concepción del Tío",3642,X,Córdoba,11,AR,Argentina,-31.32259000,-62.81354000,Q6162106
+1548,"Villa Cura Brochero",3642,X,Córdoba,11,AR,Argentina,-31.70578000,-65.01796000,Q1818180
+1581,"Villa de Soto",3642,X,Córdoba,11,AR,Argentina,-30.85523000,-64.99947000,Q9093952
+1582,"Villa del Dique",3642,X,Córdoba,11,AR,Argentina,-32.17667000,-64.45543000,Q2170454
+1583,"Villa del Rosario",3642,X,Córdoba,11,AR,Argentina,-31.55660000,-63.53452000,Q2314221
+1585,"Villa del Totoral",3642,X,Córdoba,11,AR,Argentina,-30.81667000,-63.71667000,Q2636994
+1549,"Villa Dolores",3642,X,Córdoba,11,AR,Argentina,-31.94585000,-65.18958000,Q374013
+1552,"Villa General Belgrano",3642,X,Córdoba,11,AR,Argentina,-31.97828000,-64.55627000,Q1013424
+1556,"Villa Giardino",3642,X,Córdoba,11,AR,Argentina,-31.03333000,-64.48333000,Q839912
+1558,"Villa Huidobro",3642,X,Córdoba,11,AR,Argentina,-34.83826000,-64.58686000,Q2730365
+1560,"Villa Las Rosas",3642,X,Córdoba,11,AR,Argentina,-31.95021000,-65.05354000,Q9093939
+1563,"Villa María",3642,X,Córdoba,11,AR,Argentina,-32.40751000,-63.24016000,Q2525523
+1567,"Villa Nueva",3642,X,Córdoba,11,AR,Argentina,-32.43293000,-63.24763000,Q6162298
+1573,"Villa Reducción",3642,X,Córdoba,11,AR,Argentina,-33.20105000,-63.86234000,Q11071461
+1575,"Villa Rumipal",3642,X,Córdoba,11,AR,Argentina,-32.18790000,-64.48027000,Q10391476
+1578,"Villa Tulumba",3642,X,Córdoba,11,AR,Argentina,-30.39552000,-64.12241000,Q3111419
+1580,"Villa Valeria",3642,X,Córdoba,11,AR,Argentina,-34.34093000,-64.92030000,Q9093936
+1591,"Wenceslao Escalante",3642,X,Córdoba,11,AR,Argentina,-33.17303000,-62.77078000,Q10393380
 658,Alvear,3638,W,Corrientes,11,AR,Argentina,-29.09683000,-56.55043000,Q2658439
 696,"Berón de Astrada",3638,W,Corrientes,11,AR,Argentina,-27.55067000,-57.53460000,Q55856
 698,Bonpland,3638,W,Corrientes,11,AR,Argentina,-29.81708000,-57.42974000,Q4942564
@@ -998,112 +998,112 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 1476,"Santo Tomé",3638,W,Corrientes,11,AR,Argentina,-28.54939000,-56.04077000,Q2031463
 1594,Yapeyú,3638,W,Corrientes,11,AR,Argentina,-29.46914000,-56.81841000,Q55854
 1595,"Yataity Calle",3638,W,Corrientes,11,AR,Argentina,-29.01913000,-58.90846000,Q21825635
-645,"Aldea San Antonio",3654,E,"Entre Ríos Province",11,AR,Argentina,-32.62317000,-58.70512000,Q4713475
-665,Aranguren,3654,E,"Entre Ríos Province",11,AR,Argentina,-32.24252000,-60.16107000,Q4784111
-700,Bovril,3654,E,"Entre Ríos Province",11,AR,Argentina,-31.34311000,-59.44512000,Q2626346
-735,Caseros,3654,E,"Entre Ríos Province",11,AR,Argentina,-32.46325000,-58.47872000,Q5048424
-745,Ceibas,3654,E,"Entre Ríos Province",11,AR,Argentina,-33.43333000,-58.75000000,Q5057355
-751,Chajarí,3654,E,"Entre Ríos Province",11,AR,Argentina,-30.75048000,-57.97962000,Q2654603
-783,Colón,3654,E,"Entre Ríos Province",11,AR,Argentina,-32.22312000,-58.14426000,Q52591
-779,"Colonia Elía",3654,E,"Entre Ríos Province",11,AR,Argentina,-32.67144000,-58.32538000,Q385453
-792,"Concepción del Uruguay",3654,E,"Entre Ríos Province",11,AR,Argentina,-32.48463000,-58.23217000,Q727464
-793,Concordia,3654,E,"Entre Ríos Province",11,AR,Argentina,-31.39296000,-58.02089000,Q52578
-794,"Conscripto Bernardi",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.04837000,-59.08435000,Q8349932
-808,Crespo,3654,E,"Entre Ríos Province",11,AR,Argentina,-32.02873000,-60.30658000,Q2486561
-902,"Departamento de Gualeguaychú",3654,E,"Entre Ríos Province",11,AR,Argentina,-33.25000000,-59.00000000,Q1028486
-955,"Departamento de Paraná",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.66667000,-60.00000000,Q770031
-1040,Diamante,3654,E,"Entre Ríos Province",11,AR,Argentina,-32.06641000,-60.63837000,Q2381636
-1043,Domínguez,3654,E,"Entre Ríos Province",11,AR,Argentina,-31.98710000,-58.96197000,Q922694
-1075,Federación,3654,E,"Entre Ríos Province",11,AR,Argentina,-31.00621000,-57.89962000,Q52595
-1076,Federal,3654,E,"Entre Ríos Province",11,AR,Argentina,-30.95465000,-58.78326000,Q2158248
-1098,"General Campos",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.52311000,-58.40490000,Q1982713
-1104,"General Galarza",3654,E,"Entre Ríos Province",11,AR,Argentina,-32.72034000,-59.39615000,Q2220740
-1110,"General Ramírez",3654,E,"Entre Ríos Province",11,AR,Argentina,-32.17601000,-60.20079000,Q5532145
-1119,"Gobernador Mansilla",3654,E,"Entre Ríos Province",11,AR,Argentina,-32.54453000,-59.35480000,Q5575454
-1126,Gualeguay,3654,E,"Entre Ríos Province",11,AR,Argentina,-33.14156000,-59.30966000,Q52602
-1127,Gualeguaychú,3654,E,"Entre Ríos Province",11,AR,Argentina,-33.00937000,-58.51722000,Q52585
-1132,Hasenkamp,3654,E,"Entre Ríos Province",11,AR,Argentina,-31.51226000,-59.83545000,Q375431
-1137,Hernández,3654,E,"Entre Ríos Province",11,AR,Argentina,-32.33730000,-60.02160000,Q21840340
-1139,Herrera,3654,E,"Entre Ríos Province",11,AR,Argentina,-32.43401000,-58.63177000,Q5743957
-1183,"La Criolla",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.26904000,-58.10558000,Q21826802
-1195,"La Paz",3654,E,"Entre Ríos Province",11,AR,Argentina,-30.74179000,-59.64517000,Q2440276
-1214,Larroque,3654,E,"Entre Ríos Province",11,AR,Argentina,-33.03595000,-59.00125000,Q5410731
-1245,"Los Charrúas",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.17548000,-58.18774000,Q6682609
-1247,"Los Conquistadores",3654,E,"Entre Ríos Province",11,AR,Argentina,-30.59080000,-58.46773000,Q21827035
-1257,"Lucas González",3654,E,"Entre Ríos Province",11,AR,Argentina,-32.38430000,-59.53013000,Q5981875
-1261,Maciá,3654,E,"Entre Ríos Province",11,AR,Argentina,-32.17220000,-59.39947000,Q6724173
-1300,Nogoyá,3654,E,"Entre Ríos Province",11,AR,Argentina,-32.39387000,-59.78953000,Q3112762
-1309,"Oro Verde",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.82508000,-60.51749000,Q2190329
-1319,Paraná,3654,E,"Entre Ríos Province",11,AR,Argentina,-31.73271000,-60.52897000,Q44213
-1332,"Piedras Blancas",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.18592000,-59.95181000,Q21827466
-1348,Pronunciamiento,3654,E,"Entre Ríos Province",11,AR,Argentina,-32.34480000,-58.44268000,Q7249966
-1355,"Puerto Ibicuy",3654,E,"Entre Ríos Province",11,AR,Argentina,-33.75305000,-59.17762000,Q3314293
-1365,"Puerto Yeruá",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.53713000,-58.01527000,Q9064581
-1385,"Rosario del Tala",3654,E,"Entre Ríos Province",11,AR,Argentina,-32.30286000,-59.14545000,Q2247641
-1413,"San Benito",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.78371000,-60.44156000,Q5243488
-1426,"San Gustavo",3654,E,"Entre Ríos Province",11,AR,Argentina,-30.68961000,-59.39840000,Q9073465
-1430,"San José de Feliciano",3654,E,"Entre Ríos Province",11,AR,Argentina,-30.38452000,-58.75167000,Q2501258
-1435,"San Justo",3654,E,"Entre Ríos Province",11,AR,Argentina,-32.44654000,-58.43569000,Q21827757
-1450,"San Salvador",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.62487000,-58.50524000,Q2065245
-1453,"Santa Ana",3654,E,"Entre Ríos Province",11,AR,Argentina,-30.90004000,-57.93162000,Q7419149
-1454,"Santa Anita",3654,E,"Entre Ríos Province",11,AR,Argentina,-32.17476000,-58.78622000,Q21827820
-1456,"Santa Elena",3654,E,"Entre Ríos Province",11,AR,Argentina,-30.94432000,-59.78832000,Q2475908
-1480,"Sauce de Luna",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.23794000,-59.21872000,Q7427010
-1482,Seguí,3654,E,"Entre Ríos Province",11,AR,Argentina,-31.95642000,-60.12488000,Q9075712
-1492,Tabossi,3654,E,"Entre Ríos Province",11,AR,Argentina,-31.80135000,-59.93477000,Q5476809
-1518,Ubajay,3654,E,"Entre Ríos Province",11,AR,Argentina,-31.79358000,-58.31350000,Q7876389
-1522,Urdinarrain,3654,E,"Entre Ríos Province",11,AR,Argentina,-32.68573000,-58.89323000,Q2032321
-1531,Viale,3654,E,"Entre Ríos Province",11,AR,Argentina,-31.86782000,-60.00722000,Q7924485
-1533,Victoria,3654,E,"Entre Ríos Province",11,AR,Argentina,-32.61841000,-60.15478000,Q1905080
-1584,"Villa del Rosario",3654,E,"Entre Ríos Province",11,AR,Argentina,-30.79567000,-57.91257000,Q7930566
-1550,"Villa Elisa",3654,E,"Entre Ríos Province",11,AR,Argentina,-32.16320000,-58.40082000,Q52581
-1557,"Villa Hernandarias",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.23097000,-59.98464000,Q7930352
-1562,"Villa Mantero",3654,E,"Entre Ríos Province",11,AR,Argentina,-32.39727000,-58.74596000,Q7930410
-1564,"Villa María Grande",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.66565000,-59.90182000,Q2378999
-1571,"Villa Paranacito",3654,E,"Entre Ríos Province",11,AR,Argentina,-33.71381000,-58.65844000,Q662831
-1579,"Villa Urquiza",3654,E,"Entre Ríos Province",11,AR,Argentina,-31.64757000,-60.37516000,Q7930524
-1587,Villaguay,3654,E,"Entre Ríos Province",11,AR,Argentina,-31.86530000,-59.02689000,Q2297707
-772,Clorinda,3652,P,"Formosa Province",11,AR,Argentina,-25.28481000,-57.71851000,Q106063
-785,"Comandante Fontana",3652,P,"Formosa Province",11,AR,Argentina,-25.33453000,-59.68212000,Q106069
-958,"Departamento de Pilcomayo",3652,P,"Formosa Province",11,AR,Argentina,-25.50000000,-58.08333000,Q1190958
-1053,"El Colorado",3652,P,"Formosa Province",11,AR,Argentina,-26.30808000,-59.37291000,Q994889
-1072,"Estanislao del Campo",3652,P,"Formosa Province",11,AR,Argentina,-25.05504000,-60.09218000,Q8843108
-1082,Formosa,3652,P,"Formosa Province",11,AR,Argentina,-26.18489000,-58.17313000,Q44214
-1102,"General Enrique Mosconi",3652,P,"Formosa Province",11,AR,Argentina,-23.21667000,-62.30000000,Q2132246
-1138,Herradura,3652,P,"Formosa Province",11,AR,Argentina,-26.48705000,-58.31198000,Q3197888
-1148,Ibarreta,3652,P,"Formosa Province",11,AR,Argentina,-25.21438000,-59.85851000,Q5983760
-1151,"Ingeniero Guillermo N. Juárez",3652,P,"Formosa Province",11,AR,Argentina,-23.90000000,-61.85000000,Q106075
-1209,"Laguna Naick-Neck",3652,P,"Formosa Province",11,AR,Argentina,-25.24769000,-58.09383000,Q21826826
-1211,"Laguna Yema",3652,P,"Formosa Province",11,AR,Argentina,-24.25391000,-61.24466000,Q1016035
-1225,"Las Lomitas",3652,P,"Formosa Province",11,AR,Argentina,-24.70955000,-60.59303000,Q6492291
-1312,"Palo Santo",3652,P,"Formosa Province",11,AR,Argentina,-25.56332000,-59.33781000,Q9054861
-1336,Pirané,3652,P,"Formosa Province",11,AR,Argentina,-25.73239000,-59.10879000,Q2031369
-1344,"Pozo del Tigre",3652,P,"Formosa Province",11,AR,Argentina,-24.89682000,-60.32359000,Q937642
-1381,"Riacho Eh-Eh",3652,P,"Formosa Province",11,AR,Argentina,-25.36209000,-58.27750000,Q21827591
-1423,"San Francisco de Laishí",3652,P,"Formosa Province",11,AR,Argentina,-26.24262000,-58.63039000,Q994886
-1551,"Villa Escolar",3652,P,"Formosa Province",11,AR,Argentina,-26.62209000,-58.67134000,Q5854222
-1553,"Villa General Guemes",3652,P,"Formosa Province",11,AR,Argentina,-24.75530000,-59.48940000,Q1013424
-638,"Abra Pampa",3645,Y,"Jujuy Province",11,AR,Argentina,-22.72049000,-65.69697000,Q55386
-709,Caimancito,3645,Y,"Jujuy Province",11,AR,Argentina,-23.74069000,-64.59370000,Q1749213
-713,Calilegua,3645,Y,"Jujuy Province",11,AR,Argentina,-23.77368000,-64.77002000,Q1749231
-862,"Departamento de Cochinoca",3645,Y,"Jujuy Province",11,AR,Argentina,-23.00000000,-65.83333000,Q609628
-965,"Departamento de Rinconada",3645,Y,"Jujuy Province",11,AR,Argentina,-22.50000000,-66.50000000,Q1063533
-1025,"Departamento de Tumbaya",3645,Y,"Jujuy Province",11,AR,Argentina,-23.71667000,-65.66667000,Q1063348
-1047,"El Aguilar",3645,Y,"Jujuy Province",11,AR,Argentina,-23.21572000,-65.68005000,Q3720844
-1083,"Fraile Pintado",3645,Y,"Jujuy Province",11,AR,Argentina,-23.94079000,-64.79943000,Q1923525
-1147,Humahuaca,3645,Y,"Jujuy Province",11,AR,Argentina,-23.20544000,-65.35048000,Q1026833
-1155,"Ingenio La Esperanza",3645,Y,"Jujuy Province",11,AR,Argentina,-24.22554000,-64.83896000,Q21840643
-1193,"La Mendieta",3645,Y,"Jujuy Province",11,AR,Argentina,-24.31187000,-64.96377000,Q3820983
-1199,"La Quiaca",3645,Y,"Jujuy Province",11,AR,Argentina,-22.10236000,-65.59299000,Q693381
-1236,"Libertador General San Martín",3645,Y,"Jujuy Province",11,AR,Argentina,-23.80644000,-64.78757000,Q600706
-1262,Maimará,3645,Y,"Jujuy Province",11,AR,Argentina,-23.62392000,-65.40797000,Q3843526
-1310,"Palma Sola",3645,Y,"Jujuy Province",11,AR,Argentina,-23.97771000,-64.30311000,Q1749064
-1313,Palpalá,3645,Y,"Jujuy Province",11,AR,Argentina,-24.25647000,-65.21163000,Q9054861
-1447,"San Pedro de Jujuy",3645,Y,"Jujuy Province",11,AR,Argentina,-24.23127000,-64.86614000,Q1020263
-1451,"San Salvador de Jujuy",3645,Y,"Jujuy Province",11,AR,Argentina,-24.19457000,-65.29712000,Q44217
-1455,"Santa Clara",3645,Y,"Jujuy Province",11,AR,Argentina,-24.30921000,-64.66253000,Q2001906
-1503,Tilcara,3645,Y,"Jujuy Province",11,AR,Argentina,-23.57817000,-65.39516000,Q604722
-1597,Yuto,3645,Y,"Jujuy Province",11,AR,Argentina,-23.64342000,-64.47194000,Q1115054
+645,"Aldea San Antonio",3654,E,"Entre Ríos",11,AR,Argentina,-32.62317000,-58.70512000,Q4713475
+665,Aranguren,3654,E,"Entre Ríos",11,AR,Argentina,-32.24252000,-60.16107000,Q4784111
+700,Bovril,3654,E,"Entre Ríos",11,AR,Argentina,-31.34311000,-59.44512000,Q2626346
+735,Caseros,3654,E,"Entre Ríos",11,AR,Argentina,-32.46325000,-58.47872000,Q5048424
+745,Ceibas,3654,E,"Entre Ríos",11,AR,Argentina,-33.43333000,-58.75000000,Q5057355
+751,Chajarí,3654,E,"Entre Ríos",11,AR,Argentina,-30.75048000,-57.97962000,Q2654603
+783,Colón,3654,E,"Entre Ríos",11,AR,Argentina,-32.22312000,-58.14426000,Q52591
+779,"Colonia Elía",3654,E,"Entre Ríos",11,AR,Argentina,-32.67144000,-58.32538000,Q385453
+792,"Concepción del Uruguay",3654,E,"Entre Ríos",11,AR,Argentina,-32.48463000,-58.23217000,Q727464
+793,Concordia,3654,E,"Entre Ríos",11,AR,Argentina,-31.39296000,-58.02089000,Q52578
+794,"Conscripto Bernardi",3654,E,"Entre Ríos",11,AR,Argentina,-31.04837000,-59.08435000,Q8349932
+808,Crespo,3654,E,"Entre Ríos",11,AR,Argentina,-32.02873000,-60.30658000,Q2486561
+902,"Departamento de Gualeguaychú",3654,E,"Entre Ríos",11,AR,Argentina,-33.25000000,-59.00000000,Q1028486
+955,"Departamento de Paraná",3654,E,"Entre Ríos",11,AR,Argentina,-31.66667000,-60.00000000,Q770031
+1040,Diamante,3654,E,"Entre Ríos",11,AR,Argentina,-32.06641000,-60.63837000,Q2381636
+1043,Domínguez,3654,E,"Entre Ríos",11,AR,Argentina,-31.98710000,-58.96197000,Q922694
+1075,Federación,3654,E,"Entre Ríos",11,AR,Argentina,-31.00621000,-57.89962000,Q52595
+1076,Federal,3654,E,"Entre Ríos",11,AR,Argentina,-30.95465000,-58.78326000,Q2158248
+1098,"General Campos",3654,E,"Entre Ríos",11,AR,Argentina,-31.52311000,-58.40490000,Q1982713
+1104,"General Galarza",3654,E,"Entre Ríos",11,AR,Argentina,-32.72034000,-59.39615000,Q2220740
+1110,"General Ramírez",3654,E,"Entre Ríos",11,AR,Argentina,-32.17601000,-60.20079000,Q5532145
+1119,"Gobernador Mansilla",3654,E,"Entre Ríos",11,AR,Argentina,-32.54453000,-59.35480000,Q5575454
+1126,Gualeguay,3654,E,"Entre Ríos",11,AR,Argentina,-33.14156000,-59.30966000,Q52602
+1127,Gualeguaychú,3654,E,"Entre Ríos",11,AR,Argentina,-33.00937000,-58.51722000,Q52585
+1132,Hasenkamp,3654,E,"Entre Ríos",11,AR,Argentina,-31.51226000,-59.83545000,Q375431
+1137,Hernández,3654,E,"Entre Ríos",11,AR,Argentina,-32.33730000,-60.02160000,Q21840340
+1139,Herrera,3654,E,"Entre Ríos",11,AR,Argentina,-32.43401000,-58.63177000,Q5743957
+1183,"La Criolla",3654,E,"Entre Ríos",11,AR,Argentina,-31.26904000,-58.10558000,Q21826802
+1195,"La Paz",3654,E,"Entre Ríos",11,AR,Argentina,-30.74179000,-59.64517000,Q2440276
+1214,Larroque,3654,E,"Entre Ríos",11,AR,Argentina,-33.03595000,-59.00125000,Q5410731
+1245,"Los Charrúas",3654,E,"Entre Ríos",11,AR,Argentina,-31.17548000,-58.18774000,Q6682609
+1247,"Los Conquistadores",3654,E,"Entre Ríos",11,AR,Argentina,-30.59080000,-58.46773000,Q21827035
+1257,"Lucas González",3654,E,"Entre Ríos",11,AR,Argentina,-32.38430000,-59.53013000,Q5981875
+1261,Maciá,3654,E,"Entre Ríos",11,AR,Argentina,-32.17220000,-59.39947000,Q6724173
+1300,Nogoyá,3654,E,"Entre Ríos",11,AR,Argentina,-32.39387000,-59.78953000,Q3112762
+1309,"Oro Verde",3654,E,"Entre Ríos",11,AR,Argentina,-31.82508000,-60.51749000,Q2190329
+1319,Paraná,3654,E,"Entre Ríos",11,AR,Argentina,-31.73271000,-60.52897000,Q44213
+1332,"Piedras Blancas",3654,E,"Entre Ríos",11,AR,Argentina,-31.18592000,-59.95181000,Q21827466
+1348,Pronunciamiento,3654,E,"Entre Ríos",11,AR,Argentina,-32.34480000,-58.44268000,Q7249966
+1355,"Puerto Ibicuy",3654,E,"Entre Ríos",11,AR,Argentina,-33.75305000,-59.17762000,Q3314293
+1365,"Puerto Yeruá",3654,E,"Entre Ríos",11,AR,Argentina,-31.53713000,-58.01527000,Q9064581
+1385,"Rosario del Tala",3654,E,"Entre Ríos",11,AR,Argentina,-32.30286000,-59.14545000,Q2247641
+1413,"San Benito",3654,E,"Entre Ríos",11,AR,Argentina,-31.78371000,-60.44156000,Q5243488
+1426,"San Gustavo",3654,E,"Entre Ríos",11,AR,Argentina,-30.68961000,-59.39840000,Q9073465
+1430,"San José de Feliciano",3654,E,"Entre Ríos",11,AR,Argentina,-30.38452000,-58.75167000,Q2501258
+1435,"San Justo",3654,E,"Entre Ríos",11,AR,Argentina,-32.44654000,-58.43569000,Q21827757
+1450,"San Salvador",3654,E,"Entre Ríos",11,AR,Argentina,-31.62487000,-58.50524000,Q2065245
+1453,"Santa Ana",3654,E,"Entre Ríos",11,AR,Argentina,-30.90004000,-57.93162000,Q7419149
+1454,"Santa Anita",3654,E,"Entre Ríos",11,AR,Argentina,-32.17476000,-58.78622000,Q21827820
+1456,"Santa Elena",3654,E,"Entre Ríos",11,AR,Argentina,-30.94432000,-59.78832000,Q2475908
+1480,"Sauce de Luna",3654,E,"Entre Ríos",11,AR,Argentina,-31.23794000,-59.21872000,Q7427010
+1482,Seguí,3654,E,"Entre Ríos",11,AR,Argentina,-31.95642000,-60.12488000,Q9075712
+1492,Tabossi,3654,E,"Entre Ríos",11,AR,Argentina,-31.80135000,-59.93477000,Q5476809
+1518,Ubajay,3654,E,"Entre Ríos",11,AR,Argentina,-31.79358000,-58.31350000,Q7876389
+1522,Urdinarrain,3654,E,"Entre Ríos",11,AR,Argentina,-32.68573000,-58.89323000,Q2032321
+1531,Viale,3654,E,"Entre Ríos",11,AR,Argentina,-31.86782000,-60.00722000,Q7924485
+1533,Victoria,3654,E,"Entre Ríos",11,AR,Argentina,-32.61841000,-60.15478000,Q1905080
+1584,"Villa del Rosario",3654,E,"Entre Ríos",11,AR,Argentina,-30.79567000,-57.91257000,Q7930566
+1550,"Villa Elisa",3654,E,"Entre Ríos",11,AR,Argentina,-32.16320000,-58.40082000,Q52581
+1557,"Villa Hernandarias",3654,E,"Entre Ríos",11,AR,Argentina,-31.23097000,-59.98464000,Q7930352
+1562,"Villa Mantero",3654,E,"Entre Ríos",11,AR,Argentina,-32.39727000,-58.74596000,Q7930410
+1564,"Villa María Grande",3654,E,"Entre Ríos",11,AR,Argentina,-31.66565000,-59.90182000,Q2378999
+1571,"Villa Paranacito",3654,E,"Entre Ríos",11,AR,Argentina,-33.71381000,-58.65844000,Q662831
+1579,"Villa Urquiza",3654,E,"Entre Ríos",11,AR,Argentina,-31.64757000,-60.37516000,Q7930524
+1587,Villaguay,3654,E,"Entre Ríos",11,AR,Argentina,-31.86530000,-59.02689000,Q2297707
+772,Clorinda,3652,P,Formosa,11,AR,Argentina,-25.28481000,-57.71851000,Q106063
+785,"Comandante Fontana",3652,P,Formosa,11,AR,Argentina,-25.33453000,-59.68212000,Q106069
+958,"Departamento de Pilcomayo",3652,P,Formosa,11,AR,Argentina,-25.50000000,-58.08333000,Q1190958
+1053,"El Colorado",3652,P,Formosa,11,AR,Argentina,-26.30808000,-59.37291000,Q994889
+1072,"Estanislao del Campo",3652,P,Formosa,11,AR,Argentina,-25.05504000,-60.09218000,Q8843108
+1082,Formosa,3652,P,Formosa,11,AR,Argentina,-26.18489000,-58.17313000,Q44214
+1102,"General Enrique Mosconi",3652,P,Formosa,11,AR,Argentina,-23.21667000,-62.30000000,Q2132246
+1138,Herradura,3652,P,Formosa,11,AR,Argentina,-26.48705000,-58.31198000,Q3197888
+1148,Ibarreta,3652,P,Formosa,11,AR,Argentina,-25.21438000,-59.85851000,Q5983760
+1151,"Ingeniero Guillermo N. Juárez",3652,P,Formosa,11,AR,Argentina,-23.90000000,-61.85000000,Q106075
+1209,"Laguna Naick-Neck",3652,P,Formosa,11,AR,Argentina,-25.24769000,-58.09383000,Q21826826
+1211,"Laguna Yema",3652,P,Formosa,11,AR,Argentina,-24.25391000,-61.24466000,Q1016035
+1225,"Las Lomitas",3652,P,Formosa,11,AR,Argentina,-24.70955000,-60.59303000,Q6492291
+1312,"Palo Santo",3652,P,Formosa,11,AR,Argentina,-25.56332000,-59.33781000,Q9054861
+1336,Pirané,3652,P,Formosa,11,AR,Argentina,-25.73239000,-59.10879000,Q2031369
+1344,"Pozo del Tigre",3652,P,Formosa,11,AR,Argentina,-24.89682000,-60.32359000,Q937642
+1381,"Riacho Eh-Eh",3652,P,Formosa,11,AR,Argentina,-25.36209000,-58.27750000,Q21827591
+1423,"San Francisco de Laishí",3652,P,Formosa,11,AR,Argentina,-26.24262000,-58.63039000,Q994886
+1551,"Villa Escolar",3652,P,Formosa,11,AR,Argentina,-26.62209000,-58.67134000,Q5854222
+1553,"Villa General Guemes",3652,P,Formosa,11,AR,Argentina,-24.75530000,-59.48940000,Q1013424
+638,"Abra Pampa",3645,Y,Jujuy,11,AR,Argentina,-22.72049000,-65.69697000,Q55386
+709,Caimancito,3645,Y,Jujuy,11,AR,Argentina,-23.74069000,-64.59370000,Q1749213
+713,Calilegua,3645,Y,Jujuy,11,AR,Argentina,-23.77368000,-64.77002000,Q1749231
+862,"Departamento de Cochinoca",3645,Y,Jujuy,11,AR,Argentina,-23.00000000,-65.83333000,Q609628
+965,"Departamento de Rinconada",3645,Y,Jujuy,11,AR,Argentina,-22.50000000,-66.50000000,Q1063533
+1025,"Departamento de Tumbaya",3645,Y,Jujuy,11,AR,Argentina,-23.71667000,-65.66667000,Q1063348
+1047,"El Aguilar",3645,Y,Jujuy,11,AR,Argentina,-23.21572000,-65.68005000,Q3720844
+1083,"Fraile Pintado",3645,Y,Jujuy,11,AR,Argentina,-23.94079000,-64.79943000,Q1923525
+1147,Humahuaca,3645,Y,Jujuy,11,AR,Argentina,-23.20544000,-65.35048000,Q1026833
+1155,"Ingenio La Esperanza",3645,Y,Jujuy,11,AR,Argentina,-24.22554000,-64.83896000,Q21840643
+1193,"La Mendieta",3645,Y,Jujuy,11,AR,Argentina,-24.31187000,-64.96377000,Q3820983
+1199,"La Quiaca",3645,Y,Jujuy,11,AR,Argentina,-22.10236000,-65.59299000,Q693381
+1236,"Libertador General San Martín",3645,Y,Jujuy,11,AR,Argentina,-23.80644000,-64.78757000,Q600706
+1262,Maimará,3645,Y,Jujuy,11,AR,Argentina,-23.62392000,-65.40797000,Q3843526
+1310,"Palma Sola",3645,Y,Jujuy,11,AR,Argentina,-23.97771000,-64.30311000,Q1749064
+1313,Palpalá,3645,Y,Jujuy,11,AR,Argentina,-24.25647000,-65.21163000,Q9054861
+1447,"San Pedro de Jujuy",3645,Y,Jujuy,11,AR,Argentina,-24.23127000,-64.86614000,Q1020263
+1451,"San Salvador de Jujuy",3645,Y,Jujuy,11,AR,Argentina,-24.19457000,-65.29712000,Q44217
+1455,"Santa Clara",3645,Y,Jujuy,11,AR,Argentina,-24.30921000,-64.66253000,Q2001906
+1503,Tilcara,3645,Y,Jujuy,11,AR,Argentina,-23.57817000,-65.39516000,Q604722
+1597,Yuto,3645,Y,Jujuy,11,AR,Argentina,-23.64342000,-64.47194000,Q1115054
 652,Alpachiri,3655,L,"La Pampa",11,AR,Argentina,-37.37704000,-63.77445000,Q4734750
 654,"Alta Italia",3655,L,"La Pampa",11,AR,Argentina,-35.33350000,-64.11496000,Q4735983
 662,Anguil,3655,L,"La Pampa",11,AR,Argentina,-36.52567000,-64.01025000,Q937524
@@ -1143,16 +1143,16 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 1527,"Veinticinco de Mayo",3655,L,"La Pampa",11,AR,Argentina,-37.77410000,-67.71638000,Q2449535
 1534,Victorica,3655,L,"La Pampa",11,AR,Argentina,-36.21505000,-65.43586000,Q2272570
 1592,Winifreda,3655,L,"La Pampa",11,AR,Argentina,-36.22643000,-64.23388000,Q3036270
-667,Arauco,3653,F,"La Rioja Province",11,AR,Argentina,-28.58071000,-66.79250000,Q4784463
-738,"Castro Barros",3653,F,"La Rioja Province",11,AR,Argentina,-30.57952000,-65.72696000,Q5050786
-752,Chamical,3653,F,"La Rioja Province",11,AR,Argentina,-30.36002000,-66.31399000,Q2779417
-761,Chilecito,3653,F,"La Rioja Province",11,AR,Argentina,-29.16195000,-67.49740000,Q1072833
-831,"Departamento de Arauco",3653,F,"La Rioja Province",11,AR,Argentina,-28.50000000,-66.83333000,Q782464
-893,"Departamento de General Lamadrid",3653,F,"La Rioja Province",11,AR,Argentina,-28.83333000,-68.66667000,Q922325
-910,"Departamento de Independencia",3653,F,"La Rioja Province",11,AR,Argentina,-30.16667000,-67.41667000,Q731983
-1200,"La Rioja",3653,F,"La Rioja Province",11,AR,Argentina,-29.41105000,-66.85067000,Q44236
-1543,"Villa Bustos",3653,F,"La Rioja Province",11,AR,Argentina,-29.28636000,-67.02067000,Q58388
-1588,Vinchina,3653,F,"La Rioja Province",11,AR,Argentina,-28.75964000,-68.20692000,Q2297707
+667,Arauco,3653,F,"La Rioja",11,AR,Argentina,-28.58071000,-66.79250000,Q4784463
+738,"Castro Barros",3653,F,"La Rioja",11,AR,Argentina,-30.57952000,-65.72696000,Q5050786
+752,Chamical,3653,F,"La Rioja",11,AR,Argentina,-30.36002000,-66.31399000,Q2779417
+761,Chilecito,3653,F,"La Rioja",11,AR,Argentina,-29.16195000,-67.49740000,Q1072833
+831,"Departamento de Arauco",3653,F,"La Rioja",11,AR,Argentina,-28.50000000,-66.83333000,Q782464
+893,"Departamento de General Lamadrid",3653,F,"La Rioja",11,AR,Argentina,-28.83333000,-68.66667000,Q922325
+910,"Departamento de Independencia",3653,F,"La Rioja",11,AR,Argentina,-30.16667000,-67.41667000,Q731983
+1200,"La Rioja",3653,F,"La Rioja",11,AR,Argentina,-29.41105000,-66.85067000,Q44236
+1543,"Villa Bustos",3653,F,"La Rioja",11,AR,Argentina,-29.28636000,-67.02067000,Q58388
+1588,Vinchina,3653,F,"La Rioja",11,AR,Argentina,-28.75964000,-68.20692000,Q2297707
 850,"Departamento de Capital",3646,M,Mendoza,11,AR,Argentina,-32.88469000,-68.85826000,Q1190324
 889,"Departamento de General Alvear",3646,M,Mendoza,11,AR,Argentina,-35.16667000,-67.33333000,Q691062
 898,"Departamento de Godoy Cruz",3646,M,Mendoza,11,AR,Argentina,-32.93333000,-68.86667000,Q1190576
@@ -1175,375 +1175,375 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 1278,Mendoza,3646,M,Mendoza,11,AR,Argentina,-32.89084000,-68.82717000,Q44237
 1440,"San Martín",3646,M,Mendoza,11,AR,Argentina,-33.08103000,-68.46814000,Q1806934
 1448,"San Rafael",3646,M,Mendoza,11,AR,Argentina,-34.61772000,-68.33007000,Q23044
-643,"Alba Posse",3644,N,"Misiones Province",11,AR,Argentina,-27.56978000,-54.68262000,Q2830746
-650,Almafuerte,3644,N,"Misiones Province",11,AR,Argentina,-27.50825000,-55.40258000,Q4733652
-669,"Aristóbulo del Valle",3644,N,"Misiones Province",11,AR,Argentina,-27.09625000,-54.89626000,Q2861426
-674,"Arroyo del Medio",3644,N,"Misiones Province",11,AR,Argentina,-27.69748000,-55.40376000,Q2242988
-678,Azara,3644,N,"Misiones Province",11,AR,Argentina,-28.06160000,-55.67797000,Q5243541
-693,"Bernardo de Irigoyen",3644,N,"Misiones Province",11,AR,Argentina,-26.25520000,-53.64581000,Q823073
-699,Bonpland,3644,N,"Misiones Province",11,AR,Argentina,-27.48218000,-55.47756000,Q21828961
-718,"Campo Grande",3644,N,"Misiones Province",11,AR,Argentina,-27.20770000,-54.97977000,Q588681
-721,"Campo Ramón",3644,N,"Misiones Province",11,AR,Argentina,-27.45490000,-55.02122000,Q2918968
-722,"Campo Viera",3644,N,"Misiones Province",11,AR,Argentina,-27.33271000,-55.05651000,Q5028465
-724,Candelaria,3644,N,"Misiones Province",11,AR,Argentina,-27.45950000,-55.74536000,Q21829077
-728,Capioví,3644,N,"Misiones Province",11,AR,Argentina,-26.92998000,-55.06084000,Q5035413
-731,Caraguatay,3644,N,"Misiones Province",11,AR,Argentina,-26.60587000,-54.78093000,Q5037636
-748,"Cerro Azul",3644,N,"Misiones Province",11,AR,Argentina,-27.63310000,-55.49620000,Q5064858
-749,"Cerro Corá",3644,N,"Misiones Province",11,AR,Argentina,-27.51310000,-55.60896000,Q5064903
-774,"Colonia Aurora",3644,N,"Misiones Province",11,AR,Argentina,-27.47428000,-54.52498000,Q908300
-790,"Concepción de la Sierra",3644,N,"Misiones Province",11,AR,Argentina,-27.98311000,-55.52031000,Q2991642
-830,"Departamento de Apóstoles",3644,N,"Misiones Province",11,AR,Argentina,-27.91667000,-55.75000000,Q1190229
-841,"Departamento de Cainguás",3644,N,"Misiones Province",11,AR,Argentina,-27.16667000,-54.83333000,Q573042
-845,"Departamento de Candelaria",3644,N,"Misiones Province",11,AR,Argentina,-27.50000000,-55.50000000,Q55379
-848,"Departamento de Capital",3644,N,"Misiones Province",11,AR,Argentina,-27.50000000,-55.83333000,Q858107
-867,"Departamento de Concepción de la Sierra",3644,N,"Misiones Province",11,AR,Argentina,-27.83333000,-55.41667000,Q868674
-878,"Departamento de Eldorado",3644,N,"Misiones Province",11,AR,Argentina,-26.25000000,-54.41667000,Q899638
-894,"Departamento de General Manuel Belgrano",3644,N,"Misiones Province",11,AR,Argentina,-26.16667000,-53.91667000,Q922325
-903,"Departamento de Guaraní",3644,N,"Misiones Province",11,AR,Argentina,-27.16667000,-54.16667000,Q1028486
-908,"Departamento de Iguazú",3644,N,"Misiones Province",11,AR,Argentina,-25.86667000,-54.36667000,Q974455
-927,"Departamento de Leandro N. Alem",3644,N,"Misiones Province",11,AR,Argentina,-27.56667000,-55.33333000,Q426743
-929,"Departamento de Libertador General San Martín",3644,N,"Misiones Province",11,AR,Argentina,-26.91667000,-54.91667000,Q279489
-946,"Departamento de Montecarlo",3644,N,"Misiones Province",11,AR,Argentina,-26.71667000,-54.58333000,Q1190847
-953,"Departamento de Oberá",3644,N,"Misiones Province",11,AR,Argentina,-27.55000000,-55.08333000,Q770031
-987,"Departamento de San Ignacio",3644,N,"Misiones Province",11,AR,Argentina,-27.25000000,-55.33333000,Q1191078
-989,"Departamento de San Javier",3644,N,"Misiones Province",11,AR,Argentina,-27.77806000,-55.13004000,Q730306
-1002,"Departamento de San Pedro",3644,N,"Misiones Province",11,AR,Argentina,-26.66667000,-54.00000000,Q782340
-1031,"Departamento de Veinticinco de Mayo",3644,N,"Misiones Province",11,AR,Argentina,-27.41667000,-54.66667000,Q288586
-1044,"Dos Arroyos",3644,N,"Misiones Province",11,AR,Argentina,-27.69946000,-55.25207000,Q5299139
-1045,"Dos de Mayo",3644,N,"Misiones Province",11,AR,Argentina,-27.02277000,-54.68669000,Q5299217
-1048,"El Alcázar",3644,N,"Misiones Province",11,AR,Argentina,-26.71459000,-54.81523000,Q5350719
-1061,"El Soberbio",3644,N,"Misiones Province",11,AR,Argentina,-27.29847000,-54.19877000,Q3050254
-1080,"Florentino Ameghino",3644,N,"Misiones Province",11,AR,Argentina,-27.56667000,-55.13333000,Q2779881
-1090,Garuhapé,3644,N,"Misiones Province",11,AR,Argentina,-26.81768000,-54.95665000,Q993283
-1091,Garupá,3644,N,"Misiones Province",11,AR,Argentina,-27.48171000,-55.82921000,Q5524495
-1095,"General Alvear",3644,N,"Misiones Province",11,AR,Argentina,-27.42611000,-55.16916000,Q5531687
-1120,"Gobernador Roca",3644,N,"Misiones Province",11,AR,Argentina,-27.18636000,-55.46433000,Q5575458
-1128,Guaraní,3644,N,"Misiones Province",11,AR,Argentina,-27.52323000,-55.16077000,Q5613944
-1166,"Jardín América",3644,N,"Misiones Province",11,AR,Argentina,-27.04346000,-55.22698000,Q3115487
-1241,Loreto,3644,N,"Misiones Province",11,AR,Argentina,-27.33177000,-55.52499000,Q2987221
-1250,"Los Helechos",3644,N,"Misiones Province",11,AR,Argentina,-27.55051000,-55.07908000,Q9296343
-1295,Mártires,3644,N,"Misiones Province",11,AR,Argentina,-27.42265000,-55.37659000,Q2929515
-1285,"Mojón Grande",3644,N,"Misiones Province",11,AR,Argentina,-27.71165000,-55.15631000,Q1886208
-1290,Montecarlo,3644,N,"Misiones Province",11,AR,Argentina,-26.56620000,-54.75700000,Q648215
-1304,Oberá,3644,N,"Misiones Province",11,AR,Argentina,-27.48706000,-55.11994000,Q55377
-1318,Panambí,3644,N,"Misiones Province",11,AR,Argentina,-27.72369000,-54.91515000,Q7130019
-1328,"Picada Gobernador López",3644,N,"Misiones Province",11,AR,Argentina,-27.67069000,-55.24585000,Q519881
-1342,Posadas,3644,N,"Misiones Province",11,AR,Argentina,-27.36708000,-55.89608000,Q44238
-1353,"Puerto Eldorado",3644,N,"Misiones Province",11,AR,Argentina,-26.40843000,-54.69463000,Q21827536
-1354,"Puerto Esperanza",3644,N,"Misiones Province",11,AR,Argentina,-26.02267000,-54.61356000,Q3112889
-1356,"Puerto Iguazú",3644,N,"Misiones Province",11,AR,Argentina,-25.59912000,-54.57355000,Q55378
-1357,"Puerto Leoni",3644,N,"Misiones Province",11,AR,Argentina,-26.98762000,-55.16569000,Q2565742
-1358,"Puerto Libertad",3644,N,"Misiones Province",11,AR,Argentina,-25.91958000,-54.58229000,Q3036970
-1360,"Puerto Piray",3644,N,"Misiones Province",11,AR,Argentina,-26.46937000,-54.70736000,Q3115721
-1361,"Puerto Rico",3644,N,"Misiones Province",11,AR,Argentina,-26.79598000,-55.02402000,Q2530831
-1387,"Ruiz de Montoya",3644,N,"Misiones Province",11,AR,Argentina,-26.98333000,-55.05000000,Q2550082
-1429,"San José",3644,N,"Misiones Province",11,AR,Argentina,-27.76979000,-55.78260000,Q7414513
-1446,"San Pedro",3644,N,"Misiones Province",11,AR,Argentina,-26.62207000,-54.10842000,Q3112883
-1452,"San Vicente",3644,N,"Misiones Province",11,AR,Argentina,-26.61667000,-54.13333000,Q21827849
-1463,"Santa María",3644,N,"Misiones Province",11,AR,Argentina,-27.93490000,-55.40742000,Q2238097
-1474,"Santo Pipó",3644,N,"Misiones Province",11,AR,Argentina,-27.14132000,-55.40867000,Q7420542
-1514,"Tres Capones",3644,N,"Misiones Province",11,AR,Argentina,-28.00641000,-55.60471000,Q9297687
-1528,"Veinticinco de Mayo",3644,N,"Misiones Province",11,AR,Argentina,-27.37679000,-54.74312000,Q2374393
-1590,Wanda,3644,N,"Misiones Province",11,AR,Argentina,-25.96879000,-54.56285000,Q3115808
-657,Aluminé,3648,Q,"Neuquén Province",11,AR,Argentina,-39.23686000,-70.91970000,Q447844
-660,Andacollo,3648,Q,"Neuquén Province",11,AR,Argentina,-37.17945000,-70.66912000,Q2358842
-680,Añelo,3648,Q,"Neuquén Province",11,AR,Argentina,-38.35441000,-68.78840000,Q794673
-684,Barrancas,3648,Q,"Neuquén Province",11,AR,Argentina,-36.82344000,-69.91564000,Q4863233
-706,"Buta Ranquil",3648,Q,"Neuquén Province",11,AR,Argentina,-37.05222000,-69.87713000,Q630891
-746,Centenario,3648,Q,"Neuquén Province",11,AR,Argentina,-38.82955000,-68.13180000,Q2233683
-766,"Chos Malal",3648,Q,"Neuquén Province",11,AR,Argentina,-37.37809000,-70.27085000,Q288993
-814,Cutral-Có,3648,Q,"Neuquén Province",11,AR,Argentina,-38.93424000,-69.23052000,Q970536
-823,"Departamento de Aluminé",3648,Q,"Neuquén Province",11,AR,Argentina,-39.16667000,-71.00000000,Q1190331
-833,"Departamento de Añelo",3648,Q,"Neuquén Province",11,AR,Argentina,-38.16667000,-69.00000000,Q1190264
-855,"Departamento de Catán-Lil",3648,Q,"Neuquén Province",11,AR,Argentina,-39.50000000,-70.33333000,Q1190347
-860,"Departamento de Chos-Malal",3648,Q,"Neuquén Province",11,AR,Argentina,-36.91667000,-70.16667000,Q1190374
-863,"Departamento de Collón-Curá",3648,Q,"Neuquén Province",11,AR,Argentina,-40.08333000,-70.16667000,Q1190400
-868,"Departamento de Confluencia",3648,Q,"Neuquén Province",11,AR,Argentina,-38.83333000,-68.83333000,Q960802
-934,"Departamento de Lácar",3648,Q,"Neuquén Province",11,AR,Argentina,-40.25000000,-71.20000000,Q546774
-944,"Departamento de Minas",3648,Q,"Neuquén Province",11,AR,Argentina,-36.83333000,-70.83333000,Q591241
-1035,"Departamento de Zapala",3648,Q,"Neuquén Province",11,AR,Argentina,-39.00000000,-69.83333000,Q1191283
-1057,"El Huecú",3648,Q,"Neuquén Province",11,AR,Argentina,-37.64522000,-70.58006000,Q1017560
-1172,"Junín de los Andes",3648,Q,"Neuquén Province",11,AR,Argentina,-39.95043000,-71.06936000,Q952426
-1217,"Las Coloradas",3648,Q,"Neuquén Province",11,AR,Argentina,-39.55534000,-70.59491000,Q1016900
-1223,"Las Lajas",3648,Q,"Neuquén Province",11,AR,Argentina,-38.52322000,-70.36745000,Q1016895
-1226,"Las Ovejas",3648,Q,"Neuquén Province",11,AR,Argentina,-36.98881000,-70.74991000,Q6492369
-1238,Loncopué,3648,Q,"Neuquén Province",11,AR,Argentina,-38.07284000,-70.61609000,Q579990
-1272,"Mariano Moreno",3648,Q,"Neuquén Province",11,AR,Argentina,-38.75029000,-70.02367000,Q3291391
-1298,Neuquén,3648,Q,"Neuquén Province",11,AR,Argentina,-38.95161000,-68.05910000,Q44239
-1330,"Picún Leufú",3648,Q,"Neuquén Province",11,AR,Argentina,-39.51614000,-69.28765000,Q922199
-1331,"Piedra del Águila",3648,Q,"Neuquén Province",11,AR,Argentina,-40.04811000,-70.07410000,Q1015985
-1337,"Plaza Huincul",3648,Q,"Neuquén Province",11,AR,Argentina,-38.92598000,-69.20863000,Q980712
-1338,Plottier,3648,Q,"Neuquén Province",11,AR,Argentina,-38.96667000,-68.23333000,Q1017590
-1442,"San Martín de los Andes",3648,Q,"Neuquén Province",11,AR,Argentina,-40.15789000,-71.35337000,Q1019152
-1483,Senillosa,3648,Q,"Neuquén Province",11,AR,Argentina,-39.01412000,-68.43281000,Q3478557
-1559,"Villa La Angostura",3648,Q,"Neuquén Province",11,AR,Argentina,-40.76173000,-71.64631000,Q106096
-1589,"Vista Alegre",3648,Q,"Neuquén Province",11,AR,Argentina,-38.75000000,-68.18333000,Q7936429
-1598,Zapala,3648,Q,"Neuquén Province",11,AR,Argentina,-38.89916000,-70.05442000,Q147196
-649,Allen,3639,R,"Río Negro Province",11,AR,Argentina,-38.97736000,-67.82714000,Q21848444
-739,Catriel,3639,R,"Río Negro Province",11,AR,Argentina,-37.87907000,-67.79560000,Q3663629
-750,Cervantes,3639,R,"Río Negro Province",11,AR,Argentina,-39.05444000,-67.39426000,Q5065312
-759,Chichinales,3639,R,"Río Negro Province",11,AR,Argentina,-39.11505000,-66.92714000,Q5096059
-763,Chimpay,3639,R,"Río Negro Province",11,AR,Argentina,-39.16482000,-66.14236000,Q4520581
-764,"Choele Choel",3639,R,"Río Negro Province",11,AR,Argentina,-39.28941000,-65.66060000,Q52522
-768,"Cinco Saltos",3639,R,"Río Negro Province",11,AR,Argentina,-38.82225000,-68.06293000,Q2933923
-770,Cipolletti,3639,R,"Río Negro Province",11,AR,Argentina,-38.93392000,-67.99032000,Q1014306
-784,Comallo,3639,R,"Río Negro Province",11,AR,Argentina,-41.02993000,-70.26784000,Q1954924
-795,"Contraalmirante Cordero",3639,R,"Río Negro Province",11,AR,Argentina,-38.72423000,-68.15284000,Q21841285
-798,"Coronel Belisle",3639,R,"Río Negro Province",11,AR,Argentina,-39.18688000,-65.95422000,Q2884472
-817,Darwin,3639,R,"Río Negro Province",11,AR,Argentina,-39.20334000,-65.73952000,Q5225916
-832,"Departamento de Avellaneda",3639,R,"Río Negro Province",11,AR,Argentina,-39.50000000,-66.50000000,Q1190249
-1032,"Departamento de Veinticinco de Mayo",3639,R,"Río Negro Province",11,AR,Argentina,-41.25000000,-69.00000000,Q288586
-1050,"El Bolsón",3639,R,"Río Negro Province",11,AR,Argentina,-41.96051000,-71.53336000,Q1323928
-1054,"El Cuy",3639,R,"Río Negro Province",11,AR,Argentina,-39.92685000,-68.34208000,Q995105
-1085,"Fray Luis Beltrán",3639,R,"Río Negro Province",11,AR,Argentina,-39.31369000,-65.76002000,Q5493943
-1099,"General Conesa",3639,R,"Río Negro Province",11,AR,Argentina,-40.10408000,-64.45592000,Q21839871
-1100,"General Enrique Godoy",3639,R,"Río Negro Province",11,AR,Argentina,-39.07891000,-67.15807000,Q425872
-1103,"General Fernández Oro",3639,R,"Río Negro Province",11,AR,Argentina,-38.95297000,-67.92489000,Q3100497
-1112,"General Roca",3639,R,"Río Negro Province",11,AR,Argentina,-39.03333000,-67.58333000,Q52506
-1152,"Ingeniero Jacobacci",3639,R,"Río Negro Province",11,AR,Argentina,-41.32920000,-69.55015000,Q2205145
-1154,"Ingeniero Luis A. Huergo",3639,R,"Río Negro Province",11,AR,Argentina,-39.07146000,-67.23790000,Q9008444
-1212,Lamarque,3639,R,"Río Negro Province",11,AR,Argentina,-39.42304000,-65.70208000,Q6480952
-1253,"Los Menucos",3639,R,"Río Negro Province",11,AR,Argentina,-40.84402000,-68.08718000,Q4353093
-1263,Mainque,3639,R,"Río Negro Province",11,AR,Argentina,-39.06667000,-67.30000000,Q6736720
-1268,Maquinchao,3639,R,"Río Negro Province",11,AR,Argentina,-41.24912000,-68.70321000,Q2171426
-1599,Ñorquinco,3639,R,"Río Negro Province",11,AR,Argentina,-41.85072000,-70.90173000,Q292866
-1334,Pilcaniyeu,3639,R,"Río Negro Province",11,AR,Argentina,-41.12288000,-70.72152000,Q1936853
-1389,"Río Colorado",3639,R,"Río Negro Province",11,AR,Argentina,-38.99397000,-64.09295000,Q1410272
-1409,"San Antonio Oeste",3639,R,"Río Negro Province",11,AR,Argentina,-40.73193000,-64.94769000,Q1894082
-1418,"San Carlos de Bariloche",3639,R,"Río Negro Province",11,AR,Argentina,-41.14557000,-71.30822000,Q47772
-1486,"Sierra Colorada",3639,R,"Río Negro Province",11,AR,Argentina,-40.58487000,-67.75674000,Q692861
-1487,"Sierra Grande",3639,R,"Río Negro Province",11,AR,Argentina,-41.60603000,-65.35574000,Q21834393
-1525,Valcheta,3639,R,"Río Negro Province",11,AR,Argentina,-40.67989000,-66.16283000,Q1015230
-1536,Viedma,3639,R,"Río Negro Province",11,AR,Argentina,-40.81345000,-62.99668000,Q44240
-1574,"Villa Regina",3639,R,"Río Negro Province",11,AR,Argentina,-39.10000000,-67.06667000,Q1017096
-664,"Apolinario Saravia",3643,A,"Salta Province",11,AR,Argentina,-24.43276000,-63.99535000,Q4780228
-707,Cachí,3643,A,"Salta Province",11,AR,Argentina,-25.12033000,-66.16519000,Q520684
-708,Cafayate,3643,A,"Salta Province",11,AR,Argentina,-26.08333000,-65.83333000,Q1190297
-720,"Campo Quijano",3643,A,"Salta Province",11,AR,Argentina,-24.90982000,-65.63656000,Q2553556
-760,Chicoana,3643,A,"Salta Province",11,AR,Argentina,-25.10502000,-65.53473000,Q1016092
-819,"Departamento Capital",3643,A,"Salta Province",11,AR,Argentina,-24.83333000,-65.33333000,Q1190331
-828,"Departamento de Anta",3643,A,"Salta Province",11,AR,Argentina,-24.91667000,-64.00000000,Q1190229
-857,"Departamento de Cerrillos",3643,A,"Salta Province",11,AR,Argentina,-25.00000000,-65.41667000,Q665915
-858,"Departamento de Chicoana",3643,A,"Salta Province",11,AR,Argentina,-25.11583000,-65.59466000,Q547590
-891,"Departamento de General Güemes",3643,A,"Salta Province",11,AR,Argentina,-24.79464000,-64.94393000,Q922325
-901,"Departamento de Guachipas",3643,A,"Salta Province",11,AR,Argentina,-25.66667000,-65.50000000,Q1190588
-911,"Departamento de Iruya",3643,A,"Salta Province",11,AR,Argentina,-22.80000000,-64.91667000,Q1190632
-920,"Departamento de La Poma",3643,A,"Salta Province",11,AR,Argentina,-24.16667000,-66.16667000,Q584369
-921,"Departamento de La Viña",3643,A,"Salta Province",11,AR,Argentina,-25.50000000,-65.66667000,Q584369
-931,"Departamento de Los Andes",3643,A,"Salta Province",11,AR,Argentina,-24.50000000,-67.33333000,Q514500
-942,"Departamento de Metán",3643,A,"Salta Province",11,AR,Argentina,-25.50000000,-64.66667000,Q1190811
-968,"Departamento de Rivadavia",3643,A,"Salta Province",11,AR,Argentina,-23.66667000,-62.91667000,Q1017544
-971,"Departamento de Rosario de la Frontera",3643,A,"Salta Province",11,AR,Argentina,-25.91667000,-64.83333000,Q106122
-970,"Departamento de Rosario de Lerma",3643,A,"Salta Province",11,AR,Argentina,-24.58333000,-65.83333000,Q1017556
-982,"Departamento de San Carlos",3643,A,"Salta Province",11,AR,Argentina,-25.75000000,-66.08333000,Q1191069
-1052,"El Carril",3643,A,"Salta Province",11,AR,Argentina,-25.07410000,-65.49174000,Q21841997
-1055,"El Galpón",3643,A,"Salta Province",11,AR,Argentina,-25.38069000,-64.65259000,Q5351301
-1059,"El Quebrachal",3643,A,"Salta Province",11,AR,Argentina,-25.28333000,-64.06667000,Q5351959
-1067,Embarcación,3643,A,"Salta Province",11,AR,Argentina,-23.21003000,-64.09965000,Q3052011
-1101,"General Enrique Mosconi",3643,A,"Salta Province",11,AR,Argentina,-22.59588000,-63.81255000,Q2132246
-1168,"Joaquín V. González",3643,A,"Salta Province",11,AR,Argentina,-25.11364000,-64.12628000,Q1014965
-1177,"La Caldera",3643,A,"Salta Province",11,AR,Argentina,-24.58333000,-65.41667000,Q1190675
-1224,"Las Lajitas",3643,A,"Salta Province",11,AR,Argentina,-24.72762000,-64.19335000,Q6492276
-1403,Salta,3643,A,"Salta Province",11,AR,Argentina,-24.78590000,-65.41166000,Q36307
-1411,"San Antonio de los Cobres",3643,A,"Salta Province",11,AR,Argentina,-24.21804000,-66.31877000,Q1563449
-1449,"San Ramón de la Nueva Orán",3643,A,"Salta Province",11,AR,Argentina,-23.13705000,-64.32426000,Q1755283
-1469,"Santa Rosa de Tastil",3643,A,"Salta Province",11,AR,Argentina,-24.45166000,-65.97452000,Q370723
-1498,Tartagal,3643,A,"Salta Province",11,AR,Argentina,-22.51637000,-63.80131000,Q106115
-644,Albardón,3634,J,"San Juan Province",11,AR,Argentina,-31.43722000,-68.52556000,Q1190205
-714,Calingasta,3634,J,"San Juan Province",11,AR,Argentina,-31.33394000,-69.42080000,Q21843829
-741,Caucete,3634,J,"San Juan Province",11,AR,Argentina,-31.65179000,-68.28105000,Q2498538
-762,Chimbas,3634,J,"San Juan Province",11,AR,Argentina,-31.48333000,-68.53333000,Q1072833
-821,"Departamento de Albardón",3634,J,"San Juan Province",11,AR,Argentina,-31.28333000,-68.41667000,Q1190331
-827,"Departamento de Angaco",3634,J,"San Juan Province",11,AR,Argentina,-31.20000000,-68.13333000,Q537390
-844,"Departamento de Calingasta",3634,J,"San Juan Province",11,AR,Argentina,-31.50000000,-69.75000000,Q1190309
-851,"Departamento de Capital",3634,J,"San Juan Province",11,AR,Argentina,-31.53333000,-68.53333000,Q1190333
-856,"Departamento de Caucete",3634,J,"San Juan Province",11,AR,Argentina,-31.45000000,-67.66667000,Q1190349
-859,"Departamento de Chimbas",3634,J,"San Juan Province",11,AR,Argentina,-31.48738000,-68.52691000,Q1190374
-907,"Departamento de Iglesia",3634,J,"San Juan Province",11,AR,Argentina,-29.33333000,-69.58333000,Q974455
-915,"Departamento de Jáchal",3634,J,"San Juan Province",11,AR,Argentina,-30.50000000,-68.50000000,Q1190671
-952,"Departamento de Nueve de Julio",3634,J,"San Juan Province",11,AR,Argentina,-31.65072000,-68.38925000,Q770031
-964,"Departamento de Rawson",3634,J,"San Juan Province",11,AR,Argentina,-31.70000000,-68.46667000,Q1088518
-966,"Departamento de Rivadavia",3634,J,"San Juan Province",11,AR,Argentina,-31.56450000,-68.65219000,Q613945
-998,"Departamento de San Martín",3634,J,"San Juan Province",11,AR,Argentina,-31.50000000,-68.25000000,Q1191115
-1005,"Departamento de Santa Lucía",3634,J,"San Juan Province",11,AR,Argentina,-31.53333000,-68.46667000,Q1191155
-1013,"Departamento de Sarmiento",3634,J,"San Juan Province",11,AR,Argentina,-32.00000000,-68.66667000,Q548342
-1028,"Departamento de Ullúm",3634,J,"San Juan Province",11,AR,Argentina,-31.00000000,-68.91667000,Q2317932
-1036,"Departamento de Zonda",3634,J,"San Juan Province",11,AR,Argentina,-31.68260000,-68.89938000,Q571569
-1302,"Nueve de Julio",3634,J,"San Juan Province",11,AR,Argentina,-31.66914000,-68.39023000,Q3113782
-1339,Pocito,3634,J,"San Juan Province",11,AR,Argentina,-31.68333000,-68.58333000,Q1190967
-1407,"San Agustín de Valle Fértil",3634,J,"San Juan Province",11,AR,Argentina,-30.63353000,-67.46821000,Q21833794
-1431,"San José de Jáchal",3634,J,"San Juan Province",11,AR,Argentina,-30.24057000,-68.74693000,Q1018389
-1433,"San Juan",3634,J,"San Juan Province",11,AR,Argentina,-31.53750000,-68.53639000,Q44241
-1441,"San Martín",3634,J,"San Juan Province",11,AR,Argentina,-31.42957000,-68.50065000,Q685766
-1460,"Santa Lucía",3634,J,"San Juan Province",11,AR,Argentina,-31.53987000,-68.49503000,Q3034804
-1540,"Villa Basilio Nievas",3634,J,"San Juan Province",11,AR,Argentina,-31.55000000,-68.73333000,Q2052395
-1572,"Villa Paula de Sarmiento",3634,J,"San Juan Province",11,AR,Argentina,-31.49330000,-68.53838000,Q21832403
-703,"Buena Esperanza",3636,D,"San Luis Province",11,AR,Argentina,-34.75647000,-65.25379000,Q786129
-725,Candelaria,3636,D,"San Luis Province",11,AR,Argentina,-32.06036000,-65.82477000,Q5031647
-788,Concarán,3636,D,"San Luis Province",11,AR,Argentina,-32.56009000,-65.24270000,Q1018588
-1170,"Juan Martín de Pueyrredón",3636,D,"San Luis Province",11,AR,Argentina,-33.27544000,-66.32017000,Q21847757
-1174,"Justo Daract",3636,D,"San Luis Province",11,AR,Argentina,-33.85940000,-65.18277000,Q3190556
-1198,"La Punta",3636,D,"San Luis Province",11,AR,Argentina,-33.18368000,-66.31270000,Q4811974
-1202,"La Toma",3636,D,"San Luis Province",11,AR,Argentina,-33.05258000,-65.62385000,Q1018352
-1258,Luján,3636,D,"San Luis Province",11,AR,Argentina,-32.36674000,-65.93642000,Q2838669
-1280,Merlo,3636,D,"San Luis Province",11,AR,Argentina,-32.34288000,-65.01396000,Q106139
-1297,Naschel,3636,D,"San Luis Province",11,AR,Argentina,-32.91656000,-65.37535000,Q1257238
-1425,"San Francisco del Monte de Oro",3636,D,"San Luis Province",11,AR,Argentina,-32.59825000,-66.12539000,Q1015495
-1438,"San Luis",3636,D,"San Luis Province",11,AR,Argentina,-33.29501000,-66.33563000,Q44243
-1470,"Santa Rosa del Conlara",3636,D,"San Luis Province",11,AR,Argentina,-32.34286000,-65.20323000,Q1018381
-1504,Tilisarao,3636,D,"San Luis Province",11,AR,Argentina,-32.73292000,-65.29109000,Q2536970
-1520,Unión,3636,D,"San Luis Province",11,AR,Argentina,-35.15282000,-65.94602000,Q7896892
-1555,"Villa General Roca",3636,D,"San Luis Province",11,AR,Argentina,-32.66535000,-66.45052000,Q678141
-1565,"Villa Mercedes",3636,D,"San Luis Province",11,AR,Argentina,-33.67571000,-65.45783000,Q1756745
-637,"28 de Noviembre",3649,Z,"Santa Cruz Province",11,AR,Argentina,-51.58390000,-72.21382000,Q1533589
-711,"Caleta Olivia",3649,Z,"Santa Cruz Province",11,AR,Argentina,-46.43929000,-67.52814000,Q1026633
-786,"Comandante Luis Piedra Buena",3649,Z,"Santa Cruz Province",11,AR,Argentina,-49.98513000,-68.91467000,Q962170
-874,"Departamento de Deseado",3649,Z,"Santa Cruz Province",11,AR,Argentina,-47.33333000,-67.83333000,Q899638
-906,"Departamento de Güer Aike",3649,Z,"Santa Cruz Province",11,AR,Argentina,-51.33333000,-70.33333000,Q512660
-922,"Departamento de Lago Argentino",3649,Z,"Santa Cruz Province",11,AR,Argentina,-49.75000000,-72.00000000,Q1190713
-935,"Departamento de Magallanes",3649,Z,"Santa Cruz Province",11,AR,Argentina,-48.75000000,-68.50000000,Q1190783
-972,"Departamento de Río Chico",3649,Z,"Santa Cruz Province",11,AR,Argentina,-48.25000000,-71.00000000,Q106122
-1051,"El Calafate",3649,Z,"Santa Cruz Province",11,AR,Argentina,-50.34075000,-72.27682000,Q81561
-1116,"Gobernador Gregores",3649,Z,"Santa Cruz Province",11,AR,Argentina,-48.75057000,-70.24741000,Q950541
-1220,"Las Heras",3649,Z,"Santa Cruz Province",11,AR,Argentina,-46.54186000,-68.93593000,Q2204862
-1244,"Los Antiguos",3649,Z,"Santa Cruz Province",11,AR,Argentina,-46.54972000,-71.63086000,Q1870494
-1326,"Perito Moreno",3649,Z,"Santa Cruz Province",11,AR,Argentina,-46.58995000,-70.92975000,Q21835493
-1329,"Pico Truncado",3649,Z,"Santa Cruz Province",11,AR,Argentina,-46.79490000,-67.95731000,Q81562
-1352,"Puerto Deseado",3649,Z,"Santa Cruz Province",11,AR,Argentina,-47.75034000,-65.89382000,Q923541
-1362,"Puerto Santa Cruz",3649,Z,"Santa Cruz Province",11,AR,Argentina,-50.01910000,-68.52321000,Q932809
-1391,"Río Gallegos",3649,Z,"Santa Cruz Province",11,AR,Argentina,-51.62261000,-69.21813000,Q44242
-1397,"Río Turbio",3649,Z,"Santa Cruz Province",11,AR,Argentina,-51.53587000,-72.33673000,Q2608901
-1434,"San Julián",3649,Z,"Santa Cruz Province",11,AR,Argentina,-49.30554000,-67.72743000,Q955668
-1593,"Yacimiento Río Turbio",3649,Z,"Santa Cruz Province",11,AR,Argentina,-51.57321000,-72.35080000,Q21832512
-670,Armstrong,3641,S,"Santa Fe Province",11,AR,Argentina,-32.78215000,-61.60222000,Q2397804
-673,"Arroyo Seco",3641,S,"Santa Fe Province",11,AR,Argentina,-33.15489000,-60.50863000,Q974987
-675,Arrufó,3641,S,"Santa Fe Province",11,AR,Argentina,-30.23281000,-61.72862000,Q8205105
-676,Avellaneda,3641,S,"Santa Fe Province",11,AR,Argentina,-29.11761000,-59.65834000,Q932398
-689,"Bella Italia",3641,S,"Santa Fe Province",11,AR,Argentina,-31.28182000,-61.41092000,Q5725165
-710,Calchaquí,3641,S,"Santa Fe Province",11,AR,Argentina,-29.88767000,-60.28697000,Q1955294
-743,"Cañada de Gómez",3641,S,"Santa Fe Province",11,AR,Argentina,-32.81636000,-61.39493000,Q971555
-729,"Capitán Bermúdez",3641,S,"Santa Fe Province",11,AR,Argentina,-32.82262000,-60.71852000,Q1620664
-732,Carcarañá,3641,S,"Santa Fe Province",11,AR,Argentina,-32.85679000,-61.15331000,Q3658334
-736,Casilda,3641,S,"Santa Fe Province",11,AR,Argentina,-33.04417000,-61.16806000,Q2097797
-747,Ceres,3641,S,"Santa Fe Province",11,AR,Argentina,-29.88100000,-61.94504000,Q2544458
-758,"Chañar Ladeado",3641,S,"Santa Fe Province",11,AR,Argentina,-33.32524000,-62.03831000,Q2518584
-796,Coronda,3641,S,"Santa Fe Province",11,AR,Argentina,-31.97263000,-60.91983000,Q52542
-835,"Departamento de Belgrano",3641,S,"Santa Fe Province",11,AR,Argentina,-32.50000000,-61.75000000,Q1190264
-853,"Departamento de Caseros",3641,S,"Santa Fe Province",11,AR,Argentina,-33.25000000,-61.66667000,Q1190342
-854,"Departamento de Castellanos",3641,S,"Santa Fe Province",11,AR,Argentina,-31.16667000,-61.66667000,Q1125823
-869,"Departamento de Constitución",3641,S,"Santa Fe Province",11,AR,Argentina,-33.50000000,-60.91667000,Q1190426
-916,"Departamento de La Capital",3641,S,"Santa Fe Province",11,AR,Argentina,-31.50000000,-60.66667000,Q858183
-951,"Departamento de Nueve de Julio",3641,S,"Santa Fe Province",11,AR,Argentina,-28.83333000,-61.33333000,Q770031
-985,"Departamento de San Cristóbal",3641,S,"Santa Fe Province",11,AR,Argentina,-30.33333000,-61.33333000,Q645679
-988,"Departamento de San Javier",3641,S,"Santa Fe Province",11,AR,Argentina,-30.33333000,-59.91667000,Q651117
-992,"Departamento de San Justo",3641,S,"Santa Fe Province",11,AR,Argentina,-30.66667000,-60.50000000,Q1191097
-993,"Departamento de San Lorenzo",3641,S,"Santa Fe Province",11,AR,Argentina,-33.00000000,-61.00000000,Q1191103
-1000,"Departamento de San Martín",3641,S,"Santa Fe Province",11,AR,Argentina,-32.00000000,-61.83333000,Q284326
-1033,"Departamento de Vera",3641,S,"Santa Fe Province",11,AR,Argentina,-29.00000000,-60.50000000,Q1191274
-1062,"El Trébol",3641,S,"Santa Fe Province",11,AR,Argentina,-32.20080000,-61.70140000,Q5352295
-1069,Esperanza,3641,S,"Santa Fe Province",11,AR,Argentina,-31.44880000,-60.93173000,Q1368165
-1079,Firmat,3641,S,"Santa Fe Province",11,AR,Argentina,-33.45937000,-61.48320000,Q677450
-1084,"Fray Luis A. Beltrán",3641,S,"Santa Fe Province",11,AR,Argentina,-32.79122000,-60.72819000,Q5493943
-1086,Funes,3641,S,"Santa Fe Province",11,AR,Argentina,-32.91568000,-60.80995000,Q2370892
-1131,Gálvez,3641,S,"Santa Fe Province",11,AR,Argentina,-32.02927000,-61.22103000,Q2407577
-1093,"Gato Colorado",3641,S,"Santa Fe Province",11,AR,Argentina,-28.02219000,-61.18663000,Q1016275
-1117,"Gobernador Gálvez",3641,S,"Santa Fe Province",11,AR,Argentina,-33.03016000,-60.64045000,Q2280502
-1124,"Granadero Baigorria",3641,S,"Santa Fe Province",11,AR,Argentina,-32.85683000,-60.71754000,Q5594127
-1133,Helvecia,3641,S,"Santa Fe Province",11,AR,Argentina,-31.09834000,-60.08830000,Q2804220
-1140,Hersilia,3641,S,"Santa Fe Province",11,AR,Argentina,-30.00447000,-61.84080000,Q21840344
-1158,"Iriondo Department",3641,S,"Santa Fe Province",11,AR,Argentina,-32.63333000,-61.33333000,Q538693
-1210,"Laguna Paiva",3641,S,"Santa Fe Province",11,AR,Argentina,-31.30391000,-60.65894000,Q21838090
-1227,"Las Parejas",3641,S,"Santa Fe Province",11,AR,Argentina,-32.68478000,-61.51637000,Q926587
-1230,"Las Rosas",3641,S,"Santa Fe Province",11,AR,Argentina,-32.47661000,-61.58041000,Q518660
-1231,"Las Toscas",3641,S,"Santa Fe Province",11,AR,Argentina,-28.35290000,-59.25795000,Q2278387
-1252,"Los Laureles",3641,S,"Santa Fe Province",11,AR,Argentina,-29.36847000,-59.73634000,Q2917961
-1265,Malabrigo,3641,S,"Santa Fe Province",11,AR,Argentina,-29.34636000,-59.96957000,Q21827083
-1276,Melincué,3641,S,"Santa Fe Province",11,AR,Argentina,-33.65847000,-61.45459000,Q2301762
-1366,Pérez,3641,S,"Santa Fe Province",11,AR,Argentina,-32.99835000,-60.76791000,Q7264669
-1372,Rafaela,3641,S,"Santa Fe Province",11,AR,Argentina,-31.25033000,-61.48670000,Q259498
-1376,Reconquista,3641,S,"Santa Fe Province",11,AR,Argentina,-29.15000000,-59.65000000,Q3036199
-1377,Recreo,3641,S,"Santa Fe Province",11,AR,Argentina,-31.49076000,-60.73299000,Q21833265
-1383,Roldán,3641,S,"Santa Fe Province",11,AR,Argentina,-32.89846000,-60.90681000,Q7360617
-1384,Rosario,3641,S,"Santa Fe Province",11,AR,Argentina,-32.94682000,-60.63932000,Q52535
-1386,Rufino,3641,S,"Santa Fe Province",11,AR,Argentina,-34.26827000,-62.71262000,Q960119
-1417,"San Carlos Centro",3641,S,"Santa Fe Province",11,AR,Argentina,-31.72864000,-61.09192000,Q2261100
-1420,"San Cristóbal",3641,S,"Santa Fe Province",11,AR,Argentina,-30.31053000,-61.23724000,Q607174
-1427,"San Javier",3641,S,"Santa Fe Province",11,AR,Argentina,-30.57781000,-59.93170000,Q2527694
-1428,"San Jorge",3641,S,"Santa Fe Province",11,AR,Argentina,-31.89618000,-61.85984000,Q21833909
-1436,"San Justo",3641,S,"Santa Fe Province",11,AR,Argentina,-30.78913000,-60.59189000,Q2134760
-1458,"Santa Fe",3641,S,"Santa Fe Province",11,AR,Argentina,-31.64881000,-60.70868000,Q44244
-1475,"Santo Tomé",3641,S,"Santa Fe Province",11,AR,Argentina,-31.66274000,-60.76530000,Q2540118
-1478,Sastre,3641,S,"Santa Fe Province",11,AR,Argentina,-31.76762000,-61.82887000,Q3473836
-1490,Sunchales,3641,S,"Santa Fe Province",11,AR,Argentina,-30.94404000,-61.56148000,Q2509609
-1494,Tacuarendí,3641,S,"Santa Fe Province",11,AR,Argentina,-28.41265000,-59.26000000,Q1579288
-1509,Tostado,3641,S,"Santa Fe Province",11,AR,Argentina,-29.23202000,-61.76917000,Q971021
-1510,Totoras,3641,S,"Santa Fe Province",11,AR,Argentina,-32.58440000,-61.16852000,Q2226504
-1529,"Venado Tuerto",3641,S,"Santa Fe Province",11,AR,Argentina,-33.74556000,-61.96885000,Q1889146
-1530,Vera,3641,S,"Santa Fe Province",11,AR,Argentina,-29.45930000,-60.21261000,Q2540770
-1545,"Villa Cañás",3641,S,"Santa Fe Province",11,AR,Argentina,-34.00565000,-61.60757000,Q1865187
-1547,"Villa Constitución",3641,S,"Santa Fe Province",11,AR,Argentina,-33.22778000,-60.32970000,Q2584195
-1566,"Villa Mugueta",3641,S,"Santa Fe Province",11,AR,Argentina,-33.31129000,-61.05515000,Q1756745
-1568,"Villa Ocampo",3641,S,"Santa Fe Province",11,AR,Argentina,-28.48752000,-59.35515000,Q21825595
-1577,"Villa Trinidad",3641,S,"Santa Fe Province",11,AR,Argentina,-30.21329000,-61.87597000,Q10751249
-679,Añatuya,3635,G,"Santiago del Estero Province",11,AR,Argentina,-28.46064000,-62.83472000,Q794668
-691,Beltrán,3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.82913000,-64.06098000,Q4884800
-717,"Campo Gallo",3635,G,"Santiago del Estero Province",11,AR,Argentina,-26.58333000,-62.85000000,Q761980
-771,Clodomira,3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.57440000,-64.13108000,Q3680889
-777,"Colonia Dora",3635,G,"Santiago del Estero Province",11,AR,Argentina,-28.60000000,-62.95000000,Q5148225
-820,"Departamento de Aguirre",3635,G,"Santiago del Estero Province",11,AR,Argentina,-29.33333000,-62.50000000,Q1190331
-834,"Departamento de Banda",3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.50000000,-64.33333000,Q1190264
-861,"Departamento de Choya",3635,G,"Santiago del Estero Province",11,AR,Argentina,-28.75000000,-64.75000000,Q1190374
-904,"Departamento de Guasayán",3635,G,"Santiago del Estero Province",11,AR,Argentina,-28.00000000,-64.83333000,Q587984
-930,"Departamento de Loreto",3635,G,"Santiago del Estero Province",11,AR,Argentina,-28.55000000,-64.33333000,Q279489
-948,"Departamento de Moreno",3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.33333000,-62.50000000,Q1190857
-975,"Departamento de Río Hondo",3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.58333000,-64.75000000,Q1063409
-969,"Departamento de Robles",3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.83333000,-63.91667000,Q1017544
-997,"Departamento de San Martín",3635,G,"Santiago del Estero Province",11,AR,Argentina,-28.16667000,-63.83333000,Q1191115
-1011,"Departamento de Sarmiento",3635,G,"Santiago del Estero Province",11,AR,Argentina,-28.08333000,-63.41667000,Q1063313
-1056,"El Hoyo",3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.02872000,-63.23197000,Q21842092
-1176,"La Banda",3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.73348000,-64.24278000,Q1494067
-1251,"Los Juríes",3635,G,"Santiago del Estero Province",11,AR,Argentina,-28.46539000,-62.10862000,Q2917961
-1255,"Los Telares",3635,G,"Santiago del Estero Province",11,AR,Argentina,-28.98479000,-63.44889000,Q1015224
-1315,"Pampa de los Guanacos",3635,G,"Santiago del Estero Province",11,AR,Argentina,-26.23002000,-61.83774000,Q1154215
-1369,Quimilí,3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.64615000,-62.41655000,Q1015595
-1445,"San Pedro",3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.95386000,-65.16651000,Q1015246
-1473,"Santiago del Estero",3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.79511000,-64.26149000,Q44253
-1489,Sumampa,3635,G,"Santiago del Estero Province",11,AR,Argentina,-29.38470000,-63.46907000,Q1015605
-1491,"Suncho Corral",3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.93357000,-63.42938000,Q1015579
-1501,"Termas de Río Hondo",3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.49362000,-64.85972000,Q169334
-1506,Tintina,3635,G,"Santiago del Estero Province",11,AR,Argentina,-27.02687000,-62.70643000,Q1154169
-1539,"Villa Atamisqui",3635,G,"Santiago del Estero Province",11,AR,Argentina,-28.49609000,-63.81609000,Q577778
-1554,"Villa General Mitre",3635,G,"Santiago del Estero Province",11,AR,Argentina,-29.14310000,-62.65248000,Q1016062
-1569,"Villa Ojo de Agua",3635,G,"Santiago del Estero Province",11,AR,Argentina,-29.50003000,-63.69377000,Q1016067
-1392,"Río Grande",3650,V,"Tierra del Fuego Province",11,AR,Argentina,-53.78769000,-67.70946000,Q1005221
-1508,Tolhuin,3650,V,"Tierra del Fuego Province",11,AR,Argentina,-54.51083000,-67.19550000,Q21831641
-1524,Ushuaia,3650,V,"Tierra del Fuego Province",11,AR,Argentina,-54.81084000,-68.31591000,Q44254
-642,Aguilares,3637,T,"Tucumán Province",11,AR,Argentina,-27.43380000,-65.61427000,Q398365
-646,Alderetes,3637,T,"Tucumán Province",11,AR,Argentina,-26.81667000,-65.13333000,Q2456137
-690,"Bella Vista",3637,T,"Tucumán Province",11,AR,Argentina,-27.03424000,-65.30196000,Q815781
-705,Burruyacú,3637,T,"Tucumán Province",11,AR,Argentina,-26.49918000,-64.74206000,Q386975
-840,"Departamento de Burruyacú",3637,T,"Tucumán Province",11,AR,Argentina,-26.50000000,-64.91667000,Q573042
-852,"Departamento de Capital",3637,T,"Tucumán Province",11,AR,Argentina,-26.82825000,-65.21126000,Q1190337
-870,"Departamento de Cruz Alta",3637,T,"Tucumán Province",11,AR,Argentina,-26.91667000,-64.91667000,Q1190426
-882,"Departamento de Famaillá",3637,T,"Tucumán Province",11,AR,Argentina,-26.91667000,-65.50000000,Q991357
-900,"Departamento de Graneros",3637,T,"Tucumán Province",11,AR,Argentina,-27.75000000,-65.33333000,Q372700
-917,"Departamento de La Cocha",3637,T,"Tucumán Province",11,AR,Argentina,-27.77784000,-65.57109000,Q858183
-933,"Departamento de Lules",3637,T,"Tucumán Province",11,AR,Argentina,-26.92886000,-65.33848000,Q597806
-947,"Departamento de Monteros",3637,T,"Tucumán Province",11,AR,Argentina,-27.16667000,-65.58333000,Q1190848
-973,"Departamento de Río Chico",3637,T,"Tucumán Province",11,AR,Argentina,-27.43368000,-65.76671000,Q1191028
-1015,"Departamento de Simoca",3637,T,"Tucumán Province",11,AR,Argentina,-27.26360000,-65.35612000,Q1191190
-1023,"Departamento de Trancas",3637,T,"Tucumán Province",11,AR,Argentina,-26.41667000,-65.50000000,Q1191220
-1034,"Departamento de Yerba Buena",3637,T,"Tucumán Province",11,AR,Argentina,-26.81826000,-65.31733000,Q618008
-1074,Famaillá,3637,T,"Tucumán Province",11,AR,Argentina,-27.05413000,-65.40329000,Q1395079
-1125,Graneros,3637,T,"Tucumán Province",11,AR,Argentina,-27.64934000,-65.43830000,Q1014652
-1182,"La Cocha",3637,T,"Tucumán Province",11,AR,Argentina,-27.76927000,-65.58711000,Q663822
-1291,Monteros,3637,T,"Tucumán Province",11,AR,Argentina,-27.16741000,-65.49832000,Q1616963
-1444,"San Miguel de Tucumán",3637,T,"Tucumán Province",11,AR,Argentina,-26.82414000,-65.22260000,Q44255
-1488,Simoca,3637,T,"Tucumán Province",11,AR,Argentina,-27.26272000,-65.35647000,Q367345
-1496,"Tafí del Valle",3637,T,"Tucumán Province",11,AR,Argentina,-26.85275000,-65.70983000,Q948534
-1495,"Tafí Viejo",3637,T,"Tucumán Province",11,AR,Argentina,-26.73201000,-65.25921000,Q2092448
-1511,Trancas,3637,T,"Tucumán Province",11,AR,Argentina,-26.23136000,-65.28093000,Q976838
-1596,"Yerba Buena",3637,T,"Tucumán Province",11,AR,Argentina,-26.81667000,-65.31667000,Q1719036
+643,"Alba Posse",3644,N,Misiones,11,AR,Argentina,-27.56978000,-54.68262000,Q2830746
+650,Almafuerte,3644,N,Misiones,11,AR,Argentina,-27.50825000,-55.40258000,Q4733652
+669,"Aristóbulo del Valle",3644,N,Misiones,11,AR,Argentina,-27.09625000,-54.89626000,Q2861426
+674,"Arroyo del Medio",3644,N,Misiones,11,AR,Argentina,-27.69748000,-55.40376000,Q2242988
+678,Azara,3644,N,Misiones,11,AR,Argentina,-28.06160000,-55.67797000,Q5243541
+693,"Bernardo de Irigoyen",3644,N,Misiones,11,AR,Argentina,-26.25520000,-53.64581000,Q823073
+699,Bonpland,3644,N,Misiones,11,AR,Argentina,-27.48218000,-55.47756000,Q21828961
+718,"Campo Grande",3644,N,Misiones,11,AR,Argentina,-27.20770000,-54.97977000,Q588681
+721,"Campo Ramón",3644,N,Misiones,11,AR,Argentina,-27.45490000,-55.02122000,Q2918968
+722,"Campo Viera",3644,N,Misiones,11,AR,Argentina,-27.33271000,-55.05651000,Q5028465
+724,Candelaria,3644,N,Misiones,11,AR,Argentina,-27.45950000,-55.74536000,Q21829077
+728,Capioví,3644,N,Misiones,11,AR,Argentina,-26.92998000,-55.06084000,Q5035413
+731,Caraguatay,3644,N,Misiones,11,AR,Argentina,-26.60587000,-54.78093000,Q5037636
+748,"Cerro Azul",3644,N,Misiones,11,AR,Argentina,-27.63310000,-55.49620000,Q5064858
+749,"Cerro Corá",3644,N,Misiones,11,AR,Argentina,-27.51310000,-55.60896000,Q5064903
+774,"Colonia Aurora",3644,N,Misiones,11,AR,Argentina,-27.47428000,-54.52498000,Q908300
+790,"Concepción de la Sierra",3644,N,Misiones,11,AR,Argentina,-27.98311000,-55.52031000,Q2991642
+830,"Departamento de Apóstoles",3644,N,Misiones,11,AR,Argentina,-27.91667000,-55.75000000,Q1190229
+841,"Departamento de Cainguás",3644,N,Misiones,11,AR,Argentina,-27.16667000,-54.83333000,Q573042
+845,"Departamento de Candelaria",3644,N,Misiones,11,AR,Argentina,-27.50000000,-55.50000000,Q55379
+848,"Departamento de Capital",3644,N,Misiones,11,AR,Argentina,-27.50000000,-55.83333000,Q858107
+867,"Departamento de Concepción de la Sierra",3644,N,Misiones,11,AR,Argentina,-27.83333000,-55.41667000,Q868674
+878,"Departamento de Eldorado",3644,N,Misiones,11,AR,Argentina,-26.25000000,-54.41667000,Q899638
+894,"Departamento de General Manuel Belgrano",3644,N,Misiones,11,AR,Argentina,-26.16667000,-53.91667000,Q922325
+903,"Departamento de Guaraní",3644,N,Misiones,11,AR,Argentina,-27.16667000,-54.16667000,Q1028486
+908,"Departamento de Iguazú",3644,N,Misiones,11,AR,Argentina,-25.86667000,-54.36667000,Q974455
+927,"Departamento de Leandro N. Alem",3644,N,Misiones,11,AR,Argentina,-27.56667000,-55.33333000,Q426743
+929,"Departamento de Libertador General San Martín",3644,N,Misiones,11,AR,Argentina,-26.91667000,-54.91667000,Q279489
+946,"Departamento de Montecarlo",3644,N,Misiones,11,AR,Argentina,-26.71667000,-54.58333000,Q1190847
+953,"Departamento de Oberá",3644,N,Misiones,11,AR,Argentina,-27.55000000,-55.08333000,Q770031
+987,"Departamento de San Ignacio",3644,N,Misiones,11,AR,Argentina,-27.25000000,-55.33333000,Q1191078
+989,"Departamento de San Javier",3644,N,Misiones,11,AR,Argentina,-27.77806000,-55.13004000,Q730306
+1002,"Departamento de San Pedro",3644,N,Misiones,11,AR,Argentina,-26.66667000,-54.00000000,Q782340
+1031,"Departamento de Veinticinco de Mayo",3644,N,Misiones,11,AR,Argentina,-27.41667000,-54.66667000,Q288586
+1044,"Dos Arroyos",3644,N,Misiones,11,AR,Argentina,-27.69946000,-55.25207000,Q5299139
+1045,"Dos de Mayo",3644,N,Misiones,11,AR,Argentina,-27.02277000,-54.68669000,Q5299217
+1048,"El Alcázar",3644,N,Misiones,11,AR,Argentina,-26.71459000,-54.81523000,Q5350719
+1061,"El Soberbio",3644,N,Misiones,11,AR,Argentina,-27.29847000,-54.19877000,Q3050254
+1080,"Florentino Ameghino",3644,N,Misiones,11,AR,Argentina,-27.56667000,-55.13333000,Q2779881
+1090,Garuhapé,3644,N,Misiones,11,AR,Argentina,-26.81768000,-54.95665000,Q993283
+1091,Garupá,3644,N,Misiones,11,AR,Argentina,-27.48171000,-55.82921000,Q5524495
+1095,"General Alvear",3644,N,Misiones,11,AR,Argentina,-27.42611000,-55.16916000,Q5531687
+1120,"Gobernador Roca",3644,N,Misiones,11,AR,Argentina,-27.18636000,-55.46433000,Q5575458
+1128,Guaraní,3644,N,Misiones,11,AR,Argentina,-27.52323000,-55.16077000,Q5613944
+1166,"Jardín América",3644,N,Misiones,11,AR,Argentina,-27.04346000,-55.22698000,Q3115487
+1241,Loreto,3644,N,Misiones,11,AR,Argentina,-27.33177000,-55.52499000,Q2987221
+1250,"Los Helechos",3644,N,Misiones,11,AR,Argentina,-27.55051000,-55.07908000,Q9296343
+1295,Mártires,3644,N,Misiones,11,AR,Argentina,-27.42265000,-55.37659000,Q2929515
+1285,"Mojón Grande",3644,N,Misiones,11,AR,Argentina,-27.71165000,-55.15631000,Q1886208
+1290,Montecarlo,3644,N,Misiones,11,AR,Argentina,-26.56620000,-54.75700000,Q648215
+1304,Oberá,3644,N,Misiones,11,AR,Argentina,-27.48706000,-55.11994000,Q55377
+1318,Panambí,3644,N,Misiones,11,AR,Argentina,-27.72369000,-54.91515000,Q7130019
+1328,"Picada Gobernador López",3644,N,Misiones,11,AR,Argentina,-27.67069000,-55.24585000,Q519881
+1342,Posadas,3644,N,Misiones,11,AR,Argentina,-27.36708000,-55.89608000,Q44238
+1353,"Puerto Eldorado",3644,N,Misiones,11,AR,Argentina,-26.40843000,-54.69463000,Q21827536
+1354,"Puerto Esperanza",3644,N,Misiones,11,AR,Argentina,-26.02267000,-54.61356000,Q3112889
+1356,"Puerto Iguazú",3644,N,Misiones,11,AR,Argentina,-25.59912000,-54.57355000,Q55378
+1357,"Puerto Leoni",3644,N,Misiones,11,AR,Argentina,-26.98762000,-55.16569000,Q2565742
+1358,"Puerto Libertad",3644,N,Misiones,11,AR,Argentina,-25.91958000,-54.58229000,Q3036970
+1360,"Puerto Piray",3644,N,Misiones,11,AR,Argentina,-26.46937000,-54.70736000,Q3115721
+1361,"Puerto Rico",3644,N,Misiones,11,AR,Argentina,-26.79598000,-55.02402000,Q2530831
+1387,"Ruiz de Montoya",3644,N,Misiones,11,AR,Argentina,-26.98333000,-55.05000000,Q2550082
+1429,"San José",3644,N,Misiones,11,AR,Argentina,-27.76979000,-55.78260000,Q7414513
+1446,"San Pedro",3644,N,Misiones,11,AR,Argentina,-26.62207000,-54.10842000,Q3112883
+1452,"San Vicente",3644,N,Misiones,11,AR,Argentina,-26.61667000,-54.13333000,Q21827849
+1463,"Santa María",3644,N,Misiones,11,AR,Argentina,-27.93490000,-55.40742000,Q2238097
+1474,"Santo Pipó",3644,N,Misiones,11,AR,Argentina,-27.14132000,-55.40867000,Q7420542
+1514,"Tres Capones",3644,N,Misiones,11,AR,Argentina,-28.00641000,-55.60471000,Q9297687
+1528,"Veinticinco de Mayo",3644,N,Misiones,11,AR,Argentina,-27.37679000,-54.74312000,Q2374393
+1590,Wanda,3644,N,Misiones,11,AR,Argentina,-25.96879000,-54.56285000,Q3115808
+657,Aluminé,3648,Q,Neuquén,11,AR,Argentina,-39.23686000,-70.91970000,Q447844
+660,Andacollo,3648,Q,Neuquén,11,AR,Argentina,-37.17945000,-70.66912000,Q2358842
+680,Añelo,3648,Q,Neuquén,11,AR,Argentina,-38.35441000,-68.78840000,Q794673
+684,Barrancas,3648,Q,Neuquén,11,AR,Argentina,-36.82344000,-69.91564000,Q4863233
+706,"Buta Ranquil",3648,Q,Neuquén,11,AR,Argentina,-37.05222000,-69.87713000,Q630891
+746,Centenario,3648,Q,Neuquén,11,AR,Argentina,-38.82955000,-68.13180000,Q2233683
+766,"Chos Malal",3648,Q,Neuquén,11,AR,Argentina,-37.37809000,-70.27085000,Q288993
+814,Cutral-Có,3648,Q,Neuquén,11,AR,Argentina,-38.93424000,-69.23052000,Q970536
+823,"Departamento de Aluminé",3648,Q,Neuquén,11,AR,Argentina,-39.16667000,-71.00000000,Q1190331
+833,"Departamento de Añelo",3648,Q,Neuquén,11,AR,Argentina,-38.16667000,-69.00000000,Q1190264
+855,"Departamento de Catán-Lil",3648,Q,Neuquén,11,AR,Argentina,-39.50000000,-70.33333000,Q1190347
+860,"Departamento de Chos-Malal",3648,Q,Neuquén,11,AR,Argentina,-36.91667000,-70.16667000,Q1190374
+863,"Departamento de Collón-Curá",3648,Q,Neuquén,11,AR,Argentina,-40.08333000,-70.16667000,Q1190400
+868,"Departamento de Confluencia",3648,Q,Neuquén,11,AR,Argentina,-38.83333000,-68.83333000,Q960802
+934,"Departamento de Lácar",3648,Q,Neuquén,11,AR,Argentina,-40.25000000,-71.20000000,Q546774
+944,"Departamento de Minas",3648,Q,Neuquén,11,AR,Argentina,-36.83333000,-70.83333000,Q591241
+1035,"Departamento de Zapala",3648,Q,Neuquén,11,AR,Argentina,-39.00000000,-69.83333000,Q1191283
+1057,"El Huecú",3648,Q,Neuquén,11,AR,Argentina,-37.64522000,-70.58006000,Q1017560
+1172,"Junín de los Andes",3648,Q,Neuquén,11,AR,Argentina,-39.95043000,-71.06936000,Q952426
+1217,"Las Coloradas",3648,Q,Neuquén,11,AR,Argentina,-39.55534000,-70.59491000,Q1016900
+1223,"Las Lajas",3648,Q,Neuquén,11,AR,Argentina,-38.52322000,-70.36745000,Q1016895
+1226,"Las Ovejas",3648,Q,Neuquén,11,AR,Argentina,-36.98881000,-70.74991000,Q6492369
+1238,Loncopué,3648,Q,Neuquén,11,AR,Argentina,-38.07284000,-70.61609000,Q579990
+1272,"Mariano Moreno",3648,Q,Neuquén,11,AR,Argentina,-38.75029000,-70.02367000,Q3291391
+1298,Neuquén,3648,Q,Neuquén,11,AR,Argentina,-38.95161000,-68.05910000,Q44239
+1330,"Picún Leufú",3648,Q,Neuquén,11,AR,Argentina,-39.51614000,-69.28765000,Q922199
+1331,"Piedra del Águila",3648,Q,Neuquén,11,AR,Argentina,-40.04811000,-70.07410000,Q1015985
+1337,"Plaza Huincul",3648,Q,Neuquén,11,AR,Argentina,-38.92598000,-69.20863000,Q980712
+1338,Plottier,3648,Q,Neuquén,11,AR,Argentina,-38.96667000,-68.23333000,Q1017590
+1442,"San Martín de los Andes",3648,Q,Neuquén,11,AR,Argentina,-40.15789000,-71.35337000,Q1019152
+1483,Senillosa,3648,Q,Neuquén,11,AR,Argentina,-39.01412000,-68.43281000,Q3478557
+1559,"Villa La Angostura",3648,Q,Neuquén,11,AR,Argentina,-40.76173000,-71.64631000,Q106096
+1589,"Vista Alegre",3648,Q,Neuquén,11,AR,Argentina,-38.75000000,-68.18333000,Q7936429
+1598,Zapala,3648,Q,Neuquén,11,AR,Argentina,-38.89916000,-70.05442000,Q147196
+649,Allen,3639,R,"Río Negro",11,AR,Argentina,-38.97736000,-67.82714000,Q21848444
+739,Catriel,3639,R,"Río Negro",11,AR,Argentina,-37.87907000,-67.79560000,Q3663629
+750,Cervantes,3639,R,"Río Negro",11,AR,Argentina,-39.05444000,-67.39426000,Q5065312
+759,Chichinales,3639,R,"Río Negro",11,AR,Argentina,-39.11505000,-66.92714000,Q5096059
+763,Chimpay,3639,R,"Río Negro",11,AR,Argentina,-39.16482000,-66.14236000,Q4520581
+764,"Choele Choel",3639,R,"Río Negro",11,AR,Argentina,-39.28941000,-65.66060000,Q52522
+768,"Cinco Saltos",3639,R,"Río Negro",11,AR,Argentina,-38.82225000,-68.06293000,Q2933923
+770,Cipolletti,3639,R,"Río Negro",11,AR,Argentina,-38.93392000,-67.99032000,Q1014306
+784,Comallo,3639,R,"Río Negro",11,AR,Argentina,-41.02993000,-70.26784000,Q1954924
+795,"Contraalmirante Cordero",3639,R,"Río Negro",11,AR,Argentina,-38.72423000,-68.15284000,Q21841285
+798,"Coronel Belisle",3639,R,"Río Negro",11,AR,Argentina,-39.18688000,-65.95422000,Q2884472
+817,Darwin,3639,R,"Río Negro",11,AR,Argentina,-39.20334000,-65.73952000,Q5225916
+832,"Departamento de Avellaneda",3639,R,"Río Negro",11,AR,Argentina,-39.50000000,-66.50000000,Q1190249
+1032,"Departamento de Veinticinco de Mayo",3639,R,"Río Negro",11,AR,Argentina,-41.25000000,-69.00000000,Q288586
+1050,"El Bolsón",3639,R,"Río Negro",11,AR,Argentina,-41.96051000,-71.53336000,Q1323928
+1054,"El Cuy",3639,R,"Río Negro",11,AR,Argentina,-39.92685000,-68.34208000,Q995105
+1085,"Fray Luis Beltrán",3639,R,"Río Negro",11,AR,Argentina,-39.31369000,-65.76002000,Q5493943
+1099,"General Conesa",3639,R,"Río Negro",11,AR,Argentina,-40.10408000,-64.45592000,Q21839871
+1100,"General Enrique Godoy",3639,R,"Río Negro",11,AR,Argentina,-39.07891000,-67.15807000,Q425872
+1103,"General Fernández Oro",3639,R,"Río Negro",11,AR,Argentina,-38.95297000,-67.92489000,Q3100497
+1112,"General Roca",3639,R,"Río Negro",11,AR,Argentina,-39.03333000,-67.58333000,Q52506
+1152,"Ingeniero Jacobacci",3639,R,"Río Negro",11,AR,Argentina,-41.32920000,-69.55015000,Q2205145
+1154,"Ingeniero Luis A. Huergo",3639,R,"Río Negro",11,AR,Argentina,-39.07146000,-67.23790000,Q9008444
+1212,Lamarque,3639,R,"Río Negro",11,AR,Argentina,-39.42304000,-65.70208000,Q6480952
+1253,"Los Menucos",3639,R,"Río Negro",11,AR,Argentina,-40.84402000,-68.08718000,Q4353093
+1263,Mainque,3639,R,"Río Negro",11,AR,Argentina,-39.06667000,-67.30000000,Q6736720
+1268,Maquinchao,3639,R,"Río Negro",11,AR,Argentina,-41.24912000,-68.70321000,Q2171426
+1599,Ñorquinco,3639,R,"Río Negro",11,AR,Argentina,-41.85072000,-70.90173000,Q292866
+1334,Pilcaniyeu,3639,R,"Río Negro",11,AR,Argentina,-41.12288000,-70.72152000,Q1936853
+1389,"Río Colorado",3639,R,"Río Negro",11,AR,Argentina,-38.99397000,-64.09295000,Q1410272
+1409,"San Antonio Oeste",3639,R,"Río Negro",11,AR,Argentina,-40.73193000,-64.94769000,Q1894082
+1418,"San Carlos de Bariloche",3639,R,"Río Negro",11,AR,Argentina,-41.14557000,-71.30822000,Q47772
+1486,"Sierra Colorada",3639,R,"Río Negro",11,AR,Argentina,-40.58487000,-67.75674000,Q692861
+1487,"Sierra Grande",3639,R,"Río Negro",11,AR,Argentina,-41.60603000,-65.35574000,Q21834393
+1525,Valcheta,3639,R,"Río Negro",11,AR,Argentina,-40.67989000,-66.16283000,Q1015230
+1536,Viedma,3639,R,"Río Negro",11,AR,Argentina,-40.81345000,-62.99668000,Q44240
+1574,"Villa Regina",3639,R,"Río Negro",11,AR,Argentina,-39.10000000,-67.06667000,Q1017096
+664,"Apolinario Saravia",3643,A,Salta,11,AR,Argentina,-24.43276000,-63.99535000,Q4780228
+707,Cachí,3643,A,Salta,11,AR,Argentina,-25.12033000,-66.16519000,Q520684
+708,Cafayate,3643,A,Salta,11,AR,Argentina,-26.08333000,-65.83333000,Q1190297
+720,"Campo Quijano",3643,A,Salta,11,AR,Argentina,-24.90982000,-65.63656000,Q2553556
+760,Chicoana,3643,A,Salta,11,AR,Argentina,-25.10502000,-65.53473000,Q1016092
+819,"Departamento Capital",3643,A,Salta,11,AR,Argentina,-24.83333000,-65.33333000,Q1190331
+828,"Departamento de Anta",3643,A,Salta,11,AR,Argentina,-24.91667000,-64.00000000,Q1190229
+857,"Departamento de Cerrillos",3643,A,Salta,11,AR,Argentina,-25.00000000,-65.41667000,Q665915
+858,"Departamento de Chicoana",3643,A,Salta,11,AR,Argentina,-25.11583000,-65.59466000,Q547590
+891,"Departamento de General Güemes",3643,A,Salta,11,AR,Argentina,-24.79464000,-64.94393000,Q922325
+901,"Departamento de Guachipas",3643,A,Salta,11,AR,Argentina,-25.66667000,-65.50000000,Q1190588
+911,"Departamento de Iruya",3643,A,Salta,11,AR,Argentina,-22.80000000,-64.91667000,Q1190632
+920,"Departamento de La Poma",3643,A,Salta,11,AR,Argentina,-24.16667000,-66.16667000,Q584369
+921,"Departamento de La Viña",3643,A,Salta,11,AR,Argentina,-25.50000000,-65.66667000,Q584369
+931,"Departamento de Los Andes",3643,A,Salta,11,AR,Argentina,-24.50000000,-67.33333000,Q514500
+942,"Departamento de Metán",3643,A,Salta,11,AR,Argentina,-25.50000000,-64.66667000,Q1190811
+968,"Departamento de Rivadavia",3643,A,Salta,11,AR,Argentina,-23.66667000,-62.91667000,Q1017544
+971,"Departamento de Rosario de la Frontera",3643,A,Salta,11,AR,Argentina,-25.91667000,-64.83333000,Q106122
+970,"Departamento de Rosario de Lerma",3643,A,Salta,11,AR,Argentina,-24.58333000,-65.83333000,Q1017556
+982,"Departamento de San Carlos",3643,A,Salta,11,AR,Argentina,-25.75000000,-66.08333000,Q1191069
+1052,"El Carril",3643,A,Salta,11,AR,Argentina,-25.07410000,-65.49174000,Q21841997
+1055,"El Galpón",3643,A,Salta,11,AR,Argentina,-25.38069000,-64.65259000,Q5351301
+1059,"El Quebrachal",3643,A,Salta,11,AR,Argentina,-25.28333000,-64.06667000,Q5351959
+1067,Embarcación,3643,A,Salta,11,AR,Argentina,-23.21003000,-64.09965000,Q3052011
+1101,"General Enrique Mosconi",3643,A,Salta,11,AR,Argentina,-22.59588000,-63.81255000,Q2132246
+1168,"Joaquín V. González",3643,A,Salta,11,AR,Argentina,-25.11364000,-64.12628000,Q1014965
+1177,"La Caldera",3643,A,Salta,11,AR,Argentina,-24.58333000,-65.41667000,Q1190675
+1224,"Las Lajitas",3643,A,Salta,11,AR,Argentina,-24.72762000,-64.19335000,Q6492276
+1403,Salta,3643,A,Salta,11,AR,Argentina,-24.78590000,-65.41166000,Q36307
+1411,"San Antonio de los Cobres",3643,A,Salta,11,AR,Argentina,-24.21804000,-66.31877000,Q1563449
+1449,"San Ramón de la Nueva Orán",3643,A,Salta,11,AR,Argentina,-23.13705000,-64.32426000,Q1755283
+1469,"Santa Rosa de Tastil",3643,A,Salta,11,AR,Argentina,-24.45166000,-65.97452000,Q370723
+1498,Tartagal,3643,A,Salta,11,AR,Argentina,-22.51637000,-63.80131000,Q106115
+644,Albardón,3634,J,"San Juan",11,AR,Argentina,-31.43722000,-68.52556000,Q1190205
+714,Calingasta,3634,J,"San Juan",11,AR,Argentina,-31.33394000,-69.42080000,Q21843829
+741,Caucete,3634,J,"San Juan",11,AR,Argentina,-31.65179000,-68.28105000,Q2498538
+762,Chimbas,3634,J,"San Juan",11,AR,Argentina,-31.48333000,-68.53333000,Q1072833
+821,"Departamento de Albardón",3634,J,"San Juan",11,AR,Argentina,-31.28333000,-68.41667000,Q1190331
+827,"Departamento de Angaco",3634,J,"San Juan",11,AR,Argentina,-31.20000000,-68.13333000,Q537390
+844,"Departamento de Calingasta",3634,J,"San Juan",11,AR,Argentina,-31.50000000,-69.75000000,Q1190309
+851,"Departamento de Capital",3634,J,"San Juan",11,AR,Argentina,-31.53333000,-68.53333000,Q1190333
+856,"Departamento de Caucete",3634,J,"San Juan",11,AR,Argentina,-31.45000000,-67.66667000,Q1190349
+859,"Departamento de Chimbas",3634,J,"San Juan",11,AR,Argentina,-31.48738000,-68.52691000,Q1190374
+907,"Departamento de Iglesia",3634,J,"San Juan",11,AR,Argentina,-29.33333000,-69.58333000,Q974455
+915,"Departamento de Jáchal",3634,J,"San Juan",11,AR,Argentina,-30.50000000,-68.50000000,Q1190671
+952,"Departamento de Nueve de Julio",3634,J,"San Juan",11,AR,Argentina,-31.65072000,-68.38925000,Q770031
+964,"Departamento de Rawson",3634,J,"San Juan",11,AR,Argentina,-31.70000000,-68.46667000,Q1088518
+966,"Departamento de Rivadavia",3634,J,"San Juan",11,AR,Argentina,-31.56450000,-68.65219000,Q613945
+998,"Departamento de San Martín",3634,J,"San Juan",11,AR,Argentina,-31.50000000,-68.25000000,Q1191115
+1005,"Departamento de Santa Lucía",3634,J,"San Juan",11,AR,Argentina,-31.53333000,-68.46667000,Q1191155
+1013,"Departamento de Sarmiento",3634,J,"San Juan",11,AR,Argentina,-32.00000000,-68.66667000,Q548342
+1028,"Departamento de Ullúm",3634,J,"San Juan",11,AR,Argentina,-31.00000000,-68.91667000,Q2317932
+1036,"Departamento de Zonda",3634,J,"San Juan",11,AR,Argentina,-31.68260000,-68.89938000,Q571569
+1302,"Nueve de Julio",3634,J,"San Juan",11,AR,Argentina,-31.66914000,-68.39023000,Q3113782
+1339,Pocito,3634,J,"San Juan",11,AR,Argentina,-31.68333000,-68.58333000,Q1190967
+1407,"San Agustín de Valle Fértil",3634,J,"San Juan",11,AR,Argentina,-30.63353000,-67.46821000,Q21833794
+1431,"San José de Jáchal",3634,J,"San Juan",11,AR,Argentina,-30.24057000,-68.74693000,Q1018389
+1433,"San Juan",3634,J,"San Juan",11,AR,Argentina,-31.53750000,-68.53639000,Q44241
+1441,"San Martín",3634,J,"San Juan",11,AR,Argentina,-31.42957000,-68.50065000,Q685766
+1460,"Santa Lucía",3634,J,"San Juan",11,AR,Argentina,-31.53987000,-68.49503000,Q3034804
+1540,"Villa Basilio Nievas",3634,J,"San Juan",11,AR,Argentina,-31.55000000,-68.73333000,Q2052395
+1572,"Villa Paula de Sarmiento",3634,J,"San Juan",11,AR,Argentina,-31.49330000,-68.53838000,Q21832403
+703,"Buena Esperanza",3636,D,"San Luis	",11,AR,Argentina,-34.75647000,-65.25379000,Q786129
+725,Candelaria,3636,D,"San Luis	",11,AR,Argentina,-32.06036000,-65.82477000,Q5031647
+788,Concarán,3636,D,"San Luis	",11,AR,Argentina,-32.56009000,-65.24270000,Q1018588
+1170,"Juan Martín de Pueyrredón",3636,D,"San Luis	",11,AR,Argentina,-33.27544000,-66.32017000,Q21847757
+1174,"Justo Daract",3636,D,"San Luis	",11,AR,Argentina,-33.85940000,-65.18277000,Q3190556
+1198,"La Punta",3636,D,"San Luis	",11,AR,Argentina,-33.18368000,-66.31270000,Q4811974
+1202,"La Toma",3636,D,"San Luis	",11,AR,Argentina,-33.05258000,-65.62385000,Q1018352
+1258,Luján,3636,D,"San Luis	",11,AR,Argentina,-32.36674000,-65.93642000,Q2838669
+1280,Merlo,3636,D,"San Luis	",11,AR,Argentina,-32.34288000,-65.01396000,Q106139
+1297,Naschel,3636,D,"San Luis	",11,AR,Argentina,-32.91656000,-65.37535000,Q1257238
+1425,"San Francisco del Monte de Oro",3636,D,"San Luis	",11,AR,Argentina,-32.59825000,-66.12539000,Q1015495
+1438,"San Luis",3636,D,"San Luis	",11,AR,Argentina,-33.29501000,-66.33563000,Q44243
+1470,"Santa Rosa del Conlara",3636,D,"San Luis	",11,AR,Argentina,-32.34286000,-65.20323000,Q1018381
+1504,Tilisarao,3636,D,"San Luis	",11,AR,Argentina,-32.73292000,-65.29109000,Q2536970
+1520,Unión,3636,D,"San Luis	",11,AR,Argentina,-35.15282000,-65.94602000,Q7896892
+1555,"Villa General Roca",3636,D,"San Luis	",11,AR,Argentina,-32.66535000,-66.45052000,Q678141
+1565,"Villa Mercedes",3636,D,"San Luis	",11,AR,Argentina,-33.67571000,-65.45783000,Q1756745
+637,"28 de Noviembre",3649,Z,"Santa Cruz",11,AR,Argentina,-51.58390000,-72.21382000,Q1533589
+711,"Caleta Olivia",3649,Z,"Santa Cruz",11,AR,Argentina,-46.43929000,-67.52814000,Q1026633
+786,"Comandante Luis Piedra Buena",3649,Z,"Santa Cruz",11,AR,Argentina,-49.98513000,-68.91467000,Q962170
+874,"Departamento de Deseado",3649,Z,"Santa Cruz",11,AR,Argentina,-47.33333000,-67.83333000,Q899638
+906,"Departamento de Güer Aike",3649,Z,"Santa Cruz",11,AR,Argentina,-51.33333000,-70.33333000,Q512660
+922,"Departamento de Lago Argentino",3649,Z,"Santa Cruz",11,AR,Argentina,-49.75000000,-72.00000000,Q1190713
+935,"Departamento de Magallanes",3649,Z,"Santa Cruz",11,AR,Argentina,-48.75000000,-68.50000000,Q1190783
+972,"Departamento de Río Chico",3649,Z,"Santa Cruz",11,AR,Argentina,-48.25000000,-71.00000000,Q106122
+1051,"El Calafate",3649,Z,"Santa Cruz",11,AR,Argentina,-50.34075000,-72.27682000,Q81561
+1116,"Gobernador Gregores",3649,Z,"Santa Cruz",11,AR,Argentina,-48.75057000,-70.24741000,Q950541
+1220,"Las Heras",3649,Z,"Santa Cruz",11,AR,Argentina,-46.54186000,-68.93593000,Q2204862
+1244,"Los Antiguos",3649,Z,"Santa Cruz",11,AR,Argentina,-46.54972000,-71.63086000,Q1870494
+1326,"Perito Moreno",3649,Z,"Santa Cruz",11,AR,Argentina,-46.58995000,-70.92975000,Q21835493
+1329,"Pico Truncado",3649,Z,"Santa Cruz",11,AR,Argentina,-46.79490000,-67.95731000,Q81562
+1352,"Puerto Deseado",3649,Z,"Santa Cruz",11,AR,Argentina,-47.75034000,-65.89382000,Q923541
+1362,"Puerto Santa Cruz",3649,Z,"Santa Cruz",11,AR,Argentina,-50.01910000,-68.52321000,Q932809
+1391,"Río Gallegos",3649,Z,"Santa Cruz",11,AR,Argentina,-51.62261000,-69.21813000,Q44242
+1397,"Río Turbio",3649,Z,"Santa Cruz",11,AR,Argentina,-51.53587000,-72.33673000,Q2608901
+1434,"San Julián",3649,Z,"Santa Cruz",11,AR,Argentina,-49.30554000,-67.72743000,Q955668
+1593,"Yacimiento Río Turbio",3649,Z,"Santa Cruz",11,AR,Argentina,-51.57321000,-72.35080000,Q21832512
+670,Armstrong,3641,S,"Santa Fe",11,AR,Argentina,-32.78215000,-61.60222000,Q2397804
+673,"Arroyo Seco",3641,S,"Santa Fe",11,AR,Argentina,-33.15489000,-60.50863000,Q974987
+675,Arrufó,3641,S,"Santa Fe",11,AR,Argentina,-30.23281000,-61.72862000,Q8205105
+676,Avellaneda,3641,S,"Santa Fe",11,AR,Argentina,-29.11761000,-59.65834000,Q932398
+689,"Bella Italia",3641,S,"Santa Fe",11,AR,Argentina,-31.28182000,-61.41092000,Q5725165
+710,Calchaquí,3641,S,"Santa Fe",11,AR,Argentina,-29.88767000,-60.28697000,Q1955294
+743,"Cañada de Gómez",3641,S,"Santa Fe",11,AR,Argentina,-32.81636000,-61.39493000,Q971555
+729,"Capitán Bermúdez",3641,S,"Santa Fe",11,AR,Argentina,-32.82262000,-60.71852000,Q1620664
+732,Carcarañá,3641,S,"Santa Fe",11,AR,Argentina,-32.85679000,-61.15331000,Q3658334
+736,Casilda,3641,S,"Santa Fe",11,AR,Argentina,-33.04417000,-61.16806000,Q2097797
+747,Ceres,3641,S,"Santa Fe",11,AR,Argentina,-29.88100000,-61.94504000,Q2544458
+758,"Chañar Ladeado",3641,S,"Santa Fe",11,AR,Argentina,-33.32524000,-62.03831000,Q2518584
+796,Coronda,3641,S,"Santa Fe",11,AR,Argentina,-31.97263000,-60.91983000,Q52542
+835,"Departamento de Belgrano",3641,S,"Santa Fe",11,AR,Argentina,-32.50000000,-61.75000000,Q1190264
+853,"Departamento de Caseros",3641,S,"Santa Fe",11,AR,Argentina,-33.25000000,-61.66667000,Q1190342
+854,"Departamento de Castellanos",3641,S,"Santa Fe",11,AR,Argentina,-31.16667000,-61.66667000,Q1125823
+869,"Departamento de Constitución",3641,S,"Santa Fe",11,AR,Argentina,-33.50000000,-60.91667000,Q1190426
+916,"Departamento de La Capital",3641,S,"Santa Fe",11,AR,Argentina,-31.50000000,-60.66667000,Q858183
+951,"Departamento de Nueve de Julio",3641,S,"Santa Fe",11,AR,Argentina,-28.83333000,-61.33333000,Q770031
+985,"Departamento de San Cristóbal",3641,S,"Santa Fe",11,AR,Argentina,-30.33333000,-61.33333000,Q645679
+988,"Departamento de San Javier",3641,S,"Santa Fe",11,AR,Argentina,-30.33333000,-59.91667000,Q651117
+992,"Departamento de San Justo",3641,S,"Santa Fe",11,AR,Argentina,-30.66667000,-60.50000000,Q1191097
+993,"Departamento de San Lorenzo",3641,S,"Santa Fe",11,AR,Argentina,-33.00000000,-61.00000000,Q1191103
+1000,"Departamento de San Martín",3641,S,"Santa Fe",11,AR,Argentina,-32.00000000,-61.83333000,Q284326
+1033,"Departamento de Vera",3641,S,"Santa Fe",11,AR,Argentina,-29.00000000,-60.50000000,Q1191274
+1062,"El Trébol",3641,S,"Santa Fe",11,AR,Argentina,-32.20080000,-61.70140000,Q5352295
+1069,Esperanza,3641,S,"Santa Fe",11,AR,Argentina,-31.44880000,-60.93173000,Q1368165
+1079,Firmat,3641,S,"Santa Fe",11,AR,Argentina,-33.45937000,-61.48320000,Q677450
+1084,"Fray Luis A. Beltrán",3641,S,"Santa Fe",11,AR,Argentina,-32.79122000,-60.72819000,Q5493943
+1086,Funes,3641,S,"Santa Fe",11,AR,Argentina,-32.91568000,-60.80995000,Q2370892
+1131,Gálvez,3641,S,"Santa Fe",11,AR,Argentina,-32.02927000,-61.22103000,Q2407577
+1093,"Gato Colorado",3641,S,"Santa Fe",11,AR,Argentina,-28.02219000,-61.18663000,Q1016275
+1117,"Gobernador Gálvez",3641,S,"Santa Fe",11,AR,Argentina,-33.03016000,-60.64045000,Q2280502
+1124,"Granadero Baigorria",3641,S,"Santa Fe",11,AR,Argentina,-32.85683000,-60.71754000,Q5594127
+1133,Helvecia,3641,S,"Santa Fe",11,AR,Argentina,-31.09834000,-60.08830000,Q2804220
+1140,Hersilia,3641,S,"Santa Fe",11,AR,Argentina,-30.00447000,-61.84080000,Q21840344
+1158,"Iriondo Department",3641,S,"Santa Fe",11,AR,Argentina,-32.63333000,-61.33333000,Q538693
+1210,"Laguna Paiva",3641,S,"Santa Fe",11,AR,Argentina,-31.30391000,-60.65894000,Q21838090
+1227,"Las Parejas",3641,S,"Santa Fe",11,AR,Argentina,-32.68478000,-61.51637000,Q926587
+1230,"Las Rosas",3641,S,"Santa Fe",11,AR,Argentina,-32.47661000,-61.58041000,Q518660
+1231,"Las Toscas",3641,S,"Santa Fe",11,AR,Argentina,-28.35290000,-59.25795000,Q2278387
+1252,"Los Laureles",3641,S,"Santa Fe",11,AR,Argentina,-29.36847000,-59.73634000,Q2917961
+1265,Malabrigo,3641,S,"Santa Fe",11,AR,Argentina,-29.34636000,-59.96957000,Q21827083
+1276,Melincué,3641,S,"Santa Fe",11,AR,Argentina,-33.65847000,-61.45459000,Q2301762
+1366,Pérez,3641,S,"Santa Fe",11,AR,Argentina,-32.99835000,-60.76791000,Q7264669
+1372,Rafaela,3641,S,"Santa Fe",11,AR,Argentina,-31.25033000,-61.48670000,Q259498
+1376,Reconquista,3641,S,"Santa Fe",11,AR,Argentina,-29.15000000,-59.65000000,Q3036199
+1377,Recreo,3641,S,"Santa Fe",11,AR,Argentina,-31.49076000,-60.73299000,Q21833265
+1383,Roldán,3641,S,"Santa Fe",11,AR,Argentina,-32.89846000,-60.90681000,Q7360617
+1384,Rosario,3641,S,"Santa Fe",11,AR,Argentina,-32.94682000,-60.63932000,Q52535
+1386,Rufino,3641,S,"Santa Fe",11,AR,Argentina,-34.26827000,-62.71262000,Q960119
+1417,"San Carlos Centro",3641,S,"Santa Fe",11,AR,Argentina,-31.72864000,-61.09192000,Q2261100
+1420,"San Cristóbal",3641,S,"Santa Fe",11,AR,Argentina,-30.31053000,-61.23724000,Q607174
+1427,"San Javier",3641,S,"Santa Fe",11,AR,Argentina,-30.57781000,-59.93170000,Q2527694
+1428,"San Jorge",3641,S,"Santa Fe",11,AR,Argentina,-31.89618000,-61.85984000,Q21833909
+1436,"San Justo",3641,S,"Santa Fe",11,AR,Argentina,-30.78913000,-60.59189000,Q2134760
+1458,"Santa Fe",3641,S,"Santa Fe",11,AR,Argentina,-31.64881000,-60.70868000,Q44244
+1475,"Santo Tomé",3641,S,"Santa Fe",11,AR,Argentina,-31.66274000,-60.76530000,Q2540118
+1478,Sastre,3641,S,"Santa Fe",11,AR,Argentina,-31.76762000,-61.82887000,Q3473836
+1490,Sunchales,3641,S,"Santa Fe",11,AR,Argentina,-30.94404000,-61.56148000,Q2509609
+1494,Tacuarendí,3641,S,"Santa Fe",11,AR,Argentina,-28.41265000,-59.26000000,Q1579288
+1509,Tostado,3641,S,"Santa Fe",11,AR,Argentina,-29.23202000,-61.76917000,Q971021
+1510,Totoras,3641,S,"Santa Fe",11,AR,Argentina,-32.58440000,-61.16852000,Q2226504
+1529,"Venado Tuerto",3641,S,"Santa Fe",11,AR,Argentina,-33.74556000,-61.96885000,Q1889146
+1530,Vera,3641,S,"Santa Fe",11,AR,Argentina,-29.45930000,-60.21261000,Q2540770
+1545,"Villa Cañás",3641,S,"Santa Fe",11,AR,Argentina,-34.00565000,-61.60757000,Q1865187
+1547,"Villa Constitución",3641,S,"Santa Fe",11,AR,Argentina,-33.22778000,-60.32970000,Q2584195
+1566,"Villa Mugueta",3641,S,"Santa Fe",11,AR,Argentina,-33.31129000,-61.05515000,Q1756745
+1568,"Villa Ocampo",3641,S,"Santa Fe",11,AR,Argentina,-28.48752000,-59.35515000,Q21825595
+1577,"Villa Trinidad",3641,S,"Santa Fe",11,AR,Argentina,-30.21329000,-61.87597000,Q10751249
+679,Añatuya,3635,G,"Santiago del Estero",11,AR,Argentina,-28.46064000,-62.83472000,Q794668
+691,Beltrán,3635,G,"Santiago del Estero",11,AR,Argentina,-27.82913000,-64.06098000,Q4884800
+717,"Campo Gallo",3635,G,"Santiago del Estero",11,AR,Argentina,-26.58333000,-62.85000000,Q761980
+771,Clodomira,3635,G,"Santiago del Estero",11,AR,Argentina,-27.57440000,-64.13108000,Q3680889
+777,"Colonia Dora",3635,G,"Santiago del Estero",11,AR,Argentina,-28.60000000,-62.95000000,Q5148225
+820,"Departamento de Aguirre",3635,G,"Santiago del Estero",11,AR,Argentina,-29.33333000,-62.50000000,Q1190331
+834,"Departamento de Banda",3635,G,"Santiago del Estero",11,AR,Argentina,-27.50000000,-64.33333000,Q1190264
+861,"Departamento de Choya",3635,G,"Santiago del Estero",11,AR,Argentina,-28.75000000,-64.75000000,Q1190374
+904,"Departamento de Guasayán",3635,G,"Santiago del Estero",11,AR,Argentina,-28.00000000,-64.83333000,Q587984
+930,"Departamento de Loreto",3635,G,"Santiago del Estero",11,AR,Argentina,-28.55000000,-64.33333000,Q279489
+948,"Departamento de Moreno",3635,G,"Santiago del Estero",11,AR,Argentina,-27.33333000,-62.50000000,Q1190857
+975,"Departamento de Río Hondo",3635,G,"Santiago del Estero",11,AR,Argentina,-27.58333000,-64.75000000,Q1063409
+969,"Departamento de Robles",3635,G,"Santiago del Estero",11,AR,Argentina,-27.83333000,-63.91667000,Q1017544
+997,"Departamento de San Martín",3635,G,"Santiago del Estero",11,AR,Argentina,-28.16667000,-63.83333000,Q1191115
+1011,"Departamento de Sarmiento",3635,G,"Santiago del Estero",11,AR,Argentina,-28.08333000,-63.41667000,Q1063313
+1056,"El Hoyo",3635,G,"Santiago del Estero",11,AR,Argentina,-27.02872000,-63.23197000,Q21842092
+1176,"La Banda",3635,G,"Santiago del Estero",11,AR,Argentina,-27.73348000,-64.24278000,Q1494067
+1251,"Los Juríes",3635,G,"Santiago del Estero",11,AR,Argentina,-28.46539000,-62.10862000,Q2917961
+1255,"Los Telares",3635,G,"Santiago del Estero",11,AR,Argentina,-28.98479000,-63.44889000,Q1015224
+1315,"Pampa de los Guanacos",3635,G,"Santiago del Estero",11,AR,Argentina,-26.23002000,-61.83774000,Q1154215
+1369,Quimilí,3635,G,"Santiago del Estero",11,AR,Argentina,-27.64615000,-62.41655000,Q1015595
+1445,"San Pedro",3635,G,"Santiago del Estero",11,AR,Argentina,-27.95386000,-65.16651000,Q1015246
+1473,"Santiago del Estero",3635,G,"Santiago del Estero",11,AR,Argentina,-27.79511000,-64.26149000,Q44253
+1489,Sumampa,3635,G,"Santiago del Estero",11,AR,Argentina,-29.38470000,-63.46907000,Q1015605
+1491,"Suncho Corral",3635,G,"Santiago del Estero",11,AR,Argentina,-27.93357000,-63.42938000,Q1015579
+1501,"Termas de Río Hondo",3635,G,"Santiago del Estero",11,AR,Argentina,-27.49362000,-64.85972000,Q169334
+1506,Tintina,3635,G,"Santiago del Estero",11,AR,Argentina,-27.02687000,-62.70643000,Q1154169
+1539,"Villa Atamisqui",3635,G,"Santiago del Estero",11,AR,Argentina,-28.49609000,-63.81609000,Q577778
+1554,"Villa General Mitre",3635,G,"Santiago del Estero",11,AR,Argentina,-29.14310000,-62.65248000,Q1016062
+1569,"Villa Ojo de Agua",3635,G,"Santiago del Estero",11,AR,Argentina,-29.50003000,-63.69377000,Q1016067
+1392,"Río Grande",3650,V,"Tierra del Fuego",11,AR,Argentina,-53.78769000,-67.70946000,Q1005221
+1508,Tolhuin,3650,V,"Tierra del Fuego",11,AR,Argentina,-54.51083000,-67.19550000,Q21831641
+1524,Ushuaia,3650,V,"Tierra del Fuego",11,AR,Argentina,-54.81084000,-68.31591000,Q44254
+642,Aguilares,3637,T,Tucumán,11,AR,Argentina,-27.43380000,-65.61427000,Q398365
+646,Alderetes,3637,T,Tucumán,11,AR,Argentina,-26.81667000,-65.13333000,Q2456137
+690,"Bella Vista",3637,T,Tucumán,11,AR,Argentina,-27.03424000,-65.30196000,Q815781
+705,Burruyacú,3637,T,Tucumán,11,AR,Argentina,-26.49918000,-64.74206000,Q386975
+840,"Departamento de Burruyacú",3637,T,Tucumán,11,AR,Argentina,-26.50000000,-64.91667000,Q573042
+852,"Departamento de Capital",3637,T,Tucumán,11,AR,Argentina,-26.82825000,-65.21126000,Q1190337
+870,"Departamento de Cruz Alta",3637,T,Tucumán,11,AR,Argentina,-26.91667000,-64.91667000,Q1190426
+882,"Departamento de Famaillá",3637,T,Tucumán,11,AR,Argentina,-26.91667000,-65.50000000,Q991357
+900,"Departamento de Graneros",3637,T,Tucumán,11,AR,Argentina,-27.75000000,-65.33333000,Q372700
+917,"Departamento de La Cocha",3637,T,Tucumán,11,AR,Argentina,-27.77784000,-65.57109000,Q858183
+933,"Departamento de Lules",3637,T,Tucumán,11,AR,Argentina,-26.92886000,-65.33848000,Q597806
+947,"Departamento de Monteros",3637,T,Tucumán,11,AR,Argentina,-27.16667000,-65.58333000,Q1190848
+973,"Departamento de Río Chico",3637,T,Tucumán,11,AR,Argentina,-27.43368000,-65.76671000,Q1191028
+1015,"Departamento de Simoca",3637,T,Tucumán,11,AR,Argentina,-27.26360000,-65.35612000,Q1191190
+1023,"Departamento de Trancas",3637,T,Tucumán,11,AR,Argentina,-26.41667000,-65.50000000,Q1191220
+1034,"Departamento de Yerba Buena",3637,T,Tucumán,11,AR,Argentina,-26.81826000,-65.31733000,Q618008
+1074,Famaillá,3637,T,Tucumán,11,AR,Argentina,-27.05413000,-65.40329000,Q1395079
+1125,Graneros,3637,T,Tucumán,11,AR,Argentina,-27.64934000,-65.43830000,Q1014652
+1182,"La Cocha",3637,T,Tucumán,11,AR,Argentina,-27.76927000,-65.58711000,Q663822
+1291,Monteros,3637,T,Tucumán,11,AR,Argentina,-27.16741000,-65.49832000,Q1616963
+1444,"San Miguel de Tucumán",3637,T,Tucumán,11,AR,Argentina,-26.82414000,-65.22260000,Q44255
+1488,Simoca,3637,T,Tucumán,11,AR,Argentina,-27.26272000,-65.35647000,Q367345
+1496,"Tafí del Valle",3637,T,Tucumán,11,AR,Argentina,-26.85275000,-65.70983000,Q948534
+1495,"Tafí Viejo",3637,T,Tucumán,11,AR,Argentina,-26.73201000,-65.25921000,Q2092448
+1511,Trancas,3637,T,Tucumán,11,AR,Argentina,-26.23136000,-65.28093000,Q976838
+1596,"Yerba Buena",3637,T,Tucumán,11,AR,Argentina,-26.81667000,-65.31667000,Q1719036
 286,Agarakavan,2023,AG,"Aragatsotn Region",12,AM,Armenia,40.33069000,44.07233000,Q2667087
 303,Aparan,2023,AG,"Aragatsotn Region",12,AM,Armenia,40.59323000,44.35890000,Q39618
 305,Aragats,2023,AG,"Aragatsotn Region",12,AM,Armenia,40.48889000,44.35290000,Q2670427
@@ -18968,6 +18968,19 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 20285,"Xilin Hot",2269,NM,"Inner Mongolia",45,CN,China,43.96667000,116.03333000,Q1009416
 20336,Yakeshi,2269,NM,"Inner Mongolia",45,CN,China,49.28333000,120.73333000,Q1010264
 20419,Zhalantun,2269,NM,"Inner Mongolia",45,CN,China,48.00945000,122.73651000,Q145015
+149266,ChangZhou,2250,JS,Jiangsu,45,CN,China,31.72322000,119.59794000,Q57970
+149270,HuaiAn,2250,JS,Jiangsu,45,CN,China,33.29433000,118.87350000,Q57818
+149269,LianYunGang,2250,JS,Jiangsu,45,CN,China,34.84065000,119.17730000,Q57756
+149263,NanJing,2250,JS,Jiangsu,45,CN,China,31.32751000,118.89210000,Q16666
+149268,NanTong,2250,JS,Jiangsu,45,CN,China,32.00986000,120.85737000,Q57947
+149275,SuQian,2250,JS,Jiangsu,45,CN,China,33.96271000,118.24239000,Q57787
+149267,SuZhou,2250,JS,Jiangsu,45,CN,China,31.30227000,120.63132000,Q42622
+149274,TaiZhou,2250,JS,Jiangsu,45,CN,China,32.31841000,119.88116000,Q58273
+149264,WuXi,2250,JS,Jiangsu,45,CN,China,31.52853000,120.28429000,Q42651
+149265,XuZhou,2250,JS,Jiangsu,45,CN,China,34.28823000,117.18554000,Q57719
+149271,YanCheng,2250,JS,Jiangsu,45,CN,China,33.20107000,120.50102000,Q57866
+149272,YangZhou,2250,JS,Jiangsu,45,CN,China,32.39463000,119.43157000,Q57906
+149273,ZhenJiang,2250,JS,Jiangsu,45,CN,China,32.13188000,119.43396000,Q57958
 19367,Changleng,2256,JX,Jiangxi,45,CN,China,28.70000000,115.81667000,Q989898
 19513,Fenyi,2256,JX,Jiangxi,45,CN,China,27.81117000,114.66805000,Q1362431
 19538,Ganzhou,2256,JX,Jiangxi,45,CN,China,25.84664000,114.93260000,Q363166

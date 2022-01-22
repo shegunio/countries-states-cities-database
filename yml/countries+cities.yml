@@ -94088,6 +94088,11 @@ country_city:
         latitude: '31.77359000'
         longitude: '119.95401000'
       -
+        id: 149266
+        name: ChangZhou
+        latitude: '31.72322000'
+        longitude: '119.59794000'
+      -
         id: 19380
         name: Chaohu
         latitude: '31.60000000'
@@ -95473,6 +95478,11 @@ country_city:
         latitude: '33.31162000'
         longitude: '119.04559000'
       -
+        id: 149270
+        name: HuaiAn
+        latitude: '33.29433000'
+        longitude: '118.87350000'
+      -
         id: 19636
         name: Huaibei
         latitude: '33.97444000'
@@ -96428,6 +96438,11 @@ country_city:
         latitude: '27.68833000'
         longitude: '111.66417000'
       -
+        id: 149269
+        name: LianYunGang
+        latitude: '34.84065000'
+        longitude: '119.17730000'
+      -
         id: 19825
         name: 'Lianyungang Shi'
         latitude: '34.54844000'
@@ -97053,6 +97068,11 @@ country_city:
         latitude: '32.06167000'
         longitude: '118.77778000'
       -
+        id: 149263
+        name: NanJing
+        latitude: '31.32751000'
+        longitude: '118.89210000'
+      -
         id: 19942
         name: Nanlong
         latitude: '31.35333000'
@@ -97092,6 +97112,11 @@ country_city:
         name: Nantong
         latitude: '32.03028000'
         longitude: '120.87472000'
+      -
+        id: 149268
+        name: NanTong
+        latitude: '32.00986000'
+        longitude: '120.85737000'
       -
         id: 19950
         name: Nanyang
@@ -98123,6 +98148,16 @@ country_city:
         latitude: '36.95389000'
         longitude: '118.10472000'
       -
+        id: 149275
+        name: SuQian
+        latitude: '33.96271000'
+        longitude: '118.24239000'
+      -
+        id: 149267
+        name: SuZhou
+        latitude: '31.30227000'
+        longitude: '120.63132000'
+      -
         id: 20149
         name: Suzhou
         latitude: '33.63611000'
@@ -98207,6 +98242,11 @@ country_city:
         name: Taizhou
         latitude: '28.66266000'
         longitude: '121.43312000'
+      -
+        id: 149274
+        name: TaiZhou
+        latitude: '32.31841000'
+        longitude: '119.88116000'
       -
         id: 20166
         name: Tanbei
@@ -98602,6 +98642,11 @@ country_city:
         name: Wuxi
         latitude: '31.56887000'
         longitude: '120.28857000'
+      -
+        id: 149264
+        name: WuXi
+        latitude: '31.52853000'
+        longitude: '120.28429000'
       -
         id: 20240
         name: Wuxue
@@ -99103,6 +99148,11 @@ country_city:
         latitude: '28.45433000'
         longitude: '104.71498000'
       -
+        id: 149265
+        name: XuZhou
+        latitude: '34.28823000'
+        longitude: '117.18554000'
+      -
         id: 20336
         name: Yakeshi
         latitude: '49.28333000'
@@ -99127,6 +99177,11 @@ country_city:
         name: Yancheng
         latitude: '33.35750000'
         longitude: '120.15730000'
+      -
+        id: 149271
+        name: YanCheng
+        latitude: '33.20107000'
+        longitude: '120.50102000'
       -
         id: 20341
         name: Yangchun
@@ -99182,6 +99237,11 @@ country_city:
         name: Yangzhou
         latitude: '32.39722000'
         longitude: '119.43583000'
+      -
+        id: 149272
+        name: YangZhou
+        latitude: '32.39463000'
+        longitude: '119.43157000'
       -
         id: 20350
         name: Yanji
@@ -99633,12 +99693,12 @@ country_city:
         latitude: '39.76538000'
         longitude: '118.41191000'
       -
-        id: 149214
+        id: 149236
         name: Zhaoguli
         latitude: '39.16673000'
         longitude: '117.24191000'
       -
-        id: 149236
+        id: 149214
         name: Zhaoguli
         latitude: '39.16673000'
         longitude: '117.24191000'
@@ -99687,6 +99747,11 @@ country_city:
         name: Zhenjiang
         latitude: '32.21086000'
         longitude: '119.45508000'
+      -
+        id: 149273
+        name: ZhenJiang
+        latitude: '32.13188000'
+        longitude: '119.43396000'
       -
         id: 20442
         name: Zhenlai

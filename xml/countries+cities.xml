@@ -112579,6 +112579,12 @@
       <longitude>119.95401000</longitude>
     </cities>
     <cities>
+      <id>149266</id>
+      <name>ChangZhou</name>
+      <latitude>31.72322000</latitude>
+      <longitude>119.59794000</longitude>
+    </cities>
+    <cities>
       <id>19380</id>
       <name>Chaohu</name>
       <latitude>31.60000000</latitude>
@@ -114241,6 +114247,12 @@
       <longitude>119.04559000</longitude>
     </cities>
     <cities>
+      <id>149270</id>
+      <name>HuaiAn</name>
+      <latitude>33.29433000</latitude>
+      <longitude>118.87350000</longitude>
+    </cities>
+    <cities>
       <id>19636</id>
       <name>Huaibei</name>
       <latitude>33.97444000</latitude>
@@ -115387,6 +115399,12 @@
       <longitude>111.66417000</longitude>
     </cities>
     <cities>
+      <id>149269</id>
+      <name>LianYunGang</name>
+      <latitude>34.84065000</latitude>
+      <longitude>119.17730000</longitude>
+    </cities>
+    <cities>
       <id>19825</id>
       <name>Lianyungang Shi</name>
       <latitude>34.54844000</latitude>
@@ -116137,6 +116155,12 @@
       <longitude>118.77778000</longitude>
     </cities>
     <cities>
+      <id>149263</id>
+      <name>NanJing</name>
+      <latitude>31.32751000</latitude>
+      <longitude>118.89210000</longitude>
+    </cities>
+    <cities>
       <id>19942</id>
       <name>Nanlong</name>
       <latitude>31.35333000</latitude>
@@ -116183,6 +116207,12 @@
       <name>Nantong</name>
       <latitude>32.03028000</latitude>
       <longitude>120.87472000</longitude>
+    </cities>
+    <cities>
+      <id>149268</id>
+      <name>NanTong</name>
+      <latitude>32.00986000</latitude>
+      <longitude>120.85737000</longitude>
     </cities>
     <cities>
       <id>19950</id>
@@ -117421,6 +117451,18 @@
       <longitude>118.10472000</longitude>
     </cities>
     <cities>
+      <id>149275</id>
+      <name>SuQian</name>
+      <latitude>33.96271000</latitude>
+      <longitude>118.24239000</longitude>
+    </cities>
+    <cities>
+      <id>149267</id>
+      <name>SuZhou</name>
+      <latitude>31.30227000</latitude>
+      <longitude>120.63132000</longitude>
+    </cities>
+    <cities>
       <id>20149</id>
       <name>Suzhou</name>
       <latitude>33.63611000</latitude>
@@ -117521,6 +117563,12 @@
       <name>Taizhou</name>
       <latitude>28.66266000</latitude>
       <longitude>121.43312000</longitude>
+    </cities>
+    <cities>
+      <id>149274</id>
+      <name>TaiZhou</name>
+      <latitude>32.31841000</latitude>
+      <longitude>119.88116000</longitude>
     </cities>
     <cities>
       <id>20166</id>
@@ -117995,6 +118043,12 @@
       <name>Wuxi</name>
       <latitude>31.56887000</latitude>
       <longitude>120.28857000</longitude>
+    </cities>
+    <cities>
+      <id>149264</id>
+      <name>WuXi</name>
+      <latitude>31.52853000</latitude>
+      <longitude>120.28429000</longitude>
     </cities>
     <cities>
       <id>20240</id>
@@ -118597,6 +118651,12 @@
       <longitude>104.71498000</longitude>
     </cities>
     <cities>
+      <id>149265</id>
+      <name>XuZhou</name>
+      <latitude>34.28823000</latitude>
+      <longitude>117.18554000</longitude>
+    </cities>
+    <cities>
       <id>20336</id>
       <name>Yakeshi</name>
       <latitude>49.28333000</latitude>
@@ -118625,6 +118685,12 @@
       <name>Yancheng</name>
       <latitude>33.35750000</latitude>
       <longitude>120.15730000</longitude>
+    </cities>
+    <cities>
+      <id>149271</id>
+      <name>YanCheng</name>
+      <latitude>33.20107000</latitude>
+      <longitude>120.50102000</longitude>
     </cities>
     <cities>
       <id>20341</id>
@@ -118691,6 +118757,12 @@
       <name>Yangzhou</name>
       <latitude>32.39722000</latitude>
       <longitude>119.43583000</longitude>
+    </cities>
+    <cities>
+      <id>149272</id>
+      <name>YangZhou</name>
+      <latitude>32.39463000</latitude>
+      <longitude>119.43157000</longitude>
     </cities>
     <cities>
       <id>20350</id>
@@ -119233,13 +119305,13 @@
       <longitude>118.41191000</longitude>
     </cities>
     <cities>
-      <id>149214</id>
+      <id>149236</id>
       <name>Zhaoguli</name>
       <latitude>39.16673000</latitude>
       <longitude>117.24191000</longitude>
     </cities>
     <cities>
-      <id>149236</id>
+      <id>149214</id>
       <name>Zhaoguli</name>
       <latitude>39.16673000</latitude>
       <longitude>117.24191000</longitude>
@@ -119297,6 +119369,12 @@
       <name>Zhenjiang</name>
       <latitude>32.21086000</latitude>
       <longitude>119.45508000</longitude>
+    </cities>
+    <cities>
+      <id>149273</id>
+      <name>ZhenJiang</name>
+      <latitude>32.13188000</latitude>
+      <longitude>119.43396000</longitude>
     </cities>
     <cities>
       <id>20442</id>

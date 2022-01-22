@@ -4901,17 +4901,8 @@
     <cities/>
   </state_city>
   <state_city>
-    <id>4880</id>
-    <name>Autonomous City Of Buenos Aires</name>
-    <state_code>C</state_code>
-    <latitude>-34.60368440</latitude>
-    <longitude>-58.38155910</longitude>
-    <country_id>11</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
     <id>3656</id>
-    <name>Buenos Aires Province</name>
+    <name>Buenos Aires</name>
     <state_code>B</state_code>
     <latitude>-37.20172850</latitude>
     <longitude>-59.84106970</longitude>
@@ -4979,7 +4970,7 @@
   </state_city>
   <state_city>
     <id>3647</id>
-    <name>Catamarca Province</name>
+    <name>Catamarca</name>
     <state_code>K</state_code>
     <latitude>-28.47158770</latitude>
     <longitude>-65.78772090</longitude>
@@ -5197,7 +5188,7 @@
   </state_city>
   <state_city>
     <id>3640</id>
-    <name>Chaco Province</name>
+    <name>Chaco</name>
     <state_code>H</state_code>
     <latitude>-27.42571750</latitude>
     <longitude>-59.02437840</longitude>
@@ -5649,7 +5640,7 @@
   </state_city>
   <state_city>
     <id>3651</id>
-    <name>Chubut Province</name>
+    <name>Chubut</name>
     <state_code>U</state_code>
     <latitude>-43.29342460</latitude>
     <longitude>-65.11148180</longitude>
@@ -5878,11 +5869,20 @@
     </cities>
   </state_city>
   <state_city>
+    <id>4880</id>
+    <name>Ciudad Autónoma de Buenos Aires</name>
+    <state_code>C</state_code>
+    <latitude>-34.60368440</latitude>
+    <longitude>-58.38155910</longitude>
+    <country_id>11</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
     <id>3642</id>
-    <name>Córdoba Province</name>
+    <name>Córdoba</name>
     <state_code>X</state_code>
-    <latitude></latitude>
-    <longitude></longitude>
+    <latitude>-31.39928760</latitude>
+    <longitude>-64.26438420</longitude>
     <country_id>11</country_id>
     <cities>
       <id>639</id>
@@ -7461,7 +7461,7 @@
   </state_city>
   <state_city>
     <id>3654</id>
-    <name>Entre Ríos Province</name>
+    <name>Entre Ríos</name>
     <state_code>E</state_code>
     <latitude>-31.77466540</latitude>
     <longitude>-60.49564610</longitude>
@@ -7859,7 +7859,7 @@
   </state_city>
   <state_city>
     <id>3652</id>
-    <name>Formosa Province</name>
+    <name>Formosa</name>
     <state_code>P</state_code>
     <latitude>-26.18948040</latitude>
     <longitude>-58.22428060</longitude>
@@ -7987,7 +7987,7 @@
   </state_city>
   <state_city>
     <id>3645</id>
-    <name>Jujuy Province</name>
+    <name>Jujuy</name>
     <state_code>Y</state_code>
     <latitude>-24.18433970</latitude>
     <longitude>-65.30217700</longitude>
@@ -8363,7 +8363,7 @@
   </state_city>
   <state_city>
     <id>3653</id>
-    <name>La Rioja Province</name>
+    <name>La Rioja</name>
     <state_code>F</state_code>
     <latitude>-29.41937930</latitude>
     <longitude>-66.85599320</longitude>
@@ -8571,7 +8571,7 @@
   </state_city>
   <state_city>
     <id>3644</id>
-    <name>Misiones Province</name>
+    <name>Misiones</name>
     <state_code>N</state_code>
     <latitude>-27.42692550</latitude>
     <longitude>-55.94670760</longitude>
@@ -8999,7 +8999,7 @@
   </state_city>
   <state_city>
     <id>3648</id>
-    <name>Neuquén Province</name>
+    <name>Neuquén</name>
     <state_code>Q</state_code>
     <latitude>-38.94587000</latitude>
     <longitude>-68.07309250</longitude>
@@ -9211,7 +9211,7 @@
   </state_city>
   <state_city>
     <id>3639</id>
-    <name>Río Negro Province</name>
+    <name>Río Negro</name>
     <state_code>R</state_code>
     <latitude>-40.82614340</latitude>
     <longitude>-63.02663390</longitude>
@@ -9441,7 +9441,7 @@
   </state_city>
   <state_city>
     <id>3643</id>
-    <name>Salta Province</name>
+    <name>Salta</name>
     <state_code>A</state_code>
     <latitude>-24.79976880</latitude>
     <longitude>-65.41503670</longitude>
@@ -9647,10 +9647,10 @@
   </state_city>
   <state_city>
     <id>3634</id>
-    <name>San Juan Province</name>
+    <name>San Juan</name>
     <state_code>J</state_code>
-    <latitude></latitude>
-    <longitude></longitude>
+    <latitude>-31.53169760</latitude>
+    <longitude>-68.56769620</longitude>
     <country_id>11</country_id>
     <cities>
       <id>644</id>
@@ -9829,7 +9829,7 @@
   </state_city>
   <state_city>
     <id>3636</id>
-    <name>San Luis Province</name>
+    <name>San Luis</name>
     <state_code>D</state_code>
     <latitude>-33.29620420</latitude>
     <longitude>-66.32949480</longitude>
@@ -9939,7 +9939,7 @@
   </state_city>
   <state_city>
     <id>3649</id>
-    <name>Santa Cruz Province</name>
+    <name>Santa Cruz</name>
     <state_code>Z</state_code>
     <latitude>-51.63528210</latitude>
     <longitude>-69.24743530</longitude>
@@ -10067,7 +10067,7 @@
   </state_city>
   <state_city>
     <id>3641</id>
-    <name>Santa Fe Province</name>
+    <name>Santa Fe</name>
     <state_code>S</state_code>
     <latitude>-31.58551090</latitude>
     <longitude>-60.72380160</longitude>
@@ -10495,7 +10495,7 @@
   </state_city>
   <state_city>
     <id>3635</id>
-    <name>Santiago del Estero Province</name>
+    <name>Santiago del Estero</name>
     <state_code>G</state_code>
     <latitude>-27.78335740</latitude>
     <longitude>-64.26416700</longitude>
@@ -10683,7 +10683,7 @@
   </state_city>
   <state_city>
     <id>3650</id>
-    <name>Tierra del Fuego Province</name>
+    <name>Tierra del Fuego</name>
     <state_code>V</state_code>
     <latitude>-54.80539980</latitude>
     <longitude>-68.32420610</longitude>
@@ -10709,7 +10709,7 @@
   </state_city>
   <state_city>
     <id>3637</id>
-    <name>Tucumán Province</name>
+    <name>Tucumán</name>
     <state_code>T</state_code>
     <latitude>-26.82211270</latitude>
     <longitude>-65.21929030</longitude>
@@ -120452,7 +120452,84 @@
     <latitude>33.14017150</latitude>
     <longitude>119.78892480</longitude>
     <country_id>45</country_id>
-    <cities/>
+    <cities>
+      <id>149266</id>
+      <name>ChangZhou</name>
+      <latitude>31.72322000</latitude>
+      <longitude>119.59794000</longitude>
+    </cities>
+    <cities>
+      <id>149270</id>
+      <name>HuaiAn</name>
+      <latitude>33.29433000</latitude>
+      <longitude>118.87350000</longitude>
+    </cities>
+    <cities>
+      <id>149269</id>
+      <name>LianYunGang</name>
+      <latitude>34.84065000</latitude>
+      <longitude>119.17730000</longitude>
+    </cities>
+    <cities>
+      <id>149263</id>
+      <name>NanJing</name>
+      <latitude>31.32751000</latitude>
+      <longitude>118.89210000</longitude>
+    </cities>
+    <cities>
+      <id>149268</id>
+      <name>NanTong</name>
+      <latitude>32.00986000</latitude>
+      <longitude>120.85737000</longitude>
+    </cities>
+    <cities>
+      <id>149275</id>
+      <name>SuQian</name>
+      <latitude>33.96271000</latitude>
+      <longitude>118.24239000</longitude>
+    </cities>
+    <cities>
+      <id>149267</id>
+      <name>SuZhou</name>
+      <latitude>31.30227000</latitude>
+      <longitude>120.63132000</longitude>
+    </cities>
+    <cities>
+      <id>149274</id>
+      <name>TaiZhou</name>
+      <latitude>32.31841000</latitude>
+      <longitude>119.88116000</longitude>
+    </cities>
+    <cities>
+      <id>149264</id>
+      <name>WuXi</name>
+      <latitude>31.52853000</latitude>
+      <longitude>120.28429000</longitude>
+    </cities>
+    <cities>
+      <id>149265</id>
+      <name>XuZhou</name>
+      <latitude>34.28823000</latitude>
+      <longitude>117.18554000</longitude>
+    </cities>
+    <cities>
+      <id>149271</id>
+      <name>YanCheng</name>
+      <latitude>33.20107000</latitude>
+      <longitude>120.50102000</longitude>
+    </cities>
+    <cities>
+      <id>149272</id>
+      <name>YangZhou</name>
+      <latitude>32.39463000</latitude>
+      <longitude>119.43157000</longitude>
+    </cities>
+    <cities>
+      <id>149273</id>
+      <name>ZhenJiang</name>
+      <latitude>32.13188000</latitude>
+      <longitude>119.43396000</longitude>
+    </cities>
   </state_city>
   <state_city>
     <id>2256</id>

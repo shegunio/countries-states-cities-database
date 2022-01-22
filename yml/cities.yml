@@ -6988,7 +6988,7 @@ city:
     name: Balvanera
     state_id: 3656
     state_code: B
-    state_name: 'Buenos Aires Province'
+    state_name: 'Buenos Aires'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7000,7 +7000,7 @@ city:
     name: Barracas
     state_id: 3656
     state_code: B
-    state_name: 'Buenos Aires Province'
+    state_name: 'Buenos Aires'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7012,7 +7012,7 @@ city:
     name: Belgrano
     state_id: 3656
     state_code: B
-    state_name: 'Buenos Aires Province'
+    state_name: 'Buenos Aires'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7024,7 +7024,7 @@ city:
     name: Boedo
     state_id: 3656
     state_code: B
-    state_name: 'Buenos Aires Province'
+    state_name: 'Buenos Aires'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7036,7 +7036,7 @@ city:
     name: 'Buenos Aires'
     state_id: 3656
     state_code: B
-    state_name: 'Buenos Aires Province'
+    state_name: 'Buenos Aires'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7048,7 +7048,7 @@ city:
     name: Colegiales
     state_id: 3656
     state_code: B
-    state_name: 'Buenos Aires Province'
+    state_name: 'Buenos Aires'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7060,7 +7060,7 @@ city:
     name: Retiro
     state_id: 3656
     state_code: B
-    state_name: 'Buenos Aires Province'
+    state_name: 'Buenos Aires'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7072,7 +7072,7 @@ city:
     name: 'Villa Lugano'
     state_id: 3656
     state_code: B
-    state_name: 'Buenos Aires Province'
+    state_name: 'Buenos Aires'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7084,7 +7084,7 @@ city:
     name: 'Villa Ortúzar'
     state_id: 3656
     state_code: B
-    state_name: 'Buenos Aires Province'
+    state_name: 'Buenos Aires'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7096,7 +7096,7 @@ city:
     name: 'Villa Santa Rita'
     state_id: 3656
     state_code: B
-    state_name: 'Buenos Aires Province'
+    state_name: 'Buenos Aires'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7108,7 +7108,7 @@ city:
     name: Ancasti
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7120,7 +7120,7 @@ city:
     name: Andalgalá
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7132,7 +7132,7 @@ city:
     name: 'Antofagasta de la Sierra'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7144,7 +7144,7 @@ city:
     name: Capayán
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7156,7 +7156,7 @@ city:
     name: 'Departamento de Ambato'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7168,7 +7168,7 @@ city:
     name: 'Departamento de Ancasti'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7180,7 +7180,7 @@ city:
     name: 'Departamento de Andalgalá'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7192,7 +7192,7 @@ city:
     name: 'Departamento de Antofagasta de la Sierra'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7204,7 +7204,7 @@ city:
     name: 'Departamento de Capayán'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7216,7 +7216,7 @@ city:
     name: 'Departamento de Capital'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7228,7 +7228,7 @@ city:
     name: 'Departamento de El Alto'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7240,7 +7240,7 @@ city:
     name: 'Departamento de Fray Mamerto Esquiú'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7252,7 +7252,7 @@ city:
     name: 'Departamento de La Paz'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7264,7 +7264,7 @@ city:
     name: 'Departamento de Pomán'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7276,7 +7276,7 @@ city:
     name: 'Departamento de Santa María'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7288,7 +7288,7 @@ city:
     name: 'Departamento de Santa Rosa'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7300,7 +7300,7 @@ city:
     name: 'Departamento de Tinogasta'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7312,7 +7312,7 @@ city:
     name: 'Departamento de Valle Viejo'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7324,7 +7324,7 @@ city:
     name: 'El Rodeo'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7336,7 +7336,7 @@ city:
     name: Fiambalá
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7348,7 +7348,7 @@ city:
     name: Hualfín
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7360,7 +7360,7 @@ city:
     name: Huillapima
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7372,7 +7372,7 @@ city:
     name: Icaño
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7384,7 +7384,7 @@ city:
     name: 'La Puerta de San José'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7396,7 +7396,7 @@ city:
     name: Londres
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7408,7 +7408,7 @@ city:
     name: 'Los Altos'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7420,7 +7420,7 @@ city:
     name: 'Los Varela'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7432,7 +7432,7 @@ city:
     name: Mutquín
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7444,7 +7444,7 @@ city:
     name: Pomán
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7456,7 +7456,7 @@ city:
     name: 'Puerta de Corral Quemado'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7468,7 +7468,7 @@ city:
     name: Recreo
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7480,7 +7480,7 @@ city:
     name: 'San Antonio'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7492,7 +7492,7 @@ city:
     name: 'San Fernando del Valle de Catamarca'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7504,7 +7504,7 @@ city:
     name: 'Santa María'
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7516,7 +7516,7 @@ city:
     name: Tinogasta
     state_id: 3647
     state_code: K
-    state_name: 'Catamarca Province'
+    state_name: Catamarca
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7528,7 +7528,7 @@ city:
     name: 'Aviá Terai'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7540,7 +7540,7 @@ city:
     name: Barranqueras
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7552,7 +7552,7 @@ city:
     name: Basail
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7564,7 +7564,7 @@ city:
     name: 'Campo Largo'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7576,7 +7576,7 @@ city:
     name: 'Capitán Solari'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7588,7 +7588,7 @@ city:
     name: Castelli
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7600,7 +7600,7 @@ city:
     name: Charadai
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7612,7 +7612,7 @@ city:
     name: Charata
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7624,7 +7624,7 @@ city:
     name: Chorotis
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7636,7 +7636,7 @@ city:
     name: 'Ciervo Petiso'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7648,7 +7648,7 @@ city:
     name: 'Colonia Benítez'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7660,7 +7660,7 @@ city:
     name: 'Colonia Elisa'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7672,7 +7672,7 @@ city:
     name: 'Colonias Unidas'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7684,7 +7684,7 @@ city:
     name: 'Concepción del Bermejo'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7696,7 +7696,7 @@ city:
     name: 'Coronel Du Graty'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7708,7 +7708,7 @@ city:
     name: Corzuela
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7720,7 +7720,7 @@ city:
     name: Coté-Lai
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7732,7 +7732,7 @@ city:
     name: 'Departamento de Almirante Brown'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7744,7 +7744,7 @@ city:
     name: 'Departamento de Bermejo'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7756,7 +7756,7 @@ city:
     name: 'Departamento de Comandante Fernández'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7768,7 +7768,7 @@ city:
     name: 'Departamento de Doce de Octubre'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7780,7 +7780,7 @@ city:
     name: 'Departamento de Dos de Abril'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7792,7 +7792,7 @@ city:
     name: 'Departamento de General Donovan'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7804,7 +7804,7 @@ city:
     name: 'Departamento de General Güemes'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7816,7 +7816,7 @@ city:
     name: 'Departamento de Independencia'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7828,7 +7828,7 @@ city:
     name: 'Departamento de Libertad'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7840,7 +7840,7 @@ city:
     name: 'Departamento de Maipú'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7852,7 +7852,7 @@ city:
     name: 'Departamento de Nueve de Julio'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7864,7 +7864,7 @@ city:
     name: 'Departamento de O’Higgins'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7876,7 +7876,7 @@ city:
     name: 'Departamento de Presidencia de la Plaza'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7888,7 +7888,7 @@ city:
     name: 'Departamento de Quitilipi'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7900,7 +7900,7 @@ city:
     name: 'Departamento de San Fernando'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7912,7 +7912,7 @@ city:
     name: 'Departamento de San Lorenzo'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7924,7 +7924,7 @@ city:
     name: 'Departamento de Sargento Cabral'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7936,7 +7936,7 @@ city:
     name: 'Departamento de Tapenagá'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7948,7 +7948,7 @@ city:
     name: Fontana
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7960,7 +7960,7 @@ city:
     name: Gancedo
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7972,7 +7972,7 @@ city:
     name: 'General José de San Martín'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7984,7 +7984,7 @@ city:
     name: 'General Pinedo'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -7996,7 +7996,7 @@ city:
     name: 'General Vedia'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8008,7 +8008,7 @@ city:
     name: 'Hermoso Campo'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8020,7 +8020,7 @@ city:
     name: 'La Clotilde'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8032,7 +8032,7 @@ city:
     name: 'La Eduvigis'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8044,7 +8044,7 @@ city:
     name: 'La Escondida'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8056,7 +8056,7 @@ city:
     name: 'La Leonesa'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8068,7 +8068,7 @@ city:
     name: 'La Tigra'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8080,7 +8080,7 @@ city:
     name: 'La Verde'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8092,7 +8092,7 @@ city:
     name: 'Laguna Limpia'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8104,7 +8104,7 @@ city:
     name: Lapachito
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8116,7 +8116,7 @@ city:
     name: 'Las Breñas'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8128,7 +8128,7 @@ city:
     name: 'Las Garcitas'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8140,7 +8140,7 @@ city:
     name: 'Los Frentones'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8152,7 +8152,7 @@ city:
     name: Machagai
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8164,7 +8164,7 @@ city:
     name: Makallé
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8176,7 +8176,7 @@ city:
     name: 'Margarita Belén'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8188,7 +8188,7 @@ city:
     name: Napenay
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8200,7 +8200,7 @@ city:
     name: 'Pampa Almirón'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8212,7 +8212,7 @@ city:
     name: 'Pampa del Indio'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8224,7 +8224,7 @@ city:
     name: 'Pampa del Infierno'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8236,7 +8236,7 @@ city:
     name: 'Presidencia de la Plaza'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8248,7 +8248,7 @@ city:
     name: 'Presidencia Roca'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8260,7 +8260,7 @@ city:
     name: 'Presidencia Roque Sáenz Peña'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8272,7 +8272,7 @@ city:
     name: 'Puerto Bermejo'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8284,7 +8284,7 @@ city:
     name: 'Puerto Tirol'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8296,7 +8296,7 @@ city:
     name: 'Puerto Vilelas'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8308,7 +8308,7 @@ city:
     name: Quitilipi
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8320,7 +8320,7 @@ city:
     name: Resistencia
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8332,7 +8332,7 @@ city:
     name: Samuhú
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8344,7 +8344,7 @@ city:
     name: 'San Bernardo'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8356,7 +8356,7 @@ city:
     name: 'Santa Sylvina'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8368,7 +8368,7 @@ city:
     name: 'Taco Pozo'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8380,7 +8380,7 @@ city:
     name: 'Tres Isletas'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8392,7 +8392,7 @@ city:
     name: 'Villa Ángela'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8404,7 +8404,7 @@ city:
     name: 'Villa Berthet'
     state_id: 3640
     state_code: H
-    state_name: 'Chaco Province'
+    state_name: Chaco
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8416,7 +8416,7 @@ city:
     name: 'Alto Río Senguer'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8428,7 +8428,7 @@ city:
     name: Camarones
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8440,7 +8440,7 @@ city:
     name: 'Comodoro Rivadavia'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8452,7 +8452,7 @@ city:
     name: 'Departamento de Biedma'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8464,7 +8464,7 @@ city:
     name: 'Departamento de Cushamen'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8476,7 +8476,7 @@ city:
     name: 'Departamento de Escalante'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8488,7 +8488,7 @@ city:
     name: 'Departamento de Florentino Ameghino'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8500,7 +8500,7 @@ city:
     name: 'Departamento de Futaleufú'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8512,7 +8512,7 @@ city:
     name: 'Departamento de Gaimán'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8524,7 +8524,7 @@ city:
     name: 'Departamento de Gastre'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8536,7 +8536,7 @@ city:
     name: 'Departamento de Languiñeo'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8548,7 +8548,7 @@ city:
     name: 'Departamento de Mártires'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8560,7 +8560,7 @@ city:
     name: 'Departamento de Paso de Indios'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8572,7 +8572,7 @@ city:
     name: 'Departamento de Rawson'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8584,7 +8584,7 @@ city:
     name: 'Departamento de Río Senguerr'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8596,7 +8596,7 @@ city:
     name: 'Departamento de Sarmiento'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8608,7 +8608,7 @@ city:
     name: 'Departamento de Tehuelches'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8620,7 +8620,7 @@ city:
     name: 'Departamento de Telsen'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8632,7 +8632,7 @@ city:
     name: Dolavón
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8644,7 +8644,7 @@ city:
     name: 'El Maitén'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8656,7 +8656,7 @@ city:
     name: Esquel
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8668,7 +8668,7 @@ city:
     name: Gaimán
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8680,7 +8680,7 @@ city:
     name: Gastre
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8692,7 +8692,7 @@ city:
     name: 'Gobernador Costa'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8704,7 +8704,7 @@ city:
     name: 'Hoyo de Epuyén'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8716,7 +8716,7 @@ city:
     name: 'José de San Martín'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8728,7 +8728,7 @@ city:
     name: 'Lago Puelo'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8740,7 +8740,7 @@ city:
     name: 'Las Plumas'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8752,7 +8752,7 @@ city:
     name: 'Puerto Madryn'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8764,7 +8764,7 @@ city:
     name: 'Rada Tilly'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8776,7 +8776,7 @@ city:
     name: Rawson
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8788,7 +8788,7 @@ city:
     name: 'Río Mayo'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8800,7 +8800,7 @@ city:
     name: 'Río Pico'
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8812,7 +8812,7 @@ city:
     name: Sarmiento
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8824,7 +8824,7 @@ city:
     name: Tecka
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8836,7 +8836,7 @@ city:
     name: Trelew
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8848,7 +8848,7 @@ city:
     name: Trevelin
     state_id: 3651
     state_code: U
-    state_name: 'Chubut Province'
+    state_name: Chubut
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8860,7 +8860,7 @@ city:
     name: Achiras
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8872,7 +8872,7 @@ city:
     name: 'Adelia María'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8884,7 +8884,7 @@ city:
     name: 'Agua de Oro'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8896,7 +8896,7 @@ city:
     name: 'Alejandro Roca'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8908,7 +8908,7 @@ city:
     name: 'Alejo Ledesma'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8920,7 +8920,7 @@ city:
     name: Almafuerte
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8932,7 +8932,7 @@ city:
     name: 'Alta Gracia'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8944,7 +8944,7 @@ city:
     name: 'Altos de Chipión'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8956,7 +8956,7 @@ city:
     name: Arias
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8968,7 +8968,7 @@ city:
     name: Arroyito
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8980,7 +8980,7 @@ city:
     name: 'Arroyo Cabral'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -8992,7 +8992,7 @@ city:
     name: Balnearia
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9004,7 +9004,7 @@ city:
     name: 'Bell Ville'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9016,7 +9016,7 @@ city:
     name: Berrotarán
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9028,7 +9028,7 @@ city:
     name: Brinkmann
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9040,7 +9040,7 @@ city:
     name: Buchardo
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9052,7 +9052,7 @@ city:
     name: 'Camilo Aldao'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9064,7 +9064,7 @@ city:
     name: 'Cañada de Luque'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9076,7 +9076,7 @@ city:
     name: Canals
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9088,7 +9088,7 @@ city:
     name: 'Capilla del Monte'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9100,7 +9100,7 @@ city:
     name: Carnerillo
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9112,7 +9112,7 @@ city:
     name: Carrilobo
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9124,7 +9124,7 @@ city:
     name: Cavanagh
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9136,7 +9136,7 @@ city:
     name: Charras
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9148,7 +9148,7 @@ city:
     name: Chazón
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9160,7 +9160,7 @@ city:
     name: Cintra
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9172,7 +9172,7 @@ city:
     name: 'Colonia La Tordilla'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9184,7 +9184,7 @@ city:
     name: 'Colonia San Bartolomé'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9196,7 +9196,7 @@ city:
     name: Córdoba
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9208,7 +9208,7 @@ city:
     name: 'Coronel Baigorria'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9220,7 +9220,7 @@ city:
     name: 'Coronel Moldes'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9232,7 +9232,7 @@ city:
     name: 'Corral de Bustos'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9244,7 +9244,7 @@ city:
     name: Corralito
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9256,7 +9256,7 @@ city:
     name: Cosquín
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9268,7 +9268,7 @@ city:
     name: 'Costa Sacate'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9280,7 +9280,7 @@ city:
     name: 'Cruz Alta'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9292,7 +9292,7 @@ city:
     name: 'Cruz del Eje'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9304,7 +9304,7 @@ city:
     name: 'Cuesta Blanca'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9316,7 +9316,7 @@ city:
     name: 'Dalmacio Vélez Sársfield'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9328,7 +9328,7 @@ city:
     name: 'Deán Funes'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9340,7 +9340,7 @@ city:
     name: 'Del Campillo'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9352,7 +9352,7 @@ city:
     name: 'Departamento de Calamuchita'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9364,7 +9364,7 @@ city:
     name: 'Departamento de Colón'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9376,7 +9376,7 @@ city:
     name: 'Departamento de Cruz del Eje'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9388,7 +9388,7 @@ city:
     name: 'Departamento de General Roca'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9400,7 +9400,7 @@ city:
     name: 'Departamento de General San Martín'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9412,7 +9412,7 @@ city:
     name: 'Departamento de Juárez Celman'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9424,7 +9424,7 @@ city:
     name: 'Departamento de Marcos Juárez'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9436,7 +9436,7 @@ city:
     name: 'Departamento de Minas'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9448,7 +9448,7 @@ city:
     name: 'Departamento de Presidente Roque Sáenz Peña'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9460,7 +9460,7 @@ city:
     name: 'Departamento de Río Cuarto'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9472,7 +9472,7 @@ city:
     name: 'Departamento de Río Primero'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9484,7 +9484,7 @@ city:
     name: 'Departamento de Río Seco'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9496,7 +9496,7 @@ city:
     name: 'Departamento de Río Segundo'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9508,7 +9508,7 @@ city:
     name: 'Departamento de San Alberto'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9520,7 +9520,7 @@ city:
     name: 'Departamento de San Javier'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9532,7 +9532,7 @@ city:
     name: 'Departamento de San Justo'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9544,7 +9544,7 @@ city:
     name: 'Departamento de Sobremonte'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9556,7 +9556,7 @@ city:
     name: 'Departamento de Totoral'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9568,7 +9568,7 @@ city:
     name: 'Departamento de Tulumba'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9580,7 +9580,7 @@ city:
     name: 'Departamento de Unión'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9592,7 +9592,7 @@ city:
     name: Despeñaderos
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9604,7 +9604,7 @@ city:
     name: Devoto
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9616,7 +9616,7 @@ city:
     name: 'El Arañado'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9628,7 +9628,7 @@ city:
     name: 'El Tío'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9640,7 +9640,7 @@ city:
     name: Elena
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9652,7 +9652,7 @@ city:
     name: Embalse
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9664,7 +9664,7 @@ city:
     name: Etruria
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9676,7 +9676,7 @@ city:
     name: 'General Baldissera'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9688,7 +9688,7 @@ city:
     name: 'General Cabrera'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9700,7 +9700,7 @@ city:
     name: 'General Levalle'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9712,7 +9712,7 @@ city:
     name: 'General Roca'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9724,7 +9724,7 @@ city:
     name: Guatimozín
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9736,7 +9736,7 @@ city:
     name: Hernando
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9748,7 +9748,7 @@ city:
     name: Huanchillas
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9760,7 +9760,7 @@ city:
     name: 'Huerta Grande'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9772,7 +9772,7 @@ city:
     name: 'Huinca Renancó'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9784,7 +9784,7 @@ city:
     name: Idiazábal
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9796,7 +9796,7 @@ city:
     name: Inriville
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9808,7 +9808,7 @@ city:
     name: 'Isla Verde'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9820,7 +9820,7 @@ city:
     name: Italó
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9832,7 +9832,7 @@ city:
     name: 'James Craik'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9844,7 +9844,7 @@ city:
     name: 'Jesús María'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9856,7 +9856,7 @@ city:
     name: 'Justiniano Posse'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9868,7 +9868,7 @@ city:
     name: 'La Calera'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9880,7 +9880,7 @@ city:
     name: 'La Carlota'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9892,7 +9892,7 @@ city:
     name: 'La Cesira'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9904,7 +9904,7 @@ city:
     name: 'La Cumbre'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9916,7 +9916,7 @@ city:
     name: 'La Falda'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9928,7 +9928,7 @@ city:
     name: 'La Francia'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9940,7 +9940,7 @@ city:
     name: 'La Granja'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9952,7 +9952,7 @@ city:
     name: 'La Para'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9964,7 +9964,7 @@ city:
     name: 'La Playosa'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9976,7 +9976,7 @@ city:
     name: Laborde
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -9988,7 +9988,7 @@ city:
     name: Laboulaye
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10000,7 +10000,7 @@ city:
     name: 'Laguna Larga'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10012,7 +10012,7 @@ city:
     name: 'Las Acequias'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10024,7 +10024,7 @@ city:
     name: 'Las Higueras'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10036,7 +10036,7 @@ city:
     name: 'Las Junturas'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10048,7 +10048,7 @@ city:
     name: 'Las Perdices'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10060,7 +10060,7 @@ city:
     name: 'Las Varas'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10072,7 +10072,7 @@ city:
     name: 'Las Varillas'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10084,7 +10084,7 @@ city:
     name: Leones
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10096,7 +10096,7 @@ city:
     name: 'Los Cocos'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10108,7 +10108,7 @@ city:
     name: 'Los Cóndores'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10120,7 +10120,7 @@ city:
     name: 'Los Surgentes'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10132,7 +10132,7 @@ city:
     name: Malagueño
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10144,7 +10144,7 @@ city:
     name: 'Malvinas Argentinas'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10156,7 +10156,7 @@ city:
     name: 'Marcos Juárez'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10168,7 +10168,7 @@ city:
     name: Marull
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10180,7 +10180,7 @@ city:
     name: Mattaldi
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10192,7 +10192,7 @@ city:
     name: Mendiolaza
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10204,7 +10204,7 @@ city:
     name: 'Mina Clavero'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10216,7 +10216,7 @@ city:
     name: Miramar
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10228,7 +10228,7 @@ city:
     name: 'Monte Buey'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10240,7 +10240,7 @@ city:
     name: 'Monte Cristo'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10252,7 +10252,7 @@ city:
     name: 'Monte Maíz'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10264,7 +10264,7 @@ city:
     name: Morrison
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10276,7 +10276,7 @@ city:
     name: Morteros
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10288,7 +10288,7 @@ city:
     name: Noetinger
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10300,7 +10300,7 @@ city:
     name: 'Obispo Trejo'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10312,7 +10312,7 @@ city:
     name: Oliva
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10324,7 +10324,7 @@ city:
     name: Oncativo
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10336,7 +10336,7 @@ city:
     name: Ordóñez
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10348,7 +10348,7 @@ city:
     name: Pascanas
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10360,7 +10360,7 @@ city:
     name: Pasco
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10372,7 +10372,7 @@ city:
     name: Pilar
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10384,7 +10384,7 @@ city:
     name: Piquillín
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10396,7 +10396,7 @@ city:
     name: Porteña
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10408,7 +10408,7 @@ city:
     name: 'Pozo del Molle'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10420,7 +10420,7 @@ city:
     name: Quilino
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10432,7 +10432,7 @@ city:
     name: 'Río Ceballos'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10444,7 +10444,7 @@ city:
     name: 'Río Cuarto'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10456,7 +10456,7 @@ city:
     name: 'Río Segundo'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10468,7 +10468,7 @@ city:
     name: 'Río Tercero'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10480,7 +10480,7 @@ city:
     name: Sacanta
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10492,7 +10492,7 @@ city:
     name: Saldán
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10504,7 +10504,7 @@ city:
     name: Salsacate
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10516,7 +10516,7 @@ city:
     name: Salsipuedes
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10528,7 +10528,7 @@ city:
     name: Sampacho
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10540,7 +10540,7 @@ city:
     name: 'San Agustín'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10552,7 +10552,7 @@ city:
     name: 'San Antonio de Litín'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10564,7 +10564,7 @@ city:
     name: 'San Basilio'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10576,7 +10576,7 @@ city:
     name: 'San Carlos'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10588,7 +10588,7 @@ city:
     name: 'San Francisco'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10600,7 +10600,7 @@ city:
     name: 'San Francisco del Chañar'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10612,7 +10612,7 @@ city:
     name: 'San José de la Dormida'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10624,7 +10624,7 @@ city:
     name: 'Santa Eufemia'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10636,7 +10636,7 @@ city:
     name: 'Santa Magdalena'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10648,7 +10648,7 @@ city:
     name: 'Santa Rosa de Calamuchita'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10660,7 +10660,7 @@ city:
     name: 'Santa Rosa de Río Primero'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10672,7 +10672,7 @@ city:
     name: 'Santiago Temple'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10684,7 +10684,7 @@ city:
     name: 'Saturnino M. Laspiur'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10696,7 +10696,7 @@ city:
     name: 'Sebastián Elcano'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10708,7 +10708,7 @@ city:
     name: Serrano
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10720,7 +10720,7 @@ city:
     name: Serrezuela
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10732,7 +10732,7 @@ city:
     name: Tancacha
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10744,7 +10744,7 @@ city:
     name: Ticino
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10756,7 +10756,7 @@ city:
     name: 'Tío Pujio'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10768,7 +10768,7 @@ city:
     name: Toledo
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10780,7 +10780,7 @@ city:
     name: Ucacha
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10792,7 +10792,7 @@ city:
     name: Unquillo
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10804,7 +10804,7 @@ city:
     name: 'Valle Hermoso'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10816,7 +10816,7 @@ city:
     name: Viamonte
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10828,7 +10828,7 @@ city:
     name: 'Vicuña Mackenna'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10840,7 +10840,7 @@ city:
     name: 'Villa Allende'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10852,7 +10852,7 @@ city:
     name: 'Villa Ascasubi'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10864,7 +10864,7 @@ city:
     name: 'Villa Berna'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10876,7 +10876,7 @@ city:
     name: 'Villa Carlos Paz'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10888,7 +10888,7 @@ city:
     name: 'Villa Concepción del Tío'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10900,7 +10900,7 @@ city:
     name: 'Villa Cura Brochero'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10912,7 +10912,7 @@ city:
     name: 'Villa de Soto'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10924,7 +10924,7 @@ city:
     name: 'Villa del Dique'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10936,7 +10936,7 @@ city:
     name: 'Villa del Rosario'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10948,7 +10948,7 @@ city:
     name: 'Villa del Totoral'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10960,7 +10960,7 @@ city:
     name: 'Villa Dolores'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10972,7 +10972,7 @@ city:
     name: 'Villa General Belgrano'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10984,7 +10984,7 @@ city:
     name: 'Villa Giardino'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -10996,7 +10996,7 @@ city:
     name: 'Villa Huidobro'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -11008,7 +11008,7 @@ city:
     name: 'Villa Las Rosas'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -11020,7 +11020,7 @@ city:
     name: 'Villa María'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -11032,7 +11032,7 @@ city:
     name: 'Villa Nueva'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -11044,7 +11044,7 @@ city:
     name: 'Villa Reducción'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -11056,7 +11056,7 @@ city:
     name: 'Villa Rumipal'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -11068,7 +11068,7 @@ city:
     name: 'Villa Tulumba'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -11080,7 +11080,7 @@ city:
     name: 'Villa Valeria'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -11092,7 +11092,7 @@ city:
     name: 'Wenceslao Escalante'
     state_id: 3642
     state_code: X
-    state_name: 'Córdoba Province'
+    state_name: Córdoba
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -11992,7 +11992,7 @@ city:
     name: 'Aldea San Antonio'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12004,7 +12004,7 @@ city:
     name: Aranguren
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12016,7 +12016,7 @@ city:
     name: Bovril
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12028,7 +12028,7 @@ city:
     name: Caseros
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12040,7 +12040,7 @@ city:
     name: Ceibas
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12052,7 +12052,7 @@ city:
     name: Chajarí
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12064,7 +12064,7 @@ city:
     name: Colón
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12076,7 +12076,7 @@ city:
     name: 'Colonia Elía'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12088,7 +12088,7 @@ city:
     name: 'Concepción del Uruguay'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12100,7 +12100,7 @@ city:
     name: Concordia
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12112,7 +12112,7 @@ city:
     name: 'Conscripto Bernardi'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12124,7 +12124,7 @@ city:
     name: Crespo
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12136,7 +12136,7 @@ city:
     name: 'Departamento de Gualeguaychú'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12148,7 +12148,7 @@ city:
     name: 'Departamento de Paraná'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12160,7 +12160,7 @@ city:
     name: Diamante
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12172,7 +12172,7 @@ city:
     name: Domínguez
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12184,7 +12184,7 @@ city:
     name: Federación
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12196,7 +12196,7 @@ city:
     name: Federal
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12208,7 +12208,7 @@ city:
     name: 'General Campos'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12220,7 +12220,7 @@ city:
     name: 'General Galarza'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12232,7 +12232,7 @@ city:
     name: 'General Ramírez'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12244,7 +12244,7 @@ city:
     name: 'Gobernador Mansilla'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12256,7 +12256,7 @@ city:
     name: Gualeguay
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12268,7 +12268,7 @@ city:
     name: Gualeguaychú
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12280,7 +12280,7 @@ city:
     name: Hasenkamp
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12292,7 +12292,7 @@ city:
     name: Hernández
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12304,7 +12304,7 @@ city:
     name: Herrera
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12316,7 +12316,7 @@ city:
     name: 'La Criolla'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12328,7 +12328,7 @@ city:
     name: 'La Paz'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12340,7 +12340,7 @@ city:
     name: Larroque
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12352,7 +12352,7 @@ city:
     name: 'Los Charrúas'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12364,7 +12364,7 @@ city:
     name: 'Los Conquistadores'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12376,7 +12376,7 @@ city:
     name: 'Lucas González'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12388,7 +12388,7 @@ city:
     name: Maciá
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12400,7 +12400,7 @@ city:
     name: Nogoyá
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12412,7 +12412,7 @@ city:
     name: 'Oro Verde'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12424,7 +12424,7 @@ city:
     name: Paraná
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12436,7 +12436,7 @@ city:
     name: 'Piedras Blancas'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12448,7 +12448,7 @@ city:
     name: Pronunciamiento
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12460,7 +12460,7 @@ city:
     name: 'Puerto Ibicuy'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12472,7 +12472,7 @@ city:
     name: 'Puerto Yeruá'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12484,7 +12484,7 @@ city:
     name: 'Rosario del Tala'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12496,7 +12496,7 @@ city:
     name: 'San Benito'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12508,7 +12508,7 @@ city:
     name: 'San Gustavo'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12520,7 +12520,7 @@ city:
     name: 'San José de Feliciano'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12532,7 +12532,7 @@ city:
     name: 'San Justo'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12544,7 +12544,7 @@ city:
     name: 'San Salvador'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12556,7 +12556,7 @@ city:
     name: 'Santa Ana'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12568,7 +12568,7 @@ city:
     name: 'Santa Anita'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12580,7 +12580,7 @@ city:
     name: 'Santa Elena'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12592,7 +12592,7 @@ city:
     name: 'Sauce de Luna'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12604,7 +12604,7 @@ city:
     name: Seguí
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12616,7 +12616,7 @@ city:
     name: Tabossi
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12628,7 +12628,7 @@ city:
     name: Ubajay
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12640,7 +12640,7 @@ city:
     name: Urdinarrain
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12652,7 +12652,7 @@ city:
     name: Viale
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12664,7 +12664,7 @@ city:
     name: Victoria
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12676,7 +12676,7 @@ city:
     name: 'Villa del Rosario'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12688,7 +12688,7 @@ city:
     name: 'Villa Elisa'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12700,7 +12700,7 @@ city:
     name: 'Villa Hernandarias'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12712,7 +12712,7 @@ city:
     name: 'Villa Mantero'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12724,7 +12724,7 @@ city:
     name: 'Villa María Grande'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12736,7 +12736,7 @@ city:
     name: 'Villa Paranacito'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12748,7 +12748,7 @@ city:
     name: 'Villa Urquiza'
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12760,7 +12760,7 @@ city:
     name: Villaguay
     state_id: 3654
     state_code: E
-    state_name: 'Entre Ríos Province'
+    state_name: 'Entre Ríos'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12772,7 +12772,7 @@ city:
     name: Clorinda
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12784,7 +12784,7 @@ city:
     name: 'Comandante Fontana'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12796,7 +12796,7 @@ city:
     name: 'Departamento de Pilcomayo'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12808,7 +12808,7 @@ city:
     name: 'El Colorado'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12820,7 +12820,7 @@ city:
     name: 'Estanislao del Campo'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12832,7 +12832,7 @@ city:
     name: Formosa
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12844,7 +12844,7 @@ city:
     name: 'General Enrique Mosconi'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12856,7 +12856,7 @@ city:
     name: Herradura
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12868,7 +12868,7 @@ city:
     name: Ibarreta
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12880,7 +12880,7 @@ city:
     name: 'Ingeniero Guillermo N. Juárez'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12892,7 +12892,7 @@ city:
     name: 'Laguna Naick-Neck'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12904,7 +12904,7 @@ city:
     name: 'Laguna Yema'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12916,7 +12916,7 @@ city:
     name: 'Las Lomitas'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12928,7 +12928,7 @@ city:
     name: 'Palo Santo'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12940,7 +12940,7 @@ city:
     name: Pirané
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12952,7 +12952,7 @@ city:
     name: 'Pozo del Tigre'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12964,7 +12964,7 @@ city:
     name: 'Riacho Eh-Eh'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12976,7 +12976,7 @@ city:
     name: 'San Francisco de Laishí'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -12988,7 +12988,7 @@ city:
     name: 'Villa Escolar'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13000,7 +13000,7 @@ city:
     name: 'Villa General Guemes'
     state_id: 3652
     state_code: P
-    state_name: 'Formosa Province'
+    state_name: Formosa
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13012,7 +13012,7 @@ city:
     name: 'Abra Pampa'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13024,7 +13024,7 @@ city:
     name: Caimancito
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13036,7 +13036,7 @@ city:
     name: Calilegua
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13048,7 +13048,7 @@ city:
     name: 'Departamento de Cochinoca'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13060,7 +13060,7 @@ city:
     name: 'Departamento de Rinconada'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13072,7 +13072,7 @@ city:
     name: 'Departamento de Tumbaya'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13084,7 +13084,7 @@ city:
     name: 'El Aguilar'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13096,7 +13096,7 @@ city:
     name: 'Fraile Pintado'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13108,7 +13108,7 @@ city:
     name: Humahuaca
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13120,7 +13120,7 @@ city:
     name: 'Ingenio La Esperanza'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13132,7 +13132,7 @@ city:
     name: 'La Mendieta'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13144,7 +13144,7 @@ city:
     name: 'La Quiaca'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13156,7 +13156,7 @@ city:
     name: 'Libertador General San Martín'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13168,7 +13168,7 @@ city:
     name: Maimará
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13180,7 +13180,7 @@ city:
     name: 'Palma Sola'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13192,7 +13192,7 @@ city:
     name: Palpalá
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13204,7 +13204,7 @@ city:
     name: 'San Pedro de Jujuy'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13216,7 +13216,7 @@ city:
     name: 'San Salvador de Jujuy'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13228,7 +13228,7 @@ city:
     name: 'Santa Clara'
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13240,7 +13240,7 @@ city:
     name: Tilcara
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13252,7 +13252,7 @@ city:
     name: Yuto
     state_id: 3645
     state_code: 'Y'
-    state_name: 'Jujuy Province'
+    state_name: Jujuy
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13732,7 +13732,7 @@ city:
     name: Arauco
     state_id: 3653
     state_code: F
-    state_name: 'La Rioja Province'
+    state_name: 'La Rioja'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13744,7 +13744,7 @@ city:
     name: 'Castro Barros'
     state_id: 3653
     state_code: F
-    state_name: 'La Rioja Province'
+    state_name: 'La Rioja'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13756,7 +13756,7 @@ city:
     name: Chamical
     state_id: 3653
     state_code: F
-    state_name: 'La Rioja Province'
+    state_name: 'La Rioja'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13768,7 +13768,7 @@ city:
     name: Chilecito
     state_id: 3653
     state_code: F
-    state_name: 'La Rioja Province'
+    state_name: 'La Rioja'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13780,7 +13780,7 @@ city:
     name: 'Departamento de Arauco'
     state_id: 3653
     state_code: F
-    state_name: 'La Rioja Province'
+    state_name: 'La Rioja'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13792,7 +13792,7 @@ city:
     name: 'Departamento de General Lamadrid'
     state_id: 3653
     state_code: F
-    state_name: 'La Rioja Province'
+    state_name: 'La Rioja'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13804,7 +13804,7 @@ city:
     name: 'Departamento de Independencia'
     state_id: 3653
     state_code: F
-    state_name: 'La Rioja Province'
+    state_name: 'La Rioja'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13816,7 +13816,7 @@ city:
     name: 'La Rioja'
     state_id: 3653
     state_code: F
-    state_name: 'La Rioja Province'
+    state_name: 'La Rioja'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13828,7 +13828,7 @@ city:
     name: 'Villa Bustos'
     state_id: 3653
     state_code: F
-    state_name: 'La Rioja Province'
+    state_name: 'La Rioja'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -13840,7 +13840,7 @@ city:
     name: Vinchina
     state_id: 3653
     state_code: F
-    state_name: 'La Rioja Province'
+    state_name: 'La Rioja'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14116,7 +14116,7 @@ city:
     name: 'Alba Posse'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14128,7 +14128,7 @@ city:
     name: Almafuerte
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14140,7 +14140,7 @@ city:
     name: 'Aristóbulo del Valle'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14152,7 +14152,7 @@ city:
     name: 'Arroyo del Medio'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14164,7 +14164,7 @@ city:
     name: Azara
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14176,7 +14176,7 @@ city:
     name: 'Bernardo de Irigoyen'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14188,7 +14188,7 @@ city:
     name: Bonpland
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14200,7 +14200,7 @@ city:
     name: 'Campo Grande'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14212,7 +14212,7 @@ city:
     name: 'Campo Ramón'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14224,7 +14224,7 @@ city:
     name: 'Campo Viera'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14236,7 +14236,7 @@ city:
     name: Candelaria
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14248,7 +14248,7 @@ city:
     name: Capioví
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14260,7 +14260,7 @@ city:
     name: Caraguatay
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14272,7 +14272,7 @@ city:
     name: 'Cerro Azul'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14284,7 +14284,7 @@ city:
     name: 'Cerro Corá'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14296,7 +14296,7 @@ city:
     name: 'Colonia Aurora'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14308,7 +14308,7 @@ city:
     name: 'Concepción de la Sierra'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14320,7 +14320,7 @@ city:
     name: 'Departamento de Apóstoles'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14332,7 +14332,7 @@ city:
     name: 'Departamento de Cainguás'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14344,7 +14344,7 @@ city:
     name: 'Departamento de Candelaria'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14356,7 +14356,7 @@ city:
     name: 'Departamento de Capital'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14368,7 +14368,7 @@ city:
     name: 'Departamento de Concepción de la Sierra'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14380,7 +14380,7 @@ city:
     name: 'Departamento de Eldorado'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14392,7 +14392,7 @@ city:
     name: 'Departamento de General Manuel Belgrano'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14404,7 +14404,7 @@ city:
     name: 'Departamento de Guaraní'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14416,7 +14416,7 @@ city:
     name: 'Departamento de Iguazú'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14428,7 +14428,7 @@ city:
     name: 'Departamento de Leandro N. Alem'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14440,7 +14440,7 @@ city:
     name: 'Departamento de Libertador General San Martín'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14452,7 +14452,7 @@ city:
     name: 'Departamento de Montecarlo'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14464,7 +14464,7 @@ city:
     name: 'Departamento de Oberá'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14476,7 +14476,7 @@ city:
     name: 'Departamento de San Ignacio'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14488,7 +14488,7 @@ city:
     name: 'Departamento de San Javier'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14500,7 +14500,7 @@ city:
     name: 'Departamento de San Pedro'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14512,7 +14512,7 @@ city:
     name: 'Departamento de Veinticinco de Mayo'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14524,7 +14524,7 @@ city:
     name: 'Dos Arroyos'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14536,7 +14536,7 @@ city:
     name: 'Dos de Mayo'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14548,7 +14548,7 @@ city:
     name: 'El Alcázar'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14560,7 +14560,7 @@ city:
     name: 'El Soberbio'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14572,7 +14572,7 @@ city:
     name: 'Florentino Ameghino'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14584,7 +14584,7 @@ city:
     name: Garuhapé
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14596,7 +14596,7 @@ city:
     name: Garupá
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14608,7 +14608,7 @@ city:
     name: 'General Alvear'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14620,7 +14620,7 @@ city:
     name: 'Gobernador Roca'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14632,7 +14632,7 @@ city:
     name: Guaraní
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14644,7 +14644,7 @@ city:
     name: 'Jardín América'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14656,7 +14656,7 @@ city:
     name: Loreto
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14668,7 +14668,7 @@ city:
     name: 'Los Helechos'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14680,7 +14680,7 @@ city:
     name: Mártires
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14692,7 +14692,7 @@ city:
     name: 'Mojón Grande'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14704,7 +14704,7 @@ city:
     name: Montecarlo
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14716,7 +14716,7 @@ city:
     name: Oberá
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14728,7 +14728,7 @@ city:
     name: Panambí
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14740,7 +14740,7 @@ city:
     name: 'Picada Gobernador López'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14752,7 +14752,7 @@ city:
     name: Posadas
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14764,7 +14764,7 @@ city:
     name: 'Puerto Eldorado'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14776,7 +14776,7 @@ city:
     name: 'Puerto Esperanza'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14788,7 +14788,7 @@ city:
     name: 'Puerto Iguazú'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14800,7 +14800,7 @@ city:
     name: 'Puerto Leoni'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14812,7 +14812,7 @@ city:
     name: 'Puerto Libertad'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14824,7 +14824,7 @@ city:
     name: 'Puerto Piray'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14836,7 +14836,7 @@ city:
     name: 'Puerto Rico'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14848,7 +14848,7 @@ city:
     name: 'Ruiz de Montoya'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14860,7 +14860,7 @@ city:
     name: 'San José'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14872,7 +14872,7 @@ city:
     name: 'San Pedro'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14884,7 +14884,7 @@ city:
     name: 'San Vicente'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14896,7 +14896,7 @@ city:
     name: 'Santa María'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14908,7 +14908,7 @@ city:
     name: 'Santo Pipó'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14920,7 +14920,7 @@ city:
     name: 'Tres Capones'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14932,7 +14932,7 @@ city:
     name: 'Veinticinco de Mayo'
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14944,7 +14944,7 @@ city:
     name: Wanda
     state_id: 3644
     state_code: 'N'
-    state_name: 'Misiones Province'
+    state_name: Misiones
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14956,7 +14956,7 @@ city:
     name: Aluminé
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14968,7 +14968,7 @@ city:
     name: Andacollo
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14980,7 +14980,7 @@ city:
     name: Añelo
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -14992,7 +14992,7 @@ city:
     name: Barrancas
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15004,7 +15004,7 @@ city:
     name: 'Buta Ranquil'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15016,7 +15016,7 @@ city:
     name: Centenario
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15028,7 +15028,7 @@ city:
     name: 'Chos Malal'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15040,7 +15040,7 @@ city:
     name: Cutral-Có
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15052,7 +15052,7 @@ city:
     name: 'Departamento de Aluminé'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15064,7 +15064,7 @@ city:
     name: 'Departamento de Añelo'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15076,7 +15076,7 @@ city:
     name: 'Departamento de Catán-Lil'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15088,7 +15088,7 @@ city:
     name: 'Departamento de Chos-Malal'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15100,7 +15100,7 @@ city:
     name: 'Departamento de Collón-Curá'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15112,7 +15112,7 @@ city:
     name: 'Departamento de Confluencia'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15124,7 +15124,7 @@ city:
     name: 'Departamento de Lácar'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15136,7 +15136,7 @@ city:
     name: 'Departamento de Minas'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15148,7 +15148,7 @@ city:
     name: 'Departamento de Zapala'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15160,7 +15160,7 @@ city:
     name: 'El Huecú'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15172,7 +15172,7 @@ city:
     name: 'Junín de los Andes'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15184,7 +15184,7 @@ city:
     name: 'Las Coloradas'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15196,7 +15196,7 @@ city:
     name: 'Las Lajas'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15208,7 +15208,7 @@ city:
     name: 'Las Ovejas'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15220,7 +15220,7 @@ city:
     name: Loncopué
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15232,7 +15232,7 @@ city:
     name: 'Mariano Moreno'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15244,7 +15244,7 @@ city:
     name: Neuquén
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15256,7 +15256,7 @@ city:
     name: 'Picún Leufú'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15268,7 +15268,7 @@ city:
     name: 'Piedra del Águila'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15280,7 +15280,7 @@ city:
     name: 'Plaza Huincul'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15292,7 +15292,7 @@ city:
     name: Plottier
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15304,7 +15304,7 @@ city:
     name: 'San Martín de los Andes'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15316,7 +15316,7 @@ city:
     name: Senillosa
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15328,7 +15328,7 @@ city:
     name: 'Villa La Angostura'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15340,7 +15340,7 @@ city:
     name: 'Vista Alegre'
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15352,7 +15352,7 @@ city:
     name: Zapala
     state_id: 3648
     state_code: Q
-    state_name: 'Neuquén Province'
+    state_name: Neuquén
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15364,7 +15364,7 @@ city:
     name: Allen
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15376,7 +15376,7 @@ city:
     name: Catriel
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15388,7 +15388,7 @@ city:
     name: Cervantes
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15400,7 +15400,7 @@ city:
     name: Chichinales
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15412,7 +15412,7 @@ city:
     name: Chimpay
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15424,7 +15424,7 @@ city:
     name: 'Choele Choel'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15436,7 +15436,7 @@ city:
     name: 'Cinco Saltos'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15448,7 +15448,7 @@ city:
     name: Cipolletti
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15460,7 +15460,7 @@ city:
     name: Comallo
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15472,7 +15472,7 @@ city:
     name: 'Contraalmirante Cordero'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15484,7 +15484,7 @@ city:
     name: 'Coronel Belisle'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15496,7 +15496,7 @@ city:
     name: Darwin
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15508,7 +15508,7 @@ city:
     name: 'Departamento de Avellaneda'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15520,7 +15520,7 @@ city:
     name: 'Departamento de Veinticinco de Mayo'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15532,7 +15532,7 @@ city:
     name: 'El Bolsón'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15544,7 +15544,7 @@ city:
     name: 'El Cuy'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15556,7 +15556,7 @@ city:
     name: 'Fray Luis Beltrán'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15568,7 +15568,7 @@ city:
     name: 'General Conesa'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15580,7 +15580,7 @@ city:
     name: 'General Enrique Godoy'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15592,7 +15592,7 @@ city:
     name: 'General Fernández Oro'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15604,7 +15604,7 @@ city:
     name: 'General Roca'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15616,7 +15616,7 @@ city:
     name: 'Ingeniero Jacobacci'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15628,7 +15628,7 @@ city:
     name: 'Ingeniero Luis A. Huergo'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15640,7 +15640,7 @@ city:
     name: Lamarque
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15652,7 +15652,7 @@ city:
     name: 'Los Menucos'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15664,7 +15664,7 @@ city:
     name: Mainque
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15676,7 +15676,7 @@ city:
     name: Maquinchao
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15688,7 +15688,7 @@ city:
     name: Ñorquinco
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15700,7 +15700,7 @@ city:
     name: Pilcaniyeu
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15712,7 +15712,7 @@ city:
     name: 'Río Colorado'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15724,7 +15724,7 @@ city:
     name: 'San Antonio Oeste'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15736,7 +15736,7 @@ city:
     name: 'San Carlos de Bariloche'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15748,7 +15748,7 @@ city:
     name: 'Sierra Colorada'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15760,7 +15760,7 @@ city:
     name: 'Sierra Grande'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15772,7 +15772,7 @@ city:
     name: Valcheta
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15784,7 +15784,7 @@ city:
     name: Viedma
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15796,7 +15796,7 @@ city:
     name: 'Villa Regina'
     state_id: 3639
     state_code: R
-    state_name: 'Río Negro Province'
+    state_name: 'Río Negro'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15808,7 +15808,7 @@ city:
     name: 'Apolinario Saravia'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15820,7 +15820,7 @@ city:
     name: Cachí
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15832,7 +15832,7 @@ city:
     name: Cafayate
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15844,7 +15844,7 @@ city:
     name: 'Campo Quijano'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15856,7 +15856,7 @@ city:
     name: Chicoana
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15868,7 +15868,7 @@ city:
     name: 'Departamento Capital'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15880,7 +15880,7 @@ city:
     name: 'Departamento de Anta'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15892,7 +15892,7 @@ city:
     name: 'Departamento de Cerrillos'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15904,7 +15904,7 @@ city:
     name: 'Departamento de Chicoana'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15916,7 +15916,7 @@ city:
     name: 'Departamento de General Güemes'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15928,7 +15928,7 @@ city:
     name: 'Departamento de Guachipas'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15940,7 +15940,7 @@ city:
     name: 'Departamento de Iruya'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15952,7 +15952,7 @@ city:
     name: 'Departamento de La Poma'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15964,7 +15964,7 @@ city:
     name: 'Departamento de La Viña'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15976,7 +15976,7 @@ city:
     name: 'Departamento de Los Andes'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -15988,7 +15988,7 @@ city:
     name: 'Departamento de Metán'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16000,7 +16000,7 @@ city:
     name: 'Departamento de Rivadavia'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16012,7 +16012,7 @@ city:
     name: 'Departamento de Rosario de la Frontera'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16024,7 +16024,7 @@ city:
     name: 'Departamento de Rosario de Lerma'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16036,7 +16036,7 @@ city:
     name: 'Departamento de San Carlos'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16048,7 +16048,7 @@ city:
     name: 'El Carril'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16060,7 +16060,7 @@ city:
     name: 'El Galpón'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16072,7 +16072,7 @@ city:
     name: 'El Quebrachal'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16084,7 +16084,7 @@ city:
     name: Embarcación
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16096,7 +16096,7 @@ city:
     name: 'General Enrique Mosconi'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16108,7 +16108,7 @@ city:
     name: 'Joaquín V. González'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16120,7 +16120,7 @@ city:
     name: 'La Caldera'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16132,7 +16132,7 @@ city:
     name: 'Las Lajitas'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16144,7 +16144,7 @@ city:
     name: Salta
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16156,7 +16156,7 @@ city:
     name: 'San Antonio de los Cobres'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16168,7 +16168,7 @@ city:
     name: 'San Ramón de la Nueva Orán'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16180,7 +16180,7 @@ city:
     name: 'Santa Rosa de Tastil'
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16192,7 +16192,7 @@ city:
     name: Tartagal
     state_id: 3643
     state_code: A
-    state_name: 'Salta Province'
+    state_name: Salta
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16204,7 +16204,7 @@ city:
     name: Albardón
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16216,7 +16216,7 @@ city:
     name: Calingasta
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16228,7 +16228,7 @@ city:
     name: Caucete
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16240,7 +16240,7 @@ city:
     name: Chimbas
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16252,7 +16252,7 @@ city:
     name: 'Departamento de Albardón'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16264,7 +16264,7 @@ city:
     name: 'Departamento de Angaco'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16276,7 +16276,7 @@ city:
     name: 'Departamento de Calingasta'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16288,7 +16288,7 @@ city:
     name: 'Departamento de Capital'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16300,7 +16300,7 @@ city:
     name: 'Departamento de Caucete'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16312,7 +16312,7 @@ city:
     name: 'Departamento de Chimbas'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16324,7 +16324,7 @@ city:
     name: 'Departamento de Iglesia'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16336,7 +16336,7 @@ city:
     name: 'Departamento de Jáchal'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16348,7 +16348,7 @@ city:
     name: 'Departamento de Nueve de Julio'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16360,7 +16360,7 @@ city:
     name: 'Departamento de Rawson'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16372,7 +16372,7 @@ city:
     name: 'Departamento de Rivadavia'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16384,7 +16384,7 @@ city:
     name: 'Departamento de San Martín'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16396,7 +16396,7 @@ city:
     name: 'Departamento de Santa Lucía'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16408,7 +16408,7 @@ city:
     name: 'Departamento de Sarmiento'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16420,7 +16420,7 @@ city:
     name: 'Departamento de Ullúm'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16432,7 +16432,7 @@ city:
     name: 'Departamento de Zonda'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16444,7 +16444,7 @@ city:
     name: 'Nueve de Julio'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16456,7 +16456,7 @@ city:
     name: Pocito
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16468,7 +16468,7 @@ city:
     name: 'San Agustín de Valle Fértil'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16480,7 +16480,7 @@ city:
     name: 'San José de Jáchal'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16492,7 +16492,7 @@ city:
     name: 'San Juan'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16504,7 +16504,7 @@ city:
     name: 'San Martín'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16516,7 +16516,7 @@ city:
     name: 'Santa Lucía'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16528,7 +16528,7 @@ city:
     name: 'Villa Basilio Nievas'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16540,7 +16540,7 @@ city:
     name: 'Villa Paula de Sarmiento'
     state_id: 3634
     state_code: J
-    state_name: 'San Juan Province'
+    state_name: 'San Juan'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16552,7 +16552,7 @@ city:
     name: 'Buena Esperanza'
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16564,7 +16564,7 @@ city:
     name: Candelaria
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16576,7 +16576,7 @@ city:
     name: Concarán
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16588,7 +16588,7 @@ city:
     name: 'Juan Martín de Pueyrredón'
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16600,7 +16600,7 @@ city:
     name: 'Justo Daract'
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16612,7 +16612,7 @@ city:
     name: 'La Punta'
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16624,7 +16624,7 @@ city:
     name: 'La Toma'
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16636,7 +16636,7 @@ city:
     name: Luján
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16648,7 +16648,7 @@ city:
     name: Merlo
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16660,7 +16660,7 @@ city:
     name: Naschel
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16672,7 +16672,7 @@ city:
     name: 'San Francisco del Monte de Oro'
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16684,7 +16684,7 @@ city:
     name: 'San Luis'
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16696,7 +16696,7 @@ city:
     name: 'Santa Rosa del Conlara'
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16708,7 +16708,7 @@ city:
     name: Tilisarao
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16720,7 +16720,7 @@ city:
     name: Unión
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16732,7 +16732,7 @@ city:
     name: 'Villa General Roca'
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16744,7 +16744,7 @@ city:
     name: 'Villa Mercedes'
     state_id: 3636
     state_code: D
-    state_name: 'San Luis Province'
+    state_name: "San Luis\t"
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16756,7 +16756,7 @@ city:
     name: '28 de Noviembre'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16768,7 +16768,7 @@ city:
     name: 'Caleta Olivia'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16780,7 +16780,7 @@ city:
     name: 'Comandante Luis Piedra Buena'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16792,7 +16792,7 @@ city:
     name: 'Departamento de Deseado'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16804,7 +16804,7 @@ city:
     name: 'Departamento de Güer Aike'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16816,7 +16816,7 @@ city:
     name: 'Departamento de Lago Argentino'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16828,7 +16828,7 @@ city:
     name: 'Departamento de Magallanes'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16840,7 +16840,7 @@ city:
     name: 'Departamento de Río Chico'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16852,7 +16852,7 @@ city:
     name: 'El Calafate'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16864,7 +16864,7 @@ city:
     name: 'Gobernador Gregores'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16876,7 +16876,7 @@ city:
     name: 'Las Heras'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16888,7 +16888,7 @@ city:
     name: 'Los Antiguos'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16900,7 +16900,7 @@ city:
     name: 'Perito Moreno'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16912,7 +16912,7 @@ city:
     name: 'Pico Truncado'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16924,7 +16924,7 @@ city:
     name: 'Puerto Deseado'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16936,7 +16936,7 @@ city:
     name: 'Puerto Santa Cruz'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16948,7 +16948,7 @@ city:
     name: 'Río Gallegos'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16960,7 +16960,7 @@ city:
     name: 'Río Turbio'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16972,7 +16972,7 @@ city:
     name: 'San Julián'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16984,7 +16984,7 @@ city:
     name: 'Yacimiento Río Turbio'
     state_id: 3649
     state_code: Z
-    state_name: 'Santa Cruz Province'
+    state_name: 'Santa Cruz'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -16996,7 +16996,7 @@ city:
     name: Armstrong
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17008,7 +17008,7 @@ city:
     name: 'Arroyo Seco'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17020,7 +17020,7 @@ city:
     name: Arrufó
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17032,7 +17032,7 @@ city:
     name: Avellaneda
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17044,7 +17044,7 @@ city:
     name: 'Bella Italia'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17056,7 +17056,7 @@ city:
     name: Calchaquí
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17068,7 +17068,7 @@ city:
     name: 'Cañada de Gómez'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17080,7 +17080,7 @@ city:
     name: 'Capitán Bermúdez'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17092,7 +17092,7 @@ city:
     name: Carcarañá
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17104,7 +17104,7 @@ city:
     name: Casilda
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17116,7 +17116,7 @@ city:
     name: Ceres
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17128,7 +17128,7 @@ city:
     name: 'Chañar Ladeado'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17140,7 +17140,7 @@ city:
     name: Coronda
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17152,7 +17152,7 @@ city:
     name: 'Departamento de Belgrano'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17164,7 +17164,7 @@ city:
     name: 'Departamento de Caseros'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17176,7 +17176,7 @@ city:
     name: 'Departamento de Castellanos'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17188,7 +17188,7 @@ city:
     name: 'Departamento de Constitución'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17200,7 +17200,7 @@ city:
     name: 'Departamento de La Capital'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17212,7 +17212,7 @@ city:
     name: 'Departamento de Nueve de Julio'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17224,7 +17224,7 @@ city:
     name: 'Departamento de San Cristóbal'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17236,7 +17236,7 @@ city:
     name: 'Departamento de San Javier'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17248,7 +17248,7 @@ city:
     name: 'Departamento de San Justo'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17260,7 +17260,7 @@ city:
     name: 'Departamento de San Lorenzo'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17272,7 +17272,7 @@ city:
     name: 'Departamento de San Martín'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17284,7 +17284,7 @@ city:
     name: 'Departamento de Vera'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17296,7 +17296,7 @@ city:
     name: 'El Trébol'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17308,7 +17308,7 @@ city:
     name: Esperanza
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17320,7 +17320,7 @@ city:
     name: Firmat
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17332,7 +17332,7 @@ city:
     name: 'Fray Luis A. Beltrán'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17344,7 +17344,7 @@ city:
     name: Funes
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17356,7 +17356,7 @@ city:
     name: Gálvez
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17368,7 +17368,7 @@ city:
     name: 'Gato Colorado'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17380,7 +17380,7 @@ city:
     name: 'Gobernador Gálvez'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17392,7 +17392,7 @@ city:
     name: 'Granadero Baigorria'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17404,7 +17404,7 @@ city:
     name: Helvecia
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17416,7 +17416,7 @@ city:
     name: Hersilia
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17428,7 +17428,7 @@ city:
     name: 'Iriondo Department'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17440,7 +17440,7 @@ city:
     name: 'Laguna Paiva'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17452,7 +17452,7 @@ city:
     name: 'Las Parejas'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17464,7 +17464,7 @@ city:
     name: 'Las Rosas'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17476,7 +17476,7 @@ city:
     name: 'Las Toscas'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17488,7 +17488,7 @@ city:
     name: 'Los Laureles'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17500,7 +17500,7 @@ city:
     name: Malabrigo
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17512,7 +17512,7 @@ city:
     name: Melincué
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17524,7 +17524,7 @@ city:
     name: Pérez
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17536,7 +17536,7 @@ city:
     name: Rafaela
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17548,7 +17548,7 @@ city:
     name: Reconquista
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17560,7 +17560,7 @@ city:
     name: Recreo
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17572,7 +17572,7 @@ city:
     name: Roldán
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17584,7 +17584,7 @@ city:
     name: Rosario
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17596,7 +17596,7 @@ city:
     name: Rufino
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17608,7 +17608,7 @@ city:
     name: 'San Carlos Centro'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17620,7 +17620,7 @@ city:
     name: 'San Cristóbal'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17632,7 +17632,7 @@ city:
     name: 'San Javier'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17644,7 +17644,7 @@ city:
     name: 'San Jorge'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17656,7 +17656,7 @@ city:
     name: 'San Justo'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17668,7 +17668,7 @@ city:
     name: 'Santa Fe'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17680,7 +17680,7 @@ city:
     name: 'Santo Tomé'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17692,7 +17692,7 @@ city:
     name: Sastre
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17704,7 +17704,7 @@ city:
     name: Sunchales
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17716,7 +17716,7 @@ city:
     name: Tacuarendí
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17728,7 +17728,7 @@ city:
     name: Tostado
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17740,7 +17740,7 @@ city:
     name: Totoras
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17752,7 +17752,7 @@ city:
     name: 'Venado Tuerto'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17764,7 +17764,7 @@ city:
     name: Vera
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17776,7 +17776,7 @@ city:
     name: 'Villa Cañás'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17788,7 +17788,7 @@ city:
     name: 'Villa Constitución'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17800,7 +17800,7 @@ city:
     name: 'Villa Mugueta'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17812,7 +17812,7 @@ city:
     name: 'Villa Ocampo'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17824,7 +17824,7 @@ city:
     name: 'Villa Trinidad'
     state_id: 3641
     state_code: S
-    state_name: 'Santa Fe Province'
+    state_name: 'Santa Fe'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17836,7 +17836,7 @@ city:
     name: Añatuya
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17848,7 +17848,7 @@ city:
     name: Beltrán
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17860,7 +17860,7 @@ city:
     name: 'Campo Gallo'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17872,7 +17872,7 @@ city:
     name: Clodomira
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17884,7 +17884,7 @@ city:
     name: 'Colonia Dora'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17896,7 +17896,7 @@ city:
     name: 'Departamento de Aguirre'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17908,7 +17908,7 @@ city:
     name: 'Departamento de Banda'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17920,7 +17920,7 @@ city:
     name: 'Departamento de Choya'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17932,7 +17932,7 @@ city:
     name: 'Departamento de Guasayán'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17944,7 +17944,7 @@ city:
     name: 'Departamento de Loreto'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17956,7 +17956,7 @@ city:
     name: 'Departamento de Moreno'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17968,7 +17968,7 @@ city:
     name: 'Departamento de Río Hondo'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17980,7 +17980,7 @@ city:
     name: 'Departamento de Robles'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -17992,7 +17992,7 @@ city:
     name: 'Departamento de San Martín'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18004,7 +18004,7 @@ city:
     name: 'Departamento de Sarmiento'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18016,7 +18016,7 @@ city:
     name: 'El Hoyo'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18028,7 +18028,7 @@ city:
     name: 'La Banda'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18040,7 +18040,7 @@ city:
     name: 'Los Juríes'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18052,7 +18052,7 @@ city:
     name: 'Los Telares'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18064,7 +18064,7 @@ city:
     name: 'Pampa de los Guanacos'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18076,7 +18076,7 @@ city:
     name: Quimilí
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18088,7 +18088,7 @@ city:
     name: 'San Pedro'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18100,7 +18100,7 @@ city:
     name: 'Santiago del Estero'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18112,7 +18112,7 @@ city:
     name: Sumampa
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18124,7 +18124,7 @@ city:
     name: 'Suncho Corral'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18136,7 +18136,7 @@ city:
     name: 'Termas de Río Hondo'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18148,7 +18148,7 @@ city:
     name: Tintina
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18160,7 +18160,7 @@ city:
     name: 'Villa Atamisqui'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18172,7 +18172,7 @@ city:
     name: 'Villa General Mitre'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18184,7 +18184,7 @@ city:
     name: 'Villa Ojo de Agua'
     state_id: 3635
     state_code: G
-    state_name: 'Santiago del Estero Province'
+    state_name: 'Santiago del Estero'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18196,7 +18196,7 @@ city:
     name: 'Río Grande'
     state_id: 3650
     state_code: V
-    state_name: 'Tierra del Fuego Province'
+    state_name: 'Tierra del Fuego'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18208,7 +18208,7 @@ city:
     name: Tolhuin
     state_id: 3650
     state_code: V
-    state_name: 'Tierra del Fuego Province'
+    state_name: 'Tierra del Fuego'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18220,7 +18220,7 @@ city:
     name: Ushuaia
     state_id: 3650
     state_code: V
-    state_name: 'Tierra del Fuego Province'
+    state_name: 'Tierra del Fuego'
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18232,7 +18232,7 @@ city:
     name: Aguilares
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18244,7 +18244,7 @@ city:
     name: Alderetes
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18256,7 +18256,7 @@ city:
     name: 'Bella Vista'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18268,7 +18268,7 @@ city:
     name: Burruyacú
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18280,7 +18280,7 @@ city:
     name: 'Departamento de Burruyacú'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18292,7 +18292,7 @@ city:
     name: 'Departamento de Capital'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18304,7 +18304,7 @@ city:
     name: 'Departamento de Cruz Alta'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18316,7 +18316,7 @@ city:
     name: 'Departamento de Famaillá'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18328,7 +18328,7 @@ city:
     name: 'Departamento de Graneros'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18340,7 +18340,7 @@ city:
     name: 'Departamento de La Cocha'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18352,7 +18352,7 @@ city:
     name: 'Departamento de Lules'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18364,7 +18364,7 @@ city:
     name: 'Departamento de Monteros'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18376,7 +18376,7 @@ city:
     name: 'Departamento de Río Chico'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18388,7 +18388,7 @@ city:
     name: 'Departamento de Simoca'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18400,7 +18400,7 @@ city:
     name: 'Departamento de Trancas'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18412,7 +18412,7 @@ city:
     name: 'Departamento de Yerba Buena'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18424,7 +18424,7 @@ city:
     name: Famaillá
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18436,7 +18436,7 @@ city:
     name: Graneros
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18448,7 +18448,7 @@ city:
     name: 'La Cocha'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18460,7 +18460,7 @@ city:
     name: Monteros
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18472,7 +18472,7 @@ city:
     name: 'San Miguel de Tucumán'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18484,7 +18484,7 @@ city:
     name: Simoca
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18496,7 +18496,7 @@ city:
     name: 'Tafí del Valle'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18508,7 +18508,7 @@ city:
     name: 'Tafí Viejo'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18520,7 +18520,7 @@ city:
     name: Trancas
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -18532,7 +18532,7 @@ city:
     name: 'Yerba Buena'
     state_id: 3637
     state_code: T
-    state_name: 'Tucumán Province'
+    state_name: Tucumán
     country_id: 11
     country_code: AR
     country_name: Argentina
@@ -227627,6 +227627,162 @@ city:
     latitude: '48.00945000'
     longitude: '122.73651000'
     wikiDataId: Q145015
+  -
+    id: 149266
+    name: ChangZhou
+    state_id: 2250
+    state_code: JS
+    state_name: Jiangsu
+    country_id: 45
+    country_code: CN
+    country_name: China
+    latitude: '31.72322000'
+    longitude: '119.59794000'
+    wikiDataId: Q57970
+  -
+    id: 149270
+    name: HuaiAn
+    state_id: 2250
+    state_code: JS
+    state_name: Jiangsu
+    country_id: 45
+    country_code: CN
+    country_name: China
+    latitude: '33.29433000'
+    longitude: '118.87350000'
+    wikiDataId: Q57818
+  -
+    id: 149269
+    name: LianYunGang
+    state_id: 2250
+    state_code: JS
+    state_name: Jiangsu
+    country_id: 45
+    country_code: CN
+    country_name: China
+    latitude: '34.84065000'
+    longitude: '119.17730000'
+    wikiDataId: Q57756
+  -
+    id: 149263
+    name: NanJing
+    state_id: 2250
+    state_code: JS
+    state_name: Jiangsu
+    country_id: 45
+    country_code: CN
+    country_name: China
+    latitude: '31.32751000'
+    longitude: '118.89210000'
+    wikiDataId: Q16666
+  -
+    id: 149268
+    name: NanTong
+    state_id: 2250
+    state_code: JS
+    state_name: Jiangsu
+    country_id: 45
+    country_code: CN
+    country_name: China
+    latitude: '32.00986000'
+    longitude: '120.85737000'
+    wikiDataId: Q57947
+  -
+    id: 149275
+    name: SuQian
+    state_id: 2250
+    state_code: JS
+    state_name: Jiangsu
+    country_id: 45
+    country_code: CN
+    country_name: China
+    latitude: '33.96271000'
+    longitude: '118.24239000'
+    wikiDataId: Q57787
+  -
+    id: 149267
+    name: SuZhou
+    state_id: 2250
+    state_code: JS
+    state_name: Jiangsu
+    country_id: 45
+    country_code: CN
+    country_name: China
+    latitude: '31.30227000'
+    longitude: '120.63132000'
+    wikiDataId: Q42622
+  -
+    id: 149274
+    name: TaiZhou
+    state_id: 2250
+    state_code: JS
+    state_name: Jiangsu
+    country_id: 45
+    country_code: CN
+    country_name: China
+    latitude: '32.31841000'
+    longitude: '119.88116000'
+    wikiDataId: Q58273
+  -
+    id: 149264
+    name: WuXi
+    state_id: 2250
+    state_code: JS
+    state_name: Jiangsu
+    country_id: 45
+    country_code: CN
+    country_name: China
+    latitude: '31.52853000'
+    longitude: '120.28429000'
+    wikiDataId: Q42651
+  -
+    id: 149265
+    name: XuZhou
+    state_id: 2250
+    state_code: JS
+    state_name: Jiangsu
+    country_id: 45
+    country_code: CN
+    country_name: China
+    latitude: '34.28823000'
+    longitude: '117.18554000'
+    wikiDataId: Q57719
+  -
+    id: 149271
+    name: YanCheng
+    state_id: 2250
+    state_code: JS
+    state_name: Jiangsu
+    country_id: 45
+    country_code: CN
+    country_name: China
+    latitude: '33.20107000'
+    longitude: '120.50102000'
+    wikiDataId: Q57866
+  -
+    id: 149272
+    name: YangZhou
+    state_id: 2250
+    state_code: JS
+    state_name: Jiangsu
+    country_id: 45
+    country_code: CN
+    country_name: China
+    latitude: '32.39463000'
+    longitude: '119.43157000'
+    wikiDataId: Q57906
+  -
+    id: 149273
+    name: ZhenJiang
+    state_id: 2250
+    state_code: JS
+    state_name: Jiangsu
+    country_id: 45
+    country_code: CN
+    country_name: China
+    latitude: '32.13188000'
+    longitude: '119.43396000'
+    wikiDataId: Q57958
   -
     id: 19367
     name: Changleng
