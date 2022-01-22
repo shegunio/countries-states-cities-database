@@ -99638,6 +99638,11 @@ country_city:
         latitude: '39.16673000'
         longitude: '117.24191000'
       -
+        id: 149236
+        name: Zhaoguli
+        latitude: '39.16673000'
+        longitude: '117.24191000'
+      -
         id: 20433
         name: Zhaoqing
         latitude: '23.04893000'
@@ -99979,7 +99984,7 @@ country_city:
     iso2: CO
     numeric_code: '170'
     phone_code: '57'
-    capital: Bogota
+    capital: Bogotá
     currency: COP
     currency_name: 'Colombian peso'
     currency_symbol: $
@@ -100083,11 +100088,6 @@ country_city:
         latitude: '3.22194444'
         longitude: '-75.23750000'
       -
-        id: 20500
-        name: Albán
-        latitude: '1.47050000'
-        longitude: '-77.06846000'
-      -
         id: 20501
         name: Albán
         latitude: '4.89432000'
@@ -100154,9 +100154,9 @@ country_city:
         longitude: '-75.78777778'
       -
         id: 20509
-        name: 'Alto Baudo'
-        latitude: '5.60464000'
-        longitude: '-77.06975000'
+        name: 'Alto Baudó'
+        latitude: '5.51604000'
+        longitude: '-76.97449000'
       -
         id: 20510
         name: 'Altos del Rosario'
@@ -100182,11 +100182,6 @@ country_city:
         name: Ambalema
         latitude: '4.78405000'
         longitude: '-74.76268000'
-      -
-        id: 20515
-        name: Anaime
-        latitude: '4.39639000'
-        longitude: '-75.44500000'
       -
         id: 20516
         name: Anapoima
@@ -100223,10 +100218,10 @@ country_city:
         latitude: '4.83362000'
         longitude: '-74.49950000'
       -
-        id: 20524
-        name: Anserma
-        latitude: '5.33278000'
-        longitude: '-75.79111000'
+        id: 20747
+        name: Anorí
+        latitude: '7.07361111'
+        longitude: '-75.14694444'
       -
         id: 20525
         name: Anserma
@@ -100338,11 +100333,6 @@ country_city:
         latitude: '4.72904000'
         longitude: '-76.11637000'
       -
-        id: 20547
-        name: Ariguaní
-        latitude: '10.25000000'
-        longitude: '-74.00000000'
-      -
         id: 20548
         name: Ariguaní
         latitude: '9.89383000'
@@ -100365,13 +100355,8 @@ country_city:
       -
         id: 20552
         name: Armero
-        latitude: '4.98873000'
-        longitude: '-74.88130000'
-      -
-        id: 20553
-        name: Armero-Guyabal
-        latitude: '4.96701000'
-        longitude: '-74.90294000'
+        latitude: '5.03055666'
+        longitude: '-74.88444444'
       -
         id: 20554
         name: Arroyohondo
@@ -100410,8 +100395,8 @@ country_city:
       -
         id: 20561
         name: 'Bajo Baudó'
-        latitude: '4.90181000'
-        longitude: '-77.22771000'
+        latitude: '4.95334000'
+        longitude: '-77.36598000'
       -
         id: 20562
         name: Balboa
@@ -100483,11 +100468,6 @@ country_city:
         latitude: '10.96854000'
         longitude: '-74.78132000'
       -
-        id: 143872
-        name: 'Barrio San Luis'
-        latitude: '4.66779000'
-        longitude: '-74.02150000'
-      -
         id: 20575
         name: Becerril
         latitude: '9.70413000'
@@ -100497,11 +100477,6 @@ country_city:
         name: Belalcázar
         latitude: '4.99528000'
         longitude: '-75.81278000'
-      -
-        id: 20577
-        name: Belalcázar
-        latitude: '2.64644000'
-        longitude: '-75.97269000'
       -
         id: 20582
         name: Belén
@@ -100522,11 +100497,6 @@ country_city:
         name: 'Belén de Umbría'
         latitude: '5.20087000'
         longitude: '-75.86865000'
-      -
-        id: 20578
-        name: Bellavista
-        latitude: '6.55645000'
-        longitude: '-76.88389000'
       -
         id: 20579
         name: Bello
@@ -100584,7 +100554,12 @@ country_city:
         longitude: '-72.68839000'
       -
         id: 143873
-        name: Bogota
+        name: 'Bogotá D.C.'
+        latitude: '4.61263889'
+        longitude: '-74.07050000'
+      -
+        id: 149237
+        name: 'Bogotá D.C.'
         latitude: '4.61263889'
         longitude: '-74.07050000'
       -
@@ -100594,9 +100569,9 @@ country_city:
         longitude: '-74.34129000'
       -
         id: 20596
-        name: Bojaya
-        latitude: '6.50000000'
-        longitude: '-77.10000000'
+        name: Bojayá
+        latitude: '6.55645000'
+        longitude: '-76.88389000'
       -
         id: 20597
         name: Bolívar
@@ -100612,6 +100587,11 @@ country_city:
         name: Bolívar
         latitude: '1.84670000'
         longitude: '-76.98292000'
+      -
+        id: 149238
+        name: Bosconia
+        latitude: '9.97611111'
+        longitude: '-73.89033333'
       -
         id: 20600
         name: Boyacá
@@ -100643,11 +100623,6 @@ country_city:
         latitude: '3.88010000'
         longitude: '-77.03116000'
       -
-        id: 20606
-        name: Buenavista
-        latitude: '9.21433000'
-        longitude: '-74.31363000'
-      -
         id: 20607
         name: Buenavista
         latitude: '4.35969000'
@@ -100662,6 +100637,11 @@ country_city:
         name: Buenavista
         latitude: '5.50000000'
         longitude: '-73.96667000'
+      -
+        id: 149239
+        name: Buenavista
+        latitude: '9.31972222'
+        longitude: '-74.97166777'
       -
         id: 20610
         name: 'Buenos Aires'
@@ -100813,11 +100793,6 @@ country_city:
         latitude: '7.03910000'
         longitude: '-75.28938000'
       -
-        id: 20639
-        name: 'Campo Alegre'
-        latitude: '3.18917000'
-        longitude: '-75.70361000'
-      -
         id: 20640
         name: 'Campo de la Cruz'
         latitude: '10.37844000'
@@ -100908,15 +100883,10 @@ country_city:
         latitude: '5.34862000'
         longitude: '-73.90168000'
       -
-        id: 20656
-        name: 'Carmen de Viboral'
-        latitude: '6.08236000'
-        longitude: '-75.33509000'
-      -
         id: 20657
         name: 'Carmen del Darien'
-        latitude: '7.03639000'
-        longitude: '-76.95222000'
+        latitude: '7.15777888'
+        longitude: '-76.97083333'
       -
         id: 20658
         name: Carolina
@@ -100924,7 +100894,7 @@ country_city:
         longitude: '-75.32131000'
       -
         id: 20659
-        name: Cartagena
+        name: 'Cartagena de Indias'
         latitude: '10.39972000'
         longitude: '-75.51444000'
       -
@@ -100937,11 +100907,6 @@ country_city:
         name: Cartago
         latitude: '4.74639000'
         longitude: '-75.91167000'
-      -
-        id: 20662
-        name: Cartago
-        latitude: '1.55151000'
-        longitude: '-77.11948000'
       -
         id: 20663
         name: Caruru
@@ -100988,11 +100953,6 @@ country_city:
         latitude: '10.32585000'
         longitude: '-74.86933000'
       -
-        id: 20672
-        name: 'Cerro San Antonio'
-        latitude: '10.29063000'
-        longitude: '-74.82173000'
-      -
         id: 20767
         name: Cértegui
         latitude: '5.37073000'
@@ -101037,16 +100997,6 @@ country_city:
         name: Chía
         latitude: '4.84452000'
         longitude: '-74.05848000'
-      -
-        id: 20681
-        name: Chibolo
-        latitude: '10.08250000'
-        longitude: '-74.50696000'
-      -
-        id: 20682
-        name: Chicoral
-        latitude: '4.21536000'
-        longitude: '-74.98189000'
       -
         id: 20683
         name: Chigorodó
@@ -101140,8 +101090,8 @@ country_city:
       -
         id: 20700
         name: Chivolo
-        latitude: '10.02502000'
-        longitude: '-74.62279000'
+        latitude: '10.02638888'
+        longitude: '-74.62138888'
       -
         id: 20701
         name: Chivor
@@ -101368,11 +101318,6 @@ country_city:
         latitude: '6.30173000'
         longitude: '-70.20415000'
       -
-        id: 20747
-        name: 'Cruces de Anorí'
-        latitude: '7.18333000'
-        longitude: '-75.06667000'
-      -
         id: 20748
         name: Cuaspud
         latitude: '0.87570000'
@@ -101463,11 +101408,6 @@ country_city:
         latitude: '3.65685000'
         longitude: '-76.68859000'
       -
-        id: 20775
-        name: Darien
-        latitude: '3.93135000'
-        longitude: '-76.48481000'
-      -
         id: 20776
         name: Dibulla
         latitude: '11.27251000'
@@ -101478,20 +101418,10 @@ country_city:
         latitude: '10.89784000'
         longitude: '-72.88666000'
       -
-        id: 20778
-        name: Doima
-        latitude: '4.42692000'
-        longitude: '-74.97548000'
-      -
         id: 20779
         name: Dolores
         latitude: '3.60534000'
         longitude: '-74.80585000'
-      -
-        id: 20780
-        name: 'Don Matías'
-        latitude: '6.50559000'
-        longitude: '-75.36645000'
       -
         id: 20781
         name: Donmatías
@@ -101538,11 +101468,6 @@ country_city:
         latitude: '9.00114000'
         longitude: '-73.97581000'
       -
-        id: 20788
-        name: 'El Bordo'
-        latitude: '2.11696000'
-        longitude: '-76.98214000'
-      -
         id: 20789
         name: 'El Cairo'
         latitude: '4.74889000'
@@ -101558,20 +101483,10 @@ country_city:
         latitude: '5.33889000'
         longitude: '-76.73139000'
       -
-        id: 20792
-        name: 'El Cantón del San Pablo'
-        latitude: '5.35989000'
-        longitude: '-76.77280000'
-      -
         id: 20793
         name: 'El Carmen'
         latitude: '8.51064000'
         longitude: '-73.44776000'
-      -
-        id: 20794
-        name: 'El Carmen'
-        latitude: '5.88778000'
-        longitude: '-75.16417000'
       -
         id: 20795
         name: 'El Carmen de Atrato'
@@ -101588,10 +101503,10 @@ country_city:
         latitude: '6.69736000'
         longitude: '-73.51117000'
       -
-        id: 20798
+        id: 20656
         name: 'El Carmen de Viboral'
-        latitude: '5.97810000'
-        longitude: '-75.26322000'
+        latitude: '6.08236000'
+        longitude: '-75.33509000'
       -
         id: 20799
         name: 'El Castillo'
@@ -101628,6 +101543,11 @@ country_city:
         latitude: '1.67817000'
         longitude: '-75.28466000'
       -
+        id: 149240
+        name: 'El Dorado'
+        latitude: '3.73916777'
+        longitude: '-73.83527888'
+      -
         id: 20806
         name: 'El Dovio'
         latitude: '4.50790000'
@@ -101652,16 +101572,6 @@ country_city:
         name: 'El Guamo'
         latitude: '10.01753000'
         longitude: '-74.93483000'
-      -
-        id: 20811
-        name: 'El Litoral del San Juan'
-        latitude: '4.25070000'
-        longitude: '-76.96926000'
-      -
-        id: 21159
-        name: 'El Maríachi'
-        latitude: '5.13278000'
-        longitude: '-74.15977000'
       -
         id: 20812
         name: 'El Molino'
@@ -101733,20 +101643,15 @@ country_city:
         latitude: '1.84593000'
         longitude: '-77.40620000'
       -
-        id: 20828
+        id: 21441
         name: 'El Santuario'
-        latitude: '6.13568000'
-        longitude: '-75.25705000'
+        latitude: '6.13833000'
+        longitude: '-75.26417000'
       -
         id: 20829
-        name: 'El Tablón'
+        name: 'El Tablón de Gómez'
         latitude: '1.42717000'
         longitude: '-77.09693000'
-      -
-        id: 20830
-        name: 'El Tablón de Gómez'
-        latitude: '1.41201000'
-        longitude: '-76.98526000'
       -
         id: 20831
         name: 'El Tambo'
@@ -101880,8 +101785,8 @@ country_city:
       -
         id: 20858
         name: 'Francisco Pizarro'
-        latitude: '2.14713000'
-        longitude: '-78.58883000'
+        latitude: '2.04060000'
+        longitude: '-78.65877000'
       -
         id: 20859
         name: Fredonia
@@ -101892,11 +101797,6 @@ country_city:
         name: Fresno
         latitude: '5.15264000'
         longitude: '-75.03624000'
-      -
-        id: 20862
-        name: Frías
-        latitude: '5.02973000'
-        longitude: '-75.00860000'
       -
         id: 20861
         name: Frontino
@@ -101953,11 +101853,6 @@ country_city:
         latitude: '4.87104000'
         longitude: '-73.61730000'
       -
-        id: 20875
-        name: Gaitania
-        latitude: '3.15000000'
-        longitude: '-75.81667000'
-      -
         id: 20878
         name: Galán
         latitude: '6.66271000'
@@ -102002,11 +101897,6 @@ country_city:
         name: Garzón
         latitude: '2.19611111'
         longitude: '-75.62916667'
-      -
-        id: 20929
-        name: Génova
-        latitude: '1.64367000'
-        longitude: '-77.01924000'
       -
         id: 20930
         name: Génova
@@ -102087,6 +101977,11 @@ country_city:
         name: Guacarí
         latitude: '3.76383000'
         longitude: '-76.33292000'
+      -
+        id: 149241
+        name: Guachené
+        latitude: '3.13361111'
+        longitude: '-76.39255555'
       -
         id: 20898
         name: Guachetá
@@ -102203,11 +102098,6 @@ country_city:
         latitude: '5.95502000'
         longitude: '-73.70018000'
       -
-        id: 20920
-        name: Guayabal
-        latitude: '5.03103000'
-        longitude: '-74.88683000'
-      -
         id: 20921
         name: 'Guayabal de Siquima'
         latitude: '4.87881000'
@@ -102255,8 +102145,8 @@ country_city:
       -
         id: 20937
         name: 'Hato Corozal'
-        latitude: '6.16278000'
-        longitude: '-70.99694000'
+        latitude: '6.15472222'
+        longitude: '-71.76527888'
       -
         id: 20938
         name: Hatonuevo
@@ -102333,11 +102223,6 @@ country_city:
         latitude: '2.64833333'
         longitude: '-75.63638889'
       -
-        id: 20951
-        name: Iscuandé
-        latitude: '2.45065000'
-        longitude: '-77.97998000'
-      -
         id: 143891
         name: Isnos
         latitude: '1.92888889'
@@ -102413,11 +102298,6 @@ country_city:
         latitude: '10.82930000'
         longitude: '-75.03346000'
       -
-        id: 20967
-        name: Junín
-        latitude: '4.78333000'
-        longitude: '-75.01667000'
-      -
         id: 20968
         name: Junín
         latitude: '4.70725000'
@@ -102432,6 +102312,11 @@ country_city:
         name: 'La Apartada'
         latitude: '8.04787000'
         longitude: '-75.30097000'
+      -
+        id: 149242
+        name: 'La Argentina'
+        latitude: '2.19755555'
+        longitude: '-75.98888888'
       -
         id: 20971
         name: 'La Belleza'
@@ -102458,11 +102343,6 @@ country_city:
         latitude: '5.00332000'
         longitude: '-76.00355000'
       -
-        id: 20976
-        name: 'La Chamba'
-        latitude: '4.02649000'
-        longitude: '-74.86844000'
-      -
         id: 20977
         name: 'La Chorrera'
         latitude: '-1.48894000'
@@ -102477,11 +102357,6 @@ country_city:
         name: 'La Cumbre'
         latitude: '3.72250000'
         longitude: '-76.02083000'
-      -
-        id: 20980
-        name: 'La Dorada'
-        latitude: '0.34314000'
-        longitude: '-76.91124000'
       -
         id: 20981
         name: 'La Dorada'
@@ -102532,11 +102407,6 @@ country_city:
         name: 'La Macarena'
         latitude: '2.00702000'
         longitude: '-74.07320000'
-      -
-        id: 20991
-        name: 'La Merced'
-        latitude: '5.40194000'
-        longitude: '-75.88472000'
       -
         id: 20992
         name: 'La Merced'
@@ -102597,6 +102467,11 @@ country_city:
         name: 'La Primavera'
         latitude: '5.49056000'
         longitude: '-70.40917000'
+      -
+        id: 149243
+        name: 'La Salina'
+        latitude: '6.12755555'
+        longitude: '-72.33416777'
       -
         id: 21003
         name: 'La Sierra'
@@ -102683,20 +102558,10 @@ country_city:
         latitude: '6.21826000'
         longitude: '-73.81121000'
       -
-        id: 21020
-        name: Laureles
-        latitude: '4.25917000'
-        longitude: '-75.32250000'
-      -
         id: 21021
         name: Lebrija
         latitude: '7.11317000'
         longitude: '-73.21780000'
-      -
-        id: 21023
-        name: Leguízamo
-        latitude: '0.05683000'
-        longitude: '-75.05832000'
       -
         id: 21024
         name: Leiva
@@ -102738,15 +102603,15 @@ country_city:
         latitude: '1.35078000'
         longitude: '-77.52339000'
       -
+        id: 21418
+        name: 'Litoral del San Juan'
+        latitude: '4.25875000'
+        longitude: '-77.36516000'
+      -
         id: 21030
         name: Lloró
         latitude: '5.49605000'
         longitude: '-76.54945000'
-      -
-        id: 21041
-        name: López
-        latitude: '2.43333000'
-        longitude: '-76.80000000'
       -
         id: 21031
         name: Lorica
@@ -102755,8 +102620,8 @@ country_city:
       -
         id: 21032
         name: 'Los Andes'
-        latitude: '1.62831000'
-        longitude: '-77.67959000'
+        latitude: '1.49474000'
+        longitude: '-77.52136000'
       -
         id: 21033
         name: 'Los Córdobas'
@@ -102818,10 +102683,10 @@ country_city:
         latitude: '9.24202000'
         longitude: '-74.75467000'
       -
-        id: 21049
-        name: Magüi
-        latitude: '1.90504000'
-        longitude: '-78.04916000'
+        id: 21189
+        name: 'Magüí Payán'
+        latitude: '1.76645000'
+        longitude: '-78.18326000'
       -
         id: 21050
         name: Mahates
@@ -102850,8 +102715,8 @@ country_city:
       -
         id: 21054
         name: Mallama
-        latitude: '1.15887000'
-        longitude: '-77.84688000'
+        latitude: '1.14109000'
+        longitude: '-77.86479000'
       -
         id: 21055
         name: Manatí
@@ -102862,11 +102727,6 @@ country_city:
         name: Manaure
         latitude: '11.77505000'
         longitude: '-72.44447000'
-      -
-        id: 21057
-        name: Manaure
-        latitude: '10.40138000'
-        longitude: '-72.93102000'
       -
         id: 21058
         name: 'Manaure Balcón del Cesar'
@@ -102910,8 +102770,8 @@ country_city:
       -
         id: 21072
         name: 'María la Baja'
-        latitude: '9.98320000'
-        longitude: '-75.30155000'
+        latitude: '9.99228000'
+        longitude: '-75.34364000'
       -
         id: 21066
         name: Marinilla
@@ -103138,40 +102998,15 @@ country_city:
         latitude: '5.57655000'
         longitude: '-73.36696000'
       -
-        id: 21111
-        name: Mountain
-        latitude: '13.36667000'
-        longitude: '-81.36667000'
-      -
-        id: 21114
-        name: 'Municipio de Cartagena de Indias'
-        latitude: '10.50743000'
-        longitude: '-75.45430000'
-      -
         id: 21115
         name: 'Municipio de López de Micay'
         latitude: '3.00000000'
         longitude: '-77.25000000'
       -
-        id: 21116
-        name: 'Municipio de María la Baja'
-        latitude: '9.99228000'
-        longitude: '-75.34364000'
-      -
         id: 21117
         name: 'Municipio de San Pedro de los Milagros'
         latitude: '6.46538000'
         longitude: '-75.56452000'
-      -
-        id: 21118
-        name: 'Municipio de San Sebastián de Mariquita'
-        latitude: '5.24269000'
-        longitude: '-74.90772000'
-      -
-        id: 21113
-        name: 'Municipio Hato Corozal'
-        latitude: '6.15676000'
-        longitude: '-71.76372000'
       -
         id: 21119
         name: Murillo
@@ -103383,6 +103218,11 @@ country_city:
         latitude: '5.13969000'
         longitude: '-73.39739000'
       -
+        id: 21159
+        name: Pacho
+        latitude: '5.13055555'
+        longitude: '-74.15833333'
+      -
         id: 21160
         name: Pacoa
         latitude: '0.15636000'
@@ -103398,15 +103238,10 @@ country_city:
         latitude: '3.22038000'
         longitude: '-76.31385000'
       -
-        id: 21162
-        name: Padua
-        latitude: '5.13429000'
-        longitude: '-75.14001000'
-      -
         id: 21163
-        name: Paez
-        latitude: '2.75000000'
-        longitude: '-76.00000000'
+        name: Páez
+        latitude: '2.64644000'
+        longitude: '-75.97269000'
       -
         id: 21268
         name: Páez
@@ -103432,11 +103267,6 @@ country_city:
         name: Paipa
         latitude: '5.78013000'
         longitude: '-73.11708000'
-      -
-        id: 21167
-        name: Paispamba
-        latitude: '2.25462000'
-        longitude: '-76.61086000'
       -
         id: 21168
         name: Pajarito
@@ -103553,15 +103383,10 @@ country_city:
         latitude: '5.62492000'
         longitude: '-72.42345000'
       -
-        id: 21189
-        name: Payán
-        latitude: '1.76645000'
-        longitude: '-78.18326000'
-      -
-        id: 21188
-        name: Payandé
-        latitude: '4.29750000'
-        longitude: '-75.09667000'
+        id: 149244
+        name: 'Paz de Ariporo'
+        latitude: '5.88111111'
+        longitude: '-71.89166777'
       -
         id: 21190
         name: 'Paz de Río'
@@ -103603,20 +103428,15 @@ country_city:
         latitude: '5.50213000'
         longitude: '-73.08794000'
       -
-        id: 21198
-        name: 'Pie de Pató'
-        latitude: '5.51604000'
-        longitude: '-76.97449000'
+        id: 149245
+        name: Piamonte
+        latitude: '1.11583333'
+        longitude: '-76.32611111'
       -
         id: 21199
         name: Piedecuesta
         latitude: '6.97443000'
         longitude: '-73.02284000'
-      -
-        id: 21200
-        name: Piedrancha
-        latitude: '1.14109000'
-        longitude: '-77.86479000'
       -
         id: 21201
         name: Piedras
@@ -103673,11 +103493,6 @@ country_city:
         latitude: '10.46167000'
         longitude: '-74.61621000'
       -
-        id: 21211
-        name: Pizarro
-        latitude: '4.95334000'
-        longitude: '-77.36598000'
-      -
         id: 21212
         name: Planadas
         latitude: '3.10326000'
@@ -103692,11 +103507,6 @@ country_city:
         name: Plato
         latitude: '9.77267000'
         longitude: '-74.74548000'
-      -
-        id: 21215
-        name: Playarrica
-        latitude: '4.05694000'
-        longitude: '-75.41028000'
       -
         id: 21216
         name: Policarpa
@@ -103742,6 +103552,16 @@ country_city:
         name: Providencia
         latitude: '13.38479000'
         longitude: '-81.37468000'
+      -
+        id: 149246
+        name: Providencia
+        latitude: '1.23888999'
+        longitude: '-77.59755555'
+      -
+        id: 149247
+        name: 'Pueblo Bello'
+        latitude: '10.41638999'
+        longitude: '-73.58666777'
       -
         id: 21225
         name: 'Pueblo Nuevo'
@@ -103793,15 +103613,15 @@ country_city:
         latitude: '6.50749000'
         longitude: '-74.52271000'
       -
-        id: 21235
-        name: 'Puerto Bogotá'
-        latitude: '5.19994000'
-        longitude: '-74.72733000'
-      -
         id: 21236
         name: 'Puerto Boyacá'
         latitude: '5.97214000'
         longitude: '-74.46349000'
+      -
+        id: 149248
+        name: 'Puerto Caicedo'
+        latitude: '0.68555555'
+        longitude: '-76.60444444'
       -
         id: 21237
         name: 'Puerto Carreño'
@@ -103880,8 +103700,8 @@ country_city:
       -
         id: 21252
         name: 'Puerto Rico'
-        latitude: '2.78273000'
-        longitude: '-73.13956000'
+        latitude: '2.93833000'
+        longitude: '-73.20833000'
       -
         id: 21253
         name: 'Puerto Rondón'
@@ -103918,11 +103738,6 @@ country_city:
         latitude: '7.34828000'
         longitude: '-73.89601000'
       -
-        id: 21260
-        name: 'Puerto Yuca'
-        latitude: '2.93833000'
-        longitude: '-73.20833000'
-      -
         id: 21261
         name: Pulí
         latitude: '4.68116000'
@@ -103943,13 +103758,8 @@ country_city:
         latitude: '3.85871000'
         longitude: '-74.93129000'
       -
-        id: 21265
-        name: Purísima
-        latitude: '9.24955000'
-        longitude: '-75.71181000'
-      -
         id: 21266
-        name: 'Purísima de la Concepción'
+        name: Purísima
         latitude: '9.23657000'
         longitude: '-75.72191000'
       -
@@ -104208,11 +104018,6 @@ country_city:
         latitude: '1.99333333'
         longitude: '-76.04527778'
       -
-        id: 21317
-        name: Salahonda
-        latitude: '2.04060000'
-        longitude: '-78.65877000'
-      -
         id: 21318
         name: Salamina
         latitude: '10.49027000'
@@ -104273,11 +104078,6 @@ country_city:
         latitude: '7.76107000'
         longitude: '-73.39220000'
       -
-        id: 21330
-        name: 'San Andrés'
-        latitude: '6.90333000'
-        longitude: '-75.68250000'
-      -
         id: 21331
         name: 'San Andrés'
         latitude: '12.58317000'
@@ -104288,18 +104088,13 @@ country_city:
         latitude: '6.81148000'
         longitude: '-72.84929000'
       -
-        id: 21334
+        id: 21330
         name: 'San Andrés de Cuerquía'
-        latitude: '6.91667000'
-        longitude: '-75.66667000'
-      -
-        id: 21329
-        name: 'San Andres de Tumaco'
-        latitude: '1.63766000'
-        longitude: '-78.61218000'
+        latitude: '6.90333000'
+        longitude: '-75.68250000'
       -
         id: 21333
-        name: 'San Andrés Sotavento'
+        name: 'San Andrés de Sotavento'
         latitude: '9.12183000'
         longitude: '-75.51627000'
       -
@@ -104307,11 +104102,6 @@ country_city:
         name: 'San Antero'
         latitude: '9.37410000'
         longitude: '-75.75891000'
-      -
-        id: 21336
-        name: 'San Antonio'
-        latitude: '9.93303000'
-        longitude: '-74.69346000'
       -
         id: 21337
         name: 'San Antonio'
@@ -104454,9 +104244,9 @@ country_city:
         longitude: '-75.79107000'
       -
         id: 21365
-        name: 'San José'
-        latitude: '1.69659000'
-        longitude: '-78.24482000'
+        name: 'San José de Albán'
+        latitude: '1.47388999'
+        longitude: '-77.08083333'
       -
         id: 21366
         name: 'San José de la Montaña'
@@ -104472,6 +104262,11 @@ country_city:
         name: 'San José de Pare'
         latitude: '6.01746000'
         longitude: '-73.54703000'
+      -
+        id: 149251
+        name: 'San José de Uré'
+        latitude: '7.78722222'
+        longitude: '-75.53305666'
       -
         id: 21369
         name: 'San José del Fragua'
@@ -104518,6 +104313,11 @@ country_city:
         latitude: '9.94976000'
         longitude: '-75.07426000'
       -
+        id: 149252
+        name: 'San Juanito'
+        latitude: '4.45861111'
+        longitude: '-73.67555666'
+      -
         id: 21378
         name: 'San Lorenzo'
         latitude: '1.55731000'
@@ -104527,6 +104327,11 @@ country_city:
         name: 'San Luis'
         latitude: '4.16667000'
         longitude: '-75.08333000'
+      -
+        id: 149253
+        name: 'San Luis'
+        latitude: '6.04222222'
+        longitude: '-74.99333333'
       -
         id: 21380
         name: 'San Luis de Gaceno'
@@ -104575,8 +104380,8 @@ country_city:
       -
         id: 21389
         name: 'San Miguel'
-        latitude: '0.34300000'
-        longitude: '-76.91000000'
+        latitude: '0.34361111'
+        longitude: '-76.91083333'
       -
         id: 21390
         name: 'San Miguel de Sema'
@@ -104608,11 +104413,6 @@ country_city:
         latitude: '9.39560000'
         longitude: '-75.06476000'
       -
-        id: 21396
-        name: 'San Pedro'
-        latitude: '6.46135000'
-        longitude: '-75.55778000'
-      -
         id: 21397
         name: 'San Pedro'
         latitude: '3.99936000'
@@ -104620,8 +104420,8 @@ country_city:
       -
         id: 21398
         name: 'San Pedro de Cartago'
-        latitude: '1.55533000'
-        longitude: '-77.12984000'
+        latitude: '1.55151000'
+        longitude: '-77.11948000'
       -
         id: 21399
         name: 'San Pedro de Uraba'
@@ -104648,20 +104448,25 @@ country_city:
         latitude: '1.91667000'
         longitude: '-76.66667000'
       -
+        id: 20606
+        name: 'San Sebastián de Buenavista'
+        latitude: '9.23916666'
+        longitude: '-74.35194444'
+      -
         id: 21405
         name: 'San Sebastián de Mariquita'
-        latitude: '5.19889000'
-        longitude: '-74.89295000'
-      -
-        id: 21406
-        name: 'San Vicente'
-        latitude: '6.28535000'
-        longitude: '-75.33385000'
+        latitude: '5.24269000'
+        longitude: '-74.90772000'
       -
         id: 21408
         name: 'San Vicente de Chucurí'
         latitude: '6.88100000'
         longitude: '-73.40977000'
+      -
+        id: 149254
+        name: 'San Vicente del Caguán'
+        latitude: '2.11527888'
+        longitude: '-74.77777777'
       -
         id: 21407
         name: 'San Vicente Ferrer'
@@ -104713,10 +104518,10 @@ country_city:
         latitude: '6.55687000'
         longitude: '-75.82806000'
       -
-        id: 21418
-        name: 'Santa Genoveva de Docordó'
-        latitude: '4.25875000'
-        longitude: '-77.36516000'
+        id: 149249
+        name: 'Santa Helena Del Opón'
+        latitude: '6.33916777'
+        longitude: '-73.61666777'
       -
         id: 21419
         name: 'Santa Isabel'
@@ -104747,6 +104552,11 @@ country_city:
         name: 'Santa Rosa'
         latitude: '10.47312000'
         longitude: '-75.36160000'
+      -
+        id: 149250
+        name: 'Santa Rosa'
+        latitude: '1.70055666'
+        longitude: '-76.57277888'
       -
         id: 21424
         name: 'Santa Rosa de Cabal'
@@ -104783,11 +104593,6 @@ country_city:
         latitude: '1.52090000'
         longitude: '-77.26206000'
       -
-        id: 21432
-        name: 'Santafé de Antioquia'
-        latitude: '6.55000000'
-        longitude: '-75.90000000'
-      -
         id: 21433
         name: Santana
         latitude: '6.04464000'
@@ -104813,11 +104618,6 @@ country_city:
         latitude: '9.52392000'
         longitude: '-75.58139000'
       -
-        id: 21437
-        name: 'Santiago Pérez'
-        latitude: '3.39806000'
-        longitude: '-75.60500000'
-      -
         id: 21439
         name: 'Santo Domingo'
         latitude: '6.47282000'
@@ -104827,11 +104627,6 @@ country_city:
         name: 'Santo Tomás'
         latitude: '10.75773000'
         longitude: '-74.75451000'
-      -
-        id: 21441
-        name: Santuario
-        latitude: '6.13833000'
-        longitude: '-75.26417000'
       -
         id: 21442
         name: Santuario
@@ -104958,11 +104753,6 @@ country_city:
         latitude: '5.92926000'
         longitude: '-72.70072000'
       -
-        id: 21467
-        name: 'Socha Viejo'
-        latitude: '5.98170000'
-        longitude: '-72.71503000'
-      -
         id: 21468
         name: Socorro
         latitude: '6.45647000'
@@ -104987,6 +104777,11 @@ country_city:
         name: Soledad
         latitude: '10.89986000'
         longitude: '-74.78787000'
+      -
+        id: 149255
+        name: Solita
+        latitude: '0.87583333'
+        longitude: '-75.61972222'
       -
         id: 21473
         name: Somondoco
@@ -105029,14 +104824,9 @@ country_city:
         longitude: '-73.24758000'
       -
         id: 21482
-        name: Sotara
+        name: Sotará
         latitude: '2.25000000'
         longitude: '-76.58333000'
-      -
-        id: 21483
-        name: Sotomayor
-        latitude: '1.49474000'
-        longitude: '-77.52136000'
       -
         id: 21484
         name: Suaita
@@ -105143,11 +104933,6 @@ country_city:
         latitude: '9.30347000'
         longitude: '-74.56477000'
       -
-        id: 21506
-        name: 'Talaigua Viejo'
-        latitude: '9.31206000'
-        longitude: '-74.58544000'
-      -
         id: 21507
         name: Tamalameque
         latitude: '8.86422000'
@@ -105243,6 +105028,11 @@ country_city:
         latitude: '5.07664000'
         longitude: '-73.42077000'
       -
+        id: 149256
+        name: Teorama
+        latitude: '8.43527888'
+        longitude: '-73.28638999'
+      -
         id: 143908
         name: Teruel
         latitude: '2.74055556'
@@ -105287,6 +105077,11 @@ country_city:
         name: Timana
         latitude: '1.97136000'
         longitude: '-75.93123000'
+      -
+        id: 149257
+        name: Timbío
+        latitude: '2.35277888'
+        longitude: '-76.68194444'
       -
         id: 21528
         name: Timbiquí
@@ -105383,11 +105178,6 @@ country_city:
         latitude: '2.50518000'
         longitude: '-76.39254000'
       -
-        id: 21547
-        name: 'Tres Esquinas'
-        latitude: '3.86512000'
-        longitude: '-74.70906000'
-      -
         id: 21548
         name: Trinidad
         latitude: '5.34778000'
@@ -105402,6 +105192,11 @@ country_city:
         name: Tubará
         latitude: '10.87562000'
         longitude: '-74.97873000'
+      -
+        id: 149258
+        name: Tuchín
+        latitude: '9.18583333'
+        longitude: '-75.55527888'
       -
         id: 21551
         name: Tuluá
@@ -105497,6 +105292,11 @@ country_city:
         name: Uramita
         latitude: '6.89944000'
         longitude: '-76.17417000'
+      -
+        id: 149259
+        name: Uribe
+        latitude: '3.24083333'
+        longitude: '-74.35361111'
       -
         id: 21573
         name: Uribia
@@ -105627,6 +105427,11 @@ country_city:
         name: Vijes
         latitude: '3.73283000'
         longitude: '-76.49363000'
+      -
+        id: 149260
+        name: 'Villa Caro'
+        latitude: '7.91472222'
+        longitude: '-72.97194444'
       -
         id: 21598
         name: 'Villa de Leyva'
@@ -123912,6 +123717,11 @@ country_city:
         name: Llacao
         latitude: '-2.86667000'
         longitude: '-78.88333000'
+      -
+        id: 149262
+        name: Loja
+        latitude: '-3.99313000'
+        longitude: '-79.20422000'
       -
         id: 31522
         name: 'Lomas de Sargentillo'
@@ -745466,6 +745276,11 @@ country_city:
         name: Caraballeda
         latitude: '10.61216000'
         longitude: '-66.85192000'
+      -
+        id: 149261
+        name: Caracas
+        latitude: '10.50000000'
+        longitude: '-66.93333333'
       -
         id: 130056
         name: Caripito

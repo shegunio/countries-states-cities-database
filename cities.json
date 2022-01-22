@@ -252187,6 +252187,19 @@
         "wikiDataId": "Q13667923"
     },
     {
+        "id": 149236,
+        "name": "Zhaoguli",
+        "state_id": 2276,
+        "state_code": "TJ",
+        "state_name": "Tianjin",
+        "country_id": 45,
+        "country_code": "CN",
+        "country_name": "China",
+        "latitude": "39.16673000",
+        "longitude": "117.24191000",
+        "wikiDataId": "Q13667923"
+    },
+    {
         "id": 19273,
         "name": "Ailan Mubage",
         "state_id": 2263,
@@ -253994,6 +254007,19 @@
         "wikiDataId": "Q1525268"
     },
     {
+        "id": 20747,
+        "name": "Anorí",
+        "state_id": 2890,
+        "state_code": "ANT",
+        "state_name": "Antioquia",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "7.07361111",
+        "longitude": "-75.14694444",
+        "wikiDataId": "Q1526012"
+    },
+    {
         "id": 20527,
         "name": "Anza",
         "state_id": 2890,
@@ -254254,19 +254280,6 @@
         "wikiDataId": "Q1946648"
     },
     {
-        "id": 20656,
-        "name": "Carmen de Viboral",
-        "state_id": 2890,
-        "state_code": "ANT",
-        "state_name": "Antioquia",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "6.08236000",
-        "longitude": "-75.33509000",
-        "wikiDataId": "Q1256664"
-    },
-    {
         "id": 20658,
         "name": "Carolina",
         "state_id": 2890,
@@ -254384,19 +254397,6 @@
         "wikiDataId": "Q1525332"
     },
     {
-        "id": 20747,
-        "name": "Cruces de Anorí",
-        "state_id": 2890,
-        "state_code": "ANT",
-        "state_name": "Antioquia",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "7.18333000",
-        "longitude": "-75.06667000",
-        "wikiDataId": "Q23693832"
-    },
-    {
         "id": 20773,
         "name": "Dabeiba",
         "state_id": 2890,
@@ -254408,19 +254408,6 @@
         "latitude": "7.03367000",
         "longitude": "-76.34161000",
         "wikiDataId": "Q1441773"
-    },
-    {
-        "id": 20780,
-        "name": "Don Matías",
-        "state_id": 2890,
-        "state_code": "ANT",
-        "state_name": "Antioquia",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "6.50559000",
-        "longitude": "-75.36645000",
-        "wikiDataId": "Q520486"
     },
     {
         "id": 20781,
@@ -254462,7 +254449,7 @@
         "wikiDataId": "Q1014722"
     },
     {
-        "id": 20798,
+        "id": 20656,
         "name": "El Carmen de Viboral",
         "state_id": 2890,
         "state_code": "ANT",
@@ -254470,12 +254457,12 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "5.97810000",
-        "longitude": "-75.26322000",
-        "wikiDataId": "Q515182"
+        "latitude": "6.08236000",
+        "longitude": "-75.33509000",
+        "wikiDataId": "Q1256664"
     },
     {
-        "id": 20828,
+        "id": 21441,
         "name": "El Santuario",
         "state_id": 2890,
         "state_code": "ANT",
@@ -254483,9 +254470,9 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "6.13568000",
-        "longitude": "-75.25705000",
-        "wikiDataId": "Q1574979"
+        "latitude": "6.13833000",
+        "longitude": "-75.26417000",
+        "wikiDataId": "Q1440830"
     },
     {
         "id": 20838,
@@ -255074,7 +255061,7 @@
     },
     {
         "id": 21330,
-        "name": "San Andrés",
+        "name": "San Andrés de Cuerquía",
         "state_id": 2890,
         "state_code": "ANT",
         "state_name": "Antioquia",
@@ -255084,19 +255071,6 @@
         "latitude": "6.90333000",
         "longitude": "-75.68250000",
         "wikiDataId": "Q2433819"
-    },
-    {
-        "id": 21334,
-        "name": "San Andrés de Cuerquía",
-        "state_id": 2890,
-        "state_code": "ANT",
-        "state_name": "Antioquia",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "6.91667000",
-        "longitude": "-75.66667000",
-        "wikiDataId": "Q2433828"
     },
     {
         "id": 21345,
@@ -255164,17 +255138,17 @@
         "wikiDataId": "Q1441760"
     },
     {
-        "id": 21396,
-        "name": "San Pedro",
+        "id": 149253,
+        "name": "San Luis",
         "state_id": 2890,
         "state_code": "ANT",
         "state_name": "Antioquia",
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "6.46135000",
-        "longitude": "-75.55778000",
-        "wikiDataId": "Q23682955"
+        "latitude": "6.04222222",
+        "longitude": "-74.99333333",
+        "wikiDataId": "Q2057762"
     },
     {
         "id": 21399,
@@ -255214,19 +255188,6 @@
         "latitude": "6.48511000",
         "longitude": "-75.01960000",
         "wikiDataId": "Q1525767"
-    },
-    {
-        "id": 21406,
-        "name": "San Vicente",
-        "state_id": 2890,
-        "state_code": "ANT",
-        "state_name": "Antioquia",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "6.28535000",
-        "longitude": "-75.33385000",
-        "wikiDataId": "Q23686108"
     },
     {
         "id": 21407,
@@ -255281,19 +255242,6 @@
         "wikiDataId": "Q2088093"
     },
     {
-        "id": 21432,
-        "name": "Santafé de Antioquia",
-        "state_id": 2890,
-        "state_code": "ANT",
-        "state_name": "Antioquia",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "6.55000000",
-        "longitude": "-75.90000000",
-        "wikiDataId": "Q23699352"
-    },
-    {
         "id": 21439,
         "name": "Santo Domingo",
         "state_id": 2890,
@@ -255305,19 +255253,6 @@
         "latitude": "6.47282000",
         "longitude": "-75.16547000",
         "wikiDataId": "Q1578783"
-    },
-    {
-        "id": 21441,
-        "name": "Santuario",
-        "state_id": 2890,
-        "state_code": "ANT",
-        "state_name": "Antioquia",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "6.13833000",
-        "longitude": "-75.26417000",
-        "wikiDataId": "Q1440830"
     },
     {
         "id": 21449,
@@ -255983,6 +255918,19 @@
         "wikiDataId": "Q2084023"
     },
     {
+        "id": 149237,
+        "name": "Bogotá D.C.",
+        "state_id": 4921,
+        "state_code": "DC",
+        "state_name": "Bogotá D.C.",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "4.61263889",
+        "longitude": "-74.07050000",
+        "wikiDataId": "Q2841"
+    },
+    {
         "id": 20490,
         "name": "Achí",
         "state_id": 2893,
@@ -256088,7 +256036,7 @@
     },
     {
         "id": 20659,
-        "name": "Cartagena",
+        "name": "Cartagena de Indias",
         "state_id": 2893,
         "state_code": "BOL",
         "state_name": "Bolívar",
@@ -256238,9 +256186,9 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "9.98320000",
-        "longitude": "-75.30155000",
-        "wikiDataId": "Q1654886"
+        "latitude": "9.99228000",
+        "longitude": "-75.34364000",
+        "wikiDataId": "Q597264"
     },
     {
         "id": 21093,
@@ -256280,32 +256228,6 @@
         "latitude": "8.27520000",
         "longitude": "-73.86884000",
         "wikiDataId": "Q2432408"
-    },
-    {
-        "id": 21114,
-        "name": "Municipio de Cartagena de Indias",
-        "state_id": 2893,
-        "state_code": "BOL",
-        "state_name": "Bolívar",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "10.50743000",
-        "longitude": "-75.45430000",
-        "wikiDataId": "Q23688993"
-    },
-    {
-        "id": 21116,
-        "name": "Municipio de María la Baja",
-        "state_id": 2893,
-        "state_code": "BOL",
-        "state_name": "Bolívar",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "9.99228000",
-        "longitude": "-75.34364000",
-        "wikiDataId": "Q597264"
     },
     {
         "id": 21138,
@@ -256540,19 +256462,6 @@
         "latitude": "9.30347000",
         "longitude": "-74.56477000",
         "wikiDataId": "Q1576337"
-    },
-    {
-        "id": 21506,
-        "name": "Talaigua Viejo",
-        "state_id": 2893,
-        "state_code": "BOL",
-        "state_name": "Bolívar",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "9.31206000",
-        "longitude": "-74.58544000",
-        "wikiDataId": "Q23682051"
     },
     {
         "id": 21531,
@@ -257842,19 +257751,6 @@
         "wikiDataId": "Q1574712"
     },
     {
-        "id": 21467,
-        "name": "Socha Viejo",
-        "state_id": 2903,
-        "state_code": "BOY",
-        "state_name": "Boyacá",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "5.98170000",
-        "longitude": "-72.71503000",
-        "wikiDataId": "Q23681860"
-    },
-    {
         "id": 21469,
         "name": "Socotá",
         "state_id": 2903,
@@ -258739,6 +258635,19 @@
         "wikiDataId": "Q1525719"
     },
     {
+        "id": 149254,
+        "name": "San Vicente del Caguán",
+        "state_id": 2891,
+        "state_code": "CAQ",
+        "state_name": "Caquetá",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "2.11527888",
+        "longitude": "-74.77777777",
+        "wikiDataId": "Q1642041"
+    },
+    {
         "id": 21471,
         "name": "Solano",
         "state_id": 2891,
@@ -258750,6 +258659,19 @@
         "latitude": "0.22842000",
         "longitude": "-73.27597000",
         "wikiDataId": "Q23730125"
+    },
+    {
+        "id": 149255,
+        "name": "Solita",
+        "state_id": 2891,
+        "state_code": "CAQ",
+        "state_name": "Caquetá",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "0.87583333",
+        "longitude": "-75.61972222",
+        "wikiDataId": "Q1575560"
     },
     {
         "id": 21583,
@@ -258799,9 +258721,22 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "6.16278000",
-        "longitude": "-70.99694000",
-        "wikiDataId": "Q1655700"
+        "latitude": "6.15472222",
+        "longitude": "-71.76527888",
+        "wikiDataId": "Q1575569"
+    },
+    {
+        "id": 149243,
+        "name": "La Salina",
+        "state_id": 2892,
+        "state_code": "CAS",
+        "state_name": "Casanare",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "6.12755555",
+        "longitude": "-72.33416777",
+        "wikiDataId": "Q952145"
     },
     {
         "id": 21062,
@@ -258830,19 +258765,6 @@
         "wikiDataId": "Q1525276"
     },
     {
-        "id": 21113,
-        "name": "Municipio Hato Corozal",
-        "state_id": 2892,
-        "state_code": "CAS",
-        "state_name": "Casanare",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "6.15676000",
-        "longitude": "-71.76372000",
-        "wikiDataId": "Q23688993"
-    },
-    {
         "id": 21141,
         "name": "Nunchía",
         "state_id": 2892,
@@ -258867,6 +258789,19 @@
         "latitude": "4.79035000",
         "longitude": "-71.33917000",
         "wikiDataId": "Q1576308"
+    },
+    {
+        "id": 149244,
+        "name": "Paz de Ariporo",
+        "state_id": 2892,
+        "state_code": "CAS",
+        "state_name": "Casanare",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "5.88111111",
+        "longitude": "-71.89166777",
+        "wikiDataId": "Q1442453"
     },
     {
         "id": 21220,
@@ -259038,19 +258973,6 @@
         "wikiDataId": "Q2309052"
     },
     {
-        "id": 20577,
-        "name": "Belalcázar",
-        "state_id": 2884,
-        "state_code": "CAU",
-        "state_name": "Cauca",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "2.64644000",
-        "longitude": "-75.97269000",
-        "wikiDataId": "Q1391859"
-    },
-    {
         "id": 20599,
         "name": "Bolívar",
         "state_id": 2884,
@@ -259129,19 +259051,6 @@
         "wikiDataId": "Q2236398"
     },
     {
-        "id": 20788,
-        "name": "El Bordo",
-        "state_id": 2884,
-        "state_code": "CAU",
-        "state_name": "Cauca",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "2.11696000",
-        "longitude": "-76.98214000",
-        "wikiDataId": "Q2330760"
-    },
-    {
         "id": 20831,
         "name": "El Tambo",
         "state_id": 2884,
@@ -259166,6 +259075,19 @@
         "latitude": "1.68318000",
         "longitude": "-77.07331000",
         "wikiDataId": "Q23691480"
+    },
+    {
+        "id": 149241,
+        "name": "Guachené",
+        "state_id": 2884,
+        "state_code": "CAU",
+        "state_name": "Cauca",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "3.13361111",
+        "longitude": "-76.39255555",
+        "wikiDataId": "Q3091297"
     },
     {
         "id": 20909,
@@ -259231,19 +259153,6 @@
         "latitude": "2.06201000",
         "longitude": "-76.76808000",
         "wikiDataId": "Q2309024"
-    },
-    {
-        "id": 21041,
-        "name": "López",
-        "state_id": 2884,
-        "state_code": "CAU",
-        "state_name": "Cauca",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "2.43333000",
-        "longitude": "-76.80000000",
-        "wikiDataId": "Q23687826"
     },
     {
         "id": 21080,
@@ -259312,29 +259221,16 @@
     },
     {
         "id": 21163,
-        "name": "Paez",
+        "name": "Páez",
         "state_id": 2884,
         "state_code": "CAU",
         "state_name": "Cauca",
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "2.75000000",
-        "longitude": "-76.00000000",
-        "wikiDataId": "Q2433292"
-    },
-    {
-        "id": 21167,
-        "name": "Paispamba",
-        "state_id": 2884,
-        "state_code": "CAU",
-        "state_name": "Cauca",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "2.25462000",
-        "longitude": "-76.61086000",
-        "wikiDataId": "Q1391867"
+        "latitude": "2.64644000",
+        "longitude": "-75.97269000",
+        "wikiDataId": "Q1391859"
     },
     {
         "id": 21185,
@@ -259348,6 +259244,19 @@
         "latitude": "2.14018000",
         "longitude": "-77.01744000",
         "wikiDataId": "Q1256878"
+    },
+    {
+        "id": 149245,
+        "name": "Piamonte",
+        "state_id": 2884,
+        "state_code": "CAU",
+        "state_name": "Cauca",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "1.11583333",
+        "longitude": "-76.32611111",
+        "wikiDataId": "Q1579367"
     },
     {
         "id": 21202,
@@ -259428,6 +259337,19 @@
         "wikiDataId": "Q23682993"
     },
     {
+        "id": 149250,
+        "name": "Santa Rosa",
+        "state_id": 2884,
+        "state_code": "CAU",
+        "state_name": "Cauca",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "1.70055666",
+        "longitude": "-76.57277888",
+        "wikiDataId": "Q2026818"
+    },
+    {
         "id": 21434,
         "name": "Santander de Quilichao",
         "state_id": 2884,
@@ -259455,7 +259377,7 @@
     },
     {
         "id": 21482,
-        "name": "Sotara",
+        "name": "Sotará",
         "state_id": 2884,
         "state_code": "CAU",
         "state_name": "Cauca",
@@ -259491,6 +259413,19 @@
         "latitude": "2.06182000",
         "longitude": "-76.91438000",
         "wikiDataId": "Q23730838"
+    },
+    {
+        "id": 149257,
+        "name": "Timbío",
+        "state_id": 2884,
+        "state_code": "CAU",
+        "state_name": "Cauca",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "2.35277888",
+        "longitude": "-76.68194444",
+        "wikiDataId": "Q2309015"
     },
     {
         "id": 21528,
@@ -259571,19 +259506,6 @@
         "wikiDataId": "Q781307"
     },
     {
-        "id": 20547,
-        "name": "Ariguaní",
-        "state_id": 2899,
-        "state_code": "CES",
-        "state_name": "Cesar",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "10.25000000",
-        "longitude": "-74.00000000",
-        "wikiDataId": "Q23697005"
-    },
-    {
         "id": 20555,
         "name": "Astrea",
         "state_id": 2899,
@@ -259608,6 +259530,19 @@
         "latitude": "9.70413000",
         "longitude": "-73.27930000",
         "wikiDataId": "Q1524772"
+    },
+    {
+        "id": 149238,
+        "name": "Bosconia",
+        "state_id": 2899,
+        "state_code": "CES",
+        "state_name": "Cesar",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "9.97611111",
+        "longitude": "-73.89033333",
+        "wikiDataId": "Q1391851"
     },
     {
         "id": 20685,
@@ -259740,19 +259675,6 @@
         "wikiDataId": "Q1442342"
     },
     {
-        "id": 21057,
-        "name": "Manaure",
-        "state_id": 2899,
-        "state_code": "CES",
-        "state_name": "Cesar",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "10.40138000",
-        "longitude": "-72.93102000",
-        "wikiDataId": "Q635230"
-    },
-    {
         "id": 21058,
         "name": "Manaure Balcón del Cesar",
         "state_id": 2899,
@@ -259790,6 +259712,19 @@
         "latitude": "8.68819000",
         "longitude": "-73.66451000",
         "wikiDataId": "Q962740"
+    },
+    {
+        "id": 149247,
+        "name": "Pueblo Bello",
+        "state_id": 2899,
+        "state_code": "CES",
+        "state_name": "Cesar",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "10.41638999",
+        "longitude": "-73.58666777",
+        "wikiDataId": "Q1526171"
     },
     {
         "id": 21307,
@@ -259884,16 +259819,16 @@
     },
     {
         "id": 20509,
-        "name": "Alto Baudo",
+        "name": "Alto Baudó",
         "state_id": 2876,
         "state_code": "CHO",
         "state_name": "Chocó",
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "5.60464000",
-        "longitude": "-77.06975000",
-        "wikiDataId": "Q748817"
+        "latitude": "5.51604000",
+        "longitude": "-76.97449000",
+        "wikiDataId": "Q1391883"
     },
     {
         "id": 20557,
@@ -259943,13 +259878,13 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "4.90181000",
-        "longitude": "-77.22771000",
-        "wikiDataId": "Q1579457"
+        "latitude": "4.95334000",
+        "longitude": "-77.36598000",
+        "wikiDataId": "Q1525766"
     },
     {
-        "id": 20578,
-        "name": "Bellavista",
+        "id": 20596,
+        "name": "Bojayá",
         "state_id": 2876,
         "state_code": "CHO",
         "state_name": "Chocó",
@@ -259961,19 +259896,6 @@
         "wikiDataId": "Q1579055"
     },
     {
-        "id": 20596,
-        "name": "Bojaya",
-        "state_id": 2876,
-        "state_code": "CHO",
-        "state_name": "Chocó",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "6.50000000",
-        "longitude": "-77.10000000",
-        "wikiDataId": "Q1577083"
-    },
-    {
         "id": 20657,
         "name": "Carmen del Darien",
         "state_id": 2876,
@@ -259982,9 +259904,9 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "7.03639000",
-        "longitude": "-76.95222000",
-        "wikiDataId": "Q1256664"
+        "latitude": "7.15777888",
+        "longitude": "-76.97083333",
+        "wikiDataId": "Q963885"
     },
     {
         "id": 20767,
@@ -260026,32 +259948,6 @@
         "wikiDataId": "Q1576215"
     },
     {
-        "id": 20792,
-        "name": "El Cantón del San Pablo",
-        "state_id": 2876,
-        "state_code": "CHO",
-        "state_name": "Chocó",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "5.35989000",
-        "longitude": "-76.77280000",
-        "wikiDataId": "Q1576215"
-    },
-    {
-        "id": 20794,
-        "name": "El Carmen",
-        "state_id": 2876,
-        "state_code": "CHO",
-        "state_name": "Chocó",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "5.88778000",
-        "longitude": "-75.16417000",
-        "wikiDataId": "Q23693021"
-    },
-    {
         "id": 20795,
         "name": "El Carmen de Atrato",
         "state_id": 2876,
@@ -260063,19 +259959,6 @@
         "latitude": "5.83333000",
         "longitude": "-76.25000000",
         "wikiDataId": "Q533627"
-    },
-    {
-        "id": 20811,
-        "name": "El Litoral del San Juan",
-        "state_id": 2876,
-        "state_code": "CHO",
-        "state_name": "Chocó",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "4.25070000",
-        "longitude": "-76.96926000",
-        "wikiDataId": "Q1576366"
     },
     {
         "id": 20952,
@@ -260102,6 +259985,19 @@
         "latitude": "7.10421000",
         "longitude": "-77.76200000",
         "wikiDataId": "Q1655005"
+    },
+    {
+        "id": 21418,
+        "name": "Litoral del San Juan",
+        "state_id": 2876,
+        "state_code": "CHO",
+        "state_name": "Chocó",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "4.25875000",
+        "longitude": "-77.36516000",
+        "wikiDataId": "Q931811"
     },
     {
         "id": 21030,
@@ -260182,32 +260078,6 @@
         "wikiDataId": "Q1577833"
     },
     {
-        "id": 21198,
-        "name": "Pie de Pató",
-        "state_id": 2876,
-        "state_code": "CHO",
-        "state_name": "Chocó",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "5.51604000",
-        "longitude": "-76.97449000",
-        "wikiDataId": "Q1391883"
-    },
-    {
-        "id": 21211,
-        "name": "Pizarro",
-        "state_id": 2876,
-        "state_code": "CHO",
-        "state_name": "Chocó",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "4.95334000",
-        "longitude": "-77.36598000",
-        "wikiDataId": "Q1525766"
-    },
-    {
         "id": 21272,
         "name": "Quibdó",
         "state_id": 2876,
@@ -260271,19 +260141,6 @@
         "latitude": "4.89616000",
         "longitude": "-76.23422000",
         "wikiDataId": "Q1654797"
-    },
-    {
-        "id": 21418,
-        "name": "Santa Genoveva de Docordó",
-        "state_id": 2876,
-        "state_code": "CHO",
-        "state_name": "Chocó",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "4.25875000",
-        "longitude": "-77.36516000",
-        "wikiDataId": "Q931811"
     },
     {
         "id": 21462,
@@ -260585,21 +260442,8 @@
         "wikiDataId": "Q2433456"
     },
     {
-        "id": 21265,
-        "name": "Purísima",
-        "state_id": 2898,
-        "state_code": "COR",
-        "state_name": "Córdoba",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "9.24955000",
-        "longitude": "-75.71181000",
-        "wikiDataId": "Q1392469"
-    },
-    {
         "id": 21266,
-        "name": "Purísima de la Concepción",
+        "name": "Purísima",
         "state_id": 2898,
         "state_code": "COR",
         "state_name": "Córdoba",
@@ -260625,7 +260469,7 @@
     },
     {
         "id": 21333,
-        "name": "San Andrés Sotavento",
+        "name": "San Andrés de Sotavento",
         "state_id": 2898,
         "state_code": "COR",
         "state_name": "Córdoba",
@@ -260676,6 +260520,19 @@
         "wikiDataId": "Q1440812"
     },
     {
+        "id": 149251,
+        "name": "San José de Uré",
+        "state_id": 2898,
+        "state_code": "COR",
+        "state_name": "Córdoba",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "7.78722222",
+        "longitude": "-75.53305666",
+        "wikiDataId": "Q2605421"
+    },
+    {
         "id": 21401,
         "name": "San Pelayo",
         "state_id": 2898,
@@ -260700,6 +260557,19 @@
         "latitude": "7.87863000",
         "longitude": "-76.21307000",
         "wikiDataId": "Q2434756"
+    },
+    {
+        "id": 149258,
+        "name": "Tuchín",
+        "state_id": 2898,
+        "state_code": "COR",
+        "state_name": "Córdoba",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "9.18583333",
+        "longitude": "-75.55527888",
+        "wikiDataId": "Q2606076"
     },
     {
         "id": 21578,
@@ -260793,19 +260663,6 @@
         "wikiDataId": "Q925824"
     },
     {
-        "id": 143872,
-        "name": "Barrio San Luis",
-        "state_id": 2875,
-        "state_code": "CUN",
-        "state_name": "Cundinamarca",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "4.66779000",
-        "longitude": "-74.02150000",
-        "wikiDataId": ""
-    },
-    {
         "id": 20581,
         "name": "Beltrán",
         "state_id": 2875,
@@ -260833,7 +260690,7 @@
     },
     {
         "id": 143873,
-        "name": "Bogota",
+        "name": "Bogotá D.C.",
         "state_id": 2875,
         "state_code": "CUN",
         "state_name": "Cundinamarca",
@@ -261051,19 +260908,6 @@
         "latitude": "4.56047000",
         "longitude": "-74.42614000",
         "wikiDataId": "Q935205"
-    },
-    {
-        "id": 21159,
-        "name": "El Maríachi",
-        "state_id": 2875,
-        "state_code": "CUN",
-        "state_name": "Cundinamarca",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "5.13278000",
-        "longitude": "-74.15977000",
-        "wikiDataId": "Q680909"
     },
     {
         "id": 20817,
@@ -261586,6 +261430,19 @@
         "wikiDataId": "Q1577029"
     },
     {
+        "id": 21159,
+        "name": "Pacho",
+        "state_id": 2875,
+        "state_code": "CUN",
+        "state_name": "Cundinamarca",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "5.13055555",
+        "longitude": "-74.15833333",
+        "wikiDataId": "Q680909"
+    },
+    {
         "id": 21165,
         "name": "Paime",
         "state_id": 2875,
@@ -261636,19 +261493,6 @@
         "latitude": "4.30722000",
         "longitude": "-74.30056000",
         "wikiDataId": "Q2241175"
-    },
-    {
-        "id": 21235,
-        "name": "Puerto Bogotá",
-        "state_id": 2875,
-        "state_code": "CUN",
-        "state_name": "Cundinamarca",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "5.19994000",
-        "longitude": "-74.72733000",
-        "wikiDataId": "Q1946640"
     },
     {
         "id": 21254,
@@ -262626,6 +262470,19 @@
         "wikiDataId": "Q953401"
     },
     {
+        "id": 149242,
+        "name": "La Argentina",
+        "state_id": 4871,
+        "state_code": "HUI",
+        "state_name": "Huila",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "2.19755555",
+        "longitude": "-75.98888888",
+        "wikiDataId": "Q1578514"
+    },
+    {
         "id": 143892,
         "name": "La Plata",
         "state_id": 4871,
@@ -263133,19 +262990,6 @@
         "wikiDataId": "Q1392520"
     },
     {
-        "id": 20606,
-        "name": "Buenavista",
-        "state_id": 2886,
-        "state_code": "MAG",
-        "state_name": "Magdalena",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "9.21433000",
-        "longitude": "-74.31363000",
-        "wikiDataId": "Q23696469"
-    },
-    {
         "id": 20673,
         "name": "Cerro de San Antonio",
         "state_id": 2886,
@@ -263159,32 +263003,6 @@
         "wikiDataId": "Q1575697"
     },
     {
-        "id": 20672,
-        "name": "Cerro San Antonio",
-        "state_id": 2886,
-        "state_code": "MAG",
-        "state_name": "Magdalena",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "10.29063000",
-        "longitude": "-74.82173000",
-        "wikiDataId": "Q2012935"
-    },
-    {
-        "id": 20681,
-        "name": "Chibolo",
-        "state_id": 2886,
-        "state_code": "MAG",
-        "state_name": "Magdalena",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "10.08250000",
-        "longitude": "-74.50696000",
-        "wikiDataId": "Q594164"
-    },
-    {
         "id": 20700,
         "name": "Chivolo",
         "state_id": 2886,
@@ -263193,8 +263011,8 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "10.02502000",
-        "longitude": "-74.62279000",
+        "latitude": "10.02638888",
+        "longitude": "-74.62138888",
         "wikiDataId": "Q1525439"
     },
     {
@@ -263406,17 +263224,17 @@
         "wikiDataId": "Q23683680"
     },
     {
-        "id": 21336,
-        "name": "San Antonio",
+        "id": 20606,
+        "name": "San Sebastián de Buenavista",
         "state_id": 2886,
         "state_code": "MAG",
         "state_name": "Magdalena",
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "9.93303000",
-        "longitude": "-74.69346000",
-        "wikiDataId": "Q23683746"
+        "latitude": "9.23916666",
+        "longitude": "-74.35194444",
+        "wikiDataId": "Q532854"
     },
     {
         "id": 21409,
@@ -263627,6 +263445,19 @@
         "wikiDataId": "Q1577456"
     },
     {
+        "id": 149240,
+        "name": "El Dorado",
+        "state_id": 2878,
+        "state_code": "MET",
+        "state_name": "Meta",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "3.73916777",
+        "longitude": "-73.83527888",
+        "wikiDataId": "Q1656681"
+    },
+    {
         "id": 20863,
         "name": "Fuente de Oro",
         "state_id": 2878,
@@ -263778,19 +263609,6 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "2.78273000",
-        "longitude": "-73.13956000",
-        "wikiDataId": "Q938384"
-    },
-    {
-        "id": 21260,
-        "name": "Puerto Yuca",
-        "state_id": 2878,
-        "state_code": "MET",
-        "state_name": "Meta",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
         "latitude": "2.93833000",
         "longitude": "-73.20833000",
         "wikiDataId": "Q1956919"
@@ -263835,6 +263653,19 @@
         "wikiDataId": "Q23730085"
     },
     {
+        "id": 149252,
+        "name": "San Juanito",
+        "state_id": 2878,
+        "state_code": "MET",
+        "state_name": "Meta",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "4.45861111",
+        "longitude": "-73.67555666",
+        "wikiDataId": "Q2434067"
+    },
+    {
         "id": 21385,
         "name": "San Martín",
         "state_id": 2878,
@@ -263846,6 +263677,19 @@
         "latitude": "3.50819000",
         "longitude": "-73.03975000",
         "wikiDataId": "Q1441359"
+    },
+    {
+        "id": 149259,
+        "name": "Uribe",
+        "state_id": 2878,
+        "state_code": "MET",
+        "state_name": "Meta",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "3.24083333",
+        "longitude": "-74.35361111",
+        "wikiDataId": "Q1525863"
     },
     {
         "id": 21612,
@@ -263872,19 +263716,6 @@
         "latitude": "3.12428000",
         "longitude": "-73.75156000",
         "wikiDataId": "Q1442495"
-    },
-    {
-        "id": 20500,
-        "name": "Albán",
-        "state_id": 2897,
-        "state_code": "NAR",
-        "state_name": "Nariño",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "1.47050000",
-        "longitude": "-77.06846000",
-        "wikiDataId": "Q1576577"
     },
     {
         "id": 20503,
@@ -263976,19 +263807,6 @@
         "latitude": "0.86292000",
         "longitude": "-77.72734000",
         "wikiDataId": "Q23695992"
-    },
-    {
-        "id": 20662,
-        "name": "Cartago",
-        "state_id": 2897,
-        "state_code": "NAR",
-        "state_name": "Nariño",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "1.55151000",
-        "longitude": "-77.11948000",
-        "wikiDataId": "Q974273"
     },
     {
         "id": 20674,
@@ -264135,7 +263953,7 @@
     },
     {
         "id": 20829,
-        "name": "El Tablón",
+        "name": "El Tablón de Gómez",
         "state_id": 2897,
         "state_code": "NAR",
         "state_name": "Nariño",
@@ -264144,19 +263962,6 @@
         "country_name": "Colombia",
         "latitude": "1.42717000",
         "longitude": "-77.09693000",
-        "wikiDataId": "Q1525086"
-    },
-    {
-        "id": 20830,
-        "name": "El Tablón de Gómez",
-        "state_id": 2897,
-        "state_code": "NAR",
-        "state_name": "Nariño",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "1.41201000",
-        "longitude": "-76.98526000",
         "wikiDataId": "Q1525086"
     },
     {
@@ -264181,9 +263986,9 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "2.14713000",
-        "longitude": "-78.58883000",
-        "wikiDataId": "Q1577716"
+        "latitude": "2.04060000",
+        "longitude": "-78.65877000",
+        "wikiDataId": "Q1578185"
     },
     {
         "id": 20865,
@@ -264197,19 +264002,6 @@
         "latitude": "1.00075000",
         "longitude": "-77.44918000",
         "wikiDataId": "Q1574953"
-    },
-    {
-        "id": 20929,
-        "name": "Génova",
-        "state_id": 2897,
-        "state_code": "NAR",
-        "state_name": "Nariño",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "1.64367000",
-        "longitude": "-77.01924000",
-        "wikiDataId": "Q23690691"
     },
     {
         "id": 20899,
@@ -264288,19 +264080,6 @@
         "latitude": "0.82501000",
         "longitude": "-77.63966000",
         "wikiDataId": "Q1010094"
-    },
-    {
-        "id": 20951,
-        "name": "Iscuandé",
-        "state_id": 2897,
-        "state_code": "NAR",
-        "state_name": "Nariño",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "2.45065000",
-        "longitude": "-77.97998000",
-        "wikiDataId": "Q23689196"
     },
     {
         "id": 20978,
@@ -264402,22 +264181,22 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "1.62831000",
-        "longitude": "-77.67959000",
-        "wikiDataId": "Q23687836"
+        "latitude": "1.49474000",
+        "longitude": "-77.52136000",
+        "wikiDataId": "Q1526257"
     },
     {
-        "id": 21049,
-        "name": "Magüi",
+        "id": 21189,
+        "name": "Magüí Payán",
         "state_id": 2897,
         "state_code": "NAR",
         "state_name": "Nariño",
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "1.90504000",
-        "longitude": "-78.04916000",
-        "wikiDataId": "Q1011196"
+        "latitude": "1.76645000",
+        "longitude": "-78.18326000",
+        "wikiDataId": "Q1525449"
     },
     {
         "id": 21054,
@@ -264428,9 +264207,9 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "1.15887000",
-        "longitude": "-77.84688000",
-        "wikiDataId": "Q23685951"
+        "latitude": "1.14109000",
+        "longitude": "-77.86479000",
+        "wikiDataId": "Q1576117"
     },
     {
         "id": 21108,
@@ -264498,32 +264277,6 @@
         "wikiDataId": "Q320015"
     },
     {
-        "id": 21189,
-        "name": "Payán",
-        "state_id": 2897,
-        "state_code": "NAR",
-        "state_name": "Nariño",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "1.76645000",
-        "longitude": "-78.18326000",
-        "wikiDataId": "Q1525449"
-    },
-    {
-        "id": 21200,
-        "name": "Piedrancha",
-        "state_id": 2897,
-        "state_code": "NAR",
-        "state_name": "Nariño",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "1.14109000",
-        "longitude": "-77.86479000",
-        "wikiDataId": "Q1576117"
-    },
-    {
         "id": 21216,
         "name": "Policarpa",
         "state_id": 2897,
@@ -264548,6 +264301,19 @@
         "latitude": "0.80739000",
         "longitude": "-77.57216000",
         "wikiDataId": "Q23684150"
+    },
+    {
+        "id": 149246,
+        "name": "Providencia",
+        "state_id": 2897,
+        "state_code": "NAR",
+        "state_name": "Nariño",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "1.23888999",
+        "longitude": "-77.59755555",
+        "wikiDataId": "Q681111"
     },
     {
         "id": 21230,
@@ -264602,19 +264368,6 @@
         "wikiDataId": "Q536797"
     },
     {
-        "id": 21317,
-        "name": "Salahonda",
-        "state_id": 2897,
-        "state_code": "NAR",
-        "state_name": "Nariño",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "2.04060000",
-        "longitude": "-78.65877000",
-        "wikiDataId": "Q1578185"
-    },
-    {
         "id": 21325,
         "name": "Samaniego",
         "state_id": 2897,
@@ -264626,19 +264379,6 @@
         "latitude": "1.33849000",
         "longitude": "-77.59570000",
         "wikiDataId": "Q2195228"
-    },
-    {
-        "id": 21329,
-        "name": "San Andres de Tumaco",
-        "state_id": 2897,
-        "state_code": "NAR",
-        "state_name": "Nariño",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "1.63766000",
-        "longitude": "-78.61218000",
-        "wikiDataId": "Q1441898"
     },
     {
         "id": 21341,
@@ -264655,16 +264395,16 @@
     },
     {
         "id": 21365,
-        "name": "San José",
+        "name": "San José de Albán",
         "state_id": 2897,
         "state_code": "NAR",
         "state_name": "Nariño",
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "1.69659000",
-        "longitude": "-78.24482000",
-        "wikiDataId": "Q23683878"
+        "latitude": "1.47388999",
+        "longitude": "-77.08083333",
+        "wikiDataId": "Q1524751"
     },
     {
         "id": 21378,
@@ -264701,9 +264441,9 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "1.55533000",
-        "longitude": "-77.12984000",
-        "wikiDataId": "Q2434300"
+        "latitude": "1.55151000",
+        "longitude": "-77.11948000",
+        "wikiDataId": "Q974273"
     },
     {
         "id": 21410,
@@ -264756,19 +264496,6 @@
         "latitude": "1.03728000",
         "longitude": "-77.62094000",
         "wikiDataId": "Q1577815"
-    },
-    {
-        "id": 21483,
-        "name": "Sotomayor",
-        "state_id": 2897,
-        "state_code": "NAR",
-        "state_name": "Nariño",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "1.49474000",
-        "longitude": "-77.52136000",
-        "wikiDataId": "Q1526257"
     },
     {
         "id": 21509,
@@ -265291,6 +265018,19 @@
         "wikiDataId": "Q1655140"
     },
     {
+        "id": 149256,
+        "name": "Teorama",
+        "state_id": 2877,
+        "state_code": "NSA",
+        "state_name": "Norte de Santander",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "8.43527888",
+        "longitude": "-73.28638999",
+        "wikiDataId": "Q1524830"
+    },
+    {
         "id": 21526,
         "name": "Tibú",
         "state_id": 2877,
@@ -265317,6 +265057,19 @@
         "wikiDataId": "Q1525656"
     },
     {
+        "id": 149260,
+        "name": "Villa Caro",
+        "state_id": 2877,
+        "state_code": "NSA",
+        "state_name": "Norte de Santander",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "7.91472222",
+        "longitude": "-72.97194444",
+        "wikiDataId": "Q1654451"
+    },
+    {
         "id": 21601,
         "name": "Villa del Rosario",
         "state_id": 2877,
@@ -265341,32 +265094,6 @@
         "latitude": "1.19034000",
         "longitude": "-76.97369000",
         "wikiDataId": "Q1962031"
-    },
-    {
-        "id": 20980,
-        "name": "La Dorada",
-        "state_id": 2896,
-        "state_code": "PUT",
-        "state_name": "Putumayo",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "0.34314000",
-        "longitude": "-76.91124000",
-        "wikiDataId": "Q1442390"
-    },
-    {
-        "id": 21023,
-        "name": "Leguízamo",
-        "state_id": 2896,
-        "state_code": "PUT",
-        "state_name": "Putumayo",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "0.05683000",
-        "longitude": "-75.05832000",
-        "wikiDataId": "Q2279924"
     },
     {
         "id": 21089,
@@ -265406,6 +265133,19 @@
         "latitude": "0.50514000",
         "longitude": "-76.49571000",
         "wikiDataId": "Q1018571"
+    },
+    {
+        "id": 149248,
+        "name": "Puerto Caicedo",
+        "state_id": 2896,
+        "state_code": "PUT",
+        "state_name": "Putumayo",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "0.68555555",
+        "longitude": "-76.60444444",
+        "wikiDataId": "Q282117"
     },
     {
         "id": 21243,
@@ -265455,9 +265195,9 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "0.34300000",
-        "longitude": "-76.91000000",
-        "wikiDataId": "Q23684000"
+        "latitude": "0.34361111",
+        "longitude": "-76.91083333",
+        "wikiDataId": "Q1442390"
     },
     {
         "id": 21435,
@@ -265668,19 +265408,6 @@
         "wikiDataId": "Q1576707"
     },
     {
-        "id": 20524,
-        "name": "Anserma",
-        "state_id": 2879,
-        "state_code": "RIS",
-        "state_name": "Risaralda",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "5.33278000",
-        "longitude": "-75.79111000",
-        "wikiDataId": "Q23696897"
-    },
-    {
         "id": 20531,
         "name": "Apía",
         "state_id": 2879,
@@ -265757,19 +265484,6 @@
         "latitude": "5.00332000",
         "longitude": "-76.00355000",
         "wikiDataId": "Q1576175"
-    },
-    {
-        "id": 20991,
-        "name": "La Merced",
-        "state_id": 2879,
-        "state_code": "RIS",
-        "state_name": "Risaralda",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "5.40194000",
-        "longitude": "-75.88472000",
-        "wikiDataId": "Q23688526"
     },
     {
         "id": 21016,
@@ -265874,19 +265588,6 @@
         "latitude": "5.05321000",
         "longitude": "-75.99060000",
         "wikiDataId": "Q1526270"
-    },
-    {
-        "id": 21111,
-        "name": "Mountain",
-        "state_id": 2900,
-        "state_code": "SAP",
-        "state_name": "San Andrés, Providencia y Santa Catalina",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "13.36667000",
-        "longitude": "-81.36667000",
-        "wikiDataId": "Q23686879"
     },
     {
         "id": 21224,
@@ -266890,6 +266591,19 @@
         "wikiDataId": "Q1828744"
     },
     {
+        "id": 149249,
+        "name": "Santa Helena Del Opón",
+        "state_id": 2901,
+        "state_code": "SAN",
+        "state_name": "Santander",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "6.33916777",
+        "longitude": "-73.61666777",
+        "wikiDataId": "Q1655934"
+    },
+    {
         "id": 21458,
         "name": "Simacota",
         "state_id": 2901,
@@ -267031,6 +266745,19 @@
         "latitude": "6.81532000",
         "longitude": "-73.26768000",
         "wikiDataId": "Q1574792"
+    },
+    {
+        "id": 149239,
+        "name": "Buenavista",
+        "state_id": 2902,
+        "state_code": "SUC",
+        "state_name": "Sucre",
+        "country_id": 48,
+        "country_code": "CO",
+        "country_name": "Colombia",
+        "latitude": "9.31972222",
+        "longitude": "-74.97166777",
+        "wikiDataId": "Q2430438"
     },
     {
         "id": 20623,
@@ -267397,19 +267124,6 @@
         "wikiDataId": "Q1574897"
     },
     {
-        "id": 20515,
-        "name": "Anaime",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "4.39639000",
-        "longitude": "-75.44500000",
-        "wikiDataId": "Q1574897"
-    },
-    {
         "id": 20528,
         "name": "Anzoátegui",
         "state_id": 2883,
@@ -267431,22 +267145,9 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "4.98873000",
-        "longitude": "-74.88130000",
-        "wikiDataId": "Q23697017"
-    },
-    {
-        "id": 20553,
-        "name": "Armero-Guyabal",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "4.96701000",
-        "longitude": "-74.90294000",
-        "wikiDataId": "Q23697017"
+        "latitude": "5.03055666",
+        "longitude": "-74.88444444",
+        "wikiDataId": "Q584880"
     },
     {
         "id": 20556,
@@ -267473,19 +267174,6 @@
         "latitude": "4.41667000",
         "longitude": "-75.50000000",
         "wikiDataId": "Q1441115"
-    },
-    {
-        "id": 20639,
-        "name": "Campo Alegre",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "3.18917000",
-        "longitude": "-75.70361000",
-        "wikiDataId": "Q546011"
     },
     {
         "id": 20654,
@@ -267527,19 +267215,6 @@
         "wikiDataId": "Q1977885"
     },
     {
-        "id": 20682,
-        "name": "Chicoral",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "4.21536000",
-        "longitude": "-74.98189000",
-        "wikiDataId": "Q594164"
-    },
-    {
         "id": 20717,
         "name": "Coello",
         "state_id": 2883,
@@ -267577,19 +267252,6 @@
         "latitude": "4.00284000",
         "longitude": "-74.69295000",
         "wikiDataId": "Q577597"
-    },
-    {
-        "id": 20778,
-        "name": "Doima",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "4.42692000",
-        "longitude": "-74.97548000",
-        "wikiDataId": "Q1525662"
     },
     {
         "id": 20779,
@@ -267657,32 +267319,6 @@
         "wikiDataId": "Q2431919"
     },
     {
-        "id": 20862,
-        "name": "Frías",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "5.02973000",
-        "longitude": "-75.00860000",
-        "wikiDataId": "Q636963"
-    },
-    {
-        "id": 20875,
-        "name": "Gaitania",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "3.15000000",
-        "longitude": "-75.81667000",
-        "wikiDataId": "Q1577746"
-    },
-    {
         "id": 20908,
         "name": "Guamo",
         "state_id": 2883,
@@ -267694,19 +267330,6 @@
         "latitude": "4.07457000",
         "longitude": "-74.97689000",
         "wikiDataId": "Q664349"
-    },
-    {
-        "id": 20920,
-        "name": "Guayabal",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "5.03103000",
-        "longitude": "-74.88683000",
-        "wikiDataId": "Q584880"
     },
     {
         "id": 20941,
@@ -267761,45 +267384,6 @@
         "wikiDataId": "Q1525390"
     },
     {
-        "id": 20967,
-        "name": "Junín",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "4.78333000",
-        "longitude": "-75.01667000",
-        "wikiDataId": "Q2320402"
-    },
-    {
-        "id": 20976,
-        "name": "La Chamba",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "4.02649000",
-        "longitude": "-74.86844000",
-        "wikiDataId": "Q1576175"
-    },
-    {
-        "id": 21020,
-        "name": "Laureles",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "4.25917000",
-        "longitude": "-75.32250000",
-        "wikiDataId": "Q612555"
-    },
-    {
         "id": 21039,
         "name": "Lérida",
         "state_id": 2883,
@@ -267837,19 +267421,6 @@
         "latitude": "4.20475000",
         "longitude": "-74.64075000",
         "wikiDataId": "Q23686372"
-    },
-    {
-        "id": 21118,
-        "name": "Municipio de San Sebastián de Mariquita",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "5.24269000",
-        "longitude": "-74.90772000",
-        "wikiDataId": "Q532572"
     },
     {
         "id": 21119,
@@ -267891,19 +267462,6 @@
         "wikiDataId": "Q2433233"
     },
     {
-        "id": 21162,
-        "name": "Padua",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "5.13429000",
-        "longitude": "-75.14001000",
-        "wikiDataId": "Q2433292"
-    },
-    {
         "id": 21175,
         "name": "Palocabildo",
         "state_id": 2883,
@@ -267915,19 +267473,6 @@
         "latitude": "5.11705000",
         "longitude": "-75.01732000",
         "wikiDataId": "Q1575427"
-    },
-    {
-        "id": 21188,
-        "name": "Payandé",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "4.29750000",
-        "longitude": "-75.09667000",
-        "wikiDataId": "Q2022761"
     },
     {
         "id": 21201,
@@ -267954,19 +267499,6 @@
         "latitude": "3.10326000",
         "longitude": "-75.81680000",
         "wikiDataId": "Q1964548"
-    },
-    {
-        "id": 21215,
-        "name": "Playarrica",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "4.05694000",
-        "longitude": "-75.41028000",
-        "wikiDataId": "Q1093229"
     },
     {
         "id": 21223,
@@ -268081,9 +267613,9 @@
         "country_id": 48,
         "country_code": "CO",
         "country_name": "Colombia",
-        "latitude": "5.19889000",
-        "longitude": "-74.89295000",
-        "wikiDataId": "Q23686108"
+        "latitude": "5.24269000",
+        "longitude": "-74.90772000",
+        "wikiDataId": "Q532572"
     },
     {
         "id": 21419,
@@ -268099,19 +267631,6 @@
         "wikiDataId": "Q1574921"
     },
     {
-        "id": 21437,
-        "name": "Santiago Pérez",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "3.39806000",
-        "longitude": "-75.60500000",
-        "wikiDataId": "Q2078735"
-    },
-    {
         "id": 21500,
         "name": "Suárez",
         "state_id": 2883,
@@ -268123,19 +267642,6 @@
         "latitude": "4.04897000",
         "longitude": "-74.81821000",
         "wikiDataId": "Q2104427"
-    },
-    {
-        "id": 21547,
-        "name": "Tres Esquinas",
-        "state_id": 2883,
-        "state_code": "TOL",
-        "state_name": "Tolima",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "3.86512000",
-        "longitude": "-74.70906000",
-        "wikiDataId": "Q2405808"
     },
     {
         "id": 21580,
@@ -268356,19 +267862,6 @@
         "country_name": "Colombia",
         "latitude": "3.65685000",
         "longitude": "-76.68859000",
-        "wikiDataId": "Q2406018"
-    },
-    {
-        "id": 20775,
-        "name": "Darien",
-        "state_id": 2904,
-        "state_code": "VAC",
-        "state_name": "Valle del Cauca",
-        "country_id": 48,
-        "country_code": "CO",
-        "country_name": "Colombia",
-        "latitude": "3.93135000",
-        "longitude": "-76.48481000",
         "wikiDataId": "Q2406018"
     },
     {
@@ -313525,7 +313018,7 @@
         "name": "Cantón San Fernando",
         "state_id": 2923,
         "state_code": "A",
-        "state_name": "Azuay Province",
+        "state_name": "Azuay",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313538,7 +313031,7 @@
         "name": "Cuenca",
         "state_id": 2923,
         "state_code": "A",
-        "state_name": "Azuay Province",
+        "state_name": "Azuay",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313551,7 +313044,7 @@
         "name": "Gualaceo",
         "state_id": 2923,
         "state_code": "A",
-        "state_name": "Azuay Province",
+        "state_name": "Azuay",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313564,7 +313057,7 @@
         "name": "La Unión",
         "state_id": 2923,
         "state_code": "A",
-        "state_name": "Azuay Province",
+        "state_name": "Azuay",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313577,7 +313070,7 @@
         "name": "Llacao",
         "state_id": 2923,
         "state_code": "A",
-        "state_name": "Azuay Province",
+        "state_name": "Azuay",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313590,7 +313083,7 @@
         "name": "Nulti",
         "state_id": 2923,
         "state_code": "A",
-        "state_name": "Azuay Province",
+        "state_name": "Azuay",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313603,7 +313096,7 @@
         "name": "Guaranda",
         "state_id": 2920,
         "state_code": "B",
-        "state_name": "Bolívar Province",
+        "state_name": "Bolívar",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313616,7 +313109,7 @@
         "name": "San Miguel",
         "state_id": 2920,
         "state_code": "B",
-        "state_name": "Bolívar Province",
+        "state_name": "Bolívar",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313629,7 +313122,7 @@
         "name": "Azogues",
         "state_id": 2917,
         "state_code": "F",
-        "state_name": "Cañar Province",
+        "state_name": "Cañar",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313642,7 +313135,7 @@
         "name": "Cañar",
         "state_id": 2917,
         "state_code": "F",
-        "state_name": "Cañar Province",
+        "state_name": "Cañar",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313655,7 +313148,7 @@
         "name": "La Troncal",
         "state_id": 2917,
         "state_code": "F",
-        "state_name": "Cañar Province",
+        "state_name": "Cañar",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313668,7 +313161,7 @@
         "name": "El Ángel",
         "state_id": 2915,
         "state_code": "C",
-        "state_name": "Carchi Province",
+        "state_name": "Carchi",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313681,7 +313174,7 @@
         "name": "San Gabriel",
         "state_id": 2915,
         "state_code": "C",
-        "state_name": "Carchi Province",
+        "state_name": "Carchi",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313694,7 +313187,7 @@
         "name": "Tulcán",
         "state_id": 2915,
         "state_code": "C",
-        "state_name": "Carchi Province",
+        "state_name": "Carchi",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313707,7 +313200,7 @@
         "name": "Alausí",
         "state_id": 2925,
         "state_code": "H",
-        "state_name": "Chimborazo Province",
+        "state_name": "Chimborazo",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313720,7 +313213,7 @@
         "name": "Guano",
         "state_id": 2925,
         "state_code": "H",
-        "state_name": "Chimborazo Province",
+        "state_name": "Chimborazo",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313733,7 +313226,7 @@
         "name": "Riobamba",
         "state_id": 2925,
         "state_code": "H",
-        "state_name": "Chimborazo Province",
+        "state_name": "Chimborazo",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313746,7 +313239,7 @@
         "name": "La Maná",
         "state_id": 2921,
         "state_code": "X",
-        "state_name": "Cotopaxi Province",
+        "state_name": "Cotopaxi",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313759,7 +313252,7 @@
         "name": "Latacunga",
         "state_id": 2921,
         "state_code": "X",
-        "state_name": "Cotopaxi Province",
+        "state_name": "Cotopaxi",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313772,7 +313265,7 @@
         "name": "Pujilí",
         "state_id": 2921,
         "state_code": "X",
-        "state_name": "Cotopaxi Province",
+        "state_name": "Cotopaxi",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313785,7 +313278,7 @@
         "name": "San Miguel de Salcedo",
         "state_id": 2921,
         "state_code": "X",
-        "state_name": "Cotopaxi Province",
+        "state_name": "Cotopaxi",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313798,7 +313291,7 @@
         "name": "Saquisilí",
         "state_id": 2921,
         "state_code": "X",
-        "state_name": "Cotopaxi Province",
+        "state_name": "Cotopaxi",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313811,7 +313304,7 @@
         "name": "Huaquillas",
         "state_id": 2924,
         "state_code": "O",
-        "state_name": "El Oro Province",
+        "state_name": "El Oro",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313824,7 +313317,7 @@
         "name": "Machala",
         "state_id": 2924,
         "state_code": "O",
-        "state_name": "El Oro Province",
+        "state_name": "El Oro",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313837,7 +313330,7 @@
         "name": "Pasaje",
         "state_id": 2924,
         "state_code": "O",
-        "state_name": "El Oro Province",
+        "state_name": "El Oro",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313850,7 +313343,7 @@
         "name": "Piñas",
         "state_id": 2924,
         "state_code": "O",
-        "state_name": "El Oro Province",
+        "state_name": "El Oro",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313863,7 +313356,7 @@
         "name": "Portovelo",
         "state_id": 2924,
         "state_code": "O",
-        "state_name": "El Oro Province",
+        "state_name": "El Oro",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313876,7 +313369,7 @@
         "name": "Puerto Bolívar",
         "state_id": 2924,
         "state_code": "O",
-        "state_name": "El Oro Province",
+        "state_name": "El Oro",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313889,7 +313382,7 @@
         "name": "Santa Rosa",
         "state_id": 2924,
         "state_code": "O",
-        "state_name": "El Oro Province",
+        "state_name": "El Oro",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -313902,7 +313395,7 @@
         "name": "Zaruma",
         "state_id": 2924,
         "state_code": "O",
-        "state_name": "El Oro Province",
+        "state_name": "El Oro",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314006,7 +313499,7 @@
         "name": "Puerto Ayora",
         "state_id": 2905,
         "state_code": "W",
-        "state_name": "Galápagos Province",
+        "state_name": "Galápagos",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314019,7 +313512,7 @@
         "name": "Puerto Baquerizo Moreno",
         "state_id": 2905,
         "state_code": "W",
-        "state_name": "Galápagos Province",
+        "state_name": "Galápagos",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314032,7 +313525,7 @@
         "name": "Puerto Villamil",
         "state_id": 2905,
         "state_code": "W",
-        "state_name": "Galápagos Province",
+        "state_name": "Galápagos",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314045,7 +313538,7 @@
         "name": "Alfredo Baquerizo Moreno",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314058,7 +313551,7 @@
         "name": "Baláo",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314071,7 +313564,7 @@
         "name": "Balzar",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314084,7 +313577,7 @@
         "name": "Colimes",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314097,7 +313590,7 @@
         "name": "Coronel Marcelino Maridueña",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314110,7 +313603,7 @@
         "name": "El Triunfo",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314123,7 +313616,7 @@
         "name": "Eloy Alfaro",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314136,7 +313629,7 @@
         "name": "Guayaquil",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314145,24 +313638,11 @@
         "wikiDataId": "Q43509"
     },
     {
-        "id": 31516,
-        "name": "La Libertad",
-        "state_id": 2914,
-        "state_code": "G",
-        "state_name": "Guayas Province",
-        "country_id": 64,
-        "country_code": "EC",
-        "country_name": "Ecuador",
-        "latitude": "-2.23300000",
-        "longitude": "-80.91039000",
-        "wikiDataId": "Q1798895"
-    },
-    {
         "id": 31522,
         "name": "Lomas de Sargentillo",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314175,7 +313655,7 @@
         "name": "Milagro",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314188,7 +313668,7 @@
         "name": "Naranjal",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314201,7 +313681,7 @@
         "name": "Naranjito",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314214,7 +313694,7 @@
         "name": "Palestina",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314227,7 +313707,7 @@
         "name": "Pedro Carbo",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314240,7 +313720,7 @@
         "name": "Playas",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314253,7 +313733,7 @@
         "name": "Samborondón",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314266,7 +313746,7 @@
         "name": "Santa Lucía",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314279,7 +313759,7 @@
         "name": "Velasco Ibarra",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314292,7 +313772,7 @@
         "name": "Yaguachi Nuevo",
         "state_id": 2914,
         "state_code": "G",
-        "state_name": "Guayas Province",
+        "state_name": "Guayas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314305,7 +313785,7 @@
         "name": "Atuntaqui",
         "state_id": 2911,
         "state_code": "I",
-        "state_name": "Imbabura Province",
+        "state_name": "Imbabura",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314318,7 +313798,7 @@
         "name": "Cotacachi",
         "state_id": 2911,
         "state_code": "I",
-        "state_name": "Imbabura Province",
+        "state_name": "Imbabura",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314331,7 +313811,7 @@
         "name": "Ibarra",
         "state_id": 2911,
         "state_code": "I",
-        "state_name": "Imbabura Province",
+        "state_name": "Imbabura",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314344,7 +313824,7 @@
         "name": "Otavalo",
         "state_id": 2911,
         "state_code": "I",
-        "state_name": "Imbabura Province",
+        "state_name": "Imbabura",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314357,7 +313837,7 @@
         "name": "Pimampiro",
         "state_id": 2911,
         "state_code": "I",
-        "state_name": "Imbabura Province",
+        "state_name": "Imbabura",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314366,11 +313846,24 @@
         "wikiDataId": "Q4746020"
     },
     {
+        "id": 149262,
+        "name": "Loja",
+        "state_id": 5068,
+        "state_code": "L",
+        "state_name": "Loja",
+        "country_id": 64,
+        "country_code": "EC",
+        "country_name": "Ecuador",
+        "latitude": "-3.99313000",
+        "longitude": "-79.20422000",
+        "wikiDataId": "Q944697"
+    },
+    {
         "id": 31485,
         "name": "Babahoyo",
         "state_id": 2910,
         "state_code": "R",
-        "state_name": "Los Ríos Province",
+        "state_name": "Los Ríos",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314383,7 +313876,7 @@
         "name": "Catarama",
         "state_id": 2910,
         "state_code": "R",
-        "state_name": "Los Ríos Province",
+        "state_name": "Los Ríos",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314396,7 +313889,7 @@
         "name": "Montalvo",
         "state_id": 2910,
         "state_code": "R",
-        "state_name": "Los Ríos Province",
+        "state_name": "Los Ríos",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314409,7 +313902,7 @@
         "name": "Palenque",
         "state_id": 2910,
         "state_code": "R",
-        "state_name": "Los Ríos Province",
+        "state_name": "Los Ríos",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314422,7 +313915,7 @@
         "name": "Quevedo",
         "state_id": 2910,
         "state_code": "R",
-        "state_name": "Los Ríos Province",
+        "state_name": "Los Ríos",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314435,7 +313928,7 @@
         "name": "Ventanas",
         "state_id": 2910,
         "state_code": "R",
-        "state_name": "Los Ríos Province",
+        "state_name": "Los Ríos",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314448,7 +313941,7 @@
         "name": "Vinces",
         "state_id": 2910,
         "state_code": "R",
-        "state_name": "Los Ríos Province",
+        "state_name": "Los Ríos",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314461,7 +313954,7 @@
         "name": "Bahía de Caráquez",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314474,7 +313967,7 @@
         "name": "Calceta",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314487,7 +313980,7 @@
         "name": "Cantón Portoviejo",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314500,7 +313993,7 @@
         "name": "Chone",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314513,7 +314006,7 @@
         "name": "Jipijapa",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314526,7 +314019,7 @@
         "name": "Junín",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314539,7 +314032,7 @@
         "name": "Manta",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314552,7 +314045,7 @@
         "name": "Montecristi",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314565,7 +314058,7 @@
         "name": "Paján",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314578,7 +314071,7 @@
         "name": "Pedernales",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314591,7 +314084,7 @@
         "name": "Portoviejo",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314604,7 +314097,7 @@
         "name": "Rocafuerte",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314617,7 +314110,7 @@
         "name": "San Vicente",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314630,7 +314123,7 @@
         "name": "Santa Ana",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314643,7 +314136,7 @@
         "name": "Sucre",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314656,7 +314149,7 @@
         "name": "Tosagua",
         "state_id": 2913,
         "state_code": "M",
-        "state_name": "Manabí Province",
+        "state_name": "Manabí",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314669,7 +314162,7 @@
         "name": "Gualaquiza",
         "state_id": 2918,
         "state_code": "S",
-        "state_name": "Morona-Santiago Province",
+        "state_name": "Morona-Santiago",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314682,7 +314175,7 @@
         "name": "Macas",
         "state_id": 2918,
         "state_code": "S",
-        "state_name": "Morona-Santiago Province",
+        "state_name": "Morona-Santiago",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314695,7 +314188,7 @@
         "name": "Palora",
         "state_id": 2918,
         "state_code": "S",
-        "state_name": "Morona-Santiago Province",
+        "state_name": "Morona-Santiago",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314708,7 +314201,7 @@
         "name": "Sucúa",
         "state_id": 2918,
         "state_code": "S",
-        "state_name": "Morona-Santiago Province",
+        "state_name": "Morona-Santiago",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314721,7 +314214,7 @@
         "name": "Archidona",
         "state_id": 2916,
         "state_code": "N",
-        "state_name": "Napo Province",
+        "state_name": "Napo",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314734,7 +314227,7 @@
         "name": "Tena",
         "state_id": 2916,
         "state_code": "N",
-        "state_name": "Napo Province",
+        "state_name": "Napo",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314747,7 +314240,7 @@
         "name": "Boca Suno",
         "state_id": 2926,
         "state_code": "D",
-        "state_name": "Orellana Province",
+        "state_name": "Orellana",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314760,7 +314253,7 @@
         "name": "Francisco de Orellana Canton",
         "state_id": 2926,
         "state_code": "D",
-        "state_name": "Orellana Province",
+        "state_name": "Orellana",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314773,7 +314266,7 @@
         "name": "Loreto Canton",
         "state_id": 2926,
         "state_code": "D",
-        "state_name": "Orellana Province",
+        "state_name": "Orellana",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314786,7 +314279,7 @@
         "name": "Puerto Francisco de Orellana",
         "state_id": 2926,
         "state_code": "D",
-        "state_name": "Orellana Province",
+        "state_name": "Orellana",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314799,7 +314292,7 @@
         "name": "Puyo",
         "state_id": 2907,
         "state_code": "Y",
-        "state_name": "Pastaza Province",
+        "state_name": "Pastaza",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314812,7 +314305,7 @@
         "name": "Cayambe",
         "state_id": 2927,
         "state_code": "P",
-        "state_name": "Pichincha Province",
+        "state_name": "Pichincha",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314825,7 +314318,7 @@
         "name": "Machachi",
         "state_id": 2927,
         "state_code": "P",
-        "state_name": "Pichincha Province",
+        "state_name": "Pichincha",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314838,7 +314331,7 @@
         "name": "Quito",
         "state_id": 2927,
         "state_code": "P",
-        "state_name": "Pichincha Province",
+        "state_name": "Pichincha",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314851,7 +314344,7 @@
         "name": "Sangolquí",
         "state_id": 2927,
         "state_code": "P",
-        "state_name": "Pichincha Province",
+        "state_name": "Pichincha",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314864,7 +314357,7 @@
         "name": "Tutamandahostel",
         "state_id": 2927,
         "state_code": "P",
-        "state_name": "Pichincha Province",
+        "state_name": "Pichincha",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314873,11 +314366,24 @@
         "wikiDataId": "Q752113"
     },
     {
+        "id": 31516,
+        "name": "La Libertad",
+        "state_id": 2912,
+        "state_code": "SE",
+        "state_name": "Santa Elena",
+        "country_id": 64,
+        "country_code": "EC",
+        "country_name": "Ecuador",
+        "latitude": "-2.23300000",
+        "longitude": "-80.91039000",
+        "wikiDataId": "Q1798895"
+    },
+    {
         "id": 31565,
         "name": "Salinas",
         "state_id": 2912,
         "state_code": "SE",
-        "state_name": "Santa Elena Province",
+        "state_name": "Santa Elena",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314890,7 +314396,7 @@
         "name": "Santa Elena",
         "state_id": 2912,
         "state_code": "SE",
-        "state_name": "Santa Elena Province",
+        "state_name": "Santa Elena",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314903,7 +314409,7 @@
         "name": "Santo Domingo de los Colorados",
         "state_id": 2919,
         "state_code": "SD",
-        "state_name": "Santo Domingo de los Tsáchilas Province",
+        "state_name": "Santo Domingo de los Tsáchilas",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314916,7 +314422,7 @@
         "name": "Nueva Loja",
         "state_id": 2906,
         "state_code": "U",
-        "state_name": "Sucumbíos Province",
+        "state_name": "Sucumbíos",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314929,7 +314435,7 @@
         "name": "Ambato",
         "state_id": 2908,
         "state_code": "T",
-        "state_name": "Tungurahua Province",
+        "state_name": "Tungurahua",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314942,7 +314448,7 @@
         "name": "Baños",
         "state_id": 2908,
         "state_code": "T",
-        "state_name": "Tungurahua Province",
+        "state_name": "Tungurahua",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314955,7 +314461,7 @@
         "name": "Pelileo",
         "state_id": 2908,
         "state_code": "T",
-        "state_name": "Tungurahua Province",
+        "state_name": "Tungurahua",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314968,7 +314474,7 @@
         "name": "Píllaro",
         "state_id": 2908,
         "state_code": "T",
-        "state_name": "Tungurahua Province",
+        "state_name": "Tungurahua",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314981,7 +314487,7 @@
         "name": "Yantzaza",
         "state_id": 2909,
         "state_code": "Z",
-        "state_name": "Zamora-Chinchipe Province",
+        "state_name": "Zamora Chinchipe",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -314994,7 +314500,7 @@
         "name": "Zamora",
         "state_id": 2909,
         "state_code": "Z",
-        "state_name": "Zamora-Chinchipe Province",
+        "state_name": "Zamora Chinchipe",
         "country_id": 64,
         "country_code": "EC",
         "country_name": "Ecuador",
@@ -1910714,6 +1910220,19 @@
         "wikiDataId": "Q179007"
     },
     {
+        "id": 149261,
+        "name": "Caracas",
+        "state_id": 4855,
+        "state_code": "A",
+        "state_name": "Distrito Capital",
+        "country_id": 239,
+        "country_code": "VE",
+        "country_name": "Venezuela",
+        "latitude": "10.50000000",
+        "longitude": "-66.93333333",
+        "wikiDataId": "Q1533"
+    },
+    {
         "id": 130065,
         "name": "Chichiriviche",
         "state_id": 2035,
@@ -1910868,6 +1910387,58 @@
         "latitude": "9.35029000",
         "longitude": "-65.32452000",
         "wikiDataId": "Q147782"
+    },
+    {
+        "id": 130055,
+        "name": "Caraballeda",
+        "state_id": 2055,
+        "state_code": "X",
+        "state_name": "La Guaira",
+        "country_id": 239,
+        "country_code": "VE",
+        "country_name": "Venezuela",
+        "latitude": "10.61216000",
+        "longitude": "-66.85192000",
+        "wikiDataId": "Q2919593"
+    },
+    {
+        "id": 130060,
+        "name": "Catia La Mar",
+        "state_id": 2055,
+        "state_code": "X",
+        "state_name": "La Guaira",
+        "country_id": 239,
+        "country_code": "VE",
+        "country_name": "Venezuela",
+        "latitude": "10.60545000",
+        "longitude": "-67.03238000",
+        "wikiDataId": "Q2725457"
+    },
+    {
+        "id": 130092,
+        "name": "La Guaira",
+        "state_id": 2055,
+        "state_code": "X",
+        "state_name": "La Guaira",
+        "country_id": 239,
+        "country_code": "VE",
+        "country_name": "Venezuela",
+        "latitude": "10.60156000",
+        "longitude": "-66.93293000",
+        "wikiDataId": "Q873405"
+    },
+    {
+        "id": 130102,
+        "name": "Maiquetía",
+        "state_id": 2055,
+        "state_code": "X",
+        "state_name": "La Guaira",
+        "country_id": 239,
+        "country_code": "VE",
+        "country_name": "Venezuela",
+        "latitude": "10.59450000",
+        "longitude": "-66.95624000",
+        "wikiDataId": "Q1677956"
     },
     {
         "id": 130047,
@@ -1911609,58 +1911180,6 @@
         "latitude": "9.31778000",
         "longitude": "-70.60361000",
         "wikiDataId": "Q1010367"
-    },
-    {
-        "id": 130055,
-        "name": "Caraballeda",
-        "state_id": 2055,
-        "state_code": "X",
-        "state_name": "Vargas",
-        "country_id": 239,
-        "country_code": "VE",
-        "country_name": "Venezuela",
-        "latitude": "10.61216000",
-        "longitude": "-66.85192000",
-        "wikiDataId": "Q2919593"
-    },
-    {
-        "id": 130060,
-        "name": "Catia La Mar",
-        "state_id": 2055,
-        "state_code": "X",
-        "state_name": "Vargas",
-        "country_id": 239,
-        "country_code": "VE",
-        "country_name": "Venezuela",
-        "latitude": "10.60545000",
-        "longitude": "-67.03238000",
-        "wikiDataId": "Q2725457"
-    },
-    {
-        "id": 130092,
-        "name": "La Guaira",
-        "state_id": 2055,
-        "state_code": "X",
-        "state_name": "Vargas",
-        "country_id": 239,
-        "country_code": "VE",
-        "country_name": "Venezuela",
-        "latitude": "10.60156000",
-        "longitude": "-66.93293000",
-        "wikiDataId": "Q873405"
-    },
-    {
-        "id": 130102,
-        "name": "Maiquetía",
-        "state_id": 2055,
-        "state_code": "X",
-        "state_name": "Vargas",
-        "country_id": 239,
-        "country_code": "VE",
-        "country_name": "Venezuela",
-        "latitude": "10.59450000",
-        "longitude": "-66.95624000",
-        "wikiDataId": "Q1677956"
     },
     {
         "id": 130066,

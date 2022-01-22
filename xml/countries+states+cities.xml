@@ -125567,6 +125567,12 @@
         <latitude>39.16673000</latitude>
         <longitude>117.24191000</longitude>
       </cities>
+      <cities>
+        <id>149236</id>
+        <name>Zhaoguli</name>
+        <latitude>39.16673000</latitude>
+        <longitude>117.24191000</longitude>
+      </cities>
     </states>
     <states>
       <id>2263</id>
@@ -126412,7 +126418,7 @@
     <iso2>CO</iso2>
     <numeric_code>170</numeric_code>
     <phone_code>57</phone_code>
-    <capital>Bogota</capital>
+    <capital>Bogotá</capital>
     <currency>COP</currency>
     <currency_name>Colombian peso</currency_name>
     <currency_symbol>$</currency_symbol>
@@ -126575,6 +126581,12 @@
         <longitude>-75.35947000</longitude>
       </cities>
       <cities>
+        <id>20747</id>
+        <name>Anorí</name>
+        <latitude>7.07361111</latitude>
+        <longitude>-75.14694444</longitude>
+      </cities>
+      <cities>
         <id>20527</id>
         <name>Anza</name>
         <latitude>6.33333000</latitude>
@@ -126695,12 +126707,6 @@
         <longitude>-76.65255000</longitude>
       </cities>
       <cities>
-        <id>20656</id>
-        <name>Carmen de Viboral</name>
-        <latitude>6.08236000</latitude>
-        <longitude>-75.33509000</longitude>
-      </cities>
-      <cities>
         <id>20658</id>
         <name>Carolina</name>
         <latitude>6.74807000</latitude>
@@ -126755,22 +126761,10 @@
         <longitude>-75.49922000</longitude>
       </cities>
       <cities>
-        <id>20747</id>
-        <name>Cruces de Anorí</name>
-        <latitude>7.18333000</latitude>
-        <longitude>-75.06667000</longitude>
-      </cities>
-      <cities>
         <id>20773</id>
         <name>Dabeiba</name>
         <latitude>7.03367000</latitude>
         <longitude>-76.34161000</longitude>
-      </cities>
-      <cities>
-        <id>20780</id>
-        <name>Don Matías</name>
-        <latitude>6.50559000</latitude>
-        <longitude>-75.36645000</longitude>
       </cities>
       <cities>
         <id>20781</id>
@@ -126791,16 +126785,16 @@
         <longitude>-74.80951000</longitude>
       </cities>
       <cities>
-        <id>20798</id>
+        <id>20656</id>
         <name>El Carmen de Viboral</name>
-        <latitude>5.97810000</latitude>
-        <longitude>-75.26322000</longitude>
+        <latitude>6.08236000</latitude>
+        <longitude>-75.33509000</longitude>
       </cities>
       <cities>
-        <id>20828</id>
+        <id>21441</id>
         <name>El Santuario</name>
-        <latitude>6.13568000</latitude>
-        <longitude>-75.25705000</longitude>
+        <latitude>6.13833000</latitude>
+        <longitude>-75.26417000</longitude>
       </cities>
       <cities>
         <id>20838</id>
@@ -127074,15 +127068,9 @@
       </cities>
       <cities>
         <id>21330</id>
-        <name>San Andrés</name>
+        <name>San Andrés de Cuerquía</name>
         <latitude>6.90333000</latitude>
         <longitude>-75.68250000</longitude>
-      </cities>
-      <cities>
-        <id>21334</id>
-        <name>San Andrés de Cuerquía</name>
-        <latitude>6.91667000</latitude>
-        <longitude>-75.66667000</longitude>
       </cities>
       <cities>
         <id>21345</id>
@@ -127115,10 +127103,10 @@
         <longitude>-76.52969000</longitude>
       </cities>
       <cities>
-        <id>21396</id>
-        <name>San Pedro</name>
-        <latitude>6.46135000</latitude>
-        <longitude>-75.55778000</longitude>
+        <id>149253</id>
+        <name>San Luis</name>
+        <latitude>6.04222222</latitude>
+        <longitude>-74.99333333</longitude>
       </cities>
       <cities>
         <id>21399</id>
@@ -127137,12 +127125,6 @@
         <name>San Roque</name>
         <latitude>6.48511000</latitude>
         <longitude>-75.01960000</longitude>
-      </cities>
-      <cities>
-        <id>21406</id>
-        <name>San Vicente</name>
-        <latitude>6.28535000</latitude>
-        <longitude>-75.33385000</longitude>
       </cities>
       <cities>
         <id>21407</id>
@@ -127169,22 +127151,10 @@
         <longitude>-75.46031000</longitude>
       </cities>
       <cities>
-        <id>21432</id>
-        <name>Santafé de Antioquia</name>
-        <latitude>6.55000000</latitude>
-        <longitude>-75.90000000</longitude>
-      </cities>
-      <cities>
         <id>21439</id>
         <name>Santo Domingo</name>
         <latitude>6.47282000</latitude>
         <longitude>-75.16547000</longitude>
-      </cities>
-      <cities>
-        <id>21441</id>
-        <name>Santuario</name>
-        <latitude>6.13833000</latitude>
-        <longitude>-75.26417000</longitude>
       </cities>
       <cities>
         <id>21449</id>
@@ -127511,12 +127481,17 @@
     </states>
     <states>
       <id>4921</id>
-      <name>Bogotá</name>
+      <name>Bogotá D.C.</name>
       <state_code>DC</state_code>
       <latitude>4.28204150</latitude>
       <longitude>-74.50270420</longitude>
-      <type></type>
-      <cities/>
+      <type>capital district</type>
+      <cities>
+        <id>149237</id>
+        <name>Bogotá D.C.</name>
+        <latitude>4.61263889</latitude>
+        <longitude>-74.07050000</longitude>
+      </cities>
     </states>
     <states>
       <id>2893</id>
@@ -127575,7 +127550,7 @@
       </cities>
       <cities>
         <id>20659</id>
-        <name>Cartagena</name>
+        <name>Cartagena de Indias</name>
         <latitude>10.39972000</latitude>
         <longitude>-75.51444000</longitude>
       </cities>
@@ -127642,8 +127617,8 @@
       <cities>
         <id>21072</id>
         <name>María la Baja</name>
-        <latitude>9.98320000</latitude>
-        <longitude>-75.30155000</longitude>
+        <latitude>9.99228000</latitude>
+        <longitude>-75.34364000</longitude>
       </cities>
       <cities>
         <id>21093</id>
@@ -127662,18 +127637,6 @@
         <name>Morales</name>
         <latitude>8.27520000</latitude>
         <longitude>-73.86884000</longitude>
-      </cities>
-      <cities>
-        <id>21114</id>
-        <name>Municipio de Cartagena de Indias</name>
-        <latitude>10.50743000</latitude>
-        <longitude>-75.45430000</longitude>
-      </cities>
-      <cities>
-        <id>21116</id>
-        <name>Municipio de María la Baja</name>
-        <latitude>9.99228000</latitude>
-        <longitude>-75.34364000</longitude>
       </cities>
       <cities>
         <id>21138</id>
@@ -127782,12 +127745,6 @@
         <name>Talaigua Nuevo</name>
         <latitude>9.30347000</latitude>
         <longitude>-74.56477000</longitude>
-      </cities>
-      <cities>
-        <id>21506</id>
-        <name>Talaigua Viejo</name>
-        <latitude>9.31206000</latitude>
-        <longitude>-74.58544000</longitude>
       </cities>
       <cities>
         <id>21531</id>
@@ -128392,12 +128349,6 @@
         <longitude>-72.70072000</longitude>
       </cities>
       <cities>
-        <id>21467</id>
-        <name>Socha Viejo</name>
-        <latitude>5.98170000</latitude>
-        <longitude>-72.71503000</longitude>
-      </cities>
-      <cities>
         <id>21469</id>
         <name>Socotá</name>
         <latitude>6.04028000</latitude>
@@ -128822,10 +128773,22 @@
         <longitude>-76.16554000</longitude>
       </cities>
       <cities>
+        <id>149254</id>
+        <name>San Vicente del Caguán</name>
+        <latitude>2.11527888</latitude>
+        <longitude>-74.77777777</longitude>
+      </cities>
+      <cities>
         <id>21471</id>
         <name>Solano</name>
         <latitude>0.22842000</latitude>
         <longitude>-73.27597000</longitude>
+      </cities>
+      <cities>
+        <id>149255</id>
+        <name>Solita</name>
+        <latitude>0.87583333</latitude>
+        <longitude>-75.61972222</longitude>
       </cities>
       <cities>
         <id>21583</id>
@@ -128856,8 +128819,14 @@
       <cities>
         <id>20937</id>
         <name>Hato Corozal</name>
-        <latitude>6.16278000</latitude>
-        <longitude>-70.99694000</longitude>
+        <latitude>6.15472222</latitude>
+        <longitude>-71.76527888</longitude>
+      </cities>
+      <cities>
+        <id>149243</id>
+        <name>La Salina</name>
+        <latitude>6.12755555</latitude>
+        <longitude>-72.33416777</longitude>
       </cities>
       <cities>
         <id>21062</id>
@@ -128872,12 +128841,6 @@
         <longitude>-72.87901000</longitude>
       </cities>
       <cities>
-        <id>21113</id>
-        <name>Municipio Hato Corozal</name>
-        <latitude>6.15676000</latitude>
-        <longitude>-71.76372000</longitude>
-      </cities>
-      <cities>
         <id>21141</id>
         <name>Nunchía</name>
         <latitude>5.63589000</latitude>
@@ -128888,6 +128851,12 @@
         <name>Orocué</name>
         <latitude>4.79035000</latitude>
         <longitude>-71.33917000</longitude>
+      </cities>
+      <cities>
+        <id>149244</id>
+        <name>Paz de Ariporo</name>
+        <latitude>5.88111111</latitude>
+        <longitude>-71.89166777</longitude>
       </cities>
       <cities>
         <id>21220</id>
@@ -128976,12 +128945,6 @@
         <longitude>-77.20781000</longitude>
       </cities>
       <cities>
-        <id>20577</id>
-        <name>Belalcázar</name>
-        <latitude>2.64644000</latitude>
-        <longitude>-75.97269000</longitude>
-      </cities>
-      <cities>
         <id>20599</id>
         <name>Bolívar</name>
         <latitude>1.84670000</latitude>
@@ -129018,12 +128981,6 @@
         <longitude>-76.20646000</longitude>
       </cities>
       <cities>
-        <id>20788</id>
-        <name>El Bordo</name>
-        <latitude>2.11696000</latitude>
-        <longitude>-76.98214000</longitude>
-      </cities>
-      <cities>
         <id>20831</id>
         <name>El Tambo</name>
         <latitude>2.45199000</latitude>
@@ -129034,6 +128991,12 @@
         <name>Florencia</name>
         <latitude>1.68318000</latitude>
         <longitude>-77.07331000</longitude>
+      </cities>
+      <cities>
+        <id>149241</id>
+        <name>Guachené</name>
+        <latitude>3.13361111</latitude>
+        <longitude>-76.39255555</longitude>
       </cities>
       <cities>
         <id>20909</id>
@@ -129064,12 +129027,6 @@
         <name>La Vega</name>
         <latitude>2.06201000</latitude>
         <longitude>-76.76808000</longitude>
-      </cities>
-      <cities>
-        <id>21041</id>
-        <name>López</name>
-        <latitude>2.43333000</latitude>
-        <longitude>-76.80000000</longitude>
       </cities>
       <cities>
         <id>21080</id>
@@ -129103,21 +129060,21 @@
       </cities>
       <cities>
         <id>21163</id>
-        <name>Paez</name>
-        <latitude>2.75000000</latitude>
-        <longitude>-76.00000000</longitude>
-      </cities>
-      <cities>
-        <id>21167</id>
-        <name>Paispamba</name>
-        <latitude>2.25462000</latitude>
-        <longitude>-76.61086000</longitude>
+        <name>Páez</name>
+        <latitude>2.64644000</latitude>
+        <longitude>-75.97269000</longitude>
       </cities>
       <cities>
         <id>21185</id>
         <name>Patía</name>
         <latitude>2.14018000</latitude>
         <longitude>-77.01744000</longitude>
+      </cities>
+      <cities>
+        <id>149245</id>
+        <name>Piamonte</name>
+        <latitude>1.11583333</latitude>
+        <longitude>-76.32611111</longitude>
       </cities>
       <cities>
         <id>21202</id>
@@ -129156,6 +129113,12 @@
         <longitude>-76.66667000</longitude>
       </cities>
       <cities>
+        <id>149250</id>
+        <name>Santa Rosa</name>
+        <latitude>1.70055666</latitude>
+        <longitude>-76.57277888</longitude>
+      </cities>
+      <cities>
         <id>21434</id>
         <name>Santander de Quilichao</name>
         <latitude>3.00945000</latitude>
@@ -129169,7 +129132,7 @@
       </cities>
       <cities>
         <id>21482</id>
-        <name>Sotara</name>
+        <name>Sotará</name>
         <latitude>2.25000000</latitude>
         <longitude>-76.58333000</longitude>
       </cities>
@@ -129184,6 +129147,12 @@
         <name>Sucre</name>
         <latitude>2.06182000</latitude>
         <longitude>-76.91438000</longitude>
+      </cities>
+      <cities>
+        <id>149257</id>
+        <name>Timbío</name>
+        <latitude>2.35277888</latitude>
+        <longitude>-76.68194444</longitude>
       </cities>
       <cities>
         <id>21528</id>
@@ -129230,12 +129199,6 @@
         <longitude>-73.23558000</longitude>
       </cities>
       <cities>
-        <id>20547</id>
-        <name>Ariguaní</name>
-        <latitude>10.25000000</latitude>
-        <longitude>-74.00000000</longitude>
-      </cities>
-      <cities>
         <id>20555</id>
         <name>Astrea</name>
         <latitude>9.49828000</latitude>
@@ -129246,6 +129209,12 @@
         <name>Becerril</name>
         <latitude>9.70413000</latitude>
         <longitude>-73.27930000</longitude>
+      </cities>
+      <cities>
+        <id>149238</id>
+        <name>Bosconia</name>
+        <latitude>9.97611111</latitude>
+        <longitude>-73.89033333</longitude>
       </cities>
       <cities>
         <id>20685</id>
@@ -129308,12 +129277,6 @@
         <longitude>-73.22056000</longitude>
       </cities>
       <cities>
-        <id>21057</id>
-        <name>Manaure</name>
-        <latitude>10.40138000</latitude>
-        <longitude>-72.93102000</longitude>
-      </cities>
-      <cities>
         <id>21058</id>
         <name>Manaure Balcón del Cesar</name>
         <latitude>10.39278000</latitude>
@@ -129330,6 +129293,12 @@
         <name>Pelaya</name>
         <latitude>8.68819000</latitude>
         <longitude>-73.66451000</longitude>
+      </cities>
+      <cities>
+        <id>149247</id>
+        <name>Pueblo Bello</name>
+        <latitude>10.41638999</latitude>
+        <longitude>-73.58666777</longitude>
       </cities>
       <cities>
         <id>21307</id>
@@ -129383,9 +129352,9 @@
       </cities>
       <cities>
         <id>20509</id>
-        <name>Alto Baudo</name>
-        <latitude>5.60464000</latitude>
-        <longitude>-77.06975000</longitude>
+        <name>Alto Baudó</name>
+        <latitude>5.51604000</latitude>
+        <longitude>-76.97449000</longitude>
       </cities>
       <cities>
         <id>20557</id>
@@ -129408,26 +129377,20 @@
       <cities>
         <id>20561</id>
         <name>Bajo Baudó</name>
-        <latitude>4.90181000</latitude>
-        <longitude>-77.22771000</longitude>
+        <latitude>4.95334000</latitude>
+        <longitude>-77.36598000</longitude>
       </cities>
       <cities>
-        <id>20578</id>
-        <name>Bellavista</name>
+        <id>20596</id>
+        <name>Bojayá</name>
         <latitude>6.55645000</latitude>
         <longitude>-76.88389000</longitude>
       </cities>
       <cities>
-        <id>20596</id>
-        <name>Bojaya</name>
-        <latitude>6.50000000</latitude>
-        <longitude>-77.10000000</longitude>
-      </cities>
-      <cities>
         <id>20657</id>
         <name>Carmen del Darien</name>
-        <latitude>7.03639000</latitude>
-        <longitude>-76.95222000</longitude>
+        <latitude>7.15777888</latitude>
+        <longitude>-76.97083333</longitude>
       </cities>
       <cities>
         <id>20767</id>
@@ -129448,28 +129411,10 @@
         <longitude>-76.73139000</longitude>
       </cities>
       <cities>
-        <id>20792</id>
-        <name>El Cantón del San Pablo</name>
-        <latitude>5.35989000</latitude>
-        <longitude>-76.77280000</longitude>
-      </cities>
-      <cities>
-        <id>20794</id>
-        <name>El Carmen</name>
-        <latitude>5.88778000</latitude>
-        <longitude>-75.16417000</longitude>
-      </cities>
-      <cities>
         <id>20795</id>
         <name>El Carmen de Atrato</name>
         <latitude>5.83333000</latitude>
         <longitude>-76.25000000</longitude>
-      </cities>
-      <cities>
-        <id>20811</id>
-        <name>El Litoral del San Juan</name>
-        <latitude>4.25070000</latitude>
-        <longitude>-76.96926000</longitude>
       </cities>
       <cities>
         <id>20952</id>
@@ -129482,6 +129427,12 @@
         <name>Juradó</name>
         <latitude>7.10421000</latitude>
         <longitude>-77.76200000</longitude>
+      </cities>
+      <cities>
+        <id>21418</id>
+        <name>Litoral del San Juan</name>
+        <latitude>4.25875000</latitude>
+        <longitude>-77.36516000</longitude>
       </cities>
       <cities>
         <id>21030</id>
@@ -129520,18 +129471,6 @@
         <longitude>-77.27083000</longitude>
       </cities>
       <cities>
-        <id>21198</id>
-        <name>Pie de Pató</name>
-        <latitude>5.51604000</latitude>
-        <longitude>-76.97449000</longitude>
-      </cities>
-      <cities>
-        <id>21211</id>
-        <name>Pizarro</name>
-        <latitude>4.95334000</latitude>
-        <longitude>-77.36598000</longitude>
-      </cities>
-      <cities>
         <id>21272</id>
         <name>Quibdó</name>
         <latitude>5.76075000</latitude>
@@ -129560,12 +129499,6 @@
         <name>San José del Palmar</name>
         <latitude>4.89616000</latitude>
         <longitude>-76.23422000</longitude>
-      </cities>
-      <cities>
-        <id>21418</id>
-        <name>Santa Genoveva de Docordó</name>
-        <latitude>4.25875000</latitude>
-        <longitude>-77.36516000</longitude>
       </cities>
       <cities>
         <id>21462</id>
@@ -129714,14 +129647,8 @@
         <longitude>-75.78312000</longitude>
       </cities>
       <cities>
-        <id>21265</id>
-        <name>Purísima</name>
-        <latitude>9.24955000</latitude>
-        <longitude>-75.71181000</longitude>
-      </cities>
-      <cities>
         <id>21266</id>
-        <name>Purísima de la Concepción</name>
+        <name>Purísima</name>
         <latitude>9.23657000</latitude>
         <longitude>-75.72191000</longitude>
       </cities>
@@ -129733,7 +129660,7 @@
       </cities>
       <cities>
         <id>21333</id>
-        <name>San Andrés Sotavento</name>
+        <name>San Andrés de Sotavento</name>
         <latitude>9.12183000</latitude>
         <longitude>-75.51627000</longitude>
       </cities>
@@ -129756,6 +129683,12 @@
         <longitude>-75.69947000</longitude>
       </cities>
       <cities>
+        <id>149251</id>
+        <name>San José de Uré</name>
+        <latitude>7.78722222</latitude>
+        <longitude>-75.53305666</longitude>
+      </cities>
+      <cities>
         <id>21401</id>
         <name>San Pelayo</name>
         <latitude>8.95833000</latitude>
@@ -129766,6 +129699,12 @@
         <name>Tierralta</name>
         <latitude>7.87863000</latitude>
         <longitude>-76.21307000</longitude>
+      </cities>
+      <cities>
+        <id>149258</id>
+        <name>Tuchín</name>
+        <latitude>9.18583333</latitude>
+        <longitude>-75.55527888</longitude>
       </cities>
       <cities>
         <id>21578</id>
@@ -129818,12 +129757,6 @@
         <longitude>-74.41464000</longitude>
       </cities>
       <cities>
-        <id>143872</id>
-        <name>Barrio San Luis</name>
-        <latitude>4.66779000</latitude>
-        <longitude>-74.02150000</longitude>
-      </cities>
-      <cities>
         <id>20581</id>
         <name>Beltrán</name>
         <latitude>4.71947000</latitude>
@@ -129837,7 +129770,7 @@
       </cities>
       <cities>
         <id>143873</id>
-        <name>Bogota</name>
+        <name>Bogotá D.C.</name>
         <latitude>4.61263889</latitude>
         <longitude>-74.07050000</longitude>
       </cities>
@@ -129936,12 +129869,6 @@
         <name>El Colegio</name>
         <latitude>4.56047000</latitude>
         <longitude>-74.42614000</longitude>
-      </cities>
-      <cities>
-        <id>21159</id>
-        <name>El Maríachi</name>
-        <latitude>5.13278000</latitude>
-        <longitude>-74.15977000</longitude>
       </cities>
       <cities>
         <id>20817</id>
@@ -130184,6 +130111,12 @@
         <longitude>-74.38439000</longitude>
       </cities>
       <cities>
+        <id>21159</id>
+        <name>Pacho</name>
+        <latitude>5.13055555</latitude>
+        <longitude>-74.15833333</longitude>
+      </cities>
+      <cities>
         <id>21165</id>
         <name>Paime</name>
         <latitude>5.37054000</latitude>
@@ -130206,12 +130139,6 @@
         <name>Pasca</name>
         <latitude>4.30722000</latitude>
         <longitude>-74.30056000</longitude>
-      </cities>
-      <cities>
-        <id>21235</id>
-        <name>Puerto Bogotá</name>
-        <latitude>5.19994000</latitude>
-        <longitude>-74.72733000</longitude>
       </cities>
       <cities>
         <id>21254</id>
@@ -130596,7 +130523,7 @@
       <state_code>HUI</state_code>
       <latitude>2.53593490</latitude>
       <longitude>-75.52766990</longitude>
-      <type></type>
+      <type>department</type>
       <cities>
         <id>143877</id>
         <name>Acevedo</name>
@@ -130686,6 +130613,12 @@
         <name>Isnos</name>
         <latitude>1.92888889</latitude>
         <longitude>-76.21583333</longitude>
+      </cities>
+      <cities>
+        <id>149242</id>
+        <name>La Argentina</name>
+        <latitude>2.19755555</latitude>
+        <longitude>-75.98888888</longitude>
       </cities>
       <cities>
         <id>143892</id>
@@ -130938,34 +130871,16 @@
         <longitude>-74.13583000</longitude>
       </cities>
       <cities>
-        <id>20606</id>
-        <name>Buenavista</name>
-        <latitude>9.21433000</latitude>
-        <longitude>-74.31363000</longitude>
-      </cities>
-      <cities>
         <id>20673</id>
         <name>Cerro de San Antonio</name>
         <latitude>10.32585000</latitude>
         <longitude>-74.86933000</longitude>
       </cities>
       <cities>
-        <id>20672</id>
-        <name>Cerro San Antonio</name>
-        <latitude>10.29063000</latitude>
-        <longitude>-74.82173000</longitude>
-      </cities>
-      <cities>
-        <id>20681</id>
-        <name>Chibolo</name>
-        <latitude>10.08250000</latitude>
-        <longitude>-74.50696000</longitude>
-      </cities>
-      <cities>
         <id>20700</id>
         <name>Chivolo</name>
-        <latitude>10.02502000</latitude>
-        <longitude>-74.62279000</longitude>
+        <latitude>10.02638888</latitude>
+        <longitude>-74.62138888</longitude>
       </cities>
       <cities>
         <id>20712</id>
@@ -131064,10 +130979,10 @@
         <longitude>-74.79463000</longitude>
       </cities>
       <cities>
-        <id>21336</id>
-        <name>San Antonio</name>
-        <latitude>9.93303000</latitude>
-        <longitude>-74.69346000</longitude>
+        <id>20606</id>
+        <name>San Sebastián de Buenavista</name>
+        <latitude>9.23916666</latitude>
+        <longitude>-74.35194444</longitude>
       </cities>
       <cities>
         <id>21409</id>
@@ -131174,6 +131089,12 @@
         <longitude>-73.79488000</longitude>
       </cities>
       <cities>
+        <id>149240</id>
+        <name>El Dorado</name>
+        <latitude>3.73916777</latitude>
+        <longitude>-73.83527888</longitude>
+      </cities>
+      <cities>
         <id>20863</id>
         <name>Fuente de Oro</name>
         <latitude>3.46263000</latitude>
@@ -131242,12 +131163,6 @@
       <cities>
         <id>21252</id>
         <name>Puerto Rico</name>
-        <latitude>2.78273000</latitude>
-        <longitude>-73.13956000</longitude>
-      </cities>
-      <cities>
-        <id>21260</id>
-        <name>Puerto Yuca</name>
         <latitude>2.93833000</latitude>
         <longitude>-73.20833000</longitude>
       </cities>
@@ -131270,10 +131185,22 @@
         <longitude>-73.82065000</longitude>
       </cities>
       <cities>
+        <id>149252</id>
+        <name>San Juanito</name>
+        <latitude>4.45861111</latitude>
+        <longitude>-73.67555666</longitude>
+      </cities>
+      <cities>
         <id>21385</id>
         <name>San Martín</name>
         <latitude>3.50819000</latitude>
         <longitude>-73.03975000</longitude>
+      </cities>
+      <cities>
+        <id>149259</id>
+        <name>Uribe</name>
+        <latitude>3.24083333</latitude>
+        <longitude>-74.35361111</longitude>
       </cities>
       <cities>
         <id>21612</id>
@@ -131295,12 +131222,6 @@
       <latitude>1.28915100</latitude>
       <longitude>-77.35794000</longitude>
       <type></type>
-      <cities>
-        <id>20500</id>
-        <name>Albán</name>
-        <latitude>1.47050000</latitude>
-        <longitude>-77.06846000</longitude>
-      </cities>
       <cities>
         <id>20503</id>
         <name>Aldana</name>
@@ -131342,12 +131263,6 @@
         <name>Carlosama</name>
         <latitude>0.86292000</latitude>
         <longitude>-77.72734000</longitude>
-      </cities>
-      <cities>
-        <id>20662</id>
-        <name>Cartago</name>
-        <latitude>1.55151000</latitude>
-        <longitude>-77.11948000</longitude>
       </cities>
       <cities>
         <id>20674</id>
@@ -131417,15 +131332,9 @@
       </cities>
       <cities>
         <id>20829</id>
-        <name>El Tablón</name>
+        <name>El Tablón de Gómez</name>
         <latitude>1.42717000</latitude>
         <longitude>-77.09693000</longitude>
-      </cities>
-      <cities>
-        <id>20830</id>
-        <name>El Tablón de Gómez</name>
-        <latitude>1.41201000</latitude>
-        <longitude>-76.98526000</longitude>
       </cities>
       <cities>
         <id>20832</id>
@@ -131436,20 +131345,14 @@
       <cities>
         <id>20858</id>
         <name>Francisco Pizarro</name>
-        <latitude>2.14713000</latitude>
-        <longitude>-78.58883000</longitude>
+        <latitude>2.04060000</latitude>
+        <longitude>-78.65877000</longitude>
       </cities>
       <cities>
         <id>20865</id>
         <name>Funes</name>
         <latitude>1.00075000</latitude>
         <longitude>-77.44918000</longitude>
-      </cities>
-      <cities>
-        <id>20929</id>
-        <name>Génova</name>
-        <latitude>1.64367000</latitude>
-        <longitude>-77.01924000</longitude>
       </cities>
       <cities>
         <id>20899</id>
@@ -131486,12 +131389,6 @@
         <name>Ipiales</name>
         <latitude>0.82501000</latitude>
         <longitude>-77.63966000</longitude>
-      </cities>
-      <cities>
-        <id>20951</id>
-        <name>Iscuandé</name>
-        <latitude>2.45065000</latitude>
-        <longitude>-77.97998000</longitude>
       </cities>
       <cities>
         <id>20978</id>
@@ -131538,20 +131435,20 @@
       <cities>
         <id>21032</id>
         <name>Los Andes</name>
-        <latitude>1.62831000</latitude>
-        <longitude>-77.67959000</longitude>
+        <latitude>1.49474000</latitude>
+        <longitude>-77.52136000</longitude>
       </cities>
       <cities>
-        <id>21049</id>
-        <name>Magüi</name>
-        <latitude>1.90504000</latitude>
-        <longitude>-78.04916000</longitude>
+        <id>21189</id>
+        <name>Magüí Payán</name>
+        <latitude>1.76645000</latitude>
+        <longitude>-78.18326000</longitude>
       </cities>
       <cities>
         <id>21054</id>
         <name>Mallama</name>
-        <latitude>1.15887000</latitude>
-        <longitude>-77.84688000</longitude>
+        <latitude>1.14109000</latitude>
+        <longitude>-77.86479000</longitude>
       </cities>
       <cities>
         <id>21108</id>
@@ -131584,18 +131481,6 @@
         <longitude>-77.27865000</longitude>
       </cities>
       <cities>
-        <id>21189</id>
-        <name>Payán</name>
-        <latitude>1.76645000</latitude>
-        <longitude>-78.18326000</longitude>
-      </cities>
-      <cities>
-        <id>21200</id>
-        <name>Piedrancha</name>
-        <latitude>1.14109000</latitude>
-        <longitude>-77.86479000</longitude>
-      </cities>
-      <cities>
         <id>21216</id>
         <name>Policarpa</name>
         <latitude>1.62843000</latitude>
@@ -131606,6 +131491,12 @@
         <name>Potosí</name>
         <latitude>0.80739000</latitude>
         <longitude>-77.57216000</longitude>
+      </cities>
+      <cities>
+        <id>149246</id>
+        <name>Providencia</name>
+        <latitude>1.23888999</latitude>
+        <longitude>-77.59755555</longitude>
       </cities>
       <cities>
         <id>21230</id>
@@ -131632,22 +131523,10 @@
         <longitude>-78.38191000</longitude>
       </cities>
       <cities>
-        <id>21317</id>
-        <name>Salahonda</name>
-        <latitude>2.04060000</latitude>
-        <longitude>-78.65877000</longitude>
-      </cities>
-      <cities>
         <id>21325</id>
         <name>Samaniego</name>
         <latitude>1.33849000</latitude>
         <longitude>-77.59570000</longitude>
-      </cities>
-      <cities>
-        <id>21329</id>
-        <name>San Andres de Tumaco</name>
-        <latitude>1.63766000</latitude>
-        <longitude>-78.61218000</longitude>
       </cities>
       <cities>
         <id>21341</id>
@@ -131657,9 +131536,9 @@
       </cities>
       <cities>
         <id>21365</id>
-        <name>San José</name>
-        <latitude>1.69659000</latitude>
-        <longitude>-78.24482000</longitude>
+        <name>San José de Albán</name>
+        <latitude>1.47388999</latitude>
+        <longitude>-77.08083333</longitude>
       </cities>
       <cities>
         <id>21378</id>
@@ -131676,8 +131555,8 @@
       <cities>
         <id>21398</id>
         <name>San Pedro de Cartago</name>
-        <latitude>1.55533000</latitude>
-        <longitude>-77.12984000</longitude>
+        <latitude>1.55151000</latitude>
+        <longitude>-77.11948000</longitude>
       </cities>
       <cities>
         <id>21410</id>
@@ -131702,12 +131581,6 @@
         <name>Sapuyes</name>
         <latitude>1.03728000</latitude>
         <longitude>-77.62094000</longitude>
-      </cities>
-      <cities>
-        <id>21483</id>
-        <name>Sotomayor</name>
-        <latitude>1.49474000</latitude>
-        <longitude>-77.52136000</longitude>
       </cities>
       <cities>
         <id>21509</id>
@@ -131958,6 +131831,12 @@
         <longitude>-72.75639000</longitude>
       </cities>
       <cities>
+        <id>149256</id>
+        <name>Teorama</name>
+        <latitude>8.43527888</latitude>
+        <longitude>-73.28638999</longitude>
+      </cities>
+      <cities>
         <id>21526</id>
         <name>Tibú</name>
         <latitude>8.63895000</latitude>
@@ -131968,6 +131847,12 @@
         <name>Toledo</name>
         <latitude>7.30984000</latitude>
         <longitude>-72.48295000</longitude>
+      </cities>
+      <cities>
+        <id>149260</id>
+        <name>Villa Caro</name>
+        <latitude>7.91472222</latitude>
+        <longitude>-72.97194444</longitude>
       </cities>
       <cities>
         <id>21601</id>
@@ -131990,18 +131875,6 @@
         <longitude>-76.97369000</longitude>
       </cities>
       <cities>
-        <id>20980</id>
-        <name>La Dorada</name>
-        <latitude>0.34314000</latitude>
-        <longitude>-76.91124000</longitude>
-      </cities>
-      <cities>
-        <id>21023</id>
-        <name>Leguízamo</name>
-        <latitude>0.05683000</latitude>
-        <longitude>-75.05832000</longitude>
-      </cities>
-      <cities>
         <id>21089</id>
         <name>Mocoa</name>
         <latitude>1.15284000</latitude>
@@ -132018,6 +131891,12 @@
         <name>Puerto Asís</name>
         <latitude>0.50514000</latitude>
         <longitude>-76.49571000</longitude>
+      </cities>
+      <cities>
+        <id>149248</id>
+        <name>Puerto Caicedo</name>
+        <latitude>0.68555555</latitude>
+        <longitude>-76.60444444</longitude>
       </cities>
       <cities>
         <id>21243</id>
@@ -132040,8 +131919,8 @@
       <cities>
         <id>21389</id>
         <name>San Miguel</name>
-        <latitude>0.34300000</latitude>
-        <longitude>-76.91000000</longitude>
+        <latitude>0.34361111</latitude>
+        <longitude>-76.91083333</longitude>
       </cities>
       <cities>
         <id>21435</id>
@@ -132156,12 +132035,6 @@
       <longitude>-75.99276520</longitude>
       <type></type>
       <cities>
-        <id>20524</id>
-        <name>Anserma</name>
-        <latitude>5.33278000</latitude>
-        <longitude>-75.79111000</longitude>
-      </cities>
-      <cities>
         <id>20531</id>
         <name>Apía</name>
         <latitude>5.10658000</latitude>
@@ -132196,12 +132069,6 @@
         <name>La Celia</name>
         <latitude>5.00332000</latitude>
         <longitude>-76.00355000</longitude>
-      </cities>
-      <cities>
-        <id>20991</id>
-        <name>La Merced</name>
-        <latitude>5.40194000</latitude>
-        <longitude>-75.88472000</longitude>
       </cities>
       <cities>
         <id>21016</id>
@@ -132259,12 +132126,6 @@
       <latitude>12.55673240</latitude>
       <longitude>-81.71852530</longitude>
       <type></type>
-      <cities>
-        <id>21111</id>
-        <name>Mountain</name>
-        <latitude>13.36667000</latitude>
-        <longitude>-81.36667000</longitude>
-      </cities>
       <cities>
         <id>21224</id>
         <name>Providencia</name>
@@ -132736,6 +132597,12 @@
         <longitude>-72.90700000</longitude>
       </cities>
       <cities>
+        <id>149249</id>
+        <name>Santa Helena Del Opón</name>
+        <latitude>6.33916777</latitude>
+        <longitude>-73.61666777</longitude>
+      </cities>
+      <cities>
         <id>21458</id>
         <name>Simacota</name>
         <latitude>6.44290000</latitude>
@@ -132809,6 +132676,12 @@
       <latitude>8.81397700</latitude>
       <longitude>-74.72328300</longitude>
       <type></type>
+      <cities>
+        <id>149239</id>
+        <name>Buenavista</name>
+        <latitude>9.31972222</latitude>
+        <longitude>-74.97166777</longitude>
+      </cities>
       <cities>
         <id>20623</id>
         <name>Caimito</name>
@@ -132986,12 +132859,6 @@
         <longitude>-74.76268000</longitude>
       </cities>
       <cities>
-        <id>20515</id>
-        <name>Anaime</name>
-        <latitude>4.39639000</latitude>
-        <longitude>-75.44500000</longitude>
-      </cities>
-      <cities>
         <id>20528</id>
         <name>Anzoátegui</name>
         <latitude>4.62232000</latitude>
@@ -133000,14 +132867,8 @@
       <cities>
         <id>20552</id>
         <name>Armero</name>
-        <latitude>4.98873000</latitude>
-        <longitude>-74.88130000</longitude>
-      </cities>
-      <cities>
-        <id>20553</id>
-        <name>Armero-Guyabal</name>
-        <latitude>4.96701000</latitude>
-        <longitude>-74.90294000</longitude>
+        <latitude>5.03055666</latitude>
+        <longitude>-74.88444444</longitude>
       </cities>
       <cities>
         <id>20556</id>
@@ -133020,12 +132881,6 @@
         <name>Cajamarca</name>
         <latitude>4.41667000</latitude>
         <longitude>-75.50000000</longitude>
-      </cities>
-      <cities>
-        <id>20639</id>
-        <name>Campo Alegre</name>
-        <latitude>3.18917000</latitude>
-        <longitude>-75.70361000</longitude>
       </cities>
       <cities>
         <id>20654</id>
@@ -133046,12 +132901,6 @@
         <longitude>-75.58333000</longitude>
       </cities>
       <cities>
-        <id>20682</id>
-        <name>Chicoral</name>
-        <latitude>4.21536000</latitude>
-        <longitude>-74.98189000</longitude>
-      </cities>
-      <cities>
         <id>20717</id>
         <name>Coello</name>
         <latitude>4.37330000</latitude>
@@ -133068,12 +132917,6 @@
         <name>Cunday</name>
         <latitude>4.00284000</latitude>
         <longitude>-74.69295000</longitude>
-      </cities>
-      <cities>
-        <id>20778</id>
-        <name>Doima</name>
-        <latitude>4.42692000</latitude>
-        <longitude>-74.97548000</longitude>
       </cities>
       <cities>
         <id>20779</id>
@@ -133106,28 +132949,10 @@
         <longitude>-75.03624000</longitude>
       </cities>
       <cities>
-        <id>20862</id>
-        <name>Frías</name>
-        <latitude>5.02973000</latitude>
-        <longitude>-75.00860000</longitude>
-      </cities>
-      <cities>
-        <id>20875</id>
-        <name>Gaitania</name>
-        <latitude>3.15000000</latitude>
-        <longitude>-75.81667000</longitude>
-      </cities>
-      <cities>
         <id>20908</id>
         <name>Guamo</name>
         <latitude>4.07457000</latitude>
         <longitude>-74.97689000</longitude>
-      </cities>
-      <cities>
-        <id>20920</id>
-        <name>Guayabal</name>
-        <latitude>5.03103000</latitude>
-        <longitude>-74.88683000</longitude>
       </cities>
       <cities>
         <id>20941</id>
@@ -133154,24 +132979,6 @@
         <longitude>-74.53254000</longitude>
       </cities>
       <cities>
-        <id>20967</id>
-        <name>Junín</name>
-        <latitude>4.78333000</latitude>
-        <longitude>-75.01667000</longitude>
-      </cities>
-      <cities>
-        <id>20976</id>
-        <name>La Chamba</name>
-        <latitude>4.02649000</latitude>
-        <longitude>-74.86844000</longitude>
-      </cities>
-      <cities>
-        <id>21020</id>
-        <name>Laureles</name>
-        <latitude>4.25917000</latitude>
-        <longitude>-75.32250000</longitude>
-      </cities>
-      <cities>
         <id>21039</id>
         <name>Lérida</name>
         <latitude>4.86242000</latitude>
@@ -133188,12 +132995,6 @@
         <name>Melgar</name>
         <latitude>4.20475000</latitude>
         <longitude>-74.64075000</longitude>
-      </cities>
-      <cities>
-        <id>21118</id>
-        <name>Municipio de San Sebastián de Mariquita</name>
-        <latitude>5.24269000</latitude>
-        <longitude>-74.90772000</longitude>
       </cities>
       <cities>
         <id>21119</id>
@@ -133214,22 +133015,10 @@
         <longitude>-75.27245000</longitude>
       </cities>
       <cities>
-        <id>21162</id>
-        <name>Padua</name>
-        <latitude>5.13429000</latitude>
-        <longitude>-75.14001000</longitude>
-      </cities>
-      <cities>
         <id>21175</id>
         <name>Palocabildo</name>
         <latitude>5.11705000</latitude>
         <longitude>-75.01732000</longitude>
-      </cities>
-      <cities>
-        <id>21188</id>
-        <name>Payandé</name>
-        <latitude>4.29750000</latitude>
-        <longitude>-75.09667000</longitude>
       </cities>
       <cities>
         <id>21201</id>
@@ -133242,12 +133031,6 @@
         <name>Planadas</name>
         <latitude>3.10326000</latitude>
         <longitude>-75.81680000</longitude>
-      </cities>
-      <cities>
-        <id>21215</id>
-        <name>Playarrica</name>
-        <latitude>4.05694000</latitude>
-        <longitude>-75.41028000</longitude>
       </cities>
       <cities>
         <id>21223</id>
@@ -133300,8 +133083,8 @@
       <cities>
         <id>21405</id>
         <name>San Sebastián de Mariquita</name>
-        <latitude>5.19889000</latitude>
-        <longitude>-74.89295000</longitude>
+        <latitude>5.24269000</latitude>
+        <longitude>-74.90772000</longitude>
       </cities>
       <cities>
         <id>21419</id>
@@ -133310,22 +133093,10 @@
         <longitude>-75.22391000</longitude>
       </cities>
       <cities>
-        <id>21437</id>
-        <name>Santiago Pérez</name>
-        <latitude>3.39806000</latitude>
-        <longitude>-75.60500000</longitude>
-      </cities>
-      <cities>
         <id>21500</id>
         <name>Suárez</name>
         <latitude>4.04897000</latitude>
         <longitude>-74.81821000</longitude>
-      </cities>
-      <cities>
-        <id>21547</id>
-        <name>Tres Esquinas</name>
-        <latitude>3.86512000</latitude>
-        <longitude>-74.70906000</longitude>
       </cities>
       <cities>
         <id>21580</id>
@@ -133436,12 +133207,6 @@
         <name>Dagua</name>
         <latitude>3.65685000</latitude>
         <longitude>-76.68859000</longitude>
-      </cities>
-      <cities>
-        <id>20775</id>
-        <name>Darien</name>
-        <latitude>3.93135000</latitude>
-        <longitude>-76.48481000</longitude>
       </cities>
       <cities>
         <id>20835</id>
@@ -157315,11 +157080,11 @@
     <emojiU>U+1F1EA U+1F1E8</emojiU>
     <states>
       <id>2923</id>
-      <name>Azuay Province</name>
+      <name>Azuay</name>
       <state_code>A</state_code>
       <latitude>-2.89430680</latitude>
       <longitude>-78.99683440</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31493</id>
         <name>Cantón San Fernando</name>
@@ -157359,11 +157124,11 @@
     </states>
     <states>
       <id>2920</id>
-      <name>Bolívar Province</name>
+      <name>Bolívar</name>
       <state_code>B</state_code>
       <latitude>-1.70958280</latitude>
       <longitude>-79.04504290</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31510</id>
         <name>Guaranda</name>
@@ -157379,11 +157144,11 @@
     </states>
     <states>
       <id>2917</id>
-      <name>Cañar Province</name>
+      <name>Cañar</name>
       <state_code>F</state_code>
       <latitude>-2.55893150</latitude>
       <longitude>-78.93881910</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31484</id>
         <name>Azogues</name>
@@ -157405,11 +157170,11 @@
     </states>
     <states>
       <id>2915</id>
-      <name>Carchi Province</name>
+      <name>Carchi</name>
       <state_code>C</state_code>
       <latitude>0.50269120</latitude>
       <longitude>-77.90425210</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31503</id>
         <name>El Ángel</name>
@@ -157431,11 +157196,11 @@
     </states>
     <states>
       <id>2925</id>
-      <name>Chimborazo Province</name>
+      <name>Chimborazo</name>
       <state_code>H</state_code>
       <latitude>-1.66479950</latitude>
       <longitude>-78.65432550</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31479</id>
         <name>Alausí</name>
@@ -157457,11 +157222,11 @@
     </states>
     <states>
       <id>2921</id>
-      <name>Cotopaxi Province</name>
+      <name>Cotopaxi</name>
       <state_code>X</state_code>
       <latitude>-0.83842060</latitude>
       <longitude>-78.66626780</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31517</id>
         <name>La Maná</name>
@@ -157495,11 +157260,11 @@
     </states>
     <states>
       <id>2924</id>
-      <name>El Oro Province</name>
+      <name>El Oro</name>
       <state_code>O</state_code>
       <latitude>-3.25924130</latitude>
       <longitude>-79.95835410</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31512</id>
         <name>Huaquillas</name>
@@ -157555,7 +157320,7 @@
       <state_code>E</state_code>
       <latitude>0.96817890</latitude>
       <longitude>-79.65172020</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31505</id>
         <name>Esmeraldas</name>
@@ -157601,11 +157366,11 @@
     </states>
     <states>
       <id>2905</id>
-      <name>Galápagos Province</name>
+      <name>Galápagos</name>
       <state_code>W</state_code>
       <latitude>-0.95376910</latitude>
       <longitude>-90.96560190</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31551</id>
         <name>Puerto Ayora</name>
@@ -157627,11 +157392,11 @@
     </states>
     <states>
       <id>2914</id>
-      <name>Guayas Province</name>
+      <name>Guayas</name>
       <state_code>G</state_code>
       <latitude>-1.95748390</latitude>
       <longitude>-79.91927020</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31480</id>
         <name>Alfredo Baquerizo Moreno</name>
@@ -157679,12 +157444,6 @@
         <name>Guayaquil</name>
         <latitude>-2.19616000</latitude>
         <longitude>-79.88621000</longitude>
-      </cities>
-      <cities>
-        <id>31516</id>
-        <name>La Libertad</name>
-        <latitude>-2.23300000</latitude>
-        <longitude>-80.91039000</longitude>
       </cities>
       <cities>
         <id>31522</id>
@@ -157755,11 +157514,11 @@
     </states>
     <states>
       <id>2911</id>
-      <name>Imbabura Province</name>
+      <name>Imbabura</name>
       <state_code>I</state_code>
       <latitude>0.34997680</latitude>
       <longitude>-78.12601290</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31483</id>
         <name>Atuntaqui</name>
@@ -157792,12 +157551,26 @@
       </cities>
     </states>
     <states>
+      <id>5068</id>
+      <name>Loja</name>
+      <state_code>L</state_code>
+      <latitude>-3.99313000</latitude>
+      <longitude>-79.20422000</longitude>
+      <type>province</type>
+      <cities>
+        <id>149262</id>
+        <name>Loja</name>
+        <latitude>-3.99313000</latitude>
+        <longitude>-79.20422000</longitude>
+      </cities>
+    </states>
+    <states>
       <id>2910</id>
-      <name>Los Ríos Province</name>
+      <name>Los Ríos</name>
       <state_code>R</state_code>
       <latitude>-1.02306070</latitude>
       <longitude>-79.46088970</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31485</id>
         <name>Babahoyo</name>
@@ -157843,11 +157616,11 @@
     </states>
     <states>
       <id>2913</id>
-      <name>Manabí Province</name>
+      <name>Manabí</name>
       <state_code>M</state_code>
       <latitude>-1.05434340</latitude>
       <longitude>-80.45264400</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31486</id>
         <name>Bahía de Caráquez</name>
@@ -157947,11 +157720,11 @@
     </states>
     <states>
       <id>2918</id>
-      <name>Morona-Santiago Province</name>
+      <name>Morona-Santiago</name>
       <state_code>S</state_code>
       <latitude>-2.30510620</latitude>
       <longitude>-78.11468660</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31508</id>
         <name>Gualaquiza</name>
@@ -157979,11 +157752,11 @@
     </states>
     <states>
       <id>2916</id>
-      <name>Napo Province</name>
+      <name>Napo</name>
       <state_code>N</state_code>
       <latitude>-0.99559640</latitude>
       <longitude>-77.81296840</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31482</id>
         <name>Archidona</name>
@@ -157999,11 +157772,11 @@
     </states>
     <states>
       <id>2926</id>
-      <name>Orellana Province</name>
+      <name>Orellana</name>
       <state_code>D</state_code>
       <latitude>-0.45451630</latitude>
       <longitude>-76.99502860</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31490</id>
         <name>Boca Suno</name>
@@ -158031,11 +157804,11 @@
     </states>
     <states>
       <id>2907</id>
-      <name>Pastaza Province</name>
+      <name>Pastaza</name>
       <state_code>Y</state_code>
       <latitude>-1.48822650</latitude>
       <longitude>-78.00310570</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31557</id>
         <name>Puyo</name>
@@ -158045,11 +157818,11 @@
     </states>
     <states>
       <id>2927</id>
-      <name>Pichincha Province</name>
+      <name>Pichincha</name>
       <state_code>P</state_code>
       <latitude>-0.14648470</latitude>
       <longitude>-78.47519450</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31495</id>
         <name>Cayambe</name>
@@ -158083,11 +157856,17 @@
     </states>
     <states>
       <id>2912</id>
-      <name>Santa Elena Province</name>
+      <name>Santa Elena</name>
       <state_code>SE</state_code>
       <latitude>-2.22671050</latitude>
       <longitude>-80.85949900</longitude>
-      <type></type>
+      <type>province</type>
+      <cities>
+        <id>31516</id>
+        <name>La Libertad</name>
+        <latitude>-2.23300000</latitude>
+        <longitude>-80.91039000</longitude>
+      </cities>
       <cities>
         <id>31565</id>
         <name>Salinas</name>
@@ -158103,11 +157882,11 @@
     </states>
     <states>
       <id>2919</id>
-      <name>Santo Domingo de los Tsáchilas Province</name>
+      <name>Santo Domingo de los Tsáchilas</name>
       <state_code>SD</state_code>
       <latitude>-0.25218820</latitude>
       <longitude>-79.18793830</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31577</id>
         <name>Santo Domingo de los Colorados</name>
@@ -158117,11 +157896,11 @@
     </states>
     <states>
       <id>2906</id>
-      <name>Sucumbíos Province</name>
+      <name>Sucumbíos</name>
       <state_code>U</state_code>
       <latitude>0.08892310</latitude>
       <longitude>-76.88975570</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31534</id>
         <name>Nueva Loja</name>
@@ -158131,11 +157910,11 @@
     </states>
     <states>
       <id>2908</id>
-      <name>Tungurahua Province</name>
+      <name>Tungurahua</name>
       <state_code>T</state_code>
       <latitude>-1.26352840</latitude>
       <longitude>-78.56608520</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31481</id>
         <name>Ambato</name>
@@ -158163,11 +157942,11 @@
     </states>
     <states>
       <id>2909</id>
-      <name>Zamora-Chinchipe Province</name>
+      <name>Zamora Chinchipe</name>
       <state_code>Z</state_code>
       <latitude>-4.06558920</latitude>
       <longitude>-78.95035250</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>31590</id>
         <name>Yantzaza</name>
@@ -932976,7 +932755,7 @@
       <state_code>Z</state_code>
       <latitude>-3.41684270</latitude>
       <longitude>-65.85606460</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130106</id>
         <name>Maroa</name>
@@ -933020,7 +932799,7 @@
       <state_code>B</state_code>
       <latitude>8.59130730</latitude>
       <longitude>-63.95861110</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130041</id>
         <name>Anaco</name>
@@ -933088,7 +932867,7 @@
       <state_code>C</state_code>
       <latitude>6.92694830</latitude>
       <longitude>-68.52471490</longitude>
-      <type></type>
+      <type>state</type>
       <cities/>
     </states>
     <states>
@@ -933097,7 +932876,7 @@
       <state_code>D</state_code>
       <latitude>10.06357580</latitude>
       <longitude>-67.28478750</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130052</id>
         <name>Cagua</name>
@@ -933165,7 +932944,7 @@
       <state_code>E</state_code>
       <latitude>8.62314980</latitude>
       <longitude>-70.23710450</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130040</id>
         <name>Alto Barinas</name>
@@ -933197,7 +932976,7 @@
       <state_code>F</state_code>
       <latitude>37.61448380</latitude>
       <longitude>-93.41047490</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130067</id>
         <name>Ciudad Bolívar</name>
@@ -933230,21 +933009,12 @@
       </cities>
     </states>
     <states>
-      <id>4855</id>
-      <name>Capital District</name>
-      <state_code>A</state_code>
-      <latitude>41.26148460</latitude>
-      <longitude>-95.93108070</longitude>
-      <type></type>
-      <cities/>
-    </states>
-    <states>
       <id>2040</id>
       <name>Carabobo</name>
       <state_code>G</state_code>
       <latitude>10.11764330</latitude>
       <longitude>-68.04775090</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130081</id>
         <name>Guacara</name>
@@ -933312,7 +933082,7 @@
       <state_code>H</state_code>
       <latitude>9.38166820</latitude>
       <longitude>-68.33392750</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130141</id>
         <name>San Carlos</name>
@@ -933332,7 +933102,7 @@
       <state_code>Y</state_code>
       <latitude>8.84993070</latitude>
       <longitude>-61.14031960</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130161</id>
         <name>Tucupita</name>
@@ -933341,12 +933111,26 @@
       </cities>
     </states>
     <states>
+      <id>4855</id>
+      <name>Distrito Capital</name>
+      <state_code>A</state_code>
+      <latitude>41.26148460</latitude>
+      <longitude>-95.93108070</longitude>
+      <type>capital district</type>
+      <cities>
+        <id>149261</id>
+        <name>Caracas</name>
+        <latitude>10.50000000</latitude>
+        <longitude>-66.93333333</longitude>
+      </cities>
+    </states>
+    <states>
       <id>2035</id>
       <name>Falcón</name>
       <state_code>I</state_code>
       <latitude>11.18106740</latitude>
       <longitude>-69.85974060</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130065</id>
         <name>Chichiriviche</name>
@@ -933396,7 +933180,7 @@
       <state_code>W</state_code>
       <latitude>10.93770530</latitude>
       <longitude>-65.35695730</longitude>
-      <type></type>
+      <type>federal dependency</type>
       <cities/>
     </states>
     <states>
@@ -933405,7 +933189,7 @@
       <state_code>J</state_code>
       <latitude>8.74893090</latitude>
       <longitude>-66.23671720</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130039</id>
         <name>Altagracia de Orituco</name>
@@ -933438,12 +933222,44 @@
       </cities>
     </states>
     <states>
+      <id>2055</id>
+      <name>La Guaira</name>
+      <state_code>X</state_code>
+      <latitude>29.30522680</latitude>
+      <longitude>-94.79138540</longitude>
+      <type>state</type>
+      <cities>
+        <id>130055</id>
+        <name>Caraballeda</name>
+        <latitude>10.61216000</latitude>
+        <longitude>-66.85192000</longitude>
+      </cities>
+      <cities>
+        <id>130060</id>
+        <name>Catia La Mar</name>
+        <latitude>10.60545000</latitude>
+        <longitude>-67.03238000</longitude>
+      </cities>
+      <cities>
+        <id>130092</id>
+        <name>La Guaira</name>
+        <latitude>10.60156000</latitude>
+        <longitude>-66.93293000</longitude>
+      </cities>
+      <cities>
+        <id>130102</id>
+        <name>Maiquetía</name>
+        <latitude>10.59450000</latitude>
+        <longitude>-66.95624000</longitude>
+      </cities>
+    </states>
+    <states>
       <id>2038</id>
       <name>Lara</name>
       <state_code>K</state_code>
       <latitude>33.98221650</latitude>
       <longitude>-118.13227470</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130047</id>
         <name>Barquisimeto</name>
@@ -933487,7 +933303,7 @@
       <state_code>L</state_code>
       <latitude>20.96737020</latitude>
       <longitude>-89.59258570</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130074</id>
         <name>Ejido</name>
@@ -933525,7 +933341,7 @@
       <state_code>M</state_code>
       <latitude>42.35193830</latitude>
       <longitude>-71.52907660</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130048</id>
         <name>Baruta</name>
@@ -933641,7 +933457,7 @@
       <state_code>N</state_code>
       <latitude>9.32416520</latitude>
       <longitude>-63.01475780</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130056</id>
         <name>Caripito</name>
@@ -933673,7 +933489,7 @@
       <state_code>O</state_code>
       <latitude>10.99707230</latitude>
       <longitude>-63.91132960</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130087</id>
         <name>Juan Griego</name>
@@ -933699,7 +933515,7 @@
       <state_code>P</state_code>
       <latitude>9.09439990</latitude>
       <longitude>-69.09702300</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130038</id>
         <name>Acarigua</name>
@@ -933731,7 +933547,7 @@
       <state_code>R</state_code>
       <latitude>-19.03534500</latitude>
       <longitude>-65.25921280</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130059</id>
         <name>Carúpano</name>
@@ -933763,7 +933579,7 @@
       <state_code>S</state_code>
       <latitude>7.91370010</latitude>
       <longitude>-72.14161320</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130070</id>
         <name>Colón</name>
@@ -933819,7 +933635,7 @@
       <state_code>T</state_code>
       <latitude>36.67343430</latitude>
       <longitude>-121.62875880</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130049</id>
         <name>Boconó</name>
@@ -933852,44 +933668,12 @@
       </cities>
     </states>
     <states>
-      <id>2055</id>
-      <name>Vargas</name>
-      <state_code>X</state_code>
-      <latitude>29.30522680</latitude>
-      <longitude>-94.79138540</longitude>
-      <type></type>
-      <cities>
-        <id>130055</id>
-        <name>Caraballeda</name>
-        <latitude>10.61216000</latitude>
-        <longitude>-66.85192000</longitude>
-      </cities>
-      <cities>
-        <id>130060</id>
-        <name>Catia La Mar</name>
-        <latitude>10.60545000</latitude>
-        <longitude>-67.03238000</longitude>
-      </cities>
-      <cities>
-        <id>130092</id>
-        <name>La Guaira</name>
-        <latitude>10.60156000</latitude>
-        <longitude>-66.93293000</longitude>
-      </cities>
-      <cities>
-        <id>130102</id>
-        <name>Maiquetía</name>
-        <latitude>10.59450000</latitude>
-        <longitude>-66.95624000</longitude>
-      </cities>
-    </states>
-    <states>
       <id>2041</id>
       <name>Yaracuy</name>
       <state_code>U</state_code>
       <latitude>10.33938900</latitude>
       <longitude>-68.81088490</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130066</id>
         <name>Chivacoa</name>
@@ -933927,7 +933711,7 @@
       <state_code>V</state_code>
       <latitude>10.29102370</latitude>
       <longitude>-72.14161320</longitude>
-      <type></type>
+      <type>state</type>
       <cities>
         <id>130050</id>
         <name>Cabimas</name>
