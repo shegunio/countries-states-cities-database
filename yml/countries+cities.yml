@@ -621263,7 +621263,7 @@ country_city:
         longitude: '31.54982000'
       -
         id: 110177
-        name: Odessa
+        name: Odesa
         latitude: '46.47747000'
         longitude: '30.73262000'
       -
@@ -743826,15 +743826,35 @@ country_city:
         latitude: '-30.25966000'
         longitude: '-57.59919000'
       -
+        id: 149276
+        name: 'Bella Vista'
+        latitude: '-34.87527778'
+        longitude: '-56.18666667'
+      -
+        id: 149277
+        name: Belvedere
+        latitude: '-34.85155556'
+        longitude: '-56.21611111'
+      -
         id: 129784
         name: Blanquillo
         latitude: '-32.76667000'
         longitude: '-55.63333000'
       -
+        id: 149278
+        name: Buceo
+        latitude: '-34.90000000'
+        longitude: '-56.13305556'
+      -
         id: 129785
         name: Canelones
         latitude: '-34.52278000'
         longitude: '-56.27778000'
+      -
+        id: 149279
+        name: 'Capurro (Montevideo)'
+        latitude: '-34.87500000'
+        longitude: '-56.20555556'
       -
         id: 129786
         name: Cardal
@@ -743856,6 +743876,16 @@ country_city:
         latitude: '-34.00023000'
         longitude: '-58.28402000'
       -
+        id: 149280
+        name: Carrasco
+        latitude: '-34.88333333'
+        longitude: '-56.06666667'
+      -
+        id: 149281
+        name: Casabó
+        latitude: '-34.86388889'
+        longitude: '-56.34111111'
+      -
         id: 129790
         name: Castillos
         latitude: '-34.19871000'
@@ -743871,10 +743901,30 @@ country_city:
         latitude: '-33.26703000'
         longitude: '-53.79425000'
       -
+        id: 149282
+        name: Centro
+        latitude: '-34.90361111'
+        longitude: '-56.18833333'
+      -
+        id: 149283
+        name: 'Cerrito, Montevideo'
+        latitude: '-34.85349444'
+        longitude: '-56.17282778'
+      -
         id: 129793
         name: Chui
         latitude: '-33.69792000'
         longitude: '-53.45926000'
+      -
+        id: 149284
+        name: 'Colón Centro y Noroeste'
+        latitude: '-34.80230556'
+        longitude: '-56.22413889'
+      -
+        id: 149285
+        name: 'Colón Sudeste'
+        latitude: '-34.76666667'
+        longitude: '-56.20277778'
       -
         id: 129795
         name: 'Colonia del Sacramento'
@@ -743885,6 +743935,16 @@ country_city:
         name: 'Colonia Nicolich'
         latitude: '-34.81516000'
         longitude: '-56.02435000'
+      -
+        id: 149286
+        name: Conciliación
+        latitude: '-34.82361111'
+        longitude: '-56.23194444'
+      -
+        id: 149287
+        name: Cordón
+        latitude: '-34.90000000'
+        longitude: '-56.17858333'
       -
         id: 129796
         name: Curtina
@@ -743926,6 +743986,11 @@ country_city:
         latitude: '-32.37085000'
         longitude: '-57.85371000'
       -
+        id: 149288
+        name: 'Flor de Maroñas'
+        latitude: '-34.85055556'
+        longitude: '-56.12472222'
+      -
         id: 129804
         name: 'Florencio Sánchez'
         latitude: '-33.87785000'
@@ -743950,6 +744015,11 @@ country_city:
         name: 'Isidoro Noblía'
         latitude: '-31.96218000'
         longitude: '-54.12309000'
+      -
+        id: 149289
+        name: Ituzaingó
+        latitude: '-34.84750000'
+        longitude: '-56.14361111'
       -
         id: 129809
         name: 'Joaquín Suárez'
@@ -744001,6 +744071,11 @@ country_city:
         latitude: '-34.76031000'
         longitude: '-56.22590000'
       -
+        id: 149290
+        name: 'La Unión'
+        latitude: '-34.87861111'
+        longitude: '-56.13583333'
+      -
         id: 129819
         name: 'Las Piedras'
         latitude: '-34.73020000'
@@ -744036,10 +744111,25 @@ country_city:
         latitude: '-34.90000000'
         longitude: '-54.95000000'
       -
+        id: 149291
+        name: Malvín
+        latitude: '-34.89352778'
+        longitude: '-56.09994444'
+      -
+        id: 149292
+        name: Manga
+        latitude: '-34.80722222'
+        longitude: '-56.13805556'
+      -
         id: 129826
         name: Mariscala
         latitude: '-34.04085000'
         longitude: '-54.77732000'
+      -
+        id: 149293
+        name: Maroñas
+        latitude: '-34.86338889'
+        longitude: '-56.12963889'
       -
         id: 129827
         name: Melo
@@ -744091,6 +744181,11 @@ country_city:
         latitude: '-32.97974000'
         longitude: '-58.05858000'
       -
+        id: 149294
+        name: 'Nuevo París'
+        latitude: '-34.83333333'
+        longitude: '-56.25000000'
+      -
         id: 129837
         name: 'Ombúes de Lavalle'
         latitude: '-33.93783000'
@@ -744126,10 +744221,25 @@ country_city:
         latitude: '-32.81667000'
         longitude: '-56.51667000'
       -
+        id: 149295
+        name: 'Paso del Molino'
+        latitude: '-34.85000000'
+        longitude: '-56.21666667'
+      -
         id: 129844
         name: Paysandú
         latitude: '-32.31710000'
         longitude: '-58.08072000'
+      -
+        id: 149296
+        name: Peñarol
+        latitude: '-34.82519444'
+        longitude: '-56.19916667'
+      -
+        id: 149297
+        name: 'Piedras Blancas'
+        latitude: '-34.82361111'
+        longitude: '-56.14027778'
       -
         id: 129845
         name: 'Piedras Coloradas'
@@ -744141,15 +744251,30 @@ country_city:
         latitude: '-34.86287000'
         longitude: '-55.27471000'
       -
+        id: 149298
+        name: Pocitos
+        latitude: '-34.90833333'
+        longitude: '-56.15000000'
+      -
         id: 129847
         name: Progreso
         latitude: '-34.66737000'
         longitude: '-56.21758000'
       -
+        id: 149299
+        name: 'Punta Carretas'
+        latitude: '-34.92188889'
+        longitude: '-56.15944444'
+      -
         id: 129848
         name: 'Punta del Este'
         latitude: '-34.94747000'
         longitude: '-54.93382000'
+      -
+        id: 149300
+        name: 'Punta Gorda'
+        latitude: '-34.88647222'
+        longitude: '-56.08983333'
       -
         id: 129849
         name: 'Puntas de Valdéz'
@@ -744165,6 +744290,11 @@ country_city:
         name: 'Rafael Perazza'
         latitude: '-34.52335000'
         longitude: '-56.79710000'
+      -
+        id: 149301
+        name: Reducto
+        latitude: '-34.87831944'
+        longitude: '-56.18957778'
       -
         id: 129856
         name: 'Río Branco'
@@ -744281,6 +744411,11 @@ country_city:
         latitude: '-34.65191000'
         longitude: '-56.06431000'
       -
+        id: 149302
+        name: Sayage
+        latitude: '-34.83583333'
+        longitude: '-56.21250000'
+      -
         id: 129875
         name: Soca
         latitude: '-34.68432000'
@@ -744326,6 +744461,11 @@ country_city:
         latitude: '-33.23333000'
         longitude: '-54.38333000'
       -
+        id: 149303
+        name: 'Tres Cruces'
+        latitude: '-34.89583333'
+        longitude: '-56.16805556'
+      -
         id: 129884
         name: Trinidad
         latitude: '-33.51650000'
@@ -744360,6 +744500,26 @@ country_city:
         name: 'Villa del Carmen'
         latitude: '-33.23943000'
         longitude: '-56.00936000'
+      -
+        id: 149307
+        name: 'Villa del Cerro'
+        latitude: '-34.88444444'
+        longitude: '-56.25138889'
+      -
+        id: 149304
+        name: 'Villa Española'
+        latitude: '-34.86388889'
+        longitude: '-56.14472222'
+      -
+        id: 149305
+        name: 'Villa García'
+        latitude: '-34.78111000'
+        longitude: '-56.05333000'
+      -
+        id: 149306
+        name: 'Villa Muñoz'
+        latitude: '-34.88781389'
+        longitude: '-56.17701389'
       -
         id: 129890
         name: 'Villa Sara'

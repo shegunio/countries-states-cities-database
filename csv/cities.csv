@@ -122509,7 +122509,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 110072,Mykolayivka,4688,51,"Odessa Oblast",230,UA,Ukraine,47.54135000,30.75615000,Q2473507
 110073,"Mykolayivs’kyy Rayon",4688,51,"Odessa Oblast",230,UA,Ukraine,47.46720000,30.60283000,Q580327
 110117,"Novi Troyany",4688,51,"Odessa Oblast",230,UA,Ukraine,45.94275000,28.85628000,Q2581621
-110177,Odessa,4688,51,"Odessa Oblast",230,UA,Ukraine,46.47747000,30.73262000,Q1874
+110177,Odesa,4688,51,"Odessa Oblast",230,UA,Ukraine,46.47747000,30.73262000,Q1874
 110181,Okny,4688,51,"Odessa Oblast",230,UA,Ukraine,47.54044000,29.46001000,Q1786696
 110188,Oleksandrivka,4688,51,"Odessa Oblast",230,UA,Ukraine,46.32893000,30.63481000,Q2473459
 110213,Ovidiopol,4688,51,"Odessa Oblast",230,UA,Ukraine,46.24998000,30.44127000,Q1786102
@@ -146713,9 +146713,41 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 129846,Piriápolis,3206,MA,"Maldonado Department",235,UY,Uruguay,-34.86287000,-55.27471000,Q1006155
 129848,"Punta del Este",3206,MA,"Maldonado Department",235,UY,Uruguay,-34.94747000,-54.93382000,Q56069
 129860,"San Carlos",3206,MA,"Maldonado Department",235,UY,Uruguay,-34.79123000,-54.91824000,Q374670
+149276,"Bella Vista",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.87527778,-56.18666667,Q13479688
+149277,Belvedere,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.85155556,-56.21611111,Q1005240
+149278,Buceo,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.90000000,-56.13305556,Q997676
+149279,"Capurro (Montevideo)",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.87500000,-56.20555556,Q986346
+149280,Carrasco,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.88333333,-56.06666667,Q1005003
+149281,Casabó,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.86388889,-56.34111111,Q984873
+149282,Centro,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.90361111,-56.18833333,Q984382
+149283,"Cerrito, Montevideo",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.85349444,-56.17282778,Q177318
+149284,"Colón Centro y Noroeste",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.80230556,-56.22413889,Q984425
+149285,"Colón Sudeste",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.76666667,-56.20277778,Q305717
+149286,Conciliación,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.82361111,-56.23194444,Q985021
+149287,Cordón,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.90000000,-56.17858333,Q1005742
+149288,"Flor de Maroñas",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.85055556,-56.12472222,Q984899
+149289,Ituzaingó,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.84750000,-56.14361111,Q985110
+149290,"La Unión",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.87861111,-56.13583333,Q984518
+149291,Malvín,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.89352778,-56.09994444,Q1004920
+149292,Manga,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.80722222,-56.13805556,Q985379
+149293,Maroñas,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.86338889,-56.12963889,Q984197
 129833,Montevideo,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.90328000,-56.18816000,Q1335
+149294,"Nuevo París",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.83333333,-56.25000000,Q751376
 129838,"Pajas Blancas",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.80167000,-56.33417000,Q984873
+149295,"Paso del Molino",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.85000000,-56.21666667,Q10345885
+149296,Peñarol,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.82519444,-56.19916667,Q1007597
+149297,"Piedras Blancas",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.82361111,-56.14027778,Q984919
+149298,Pocitos,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.90833333,-56.15000000,Q2094894
+149299,"Punta Carretas",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.92188889,-56.15944444,Q984390
+149300,"Punta Gorda",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.88647222,-56.08983333,Q984180
+149301,Reducto,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.87831944,-56.18957778,Q984388
 129871,"Santiago Vázquez",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.79028000,-56.35000000,Q3698900
+149302,Sayage,3218,MO,"Montevideo Department",235,UY,Uruguay,-34.83583333,-56.21250000,Q1004942
+149303,"Tres Cruces",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.89583333,-56.16805556,Q984193
+149307,"Villa del Cerro",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.88444444,-56.25138889,Q1010338
+149304,"Villa Española",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.86388889,-56.14472222,Q984929
+149305,"Villa García",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.78111000,-56.05333000,Q7930332
+149306,"Villa Muñoz",3218,MO,"Montevideo Department",235,UY,Uruguay,-34.88781389,-56.17701389,Q984422
 129803,"Estación Porvenir",3212,PA,"Paysandú Department",235,UY,Uruguay,-32.37085000,-57.85371000,Q630016
 129807,Guichón,3212,PA,"Paysandú Department",235,UY,Uruguay,-32.35846000,-57.19778000,Q603086
 129844,Paysandú,3212,PA,"Paysandú Department",235,UY,Uruguay,-32.31710000,-58.08072000,Q309442

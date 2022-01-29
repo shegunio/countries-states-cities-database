@@ -66424,8 +66424,8 @@
     <id>2004</id>
     <name>Amazonas</name>
     <state_code>AM</state_code>
-    <latitude></latitude>
-    <longitude></longitude>
+    <latitude>-3.07000000</latitude>
+    <longitude>-61.66000000</longitude>
     <country_id>31</country_id>
     <cities>
       <id>10191</id>
@@ -92498,8 +92498,8 @@
     <id>2014</id>
     <name>Santa Catarina</name>
     <state_code>SC</state_code>
-    <latitude></latitude>
-    <longitude></longitude>
+    <latitude>-27.33000000</latitude>
+    <longitude>-49.44000000</longitude>
     <country_id>31</country_id>
     <cities>
       <id>10062</id>
@@ -772068,7 +772068,7 @@
     </cities>
     <cities>
       <id>110177</id>
-      <name>Odessa</name>
+      <name>Odesa</name>
       <latitude>46.47747000</latitude>
       <longitude>30.73262000</longitude>
     </cities>
@@ -920252,10 +920252,124 @@
     <longitude>-56.21382560</longitude>
     <country_id>235</country_id>
     <cities>
+      <id>149276</id>
+      <name>Bella Vista</name>
+      <latitude>-34.87527778</latitude>
+      <longitude>-56.18666667</longitude>
+    </cities>
+    <cities>
+      <id>149277</id>
+      <name>Belvedere</name>
+      <latitude>-34.85155556</latitude>
+      <longitude>-56.21611111</longitude>
+    </cities>
+    <cities>
+      <id>149278</id>
+      <name>Buceo</name>
+      <latitude>-34.90000000</latitude>
+      <longitude>-56.13305556</longitude>
+    </cities>
+    <cities>
+      <id>149279</id>
+      <name>Capurro (Montevideo)</name>
+      <latitude>-34.87500000</latitude>
+      <longitude>-56.20555556</longitude>
+    </cities>
+    <cities>
+      <id>149280</id>
+      <name>Carrasco</name>
+      <latitude>-34.88333333</latitude>
+      <longitude>-56.06666667</longitude>
+    </cities>
+    <cities>
+      <id>149281</id>
+      <name>Casabó</name>
+      <latitude>-34.86388889</latitude>
+      <longitude>-56.34111111</longitude>
+    </cities>
+    <cities>
+      <id>149282</id>
+      <name>Centro</name>
+      <latitude>-34.90361111</latitude>
+      <longitude>-56.18833333</longitude>
+    </cities>
+    <cities>
+      <id>149283</id>
+      <name>Cerrito, Montevideo</name>
+      <latitude>-34.85349444</latitude>
+      <longitude>-56.17282778</longitude>
+    </cities>
+    <cities>
+      <id>149284</id>
+      <name>Colón Centro y Noroeste</name>
+      <latitude>-34.80230556</latitude>
+      <longitude>-56.22413889</longitude>
+    </cities>
+    <cities>
+      <id>149285</id>
+      <name>Colón Sudeste</name>
+      <latitude>-34.76666667</latitude>
+      <longitude>-56.20277778</longitude>
+    </cities>
+    <cities>
+      <id>149286</id>
+      <name>Conciliación</name>
+      <latitude>-34.82361111</latitude>
+      <longitude>-56.23194444</longitude>
+    </cities>
+    <cities>
+      <id>149287</id>
+      <name>Cordón</name>
+      <latitude>-34.90000000</latitude>
+      <longitude>-56.17858333</longitude>
+    </cities>
+    <cities>
+      <id>149288</id>
+      <name>Flor de Maroñas</name>
+      <latitude>-34.85055556</latitude>
+      <longitude>-56.12472222</longitude>
+    </cities>
+    <cities>
+      <id>149289</id>
+      <name>Ituzaingó</name>
+      <latitude>-34.84750000</latitude>
+      <longitude>-56.14361111</longitude>
+    </cities>
+    <cities>
+      <id>149290</id>
+      <name>La Unión</name>
+      <latitude>-34.87861111</latitude>
+      <longitude>-56.13583333</longitude>
+    </cities>
+    <cities>
+      <id>149291</id>
+      <name>Malvín</name>
+      <latitude>-34.89352778</latitude>
+      <longitude>-56.09994444</longitude>
+    </cities>
+    <cities>
+      <id>149292</id>
+      <name>Manga</name>
+      <latitude>-34.80722222</latitude>
+      <longitude>-56.13805556</longitude>
+    </cities>
+    <cities>
+      <id>149293</id>
+      <name>Maroñas</name>
+      <latitude>-34.86338889</latitude>
+      <longitude>-56.12963889</longitude>
+    </cities>
+    <cities>
       <id>129833</id>
       <name>Montevideo</name>
       <latitude>-34.90328000</latitude>
       <longitude>-56.18816000</longitude>
+    </cities>
+    <cities>
+      <id>149294</id>
+      <name>Nuevo París</name>
+      <latitude>-34.83333333</latitude>
+      <longitude>-56.25000000</longitude>
     </cities>
     <cities>
       <id>129838</id>
@@ -920264,10 +920378,88 @@
       <longitude>-56.33417000</longitude>
     </cities>
     <cities>
+      <id>149295</id>
+      <name>Paso del Molino</name>
+      <latitude>-34.85000000</latitude>
+      <longitude>-56.21666667</longitude>
+    </cities>
+    <cities>
+      <id>149296</id>
+      <name>Peñarol</name>
+      <latitude>-34.82519444</latitude>
+      <longitude>-56.19916667</longitude>
+    </cities>
+    <cities>
+      <id>149297</id>
+      <name>Piedras Blancas</name>
+      <latitude>-34.82361111</latitude>
+      <longitude>-56.14027778</longitude>
+    </cities>
+    <cities>
+      <id>149298</id>
+      <name>Pocitos</name>
+      <latitude>-34.90833333</latitude>
+      <longitude>-56.15000000</longitude>
+    </cities>
+    <cities>
+      <id>149299</id>
+      <name>Punta Carretas</name>
+      <latitude>-34.92188889</latitude>
+      <longitude>-56.15944444</longitude>
+    </cities>
+    <cities>
+      <id>149300</id>
+      <name>Punta Gorda</name>
+      <latitude>-34.88647222</latitude>
+      <longitude>-56.08983333</longitude>
+    </cities>
+    <cities>
+      <id>149301</id>
+      <name>Reducto</name>
+      <latitude>-34.87831944</latitude>
+      <longitude>-56.18957778</longitude>
+    </cities>
+    <cities>
       <id>129871</id>
       <name>Santiago Vázquez</name>
       <latitude>-34.79028000</latitude>
       <longitude>-56.35000000</longitude>
+    </cities>
+    <cities>
+      <id>149302</id>
+      <name>Sayage</name>
+      <latitude>-34.83583333</latitude>
+      <longitude>-56.21250000</longitude>
+    </cities>
+    <cities>
+      <id>149303</id>
+      <name>Tres Cruces</name>
+      <latitude>-34.89583333</latitude>
+      <longitude>-56.16805556</longitude>
+    </cities>
+    <cities>
+      <id>149307</id>
+      <name>Villa del Cerro</name>
+      <latitude>-34.88444444</latitude>
+      <longitude>-56.25138889</longitude>
+    </cities>
+    <cities>
+      <id>149304</id>
+      <name>Villa Española</name>
+      <latitude>-34.86388889</latitude>
+      <longitude>-56.14472222</longitude>
+    </cities>
+    <cities>
+      <id>149305</id>
+      <name>Villa García</name>
+      <latitude>-34.78111000</latitude>
+      <longitude>-56.05333000</longitude>
+    </cities>
+    <cities>
+      <id>149306</id>
+      <name>Villa Muñoz</name>
+      <latitude>-34.88781389</latitude>
+      <longitude>-56.17701389</longitude>
     </cities>
   </state_city>
   <state_city>
