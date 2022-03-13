@@ -4,7 +4,7 @@
 -- https://tableplus.com/
 --
 -- Database: world
--- Generation Time: 2022-03-13 16:35:35.3900
+-- Generation Time: 2022-03-13 16:39:01.4890
 -- -------------------------------------------------------------
 
 
@@ -37,7 +37,7 @@ CREATE TABLE `cities` (
   KEY `cities_test_ibfk_2` (`country_id`),
   CONSTRAINT `cities_ibfk_1` FOREIGN KEY (`state_id`) REFERENCES `states` (`id`),
   CONSTRAINT `cities_ibfk_2` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=149547 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci ROW_FORMAT=COMPACT;
+) ENGINE=InnoDB AUTO_INCREMENT=149548 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci ROW_FORMAT=COMPACT;
 
 DROP TABLE IF EXISTS `countries`;
 CREATE TABLE `countries` (
@@ -148707,7 +148707,8 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (149543, 'Zosimivka', 5071, '53', 230, 'UA', 50.73888889, 27.64888889, '2022-03-13 15:43:54', '2022-03-13 15:43:54', 1, 'Q4194091'),
 (149544, 'Zubivshchina', 5071, '53', 230, 'UA', 50.95944444, 28.81722222, '2022-03-13 15:43:54', '2022-03-13 15:43:54', 1, 'Q4194455'),
 (149545, 'Zvizdal', 5071, '53', 230, 'UA', 51.17386000, 29.24655000, '2022-03-13 15:43:54', '2022-03-13 15:43:54', 1, 'Q12106415'),
-(149546, 'Hazlet Township', 1417, 'NJ', 233, 'US', 40.42685010, -74.20682440, '2022-03-13 16:05:52', '2022-03-13 16:05:52', 1, 'Q1592114');
+(149546, 'Hazlet Township', 1417, 'NJ', 233, 'US', 40.42685010, -74.20682440, '2022-03-13 16:05:52', '2022-03-13 16:05:52', 1, 'Q1592114'),
+(149547, 'Morningside', 1422, 'PA', 233, 'US', 40.48140510, -79.93442840, '2022-03-13 16:38:46', '2022-03-13 16:38:46', 1, 'Q6912971');
 
 INSERT INTO `countries` (`id`, `name`, `iso3`, `numeric_code`, `iso2`, `phonecode`, `capital`, `currency`, `currency_name`, `currency_symbol`, `tld`, `native`, `region`, `subregion`, `timezones`, `translations`, `latitude`, `longitude`, `emoji`, `emojiU`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (1, 'Afghanistan', 'AFG', '004', 'AF', '93', 'Kabul', 'AFN', 'Afghan afghani', '؋', '.af', 'افغانستان', 'Asia', 'Southern Asia', '[{\"zoneName\":\"Asia/Kabul\",\"gmtOffset\":16200,\"gmtOffsetName\":\"UTC+04:30\",\"abbreviation\":\"AFT\",\"tzName\":\"Afghanistan Time\"}]', '{\"kr\":\"아프가니스탄\",\"br\":\"Afeganistão\",\"pt\":\"Afeganistão\",\"nl\":\"Afghanistan\",\"hr\":\"Afganistan\",\"fa\":\"افغانستان\",\"de\":\"Afghanistan\",\"es\":\"Afganistán\",\"fr\":\"Afghanistan\",\"ja\":\"アフガニスタン\",\"it\":\"Afghanistan\",\"cn\":\"阿富汗\"}', 33.00000000, 65.00000000, '🇦🇫', 'U+1F1E6 U+1F1EB', '2018-07-21 01:41:03', '2021-12-11 18:19:42', 1, 'Q889'),
