@@ -15787,6 +15787,11 @@ country_city:
         latitude: '-22.58825000'
         longitude: '148.34924000'
       -
+        id: 149309
+        name: 'Eagle Farm'
+        latitude: '-27.43151850'
+        longitude: '153.07229130'
+      -
         id: 5055
         name: 'Eagle Point'
         latitude: '-37.90000000'
@@ -18871,6 +18876,11 @@ country_city:
         name: Huntingdale
         latitude: '-32.08318000'
         longitude: '115.96614000'
+      -
+        id: 149308
+        name: Huntingwood
+        latitude: '-33.79759320'
+        longitude: '150.87480900'
       -
         id: 5672
         name: Huntly
@@ -43486,151 +43496,6 @@ country_city:
         name: Zyrya
         latitude: '40.36613000'
         longitude: '50.29198000'
-  -
-    id: 17
-    name: 'Bahamas The'
-    iso3: BHS
-    iso2: BS
-    numeric_code: '044'
-    phone_code: +1-242
-    capital: Nassau
-    currency: BSD
-    currency_name: 'Bahamian dollar'
-    currency_symbol: B$
-    tld: .bs
-    native: Bahamas
-    region: Americas
-    subregion: Caribbean
-    timezones:
-      -
-        zoneName: America/Nassau
-        gmtOffset: -18000
-        gmtOffsetName: 'UTC-05:00'
-        abbreviation: EST
-        tzName: 'Eastern Standard Time (North America)'
-    translations:
-      kr: 바하마
-      br: Bahamas
-      pt: Baamas
-      nl: Bahama’s
-      hr: Bahami
-      fa: باهاما
-      de: Bahamas
-      es: Bahamas
-      fr: Bahamas
-      ja: バハマ
-      it: Bahamas
-      cn: 巴哈马
-    latitude: '24.25000000'
-    longitude: '-76.00000000'
-    emoji: 🇧🇸
-    emojiU: 'U+1F1E7 U+1F1F8'
-    cities:
-      -
-        id: 15685
-        name: 'Abraham’s Bay'
-        latitude: '22.36667000'
-        longitude: '-72.96667000'
-      -
-        id: 15686
-        name: 'Alice Town'
-        latitude: '25.72800000'
-        longitude: '-79.29721000'
-      -
-        id: 15687
-        name: 'Andros Town'
-        latitude: '24.70502000'
-        longitude: '-77.76912000'
-      -
-        id: 15688
-        name: 'Arthur’s Town'
-        latitude: '24.62240000'
-        longitude: '-75.67151000'
-      -
-        id: 15689
-        name: 'Clarence Town'
-        latitude: '23.10000000'
-        longitude: '-74.98333000'
-      -
-        id: 15690
-        name: 'Cockburn Town'
-        latitude: '24.05179000'
-        longitude: '-74.53138000'
-      -
-        id: 15691
-        name: 'Colonel Hill'
-        latitude: '22.75450000'
-        longitude: '-74.20415000'
-      -
-        id: 15692
-        name: 'Cooper’s Town'
-        latitude: '26.87137000'
-        longitude: '-77.51131000'
-      -
-        id: 15693
-        name: 'Duncan Town'
-        latitude: '22.19083000'
-        longitude: '-75.72583000'
-      -
-        id: 15694
-        name: 'Dunmore Town'
-        latitude: '25.50216000'
-        longitude: '-76.63633000'
-      -
-        id: 15695
-        name: Freeport
-        latitude: '26.53333000'
-        longitude: '-78.70000000'
-      -
-        id: 15696
-        name: 'George Town'
-        latitude: '23.51616000'
-        longitude: '-75.78665000'
-      -
-        id: 15697
-        name: 'High Rock'
-        latitude: '26.60999000'
-        longitude: '-78.27863000'
-      -
-        id: 15698
-        name: Lucaya
-        latitude: '26.53333000'
-        longitude: '-78.66667000'
-      -
-        id: 15699
-        name: 'Marsh Harbour'
-        latitude: '26.54124000'
-        longitude: '-77.06360000'
-      -
-        id: 15700
-        name: 'Matthew Town'
-        latitude: '20.94982000'
-        longitude: '-73.67346000'
-      -
-        id: 143913
-        name: Nassau
-        latitude: '25.06666667'
-        longitude: '-77.33333333'
-      -
-        id: 15701
-        name: 'Port Nelson'
-        latitude: '23.64967000'
-        longitude: '-74.84157000'
-      -
-        id: 15702
-        name: 'San Andros'
-        latitude: '25.06667000'
-        longitude: '-78.05000000'
-      -
-        id: 15703
-        name: 'Spanish Wells'
-        latitude: '25.54717000'
-        longitude: '-76.76405000'
-      -
-        id: 15704
-        name: 'West End'
-        latitude: '26.68711000'
-        longitude: '-78.97702000'
   -
     id: 18
     name: Bahrain
@@ -89501,7 +89366,7 @@ country_city:
         longitude: '-73.55417000'
       -
         id: 16936
-        name: Saint-Côme--Linière
+        name: Saint-Côme-Linière
         latitude: '46.06677000'
         longitude: '-70.51573000'
       -
@@ -245398,6 +245263,11 @@ country_city:
         name: Ranikhet
         latitude: '29.64082000'
         longitude: '79.43229000'
+      -
+        id: 149548
+        name: Ranipet
+        latitude: '12.95347490'
+        longitude: '79.28159160'
       -
         id: 133720
         name: Ranipur
@@ -586044,15 +585914,15 @@ country_city:
         latitude: '59.41465000'
         longitude: '17.91398000'
       -
-        id: 104001
-        name: Åkarp
-        latitude: '58.23333000'
-        longitude: '13.65000000'
-      -
         id: 104002
         name: Åkarp
         latitude: '55.65396000'
         longitude: '13.11107000'
+      -
+        id: 104001
+        name: Åkarp
+        latitude: '58.23333000'
+        longitude: '13.65000000'
       -
         id: 104003
         name: 'Åkers Styckebruk'
@@ -586074,11 +585944,6 @@ country_city:
         latitude: '59.23350000'
         longitude: '17.85380000'
       -
-        id: 102989
-        name: 'Ale Kommun'
-        latitude: '57.97018000'
-        longitude: '12.25166000'
-      -
         id: 104005
         name: Åled
         latitude: '56.75000000'
@@ -586094,20 +585959,10 @@ country_city:
         latitude: '57.93033000'
         longitude: '12.53345000'
       -
-        id: 102992
-        name: 'Alingsås Kommun'
-        latitude: '58.00000000'
-        longitude: '12.50000000'
-      -
         id: 103985
         name: Älmhult
         latitude: '56.55146000'
         longitude: '14.13827000'
-      -
-        id: 103986
-        name: 'Älmhults Kommun'
-        latitude: '56.58563000'
-        longitude: '14.15502000'
       -
         id: 103987
         name: Älmsta
@@ -586139,50 +585994,25 @@ country_city:
         latitude: '61.22774000'
         longitude: '14.03935000'
       -
-        id: 103990
-        name: 'Älvdalens kommun'
-        latitude: '61.61337000'
-        longitude: '13.27257000'
-      -
         id: 102995
         name: Alvesta
         latitude: '56.89935000'
         longitude: '14.55559000'
-      -
-        id: 102996
-        name: 'Alvesta Kommun'
-        latitude: '56.84663000'
-        longitude: '14.47490000'
       -
         id: 103991
         name: Älvkarleby
         latitude: '60.57081000'
         longitude: '17.44895000'
       -
-        id: 103992
-        name: 'Älvkarleby Kommun'
-        latitude: '60.58212000'
-        longitude: '17.44532000'
-      -
         id: 103993
         name: Älvsbyn
         latitude: '65.67624000'
         longitude: '21.00162000'
       -
-        id: 103994
-        name: 'Älvsbyns Kommun'
-        latitude: '65.73201000'
-        longitude: '20.71412000'
-      -
         id: 104007
         name: Åmål
         latitude: '59.05100000'
         longitude: '12.70492000'
-      -
-        id: 104008
-        name: 'Åmåls Kommun'
-        latitude: '59.04573000'
-        longitude: '12.59583000'
       -
         id: 104006
         name: Åmotfors
@@ -586214,30 +586044,15 @@ country_city:
         latitude: '57.83895000'
         longitude: '14.81016000'
       -
-        id: 103002
-        name: 'Aneby Kommun'
-        latitude: '57.86992000'
-        longitude: '14.79796000'
-      -
         id: 104009
         name: Ånge
         latitude: '62.52495000'
         longitude: '15.65904000'
       -
-        id: 104010
-        name: 'Ånge kommun'
-        latitude: '62.51232000'
-        longitude: '15.64453000'
-      -
         id: 103996
         name: Ängelholm
         latitude: '56.24280000'
         longitude: '12.86219000'
-      -
-        id: 103997
-        name: 'Ängelholms Kommun'
-        latitude: '56.26814000'
-        longitude: '12.96622000'
       -
         id: 103003
         name: Angered
@@ -586264,11 +586079,6 @@ country_city:
         latitude: '59.39387000'
         longitude: '15.83882000'
       -
-        id: 103008
-        name: 'Arboga Kommun'
-        latitude: '59.39451000'
-        longitude: '15.79261000'
-      -
         id: 103009
         name: Arbrå
         latitude: '61.46667000'
@@ -586279,20 +586089,10 @@ country_city:
         latitude: '59.39217000'
         longitude: '12.13336000'
       -
-        id: 104012
-        name: 'Årjängs Kommun'
-        latitude: '59.43589000'
-        longitude: '12.10366000'
-      -
         id: 103010
         name: Arjeplog
         latitude: '66.05173000'
         longitude: '17.88606000'
-      -
-        id: 103011
-        name: 'Arjeplogs Kommun'
-        latitude: '66.37495000'
-        longitude: '17.17477000'
       -
         id: 103998
         name: Ärla
@@ -586329,20 +586129,10 @@ country_city:
         latitude: '65.59033000'
         longitude: '19.16682000'
       -
-        id: 103016
-        name: 'Arvidsjaurs Kommun'
-        latitude: '65.66667000'
-        longitude: '19.25000000'
-      -
         id: 103017
         name: Arvika
         latitude: '59.65528000'
         longitude: '12.58518000'
-      -
-        id: 103018
-        name: 'Arvika Kommun'
-        latitude: '59.70484000'
-        longitude: '12.63202000'
       -
         id: 104015
         name: Ås
@@ -586369,20 +586159,10 @@ country_city:
         latitude: '64.16026000'
         longitude: '17.34762000'
       -
-        id: 104020
-        name: 'Åsele Kommun'
-        latitude: '64.16604000'
-        longitude: '17.62356000'
-      -
         id: 103019
         name: Askersund
         latitude: '58.87988000'
         longitude: '14.90230000'
-      -
-        id: 103020
-        name: 'Askersunds Kommun'
-        latitude: '58.88048000'
-        longitude: '14.98416000'
       -
         id: 103021
         name: Asmundtorp
@@ -586394,30 +586174,15 @@ country_city:
         latitude: '56.13566000'
         longitude: '12.94430000'
       -
-        id: 104022
-        name: 'Åstorps Kommun'
-        latitude: '56.14003000'
-        longitude: '12.97259000'
-      -
         id: 104023
         name: Åtvidaberg
         latitude: '58.20152000'
         longitude: '15.99770000'
       -
-        id: 104024
-        name: 'Åtvidabergs Kommun'
-        latitude: '58.22799000'
-        longitude: '16.12522000'
-      -
         id: 103022
         name: Avesta
         latitude: '60.14274000'
         longitude: '16.16295000'
-      -
-        id: 103023
-        name: 'Avesta Kommun'
-        latitude: '60.21251000'
-        longitude: '16.36234000'
       -
         id: 103024
         name: Axvall
@@ -586469,20 +586234,10 @@ country_city:
         latitude: '56.42689000'
         longitude: '12.85339000'
       -
-        id: 103106
-        name: 'Båstads Kommun'
-        latitude: '56.40102000'
-        longitude: '12.79912000'
-      -
         id: 103030
         name: Bengtsfors
         latitude: '59.02912000'
         longitude: '12.23207000'
-      -
-        id: 103031
-        name: 'Bengtsfors Kommun'
-        latitude: '59.03333000'
-        longitude: '12.21667000'
       -
         id: 103032
         name: Berg
@@ -586594,11 +586349,6 @@ country_city:
         latitude: '63.93027000'
         longitude: '19.21369000'
       -
-        id: 103045
-        name: 'Bjurholms Kommun'
-        latitude: '63.96667000'
-        longitude: '19.00000000'
-      -
         id: 103046
         name: Bjursås
         latitude: '60.73726000'
@@ -586608,11 +586358,6 @@ country_city:
         name: Bjuv
         latitude: '56.08372000'
         longitude: '12.91914000'
-      -
-        id: 103048
-        name: 'Bjuvs Kommun'
-        latitude: '56.05409000'
-        longitude: '12.96542000'
       -
         id: 103058
         name: Blentarp
@@ -586634,11 +586379,6 @@ country_city:
         latitude: '65.82518000'
         longitude: '21.68864000'
       -
-        id: 103062
-        name: 'Bodens Kommun'
-        latitude: '66.04393000'
-        longitude: '21.29977000'
-      -
         id: 103063
         name: Boliden
         latitude: '64.86667000'
@@ -586649,11 +586389,6 @@ country_city:
         latitude: '57.66866000'
         longitude: '12.57272000'
       -
-        id: 103065
-        name: 'Bollebygds Kommun'
-        latitude: '57.74260000'
-        longitude: '12.61451000'
-      -
         id: 103066
         name: Bollmora
         latitude: '59.24196000'
@@ -586663,11 +586398,6 @@ country_city:
         name: Bollnäs
         latitude: '61.34817000'
         longitude: '16.39464000'
-      -
-        id: 103068
-        name: 'Bollnäs Kommun'
-        latitude: '61.31418000'
-        longitude: '16.41725000'
       -
         id: 103069
         name: Bollstabruk
@@ -586699,35 +586429,15 @@ country_city:
         latitude: '56.87930000'
         longitude: '16.65634000'
       -
-        id: 103074
-        name: 'Borgholms Kommun'
-        latitude: '57.09747000'
-        longitude: '16.94092000'
-      -
         id: 103075
         name: Borlänge
         latitude: '60.48580000'
         longitude: '15.43714000'
       -
-        id: 103076
-        name: 'Borlänge Kommun'
-        latitude: '60.45799000'
-        longitude: '15.39873000'
-      -
-        id: 103078
-        name: 'Botkyrka Kommun'
-        latitude: '59.20000000'
-        longitude: '17.81667000'
-      -
         id: 103079
         name: Boxholm
         latitude: '58.19719000'
         longitude: '15.05376000'
-      -
-        id: 103080
-        name: 'Boxholms Kommun'
-        latitude: '58.14842000'
-        longitude: '15.10988000'
       -
         id: 103082
         name: Braås
@@ -586784,11 +586494,6 @@ country_city:
         latitude: '56.07551000'
         longitude: '14.46958000'
       -
-        id: 103090
-        name: 'Bromölla Kommun'
-        latitude: '56.11934000'
-        longitude: '14.51150000'
-      -
         id: 103091
         name: Brunn
         latitude: '59.28000000'
@@ -586818,11 +586523,6 @@ country_city:
         name: Bureå
         latitude: '64.61667000'
         longitude: '21.20000000'
-      -
-        id: 103099
-        name: 'Burlövs Kommun'
-        latitude: '55.63873000'
-        longitude: '13.09473000'
       -
         id: 103100
         name: Burträsk
@@ -586854,20 +586554,10 @@ country_city:
         latitude: '58.92555000'
         longitude: '12.30865000'
       -
-        id: 103111
-        name: 'Dals-Ed Kommun'
-        latitude: '58.91252000'
-        longitude: '11.92395000'
-      -
         id: 103112
         name: Dalsjöfors
         latitude: '57.71667000'
         longitude: '13.08333000'
-      -
-        id: 103113
-        name: 'Danderyds Kommun'
-        latitude: '59.40924000'
-        longitude: '18.04847000'
       -
         id: 103114
         name: Degeberga
@@ -586878,11 +586568,6 @@ country_city:
         name: Degerfors
         latitude: '59.23797000'
         longitude: '14.43077000'
-      -
-        id: 103116
-        name: 'Degerfors Kommun'
-        latitude: '59.15580000'
-        longitude: '14.43352000'
       -
         id: 103117
         name: Deje
@@ -586929,20 +586614,10 @@ country_city:
         latitude: '64.26185000'
         longitude: '16.41306000'
       -
-        id: 103126
-        name: 'Dorotea Kommun'
-        latitude: '64.57981000'
-        longitude: '15.80614000'
-      -
         id: 103127
         name: Ed
         latitude: '58.91247000'
         longitude: '11.93308000'
-      -
-        id: 103128
-        name: 'Eda kommun'
-        latitude: '59.80000000'
-        longitude: '12.21667000'
       -
         id: 103129
         name: Edsbyn
@@ -586974,11 +586649,6 @@ country_city:
         latitude: '59.29100000'
         longitude: '17.81212000'
       -
-        id: 103134
-        name: 'Ekerö Kommun'
-        latitude: '59.32198000'
-        longitude: '17.63580000'
-      -
         id: 103135
         name: Ekshärad
         latitude: '60.17275000'
@@ -586989,11 +586659,6 @@ country_city:
         latitude: '57.66643000'
         longitude: '14.97205000'
       -
-        id: 103137
-        name: 'Eksjö Kommun'
-        latitude: '57.62006000'
-        longitude: '15.21810000'
-      -
         id: 103139
         name: Ellös
         latitude: '58.18333000'
@@ -587003,11 +586668,6 @@ country_city:
         name: Emmaboda
         latitude: '56.63268000'
         longitude: '15.53648000'
-      -
-        id: 103141
-        name: 'Emmaboda Kommun'
-        latitude: '56.63333000'
-        longitude: '15.53333000'
       -
         id: 103142
         name: Enbacka
@@ -587029,11 +586689,6 @@ country_city:
         latitude: '59.63607000'
         longitude: '17.07768000'
       -
-        id: 103146
-        name: 'Enköpings Kommun'
-        latitude: '59.68575000'
-        longitude: '17.11668000'
-      -
         id: 103147
         name: Eriksberg
         latitude: '59.24241000'
@@ -587054,60 +586709,25 @@ country_city:
         latitude: '59.36661000'
         longitude: '16.50770000'
       -
-        id: 103151
-        name: 'Eskilstuna Kommun'
-        latitude: '59.37362000'
-        longitude: '16.49014000'
-      -
         id: 103152
         name: Eslöv
         latitude: '55.83928000'
         longitude: '13.30393000'
-      -
-        id: 103153
-        name: 'Eslövs Kommun'
-        latitude: '55.83607000'
-        longitude: '13.37522000'
-      -
-        id: 103154
-        name: 'Essunga Kommun'
-        latitude: '58.20253000'
-        longitude: '12.72273000'
       -
         id: 103155
         name: Fagersta
         latitude: '60.00418000'
         longitude: '15.79316000'
       -
-        id: 103156
-        name: 'Fagersta Kommun'
-        latitude: '59.94834000'
-        longitude: '15.88332000'
-      -
         id: 103157
         name: Falkenberg
         latitude: '56.90552000'
         longitude: '12.49118000'
       -
-        id: 103158
-        name: 'Falkenbergs Kommun'
-        latitude: '57.04317000'
-        longitude: '12.72989000'
-      -
         id: 103159
         name: Falköping
         latitude: '58.17347000'
         longitude: '13.55068000'
-      -
-        id: 103160
-        name: 'Falköpings Kommun'
-        latitude: '58.14046000'
-        longitude: '13.53277000'
-      -
-        id: 103161
-        name: 'Falu kommun'
-        latitude: '60.60483000'
-        longitude: '15.63492000'
       -
         id: 103162
         name: Falun
@@ -587118,11 +586738,6 @@ country_city:
         name: Färgelanda
         latitude: '58.56816000'
         longitude: '11.99235000'
-      -
-        id: 103192
-        name: 'Färgelanda Kommun'
-        latitude: '58.61630000'
-        longitude: '12.01136000'
       -
         id: 103193
         name: Färila
@@ -587149,20 +586764,10 @@ country_city:
         latitude: '59.71236000'
         longitude: '14.16831000'
       -
-        id: 103165
-        name: 'Filipstads Kommun'
-        latitude: '59.87354000'
-        longitude: '14.14706000'
-      -
         id: 103166
         name: Finspång
         latitude: '58.70578000'
         longitude: '15.76739000'
-      -
-        id: 103167
-        name: 'Finspångs Kommun'
-        latitude: '58.80568000'
-        longitude: '15.78783000'
       -
         id: 103168
         name: Fisksätra
@@ -587194,11 +586799,6 @@ country_city:
         latitude: '59.05834000'
         longitude: '16.58781000'
       -
-        id: 103174
-        name: 'Flens Kommun'
-        latitude: '59.05000000'
-        longitude: '16.71667000'
-      -
         id: 103175
         name: Floby
         latitude: '58.13333000'
@@ -587223,11 +586823,6 @@ country_city:
         name: Forshaga
         latitude: '59.52541000'
         longitude: '13.48127000'
-      -
-        id: 103180
-        name: 'Forshaga Kommun'
-        latitude: '59.64596000'
-        longitude: '13.50572000'
       -
         id: 103181
         name: Forsheda
@@ -587289,20 +586884,10 @@ country_city:
         latitude: '60.59856000'
         longitude: '15.07745000'
       -
-        id: 103198
-        name: 'Gagnefs Kommun'
-        latitude: '60.47391000'
-        longitude: '14.94676000'
-      -
         id: 103237
         name: Gällivare
         latitude: '67.13387000'
         longitude: '20.65278000'
-      -
-        id: 103238
-        name: 'Gällivare kommun'
-        latitude: '67.39347000'
-        longitude: '19.70834000'
       -
         id: 103199
         name: 'Gamla Stan'
@@ -587354,11 +586939,6 @@ country_city:
         latitude: '60.67452000'
         longitude: '17.14174000'
       -
-        id: 103241
-        name: 'Gävle Kommun'
-        latitude: '60.64260000'
-        longitude: '17.12066000'
-      -
         id: 103205
         name: Gemla
         latitude: '56.86753000'
@@ -587383,11 +586963,6 @@ country_city:
         name: Gislaved
         latitude: '57.30440000'
         longitude: '13.54078000'
-      -
-        id: 103210
-        name: 'Gislaveds Kommun'
-        latitude: '57.30337000'
-        longitude: '13.47548000'
       -
         id: 103211
         name: Glimåkra
@@ -587414,20 +586989,10 @@ country_city:
         latitude: '59.04751000'
         longitude: '17.31191000'
       -
-        id: 103216
-        name: 'Gnesta Kommun'
-        latitude: '59.09214000'
-        longitude: '17.14533000'
-      -
         id: 103217
         name: Gnosjö
         latitude: '57.35850000'
         longitude: '13.73686000'
-      -
-        id: 103218
-        name: 'Gnosjö Kommun'
-        latitude: '57.36225000'
-        longitude: '13.80491000'
       -
         id: 103244
         name: Göta
@@ -587448,11 +587013,6 @@ country_city:
         name: Götene
         latitude: '58.52824000'
         longitude: '13.49458000'
-      -
-        id: 103248
-        name: 'Götene Kommun'
-        latitude: '58.55105000'
-        longitude: '13.47866000'
       -
         id: 103219
         name: Gotland
@@ -587479,11 +587039,6 @@ country_city:
         latitude: '58.33219000'
         longitude: '12.68122000'
       -
-        id: 103229
-        name: 'Grästorps Kommun'
-        latitude: '58.33333000'
-        longitude: '12.66667000'
-      -
         id: 103220
         name: Grebbestad
         latitude: '58.70248000'
@@ -587504,11 +587059,6 @@ country_city:
         latitude: '59.35141000'
         longitude: '13.11105000'
       -
-        id: 103224
-        name: 'Grums Kommun'
-        latitude: '59.40406000'
-        longitude: '13.02192000'
-      -
         id: 103225
         name: Grycksbo
         latitude: '60.68751000'
@@ -587523,11 +587073,6 @@ country_city:
         name: Gullspång
         latitude: '58.98615000'
         longitude: '14.09644000'
-      -
-        id: 103233
-        name: 'Gullspångs Kommun'
-        latitude: '58.93300000'
-        longitude: '14.18048000'
       -
         id: 103234
         name: Gunnebo
@@ -587549,25 +587094,10 @@ country_city:
         latitude: '57.91185000'
         longitude: '14.07444000'
       -
-        id: 103250
-        name: 'Habo Kommun'
-        latitude: '57.90901000'
-        longitude: '14.08997000'
-      -
-        id: 103328
-        name: 'Håbo kommun'
-        latitude: '59.64953000'
-        longitude: '17.50701000'
-      -
         id: 103251
         name: Hagfors
         latitude: '60.02378000'
         longitude: '13.67214000'
-      -
-        id: 103252
-        name: 'Hagfors Kommun'
-        latitude: '60.08997000'
-        longitude: '13.60757000'
       -
         id: 103315
         name: Häljarp
@@ -587589,11 +587119,6 @@ country_city:
         latitude: '59.78388000'
         longitude: '14.52197000'
       -
-        id: 103319
-        name: 'Hällefors Kommun'
-        latitude: '59.75736000'
-        longitude: '14.61495000'
-      -
         id: 103320
         name: Hälleforsnäs
         latitude: '59.15208000'
@@ -587609,20 +587134,10 @@ country_city:
         latitude: '59.06463000'
         longitude: '15.10993000'
       -
-        id: 103254
-        name: 'Hallsbergs Kommun'
-        latitude: '59.03803000'
-        longitude: '15.18468000'
-      -
         id: 103255
         name: Hallstahammar
         latitude: '59.61395000'
         longitude: '16.22846000'
-      -
-        id: 103256
-        name: 'Hallstahammars Kommun'
-        latitude: '59.61703000'
-        longitude: '16.22797000'
       -
         id: 103257
         name: Hallstavik
@@ -587634,11 +587149,6 @@ country_city:
         latitude: '56.67446000'
         longitude: '12.85676000'
       -
-        id: 103259
-        name: 'Halmstads Kommun'
-        latitude: '56.73920000'
-        longitude: '12.97338000'
-      -
         id: 103260
         name: Hammar
         latitude: '56.01667000'
@@ -587648,11 +587158,6 @@ country_city:
         name: Hammarkullen
         latitude: '57.78049000'
         longitude: '12.03604000'
-      -
-        id: 103262
-        name: 'Hammarö Kommun'
-        latitude: '59.30699000'
-        longitude: '13.54869000'
       -
         id: 103263
         name: Hanaskog
@@ -587669,50 +587174,25 @@ country_city:
         latitude: '59.16775000'
         longitude: '18.14478000'
       -
-        id: 103266
-        name: 'Haninge Kommun'
-        latitude: '59.17382000'
-        longitude: '18.15491000'
-      -
         id: 103267
         name: Haparanda
         latitude: '65.83549000'
         longitude: '24.13676000'
-      -
-        id: 103268
-        name: 'Haparanda Kommun'
-        latitude: '65.91662000'
-        longitude: '23.84607000'
       -
         id: 103322
         name: Härnösand
         latitude: '62.63228000'
         longitude: '17.93794000'
       -
-        id: 103323
-        name: 'Härnösands Kommun'
-        latitude: '62.76667000'
-        longitude: '17.68333000'
-      -
         id: 103269
         name: Harplinge
         latitude: '56.74491000'
         longitude: '12.72758000'
       -
-        id: 103324
-        name: 'Härryda Kommun'
-        latitude: '57.67736000'
-        longitude: '12.32010000'
-      -
         id: 103325
         name: Hässleholm
         latitude: '56.15905000'
         longitude: '13.76638000'
-      -
-        id: 103326
-        name: 'Hässleholms Kommun'
-        latitude: '56.20687000'
-        longitude: '13.72374000'
       -
         id: 103270
         name: Hasslö
@@ -587734,20 +587214,10 @@ country_city:
         latitude: '59.93815000'
         longitude: '16.86217000'
       -
-        id: 103273
-        name: 'Heby kommun'
-        latitude: '60.10000000'
-        longitude: '17.00000000'
-      -
         id: 103274
         name: Hedemora
         latitude: '60.27973000'
         longitude: '15.98855000'
-      -
-        id: 103275
-        name: 'Hedemora Kommun'
-        latitude: '60.34659000'
-        longitude: '16.07350000'
       -
         id: 103276
         name: Hedesunda
@@ -587784,11 +587254,6 @@ country_city:
         latitude: '58.07739000'
         longitude: '13.02662000'
       -
-        id: 103283
-        name: 'Herrljunga Kommun'
-        latitude: '58.01156000'
-        longitude: '13.12059000'
-      -
         id: 103284
         name: Hestra
         latitude: '57.44232000'
@@ -587824,11 +587289,6 @@ country_city:
         latitude: '58.30133000'
         longitude: '14.28784000'
       -
-        id: 103289
-        name: 'Hjo Kommun'
-        latitude: '58.29642000'
-        longitude: '14.20754000'
-      -
         id: 103290
         name: Hjuvik
         latitude: '57.70167000'
@@ -587838,11 +587298,6 @@ country_city:
         name: Hofors
         latitude: '60.54573000'
         longitude: '16.28668000'
-      -
-        id: 103294
-        name: 'Hofors Kommun'
-        latitude: '60.49619000'
-        longitude: '16.41088000'
       -
         id: 103295
         name: Hofterup
@@ -587854,20 +587309,10 @@ country_city:
         latitude: '56.19971000'
         longitude: '12.55795000'
       -
-        id: 103330
-        name: 'Höganäs Kommun'
-        latitude: '56.22517000'
-        longitude: '12.59701000'
-      -
         id: 103331
         name: Högsby
         latitude: '57.16597000'
         longitude: '16.02562000'
-      -
-        id: 103332
-        name: 'Högsby Kommun'
-        latitude: '57.15537000'
-        longitude: '15.91674000'
       -
         id: 103333
         name: Hökåsen
@@ -587904,20 +587349,10 @@ country_city:
         latitude: '55.93444000'
         longitude: '13.53850000'
       -
-        id: 103343
-        name: 'Höörs Kommun'
-        latitude: '55.94588000'
-        longitude: '13.51686000'
-      -
         id: 103338
         name: Hörby
         latitude: '55.85238000'
         longitude: '13.66094000'
-      -
-        id: 103339
-        name: 'Hörby Kommun'
-        latitude: '55.83766000'
-        longitude: '13.74284000'
       -
         id: 103297
         name: Horndal
@@ -587964,30 +587399,15 @@ country_city:
         latitude: '59.23705000'
         longitude: '17.98192000'
       -
-        id: 103304
-        name: 'Huddinge Kommun'
-        latitude: '59.21428000'
-        longitude: '18.01584000'
-      -
         id: 103305
         name: Hudiksvall
         latitude: '61.72744000'
         longitude: '17.10558000'
       -
-        id: 103306
-        name: 'Hudiksvalls Kommun'
-        latitude: '61.76615000'
-        longitude: '16.77055000'
-      -
         id: 103307
         name: Hultsfred
         latitude: '57.48815000'
         longitude: '15.84357000'
-      -
-        id: 103308
-        name: 'Hultsfreds Kommun'
-        latitude: '57.40000000'
-        longitude: '15.80000000'
       -
         id: 103309
         name: Hunnebostrand
@@ -588008,11 +587428,6 @@ country_city:
         name: Hyllinge
         latitude: '56.10000000'
         longitude: '12.85000000'
-      -
-        id: 103313
-        name: 'Hylte Kommun'
-        latitude: '56.97394000'
-        longitude: '13.26541000'
       -
         id: 103314
         name: Hyltebruk
@@ -588074,11 +587489,6 @@ country_city:
         latitude: '60.71667000'
         longitude: '16.60000000'
       -
-        id: 103362
-        name: 'Järfälla kommun'
-        latitude: '59.40875000'
-        longitude: '17.86514000'
-      -
         id: 103363
         name: Järna
         latitude: '59.09165000'
@@ -588104,20 +587514,10 @@ country_city:
         latitude: '66.60665000'
         longitude: '19.82324000'
       -
-        id: 103354
-        name: 'Jokkmokks Kommun'
-        latitude: '66.90967000'
-        longitude: '18.50521000'
-      -
         id: 103366
         name: Jönköping
         latitude: '57.78145000'
         longitude: '14.15618000'
-      -
-        id: 103367
-        name: 'Jönköpings Kommun'
-        latitude: '57.74101000'
-        longitude: '14.20276000'
       -
         id: 103355
         name: Jonstorp
@@ -588159,11 +587559,6 @@ country_city:
         latitude: '65.85298000'
         longitude: '23.15645000'
       -
-        id: 103370
-        name: 'Kalix Kommun'
-        latitude: '65.96118000'
-        longitude: '22.98669000'
-      -
         id: 103436
         name: Källby
         latitude: '58.50999000'
@@ -588184,11 +587579,6 @@ country_city:
         latitude: '56.66157000'
         longitude: '16.36163000'
       -
-        id: 103373
-        name: 'Kalmar Kommun'
-        latitude: '56.66361000'
-        longitude: '16.18569000'
-      -
         id: 103374
         name: Karlholmsbruk
         latitude: '60.52091000'
@@ -588199,70 +587589,35 @@ country_city:
         latitude: '58.53724000'
         longitude: '14.50470000'
       -
-        id: 103376
-        name: 'Karlsborgs Kommun'
-        latitude: '58.60994000'
-        longitude: '14.45421000'
-      -
         id: 103377
         name: Karlshamn
         latitude: '56.17060000'
         longitude: '14.86188000'
-      -
-        id: 103378
-        name: 'Karlshamns kommun'
-        latitude: '56.25000000'
-        longitude: '14.86667000'
       -
         id: 103379
         name: Karlskoga
         latitude: '59.32667000'
         longitude: '14.52386000'
       -
-        id: 103380
-        name: 'Karlskoga Kommun'
-        latitude: '59.37383000'
-        longitude: '14.56720000'
-      -
         id: 103381
         name: Karlskrona
         latitude: '56.16156000'
         longitude: '15.58661000'
-      -
-        id: 103382
-        name: 'Karlskrona Kommun'
-        latitude: '56.28167000'
-        longitude: '15.66848000'
       -
         id: 103383
         name: Karlstad
         latitude: '59.37930000'
         longitude: '13.50357000'
       -
-        id: 103384
-        name: 'Karlstads Kommun'
-        latitude: '59.47409000'
-        longitude: '13.59961000'
-      -
         id: 103385
         name: Katrineholm
         latitude: '58.99587000'
         longitude: '16.20721000'
       -
-        id: 103386
-        name: 'Katrineholms Kommun'
-        latitude: '59.01734000'
-        longitude: '16.26049000'
-      -
         id: 103437
         name: Kävlinge
         latitude: '55.79188000'
         longitude: '13.11021000'
-      -
-        id: 103438
-        name: 'Kävlinge Kommun'
-        latitude: '55.79469000'
-        longitude: '13.07364000'
       -
         id: 103387
         name: Kaxholmen
@@ -588279,20 +587634,10 @@ country_city:
         latitude: '61.23333000'
         longitude: '16.56667000'
       -
-        id: 103390
-        name: 'Kils Kommun'
-        latitude: '59.50406000'
-        longitude: '13.31740000'
-      -
         id: 103391
         name: Kimstad
         latitude: '58.54967000'
         longitude: '15.96296000'
-      -
-        id: 103392
-        name: 'Kinda Kommun'
-        latitude: '58.01315000'
-        longitude: '15.73373000'
       -
         id: 103393
         name: Kinna
@@ -588303,11 +587648,6 @@ country_city:
         name: Kiruna
         latitude: '67.85572000'
         longitude: '20.22513000'
-      -
-        id: 103395
-        name: 'Kiruna Kommun'
-        latitude: '68.17009000'
-        longitude: '20.54861000'
       -
         id: 103396
         name: Kisa
@@ -588334,11 +587674,6 @@ country_city:
         latitude: '56.13559000'
         longitude: '13.13086000'
       -
-        id: 103400
-        name: 'Klippans Kommun'
-        latitude: '56.11138000'
-        longitude: '13.23836000'
-      -
         id: 103405
         name: Knäred
         latitude: '56.51861000'
@@ -588353,11 +587688,6 @@ country_city:
         name: Knivsta
         latitude: '59.72564000'
         longitude: '17.78753000'
-      -
-        id: 103404
-        name: 'Knivsta Kommun'
-        latitude: '59.73702000'
-        longitude: '17.78137000'
       -
         id: 103406
         name: Kode
@@ -588384,11 +587714,6 @@ country_city:
         latitude: '55.45526000'
         longitude: '13.93453000'
       -
-        id: 103444
-        name: 'Köpings Kommun'
-        latitude: '59.56639000'
-        longitude: '15.87218000'
-      -
         id: 103445
         name: Köpmanholmen
         latitude: '63.16667000'
@@ -588409,11 +587734,6 @@ country_city:
         latitude: '62.93161000'
         longitude: '17.77646000'
       -
-        id: 103412
-        name: 'Kramfors Kommun'
-        latitude: '62.97246000'
-        longitude: '17.92274000'
-      -
         id: 103413
         name: Kristdala
         latitude: '57.40070000'
@@ -588424,20 +587744,10 @@ country_city:
         latitude: '56.03129000'
         longitude: '14.15242000'
       -
-        id: 103415
-        name: 'Kristianstads kommun'
-        latitude: '56.00000000'
-        longitude: '14.15000000'
-      -
         id: 103416
         name: Kristinehamn
         latitude: '59.30978000'
         longitude: '14.10808000'
-      -
-        id: 103417
-        name: 'Kristinehamns Kommun'
-        latitude: '59.25288000'
-        longitude: '14.13593000'
       -
         id: 103418
         name: Krokek
@@ -588454,11 +587764,6 @@ country_city:
         latitude: '59.12770000'
         longitude: '15.14341000'
       -
-        id: 103421
-        name: 'Kumla Kommun'
-        latitude: '59.12715000'
-        longitude: '15.14649000'
-      -
         id: 103422
         name: Kummelnäs
         latitude: '59.35000000'
@@ -588469,11 +587774,6 @@ country_city:
         latitude: '57.87096000'
         longitude: '11.98054000'
       -
-        id: 103431
-        name: 'Kungälvs Kommun'
-        latitude: '57.89697000'
-        longitude: '11.88882000'
-      -
         id: 103427
         name: Kungsängen
         latitude: '59.47857000'
@@ -588483,11 +587783,6 @@ country_city:
         name: Kungsbacka
         latitude: '57.48719000'
         longitude: '12.07612000'
-      -
-        id: 103424
-        name: 'Kungsbacka Kommun'
-        latitude: '57.45058000'
-        longitude: '12.15061000'
       -
         id: 103425
         name: Kungshamn
@@ -588503,11 +587798,6 @@ country_city:
         name: Kungsör
         latitude: '59.42245000'
         longitude: '16.09656000'
-      -
-        id: 103429
-        name: 'Kungsörs kommun'
-        latitude: '59.40247000'
-        longitude: '16.07748000'
       -
         id: 103435
         name: Kvänum
@@ -588538,11 +587828,6 @@ country_city:
         name: Laholm
         latitude: '56.51207000'
         longitude: '13.04371000'
-      -
-        id: 103448
-        name: 'Laholms Kommun'
-        latitude: '56.49174000'
-        longitude: '13.19141000'
       -
         id: 103449
         name: Lammhult
@@ -588594,25 +587879,10 @@ country_city:
         latitude: '58.98630000'
         longitude: '14.61904000'
       -
-        id: 103454
-        name: 'Laxå Kommun'
-        latitude: '58.90913000'
-        longitude: '14.53060000'
-      -
-        id: 103455
-        name: 'Lekebergs Kommun'
-        latitude: '59.18604000'
-        longitude: '14.79796000'
-      -
         id: 103456
         name: Leksand
         latitude: '60.73030000'
         longitude: '14.99994000'
-      -
-        id: 103457
-        name: 'Leksands kommun'
-        latitude: '60.73227000'
-        longitude: '14.99805000'
       -
         id: 103458
         name: Lenhovda
@@ -588624,20 +587894,10 @@ country_city:
         latitude: '57.77051000'
         longitude: '12.26904000'
       -
-        id: 103460
-        name: 'Lerums Kommun'
-        latitude: '57.77452000'
-        longitude: '12.26967000'
-      -
         id: 103461
         name: Lessebo
         latitude: '56.75185000'
         longitude: '15.26969000'
-      -
-        id: 103462
-        name: 'Lessebo Kommun'
-        latitude: '56.76387000'
-        longitude: '15.31359000'
       -
         id: 103463
         name: Lidingö
@@ -588649,20 +587909,10 @@ country_city:
         latitude: '58.50517000'
         longitude: '13.15765000'
       -
-        id: 103465
-        name: 'Lidköpings Kommun'
-        latitude: '58.50000000'
-        longitude: '13.00000000'
-      -
         id: 103466
         name: 'Lilla Edet'
         latitude: '58.13333000'
         longitude: '12.13333000'
-      -
-        id: 103467
-        name: 'Lilla Edets Kommun'
-        latitude: '58.13569000'
-        longitude: '12.14345000'
       -
         id: 103468
         name: Limmared
@@ -588673,11 +587923,6 @@ country_city:
         name: Lindesberg
         latitude: '59.59202000'
         longitude: '15.23040000'
-      -
-        id: 103470
-        name: 'Lindesbergs Kommun'
-        latitude: '59.64119000'
-        longitude: '15.34064000'
       -
         id: 103471
         name: Lindholmen
@@ -588709,20 +587954,10 @@ country_city:
         latitude: '58.41086000'
         longitude: '15.62157000'
       -
-        id: 103477
-        name: 'Linköpings Kommun'
-        latitude: '58.41046000'
-        longitude: '15.61870000'
-      -
         id: 103478
         name: Ljungby
         latitude: '56.83324000'
         longitude: '13.94082000'
-      -
-        id: 103479
-        name: 'Ljungby Kommun'
-        latitude: '56.80684000'
-        longitude: '13.82719000'
       -
         id: 103480
         name: Ljungbyhed
@@ -588754,16 +587989,6 @@ country_city:
         latitude: '61.82883000'
         longitude: '16.09126000'
       -
-        id: 103486
-        name: 'Ljusdals Kommun'
-        latitude: '61.85527000'
-        longitude: '15.50695000'
-      -
-        id: 103487
-        name: 'Ljusnarsbergs Kommun'
-        latitude: '59.92622000'
-        longitude: '14.96499000'
-      -
         id: 103488
         name: Ljusne
         latitude: '61.21170000'
@@ -588789,11 +588014,6 @@ country_city:
         latitude: '55.67244000'
         longitude: '13.06849000'
       -
-        id: 103490
-        name: 'Lomma Kommun'
-        latitude: '55.70358000'
-        longitude: '13.07324000'
-      -
         id: 103509
         name: Lönsboda
         latitude: '56.40000000'
@@ -588814,50 +588034,25 @@ country_city:
         latitude: '60.14959000'
         longitude: '15.18776000'
       -
-        id: 103492
-        name: 'Ludvika Kommun'
-        latitude: '60.17114000'
-        longitude: '14.72635000'
-      -
         id: 103493
         name: Luleå
         latitude: '65.58415000'
         longitude: '22.15465000'
-      -
-        id: 103494
-        name: 'Luleå kommun'
-        latitude: '65.68333000'
-        longitude: '22.16667000'
       -
         id: 103495
         name: Lund
         latitude: '55.70584000'
         longitude: '13.19321000'
       -
-        id: 103496
-        name: 'Lunds Kommun'
-        latitude: '55.66897000'
-        longitude: '13.36408000'
-      -
         id: 103497
         name: Lycksele
         latitude: '64.59537000'
         longitude: '18.67351000'
       -
-        id: 103498
-        name: 'Lycksele kommun'
-        latitude: '64.62437000'
-        longitude: '18.48930000'
-      -
         id: 103499
         name: Lysekil
         latitude: '58.27429000'
         longitude: '11.43576000'
-      -
-        id: 103500
-        name: 'Lysekils Kommun'
-        latitude: '58.34719000'
-        longitude: '11.46688000'
       -
         id: 103512
         name: Majorna
@@ -588868,11 +588063,6 @@ country_city:
         name: Malå
         latitude: '65.18501000'
         longitude: '18.74243000'
-      -
-        id: 103521
-        name: 'Malå Kommun'
-        latitude: '65.20000000'
-        longitude: '18.75000000'
       -
         id: 103559
         name: Målilla
@@ -588908,11 +588098,6 @@ country_city:
         name: Malung
         latitude: '60.68329000'
         longitude: '13.71542000'
-      -
-        id: 103519
-        name: 'Malung-Sälens kommun'
-        latitude: '60.56667000'
-        longitude: '13.66667000'
       -
         id: 103522
         name: Mantorp
@@ -588954,25 +588139,10 @@ country_city:
         latitude: '58.70971000'
         longitude: '13.82367000'
       -
-        id: 103530
-        name: 'Mariestads Kommun'
-        latitude: '58.70861000'
-        longitude: '13.85424000'
-      -
         id: 103531
         name: Markaryd
         latitude: '56.46135000'
         longitude: '13.59644000'
-      -
-        id: 103532
-        name: 'Markaryds Kommun'
-        latitude: '56.54425000'
-        longitude: '13.62348000'
-      -
-        id: 103533
-        name: 'Marks Kommun'
-        latitude: '57.47604000'
-        longitude: '12.59462000'
       -
         id: 103558
         name: Märsta
@@ -588994,11 +588164,6 @@ country_city:
         latitude: '58.69979000'
         longitude: '12.45312000'
       -
-        id: 103537
-        name: 'Melleruds Kommun'
-        latitude: '58.69110000'
-        longitude: '12.41399000'
-      -
         id: 103538
         name: Mjällby
         latitude: '56.68333000'
@@ -589013,11 +588178,6 @@ country_city:
         name: Mjölby
         latitude: '58.32595000'
         longitude: '15.12365000'
-      -
-        id: 103541
-        name: 'Mjölby Kommun'
-        latitude: '58.34576000'
-        longitude: '15.13853000'
       -
         id: 103542
         name: Mockfjärd
@@ -589049,11 +588209,6 @@ country_city:
         latitude: '57.65540000'
         longitude: '12.01378000'
       -
-        id: 103563
-        name: 'Mölndals kommun'
-        latitude: '57.60256000'
-        longitude: '12.09889000'
-      -
         id: 103564
         name: Mölnlycke
         latitude: '57.65893000'
@@ -589064,20 +588219,10 @@ country_city:
         latitude: '57.04134000'
         longitude: '16.44463000'
       -
-        id: 103566
-        name: 'Mönsterås Kommun'
-        latitude: '57.06625000'
-        longitude: '16.38621000'
-      -
         id: 103545
         name: Mora
         latitude: '61.00704000'
         longitude: '14.54316000'
-      -
-        id: 103546
-        name: 'Mora Kommun'
-        latitude: '61.00656000'
-        longitude: '14.53755000'
       -
         id: 103567
         name: Mörarp
@@ -589088,11 +588233,6 @@ country_city:
         name: Mörbylånga
         latitude: '56.52480000'
         longitude: '16.37877000'
-      -
-        id: 103569
-        name: 'Mörbylånga Kommun'
-        latitude: '56.50000000'
-        longitude: '16.50000000'
       -
         id: 103547
         name: Morgongåva
@@ -589114,20 +588254,10 @@ country_city:
         latitude: '58.53706000'
         longitude: '15.03649000'
       -
-        id: 103549
-        name: 'Motala Kommun'
-        latitude: '58.65131000'
-        longitude: '15.19105000'
-      -
         id: 103550
         name: Mullsjö
         latitude: '57.91710000'
         longitude: '13.87831000'
-      -
-        id: 103551
-        name: 'Mullsjö kommun'
-        latitude: '57.95427000'
-        longitude: '13.82241000'
       -
         id: 103552
         name: Munka-Ljungby
@@ -589139,20 +588269,10 @@ country_city:
         latitude: '58.46634000'
         longitude: '11.67345000'
       -
-        id: 103554
-        name: 'Munkedals Kommun'
-        latitude: '58.57334000'
-        longitude: '11.70103000'
-      -
         id: 103555
         name: Munkfors
         latitude: '59.83856000'
         longitude: '13.54361000'
-      -
-        id: 103556
-        name: 'Munkfors Kommun'
-        latitude: '59.81625000'
-        longitude: '13.49458000'
       -
         id: 103557
         name: Myggenäs
@@ -589164,20 +588284,10 @@ country_city:
         latitude: '59.31053000'
         longitude: '18.16372000'
       -
-        id: 103573
-        name: 'Nacka Kommun'
-        latitude: '59.31077000'
-        longitude: '18.17551000'
-      -
         id: 103602
         name: Nässjö
         latitude: '57.65307000'
         longitude: '14.69676000'
-      -
-        id: 103603
-        name: 'Nässjö Kommun'
-        latitude: '57.60892000'
-        longitude: '14.64041000'
       -
         id: 103604
         name: Näsum
@@ -589209,35 +588319,15 @@ country_city:
         latitude: '59.51926000'
         longitude: '15.03979000'
       -
-        id: 103578
-        name: 'Nora Kommun'
-        latitude: '59.53456000'
-        longitude: '14.90777000'
-      -
         id: 103579
         name: Norberg
         latitude: '60.06505000'
         longitude: '15.92366000'
       -
-        id: 103580
-        name: 'Norbergs Kommun'
-        latitude: '60.08997000'
-        longitude: '15.95971000'
-      -
-        id: 103581
-        name: 'Nordanstigs kommun'
-        latitude: '62.05261000'
-        longitude: '16.91378000'
-      -
         id: 103582
         name: Nordmaling
         latitude: '63.56852000'
         longitude: '19.50244000'
-      -
-        id: 103583
-        name: 'Nordmalings Kommun'
-        latitude: '63.68542000'
-        longitude: '19.36777000'
       -
         id: 103584
         name: 'Norra Åsum'
@@ -589254,30 +588344,15 @@ country_city:
         latitude: '58.59419000'
         longitude: '16.18260000'
       -
-        id: 103587
-        name: 'Norrköpings Kommun'
-        latitude: '58.61139000'
-        longitude: '16.32092000'
-      -
         id: 103588
         name: Norrtälje
         latitude: '59.75799000'
         longitude: '18.70496000'
       -
-        id: 103589
-        name: 'Norrtälje Kommun'
-        latitude: '59.86120000'
-        longitude: '18.70573000'
-      -
         id: 103590
         name: Norsjö
         latitude: '64.91206000'
         longitude: '19.48153000'
-      -
-        id: 103591
-        name: 'Norsjö Kommun'
-        latitude: '64.92993000'
-        longitude: '19.55556000'
       -
         id: 103592
         name: Nossebro
@@ -589289,11 +588364,6 @@ country_city:
         latitude: '56.74461000'
         longitude: '15.90714000'
       -
-        id: 103594
-        name: 'Nybro Kommun'
-        latitude: '56.82435000'
-        longitude: '15.88969000'
-      -
         id: 103595
         name: Nyhammar
         latitude: '60.28333000'
@@ -589304,30 +588374,15 @@ country_city:
         latitude: '58.75300000'
         longitude: '17.00788000'
       -
-        id: 103599
-        name: 'Nyköpings Kommun'
-        latitude: '58.81762000'
-        longitude: '16.89945000'
-      -
         id: 103596
         name: Nykvarn
         latitude: '59.80000000'
         longitude: '18.30000000'
       -
-        id: 103597
-        name: 'Nykvarns Kommun'
-        latitude: '59.19479000'
-        longitude: '17.40632000'
-      -
         id: 103600
         name: Nynäshamn
         latitude: '58.90337000'
         longitude: '17.94793000'
-      -
-        id: 103601
-        name: 'Nynäshamns kommun'
-        latitude: '58.95607000'
-        longitude: '17.88694000'
       -
         id: 103606
         name: Obbola
@@ -589339,20 +588394,10 @@ country_city:
         latitude: '60.89120000'
         longitude: '16.71846000'
       -
-        id: 103608
-        name: 'Ockelbo Kommun'
-        latitude: '60.94179000'
-        longitude: '16.57003000'
-      -
         id: 104025
         name: Öckerö
         latitude: '57.70814000'
         longitude: '11.65585000'
-      -
-        id: 104026
-        name: 'Öckerö Kommun'
-        latitude: '57.69534000'
-        longitude: '11.64825000'
       -
         id: 104030
         name: Ödåkra
@@ -589374,11 +588419,6 @@ country_city:
         latitude: '58.22949000'
         longitude: '14.65294000'
       -
-        id: 104028
-        name: 'Ödeshögs Kommun'
-        latitude: '58.22640000'
-        longitude: '14.74067000'
-      -
         id: 104029
         name: Ödsmål
         latitude: '58.10000000'
@@ -589398,11 +588438,6 @@ country_city:
         name: Olofström
         latitude: '56.27730000'
         longitude: '14.53402000'
-      -
-        id: 103613
-        name: 'Olofströms Kommun'
-        latitude: '56.32305000'
-        longitude: '14.56561000'
       -
         id: 103614
         name: Olstorp
@@ -589434,11 +588469,6 @@ country_city:
         latitude: '59.27412000'
         longitude: '15.20660000'
       -
-        id: 104035
-        name: 'Örebro Kommun'
-        latitude: '59.27168000'
-        longitude: '15.28364000'
-      -
         id: 104036
         name: Öregrund
         latitude: '60.33333000'
@@ -589448,11 +588478,6 @@ country_city:
         name: Örkelljunga
         latitude: '56.28338000'
         longitude: '13.27773000'
-      -
-        id: 104038
-        name: 'Örkelljunga Kommun'
-        latitude: '56.32464000'
-        longitude: '13.33941000'
       -
         id: 103617
         name: Ornäs
@@ -589464,20 +588489,10 @@ country_city:
         latitude: '63.29091000'
         longitude: '18.71525000'
       -
-        id: 104040
-        name: 'Örnsköldsviks Kommun'
-        latitude: '63.51458000'
-        longitude: '18.27101000'
-      -
         id: 103618
         name: Orsa
         latitude: '61.12034000'
         longitude: '14.61550000'
-      -
-        id: 103619
-        name: 'Orsa Kommun'
-        latitude: '61.30000000'
-        longitude: '14.75000000'
       -
         id: 104041
         name: Örsundsbro
@@ -589494,20 +588509,10 @@ country_city:
         latitude: '56.38165000'
         longitude: '13.99364000'
       -
-        id: 103622
-        name: 'Osby kommun'
-        latitude: '56.44081000'
-        longitude: '14.11842000'
-      -
         id: 103623
         name: Oskarshamn
         latitude: '57.26455000'
         longitude: '16.44837000'
-      -
-        id: 103624
-        name: 'Oskarshamns Kommun'
-        latitude: '57.37339000'
-        longitude: '16.38303000'
       -
         id: 103625
         name: Oskarström
@@ -589518,11 +588523,6 @@ country_city:
         name: Ösmo
         latitude: '58.98333000'
         longitude: '17.90000000'
-      -
-        id: 104047
-        name: 'Österåkers Kommun'
-        latitude: '59.48345000'
-        longitude: '18.29979000'
       -
         id: 104043
         name: Österbybruk
@@ -589549,45 +588549,20 @@ country_city:
         latitude: '60.25909000'
         longitude: '18.37408000'
       -
-        id: 104049
-        name: 'Östhammars Kommun'
-        latitude: '60.24156000'
-        longitude: '18.26968000'
-      -
-        id: 104050
-        name: 'Östra Göinge Kommun'
-        latitude: '56.27212000'
-        longitude: '14.15980000'
-      -
         id: 104051
         name: 'Östra Ljungby'
         latitude: '56.19601000'
         longitude: '13.09199000'
-      -
-        id: 103626
-        name: 'Ovanåkers Kommun'
-        latitude: '61.33328000'
-        longitude: '15.78067000'
       -
         id: 104052
         name: Överkalix
         latitude: '66.32754000'
         longitude: '22.84414000'
       -
-        id: 104053
-        name: 'Överkalix Kommun'
-        latitude: '66.47043000'
-        longitude: '22.57928000'
-      -
         id: 104054
         name: Övertorneå
         latitude: '66.38778000'
         longitude: '23.65425000'
-      -
-        id: 104055
-        name: 'Övertorneå Kommun'
-        latitude: '66.48317000'
-        longitude: '23.43866000'
       -
         id: 104056
         name: Överum
@@ -589598,11 +588573,6 @@ country_city:
         name: Oxelösund
         latitude: '58.67057000'
         longitude: '17.10152000'
-      -
-        id: 103628
-        name: 'Oxelösunds Kommun'
-        latitude: '58.67519000'
-        longitude: '17.08406000'
       -
         id: 103629
         name: Oxie
@@ -589619,11 +588589,6 @@ country_city:
         latitude: '67.21284000'
         longitude: '23.36607000'
       -
-        id: 103631
-        name: 'Pajala Kommun'
-        latitude: '67.24069000'
-        longitude: '22.91667000'
-      -
         id: 103640
         name: Pålsboda
         latitude: '59.06565000'
@@ -589633,11 +588598,6 @@ country_city:
         name: Partille
         latitude: '57.73950000'
         longitude: '12.10642000'
-      -
-        id: 103633
-        name: 'Partille Kommun'
-        latitude: '57.73306000'
-        longitude: '12.13072000'
       -
         id: 103641
         name: Påskallavik
@@ -589654,20 +588614,10 @@ country_city:
         latitude: '56.13829000'
         longitude: '13.39476000'
       -
-        id: 103636
-        name: 'Perstorps Kommun'
-        latitude: '56.18857000'
-        longitude: '13.37681000'
-      -
         id: 103637
         name: Piteå
         latitude: '65.31717000'
         longitude: '21.47944000'
-      -
-        id: 103638
-        name: 'Piteå Kommun'
-        latitude: '65.37229000'
-        longitude: '20.85153000'
       -
         id: 103642
         name: Ramnäs
@@ -589696,11 +588646,6 @@ country_city:
       -
         id: 103665
         name: Rättvik
-        latitude: '60.88632000'
-        longitude: '15.11787000'
-      -
-        id: 103666
-        name: 'Rättviks Kommun'
         latitude: '60.88632000'
         longitude: '15.11787000'
       -
@@ -589749,11 +588694,6 @@ country_city:
         latitude: '64.19324000'
         longitude: '20.84806000'
       -
-        id: 103651
-        name: 'Robertsfors Kommun'
-        latitude: '64.16604000'
-        longitude: '20.78415000'
-      -
         id: 103672
         name: Rödeby
         latitude: '56.26078000'
@@ -589783,11 +588723,6 @@ country_city:
         name: Ronneby
         latitude: '56.20999000'
         longitude: '15.27602000'
-      -
-        id: 103656
-        name: 'Ronneby Kommun'
-        latitude: '56.31031000'
-        longitude: '15.24038000'
       -
         id: 103673
         name: Rönninge
@@ -589839,30 +588774,15 @@ country_city:
         latitude: '59.13229000'
         longitude: '12.92888000'
       -
-        id: 103805
-        name: 'Säffle Kommun'
-        latitude: '59.19559000'
-        longitude: '12.86437000'
-      -
         id: 103675
         name: Sala
         latitude: '59.91993000'
         longitude: '16.60655000'
       -
-        id: 103676
-        name: 'Sala kommun'
-        latitude: '59.97221000'
-        longitude: '16.47374000'
-      -
         id: 103816
         name: Sålanda
         latitude: '57.98333000'
         longitude: '12.21667000'
-      -
-        id: 103677
-        name: 'Salems Kommun'
-        latitude: '59.24572000'
-        longitude: '17.69875000'
       -
         id: 103678
         name: Saltsjöbaden
@@ -589884,11 +588804,6 @@ country_city:
         latitude: '60.61667000'
         longitude: '16.76667000'
       -
-        id: 103682
-        name: 'Sandvikens Kommun'
-        latitude: '60.55029000'
-        longitude: '16.68461000'
-      -
         id: 103806
         name: Särö
         latitude: '57.50577000'
@@ -589898,11 +588813,6 @@ country_city:
         name: Säter
         latitude: '60.34778000'
         longitude: '15.75051000'
-      -
-        id: 103808
-        name: 'Säters Kommun'
-        latitude: '60.36887000'
-        longitude: '15.71383000'
       -
         id: 103809
         name: Sätila
@@ -589934,11 +588844,6 @@ country_city:
         latitude: '57.40327000'
         longitude: '14.66244000'
       -
-        id: 103815
-        name: 'Sävsjö Kommun'
-        latitude: '57.32883000'
-        longitude: '14.59426000'
-      -
         id: 103683
         name: Saxtorpsskogen
         latitude: '55.83208000'
@@ -589959,11 +588864,6 @@ country_city:
         latitude: '59.61731000'
         longitude: '17.72361000'
       -
-        id: 103687
-        name: 'Sigtuna Kommun'
-        latitude: '59.63960000'
-        longitude: '17.93946000'
-      -
         id: 103688
         name: Siljansnäs
         latitude: '60.78333000'
@@ -589974,20 +588874,10 @@ country_city:
         latitude: '55.55653000'
         longitude: '14.35037000'
       -
-        id: 103690
-        name: 'Simrishamns kommun'
-        latitude: '55.58621000'
-        longitude: '14.23778000'
-      -
         id: 103692
         name: Sjöbo
         latitude: '55.63135000'
         longitude: '13.70622000'
-      -
-        id: 103693
-        name: 'Sjöbo Kommun'
-        latitude: '55.65146000'
-        longitude: '13.75557000'
       -
         id: 103694
         name: Sjömarken
@@ -590018,11 +588908,6 @@ country_city:
         name: Skara
         latitude: '58.38659000'
         longitude: '13.43836000'
-      -
-        id: 103697
-        name: 'Skara Kommun'
-        latitude: '58.37759000'
-        longitude: '13.47548000'
       -
         id: 103719
         name: Skärblacka
@@ -590059,11 +588944,6 @@ country_city:
         latitude: '64.75067000'
         longitude: '20.95279000'
       -
-        id: 103702
-        name: 'Skellefteå Kommun'
-        latitude: '64.80261000'
-        longitude: '20.64410000'
-      -
         id: 103700
         name: Skelleftehamn
         latitude: '64.68333000'
@@ -590083,11 +588963,6 @@ country_city:
         name: Skinnskatteberg
         latitude: '59.83028000'
         longitude: '15.69337000'
-      -
-        id: 103706
-        name: 'Skinnskattebergs Kommun'
-        latitude: '59.79715000'
-        longitude: '15.71463000'
       -
         id: 103707
         name: Skivarp
@@ -590119,11 +588994,6 @@ country_city:
         latitude: '58.39118000'
         longitude: '13.84506000'
       -
-        id: 103725
-        name: 'Skövde Kommun'
-        latitude: '58.43488000'
-        longitude: '13.90358000'
-      -
         id: 103711
         name: Skrea
         latitude: '56.88333000'
@@ -590143,11 +589013,6 @@ country_city:
         name: Skurup
         latitude: '55.47839000'
         longitude: '13.50186000'
-      -
-        id: 103715
-        name: 'Skurups Kommun'
-        latitude: '55.47322000'
-        longitude: '13.54550000'
       -
         id: 103716
         name: Skutskär
@@ -590179,11 +589044,6 @@ country_city:
         latitude: '60.14181000'
         longitude: '15.41416000'
       -
-        id: 103730
-        name: 'Smedjebackens Kommun'
-        latitude: '60.09475000'
-        longitude: '15.45204000'
-      -
         id: 103733
         name: Smögen
         latitude: '58.35593000'
@@ -590209,20 +589069,10 @@ country_city:
         latitude: '61.30373000'
         longitude: '17.05921000'
       -
-        id: 103820
-        name: 'Söderhamns Kommun'
-        latitude: '61.25371000'
-        longitude: '16.94879000'
-      -
         id: 103821
         name: Söderköping
         latitude: '58.48057000'
         longitude: '16.32221000'
-      -
-        id: 103822
-        name: 'Söderköpings Kommun'
-        latitude: '58.42056000'
-        longitude: '16.44510000'
       -
         id: 103823
         name: Södermalm
@@ -590233,11 +589083,6 @@ country_city:
         name: Södertälje
         latitude: '59.19554000'
         longitude: '17.62525000'
-      -
-        id: 103825
-        name: 'Södertälje Kommun'
-        latitude: '59.18121000'
-        longitude: '17.62756000'
       -
         id: 103826
         name: 'Södra Sandby'
@@ -590269,40 +589114,20 @@ country_city:
         latitude: '63.16667000'
         longitude: '17.26667000'
       -
-        id: 103736
-        name: 'Sollefteå Kommun'
-        latitude: '63.38333000'
-        longitude: '16.91667000'
-      -
         id: 103737
         name: Sollentuna
         latitude: '59.42804000'
         longitude: '17.95093000'
-      -
-        id: 103738
-        name: 'Sollentuna Kommun'
-        latitude: '59.44499000'
-        longitude: '17.93518000'
       -
         id: 103739
         name: Solna
         latitude: '59.36004000'
         longitude: '18.00086000'
       -
-        id: 103740
-        name: 'Solna Kommun'
-        latitude: '59.36548000'
-        longitude: '18.00728000'
-      -
         id: 103830
         name: Sölvesborg
         latitude: '56.05205000'
         longitude: '14.57525000'
-      -
-        id: 103831
-        name: 'Sölvesborgs kommun'
-        latitude: '56.08910000'
-        longitude: '14.64518000'
       -
         id: 103833
         name: Söråker
@@ -590319,30 +589144,15 @@ country_city:
         latitude: '65.53484000'
         longitude: '17.53702000'
       -
-        id: 103742
-        name: 'Sorsele Kommun'
-        latitude: '65.75000000'
-        longitude: '16.75000000'
-      -
         id: 103834
         name: Sösdala
         latitude: '56.03992000'
         longitude: '13.67811000'
       -
-        id: 103743
-        name: 'Sotenäs Kommun'
-        latitude: '58.42215000'
-        longitude: '11.34296000'
-      -
         id: 103744
         name: Staffanstorp
         latitude: '55.64277000'
         longitude: '13.20638000'
-      -
-        id: 103745
-        name: 'Staffanstorps Kommun'
-        latitude: '55.65000000'
-        longitude: '13.20000000'
       -
         id: 103746
         name: Stallarholmen
@@ -590394,11 +589204,6 @@ country_city:
         latitude: '58.07046000'
         longitude: '11.81810000'
       -
-        id: 103755
-        name: 'Stenungsunds Kommun'
-        latitude: '58.06248000'
-        longitude: '11.90473000'
-      -
         id: 103756
         name: Stigtomta
         latitude: '58.80000000'
@@ -590413,11 +589218,6 @@ country_city:
         name: Stockholm
         latitude: '59.33258000'
         longitude: '18.06490000'
-      -
-        id: 103759
-        name: 'Stockholms Kommun'
-        latitude: '59.32478000'
-        longitude: '18.06427000'
       -
         id: 103760
         name: Stockvik
@@ -590449,20 +589249,10 @@ country_city:
         latitude: '59.53183000'
         longitude: '14.27201000'
       -
-        id: 103764
-        name: 'Storfors Kommun'
-        latitude: '59.49478000'
-        longitude: '14.24733000'
-      -
         id: 103765
         name: Storuman
         latitude: '65.09590000'
         longitude: '17.11731000'
-      -
-        id: 103766
-        name: 'Storumans Kommun'
-        latitude: '65.45192000'
-        longitude: '16.25810000'
       -
         id: 103767
         name: Storvik
@@ -590484,11 +589274,6 @@ country_city:
         latitude: '59.37741000'
         longitude: '17.03119000'
       -
-        id: 103772
-        name: 'Strängnäs Kommun'
-        latitude: '59.36109000'
-        longitude: '17.08804000'
-      -
         id: 103773
         name: Strömma
         latitude: '59.28333000'
@@ -590503,11 +589288,6 @@ country_city:
         name: Strömstad
         latitude: '58.93945000'
         longitude: '11.17120000'
-      -
-        id: 103776
-        name: 'Strömstads Kommun'
-        latitude: '58.94891000'
-        longitude: '11.25543000'
       -
         id: 103777
         name: Strövelstorp
@@ -590534,11 +589314,6 @@ country_city:
         latitude: '59.36128000'
         longitude: '17.97114000'
       -
-        id: 103784
-        name: 'Sundbybergs Kommun'
-        latitude: '59.36669000'
-        longitude: '17.97020000'
-      -
         id: 103785
         name: Sundsbruk
         latitude: '62.45806000'
@@ -590549,30 +589324,15 @@ country_city:
         latitude: '62.39129000'
         longitude: '17.30630000'
       -
-        id: 103787
-        name: 'Sundsvalls Kommun'
-        latitude: '62.47912000'
-        longitude: '16.92651000'
-      -
         id: 103788
         name: Sunne
         latitude: '59.83764000'
         longitude: '13.14302000'
       -
-        id: 103789
-        name: 'Sunne Kommun'
-        latitude: '59.90378000'
-        longitude: '13.04420000'
-      -
         id: 103790
         name: Surahammar
         latitude: '59.70725000'
         longitude: '16.22188000'
-      -
-        id: 103791
-        name: 'Surahammars Kommun'
-        latitude: '59.77487000'
-        longitude: '16.11885000'
       -
         id: 103792
         name: Surte
@@ -590583,11 +589343,6 @@ country_city:
         name: Svalöv
         latitude: '55.91340000'
         longitude: '13.10762000'
-      -
-        id: 103795
-        name: 'Svalövs Kommun'
-        latitude: '55.96497000'
-        longitude: '13.13173000'
       -
         id: 103793
         name: Svalsta
@@ -590619,30 +589374,15 @@ country_city:
         latitude: '55.50788000'
         longitude: '13.23515000'
       -
-        id: 103798
-        name: 'Svedala Kommun'
-        latitude: '55.54324000'
-        longitude: '13.26859000'
-      -
         id: 103799
         name: Svenljunga
         latitude: '57.49551000'
         longitude: '13.11078000'
       -
-        id: 103800
-        name: 'Svenljunga Kommun'
-        latitude: '57.39249000'
-        longitude: '13.05216000'
-      -
         id: 103835
         name: Taberg
         latitude: '57.67722000'
         longitude: '14.08876000'
-      -
-        id: 103887
-        name: 'Täby Kommun'
-        latitude: '59.43739000'
-        longitude: '18.06530000'
       -
         id: 103888
         name: Täfteå
@@ -590653,11 +589393,6 @@ country_city:
         name: Tallboda
         latitude: '58.42521000'
         longitude: '15.68154000'
-      -
-        id: 103837
-        name: 'Tanums Kommun'
-        latitude: '58.71656000'
-        longitude: '11.42571000'
       -
         id: 103838
         name: Tanumshede
@@ -590689,30 +589424,15 @@ country_city:
         latitude: '58.42453000'
         longitude: '14.16162000'
       -
-        id: 103843
-        name: 'Tibro Kommun'
-        latitude: '58.44920000'
-        longitude: '14.22664000'
-      -
         id: 103844
         name: Tidaholm
         latitude: '58.18035000'
         longitude: '13.95824000'
       -
-        id: 103845
-        name: 'Tidaholms kommun'
-        latitude: '58.14842000'
-        longitude: '13.94336000'
-      -
         id: 103846
         name: Tierp
         latitude: '60.34269000'
         longitude: '17.51812000'
-      -
-        id: 103847
-        name: 'Tierps kommun'
-        latitude: '60.37206000'
-        longitude: '17.63629000'
       -
         id: 103848
         name: Tillberga
@@ -590729,25 +589449,10 @@ country_city:
         latitude: '62.48654000'
         longitude: '17.32613000'
       -
-        id: 103851
-        name: 'Timrå Kommun'
-        latitude: '62.61598000'
-        longitude: '17.37848000'
-      -
         id: 103852
         name: Tingsryd
         latitude: '56.52470000'
         longitude: '14.97902000'
-      -
-        id: 103853
-        name: 'Tingsryds Kommun'
-        latitude: '56.53333000'
-        longitude: '14.96667000'
-      -
-        id: 103855
-        name: 'Tjörns Kommun'
-        latitude: '58.00519000'
-        longitude: '11.63101000'
       -
         id: 103854
         name: Tjuvkil
@@ -590774,11 +589479,6 @@ country_city:
         latitude: '55.54293000'
         longitude: '13.95460000'
       -
-        id: 103859
-        name: 'Tomelilla Kommun'
-        latitude: '55.61963000'
-        longitude: '14.01975000'
-      -
         id: 103891
         name: Töre
         latitude: '65.91243000'
@@ -590788,11 +589488,6 @@ country_city:
         name: Töreboda
         latitude: '58.70739000'
         longitude: '14.12597000'
-      -
-        id: 103893
-        name: 'Töreboda Kommun'
-        latitude: '58.67996000'
-        longitude: '14.16139000'
       -
         id: 103860
         name: Torekov
@@ -590809,20 +589504,10 @@ country_city:
         latitude: '56.41251000'
         longitude: '15.99844000'
       -
-        id: 103867
-        name: 'Torsås Kommun'
-        latitude: '56.42649000'
-        longitude: '15.89128000'
-      -
         id: 103862
         name: Torsby
         latitude: '60.13527000'
         longitude: '13.00820000'
-      -
-        id: 103863
-        name: 'Torsby Kommun'
-        latitude: '60.56939000'
-        longitude: '12.93837000'
       -
         id: 103864
         name: Torshälla
@@ -590844,20 +589529,10 @@ country_city:
         latitude: '58.03717000'
         longitude: '14.97820000'
       -
-        id: 103872
-        name: 'Tranås Kommun'
-        latitude: '58.02906000'
-        longitude: '14.83456000'
-      -
         id: 103869
         name: Tranemo
         latitude: '57.48333000'
         longitude: '13.35000000'
-      -
-        id: 103870
-        name: 'Tranemo Kommun'
-        latitude: '57.50000000'
-        longitude: '13.43333000'
       -
         id: 103879
         name: Träslövsläge
@@ -590874,11 +589549,6 @@ country_city:
         latitude: '55.37514000'
         longitude: '13.15691000'
       -
-        id: 103875
-        name: 'Trelleborgs Kommun'
-        latitude: '55.41274000'
-        longitude: '13.26859000'
-      -
         id: 103876
         name: Trollhättan
         latitude: '58.21208000'
@@ -590893,11 +589563,6 @@ country_city:
         name: Trosa
         latitude: '58.89621000'
         longitude: '17.54812000'
-      -
-        id: 103878
-        name: 'Trosa Kommun'
-        latitude: '58.89330000'
-        longitude: '17.49847000'
       -
         id: 103881
         name: Tullinge
@@ -590919,11 +589584,6 @@ country_city:
         latitude: '55.51667000'
         longitude: '13.00000000'
       -
-        id: 103885
-        name: 'Tyresö Kommun'
-        latitude: '59.24148000'
-        longitude: '18.28074000'
-      -
         id: 103886
         name: Tyringe
         latitude: '56.16037000'
@@ -590934,60 +589594,25 @@ country_city:
         latitude: '58.34784000'
         longitude: '11.94240000'
       -
-        id: 103895
-        name: 'Uddevalla Kommun'
-        latitude: '58.34099000'
-        longitude: '11.84744000'
-      -
         id: 103896
         name: Ulricehamn
         latitude: '57.79159000'
         longitude: '13.41422000'
-      -
-        id: 103897
-        name: 'Ulricehamns Kommun'
-        latitude: '57.82059000'
-        longitude: '13.46116000'
       -
         id: 103898
         name: Umeå
         latitude: '63.82842000'
         longitude: '20.25972000'
       -
-        id: 103899
-        name: 'Umeå Kommun'
-        latitude: '63.82992000'
-        longitude: '20.25484000'
-      -
         id: 103900
         name: 'Upplands Väsby'
         latitude: '59.51839000'
         longitude: '17.91128000'
       -
-        id: 103901
-        name: 'Upplands Väsby kommun'
-        latitude: '59.52382000'
-        longitude: '17.91001000'
-      -
-        id: 103902
-        name: 'Upplands-Bro Kommun'
-        latitude: '59.49095000'
-        longitude: '17.74979000'
-      -
         id: 103903
         name: Uppsala
         latitude: '59.85882000'
         longitude: '17.63889000'
-      -
-        id: 103904
-        name: 'Uppsala Kommun'
-        latitude: '59.96425000'
-        longitude: '17.77395000'
-      -
-        id: 103905
-        name: 'Uppvidinge Kommun'
-        latitude: '57.03442000'
-        longitude: '15.44727000'
       -
         id: 103906
         name: Ursviken
@@ -590999,20 +589624,10 @@ country_city:
         latitude: '58.44863000'
         longitude: '14.88969000'
       -
-        id: 103908
-        name: 'Vadstena Kommun'
-        latitude: '58.40783000'
-        longitude: '14.86162000'
-      -
         id: 103909
         name: Vaggeryd
         latitude: '57.49807000'
         longitude: '14.14842000'
-      -
-        id: 103910
-        name: 'Vaggeryds Kommun'
-        latitude: '57.47206000'
-        longitude: '14.12797000'
       -
         id: 103911
         name: Vagnhärad
@@ -591034,11 +589649,6 @@ country_city:
         latitude: '58.20310000'
         longitude: '16.60225000'
       -
-        id: 103914
-        name: 'Valdemarsviks Kommun'
-        latitude: '58.20000000'
-        longitude: '16.60000000'
-      -
         id: 103915
         name: Valje
         latitude: '56.06279000'
@@ -591059,30 +589669,15 @@ country_city:
         latitude: '59.53436000'
         longitude: '18.07758000'
       -
-        id: 103919
-        name: 'Vallentuna Kommun'
-        latitude: '59.59146000'
-        longitude: '18.21000000'
-      -
         id: 103962
         name: Vänersborg
         latitude: '58.38075000'
         longitude: '12.32340000'
       -
-        id: 103963
-        name: 'Vänersborgs Kommun'
-        latitude: '58.39828000'
-        longitude: '12.27554000'
-      -
         id: 103964
         name: Vännäs
         latitude: '63.90676000'
         longitude: '19.75712000'
-      -
-        id: 103965
-        name: 'Vännäs Kommun'
-        latitude: '63.94960000'
-        longitude: '19.70834000'
       -
         id: 103966
         name: Vännäsby
@@ -591094,30 +589689,15 @@ country_city:
         latitude: '60.50893000'
         longitude: '14.22458000'
       -
-        id: 103921
-        name: 'Vansbro Kommun'
-        latitude: '60.46117000'
-        longitude: '14.27836000'
-      -
         id: 103922
         name: Vara
         latitude: '58.26234000'
         longitude: '12.95413000'
       -
-        id: 103923
-        name: 'Vara Kommun'
-        latitude: '58.24391000'
-        longitude: '13.07285000'
-      -
         id: 103924
         name: Varberg
         latitude: '57.10557000'
         longitude: '12.25078000'
-      -
-        id: 103925
-        name: 'Varbergs Kommun'
-        latitude: '57.17208000'
-        longitude: '12.41797000'
       -
         id: 103978
         name: Vårby
@@ -591129,30 +589709,15 @@ country_city:
         latitude: '58.03706000'
         longitude: '12.80907000'
       -
-        id: 103980
-        name: 'Vårgårda Kommun'
-        latitude: '57.98769000'
-        longitude: '12.76888000'
-      -
         id: 103926
         name: Vargön
         latitude: '58.35599000'
         longitude: '12.39060000'
       -
-        id: 103967
-        name: 'Värmdö Kommun'
-        latitude: '59.31614000'
-        longitude: '18.70414000'
-      -
         id: 103968
         name: Värnamo
         latitude: '57.18604000'
         longitude: '14.04001000'
-      -
-        id: 103969
-        name: 'Värnamo Kommun'
-        latitude: '57.17128000'
-        longitude: '14.05317000'
       -
         id: 103981
         name: Vårsta
@@ -591174,11 +589739,6 @@ country_city:
         latitude: '57.75840000'
         longitude: '16.63733000'
       -
-        id: 103971
-        name: 'Västerviks Kommun'
-        latitude: '57.85242000'
-        longitude: '16.38940000'
-      -
         id: 103973
         name: 'Västra Frölunda'
         latitude: '57.64667000'
@@ -591199,20 +589759,10 @@ country_city:
         latitude: '59.40225000'
         longitude: '18.35317000'
       -
-        id: 103930
-        name: 'Vaxholms Kommun'
-        latitude: '59.40386000'
-        longitude: '18.34167000'
-      -
         id: 103975
         name: Växjö
         latitude: '56.87767000'
         longitude: '14.80906000'
-      -
-        id: 103976
-        name: 'Växjö Kommun'
-        latitude: '56.94530000'
-        longitude: '14.89981000'
       -
         id: 103931
         name: Veberöd
@@ -591239,20 +589789,10 @@ country_city:
         latitude: '55.47124000'
         longitude: '13.01971000'
       -
-        id: 103936
-        name: 'Vellinge Kommun'
-        latitude: '55.44776000'
-        longitude: '13.00919000'
-      -
         id: 103937
         name: Vetlanda
         latitude: '57.42887000'
         longitude: '15.07762000'
-      -
-        id: 103938
-        name: 'Vetlanda kommun'
-        latitude: '57.36862000'
-        longitude: '15.18468000'
       -
         id: 103939
         name: Vi
@@ -591289,40 +589829,20 @@ country_city:
         latitude: '64.62417000'
         longitude: '16.65596000'
       -
-        id: 103946
-        name: 'Vilhelmina Kommun'
-        latitude: '64.99358000'
-        longitude: '16.03212000'
-      -
         id: 103947
         name: Vimmerby
         latitude: '57.66588000'
         longitude: '15.85515000'
-      -
-        id: 103948
-        name: 'Vimmerby Kommun'
-        latitude: '57.69009000'
-        longitude: '15.86741000'
       -
         id: 103949
         name: Vindeln
         latitude: '64.20175000'
         longitude: '19.71945000'
       -
-        id: 103950
-        name: 'Vindelns Kommun'
-        latitude: '64.18605000'
-        longitude: '19.71222000'
-      -
         id: 103951
         name: Vingåker
         latitude: '59.04330000'
         longitude: '15.87374000'
-      -
-        id: 103952
-        name: 'Vingåkers Kommun'
-        latitude: '59.06667000'
-        longitude: '15.88333000'
       -
         id: 103953
         name: Vinninga
@@ -591369,20 +589889,10 @@ country_city:
         latitude: '57.35000000'
         longitude: '14.46667000'
       -
-        id: 103982
-        name: 'Ydre Kommun'
-        latitude: '57.86355000'
-        longitude: '15.26266000'
-      -
         id: 103983
         name: Ystad
         latitude: '55.42966000'
         longitude: '13.82041000'
-      -
-        id: 103984
-        name: 'Ystads Kommun'
-        latitude: '55.46367000'
-        longitude: '13.91153000'
   -
     id: 214
     name: Switzerland
@@ -608109,6 +606619,151 @@ country_city:
         latitude: '15.79408000'
         longitude: '104.14510000'
   -
+    id: 17
+    name: 'The Bahamas'
+    iso3: BHS
+    iso2: BS
+    numeric_code: '044'
+    phone_code: +1-242
+    capital: Nassau
+    currency: BSD
+    currency_name: 'Bahamian dollar'
+    currency_symbol: B$
+    tld: .bs
+    native: Bahamas
+    region: Americas
+    subregion: Caribbean
+    timezones:
+      -
+        zoneName: America/Nassau
+        gmtOffset: -18000
+        gmtOffsetName: 'UTC-05:00'
+        abbreviation: EST
+        tzName: 'Eastern Standard Time (North America)'
+    translations:
+      kr: 바하마
+      br: Bahamas
+      pt: Baamas
+      nl: Bahama’s
+      hr: Bahami
+      fa: باهاما
+      de: Bahamas
+      es: Bahamas
+      fr: Bahamas
+      ja: バハマ
+      it: Bahamas
+      cn: 巴哈马
+    latitude: '24.25000000'
+    longitude: '-76.00000000'
+    emoji: 🇧🇸
+    emojiU: 'U+1F1E7 U+1F1F8'
+    cities:
+      -
+        id: 15685
+        name: 'Abraham’s Bay'
+        latitude: '22.36667000'
+        longitude: '-72.96667000'
+      -
+        id: 15686
+        name: 'Alice Town'
+        latitude: '25.72800000'
+        longitude: '-79.29721000'
+      -
+        id: 15687
+        name: 'Andros Town'
+        latitude: '24.70502000'
+        longitude: '-77.76912000'
+      -
+        id: 15688
+        name: 'Arthur’s Town'
+        latitude: '24.62240000'
+        longitude: '-75.67151000'
+      -
+        id: 15689
+        name: 'Clarence Town'
+        latitude: '23.10000000'
+        longitude: '-74.98333000'
+      -
+        id: 15690
+        name: 'Cockburn Town'
+        latitude: '24.05179000'
+        longitude: '-74.53138000'
+      -
+        id: 15691
+        name: 'Colonel Hill'
+        latitude: '22.75450000'
+        longitude: '-74.20415000'
+      -
+        id: 15692
+        name: 'Cooper’s Town'
+        latitude: '26.87137000'
+        longitude: '-77.51131000'
+      -
+        id: 15693
+        name: 'Duncan Town'
+        latitude: '22.19083000'
+        longitude: '-75.72583000'
+      -
+        id: 15694
+        name: 'Dunmore Town'
+        latitude: '25.50216000'
+        longitude: '-76.63633000'
+      -
+        id: 15695
+        name: Freeport
+        latitude: '26.53333000'
+        longitude: '-78.70000000'
+      -
+        id: 15696
+        name: 'George Town'
+        latitude: '23.51616000'
+        longitude: '-75.78665000'
+      -
+        id: 15697
+        name: 'High Rock'
+        latitude: '26.60999000'
+        longitude: '-78.27863000'
+      -
+        id: 15698
+        name: Lucaya
+        latitude: '26.53333000'
+        longitude: '-78.66667000'
+      -
+        id: 15699
+        name: 'Marsh Harbour'
+        latitude: '26.54124000'
+        longitude: '-77.06360000'
+      -
+        id: 15700
+        name: 'Matthew Town'
+        latitude: '20.94982000'
+        longitude: '-73.67346000'
+      -
+        id: 143913
+        name: Nassau
+        latitude: '25.06666667'
+        longitude: '-77.33333333'
+      -
+        id: 15701
+        name: 'Port Nelson'
+        latitude: '23.64967000'
+        longitude: '-74.84157000'
+      -
+        id: 15702
+        name: 'San Andros'
+        latitude: '25.06667000'
+        longitude: '-78.05000000'
+      -
+        id: 15703
+        name: 'Spanish Wells'
+        latitude: '25.54717000'
+        longitude: '-76.76405000'
+      -
+        id: 15704
+        name: 'West End'
+        latitude: '26.68711000'
+        longitude: '-78.97702000'
+  -
     id: 220
     name: Togo
     iso3: TGO
@@ -616897,6 +615552,11 @@ country_city:
     emojiU: 'U+1F1FA U+1F1E6'
     cities:
       -
+        id: 149311
+        name: Abramok
+        latitude: '50.63694444'
+        longitude: '27.90750000'
+      -
         id: 109305
         name: Abrikosovka
         latitude: '45.10759000'
@@ -616907,6 +615567,16 @@ country_city:
         latitude: '45.69236000'
         longitude: '34.10156000'
       -
+        id: 149312
+        name: Adamivka
+        latitude: '50.37694444'
+        longitude: '27.91527778'
+      -
+        id: 149313
+        name: Adamove
+        latitude: '50.83111111'
+        longitude: '27.48305556'
+      -
         id: 109307
         name: Adzhamka
         latitude: '48.54245000'
@@ -616916,6 +615586,11 @@ country_city:
         name: Aeroflotskiy
         latitude: '45.01816000'
         longitude: '33.99961000'
+      -
+        id: 149314
+        name: Agativka
+        latitude: '49.98611111'
+        longitude: '28.60500000'
       -
         id: 109309
         name: Agrarnoye
@@ -616971,6 +615646,16 @@ country_city:
         name: Amvrosiyivka
         latitude: '47.79348000'
         longitude: '38.47768000'
+      -
+        id: 149315
+        name: Andriyivka
+        latitude: '49.76293844'
+        longitude: '34.30037490'
+      -
+        id: 149316
+        name: Andrushivka
+        latitude: '50.01666667'
+        longitude: '29.01666667'
       -
         id: 109320
         name: Andrushivka
@@ -617037,6 +615722,11 @@ country_city:
         latitude: '48.56660000'
         longitude: '34.46111000'
       -
+        id: 149317
+        name: 'Autozavodskoy Raion'
+        latitude: '49.07173000'
+        longitude: '33.41552000'
+      -
         id: 109333
         name: Avdiyivka
         latitude: '48.13989000'
@@ -617052,6 +615742,11 @@ country_city:
         latitude: '48.36714000'
         longitude: '35.08132000'
       -
+        id: 149318
+        name: Avratin
+        latitude: '49.87611111'
+        longitude: '27.82638889'
+      -
         id: 109336
         name: Azovskoye
         latitude: '45.58604000'
@@ -617066,6 +615761,11 @@ country_city:
         name: Baherove
         latitude: '45.37417000'
         longitude: '36.29705000'
+      -
+        id: 149319
+        name: Bairak
+        latitude: '49.72043437'
+        longitude: '34.37378921'
       -
         id: 109339
         name: Bakhchysarai
@@ -617097,6 +615797,11 @@ country_city:
         latitude: '49.46270000'
         longitude: '36.85951000'
       -
+        id: 149320
+        name: Baliasne
+        latitude: '49.82119646'
+        longitude: '34.33881183'
+      -
         id: 109345
         name: Balky
         latitude: '47.38336000'
@@ -617126,6 +615831,21 @@ country_city:
         name: Baranivka
         latitude: '50.29691000'
         longitude: '27.66220000'
+      -
+        id: 149321
+        name: Baranivka
+        latitude: '50.30000000'
+        longitude: '27.66666667'
+      -
+        id: 149322
+        name: Baranivka
+        latitude: '49.94809180'
+        longitude: '34.00827580'
+      -
+        id: 149323
+        name: Barashi
+        latitude: '50.71555556'
+        longitude: '28.03083333'
       -
         id: 109351
         name: 'Barskiy Rayon'
@@ -617177,6 +615897,16 @@ country_city:
         latitude: '49.71267000'
         longitude: '26.47331000'
       -
+        id: 149324
+        name: Bazar
+        latitude: '51.04388889'
+        longitude: '29.29361111'
+      -
+        id: 149325
+        name: Bekhi
+        latitude: '51.01972222'
+        longitude: '28.69333333'
+      -
         id: 109361
         name: Bekhtery
         latitude: '46.24790000'
@@ -617227,6 +615957,11 @@ country_city:
         latitude: '49.89928000'
         longitude: '28.60235000'
       -
+        id: 149326
+        name: Berdychiv
+        latitude: '49.89194444'
+        longitude: '28.60000000'
+      -
         id: 109371
         name: 'Berdychivskyy Rayon'
         latitude: '49.91667000'
@@ -617262,10 +615997,25 @@ country_city:
         latitude: '50.36047000'
         longitude: '25.11071000'
       -
+        id: 149327
+        name: Berestivka
+        latitude: '50.34055556'
+        longitude: '27.47611111'
+      -
+        id: 149328
+        name: Berestovets
+        latitude: '51.02000000'
+        longitude: '28.87027778'
+      -
         id: 109378
         name: Berezanka
         latitude: '46.85262000'
         longitude: '31.38802000'
+      -
+        id: 149329
+        name: Berezianka
+        latitude: '49.69194444'
+        longitude: '29.45305556'
       -
         id: 109379
         name: Berezivka
@@ -617292,6 +616042,11 @@ country_city:
         latitude: '48.51407000'
         longitude: '23.21982000'
       -
+        id: 149330
+        name: 'Berezovii Grud'
+        latitude: '50.99666667'
+        longitude: '28.35888889'
+      -
         id: 109384
         name: Berezovka
         latitude: '45.57471000'
@@ -617301,6 +616056,11 @@ country_city:
         name: Berezovo
         latitude: '48.30943000'
         longitude: '23.47400000'
+      -
+        id: 149331
+        name: Bereztsi
+        latitude: '50.50555556'
+        longitude: '29.31750000'
       -
         id: 109386
         name: Berezyne
@@ -617332,6 +616092,26 @@ country_city:
         latitude: '49.64093000'
         longitude: '24.28874000'
       -
+        id: 149332
+        name: Bicheva
+        latitude: '49.75055556'
+        longitude: '27.77777778'
+      -
+        id: 149333
+        name: Bigun
+        latitude: '51.40194444'
+        longitude: '28.28277778'
+      -
+        id: 149334
+        name: Bikiv
+        latitude: '50.17833333'
+        longitude: '29.29638889'
+      -
+        id: 149335
+        name: 'Bila Krynytsia'
+        latitude: '50.63638889'
+        longitude: '29.46361111'
+      -
         id: 109392
         name: 'Bila Krynytsya'
         latitude: '50.63982000'
@@ -617361,6 +616141,16 @@ country_city:
         name: 'Bili Oslavy'
         latitude: '48.48722000'
         longitude: '24.70078000'
+      -
+        id: 149336
+        name: 'Bilii Bereg'
+        latitude: '50.75638889'
+        longitude: '29.47888889'
+      -
+        id: 149337
+        name: Bilka
+        latitude: '50.81861111'
+        longitude: '28.18777778'
       -
         id: 109398
         name: Bilky
@@ -617407,6 +616197,11 @@ country_city:
         latitude: '46.48319000'
         longitude: '30.21678000'
       -
+        id: 149338
+        name: Bilylivka
+        latitude: '49.68000000'
+        longitude: '29.03000000'
+      -
         id: 109407
         name: Bilyts’ke
         latitude: '48.40642000'
@@ -617416,6 +616211,16 @@ country_city:
         name: Biryukove
         latitude: '47.95631000'
         longitude: '39.73843000'
+      -
+        id: 149339
+        name: Bistrik
+        latitude: '49.85638889'
+        longitude: '28.56638889'
+      -
+        id: 149340
+        name: Bistriyivka
+        latitude: '50.47777778'
+        longitude: '29.16472222'
       -
         id: 109409
         name: Blahodatne
@@ -617501,6 +616306,11 @@ country_city:
         name: Bolhrad
         latitude: '45.68262000'
         longitude: '28.61487000'
+      -
+        id: 149341
+        name: Borisivka
+        latitude: '49.76934347'
+        longitude: '34.33837579'
       -
         id: 109426
         name: 'Borispol’skiy Rayon'
@@ -617607,6 +616417,21 @@ country_city:
         latitude: '50.08791000'
         longitude: '25.15027000'
       -
+        id: 149342
+        name: Broniki
+        latitude: '50.55361111'
+        longitude: '27.80777778'
+      -
+        id: 149344
+        name: Bronitsia
+        latitude: '50.94666667'
+        longitude: '27.34527778'
+      -
+        id: 149343
+        name: 'Bronitska Guta'
+        latitude: '50.93138889'
+        longitude: '27.31388889'
+      -
         id: 109447
         name: Broshniv-Osada
         latitude: '48.99621000'
@@ -617626,6 +616451,16 @@ country_city:
         name: 'Brovary Raion'
         latitude: '50.58333000'
         longitude: '31.00000000'
+      -
+        id: 149345
+        name: 'Brovki Pershi'
+        latitude: '49.93194444'
+        longitude: '29.19750000'
+      -
+        id: 149346
+        name: Brusyliv
+        latitude: '50.28333333'
+        longitude: '29.53333333'
       -
         id: 109451
         name: Brusyliv
@@ -617662,20 +616497,45 @@ country_city:
         latitude: '49.06254000'
         longitude: '25.38798000'
       -
+        id: 149347
+        name: Buchmany
+        latitude: '51.07000000'
+        longitude: '28.04250000'
+      -
         id: 109458
         name: Budy
         latitude: '49.89133000'
         longitude: '36.02096000'
+      -
+        id: 149348
+        name: Buki
+        latitude: '50.19638889'
+        longitude: '28.32500000'
       -
         id: 109459
         name: Buky
         latitude: '49.09252000'
         longitude: '30.40355000'
       -
+        id: 149349
+        name: Buldichiv
+        latitude: '50.11361111'
+        longitude: '27.79666667'
+      -
         id: 109460
         name: Buran
         latitude: '48.30003000'
         longitude: '39.61526000'
+      -
+        id: 149350
+        name: Buriaki
+        latitude: '49.81888889'
+        longitude: '28.28361111'
+      -
+        id: 149351
+        name: Burkivtsi
+        latitude: '49.87888889'
+        longitude: '28.04444444'
       -
         id: 109461
         name: Burshtyn
@@ -617701,6 +616561,11 @@ country_city:
         name: Bykivka
         latitude: '50.29285000'
         longitude: '27.98314000'
+      -
+        id: 149352
+        name: Bykivka
+        latitude: '50.29277778'
+        longitude: '27.98305556'
       -
         id: 109466
         name: Bystrytsya
@@ -617762,6 +616627,11 @@ country_city:
         latitude: '49.42854000'
         longitude: '32.06207000'
       -
+        id: 149353
+        name: 'Chernechii Iar'
+        latitude: '49.83543000'
+        longitude: '34.59174000'
+      -
         id: 109478
         name: Chernelytsya
         latitude: '48.81207000'
@@ -617771,6 +616641,11 @@ country_city:
         name: Cherniakhiv
         latitude: '50.45652000'
         longitude: '28.67018000'
+      -
+        id: 149354
+        name: Cherniakhiv
+        latitude: '50.45500000'
+        longitude: '28.66527778'
       -
         id: 109480
         name: Chernihiv
@@ -617872,6 +616747,11 @@ country_city:
         latitude: '49.94975000'
         longitude: '28.86874000'
       -
+        id: 149355
+        name: Chervone
+        latitude: '49.94972222'
+        longitude: '28.86861111'
+      -
         id: 109500
         name: Chervonohrad
         latitude: '50.39105000'
@@ -617922,6 +616802,11 @@ country_city:
         latitude: '50.83325000'
         longitude: '28.95334000'
       -
+        id: 149356
+        name: Chopovychi
+        latitude: '50.83333333'
+        longitude: '28.95250000'
+      -
         id: 109510
         name: Chornobay
         latitude: '49.66644000'
@@ -617946,6 +616831,11 @@ country_city:
         name: Chornorudka
         latitude: '49.84640000'
         longitude: '29.06062000'
+      -
+        id: 149357
+        name: Chornukhy
+        latitude: '50.26990573'
+        longitude: '32.94757796'
       -
         id: 109515
         name: Chornukhyne
@@ -617977,6 +616867,11 @@ country_city:
         latitude: '50.05204000'
         longitude: '28.11745000'
       -
+        id: 149358
+        name: Chudniv
+        latitude: '50.05277778'
+        longitude: '28.09694444'
+      -
         id: 109521
         name: 'Chudniv Raion'
         latitude: '50.00000000'
@@ -617991,6 +616886,11 @@ country_city:
         name: Chulakivka
         latitude: '46.35763000'
         longitude: '32.35140000'
+      -
+        id: 149359
+        name: Chutove
+        latitude: '49.71689367'
+        longitude: '35.17463951'
       -
         id: 109524
         name: Chyhyryn
@@ -618027,10 +616927,25 @@ country_city:
         latitude: '49.00449000'
         longitude: '29.42559000'
       -
+        id: 149360
+        name: Dashynka
+        latitude: '50.64944444'
+        longitude: '28.39500000'
+      -
+        id: 149361
+        name: Davidivka
+        latitude: '50.52694444'
+        longitude: '28.41000000'
+      -
         id: 109531
         name: Davydivka
         latitude: '48.12099000'
         longitude: '25.56461000'
+      -
+        id: 149362
+        name: Davydky
+        latitude: '50.94888889'
+        longitude: '28.43861111'
       -
         id: 109532
         name: Debal’tseve
@@ -618057,6 +616972,11 @@ country_city:
         latitude: '50.21415000'
         longitude: '28.40395000'
       -
+        id: 149363
+        name: Denyshi
+        latitude: '50.21527778'
+        longitude: '28.40777778'
+      -
         id: 109537
         name: Derazhnya
         latitude: '49.26920000'
@@ -618072,6 +616992,11 @@ country_city:
         latitude: '50.10659000'
         longitude: '36.12112000'
       -
+        id: 149364
+        name: Derhanivka
+        latitude: '49.69222222'
+        longitude: '29.06333333'
+      -
         id: 109540
         name: Desna
         latitude: '50.92731000'
@@ -618082,10 +617007,30 @@ country_city:
         latitude: '50.53550000'
         longitude: '30.60875000'
       -
+        id: 149365
+        name: Dibrova
+        latitude: '51.16027778'
+        longitude: '27.97277778'
+      -
+        id: 149366
+        name: Didkovichi
+        latitude: '51.09972222'
+        longitude: '28.83194444'
+      -
+        id: 149367
+        name: Didovichi
+        latitude: '50.60916667'
+        longitude: '27.35583333'
+      -
         id: 109542
         name: Dihtyari
         latitude: '50.58264000'
         longitude: '32.77012000'
+      -
+        id: 149368
+        name: Divochki
+        latitude: '50.44694444'
+        longitude: '28.74972222'
       -
         id: 109543
         name: Dmitrovka
@@ -618237,6 +617182,11 @@ country_city:
         latitude: '50.37332000'
         longitude: '27.98742000'
       -
+        id: 149369
+        name: Dovbysh
+        latitude: '50.37223889'
+        longitude: '27.98947500'
+      -
         id: 109573
         name: Dovhe
         latitude: '48.36527000'
@@ -618277,10 +617227,20 @@ country_city:
         latitude: '52.04545000'
         longitude: '33.94517000'
       -
+        id: 149370
+        name: Druzhba
+        latitude: '51.18611111'
+        longitude: '27.96611111'
+      -
         id: 109581
         name: Druzhkivka
         latitude: '48.63013000'
         longitude: '37.55259000'
+      -
+        id: 149371
+        name: Dubivka
+        latitude: '49.90861111'
+        longitude: '28.78444444'
       -
         id: 109582
         name: Dubki
@@ -618297,10 +617257,20 @@ country_city:
         latitude: '50.41694000'
         longitude: '25.73432000'
       -
+        id: 149372
+        name: Dubnyki
+        latitude: '50.87416667'
+        longitude: '27.34888889'
+      -
         id: 109585
         name: Dubove
         latitude: '48.17205000'
         longitude: '23.88954000'
+      -
+        id: 149373
+        name: Dubrivka
+        latitude: '50.28527778'
+        longitude: '29.59333333'
       -
         id: 109586
         name: Dubrovytsya
@@ -618327,6 +617297,16 @@ country_city:
         latitude: '49.85019000'
         longitude: '37.68262000'
       -
+        id: 149374
+        name: Dvorishche
+        latitude: '50.56194444'
+        longitude: '28.39777778'
+      -
+        id: 149375
+        name: Dykanka
+        latitude: '49.82223788'
+        longitude: '34.53408003'
+      -
         id: 109591
         name: Dymer
         latitude: '50.78647000'
@@ -618346,6 +617326,11 @@ country_city:
         name: Dzvinogrud
         latitude: '49.73333000'
         longitude: '24.25000000'
+      -
+        id: 149376
+        name: Elivka
+        latitude: '50.72722222'
+        longitude: '29.18388889'
       -
         id: 109595
         name: Energodar
@@ -618367,6 +617352,11 @@ country_city:
         latitude: '50.08333000'
         longitude: '30.00000000'
       -
+        id: 149377
+        name: Fedorivka
+        latitude: '49.77617039'
+        longitude: '34.43944548'
+      -
         id: 109599
         name: Feodosiya
         latitude: '45.03677000'
@@ -618376,6 +617366,11 @@ country_city:
         name: Filatovka
         latitude: '46.08192000'
         longitude: '33.78510000'
+      -
+        id: 149378
+        name: Filenkove
+        latitude: '49.83559723'
+        longitude: '35.00298408'
       -
         id: 109601
         name: Fontanka
@@ -618412,15 +617407,70 @@ country_city:
         latitude: '45.38792000'
         longitude: '36.57965000'
       -
+        id: 149379
+        name: Glinivtsi
+        latitude: '50.04611111'
+        longitude: '28.80416667'
+      -
+        id: 149380
+        name: Godikha
+        latitude: '50.19027778'
+        longitude: '28.22194444'
+      -
+        id: 149381
+        name: Golovenka
+        latitude: '50.15361111'
+        longitude: '28.54388889'
+      -
+        id: 149382
+        name: Golovki
+        latitude: '50.83972222'
+        longitude: '29.13333333'
+      -
         id: 109608
         name: Golubinka
         latitude: '44.59382000'
         longitude: '33.91521000'
       -
+        id: 149383
+        name: Golubyatin
+        latitude: '49.85500000'
+        longitude: '29.51361111'
+      -
+        id: 149384
+        name: Gorbuliv
+        latitude: '50.53750000'
+        longitude: '28.92333333'
+      -
+        id: 149385
+        name: Gordiyivka
+        latitude: '50.05444444'
+        longitude: '27.87500000'
+      -
+        id: 149386
+        name: Gorianshchina
+        latitude: '49.91185729'
+        longitude: '34.45818988'
+      -
         id: 109609
         name: Gornostayevka
         latitude: '45.27819000'
         longitude: '36.18601000'
+      -
+        id: 149387
+        name: Gorodkivka
+        latitude: '49.90972222'
+        longitude: '28.99416667'
+      -
+        id: 149388
+        name: Gorodok
+        latitude: '49.60027778'
+        longitude: '29.19500000'
+      -
+        id: 149389
+        name: Gorodske
+        latitude: '50.37750000'
+        longitude: '29.16888889'
       -
         id: 109610
         name: 'Gorodskoy okrug Alushta'
@@ -618472,6 +617522,16 @@ country_city:
         latitude: '45.19559000'
         longitude: '33.36342000'
       -
+        id: 149390
+        name: Goropayi
+        latitude: '50.01388889'
+        longitude: '27.83388889'
+      -
+        id: 149391
+        name: Goshiv
+        latitude: '51.23916667'
+        longitude: '28.71388889'
+      -
         id: 109620
         name: Gresovskiy
         latitude: '45.00804000'
@@ -618482,15 +617542,60 @@ country_city:
         latitude: '45.64219000'
         longitude: '33.83098000'
       -
+        id: 149392
+        name: Gromada
+        latitude: '49.94638889'
+        longitude: '27.76222222'
+      -
+        id: 149393
+        name: Grozyne
+        latitude: '50.95888889'
+        longitude: '28.73055556'
+      -
         id: 109622
         name: Grushevka
         latitude: '45.02281000'
         longitude: '34.97301000'
       -
+        id: 149394
+        name: Grushki
+        latitude: '50.49277778'
+        longitude: '28.45500000'
+      -
+        id: 149395
+        name: Gubske
+        latitude: '50.09951906'
+        longitude: '32.83123218'
+      -
+        id: 149396
+        name: Gulsk
+        latitude: '50.51916667'
+        longitude: '27.72111111'
+      -
+        id: 149397
+        name: Gumenniki
+        latitude: '50.39694444'
+        longitude: '28.92666667'
+      -
         id: 109623
         name: Gurzuf
         latitude: '44.54624000'
         longitude: '34.27841000'
+      -
+        id: 149398
+        name: Guta-Potiyivka
+        latitude: '50.69111111'
+        longitude: '28.87416667'
+      -
+        id: 149399
+        name: Guto-Mariatin
+        latitude: '51.03000000'
+        longitude: '29.41666667'
+      -
+        id: 149400
+        name: Hadiach
+        latitude: '50.36666667'
+        longitude: '34.00000000'
       -
         id: 109624
         name: Haisyn
@@ -618532,6 +617637,11 @@ country_city:
         latitude: '50.27423000'
         longitude: '30.32706000'
       -
+        id: 149401
+        name: Hlobyne
+        latitude: '49.38856468'
+        longitude: '33.26320863'
+      -
         id: 109632
         name: Hlukhiv
         latitude: '51.67822000'
@@ -618567,6 +617677,16 @@ country_city:
         latitude: '50.47118000'
         longitude: '28.82530000'
       -
+        id: 149402
+        name: Holovyne
+        latitude: '50.47250000'
+        longitude: '28.82805556'
+      -
+        id: 149403
+        name: Holubivka
+        latitude: '49.68097000'
+        longitude: '29.16059000'
+      -
         id: 109656
         name: Hołoby
         latitude: '51.08651000'
@@ -618581,6 +617701,11 @@ country_city:
         name: Horinchovo
         latitude: '48.27076000'
         longitude: '23.43475000'
+      -
+        id: 149404
+        name: 'Horishni Plavni'
+        latitude: '49.01066008'
+        longitude: '33.65624556'
       -
         id: 109641
         name: Horlivka
@@ -618602,6 +617727,11 @@ country_city:
         latitude: '48.70617000'
         longitude: '25.42008000'
       -
+        id: 149405
+        name: Horodets
+        latitude: '51.37000000'
+        longitude: '28.24138889'
+      -
         id: 109645
         name: Horodnya
         latitude: '51.89085000'
@@ -618611,6 +617741,11 @@ country_city:
         name: Horodnye
         latitude: '45.89083000'
         longitude: '28.84833000'
+      -
+        id: 149406
+        name: Horodnytsia
+        latitude: '50.80944444'
+        longitude: '27.31833333'
       -
         id: 109647
         name: Horodnytsya
@@ -618657,6 +617792,21 @@ country_city:
         latitude: '50.56841000'
         longitude: '30.26510000'
       -
+        id: 149407
+        name: Hradyzk
+        latitude: '49.23306925'
+        longitude: '33.13203713'
+      -
+        id: 149408
+        name: Hranitne
+        latitude: '50.74277778'
+        longitude: '29.35222222'
+      -
+        id: 149409
+        name: Hrebinka
+        latitude: '50.11799594'
+        longitude: '32.43958508'
+      -
         id: 109657
         name: Hrymayliv
         latitude: '49.33208000'
@@ -618666,6 +617816,11 @@ country_city:
         name: Hryshkivtsi
         latitude: '49.93529000'
         longitude: '28.60383000'
+      -
+        id: 149410
+        name: Hryshkivtsi
+        latitude: '49.93555556'
+        longitude: '28.60166667'
       -
         id: 109659
         name: Hubynykha
@@ -618707,6 +617862,16 @@ country_city:
         latitude: '50.86258000'
         longitude: '32.39425000'
       -
+        id: 149411
+        name: Iemilivka
+        latitude: '50.68777778'
+        longitude: '28.72805556'
+      -
+        id: 149412
+        name: Ievgenivka
+        latitude: '50.63833333'
+        longitude: '27.99833333'
+      -
         id: 109667
         name: Illintsi
         latitude: '49.10479000'
@@ -618742,6 +617907,11 @@ country_city:
         latitude: '50.51585000'
         longitude: '30.24099000'
       -
+        id: 149413
+        name: Irshansk
+        latitude: '50.71666667'
+        longitude: '28.71666667'
+      -
         id: 109674
         name: Irshava
         latitude: '48.31667000'
@@ -618772,6 +617942,16 @@ country_city:
         latitude: '46.72082000'
         longitude: '34.55298000'
       -
+        id: 149414
+        name: Ivanivka
+        latitude: '50.43777778'
+        longitude: '27.62944444'
+      -
+        id: 149415
+        name: Ivankiv
+        latitude: '50.39611111'
+        longitude: '28.56888889'
+      -
         id: 109680
         name: Ivankiv
         latitude: '50.93865000'
@@ -618796,6 +617976,11 @@ country_city:
         name: Ivano-Frankove
         latitude: '49.91978000'
         longitude: '23.72913000'
+      -
+        id: 149416
+        name: Ivanopil
+        latitude: '49.85861111'
+        longitude: '28.21555556'
       -
         id: 109685
         name: Ivanovka
@@ -618917,6 +618102,11 @@ country_city:
         latitude: '48.68450000'
         longitude: '26.58559000'
       -
+        id: 149417
+        name: 'Kamiani Potoky'
+        latitude: '48.98589514'
+        longitude: '33.51862610'
+      -
         id: 109709
         name: Kamianka
         latitude: '49.03180000'
@@ -618956,6 +618146,16 @@ country_city:
         name: Karapyshi
         latitude: '49.64237000'
         longitude: '30.79002000'
+      -
+        id: 149418
+        name: Kardashivka
+        latitude: '49.88384899'
+        longitude: '34.64044604'
+      -
+        id: 149419
+        name: Karlivka
+        latitude: '49.45474986'
+        longitude: '35.13079636'
       -
         id: 109717
         name: Karolino-Buhaz
@@ -619037,6 +618237,11 @@ country_city:
         latitude: '49.55979000'
         longitude: '27.95754000'
       -
+        id: 149420
+        name: Khodaky
+        latitude: '50.97805556'
+        longitude: '28.80666667'
+      -
         id: 109733
         name: Khodoriv
         latitude: '49.40993000'
@@ -619052,10 +618257,20 @@ country_city:
         latitude: '51.87096000'
         longitude: '32.60063000'
       -
+        id: 149421
+        name: Khorol
+        latitude: '49.78403100'
+        longitude: '33.25886100'
+      -
         id: 109736
         name: Khorosheve
         latitude: '49.85413000'
         longitude: '36.21704000'
+      -
+        id: 149422
+        name: Khoroshiv
+        latitude: '50.60000000'
+        longitude: '28.45000000'
       -
         id: 109737
         name: 'Khoroshiv Raion'
@@ -619197,6 +618412,11 @@ country_city:
         latitude: '50.46275000'
         longitude: '30.78369000'
       -
+        id: 149423
+        name: Kobeliaky
+        latitude: '49.14736024'
+        longitude: '34.19927008'
+      -
         id: 109765
         name: Kobleve
         latitude: '46.66499000'
@@ -619317,6 +618537,11 @@ country_city:
         latitude: '45.63125000'
         longitude: '34.47387000'
       -
+        id: 149424
+        name: Kononenki
+        latitude: '49.91143501'
+        longitude: '34.51172749'
+      -
         id: 109789
         name: Konotop
         latitude: '51.24032000'
@@ -619341,6 +618566,11 @@ country_city:
         name: Kopychyntsi
         latitude: '49.10441000'
         longitude: '25.91026000'
+      -
+        id: 149425
+        name: Korchak
+        latitude: '50.21250000'
+        longitude: '28.47638889'
       -
         id: 109794
         name: Koreiz
@@ -619367,6 +618597,11 @@ country_city:
         latitude: '50.09530000'
         longitude: '29.53581000'
       -
+        id: 149426
+        name: Kornyn
+        latitude: '50.09527778'
+        longitude: '29.53583333'
+      -
         id: 109799
         name: Korolevo
         latitude: '48.15247000'
@@ -619377,6 +618612,11 @@ country_city:
         latitude: '51.56638000'
         longitude: '32.95861000'
       -
+        id: 149427
+        name: Korosten
+        latitude: '50.95000000'
+        longitude: '28.65000000'
+      -
         id: 109801
         name: Korosten’
         latitude: '50.95937000'
@@ -619386,6 +618626,11 @@ country_city:
         name: Korostyshiv
         latitude: '50.31723000'
         longitude: '29.05630000'
+      -
+        id: 149428
+        name: Korostyshiv
+        latitude: '50.31861111'
+        longitude: '29.05916667'
       -
         id: 109803
         name: 'Korostyshiv Raion'
@@ -619467,6 +618712,11 @@ country_city:
         latitude: '45.36584000'
         longitude: '34.02575000'
       -
+        id: 149429
+        name: Kotelva
+        latitude: '50.06832759'
+        longitude: '34.75921130'
+      -
         id: 109819
         name: Kotsyubyns’ke
         latitude: '50.48836000'
@@ -619496,6 +618746,11 @@ country_city:
         name: Kozelets’
         latitude: '50.91334000'
         longitude: '31.12140000'
+      -
+        id: 149430
+        name: Kozelshchyna
+        latitude: '49.21550000'
+        longitude: '33.85180000'
       -
         id: 109825
         name: Kozhanka
@@ -619657,10 +618912,20 @@ country_city:
         latitude: '49.65186000'
         longitude: '26.97253000'
       -
+        id: 149431
+        name: 'Kratova Govtva'
+        latitude: '49.87362868'
+        longitude: '34.50805284'
+      -
         id: 109857
         name: Krayneye
         latitude: '45.22993000'
         longitude: '33.83239000'
+      -
+        id: 149432
+        name: Kremenchuk
+        latitude: '49.07750000'
+        longitude: '33.42388889'
       -
         id: 109858
         name: Kremenets
@@ -619711,6 +618976,11 @@ country_city:
         name: Kropyvnytskyi
         latitude: '48.51320000'
         longitude: '32.25970000'
+      -
+        id: 149433
+        name: 'Krukovskiy Raion'
+        latitude: '49.06672000'
+        longitude: '33.45320000'
       -
         id: 109868
         name: Kruty
@@ -619772,6 +619042,11 @@ country_city:
         latitude: '48.38289000'
         longitude: '28.86622000'
       -
+        id: 149434
+        name: Kucherivka
+        latitude: '49.74801949'
+        longitude: '34.29072744'
+      -
         id: 109880
         name: Kuchurhan
         latitude: '47.16302000'
@@ -619806,6 +619081,11 @@ country_city:
         name: Kulynychi
         latitude: '49.98178000'
         longitude: '36.38283000'
+      -
+        id: 149435
+        name: Kupech
+        latitude: '50.99611111'
+        longitude: '28.78472222'
       -
         id: 109887
         name: Kupjansk
@@ -619857,6 +619137,11 @@ country_city:
         latitude: '48.14973000'
         longitude: '24.27995000'
       -
+        id: 149436
+        name: Kvitneve
+        latitude: '49.98472222'
+        longitude: '29.51583333'
+      -
         id: 109897
         name: Kyiv
         latitude: '50.45466000'
@@ -619897,10 +619182,30 @@ country_city:
         latitude: '48.55781000'
         longitude: '24.75622000'
       -
+        id: 149437
+        name: Landari
+        latitude: '49.78295521'
+        longitude: '34.38817299'
+      -
+        id: 149438
+        name: Lani
+        latitude: '49.71283212'
+        longitude: '34.43433283'
+      -
         id: 109904
         name: Lanivtsi
         latitude: '49.86328000'
         longitude: '26.09082000'
+      -
+        id: 149439
+        name: Lasky
+        latitude: '51.26555556'
+        longitude: '28.95638889'
+      -
+        id: 149440
+        name: Lazarivka
+        latitude: '50.31250000'
+        longitude: '29.58583333'
       -
         id: 109905
         name: Lazeshchyna
@@ -619967,6 +619272,11 @@ country_city:
         latitude: '44.87083000'
         longitude: '34.04278000'
       -
+        id: 149441
+        name: Lisogirka
+        latitude: '49.75916667'
+        longitude: '27.90305556'
+      -
         id: 109918
         name: 'Lisovi Sorochyntsi'
         latitude: '50.68920000'
@@ -619997,6 +619307,11 @@ country_city:
         latitude: '49.92045000'
         longitude: '27.75918000'
       -
+        id: 149442
+        name: Liubar
+        latitude: '49.92138889'
+        longitude: '27.75833333'
+      -
         id: 109924
         name: Liuboml
         latitude: '51.22601000'
@@ -620021,6 +619336,11 @@ country_city:
         name: Lokachi
         latitude: '50.73700000'
         longitude: '24.64944000'
+      -
+        id: 149443
+        name: Lokhvytsia
+        latitude: '50.36104610'
+        longitude: '33.26517113'
       -
         id: 109929
         name: Lopatyn
@@ -620051,6 +619371,11 @@ country_city:
         name: Lozuvatka
         latitude: '48.05710000'
         longitude: '33.28581000'
+      -
+        id: 149444
+        name: Lubny
+        latitude: '50.01856413'
+        longitude: '32.98686035'
       -
         id: 109935
         name: Luchistoye
@@ -620087,6 +619412,11 @@ country_city:
         latitude: '51.08203000'
         longitude: '28.40057000'
       -
+        id: 149445
+        name: Luhyny
+        latitude: '51.06666667'
+        longitude: '28.38333333'
+      -
         id: 109942
         name: 'Luhyny Raion'
         latitude: '51.08333000'
@@ -620096,6 +619426,11 @@ country_city:
         name: Lukiv
         latitude: '51.05210000'
         longitude: '25.40059000'
+      -
+        id: 149446
+        name: Lutovynivka
+        latitude: '49.23722222'
+        longitude: '33.90500000'
       -
         id: 109944
         name: Lutsk
@@ -620272,6 +619607,11 @@ country_city:
         latitude: '50.06354000'
         longitude: '36.16564000'
       -
+        id: 149447
+        name: 'Mala Rudka'
+        latitude: '49.73993159'
+        longitude: '34.44651297'
+      -
         id: 109980
         name: 'Mala Tokmachka'
         latitude: '47.53563000'
@@ -620316,6 +619656,11 @@ country_city:
         name: Malyn
         latitude: '50.77233000'
         longitude: '29.23833000'
+      -
+        id: 149448
+        name: Malyn
+        latitude: '50.76888889'
+        longitude: '29.27000000'
       -
         id: 109989
         name: 'Malyn Raion'
@@ -620367,6 +619712,11 @@ country_city:
         latitude: '45.44627000'
         longitude: '34.29474000'
       -
+        id: 149449
+        name: Marchenki
+        latitude: '49.84310165'
+        longitude: '34.38291991'
+      -
         id: 109998
         name: Marfovka
         latitude: '45.19853000'
@@ -620387,6 +619737,11 @@ country_city:
         latitude: '49.52290000'
         longitude: '39.57055000'
       -
+        id: 149450
+        name: Markivka
+        latitude: '49.30247078'
+        longitude: '34.07348137'
+      -
         id: 110002
         name: Markova
         latitude: '48.67576000'
@@ -620401,6 +619756,11 @@ country_city:
         name: Maryevka
         latitude: '45.11330000'
         longitude: '36.23992000'
+      -
+        id: 149451
+        name: Maschiwka
+        latitude: '49.44491715'
+        longitude: '34.87575392'
       -
         id: 110006
         name: Maslovo
@@ -620632,6 +619992,11 @@ country_city:
         latitude: '48.99090000'
         longitude: '29.80470000'
       -
+        id: 149452
+        name: Morozivka
+        latitude: '50.67138889'
+        longitude: '27.45166667'
+      -
         id: 110052
         name: Morshyn
         latitude: '49.15652000'
@@ -620747,6 +620112,11 @@ country_city:
         latitude: '48.58880000'
         longitude: '22.27502000'
       -
+        id: 149453
+        name: Myrhorod
+        latitude: '49.96397912'
+        longitude: '33.61238091'
+      -
         id: 110075
         name: Myrnohrad
         latitude: '48.30523000'
@@ -620756,6 +620126,11 @@ country_city:
         name: Myronivka
         latitude: '49.66007000'
         longitude: '30.98225000'
+      -
+        id: 149454
+        name: Myropil
+        latitude: '50.10750000'
+        longitude: '27.70583333'
       -
         id: 110077
         name: Mysovoe
@@ -620782,6 +620157,11 @@ country_city:
         latitude: '51.20286000'
         longitude: '29.08228000'
       -
+        id: 149455
+        name: Narodychi
+        latitude: '51.20231667'
+        longitude: '29.08139444'
+      -
         id: 110082
         name: 'Narodychi Raion'
         latitude: '51.25000000'
@@ -620807,6 +620187,11 @@ country_city:
         latitude: '48.81526000'
         longitude: '24.21657000'
       -
+        id: 149456
+        name: Nedoharky
+        latitude: '49.16921500'
+        longitude: '33.25495000'
+      -
         id: 110087
         name: Nedryhayliv
         latitude: '50.83398000'
@@ -620831,6 +620216,11 @@ country_city:
         name: Nemyriv
         latitude: '48.97076000'
         longitude: '28.83779000'
+      -
+        id: 149457
+        name: Nemyryntsi
+        latitude: '49.62000000'
+        longitude: '29.05000000'
       -
         id: 110092
         name: Neresnytsya
@@ -620892,6 +620282,16 @@ country_city:
         latitude: '50.69296000'
         longitude: '28.63446000'
       -
+        id: 149458
+        name: 'Nova Borova'
+        latitude: '50.69222222'
+        longitude: '28.63666667'
+      -
+        id: 149459
+        name: 'Nova Chortoriia'
+        latitude: '50.02830000'
+        longitude: '27.70810000'
+      -
         id: 110104
         name: 'Nova Kakhovka'
         latitude: '46.75451000'
@@ -620952,15 +620352,30 @@ country_city:
         latitude: '51.11548000'
         longitude: '28.05463000'
       -
+        id: 149460
+        name: 'Novi Bilokorovychi'
+        latitude: '51.04750000'
+        longitude: '28.05194444'
+      -
         id: 110116
         name: 'Novi Petrivtsi'
         latitude: '50.62754000'
         longitude: '30.44310000'
       -
+        id: 149461
+        name: 'Novi Sanzhary'
+        latitude: '49.33539098'
+        longitude: '34.31619855'
+      -
         id: 110117
         name: 'Novi Troyany'
         latitude: '45.94275000'
         longitude: '28.85628000'
+      -
+        id: 149462
+        name: 'Novi Vorobyi'
+        latitude: '50.86972222'
+        longitude: '29.34333333'
       -
         id: 110118
         name: Novoandreyevka
@@ -621017,6 +620432,11 @@ country_city:
         latitude: '50.59412000'
         longitude: '27.61650000'
       -
+        id: 149463
+        name: Novohrad-Volynskyi
+        latitude: '50.58333333'
+        longitude: '27.63333333'
+      -
         id: 110129
         name: Novoivanovka
         latitude: '45.44914000'
@@ -621061,6 +620481,11 @@ country_city:
         name: Novooleksiyivka
         latitude: '46.22472000'
         longitude: '34.64031000'
+      -
+        id: 149464
+        name: Novoozerianka
+        latitude: '51.21333333'
+        longitude: '28.00194444'
       -
         id: 110138
         name: Novoozyornoye
@@ -621192,6 +620617,11 @@ country_city:
         latitude: '48.81492000'
         longitude: '25.59989000'
       -
+        id: 149465
+        name: Nyvky
+        latitude: '51.35000000'
+        longitude: '29.11666667'
+      -
         id: 110164
         name: 'Nyzhni Petrivtsi'
         latitude: '48.02847000'
@@ -621257,6 +620687,11 @@ country_city:
         latitude: '46.61283000'
         longitude: '31.54982000'
       -
+        id: 149466
+        name: Odariukivka
+        latitude: '49.73973669'
+        longitude: '34.35914676'
+      -
         id: 110177
         name: Odesa
         latitude: '46.47747000'
@@ -621301,6 +620736,11 @@ country_city:
         name: 'Ol''shanskoye'
         latitude: '47.18411000'
         longitude: '31.79375000'
+      -
+        id: 149467
+        name: Olefirshchina
+        latitude: '49.88598650'
+        longitude: '34.58571058'
       -
         id: 110186
         name: Oleksandrivka
@@ -621347,6 +620787,11 @@ country_city:
         latitude: '51.22482000'
         longitude: '27.65228000'
       -
+        id: 149468
+        name: Olevsk
+        latitude: '51.22777778'
+        longitude: '27.64805556'
+      -
         id: 110195
         name: Olyka
         latitude: '50.71855000'
@@ -621357,6 +620802,11 @@ country_city:
         latitude: '51.22266000'
         longitude: '31.33314000'
       -
+        id: 149469
+        name: Onatski
+        latitude: '49.88676376'
+        longitude: '34.46003707'
+      -
         id: 110197
         name: Onokivtsi
         latitude: '48.65763000'
@@ -621366,6 +620816,11 @@ country_city:
         name: Onufriyivka
         latitude: '48.90716000'
         longitude: '33.44869000'
+      -
+        id: 149470
+        name: Opishnia
+        latitude: '49.95635316'
+        longitude: '34.61200414'
       -
         id: 110199
         name: Orativ
@@ -621401,6 +620856,11 @@ country_city:
         name: Orzhiv
         latitude: '50.80000000'
         longitude: '26.12000000'
+      -
+        id: 149471
+        name: Orzhytsia
+        latitude: '49.79097957'
+        longitude: '32.70152650'
       -
         id: 110206
         name: Ostanino
@@ -621447,6 +620907,11 @@ country_city:
         latitude: '51.32460000'
         longitude: '28.80351000'
       -
+        id: 149472
+        name: Ovruch
+        latitude: '51.32444444'
+        longitude: '28.80805556'
+      -
         id: 110215
         name: 'Ovruch Raion'
         latitude: '51.33333000'
@@ -621466,6 +620931,11 @@ country_city:
         name: Ozerne
         latitude: '45.40300000'
         longitude: '28.67546000'
+      -
+        id: 149473
+        name: Ozerne
+        latitude: '50.17944444'
+        longitude: '28.73611111'
       -
         id: 110219
         name: 'P''yatypill''ya'
@@ -621542,6 +621012,11 @@ country_city:
         latitude: '48.91762000'
         longitude: '33.35691000'
       -
+        id: 149474
+        name: Pavoloch
+        latitude: '49.86916667'
+        longitude: '29.44916667'
+      -
         id: 110234
         name: Pechenizhyn
         latitude: '48.51551000'
@@ -621602,6 +621077,16 @@ country_city:
         latitude: '44.92513000'
         longitude: '34.05753000'
       -
+        id: 149475
+        name: Pershotravensk
+        latitude: '50.20111111'
+        longitude: '27.63388889'
+      -
+        id: 149476
+        name: Pershotravneve
+        latitude: '51.38916667'
+        longitude: '28.86250000'
+      -
         id: 110246
         name: Pershotravneve
         latitude: '51.39287000'
@@ -621651,6 +621136,11 @@ country_city:
         name: Petranka
         latitude: '48.90246000'
         longitude: '24.30347000'
+      -
+        id: 149477
+        name: Petrenki
+        latitude: '49.73164740'
+        longitude: '34.33764355'
       -
         id: 110256
         name: Petrikov
@@ -621737,10 +621227,20 @@ country_city:
         latitude: '44.88083000'
         longitude: '34.20194000'
       -
+        id: 149478
+        name: Pisarivshchina
+        latitude: '49.85532915'
+        longitude: '34.63195588'
+      -
         id: 110273
         name: Pishcha
         latitude: '51.60928000'
         longitude: '23.82079000'
+      -
+        id: 149479
+        name: Pishchiv
+        latitude: '50.60555556'
+        longitude: '27.31694444'
       -
         id: 110274
         name: Piskivka
@@ -621837,6 +621337,11 @@ country_city:
         latitude: '48.25000000'
         longitude: '37.16667000'
       -
+        id: 149480
+        name: Polianka
+        latitude: '50.25620278'
+        longitude: '27.69518889'
+      -
         id: 110293
         name: Polohy
         latitude: '47.48444000'
@@ -621846,6 +621351,11 @@ country_city:
         name: Polonne
         latitude: '50.12424000'
         longitude: '27.51087000'
+      -
+        id: 149481
+        name: Poltava
+        latitude: '49.57444444'
+        longitude: '34.56861111'
       -
         id: 110295
         name: Poltavka
@@ -621882,10 +621392,20 @@ country_city:
         latitude: '49.95320000'
         longitude: '29.45265000'
       -
+        id: 149482
+        name: Popilnia
+        latitude: '49.94583333'
+        longitude: '29.45944444'
+      -
         id: 110302
         name: 'Popilnia Raion'
         latitude: '49.91667000'
         longitude: '29.50000000'
+      -
+        id: 149483
+        name: Popivka
+        latitude: '49.82284856'
+        longitude: '34.36835803'
       -
         id: 110303
         name: Porohy
@@ -621906,6 +621426,11 @@ country_city:
         name: Potelych
         latitude: '50.20804000'
         longitude: '23.54674000'
+      -
+        id: 149484
+        name: Potiivka
+        latitude: '50.61972222'
+        longitude: '28.96444444'
       -
         id: 110307
         name: Pozharskoye
@@ -621941,6 +621466,11 @@ country_city:
         name: Prolisky
         latitude: '50.39118000'
         longitude: '30.78000000'
+      -
+        id: 149485
+        name: Proni
+        latitude: '49.78629680'
+        longitude: '34.54425486'
       -
         id: 110314
         name: Prostornoye
@@ -622047,6 +621577,11 @@ country_city:
         latitude: '48.65899000'
         longitude: '23.28346000'
       -
+        id: 149486
+        name: Pyriatyn
+        latitude: '50.24059547'
+        longitude: '32.50929941'
+      -
         id: 110335
         name: Radcha
         latitude: '48.85023000'
@@ -622061,6 +621596,11 @@ country_city:
         name: Radomyshl
         latitude: '50.49613000'
         longitude: '29.22911000'
+      -
+        id: 149487
+        name: Radomyshl
+        latitude: '50.49472222'
+        longitude: '29.23333333'
       -
         id: 110338
         name: 'Radomyshl Raion'
@@ -622132,6 +621672,11 @@ country_city:
         latitude: '45.45623000'
         longitude: '28.27914000'
       -
+        id: 149488
+        name: Reshetylivka
+        latitude: '49.56360000'
+        longitude: '34.07630000'
+      -
         id: 110352
         name: Richky
         latitude: '50.27706000'
@@ -622172,6 +621717,11 @@ country_city:
         latitude: '48.35199000'
         longitude: '37.20602000'
       -
+        id: 149489
+        name: Rohachi
+        latitude: '49.64413000'
+        longitude: '29.36076000'
+      -
         id: 110360
         name: Rohatyn
         latitude: '49.40900000'
@@ -622207,6 +621757,11 @@ country_city:
         latitude: '50.14802000'
         longitude: '27.93124000'
       -
+        id: 149490
+        name: Romaniv
+        latitude: '50.15166667'
+        longitude: '27.93916667'
+      -
         id: 110367
         name: Romashkino
         latitude: '45.25647000'
@@ -622221,6 +621776,11 @@ country_city:
         name: Romny
         latitude: '50.75104000'
         longitude: '33.47471000'
+      -
+        id: 149491
+        name: Romodan
+        latitude: '49.99487495'
+        longitude: '33.33073071'
       -
         id: 110370
         name: Ropcha
@@ -622347,6 +621907,11 @@ country_city:
         latitude: '49.72280000'
         longitude: '29.20455000'
       -
+        id: 149492
+        name: 'Ruzhyn (settlement)'
+        latitude: '49.72333333'
+        longitude: '29.22138889'
+      -
         id: 110395
         name: 'Rybach''e'
         latitude: '44.77331000'
@@ -622432,6 +621997,11 @@ country_city:
         latitude: '49.40257000'
         longitude: '37.06266000'
       -
+        id: 149493
+        name: Schyschaky
+        latitude: '49.87689865'
+        longitude: '34.00709565'
+      -
         id: 110412
         name: Sedniv
         latitude: '51.64473000'
@@ -622452,6 +622022,11 @@ country_city:
         latitude: '52.17827000'
         longitude: '32.58183000'
       -
+        id: 149494
+        name: Semenivka
+        latitude: '49.60167044'
+        longitude: '33.18746872'
+      -
         id: 110416
         name: Semisotka
         latitude: '45.24676000'
@@ -622461,6 +622036,11 @@ country_city:
         name: Semypolky
         latitude: '50.72627000'
         longitude: '30.93441000'
+      -
+        id: 149495
+        name: Sencha
+        latitude: '50.25413446'
+        longitude: '33.35250701'
       -
         id: 110418
         name: Senokosnoye
@@ -622637,6 +622217,11 @@ country_city:
         latitude: '45.26717000'
         longitude: '33.08693000'
       -
+        id: 149496
+        name: Shumsk
+        latitude: '50.11944444'
+        longitude: '26.11666667'
+      -
         id: 110453
         name: Shypyntsi
         latitude: '48.37677000'
@@ -622802,6 +622387,11 @@ country_city:
         latitude: '48.69779000'
         longitude: '38.98133000'
       -
+        id: 149497
+        name: Slovechne
+        latitude: '51.38111111'
+        longitude: '28.35444444'
+      -
         id: 110486
         name: Sloviansk
         latitude: '48.86667000'
@@ -622816,6 +622406,11 @@ country_city:
         name: Smila
         latitude: '49.22242000'
         longitude: '31.88714000'
+      -
+        id: 149498
+        name: Smolovivshchina
+        latitude: '49.06810000'
+        longitude: '34.43803000'
       -
         id: 110489
         name: Smotrych
@@ -622876,6 +622471,11 @@ country_city:
         name: Sokal’
         latitude: '50.47438000'
         longitude: '24.28288000'
+      -
+        id: 149499
+        name: 'Sokhatska Balka'
+        latitude: '49.79953582'
+        longitude: '34.36245495'
       -
         id: 110501
         name: Sokolinoye
@@ -623117,6 +622717,11 @@ country_city:
         latitude: '46.79489000'
         longitude: '29.98684000'
       -
+        id: 149500
+        name: Stepanivka
+        latitude: '49.75900311'
+        longitude: '34.42956716'
+      -
         id: 110549
         name: Stepnoye
         latitude: '45.65212000'
@@ -623176,6 +622781,11 @@ country_city:
         name: Sudak
         latitude: '44.84924000'
         longitude: '34.97471000'
+      -
+        id: 149501
+        name: Sudivka
+        latitude: '49.75552151'
+        longitude: '34.49162461'
       -
         id: 110561
         name: 'Sudova Vyshnya'
@@ -623307,6 +622917,11 @@ country_city:
         latitude: '44.90175000'
         longitude: '33.67638000'
       -
+        id: 149502
+        name: Tabory
+        latitude: '50.27833333'
+        longitude: '27.59750000'
+      -
         id: 110587
         name: Talne
         latitude: '48.88877000'
@@ -623321,6 +622936,11 @@ country_city:
         name: Tarakaniv
         latitude: '50.37961000'
         longitude: '25.70843000'
+      -
+        id: 149503
+        name: Taraschanka
+        latitude: '50.64583333'
+        longitude: '27.51500000'
       -
         id: 110590
         name: Tarashcha
@@ -623452,6 +623072,11 @@ country_city:
         latitude: '49.65186000'
         longitude: '29.31741000'
       -
+        id: 149504
+        name: Topory
+        latitude: '49.65361111'
+        longitude: '29.31333333'
+      -
         id: 110616
         name: Toretsk
         latitude: '48.39869000'
@@ -623477,10 +623102,20 @@ country_city:
         latitude: '48.75751000'
         longitude: '38.96333000'
       -
+        id: 149505
+        name: Travneve
+        latitude: '50.42611111'
+        longitude: '29.08000000'
+      -
         id: 110620
         name: Trebukhiv
         latitude: '50.48432000'
         longitude: '30.90304000'
+      -
+        id: 149506
+        name: Troiany
+        latitude: '49.84137052'
+        longitude: '34.46811957'
       -
         id: 110621
         name: Trostyanets’
@@ -623752,6 +623387,11 @@ country_city:
         latitude: '48.38491000'
         longitude: '25.51023000'
       -
+        id: 149507
+        name: Vasilivka
+        latitude: '49.82960962'
+        longitude: '34.45204549'
+      -
         id: 110676
         name: Vasilyevka
         latitude: '45.13938000'
@@ -623782,10 +623422,25 @@ country_city:
         latitude: '49.01502000'
         longitude: '31.06211000'
       -
+        id: 149508
+        name: 'Velika Rudka'
+        latitude: '49.74811105'
+        longitude: '34.46531945'
+      -
+        id: 149509
+        name: 'Veliki Budishcha'
+        latitude: '49.85606039'
+        longitude: '34.58307084'
+      -
         id: 110682
         name: 'Velikiye Borki'
         latitude: '49.52363000'
         longitude: '25.75753000'
+      -
+        id: 149510
+        name: 'Velyka Bahachka'
+        latitude: '49.79438338'
+        longitude: '33.72074263'
       -
         id: 110683
         name: 'Velyka Bilozerka'
@@ -623827,10 +623482,20 @@ country_city:
         latitude: '46.48684000'
         longitude: '32.97498000'
       -
+        id: 149511
+        name: 'Velyki Korovyntsi'
+        latitude: '49.97138889'
+        longitude: '28.29472222'
+      -
         id: 110691
         name: 'Velyki Mezhyrichi'
         latitude: '50.65431000'
         longitude: '26.86626000'
+      -
+        id: 149512
+        name: 'Velyki Sorochyntsi'
+        latitude: '50.02530458'
+        longitude: '33.94765459'
       -
         id: 110692
         name: 'Velykobilozers’kyy Rayon'
@@ -623892,6 +623557,11 @@ country_city:
         latitude: '45.30551000'
         longitude: '33.50004000'
       -
+        id: 149513
+        name: Veresna
+        latitude: '50.38222222'
+        longitude: '27.30750000'
+      -
         id: 110710
         name: Verkhn’odniprovs’k
         latitude: '48.65242000'
@@ -623947,6 +623617,11 @@ country_city:
         latitude: '44.85807000'
         longitude: '34.87952000'
       -
+        id: 149514
+        name: Veselivka
+        latitude: '49.73583840'
+        longitude: '34.49733875'
+      -
         id: 110715
         name: Veselovka
         latitude: '45.37733000'
@@ -623997,6 +623672,11 @@ country_city:
         latitude: '45.39264000'
         longitude: '33.64668000'
       -
+        id: 149515
+        name: Virlya
+        latitude: '50.34111111'
+        longitude: '27.70083333'
+      -
         id: 110725
         name: Vishennoye
         latitude: '45.14509000'
@@ -624021,6 +623701,11 @@ country_city:
         name: Vladislavovka
         latitude: '45.16828000'
         longitude: '35.37658000'
+      -
+        id: 149516
+        name: 'Vodiana Balka'
+        latitude: '49.90247078'
+        longitude: '34.48073506'
       -
         id: 110730
         name: Vodyane
@@ -624222,6 +623907,11 @@ country_city:
         latitude: '48.24801000'
         longitude: '25.19452000'
       -
+        id: 149517
+        name: Yablunets
+        latitude: '50.80000000'
+        longitude: '28.06666667'
+      -
         id: 110770
         name: Yabluniv
         latitude: '48.40418000'
@@ -624312,6 +624002,11 @@ country_city:
         latitude: '49.19236000'
         longitude: '26.83725000'
       -
+        id: 149518
+        name: Yarun
+        latitude: '50.54333333'
+        longitude: '27.46611111'
+      -
         id: 110788
         name: Yasinya
         latitude: '48.27937000'
@@ -624351,6 +624046,11 @@ country_city:
         name: Yemil’chyne
         latitude: '50.87349000'
         longitude: '27.80604000'
+      -
+        id: 149519
+        name: Yemilchyne
+        latitude: '50.87083333'
+        longitude: '27.80277778'
       -
         id: 110796
         name: Yenakiyeve
@@ -624407,6 +624107,11 @@ country_city:
         latitude: '50.47192000'
         longitude: '31.79423000'
       -
+        id: 149520
+        name: Zabaro-Davidivka
+        latitude: '50.97027778'
+        longitude: '27.45305556'
+      -
         id: 110806
         name: Zabolotiv
         latitude: '48.47054000'
@@ -624416,6 +624121,11 @@ country_city:
         name: Zachepylivka
         latitude: '49.19385000'
         longitude: '35.23943000'
+      -
+        id: 149521
+        name: Zadovga
+        latitude: '49.27884000'
+        longitude: '33.91136000'
       -
         id: 110808
         name: Zagnitkiv
@@ -624431,6 +624141,11 @@ country_city:
         name: Zakharivka
         latitude: '47.33232000'
         longitude: '29.75903000'
+      -
+        id: 149522
+        name: Zakrinichchia
+        latitude: '50.40000000'
+        longitude: '27.28416667'
       -
         id: 110811
         name: Zakupne
@@ -624452,6 +624167,16 @@ country_city:
         latitude: '48.64331000'
         longitude: '25.73794000'
       -
+        id: 149523
+        name: Zalissia
+        latitude: '51.26444444'
+        longitude: '29.19805556'
+      -
+        id: 149524
+        name: Zaliznia
+        latitude: '50.15000000'
+        longitude: '28.52222222'
+      -
         id: 110815
         name: Zaliznychne
         latitude: '45.74890000'
@@ -624472,10 +624197,20 @@ country_city:
         latitude: '49.79188000'
         longitude: '25.37297000'
       -
+        id: 149525
+        name: Zaluzhne
+        latitude: '50.23833333'
+        longitude: '27.96805556'
+      -
         id: 110819
         name: Zaozyornoye
         latitude: '45.15816000'
         longitude: '33.27866000'
+      -
+        id: 149526
+        name: Zapadnia
+        latitude: '50.19055556'
+        longitude: '29.32916667'
       -
         id: 110821
         name: 'Zaporiz’ka Mis’krada'
@@ -624492,6 +624227,11 @@ country_city:
         latitude: '44.85048000'
         longitude: '34.26426000'
       -
+        id: 149527
+        name: Zarichchia
+        latitude: '49.71111111'
+        longitude: '29.22888889'
+      -
         id: 110823
         name: Zarichchya
         latitude: '48.52144000'
@@ -624501,6 +624241,11 @@ country_city:
         name: Zarichne
         latitude: '51.81260000'
         longitude: '26.12902000'
+      -
+        id: 149528
+        name: Zarudintsi
+        latitude: '49.65333333'
+        longitude: '29.19222222'
       -
         id: 110825
         name: Zastavna
@@ -624532,6 +624277,11 @@ country_city:
         latitude: '45.32697000'
         longitude: '34.80837000'
       -
+        id: 149529
+        name: Zavodske
+        latitude: '50.40019868'
+        longitude: '33.39081277'
+      -
         id: 110831
         name: Zbarazh
         latitude: '49.66357000'
@@ -624542,10 +624292,20 @@ country_city:
         latitude: '49.66484000'
         longitude: '25.14097000'
       -
+        id: 149530
+        name: Zbranki
+        latitude: '51.29833333'
+        longitude: '28.64583333'
+      -
         id: 110833
         name: Zdolbuniv
         latitude: '50.52060000'
         longitude: '26.24251000'
+      -
+        id: 149531
+        name: Zdorovets
+        latitude: '50.90694444'
+        longitude: '27.88611111'
       -
         id: 110834
         name: Zdovbytsya
@@ -624597,6 +624357,16 @@ country_city:
         latitude: '45.27466000'
         longitude: '34.65778000'
       -
+        id: 149532
+        name: Zherdeli
+        latitude: '49.89888889'
+        longitude: '28.97000000'
+      -
+        id: 149533
+        name: Zhitintsi
+        latitude: '49.91388889'
+        longitude: '27.57194444'
+      -
         id: 110844
         name: Zhmerynka
         latitude: '49.03705000'
@@ -624607,10 +624377,25 @@ country_city:
         latitude: '50.05825000'
         longitude: '23.97260000'
       -
+        id: 149534
+        name: Zhovte
+        latitude: '50.40444444'
+        longitude: '27.82166667'
+      -
         id: 110846
         name: 'Zhovti Vody'
         latitude: '48.34493000'
         longitude: '33.50374000'
+      -
+        id: 149535
+        name: 'Zhovtii Brid'
+        latitude: '50.28361111'
+        longitude: '28.10638889'
+      -
+        id: 149536
+        name: Zhupanivka
+        latitude: '50.92750000'
+        longitude: '28.35500000'
       -
         id: 110847
         name: Zhuravka
@@ -624632,6 +624417,11 @@ country_city:
         latitude: '45.17680000'
         longitude: '33.99680000'
       -
+        id: 149537
+        name: Zhurbintsi
+        latitude: '49.97944444'
+        longitude: '28.71583333'
+      -
         id: 110851
         name: Zhvanets
         latitude: '48.54968000'
@@ -624647,6 +624437,11 @@ country_city:
         latitude: '50.26487000'
         longitude: '28.67669000'
       -
+        id: 149538
+        name: Zhytomyr
+        latitude: '50.25444444'
+        longitude: '28.65777778'
+      -
         id: 110854
         name: 'Zhytomyr Raion'
         latitude: '50.25000000'
@@ -624656,6 +624451,16 @@ country_city:
         name: Zimino
         latitude: '45.50797000'
         longitude: '33.51431000'
+      -
+        id: 149539
+        name: Zinkiv
+        latitude: '50.20813908'
+        longitude: '34.36684182'
+      -
+        id: 149540
+        name: Zlobichi
+        latitude: '50.85611111'
+        longitude: '28.69111111'
       -
         id: 110856
         name: Zlynka
@@ -624697,10 +624502,20 @@ country_city:
         latitude: '48.90950000'
         longitude: '25.33926000'
       -
+        id: 149541
+        name: Zoriane
+        latitude: '49.64916667'
+        longitude: '29.24444444'
+      -
         id: 110864
         name: Zorkino
         latitude: '45.54762000'
         longitude: '34.71028000'
+      -
+        id: 149542
+        name: Zorokiv
+        latitude: '50.39416667'
+        longitude: '28.62388889'
       -
         id: 110865
         name: Zorya
@@ -624711,6 +624526,16 @@ country_city:
         name: Zoryns’k
         latitude: '48.41194000'
         longitude: '38.62361000'
+      -
+        id: 149543
+        name: Zosimivka
+        latitude: '50.73888889'
+        longitude: '27.64888889'
+      -
+        id: 149544
+        name: Zubivshchina
+        latitude: '50.95944444'
+        longitude: '28.81722222'
       -
         id: 110867
         name: Zuhres
@@ -624726,6 +624551,11 @@ country_city:
         name: Zvenihorodka
         latitude: '49.07866000'
         longitude: '30.96755000'
+      -
+        id: 149545
+        name: Zvizdal
+        latitude: '51.17386000'
+        longitude: '29.24655000'
       -
         id: 110870
         name: Zybiny
@@ -666215,6 +666045,11 @@ country_city:
         latitude: '48.25539000'
         longitude: '-121.60151000'
       -
+        id: 149310
+        name: Dartmouth
+        latitude: '41.59419180'
+        longitude: '-71.11043520'
+      -
         id: 115055
         name: Dassel
         latitude: '45.08163000'
@@ -682814,6 +682649,11 @@ country_city:
         name: Hazlehurst
         latitude: '31.86044000'
         longitude: '-90.39593000'
+      -
+        id: 149546
+        name: 'Hazlet Township'
+        latitude: '40.42685010'
+        longitude: '-74.20682440'
       -
         id: 118213
         name: Hazleton
@@ -704124,6 +703964,11 @@ country_city:
         name: Morningside
         latitude: '38.83011000'
         longitude: '-76.89136000'
+      -
+        id: 149547
+        name: Morningside
+        latitude: '40.48140510'
+        longitude: '-79.93442840'
       -
         id: 122258
         name: 'Morningside Heights'

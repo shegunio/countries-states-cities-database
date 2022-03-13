@@ -18845,6 +18845,12 @@
       <longitude>148.34924000</longitude>
     </cities>
     <cities>
+      <id>149309</id>
+      <name>Eagle Farm</name>
+      <latitude>-27.43151850</latitude>
+      <longitude>153.07229130</longitude>
+    </cities>
+    <cities>
       <id>5055</id>
       <name>Eagle Point</name>
       <latitude>-37.90000000</latitude>
@@ -22545,6 +22551,12 @@
       <name>Huntingdale</name>
       <latitude>-32.08318000</latitude>
       <longitude>115.96614000</longitude>
+    </cities>
+    <cities>
+      <id>149308</id>
+      <name>Huntingwood</name>
+      <latitude>-33.79759320</latitude>
+      <longitude>150.87480900</longitude>
     </cities>
     <cities>
       <id>5672</id>
@@ -52069,173 +52081,6 @@
       <name>Zyrya</name>
       <latitude>40.36613000</latitude>
       <longitude>50.29198000</longitude>
-    </cities>
-  </country_city>
-  <country_city>
-    <id>17</id>
-    <name>Bahamas The</name>
-    <iso3>BHS</iso3>
-    <iso2>BS</iso2>
-    <numeric_code>044</numeric_code>
-    <phone_code>+1-242</phone_code>
-    <capital>Nassau</capital>
-    <currency>BSD</currency>
-    <currency_name>Bahamian dollar</currency_name>
-    <currency_symbol>B$</currency_symbol>
-    <tld>.bs</tld>
-    <native>Bahamas</native>
-    <region>Americas</region>
-    <subregion>Caribbean</subregion>
-    <timezones>
-      <zoneName>America/Nassau</zoneName>
-      <gmtOffset>-18000</gmtOffset>
-      <gmtOffsetName>UTC-05:00</gmtOffsetName>
-      <abbreviation>EST</abbreviation>
-      <tzName>Eastern Standard Time (North America)</tzName>
-    </timezones>
-    <translations>
-      <kr>바하마</kr>
-      <br>Bahamas</br>
-      <pt>Baamas</pt>
-      <nl>Bahama’s</nl>
-      <hr>Bahami</hr>
-      <fa>باهاما</fa>
-      <de>Bahamas</de>
-      <es>Bahamas</es>
-      <fr>Bahamas</fr>
-      <ja>バハマ</ja>
-      <it>Bahamas</it>
-      <cn>巴哈马</cn>
-    </translations>
-    <latitude>24.25000000</latitude>
-    <longitude>-76.00000000</longitude>
-    <emoji>🇧🇸</emoji>
-    <emojiU>U+1F1E7 U+1F1F8</emojiU>
-    <cities>
-      <id>15685</id>
-      <name>Abraham’s Bay</name>
-      <latitude>22.36667000</latitude>
-      <longitude>-72.96667000</longitude>
-    </cities>
-    <cities>
-      <id>15686</id>
-      <name>Alice Town</name>
-      <latitude>25.72800000</latitude>
-      <longitude>-79.29721000</longitude>
-    </cities>
-    <cities>
-      <id>15687</id>
-      <name>Andros Town</name>
-      <latitude>24.70502000</latitude>
-      <longitude>-77.76912000</longitude>
-    </cities>
-    <cities>
-      <id>15688</id>
-      <name>Arthur’s Town</name>
-      <latitude>24.62240000</latitude>
-      <longitude>-75.67151000</longitude>
-    </cities>
-    <cities>
-      <id>15689</id>
-      <name>Clarence Town</name>
-      <latitude>23.10000000</latitude>
-      <longitude>-74.98333000</longitude>
-    </cities>
-    <cities>
-      <id>15690</id>
-      <name>Cockburn Town</name>
-      <latitude>24.05179000</latitude>
-      <longitude>-74.53138000</longitude>
-    </cities>
-    <cities>
-      <id>15691</id>
-      <name>Colonel Hill</name>
-      <latitude>22.75450000</latitude>
-      <longitude>-74.20415000</longitude>
-    </cities>
-    <cities>
-      <id>15692</id>
-      <name>Cooper’s Town</name>
-      <latitude>26.87137000</latitude>
-      <longitude>-77.51131000</longitude>
-    </cities>
-    <cities>
-      <id>15693</id>
-      <name>Duncan Town</name>
-      <latitude>22.19083000</latitude>
-      <longitude>-75.72583000</longitude>
-    </cities>
-    <cities>
-      <id>15694</id>
-      <name>Dunmore Town</name>
-      <latitude>25.50216000</latitude>
-      <longitude>-76.63633000</longitude>
-    </cities>
-    <cities>
-      <id>15695</id>
-      <name>Freeport</name>
-      <latitude>26.53333000</latitude>
-      <longitude>-78.70000000</longitude>
-    </cities>
-    <cities>
-      <id>15696</id>
-      <name>George Town</name>
-      <latitude>23.51616000</latitude>
-      <longitude>-75.78665000</longitude>
-    </cities>
-    <cities>
-      <id>15697</id>
-      <name>High Rock</name>
-      <latitude>26.60999000</latitude>
-      <longitude>-78.27863000</longitude>
-    </cities>
-    <cities>
-      <id>15698</id>
-      <name>Lucaya</name>
-      <latitude>26.53333000</latitude>
-      <longitude>-78.66667000</longitude>
-    </cities>
-    <cities>
-      <id>15699</id>
-      <name>Marsh Harbour</name>
-      <latitude>26.54124000</latitude>
-      <longitude>-77.06360000</longitude>
-    </cities>
-    <cities>
-      <id>15700</id>
-      <name>Matthew Town</name>
-      <latitude>20.94982000</latitude>
-      <longitude>-73.67346000</longitude>
-    </cities>
-    <cities>
-      <id>143913</id>
-      <name>Nassau</name>
-      <latitude>25.06666667</latitude>
-      <longitude>-77.33333333</longitude>
-    </cities>
-    <cities>
-      <id>15701</id>
-      <name>Port Nelson</name>
-      <latitude>23.64967000</latitude>
-      <longitude>-74.84157000</longitude>
-    </cities>
-    <cities>
-      <id>15702</id>
-      <name>San Andros</name>
-      <latitude>25.06667000</latitude>
-      <longitude>-78.05000000</longitude>
-    </cities>
-    <cities>
-      <id>15703</id>
-      <name>Spanish Wells</name>
-      <latitude>25.54717000</latitude>
-      <longitude>-76.76405000</longitude>
-    </cities>
-    <cities>
-      <id>15704</id>
-      <name>West End</name>
-      <latitude>26.68711000</latitude>
-      <longitude>-78.97702000</longitude>
     </cities>
   </country_city>
   <country_city>
@@ -107116,7 +106961,7 @@
     </cities>
     <cities>
       <id>16936</id>
-      <name>Saint-Côme--Linière</name>
+      <name>Saint-Côme-Linière</name>
       <latitude>46.06677000</latitude>
       <longitude>-70.51573000</longitude>
     </cities>
@@ -293766,6 +293611,12 @@
       <name>Ranikhet</name>
       <latitude>29.64082000</latitude>
       <longitude>79.43229000</longitude>
+    </cities>
+    <cities>
+      <id>149548</id>
+      <name>Ranipet</name>
+      <latitude>12.95347490</latitude>
+      <longitude>79.28159160</longitude>
     </cities>
     <cities>
       <id>133720</id>
@@ -701766,16 +701617,16 @@
       <longitude>17.91398000</longitude>
     </cities>
     <cities>
-      <id>104001</id>
-      <name>Åkarp</name>
-      <latitude>58.23333000</latitude>
-      <longitude>13.65000000</longitude>
-    </cities>
-    <cities>
       <id>104002</id>
       <name>Åkarp</name>
       <latitude>55.65396000</latitude>
       <longitude>13.11107000</longitude>
+    </cities>
+    <cities>
+      <id>104001</id>
+      <name>Åkarp</name>
+      <latitude>58.23333000</latitude>
+      <longitude>13.65000000</longitude>
     </cities>
     <cities>
       <id>104003</id>
@@ -701802,12 +701653,6 @@
       <longitude>17.85380000</longitude>
     </cities>
     <cities>
-      <id>102989</id>
-      <name>Ale Kommun</name>
-      <latitude>57.97018000</latitude>
-      <longitude>12.25166000</longitude>
-    </cities>
-    <cities>
       <id>104005</id>
       <name>Åled</name>
       <latitude>56.75000000</latitude>
@@ -701826,22 +701671,10 @@
       <longitude>12.53345000</longitude>
     </cities>
     <cities>
-      <id>102992</id>
-      <name>Alingsås Kommun</name>
-      <latitude>58.00000000</latitude>
-      <longitude>12.50000000</longitude>
-    </cities>
-    <cities>
       <id>103985</id>
       <name>Älmhult</name>
       <latitude>56.55146000</latitude>
       <longitude>14.13827000</longitude>
-    </cities>
-    <cities>
-      <id>103986</id>
-      <name>Älmhults Kommun</name>
-      <latitude>56.58563000</latitude>
-      <longitude>14.15502000</longitude>
     </cities>
     <cities>
       <id>103987</id>
@@ -701880,22 +701713,10 @@
       <longitude>14.03935000</longitude>
     </cities>
     <cities>
-      <id>103990</id>
-      <name>Älvdalens kommun</name>
-      <latitude>61.61337000</latitude>
-      <longitude>13.27257000</longitude>
-    </cities>
-    <cities>
       <id>102995</id>
       <name>Alvesta</name>
       <latitude>56.89935000</latitude>
       <longitude>14.55559000</longitude>
-    </cities>
-    <cities>
-      <id>102996</id>
-      <name>Alvesta Kommun</name>
-      <latitude>56.84663000</latitude>
-      <longitude>14.47490000</longitude>
     </cities>
     <cities>
       <id>103991</id>
@@ -701904,34 +701725,16 @@
       <longitude>17.44895000</longitude>
     </cities>
     <cities>
-      <id>103992</id>
-      <name>Älvkarleby Kommun</name>
-      <latitude>60.58212000</latitude>
-      <longitude>17.44532000</longitude>
-    </cities>
-    <cities>
       <id>103993</id>
       <name>Älvsbyn</name>
       <latitude>65.67624000</latitude>
       <longitude>21.00162000</longitude>
     </cities>
     <cities>
-      <id>103994</id>
-      <name>Älvsbyns Kommun</name>
-      <latitude>65.73201000</latitude>
-      <longitude>20.71412000</longitude>
-    </cities>
-    <cities>
       <id>104007</id>
       <name>Åmål</name>
       <latitude>59.05100000</latitude>
       <longitude>12.70492000</longitude>
-    </cities>
-    <cities>
-      <id>104008</id>
-      <name>Åmåls Kommun</name>
-      <latitude>59.04573000</latitude>
-      <longitude>12.59583000</longitude>
     </cities>
     <cities>
       <id>104006</id>
@@ -701970,34 +701773,16 @@
       <longitude>14.81016000</longitude>
     </cities>
     <cities>
-      <id>103002</id>
-      <name>Aneby Kommun</name>
-      <latitude>57.86992000</latitude>
-      <longitude>14.79796000</longitude>
-    </cities>
-    <cities>
       <id>104009</id>
       <name>Ånge</name>
       <latitude>62.52495000</latitude>
       <longitude>15.65904000</longitude>
     </cities>
     <cities>
-      <id>104010</id>
-      <name>Ånge kommun</name>
-      <latitude>62.51232000</latitude>
-      <longitude>15.64453000</longitude>
-    </cities>
-    <cities>
       <id>103996</id>
       <name>Ängelholm</name>
       <latitude>56.24280000</latitude>
       <longitude>12.86219000</longitude>
-    </cities>
-    <cities>
-      <id>103997</id>
-      <name>Ängelholms Kommun</name>
-      <latitude>56.26814000</latitude>
-      <longitude>12.96622000</longitude>
     </cities>
     <cities>
       <id>103003</id>
@@ -702030,12 +701815,6 @@
       <longitude>15.83882000</longitude>
     </cities>
     <cities>
-      <id>103008</id>
-      <name>Arboga Kommun</name>
-      <latitude>59.39451000</latitude>
-      <longitude>15.79261000</longitude>
-    </cities>
-    <cities>
       <id>103009</id>
       <name>Arbrå</name>
       <latitude>61.46667000</latitude>
@@ -702048,22 +701827,10 @@
       <longitude>12.13336000</longitude>
     </cities>
     <cities>
-      <id>104012</id>
-      <name>Årjängs Kommun</name>
-      <latitude>59.43589000</latitude>
-      <longitude>12.10366000</longitude>
-    </cities>
-    <cities>
       <id>103010</id>
       <name>Arjeplog</name>
       <latitude>66.05173000</latitude>
       <longitude>17.88606000</longitude>
-    </cities>
-    <cities>
-      <id>103011</id>
-      <name>Arjeplogs Kommun</name>
-      <latitude>66.37495000</latitude>
-      <longitude>17.17477000</longitude>
     </cities>
     <cities>
       <id>103998</id>
@@ -702108,22 +701875,10 @@
       <longitude>19.16682000</longitude>
     </cities>
     <cities>
-      <id>103016</id>
-      <name>Arvidsjaurs Kommun</name>
-      <latitude>65.66667000</latitude>
-      <longitude>19.25000000</longitude>
-    </cities>
-    <cities>
       <id>103017</id>
       <name>Arvika</name>
       <latitude>59.65528000</latitude>
       <longitude>12.58518000</longitude>
-    </cities>
-    <cities>
-      <id>103018</id>
-      <name>Arvika Kommun</name>
-      <latitude>59.70484000</latitude>
-      <longitude>12.63202000</longitude>
     </cities>
     <cities>
       <id>104015</id>
@@ -702156,22 +701911,10 @@
       <longitude>17.34762000</longitude>
     </cities>
     <cities>
-      <id>104020</id>
-      <name>Åsele Kommun</name>
-      <latitude>64.16604000</latitude>
-      <longitude>17.62356000</longitude>
-    </cities>
-    <cities>
       <id>103019</id>
       <name>Askersund</name>
       <latitude>58.87988000</latitude>
       <longitude>14.90230000</longitude>
-    </cities>
-    <cities>
-      <id>103020</id>
-      <name>Askersunds Kommun</name>
-      <latitude>58.88048000</latitude>
-      <longitude>14.98416000</longitude>
     </cities>
     <cities>
       <id>103021</id>
@@ -702186,34 +701929,16 @@
       <longitude>12.94430000</longitude>
     </cities>
     <cities>
-      <id>104022</id>
-      <name>Åstorps Kommun</name>
-      <latitude>56.14003000</latitude>
-      <longitude>12.97259000</longitude>
-    </cities>
-    <cities>
       <id>104023</id>
       <name>Åtvidaberg</name>
       <latitude>58.20152000</latitude>
       <longitude>15.99770000</longitude>
     </cities>
     <cities>
-      <id>104024</id>
-      <name>Åtvidabergs Kommun</name>
-      <latitude>58.22799000</latitude>
-      <longitude>16.12522000</longitude>
-    </cities>
-    <cities>
       <id>103022</id>
       <name>Avesta</name>
       <latitude>60.14274000</latitude>
       <longitude>16.16295000</longitude>
-    </cities>
-    <cities>
-      <id>103023</id>
-      <name>Avesta Kommun</name>
-      <latitude>60.21251000</latitude>
-      <longitude>16.36234000</longitude>
     </cities>
     <cities>
       <id>103024</id>
@@ -702276,22 +702001,10 @@
       <longitude>12.85339000</longitude>
     </cities>
     <cities>
-      <id>103106</id>
-      <name>Båstads Kommun</name>
-      <latitude>56.40102000</latitude>
-      <longitude>12.79912000</longitude>
-    </cities>
-    <cities>
       <id>103030</id>
       <name>Bengtsfors</name>
       <latitude>59.02912000</latitude>
       <longitude>12.23207000</longitude>
-    </cities>
-    <cities>
-      <id>103031</id>
-      <name>Bengtsfors Kommun</name>
-      <latitude>59.03333000</latitude>
-      <longitude>12.21667000</longitude>
     </cities>
     <cities>
       <id>103032</id>
@@ -702426,12 +702139,6 @@
       <longitude>19.21369000</longitude>
     </cities>
     <cities>
-      <id>103045</id>
-      <name>Bjurholms Kommun</name>
-      <latitude>63.96667000</latitude>
-      <longitude>19.00000000</longitude>
-    </cities>
-    <cities>
       <id>103046</id>
       <name>Bjursås</name>
       <latitude>60.73726000</latitude>
@@ -702442,12 +702149,6 @@
       <name>Bjuv</name>
       <latitude>56.08372000</latitude>
       <longitude>12.91914000</longitude>
-    </cities>
-    <cities>
-      <id>103048</id>
-      <name>Bjuvs Kommun</name>
-      <latitude>56.05409000</latitude>
-      <longitude>12.96542000</longitude>
     </cities>
     <cities>
       <id>103058</id>
@@ -702474,12 +702175,6 @@
       <longitude>21.68864000</longitude>
     </cities>
     <cities>
-      <id>103062</id>
-      <name>Bodens Kommun</name>
-      <latitude>66.04393000</latitude>
-      <longitude>21.29977000</longitude>
-    </cities>
-    <cities>
       <id>103063</id>
       <name>Boliden</name>
       <latitude>64.86667000</latitude>
@@ -702492,12 +702187,6 @@
       <longitude>12.57272000</longitude>
     </cities>
     <cities>
-      <id>103065</id>
-      <name>Bollebygds Kommun</name>
-      <latitude>57.74260000</latitude>
-      <longitude>12.61451000</longitude>
-    </cities>
-    <cities>
       <id>103066</id>
       <name>Bollmora</name>
       <latitude>59.24196000</latitude>
@@ -702508,12 +702197,6 @@
       <name>Bollnäs</name>
       <latitude>61.34817000</latitude>
       <longitude>16.39464000</longitude>
-    </cities>
-    <cities>
-      <id>103068</id>
-      <name>Bollnäs Kommun</name>
-      <latitude>61.31418000</latitude>
-      <longitude>16.41725000</longitude>
     </cities>
     <cities>
       <id>103069</id>
@@ -702552,40 +702235,16 @@
       <longitude>16.65634000</longitude>
     </cities>
     <cities>
-      <id>103074</id>
-      <name>Borgholms Kommun</name>
-      <latitude>57.09747000</latitude>
-      <longitude>16.94092000</longitude>
-    </cities>
-    <cities>
       <id>103075</id>
       <name>Borlänge</name>
       <latitude>60.48580000</latitude>
       <longitude>15.43714000</longitude>
     </cities>
     <cities>
-      <id>103076</id>
-      <name>Borlänge Kommun</name>
-      <latitude>60.45799000</latitude>
-      <longitude>15.39873000</longitude>
-    </cities>
-    <cities>
-      <id>103078</id>
-      <name>Botkyrka Kommun</name>
-      <latitude>59.20000000</latitude>
-      <longitude>17.81667000</longitude>
-    </cities>
-    <cities>
       <id>103079</id>
       <name>Boxholm</name>
       <latitude>58.19719000</latitude>
       <longitude>15.05376000</longitude>
-    </cities>
-    <cities>
-      <id>103080</id>
-      <name>Boxholms Kommun</name>
-      <latitude>58.14842000</latitude>
-      <longitude>15.10988000</longitude>
     </cities>
     <cities>
       <id>103082</id>
@@ -702654,12 +702313,6 @@
       <longitude>14.46958000</longitude>
     </cities>
     <cities>
-      <id>103090</id>
-      <name>Bromölla Kommun</name>
-      <latitude>56.11934000</latitude>
-      <longitude>14.51150000</longitude>
-    </cities>
-    <cities>
       <id>103091</id>
       <name>Brunn</name>
       <latitude>59.28000000</latitude>
@@ -702694,12 +702347,6 @@
       <name>Bureå</name>
       <latitude>64.61667000</latitude>
       <longitude>21.20000000</longitude>
-    </cities>
-    <cities>
-      <id>103099</id>
-      <name>Burlövs Kommun</name>
-      <latitude>55.63873000</latitude>
-      <longitude>13.09473000</longitude>
     </cities>
     <cities>
       <id>103100</id>
@@ -702738,22 +702385,10 @@
       <longitude>12.30865000</longitude>
     </cities>
     <cities>
-      <id>103111</id>
-      <name>Dals-Ed Kommun</name>
-      <latitude>58.91252000</latitude>
-      <longitude>11.92395000</longitude>
-    </cities>
-    <cities>
       <id>103112</id>
       <name>Dalsjöfors</name>
       <latitude>57.71667000</latitude>
       <longitude>13.08333000</longitude>
-    </cities>
-    <cities>
-      <id>103113</id>
-      <name>Danderyds Kommun</name>
-      <latitude>59.40924000</latitude>
-      <longitude>18.04847000</longitude>
     </cities>
     <cities>
       <id>103114</id>
@@ -702766,12 +702401,6 @@
       <name>Degerfors</name>
       <latitude>59.23797000</latitude>
       <longitude>14.43077000</longitude>
-    </cities>
-    <cities>
-      <id>103116</id>
-      <name>Degerfors Kommun</name>
-      <latitude>59.15580000</latitude>
-      <longitude>14.43352000</longitude>
     </cities>
     <cities>
       <id>103117</id>
@@ -702828,22 +702457,10 @@
       <longitude>16.41306000</longitude>
     </cities>
     <cities>
-      <id>103126</id>
-      <name>Dorotea Kommun</name>
-      <latitude>64.57981000</latitude>
-      <longitude>15.80614000</longitude>
-    </cities>
-    <cities>
       <id>103127</id>
       <name>Ed</name>
       <latitude>58.91247000</latitude>
       <longitude>11.93308000</longitude>
-    </cities>
-    <cities>
-      <id>103128</id>
-      <name>Eda kommun</name>
-      <latitude>59.80000000</latitude>
-      <longitude>12.21667000</longitude>
     </cities>
     <cities>
       <id>103129</id>
@@ -702882,12 +702499,6 @@
       <longitude>17.81212000</longitude>
     </cities>
     <cities>
-      <id>103134</id>
-      <name>Ekerö Kommun</name>
-      <latitude>59.32198000</latitude>
-      <longitude>17.63580000</longitude>
-    </cities>
-    <cities>
       <id>103135</id>
       <name>Ekshärad</name>
       <latitude>60.17275000</latitude>
@@ -702900,12 +702511,6 @@
       <longitude>14.97205000</longitude>
     </cities>
     <cities>
-      <id>103137</id>
-      <name>Eksjö Kommun</name>
-      <latitude>57.62006000</latitude>
-      <longitude>15.21810000</longitude>
-    </cities>
-    <cities>
       <id>103139</id>
       <name>Ellös</name>
       <latitude>58.18333000</latitude>
@@ -702916,12 +702521,6 @@
       <name>Emmaboda</name>
       <latitude>56.63268000</latitude>
       <longitude>15.53648000</longitude>
-    </cities>
-    <cities>
-      <id>103141</id>
-      <name>Emmaboda Kommun</name>
-      <latitude>56.63333000</latitude>
-      <longitude>15.53333000</longitude>
     </cities>
     <cities>
       <id>103142</id>
@@ -702948,12 +702547,6 @@
       <longitude>17.07768000</longitude>
     </cities>
     <cities>
-      <id>103146</id>
-      <name>Enköpings Kommun</name>
-      <latitude>59.68575000</latitude>
-      <longitude>17.11668000</longitude>
-    </cities>
-    <cities>
       <id>103147</id>
       <name>Eriksberg</name>
       <latitude>59.24241000</latitude>
@@ -702978,28 +702571,10 @@
       <longitude>16.50770000</longitude>
     </cities>
     <cities>
-      <id>103151</id>
-      <name>Eskilstuna Kommun</name>
-      <latitude>59.37362000</latitude>
-      <longitude>16.49014000</longitude>
-    </cities>
-    <cities>
       <id>103152</id>
       <name>Eslöv</name>
       <latitude>55.83928000</latitude>
       <longitude>13.30393000</longitude>
-    </cities>
-    <cities>
-      <id>103153</id>
-      <name>Eslövs Kommun</name>
-      <latitude>55.83607000</latitude>
-      <longitude>13.37522000</longitude>
-    </cities>
-    <cities>
-      <id>103154</id>
-      <name>Essunga Kommun</name>
-      <latitude>58.20253000</latitude>
-      <longitude>12.72273000</longitude>
     </cities>
     <cities>
       <id>103155</id>
@@ -703008,40 +702583,16 @@
       <longitude>15.79316000</longitude>
     </cities>
     <cities>
-      <id>103156</id>
-      <name>Fagersta Kommun</name>
-      <latitude>59.94834000</latitude>
-      <longitude>15.88332000</longitude>
-    </cities>
-    <cities>
       <id>103157</id>
       <name>Falkenberg</name>
       <latitude>56.90552000</latitude>
       <longitude>12.49118000</longitude>
     </cities>
     <cities>
-      <id>103158</id>
-      <name>Falkenbergs Kommun</name>
-      <latitude>57.04317000</latitude>
-      <longitude>12.72989000</longitude>
-    </cities>
-    <cities>
       <id>103159</id>
       <name>Falköping</name>
       <latitude>58.17347000</latitude>
       <longitude>13.55068000</longitude>
-    </cities>
-    <cities>
-      <id>103160</id>
-      <name>Falköpings Kommun</name>
-      <latitude>58.14046000</latitude>
-      <longitude>13.53277000</longitude>
-    </cities>
-    <cities>
-      <id>103161</id>
-      <name>Falu kommun</name>
-      <latitude>60.60483000</latitude>
-      <longitude>15.63492000</longitude>
     </cities>
     <cities>
       <id>103162</id>
@@ -703054,12 +702605,6 @@
       <name>Färgelanda</name>
       <latitude>58.56816000</latitude>
       <longitude>11.99235000</longitude>
-    </cities>
-    <cities>
-      <id>103192</id>
-      <name>Färgelanda Kommun</name>
-      <latitude>58.61630000</latitude>
-      <longitude>12.01136000</longitude>
     </cities>
     <cities>
       <id>103193</id>
@@ -703092,22 +702637,10 @@
       <longitude>14.16831000</longitude>
     </cities>
     <cities>
-      <id>103165</id>
-      <name>Filipstads Kommun</name>
-      <latitude>59.87354000</latitude>
-      <longitude>14.14706000</longitude>
-    </cities>
-    <cities>
       <id>103166</id>
       <name>Finspång</name>
       <latitude>58.70578000</latitude>
       <longitude>15.76739000</longitude>
-    </cities>
-    <cities>
-      <id>103167</id>
-      <name>Finspångs Kommun</name>
-      <latitude>58.80568000</latitude>
-      <longitude>15.78783000</longitude>
     </cities>
     <cities>
       <id>103168</id>
@@ -703146,12 +702679,6 @@
       <longitude>16.58781000</longitude>
     </cities>
     <cities>
-      <id>103174</id>
-      <name>Flens Kommun</name>
-      <latitude>59.05000000</latitude>
-      <longitude>16.71667000</longitude>
-    </cities>
-    <cities>
       <id>103175</id>
       <name>Floby</name>
       <latitude>58.13333000</latitude>
@@ -703180,12 +702707,6 @@
       <name>Forshaga</name>
       <latitude>59.52541000</latitude>
       <longitude>13.48127000</longitude>
-    </cities>
-    <cities>
-      <id>103180</id>
-      <name>Forshaga Kommun</name>
-      <latitude>59.64596000</latitude>
-      <longitude>13.50572000</longitude>
     </cities>
     <cities>
       <id>103181</id>
@@ -703260,22 +702781,10 @@
       <longitude>15.07745000</longitude>
     </cities>
     <cities>
-      <id>103198</id>
-      <name>Gagnefs Kommun</name>
-      <latitude>60.47391000</latitude>
-      <longitude>14.94676000</longitude>
-    </cities>
-    <cities>
       <id>103237</id>
       <name>Gällivare</name>
       <latitude>67.13387000</latitude>
       <longitude>20.65278000</longitude>
-    </cities>
-    <cities>
-      <id>103238</id>
-      <name>Gällivare kommun</name>
-      <latitude>67.39347000</latitude>
-      <longitude>19.70834000</longitude>
     </cities>
     <cities>
       <id>103199</id>
@@ -703338,12 +702847,6 @@
       <longitude>17.14174000</longitude>
     </cities>
     <cities>
-      <id>103241</id>
-      <name>Gävle Kommun</name>
-      <latitude>60.64260000</latitude>
-      <longitude>17.12066000</longitude>
-    </cities>
-    <cities>
       <id>103205</id>
       <name>Gemla</name>
       <latitude>56.86753000</latitude>
@@ -703372,12 +702875,6 @@
       <name>Gislaved</name>
       <latitude>57.30440000</latitude>
       <longitude>13.54078000</longitude>
-    </cities>
-    <cities>
-      <id>103210</id>
-      <name>Gislaveds Kommun</name>
-      <latitude>57.30337000</latitude>
-      <longitude>13.47548000</longitude>
     </cities>
     <cities>
       <id>103211</id>
@@ -703410,22 +702907,10 @@
       <longitude>17.31191000</longitude>
     </cities>
     <cities>
-      <id>103216</id>
-      <name>Gnesta Kommun</name>
-      <latitude>59.09214000</latitude>
-      <longitude>17.14533000</longitude>
-    </cities>
-    <cities>
       <id>103217</id>
       <name>Gnosjö</name>
       <latitude>57.35850000</latitude>
       <longitude>13.73686000</longitude>
-    </cities>
-    <cities>
-      <id>103218</id>
-      <name>Gnosjö Kommun</name>
-      <latitude>57.36225000</latitude>
-      <longitude>13.80491000</longitude>
     </cities>
     <cities>
       <id>103244</id>
@@ -703450,12 +702935,6 @@
       <name>Götene</name>
       <latitude>58.52824000</latitude>
       <longitude>13.49458000</longitude>
-    </cities>
-    <cities>
-      <id>103248</id>
-      <name>Götene Kommun</name>
-      <latitude>58.55105000</latitude>
-      <longitude>13.47866000</longitude>
     </cities>
     <cities>
       <id>103219</id>
@@ -703488,12 +702967,6 @@
       <longitude>12.68122000</longitude>
     </cities>
     <cities>
-      <id>103229</id>
-      <name>Grästorps Kommun</name>
-      <latitude>58.33333000</latitude>
-      <longitude>12.66667000</longitude>
-    </cities>
-    <cities>
       <id>103220</id>
       <name>Grebbestad</name>
       <latitude>58.70248000</latitude>
@@ -703518,12 +702991,6 @@
       <longitude>13.11105000</longitude>
     </cities>
     <cities>
-      <id>103224</id>
-      <name>Grums Kommun</name>
-      <latitude>59.40406000</latitude>
-      <longitude>13.02192000</longitude>
-    </cities>
-    <cities>
       <id>103225</id>
       <name>Grycksbo</name>
       <latitude>60.68751000</latitude>
@@ -703540,12 +703007,6 @@
       <name>Gullspång</name>
       <latitude>58.98615000</latitude>
       <longitude>14.09644000</longitude>
-    </cities>
-    <cities>
-      <id>103233</id>
-      <name>Gullspångs Kommun</name>
-      <latitude>58.93300000</latitude>
-      <longitude>14.18048000</longitude>
     </cities>
     <cities>
       <id>103234</id>
@@ -703572,28 +703033,10 @@
       <longitude>14.07444000</longitude>
     </cities>
     <cities>
-      <id>103250</id>
-      <name>Habo Kommun</name>
-      <latitude>57.90901000</latitude>
-      <longitude>14.08997000</longitude>
-    </cities>
-    <cities>
-      <id>103328</id>
-      <name>Håbo kommun</name>
-      <latitude>59.64953000</latitude>
-      <longitude>17.50701000</longitude>
-    </cities>
-    <cities>
       <id>103251</id>
       <name>Hagfors</name>
       <latitude>60.02378000</latitude>
       <longitude>13.67214000</longitude>
-    </cities>
-    <cities>
-      <id>103252</id>
-      <name>Hagfors Kommun</name>
-      <latitude>60.08997000</latitude>
-      <longitude>13.60757000</longitude>
     </cities>
     <cities>
       <id>103315</id>
@@ -703620,12 +703063,6 @@
       <longitude>14.52197000</longitude>
     </cities>
     <cities>
-      <id>103319</id>
-      <name>Hällefors Kommun</name>
-      <latitude>59.75736000</latitude>
-      <longitude>14.61495000</longitude>
-    </cities>
-    <cities>
       <id>103320</id>
       <name>Hälleforsnäs</name>
       <latitude>59.15208000</latitude>
@@ -703644,22 +703081,10 @@
       <longitude>15.10993000</longitude>
     </cities>
     <cities>
-      <id>103254</id>
-      <name>Hallsbergs Kommun</name>
-      <latitude>59.03803000</latitude>
-      <longitude>15.18468000</longitude>
-    </cities>
-    <cities>
       <id>103255</id>
       <name>Hallstahammar</name>
       <latitude>59.61395000</latitude>
       <longitude>16.22846000</longitude>
-    </cities>
-    <cities>
-      <id>103256</id>
-      <name>Hallstahammars Kommun</name>
-      <latitude>59.61703000</latitude>
-      <longitude>16.22797000</longitude>
     </cities>
     <cities>
       <id>103257</id>
@@ -703674,12 +703099,6 @@
       <longitude>12.85676000</longitude>
     </cities>
     <cities>
-      <id>103259</id>
-      <name>Halmstads Kommun</name>
-      <latitude>56.73920000</latitude>
-      <longitude>12.97338000</longitude>
-    </cities>
-    <cities>
       <id>103260</id>
       <name>Hammar</name>
       <latitude>56.01667000</latitude>
@@ -703690,12 +703109,6 @@
       <name>Hammarkullen</name>
       <latitude>57.78049000</latitude>
       <longitude>12.03604000</longitude>
-    </cities>
-    <cities>
-      <id>103262</id>
-      <name>Hammarö Kommun</name>
-      <latitude>59.30699000</latitude>
-      <longitude>13.54869000</longitude>
     </cities>
     <cities>
       <id>103263</id>
@@ -703716,22 +703129,10 @@
       <longitude>18.14478000</longitude>
     </cities>
     <cities>
-      <id>103266</id>
-      <name>Haninge Kommun</name>
-      <latitude>59.17382000</latitude>
-      <longitude>18.15491000</longitude>
-    </cities>
-    <cities>
       <id>103267</id>
       <name>Haparanda</name>
       <latitude>65.83549000</latitude>
       <longitude>24.13676000</longitude>
-    </cities>
-    <cities>
-      <id>103268</id>
-      <name>Haparanda Kommun</name>
-      <latitude>65.91662000</latitude>
-      <longitude>23.84607000</longitude>
     </cities>
     <cities>
       <id>103322</id>
@@ -703740,34 +703141,16 @@
       <longitude>17.93794000</longitude>
     </cities>
     <cities>
-      <id>103323</id>
-      <name>Härnösands Kommun</name>
-      <latitude>62.76667000</latitude>
-      <longitude>17.68333000</longitude>
-    </cities>
-    <cities>
       <id>103269</id>
       <name>Harplinge</name>
       <latitude>56.74491000</latitude>
       <longitude>12.72758000</longitude>
     </cities>
     <cities>
-      <id>103324</id>
-      <name>Härryda Kommun</name>
-      <latitude>57.67736000</latitude>
-      <longitude>12.32010000</longitude>
-    </cities>
-    <cities>
       <id>103325</id>
       <name>Hässleholm</name>
       <latitude>56.15905000</latitude>
       <longitude>13.76638000</longitude>
-    </cities>
-    <cities>
-      <id>103326</id>
-      <name>Hässleholms Kommun</name>
-      <latitude>56.20687000</latitude>
-      <longitude>13.72374000</longitude>
     </cities>
     <cities>
       <id>103270</id>
@@ -703794,22 +703177,10 @@
       <longitude>16.86217000</longitude>
     </cities>
     <cities>
-      <id>103273</id>
-      <name>Heby kommun</name>
-      <latitude>60.10000000</latitude>
-      <longitude>17.00000000</longitude>
-    </cities>
-    <cities>
       <id>103274</id>
       <name>Hedemora</name>
       <latitude>60.27973000</latitude>
       <longitude>15.98855000</longitude>
-    </cities>
-    <cities>
-      <id>103275</id>
-      <name>Hedemora Kommun</name>
-      <latitude>60.34659000</latitude>
-      <longitude>16.07350000</longitude>
     </cities>
     <cities>
       <id>103276</id>
@@ -703854,12 +703225,6 @@
       <longitude>13.02662000</longitude>
     </cities>
     <cities>
-      <id>103283</id>
-      <name>Herrljunga Kommun</name>
-      <latitude>58.01156000</latitude>
-      <longitude>13.12059000</longitude>
-    </cities>
-    <cities>
       <id>103284</id>
       <name>Hestra</name>
       <latitude>57.44232000</latitude>
@@ -703902,12 +703267,6 @@
       <longitude>14.28784000</longitude>
     </cities>
     <cities>
-      <id>103289</id>
-      <name>Hjo Kommun</name>
-      <latitude>58.29642000</latitude>
-      <longitude>14.20754000</longitude>
-    </cities>
-    <cities>
       <id>103290</id>
       <name>Hjuvik</name>
       <latitude>57.70167000</latitude>
@@ -703918,12 +703277,6 @@
       <name>Hofors</name>
       <latitude>60.54573000</latitude>
       <longitude>16.28668000</longitude>
-    </cities>
-    <cities>
-      <id>103294</id>
-      <name>Hofors Kommun</name>
-      <latitude>60.49619000</latitude>
-      <longitude>16.41088000</longitude>
     </cities>
     <cities>
       <id>103295</id>
@@ -703938,22 +703291,10 @@
       <longitude>12.55795000</longitude>
     </cities>
     <cities>
-      <id>103330</id>
-      <name>Höganäs Kommun</name>
-      <latitude>56.22517000</latitude>
-      <longitude>12.59701000</longitude>
-    </cities>
-    <cities>
       <id>103331</id>
       <name>Högsby</name>
       <latitude>57.16597000</latitude>
       <longitude>16.02562000</longitude>
-    </cities>
-    <cities>
-      <id>103332</id>
-      <name>Högsby Kommun</name>
-      <latitude>57.15537000</latitude>
-      <longitude>15.91674000</longitude>
     </cities>
     <cities>
       <id>103333</id>
@@ -703998,22 +703339,10 @@
       <longitude>13.53850000</longitude>
     </cities>
     <cities>
-      <id>103343</id>
-      <name>Höörs Kommun</name>
-      <latitude>55.94588000</latitude>
-      <longitude>13.51686000</longitude>
-    </cities>
-    <cities>
       <id>103338</id>
       <name>Hörby</name>
       <latitude>55.85238000</latitude>
       <longitude>13.66094000</longitude>
-    </cities>
-    <cities>
-      <id>103339</id>
-      <name>Hörby Kommun</name>
-      <latitude>55.83766000</latitude>
-      <longitude>13.74284000</longitude>
     </cities>
     <cities>
       <id>103297</id>
@@ -704070,34 +703399,16 @@
       <longitude>17.98192000</longitude>
     </cities>
     <cities>
-      <id>103304</id>
-      <name>Huddinge Kommun</name>
-      <latitude>59.21428000</latitude>
-      <longitude>18.01584000</longitude>
-    </cities>
-    <cities>
       <id>103305</id>
       <name>Hudiksvall</name>
       <latitude>61.72744000</latitude>
       <longitude>17.10558000</longitude>
     </cities>
     <cities>
-      <id>103306</id>
-      <name>Hudiksvalls Kommun</name>
-      <latitude>61.76615000</latitude>
-      <longitude>16.77055000</longitude>
-    </cities>
-    <cities>
       <id>103307</id>
       <name>Hultsfred</name>
       <latitude>57.48815000</latitude>
       <longitude>15.84357000</longitude>
-    </cities>
-    <cities>
-      <id>103308</id>
-      <name>Hultsfreds Kommun</name>
-      <latitude>57.40000000</latitude>
-      <longitude>15.80000000</longitude>
     </cities>
     <cities>
       <id>103309</id>
@@ -704122,12 +703433,6 @@
       <name>Hyllinge</name>
       <latitude>56.10000000</latitude>
       <longitude>12.85000000</longitude>
-    </cities>
-    <cities>
-      <id>103313</id>
-      <name>Hylte Kommun</name>
-      <latitude>56.97394000</latitude>
-      <longitude>13.26541000</longitude>
     </cities>
     <cities>
       <id>103314</id>
@@ -704202,12 +703507,6 @@
       <longitude>16.60000000</longitude>
     </cities>
     <cities>
-      <id>103362</id>
-      <name>Järfälla kommun</name>
-      <latitude>59.40875000</latitude>
-      <longitude>17.86514000</longitude>
-    </cities>
-    <cities>
       <id>103363</id>
       <name>Järna</name>
       <latitude>59.09165000</latitude>
@@ -704238,22 +703537,10 @@
       <longitude>19.82324000</longitude>
     </cities>
     <cities>
-      <id>103354</id>
-      <name>Jokkmokks Kommun</name>
-      <latitude>66.90967000</latitude>
-      <longitude>18.50521000</longitude>
-    </cities>
-    <cities>
       <id>103366</id>
       <name>Jönköping</name>
       <latitude>57.78145000</latitude>
       <longitude>14.15618000</longitude>
-    </cities>
-    <cities>
-      <id>103367</id>
-      <name>Jönköpings Kommun</name>
-      <latitude>57.74101000</latitude>
-      <longitude>14.20276000</longitude>
     </cities>
     <cities>
       <id>103355</id>
@@ -704304,12 +703591,6 @@
       <longitude>23.15645000</longitude>
     </cities>
     <cities>
-      <id>103370</id>
-      <name>Kalix Kommun</name>
-      <latitude>65.96118000</latitude>
-      <longitude>22.98669000</longitude>
-    </cities>
-    <cities>
       <id>103436</id>
       <name>Källby</name>
       <latitude>58.50999000</latitude>
@@ -704334,12 +703615,6 @@
       <longitude>16.36163000</longitude>
     </cities>
     <cities>
-      <id>103373</id>
-      <name>Kalmar Kommun</name>
-      <latitude>56.66361000</latitude>
-      <longitude>16.18569000</longitude>
-    </cities>
-    <cities>
       <id>103374</id>
       <name>Karlholmsbruk</name>
       <latitude>60.52091000</latitude>
@@ -704352,22 +703627,10 @@
       <longitude>14.50470000</longitude>
     </cities>
     <cities>
-      <id>103376</id>
-      <name>Karlsborgs Kommun</name>
-      <latitude>58.60994000</latitude>
-      <longitude>14.45421000</longitude>
-    </cities>
-    <cities>
       <id>103377</id>
       <name>Karlshamn</name>
       <latitude>56.17060000</latitude>
       <longitude>14.86188000</longitude>
-    </cities>
-    <cities>
-      <id>103378</id>
-      <name>Karlshamns kommun</name>
-      <latitude>56.25000000</latitude>
-      <longitude>14.86667000</longitude>
     </cities>
     <cities>
       <id>103379</id>
@@ -704376,22 +703639,10 @@
       <longitude>14.52386000</longitude>
     </cities>
     <cities>
-      <id>103380</id>
-      <name>Karlskoga Kommun</name>
-      <latitude>59.37383000</latitude>
-      <longitude>14.56720000</longitude>
-    </cities>
-    <cities>
       <id>103381</id>
       <name>Karlskrona</name>
       <latitude>56.16156000</latitude>
       <longitude>15.58661000</longitude>
-    </cities>
-    <cities>
-      <id>103382</id>
-      <name>Karlskrona Kommun</name>
-      <latitude>56.28167000</latitude>
-      <longitude>15.66848000</longitude>
     </cities>
     <cities>
       <id>103383</id>
@@ -704400,34 +703651,16 @@
       <longitude>13.50357000</longitude>
     </cities>
     <cities>
-      <id>103384</id>
-      <name>Karlstads Kommun</name>
-      <latitude>59.47409000</latitude>
-      <longitude>13.59961000</longitude>
-    </cities>
-    <cities>
       <id>103385</id>
       <name>Katrineholm</name>
       <latitude>58.99587000</latitude>
       <longitude>16.20721000</longitude>
     </cities>
     <cities>
-      <id>103386</id>
-      <name>Katrineholms Kommun</name>
-      <latitude>59.01734000</latitude>
-      <longitude>16.26049000</longitude>
-    </cities>
-    <cities>
       <id>103437</id>
       <name>Kävlinge</name>
       <latitude>55.79188000</latitude>
       <longitude>13.11021000</longitude>
-    </cities>
-    <cities>
-      <id>103438</id>
-      <name>Kävlinge Kommun</name>
-      <latitude>55.79469000</latitude>
-      <longitude>13.07364000</longitude>
     </cities>
     <cities>
       <id>103387</id>
@@ -704448,22 +703681,10 @@
       <longitude>16.56667000</longitude>
     </cities>
     <cities>
-      <id>103390</id>
-      <name>Kils Kommun</name>
-      <latitude>59.50406000</latitude>
-      <longitude>13.31740000</longitude>
-    </cities>
-    <cities>
       <id>103391</id>
       <name>Kimstad</name>
       <latitude>58.54967000</latitude>
       <longitude>15.96296000</longitude>
-    </cities>
-    <cities>
-      <id>103392</id>
-      <name>Kinda Kommun</name>
-      <latitude>58.01315000</latitude>
-      <longitude>15.73373000</longitude>
     </cities>
     <cities>
       <id>103393</id>
@@ -704476,12 +703697,6 @@
       <name>Kiruna</name>
       <latitude>67.85572000</latitude>
       <longitude>20.22513000</longitude>
-    </cities>
-    <cities>
-      <id>103395</id>
-      <name>Kiruna Kommun</name>
-      <latitude>68.17009000</latitude>
-      <longitude>20.54861000</longitude>
     </cities>
     <cities>
       <id>103396</id>
@@ -704514,12 +703729,6 @@
       <longitude>13.13086000</longitude>
     </cities>
     <cities>
-      <id>103400</id>
-      <name>Klippans Kommun</name>
-      <latitude>56.11138000</latitude>
-      <longitude>13.23836000</longitude>
-    </cities>
-    <cities>
       <id>103405</id>
       <name>Knäred</name>
       <latitude>56.51861000</latitude>
@@ -704536,12 +703745,6 @@
       <name>Knivsta</name>
       <latitude>59.72564000</latitude>
       <longitude>17.78753000</longitude>
-    </cities>
-    <cities>
-      <id>103404</id>
-      <name>Knivsta Kommun</name>
-      <latitude>59.73702000</latitude>
-      <longitude>17.78137000</longitude>
     </cities>
     <cities>
       <id>103406</id>
@@ -704574,12 +703777,6 @@
       <longitude>13.93453000</longitude>
     </cities>
     <cities>
-      <id>103444</id>
-      <name>Köpings Kommun</name>
-      <latitude>59.56639000</latitude>
-      <longitude>15.87218000</longitude>
-    </cities>
-    <cities>
       <id>103445</id>
       <name>Köpmanholmen</name>
       <latitude>63.16667000</latitude>
@@ -704604,12 +703801,6 @@
       <longitude>17.77646000</longitude>
     </cities>
     <cities>
-      <id>103412</id>
-      <name>Kramfors Kommun</name>
-      <latitude>62.97246000</latitude>
-      <longitude>17.92274000</longitude>
-    </cities>
-    <cities>
       <id>103413</id>
       <name>Kristdala</name>
       <latitude>57.40070000</latitude>
@@ -704622,22 +703813,10 @@
       <longitude>14.15242000</longitude>
     </cities>
     <cities>
-      <id>103415</id>
-      <name>Kristianstads kommun</name>
-      <latitude>56.00000000</latitude>
-      <longitude>14.15000000</longitude>
-    </cities>
-    <cities>
       <id>103416</id>
       <name>Kristinehamn</name>
       <latitude>59.30978000</latitude>
       <longitude>14.10808000</longitude>
-    </cities>
-    <cities>
-      <id>103417</id>
-      <name>Kristinehamns Kommun</name>
-      <latitude>59.25288000</latitude>
-      <longitude>14.13593000</longitude>
     </cities>
     <cities>
       <id>103418</id>
@@ -704658,12 +703837,6 @@
       <longitude>15.14341000</longitude>
     </cities>
     <cities>
-      <id>103421</id>
-      <name>Kumla Kommun</name>
-      <latitude>59.12715000</latitude>
-      <longitude>15.14649000</longitude>
-    </cities>
-    <cities>
       <id>103422</id>
       <name>Kummelnäs</name>
       <latitude>59.35000000</latitude>
@@ -704676,12 +703849,6 @@
       <longitude>11.98054000</longitude>
     </cities>
     <cities>
-      <id>103431</id>
-      <name>Kungälvs Kommun</name>
-      <latitude>57.89697000</latitude>
-      <longitude>11.88882000</longitude>
-    </cities>
-    <cities>
       <id>103427</id>
       <name>Kungsängen</name>
       <latitude>59.47857000</latitude>
@@ -704692,12 +703859,6 @@
       <name>Kungsbacka</name>
       <latitude>57.48719000</latitude>
       <longitude>12.07612000</longitude>
-    </cities>
-    <cities>
-      <id>103424</id>
-      <name>Kungsbacka Kommun</name>
-      <latitude>57.45058000</latitude>
-      <longitude>12.15061000</longitude>
     </cities>
     <cities>
       <id>103425</id>
@@ -704716,12 +703877,6 @@
       <name>Kungsör</name>
       <latitude>59.42245000</latitude>
       <longitude>16.09656000</longitude>
-    </cities>
-    <cities>
-      <id>103429</id>
-      <name>Kungsörs kommun</name>
-      <latitude>59.40247000</latitude>
-      <longitude>16.07748000</longitude>
     </cities>
     <cities>
       <id>103435</id>
@@ -704758,12 +703913,6 @@
       <name>Laholm</name>
       <latitude>56.51207000</latitude>
       <longitude>13.04371000</longitude>
-    </cities>
-    <cities>
-      <id>103448</id>
-      <name>Laholms Kommun</name>
-      <latitude>56.49174000</latitude>
-      <longitude>13.19141000</longitude>
     </cities>
     <cities>
       <id>103449</id>
@@ -704826,28 +703975,10 @@
       <longitude>14.61904000</longitude>
     </cities>
     <cities>
-      <id>103454</id>
-      <name>Laxå Kommun</name>
-      <latitude>58.90913000</latitude>
-      <longitude>14.53060000</longitude>
-    </cities>
-    <cities>
-      <id>103455</id>
-      <name>Lekebergs Kommun</name>
-      <latitude>59.18604000</latitude>
-      <longitude>14.79796000</longitude>
-    </cities>
-    <cities>
       <id>103456</id>
       <name>Leksand</name>
       <latitude>60.73030000</latitude>
       <longitude>14.99994000</longitude>
-    </cities>
-    <cities>
-      <id>103457</id>
-      <name>Leksands kommun</name>
-      <latitude>60.73227000</latitude>
-      <longitude>14.99805000</longitude>
     </cities>
     <cities>
       <id>103458</id>
@@ -704862,22 +703993,10 @@
       <longitude>12.26904000</longitude>
     </cities>
     <cities>
-      <id>103460</id>
-      <name>Lerums Kommun</name>
-      <latitude>57.77452000</latitude>
-      <longitude>12.26967000</longitude>
-    </cities>
-    <cities>
       <id>103461</id>
       <name>Lessebo</name>
       <latitude>56.75185000</latitude>
       <longitude>15.26969000</longitude>
-    </cities>
-    <cities>
-      <id>103462</id>
-      <name>Lessebo Kommun</name>
-      <latitude>56.76387000</latitude>
-      <longitude>15.31359000</longitude>
     </cities>
     <cities>
       <id>103463</id>
@@ -704892,22 +704011,10 @@
       <longitude>13.15765000</longitude>
     </cities>
     <cities>
-      <id>103465</id>
-      <name>Lidköpings Kommun</name>
-      <latitude>58.50000000</latitude>
-      <longitude>13.00000000</longitude>
-    </cities>
-    <cities>
       <id>103466</id>
       <name>Lilla Edet</name>
       <latitude>58.13333000</latitude>
       <longitude>12.13333000</longitude>
-    </cities>
-    <cities>
-      <id>103467</id>
-      <name>Lilla Edets Kommun</name>
-      <latitude>58.13569000</latitude>
-      <longitude>12.14345000</longitude>
     </cities>
     <cities>
       <id>103468</id>
@@ -704920,12 +704027,6 @@
       <name>Lindesberg</name>
       <latitude>59.59202000</latitude>
       <longitude>15.23040000</longitude>
-    </cities>
-    <cities>
-      <id>103470</id>
-      <name>Lindesbergs Kommun</name>
-      <latitude>59.64119000</latitude>
-      <longitude>15.34064000</longitude>
     </cities>
     <cities>
       <id>103471</id>
@@ -704964,22 +704065,10 @@
       <longitude>15.62157000</longitude>
     </cities>
     <cities>
-      <id>103477</id>
-      <name>Linköpings Kommun</name>
-      <latitude>58.41046000</latitude>
-      <longitude>15.61870000</longitude>
-    </cities>
-    <cities>
       <id>103478</id>
       <name>Ljungby</name>
       <latitude>56.83324000</latitude>
       <longitude>13.94082000</longitude>
-    </cities>
-    <cities>
-      <id>103479</id>
-      <name>Ljungby Kommun</name>
-      <latitude>56.80684000</latitude>
-      <longitude>13.82719000</longitude>
     </cities>
     <cities>
       <id>103480</id>
@@ -705018,18 +704107,6 @@
       <longitude>16.09126000</longitude>
     </cities>
     <cities>
-      <id>103486</id>
-      <name>Ljusdals Kommun</name>
-      <latitude>61.85527000</latitude>
-      <longitude>15.50695000</longitude>
-    </cities>
-    <cities>
-      <id>103487</id>
-      <name>Ljusnarsbergs Kommun</name>
-      <latitude>59.92622000</latitude>
-      <longitude>14.96499000</longitude>
-    </cities>
-    <cities>
       <id>103488</id>
       <name>Ljusne</name>
       <latitude>61.21170000</latitude>
@@ -705060,12 +704137,6 @@
       <longitude>13.06849000</longitude>
     </cities>
     <cities>
-      <id>103490</id>
-      <name>Lomma Kommun</name>
-      <latitude>55.70358000</latitude>
-      <longitude>13.07324000</longitude>
-    </cities>
-    <cities>
       <id>103509</id>
       <name>Lönsboda</name>
       <latitude>56.40000000</latitude>
@@ -705090,22 +704161,10 @@
       <longitude>15.18776000</longitude>
     </cities>
     <cities>
-      <id>103492</id>
-      <name>Ludvika Kommun</name>
-      <latitude>60.17114000</latitude>
-      <longitude>14.72635000</longitude>
-    </cities>
-    <cities>
       <id>103493</id>
       <name>Luleå</name>
       <latitude>65.58415000</latitude>
       <longitude>22.15465000</longitude>
-    </cities>
-    <cities>
-      <id>103494</id>
-      <name>Luleå kommun</name>
-      <latitude>65.68333000</latitude>
-      <longitude>22.16667000</longitude>
     </cities>
     <cities>
       <id>103495</id>
@@ -705114,34 +704173,16 @@
       <longitude>13.19321000</longitude>
     </cities>
     <cities>
-      <id>103496</id>
-      <name>Lunds Kommun</name>
-      <latitude>55.66897000</latitude>
-      <longitude>13.36408000</longitude>
-    </cities>
-    <cities>
       <id>103497</id>
       <name>Lycksele</name>
       <latitude>64.59537000</latitude>
       <longitude>18.67351000</longitude>
     </cities>
     <cities>
-      <id>103498</id>
-      <name>Lycksele kommun</name>
-      <latitude>64.62437000</latitude>
-      <longitude>18.48930000</longitude>
-    </cities>
-    <cities>
       <id>103499</id>
       <name>Lysekil</name>
       <latitude>58.27429000</latitude>
       <longitude>11.43576000</longitude>
-    </cities>
-    <cities>
-      <id>103500</id>
-      <name>Lysekils Kommun</name>
-      <latitude>58.34719000</latitude>
-      <longitude>11.46688000</longitude>
     </cities>
     <cities>
       <id>103512</id>
@@ -705154,12 +704195,6 @@
       <name>Malå</name>
       <latitude>65.18501000</latitude>
       <longitude>18.74243000</longitude>
-    </cities>
-    <cities>
-      <id>103521</id>
-      <name>Malå Kommun</name>
-      <latitude>65.20000000</latitude>
-      <longitude>18.75000000</longitude>
     </cities>
     <cities>
       <id>103559</id>
@@ -705202,12 +704237,6 @@
       <name>Malung</name>
       <latitude>60.68329000</latitude>
       <longitude>13.71542000</longitude>
-    </cities>
-    <cities>
-      <id>103519</id>
-      <name>Malung-Sälens kommun</name>
-      <latitude>60.56667000</latitude>
-      <longitude>13.66667000</longitude>
     </cities>
     <cities>
       <id>103522</id>
@@ -705258,28 +704287,10 @@
       <longitude>13.82367000</longitude>
     </cities>
     <cities>
-      <id>103530</id>
-      <name>Mariestads Kommun</name>
-      <latitude>58.70861000</latitude>
-      <longitude>13.85424000</longitude>
-    </cities>
-    <cities>
       <id>103531</id>
       <name>Markaryd</name>
       <latitude>56.46135000</latitude>
       <longitude>13.59644000</longitude>
-    </cities>
-    <cities>
-      <id>103532</id>
-      <name>Markaryds Kommun</name>
-      <latitude>56.54425000</latitude>
-      <longitude>13.62348000</longitude>
-    </cities>
-    <cities>
-      <id>103533</id>
-      <name>Marks Kommun</name>
-      <latitude>57.47604000</latitude>
-      <longitude>12.59462000</longitude>
     </cities>
     <cities>
       <id>103558</id>
@@ -705306,12 +704317,6 @@
       <longitude>12.45312000</longitude>
     </cities>
     <cities>
-      <id>103537</id>
-      <name>Melleruds Kommun</name>
-      <latitude>58.69110000</latitude>
-      <longitude>12.41399000</longitude>
-    </cities>
-    <cities>
       <id>103538</id>
       <name>Mjällby</name>
       <latitude>56.68333000</latitude>
@@ -705328,12 +704333,6 @@
       <name>Mjölby</name>
       <latitude>58.32595000</latitude>
       <longitude>15.12365000</longitude>
-    </cities>
-    <cities>
-      <id>103541</id>
-      <name>Mjölby Kommun</name>
-      <latitude>58.34576000</latitude>
-      <longitude>15.13853000</longitude>
     </cities>
     <cities>
       <id>103542</id>
@@ -705372,12 +704371,6 @@
       <longitude>12.01378000</longitude>
     </cities>
     <cities>
-      <id>103563</id>
-      <name>Mölndals kommun</name>
-      <latitude>57.60256000</latitude>
-      <longitude>12.09889000</longitude>
-    </cities>
-    <cities>
       <id>103564</id>
       <name>Mölnlycke</name>
       <latitude>57.65893000</latitude>
@@ -705390,22 +704383,10 @@
       <longitude>16.44463000</longitude>
     </cities>
     <cities>
-      <id>103566</id>
-      <name>Mönsterås Kommun</name>
-      <latitude>57.06625000</latitude>
-      <longitude>16.38621000</longitude>
-    </cities>
-    <cities>
       <id>103545</id>
       <name>Mora</name>
       <latitude>61.00704000</latitude>
       <longitude>14.54316000</longitude>
-    </cities>
-    <cities>
-      <id>103546</id>
-      <name>Mora Kommun</name>
-      <latitude>61.00656000</latitude>
-      <longitude>14.53755000</longitude>
     </cities>
     <cities>
       <id>103567</id>
@@ -705418,12 +704399,6 @@
       <name>Mörbylånga</name>
       <latitude>56.52480000</latitude>
       <longitude>16.37877000</longitude>
-    </cities>
-    <cities>
-      <id>103569</id>
-      <name>Mörbylånga Kommun</name>
-      <latitude>56.50000000</latitude>
-      <longitude>16.50000000</longitude>
     </cities>
     <cities>
       <id>103547</id>
@@ -705450,22 +704425,10 @@
       <longitude>15.03649000</longitude>
     </cities>
     <cities>
-      <id>103549</id>
-      <name>Motala Kommun</name>
-      <latitude>58.65131000</latitude>
-      <longitude>15.19105000</longitude>
-    </cities>
-    <cities>
       <id>103550</id>
       <name>Mullsjö</name>
       <latitude>57.91710000</latitude>
       <longitude>13.87831000</longitude>
-    </cities>
-    <cities>
-      <id>103551</id>
-      <name>Mullsjö kommun</name>
-      <latitude>57.95427000</latitude>
-      <longitude>13.82241000</longitude>
     </cities>
     <cities>
       <id>103552</id>
@@ -705480,22 +704443,10 @@
       <longitude>11.67345000</longitude>
     </cities>
     <cities>
-      <id>103554</id>
-      <name>Munkedals Kommun</name>
-      <latitude>58.57334000</latitude>
-      <longitude>11.70103000</longitude>
-    </cities>
-    <cities>
       <id>103555</id>
       <name>Munkfors</name>
       <latitude>59.83856000</latitude>
       <longitude>13.54361000</longitude>
-    </cities>
-    <cities>
-      <id>103556</id>
-      <name>Munkfors Kommun</name>
-      <latitude>59.81625000</latitude>
-      <longitude>13.49458000</longitude>
     </cities>
     <cities>
       <id>103557</id>
@@ -705510,22 +704461,10 @@
       <longitude>18.16372000</longitude>
     </cities>
     <cities>
-      <id>103573</id>
-      <name>Nacka Kommun</name>
-      <latitude>59.31077000</latitude>
-      <longitude>18.17551000</longitude>
-    </cities>
-    <cities>
       <id>103602</id>
       <name>Nässjö</name>
       <latitude>57.65307000</latitude>
       <longitude>14.69676000</longitude>
-    </cities>
-    <cities>
-      <id>103603</id>
-      <name>Nässjö Kommun</name>
-      <latitude>57.60892000</latitude>
-      <longitude>14.64041000</longitude>
     </cities>
     <cities>
       <id>103604</id>
@@ -705564,40 +704503,16 @@
       <longitude>15.03979000</longitude>
     </cities>
     <cities>
-      <id>103578</id>
-      <name>Nora Kommun</name>
-      <latitude>59.53456000</latitude>
-      <longitude>14.90777000</longitude>
-    </cities>
-    <cities>
       <id>103579</id>
       <name>Norberg</name>
       <latitude>60.06505000</latitude>
       <longitude>15.92366000</longitude>
     </cities>
     <cities>
-      <id>103580</id>
-      <name>Norbergs Kommun</name>
-      <latitude>60.08997000</latitude>
-      <longitude>15.95971000</longitude>
-    </cities>
-    <cities>
-      <id>103581</id>
-      <name>Nordanstigs kommun</name>
-      <latitude>62.05261000</latitude>
-      <longitude>16.91378000</longitude>
-    </cities>
-    <cities>
       <id>103582</id>
       <name>Nordmaling</name>
       <latitude>63.56852000</latitude>
       <longitude>19.50244000</longitude>
-    </cities>
-    <cities>
-      <id>103583</id>
-      <name>Nordmalings Kommun</name>
-      <latitude>63.68542000</latitude>
-      <longitude>19.36777000</longitude>
     </cities>
     <cities>
       <id>103584</id>
@@ -705618,34 +704533,16 @@
       <longitude>16.18260000</longitude>
     </cities>
     <cities>
-      <id>103587</id>
-      <name>Norrköpings Kommun</name>
-      <latitude>58.61139000</latitude>
-      <longitude>16.32092000</longitude>
-    </cities>
-    <cities>
       <id>103588</id>
       <name>Norrtälje</name>
       <latitude>59.75799000</latitude>
       <longitude>18.70496000</longitude>
     </cities>
     <cities>
-      <id>103589</id>
-      <name>Norrtälje Kommun</name>
-      <latitude>59.86120000</latitude>
-      <longitude>18.70573000</longitude>
-    </cities>
-    <cities>
       <id>103590</id>
       <name>Norsjö</name>
       <latitude>64.91206000</latitude>
       <longitude>19.48153000</longitude>
-    </cities>
-    <cities>
-      <id>103591</id>
-      <name>Norsjö Kommun</name>
-      <latitude>64.92993000</latitude>
-      <longitude>19.55556000</longitude>
     </cities>
     <cities>
       <id>103592</id>
@@ -705660,12 +704557,6 @@
       <longitude>15.90714000</longitude>
     </cities>
     <cities>
-      <id>103594</id>
-      <name>Nybro Kommun</name>
-      <latitude>56.82435000</latitude>
-      <longitude>15.88969000</longitude>
-    </cities>
-    <cities>
       <id>103595</id>
       <name>Nyhammar</name>
       <latitude>60.28333000</latitude>
@@ -705678,34 +704569,16 @@
       <longitude>17.00788000</longitude>
     </cities>
     <cities>
-      <id>103599</id>
-      <name>Nyköpings Kommun</name>
-      <latitude>58.81762000</latitude>
-      <longitude>16.89945000</longitude>
-    </cities>
-    <cities>
       <id>103596</id>
       <name>Nykvarn</name>
       <latitude>59.80000000</latitude>
       <longitude>18.30000000</longitude>
     </cities>
     <cities>
-      <id>103597</id>
-      <name>Nykvarns Kommun</name>
-      <latitude>59.19479000</latitude>
-      <longitude>17.40632000</longitude>
-    </cities>
-    <cities>
       <id>103600</id>
       <name>Nynäshamn</name>
       <latitude>58.90337000</latitude>
       <longitude>17.94793000</longitude>
-    </cities>
-    <cities>
-      <id>103601</id>
-      <name>Nynäshamns kommun</name>
-      <latitude>58.95607000</latitude>
-      <longitude>17.88694000</longitude>
     </cities>
     <cities>
       <id>103606</id>
@@ -705720,22 +704593,10 @@
       <longitude>16.71846000</longitude>
     </cities>
     <cities>
-      <id>103608</id>
-      <name>Ockelbo Kommun</name>
-      <latitude>60.94179000</latitude>
-      <longitude>16.57003000</longitude>
-    </cities>
-    <cities>
       <id>104025</id>
       <name>Öckerö</name>
       <latitude>57.70814000</latitude>
       <longitude>11.65585000</longitude>
-    </cities>
-    <cities>
-      <id>104026</id>
-      <name>Öckerö Kommun</name>
-      <latitude>57.69534000</latitude>
-      <longitude>11.64825000</longitude>
     </cities>
     <cities>
       <id>104030</id>
@@ -705762,12 +704623,6 @@
       <longitude>14.65294000</longitude>
     </cities>
     <cities>
-      <id>104028</id>
-      <name>Ödeshögs Kommun</name>
-      <latitude>58.22640000</latitude>
-      <longitude>14.74067000</longitude>
-    </cities>
-    <cities>
       <id>104029</id>
       <name>Ödsmål</name>
       <latitude>58.10000000</latitude>
@@ -705790,12 +704645,6 @@
       <name>Olofström</name>
       <latitude>56.27730000</latitude>
       <longitude>14.53402000</longitude>
-    </cities>
-    <cities>
-      <id>103613</id>
-      <name>Olofströms Kommun</name>
-      <latitude>56.32305000</latitude>
-      <longitude>14.56561000</longitude>
     </cities>
     <cities>
       <id>103614</id>
@@ -705834,12 +704683,6 @@
       <longitude>15.20660000</longitude>
     </cities>
     <cities>
-      <id>104035</id>
-      <name>Örebro Kommun</name>
-      <latitude>59.27168000</latitude>
-      <longitude>15.28364000</longitude>
-    </cities>
-    <cities>
       <id>104036</id>
       <name>Öregrund</name>
       <latitude>60.33333000</latitude>
@@ -705850,12 +704693,6 @@
       <name>Örkelljunga</name>
       <latitude>56.28338000</latitude>
       <longitude>13.27773000</longitude>
-    </cities>
-    <cities>
-      <id>104038</id>
-      <name>Örkelljunga Kommun</name>
-      <latitude>56.32464000</latitude>
-      <longitude>13.33941000</longitude>
     </cities>
     <cities>
       <id>103617</id>
@@ -705870,22 +704707,10 @@
       <longitude>18.71525000</longitude>
     </cities>
     <cities>
-      <id>104040</id>
-      <name>Örnsköldsviks Kommun</name>
-      <latitude>63.51458000</latitude>
-      <longitude>18.27101000</longitude>
-    </cities>
-    <cities>
       <id>103618</id>
       <name>Orsa</name>
       <latitude>61.12034000</latitude>
       <longitude>14.61550000</longitude>
-    </cities>
-    <cities>
-      <id>103619</id>
-      <name>Orsa Kommun</name>
-      <latitude>61.30000000</latitude>
-      <longitude>14.75000000</longitude>
     </cities>
     <cities>
       <id>104041</id>
@@ -705906,22 +704731,10 @@
       <longitude>13.99364000</longitude>
     </cities>
     <cities>
-      <id>103622</id>
-      <name>Osby kommun</name>
-      <latitude>56.44081000</latitude>
-      <longitude>14.11842000</longitude>
-    </cities>
-    <cities>
       <id>103623</id>
       <name>Oskarshamn</name>
       <latitude>57.26455000</latitude>
       <longitude>16.44837000</longitude>
-    </cities>
-    <cities>
-      <id>103624</id>
-      <name>Oskarshamns Kommun</name>
-      <latitude>57.37339000</latitude>
-      <longitude>16.38303000</longitude>
     </cities>
     <cities>
       <id>103625</id>
@@ -705934,12 +704747,6 @@
       <name>Ösmo</name>
       <latitude>58.98333000</latitude>
       <longitude>17.90000000</longitude>
-    </cities>
-    <cities>
-      <id>104047</id>
-      <name>Österåkers Kommun</name>
-      <latitude>59.48345000</latitude>
-      <longitude>18.29979000</longitude>
     </cities>
     <cities>
       <id>104043</id>
@@ -705972,28 +704779,10 @@
       <longitude>18.37408000</longitude>
     </cities>
     <cities>
-      <id>104049</id>
-      <name>Östhammars Kommun</name>
-      <latitude>60.24156000</latitude>
-      <longitude>18.26968000</longitude>
-    </cities>
-    <cities>
-      <id>104050</id>
-      <name>Östra Göinge Kommun</name>
-      <latitude>56.27212000</latitude>
-      <longitude>14.15980000</longitude>
-    </cities>
-    <cities>
       <id>104051</id>
       <name>Östra Ljungby</name>
       <latitude>56.19601000</latitude>
       <longitude>13.09199000</longitude>
-    </cities>
-    <cities>
-      <id>103626</id>
-      <name>Ovanåkers Kommun</name>
-      <latitude>61.33328000</latitude>
-      <longitude>15.78067000</longitude>
     </cities>
     <cities>
       <id>104052</id>
@@ -706002,22 +704791,10 @@
       <longitude>22.84414000</longitude>
     </cities>
     <cities>
-      <id>104053</id>
-      <name>Överkalix Kommun</name>
-      <latitude>66.47043000</latitude>
-      <longitude>22.57928000</longitude>
-    </cities>
-    <cities>
       <id>104054</id>
       <name>Övertorneå</name>
       <latitude>66.38778000</latitude>
       <longitude>23.65425000</longitude>
-    </cities>
-    <cities>
-      <id>104055</id>
-      <name>Övertorneå Kommun</name>
-      <latitude>66.48317000</latitude>
-      <longitude>23.43866000</longitude>
     </cities>
     <cities>
       <id>104056</id>
@@ -706030,12 +704807,6 @@
       <name>Oxelösund</name>
       <latitude>58.67057000</latitude>
       <longitude>17.10152000</longitude>
-    </cities>
-    <cities>
-      <id>103628</id>
-      <name>Oxelösunds Kommun</name>
-      <latitude>58.67519000</latitude>
-      <longitude>17.08406000</longitude>
     </cities>
     <cities>
       <id>103629</id>
@@ -706056,12 +704827,6 @@
       <longitude>23.36607000</longitude>
     </cities>
     <cities>
-      <id>103631</id>
-      <name>Pajala Kommun</name>
-      <latitude>67.24069000</latitude>
-      <longitude>22.91667000</longitude>
-    </cities>
-    <cities>
       <id>103640</id>
       <name>Pålsboda</name>
       <latitude>59.06565000</latitude>
@@ -706072,12 +704837,6 @@
       <name>Partille</name>
       <latitude>57.73950000</latitude>
       <longitude>12.10642000</longitude>
-    </cities>
-    <cities>
-      <id>103633</id>
-      <name>Partille Kommun</name>
-      <latitude>57.73306000</latitude>
-      <longitude>12.13072000</longitude>
     </cities>
     <cities>
       <id>103641</id>
@@ -706098,22 +704857,10 @@
       <longitude>13.39476000</longitude>
     </cities>
     <cities>
-      <id>103636</id>
-      <name>Perstorps Kommun</name>
-      <latitude>56.18857000</latitude>
-      <longitude>13.37681000</longitude>
-    </cities>
-    <cities>
       <id>103637</id>
       <name>Piteå</name>
       <latitude>65.31717000</latitude>
       <longitude>21.47944000</longitude>
-    </cities>
-    <cities>
-      <id>103638</id>
-      <name>Piteå Kommun</name>
-      <latitude>65.37229000</latitude>
-      <longitude>20.85153000</longitude>
     </cities>
     <cities>
       <id>103642</id>
@@ -706148,12 +704895,6 @@
     <cities>
       <id>103665</id>
       <name>Rättvik</name>
-      <latitude>60.88632000</latitude>
-      <longitude>15.11787000</longitude>
-    </cities>
-    <cities>
-      <id>103666</id>
-      <name>Rättviks Kommun</name>
       <latitude>60.88632000</latitude>
       <longitude>15.11787000</longitude>
     </cities>
@@ -706212,12 +704953,6 @@
       <longitude>20.84806000</longitude>
     </cities>
     <cities>
-      <id>103651</id>
-      <name>Robertsfors Kommun</name>
-      <latitude>64.16604000</latitude>
-      <longitude>20.78415000</longitude>
-    </cities>
-    <cities>
       <id>103672</id>
       <name>Rödeby</name>
       <latitude>56.26078000</latitude>
@@ -706252,12 +704987,6 @@
       <name>Ronneby</name>
       <latitude>56.20999000</latitude>
       <longitude>15.27602000</longitude>
-    </cities>
-    <cities>
-      <id>103656</id>
-      <name>Ronneby Kommun</name>
-      <latitude>56.31031000</latitude>
-      <longitude>15.24038000</longitude>
     </cities>
     <cities>
       <id>103673</id>
@@ -706320,34 +705049,16 @@
       <longitude>12.92888000</longitude>
     </cities>
     <cities>
-      <id>103805</id>
-      <name>Säffle Kommun</name>
-      <latitude>59.19559000</latitude>
-      <longitude>12.86437000</longitude>
-    </cities>
-    <cities>
       <id>103675</id>
       <name>Sala</name>
       <latitude>59.91993000</latitude>
       <longitude>16.60655000</longitude>
     </cities>
     <cities>
-      <id>103676</id>
-      <name>Sala kommun</name>
-      <latitude>59.97221000</latitude>
-      <longitude>16.47374000</longitude>
-    </cities>
-    <cities>
       <id>103816</id>
       <name>Sålanda</name>
       <latitude>57.98333000</latitude>
       <longitude>12.21667000</longitude>
-    </cities>
-    <cities>
-      <id>103677</id>
-      <name>Salems Kommun</name>
-      <latitude>59.24572000</latitude>
-      <longitude>17.69875000</longitude>
     </cities>
     <cities>
       <id>103678</id>
@@ -706374,12 +705085,6 @@
       <longitude>16.76667000</longitude>
     </cities>
     <cities>
-      <id>103682</id>
-      <name>Sandvikens Kommun</name>
-      <latitude>60.55029000</latitude>
-      <longitude>16.68461000</longitude>
-    </cities>
-    <cities>
       <id>103806</id>
       <name>Särö</name>
       <latitude>57.50577000</latitude>
@@ -706390,12 +705095,6 @@
       <name>Säter</name>
       <latitude>60.34778000</latitude>
       <longitude>15.75051000</longitude>
-    </cities>
-    <cities>
-      <id>103808</id>
-      <name>Säters Kommun</name>
-      <latitude>60.36887000</latitude>
-      <longitude>15.71383000</longitude>
     </cities>
     <cities>
       <id>103809</id>
@@ -706434,12 +705133,6 @@
       <longitude>14.66244000</longitude>
     </cities>
     <cities>
-      <id>103815</id>
-      <name>Sävsjö Kommun</name>
-      <latitude>57.32883000</latitude>
-      <longitude>14.59426000</longitude>
-    </cities>
-    <cities>
       <id>103683</id>
       <name>Saxtorpsskogen</name>
       <latitude>55.83208000</latitude>
@@ -706464,12 +705157,6 @@
       <longitude>17.72361000</longitude>
     </cities>
     <cities>
-      <id>103687</id>
-      <name>Sigtuna Kommun</name>
-      <latitude>59.63960000</latitude>
-      <longitude>17.93946000</longitude>
-    </cities>
-    <cities>
       <id>103688</id>
       <name>Siljansnäs</name>
       <latitude>60.78333000</latitude>
@@ -706482,22 +705169,10 @@
       <longitude>14.35037000</longitude>
     </cities>
     <cities>
-      <id>103690</id>
-      <name>Simrishamns kommun</name>
-      <latitude>55.58621000</latitude>
-      <longitude>14.23778000</longitude>
-    </cities>
-    <cities>
       <id>103692</id>
       <name>Sjöbo</name>
       <latitude>55.63135000</latitude>
       <longitude>13.70622000</longitude>
-    </cities>
-    <cities>
-      <id>103693</id>
-      <name>Sjöbo Kommun</name>
-      <latitude>55.65146000</latitude>
-      <longitude>13.75557000</longitude>
     </cities>
     <cities>
       <id>103694</id>
@@ -706534,12 +705209,6 @@
       <name>Skara</name>
       <latitude>58.38659000</latitude>
       <longitude>13.43836000</longitude>
-    </cities>
-    <cities>
-      <id>103697</id>
-      <name>Skara Kommun</name>
-      <latitude>58.37759000</latitude>
-      <longitude>13.47548000</longitude>
     </cities>
     <cities>
       <id>103719</id>
@@ -706584,12 +705253,6 @@
       <longitude>20.95279000</longitude>
     </cities>
     <cities>
-      <id>103702</id>
-      <name>Skellefteå Kommun</name>
-      <latitude>64.80261000</latitude>
-      <longitude>20.64410000</longitude>
-    </cities>
-    <cities>
       <id>103700</id>
       <name>Skelleftehamn</name>
       <latitude>64.68333000</latitude>
@@ -706612,12 +705275,6 @@
       <name>Skinnskatteberg</name>
       <latitude>59.83028000</latitude>
       <longitude>15.69337000</longitude>
-    </cities>
-    <cities>
-      <id>103706</id>
-      <name>Skinnskattebergs Kommun</name>
-      <latitude>59.79715000</latitude>
-      <longitude>15.71463000</longitude>
     </cities>
     <cities>
       <id>103707</id>
@@ -706656,12 +705313,6 @@
       <longitude>13.84506000</longitude>
     </cities>
     <cities>
-      <id>103725</id>
-      <name>Skövde Kommun</name>
-      <latitude>58.43488000</latitude>
-      <longitude>13.90358000</longitude>
-    </cities>
-    <cities>
       <id>103711</id>
       <name>Skrea</name>
       <latitude>56.88333000</latitude>
@@ -706684,12 +705335,6 @@
       <name>Skurup</name>
       <latitude>55.47839000</latitude>
       <longitude>13.50186000</longitude>
-    </cities>
-    <cities>
-      <id>103715</id>
-      <name>Skurups Kommun</name>
-      <latitude>55.47322000</latitude>
-      <longitude>13.54550000</longitude>
     </cities>
     <cities>
       <id>103716</id>
@@ -706728,12 +705373,6 @@
       <longitude>15.41416000</longitude>
     </cities>
     <cities>
-      <id>103730</id>
-      <name>Smedjebackens Kommun</name>
-      <latitude>60.09475000</latitude>
-      <longitude>15.45204000</longitude>
-    </cities>
-    <cities>
       <id>103733</id>
       <name>Smögen</name>
       <latitude>58.35593000</latitude>
@@ -706764,22 +705403,10 @@
       <longitude>17.05921000</longitude>
     </cities>
     <cities>
-      <id>103820</id>
-      <name>Söderhamns Kommun</name>
-      <latitude>61.25371000</latitude>
-      <longitude>16.94879000</longitude>
-    </cities>
-    <cities>
       <id>103821</id>
       <name>Söderköping</name>
       <latitude>58.48057000</latitude>
       <longitude>16.32221000</longitude>
-    </cities>
-    <cities>
-      <id>103822</id>
-      <name>Söderköpings Kommun</name>
-      <latitude>58.42056000</latitude>
-      <longitude>16.44510000</longitude>
     </cities>
     <cities>
       <id>103823</id>
@@ -706792,12 +705419,6 @@
       <name>Södertälje</name>
       <latitude>59.19554000</latitude>
       <longitude>17.62525000</longitude>
-    </cities>
-    <cities>
-      <id>103825</id>
-      <name>Södertälje Kommun</name>
-      <latitude>59.18121000</latitude>
-      <longitude>17.62756000</longitude>
     </cities>
     <cities>
       <id>103826</id>
@@ -706836,22 +705457,10 @@
       <longitude>17.26667000</longitude>
     </cities>
     <cities>
-      <id>103736</id>
-      <name>Sollefteå Kommun</name>
-      <latitude>63.38333000</latitude>
-      <longitude>16.91667000</longitude>
-    </cities>
-    <cities>
       <id>103737</id>
       <name>Sollentuna</name>
       <latitude>59.42804000</latitude>
       <longitude>17.95093000</longitude>
-    </cities>
-    <cities>
-      <id>103738</id>
-      <name>Sollentuna Kommun</name>
-      <latitude>59.44499000</latitude>
-      <longitude>17.93518000</longitude>
     </cities>
     <cities>
       <id>103739</id>
@@ -706860,22 +705469,10 @@
       <longitude>18.00086000</longitude>
     </cities>
     <cities>
-      <id>103740</id>
-      <name>Solna Kommun</name>
-      <latitude>59.36548000</latitude>
-      <longitude>18.00728000</longitude>
-    </cities>
-    <cities>
       <id>103830</id>
       <name>Sölvesborg</name>
       <latitude>56.05205000</latitude>
       <longitude>14.57525000</longitude>
-    </cities>
-    <cities>
-      <id>103831</id>
-      <name>Sölvesborgs kommun</name>
-      <latitude>56.08910000</latitude>
-      <longitude>14.64518000</longitude>
     </cities>
     <cities>
       <id>103833</id>
@@ -706896,34 +705493,16 @@
       <longitude>17.53702000</longitude>
     </cities>
     <cities>
-      <id>103742</id>
-      <name>Sorsele Kommun</name>
-      <latitude>65.75000000</latitude>
-      <longitude>16.75000000</longitude>
-    </cities>
-    <cities>
       <id>103834</id>
       <name>Sösdala</name>
       <latitude>56.03992000</latitude>
       <longitude>13.67811000</longitude>
     </cities>
     <cities>
-      <id>103743</id>
-      <name>Sotenäs Kommun</name>
-      <latitude>58.42215000</latitude>
-      <longitude>11.34296000</longitude>
-    </cities>
-    <cities>
       <id>103744</id>
       <name>Staffanstorp</name>
       <latitude>55.64277000</latitude>
       <longitude>13.20638000</longitude>
-    </cities>
-    <cities>
-      <id>103745</id>
-      <name>Staffanstorps Kommun</name>
-      <latitude>55.65000000</latitude>
-      <longitude>13.20000000</longitude>
     </cities>
     <cities>
       <id>103746</id>
@@ -706986,12 +705565,6 @@
       <longitude>11.81810000</longitude>
     </cities>
     <cities>
-      <id>103755</id>
-      <name>Stenungsunds Kommun</name>
-      <latitude>58.06248000</latitude>
-      <longitude>11.90473000</longitude>
-    </cities>
-    <cities>
       <id>103756</id>
       <name>Stigtomta</name>
       <latitude>58.80000000</latitude>
@@ -707008,12 +705581,6 @@
       <name>Stockholm</name>
       <latitude>59.33258000</latitude>
       <longitude>18.06490000</longitude>
-    </cities>
-    <cities>
-      <id>103759</id>
-      <name>Stockholms Kommun</name>
-      <latitude>59.32478000</latitude>
-      <longitude>18.06427000</longitude>
     </cities>
     <cities>
       <id>103760</id>
@@ -707052,22 +705619,10 @@
       <longitude>14.27201000</longitude>
     </cities>
     <cities>
-      <id>103764</id>
-      <name>Storfors Kommun</name>
-      <latitude>59.49478000</latitude>
-      <longitude>14.24733000</longitude>
-    </cities>
-    <cities>
       <id>103765</id>
       <name>Storuman</name>
       <latitude>65.09590000</latitude>
       <longitude>17.11731000</longitude>
-    </cities>
-    <cities>
-      <id>103766</id>
-      <name>Storumans Kommun</name>
-      <latitude>65.45192000</latitude>
-      <longitude>16.25810000</longitude>
     </cities>
     <cities>
       <id>103767</id>
@@ -707094,12 +705649,6 @@
       <longitude>17.03119000</longitude>
     </cities>
     <cities>
-      <id>103772</id>
-      <name>Strängnäs Kommun</name>
-      <latitude>59.36109000</latitude>
-      <longitude>17.08804000</longitude>
-    </cities>
-    <cities>
       <id>103773</id>
       <name>Strömma</name>
       <latitude>59.28333000</latitude>
@@ -707116,12 +705665,6 @@
       <name>Strömstad</name>
       <latitude>58.93945000</latitude>
       <longitude>11.17120000</longitude>
-    </cities>
-    <cities>
-      <id>103776</id>
-      <name>Strömstads Kommun</name>
-      <latitude>58.94891000</latitude>
-      <longitude>11.25543000</longitude>
     </cities>
     <cities>
       <id>103777</id>
@@ -707154,12 +705697,6 @@
       <longitude>17.97114000</longitude>
     </cities>
     <cities>
-      <id>103784</id>
-      <name>Sundbybergs Kommun</name>
-      <latitude>59.36669000</latitude>
-      <longitude>17.97020000</longitude>
-    </cities>
-    <cities>
       <id>103785</id>
       <name>Sundsbruk</name>
       <latitude>62.45806000</latitude>
@@ -707172,34 +705709,16 @@
       <longitude>17.30630000</longitude>
     </cities>
     <cities>
-      <id>103787</id>
-      <name>Sundsvalls Kommun</name>
-      <latitude>62.47912000</latitude>
-      <longitude>16.92651000</longitude>
-    </cities>
-    <cities>
       <id>103788</id>
       <name>Sunne</name>
       <latitude>59.83764000</latitude>
       <longitude>13.14302000</longitude>
     </cities>
     <cities>
-      <id>103789</id>
-      <name>Sunne Kommun</name>
-      <latitude>59.90378000</latitude>
-      <longitude>13.04420000</longitude>
-    </cities>
-    <cities>
       <id>103790</id>
       <name>Surahammar</name>
       <latitude>59.70725000</latitude>
       <longitude>16.22188000</longitude>
-    </cities>
-    <cities>
-      <id>103791</id>
-      <name>Surahammars Kommun</name>
-      <latitude>59.77487000</latitude>
-      <longitude>16.11885000</longitude>
     </cities>
     <cities>
       <id>103792</id>
@@ -707212,12 +705731,6 @@
       <name>Svalöv</name>
       <latitude>55.91340000</latitude>
       <longitude>13.10762000</longitude>
-    </cities>
-    <cities>
-      <id>103795</id>
-      <name>Svalövs Kommun</name>
-      <latitude>55.96497000</latitude>
-      <longitude>13.13173000</longitude>
     </cities>
     <cities>
       <id>103793</id>
@@ -707256,34 +705769,16 @@
       <longitude>13.23515000</longitude>
     </cities>
     <cities>
-      <id>103798</id>
-      <name>Svedala Kommun</name>
-      <latitude>55.54324000</latitude>
-      <longitude>13.26859000</longitude>
-    </cities>
-    <cities>
       <id>103799</id>
       <name>Svenljunga</name>
       <latitude>57.49551000</latitude>
       <longitude>13.11078000</longitude>
     </cities>
     <cities>
-      <id>103800</id>
-      <name>Svenljunga Kommun</name>
-      <latitude>57.39249000</latitude>
-      <longitude>13.05216000</longitude>
-    </cities>
-    <cities>
       <id>103835</id>
       <name>Taberg</name>
       <latitude>57.67722000</latitude>
       <longitude>14.08876000</longitude>
-    </cities>
-    <cities>
-      <id>103887</id>
-      <name>Täby Kommun</name>
-      <latitude>59.43739000</latitude>
-      <longitude>18.06530000</longitude>
     </cities>
     <cities>
       <id>103888</id>
@@ -707296,12 +705791,6 @@
       <name>Tallboda</name>
       <latitude>58.42521000</latitude>
       <longitude>15.68154000</longitude>
-    </cities>
-    <cities>
-      <id>103837</id>
-      <name>Tanums Kommun</name>
-      <latitude>58.71656000</latitude>
-      <longitude>11.42571000</longitude>
     </cities>
     <cities>
       <id>103838</id>
@@ -707340,34 +705829,16 @@
       <longitude>14.16162000</longitude>
     </cities>
     <cities>
-      <id>103843</id>
-      <name>Tibro Kommun</name>
-      <latitude>58.44920000</latitude>
-      <longitude>14.22664000</longitude>
-    </cities>
-    <cities>
       <id>103844</id>
       <name>Tidaholm</name>
       <latitude>58.18035000</latitude>
       <longitude>13.95824000</longitude>
     </cities>
     <cities>
-      <id>103845</id>
-      <name>Tidaholms kommun</name>
-      <latitude>58.14842000</latitude>
-      <longitude>13.94336000</longitude>
-    </cities>
-    <cities>
       <id>103846</id>
       <name>Tierp</name>
       <latitude>60.34269000</latitude>
       <longitude>17.51812000</longitude>
-    </cities>
-    <cities>
-      <id>103847</id>
-      <name>Tierps kommun</name>
-      <latitude>60.37206000</latitude>
-      <longitude>17.63629000</longitude>
     </cities>
     <cities>
       <id>103848</id>
@@ -707388,28 +705859,10 @@
       <longitude>17.32613000</longitude>
     </cities>
     <cities>
-      <id>103851</id>
-      <name>Timrå Kommun</name>
-      <latitude>62.61598000</latitude>
-      <longitude>17.37848000</longitude>
-    </cities>
-    <cities>
       <id>103852</id>
       <name>Tingsryd</name>
       <latitude>56.52470000</latitude>
       <longitude>14.97902000</longitude>
-    </cities>
-    <cities>
-      <id>103853</id>
-      <name>Tingsryds Kommun</name>
-      <latitude>56.53333000</latitude>
-      <longitude>14.96667000</longitude>
-    </cities>
-    <cities>
-      <id>103855</id>
-      <name>Tjörns Kommun</name>
-      <latitude>58.00519000</latitude>
-      <longitude>11.63101000</longitude>
     </cities>
     <cities>
       <id>103854</id>
@@ -707442,12 +705895,6 @@
       <longitude>13.95460000</longitude>
     </cities>
     <cities>
-      <id>103859</id>
-      <name>Tomelilla Kommun</name>
-      <latitude>55.61963000</latitude>
-      <longitude>14.01975000</longitude>
-    </cities>
-    <cities>
       <id>103891</id>
       <name>Töre</name>
       <latitude>65.91243000</latitude>
@@ -707458,12 +705905,6 @@
       <name>Töreboda</name>
       <latitude>58.70739000</latitude>
       <longitude>14.12597000</longitude>
-    </cities>
-    <cities>
-      <id>103893</id>
-      <name>Töreboda Kommun</name>
-      <latitude>58.67996000</latitude>
-      <longitude>14.16139000</longitude>
     </cities>
     <cities>
       <id>103860</id>
@@ -707484,22 +705925,10 @@
       <longitude>15.99844000</longitude>
     </cities>
     <cities>
-      <id>103867</id>
-      <name>Torsås Kommun</name>
-      <latitude>56.42649000</latitude>
-      <longitude>15.89128000</longitude>
-    </cities>
-    <cities>
       <id>103862</id>
       <name>Torsby</name>
       <latitude>60.13527000</latitude>
       <longitude>13.00820000</longitude>
-    </cities>
-    <cities>
-      <id>103863</id>
-      <name>Torsby Kommun</name>
-      <latitude>60.56939000</latitude>
-      <longitude>12.93837000</longitude>
     </cities>
     <cities>
       <id>103864</id>
@@ -707526,22 +705955,10 @@
       <longitude>14.97820000</longitude>
     </cities>
     <cities>
-      <id>103872</id>
-      <name>Tranås Kommun</name>
-      <latitude>58.02906000</latitude>
-      <longitude>14.83456000</longitude>
-    </cities>
-    <cities>
       <id>103869</id>
       <name>Tranemo</name>
       <latitude>57.48333000</latitude>
       <longitude>13.35000000</longitude>
-    </cities>
-    <cities>
-      <id>103870</id>
-      <name>Tranemo Kommun</name>
-      <latitude>57.50000000</latitude>
-      <longitude>13.43333000</longitude>
     </cities>
     <cities>
       <id>103879</id>
@@ -707562,12 +705979,6 @@
       <longitude>13.15691000</longitude>
     </cities>
     <cities>
-      <id>103875</id>
-      <name>Trelleborgs Kommun</name>
-      <latitude>55.41274000</latitude>
-      <longitude>13.26859000</longitude>
-    </cities>
-    <cities>
       <id>103876</id>
       <name>Trollhättan</name>
       <latitude>58.21208000</latitude>
@@ -707584,12 +705995,6 @@
       <name>Trosa</name>
       <latitude>58.89621000</latitude>
       <longitude>17.54812000</longitude>
-    </cities>
-    <cities>
-      <id>103878</id>
-      <name>Trosa Kommun</name>
-      <latitude>58.89330000</latitude>
-      <longitude>17.49847000</longitude>
     </cities>
     <cities>
       <id>103881</id>
@@ -707616,12 +706021,6 @@
       <longitude>13.00000000</longitude>
     </cities>
     <cities>
-      <id>103885</id>
-      <name>Tyresö Kommun</name>
-      <latitude>59.24148000</latitude>
-      <longitude>18.28074000</longitude>
-    </cities>
-    <cities>
       <id>103886</id>
       <name>Tyringe</name>
       <latitude>56.16037000</latitude>
@@ -707634,22 +706033,10 @@
       <longitude>11.94240000</longitude>
     </cities>
     <cities>
-      <id>103895</id>
-      <name>Uddevalla Kommun</name>
-      <latitude>58.34099000</latitude>
-      <longitude>11.84744000</longitude>
-    </cities>
-    <cities>
       <id>103896</id>
       <name>Ulricehamn</name>
       <latitude>57.79159000</latitude>
       <longitude>13.41422000</longitude>
-    </cities>
-    <cities>
-      <id>103897</id>
-      <name>Ulricehamns Kommun</name>
-      <latitude>57.82059000</latitude>
-      <longitude>13.46116000</longitude>
     </cities>
     <cities>
       <id>103898</id>
@@ -707658,46 +706045,16 @@
       <longitude>20.25972000</longitude>
     </cities>
     <cities>
-      <id>103899</id>
-      <name>Umeå Kommun</name>
-      <latitude>63.82992000</latitude>
-      <longitude>20.25484000</longitude>
-    </cities>
-    <cities>
       <id>103900</id>
       <name>Upplands Väsby</name>
       <latitude>59.51839000</latitude>
       <longitude>17.91128000</longitude>
     </cities>
     <cities>
-      <id>103901</id>
-      <name>Upplands Väsby kommun</name>
-      <latitude>59.52382000</latitude>
-      <longitude>17.91001000</longitude>
-    </cities>
-    <cities>
-      <id>103902</id>
-      <name>Upplands-Bro Kommun</name>
-      <latitude>59.49095000</latitude>
-      <longitude>17.74979000</longitude>
-    </cities>
-    <cities>
       <id>103903</id>
       <name>Uppsala</name>
       <latitude>59.85882000</latitude>
       <longitude>17.63889000</longitude>
-    </cities>
-    <cities>
-      <id>103904</id>
-      <name>Uppsala Kommun</name>
-      <latitude>59.96425000</latitude>
-      <longitude>17.77395000</longitude>
-    </cities>
-    <cities>
-      <id>103905</id>
-      <name>Uppvidinge Kommun</name>
-      <latitude>57.03442000</latitude>
-      <longitude>15.44727000</longitude>
     </cities>
     <cities>
       <id>103906</id>
@@ -707712,22 +706069,10 @@
       <longitude>14.88969000</longitude>
     </cities>
     <cities>
-      <id>103908</id>
-      <name>Vadstena Kommun</name>
-      <latitude>58.40783000</latitude>
-      <longitude>14.86162000</longitude>
-    </cities>
-    <cities>
       <id>103909</id>
       <name>Vaggeryd</name>
       <latitude>57.49807000</latitude>
       <longitude>14.14842000</longitude>
-    </cities>
-    <cities>
-      <id>103910</id>
-      <name>Vaggeryds Kommun</name>
-      <latitude>57.47206000</latitude>
-      <longitude>14.12797000</longitude>
     </cities>
     <cities>
       <id>103911</id>
@@ -707754,12 +706099,6 @@
       <longitude>16.60225000</longitude>
     </cities>
     <cities>
-      <id>103914</id>
-      <name>Valdemarsviks Kommun</name>
-      <latitude>58.20000000</latitude>
-      <longitude>16.60000000</longitude>
-    </cities>
-    <cities>
       <id>103915</id>
       <name>Valje</name>
       <latitude>56.06279000</latitude>
@@ -707784,34 +706123,16 @@
       <longitude>18.07758000</longitude>
     </cities>
     <cities>
-      <id>103919</id>
-      <name>Vallentuna Kommun</name>
-      <latitude>59.59146000</latitude>
-      <longitude>18.21000000</longitude>
-    </cities>
-    <cities>
       <id>103962</id>
       <name>Vänersborg</name>
       <latitude>58.38075000</latitude>
       <longitude>12.32340000</longitude>
     </cities>
     <cities>
-      <id>103963</id>
-      <name>Vänersborgs Kommun</name>
-      <latitude>58.39828000</latitude>
-      <longitude>12.27554000</longitude>
-    </cities>
-    <cities>
       <id>103964</id>
       <name>Vännäs</name>
       <latitude>63.90676000</latitude>
       <longitude>19.75712000</longitude>
-    </cities>
-    <cities>
-      <id>103965</id>
-      <name>Vännäs Kommun</name>
-      <latitude>63.94960000</latitude>
-      <longitude>19.70834000</longitude>
     </cities>
     <cities>
       <id>103966</id>
@@ -707826,34 +706147,16 @@
       <longitude>14.22458000</longitude>
     </cities>
     <cities>
-      <id>103921</id>
-      <name>Vansbro Kommun</name>
-      <latitude>60.46117000</latitude>
-      <longitude>14.27836000</longitude>
-    </cities>
-    <cities>
       <id>103922</id>
       <name>Vara</name>
       <latitude>58.26234000</latitude>
       <longitude>12.95413000</longitude>
     </cities>
     <cities>
-      <id>103923</id>
-      <name>Vara Kommun</name>
-      <latitude>58.24391000</latitude>
-      <longitude>13.07285000</longitude>
-    </cities>
-    <cities>
       <id>103924</id>
       <name>Varberg</name>
       <latitude>57.10557000</latitude>
       <longitude>12.25078000</longitude>
-    </cities>
-    <cities>
-      <id>103925</id>
-      <name>Varbergs Kommun</name>
-      <latitude>57.17208000</latitude>
-      <longitude>12.41797000</longitude>
     </cities>
     <cities>
       <id>103978</id>
@@ -707868,34 +706171,16 @@
       <longitude>12.80907000</longitude>
     </cities>
     <cities>
-      <id>103980</id>
-      <name>Vårgårda Kommun</name>
-      <latitude>57.98769000</latitude>
-      <longitude>12.76888000</longitude>
-    </cities>
-    <cities>
       <id>103926</id>
       <name>Vargön</name>
       <latitude>58.35599000</latitude>
       <longitude>12.39060000</longitude>
     </cities>
     <cities>
-      <id>103967</id>
-      <name>Värmdö Kommun</name>
-      <latitude>59.31614000</latitude>
-      <longitude>18.70414000</longitude>
-    </cities>
-    <cities>
       <id>103968</id>
       <name>Värnamo</name>
       <latitude>57.18604000</latitude>
       <longitude>14.04001000</longitude>
-    </cities>
-    <cities>
-      <id>103969</id>
-      <name>Värnamo Kommun</name>
-      <latitude>57.17128000</latitude>
-      <longitude>14.05317000</longitude>
     </cities>
     <cities>
       <id>103981</id>
@@ -707922,12 +706207,6 @@
       <longitude>16.63733000</longitude>
     </cities>
     <cities>
-      <id>103971</id>
-      <name>Västerviks Kommun</name>
-      <latitude>57.85242000</latitude>
-      <longitude>16.38940000</longitude>
-    </cities>
-    <cities>
       <id>103973</id>
       <name>Västra Frölunda</name>
       <latitude>57.64667000</latitude>
@@ -707952,22 +706231,10 @@
       <longitude>18.35317000</longitude>
     </cities>
     <cities>
-      <id>103930</id>
-      <name>Vaxholms Kommun</name>
-      <latitude>59.40386000</latitude>
-      <longitude>18.34167000</longitude>
-    </cities>
-    <cities>
       <id>103975</id>
       <name>Växjö</name>
       <latitude>56.87767000</latitude>
       <longitude>14.80906000</longitude>
-    </cities>
-    <cities>
-      <id>103976</id>
-      <name>Växjö Kommun</name>
-      <latitude>56.94530000</latitude>
-      <longitude>14.89981000</longitude>
     </cities>
     <cities>
       <id>103931</id>
@@ -708000,22 +706267,10 @@
       <longitude>13.01971000</longitude>
     </cities>
     <cities>
-      <id>103936</id>
-      <name>Vellinge Kommun</name>
-      <latitude>55.44776000</latitude>
-      <longitude>13.00919000</longitude>
-    </cities>
-    <cities>
       <id>103937</id>
       <name>Vetlanda</name>
       <latitude>57.42887000</latitude>
       <longitude>15.07762000</longitude>
-    </cities>
-    <cities>
-      <id>103938</id>
-      <name>Vetlanda kommun</name>
-      <latitude>57.36862000</latitude>
-      <longitude>15.18468000</longitude>
     </cities>
     <cities>
       <id>103939</id>
@@ -708060,22 +706315,10 @@
       <longitude>16.65596000</longitude>
     </cities>
     <cities>
-      <id>103946</id>
-      <name>Vilhelmina Kommun</name>
-      <latitude>64.99358000</latitude>
-      <longitude>16.03212000</longitude>
-    </cities>
-    <cities>
       <id>103947</id>
       <name>Vimmerby</name>
       <latitude>57.66588000</latitude>
       <longitude>15.85515000</longitude>
-    </cities>
-    <cities>
-      <id>103948</id>
-      <name>Vimmerby Kommun</name>
-      <latitude>57.69009000</latitude>
-      <longitude>15.86741000</longitude>
     </cities>
     <cities>
       <id>103949</id>
@@ -708084,22 +706327,10 @@
       <longitude>19.71945000</longitude>
     </cities>
     <cities>
-      <id>103950</id>
-      <name>Vindelns Kommun</name>
-      <latitude>64.18605000</latitude>
-      <longitude>19.71222000</longitude>
-    </cities>
-    <cities>
       <id>103951</id>
       <name>Vingåker</name>
       <latitude>59.04330000</latitude>
       <longitude>15.87374000</longitude>
-    </cities>
-    <cities>
-      <id>103952</id>
-      <name>Vingåkers Kommun</name>
-      <latitude>59.06667000</latitude>
-      <longitude>15.88333000</longitude>
     </cities>
     <cities>
       <id>103953</id>
@@ -708156,22 +706387,10 @@
       <longitude>14.46667000</longitude>
     </cities>
     <cities>
-      <id>103982</id>
-      <name>Ydre Kommun</name>
-      <latitude>57.86355000</latitude>
-      <longitude>15.26266000</longitude>
-    </cities>
-    <cities>
       <id>103983</id>
       <name>Ystad</name>
       <latitude>55.42966000</latitude>
       <longitude>13.82041000</longitude>
-    </cities>
-    <cities>
-      <id>103984</id>
-      <name>Ystads Kommun</name>
-      <latitude>55.46367000</latitude>
-      <longitude>13.91153000</longitude>
     </cities>
   </country_city>
   <country_city>
@@ -728203,6 +726422,173 @@
     </cities>
   </country_city>
   <country_city>
+    <id>17</id>
+    <name>The Bahamas</name>
+    <iso3>BHS</iso3>
+    <iso2>BS</iso2>
+    <numeric_code>044</numeric_code>
+    <phone_code>+1-242</phone_code>
+    <capital>Nassau</capital>
+    <currency>BSD</currency>
+    <currency_name>Bahamian dollar</currency_name>
+    <currency_symbol>B$</currency_symbol>
+    <tld>.bs</tld>
+    <native>Bahamas</native>
+    <region>Americas</region>
+    <subregion>Caribbean</subregion>
+    <timezones>
+      <zoneName>America/Nassau</zoneName>
+      <gmtOffset>-18000</gmtOffset>
+      <gmtOffsetName>UTC-05:00</gmtOffsetName>
+      <abbreviation>EST</abbreviation>
+      <tzName>Eastern Standard Time (North America)</tzName>
+    </timezones>
+    <translations>
+      <kr>바하마</kr>
+      <br>Bahamas</br>
+      <pt>Baamas</pt>
+      <nl>Bahama’s</nl>
+      <hr>Bahami</hr>
+      <fa>باهاما</fa>
+      <de>Bahamas</de>
+      <es>Bahamas</es>
+      <fr>Bahamas</fr>
+      <ja>バハマ</ja>
+      <it>Bahamas</it>
+      <cn>巴哈马</cn>
+    </translations>
+    <latitude>24.25000000</latitude>
+    <longitude>-76.00000000</longitude>
+    <emoji>🇧🇸</emoji>
+    <emojiU>U+1F1E7 U+1F1F8</emojiU>
+    <cities>
+      <id>15685</id>
+      <name>Abraham’s Bay</name>
+      <latitude>22.36667000</latitude>
+      <longitude>-72.96667000</longitude>
+    </cities>
+    <cities>
+      <id>15686</id>
+      <name>Alice Town</name>
+      <latitude>25.72800000</latitude>
+      <longitude>-79.29721000</longitude>
+    </cities>
+    <cities>
+      <id>15687</id>
+      <name>Andros Town</name>
+      <latitude>24.70502000</latitude>
+      <longitude>-77.76912000</longitude>
+    </cities>
+    <cities>
+      <id>15688</id>
+      <name>Arthur’s Town</name>
+      <latitude>24.62240000</latitude>
+      <longitude>-75.67151000</longitude>
+    </cities>
+    <cities>
+      <id>15689</id>
+      <name>Clarence Town</name>
+      <latitude>23.10000000</latitude>
+      <longitude>-74.98333000</longitude>
+    </cities>
+    <cities>
+      <id>15690</id>
+      <name>Cockburn Town</name>
+      <latitude>24.05179000</latitude>
+      <longitude>-74.53138000</longitude>
+    </cities>
+    <cities>
+      <id>15691</id>
+      <name>Colonel Hill</name>
+      <latitude>22.75450000</latitude>
+      <longitude>-74.20415000</longitude>
+    </cities>
+    <cities>
+      <id>15692</id>
+      <name>Cooper’s Town</name>
+      <latitude>26.87137000</latitude>
+      <longitude>-77.51131000</longitude>
+    </cities>
+    <cities>
+      <id>15693</id>
+      <name>Duncan Town</name>
+      <latitude>22.19083000</latitude>
+      <longitude>-75.72583000</longitude>
+    </cities>
+    <cities>
+      <id>15694</id>
+      <name>Dunmore Town</name>
+      <latitude>25.50216000</latitude>
+      <longitude>-76.63633000</longitude>
+    </cities>
+    <cities>
+      <id>15695</id>
+      <name>Freeport</name>
+      <latitude>26.53333000</latitude>
+      <longitude>-78.70000000</longitude>
+    </cities>
+    <cities>
+      <id>15696</id>
+      <name>George Town</name>
+      <latitude>23.51616000</latitude>
+      <longitude>-75.78665000</longitude>
+    </cities>
+    <cities>
+      <id>15697</id>
+      <name>High Rock</name>
+      <latitude>26.60999000</latitude>
+      <longitude>-78.27863000</longitude>
+    </cities>
+    <cities>
+      <id>15698</id>
+      <name>Lucaya</name>
+      <latitude>26.53333000</latitude>
+      <longitude>-78.66667000</longitude>
+    </cities>
+    <cities>
+      <id>15699</id>
+      <name>Marsh Harbour</name>
+      <latitude>26.54124000</latitude>
+      <longitude>-77.06360000</longitude>
+    </cities>
+    <cities>
+      <id>15700</id>
+      <name>Matthew Town</name>
+      <latitude>20.94982000</latitude>
+      <longitude>-73.67346000</longitude>
+    </cities>
+    <cities>
+      <id>143913</id>
+      <name>Nassau</name>
+      <latitude>25.06666667</latitude>
+      <longitude>-77.33333333</longitude>
+    </cities>
+    <cities>
+      <id>15701</id>
+      <name>Port Nelson</name>
+      <latitude>23.64967000</latitude>
+      <longitude>-74.84157000</longitude>
+    </cities>
+    <cities>
+      <id>15702</id>
+      <name>San Andros</name>
+      <latitude>25.06667000</latitude>
+      <longitude>-78.05000000</longitude>
+    </cities>
+    <cities>
+      <id>15703</id>
+      <name>Spanish Wells</name>
+      <latitude>25.54717000</latitude>
+      <longitude>-76.76405000</longitude>
+    </cities>
+    <cities>
+      <id>15704</id>
+      <name>West End</name>
+      <latitude>26.68711000</latitude>
+      <longitude>-78.97702000</longitude>
+    </cities>
+  </country_city>
+  <country_city>
     <id>220</id>
     <name>Togo</name>
     <iso3>TGO</iso3>
@@ -738672,6 +737058,12 @@
     <emoji>🇺🇦</emoji>
     <emojiU>U+1F1FA U+1F1E6</emojiU>
     <cities>
+      <id>149311</id>
+      <name>Abramok</name>
+      <latitude>50.63694444</latitude>
+      <longitude>27.90750000</longitude>
+    </cities>
+    <cities>
       <id>109305</id>
       <name>Abrikosovka</name>
       <latitude>45.10759000</latitude>
@@ -738684,6 +737076,18 @@
       <longitude>34.10156000</longitude>
     </cities>
     <cities>
+      <id>149312</id>
+      <name>Adamivka</name>
+      <latitude>50.37694444</latitude>
+      <longitude>27.91527778</longitude>
+    </cities>
+    <cities>
+      <id>149313</id>
+      <name>Adamove</name>
+      <latitude>50.83111111</latitude>
+      <longitude>27.48305556</longitude>
+    </cities>
+    <cities>
       <id>109307</id>
       <name>Adzhamka</name>
       <latitude>48.54245000</latitude>
@@ -738694,6 +737098,12 @@
       <name>Aeroflotskiy</name>
       <latitude>45.01816000</latitude>
       <longitude>33.99961000</longitude>
+    </cities>
+    <cities>
+      <id>149314</id>
+      <name>Agativka</name>
+      <latitude>49.98611111</latitude>
+      <longitude>28.60500000</longitude>
     </cities>
     <cities>
       <id>109309</id>
@@ -738760,6 +737170,18 @@
       <name>Amvrosiyivka</name>
       <latitude>47.79348000</latitude>
       <longitude>38.47768000</longitude>
+    </cities>
+    <cities>
+      <id>149315</id>
+      <name>Andriyivka</name>
+      <latitude>49.76293844</latitude>
+      <longitude>34.30037490</longitude>
+    </cities>
+    <cities>
+      <id>149316</id>
+      <name>Andrushivka</name>
+      <latitude>50.01666667</latitude>
+      <longitude>29.01666667</longitude>
     </cities>
     <cities>
       <id>109320</id>
@@ -738840,6 +737262,12 @@
       <longitude>34.46111000</longitude>
     </cities>
     <cities>
+      <id>149317</id>
+      <name>Autozavodskoy Raion</name>
+      <latitude>49.07173000</latitude>
+      <longitude>33.41552000</longitude>
+    </cities>
+    <cities>
       <id>109333</id>
       <name>Avdiyivka</name>
       <latitude>48.13989000</latitude>
@@ -738858,6 +737286,12 @@
       <longitude>35.08132000</longitude>
     </cities>
     <cities>
+      <id>149318</id>
+      <name>Avratin</name>
+      <latitude>49.87611111</latitude>
+      <longitude>27.82638889</longitude>
+    </cities>
+    <cities>
       <id>109336</id>
       <name>Azovskoye</name>
       <latitude>45.58604000</latitude>
@@ -738874,6 +737308,12 @@
       <name>Baherove</name>
       <latitude>45.37417000</latitude>
       <longitude>36.29705000</longitude>
+    </cities>
+    <cities>
+      <id>149319</id>
+      <name>Bairak</name>
+      <latitude>49.72043437</latitude>
+      <longitude>34.37378921</longitude>
     </cities>
     <cities>
       <id>109339</id>
@@ -738912,6 +737352,12 @@
       <longitude>36.85951000</longitude>
     </cities>
     <cities>
+      <id>149320</id>
+      <name>Baliasne</name>
+      <latitude>49.82119646</latitude>
+      <longitude>34.33881183</longitude>
+    </cities>
+    <cities>
       <id>109345</id>
       <name>Balky</name>
       <latitude>47.38336000</latitude>
@@ -738946,6 +737392,24 @@
       <name>Baranivka</name>
       <latitude>50.29691000</latitude>
       <longitude>27.66220000</longitude>
+    </cities>
+    <cities>
+      <id>149321</id>
+      <name>Baranivka</name>
+      <latitude>50.30000000</latitude>
+      <longitude>27.66666667</longitude>
+    </cities>
+    <cities>
+      <id>149322</id>
+      <name>Baranivka</name>
+      <latitude>49.94809180</latitude>
+      <longitude>34.00827580</longitude>
+    </cities>
+    <cities>
+      <id>149323</id>
+      <name>Barashi</name>
+      <latitude>50.71555556</latitude>
+      <longitude>28.03083333</longitude>
     </cities>
     <cities>
       <id>109351</id>
@@ -739008,6 +737472,18 @@
       <longitude>26.47331000</longitude>
     </cities>
     <cities>
+      <id>149324</id>
+      <name>Bazar</name>
+      <latitude>51.04388889</latitude>
+      <longitude>29.29361111</longitude>
+    </cities>
+    <cities>
+      <id>149325</id>
+      <name>Bekhi</name>
+      <latitude>51.01972222</latitude>
+      <longitude>28.69333333</longitude>
+    </cities>
+    <cities>
       <id>109361</id>
       <name>Bekhtery</name>
       <latitude>46.24790000</latitude>
@@ -739068,6 +737544,12 @@
       <longitude>28.60235000</longitude>
     </cities>
     <cities>
+      <id>149326</id>
+      <name>Berdychiv</name>
+      <latitude>49.89194444</latitude>
+      <longitude>28.60000000</longitude>
+    </cities>
+    <cities>
       <id>109371</id>
       <name>Berdychivskyy Rayon</name>
       <latitude>49.91667000</latitude>
@@ -739110,10 +737592,28 @@
       <longitude>25.11071000</longitude>
     </cities>
     <cities>
+      <id>149327</id>
+      <name>Berestivka</name>
+      <latitude>50.34055556</latitude>
+      <longitude>27.47611111</longitude>
+    </cities>
+    <cities>
+      <id>149328</id>
+      <name>Berestovets</name>
+      <latitude>51.02000000</latitude>
+      <longitude>28.87027778</longitude>
+    </cities>
+    <cities>
       <id>109378</id>
       <name>Berezanka</name>
       <latitude>46.85262000</latitude>
       <longitude>31.38802000</longitude>
+    </cities>
+    <cities>
+      <id>149329</id>
+      <name>Berezianka</name>
+      <latitude>49.69194444</latitude>
+      <longitude>29.45305556</longitude>
     </cities>
     <cities>
       <id>109379</id>
@@ -739146,6 +737646,12 @@
       <longitude>23.21982000</longitude>
     </cities>
     <cities>
+      <id>149330</id>
+      <name>Berezovii Grud</name>
+      <latitude>50.99666667</latitude>
+      <longitude>28.35888889</longitude>
+    </cities>
+    <cities>
       <id>109384</id>
       <name>Berezovka</name>
       <latitude>45.57471000</latitude>
@@ -739156,6 +737662,12 @@
       <name>Berezovo</name>
       <latitude>48.30943000</latitude>
       <longitude>23.47400000</longitude>
+    </cities>
+    <cities>
+      <id>149331</id>
+      <name>Bereztsi</name>
+      <latitude>50.50555556</latitude>
+      <longitude>29.31750000</longitude>
     </cities>
     <cities>
       <id>109386</id>
@@ -739194,6 +737706,30 @@
       <longitude>24.28874000</longitude>
     </cities>
     <cities>
+      <id>149332</id>
+      <name>Bicheva</name>
+      <latitude>49.75055556</latitude>
+      <longitude>27.77777778</longitude>
+    </cities>
+    <cities>
+      <id>149333</id>
+      <name>Bigun</name>
+      <latitude>51.40194444</latitude>
+      <longitude>28.28277778</longitude>
+    </cities>
+    <cities>
+      <id>149334</id>
+      <name>Bikiv</name>
+      <latitude>50.17833333</latitude>
+      <longitude>29.29638889</longitude>
+    </cities>
+    <cities>
+      <id>149335</id>
+      <name>Bila Krynytsia</name>
+      <latitude>50.63638889</latitude>
+      <longitude>29.46361111</longitude>
+    </cities>
+    <cities>
       <id>109392</id>
       <name>Bila Krynytsya</name>
       <latitude>50.63982000</latitude>
@@ -739228,6 +737764,18 @@
       <name>Bili Oslavy</name>
       <latitude>48.48722000</latitude>
       <longitude>24.70078000</longitude>
+    </cities>
+    <cities>
+      <id>149336</id>
+      <name>Bilii Bereg</name>
+      <latitude>50.75638889</latitude>
+      <longitude>29.47888889</longitude>
+    </cities>
+    <cities>
+      <id>149337</id>
+      <name>Bilka</name>
+      <latitude>50.81861111</latitude>
+      <longitude>28.18777778</longitude>
     </cities>
     <cities>
       <id>109398</id>
@@ -739284,6 +737832,12 @@
       <longitude>30.21678000</longitude>
     </cities>
     <cities>
+      <id>149338</id>
+      <name>Bilylivka</name>
+      <latitude>49.68000000</latitude>
+      <longitude>29.03000000</longitude>
+    </cities>
+    <cities>
       <id>109407</id>
       <name>Bilyts’ke</name>
       <latitude>48.40642000</latitude>
@@ -739294,6 +737848,18 @@
       <name>Biryukove</name>
       <latitude>47.95631000</latitude>
       <longitude>39.73843000</longitude>
+    </cities>
+    <cities>
+      <id>149339</id>
+      <name>Bistrik</name>
+      <latitude>49.85638889</latitude>
+      <longitude>28.56638889</longitude>
+    </cities>
+    <cities>
+      <id>149340</id>
+      <name>Bistriyivka</name>
+      <latitude>50.47777778</latitude>
+      <longitude>29.16472222</longitude>
     </cities>
     <cities>
       <id>109409</id>
@@ -739396,6 +737962,12 @@
       <name>Bolhrad</name>
       <latitude>45.68262000</latitude>
       <longitude>28.61487000</longitude>
+    </cities>
+    <cities>
+      <id>149341</id>
+      <name>Borisivka</name>
+      <latitude>49.76934347</latitude>
+      <longitude>34.33837579</longitude>
     </cities>
     <cities>
       <id>109426</id>
@@ -739524,6 +738096,24 @@
       <longitude>25.15027000</longitude>
     </cities>
     <cities>
+      <id>149342</id>
+      <name>Broniki</name>
+      <latitude>50.55361111</latitude>
+      <longitude>27.80777778</longitude>
+    </cities>
+    <cities>
+      <id>149344</id>
+      <name>Bronitsia</name>
+      <latitude>50.94666667</latitude>
+      <longitude>27.34527778</longitude>
+    </cities>
+    <cities>
+      <id>149343</id>
+      <name>Bronitska Guta</name>
+      <latitude>50.93138889</latitude>
+      <longitude>27.31388889</longitude>
+    </cities>
+    <cities>
       <id>109447</id>
       <name>Broshniv-Osada</name>
       <latitude>48.99621000</latitude>
@@ -739546,6 +738136,18 @@
       <name>Brovary Raion</name>
       <latitude>50.58333000</latitude>
       <longitude>31.00000000</longitude>
+    </cities>
+    <cities>
+      <id>149345</id>
+      <name>Brovki Pershi</name>
+      <latitude>49.93194444</latitude>
+      <longitude>29.19750000</longitude>
+    </cities>
+    <cities>
+      <id>149346</id>
+      <name>Brusyliv</name>
+      <latitude>50.28333333</latitude>
+      <longitude>29.53333333</longitude>
     </cities>
     <cities>
       <id>109451</id>
@@ -739590,10 +738192,22 @@
       <longitude>25.38798000</longitude>
     </cities>
     <cities>
+      <id>149347</id>
+      <name>Buchmany</name>
+      <latitude>51.07000000</latitude>
+      <longitude>28.04250000</longitude>
+    </cities>
+    <cities>
       <id>109458</id>
       <name>Budy</name>
       <latitude>49.89133000</latitude>
       <longitude>36.02096000</longitude>
+    </cities>
+    <cities>
+      <id>149348</id>
+      <name>Buki</name>
+      <latitude>50.19638889</latitude>
+      <longitude>28.32500000</longitude>
     </cities>
     <cities>
       <id>109459</id>
@@ -739602,10 +738216,28 @@
       <longitude>30.40355000</longitude>
     </cities>
     <cities>
+      <id>149349</id>
+      <name>Buldichiv</name>
+      <latitude>50.11361111</latitude>
+      <longitude>27.79666667</longitude>
+    </cities>
+    <cities>
       <id>109460</id>
       <name>Buran</name>
       <latitude>48.30003000</latitude>
       <longitude>39.61526000</longitude>
+    </cities>
+    <cities>
+      <id>149350</id>
+      <name>Buriaki</name>
+      <latitude>49.81888889</latitude>
+      <longitude>28.28361111</longitude>
+    </cities>
+    <cities>
+      <id>149351</id>
+      <name>Burkivtsi</name>
+      <latitude>49.87888889</latitude>
+      <longitude>28.04444444</longitude>
     </cities>
     <cities>
       <id>109461</id>
@@ -739636,6 +738268,12 @@
       <name>Bykivka</name>
       <latitude>50.29285000</latitude>
       <longitude>27.98314000</longitude>
+    </cities>
+    <cities>
+      <id>149352</id>
+      <name>Bykivka</name>
+      <latitude>50.29277778</latitude>
+      <longitude>27.98305556</longitude>
     </cities>
     <cities>
       <id>109466</id>
@@ -739710,6 +738348,12 @@
       <longitude>32.06207000</longitude>
     </cities>
     <cities>
+      <id>149353</id>
+      <name>Chernechii Iar</name>
+      <latitude>49.83543000</latitude>
+      <longitude>34.59174000</longitude>
+    </cities>
+    <cities>
       <id>109478</id>
       <name>Chernelytsya</name>
       <latitude>48.81207000</latitude>
@@ -739720,6 +738364,12 @@
       <name>Cherniakhiv</name>
       <latitude>50.45652000</latitude>
       <longitude>28.67018000</longitude>
+    </cities>
+    <cities>
+      <id>149354</id>
+      <name>Cherniakhiv</name>
+      <latitude>50.45500000</latitude>
+      <longitude>28.66527778</longitude>
     </cities>
     <cities>
       <id>109480</id>
@@ -739842,6 +738492,12 @@
       <longitude>28.86874000</longitude>
     </cities>
     <cities>
+      <id>149355</id>
+      <name>Chervone</name>
+      <latitude>49.94972222</latitude>
+      <longitude>28.86861111</longitude>
+    </cities>
+    <cities>
       <id>109500</id>
       <name>Chervonohrad</name>
       <latitude>50.39105000</latitude>
@@ -739902,6 +738558,12 @@
       <longitude>28.95334000</longitude>
     </cities>
     <cities>
+      <id>149356</id>
+      <name>Chopovychi</name>
+      <latitude>50.83333333</latitude>
+      <longitude>28.95250000</longitude>
+    </cities>
+    <cities>
       <id>109510</id>
       <name>Chornobay</name>
       <latitude>49.66644000</latitude>
@@ -739930,6 +738592,12 @@
       <name>Chornorudka</name>
       <latitude>49.84640000</latitude>
       <longitude>29.06062000</longitude>
+    </cities>
+    <cities>
+      <id>149357</id>
+      <name>Chornukhy</name>
+      <latitude>50.26990573</latitude>
+      <longitude>32.94757796</longitude>
     </cities>
     <cities>
       <id>109515</id>
@@ -739968,6 +738636,12 @@
       <longitude>28.11745000</longitude>
     </cities>
     <cities>
+      <id>149358</id>
+      <name>Chudniv</name>
+      <latitude>50.05277778</latitude>
+      <longitude>28.09694444</longitude>
+    </cities>
+    <cities>
       <id>109521</id>
       <name>Chudniv Raion</name>
       <latitude>50.00000000</latitude>
@@ -739984,6 +738658,12 @@
       <name>Chulakivka</name>
       <latitude>46.35763000</latitude>
       <longitude>32.35140000</longitude>
+    </cities>
+    <cities>
+      <id>149359</id>
+      <name>Chutove</name>
+      <latitude>49.71689367</latitude>
+      <longitude>35.17463951</longitude>
     </cities>
     <cities>
       <id>109524</id>
@@ -740028,10 +738708,28 @@
       <longitude>29.42559000</longitude>
     </cities>
     <cities>
+      <id>149360</id>
+      <name>Dashynka</name>
+      <latitude>50.64944444</latitude>
+      <longitude>28.39500000</longitude>
+    </cities>
+    <cities>
+      <id>149361</id>
+      <name>Davidivka</name>
+      <latitude>50.52694444</latitude>
+      <longitude>28.41000000</longitude>
+    </cities>
+    <cities>
       <id>109531</id>
       <name>Davydivka</name>
       <latitude>48.12099000</latitude>
       <longitude>25.56461000</longitude>
+    </cities>
+    <cities>
+      <id>149362</id>
+      <name>Davydky</name>
+      <latitude>50.94888889</latitude>
+      <longitude>28.43861111</longitude>
     </cities>
     <cities>
       <id>109532</id>
@@ -740064,6 +738762,12 @@
       <longitude>28.40395000</longitude>
     </cities>
     <cities>
+      <id>149363</id>
+      <name>Denyshi</name>
+      <latitude>50.21527778</latitude>
+      <longitude>28.40777778</longitude>
+    </cities>
+    <cities>
       <id>109537</id>
       <name>Derazhnya</name>
       <latitude>49.26920000</latitude>
@@ -740082,6 +738786,12 @@
       <longitude>36.12112000</longitude>
     </cities>
     <cities>
+      <id>149364</id>
+      <name>Derhanivka</name>
+      <latitude>49.69222222</latitude>
+      <longitude>29.06333333</longitude>
+    </cities>
+    <cities>
       <id>109540</id>
       <name>Desna</name>
       <latitude>50.92731000</latitude>
@@ -740094,10 +738804,34 @@
       <longitude>30.60875000</longitude>
     </cities>
     <cities>
+      <id>149365</id>
+      <name>Dibrova</name>
+      <latitude>51.16027778</latitude>
+      <longitude>27.97277778</longitude>
+    </cities>
+    <cities>
+      <id>149366</id>
+      <name>Didkovichi</name>
+      <latitude>51.09972222</latitude>
+      <longitude>28.83194444</longitude>
+    </cities>
+    <cities>
+      <id>149367</id>
+      <name>Didovichi</name>
+      <latitude>50.60916667</latitude>
+      <longitude>27.35583333</longitude>
+    </cities>
+    <cities>
       <id>109542</id>
       <name>Dihtyari</name>
       <latitude>50.58264000</latitude>
       <longitude>32.77012000</longitude>
+    </cities>
+    <cities>
+      <id>149368</id>
+      <name>Divochki</name>
+      <latitude>50.44694444</latitude>
+      <longitude>28.74972222</longitude>
     </cities>
     <cities>
       <id>109543</id>
@@ -740280,6 +739014,12 @@
       <longitude>27.98742000</longitude>
     </cities>
     <cities>
+      <id>149369</id>
+      <name>Dovbysh</name>
+      <latitude>50.37223889</latitude>
+      <longitude>27.98947500</longitude>
+    </cities>
+    <cities>
       <id>109573</id>
       <name>Dovhe</name>
       <latitude>48.36527000</latitude>
@@ -740328,10 +739068,22 @@
       <longitude>33.94517000</longitude>
     </cities>
     <cities>
+      <id>149370</id>
+      <name>Druzhba</name>
+      <latitude>51.18611111</latitude>
+      <longitude>27.96611111</longitude>
+    </cities>
+    <cities>
       <id>109581</id>
       <name>Druzhkivka</name>
       <latitude>48.63013000</latitude>
       <longitude>37.55259000</longitude>
+    </cities>
+    <cities>
+      <id>149371</id>
+      <name>Dubivka</name>
+      <latitude>49.90861111</latitude>
+      <longitude>28.78444444</longitude>
     </cities>
     <cities>
       <id>109582</id>
@@ -740352,10 +739104,22 @@
       <longitude>25.73432000</longitude>
     </cities>
     <cities>
+      <id>149372</id>
+      <name>Dubnyki</name>
+      <latitude>50.87416667</latitude>
+      <longitude>27.34888889</longitude>
+    </cities>
+    <cities>
       <id>109585</id>
       <name>Dubove</name>
       <latitude>48.17205000</latitude>
       <longitude>23.88954000</longitude>
+    </cities>
+    <cities>
+      <id>149373</id>
+      <name>Dubrivka</name>
+      <latitude>50.28527778</latitude>
+      <longitude>29.59333333</longitude>
     </cities>
     <cities>
       <id>109586</id>
@@ -740388,6 +739152,18 @@
       <longitude>37.68262000</longitude>
     </cities>
     <cities>
+      <id>149374</id>
+      <name>Dvorishche</name>
+      <latitude>50.56194444</latitude>
+      <longitude>28.39777778</longitude>
+    </cities>
+    <cities>
+      <id>149375</id>
+      <name>Dykanka</name>
+      <latitude>49.82223788</latitude>
+      <longitude>34.53408003</longitude>
+    </cities>
+    <cities>
       <id>109591</id>
       <name>Dymer</name>
       <latitude>50.78647000</latitude>
@@ -740410,6 +739186,12 @@
       <name>Dzvinogrud</name>
       <latitude>49.73333000</latitude>
       <longitude>24.25000000</longitude>
+    </cities>
+    <cities>
+      <id>149376</id>
+      <name>Elivka</name>
+      <latitude>50.72722222</latitude>
+      <longitude>29.18388889</longitude>
     </cities>
     <cities>
       <id>109595</id>
@@ -740436,6 +739218,12 @@
       <longitude>30.00000000</longitude>
     </cities>
     <cities>
+      <id>149377</id>
+      <name>Fedorivka</name>
+      <latitude>49.77617039</latitude>
+      <longitude>34.43944548</longitude>
+    </cities>
+    <cities>
       <id>109599</id>
       <name>Feodosiya</name>
       <latitude>45.03677000</latitude>
@@ -740446,6 +739234,12 @@
       <name>Filatovka</name>
       <latitude>46.08192000</latitude>
       <longitude>33.78510000</longitude>
+    </cities>
+    <cities>
+      <id>149378</id>
+      <name>Filenkove</name>
+      <latitude>49.83559723</latitude>
+      <longitude>35.00298408</longitude>
     </cities>
     <cities>
       <id>109601</id>
@@ -740490,16 +739284,82 @@
       <longitude>36.57965000</longitude>
     </cities>
     <cities>
+      <id>149379</id>
+      <name>Glinivtsi</name>
+      <latitude>50.04611111</latitude>
+      <longitude>28.80416667</longitude>
+    </cities>
+    <cities>
+      <id>149380</id>
+      <name>Godikha</name>
+      <latitude>50.19027778</latitude>
+      <longitude>28.22194444</longitude>
+    </cities>
+    <cities>
+      <id>149381</id>
+      <name>Golovenka</name>
+      <latitude>50.15361111</latitude>
+      <longitude>28.54388889</longitude>
+    </cities>
+    <cities>
+      <id>149382</id>
+      <name>Golovki</name>
+      <latitude>50.83972222</latitude>
+      <longitude>29.13333333</longitude>
+    </cities>
+    <cities>
       <id>109608</id>
       <name>Golubinka</name>
       <latitude>44.59382000</latitude>
       <longitude>33.91521000</longitude>
     </cities>
     <cities>
+      <id>149383</id>
+      <name>Golubyatin</name>
+      <latitude>49.85500000</latitude>
+      <longitude>29.51361111</longitude>
+    </cities>
+    <cities>
+      <id>149384</id>
+      <name>Gorbuliv</name>
+      <latitude>50.53750000</latitude>
+      <longitude>28.92333333</longitude>
+    </cities>
+    <cities>
+      <id>149385</id>
+      <name>Gordiyivka</name>
+      <latitude>50.05444444</latitude>
+      <longitude>27.87500000</longitude>
+    </cities>
+    <cities>
+      <id>149386</id>
+      <name>Gorianshchina</name>
+      <latitude>49.91185729</latitude>
+      <longitude>34.45818988</longitude>
+    </cities>
+    <cities>
       <id>109609</id>
       <name>Gornostayevka</name>
       <latitude>45.27819000</latitude>
       <longitude>36.18601000</longitude>
+    </cities>
+    <cities>
+      <id>149387</id>
+      <name>Gorodkivka</name>
+      <latitude>49.90972222</latitude>
+      <longitude>28.99416667</longitude>
+    </cities>
+    <cities>
+      <id>149388</id>
+      <name>Gorodok</name>
+      <latitude>49.60027778</latitude>
+      <longitude>29.19500000</longitude>
+    </cities>
+    <cities>
+      <id>149389</id>
+      <name>Gorodske</name>
+      <latitude>50.37750000</latitude>
+      <longitude>29.16888889</longitude>
     </cities>
     <cities>
       <id>109610</id>
@@ -740562,6 +739422,18 @@
       <longitude>33.36342000</longitude>
     </cities>
     <cities>
+      <id>149390</id>
+      <name>Goropayi</name>
+      <latitude>50.01388889</latitude>
+      <longitude>27.83388889</longitude>
+    </cities>
+    <cities>
+      <id>149391</id>
+      <name>Goshiv</name>
+      <latitude>51.23916667</latitude>
+      <longitude>28.71388889</longitude>
+    </cities>
+    <cities>
       <id>109620</id>
       <name>Gresovskiy</name>
       <latitude>45.00804000</latitude>
@@ -740574,16 +739446,70 @@
       <longitude>33.83098000</longitude>
     </cities>
     <cities>
+      <id>149392</id>
+      <name>Gromada</name>
+      <latitude>49.94638889</latitude>
+      <longitude>27.76222222</longitude>
+    </cities>
+    <cities>
+      <id>149393</id>
+      <name>Grozyne</name>
+      <latitude>50.95888889</latitude>
+      <longitude>28.73055556</longitude>
+    </cities>
+    <cities>
       <id>109622</id>
       <name>Grushevka</name>
       <latitude>45.02281000</latitude>
       <longitude>34.97301000</longitude>
     </cities>
     <cities>
+      <id>149394</id>
+      <name>Grushki</name>
+      <latitude>50.49277778</latitude>
+      <longitude>28.45500000</longitude>
+    </cities>
+    <cities>
+      <id>149395</id>
+      <name>Gubske</name>
+      <latitude>50.09951906</latitude>
+      <longitude>32.83123218</longitude>
+    </cities>
+    <cities>
+      <id>149396</id>
+      <name>Gulsk</name>
+      <latitude>50.51916667</latitude>
+      <longitude>27.72111111</longitude>
+    </cities>
+    <cities>
+      <id>149397</id>
+      <name>Gumenniki</name>
+      <latitude>50.39694444</latitude>
+      <longitude>28.92666667</longitude>
+    </cities>
+    <cities>
       <id>109623</id>
       <name>Gurzuf</name>
       <latitude>44.54624000</latitude>
       <longitude>34.27841000</longitude>
+    </cities>
+    <cities>
+      <id>149398</id>
+      <name>Guta-Potiyivka</name>
+      <latitude>50.69111111</latitude>
+      <longitude>28.87416667</longitude>
+    </cities>
+    <cities>
+      <id>149399</id>
+      <name>Guto-Mariatin</name>
+      <latitude>51.03000000</latitude>
+      <longitude>29.41666667</longitude>
+    </cities>
+    <cities>
+      <id>149400</id>
+      <name>Hadiach</name>
+      <latitude>50.36666667</latitude>
+      <longitude>34.00000000</longitude>
     </cities>
     <cities>
       <id>109624</id>
@@ -740634,6 +739560,12 @@
       <longitude>30.32706000</longitude>
     </cities>
     <cities>
+      <id>149401</id>
+      <name>Hlobyne</name>
+      <latitude>49.38856468</latitude>
+      <longitude>33.26320863</longitude>
+    </cities>
+    <cities>
       <id>109632</id>
       <name>Hlukhiv</name>
       <latitude>51.67822000</latitude>
@@ -740676,6 +739608,18 @@
       <longitude>28.82530000</longitude>
     </cities>
     <cities>
+      <id>149402</id>
+      <name>Holovyne</name>
+      <latitude>50.47250000</latitude>
+      <longitude>28.82805556</longitude>
+    </cities>
+    <cities>
+      <id>149403</id>
+      <name>Holubivka</name>
+      <latitude>49.68097000</latitude>
+      <longitude>29.16059000</longitude>
+    </cities>
+    <cities>
       <id>109656</id>
       <name>Hołoby</name>
       <latitude>51.08651000</latitude>
@@ -740692,6 +739636,12 @@
       <name>Horinchovo</name>
       <latitude>48.27076000</latitude>
       <longitude>23.43475000</longitude>
+    </cities>
+    <cities>
+      <id>149404</id>
+      <name>Horishni Plavni</name>
+      <latitude>49.01066008</latitude>
+      <longitude>33.65624556</longitude>
     </cities>
     <cities>
       <id>109641</id>
@@ -740718,6 +739668,12 @@
       <longitude>25.42008000</longitude>
     </cities>
     <cities>
+      <id>149405</id>
+      <name>Horodets</name>
+      <latitude>51.37000000</latitude>
+      <longitude>28.24138889</longitude>
+    </cities>
+    <cities>
       <id>109645</id>
       <name>Horodnya</name>
       <latitude>51.89085000</latitude>
@@ -740728,6 +739684,12 @@
       <name>Horodnye</name>
       <latitude>45.89083000</latitude>
       <longitude>28.84833000</longitude>
+    </cities>
+    <cities>
+      <id>149406</id>
+      <name>Horodnytsia</name>
+      <latitude>50.80944444</latitude>
+      <longitude>27.31833333</longitude>
     </cities>
     <cities>
       <id>109647</id>
@@ -740784,6 +739746,24 @@
       <longitude>30.26510000</longitude>
     </cities>
     <cities>
+      <id>149407</id>
+      <name>Hradyzk</name>
+      <latitude>49.23306925</latitude>
+      <longitude>33.13203713</longitude>
+    </cities>
+    <cities>
+      <id>149408</id>
+      <name>Hranitne</name>
+      <latitude>50.74277778</latitude>
+      <longitude>29.35222222</longitude>
+    </cities>
+    <cities>
+      <id>149409</id>
+      <name>Hrebinka</name>
+      <latitude>50.11799594</latitude>
+      <longitude>32.43958508</longitude>
+    </cities>
+    <cities>
       <id>109657</id>
       <name>Hrymayliv</name>
       <latitude>49.33208000</latitude>
@@ -740794,6 +739774,12 @@
       <name>Hryshkivtsi</name>
       <latitude>49.93529000</latitude>
       <longitude>28.60383000</longitude>
+    </cities>
+    <cities>
+      <id>149410</id>
+      <name>Hryshkivtsi</name>
+      <latitude>49.93555556</latitude>
+      <longitude>28.60166667</longitude>
     </cities>
     <cities>
       <id>109659</id>
@@ -740844,6 +739830,18 @@
       <longitude>32.39425000</longitude>
     </cities>
     <cities>
+      <id>149411</id>
+      <name>Iemilivka</name>
+      <latitude>50.68777778</latitude>
+      <longitude>28.72805556</longitude>
+    </cities>
+    <cities>
+      <id>149412</id>
+      <name>Ievgenivka</name>
+      <latitude>50.63833333</latitude>
+      <longitude>27.99833333</longitude>
+    </cities>
+    <cities>
       <id>109667</id>
       <name>Illintsi</name>
       <latitude>49.10479000</latitude>
@@ -740886,6 +739884,12 @@
       <longitude>30.24099000</longitude>
     </cities>
     <cities>
+      <id>149413</id>
+      <name>Irshansk</name>
+      <latitude>50.71666667</latitude>
+      <longitude>28.71666667</longitude>
+    </cities>
+    <cities>
       <id>109674</id>
       <name>Irshava</name>
       <latitude>48.31667000</latitude>
@@ -740922,6 +739926,18 @@
       <longitude>34.55298000</longitude>
     </cities>
     <cities>
+      <id>149414</id>
+      <name>Ivanivka</name>
+      <latitude>50.43777778</latitude>
+      <longitude>27.62944444</longitude>
+    </cities>
+    <cities>
+      <id>149415</id>
+      <name>Ivankiv</name>
+      <latitude>50.39611111</latitude>
+      <longitude>28.56888889</longitude>
+    </cities>
+    <cities>
       <id>109680</id>
       <name>Ivankiv</name>
       <latitude>50.93865000</latitude>
@@ -740950,6 +739966,12 @@
       <name>Ivano-Frankove</name>
       <latitude>49.91978000</latitude>
       <longitude>23.72913000</longitude>
+    </cities>
+    <cities>
+      <id>149416</id>
+      <name>Ivanopil</name>
+      <latitude>49.85861111</latitude>
+      <longitude>28.21555556</longitude>
     </cities>
     <cities>
       <id>109685</id>
@@ -741096,6 +740118,12 @@
       <longitude>26.58559000</longitude>
     </cities>
     <cities>
+      <id>149417</id>
+      <name>Kamiani Potoky</name>
+      <latitude>48.98589514</latitude>
+      <longitude>33.51862610</longitude>
+    </cities>
+    <cities>
       <id>109709</id>
       <name>Kamianka</name>
       <latitude>49.03180000</latitude>
@@ -741142,6 +740170,18 @@
       <name>Karapyshi</name>
       <latitude>49.64237000</latitude>
       <longitude>30.79002000</longitude>
+    </cities>
+    <cities>
+      <id>149418</id>
+      <name>Kardashivka</name>
+      <latitude>49.88384899</latitude>
+      <longitude>34.64044604</longitude>
+    </cities>
+    <cities>
+      <id>149419</id>
+      <name>Karlivka</name>
+      <latitude>49.45474986</latitude>
+      <longitude>35.13079636</longitude>
     </cities>
     <cities>
       <id>109717</id>
@@ -741240,6 +740280,12 @@
       <longitude>27.95754000</longitude>
     </cities>
     <cities>
+      <id>149420</id>
+      <name>Khodaky</name>
+      <latitude>50.97805556</latitude>
+      <longitude>28.80666667</longitude>
+    </cities>
+    <cities>
       <id>109733</id>
       <name>Khodoriv</name>
       <latitude>49.40993000</latitude>
@@ -741258,10 +740304,22 @@
       <longitude>32.60063000</longitude>
     </cities>
     <cities>
+      <id>149421</id>
+      <name>Khorol</name>
+      <latitude>49.78403100</latitude>
+      <longitude>33.25886100</longitude>
+    </cities>
+    <cities>
       <id>109736</id>
       <name>Khorosheve</name>
       <latitude>49.85413000</latitude>
       <longitude>36.21704000</longitude>
+    </cities>
+    <cities>
+      <id>149422</id>
+      <name>Khoroshiv</name>
+      <latitude>50.60000000</latitude>
+      <longitude>28.45000000</longitude>
     </cities>
     <cities>
       <id>109737</id>
@@ -741432,6 +740490,12 @@
       <longitude>30.78369000</longitude>
     </cities>
     <cities>
+      <id>149423</id>
+      <name>Kobeliaky</name>
+      <latitude>49.14736024</latitude>
+      <longitude>34.19927008</longitude>
+    </cities>
+    <cities>
       <id>109765</id>
       <name>Kobleve</name>
       <latitude>46.66499000</latitude>
@@ -741576,6 +740640,12 @@
       <longitude>34.47387000</longitude>
     </cities>
     <cities>
+      <id>149424</id>
+      <name>Kononenki</name>
+      <latitude>49.91143501</latitude>
+      <longitude>34.51172749</longitude>
+    </cities>
+    <cities>
       <id>109789</id>
       <name>Konotop</name>
       <latitude>51.24032000</latitude>
@@ -741604,6 +740674,12 @@
       <name>Kopychyntsi</name>
       <latitude>49.10441000</latitude>
       <longitude>25.91026000</longitude>
+    </cities>
+    <cities>
+      <id>149425</id>
+      <name>Korchak</name>
+      <latitude>50.21250000</latitude>
+      <longitude>28.47638889</longitude>
     </cities>
     <cities>
       <id>109794</id>
@@ -741636,6 +740712,12 @@
       <longitude>29.53581000</longitude>
     </cities>
     <cities>
+      <id>149426</id>
+      <name>Kornyn</name>
+      <latitude>50.09527778</latitude>
+      <longitude>29.53583333</longitude>
+    </cities>
+    <cities>
       <id>109799</id>
       <name>Korolevo</name>
       <latitude>48.15247000</latitude>
@@ -741648,6 +740730,12 @@
       <longitude>32.95861000</longitude>
     </cities>
     <cities>
+      <id>149427</id>
+      <name>Korosten</name>
+      <latitude>50.95000000</latitude>
+      <longitude>28.65000000</longitude>
+    </cities>
+    <cities>
       <id>109801</id>
       <name>Korosten’</name>
       <latitude>50.95937000</latitude>
@@ -741658,6 +740746,12 @@
       <name>Korostyshiv</name>
       <latitude>50.31723000</latitude>
       <longitude>29.05630000</longitude>
+    </cities>
+    <cities>
+      <id>149428</id>
+      <name>Korostyshiv</name>
+      <latitude>50.31861111</latitude>
+      <longitude>29.05916667</longitude>
     </cities>
     <cities>
       <id>109803</id>
@@ -741756,6 +740850,12 @@
       <longitude>34.02575000</longitude>
     </cities>
     <cities>
+      <id>149429</id>
+      <name>Kotelva</name>
+      <latitude>50.06832759</latitude>
+      <longitude>34.75921130</longitude>
+    </cities>
+    <cities>
       <id>109819</id>
       <name>Kotsyubyns’ke</name>
       <latitude>50.48836000</latitude>
@@ -741790,6 +740890,12 @@
       <name>Kozelets’</name>
       <latitude>50.91334000</latitude>
       <longitude>31.12140000</longitude>
+    </cities>
+    <cities>
+      <id>149430</id>
+      <name>Kozelshchyna</name>
+      <latitude>49.21550000</latitude>
+      <longitude>33.85180000</longitude>
     </cities>
     <cities>
       <id>109825</id>
@@ -741984,10 +741090,22 @@
       <longitude>26.97253000</longitude>
     </cities>
     <cities>
+      <id>149431</id>
+      <name>Kratova Govtva</name>
+      <latitude>49.87362868</latitude>
+      <longitude>34.50805284</longitude>
+    </cities>
+    <cities>
       <id>109857</id>
       <name>Krayneye</name>
       <latitude>45.22993000</latitude>
       <longitude>33.83239000</longitude>
+    </cities>
+    <cities>
+      <id>149432</id>
+      <name>Kremenchuk</name>
+      <latitude>49.07750000</latitude>
+      <longitude>33.42388889</longitude>
     </cities>
     <cities>
       <id>109858</id>
@@ -742048,6 +741166,12 @@
       <name>Kropyvnytskyi</name>
       <latitude>48.51320000</latitude>
       <longitude>32.25970000</longitude>
+    </cities>
+    <cities>
+      <id>149433</id>
+      <name>Krukovskiy Raion</name>
+      <latitude>49.06672000</latitude>
+      <longitude>33.45320000</longitude>
     </cities>
     <cities>
       <id>109868</id>
@@ -742122,6 +741246,12 @@
       <longitude>28.86622000</longitude>
     </cities>
     <cities>
+      <id>149434</id>
+      <name>Kucherivka</name>
+      <latitude>49.74801949</latitude>
+      <longitude>34.29072744</longitude>
+    </cities>
+    <cities>
       <id>109880</id>
       <name>Kuchurhan</name>
       <latitude>47.16302000</latitude>
@@ -742162,6 +741292,12 @@
       <name>Kulynychi</name>
       <latitude>49.98178000</latitude>
       <longitude>36.38283000</longitude>
+    </cities>
+    <cities>
+      <id>149435</id>
+      <name>Kupech</name>
+      <latitude>50.99611111</latitude>
+      <longitude>28.78472222</longitude>
     </cities>
     <cities>
       <id>109887</id>
@@ -742224,6 +741360,12 @@
       <longitude>24.27995000</longitude>
     </cities>
     <cities>
+      <id>149436</id>
+      <name>Kvitneve</name>
+      <latitude>49.98472222</latitude>
+      <longitude>29.51583333</longitude>
+    </cities>
+    <cities>
       <id>109897</id>
       <name>Kyiv</name>
       <latitude>50.45466000</latitude>
@@ -742272,10 +741414,34 @@
       <longitude>24.75622000</longitude>
     </cities>
     <cities>
+      <id>149437</id>
+      <name>Landari</name>
+      <latitude>49.78295521</latitude>
+      <longitude>34.38817299</longitude>
+    </cities>
+    <cities>
+      <id>149438</id>
+      <name>Lani</name>
+      <latitude>49.71283212</latitude>
+      <longitude>34.43433283</longitude>
+    </cities>
+    <cities>
       <id>109904</id>
       <name>Lanivtsi</name>
       <latitude>49.86328000</latitude>
       <longitude>26.09082000</longitude>
+    </cities>
+    <cities>
+      <id>149439</id>
+      <name>Lasky</name>
+      <latitude>51.26555556</latitude>
+      <longitude>28.95638889</longitude>
+    </cities>
+    <cities>
+      <id>149440</id>
+      <name>Lazarivka</name>
+      <latitude>50.31250000</latitude>
+      <longitude>29.58583333</longitude>
     </cities>
     <cities>
       <id>109905</id>
@@ -742356,6 +741522,12 @@
       <longitude>34.04278000</longitude>
     </cities>
     <cities>
+      <id>149441</id>
+      <name>Lisogirka</name>
+      <latitude>49.75916667</latitude>
+      <longitude>27.90305556</longitude>
+    </cities>
+    <cities>
       <id>109918</id>
       <name>Lisovi Sorochyntsi</name>
       <latitude>50.68920000</latitude>
@@ -742392,6 +741564,12 @@
       <longitude>27.75918000</longitude>
     </cities>
     <cities>
+      <id>149442</id>
+      <name>Liubar</name>
+      <latitude>49.92138889</latitude>
+      <longitude>27.75833333</longitude>
+    </cities>
+    <cities>
       <id>109924</id>
       <name>Liuboml</name>
       <latitude>51.22601000</latitude>
@@ -742420,6 +741598,12 @@
       <name>Lokachi</name>
       <latitude>50.73700000</latitude>
       <longitude>24.64944000</longitude>
+    </cities>
+    <cities>
+      <id>149443</id>
+      <name>Lokhvytsia</name>
+      <latitude>50.36104610</latitude>
+      <longitude>33.26517113</longitude>
     </cities>
     <cities>
       <id>109929</id>
@@ -742456,6 +741640,12 @@
       <name>Lozuvatka</name>
       <latitude>48.05710000</latitude>
       <longitude>33.28581000</longitude>
+    </cities>
+    <cities>
+      <id>149444</id>
+      <name>Lubny</name>
+      <latitude>50.01856413</latitude>
+      <longitude>32.98686035</longitude>
     </cities>
     <cities>
       <id>109935</id>
@@ -742500,6 +741690,12 @@
       <longitude>28.40057000</longitude>
     </cities>
     <cities>
+      <id>149445</id>
+      <name>Luhyny</name>
+      <latitude>51.06666667</latitude>
+      <longitude>28.38333333</longitude>
+    </cities>
+    <cities>
       <id>109942</id>
       <name>Luhyny Raion</name>
       <latitude>51.08333000</latitude>
@@ -742510,6 +741706,12 @@
       <name>Lukiv</name>
       <latitude>51.05210000</latitude>
       <longitude>25.40059000</longitude>
+    </cities>
+    <cities>
+      <id>149446</id>
+      <name>Lutovynivka</name>
+      <latitude>49.23722222</latitude>
+      <longitude>33.90500000</longitude>
     </cities>
     <cities>
       <id>109944</id>
@@ -742722,6 +741924,12 @@
       <longitude>36.16564000</longitude>
     </cities>
     <cities>
+      <id>149447</id>
+      <name>Mala Rudka</name>
+      <latitude>49.73993159</latitude>
+      <longitude>34.44651297</longitude>
+    </cities>
+    <cities>
       <id>109980</id>
       <name>Mala Tokmachka</name>
       <latitude>47.53563000</latitude>
@@ -742774,6 +741982,12 @@
       <name>Malyn</name>
       <latitude>50.77233000</latitude>
       <longitude>29.23833000</longitude>
+    </cities>
+    <cities>
+      <id>149448</id>
+      <name>Malyn</name>
+      <latitude>50.76888889</latitude>
+      <longitude>29.27000000</longitude>
     </cities>
     <cities>
       <id>109989</id>
@@ -742836,6 +742050,12 @@
       <longitude>34.29474000</longitude>
     </cities>
     <cities>
+      <id>149449</id>
+      <name>Marchenki</name>
+      <latitude>49.84310165</latitude>
+      <longitude>34.38291991</longitude>
+    </cities>
+    <cities>
       <id>109998</id>
       <name>Marfovka</name>
       <latitude>45.19853000</latitude>
@@ -742860,6 +742080,12 @@
       <longitude>39.57055000</longitude>
     </cities>
     <cities>
+      <id>149450</id>
+      <name>Markivka</name>
+      <latitude>49.30247078</latitude>
+      <longitude>34.07348137</longitude>
+    </cities>
+    <cities>
       <id>110002</id>
       <name>Markova</name>
       <latitude>48.67576000</latitude>
@@ -742876,6 +742102,12 @@
       <name>Maryevka</name>
       <latitude>45.11330000</latitude>
       <longitude>36.23992000</longitude>
+    </cities>
+    <cities>
+      <id>149451</id>
+      <name>Maschiwka</name>
+      <latitude>49.44491715</latitude>
+      <longitude>34.87575392</longitude>
     </cities>
     <cities>
       <id>110006</id>
@@ -743154,6 +742386,12 @@
       <longitude>29.80470000</longitude>
     </cities>
     <cities>
+      <id>149452</id>
+      <name>Morozivka</name>
+      <latitude>50.67138889</latitude>
+      <longitude>27.45166667</longitude>
+    </cities>
+    <cities>
       <id>110052</id>
       <name>Morshyn</name>
       <latitude>49.15652000</latitude>
@@ -743292,6 +742530,12 @@
       <longitude>22.27502000</longitude>
     </cities>
     <cities>
+      <id>149453</id>
+      <name>Myrhorod</name>
+      <latitude>49.96397912</latitude>
+      <longitude>33.61238091</longitude>
+    </cities>
+    <cities>
       <id>110075</id>
       <name>Myrnohrad</name>
       <latitude>48.30523000</latitude>
@@ -743302,6 +742546,12 @@
       <name>Myronivka</name>
       <latitude>49.66007000</latitude>
       <longitude>30.98225000</longitude>
+    </cities>
+    <cities>
+      <id>149454</id>
+      <name>Myropil</name>
+      <latitude>50.10750000</latitude>
+      <longitude>27.70583333</longitude>
     </cities>
     <cities>
       <id>110077</id>
@@ -743334,6 +742584,12 @@
       <longitude>29.08228000</longitude>
     </cities>
     <cities>
+      <id>149455</id>
+      <name>Narodychi</name>
+      <latitude>51.20231667</latitude>
+      <longitude>29.08139444</longitude>
+    </cities>
+    <cities>
       <id>110082</id>
       <name>Narodychi Raion</name>
       <latitude>51.25000000</latitude>
@@ -743364,6 +742620,12 @@
       <longitude>24.21657000</longitude>
     </cities>
     <cities>
+      <id>149456</id>
+      <name>Nedoharky</name>
+      <latitude>49.16921500</latitude>
+      <longitude>33.25495000</longitude>
+    </cities>
+    <cities>
       <id>110087</id>
       <name>Nedryhayliv</name>
       <latitude>50.83398000</latitude>
@@ -743392,6 +742654,12 @@
       <name>Nemyriv</name>
       <latitude>48.97076000</latitude>
       <longitude>28.83779000</longitude>
+    </cities>
+    <cities>
+      <id>149457</id>
+      <name>Nemyryntsi</name>
+      <latitude>49.62000000</latitude>
+      <longitude>29.05000000</longitude>
     </cities>
     <cities>
       <id>110092</id>
@@ -743466,6 +742734,18 @@
       <longitude>28.63446000</longitude>
     </cities>
     <cities>
+      <id>149458</id>
+      <name>Nova Borova</name>
+      <latitude>50.69222222</latitude>
+      <longitude>28.63666667</longitude>
+    </cities>
+    <cities>
+      <id>149459</id>
+      <name>Nova Chortoriia</name>
+      <latitude>50.02830000</latitude>
+      <longitude>27.70810000</longitude>
+    </cities>
+    <cities>
       <id>110104</id>
       <name>Nova Kakhovka</name>
       <latitude>46.75451000</latitude>
@@ -743538,16 +742818,34 @@
       <longitude>28.05463000</longitude>
     </cities>
     <cities>
+      <id>149460</id>
+      <name>Novi Bilokorovychi</name>
+      <latitude>51.04750000</latitude>
+      <longitude>28.05194444</longitude>
+    </cities>
+    <cities>
       <id>110116</id>
       <name>Novi Petrivtsi</name>
       <latitude>50.62754000</latitude>
       <longitude>30.44310000</longitude>
     </cities>
     <cities>
+      <id>149461</id>
+      <name>Novi Sanzhary</name>
+      <latitude>49.33539098</latitude>
+      <longitude>34.31619855</longitude>
+    </cities>
+    <cities>
       <id>110117</id>
       <name>Novi Troyany</name>
       <latitude>45.94275000</latitude>
       <longitude>28.85628000</longitude>
+    </cities>
+    <cities>
+      <id>149462</id>
+      <name>Novi Vorobyi</name>
+      <latitude>50.86972222</latitude>
+      <longitude>29.34333333</longitude>
     </cities>
     <cities>
       <id>110118</id>
@@ -743616,6 +742914,12 @@
       <longitude>27.61650000</longitude>
     </cities>
     <cities>
+      <id>149463</id>
+      <name>Novohrad-Volynskyi</name>
+      <latitude>50.58333333</latitude>
+      <longitude>27.63333333</longitude>
+    </cities>
+    <cities>
       <id>110129</id>
       <name>Novoivanovka</name>
       <latitude>45.44914000</latitude>
@@ -743668,6 +742972,12 @@
       <name>Novooleksiyivka</name>
       <latitude>46.22472000</latitude>
       <longitude>34.64031000</longitude>
+    </cities>
+    <cities>
+      <id>149464</id>
+      <name>Novoozerianka</name>
+      <latitude>51.21333333</latitude>
+      <longitude>28.00194444</longitude>
     </cities>
     <cities>
       <id>110138</id>
@@ -743826,6 +743136,12 @@
       <longitude>25.59989000</longitude>
     </cities>
     <cities>
+      <id>149465</id>
+      <name>Nyvky</name>
+      <latitude>51.35000000</latitude>
+      <longitude>29.11666667</longitude>
+    </cities>
+    <cities>
       <id>110164</id>
       <name>Nyzhni Petrivtsi</name>
       <latitude>48.02847000</latitude>
@@ -743904,6 +743220,12 @@
       <longitude>31.54982000</longitude>
     </cities>
     <cities>
+      <id>149466</id>
+      <name>Odariukivka</name>
+      <latitude>49.73973669</latitude>
+      <longitude>34.35914676</longitude>
+    </cities>
+    <cities>
       <id>110177</id>
       <name>Odesa</name>
       <latitude>46.47747000</latitude>
@@ -743956,6 +743278,12 @@
       <name>Ol'shanskoye</name>
       <latitude>47.18411000</latitude>
       <longitude>31.79375000</longitude>
+    </cities>
+    <cities>
+      <id>149467</id>
+      <name>Olefirshchina</name>
+      <latitude>49.88598650</latitude>
+      <longitude>34.58571058</longitude>
     </cities>
     <cities>
       <id>110186</id>
@@ -744012,6 +743340,12 @@
       <longitude>27.65228000</longitude>
     </cities>
     <cities>
+      <id>149468</id>
+      <name>Olevsk</name>
+      <latitude>51.22777778</latitude>
+      <longitude>27.64805556</longitude>
+    </cities>
+    <cities>
       <id>110195</id>
       <name>Olyka</name>
       <latitude>50.71855000</latitude>
@@ -744024,6 +743358,12 @@
       <longitude>31.33314000</longitude>
     </cities>
     <cities>
+      <id>149469</id>
+      <name>Onatski</name>
+      <latitude>49.88676376</latitude>
+      <longitude>34.46003707</longitude>
+    </cities>
+    <cities>
       <id>110197</id>
       <name>Onokivtsi</name>
       <latitude>48.65763000</latitude>
@@ -744034,6 +743374,12 @@
       <name>Onufriyivka</name>
       <latitude>48.90716000</latitude>
       <longitude>33.44869000</longitude>
+    </cities>
+    <cities>
+      <id>149470</id>
+      <name>Opishnia</name>
+      <latitude>49.95635316</latitude>
+      <longitude>34.61200414</longitude>
     </cities>
     <cities>
       <id>110199</id>
@@ -744076,6 +743422,12 @@
       <name>Orzhiv</name>
       <latitude>50.80000000</latitude>
       <longitude>26.12000000</longitude>
+    </cities>
+    <cities>
+      <id>149471</id>
+      <name>Orzhytsia</name>
+      <latitude>49.79097957</latitude>
+      <longitude>32.70152650</longitude>
     </cities>
     <cities>
       <id>110206</id>
@@ -744132,6 +743484,12 @@
       <longitude>28.80351000</longitude>
     </cities>
     <cities>
+      <id>149472</id>
+      <name>Ovruch</name>
+      <latitude>51.32444444</latitude>
+      <longitude>28.80805556</longitude>
+    </cities>
+    <cities>
       <id>110215</id>
       <name>Ovruch Raion</name>
       <latitude>51.33333000</latitude>
@@ -744154,6 +743512,12 @@
       <name>Ozerne</name>
       <latitude>45.40300000</latitude>
       <longitude>28.67546000</longitude>
+    </cities>
+    <cities>
+      <id>149473</id>
+      <name>Ozerne</name>
+      <latitude>50.17944444</latitude>
+      <longitude>28.73611111</longitude>
     </cities>
     <cities>
       <id>110219</id>
@@ -744246,6 +743610,12 @@
       <longitude>33.35691000</longitude>
     </cities>
     <cities>
+      <id>149474</id>
+      <name>Pavoloch</name>
+      <latitude>49.86916667</latitude>
+      <longitude>29.44916667</longitude>
+    </cities>
+    <cities>
       <id>110234</id>
       <name>Pechenizhyn</name>
       <latitude>48.51551000</latitude>
@@ -744318,6 +743688,18 @@
       <longitude>34.05753000</longitude>
     </cities>
     <cities>
+      <id>149475</id>
+      <name>Pershotravensk</name>
+      <latitude>50.20111111</latitude>
+      <longitude>27.63388889</longitude>
+    </cities>
+    <cities>
+      <id>149476</id>
+      <name>Pershotravneve</name>
+      <latitude>51.38916667</latitude>
+      <longitude>28.86250000</longitude>
+    </cities>
+    <cities>
       <id>110246</id>
       <name>Pershotravneve</name>
       <latitude>51.39287000</latitude>
@@ -744376,6 +743758,12 @@
       <name>Petranka</name>
       <latitude>48.90246000</latitude>
       <longitude>24.30347000</longitude>
+    </cities>
+    <cities>
+      <id>149477</id>
+      <name>Petrenki</name>
+      <latitude>49.73164740</latitude>
+      <longitude>34.33764355</longitude>
     </cities>
     <cities>
       <id>110256</id>
@@ -744480,10 +743868,22 @@
       <longitude>34.20194000</longitude>
     </cities>
     <cities>
+      <id>149478</id>
+      <name>Pisarivshchina</name>
+      <latitude>49.85532915</latitude>
+      <longitude>34.63195588</longitude>
+    </cities>
+    <cities>
       <id>110273</id>
       <name>Pishcha</name>
       <latitude>51.60928000</latitude>
       <longitude>23.82079000</longitude>
+    </cities>
+    <cities>
+      <id>149479</id>
+      <name>Pishchiv</name>
+      <latitude>50.60555556</latitude>
+      <longitude>27.31694444</longitude>
     </cities>
     <cities>
       <id>110274</id>
@@ -744600,6 +744000,12 @@
       <longitude>37.16667000</longitude>
     </cities>
     <cities>
+      <id>149480</id>
+      <name>Polianka</name>
+      <latitude>50.25620278</latitude>
+      <longitude>27.69518889</longitude>
+    </cities>
+    <cities>
       <id>110293</id>
       <name>Polohy</name>
       <latitude>47.48444000</latitude>
@@ -744610,6 +744016,12 @@
       <name>Polonne</name>
       <latitude>50.12424000</latitude>
       <longitude>27.51087000</longitude>
+    </cities>
+    <cities>
+      <id>149481</id>
+      <name>Poltava</name>
+      <latitude>49.57444444</latitude>
+      <longitude>34.56861111</longitude>
     </cities>
     <cities>
       <id>110295</id>
@@ -744654,10 +744066,22 @@
       <longitude>29.45265000</longitude>
     </cities>
     <cities>
+      <id>149482</id>
+      <name>Popilnia</name>
+      <latitude>49.94583333</latitude>
+      <longitude>29.45944444</longitude>
+    </cities>
+    <cities>
       <id>110302</id>
       <name>Popilnia Raion</name>
       <latitude>49.91667000</latitude>
       <longitude>29.50000000</longitude>
+    </cities>
+    <cities>
+      <id>149483</id>
+      <name>Popivka</name>
+      <latitude>49.82284856</latitude>
+      <longitude>34.36835803</longitude>
     </cities>
     <cities>
       <id>110303</id>
@@ -744682,6 +744106,12 @@
       <name>Potelych</name>
       <latitude>50.20804000</latitude>
       <longitude>23.54674000</longitude>
+    </cities>
+    <cities>
+      <id>149484</id>
+      <name>Potiivka</name>
+      <latitude>50.61972222</latitude>
+      <longitude>28.96444444</longitude>
     </cities>
     <cities>
       <id>110307</id>
@@ -744724,6 +744154,12 @@
       <name>Prolisky</name>
       <latitude>50.39118000</latitude>
       <longitude>30.78000000</longitude>
+    </cities>
+    <cities>
+      <id>149485</id>
+      <name>Proni</name>
+      <latitude>49.78629680</latitude>
+      <longitude>34.54425486</longitude>
     </cities>
     <cities>
       <id>110314</id>
@@ -744852,6 +744288,12 @@
       <longitude>23.28346000</longitude>
     </cities>
     <cities>
+      <id>149486</id>
+      <name>Pyriatyn</name>
+      <latitude>50.24059547</latitude>
+      <longitude>32.50929941</longitude>
+    </cities>
+    <cities>
       <id>110335</id>
       <name>Radcha</name>
       <latitude>48.85023000</latitude>
@@ -744868,6 +744310,12 @@
       <name>Radomyshl</name>
       <latitude>50.49613000</latitude>
       <longitude>29.22911000</longitude>
+    </cities>
+    <cities>
+      <id>149487</id>
+      <name>Radomyshl</name>
+      <latitude>50.49472222</latitude>
+      <longitude>29.23333333</longitude>
     </cities>
     <cities>
       <id>110338</id>
@@ -744954,6 +744402,12 @@
       <longitude>28.27914000</longitude>
     </cities>
     <cities>
+      <id>149488</id>
+      <name>Reshetylivka</name>
+      <latitude>49.56360000</latitude>
+      <longitude>34.07630000</longitude>
+    </cities>
+    <cities>
       <id>110352</id>
       <name>Richky</name>
       <latitude>50.27706000</latitude>
@@ -745002,6 +744456,12 @@
       <longitude>37.20602000</longitude>
     </cities>
     <cities>
+      <id>149489</id>
+      <name>Rohachi</name>
+      <latitude>49.64413000</latitude>
+      <longitude>29.36076000</longitude>
+    </cities>
+    <cities>
       <id>110360</id>
       <name>Rohatyn</name>
       <latitude>49.40900000</latitude>
@@ -745044,6 +744504,12 @@
       <longitude>27.93124000</longitude>
     </cities>
     <cities>
+      <id>149490</id>
+      <name>Romaniv</name>
+      <latitude>50.15166667</latitude>
+      <longitude>27.93916667</longitude>
+    </cities>
+    <cities>
       <id>110367</id>
       <name>Romashkino</name>
       <latitude>45.25647000</latitude>
@@ -745060,6 +744526,12 @@
       <name>Romny</name>
       <latitude>50.75104000</latitude>
       <longitude>33.47471000</longitude>
+    </cities>
+    <cities>
+      <id>149491</id>
+      <name>Romodan</name>
+      <latitude>49.99487495</latitude>
+      <longitude>33.33073071</longitude>
     </cities>
     <cities>
       <id>110370</id>
@@ -745212,6 +744684,12 @@
       <longitude>29.20455000</longitude>
     </cities>
     <cities>
+      <id>149492</id>
+      <name>Ruzhyn (settlement)</name>
+      <latitude>49.72333333</latitude>
+      <longitude>29.22138889</longitude>
+    </cities>
+    <cities>
       <id>110395</id>
       <name>Rybach'e</name>
       <latitude>44.77331000</latitude>
@@ -745314,6 +744792,12 @@
       <longitude>37.06266000</longitude>
     </cities>
     <cities>
+      <id>149493</id>
+      <name>Schyschaky</name>
+      <latitude>49.87689865</latitude>
+      <longitude>34.00709565</longitude>
+    </cities>
+    <cities>
       <id>110412</id>
       <name>Sedniv</name>
       <latitude>51.64473000</latitude>
@@ -745338,6 +744822,12 @@
       <longitude>32.58183000</longitude>
     </cities>
     <cities>
+      <id>149494</id>
+      <name>Semenivka</name>
+      <latitude>49.60167044</latitude>
+      <longitude>33.18746872</longitude>
+    </cities>
+    <cities>
       <id>110416</id>
       <name>Semisotka</name>
       <latitude>45.24676000</latitude>
@@ -745348,6 +744838,12 @@
       <name>Semypolky</name>
       <latitude>50.72627000</latitude>
       <longitude>30.93441000</longitude>
+    </cities>
+    <cities>
+      <id>149495</id>
+      <name>Sencha</name>
+      <latitude>50.25413446</latitude>
+      <longitude>33.35250701</longitude>
     </cities>
     <cities>
       <id>110418</id>
@@ -745560,6 +745056,12 @@
       <longitude>33.08693000</longitude>
     </cities>
     <cities>
+      <id>149496</id>
+      <name>Shumsk</name>
+      <latitude>50.11944444</latitude>
+      <longitude>26.11666667</longitude>
+    </cities>
+    <cities>
       <id>110453</id>
       <name>Shypyntsi</name>
       <latitude>48.37677000</latitude>
@@ -745758,6 +745260,12 @@
       <longitude>38.98133000</longitude>
     </cities>
     <cities>
+      <id>149497</id>
+      <name>Slovechne</name>
+      <latitude>51.38111111</latitude>
+      <longitude>28.35444444</longitude>
+    </cities>
+    <cities>
       <id>110486</id>
       <name>Sloviansk</name>
       <latitude>48.86667000</latitude>
@@ -745774,6 +745282,12 @@
       <name>Smila</name>
       <latitude>49.22242000</latitude>
       <longitude>31.88714000</longitude>
+    </cities>
+    <cities>
+      <id>149498</id>
+      <name>Smolovivshchina</name>
+      <latitude>49.06810000</latitude>
+      <longitude>34.43803000</longitude>
     </cities>
     <cities>
       <id>110489</id>
@@ -745846,6 +745360,12 @@
       <name>Sokal’</name>
       <latitude>50.47438000</latitude>
       <longitude>24.28288000</longitude>
+    </cities>
+    <cities>
+      <id>149499</id>
+      <name>Sokhatska Balka</name>
+      <latitude>49.79953582</latitude>
+      <longitude>34.36245495</longitude>
     </cities>
     <cities>
       <id>110501</id>
@@ -746136,6 +745656,12 @@
       <longitude>29.98684000</longitude>
     </cities>
     <cities>
+      <id>149500</id>
+      <name>Stepanivka</name>
+      <latitude>49.75900311</latitude>
+      <longitude>34.42956716</longitude>
+    </cities>
+    <cities>
       <id>110549</id>
       <name>Stepnoye</name>
       <latitude>45.65212000</latitude>
@@ -746206,6 +745732,12 @@
       <name>Sudak</name>
       <latitude>44.84924000</latitude>
       <longitude>34.97471000</longitude>
+    </cities>
+    <cities>
+      <id>149501</id>
+      <name>Sudivka</name>
+      <latitude>49.75552151</latitude>
+      <longitude>34.49162461</longitude>
     </cities>
     <cities>
       <id>110561</id>
@@ -746364,6 +745896,12 @@
       <longitude>33.67638000</longitude>
     </cities>
     <cities>
+      <id>149502</id>
+      <name>Tabory</name>
+      <latitude>50.27833333</latitude>
+      <longitude>27.59750000</longitude>
+    </cities>
+    <cities>
       <id>110587</id>
       <name>Talne</name>
       <latitude>48.88877000</latitude>
@@ -746380,6 +745918,12 @@
       <name>Tarakaniv</name>
       <latitude>50.37961000</latitude>
       <longitude>25.70843000</longitude>
+    </cities>
+    <cities>
+      <id>149503</id>
+      <name>Taraschanka</name>
+      <latitude>50.64583333</latitude>
+      <longitude>27.51500000</longitude>
     </cities>
     <cities>
       <id>110590</id>
@@ -746538,6 +746082,12 @@
       <longitude>29.31741000</longitude>
     </cities>
     <cities>
+      <id>149504</id>
+      <name>Topory</name>
+      <latitude>49.65361111</latitude>
+      <longitude>29.31333333</longitude>
+    </cities>
+    <cities>
       <id>110616</id>
       <name>Toretsk</name>
       <latitude>48.39869000</latitude>
@@ -746568,10 +746118,22 @@
       <longitude>38.96333000</longitude>
     </cities>
     <cities>
+      <id>149505</id>
+      <name>Travneve</name>
+      <latitude>50.42611111</latitude>
+      <longitude>29.08000000</longitude>
+    </cities>
+    <cities>
       <id>110620</id>
       <name>Trebukhiv</name>
       <latitude>50.48432000</latitude>
       <longitude>30.90304000</longitude>
+    </cities>
+    <cities>
+      <id>149506</id>
+      <name>Troiany</name>
+      <latitude>49.84137052</latitude>
+      <longitude>34.46811957</longitude>
     </cities>
     <cities>
       <id>110621</id>
@@ -746898,6 +746460,12 @@
       <longitude>25.51023000</longitude>
     </cities>
     <cities>
+      <id>149507</id>
+      <name>Vasilivka</name>
+      <latitude>49.82960962</latitude>
+      <longitude>34.45204549</longitude>
+    </cities>
+    <cities>
       <id>110676</id>
       <name>Vasilyevka</name>
       <latitude>45.13938000</latitude>
@@ -746934,10 +746502,28 @@
       <longitude>31.06211000</longitude>
     </cities>
     <cities>
+      <id>149508</id>
+      <name>Velika Rudka</name>
+      <latitude>49.74811105</latitude>
+      <longitude>34.46531945</longitude>
+    </cities>
+    <cities>
+      <id>149509</id>
+      <name>Veliki Budishcha</name>
+      <latitude>49.85606039</latitude>
+      <longitude>34.58307084</longitude>
+    </cities>
+    <cities>
       <id>110682</id>
       <name>Velikiye Borki</name>
       <latitude>49.52363000</latitude>
       <longitude>25.75753000</longitude>
+    </cities>
+    <cities>
+      <id>149510</id>
+      <name>Velyka Bahachka</name>
+      <latitude>49.79438338</latitude>
+      <longitude>33.72074263</longitude>
     </cities>
     <cities>
       <id>110683</id>
@@ -746988,10 +746574,22 @@
       <longitude>32.97498000</longitude>
     </cities>
     <cities>
+      <id>149511</id>
+      <name>Velyki Korovyntsi</name>
+      <latitude>49.97138889</latitude>
+      <longitude>28.29472222</longitude>
+    </cities>
+    <cities>
       <id>110691</id>
       <name>Velyki Mezhyrichi</name>
       <latitude>50.65431000</latitude>
       <longitude>26.86626000</longitude>
+    </cities>
+    <cities>
+      <id>149512</id>
+      <name>Velyki Sorochyntsi</name>
+      <latitude>50.02530458</latitude>
+      <longitude>33.94765459</longitude>
     </cities>
     <cities>
       <id>110692</id>
@@ -747066,6 +746664,12 @@
       <longitude>33.50004000</longitude>
     </cities>
     <cities>
+      <id>149513</id>
+      <name>Veresna</name>
+      <latitude>50.38222222</latitude>
+      <longitude>27.30750000</longitude>
+    </cities>
+    <cities>
       <id>110710</id>
       <name>Verkhn’odniprovs’k</name>
       <latitude>48.65242000</latitude>
@@ -747132,6 +746736,12 @@
       <longitude>34.87952000</longitude>
     </cities>
     <cities>
+      <id>149514</id>
+      <name>Veselivka</name>
+      <latitude>49.73583840</latitude>
+      <longitude>34.49733875</longitude>
+    </cities>
+    <cities>
       <id>110715</id>
       <name>Veselovka</name>
       <latitude>45.37733000</latitude>
@@ -747192,6 +746802,12 @@
       <longitude>33.64668000</longitude>
     </cities>
     <cities>
+      <id>149515</id>
+      <name>Virlya</name>
+      <latitude>50.34111111</latitude>
+      <longitude>27.70083333</longitude>
+    </cities>
+    <cities>
       <id>110725</id>
       <name>Vishennoye</name>
       <latitude>45.14509000</latitude>
@@ -747220,6 +746836,12 @@
       <name>Vladislavovka</name>
       <latitude>45.16828000</latitude>
       <longitude>35.37658000</longitude>
+    </cities>
+    <cities>
+      <id>149516</id>
+      <name>Vodiana Balka</name>
+      <latitude>49.90247078</latitude>
+      <longitude>34.48073506</longitude>
     </cities>
     <cities>
       <id>110730</id>
@@ -747462,6 +747084,12 @@
       <longitude>25.19452000</longitude>
     </cities>
     <cities>
+      <id>149517</id>
+      <name>Yablunets</name>
+      <latitude>50.80000000</latitude>
+      <longitude>28.06666667</longitude>
+    </cities>
+    <cities>
       <id>110770</id>
       <name>Yabluniv</name>
       <latitude>48.40418000</latitude>
@@ -747570,6 +747198,12 @@
       <longitude>26.83725000</longitude>
     </cities>
     <cities>
+      <id>149518</id>
+      <name>Yarun</name>
+      <latitude>50.54333333</latitude>
+      <longitude>27.46611111</longitude>
+    </cities>
+    <cities>
       <id>110788</id>
       <name>Yasinya</name>
       <latitude>48.27937000</latitude>
@@ -747616,6 +747250,12 @@
       <name>Yemil’chyne</name>
       <latitude>50.87349000</latitude>
       <longitude>27.80604000</longitude>
+    </cities>
+    <cities>
+      <id>149519</id>
+      <name>Yemilchyne</name>
+      <latitude>50.87083333</latitude>
+      <longitude>27.80277778</longitude>
     </cities>
     <cities>
       <id>110796</id>
@@ -747684,6 +747324,12 @@
       <longitude>31.79423000</longitude>
     </cities>
     <cities>
+      <id>149520</id>
+      <name>Zabaro-Davidivka</name>
+      <latitude>50.97027778</latitude>
+      <longitude>27.45305556</longitude>
+    </cities>
+    <cities>
       <id>110806</id>
       <name>Zabolotiv</name>
       <latitude>48.47054000</latitude>
@@ -747694,6 +747340,12 @@
       <name>Zachepylivka</name>
       <latitude>49.19385000</latitude>
       <longitude>35.23943000</longitude>
+    </cities>
+    <cities>
+      <id>149521</id>
+      <name>Zadovga</name>
+      <latitude>49.27884000</latitude>
+      <longitude>33.91136000</longitude>
     </cities>
     <cities>
       <id>110808</id>
@@ -747712,6 +747364,12 @@
       <name>Zakharivka</name>
       <latitude>47.33232000</latitude>
       <longitude>29.75903000</longitude>
+    </cities>
+    <cities>
+      <id>149522</id>
+      <name>Zakrinichchia</name>
+      <latitude>50.40000000</latitude>
+      <longitude>27.28416667</longitude>
     </cities>
     <cities>
       <id>110811</id>
@@ -747738,6 +747396,18 @@
       <longitude>25.73794000</longitude>
     </cities>
     <cities>
+      <id>149523</id>
+      <name>Zalissia</name>
+      <latitude>51.26444444</latitude>
+      <longitude>29.19805556</longitude>
+    </cities>
+    <cities>
+      <id>149524</id>
+      <name>Zaliznia</name>
+      <latitude>50.15000000</latitude>
+      <longitude>28.52222222</longitude>
+    </cities>
+    <cities>
       <id>110815</id>
       <name>Zaliznychne</name>
       <latitude>45.74890000</latitude>
@@ -747762,10 +747432,22 @@
       <longitude>25.37297000</longitude>
     </cities>
     <cities>
+      <id>149525</id>
+      <name>Zaluzhne</name>
+      <latitude>50.23833333</latitude>
+      <longitude>27.96805556</longitude>
+    </cities>
+    <cities>
       <id>110819</id>
       <name>Zaozyornoye</name>
       <latitude>45.15816000</latitude>
       <longitude>33.27866000</longitude>
+    </cities>
+    <cities>
+      <id>149526</id>
+      <name>Zapadnia</name>
+      <latitude>50.19055556</latitude>
+      <longitude>29.32916667</longitude>
     </cities>
     <cities>
       <id>110821</id>
@@ -747786,6 +747468,12 @@
       <longitude>34.26426000</longitude>
     </cities>
     <cities>
+      <id>149527</id>
+      <name>Zarichchia</name>
+      <latitude>49.71111111</latitude>
+      <longitude>29.22888889</longitude>
+    </cities>
+    <cities>
       <id>110823</id>
       <name>Zarichchya</name>
       <latitude>48.52144000</latitude>
@@ -747796,6 +747484,12 @@
       <name>Zarichne</name>
       <latitude>51.81260000</latitude>
       <longitude>26.12902000</longitude>
+    </cities>
+    <cities>
+      <id>149528</id>
+      <name>Zarudintsi</name>
+      <latitude>49.65333333</latitude>
+      <longitude>29.19222222</longitude>
     </cities>
     <cities>
       <id>110825</id>
@@ -747834,6 +747528,12 @@
       <longitude>34.80837000</longitude>
     </cities>
     <cities>
+      <id>149529</id>
+      <name>Zavodske</name>
+      <latitude>50.40019868</latitude>
+      <longitude>33.39081277</longitude>
+    </cities>
+    <cities>
       <id>110831</id>
       <name>Zbarazh</name>
       <latitude>49.66357000</latitude>
@@ -747846,10 +747546,22 @@
       <longitude>25.14097000</longitude>
     </cities>
     <cities>
+      <id>149530</id>
+      <name>Zbranki</name>
+      <latitude>51.29833333</latitude>
+      <longitude>28.64583333</longitude>
+    </cities>
+    <cities>
       <id>110833</id>
       <name>Zdolbuniv</name>
       <latitude>50.52060000</latitude>
       <longitude>26.24251000</longitude>
+    </cities>
+    <cities>
+      <id>149531</id>
+      <name>Zdorovets</name>
+      <latitude>50.90694444</latitude>
+      <longitude>27.88611111</longitude>
     </cities>
     <cities>
       <id>110834</id>
@@ -747912,6 +747624,18 @@
       <longitude>34.65778000</longitude>
     </cities>
     <cities>
+      <id>149532</id>
+      <name>Zherdeli</name>
+      <latitude>49.89888889</latitude>
+      <longitude>28.97000000</longitude>
+    </cities>
+    <cities>
+      <id>149533</id>
+      <name>Zhitintsi</name>
+      <latitude>49.91388889</latitude>
+      <longitude>27.57194444</longitude>
+    </cities>
+    <cities>
       <id>110844</id>
       <name>Zhmerynka</name>
       <latitude>49.03705000</latitude>
@@ -747924,10 +747648,28 @@
       <longitude>23.97260000</longitude>
     </cities>
     <cities>
+      <id>149534</id>
+      <name>Zhovte</name>
+      <latitude>50.40444444</latitude>
+      <longitude>27.82166667</longitude>
+    </cities>
+    <cities>
       <id>110846</id>
       <name>Zhovti Vody</name>
       <latitude>48.34493000</latitude>
       <longitude>33.50374000</longitude>
+    </cities>
+    <cities>
+      <id>149535</id>
+      <name>Zhovtii Brid</name>
+      <latitude>50.28361111</latitude>
+      <longitude>28.10638889</longitude>
+    </cities>
+    <cities>
+      <id>149536</id>
+      <name>Zhupanivka</name>
+      <latitude>50.92750000</latitude>
+      <longitude>28.35500000</longitude>
     </cities>
     <cities>
       <id>110847</id>
@@ -747954,6 +747696,12 @@
       <longitude>33.99680000</longitude>
     </cities>
     <cities>
+      <id>149537</id>
+      <name>Zhurbintsi</name>
+      <latitude>49.97944444</latitude>
+      <longitude>28.71583333</longitude>
+    </cities>
+    <cities>
       <id>110851</id>
       <name>Zhvanets</name>
       <latitude>48.54968000</latitude>
@@ -747972,6 +747720,12 @@
       <longitude>28.67669000</longitude>
     </cities>
     <cities>
+      <id>149538</id>
+      <name>Zhytomyr</name>
+      <latitude>50.25444444</latitude>
+      <longitude>28.65777778</longitude>
+    </cities>
+    <cities>
       <id>110854</id>
       <name>Zhytomyr Raion</name>
       <latitude>50.25000000</latitude>
@@ -747982,6 +747736,18 @@
       <name>Zimino</name>
       <latitude>45.50797000</latitude>
       <longitude>33.51431000</longitude>
+    </cities>
+    <cities>
+      <id>149539</id>
+      <name>Zinkiv</name>
+      <latitude>50.20813908</latitude>
+      <longitude>34.36684182</longitude>
+    </cities>
+    <cities>
+      <id>149540</id>
+      <name>Zlobichi</name>
+      <latitude>50.85611111</latitude>
+      <longitude>28.69111111</longitude>
     </cities>
     <cities>
       <id>110856</id>
@@ -748032,10 +747798,22 @@
       <longitude>25.33926000</longitude>
     </cities>
     <cities>
+      <id>149541</id>
+      <name>Zoriane</name>
+      <latitude>49.64916667</latitude>
+      <longitude>29.24444444</longitude>
+    </cities>
+    <cities>
       <id>110864</id>
       <name>Zorkino</name>
       <latitude>45.54762000</latitude>
       <longitude>34.71028000</longitude>
+    </cities>
+    <cities>
+      <id>149542</id>
+      <name>Zorokiv</name>
+      <latitude>50.39416667</latitude>
+      <longitude>28.62388889</longitude>
     </cities>
     <cities>
       <id>110865</id>
@@ -748048,6 +747826,18 @@
       <name>Zoryns’k</name>
       <latitude>48.41194000</latitude>
       <longitude>38.62361000</longitude>
+    </cities>
+    <cities>
+      <id>149543</id>
+      <name>Zosimivka</name>
+      <latitude>50.73888889</latitude>
+      <longitude>27.64888889</longitude>
+    </cities>
+    <cities>
+      <id>149544</id>
+      <name>Zubivshchina</name>
+      <latitude>50.95944444</latitude>
+      <longitude>28.81722222</longitude>
     </cities>
     <cities>
       <id>110867</id>
@@ -748066,6 +747856,12 @@
       <name>Zvenihorodka</name>
       <latitude>49.07866000</latitude>
       <longitude>30.96755000</longitude>
+    </cities>
+    <cities>
+      <id>149545</id>
+      <name>Zvizdal</name>
+      <latitude>51.17386000</latitude>
+      <longitude>29.24655000</longitude>
     </cities>
     <cities>
       <id>110870</id>
@@ -797827,6 +797623,12 @@
       <longitude>-121.60151000</longitude>
     </cities>
     <cities>
+      <id>149310</id>
+      <name>Dartmouth</name>
+      <latitude>41.59419180</latitude>
+      <longitude>-71.11043520</longitude>
+    </cities>
+    <cities>
       <id>115055</id>
       <name>Dassel</name>
       <latitude>45.08163000</latitude>
@@ -817745,6 +817547,12 @@
       <name>Hazlehurst</name>
       <latitude>31.86044000</latitude>
       <longitude>-90.39593000</longitude>
+    </cities>
+    <cities>
+      <id>149546</id>
+      <name>Hazlet Township</name>
+      <latitude>40.42685010</latitude>
+      <longitude>-74.20682440</longitude>
     </cities>
     <cities>
       <id>118213</id>
@@ -843317,6 +843125,12 @@
       <name>Morningside</name>
       <latitude>38.83011000</latitude>
       <longitude>-76.89136000</longitude>
+    </cities>
+    <cities>
+      <id>149547</id>
+      <name>Morningside</name>
+      <latitude>40.48140510</latitude>
+      <longitude>-79.93442840</longitude>
     </cities>
     <cities>
       <id>122258</id>
