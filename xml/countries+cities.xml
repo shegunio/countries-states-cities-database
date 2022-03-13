@@ -120774,12 +120774,6 @@
       <longitude>-76.65255000</longitude>
     </cities>
     <cities>
-      <id>20653</id>
-      <name>Carlosama</name>
-      <latitude>0.86292000</latitude>
-      <longitude>-77.72734000</longitude>
-    </cities>
-    <cities>
       <id>20654</id>
       <name>Carmen de Apicalá</name>
       <latitude>4.14725000</latitude>
@@ -122868,6 +122862,12 @@
       <longitude>-76.54945000</longitude>
     </cities>
     <cities>
+      <id>21041</id>
+      <name>López de Micay</name>
+      <latitude>3.00000000</latitude>
+      <longitude>-77.25000000</longitude>
+    </cities>
+    <cities>
       <id>21031</id>
       <name>Lorica</name>
       <latitude>9.23648000</latitude>
@@ -123328,18 +123328,6 @@
       <name>Motavita</name>
       <latitude>5.57655000</latitude>
       <longitude>-73.36696000</longitude>
-    </cities>
-    <cities>
-      <id>21115</id>
-      <name>Municipio de López de Micay</name>
-      <latitude>3.00000000</latitude>
-      <longitude>-77.25000000</longitude>
-    </cities>
-    <cities>
-      <id>21117</id>
-      <name>Municipio de San Pedro de los Milagros</name>
-      <latitude>6.46538000</latitude>
-      <longitude>-75.56452000</longitude>
     </cities>
     <cities>
       <id>21119</id>
@@ -125038,6 +125026,12 @@
       <name>San Pedro de Cartago</name>
       <latitude>1.55151000</latitude>
       <longitude>-77.11948000</longitude>
+    </cities>
+    <cities>
+      <id>21117</id>
+      <name>San Pedro de los Milagros</name>
+      <latitude>6.45944444</latitude>
+      <longitude>-75.55777888</longitude>
     </cities>
     <cities>
       <id>21399</id>
@@ -402207,7 +402201,7 @@
     <iso2>MX</iso2>
     <numeric_code>484</numeric_code>
     <phone_code>52</phone_code>
-    <capital>Mexico City</capital>
+    <capital>Ciudad de México</capital>
     <currency>MXN</currency>
     <currency_name>Mexican peso</currency_name>
     <currency_symbol>$</currency_symbol>
@@ -410157,6 +410151,12 @@
       <name>Ciudad de Huitzuco</name>
       <latitude>18.30334000</latitude>
       <longitude>-99.33376000</longitude>
+    </cities>
+    <cities>
+      <id>72102</id>
+      <name>Ciudad de México</name>
+      <latitude>19.42847000</latitude>
+      <longitude>-99.12766000</longitude>
     </cities>
     <cities>
       <id>69191</id>
@@ -430623,12 +430623,6 @@
       <name>Mexicanos</name>
       <latitude>20.52903000</latitude>
       <longitude>-101.07064000</longitude>
-    </cities>
-    <cities>
-      <id>72102</id>
-      <name>Mexico City</name>
-      <latitude>19.42847000</latitude>
-      <longitude>-99.12766000</longitude>
     </cities>
     <cities>
       <id>72263</id>
