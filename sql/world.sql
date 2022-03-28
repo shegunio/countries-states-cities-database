@@ -8,7 +8,7 @@ DROP TABLE IF EXISTS `countries`;
 -- https://tableplus.com/
 --
 -- Database: world
--- Generation Time: 2022-03-13 16:50:27.9190
+-- Generation Time: 2022-03-28 22:51:06.2930
 -- -------------------------------------------------------------
 
 
@@ -40,7 +40,7 @@ CREATE TABLE `cities` (
   KEY `cities_test_ibfk_2` (`country_id`),
   CONSTRAINT `cities_ibfk_1` FOREIGN KEY (`state_id`) REFERENCES `states` (`id`),
   CONSTRAINT `cities_ibfk_2` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=149549 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci ROW_FORMAT=COMPACT;
+) ENGINE=InnoDB AUTO_INCREMENT=149560 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci ROW_FORMAT=COMPACT;
 
 CREATE TABLE `countries` (
   `id` mediumint(8) unsigned NOT NULL AUTO_INCREMENT,
@@ -148710,7 +148710,18 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (149545, 'Zvizdal', 5071, '53', 230, 'UA', 51.17386000, 29.24655000, '2022-03-13 15:43:54', '2022-03-13 15:43:54', 1, 'Q12106415'),
 (149546, 'Hazlet Township', 1417, 'NJ', 233, 'US', 40.42685010, -74.20682440, '2022-03-13 16:05:52', '2022-03-13 16:05:52', 1, 'Q1592114'),
 (149547, 'Morningside', 1422, 'PA', 233, 'US', 40.48140510, -79.93442840, '2022-03-13 16:38:46', '2022-03-13 16:38:46', 1, 'Q6912971'),
-(149548, 'Ranipet', 4035, 'TN', 101, 'IN', 12.95347490, 79.28159160, '2022-03-13 16:45:30', '2022-03-13 16:45:30', 1, 'Q1421308');
+(149548, 'Ranipet', 4035, 'TN', 101, 'IN', 12.95347490, 79.28159160, '2022-03-13 16:45:30', '2022-03-13 16:45:30', 1, 'Q1421308'),
+(149549, 'Malaga', 3906, 'WA', 14, 'AU', -31.85814290, 115.87986450, '2022-03-28 22:37:54', '2022-03-28 22:37:54', 1, 'Q6740964'),
+(149550, 'Badgingarra', 3906, 'WA', 14, 'AU', -30.44367330, 115.47471450, '2022-03-28 22:37:54', '2022-03-28 22:37:54', 1, 'Q4840880'),
+(149551, 'Muchea', 3906, 'WA', 14, 'AU', -31.54936380, 115.87036200, '2022-03-28 22:37:54', '2022-03-28 22:37:54', 1, 'Q6931019'),
+(149552, 'Cervantes', 3906, 'WA', 14, 'AU', -30.50264750, 115.05417670, '2022-03-28 22:37:54', '2022-03-28 22:37:54', 1, 'Q178439'),
+(149553, 'Woodridge', 3906, 'WA', 14, 'AU', -31.33143680, 115.58252470, '2022-03-28 22:37:54', '2022-03-28 22:37:54', 1, 'Q1939663'),
+(149554, 'Leeman', 3906, 'WA', 14, 'AU', -29.98735790, 114.95789040, '2022-03-28 22:37:54', '2022-03-28 22:37:54', 1, 'Q21896183'),
+(149555, 'Lancelin', 3906, 'WA', 14, 'AU', -31.02231270, 115.32398090, '2022-03-28 22:37:54', '2022-03-28 22:37:54', 1, 'Q991138'),
+(149556, 'Green Head', 3906, 'WA', 14, 'AU', -30.07749610, 114.95851290, '2022-03-28 22:37:54', '2022-03-28 22:37:54', 1, 'Q21896036'),
+(149557, 'Cataby', 3906, 'WA', 14, 'AU', -30.72744730, 115.43201600, '2022-03-28 22:37:54', '2022-03-28 22:37:54', 1, 'Q5051134'),
+(149558, 'Regans Ford', 3906, 'WA', 14, 'AU', -30.95552880, 115.60734050, '2022-03-28 22:37:54', '2022-03-28 22:37:54', 1, 'Q7307960'),
+(149559, 'Hill River', 3906, 'WA', 14, 'AU', -30.25744110, 115.15365180, '2022-03-28 22:37:54', '2022-03-28 22:37:54', 1, 'Q3135649');
 
 INSERT INTO `countries` (`id`, `name`, `iso3`, `numeric_code`, `iso2`, `phonecode`, `capital`, `currency`, `currency_name`, `currency_symbol`, `tld`, `native`, `region`, `subregion`, `timezones`, `translations`, `latitude`, `longitude`, `emoji`, `emojiU`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (1, 'Afghanistan', 'AFG', '004', 'AF', '93', 'Kabul', 'AFN', 'Afghan afghani', '؋', '.af', 'افغانستان', 'Asia', 'Southern Asia', '[{\"zoneName\":\"Asia/Kabul\",\"gmtOffset\":16200,\"gmtOffsetName\":\"UTC+04:30\",\"abbreviation\":\"AFT\",\"tzName\":\"Afghanistan Time\"}]', '{\"kr\":\"아프가니스탄\",\"br\":\"Afeganistão\",\"pt\":\"Afeganistão\",\"nl\":\"Afghanistan\",\"hr\":\"Afganistan\",\"fa\":\"افغانستان\",\"de\":\"Afghanistan\",\"es\":\"Afganistán\",\"fr\":\"Afghanistan\",\"ja\":\"アフガニスタン\",\"it\":\"Afghanistan\",\"cn\":\"阿富汗\"}', 33.00000000, 65.00000000, '🇦🇫', 'U+1F1E6 U+1F1EB', '2018-07-21 01:41:03', '2021-12-11 18:19:42', 1, 'Q889'),
