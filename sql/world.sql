@@ -2,6 +2,7 @@ DROP TABLE IF EXISTS `cities`;
 DROP TABLE IF EXISTS `states`;
 DROP TABLE IF EXISTS `countries`;
 
+
 -- -------------------------------------------------------------
 -- TablePlus 4.5.2(402)
 --

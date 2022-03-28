@@ -5485,6 +5485,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 4043,"Augusta-Margaret River Shire",3906,WA,"Western Australia",14,AU,Australia,-34.11520000,115.32277000,Q765386
 4049,Australind,3906,WA,"Western Australia",14,AU,Australia,-33.27920000,115.71504000,Q765181
 4050,Aveley,3906,WA,"Western Australia",14,AU,Australia,-31.78132000,115.98959000,Q4827990
+149550,Badgingarra,3906,WA,"Western Australia",14,AU,Australia,-30.44367330,115.47471450,Q4840880
 4066,"Bakers Hill",3906,WA,"Western Australia",14,AU,Australia,-31.74692000,116.45866000,Q4849265
 4070,Balcatta,3906,WA,"Western Australia",14,AU,Australia,-31.87501000,115.82839000,Q4850226
 4072,Baldivis,3906,WA,"Western Australia",14,AU,Australia,-32.32889000,115.83047000,Q4850442
@@ -5562,7 +5563,9 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 4610,Carramar,3906,WA,"Western Australia",14,AU,Australia,-31.69023000,115.77159000,Q5046010
 4631,Castletown,3906,WA,"Western Australia",14,AU,Australia,-33.83237000,121.91563000,Q5050647
 4633,Casuarina,3906,WA,"Western Australia",14,AU,Australia,-32.24143000,115.86980000,Q2941547
+149557,Cataby,3906,WA,"Western Australia",14,AU,Australia,-30.72744730,115.43201600,Q5051134
 4641,Caversham,3906,WA,"Western Australia",14,AU,Australia,-31.88333000,115.96667000,Q5055079
+149552,Cervantes,3906,WA,"Western Australia",14,AU,Australia,-30.50264750,115.05417670,Q178439
 4659,"Champion Lakes",3906,WA,"Western Australia",14,AU,Australia,-32.11913000,115.98617000,Q16858912
 4663,"Chapman Valley",3906,WA,"Western Australia",14,AU,Australia,-28.27249000,115.02794000,Q1062764
 4686,Chidlow,3906,WA,"Western Australia",14,AU,Australia,-31.86094000,116.27243000,Q5096621
@@ -5668,6 +5671,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 5417,"Gooseberry Hill",3906,WA,"Western Australia",14,AU,Australia,-31.95444000,116.04920000,Q5584124
 5425,Gosnells,3906,WA,"Western Australia",14,AU,Australia,-32.06763000,116.00203000,Q1538602
 5441,Grasmere,3906,WA,"Western Australia",14,AU,Australia,-35.01806000,117.75556000,Q56234911
+149556,"Green Head",3906,WA,"Western Australia",14,AU,Australia,-30.07749610,114.95851290,Q21896036
 5455,Greenfields,3906,WA,"Western Australia",14,AU,Australia,-32.52429000,115.76315000,Q5604027
 5456,Greenmount,3906,WA,"Western Australia",14,AU,Australia,-31.90072000,116.04950000,Q14935802
 5465,Greenwood,3906,WA,"Western Australia",14,AU,Australia,-31.82723000,115.80247000,Q5604964
@@ -5688,6 +5692,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 5593,"High Wycombe",3906,WA,"Western Australia",14,AU,Australia,-31.94444000,116.00340000,Q730334
 5597,Highgate,3906,WA,"Western Australia",14,AU,Australia,-31.93971000,115.87015000,Q14935808
 5603,Hilbert,3906,WA,"Western Australia",14,AU,Australia,-32.17818000,115.98490000,Q16892320
+149559,"Hill River",3906,WA,"Western Australia",14,AU,Australia,-30.25744110,115.15365180,Q3135649
 5605,Hillarys,3906,WA,"Western Australia",14,AU,Australia,-31.80698000,115.74045000,Q5762605
 5610,Hillman,3906,WA,"Western Australia",14,AU,Australia,-32.28327000,115.76364000,Q14935810
 5615,Hilton,3906,WA,"Western Australia",14,AU,Australia,-32.06208000,115.78049000,Q14935811
@@ -5737,12 +5742,14 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 5945,"Lake Grace",3906,WA,"Western Australia",14,AU,Australia,-33.12910000,119.42041000,Q1573562
 5953,Lakelands,3906,WA,"Western Australia",14,AU,Australia,-32.47157000,115.77291000,Q6478848
 5961,Lamington,3906,WA,"Western Australia",14,AU,Australia,-30.73425000,121.46163000,Q6481586
+149555,Lancelin,3906,WA,"Western Australia",14,AU,Australia,-31.02231270,115.32398090,Q991138
 5965,Landsdale,3906,WA,"Western Australia",14,AU,Australia,-31.80750000,115.86599000,Q6485146
 5970,Langford,3906,WA,"Western Australia",14,AU,Australia,-32.04092000,115.94157000,Q6486023
 5981,Lathlain,3906,WA,"Western Australia",14,AU,Australia,-31.96755000,115.90631000,Q1128230
 5989,Laverton,3906,WA,"Western Australia",14,AU,Australia,-27.93793000,125.27127000,Q1808916
 5996,Leda,3906,WA,"Western Australia",14,AU,Australia,-32.26766000,115.79930000,Q6512522
 5997,Leederville,3906,WA,"Western Australia",14,AU,Australia,-31.93628000,115.84190000,Q3829397
+149554,Leeman,3906,WA,"Western Australia",14,AU,Australia,-29.98735790,114.95789040,Q21896183
 5998,Leeming,3906,WA,"Western Australia",14,AU,Australia,-32.07511000,115.86613000,Q3829397
 6003,Leinster,3906,WA,"Western Australia",14,AU,Australia,-27.92028000,120.69670000,Q6519972
 6009,Leonora,3906,WA,"Western Australia",14,AU,Australia,-28.39424000,121.25960000,Q684243
@@ -5758,6 +5765,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 6119,Madeley,3906,WA,"Western Australia",14,AU,Australia,-31.81110000,115.82814000,Q14935857
 6120,"Madora Bay",3906,WA,"Western Australia",14,AU,Australia,-32.46951000,115.75264000,Q6728437
 6124,"Maida Vale",3906,WA,"Western Australia",14,AU,Australia,-31.95187000,116.02764000,Q6735327
+149549,Malaga,3906,WA,"Western Australia",14,AU,Australia,-31.85814290,115.87986450,Q6740964
 6143,Mandurah,3906,WA,"Western Australia",14,AU,Australia,-32.52690000,115.72170000,Q595542
 6144,"Mandurah city centre",3906,WA,"Western Australia",14,AU,Australia,-32.52644000,115.73361000,Q595542
 6150,Manjimup,3906,WA,"Western Australia",14,AU,Australia,-34.59789000,116.26566000,Q1516885
@@ -5802,6 +5810,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 6450,"Mount Pleasant",3906,WA,"Western Australia",14,AU,Australia,-32.03974000,115.84993000,Q6922862
 6455,"Mount Richon",3906,WA,"Western Australia",14,AU,Australia,-32.17349000,116.02137000,Q1538545
 6460,"Mount Tarcoola",3906,WA,"Western Australia",14,AU,Australia,-28.79859000,114.62530000,Q6924049
+149551,Muchea,3906,WA,"Western Australia",14,AU,Australia,-31.54936380,115.87036200,Q6931019
 6473,Mukinbudin,3906,WA,"Western Australia",14,AU,Australia,-30.63684000,118.28648000,Q1341239
 6477,Mullaloo,3906,WA,"Western Australia",14,AU,Australia,-31.77896000,115.73676000,Q21896038
 6480,Mundaring,3906,WA,"Western Australia",14,AU,Australia,-31.88456000,116.21551000,Q1261226
@@ -5867,6 +5876,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 6969,Ravensthorpe,3906,WA,"Western Australia",14,AU,Australia,-33.68375000,120.15338000,Q2094089
 6971,Ravenswood,3906,WA,"Western Australia",14,AU,Australia,-32.58240000,115.83150000,Q7296563
 6981,Redcliffe,3906,WA,"Western Australia",14,AU,Australia,-31.93845000,115.94645000,Q7305554
+149558,"Regans Ford",3906,WA,"Western Australia",14,AU,Australia,-30.95552880,115.60734050,Q7307960
 7013,Ridgewood,3906,WA,"Western Australia",14,AU,Australia,-31.66150000,115.72261000,Q7332842
 7026,Riverton,3906,WA,"Western Australia",14,AU,Australia,-32.03468000,115.89856000,Q7338654
 7027,Rivervale,3906,WA,"Western Australia",14,AU,Australia,-31.95546000,115.91306000,Q7338698
@@ -5978,6 +5988,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 7910,Wonthella,3906,WA,"Western Australia",14,AU,Australia,-28.76689000,114.63338000,Q8032110
 7911,Woodanilling,3906,WA,"Western Australia",14,AU,Australia,-33.51937000,117.33580000,Q1854273
 7914,Woodbridge,3906,WA,"Western Australia",14,AU,Australia,-31.88695000,115.99196000,Q3569819
+149553,Woodridge,3906,WA,"Western Australia",14,AU,Australia,-31.33143680,115.58252470,Q1939663
 7927,Woodvale,3906,WA,"Western Australia",14,AU,Australia,-31.78928000,115.79676000,Q8033498
 7947,Wooroloo,3906,WA,"Western Australia",14,AU,Australia,-31.80380000,116.31311000,Q8034039
 7948,Woorree,3906,WA,"Western Australia",14,AU,Australia,-28.76677000,114.65806000,Q8034039

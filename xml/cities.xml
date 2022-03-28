@@ -71319,6 +71319,19 @@
     <wikiDataId>Q4827990</wikiDataId>
   </city>
   <city>
+    <id>149550</id>
+    <name>Badgingarra</name>
+    <state_id>3906</state_id>
+    <state_code>WA</state_code>
+    <state_name>Western Australia</state_name>
+    <country_id>14</country_id>
+    <country_code>AU</country_code>
+    <country_name>Australia</country_name>
+    <latitude>-30.44367330</latitude>
+    <longitude>115.47471450</longitude>
+    <wikiDataId>Q4840880</wikiDataId>
+  </city>
+  <city>
     <id>4066</id>
     <name>Bakers Hill</name>
     <state_id>3906</state_id>
@@ -72320,6 +72333,19 @@
     <wikiDataId>Q2941547</wikiDataId>
   </city>
   <city>
+    <id>149557</id>
+    <name>Cataby</name>
+    <state_id>3906</state_id>
+    <state_code>WA</state_code>
+    <state_name>Western Australia</state_name>
+    <country_id>14</country_id>
+    <country_code>AU</country_code>
+    <country_name>Australia</country_name>
+    <latitude>-30.72744730</latitude>
+    <longitude>115.43201600</longitude>
+    <wikiDataId>Q5051134</wikiDataId>
+  </city>
+  <city>
     <id>4641</id>
     <name>Caversham</name>
     <state_id>3906</state_id>
@@ -72331,6 +72357,19 @@
     <latitude>-31.88333000</latitude>
     <longitude>115.96667000</longitude>
     <wikiDataId>Q5055079</wikiDataId>
+  </city>
+  <city>
+    <id>149552</id>
+    <name>Cervantes</name>
+    <state_id>3906</state_id>
+    <state_code>WA</state_code>
+    <state_name>Western Australia</state_name>
+    <country_id>14</country_id>
+    <country_code>AU</country_code>
+    <country_name>Australia</country_name>
+    <latitude>-30.50264750</latitude>
+    <longitude>115.05417670</longitude>
+    <wikiDataId>Q178439</wikiDataId>
   </city>
   <city>
     <id>4659</id>
@@ -73698,6 +73737,19 @@
     <wikiDataId>Q56234911</wikiDataId>
   </city>
   <city>
+    <id>149556</id>
+    <name>Green Head</name>
+    <state_id>3906</state_id>
+    <state_code>WA</state_code>
+    <state_name>Western Australia</state_name>
+    <country_id>14</country_id>
+    <country_code>AU</country_code>
+    <country_name>Australia</country_name>
+    <latitude>-30.07749610</latitude>
+    <longitude>114.95851290</longitude>
+    <wikiDataId>Q21896036</wikiDataId>
+  </city>
+  <city>
     <id>5455</id>
     <name>Greenfields</name>
     <state_id>3906</state_id>
@@ -73956,6 +74008,19 @@
     <latitude>-32.17818000</latitude>
     <longitude>115.98490000</longitude>
     <wikiDataId>Q16892320</wikiDataId>
+  </city>
+  <city>
+    <id>149559</id>
+    <name>Hill River</name>
+    <state_id>3906</state_id>
+    <state_code>WA</state_code>
+    <state_name>Western Australia</state_name>
+    <country_id>14</country_id>
+    <country_code>AU</country_code>
+    <country_name>Australia</country_name>
+    <latitude>-30.25744110</latitude>
+    <longitude>115.15365180</longitude>
+    <wikiDataId>Q3135649</wikiDataId>
   </city>
   <city>
     <id>5605</id>
@@ -74595,6 +74660,19 @@
     <wikiDataId>Q6481586</wikiDataId>
   </city>
   <city>
+    <id>149555</id>
+    <name>Lancelin</name>
+    <state_id>3906</state_id>
+    <state_code>WA</state_code>
+    <state_name>Western Australia</state_name>
+    <country_id>14</country_id>
+    <country_code>AU</country_code>
+    <country_name>Australia</country_name>
+    <latitude>-31.02231270</latitude>
+    <longitude>115.32398090</longitude>
+    <wikiDataId>Q991138</wikiDataId>
+  </city>
+  <city>
     <id>5965</id>
     <name>Landsdale</name>
     <state_id>3906</state_id>
@@ -74671,6 +74749,19 @@
     <latitude>-31.93628000</latitude>
     <longitude>115.84190000</longitude>
     <wikiDataId>Q3829397</wikiDataId>
+  </city>
+  <city>
+    <id>149554</id>
+    <name>Leeman</name>
+    <state_id>3906</state_id>
+    <state_code>WA</state_code>
+    <state_name>Western Australia</state_name>
+    <country_id>14</country_id>
+    <country_code>AU</country_code>
+    <country_name>Australia</country_name>
+    <latitude>-29.98735790</latitude>
+    <longitude>114.95789040</longitude>
+    <wikiDataId>Q21896183</wikiDataId>
   </city>
   <city>
     <id>5998</id>
@@ -74866,6 +74957,19 @@
     <latitude>-31.95187000</latitude>
     <longitude>116.02764000</longitude>
     <wikiDataId>Q6735327</wikiDataId>
+  </city>
+  <city>
+    <id>149549</id>
+    <name>Malaga</name>
+    <state_id>3906</state_id>
+    <state_code>WA</state_code>
+    <state_name>Western Australia</state_name>
+    <country_id>14</country_id>
+    <country_code>AU</country_code>
+    <country_name>Australia</country_name>
+    <latitude>-31.85814290</latitude>
+    <longitude>115.87986450</longitude>
+    <wikiDataId>Q6740964</wikiDataId>
   </city>
   <city>
     <id>6143</id>
@@ -75438,6 +75542,19 @@
     <latitude>-28.79859000</latitude>
     <longitude>114.62530000</longitude>
     <wikiDataId>Q6924049</wikiDataId>
+  </city>
+  <city>
+    <id>149551</id>
+    <name>Muchea</name>
+    <state_id>3906</state_id>
+    <state_code>WA</state_code>
+    <state_name>Western Australia</state_name>
+    <country_id>14</country_id>
+    <country_code>AU</country_code>
+    <country_name>Australia</country_name>
+    <latitude>-31.54936380</latitude>
+    <longitude>115.87036200</longitude>
+    <wikiDataId>Q6931019</wikiDataId>
   </city>
   <city>
     <id>6473</id>
@@ -76283,6 +76400,19 @@
     <latitude>-31.93845000</latitude>
     <longitude>115.94645000</longitude>
     <wikiDataId>Q7305554</wikiDataId>
+  </city>
+  <city>
+    <id>149558</id>
+    <name>Regans Ford</name>
+    <state_id>3906</state_id>
+    <state_code>WA</state_code>
+    <state_name>Western Australia</state_name>
+    <country_id>14</country_id>
+    <country_code>AU</country_code>
+    <country_name>Australia</country_name>
+    <latitude>-30.95552880</latitude>
+    <longitude>115.60734050</longitude>
+    <wikiDataId>Q7307960</wikiDataId>
   </city>
   <city>
     <id>7013</id>
@@ -77726,6 +77856,19 @@
     <latitude>-31.88695000</latitude>
     <longitude>115.99196000</longitude>
     <wikiDataId>Q3569819</wikiDataId>
+  </city>
+  <city>
+    <id>149553</id>
+    <name>Woodridge</name>
+    <state_id>3906</state_id>
+    <state_code>WA</state_code>
+    <state_name>Western Australia</state_name>
+    <country_id>14</country_id>
+    <country_code>AU</country_code>
+    <country_name>Australia</country_name>
+    <latitude>-31.33143680</latitude>
+    <longitude>115.58252470</longitude>
+    <wikiDataId>Q1939663</wikiDataId>
   </city>
   <city>
     <id>7927</id>

@@ -71318,6 +71318,19 @@
         "wikiDataId": "Q4827990"
     },
     {
+        "id": 149550,
+        "name": "Badgingarra",
+        "state_id": 3906,
+        "state_code": "WA",
+        "state_name": "Western Australia",
+        "country_id": 14,
+        "country_code": "AU",
+        "country_name": "Australia",
+        "latitude": "-30.44367330",
+        "longitude": "115.47471450",
+        "wikiDataId": "Q4840880"
+    },
+    {
         "id": 4066,
         "name": "Bakers Hill",
         "state_id": 3906,
@@ -72319,6 +72332,19 @@
         "wikiDataId": "Q2941547"
     },
     {
+        "id": 149557,
+        "name": "Cataby",
+        "state_id": 3906,
+        "state_code": "WA",
+        "state_name": "Western Australia",
+        "country_id": 14,
+        "country_code": "AU",
+        "country_name": "Australia",
+        "latitude": "-30.72744730",
+        "longitude": "115.43201600",
+        "wikiDataId": "Q5051134"
+    },
+    {
         "id": 4641,
         "name": "Caversham",
         "state_id": 3906,
@@ -72330,6 +72356,19 @@
         "latitude": "-31.88333000",
         "longitude": "115.96667000",
         "wikiDataId": "Q5055079"
+    },
+    {
+        "id": 149552,
+        "name": "Cervantes",
+        "state_id": 3906,
+        "state_code": "WA",
+        "state_name": "Western Australia",
+        "country_id": 14,
+        "country_code": "AU",
+        "country_name": "Australia",
+        "latitude": "-30.50264750",
+        "longitude": "115.05417670",
+        "wikiDataId": "Q178439"
     },
     {
         "id": 4659,
@@ -73697,6 +73736,19 @@
         "wikiDataId": "Q56234911"
     },
     {
+        "id": 149556,
+        "name": "Green Head",
+        "state_id": 3906,
+        "state_code": "WA",
+        "state_name": "Western Australia",
+        "country_id": 14,
+        "country_code": "AU",
+        "country_name": "Australia",
+        "latitude": "-30.07749610",
+        "longitude": "114.95851290",
+        "wikiDataId": "Q21896036"
+    },
+    {
         "id": 5455,
         "name": "Greenfields",
         "state_id": 3906,
@@ -73955,6 +74007,19 @@
         "latitude": "-32.17818000",
         "longitude": "115.98490000",
         "wikiDataId": "Q16892320"
+    },
+    {
+        "id": 149559,
+        "name": "Hill River",
+        "state_id": 3906,
+        "state_code": "WA",
+        "state_name": "Western Australia",
+        "country_id": 14,
+        "country_code": "AU",
+        "country_name": "Australia",
+        "latitude": "-30.25744110",
+        "longitude": "115.15365180",
+        "wikiDataId": "Q3135649"
     },
     {
         "id": 5605,
@@ -74594,6 +74659,19 @@
         "wikiDataId": "Q6481586"
     },
     {
+        "id": 149555,
+        "name": "Lancelin",
+        "state_id": 3906,
+        "state_code": "WA",
+        "state_name": "Western Australia",
+        "country_id": 14,
+        "country_code": "AU",
+        "country_name": "Australia",
+        "latitude": "-31.02231270",
+        "longitude": "115.32398090",
+        "wikiDataId": "Q991138"
+    },
+    {
         "id": 5965,
         "name": "Landsdale",
         "state_id": 3906,
@@ -74670,6 +74748,19 @@
         "latitude": "-31.93628000",
         "longitude": "115.84190000",
         "wikiDataId": "Q3829397"
+    },
+    {
+        "id": 149554,
+        "name": "Leeman",
+        "state_id": 3906,
+        "state_code": "WA",
+        "state_name": "Western Australia",
+        "country_id": 14,
+        "country_code": "AU",
+        "country_name": "Australia",
+        "latitude": "-29.98735790",
+        "longitude": "114.95789040",
+        "wikiDataId": "Q21896183"
     },
     {
         "id": 5998,
@@ -74865,6 +74956,19 @@
         "latitude": "-31.95187000",
         "longitude": "116.02764000",
         "wikiDataId": "Q6735327"
+    },
+    {
+        "id": 149549,
+        "name": "Malaga",
+        "state_id": 3906,
+        "state_code": "WA",
+        "state_name": "Western Australia",
+        "country_id": 14,
+        "country_code": "AU",
+        "country_name": "Australia",
+        "latitude": "-31.85814290",
+        "longitude": "115.87986450",
+        "wikiDataId": "Q6740964"
     },
     {
         "id": 6143,
@@ -75437,6 +75541,19 @@
         "latitude": "-28.79859000",
         "longitude": "114.62530000",
         "wikiDataId": "Q6924049"
+    },
+    {
+        "id": 149551,
+        "name": "Muchea",
+        "state_id": 3906,
+        "state_code": "WA",
+        "state_name": "Western Australia",
+        "country_id": 14,
+        "country_code": "AU",
+        "country_name": "Australia",
+        "latitude": "-31.54936380",
+        "longitude": "115.87036200",
+        "wikiDataId": "Q6931019"
     },
     {
         "id": 6473,
@@ -76282,6 +76399,19 @@
         "latitude": "-31.93845000",
         "longitude": "115.94645000",
         "wikiDataId": "Q7305554"
+    },
+    {
+        "id": 149558,
+        "name": "Regans Ford",
+        "state_id": 3906,
+        "state_code": "WA",
+        "state_name": "Western Australia",
+        "country_id": 14,
+        "country_code": "AU",
+        "country_name": "Australia",
+        "latitude": "-30.95552880",
+        "longitude": "115.60734050",
+        "wikiDataId": "Q7307960"
     },
     {
         "id": 7013,
@@ -77725,6 +77855,19 @@
         "latitude": "-31.88695000",
         "longitude": "115.99196000",
         "wikiDataId": "Q3569819"
+    },
+    {
+        "id": 149553,
+        "name": "Woodridge",
+        "state_id": 3906,
+        "state_code": "WA",
+        "state_name": "Western Australia",
+        "country_id": 14,
+        "country_code": "AU",
+        "country_name": "Australia",
+        "latitude": "-31.33143680",
+        "longitude": "115.58252470",
+        "wikiDataId": "Q1939663"
     },
     {
         "id": 7927,

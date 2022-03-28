@@ -35471,6 +35471,12 @@
         <longitude>115.98959000</longitude>
       </cities>
       <cities>
+        <id>149550</id>
+        <name>Badgingarra</name>
+        <latitude>-30.44367330</latitude>
+        <longitude>115.47471450</longitude>
+      </cities>
+      <cities>
         <id>4066</id>
         <name>Bakers Hill</name>
         <latitude>-31.74692000</latitude>
@@ -35933,10 +35939,22 @@
         <longitude>115.86980000</longitude>
       </cities>
       <cities>
+        <id>149557</id>
+        <name>Cataby</name>
+        <latitude>-30.72744730</latitude>
+        <longitude>115.43201600</longitude>
+      </cities>
+      <cities>
         <id>4641</id>
         <name>Caversham</name>
         <latitude>-31.88333000</latitude>
         <longitude>115.96667000</longitude>
+      </cities>
+      <cities>
+        <id>149552</id>
+        <name>Cervantes</name>
+        <latitude>-30.50264750</latitude>
+        <longitude>115.05417670</longitude>
       </cities>
       <cities>
         <id>4659</id>
@@ -36569,6 +36587,12 @@
         <longitude>117.75556000</longitude>
       </cities>
       <cities>
+        <id>149556</id>
+        <name>Green Head</name>
+        <latitude>-30.07749610</latitude>
+        <longitude>114.95851290</longitude>
+      </cities>
+      <cities>
         <id>5455</id>
         <name>Greenfields</name>
         <latitude>-32.52429000</latitude>
@@ -36687,6 +36711,12 @@
         <name>Hilbert</name>
         <latitude>-32.17818000</latitude>
         <longitude>115.98490000</longitude>
+      </cities>
+      <cities>
+        <id>149559</id>
+        <name>Hill River</name>
+        <latitude>-30.25744110</latitude>
+        <longitude>115.15365180</longitude>
       </cities>
       <cities>
         <id>5605</id>
@@ -36983,6 +37013,12 @@
         <longitude>121.46163000</longitude>
       </cities>
       <cities>
+        <id>149555</id>
+        <name>Lancelin</name>
+        <latitude>-31.02231270</latitude>
+        <longitude>115.32398090</longitude>
+      </cities>
+      <cities>
         <id>5965</id>
         <name>Landsdale</name>
         <latitude>-31.80750000</latitude>
@@ -37017,6 +37053,12 @@
         <name>Leederville</name>
         <latitude>-31.93628000</latitude>
         <longitude>115.84190000</longitude>
+      </cities>
+      <cities>
+        <id>149554</id>
+        <name>Leeman</name>
+        <latitude>-29.98735790</latitude>
+        <longitude>114.95789040</longitude>
       </cities>
       <cities>
         <id>5998</id>
@@ -37107,6 +37149,12 @@
         <name>Maida Vale</name>
         <latitude>-31.95187000</latitude>
         <longitude>116.02764000</longitude>
+      </cities>
+      <cities>
+        <id>149549</id>
+        <name>Malaga</name>
+        <latitude>-31.85814290</latitude>
+        <longitude>115.87986450</longitude>
       </cities>
       <cities>
         <id>6143</id>
@@ -37371,6 +37419,12 @@
         <name>Mount Tarcoola</name>
         <latitude>-28.79859000</latitude>
         <longitude>114.62530000</longitude>
+      </cities>
+      <cities>
+        <id>149551</id>
+        <name>Muchea</name>
+        <latitude>-31.54936380</latitude>
+        <longitude>115.87036200</longitude>
       </cities>
       <cities>
         <id>6473</id>
@@ -37761,6 +37815,12 @@
         <name>Redcliffe</name>
         <latitude>-31.93845000</latitude>
         <longitude>115.94645000</longitude>
+      </cities>
+      <cities>
+        <id>149558</id>
+        <name>Regans Ford</name>
+        <latitude>-30.95552880</latitude>
+        <longitude>115.60734050</longitude>
       </cities>
       <cities>
         <id>7013</id>
@@ -38427,6 +38487,12 @@
         <name>Woodbridge</name>
         <latitude>-31.88695000</latitude>
         <longitude>115.99196000</longitude>
+      </cities>
+      <cities>
+        <id>149553</id>
+        <name>Woodridge</name>
+        <latitude>-31.33143680</latitude>
+        <longitude>115.58252470</longitude>
       </cities>
       <cities>
         <id>7927</id>

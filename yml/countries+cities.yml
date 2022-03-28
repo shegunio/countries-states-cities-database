@@ -10817,6 +10817,11 @@ country_city:
         latitude: '-37.70000000'
         longitude: '145.51667000'
       -
+        id: 149550
+        name: Badgingarra
+        latitude: '-30.44367330'
+        longitude: '115.47471450'
+      -
         id: 4062
         name: Bagdad
         latitude: '-42.62968000'
@@ -13687,6 +13692,11 @@ country_city:
         latitude: '-33.95222000'
         longitude: '150.89949000'
       -
+        id: 149557
+        name: Cataby
+        latitude: '-30.72744730'
+        longitude: '115.43201600'
+      -
         id: 4635
         name: Catalina
         latitude: '-35.73000000'
@@ -13786,6 +13796,11 @@ country_city:
         name: 'Central Highlands'
         latitude: '-24.06336000'
         longitude: '148.31958000'
+      -
+        id: 149552
+        name: Cervantes
+        latitude: '-30.50264750'
+        longitude: '115.05417670'
       -
         id: 4655
         name: Cessnock
@@ -17767,6 +17782,11 @@ country_city:
         latitude: '-36.42742000'
         longitude: '145.41519000'
       -
+        id: 149556
+        name: 'Green Head'
+        latitude: '-30.07749610'
+        longitude: '114.95851290'
+      -
         id: 5450
         name: 'Green Valley'
         latitude: '-33.90292000'
@@ -18536,6 +18556,11 @@ country_city:
         name: Hilbert
         latitude: '-32.17818000'
         longitude: '115.98490000'
+      -
+        id: 149559
+        name: 'Hill River'
+        latitude: '-30.25744110'
+        longitude: '115.15365180'
       -
         id: 5604
         name: 'Hill Top'
@@ -20342,6 +20367,11 @@ country_city:
         latitude: '-37.27733000'
         longitude: '144.73596000'
       -
+        id: 149555
+        name: Lancelin
+        latitude: '-31.02231270'
+        longitude: '115.32398090'
+      -
         id: 5964
         name: Landsborough
         latitude: '-26.80666000'
@@ -20511,6 +20541,11 @@ country_city:
         name: Leederville
         latitude: '-31.93628000'
         longitude: '115.84190000'
+      -
+        id: 149554
+        name: Leeman
+        latitude: '-29.98735790'
+        longitude: '114.95789040'
       -
         id: 5998
         name: Leeming
@@ -21186,6 +21221,11 @@ country_city:
         name: Malabar
         latitude: '-33.96216000'
         longitude: '151.24796000'
+      -
+        id: 149549
+        name: Malaga
+        latitude: '-31.85814290'
+        longitude: '115.87986450'
       -
         id: 6133
         name: Malak
@@ -22866,6 +22906,11 @@ country_city:
         name: Moyne
         latitude: '-38.18785000'
         longitude: '142.46217000'
+      -
+        id: 149551
+        name: Muchea
+        latitude: '-31.54936380'
+        longitude: '115.87036200'
       -
         id: 6469
         name: Mudgee
@@ -25466,6 +25511,11 @@ country_city:
         name: 'Reedy Creek'
         latitude: '-28.11243000'
         longitude: '153.39638000'
+      -
+        id: 149558
+        name: 'Regans Ford'
+        latitude: '-30.95552880'
+        longitude: '115.60734050'
       -
         id: 6989
         name: 'Regency Downs'
@@ -30151,6 +30201,11 @@ country_city:
         name: Woodridge
         latitude: '-27.63333000'
         longitude: '153.10000000'
+      -
+        id: 149553
+        name: Woodridge
+        latitude: '-31.33143680'
+        longitude: '115.58252470'
       -
         id: 7924
         name: Woodrising
