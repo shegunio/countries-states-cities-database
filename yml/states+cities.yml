@@ -53069,6 +53069,70 @@ state_city:
         latitude: '-22.01643000'
         longitude: '-63.67753000'
   -
+    id: 5086
+    name: Bonaire
+    state_code: BQ1
+    latitude: '12.20189020'
+    longitude: '-68.26238220'
+    country_id: 155
+    cities:
+      -
+        id: 150058
+        name: 'Boven Bolivia'
+        latitude: '12.18190000'
+        longitude: '-68.21810000'
+      -
+        id: 150059
+        name: 'Dorp Tera Kora'
+        latitude: '12.13333000'
+        longitude: '-68.26667000'
+      -
+        id: 150060
+        name: Oranjestad
+        latitude: '17.48333333'
+        longitude: '-62.98333333'
+      -
+        id: 150061
+        name: Rincon
+        latitude: '12.23833333'
+        longitude: '-68.33250000'
+      -
+        id: 150062
+        name: 'St. Johns'
+        latitude: '17.62100750'
+        longitude: '-63.24316830'
+      -
+        id: 150063
+        name: 'The Bottom'
+        latitude: '17.62611111'
+        longitude: '-63.24916667'
+      -
+        id: 150064
+        name: Windwardside
+        latitude: '17.62864000'
+        longitude: '-63.23136000'
+      -
+        id: 150065
+        name: 'Zion''s Hill'
+        latitude: '17.64300000'
+        longitude: '-63.22649000'
+  -
+    id: 5087
+    name: Saba
+    state_code: BQ2
+    latitude: '17.63546420'
+    longitude: '-63.23267630'
+    country_id: 155
+    cities: {  }
+  -
+    id: 5088
+    name: 'Sint Eustatius'
+    state_code: BQ3
+    latitude: '17.48903060'
+    longitude: '-62.97355500'
+    country_id: 155
+    cities: {  }
+  -
     id: 472
     name: 'Bosnian Podrinje Canton'
     state_code: '05'
@@ -91884,6 +91948,11 @@ state_city:
         latitude: '46.25006000'
         longitude: '-83.56660000'
       -
+        id: 149581
+        name: Thornhill
+        latitude: '43.81708480'
+        longitude: '-79.45011940'
+      -
         id: 17109
         name: Thorold
         latitude: '43.11682000'
@@ -111874,7 +111943,7 @@ state_city:
         longitude: '-3.16832000'
   -
     id: 734
-    name: 'Bjelovar-Bilogora County'
+    name: Bjelovar-Bilogora
     state_code: '07'
     latitude: '45.89879720'
     longitude: '16.84230930'
@@ -112017,7 +112086,7 @@ state_city:
         longitude: '16.75509000'
   -
     id: 737
-    name: 'Brod-Posavina County'
+    name: Brod-Posavina
     state_code: '12'
     latitude: '45.26379510'
     longitude: '17.32645620'
@@ -112165,7 +112234,7 @@ state_city:
         longitude: '18.40556000'
   -
     id: 728
-    name: 'Dubrovnik-Neretva County'
+    name: Dubrovnik-Neretva
     state_code: '19'
     latitude: '43.07665880'
     longitude: '17.52684710'
@@ -112303,7 +112372,7 @@ state_city:
         longitude: '18.19475000'
   -
     id: 743
-    name: 'Istria County'
+    name: Istria
     state_code: '18'
     latitude: '45.12864550'
     longitude: '13.90154200'
@@ -112591,15 +112660,15 @@ state_city:
         longitude: '13.90889000'
   -
     id: 5069
-    name: 'Karlovac County'
-    state_code: '05'
+    name: Karlovac
+    state_code: '04'
     latitude: '45.26133520'
     longitude: '15.52542016'
     country_id: 55
     cities: {  }
   -
     id: 742
-    name: 'Koprivnica-Križevci County'
+    name: Koprivnica-Križevci
     state_code: '06'
     latitude: '46.15689190'
     longitude: '16.83908260'
@@ -112712,7 +112781,7 @@ state_city:
         longitude: '16.99000000'
   -
     id: 729
-    name: 'Krapina-Zagorje County'
+    name: Krapina-Zagorje
     state_code: '02'
     latitude: '46.10133930'
     longitude: '15.88096930'
@@ -112840,7 +112909,7 @@ state_city:
         longitude: '16.08527000'
   -
     id: 731
-    name: 'Lika-Senj County'
+    name: Lika-Senj
     state_code: '09'
     latitude: '44.61922180'
     longitude: '15.47016080'
@@ -112898,7 +112967,7 @@ state_city:
         longitude: '14.90583000'
   -
     id: 726
-    name: 'Međimurje County'
+    name: Međimurje
     state_code: '20'
     latitude: '46.37666440'
     longitude: '16.42132980'
@@ -113036,7 +113105,7 @@ state_city:
         longitude: '16.45778000'
   -
     id: 740
-    name: 'Osijek-Baranja County'
+    name: Osijek-Baranja
     state_code: '14'
     latitude: '45.55764280'
     longitude: '18.39421410'
@@ -113349,7 +113418,7 @@ state_city:
         longitude: '18.50500000'
   -
     id: 724
-    name: 'Požega-Slavonia County'
+    name: Požega-Slavonia
     state_code: '11'
     latitude: '45.34178680'
     longitude: '17.81143590'
@@ -113417,7 +113486,7 @@ state_city:
         longitude: '17.71472000'
   -
     id: 735
-    name: 'Primorje-Gorski Kotar County'
+    name: 'Primorje-Gorski Kotar'
     state_code: '08'
     latitude: '45.31739960'
     longitude: '14.81674660'
@@ -113695,7 +113764,7 @@ state_city:
         longitude: '15.07833000'
   -
     id: 730
-    name: 'Šibenik-Knin County'
+    name: Šibenik-Knin
     state_code: '15'
     latitude: '43.92814850'
     longitude: '16.10376940'
@@ -113793,7 +113862,7 @@ state_city:
         longitude: '15.78278000'
   -
     id: 733
-    name: 'Sisak-Moslavina County'
+    name: Sisak-Moslavina
     state_code: '03'
     latitude: '45.38379260'
     longitude: '16.53809940'
@@ -113921,7 +113990,7 @@ state_city:
         longitude: '16.67889000'
   -
     id: 725
-    name: 'Split-Dalmatia County'
+    name: Split-Dalmatia
     state_code: '17'
     latitude: '43.52403280'
     longitude: '16.81783770'
@@ -114334,7 +114403,7 @@ state_city:
         longitude: '16.55917000'
   -
     id: 739
-    name: 'Varaždin County'
+    name: Varaždin
     state_code: '05'
     latitude: '46.23174730'
     longitude: '16.33605590'
@@ -114487,7 +114556,7 @@ state_city:
         longitude: '16.14944000'
   -
     id: 732
-    name: 'Virovitica-Podravina County'
+    name: Virovitica-Podravina
     state_code: '10'
     latitude: '45.65579850'
     longitude: '17.79324720'
@@ -114590,7 +114659,7 @@ state_city:
         longitude: '17.95028000'
   -
     id: 741
-    name: 'Vukovar-Syrmia County'
+    name: Vukovar-Syrmia
     state_code: '16'
     latitude: '45.17735520'
     longitude: '18.80535270'
@@ -114803,7 +114872,7 @@ state_city:
         longitude: '18.69750000'
   -
     id: 727
-    name: 'Zadar County'
+    name: Zadar
     state_code: '13'
     latitude: '44.14693900'
     longitude: '15.61649430'
@@ -114985,106 +115054,8 @@ state_city:
         latitude: '44.11972000'
         longitude: '15.24222000'
   -
-    id: 738
-    name: Zagreb
-    state_code: '21'
-    latitude: '45.81501080'
-    longitude: '15.98191890'
-    country_id: 55
-    cities:
-      -
-        id: 54419
-        name: Brezovica
-        latitude: '45.72919000'
-        longitude: '15.91069000'
-      -
-        id: 54438
-        name: Centar
-        latitude: '45.81313000'
-        longitude: '15.97753000'
-      -
-        id: 54470
-        name: Dubrava
-        latitude: '45.83361000'
-        longitude: '16.06361000'
-      -
-        id: 54579
-        name: 'Gradska četvrt Donji grad'
-        latitude: '45.80834000'
-        longitude: '15.96949000'
-      -
-        id: 54580
-        name: 'Gradska četvrt Gornji Grad - Medvescak'
-        latitude: '45.82820000'
-        longitude: '15.97938000'
-      -
-        id: 54581
-        name: 'Gradska četvrt Podsljeme'
-        latitude: '45.86097000'
-        longitude: '15.97996000'
-      -
-        id: 54596
-        name: Horvati
-        latitude: '45.70000000'
-        longitude: '15.81667000'
-      -
-        id: 54615
-        name: Jankomir
-        latitude: '45.79167000'
-        longitude: '15.90000000'
-      -
-        id: 54623
-        name: Ježdovec
-        latitude: '45.78333000'
-        longitude: '15.85000000'
-      -
-        id: 54636
-        name: Kašina
-        latitude: '45.91134000'
-        longitude: '16.12436000'
-      -
-        id: 54707
-        name: Lučko
-        latitude: '45.76111000'
-        longitude: '15.87028000'
-      -
-        id: 54760
-        name: 'Novi Zagreb'
-        latitude: '45.78333000'
-        longitude: '15.98333000'
-      -
-        id: 54771
-        name: Odra
-        latitude: '45.72979000'
-        longitude: '15.99240000'
-      -
-        id: 54885
-        name: Sesvete
-        latitude: '45.83333000'
-        longitude: '16.13333000'
-      -
-        id: 54912
-        name: Stenjevec
-        latitude: '45.80846000'
-        longitude: '15.88245000'
-      -
-        id: 54917
-        name: Strmec
-        latitude: '45.70843000'
-        longitude: '15.91674000'
-      -
-        id: 55003
-        name: Zadvorsko
-        latitude: '45.71978000'
-        longitude: '15.90880000'
-      -
-        id: 55004
-        name: Zagreb
-        latitude: '45.81444000'
-        longitude: '15.97798000'
-  -
     id: 736
-    name: 'Zagreb County'
+    name: Zagreb
     state_code: '01'
     latitude: '45.87066120'
     longitude: '16.39549100'
@@ -115360,6 +115331,104 @@ state_city:
         name: 'Zdenci Brdovečki'
         latitude: '45.86667000'
         longitude: '15.75000000'
+  -
+    id: 738
+    name: Zagreb
+    state_code: '21'
+    latitude: '45.81501080'
+    longitude: '15.98191890'
+    country_id: 55
+    cities:
+      -
+        id: 54419
+        name: Brezovica
+        latitude: '45.72919000'
+        longitude: '15.91069000'
+      -
+        id: 54438
+        name: Centar
+        latitude: '45.81313000'
+        longitude: '15.97753000'
+      -
+        id: 54470
+        name: Dubrava
+        latitude: '45.83361000'
+        longitude: '16.06361000'
+      -
+        id: 54579
+        name: 'Gradska četvrt Donji grad'
+        latitude: '45.80834000'
+        longitude: '15.96949000'
+      -
+        id: 54580
+        name: 'Gradska četvrt Gornji Grad - Medvescak'
+        latitude: '45.82820000'
+        longitude: '15.97938000'
+      -
+        id: 54581
+        name: 'Gradska četvrt Podsljeme'
+        latitude: '45.86097000'
+        longitude: '15.97996000'
+      -
+        id: 54596
+        name: Horvati
+        latitude: '45.70000000'
+        longitude: '15.81667000'
+      -
+        id: 54615
+        name: Jankomir
+        latitude: '45.79167000'
+        longitude: '15.90000000'
+      -
+        id: 54623
+        name: Ježdovec
+        latitude: '45.78333000'
+        longitude: '15.85000000'
+      -
+        id: 54636
+        name: Kašina
+        latitude: '45.91134000'
+        longitude: '16.12436000'
+      -
+        id: 54707
+        name: Lučko
+        latitude: '45.76111000'
+        longitude: '15.87028000'
+      -
+        id: 54760
+        name: 'Novi Zagreb'
+        latitude: '45.78333000'
+        longitude: '15.98333000'
+      -
+        id: 54771
+        name: Odra
+        latitude: '45.72979000'
+        longitude: '15.99240000'
+      -
+        id: 54885
+        name: Sesvete
+        latitude: '45.83333000'
+        longitude: '16.13333000'
+      -
+        id: 54912
+        name: Stenjevec
+        latitude: '45.80846000'
+        longitude: '15.88245000'
+      -
+        id: 54917
+        name: Strmec
+        latitude: '45.70843000'
+        longitude: '15.91674000'
+      -
+        id: 55003
+        name: Zadvorsko
+        latitude: '45.71978000'
+        longitude: '15.90880000'
+      -
+        id: 55004
+        name: Zagreb
+        latitude: '45.81444000'
+        longitude: '15.97798000'
   -
     id: 283
     name: 'Artemisa Province'
@@ -129857,10 +129926,45 @@ state_city:
     country_id: 65
     cities:
       -
+        id: 149594
+        name: 'Abu Qir'
+        latitude: '31.31666667'
+        longitude: '30.06666667'
+      -
+        id: 149595
+        name: Agami
+        latitude: '31.09590000'
+        longitude: '29.76040000'
+      -
         id: 31787
         name: Alexandria
         latitude: '31.20176000'
         longitude: '29.91582000'
+      -
+        id: 149596
+        name: Ar-Raml
+        latitude: '31.24821000'
+        longitude: '29.97368000'
+      -
+        id: 149597
+        name: 'Borg El Arab'
+        latitude: '30.91666667'
+        longitude: '29.53333333'
+      -
+        id: 149598
+        name: Montaza
+        latitude: '31.28270000'
+        longitude: '30.02190000'
+      -
+        id: 149599
+        name: 'New Borg El Arab'
+        latitude: '30.88525000'
+        longitude: '29.57721000'
+      -
+        id: 149600
+        name: 'Sidi Bishr'
+        latitude: '31.25210000'
+        longitude: '29.99450000'
   -
     id: 3225
     name: Aswan
@@ -130017,20 +130121,70 @@ state_city:
     country_id: 65
     cities:
       -
+        id: 149582
+        name: Badr
+        latitude: '30.13600000'
+        longitude: '31.71500000'
+      -
+        id: 149583
+        name: Bulaq
+        latitude: '30.05300000'
+        longitude: '31.23000000'
+      -
         id: 31802
         name: Cairo
         latitude: '30.06263000'
         longitude: '31.24967000'
       -
-        id: 31878
-        name: Ḩalwān
-        latitude: '29.84144000'
-        longitude: '31.30084000'
+        id: 149584
+        name: 'El Mataria'
+        latitude: '30.12950000'
+        longitude: '31.28890000'
       -
-        id: 31848
-        name: 'New Cairo'
-        latitude: '30.03000000'
-        longitude: '31.47000000'
+        id: 149585
+        name: Fustat
+        latitude: '30.00000000'
+        longitude: '31.23333333'
+      -
+        id: 149586
+        name: 'Hadayek El Kobba'
+        latitude: '30.09670000'
+        longitude: '31.31030000'
+      -
+        id: 149587
+        name: Heliopolis
+        latitude: '30.13333333'
+        longitude: '31.30000000'
+      -
+        id: 149588
+        name: Helwan
+        latitude: '29.84194444'
+        longitude: '31.33416667'
+      -
+        id: 149589
+        name: Maadi
+        latitude: '29.96670000'
+        longitude: '31.25000000'
+      -
+        id: 149590
+        name: Musturud
+        latitude: '30.13881944'
+        longitude: '31.29241111'
+      -
+        id: 149591
+        name: 'New Administrative Capital of Egypt'
+        latitude: '30.02750000'
+        longitude: '31.76500000'
+      -
+        id: 149592
+        name: Shubra
+        latitude: '30.07250000'
+        longitude: '31.24080000'
+      -
+        id: 149593
+        name: Tura
+        latitude: '29.93927900'
+        longitude: '31.29000700'
   -
     id: 3245
     name: Dakahlia
@@ -231302,7 +231456,7 @@ state_city:
     cities: {  }
   -
     id: 1048
-    name: 'Bács-Kiskun County'
+    name: Bács-Kiskun
     state_code: BK
     latitude: '46.56614370'
     longitude: '19.42724640'
@@ -231685,7 +231839,7 @@ state_city:
         longitude: '18.98514000'
   -
     id: 1055
-    name: 'Baranya County'
+    name: Baranya
     state_code: BA
     latitude: '46.04845850'
     longitude: '18.27191730'
@@ -231863,7 +232017,7 @@ state_city:
         longitude: '18.45389000'
   -
     id: 1060
-    name: 'Békés County'
+    name: Békés
     state_code: BE
     latitude: '46.67048990'
     longitude: '21.04349960'
@@ -232129,7 +232283,7 @@ state_city:
     cities: {  }
   -
     id: 1058
-    name: 'Borsod-Abaúj-Zemplén County'
+    name: Borsod-Abaúj-Zemplén
     state_code: BZ
     latitude: '48.29394010'
     longitude: '20.69341120'
@@ -234335,6 +234489,359 @@ state_city:
     longitude: '19.68968610'
     country_id: 99
     cities: {  }
+  -
+    id: 5085
+    name: Komárom-Esztergom
+    state_code: KE
+    latitude: '47.57797860'
+    longitude: '18.12568550'
+    country_id: 99
+    cities:
+      -
+        id: 149667
+        name: Ács
+        latitude: '47.71000000'
+        longitude: '18.01555556'
+      -
+        id: 149601
+        name: Aka
+        latitude: '47.40206944'
+        longitude: '18.07163056'
+      -
+        id: 149602
+        name: Almásfüzitő
+        latitude: '47.72870000'
+        longitude: '18.25538889'
+      -
+        id: 149668
+        name: Ászár
+        latitude: '47.50950000'
+        longitude: '18.00313889'
+      -
+        id: 149608
+        name: Bábolna
+        latitude: '47.64166667'
+        longitude: '17.97861111'
+      -
+        id: 149603
+        name: Bajót
+        latitude: '47.72722222'
+        longitude: '18.55583333'
+      -
+        id: 149604
+        name: Bakonybánk
+        latitude: '47.46548056'
+        longitude: '17.90243056'
+      -
+        id: 149606
+        name: Bakonysárkány
+        latitude: '47.44851944'
+        longitude: '18.09916111'
+      -
+        id: 149605
+        name: Bakonyszombathely
+        latitude: '47.47208056'
+        longitude: '17.96018056'
+      -
+        id: 149607
+        name: Bana
+        latitude: '47.64986111'
+        longitude: '17.92116944'
+      -
+        id: 149609
+        name: Bánhida
+        latitude: '47.57111111'
+        longitude: '18.38611111'
+      -
+        id: 149610
+        name: Bársonyos
+        latitude: '47.51140000'
+        longitude: '17.91896944'
+      -
+        id: 149613
+        name: Császár
+        latitude: '47.50203056'
+        longitude: '18.14206111'
+      -
+        id: 149611
+        name: Csatka
+        latitude: '47.38031944'
+        longitude: '17.97628889'
+      -
+        id: 149614
+        name: Csém
+        latitude: '47.68118056'
+        longitude: '18.08686111'
+      -
+        id: 149615
+        name: Csép
+        latitude: '47.57863056'
+        longitude: '18.06365000'
+      -
+        id: 149612
+        name: Csolnok
+        latitude: '47.69346944'
+        longitude: '18.71303889'
+      -
+        id: 149616
+        name: Dad
+        latitude: '47.51881111'
+        longitude: '18.22463056'
+      -
+        id: 149620
+        name: Dág
+        latitude: '47.66250000'
+        longitude: '18.72000000'
+      -
+        id: 149621
+        name: Dömös
+        latitude: '47.76480000'
+        longitude: '18.91436944'
+      -
+        id: 149617
+        name: Dorog
+        latitude: '47.72095000'
+        longitude: '18.73641000'
+      -
+        id: 149618
+        name: Dunaalmás
+        latitude: '47.72961111'
+        longitude: '18.32170000'
+      -
+        id: 149619
+        name: Dunaszentmiklós
+        latitude: '47.70566944'
+        longitude: '18.37958056'
+      -
+        id: 149622
+        name: Epöl
+        latitude: '47.64708056'
+        longitude: '18.63558056'
+      -
+        id: 149623
+        name: Esztergom
+        latitude: '47.78555556'
+        longitude: '18.74027778'
+      -
+        id: 149624
+        name: Ete
+        latitude: '47.53168889'
+        longitude: '18.07201111'
+      -
+        id: 149625
+        name: Gyermely
+        latitude: '47.59186944'
+        longitude: '18.64178056'
+      -
+        id: 149626
+        name: Héreg
+        latitude: '47.64703056'
+        longitude: '18.51063889'
+      -
+        id: 149627
+        name: Kecskéd
+        latitude: '47.52311111'
+        longitude: '18.30683056'
+      -
+        id: 149628
+        name: Kerékteleki
+        latitude: '47.51635000'
+        longitude: '17.93891944'
+      -
+        id: 149629
+        name: Kesztölc
+        latitude: '47.71358056'
+        longitude: '18.79520000'
+      -
+        id: 149630
+        name: Kisbér
+        latitude: '47.50166667'
+        longitude: '18.02666667'
+      -
+        id: 149631
+        name: Kisigmánd
+        latitude: '47.65440000'
+        longitude: '18.09710000'
+      -
+        id: 149632
+        name: Kocs
+        latitude: '47.60668056'
+        longitude: '18.21536111'
+      -
+        id: 149633
+        name: Komárom
+        latitude: '47.74318000'
+        longitude: '18.11913000'
+      -
+        id: 149634
+        name: Kömlőd
+        latitude: '47.54678056'
+        longitude: '18.26048056'
+      -
+        id: 149635
+        name: Környe
+        latitude: '47.54533889'
+        longitude: '18.32696944'
+      -
+        id: 149637
+        name: Lábatlan
+        latitude: '47.74694444'
+        longitude: '18.49611111'
+      -
+        id: 149636
+        name: Leányvár
+        latitude: '47.68268056'
+        longitude: '18.77020000'
+      -
+        id: 149640
+        name: Máriahalom
+        latitude: '47.62746944'
+        longitude: '18.70760000'
+      -
+        id: 149638
+        name: Mocsa
+        latitude: '47.67120000'
+        longitude: '18.18465000'
+      -
+        id: 149639
+        name: Mogyorósbánya
+        latitude: '47.72806000'
+        longitude: '18.60351000'
+      -
+        id: 149641
+        name: Nagyigmánd
+        latitude: '47.63253056'
+        longitude: '18.05568889'
+      -
+        id: 149642
+        name: Nagysáp
+        latitude: '47.68481111'
+        longitude: '18.60163056'
+      -
+        id: 149643
+        name: Naszály
+        latitude: '47.69873056'
+        longitude: '18.26075000'
+      -
+        id: 149644
+        name: Neszmély
+        latitude: '47.73290000'
+        longitude: '18.34510000'
+      -
+        id: 149645
+        name: Nyergesújfalu
+        latitude: '47.76027778'
+        longitude: '18.55666667'
+      -
+        id: 149646
+        name: Oroszlány
+        latitude: '47.48916667'
+        longitude: '18.31638889'
+      -
+        id: 149647
+        name: Piliscsév
+        latitude: '47.67710000'
+        longitude: '18.81488889'
+      -
+        id: 149648
+        name: Pilismarót
+        latitude: '47.78403889'
+        longitude: '18.87551944'
+      -
+        id: 149649
+        name: Réde
+        latitude: '47.43058056'
+        longitude: '17.91865000'
+      -
+        id: 149654
+        name: Sárisáp
+        latitude: '47.67465278'
+        longitude: '18.68096944'
+      -
+        id: 149655
+        name: Súr
+        latitude: '47.37083889'
+        longitude: '18.02876111'
+      -
+        id: 149656
+        name: Süttő
+        latitude: '47.75675000'
+        longitude: '18.44145000'
+      -
+        id: 149652
+        name: Szákszend
+        latitude: '47.55713056'
+        longitude: '18.16313056'
+      -
+        id: 149651
+        name: Szomód
+        latitude: '47.68253000'
+        longitude: '18.34180000'
+      -
+        id: 149650
+        name: Szomor
+        latitude: '47.59305000'
+        longitude: '18.66328889'
+      -
+        id: 149653
+        name: Szőny
+        latitude: '47.73333333'
+        longitude: '18.16666667'
+      -
+        id: 149657
+        name: Tardos
+        latitude: '47.66180000'
+        longitude: '18.44358000'
+      -
+        id: 149658
+        name: Tarján
+        latitude: '47.61055556'
+        longitude: '18.51083333'
+      -
+        id: 149661
+        name: Tárkány
+        latitude: '47.59135000'
+        longitude: '18.00366111'
+      -
+        id: 149659
+        name: Tatabánya
+        latitude: '47.58616000'
+        longitude: '18.39485000'
+      -
+        id: 149660
+        name: Tokodaltáró
+        latitude: '47.73390000'
+        longitude: '18.68946000'
+      -
+        id: 149669
+        name: Úny
+        latitude: '47.64246944'
+        longitude: '18.73786944'
+      -
+        id: 149662
+        name: Várgesztes
+        latitude: '47.47526944'
+        longitude: '18.39731944'
+      -
+        id: 149663
+        name: Vérteskethely
+        latitude: '47.48721111'
+        longitude: '18.08346944'
+      -
+        id: 149664
+        name: Vértessomló
+        latitude: '47.50973889'
+        longitude: '18.36705000'
+      -
+        id: 149665
+        name: Vértesszőlős
+        latitude: '47.61883889'
+        longitude: '18.38030000'
+      -
+        id: 149666
+        name: Vértestolna
+        latitude: '47.62838889'
+        longitude: '18.45643889'
   -
     id: 1065
     name: Miskolc
@@ -252841,8 +253348,8 @@ state_city:
       -
         id: 133763
         name: Salem
-        latitude: '11.69000000'
-        longitude: '78.29000000'
+        latitude: '11.65370120'
+        longitude: '77.99821060'
       -
         id: 133817
         name: Sathankulam
@@ -274211,6 +274718,30 @@ state_city:
         latitude: '42.12703000'
         longitude: '13.81670000'
   -
+    id: 1727
+    name: Agrigento
+    state_code: AG
+    latitude: '37.31052020'
+    longitude: '13.58579780'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1783
+    name: Alessandria
+    state_code: AL
+    latitude: '44.81755870'
+    longitude: '8.70466270'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1672
+    name: Ancona
+    state_code: AN
+    latitude: '43.54932450'
+    longitude: '13.26634790'
+    country_id: 107
+    cities: {  }
+  -
     id: 1716
     name: 'Aosta Valley'
     state_code: '23'
@@ -276222,6 +276753,46 @@ state_city:
         latitude: '40.20581000'
         longitude: '18.24774000'
   -
+    id: 1681
+    name: 'Ascoli Piceno'
+    state_code: AP
+    latitude: '42.86389330'
+    longitude: '13.58997330'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1780
+    name: Asti
+    state_code: AT
+    latitude: '44.90076520'
+    longitude: '8.20643150'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1692
+    name: Avellino
+    state_code: AV
+    latitude: '40.99645100'
+    longitude: '15.12589550'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1772
+    name: Bari
+    state_code: BA
+    latitude: '41.11714320'
+    longitude: '16.87187150'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1686
+    name: Barletta-Andria-Trani
+    state_code: BT
+    latitude: '41.20045430'
+    longitude: '16.20514840'
+    country_id: 107
+    cities: {  }
+  -
     id: 1706
     name: Basilicata
     state_code: '77'
@@ -276935,11 +277506,67 @@ state_city:
         latitude: '41.00313000'
         longitude: '15.61868000'
   -
+    id: 1689
+    name: Belluno
+    state_code: BL
+    latitude: '46.24976590'
+    longitude: '12.19695650'
+    country_id: 107
+    cities: {  }
+  -
     id: 1701
-    name: 'Benevento Province'
+    name: Benevento
     state_code: BN
     latitude: '41.20350930'
     longitude: '14.75209390'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1704
+    name: Bergamo
+    state_code: BG
+    latitude: '45.69826420'
+    longitude: '9.67726980'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1778
+    name: Biella
+    state_code: BI
+    latitude: '45.56281760'
+    longitude: '8.05827170'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1684
+    name: Bologna
+    state_code: BO
+    latitude: '44.49488700'
+    longitude: '11.34261620'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1717
+    name: Brescia
+    state_code: BS
+    latitude: '45.54155260'
+    longitude: '10.21180190'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1714
+    name: Brindisi
+    state_code: BR
+    latitude: '40.61126630'
+    longitude: '17.76362100'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1682
+    name: Cagliari
+    state_code: CA
+    latitude: '39.22384110'
+    longitude: '9.12166130'
     country_id: 107
     cities: {  }
   -
@@ -279485,6 +280112,14 @@ state_city:
         name: Zungri
         latitude: '38.65668000'
         longitude: '15.98409000'
+  -
+    id: 1718
+    name: Caltanissetta
+    state_code: CL
+    latitude: '37.48601300'
+    longitude: '14.06149820'
+    country_id: 107
+    cities: {  }
   -
     id: 1669
     name: Campania
@@ -282954,6 +283589,86 @@ state_city:
         latitude: '41.21722000'
         longitude: '14.13082000'
   -
+    id: 1721
+    name: Campobasso
+    state_code: CB
+    latitude: '41.67388650'
+    longitude: '14.75209390'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1731
+    name: Caserta
+    state_code: CE
+    latitude: '41.20783540'
+    longitude: '14.10013260'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1766
+    name: Catania
+    state_code: CT
+    latitude: '37.45154380'
+    longitude: '15.05574150'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1728
+    name: Catanzaro
+    state_code: CZ
+    latitude: '38.88963480'
+    longitude: '16.44058720'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1739
+    name: Chieti
+    state_code: CH
+    latitude: '42.03344280'
+    longitude: '14.37919120'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1740
+    name: Como
+    state_code: CO
+    latitude: '45.80804160'
+    longitude: '9.08517930'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1742
+    name: Cosenza
+    state_code: CS
+    latitude: '39.56441050'
+    longitude: '16.25221430'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1751
+    name: Cremona
+    state_code: CR
+    latitude: '45.20143750'
+    longitude: '9.98365820'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1754
+    name: Crotone
+    state_code: KR
+    latitude: '39.13098560'
+    longitude: '17.00670310'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1775
+    name: Cuneo
+    state_code: CN
+    latitude: '44.59703140'
+    longitude: '7.61142170'
+    country_id: 107
+    cities: {  }
+  -
     id: 1773
     name: Emilia-Romagna
     state_code: '45'
@@ -282981,11 +283696,6 @@ state_city:
         name: Albinea
         latitude: '44.62859000'
         longitude: '10.61024000'
-      -
-        id: 135403
-        name: Alfonsine
-        latitude: '44.50768000'
-        longitude: '12.03743000'
       -
         id: 135428
         name: Alseno
@@ -283031,16 +283741,6 @@ state_city:
         name: Baggiovara
         latitude: '44.60416000'
         longitude: '10.86256000'
-      -
-        id: 135748
-        name: Bagnacavallo
-        latitude: '44.41402000'
-        longitude: '11.97813000'
-      -
-        id: 135750
-        name: 'Bagnara di Romagna'
-        latitude: '44.38930000'
-        longitude: '11.82726000'
       -
         id: 135753
         name: Bagnarola
@@ -283232,11 +283932,6 @@ state_city:
         latitude: '44.89531000'
         longitude: '10.51269000'
       -
-        id: 136341
-        name: Brisighella
-        latitude: '44.22228000'
-        longitude: '11.77358000'
-      -
         id: 136381
         name: Bubano
         latitude: '44.41341000'
@@ -283392,16 +284087,6 @@ state_city:
         latitude: '44.50982000'
         longitude: '10.49951000'
       -
-        id: 137078
-        name: 'Casola Valsenio'
-        latitude: '44.22443000'
-        longitude: '11.62487000'
-      -
-        id: 137131
-        name: 'Castel Bolognese'
-        latitude: '44.31981000'
-        longitude: '11.79903000'
-      -
         id: 137162
         name: 'Castel d''Aiano'
         latitude: '44.27751000'
@@ -283542,11 +284227,6 @@ state_city:
         latitude: '44.67785000'
         longitude: '9.35077000'
       -
-        id: 137591
-        name: Cervia
-        latitude: '44.26204000'
-        longitude: '12.34812000'
-      -
         id: 137611
         name: Cesena
         latitude: '44.13910000'
@@ -283642,11 +284322,6 @@ state_city:
         latitude: '44.65606000'
         longitude: '11.77524000'
       -
-        id: 137974
-        name: Conselice
-        latitude: '44.51163000'
-        longitude: '11.82848000'
-      -
         id: 137988
         name: Copparo
         latitude: '44.89263000'
@@ -283686,11 +284361,6 @@ state_city:
         name: Cortemaggiore
         latitude: '44.99185000'
         longitude: '9.92844000'
-      -
-        id: 138111
-        name: Cotignola
-        latitude: '44.38572000'
-        longitude: '11.93852000'
       -
         id: 138144
         name: Crespellano
@@ -283736,11 +284406,6 @@ state_city:
         name: Fabbrico
         latitude: '44.87214000'
         longitude: '10.80893000'
-      -
-        id: 138403
-        name: Faenza
-        latitude: '44.29007000'
-        longitude: '11.87948000'
       -
         id: 138429
         name: Fanano
@@ -283906,11 +284571,6 @@ state_city:
         name: 'Fratta Terme'
         latitude: '44.14157000'
         longitude: '12.10213000'
-      -
-        id: 138761
-        name: Fusignano
-        latitude: '44.46656000'
-        longitude: '11.95636000'
       -
         id: 138778
         name: Gaggio
@@ -284137,11 +284797,6 @@ state_city:
         latitude: '44.82304000'
         longitude: '9.82828000'
       -
-        id: 139648
-        name: Lugo
-        latitude: '44.42137000'
-        longitude: '11.91094000'
-      -
         id: 139684
         name: Luzzara
         latitude: '44.95925000'
@@ -284211,11 +284866,6 @@ state_city:
         name: 'Massa Fiscaglia'
         latitude: '44.80983000'
         longitude: '12.00746000'
-      -
-        id: 139971
-        name: 'Massa Lombarda'
-        latitude: '44.44703000'
-        longitude: '11.82095000'
       -
         id: 139983
         name: Massenzatico
@@ -284897,11 +285547,6 @@ state_city:
         latitude: '44.72475000'
         longitude: '11.09588000'
       -
-        id: 59299
-        name: Ravenna
-        latitude: '44.41344000'
-        longitude: '12.20121000'
-      -
         id: 59321
         name: 'Reggio nell''Emilia'
         latitude: '44.69825000'
@@ -284941,11 +285586,6 @@ state_city:
         name: 'Rio Saliceto'
         latitude: '44.81147000'
         longitude: '10.80414000'
-      -
-        id: 59393
-        name: 'Riolo Terme'
-        latitude: '44.27609000'
-        longitude: '11.72722000'
       -
         id: 59394
         name: Riolunato
@@ -285021,11 +285661,6 @@ state_city:
         name: Rubiera
         latitude: '44.65158000'
         longitude: '10.77940000'
-      -
-        id: 59704
-        name: Russi
-        latitude: '44.37645000'
-        longitude: '12.03335000'
       -
         id: 59737
         name: Sala
@@ -285277,11 +285912,6 @@ state_city:
         latitude: '43.86282000'
         longitude: '12.20690000'
       -
-        id: 60326
-        name: 'Sant''Agata sul Santerno'
-        latitude: '44.44351000'
-        longitude: '11.86112000'
-      -
         id: 60328
         name: 'Sant''Agostino'
         latitude: '44.79218000'
@@ -285461,11 +286091,6 @@ state_city:
         name: Solara
         latitude: '44.77163000'
         longitude: '11.09287000'
-      -
-        id: 60905
-        name: Solarolo
-        latitude: '44.35892000'
-        longitude: '11.84661000'
       -
         id: 60918
         name: Soliera
@@ -285741,6 +286366,54 @@ state_city:
         name: 'Zola Predosa'
         latitude: '44.48967000'
         longitude: '11.21831000'
+  -
+    id: 1723
+    name: Enna
+    state_code: EN
+    latitude: '37.56762160'
+    longitude: '14.27953490'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1744
+    name: Fermo
+    state_code: FM
+    latitude: '43.09313670'
+    longitude: '13.58997330'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1746
+    name: Ferrara
+    state_code: FE
+    latitude: '44.76636800'
+    longitude: '11.76440680'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1680
+    name: Florence
+    state_code: FI
+    latitude: '43.76791780'
+    longitude: '11.25237920'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1771
+    name: Foggia
+    state_code: FG
+    latitude: '41.63844800'
+    longitude: '15.59433880'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1779
+    name: Forlì-Cesena
+    state_code: FC
+    latitude: '43.99476810'
+    longitude: '11.98046130'
+    country_id: 107
+    cities: {  }
   -
     id: 1756
     name: 'Friuli–Venezia Giulia'
@@ -287104,6 +287777,78 @@ state_city:
         name: Zuglio
         latitude: '46.45830000'
         longitude: '13.02589000'
+  -
+    id: 1776
+    name: Frosinone
+    state_code: FR
+    latitude: '41.65765280'
+    longitude: '13.63627150'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1699
+    name: Genoa
+    state_code: GE
+    latitude: '44.40564930'
+    longitude: '8.94625640'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1777
+    name: Gorizia
+    state_code: GO
+    latitude: '45.90538990'
+    longitude: '13.51637250'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1787
+    name: Grosseto
+    state_code: GR
+    latitude: '42.85180070'
+    longitude: '11.25237920'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1788
+    name: Imperia
+    state_code: IM
+    latitude: '43.94186600'
+    longitude: '7.82863680'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1789
+    name: Isernia
+    state_code: IS
+    latitude: '41.58915550'
+    longitude: '14.19309180'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1781
+    name: 'L''Aquila'
+    state_code: AQ
+    latitude: '42.12563170'
+    longitude: '13.63627150'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1791
+    name: 'La Spezia'
+    state_code: SP
+    latitude: '44.24479130'
+    longitude: '9.76786870'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1674
+    name: Latina
+    state_code: LT
+    latitude: '41.40874760'
+    longitude: '13.08179030'
+    country_id: 107
+    cities: {  }
   -
     id: 1678
     name: Lazio
@@ -289638,51 +290383,19 @@ state_city:
         latitude: '42.52518000'
         longitude: '12.05411000'
   -
-    id: 1727
-    name: 'Libero consorzio comunale di Agrigento'
-    state_code: AG
-    latitude: '37.31052020'
-    longitude: '13.58579780'
+    id: 1675
+    name: Lecce
+    state_code: LE
+    latitude: '40.23473930'
+    longitude: '18.14286690'
     country_id: 107
     cities: {  }
   -
-    id: 1718
-    name: 'Libero consorzio comunale di Caltanissetta'
-    state_code: CL
-    latitude: '37.48601300'
-    longitude: '14.06149820'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1723
-    name: 'Libero consorzio comunale di Enna'
-    state_code: EN
-    latitude: '37.56762160'
-    longitude: '14.27953490'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1729
-    name: 'Libero consorzio comunale di Ragusa'
-    state_code: RG
-    latitude: '36.92692730'
-    longitude: '14.72551290'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1667
-    name: 'Libero consorzio comunale di Siracusa'
-    state_code: SR
-    latitude: '37.06569240'
-    longitude: '15.28571090'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1733
-    name: 'Libero consorzio comunale di Trapani'
-    state_code: TP
-    latitude: '38.01831160'
-    longitude: '12.51482650'
+    id: 1677
+    name: Lecco
+    state_code: LC
+    latitude: '45.93829410'
+    longitude: '9.38572900'
     country_id: 107
     cities: {  }
   -
@@ -291078,6 +291791,22 @@ state_city:
         name: Zuccarello
         latitude: '44.10973000'
         longitude: '8.11814000'
+  -
+    id: 1745
+    name: Livorno
+    state_code: LI
+    latitude: '43.02398480'
+    longitude: '10.66471010'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1747
+    name: Lodi
+    state_code: LO
+    latitude: '45.24050360'
+    longitude: '9.52925120'
+    country_id: 107
+    cities: {  }
   -
     id: 1705
     name: Lombardy
@@ -300022,6 +300751,30 @@ state_city:
         latitude: '45.20035000'
         longitude: '9.61603000'
   -
+    id: 1749
+    name: Lucca
+    state_code: LU
+    latitude: '43.83767360'
+    longitude: '10.49505300'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1750
+    name: Macerata
+    state_code: MC
+    latitude: '43.24593220'
+    longitude: '13.26634790'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1758
+    name: Mantua
+    state_code: MN
+    latitude: '45.16677280'
+    longitude: '10.77536130'
+    country_id: 107
+    cities: {  }
+  -
     id: 1670
     name: Marche
     state_code: '57'
@@ -301605,56 +302358,32 @@ state_city:
         latitude: '43.26155000'
         longitude: '13.48834000'
   -
-    id: 1772
-    name: 'Metropolitan City of Bari'
-    state_code: BA
-    latitude: '41.11714320'
-    longitude: '16.87187150'
+    id: 1759
+    name: 'Massa and Carrara'
+    state_code: MS
+    latitude: '44.22139980'
+    longitude: '10.03596610'
     country_id: 107
     cities: {  }
   -
-    id: 1684
-    name: 'Metropolitan City of Bologna'
-    state_code: BO
-    latitude: '44.49488700'
-    longitude: '11.34261620'
+    id: 1760
+    name: Matera
+    state_code: MT
+    latitude: '40.66634960'
+    longitude: '16.60436360'
     country_id: 107
     cities: {  }
   -
-    id: 1682
-    name: 'Metropolitan City of Cagliari'
-    state_code: CA
-    latitude: '39.22384110'
-    longitude: '9.12166130'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1766
-    name: 'Metropolitan City of Catania'
-    state_code: CT
-    latitude: '37.45154380'
-    longitude: '15.05574150'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1680
-    name: 'Metropolitan City of Florence'
-    state_code: FI
-    latitude: '43.76791780'
-    longitude: '11.25237920'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1699
-    name: 'Metropolitan City of Genoa'
-    state_code: GE
-    latitude: '44.40564930'
-    longitude: '8.94625640'
+    id: 1761
+    name: 'Medio Campidano'
+    state_code: VS
+    latitude: '39.53173890'
+    longitude: '8.70407500'
     country_id: 107
     cities: {  }
   -
     id: 1770
-    name: 'Metropolitan City of Messina'
+    name: Messina
     state_code: ME
     latitude: '38.19373350'
     longitude: '15.55420570'
@@ -301662,58 +302391,18 @@ state_city:
     cities: {  }
   -
     id: 1698
-    name: 'Metropolitan City of Milan'
+    name: Milan
     state_code: MI
     latitude: '45.45862600'
     longitude: '9.18187300'
     country_id: 107
     cities: {  }
   -
-    id: 1724
-    name: 'Metropolitan City of Naples'
-    state_code: NA
-    latitude: '40.90197500'
-    longitude: '14.33264400'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1668
-    name: 'Metropolitan City of Palermo'
-    state_code: PA
-    latitude: '38.11569000'
-    longitude: '13.36148680'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1671
-    name: 'Metropolitan City of Reggio Calabria'
-    state_code: RC
-    latitude: '38.10843960'
-    longitude: '15.64370480'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1711
-    name: 'Metropolitan City of Rome'
-    state_code: RM
-    latitude: '41.90270080'
-    longitude: '12.49623520'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1710
-    name: 'Metropolitan City of Turin'
-    state_code: TO
-    latitude: '45.06329900'
-    longitude: '7.66928900'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1673
-    name: 'Metropolitan City of Venice'
-    state_code: VE
-    latitude: '45.44146850'
-    longitude: '12.31526720'
+    id: 1757
+    name: Modena
+    state_code: MO
+    latitude: '44.55137990'
+    longitude: '10.91804800'
     country_id: 107
     cities: {  }
   -
@@ -302430,11 +303119,107 @@ state_city:
         latitude: '41.49282000'
         longitude: '14.59200000'
   -
+    id: 1769
+    name: 'Monza and Brianza'
+    state_code: MB
+    latitude: '45.62359900'
+    longitude: '9.25880150'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1724
+    name: Naples
+    state_code: NA
+    latitude: '40.90197500'
+    longitude: '14.33264400'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1774
+    name: Novara
+    state_code: 'NO'
+    latitude: '45.54851330'
+    longitude: '8.51507930'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1790
+    name: Nuoro
+    state_code: NU
+    latitude: '40.32869040'
+    longitude: '9.45615500'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1786
+    name: Oristano
+    state_code: OR
+    latitude: '40.05990680'
+    longitude: '8.74811670'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1665
+    name: Padua
+    state_code: PD
+    latitude: '45.36618640'
+    longitude: '11.82091390'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1668
+    name: Palermo
+    state_code: PA
+    latitude: '38.11569000'
+    longitude: '13.36148680'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1666
+    name: Parma
+    state_code: PR
+    latitude: '44.80153220'
+    longitude: '10.32793540'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1676
+    name: Pavia
+    state_code: PV
+    latitude: '45.32181660'
+    longitude: '8.84662360'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1691
+    name: Perugia
+    state_code: PG
+    latitude: '42.93800400'
+    longitude: '12.62162110'
+    country_id: 107
+    cities: {  }
+  -
     id: 1693
-    name: 'Pesaro and Urbino Province'
+    name: 'Pesaro and Urbino'
     state_code: PU
     latitude: '43.61301180'
     longitude: '12.71351210'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1694
+    name: Pescara
+    state_code: PE
+    latitude: '42.35706550'
+    longitude: '13.96080910'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1696
+    name: Piacenza
+    state_code: PC
+    latitude: '44.82631120'
+    longitude: '9.52914470'
     country_id: 107
     cities: {  }
   -
@@ -308891,456 +309676,8 @@ state_city:
         latitude: '45.59386000'
         longitude: '8.08942000'
   -
-    id: 1783
-    name: 'Province of Alessandria'
-    state_code: AL
-    latitude: '44.81755870'
-    longitude: '8.70466270'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1672
-    name: 'Province of Ancona'
-    state_code: AN
-    latitude: '43.54932450'
-    longitude: '13.26634790'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1681
-    name: 'Province of Ascoli Piceno'
-    state_code: AP
-    latitude: '42.86389330'
-    longitude: '13.58997330'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1780
-    name: 'Province of Asti'
-    state_code: AT
-    latitude: '44.90076520'
-    longitude: '8.20643150'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1692
-    name: 'Province of Avellino'
-    state_code: AV
-    latitude: '40.99645100'
-    longitude: '15.12589550'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1686
-    name: 'Province of Barletta-Andria-Trani'
-    state_code: BT
-    latitude: '41.20045430'
-    longitude: '16.20514840'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1689
-    name: 'Province of Belluno'
-    state_code: BL
-    latitude: '46.24976590'
-    longitude: '12.19695650'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1704
-    name: 'Province of Bergamo'
-    state_code: BG
-    latitude: '45.69826420'
-    longitude: '9.67726980'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1778
-    name: 'Province of Biella'
-    state_code: BI
-    latitude: '45.56281760'
-    longitude: '8.05827170'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1717
-    name: 'Province of Brescia'
-    state_code: BS
-    latitude: '45.54155260'
-    longitude: '10.21180190'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1714
-    name: 'Province of Brindisi'
-    state_code: BR
-    latitude: '40.61126630'
-    longitude: '17.76362100'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1721
-    name: 'Province of Campobasso'
-    state_code: CB
-    latitude: '41.67388650'
-    longitude: '14.75209390'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1730
-    name: 'Province of Carbonia-Iglesias'
-    state_code: CI
-    latitude: '39.25346590'
-    longitude: '8.57210160'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1731
-    name: 'Province of Caserta'
-    state_code: CE
-    latitude: '41.20783540'
-    longitude: '14.10013260'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1728
-    name: 'Province of Catanzaro'
-    state_code: CZ
-    latitude: '38.88963480'
-    longitude: '16.44058720'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1739
-    name: 'Province of Chieti'
-    state_code: CH
-    latitude: '42.03344280'
-    longitude: '14.37919120'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1740
-    name: 'Province of Como'
-    state_code: CO
-    latitude: '45.80804160'
-    longitude: '9.08517930'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1742
-    name: 'Province of Cosenza'
-    state_code: CS
-    latitude: '39.56441050'
-    longitude: '16.25221430'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1751
-    name: 'Province of Cremona'
-    state_code: CR
-    latitude: '45.20143750'
-    longitude: '9.98365820'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1754
-    name: 'Province of Crotone'
-    state_code: KR
-    latitude: '39.13098560'
-    longitude: '17.00670310'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1775
-    name: 'Province of Cuneo'
-    state_code: CN
-    latitude: '44.59703140'
-    longitude: '7.61142170'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1744
-    name: 'Province of Fermo'
-    state_code: FM
-    latitude: '43.09313670'
-    longitude: '13.58997330'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1746
-    name: 'Province of Ferrara'
-    state_code: FE
-    latitude: '44.76636800'
-    longitude: '11.76440680'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1771
-    name: 'Province of Foggia'
-    state_code: FG
-    latitude: '41.63844800'
-    longitude: '15.59433880'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1779
-    name: 'Province of Forlì-Cesena'
-    state_code: FC
-    latitude: '43.99476810'
-    longitude: '11.98046130'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1776
-    name: 'Province of Frosinone'
-    state_code: FR
-    latitude: '41.65765280'
-    longitude: '13.63627150'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1777
-    name: 'Province of Gorizia'
-    state_code: GO
-    latitude: '45.90538990'
-    longitude: '13.51637250'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1787
-    name: 'Province of Grosseto'
-    state_code: GR
-    latitude: '42.85180070'
-    longitude: '11.25237920'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1788
-    name: 'Province of Imperia'
-    state_code: IM
-    latitude: '43.94186600'
-    longitude: '7.82863680'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1789
-    name: 'Province of Isernia'
-    state_code: IS
-    latitude: '41.58915550'
-    longitude: '14.19309180'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1781
-    name: 'Province of L''Aquila'
-    state_code: AQ
-    latitude: '42.12563170'
-    longitude: '13.63627150'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1791
-    name: 'Province of La Spezia'
-    state_code: SP
-    latitude: '44.24479130'
-    longitude: '9.76786870'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1674
-    name: 'Province of Latina'
-    state_code: LT
-    latitude: '41.40874760'
-    longitude: '13.08179030'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1675
-    name: 'Province of Lecce'
-    state_code: LE
-    latitude: '40.23473930'
-    longitude: '18.14286690'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1677
-    name: 'Province of Lecco'
-    state_code: LC
-    latitude: '45.93829410'
-    longitude: '9.38572900'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1745
-    name: 'Province of Livorno'
-    state_code: LI
-    latitude: '43.02398480'
-    longitude: '10.66471010'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1747
-    name: 'Province of Lodi'
-    state_code: LO
-    latitude: '45.24050360'
-    longitude: '9.52925120'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1749
-    name: 'Province of Lucca'
-    state_code: LU
-    latitude: '43.83767360'
-    longitude: '10.49505300'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1750
-    name: 'Province of Macerata'
-    state_code: MC
-    latitude: '43.24593220'
-    longitude: '13.26634790'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1758
-    name: 'Province of Mantua'
-    state_code: MN
-    latitude: '45.16677280'
-    longitude: '10.77536130'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1759
-    name: 'Province of Massa and Carrara'
-    state_code: MS
-    latitude: '44.22139980'
-    longitude: '10.03596610'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1760
-    name: 'Province of Matera'
-    state_code: MT
-    latitude: '40.66634960'
-    longitude: '16.60436360'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1761
-    name: 'Province of Medio Campidano'
-    state_code: VS
-    latitude: '39.53173890'
-    longitude: '8.70407500'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1757
-    name: 'Province of Modena'
-    state_code: MO
-    latitude: '44.55137990'
-    longitude: '10.91804800'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1769
-    name: 'Province of Monza and Brianza'
-    state_code: MB
-    latitude: '45.62359900'
-    longitude: '9.25880150'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1774
-    name: 'Province of Novara'
-    state_code: 'NO'
-    latitude: '45.54851330'
-    longitude: '8.51507930'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1790
-    name: 'Province of Nuoro'
-    state_code: NU
-    latitude: '40.32869040'
-    longitude: '9.45615500'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1782
-    name: 'Province of Ogliastra'
-    state_code: OG
-    latitude: '39.84105360'
-    longitude: '9.45615500'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1784
-    name: 'Province of Olbia-Tempio'
-    state_code: OT
-    latitude: '40.82683830'
-    longitude: '9.27855830'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1786
-    name: 'Province of Oristano'
-    state_code: OR
-    latitude: '40.05990680'
-    longitude: '8.74811670'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1665
-    name: 'Province of Padua'
-    state_code: PD
-    latitude: '45.36618640'
-    longitude: '11.82091390'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1666
-    name: 'Province of Parma'
-    state_code: PR
-    latitude: '44.80153220'
-    longitude: '10.32793540'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1676
-    name: 'Province of Pavia'
-    state_code: PV
-    latitude: '45.32181660'
-    longitude: '8.84662360'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1691
-    name: 'Province of Perugia'
-    state_code: PG
-    latitude: '42.93800400'
-    longitude: '12.62162110'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1694
-    name: 'Province of Pescara'
-    state_code: PE
-    latitude: '42.35706550'
-    longitude: '13.96080910'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1696
-    name: 'Province of Piacenza'
-    state_code: PC
-    latitude: '44.82631120'
-    longitude: '9.52914470'
-    country_id: 107
-    cities: {  }
-  -
     id: 1685
-    name: 'Province of Pisa'
+    name: Pisa
     state_code: PI
     latitude: '43.72283150'
     longitude: '10.40171940'
@@ -309348,7 +309685,7 @@ state_city:
     cities: {  }
   -
     id: 1687
-    name: 'Province of Pistoia'
+    name: Pistoia
     state_code: PT
     latitude: '43.95437330'
     longitude: '10.89030990'
@@ -309356,7 +309693,7 @@ state_city:
     cities: {  }
   -
     id: 1690
-    name: 'Province of Pordenone'
+    name: Pordenone
     state_code: PN
     latitude: '46.03788620'
     longitude: '12.71083500'
@@ -309364,7 +309701,7 @@ state_city:
     cities: {  }
   -
     id: 1697
-    name: 'Province of Potenza'
+    name: Potenza
     state_code: PZ
     latitude: '40.41821940'
     longitude: '15.87600400'
@@ -309372,23 +309709,129 @@ state_city:
     cities: {  }
   -
     id: 1700
-    name: 'Province of Prato'
+    name: Prato
     state_code: PO
     latitude: '44.04539000'
     longitude: '11.11644520'
     country_id: 107
     cities: {  }
   -
+    id: 1729
+    name: Ragusa
+    state_code: RG
+    latitude: '36.92692730'
+    longitude: '14.72551290'
+    country_id: 107
+    cities: {  }
+  -
     id: 1707
-    name: 'Province of Ravenna'
+    name: Ravenna
     state_code: RA
     latitude: '44.41844430'
     longitude: '12.20359980'
     country_id: 107
+    cities:
+      -
+        id: 135403
+        name: Alfonsine
+        latitude: '44.50768000'
+        longitude: '12.03743000'
+      -
+        id: 135748
+        name: Bagnacavallo
+        latitude: '44.41402000'
+        longitude: '11.97813000'
+      -
+        id: 135750
+        name: 'Bagnara di Romagna'
+        latitude: '44.38930000'
+        longitude: '11.82726000'
+      -
+        id: 136341
+        name: Brisighella
+        latitude: '44.22228000'
+        longitude: '11.77358000'
+      -
+        id: 137078
+        name: 'Casola Valsenio'
+        latitude: '44.22443000'
+        longitude: '11.62487000'
+      -
+        id: 137131
+        name: 'Castel Bolognese'
+        latitude: '44.31981000'
+        longitude: '11.79903000'
+      -
+        id: 137591
+        name: Cervia
+        latitude: '44.26204000'
+        longitude: '12.34812000'
+      -
+        id: 137974
+        name: Conselice
+        latitude: '44.51163000'
+        longitude: '11.82848000'
+      -
+        id: 138111
+        name: Cotignola
+        latitude: '44.38572000'
+        longitude: '11.93852000'
+      -
+        id: 138403
+        name: Faenza
+        latitude: '44.29007000'
+        longitude: '11.87948000'
+      -
+        id: 138761
+        name: Fusignano
+        latitude: '44.46656000'
+        longitude: '11.95636000'
+      -
+        id: 139648
+        name: Lugo
+        latitude: '44.42137000'
+        longitude: '11.91094000'
+      -
+        id: 139971
+        name: 'Massa Lombarda'
+        latitude: '44.44703000'
+        longitude: '11.82095000'
+      -
+        id: 59299
+        name: Ravenna
+        latitude: '44.41344000'
+        longitude: '12.20121000'
+      -
+        id: 59393
+        name: 'Riolo Terme'
+        latitude: '44.27609000'
+        longitude: '11.72722000'
+      -
+        id: 59704
+        name: Russi
+        latitude: '44.37645000'
+        longitude: '12.03335000'
+      -
+        id: 60326
+        name: 'Sant''Agata sul Santerno'
+        latitude: '44.44351000'
+        longitude: '11.86112000'
+      -
+        id: 60905
+        name: Solarolo
+        latitude: '44.35892000'
+        longitude: '11.84661000'
+  -
+    id: 1671
+    name: 'Reggio Calabria'
+    state_code: RC
+    latitude: '38.10843960'
+    longitude: '15.64370480'
+    country_id: 107
     cities: {  }
   -
     id: 1708
-    name: 'Province of Reggio Emilia'
+    name: 'Reggio Emilia'
     state_code: RE
     latitude: '44.58565800'
     longitude: '10.55647360'
@@ -309396,7 +309839,7 @@ state_city:
     cities: {  }
   -
     id: 1712
-    name: 'Province of Rieti'
+    name: Rieti
     state_code: RI
     latitude: '42.36744050'
     longitude: '12.89750980'
@@ -309404,15 +309847,23 @@ state_city:
     cities: {  }
   -
     id: 1713
-    name: 'Province of Rimini'
+    name: Rimini
     state_code: RN
     latitude: '44.06782880'
     longitude: '12.56951580'
     country_id: 107
     cities: {  }
   -
+    id: 1711
+    name: Rome
+    state_code: RM
+    latitude: '41.90270080'
+    longitude: '12.49623520'
+    country_id: 107
+    cities: {  }
+  -
     id: 1719
-    name: 'Province of Rovigo'
+    name: Rovigo
     state_code: RO
     latitude: '45.02418180'
     longitude: '11.82381620'
@@ -309420,146 +309871,10 @@ state_city:
     cities: {  }
   -
     id: 1720
-    name: 'Province of Salerno'
+    name: Salerno
     state_code: SA
     latitude: '40.42878320'
     longitude: '15.21948080'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1722
-    name: 'Province of Sassari'
-    state_code: SS
-    latitude: '40.79679070'
-    longitude: '8.57504070'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1732
-    name: 'Province of Savona'
-    state_code: SV
-    latitude: '44.28879950'
-    longitude: '8.26505800'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1734
-    name: 'Province of Siena'
-    state_code: SI
-    latitude: '43.29377320'
-    longitude: '11.43391480'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1741
-    name: 'Province of Sondrio'
-    state_code: SO
-    latitude: '46.17276360'
-    longitude: '9.79949170'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1743
-    name: 'Province of Taranto'
-    state_code: TA
-    latitude: '40.57409010'
-    longitude: '17.24299760'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1752
-    name: 'Province of Teramo'
-    state_code: TE
-    latitude: '42.58956080'
-    longitude: '13.63627150'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1755
-    name: 'Province of Terni'
-    state_code: TR
-    latitude: '42.56345340'
-    longitude: '12.52980280'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1762
-    name: 'Province of Treviso'
-    state_code: TV
-    latitude: '45.66685170'
-    longitude: '12.24306170'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1763
-    name: 'Province of Trieste'
-    state_code: TS
-    latitude: '45.68948230'
-    longitude: '13.78330720'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1764
-    name: 'Province of Udine'
-    state_code: UD
-    latitude: '46.14079720'
-    longitude: '13.16628960'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1765
-    name: 'Province of Varese'
-    state_code: VA
-    latitude: '45.79902600'
-    longitude: '8.73009450'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1726
-    name: 'Province of Verbano-Cusio-Ossola'
-    state_code: VB
-    latitude: '46.13996880'
-    longitude: '8.27246490'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1785
-    name: 'Province of Vercelli'
-    state_code: VC
-    latitude: '45.32022040'
-    longitude: '8.41850800'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1736
-    name: 'Province of Verona'
-    state_code: VR
-    latitude: '45.44184980'
-    longitude: '11.07353160'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1737
-    name: 'Province of Vibo Valentia'
-    state_code: VV
-    latitude: '38.63785650'
-    longitude: '16.20514840'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1738
-    name: 'Province of Vicenza'
-    state_code: VI
-    latitude: '45.69839950'
-    longitude: '11.56614650'
-    country_id: 107
-    cities: {  }
-  -
-    id: 1735
-    name: 'Province of Viterbo'
-    state_code: VT
-    latitude: '42.40024200'
-    longitude: '11.88917210'
     country_id: 107
     cities: {  }
   -
@@ -311580,6 +311895,22 @@ state_city:
         name: Zerfaliu
         latitude: '39.96088000'
         longitude: '8.70971000'
+  -
+    id: 1722
+    name: Sassari
+    state_code: SS
+    latitude: '40.79679070'
+    longitude: '8.57504070'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1732
+    name: Savona
+    state_code: SV
+    latitude: '44.28879950'
+    longitude: '8.26505800'
+    country_id: 107
+    cities: {  }
   -
     id: 1709
     name: Sicily
@@ -313959,11 +314290,75 @@ state_city:
         latitude: '37.67895000'
         longitude: '15.10432000'
   -
+    id: 1734
+    name: Siena
+    state_code: SI
+    latitude: '43.29377320'
+    longitude: '11.43391480'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1667
+    name: Siracusa
+    state_code: SR
+    latitude: '37.06569240'
+    longitude: '15.28571090'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1741
+    name: Sondrio
+    state_code: SO
+    latitude: '46.17276360'
+    longitude: '9.79949170'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1730
+    name: 'South Sardinia'
+    state_code: SU
+    latitude: '39.38935350'
+    longitude: '8.93970000'
+    country_id: 107
+    cities: {  }
+  -
     id: 1767
     name: 'South Tyrol'
     state_code: BZ
     latitude: '46.49494500'
     longitude: '11.34026570'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1743
+    name: Taranto
+    state_code: TA
+    latitude: '40.57409010'
+    longitude: '17.24299760'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1752
+    name: Teramo
+    state_code: TE
+    latitude: '42.58956080'
+    longitude: '13.63627150'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1755
+    name: Terni
+    state_code: TR
+    latitude: '42.56345340'
+    longitude: '12.52980280'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1733
+    name: Trapani
+    state_code: TP
+    latitude: '38.01831160'
+    longitude: '12.51482650'
     country_id: 107
     cities: {  }
   -
@@ -315932,6 +316327,30 @@ state_city:
         name: Zuclo
         latitude: '46.03430000'
         longitude: '10.75107000'
+  -
+    id: 1762
+    name: Treviso
+    state_code: TV
+    latitude: '45.66685170'
+    longitude: '12.24306170'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1763
+    name: Trieste
+    state_code: TS
+    latitude: '45.68948230'
+    longitude: '13.78330720'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1710
+    name: Turin
+    state_code: TO
+    latitude: '45.06329900'
+    longitude: '7.66928900'
+    country_id: 107
+    cities: {  }
   -
     id: 1664
     name: Tuscany
@@ -318291,6 +318710,14 @@ state_city:
         latitude: '44.35375000'
         longitude: '9.76318000'
   -
+    id: 1764
+    name: Udine
+    state_code: UD
+    latitude: '46.14079720'
+    longitude: '13.16628960'
+    country_id: 107
+    cities: {  }
+  -
     id: 1683
     name: Umbria
     state_code: '55'
@@ -319018,6 +319445,14 @@ state_city:
         name: 'Via Lippia'
         latitude: '43.08611000'
         longitude: '12.48106000'
+  -
+    id: 1765
+    name: Varese
+    state_code: VA
+    latitude: '45.79902600'
+    longitude: '8.73009450'
+    country_id: 107
+    cities: {  }
   -
     id: 1753
     name: Veneto
@@ -323211,6 +323646,62 @@ state_city:
         name: Zugliano
         latitude: '45.72980000'
         longitude: '11.52399000'
+  -
+    id: 1673
+    name: Venice
+    state_code: VE
+    latitude: '45.44146850'
+    longitude: '12.31526720'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1726
+    name: Verbano-Cusio-Ossola
+    state_code: VB
+    latitude: '46.13996880'
+    longitude: '8.27246490'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1785
+    name: Vercelli
+    state_code: VC
+    latitude: '45.32022040'
+    longitude: '8.41850800'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1736
+    name: Verona
+    state_code: VR
+    latitude: '45.44184980'
+    longitude: '11.07353160'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1737
+    name: 'Vibo Valentia'
+    state_code: VV
+    latitude: '38.63785650'
+    longitude: '16.20514840'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1738
+    name: Vicenza
+    state_code: VI
+    latitude: '45.69839950'
+    longitude: '11.56614650'
+    country_id: 107
+    cities: {  }
+  -
+    id: 1735
+    name: Viterbo
+    state_code: VT
+    latitude: '42.40024200'
+    longitude: '11.88917210'
+    country_id: 107
+    cities: {  }
   -
     id: 3753
     name: 'Clarendon Parish'
@@ -349998,7 +350489,7 @@ state_city:
     cities: {  }
   -
     id: 3344
-    name: 'Adrar Region'
+    name: Adrar
     state_code: '07'
     latitude: '19.86521760'
     longitude: '-12.80547530'
@@ -350010,13 +350501,23 @@ state_city:
         latitude: '20.51770000'
         longitude: '-13.04857000'
       -
+        id: 150074
+        name: Azougui
+        latitude: '20.56764000'
+        longitude: '-13.11191000'
+      -
         id: 67748
         name: Chingueṭṭi
         latitude: '20.46300000'
         longitude: '-12.36200000'
+      -
+        id: 150075
+        name: 'Ksar el Khali'
+        latitude: '20.93333333'
+        longitude: '-11.61666667'
   -
     id: 3349
-    name: 'Assaba Region'
+    name: Assaba
     state_code: '03'
     latitude: '16.77595580'
     longitude: '-11.52480550'
@@ -350034,7 +350535,7 @@ state_city:
         longitude: '-11.40208000'
   -
     id: 3339
-    name: 'Brakna Region'
+    name: Brakna
     state_code: '05'
     latitude: '17.23175610'
     longitude: '-13.17403480'
@@ -350050,6 +350551,16 @@ state_city:
         name: Aleg
         latitude: '17.05314000'
         longitude: '-13.91312000'
+      -
+        id: 150071
+        name: Bofal
+        latitude: '16.41666667'
+        longitude: '-13.80000000'
+      -
+        id: 150072
+        name: 'Sori Malé'
+        latitude: '16.95416667'
+        longitude: '-13.37916667'
   -
     id: 3346
     name: 'Dakhlet Nouadhibou'
@@ -350059,13 +350570,23 @@ state_city:
     country_id: 139
     cities:
       -
+        id: 150076
+        name: Cansado
+        latitude: '20.85333333'
+        longitude: '-17.03250000'
+      -
+        id: 150077
+        name: Iouik
+        latitude: '19.84944444'
+        longitude: '-16.33083333'
+      -
         id: 67751
         name: Nouadhibou
         latitude: '20.94188000'
         longitude: '-17.03842000'
   -
     id: 3341
-    name: 'Gorgol Region'
+    name: Gorgol
     state_code: '04'
     latitude: '15.97173570'
     longitude: '-12.62162110'
@@ -350078,7 +350599,7 @@ state_city:
         longitude: '-13.50370000'
   -
     id: 3350
-    name: 'Guidimaka Region'
+    name: Guidimaka
     state_code: '10'
     latitude: '15.25573310'
     longitude: '-12.25479190'
@@ -350091,20 +350612,35 @@ state_city:
         longitude: '-12.18430000'
   -
     id: 3338
-    name: 'Hodh Ech Chargui Region'
+    name: 'Hodh Ech Chargui'
     state_code: '01'
     latitude: '18.67370260'
     longitude: '-7.09287700'
     country_id: 139
     cities:
       -
+        id: 150066
+        name: Diade
+        latitude: '16.23333333'
+        longitude: '-7.41666667'
+      -
+        id: 150067
+        name: Kataouane
+        latitude: '16.06888889'
+        longitude: '-6.49888889'
+      -
         id: 67752
         name: Néma
         latitude: '16.61702000'
         longitude: '-7.25649000'
+      -
+        id: 150068
+        name: Timbedra
+        latitude: '16.24472222'
+        longitude: '-8.16750000'
   -
     id: 3351
-    name: 'Hodh El Gharbi Region'
+    name: 'Hodh El Gharbi'
     state_code: '02'
     latitude: '16.69121490'
     longitude: '-9.54509740'
@@ -350115,9 +350651,19 @@ state_city:
         name: Aioun
         latitude: '16.66140000'
         longitude: '-9.61490000'
+      -
+        id: 150069
+        name: 'Ayoun el Atrous'
+        latitude: '16.66666667'
+        longitude: '-9.61666667'
+      -
+        id: 150070
+        name: Togba
+        latitude: '17.40000000'
+        longitude: '-10.36666667'
   -
     id: 3342
-    name: 'Inchiri Region'
+    name: Inchiri
     state_code: '12'
     latitude: '20.02805610'
     longitude: '-15.40680790'
@@ -350130,31 +350676,71 @@ state_city:
         longitude: '-14.38531000'
   -
     id: 3343
-    name: 'Nouakchott-Nord Region'
+    name: Nouakchott-Nord
     state_code: '14'
     latitude: '18.11302050'
     longitude: '-15.89949560'
     country_id: 139
-    cities: {  }
+    cities:
+      -
+        id: 150085
+        name: Dar-Naim
+        latitude: '18.03333333'
+        longitude: '-15.96666667'
+      -
+        id: 150086
+        name: Teyarett
+        latitude: '18.12895720'
+        longitude: '-15.93778340'
+      -
+        id: 150087
+        name: Toujouonine
+        latitude: '18.07169000'
+        longitude: '-15.90311000'
   -
     id: 3352
-    name: 'Nouakchott-Ouest Region'
+    name: Nouakchott-Ouest
     state_code: '13'
     latitude: '18.15113570'
     longitude: '-15.99349100'
     country_id: 139
-    cities: {  }
+    cities:
+      -
+        id: 150082
+        name: Ksar
+        latitude: '18.10222222'
+        longitude: '-15.95500000'
+      -
+        id: 150083
+        name: Sebkha
+        latitude: '18.07555556'
+        longitude: '-16.00194444'
+      -
+        id: 150084
+        name: Tevragh-Zeina
+        latitude: '18.11011000'
+        longitude: '-15.99931000'
   -
     id: 3347
-    name: 'Nouakchott-Sud Region'
+    name: Nouakchott-Sud
     state_code: '15'
     latitude: '17.97092880'
     longitude: '-15.94648740'
     country_id: 139
-    cities: {  }
+    cities:
+      -
+        id: 150088
+        name: Arafat
+        latitude: '18.04639000'
+        longitude: '-15.97194000'
+      -
+        id: 150089
+        name: Riyad
+        latitude: '18.10222222'
+        longitude: '-15.95500000'
   -
     id: 3345
-    name: 'Tagant Region'
+    name: Tagant
     state_code: '09'
     latitude: '18.54675270'
     longitude: '-9.90181310'
@@ -350162,12 +350748,32 @@ state_city:
     cities: {  }
   -
     id: 3340
-    name: 'Tiris Zemmour Region'
+    name: 'Tiris Zemmour'
     state_code: '11'
     latitude: '24.57737640'
     longitude: '-9.90181310'
     country_id: 139
     cities:
+      -
+        id: 150078
+        name: 'Ain Ben Tili'
+        latitude: '25.99444444'
+        longitude: '-9.55333333'
+      -
+        id: 150079
+        name: Chegga
+        latitude: '25.37194444'
+        longitude: '-5.78666667'
+      -
+        id: 150080
+        name: Fderîck
+        latitude: '22.67777778'
+        longitude: '-12.70750000'
+      -
+        id: 150081
+        name: Zouérat
+        latitude: '22.73444444'
+        longitude: '-12.47250000'
       -
         id: 67756
         name: Zouerate
@@ -350175,12 +350781,17 @@ state_city:
         longitude: '-12.47134000'
   -
     id: 3348
-    name: 'Trarza Region'
+    name: Trarza
     state_code: '06'
     latitude: '17.86649640'
     longitude: '-14.65878210'
     country_id: 139
     cities:
+      -
+        id: 150073
+        name: Legat
+        latitude: '16.75000000'
+        longitude: '-14.83333333'
       -
         id: 67753
         name: Rosso
@@ -376900,25 +377511,90 @@ state_city:
         latitude: '26.31362000'
         longitude: '-99.53728000'
       -
+        id: 149670
+        name: 'Agualeguas, Nuevo León'
+        latitude: '26.31083333'
+        longitude: '-99.53916667'
+      -
+        id: 149671
+        name: 'Alberto Villarreal'
+        latitude: '25.94389000'
+        longitude: '-100.41167000'
+      -
+        id: 149672
+        name: 'Aldama Estación'
+        latitude: '26.02444000'
+        longitude: '-99.20250000'
+      -
+        id: 149673
+        name: 'Alfonso Reyes'
+        latitude: '26.07667000'
+        longitude: '-99.59611000'
+      -
         id: 68203
         name: 'Alianza Real'
         latitude: '25.85139000'
         longitude: '-100.38278000'
+      -
+        id: 149674
+        name: Allende
+        latitude: '25.28333333'
+        longitude: '-100.01666667'
+      -
+        id: 149675
+        name: Altamira
+        latitude: '25.68910000'
+        longitude: '-99.61940000'
+      -
+        id: 149676
+        name: 'Ampliación de la Laguna'
+        latitude: '25.29785000'
+        longitude: '-99.72584000'
       -
         id: 68285
         name: Anáhuac
         latitude: '27.24457000'
         longitude: '-100.13229000'
       -
+        id: 149677
+        name: Apodaca
+        latitude: '25.78166667'
+        longitude: '-100.18861111'
+      -
+        id: 149678
+        name: 'Aquiles Serdán'
+        latitude: '24.96056000'
+        longitude: '-100.71556000'
+      -
         id: 68328
         name: Aramberri
         latitude: '24.09984000'
         longitude: '-99.81729000'
       -
+        id: 149679
+        name: 'Armando Fernández Garza'
+        latitude: '25.82278000'
+        longitude: '-100.62778000'
+      -
         id: 68375
         name: 'Artemio Treviño'
         latitude: '25.83528000'
         longitude: '-100.14278000'
+      -
+        id: 149680
+        name: 'Barrio Aldamas'
+        latitude: '26.08056000'
+        longitude: '-99.18139000'
+      -
+        id: 149681
+        name: 'Barrio de Jalisco'
+        latitude: '24.82093000'
+        longitude: '-100.10461000'
+      -
+        id: 149682
+        name: 'Bello Amanecer'
+        latitude: '25.69806000'
+        longitude: '-100.13528000'
       -
         id: 68644
         name: 'Bosques de San Pedro'
@@ -376945,20 +377621,60 @@ state_city:
         latitude: '25.58896000'
         longitude: '-100.00156000'
       -
+        id: 149683
+        name: 'Caja Pinta'
+        latitude: '24.71708000'
+        longitude: '-99.66759000'
+      -
+        id: 149684
+        name: 'Campestre el Montesito'
+        latitude: '25.46861000'
+        longitude: '-100.08750000'
+      -
+        id: 149688
+        name: 'Cañón de Vacas'
+        latitude: '24.29472000'
+        longitude: '-99.72000000'
+      -
+        id: 149685
+        name: Cantú
+        latitude: '25.88000000'
+        longitude: '-99.17944000'
+      -
+        id: 149686
+        name: Carboneras
+        latitude: '26.49222000'
+        longitude: '-100.07639000'
+      -
         id: 68826
         name: Carmen
         latitude: '25.93650000'
         longitude: '-100.36396000'
+      -
+        id: 149687
+        name: 'Casa Rosa'
+        latitude: '25.94667000'
+        longitude: '-100.40389000'
       -
         id: 68861
         name: 'Catarino Rodríguez'
         latitude: '24.84542000'
         longitude: '-100.32046000'
       -
+        id: 149689
+        name: 'Centro Habitacional Burócratas de Guadalupe'
+        latitude: '25.63667000'
+        longitude: '-100.15333000'
+      -
         id: 68908
         name: Cerralvo
         latitude: '26.09766000'
         longitude: '-99.65340000'
+      -
+        id: 149690
+        name: 'Charco Redondo'
+        latitude: '26.06194000'
+        longitude: '-99.56194000'
       -
         id: 69080
         name: China
@@ -376969,6 +377685,16 @@ state_city:
         name: 'Ciénega de Flores'
         latitude: '25.95467000'
         longitude: '-100.16695000'
+      -
+        id: 149691
+        name: 'Cinco Señores'
+        latitude: '24.87480000'
+        longitude: '-99.62277000'
+      -
+        id: 149692
+        name: 'Ciudad Anáhuac'
+        latitude: '27.24457000'
+        longitude: '-100.13229000'
       -
         id: 69144
         name: 'Ciudad Apodaca'
@@ -377020,10 +377746,55 @@ state_city:
         latitude: '25.81705000'
         longitude: '-100.10258000'
       -
+        id: 149693
+        name: 'Colinas del Río, Juárez'
+        latitude: '25.66944000'
+        longitude: '-100.12250000'
+      -
+        id: 149694
+        name: Colombia
+        latitude: '27.70333333'
+        longitude: '-99.75944444'
+      -
+        id: 149695
+        name: 'Colonia Independencia (Monterrey)'
+        latitude: '25.65917000'
+        longitude: '-100.32416000'
+      -
+        id: 149696
+        name: 'Colonia la Mesa'
+        latitude: '25.81389000'
+        longitude: '-100.07306000'
+      -
+        id: 149697
+        name: 'Conferín Arizpe'
+        latitude: '25.80833000'
+        longitude: '-99.15806000'
+      -
         id: 69450
         name: 'Congregación Calles'
         latitude: '25.22528000'
         longitude: '-99.93472000'
+      -
+        id: 149698
+        name: Constitución
+        latitude: '26.47611000'
+        longitude: '-100.11972000'
+      -
+        id: 149699
+        name: 'Dieciocho de Marzo'
+        latitude: '24.88951000'
+        longitude: '-100.18001000'
+      -
+        id: 149700
+        name: 'Dieciséis de Septiembre'
+        latitude: '25.59111000'
+        longitude: '-100.15000000'
+      -
+        id: 149701
+        name: 'Doce de Octubre'
+        latitude: '25.62333000'
+        longitude: '-100.06583000'
       -
         id: 69692
         name: 'Doctor Arroyo'
@@ -377035,10 +377806,145 @@ state_city:
         latitude: '25.92492000'
         longitude: '-99.18316000'
       -
+        id: 149702
+        name: 'Doctor Coss, Nuevo León'
+        latitude: '25.92589722'
+        longitude: '-99.18437222'
+      -
         id: 69696
         name: 'Doctor González'
         latitude: '25.85983000'
         longitude: '-99.94409000'
+      -
+        id: 149703
+        name: Dolores
+        latitude: '23.51333000'
+        longitude: '-100.23194000'
+      -
+        id: 149704
+        name: 'El Bajío'
+        latitude: '25.19972000'
+        longitude: '-99.86583000'
+      -
+        id: 149705
+        name: 'El Barco'
+        latitude: '25.37722000'
+        longitude: '-99.85750000'
+      -
+        id: 149706
+        name: 'El Bosque'
+        latitude: '25.21861000'
+        longitude: '-99.86750000'
+      -
+        id: 149707
+        name: 'El Brasil'
+        latitude: '25.89417000'
+        longitude: '-98.99028000'
+      -
+        id: 149708
+        name: 'El Carmen de los Elizondo'
+        latitude: '24.97670000'
+        longitude: '-99.43876000'
+      -
+        id: 149709
+        name: 'El Carmen, Nuevo León'
+        latitude: '25.93222778'
+        longitude: '-100.36412222'
+      -
+        id: 149710
+        name: 'El Cedral'
+        latitude: '24.89528000'
+        longitude: '-100.18500000'
+      -
+        id: 149711
+        name: 'El Cerrito'
+        latitude: '25.29542000'
+        longitude: '-99.98675000'
+      -
+        id: 149712
+        name: 'El Chamizal'
+        latitude: '24.90250000'
+        longitude: '-99.52028000'
+      -
+        id: 149713
+        name: 'El Dieciséis'
+        latitude: '23.55591000'
+        longitude: '-100.37882000'
+      -
+        id: 149714
+        name: 'El Diez'
+        latitude: '24.86472000'
+        longitude: '-99.45667000'
+      -
+        id: 149715
+        name: 'El Fraile'
+        latitude: '25.80722000'
+        longitude: '-100.50361000'
+      -
+        id: 149716
+        name: 'El Leal'
+        latitude: '25.88500000'
+        longitude: '-100.29250000'
+      -
+        id: 149717
+        name: 'El Maguey'
+        latitude: '25.30784000'
+        longitude: '-100.00779000'
+      -
+        id: 149718
+        name: 'El Mosquito, Linares'
+        latitude: '24.66417000'
+        longitude: '-99.67417000'
+      -
+        id: 149719
+        name: 'El Nogalito'
+        latitude: '25.28556000'
+        longitude: '-99.87639000'
+      -
+        id: 149720
+        name: 'El Palmital'
+        latitude: '25.83088000'
+        longitude: '-100.59476000'
+      -
+        id: 149721
+        name: 'El Pastor'
+        latitude: '25.14907000'
+        longitude: '-99.92974000'
+      -
+        id: 149722
+        name: 'El Ranchito Número Uno'
+        latitude: '25.69167000'
+        longitude: '-100.16667000'
+      -
+        id: 149723
+        name: 'El Realito'
+        latitude: '24.10222000'
+        longitude: '-99.83694000'
+      -
+        id: 149724
+        name: 'El Refugio'
+        latitude: '24.90583000'
+        longitude: '-99.52861000'
+      -
+        id: 149725
+        name: 'El Refugio y el Reparo'
+        latitude: '23.65972000'
+        longitude: '-100.34028000'
+      -
+        id: 149726
+        name: 'El Rucio'
+        latitude: '24.39758000'
+        longitude: '-99.80775000'
+      -
+        id: 149727
+        name: 'El Saladito'
+        latitude: '25.89833000'
+        longitude: '-100.03139000'
+      -
+        id: 149728
+        name: 'El Salitre'
+        latitude: '23.95990000'
+        longitude: '-99.83058000'
       -
         id: 70288
         name: 'Emiliano Zapata'
@@ -377050,10 +377956,20 @@ state_city:
         latitude: '25.85500000'
         longitude: '-100.24722000'
       -
+        id: 149729
+        name: 'Estados Unidos'
+        latitude: '25.12444000'
+        longitude: '-100.47639000'
+      -
         id: 70417
         name: 'Fraccionamiento Cosmópolis Octavo Sector'
         latitude: '25.82528000'
         longitude: '-100.24611000'
+      -
+        id: 149730
+        name: 'Fraccionamiento del Valle'
+        latitude: '25.92306000'
+        longitude: '-100.37944000'
       -
         id: 70427
         name: 'Fraccionamiento Misión de San Javier'
@@ -377065,6 +377981,16 @@ state_city:
         latitude: '25.90417000'
         longitude: '-100.15972000'
       -
+        id: 149731
+        name: 'Francisco I. Madero'
+        latitude: '25.09139000'
+        longitude: '-98.92250000'
+      -
+        id: 149732
+        name: 'Francisco Villa'
+        latitude: '25.70500000'
+        longitude: '-99.99639000'
+      -
         id: 70509
         name: Galeana
         latitude: '24.82455000'
@@ -377075,20 +378001,65 @@ state_city:
         latitude: '25.81201000'
         longitude: '-100.59874000'
       -
+        id: 149733
+        name: 'Garza García'
+        latitude: '25.65384000'
+        longitude: '-100.37758000'
+      -
+        id: 149734
+        name: 'Garza González'
+        latitude: '25.83139000'
+        longitude: '-99.62417000'
+      -
         id: 70526
         name: 'General Bravo'
         latitude: '25.79239000'
         longitude: '-99.18147000'
+      -
+        id: 149735
+        name: 'General Escobedo'
+        latitude: '25.80833333'
+        longitude: '-100.32666667'
+      -
+        id: 149736
+        name: 'General Tapia'
+        latitude: '25.82556000'
+        longitude: '-99.03972000'
+      -
+        id: 149737
+        name: 'General Terán, Nuevo León'
+        latitude: '25.26666667'
+        longitude: '-99.68333333'
+      -
+        id: 149738
+        name: 'General Treviño'
+        latitude: '26.21666667'
+        longitude: '-99.48333333'
       -
         id: 70546
         name: 'General Zuazua'
         latitude: '25.89491000'
         longitude: '-100.10800000'
       -
+        id: 149739
+        name: 'Graciano Bortoni'
+        latitude: '26.48583000'
+        longitude: '-100.14333000'
+      -
         id: 70573
         name: Guadalupe
         latitude: '25.67678000'
         longitude: '-100.25646000'
+      -
+        id: 149741
+        name: 'Hacienda de Enmedio'
+        latitude: '25.23389000'
+        longitude: '-99.84944000'
+      -
+        id: 149740
+        name: 'Hacienda San Juan'
+        latitude: '26.48306000'
+        longitude: '-100.16778000'
       -
         id: 70653
         name: 'Hacienda San Pedro'
@@ -377100,25 +378071,270 @@ state_city:
         latitude: '25.63556000'
         longitude: '-100.12667000'
       -
+        id: 149742
+        name: Hidalgo
+        latitude: '25.97555556'
+        longitude: '-100.45083333'
+      -
+        id: 149743
+        name: 'Higueras, Nuevo León'
+        latitude: '25.96195556'
+        longitude: '-100.01435000'
+      -
         id: 70724
         name: Hualahuises
         latitude: '24.88295000'
         longitude: '-99.67490000'
+      -
+        id: 149744
+        name: 'Huertas Estación'
+        latitude: '25.03778000'
+        longitude: '-99.70861000'
+      -
+        id: 149745
+        name: Ibarrilla
+        latitude: '24.37250000'
+        longitude: '-99.67306000'
+      -
+        id: 149746
+        name: 'Ismael Flores'
+        latitude: '25.62389000'
+        longitude: '-100.07222000'
       -
         id: 70893
         name: Iturbide
         latitude: '24.72596000'
         longitude: '-99.90406000'
       -
+        id: 149747
+        name: 'Iturbide, Nuevo León'
+        latitude: '24.72527778'
+        longitude: '-99.90000000'
+      -
+        id: 149748
+        name: 'Jardines de la Silla'
+        latitude: '25.62944000'
+        longitude: '-100.18778000'
+      -
         id: 71005
         name: 'Jardines de la Silla (Jardines)'
         latitude: '25.62944000'
         longitude: '-100.18778000'
       -
+        id: 149754
+        name: Jáuregui
+        latitude: '25.29500000'
+        longitude: '-99.95167000'
+      -
+        id: 149749
+        name: 'Jesús María Aguirre, Galeana'
+        latitude: '24.41340000'
+        longitude: '-100.37303000'
+      -
+        id: 149750
+        name: 'Jesús María de Berrones'
+        latitude: '23.91748000'
+        longitude: '-100.02869000'
+      -
+        id: 149751
+        name: 'Jesús María del Terrero'
+        latitude: '23.39944000'
+        longitude: '-100.17806000'
+      -
+        id: 149752
+        name: 'Juan Salazar'
+        latitude: '27.46918000'
+        longitude: '-100.38395000'
+      -
+        id: 149753
+        name: 'Juárez, Nuevo León'
+        latitude: '25.65000000'
+        longitude: '-100.08333333'
+      -
+        id: 149755
+        name: 'Kilómetro Dieciséis'
+        latitude: '24.77361000'
+        longitude: '-99.67722000'
+      -
+        id: 149756
+        name: 'La Agüita'
+        latitude: '23.96500000'
+        longitude: '-100.18361000'
+      -
+        id: 149757
+        name: 'La Aldea'
+        latitude: '24.08064000'
+        longitude: '-99.80357000'
+      -
+        id: 149758
+        name: 'La Arena'
+        latitude: '24.97472000'
+        longitude: '-99.72167000'
+      -
         id: 71176
         name: 'La Ascensión'
         latitude: '24.32392000'
         longitude: '-99.91410000'
+      -
+        id: 149759
+        name: 'La Barreta'
+        latitude: '25.07694000'
+        longitude: '-98.98306000'
+      -
+        id: 149760
+        name: 'La Baticolla'
+        latitude: '23.88702000'
+        longitude: '-100.47412000'
+      -
+        id: 149761
+        name: 'La Boquilla'
+        latitude: '25.27028000'
+        longitude: '-100.04361000'
+      -
+        id: 149762
+        name: 'La Campana'
+        latitude: '25.29898000'
+        longitude: '-98.67721000'
+      -
+        id: 149763
+        name: 'La Candelaria'
+        latitude: '25.67833000'
+        longitude: '-100.70333000'
+      -
+        id: 149764
+        name: 'La Cardona'
+        latitude: '23.40328000'
+        longitude: '-99.98111000'
+      -
+        id: 149765
+        name: 'La Chiripa'
+        latitude: '23.72129000'
+        longitude: '-100.37007000'
+      -
+        id: 149766
+        name: 'La Chueca, Cadereyta Jiménez'
+        latitude: '25.51917000'
+        longitude: '-99.98083000'
+      -
+        id: 149767
+        name: 'La Colmena de Arriba'
+        latitude: '25.28284000'
+        longitude: '-100.05473000'
+      -
+        id: 149768
+        name: 'La Escuadra'
+        latitude: '25.25284000'
+        longitude: '-99.99029000'
+      -
+        id: 149769
+        name: 'La Esperanza'
+        latitude: '24.71556000'
+        longitude: '-100.56000000'
+      -
+        id: 149770
+        name: 'La Estrella'
+        latitude: '24.94750000'
+        longitude: '-99.78722000'
+      -
+        id: 149771
+        name: 'La Fama'
+        latitude: '25.66341000'
+        longitude: '-100.42650000'
+      -
+        id: 149772
+        name: 'La Florida'
+        latitude: '24.12111000'
+        longitude: '-99.82361000'
+      -
+        id: 149773
+        name: 'La Gloria'
+        latitude: '25.67139000'
+        longitude: '-100.71417000'
+      -
+        id: 149774
+        name: 'La Haciendita'
+        latitude: '25.51853000'
+        longitude: '-99.76589000'
+      -
+        id: 149775
+        name: 'La Joya de Alardín'
+        latitude: '23.99917000'
+        longitude: '-99.79472000'
+      -
+        id: 149776
+        name: 'La Lagunita'
+        latitude: '24.93472000'
+        longitude: '-100.23917000'
+      -
+        id: 149777
+        name: 'La Lobera de Portillo'
+        latitude: '23.57250000'
+        longitude: '-100.21333000'
+      -
+        id: 149778
+        name: 'La Maestranza'
+        latitude: '25.61028000'
+        longitude: '-100.16833000'
+      -
+        id: 149779
+        name: 'La Mesa de Berrones'
+        latitude: '23.64139000'
+        longitude: '-100.09667000'
+      -
+        id: 149780
+        name: 'La Palmita, Nuevo Leon'
+        latitude: '25.92952500'
+        longitude: '-99.30310278'
+      -
+        id: 149781
+        name: 'La Presita de Berlanga'
+        latitude: '24.43655000'
+        longitude: '-100.15287000'
+      -
+        id: 149782
+        name: 'La Providencia'
+        latitude: '25.74500000'
+        longitude: '-99.88639000'
+      -
+        id: 149783
+        name: 'La Purísima'
+        latitude: '24.53536000'
+        longitude: '-99.83052000'
+      -
+        id: 149784
+        name: 'La Reforma'
+        latitude: '24.69781000'
+        longitude: '-99.54136000'
+      -
+        id: 149785
+        name: 'La Soledad'
+        latitude: '24.70889000'
+        longitude: '-99.53500000'
+      -
+        id: 149786
+        name: 'La Tinaja'
+        latitude: '25.48034000'
+        longitude: '-100.10530000'
+      -
+        id: 149787
+        name: 'La Trinidad'
+        latitude: '25.23148000'
+        longitude: '-100.14323000'
+      -
+        id: 149788
+        name: 'La Unión y el Cardonal'
+        latitude: '23.84741000'
+        longitude: '-100.09433000'
+      -
+        id: 149789
+        name: 'La Ventana'
+        latitude: '25.14284000'
+        longitude: '-100.15445000'
+      -
+        id: 149790
+        name: Ladrillera
+        latitude: '25.80306000'
+        longitude: '-100.10111000'
       -
         id: 71542
         name: 'Ladrillera (Entronque Pesquería)'
@@ -377129,6 +378345,26 @@ state_city:
         name: 'Lampazos de Naranjo'
         latitude: '27.02549000'
         longitude: '-100.50528000'
+      -
+        id: 149791
+        name: 'Las Barretas'
+        latitude: '24.84870000'
+        longitude: '-99.43584000'
+      -
+        id: 149792
+        name: 'Las Brisas'
+        latitude: '25.39284000'
+        longitude: '-99.54898000'
+      -
+        id: 149793
+        name: 'Las Mesas de San Juan'
+        latitude: '23.50675000'
+        longitude: '-100.13910000'
+      -
+        id: 149794
+        name: 'Las Palomas'
+        latitude: '23.54611000'
+        longitude: '-100.18083000'
       -
         id: 71643
         name: 'Las Torres'
@@ -377145,25 +378381,75 @@ state_city:
         latitude: '24.85798000'
         longitude: '-99.56768000'
       -
+        id: 149795
+        name: 'Linares, Nuevo León'
+        latitude: '24.85965278'
+        longitude: '-99.56786944'
+      -
         id: 71740
         name: 'Loma la Paz'
         latitude: '25.71111000'
         longitude: '-100.13472000'
+      -
+        id: 149796
+        name: 'Lomas de San Francisco'
+        latitude: '25.21056000'
+        longitude: '-100.00250000'
       -
         id: 71750
         name: 'Lomas de San Martín'
         latitude: '25.74722000'
         longitude: '-100.11972000'
       -
+        id: 149801
+        name: 'Los Álamos'
+        latitude: '25.07807000'
+        longitude: '-98.95178000'
+      -
+        id: 149797
+        name: 'Los Aldamas'
+        latitude: '26.05000000'
+        longitude: '-99.18333333'
+      -
+        id: 149802
+        name: 'Los Ángeles, Nuevo León'
+        latitude: '25.20257000'
+        longitude: '-99.74834000'
+      -
+        id: 149798
+        name: 'Los Dos Ríos'
+        latitude: '25.66812000'
+        longitude: '-99.63752000'
+      -
+        id: 149799
+        name: 'Los Herreras'
+        latitude: '25.90500000'
+        longitude: '-99.40250000'
+      -
         id: 71828
         name: 'Los Parques'
         latitude: '25.79073000'
         longitude: '-100.46992000'
       -
+        id: 149800
+        name: 'Los Pocitos'
+        latitude: '25.23478000'
+        longitude: '-100.19335000'
+      -
         id: 71839
         name: 'Los Ramones'
         latitude: '25.69716000'
         longitude: '-99.62529000'
+      -
+        id: 149803
+        name: 'María Aurora'
+        latitude: '25.86923000'
+        longitude: '-99.80864000'
+      -
+        id: 149804
+        name: 'María Auxiliadora'
+        latitude: '25.23812000'
+        longitude: '-99.79417000'
       -
         id: 72007
         name: Marín
@@ -377175,8 +378461,28 @@ state_city:
         latitude: '25.18909000'
         longitude: '-99.82865000'
       -
+        id: 149805
+        name: 'Melchor Ocampo, Nuevo León'
+        latitude: '26.05861111'
+        longitude: '-99.54222222'
+      -
+        id: 149806
+        name: Mexiquito
+        latitude: '25.19951000'
+        longitude: '-99.80723000'
+      -
+        id: 149807
+        name: 'Mier y Noriega'
+        latitude: '23.42671000'
+        longitude: '-100.17282000'
+      -
         id: 72141
         name: Mina
+        latitude: '26.00110000'
+        longitude: '-100.52988000'
+      -
+        id: 149808
+        name: 'Mina, Nuevo León'
         latitude: '26.00110000'
         longitude: '-100.52988000'
       -
@@ -377215,10 +378521,20 @@ state_city:
         latitude: '25.67507000'
         longitude: '-100.31847000'
       -
+        id: 149809
+        name: 'Náñez González'
+        latitude: '25.45451000'
+        longitude: '-100.07002000'
+      -
         id: 72664
         name: Parás
         latitude: '26.50013000'
         longitude: '-99.52156000'
+      -
+        id: 149810
+        name: 'Parás, Nuevo León'
+        latitude: '26.49888889'
+        longitude: '-99.52250000'
       -
         id: 72657
         name: 'Parque Industrial Ciudad Mitras'
@@ -377229,6 +378545,11 @@ state_city:
         name: 'Paseo de San Javier'
         latitude: '25.73972000'
         longitude: '-100.13444000'
+      -
+        id: 149811
+        name: 'Pedro Ibarra Hernández'
+        latitude: '23.40508000'
+        longitude: '-100.17270000'
       -
         id: 72740
         name: Pesquería
@@ -377255,6 +378576,11 @@ state_city:
         latitude: '25.48409000'
         longitude: '-99.75987000'
       -
+        id: 149812
+        name: 'Puerto Genovevo, Santiago'
+        latitude: '25.34264000'
+        longitude: '-100.18364000'
+      -
         id: 73085
         name: Rayones
         latitude: '25.01799000'
@@ -377270,6 +378596,16 @@ state_city:
         latitude: '24.90081000'
         longitude: '-99.54345000'
       -
+        id: 149813
+        name: 'Rubén Carlos Gallegos Reyes, Villaldama'
+        latitude: '26.48254000'
+        longitude: '-100.42588000'
+      -
+        id: 149814
+        name: 'Sabinas Hidalgo'
+        latitude: '26.49833333'
+        longitude: '-100.18111111'
+      -
         id: 73215
         name: 'Salinas Victoria'
         latitude: '25.96329000'
@@ -377280,15 +378616,45 @@ state_city:
         latitude: '25.63868000'
         longitude: '-100.05844000'
       -
+        id: 149815
+        name: 'San Antonio de Alamitos'
+        latitude: '23.46476000'
+        longitude: '-100.21659000'
+      -
+        id: 149816
+        name: 'San Bernardo, Nuevo León'
+        latitude: '25.63333333'
+        longitude: '-98.93333333'
+      -
+        id: 149817
+        name: 'San José de Cuatro Caminos'
+        latitude: '23.50250000'
+        longitude: '-100.27528000'
+      -
+        id: 149818
+        name: 'San José de Medina'
+        latitude: '23.40508000'
+        longitude: '-100.10687000'
+      -
         id: 73825
         name: 'San José de Raíces'
         latitude: '24.57145000'
         longitude: '-100.24002000'
       -
+        id: 149819
+        name: 'San José, Linares'
+        latitude: '24.69202000'
+        longitude: '-99.69665000'
+      -
         id: 73858
         name: 'San Juan'
         latitude: '25.54280000'
         longitude: '-99.84091000'
+      -
+        id: 149820
+        name: 'San Mateo, Doctor Arroyo'
+        latitude: '23.83925000'
+        longitude: '-100.06995000'
       -
         id: 74273
         name: 'San Nicolás de los Garza'
@@ -377305,10 +378671,25 @@ state_city:
         latitude: '25.03060000'
         longitude: '-100.55139000'
       -
+        id: 149821
+        name: 'Santa Catarina'
+        latitude: '25.67325000'
+        longitude: '-100.45813000'
+      -
         id: 74837
         name: 'Santa Rosa'
         latitude: '25.82463000'
         longitude: '-100.22164000'
+      -
+        id: 149822
+        name: 'Santa Teresita'
+        latitude: '25.87255000'
+        longitude: '-100.11531000'
+      -
+        id: 149823
+        name: 'Santa Verónica'
+        latitude: '24.72306000'
+        longitude: '-99.64778000'
       -
         id: 74868
         name: Santiago
@@ -377324,6 +378705,11 @@ state_city:
         name: 'Unión Agropecuarios Lázaro Cárdenas del Norte'
         latitude: '25.83222000'
         longitude: '-100.38417000'
+      -
+        id: 149824
+        name: 'Valle Alto'
+        latitude: '25.56670000'
+        longitude: '-100.25000000'
       -
         id: 75922
         name: 'Valle de Juárez'
@@ -377349,6 +378735,11 @@ state_city:
         name: Villaldama
         latitude: '26.47039000'
         longitude: '-100.38726000'
+      -
+        id: 149825
+        name: 'Villaldama, Nuevo León'
+        latitude: '26.49952000'
+        longitude: '-100.42508000'
       -
         id: 76087
         name: 'Villas de Alcalá'
@@ -402268,7 +403659,47 @@ state_city:
     latitude: '12.20189020'
     longitude: '-68.26238220'
     country_id: 156
-    cities: {  }
+    cities:
+      -
+        id: 150050
+        name: 'Boven Bolivia'
+        latitude: '12.18190000'
+        longitude: '-68.21810000'
+      -
+        id: 150051
+        name: 'Dorp Tera Kora'
+        latitude: '12.13333000'
+        longitude: '-68.26667000'
+      -
+        id: 150052
+        name: Oranjestad
+        latitude: '17.48333333'
+        longitude: '-62.98333333'
+      -
+        id: 150053
+        name: Rincon
+        latitude: '12.23833333'
+        longitude: '-68.33250000'
+      -
+        id: 150054
+        name: 'St. Johns'
+        latitude: '17.62100750'
+        longitude: '-63.24316830'
+      -
+        id: 150055
+        name: 'The Bottom'
+        latitude: '17.62611111'
+        longitude: '-63.24916667'
+      -
+        id: 150056
+        name: Windwardside
+        latitude: '17.62864000'
+        longitude: '-63.23136000'
+      -
+        id: 150057
+        name: 'Zion''s Hill'
+        latitude: '17.64300000'
+        longitude: '-63.22649000'
   -
     id: 2613
     name: Drenthe
@@ -402407,66 +403838,6 @@ state_city:
         name: Gasselternijveen
         latitude: '52.98833000'
         longitude: '6.85278000'
-      -
-        id: 77696
-        name: 'Gemeente Aa en Hunze'
-        latitude: '53.00445000'
-        longitude: '6.74908000'
-      -
-        id: 77714
-        name: 'Gemeente Assen'
-        latitude: '52.99635000'
-        longitude: '6.55255000'
-      -
-        id: 77735
-        name: 'Gemeente Borger-Odoorn'
-        latitude: '52.90501000'
-        longitude: '6.88042000'
-      -
-        id: 77750
-        name: 'Gemeente Coevorden'
-        latitude: '52.74344000'
-        longitude: '6.72487000'
-      -
-        id: 77758
-        name: 'Gemeente De Wolden'
-        latitude: '52.70102000'
-        longitude: '6.37277000'
-      -
-        id: 77783
-        name: 'Gemeente Emmen'
-        latitude: '52.75243000'
-        longitude: '6.95938000'
-      -
-        id: 77831
-        name: 'Gemeente Hoogeveen'
-        latitude: '52.71820000'
-        longitude: '6.51803000'
-      -
-        id: 77871
-        name: 'Gemeente Meppel'
-        latitude: '52.70885000'
-        longitude: '6.19727000'
-      -
-        id: 77874
-        name: 'Gemeente Midden-Drenthe'
-        latitude: '52.86716000'
-        longitude: '6.53840000'
-      -
-        id: 77887
-        name: 'Gemeente Noordenveld'
-        latitude: '53.11494000'
-        longitude: '6.44622000'
-      -
-        id: 77958
-        name: 'Gemeente Tynaarlo'
-        latitude: '53.10417000'
-        longitude: '6.60271000'
-      -
-        id: 77991
-        name: 'Gemeente Westerveld'
-        latitude: '52.82700000'
-        longitude: '6.29060000'
       -
         id: 78031
         name: Gieten
@@ -402691,36 +404062,6 @@ state_city:
         latitude: '52.63667000'
         longitude: '5.82778000'
       -
-        id: 77704
-        name: 'Gemeente Almere'
-        latitude: '52.36861000'
-        longitude: '5.23750000'
-      -
-        id: 77773
-        name: 'Gemeente Dronten'
-        latitude: '52.50000000'
-        longitude: '5.71667000'
-      -
-        id: 77855
-        name: 'Gemeente Lelystad'
-        latitude: '52.47542000'
-        longitude: '5.43811000'
-      -
-        id: 77888
-        name: 'Gemeente Noordoostpolder'
-        latitude: '52.71703000'
-        longitude: '5.77248000'
-      -
-        id: 77963
-        name: 'Gemeente Urk'
-        latitude: '52.66585000'
-        longitude: '5.62371000'
-      -
-        id: 78008
-        name: 'Gemeente Zeewolde'
-        latitude: '52.34420000'
-        longitude: '5.45904000'
-      -
         id: 78288
         name: Lelystad
         latitude: '52.50833000'
@@ -402928,76 +404269,6 @@ state_city:
         name: Garyp
         latitude: '53.16667000'
         longitude: '5.96667000'
-      -
-        id: 77699
-        name: 'Gemeente Achtkarspelen'
-        latitude: '53.21167000'
-        longitude: '6.13776000'
-      -
-        id: 77707
-        name: 'Gemeente Ameland'
-        latitude: '53.45024000'
-        longitude: '5.78277000'
-      -
-        id: 77755
-        name: 'Gemeente Dantumadiel'
-        latitude: '53.29113000'
-        longitude: '5.99545000'
-      -
-        id: 77809
-        name: 'Gemeente Harlingen'
-        latitude: '53.17525000'
-        longitude: '5.41806000'
-      -
-        id: 77814
-        name: 'Gemeente Heerenveen'
-        latitude: '52.94220000'
-        longitude: '6.04410000'
-      -
-        id: 77851
-        name: 'Gemeente Leeuwarden'
-        latitude: '53.18602000'
-        longitude: '5.81111000'
-      -
-        id: 77900
-        name: 'Gemeente Ooststellingwerf'
-        latitude: '52.98264000'
-        longitude: '6.27515000'
-      -
-        id: 77903
-        name: 'Gemeente Opsterland'
-        latitude: '53.04849000'
-        longitude: '6.12128000'
-      -
-        id: 77932
-        name: 'Gemeente Schiermonnikoog'
-        latitude: '53.48707000'
-        longitude: '6.22917000'
-      -
-        id: 77939
-        name: 'Gemeente Smallingerland'
-        latitude: '53.11667000'
-        longitude: '6.03333000'
-      -
-        id: 77950
-        name: 'Gemeente Terschelling'
-        latitude: '53.40000000'
-        longitude: '5.35000000'
-      -
-        id: 77959
-        name: 'Gemeente Tytsjerksteradiel'
-        latitude: '53.19966000'
-        longitude: '5.95802000'
-      -
-        id: 77976
-        name: 'Gemeente Vlieland'
-        latitude: '53.25320000'
-        longitude: '4.95071000'
-      -
-        id: 77994
-        name: 'Gemeente Weststellingwerf'
-        latitude: '52.87647000'
-        longitude: '6.01998000'
       -
         id: 78042
         name: Gorredijk
@@ -403807,241 +405078,6 @@ state_city:
         latitude: '51.87968000'
         longitude: '5.28015000'
       -
-        id: 77698
-        name: 'Gemeente Aalten'
-        latitude: '51.92420000'
-        longitude: '6.56574000'
-      -
-        id: 77711
-        name: 'Gemeente Apeldoorn'
-        latitude: '52.18722000'
-        longitude: '5.91969000'
-      -
-        id: 77713
-        name: 'Gemeente Arnhem'
-        latitude: '52.00113000'
-        longitude: '5.89641000'
-      -
-        id: 77719
-        name: 'Gemeente Barneveld'
-        latitude: '52.16880000'
-        longitude: '5.63985000'
-      -
-        id: 77723
-        name: 'Gemeente Berg en Dal'
-        latitude: '51.78412000'
-        longitude: '5.92968000'
-      -
-        id: 77729
-        name: 'Gemeente Beuningen'
-        latitude: '51.85950000'
-        longitude: '5.74362000'
-      -
-        id: 77742
-        name: 'Gemeente Bronckhorst'
-        latitude: '52.04401000'
-        longitude: '6.30378000'
-      -
-        id: 77743
-        name: 'Gemeente Brummen'
-        latitude: '52.11063000'
-        longitude: '6.11791000'
-      -
-        id: 77747
-        name: 'Gemeente Buren'
-        latitude: '51.90901000'
-        longitude: '5.33403000'
-      -
-        id: 77753
-        name: 'Gemeente Culemborg'
-        latitude: '51.94465000'
-        longitude: '5.20946000'
-      -
-        id: 77767
-        name: 'Gemeente Doesburg'
-        latitude: '52.01935000'
-        longitude: '6.14855000'
-      -
-        id: 77768
-        name: 'Gemeente Doetinchem'
-        latitude: '51.96216000'
-        longitude: '6.27955000'
-      -
-        id: 77774
-        name: 'Gemeente Druten'
-        latitude: '51.87184000'
-        longitude: '5.61322000'
-      -
-        id: 77775
-        name: 'Gemeente Duiven'
-        latitude: '51.94740000'
-        longitude: '6.01720000'
-      -
-        id: 77778
-        name: 'Gemeente Ede'
-        latitude: '52.08118000'
-        longitude: '5.74490000'
-      -
-        id: 77782
-        name: 'Gemeente Elburg'
-        latitude: '52.41487000'
-        longitude: '5.84868000'
-      -
-        id: 77786
-        name: 'Gemeente Epe'
-        latitude: '52.33394000'
-        longitude: '5.96175000'
-      -
-        id: 77787
-        name: 'Gemeente Ermelo'
-        latitude: '52.28826000'
-        longitude: '5.65538000'
-      -
-        id: 77807
-        name: 'Gemeente Harderwijk'
-        latitude: '52.34540000'
-        longitude: '5.63948000'
-      -
-        id: 77810
-        name: 'Gemeente Hattem'
-        latitude: '52.47566000'
-        longitude: '6.05195000'
-      -
-        id: 77813
-        name: 'Gemeente Heerde'
-        latitude: '52.38833000'
-        longitude: '6.03889000'
-      -
-        id: 77824
-        name: 'Gemeente Heumen'
-        latitude: '51.77438000'
-        longitude: '5.81312000'
-      -
-        id: 77858
-        name: 'Gemeente Lingewaard'
-        latitude: '51.89558000'
-        longitude: '5.94577000'
-      -
-        id: 77860
-        name: 'Gemeente Lochem'
-        latitude: '52.18478000'
-        longitude: '6.33700000'
-      -
-        id: 77865
-        name: 'Gemeente Maasdriel'
-        latitude: '51.77337000'
-        longitude: '5.29711000'
-      -
-        id: 77877
-        name: 'Gemeente Montferland'
-        latitude: '51.91925000'
-        longitude: '6.21333000'
-      -
-        id: 77880
-        name: 'Gemeente Neder-Betuwe'
-        latitude: '51.91442000'
-        longitude: '5.57147000'
-      -
-        id: 77884
-        name: 'Gemeente Nijkerk'
-        latitude: '52.21700000'
-        longitude: '5.48300000'
-      -
-        id: 77885
-        name: 'Gemeente Nijmegen'
-        latitude: '51.84168000'
-        longitude: '5.83813000'
-      -
-        id: 77891
-        name: 'Gemeente Nunspeet'
-        latitude: '52.33524000'
-        longitude: '5.78771000'
-      -
-        id: 77895
-        name: 'Gemeente Oldebroek'
-        latitude: '52.44502000'
-        longitude: '5.90086000'
-      -
-        id: 77907
-        name: 'Gemeente Overbetuwe'
-        latitude: '51.91843000'
-        longitude: '5.78686000'
-      -
-        id: 77913
-        name: 'Gemeente Putten'
-        latitude: '52.24438000'
-        longitude: '5.57827000'
-      -
-        id: 77916
-        name: 'Gemeente Renkum'
-        latitude: '51.99036000'
-        longitude: '5.78723000'
-      -
-        id: 77919
-        name: 'Gemeente Rheden'
-        latitude: '52.03386000'
-        longitude: '6.04547000'
-      -
-        id: 77927
-        name: 'Gemeente Rozendaal'
-        latitude: '52.03913000'
-        longitude: '5.97268000'
-      -
-        id: 77930
-        name: 'Gemeente Scherpenzeel'
-        latitude: '52.08773000'
-        longitude: '5.48698000'
-      -
-        id: 77954
-        name: 'Gemeente Tiel'
-        latitude: '51.88463000'
-        longitude: '5.40429000'
-      -
-        id: 77980
-        name: 'Gemeente Voorst'
-        latitude: '52.22965000'
-        longitude: '6.09992000'
-      -
-        id: 77985
-        name: 'Gemeente Wageningen'
-        latitude: '51.96876000'
-        longitude: '5.66675000'
-      -
-        id: 77990
-        name: 'Gemeente West Maas en Waal'
-        latitude: '51.84494000'
-        longitude: '5.51074000'
-      -
-        id: 77992
-        name: 'Gemeente Westervoort'
-        latitude: '51.95949000'
-        longitude: '5.97435000'
-      -
-        id: 77997
-        name: 'Gemeente Wijchen'
-        latitude: '51.81884000'
-        longitude: '5.69862000'
-      -
-        id: 78000
-        name: 'Gemeente Winterswijk'
-        latitude: '51.97226000'
-        longitude: '6.72544000'
-      -
-        id: 78006
-        name: 'Gemeente Zaltbommel'
-        latitude: '51.78680000'
-        longitude: '5.15254000'
-      -
-        id: 78010
-        name: 'Gemeente Zevenaar'
-        latitude: '51.95376000'
-        longitude: '6.07727000'
-      -
-        id: 78015
-        name: 'Gemeente Zutphen'
-        latitude: '52.13145000'
-        longitude: '6.23132000'
-      -
         id: 78022
         name: Gendringen
         latitude: '51.87333000'
@@ -404835,11 +405871,6 @@ state_city:
         latitude: '53.32167000'
         longitude: '6.92639000'
       -
-        id: 77694
-        name: 'Gemeente  Oldambt'
-        latitude: '53.16859000'
-        longitude: '7.04224000'
-      -
         id: 77712
         name: 'Gemeente Appingedam'
         latitude: '53.31926000'
@@ -404859,6 +405890,11 @@ state_city:
         name: 'Gemeente Loppersum'
         latitude: '53.33849000'
         longitude: '6.72149000'
+      -
+        id: 77694
+        name: 'Gemeente Oldambt'
+        latitude: '53.16859000'
+        longitude: '7.04224000'
       -
         id: 77910
         name: 'Gemeente Pekela'
@@ -405367,136 +406403,6 @@ state_city:
         name: Geleen
         latitude: '50.97417000'
         longitude: '5.82917000'
-      -
-        id: 77720
-        name: 'Gemeente Beek'
-        latitude: '50.93237000'
-        longitude: '5.80587000'
-      -
-        id: 77722
-        name: 'Gemeente Beesel'
-        latitude: '51.27016000'
-        longitude: '6.06771000'
-      -
-        id: 77724
-        name: 'Gemeente Bergen'
-        latitude: '51.57717000'
-        longitude: '6.09014000'
-      -
-        id: 77744
-        name: 'Gemeente Brunssum'
-        latitude: '50.94451000'
-        longitude: '5.97618000'
-      -
-        id: 77776
-        name: 'Gemeente Echt-Susteren'
-        latitude: '51.10000000'
-        longitude: '5.86667000'
-      -
-        id: 77792
-        name: 'Gemeente Gennep'
-        latitude: '51.70063000'
-        longitude: '5.98447000'
-      -
-        id: 77816
-        name: 'Gemeente Heerlen'
-        latitude: '50.88777000'
-        longitude: '5.97407000'
-      -
-        id: 77833
-        name: 'Gemeente Horst aan de Maas'
-        latitude: '51.45931000'
-        longitude: '6.10254000'
-      -
-        id: 77842
-        name: 'Gemeente Kerkrade'
-        latitude: '50.87337000'
-        longitude: '6.04876000'
-      -
-        id: 77856
-        name: 'Gemeente Leudal'
-        latitude: '51.24371000'
-        longitude: '5.89815000'
-      -
-        id: 77866
-        name: 'Gemeente Maasgouw'
-        latitude: '51.15426000'
-        longitude: '5.87712000'
-      -
-        id: 77868
-        name: 'Gemeente Maastricht'
-        latitude: '50.85000000'
-        longitude: '5.70000000'
-      -
-        id: 77870
-        name: 'Gemeente Meerssen'
-        latitude: '50.89518000'
-        longitude: '5.75711000'
-      -
-        id: 77879
-        name: 'Gemeente Mook en Middelaar'
-        latitude: '51.74777000'
-        longitude: '5.90200000'
-      -
-        id: 77881
-        name: 'Gemeente Nederweert'
-        latitude: '51.28813000'
-        longitude: '5.77157000'
-      -
-        id: 77909
-        name: 'Gemeente Peel en Maas'
-        latitude: '51.32353000'
-        longitude: '5.97261000'
-      -
-        id: 77924
-        name: 'Gemeente Roerdalen'
-        latitude: '51.13492000'
-        longitude: '6.03542000'
-      -
-        id: 77925
-        name: 'Gemeente Roermond'
-        latitude: '51.19999000'
-        longitude: '6.00900000'
-      -
-        id: 77933
-        name: 'Gemeente Simpelveld'
-        latitude: '50.82901000'
-        longitude: '5.98410000'
-      -
-        id: 77936
-        name: 'Gemeente Sittard-Geleen'
-        latitude: '51.01074000'
-        longitude: '5.82288000'
-      -
-        id: 77948
-        name: 'Gemeente Stein'
-        latitude: '50.97358000'
-        longitude: '5.76126000'
-      -
-        id: 77966
-        name: 'Gemeente Vaals'
-        latitude: '50.77848000'
-        longitude: '5.97674000'
-      -
-        id: 77973
-        name: 'Gemeente Venlo'
-        latitude: '51.39277000'
-        longitude: '6.16041000'
-      -
-        id: 77974
-        name: 'Gemeente Venray'
-        latitude: '51.51412000'
-        longitude: '5.95927000'
-      -
-        id: 77978
-        name: 'Gemeente Voerendaal'
-        latitude: '50.87117000'
-        longitude: '5.91495000'
-      -
-        id: 77988
-        name: 'Gemeente Weert'
-        latitude: '51.23418000'
-        longitude: '5.69067000'
       -
         id: 78024
         name: Gennep
@@ -406591,296 +407497,6 @@ state_city:
         latitude: '51.42167000'
         longitude: '5.55972000'
       -
-        id: 77695
-        name: 'Gemeente ''s-Hertogenbosch'
-        latitude: '51.68267000'
-        longitude: '5.30056000'
-      -
-        id: 77706
-        name: 'Gemeente Alphen-Chaam'
-        latitude: '51.50341000'
-        longitude: '4.88013000'
-      -
-        id: 77715
-        name: 'Gemeente Asten'
-        latitude: '51.39231000'
-        longitude: '5.77910000'
-      -
-        id: 77716
-        name: 'Gemeente Baarle-Nassau'
-        latitude: '51.43544000'
-        longitude: '4.91180000'
-      -
-        id: 77726
-        name: 'Gemeente Bergen op Zoom'
-        latitude: '51.50451000'
-        longitude: '4.29108000'
-      -
-        id: 77727
-        name: 'Gemeente Bernheze'
-        latitude: '51.68556000'
-        longitude: '5.52378000'
-      -
-        id: 77728
-        name: 'Gemeente Best'
-        latitude: '51.50000000'
-        longitude: '5.38333000'
-      -
-        id: 77731
-        name: 'Gemeente Bladel'
-        latitude: '51.35000000'
-        longitude: '5.21667000'
-      -
-        id: 77734
-        name: 'Gemeente Boekel'
-        latitude: '51.60489000'
-        longitude: '5.69357000'
-      -
-        id: 77738
-        name: 'Gemeente Boxmeer'
-        latitude: '51.63333000'
-        longitude: '5.95000000'
-      -
-        id: 77739
-        name: 'Gemeente Boxtel'
-        latitude: '51.58472000'
-        longitude: '5.32654000'
-      -
-        id: 77740
-        name: 'Gemeente Breda'
-        latitude: '51.57790000'
-        longitude: '4.76039000'
-      -
-        id: 77751
-        name: 'Gemeente Cranendonck'
-        latitude: '51.27746000'
-        longitude: '5.58373000'
-      -
-        id: 77752
-        name: 'Gemeente Cuijk'
-        latitude: '51.71739000'
-        longitude: '5.85773000'
-      -
-        id: 77763
-        name: 'Gemeente Deurne'
-        latitude: '51.43701000'
-        longitude: '5.82245000'
-      -
-        id: 77769
-        name: 'Gemeente Dongen'
-        latitude: '51.63754000'
-        longitude: '4.95361000'
-      -
-        id: 77772
-        name: 'Gemeente Drimmelen'
-        latitude: '51.66667000'
-        longitude: '4.78333000'
-      -
-        id: 77780
-        name: 'Gemeente Eersel'
-        latitude: '51.39579000'
-        longitude: '5.31956000'
-      -
-        id: 77781
-        name: 'Gemeente Eindhoven'
-        latitude: '51.45037000'
-        longitude: '5.45279000'
-      -
-        id: 77788
-        name: 'Gemeente Etten-Leur'
-        latitude: '51.57711000'
-        longitude: '4.64253000'
-      -
-        id: 77789
-        name: 'Gemeente Geertruidenberg'
-        latitude: '51.69634000'
-        longitude: '4.87836000'
-      -
-        id: 77790
-        name: 'Gemeente Geldrop-Mierlo'
-        latitude: '51.43372000'
-        longitude: '5.59926000'
-      -
-        id: 77791
-        name: 'Gemeente Gemert-Bakel'
-        latitude: '51.52554000'
-        longitude: '5.72802000'
-      -
-        id: 77793
-        name: 'Gemeente Gilze en Rijen'
-        latitude: '51.55656000'
-        longitude: '4.91253000'
-      -
-        id: 77796
-        name: 'Gemeente Goirle'
-        latitude: '51.50875000'
-        longitude: '5.03381000'
-      -
-        id: 77799
-        name: 'Gemeente Grave'
-        latitude: '51.73970000'
-        longitude: '5.74366000'
-      -
-        id: 77802
-        name: 'Gemeente Haaren'
-        latitude: '51.61831000'
-        longitude: '5.22779000'
-      -
-        id: 77805
-        name: 'Gemeente Halderberge'
-        latitude: '51.58925000'
-        longitude: '4.50597000'
-      -
-        id: 77817
-        name: 'Gemeente Heeze-Leende'
-        latitude: '51.36404000'
-        longitude: '5.55870000'
-      -
-        id: 77821
-        name: 'Gemeente Helmond'
-        latitude: '51.47968000'
-        longitude: '5.65559000'
-      -
-        id: 77825
-        name: 'Gemeente Heusden'
-        latitude: '51.69975000'
-        longitude: '5.16598000'
-      -
-        id: 77827
-        name: 'Gemeente Hilvarenbeek'
-        latitude: '51.47772000'
-        longitude: '5.14778000'
-      -
-        id: 77845
-        name: 'Gemeente Laarbeek'
-        latitude: '51.52643000'
-        longitude: '5.61283000'
-      -
-        id: 77846
-        name: 'Gemeente Landerd'
-        latitude: '51.71151000'
-        longitude: '5.66580000'
-      -
-        id: 77861
-        name: 'Gemeente Loon op Zand'
-        latitude: '51.63782000'
-        longitude: '5.04860000'
-      -
-        id: 77875
-        name: 'Gemeente Mill en Sint Hubert'
-        latitude: '51.68712000'
-        longitude: '5.77077000'
-      -
-        id: 77876
-        name: 'Gemeente Moerdijk'
-        latitude: '51.63933000'
-        longitude: '4.56379000'
-      -
-        id: 77890
-        name: 'Gemeente Nuenen, Gerwen en Nederwetten'
-        latitude: '51.46667000'
-        longitude: '5.53333000'
-      -
-        id: 77893
-        name: 'Gemeente Oirschot'
-        latitude: '51.49062000'
-        longitude: '5.28959000'
-      -
-        id: 77894
-        name: 'Gemeente Oisterwijk'
-        latitude: '51.55289000'
-        longitude: '5.20188000'
-      -
-        id: 77899
-        name: 'Gemeente Oosterhout'
-        latitude: '51.63435000'
-        longitude: '4.86399000'
-      -
-        id: 77904
-        name: 'Gemeente Oss'
-        latitude: '51.78103000'
-        longitude: '5.58111000'
-      -
-        id: 77918
-        name: 'Gemeente Reusel-De Mierden'
-        latitude: '51.38047000'
-        longitude: '5.15790000'
-      -
-        id: 77928
-        name: 'Gemeente Rucphen'
-        latitude: '51.52357000'
-        longitude: '4.56586000'
-      -
-        id: 77934
-        name: 'Gemeente Sint Anthonis'
-        latitude: '51.61826000'
-        longitude: '5.84354000'
-      -
-        id: 77935
-        name: 'Gemeente Sint-Michielsgestel'
-        latitude: '51.66076000'
-        longitude: '5.37851000'
-      -
-        id: 77941
-        name: 'Gemeente Someren'
-        latitude: '51.38233000'
-        longitude: '5.71049000'
-      -
-        id: 77942
-        name: 'Gemeente Son en Breugel'
-        latitude: '51.50970000'
-        longitude: '5.49934000'
-      -
-        id: 77946
-        name: 'Gemeente Steenbergen'
-        latitude: '51.60081000'
-        longitude: '4.32077000'
-      -
-        id: 77955
-        name: 'Gemeente Tilburg'
-        latitude: '51.57787000'
-        longitude: '5.06555000'
-      -
-        id: 77960
-        name: 'Gemeente Uden'
-        latitude: '51.65682000'
-        longitude: '5.61258000'
-      -
-        id: 77967
-        name: 'Gemeente Valkenswaard'
-        latitude: '51.32575000'
-        longitude: '5.45323000'
-      -
-        id: 77971
-        name: 'Gemeente Veldhoven'
-        latitude: '51.41253000'
-        longitude: '5.38052000'
-      -
-        id: 77981
-        name: 'Gemeente Vught'
-        latitude: '51.65822000'
-        longitude: '5.26746000'
-      -
-        id: 77982
-        name: 'Gemeente Waalre'
-        latitude: '51.38757000'
-        longitude: '5.46380000'
-      -
-        id: 77983
-        name: 'Gemeente Waalwijk'
-        latitude: '51.68970000'
-        longitude: '5.01721000'
-      -
-        id: 78001
-        name: 'Gemeente Woensdrecht'
-        latitude: '51.40948000'
-        longitude: '4.33512000'
-      -
-        id: 78014
-        name: 'Gemeente Zundert'
-        latitude: '51.47352000'
-        longitude: '4.64180000'
-      -
         id: 78019
         name: Gemert
         latitude: '51.55583000'
@@ -407804,20 +408420,70 @@ state_city:
     country_id: 156
     cities:
       -
+        id: 149826
+        name: '''s-Graveland'
+        latitude: '52.24420000'
+        longitude: '5.12110000'
+      -
+        id: 149827
+        name: '''t Horntje'
+        latitude: '53.00560000'
+        longitude: '4.78610000'
+      -
+        id: 149828
+        name: '''t Kabel'
+        latitude: '52.25610000'
+        longitude: '4.64970000'
+      -
+        id: 149829
+        name: '''t Nopeind'
+        latitude: '52.41000000'
+        longitude: '4.96360000'
+      -
+        id: 149830
+        name: '''t Veld'
+        latitude: '52.73920000'
+        longitude: '4.85560000'
+      -
         id: 77303
         name: '''t Zand'
         latitude: '52.83667000'
         longitude: '4.75556000'
+      -
+        id: 149831
+        name: Aagtdorp
+        latitude: '52.68890000'
+        longitude: '4.70190000'
       -
         id: 77307
         name: Aalsmeer
         latitude: '52.25917000'
         longitude: '4.75972000'
       -
+        id: 149832
+        name: Aalsmeerderbrug
+        latitude: '52.27580000'
+        longitude: '4.75000000'
+      -
+        id: 149833
+        name: Aartswoud
+        latitude: '52.74440000'
+        longitude: '4.95360000'
+      -
         id: 77313
         name: Abbekerk
         latitude: '52.73167000'
         longitude: '5.01806000'
+      -
+        id: 149834
+        name: Abbenes
+        latitude: '52.23390000'
+        longitude: '4.58940000'
+      -
+        id: 149835
+        name: Akersloot
+        latitude: '52.56030000'
+        longitude: '4.72830000'
       -
         id: 77325
         name: Alkmaar
@@ -407839,55 +408505,185 @@ state_city:
         latitude: '52.30750000'
         longitude: '4.97222000'
       -
+        id: 149836
+        name: Andijk
+        latitude: '52.75000000'
+        longitude: '5.22000000'
+      -
+        id: 149837
+        name: Ankeveen
+        latitude: '52.26530000'
+        longitude: '5.09890000'
+      -
         id: 77347
         name: 'Ankeveense Rade'
         latitude: '52.25891000'
         longitude: '5.10160000'
+      -
+        id: 149838
+        name: Assendelft
+        latitude: '52.46666667'
+        longitude: '4.75000000'
       -
         id: 77361
         name: Avenhorn
         latitude: '52.61750000'
         longitude: '4.95139000'
       -
+        id: 149839
+        name: Badhoevedorp
+        latitude: '52.33810000'
+        longitude: '4.78030000'
+      -
+        id: 149840
+        name: Bakkum
+        latitude: '52.55830000'
+        longitude: '4.65670000'
+      -
         id: 77377
         name: Bangert
         latitude: '52.73582000'
         longitude: '5.18010000'
+      -
+        id: 149841
+        name: Bargen
+        latitude: '53.08416667'
+        longitude: '4.83472222'
+      -
+        id: 149842
+        name: Barsingerhorn
+        latitude: '52.78527778'
+        longitude: '4.84166667'
+      -
+        id: 149843
+        name: Beemster
+        latitude: '52.55000000'
+        longitude: '4.92780000'
+      -
+        id: 149844
+        name: Beets
+        latitude: '52.58920000'
+        longitude: '4.97750000'
+      -
+        id: 149845
+        name: Beinsdorp
+        latitude: '52.28720000'
+        longitude: '4.59440000'
+      -
+        id: 149846
+        name: Belt
+        latitude: '52.90420000'
+        longitude: '4.95390000'
       -
         id: 77401
         name: Bennebroek
         latitude: '52.32083000'
         longitude: '4.59861000'
       -
+        id: 149847
+        name: Benningbroek
+        latitude: '52.70310000'
+        longitude: '5.00970000'
+      -
+        id: 149848
+        name: Bentveld
+        latitude: '52.36580000'
+        longitude: '4.57170000'
+      -
+        id: 149849
+        name: Bergen
+        latitude: '52.67030000'
+        longitude: '4.70540000'
+      -
         id: 77417
         name: Berkhout
         latitude: '52.64083000'
         longitude: '5.00139000'
+      -
+        id: 149850
+        name: Berkmeer
+        latitude: '52.68560000'
+        longitude: '4.89830000'
       -
         id: 77426
         name: Beverwijk
         latitude: '52.48333000'
         longitude: '4.65694000'
       -
+        id: 149851
+        name: Bijlmermeer
+        latitude: '52.31861000'
+        longitude: '4.96528000'
+      -
         id: 77430
         name: Bijvanck
         latitude: '52.28585000'
         longitude: '5.26534000'
+      -
+        id: 149852
+        name: Binnenstad
+        latitude: '52.37200000'
+        longitude: '4.89600000'
       -
         id: 77437
         name: Blaricum
         latitude: '52.27250000'
         longitude: '5.24167000'
       -
+        id: 149853
+        name: 'Blauwe Keet'
+        latitude: '52.89560000'
+        longitude: '4.78190000'
+      -
         id: 77443
         name: Bloemendaal
         latitude: '52.40250000'
         longitude: '4.62222000'
       -
+        id: 78515
+        name: Blokker
+        latitude: '52.66917000'
+        longitude: '5.11806000'
+      -
+        id: 149854
+        name: Bobeldijk
+        latitude: '52.65360000'
+        longitude: '5.00440000'
+      -
+        id: 149855
+        name: Boekel
+        latitude: '52.59000000'
+        longitude: '4.75330000'
+      -
+        id: 149856
+        name: Boesingheliede
+        latitude: '52.35830000'
+        longitude: '4.72830000'
+      -
+        id: 149857
+        name: 'Bos en Lommer'
+        latitude: '52.37865000'
+        longitude: '4.85050700'
+      -
+        id: 149858
+        name: Bovenkarspel
+        latitude: '52.70000000'
+        longitude: '5.25000000'
+      -
         id: 77476
         name: Breezand
         latitude: '52.89000000'
         longitude: '4.80417000'
+      -
+        id: 149859
+        name: Bregtdorp
+        latitude: '52.71666667'
+        longitude: '4.68333333'
+      -
+        id: 149860
+        name: Breukeleveen
+        latitude: '52.17810000'
+        longitude: '5.06920000'
       -
         id: 77482
         name: 'Broek in Waterland'
@@ -407899,25 +408695,95 @@ state_city:
         latitude: '52.67417000'
         longitude: '4.80556000'
       -
+        id: 149861
+        name: Buiksloot
+        latitude: '52.39890000'
+        longitude: '4.92210000'
+      -
+        id: 149862
+        name: Buikslotermeer
+        latitude: '52.40350000'
+        longitude: '4.93740000'
+      -
+        id: 149863
+        name: Buitenkaag
+        latitude: '52.21970000'
+        longitude: '4.56080000'
+      -
+        id: 149864
+        name: Buitenveldert
+        latitude: '52.33000000'
+        longitude: '4.87420000'
+      -
+        id: 149865
+        name: Burgerbrug
+        latitude: '52.74810000'
+        longitude: '4.70220000'
+      -
+        id: 149866
+        name: Burgerveen
+        latitude: '52.24030000'
+        longitude: '4.68220000'
+      -
+        id: 149867
+        name: Burgervlotbrug
+        latitude: '52.75390000'
+        longitude: '4.68190000'
+      -
         id: 77508
         name: Bussum
         latitude: '52.27333000'
         longitude: '5.16111000'
+      -
+        id: 149868
+        name: Butterhuizen
+        latitude: '52.64970000'
+        longitude: '4.81670000'
       -
         id: 77509
         name: Callantsoog
         latitude: '52.84000000'
         longitude: '4.69583000'
       -
+        id: 149869
+        name: Calslagen
+        latitude: '52.23330000'
+        longitude: '4.73080000'
+      -
+        id: 149870
+        name: Camperduin
+        latitude: '52.73333333'
+        longitude: '4.65000000'
+      -
         id: 77514
         name: Castricum
         latitude: '52.54833000'
         longitude: '4.66944000'
       -
+        id: 149871
+        name: Catrijp
+        latitude: '52.71390000'
+        longitude: '4.68170000'
+      -
         id: 77521
         name: Commandeurs
         latitude: '52.50902000'
         longitude: '4.65843000'
+      -
+        id: 149872
+        name: Cruquius
+        latitude: '52.33333333'
+        longitude: '4.63333333'
+      -
+        id: 149873
+        name: 'De Aker'
+        latitude: '52.35140000'
+        longitude: '4.77920000'
+      -
+        id: 149874
+        name: 'De Cocksdorp'
+        latitude: '53.15500000'
+        longitude: '4.86670000'
       -
         id: 77539
         name: 'De Glip'
@@ -407929,10 +408795,30 @@ state_city:
         latitude: '52.62583000'
         longitude: '4.94722000'
       -
+        id: 149875
+        name: 'De Haukes'
+        latitude: '52.88830000'
+        longitude: '4.93610000'
+      -
+        id: 149876
+        name: 'De Hulk'
+        latitude: '52.63610000'
+        longitude: '5.02220000'
+      -
         id: 77549
         name: 'De Koog'
         latitude: '53.09750000'
         longitude: '4.76111000'
+      -
+        id: 149877
+        name: 'De Kooy'
+        latitude: '52.91440000'
+        longitude: '4.78580000'
+      -
+        id: 149878
+        name: 'De Kwakel'
+        latitude: '52.24080000'
+        longitude: '4.79080000'
       -
         id: 77553
         name: 'De Maer'
@@ -407944,10 +408830,45 @@ state_city:
         latitude: '52.70750000'
         longitude: '4.85139000'
       -
+        id: 149879
+        name: 'De Pijp'
+        latitude: '52.35310000'
+        longitude: '4.89610000'
+      -
         id: 77558
         name: 'De Rijp'
         latitude: '52.55667000'
         longitude: '4.84583000'
+      -
+        id: 149880
+        name: 'De Stolpen'
+        latitude: '52.81220000'
+        longitude: '4.72970000'
+      -
+        id: 149881
+        name: 'De Waal'
+        latitude: '53.07190000'
+        longitude: '4.82280000'
+      -
+        id: 149882
+        name: 'De Wallen'
+        latitude: '52.37348000'
+        longitude: '4.89806000'
+      -
+        id: 149883
+        name: 'De Weere'
+        latitude: '52.77444444'
+        longitude: '4.86694444'
+      -
+        id: 149884
+        name: 'De Weere'
+        latitude: '52.72280000'
+        longitude: '4.99860000'
+      -
+        id: 149885
+        name: 'De Woude'
+        latitude: '52.54667000'
+        longitude: '4.77361000'
       -
         id: 77570
         name: 'Den Burg'
@@ -407958,6 +408879,16 @@ state_city:
         name: 'Den Helder'
         latitude: '52.95988000'
         longitude: '4.75933000'
+      -
+        id: 149886
+        name: 'Den Hoorn'
+        latitude: '53.02500000'
+        longitude: '4.75110000'
+      -
+        id: 149887
+        name: 'Den Ilp'
+        latitude: '52.45030000'
+        longitude: '4.90750000'
       -
         id: 77574
         name: 'Den Oever'
@@ -407974,6 +408905,26 @@ state_city:
         latitude: '52.75000000'
         longitude: '4.77500000'
       -
+        id: 149888
+        name: Drechterland
+        latitude: '52.66454000'
+        longitude: '5.16569000'
+      -
+        id: 149889
+        name: Driehuis
+        latitude: '52.44720000'
+        longitude: '4.63670000'
+      -
+        id: 149890
+        name: Driehuizen
+        latitude: '52.57890000'
+        longitude: '4.80890000'
+      -
+        id: 149891
+        name: Driehuizen
+        latitude: '53.04666667'
+        longitude: '4.77611111'
+      -
         id: 77609
         name: Driemond
         latitude: '52.30583000'
@@ -407984,10 +408935,30 @@ state_city:
         latitude: '52.32941000'
         longitude: '4.93964000'
       -
+        id: 149892
+        name: Durgerdam
+        latitude: '52.37770000'
+        longitude: '4.98908000'
+      -
         id: 77624
         name: Edam
         latitude: '52.51215000'
         longitude: '5.04805000'
+      -
+        id: 149893
+        name: Edam-Volendam
+        latitude: '52.50190000'
+        longitude: '5.06140000'
+      -
+        id: 149894
+        name: Eenigenburg
+        latitude: '52.74250000'
+        longitude: '4.72560000'
+      -
+        id: 149895
+        name: 'Egmond aan den Hoef'
+        latitude: '52.62190000'
+        longitude: '4.65310000'
       -
         id: 77637
         name: 'Egmond aan Zee'
@@ -408004,255 +408975,100 @@ state_city:
         latitude: '52.70333000'
         longitude: '5.29167000'
       -
-        id: 77697
-        name: 'Gemeente Aalsmeer'
-        latitude: '52.26406000'
-        longitude: '4.76532000'
+        id: 149896
+        name: Etersheim
+        latitude: '52.58500000'
+        longitude: '5.02220000'
       -
-        id: 77702
-        name: 'Gemeente Alkmaar'
-        latitude: '52.62890000'
-        longitude: '4.74403000'
+        id: 149897
+        name: 'Friese Buurt'
+        latitude: '52.92140000'
+        longitude: '4.76670000'
       -
-        id: 77709
-        name: 'Gemeente Amstelveen'
-        latitude: '52.29840000'
-        longitude: '4.85767000'
-      -
-        id: 77710
-        name: 'Gemeente Amsterdam'
-        latitude: '52.37302000'
-        longitude: '4.89856000'
-      -
-        id: 77721
-        name: 'Gemeente Beemster'
-        latitude: '52.55402000'
-        longitude: '4.91810000'
-      -
-        id: 77725
-        name: 'Gemeente Bergen'
-        latitude: '52.65783000'
-        longitude: '4.67610000'
-      -
-        id: 77730
-        name: 'Gemeente Beverwijk'
-        latitude: '52.48273000'
-        longitude: '4.65468000'
-      -
-        id: 77732
-        name: 'Gemeente Blaricum'
-        latitude: '52.28548000'
-        longitude: '5.26830000'
-      -
-        id: 77733
-        name: 'Gemeente Bloemendaal'
-        latitude: '52.36230000'
-        longitude: '4.58968000'
-      -
-        id: 77749
-        name: 'Gemeente Castricum'
-        latitude: '52.55577000'
-        longitude: '4.68945000'
-      -
-        id: 77762
-        name: 'Gemeente Den Helder'
-        latitude: '52.92366000'
-        longitude: '4.75793000'
-      -
-        id: 77765
-        name: 'Gemeente Diemen'
-        latitude: '52.34163000'
-        longitude: '4.96805000'
-      -
-        id: 77771
-        name: 'Gemeente Drechterland'
-        latitude: '52.66454000'
-        longitude: '5.16569000'
-      -
-        id: 77777
-        name: 'Gemeente Edam-Volendam'
-        latitude: '52.50556000'
-        longitude: '5.05920000'
-      -
-        id: 77784
-        name: 'Gemeente Enkhuizen'
-        latitude: '52.71653000'
-        longitude: '5.27615000'
-      -
-        id: 77803
-        name: 'Gemeente Haarlem'
-        latitude: '52.38074000'
-        longitude: '4.64400000'
-      -
-        id: 77804
-        name: 'Gemeente Haarlemmermeer'
-        latitude: '52.30623000'
-        longitude: '4.68418000'
-      -
-        id: 77811
-        name: 'Gemeente Heemskerk'
-        latitude: '52.50945000'
-        longitude: '4.65386000'
-      -
-        id: 77812
-        name: 'Gemeente Heemstede'
-        latitude: '52.34719000'
-        longitude: '4.61838000'
-      -
-        id: 77815
-        name: 'Gemeente Heerhugowaard'
-        latitude: '52.68210000'
-        longitude: '4.84363000'
-      -
-        id: 77818
-        name: 'Gemeente Heiloo'
-        latitude: '52.60122000'
-        longitude: '4.70945000'
-      -
-        id: 77828
-        name: 'Gemeente Hilversum'
-        latitude: '52.22252000'
-        longitude: '5.16789000'
-      -
-        id: 77830
-        name: 'Gemeente Hollands Kroon'
-        latitude: '52.84882000'
-        longitude: '4.90711000'
-      -
-        id: 77832
-        name: 'Gemeente Hoorn'
-        latitude: '52.64312000'
-        longitude: '5.05779000'
-      -
-        id: 77835
-        name: 'Gemeente Huizen'
-        latitude: '52.29664000'
-        longitude: '5.24132000'
-      -
-        id: 77843
-        name: 'Gemeente Koggenland'
-        latitude: '52.64163000'
-        longitude: '4.94909000'
-      -
-        id: 77847
-        name: 'Gemeente Landsmeer'
-        latitude: '52.43100000'
-        longitude: '4.91570000'
-      -
-        id: 77848
-        name: 'Gemeente Langedijk'
-        latitude: '52.69151000'
-        longitude: '4.78659000'
-      -
-        id: 77850
-        name: 'Gemeente Laren'
-        latitude: '52.24518000'
-        longitude: '5.21701000'
-      -
-        id: 77869
-        name: 'Gemeente Medemblik'
-        latitude: '52.72496000'
-        longitude: '5.12204000'
-      -
-        id: 77901
-        name: 'Gemeente Oostzaan'
-        latitude: '52.43780000'
-        longitude: '4.87604000'
-      -
-        id: 77902
-        name: 'Gemeente Opmeer'
-        latitude: '52.71468000'
-        longitude: '4.95334000'
-      -
-        id: 77905
-        name: 'Gemeente Ouder-Amstel'
-        latitude: '52.30659000'
-        longitude: '4.91432000'
-      -
-        id: 77912
-        name: 'Gemeente Purmerend'
-        latitude: '52.50515000'
-        longitude: '4.95243000'
-      -
-        id: 77929
-        name: 'Gemeente Schagen'
-        latitude: '52.78823000'
+        id: 149898
+        name: Geuzenveld
+        latitude: '52.37790000'
         longitude: '4.79965000'
-      -
-        id: 77945
-        name: 'Gemeente Stede Broec'
-        latitude: '52.69617000'
-        longitude: '5.22389000'
-      -
-        id: 77951
-        name: 'Gemeente Texel'
-        latitude: '53.07883000'
-        longitude: '4.81166000'
-      -
-        id: 77961
-        name: 'Gemeente Uitgeest'
-        latitude: '52.52855000'
-        longitude: '4.71176000'
-      -
-        id: 77962
-        name: 'Gemeente Uithoorn'
-        latitude: '52.23999000'
-        longitude: '4.83072000'
-      -
-        id: 77972
-        name: 'Gemeente Velsen'
-        latitude: '52.45182000'
-        longitude: '4.63211000'
-      -
-        id: 77987
-        name: 'Gemeente Waterland'
-        latitude: '52.43760000'
-        longitude: '5.01371000'
-      -
-        id: 77989
-        name: 'Gemeente Weesp'
-        latitude: '52.30575000'
-        longitude: '5.04152000'
-      -
-        id: 77998
-        name: 'Gemeente Wijdemeren'
-        latitude: '52.22756000'
-        longitude: '5.08445000'
-      -
-        id: 78003
-        name: 'Gemeente Wormerland'
-        latitude: '52.49700000'
-        longitude: '4.83364000'
-      -
-        id: 78005
-        name: 'Gemeente Zaanstad'
-        latitude: '52.45308000'
-        longitude: '4.81253000'
-      -
-        id: 78007
-        name: 'Gemeente Zandvoort'
-        latitude: '52.35769000'
-        longitude: '4.54388000'
       -
         id: 78039
         name: 'Gooise Meren'
         latitude: '52.29735000'
         longitude: '5.13371000'
       -
+        id: 149899
+        name: Gouwe
+        latitude: '52.72940000'
+        longitude: '4.96250000'
+      -
+        id: 149900
+        name: Graft
+        latitude: '52.56080000'
+        longitude: '4.83390000'
+      -
+        id: 149901
+        name: Grootebroek
+        latitude: '52.69890000'
+        longitude: '5.21890000'
+      -
+        id: 149902
+        name: Grootschermer
+        latitude: '52.58080000'
+        longitude: '4.85170000'
+      -
+        id: 149903
+        name: Grosthuizen
+        latitude: '52.61666667'
+        longitude: '4.98333333'
+      -
         id: 78081
         name: Haarlem
         latitude: '52.38084000'
         longitude: '4.63683000'
+      -
+        id: 149904
+        name: Haarlemmerliede
+        latitude: '52.38810000'
+        longitude: '4.68750000'
+      -
+        id: 149905
+        name: Haarlemmermeer
+        latitude: '52.30080000'
+        longitude: '4.66530000'
+      -
+        id: 149906
+        name: Hakkelaarsbrug
+        latitude: '52.31920000'
+        longitude: '5.10220000'
       -
         id: 78085
         name: Halfweg
         latitude: '52.38250000'
         longitude: '4.75417000'
       -
+        id: 149907
+        name: Harderwijk
+        latitude: '52.73833333'
+        longitude: '4.99333333'
+      -
         id: 78094
         name: Harenkarspel
         latitude: '52.73416000'
         longitude: '4.77682000'
+      -
+        id: 149908
+        name: Hargen
+        latitude: '52.72167000'
+        longitude: '4.66250000'
+      -
+        id: 149909
+        name: Haringhuizen
+        latitude: '52.77330000'
+        longitude: '4.82890000'
+      -
+        id: 149910
+        name: Hauwert
+        latitude: '52.70750000'
+        longitude: '5.09890000'
       -
         id: 78110
         name: Heemskerk
@@ -408294,20 +409110,45 @@ state_city:
         latitude: '52.27115000'
         longitude: '5.13729000'
       -
+        id: 149911
+        name: Hinderdam
+        latitude: '52.28280000'
+        longitude: '5.05690000'
+      -
         id: 78161
         name: Hippolytushoef
         latitude: '52.90750000'
         longitude: '4.96250000'
+      -
+        id: 149912
+        name: Hobrede
+        latitude: '52.54500000'
+        longitude: '4.98080000'
       -
         id: 78166
         name: Hofgeest
         latitude: '52.44333000'
         longitude: '4.65833000'
       -
+        id: 149913
+        name: 'Hollands Kroon'
+        latitude: '52.87830000'
+        longitude: '4.81140000'
+      -
+        id: 149914
+        name: Holysloot
+        latitude: '52.41310000'
+        longitude: '5.02530000'
+      -
         id: 78175
         name: Hoofddorp
         latitude: '52.30250000'
         longitude: '4.68889000'
+      -
+        id: 149915
+        name: Hoogkarspel
+        latitude: '52.69470000'
+        longitude: '5.17780000'
       -
         id: 78185
         name: Hoogwoud
@@ -408319,50 +409160,175 @@ state_city:
         latitude: '52.64250000'
         longitude: '5.05972000'
       -
+        id: 149916
+        name: Horstermeer
+        latitude: '52.24970000'
+        longitude: '5.07420000'
+      -
+        id: 149917
+        name: Huigsloot
+        latitude: '52.21667000'
+        longitude: '4.59722000'
+      -
+        id: 149918
+        name: Huisduinen
+        latitude: '52.95330000'
+        longitude: '4.72500000'
+      -
         id: 78192
         name: Huizen
         latitude: '52.29917000'
         longitude: '5.24167000'
+      -
+        id: 149919
+        name: IJburg
+        latitude: '52.35500000'
+        longitude: '4.99778000'
+      -
+        id: 149920
+        name: IJmuiden
+        latitude: '52.45860000'
+        longitude: '4.61940000'
       -
         id: 78203
         name: Ilpendam
         latitude: '52.46333000'
         longitude: '4.95000000'
       -
+        id: 149921
+        name: Jisp
+        latitude: '52.50670000'
+        longitude: '4.84890000'
+      -
+        id: 149922
+        name: Jordaan
+        latitude: '52.37917000'
+        longitude: '4.88028000'
+      -
+        id: 149923
+        name: Julianadorp
+        latitude: '52.89060000'
+        longitude: '4.73890000'
+      -
         id: 78210
         name: Kadoelen
         latitude: '52.41750000'
         longitude: '4.90561000'
+      -
+        id: 149924
+        name: Kalverdijk
+        latitude: '52.73250000'
+        longitude: '4.76806000'
+      -
+        id: 149925
+        name: Kapel
+        latitude: '52.58333333'
+        longitude: '4.69305556'
+      -
+        id: 149926
+        name: Katwoude
+        latitude: '52.46940000'
+        longitude: '5.05060000'
+      -
+        id: 149927
+        name: Kerkbuurt
+        latitude: '52.73996100'
+        longitude: '4.75877500'
       -
         id: 78227
         name: Kerkelanden
         latitude: '52.21755000'
         longitude: '5.13575000'
       -
+        id: 149928
+        name: Koedijk
+        latitude: '52.67500000'
+        longitude: '4.74830000'
+      -
+        id: 149929
+        name: Koggenland
+        latitude: '52.63333333'
+        longitude: '4.95000000'
+      -
+        id: 149930
+        name: Kolhorn
+        latitude: '52.79280000'
+        longitude: '4.88890000'
+      -
+        id: 149931
+        name: 'Koog aan de Zaan'
+        latitude: '52.46666667'
+        longitude: '4.80000000'
+      -
         id: 78251
         name: Kortenhoef
         latitude: '52.23917000'
         longitude: '5.10694000'
+      -
+        id: 149932
+        name: Krabbendam
+        latitude: '52.73220000'
+        longitude: '4.70250000'
+      -
+        id: 149933
+        name: Kreileroord
+        latitude: '52.84220000'
+        longitude: '5.08140000'
+      -
+        id: 149934
+        name: Krommenie
+        latitude: '52.50000000'
+        longitude: '4.76666667'
       -
         id: 78261
         name: Kudelstaart
         latitude: '52.23417000'
         longitude: '4.75139000'
       -
+        id: 149935
+        name: Kwadijk
+        latitude: '52.52750000'
+        longitude: '4.98110000'
+      -
+        id: 149936
+        name: Lambertschaag
+        latitude: '52.74580000'
+        longitude: '5.01670000'
+      -
         id: 78268
         name: Landsmeer
         latitude: '52.43083000'
         longitude: '4.91528000'
+      -
+        id: 149937
+        name: Langedijk
+        latitude: '52.69360000'
+        longitude: '4.79440000'
       -
         id: 78269
         name: Langeheit
         latitude: '52.49200000'
         longitude: '4.75849000'
       -
+        id: 149938
+        name: Langereis
+        latitude: '52.71111111'
+        longitude: '4.90361111'
+      -
         id: 78274
         name: Laren
         latitude: '52.25667000'
         longitude: '5.22778000'
+      -
+        id: 149939
+        name: Leimuiderbrug
+        latitude: '52.23083000'
+        longitude: '4.66806000'
+      -
+        id: 149940
+        name: Lijnden
+        latitude: '52.35220000'
+        longitude: '4.75970000'
       -
         id: 78307
         name: Limmen
@@ -408374,20 +409340,40 @@ state_city:
         latitude: '52.25667000'
         longitude: '4.57222000'
       -
+        id: 149941
+        name: Loosdrecht
+        latitude: '52.20000000'
+        longitude: '5.13333333'
+      -
         id: 78328
         name: Lutjebroek
         latitude: '52.69750000'
         longitude: '5.20417000'
+      -
+        id: 149942
+        name: Lutjewinkel
+        latitude: '52.76890000'
+        longitude: '4.88280000'
       -
         id: 78352
         name: Marken
         latitude: '52.45833000'
         longitude: '5.10278000'
       -
+        id: 149943
+        name: Markenbinnen
+        latitude: '52.53080000'
+        longitude: '4.78060000'
+      -
         id: 78365
         name: Medemblik
         latitude: '52.77167000'
         longitude: '5.10556000'
+      -
+        id: 149944
+        name: Middelie
+        latitude: '52.53220000'
+        longitude: '5.01720000'
       -
         id: 78394
         name: Middenbeemster
@@ -408404,6 +409390,11 @@ state_city:
         latitude: '52.71667000'
         longitude: '5.07500000'
       -
+        id: 149945
+        name: Moerbeek
+        latitude: '52.76310000'
+        longitude: '4.85280000'
+      -
         id: 78407
         name: Monnickendam
         latitude: '52.45833000'
@@ -408419,45 +409410,140 @@ state_city:
         latitude: '52.32583000'
         longitude: '5.12083000'
       -
+        id: 149946
+        name: Muyeveld
+        latitude: '52.18640000'
+        longitude: '5.07170000'
+      -
         id: 78417
         name: Naarden
         latitude: '52.29583000'
         longitude: '5.16250000'
+      -
+        id: 149947
+        name: Neck
+        latitude: '52.50830000'
+        longitude: '4.91250000'
+      -
+        id: 149948
+        name: 'Nederhorst den Berg'
+        latitude: '52.25670000'
+        longitude: '5.04580000'
+      -
+        id: 149949
+        name: 'Nes aan de Amstel'
+        latitude: '52.25940000'
+        longitude: '4.87030000'
+      -
+        id: 149950
+        name: Nibbixwoud
+        latitude: '52.69280000'
+        longitude: '5.05530000'
       -
         id: 78434
         name: Nieuw-Loosdrecht
         latitude: '52.19917000'
         longitude: '5.13889000'
       -
+        id: 149951
+        name: Nieuw-Vennep
+        latitude: '52.26390000'
+        longitude: '4.63750000'
+      -
+        id: 149952
+        name: 'Nieuwe Meer'
+        latitude: '52.32640000'
+        longitude: '4.81530000'
+      -
         id: 78440
-        name: Nieuwe-Niedorp
+        name: 'Nieuwe Niedorp'
         latitude: '52.74000000'
         longitude: '4.89861000'
+      -
+        id: 149953
+        name: Nieuwebrug
+        latitude: '52.37220000'
+        longitude: '4.67360000'
+      -
+        id: 149954
+        name: Nieuwendam
+        latitude: '52.39150000'
+        longitude: '4.93410000'
+      -
+        id: 149955
+        name: Nieuwesluis
+        latitude: '52.83560000'
+        longitude: '4.89080000'
       -
         id: 78462
         name: Noord-Scharwoude
         latitude: '52.69833000'
         longitude: '4.81111000'
       -
+        id: 149956
+        name: Noordbeemster
+        latitude: '52.58250000'
+        longitude: '4.93670000'
+      -
+        id: 149957
+        name: Noordburen
+        latitude: '52.91940000'
+        longitude: '4.96280000'
+      -
+        id: 149958
+        name: Noorddijk
+        latitude: '52.63333333'
+        longitude: '4.91666667'
+      -
+        id: 149959
+        name: Noordeinde
+        latitude: '52.57190000'
+        longitude: '4.83610000'
+      -
         id: 78479
         name: Obdam
         latitude: '52.67583000'
         longitude: '4.90694000'
+      -
+        id: 149960
+        name: Omval
+        latitude: '52.34310000'
+        longitude: '4.91640000'
       -
         id: 78502
         name: Onderdijk
         latitude: '52.74333000'
         longitude: '5.13750000'
       -
+        id: 149961
+        name: Oost-Graftdijk
+        latitude: '52.54640000'
+        longitude: '4.81470000'
+      -
         id: 78511
         name: Oosteinde
         latitude: '52.27917000'
         longitude: '4.79583000'
       -
-        id: 78515
-        name: Oosterblokker
-        latitude: '52.66917000'
-        longitude: '5.11806000'
+        id: 149962
+        name: Oosterdijk
+        latitude: '52.74470000'
+        longitude: '5.26890000'
+      -
+        id: 149963
+        name: Oosterend
+        latitude: '53.08640000'
+        longitude: '4.87610000'
+      -
+        id: 149964
+        name: Oosterland
+        latitude: '52.92920000'
+        longitude: '5.01140000'
+      -
+        id: 149965
+        name: Oosterleek
+        latitude: '52.63830000'
+        longitude: '5.19750000'
       -
         id: 78525
         name: Oosterzij
@@ -408469,6 +409555,21 @@ state_city:
         latitude: '52.57250000'
         longitude: '4.99583000'
       -
+        id: 149966
+        name: Oostknollendam
+        latitude: '52.51720000'
+        longitude: '4.79030000'
+      -
+        id: 149967
+        name: Oostwoud
+        latitude: '52.72440000'
+        longitude: '5.09030000'
+      -
+        id: 149968
+        name: Oostzaan
+        latitude: '52.44060000'
+        longitude: '4.87890000'
+      -
         id: 78538
         name: Opmeer
         latitude: '52.70667000'
@@ -408479,10 +409580,40 @@ state_city:
         latitude: '52.75915000'
         longitude: '5.07534000'
       -
+        id: 149969
+        name: Osdorp
+        latitude: '52.35694000'
+        longitude: '4.80077000'
+      -
+        id: 149970
+        name: Oterleek
+        latitude: '52.63333333'
+        longitude: '4.84166667'
+      -
         id: 78554
         name: Oud-Loosdrecht
         latitude: '52.20667000'
         longitude: '5.08056000'
+      -
+        id: 149971
+        name: 'Oude Meer'
+        latitude: '52.28750000'
+        longitude: '4.78220000'
+      -
+        id: 149972
+        name: 'Oude Niedorp'
+        latitude: '52.71780000'
+        longitude: '4.87190000'
+      -
+        id: 149973
+        name: Oudendijk
+        latitude: '52.60000000'
+        longitude: '4.96666667'
+      -
+        id: 149974
+        name: Ouder-Amstel
+        latitude: '52.29060000'
+        longitude: '4.91170000'
       -
         id: 78563
         name: 'Ouderkerk aan de Amstel'
@@ -408494,15 +409625,40 @@ state_city:
         latitude: '53.03917000'
         longitude: '4.84722000'
       -
+        id: 149975
+        name: Oudesluis
+        latitude: '52.83530000'
+        longitude: '4.80640000'
+      -
         id: 78568
         name: Oudkarspel
         latitude: '52.71583000'
         longitude: '4.80556000'
       -
+        id: 149976
+        name: Oudorp
+        latitude: '52.63310000'
+        longitude: '4.77360000'
+      -
+        id: 149977
+        name: Overleek
+        latitude: '52.45360000'
+        longitude: '4.99580000'
+      -
+        id: 149978
+        name: Overmeer
+        latitude: '52.25420000'
+        longitude: '5.04640000'
+      -
         id: 78574
         name: Overveen
         latitude: '52.39167000'
         longitude: '4.61389000'
+      -
+        id: 149979
+        name: Penningsveer
+        latitude: '52.39280000'
+        longitude: '4.67610000'
       -
         id: 78588
         name: Petten
@@ -408514,6 +409670,41 @@ state_city:
         latitude: '52.50500000'
         longitude: '4.95972000'
       -
+        id: 149980
+        name: Purmerland
+        latitude: '52.47810000'
+        longitude: '4.92170000'
+      -
+        id: 149981
+        name: Ransdorp
+        latitude: '52.39310000'
+        longitude: '4.99420000'
+      -
+        id: 149982
+        name: Rijsenhout
+        latitude: '52.26060000'
+        longitude: '4.71000000'
+      -
+        id: 149983
+        name: Risdam
+        latitude: '52.66139200'
+        longitude: '5.05250900'
+      -
+        id: 149984
+        name: Ruigoord
+        latitude: '52.40920000'
+        longitude: '4.74890000'
+      -
+        id: 149985
+        name: Rustenburg
+        latitude: '52.63470000'
+        longitude: '4.87670000'
+      -
+        id: 149986
+        name: Santpoort
+        latitude: '52.42250000'
+        longitude: '4.62610000'
+      -
         id: 78655
         name: Schagen
         latitude: '52.78750000'
@@ -408524,10 +409715,60 @@ state_city:
         latitude: '52.80250000'
         longitude: '4.75833000'
       -
+        id: 149987
+        name: Schalkwijk
+        latitude: '52.35890000'
+        longitude: '4.65560000'
+      -
+        id: 149988
+        name: Schardam
+        latitude: '52.59690000'
+        longitude: '5.01690000'
+      -
+        id: 149989
+        name: Scharwoude
+        latitude: '52.62250000'
+        longitude: '5.00810000'
+      -
+        id: 149990
+        name: Schellingwoude
+        latitude: '52.38440000'
+        longitude: '4.96610000'
+      -
+        id: 149991
+        name: Schellinkhout
+        latitude: '52.63420000'
+        longitude: '5.12030000'
+      -
         id: 78664
         name: Schermerhorn
         latitude: '52.60083000'
         longitude: '4.89167000'
+      -
+        id: 149992
+        name: Schiphol-Rijk
+        latitude: '52.28000000'
+        longitude: '4.75670000'
+      -
+        id: 149993
+        name: Schoorl
+        latitude: '52.70140000'
+        longitude: '4.69440000'
+      -
+        id: 149994
+        name: Schoorldam
+        latitude: '52.70000000'
+        longitude: '4.71666667'
+      -
+        id: 149995
+        name: Sijbekarspel
+        latitude: '52.70861111'
+        longitude: '4.99055556'
+      -
+        id: 149996
+        name: 'Sint Maartenszee'
+        latitude: '52.79250000'
+        longitude: '4.68970000'
       -
         id: 78702
         name: 'Sint Pancras'
@@ -408539,20 +409780,115 @@ state_city:
         latitude: '52.84250000'
         longitude: '4.97222000'
       -
+        id: 149997
+        name: Sloten
+        latitude: '52.34277778'
+        longitude: '4.79638889'
+      -
+        id: 149998
+        name: Sloterdijk
+        latitude: '52.38722222'
+        longitude: '4.84638889'
+      -
+        id: 149999
+        name: Slotermeer
+        latitude: '52.37832000'
+        longitude: '4.82231000'
+      -
+        id: 150000
+        name: 'Slotervaart (former borough)'
+        latitude: '52.35100000'
+        longitude: '4.83400000'
+      -
+        id: 150001
+        name: Spaarndam-Oost
+        latitude: '52.41388889'
+        longitude: '4.69000000'
+      -
+        id: 150002
+        name: Spaarndam-West
+        latitude: '52.41500000'
+        longitude: '4.67690000'
+      -
+        id: 150003
+        name: Spaarnwoude
+        latitude: '52.40388889'
+        longitude: '4.69416667'
+      -
+        id: 150004
+        name: Spanbroek
+        latitude: '52.69810000'
+        longitude: '4.96080000'
+      -
         id: 78731
         name: Spierdijk
         latitude: '52.65083000'
         longitude: '4.94306000'
+      -
+        id: 150005
+        name: Spijkerboor
+        latitude: '52.53830000'
+        longitude: '4.83330000'
+      -
+        id: 150006
+        name: Starnmeer
+        latitude: '52.54190000'
+        longitude: '4.79330000'
+      -
+        id: 150007
+        name: 'Stede Broec'
+        latitude: '52.70060000'
+        longitude: '5.22530000'
+      -
+        id: 150008
+        name: Stierop
+        latitude: '52.53330000'
+        longitude: '4.77530000'
       -
         id: 78761
         name: Stompetoren
         latitude: '52.61333000'
         longitude: '4.82083000'
       -
+        id: 150009
+        name: Stroe
+        latitude: '52.93333333'
+        longitude: '4.98333333'
+      -
+        id: 150010
+        name: Stroet
+        latitude: '52.75000000'
+        longitude: '4.75000000'
+      -
+        id: 150011
+        name: Terdiek
+        latitude: '52.72690000'
+        longitude: '4.89690000'
+      -
+        id: 150012
+        name: Texel
+        latitude: '53.06666667'
+        longitude: '4.80000000'
+      -
+        id: 150013
+        name: 'Tuindorp Oostzaan'
+        latitude: '52.41135000'
+        longitude: '4.89291100'
+      -
+        id: 150014
+        name: Tuitjenhorn
+        latitude: '52.73333333'
+        longitude: '4.75000000'
+      -
         id: 78801
         name: Twisk
         latitude: '52.74083000'
         longitude: '5.05278000'
+      -
+        id: 150015
+        name: Uitdam
+        latitude: '52.41917000'
+        longitude: '5.07083000'
       -
         id: 78811
         name: Uitgeest
@@ -408564,15 +409900,60 @@ state_city:
         latitude: '52.23750000'
         longitude: '4.82639000'
       -
+        id: 150016
+        name: Ursem
+        latitude: '52.62720000'
+        longitude: '4.89170000'
+      -
+        id: 150017
+        name: Valkkoog
+        latitude: '52.78333333'
+        longitude: '4.76666667'
+      -
+        id: 150018
+        name: 'Van Ewijcksluis'
+        latitude: '52.88330000'
+        longitude: '4.87330000'
+      -
+        id: 150019
+        name: Vatrop
+        latitude: '52.93390000'
+        longitude: '5.00530000'
+      -
+        id: 150020
+        name: Veenhuizen
+        latitude: '52.70250000'
+        longitude: '4.89030000'
+      -
+        id: 150021
+        name: Velsen
+        latitude: '52.46666667'
+        longitude: '4.61666667'
+      -
         id: 78843
         name: Velsen-Zuid
         latitude: '52.46000000'
         longitude: '4.65000000'
       -
+        id: 150022
+        name: Velserbroek
+        latitude: '52.43500000'
+        longitude: '4.65720000'
+      -
+        id: 150023
+        name: Venhuizen
+        latitude: '52.66666667'
+        longitude: '5.21666667'
+      -
         id: 78851
         name: Vijfhuizen
         latitude: '52.35083000'
         longitude: '4.67778000'
+      -
+        id: 150024
+        name: Vinkebrug
+        latitude: '52.38670000'
+        longitude: '4.72030000'
       -
         id: 78866
         name: Vogelenzang
@@ -408589,20 +409970,100 @@ state_city:
         latitude: '52.72667000'
         longitude: '4.83194000'
       -
+        id: 150025
+        name: Wadway
+        latitude: '52.69170000'
+        longitude: '4.97970000'
+      -
+        id: 150026
+        name: Warder
+        latitude: '52.56410000'
+        longitude: '5.03110000'
+      -
+        id: 150027
+        name: Warmenhuizen
+        latitude: '52.72250000'
+        longitude: '4.73970000'
+      -
         id: 78910
         name: Waterakkers
         latitude: '52.50440000'
         longitude: '4.65608000'
+      -
+        id: 150028
+        name: Watergang
+        latitude: '52.43333333'
+        longitude: '4.95000000'
+      -
+        id: 150029
+        name: Watergraafsmeer
+        latitude: '52.34900000'
+        longitude: '4.93800000'
+      -
+        id: 150030
+        name: Wateringskant
+        latitude: '52.76111111'
+        longitude: '4.87361111'
+      -
+        id: 150031
+        name: Waterland
+        latitude: '52.45110000'
+        longitude: '5.02000000'
+      -
+        id: 150032
+        name: Waver
+        latitude: '52.25290000'
+        longitude: '4.90780000'
       -
         id: 78915
         name: Weesp
         latitude: '52.30750000'
         longitude: '5.04167000'
       -
+        id: 150033
+        name: Weidevenne
+        latitude: '52.49716700'
+        longitude: '4.93883300'
+      -
+        id: 150034
+        name: Wervershoof
+        latitude: '52.73470000'
+        longitude: '5.14920000'
+      -
+        id: 150035
+        name: West-Graftdijk
+        latitude: '52.55390000'
+        longitude: '4.79610000'
+      -
+        id: 150036
+        name: West-Knollendam
+        latitude: '52.51780000'
+        longitude: '4.78640000'
+      -
+        id: 150037
+        name: Westbeemster
+        latitude: '52.57440000'
+        longitude: '4.89860000'
+      -
+        id: 150038
+        name: Westerland
+        latitude: '52.89420000'
+        longitude: '4.93080000'
+      -
         id: 78945
         name: Westwoud
         latitude: '52.68500000'
         longitude: '5.13472000'
+      -
+        id: 150039
+        name: Westzaan
+        latitude: '52.46666667'
+        longitude: '4.76666667'
+      -
+        id: 150040
+        name: Weteringbrug
+        latitude: '52.22250000'
+        longitude: '4.64390000'
       -
         id: 78947
         name: Wieringerwaard
@@ -408614,20 +410075,50 @@ state_city:
         latitude: '52.85083000'
         longitude: '5.02639000'
       -
+        id: 150041
+        name: Wijdemeren
+        latitude: '52.23000000'
+        longitude: '5.12000000'
+      -
         id: 78951
         name: Wijdenes
         latitude: '52.63500000'
         longitude: '5.15694000'
+      -
+        id: 150042
+        name: Wijdewormer
+        latitude: '52.50024000'
+        longitude: '4.89244000'
       -
         id: 78953
         name: 'Wijk aan Zee'
         latitude: '52.49360000'
         longitude: '4.59409000'
       -
+        id: 150043
+        name: Wimmenum
+        latitude: '52.63920000'
+        longitude: '4.65580000'
+      -
         id: 78961
         name: Winkel
         latitude: '52.75417000'
         longitude: '4.90278000'
+      -
+        id: 150044
+        name: Wognum
+        latitude: '52.68420000'
+        longitude: '5.02080000'
+      -
+        id: 150045
+        name: Wormerland
+        latitude: '52.50860000'
+        longitude: '4.87140000'
+      -
+        id: 150046
+        name: Wormerveer
+        latitude: '52.48333333'
+        longitude: '4.78333333'
       -
         id: 78993
         name: Zaandam
@@ -408654,10 +410145,25 @@ state_city:
         latitude: '52.68667000'
         longitude: '4.80833000'
       -
+        id: 150047
+        name: Zuidermeer
+        latitude: '52.66560000'
+        longitude: '4.97580000'
+      -
+        id: 150048
+        name: Zwaag
+        latitude: '52.66860000'
+        longitude: '5.07530000'
+      -
         id: 79033
         name: Zwaagdijk-Oost
         latitude: '52.70750000'
         longitude: '5.14028000'
+      -
+        id: 150049
+        name: Zwaagdijk-West
+        latitude: '52.67580000'
+        longitude: '5.05920000'
       -
         id: 79034
         name: Zwaanshoek
@@ -408756,131 +410262,6 @@ state_city:
         name: Frankhuis
         latitude: '52.52500000'
         longitude: '6.06806000'
-      -
-        id: 77703
-        name: 'Gemeente Almelo'
-        latitude: '52.34463000'
-        longitude: '6.65942000'
-      -
-        id: 77736
-        name: 'Gemeente Borne'
-        latitude: '52.31120000'
-        longitude: '6.74404000'
-      -
-        id: 77754
-        name: 'Gemeente Dalfsen'
-        latitude: '52.52461000'
-        longitude: '6.27214000'
-      -
-        id: 77764
-        name: 'Gemeente Deventer'
-        latitude: '52.26927000'
-        longitude: '6.23795000'
-      -
-        id: 77766
-        name: 'Gemeente Dinkelland'
-        latitude: '52.37108000'
-        longitude: '6.89294000'
-      -
-        id: 77785
-        name: 'Gemeente Enschede'
-        latitude: '52.21909000'
-        longitude: '6.88041000'
-      -
-        id: 77801
-        name: 'Gemeente Haaksbergen'
-        latitude: '52.15514000'
-        longitude: '6.75404000'
-      -
-        id: 77806
-        name: 'Gemeente Hardenberg'
-        latitude: '52.59312000'
-        longitude: '6.53476000'
-      -
-        id: 77819
-        name: 'Gemeente Hellendoorn'
-        latitude: '52.39022000'
-        longitude: '6.46434000'
-      -
-        id: 77823
-        name: 'Gemeente Hengelo'
-        latitude: '52.25910000'
-        longitude: '6.77876000'
-      -
-        id: 77829
-        name: 'Gemeente Hof van Twente'
-        latitude: '52.24341000'
-        longitude: '6.59749000'
-      -
-        id: 77839
-        name: 'Gemeente Kampen'
-        latitude: '52.56181000'
-        longitude: '5.91535000'
-      -
-        id: 77864
-        name: 'Gemeente Losser'
-        latitude: '52.29819000'
-        longitude: '7.00106000'
-      -
-        id: 77896
-        name: 'Gemeente Oldenzaal'
-        latitude: '52.30750000'
-        longitude: '6.90750000'
-      -
-        id: 77897
-        name: 'Gemeente Olst-Wijhe'
-        latitude: '52.35734000'
-        longitude: '6.13481000'
-      -
-        id: 77898
-        name: 'Gemeente Ommen'
-        latitude: '52.51659000'
-        longitude: '6.45631000'
-      -
-        id: 77914
-        name: 'Gemeente Raalte'
-        latitude: '52.40299000'
-        longitude: '6.28773000'
-      -
-        id: 77922
-        name: 'Gemeente Rijssen-Holten'
-        latitude: '52.29000000'
-        longitude: '6.42515000'
-      -
-        id: 77944
-        name: 'Gemeente Staphorst'
-        latitude: '52.63241000'
-        longitude: '6.20737000'
-      -
-        id: 77947
-        name: 'Gemeente Steenwijkerland'
-        latitude: '52.75587000'
-        longitude: '6.04028000'
-      -
-        id: 77956
-        name: 'Gemeente Tubbergen'
-        latitude: '52.40451000'
-        longitude: '6.78241000'
-      -
-        id: 77957
-        name: 'Gemeente Twenterand'
-        latitude: '52.44974000'
-        longitude: '6.56122000'
-      -
-        id: 77996
-        name: 'Gemeente Wierden'
-        latitude: '52.34247000'
-        longitude: '6.55795000'
-      -
-        id: 78016
-        name: 'Gemeente Zwartewaterland'
-        latitude: '52.60240000'
-        longitude: '6.07402000'
-      -
-        id: 78018
-        name: 'Gemeente Zwolle'
-        latitude: '52.51264000'
-        longitude: '6.09359000'
       -
         id: 78032
         name: Giethoorn
@@ -409345,241 +410726,6 @@ state_city:
         name: Feijenoord
         latitude: '51.91169000'
         longitude: '4.50645000'
-      -
-        id: 77700
-        name: 'Gemeente Alblasserdam'
-        latitude: '51.85985000'
-        longitude: '4.66321000'
-      -
-        id: 77701
-        name: 'Gemeente Albrandswaard'
-        latitude: '51.85792000'
-        longitude: '4.40833000'
-      -
-        id: 77705
-        name: 'Gemeente Alphen aan den Rijn'
-        latitude: '52.12974000'
-        longitude: '4.68892000'
-      -
-        id: 77718
-        name: 'Gemeente Barendrecht'
-        latitude: '51.84974000'
-        longitude: '4.52540000'
-      -
-        id: 77741
-        name: 'Gemeente Brielle'
-        latitude: '51.88819000'
-        longitude: '4.18481000'
-      -
-        id: 77748
-        name: 'Gemeente Capelle aan den IJssel'
-        latitude: '51.93567000'
-        longitude: '4.57819000'
-      -
-        id: 77759
-        name: 'Gemeente Delft'
-        latitude: '51.99968000'
-        longitude: '4.36405000'
-      -
-        id: 77761
-        name: 'Gemeente Den Haag'
-        latitude: '52.06866000'
-        longitude: '4.28635000'
-      -
-        id: 77770
-        name: 'Gemeente Dordrecht'
-        latitude: '51.79901000'
-        longitude: '4.74159000'
-      -
-        id: 77794
-        name: 'Gemeente Goeree-Overflakkee'
-        latitude: '51.75351000'
-        longitude: '4.11264000'
-      -
-        id: 77797
-        name: 'Gemeente Gorinchem'
-        latitude: '51.83873000'
-        longitude: '4.97713000'
-      -
-        id: 77798
-        name: 'Gemeente Gouda'
-        latitude: '52.01917000'
-        longitude: '4.70790000'
-      -
-        id: 77808
-        name: 'Gemeente Hardinxveld-Giessendam'
-        latitude: '51.82594000'
-        longitude: '4.86428000'
-      -
-        id: 77820
-        name: 'Gemeente Hellevoetsluis'
-        latitude: '51.83333000'
-        longitude: '4.13333000'
-      -
-        id: 77822
-        name: 'Gemeente Hendrik-Ido-Ambacht'
-        latitude: '51.84273000'
-        longitude: '4.63975000'
-      -
-        id: 77826
-        name: 'Gemeente Hillegom'
-        latitude: '52.29616000'
-        longitude: '4.57822000'
-      -
-        id: 77838
-        name: 'Gemeente Kaag en Braassem'
-        latitude: '52.19393000'
-        longitude: '4.65516000'
-      -
-        id: 77841
-        name: 'Gemeente Katwijk'
-        latitude: '52.19029000'
-        longitude: '4.42129000'
-      -
-        id: 77844
-        name: 'Gemeente Krimpen aan den IJssel'
-        latitude: '51.91458000'
-        longitude: '4.58819000'
-      -
-        id: 77849
-        name: 'Gemeente Lansingerland'
-        latitude: '52.00389000'
-        longitude: '4.51088000'
-      -
-        id: 77852
-        name: 'Gemeente Leiden'
-        latitude: '52.15274000'
-        longitude: '4.48360000'
-      -
-        id: 77853
-        name: 'Gemeente Leiderdorp'
-        latitude: '52.15707000'
-        longitude: '4.54318000'
-      -
-        id: 77854
-        name: 'Gemeente Leidschendam-Voorburg'
-        latitude: '52.07833000'
-        longitude: '4.40139000'
-      -
-        id: 77859
-        name: 'Gemeente Lisse'
-        latitude: '52.25601000'
-        longitude: '4.54526000'
-      -
-        id: 77867
-        name: 'Gemeente Maassluis'
-        latitude: '51.92332000'
-        longitude: '4.24722000'
-      -
-        id: 77873
-        name: 'Gemeente Midden-Delfland'
-        latitude: '51.96528000'
-        longitude: '4.30525000'
-      -
-        id: 77883
-        name: 'Gemeente Nieuwkoop'
-        latitude: '52.17198000'
-        longitude: '4.78006000'
-      -
-        id: 77889
-        name: 'Gemeente Noordwijk'
-        latitude: '52.26953000'
-        longitude: '4.46354000'
-      -
-        id: 77892
-        name: 'Gemeente Oegstgeest'
-        latitude: '52.18256000'
-        longitude: '4.46676000'
-      -
-        id: 77908
-        name: 'Gemeente Papendrecht'
-        latitude: '51.83175000'
-        longitude: '4.69125000'
-      -
-        id: 77911
-        name: 'Gemeente Pijnacker-Nootdorp'
-        latitude: '52.02615000'
-        longitude: '4.41944000'
-      -
-        id: 77921
-        name: 'Gemeente Ridderkerk'
-        latitude: '51.86969000'
-        longitude: '4.59785000'
-      -
-        id: 77923
-        name: 'Gemeente Rijswijk'
-        latitude: '52.03490000'
-        longitude: '4.32785000'
-      -
-        id: 77926
-        name: 'Gemeente Rotterdam'
-        latitude: '51.88246000'
-        longitude: '4.28784000'
-      -
-        id: 77931
-        name: 'Gemeente Schiedam'
-        latitude: '51.92650000'
-        longitude: '4.38675000'
-      -
-        id: 77937
-        name: 'Gemeente Sliedrecht'
-        latitude: '51.82999000'
-        longitude: '4.77191000'
-      -
-        id: 77952
-        name: 'Gemeente Teylingen'
-        latitude: '52.21556000'
-        longitude: '4.50648000'
-      -
-        id: 77975
-        name: 'Gemeente Vlaardingen'
-        latitude: '51.91754000'
-        longitude: '4.32570000'
-      -
-        id: 77979
-        name: 'Gemeente Voorschoten'
-        latitude: '52.12533000'
-        longitude: '4.44014000'
-      -
-        id: 77984
-        name: 'Gemeente Waddinxveen'
-        latitude: '52.04247000'
-        longitude: '4.64486000'
-      -
-        id: 77986
-        name: 'Gemeente Wassenaar'
-        latitude: '52.13791000'
-        longitude: '4.37546000'
-      -
-        id: 77993
-        name: 'Gemeente Westland'
-        latitude: '51.99671000'
-        longitude: '4.22729000'
-      -
-        id: 77995
-        name: 'Gemeente Westvoorne'
-        latitude: '51.89308000'
-        longitude: '4.08922000'
-      -
-        id: 78011
-        name: 'Gemeente Zoetermeer'
-        latitude: '52.05954000'
-        longitude: '4.48832000'
-      -
-        id: 78012
-        name: 'Gemeente Zoeterwoude'
-        latitude: '52.11410000'
-        longitude: '4.51142000'
-      -
-        id: 78013
-        name: 'Gemeente Zuidplas'
-        latitude: '52.01574000'
-        longitude: '4.61048000'
-      -
-        id: 78017
-        name: 'Gemeente Zwijndrecht'
-        latitude: '51.82399000'
-        longitude: '4.61258000'
       -
         id: 78029
         name: Giessenburg
@@ -410354,126 +411500,6 @@ state_city:
         latitude: '52.05333000'
         longitude: '5.28056000'
       -
-        id: 77708
-        name: 'Gemeente Amersfoort'
-        latitude: '52.17375000'
-        longitude: '5.38954000'
-      -
-        id: 77717
-        name: 'Gemeente Baarn'
-        latitude: '52.20602000'
-        longitude: '5.27144000'
-      -
-        id: 77745
-        name: 'Gemeente Bunnik'
-        latitude: '52.04228000'
-        longitude: '5.21664000'
-      -
-        id: 77746
-        name: 'Gemeente Bunschoten'
-        latitude: '52.24249000'
-        longitude: '5.35837000'
-      -
-        id: 77756
-        name: 'Gemeente De Bilt'
-        latitude: '52.14137000'
-        longitude: '5.16828000'
-      -
-        id: 77757
-        name: 'Gemeente De Ronde Venen'
-        latitude: '52.21515000'
-        longitude: '4.90123000'
-      -
-        id: 77779
-        name: 'Gemeente Eemnes'
-        latitude: '52.25253000'
-        longitude: '5.28391000'
-      -
-        id: 77834
-        name: 'Gemeente Houten'
-        latitude: '52.02683000'
-        longitude: '5.16941000'
-      -
-        id: 77837
-        name: 'Gemeente IJsselstein'
-        latitude: '52.02912000'
-        longitude: '5.02868000'
-      -
-        id: 77857
-        name: 'Gemeente Leusden'
-        latitude: '52.12418000'
-        longitude: '5.41245000'
-      -
-        id: 77862
-        name: 'Gemeente Lopik'
-        latitude: '51.98991000'
-        longitude: '4.94851000'
-      -
-        id: 77878
-        name: 'Gemeente Montfoort'
-        latitude: '52.04767000'
-        longitude: '4.94844000'
-      -
-        id: 77882
-        name: 'Gemeente Nieuwegein'
-        latitude: '52.02843000'
-        longitude: '5.09539000'
-      -
-        id: 77906
-        name: 'Gemeente Oudewater'
-        latitude: '52.02840000'
-        longitude: '4.86243000'
-      -
-        id: 77917
-        name: 'Gemeente Renswoude'
-        latitude: '52.07294000'
-        longitude: '5.53352000'
-      -
-        id: 77920
-        name: 'Gemeente Rhenen'
-        latitude: '51.96151000'
-        longitude: '5.57058000'
-      -
-        id: 77940
-        name: 'Gemeente Soest'
-        latitude: '52.15636000'
-        longitude: '5.29854000'
-      -
-        id: 77964
-        name: 'Gemeente Utrecht'
-        latitude: '52.09675000'
-        longitude: '5.03708000'
-      -
-        id: 77965
-        name: 'Gemeente Utrechtse Heuvelrug'
-        latitude: '52.03486000'
-        longitude: '5.35738000'
-      -
-        id: 77969
-        name: 'Gemeente Veenendaal'
-        latitude: '52.02459000'
-        longitude: '5.55562000'
-      -
-        id: 77999
-        name: 'Gemeente Wijk bij Duurstede'
-        latitude: '51.97452000'
-        longitude: '5.33661000'
-      -
-        id: 78002
-        name: 'Gemeente Woerden'
-        latitude: '52.10675000'
-        longitude: '4.90066000'
-      -
-        id: 78004
-        name: 'Gemeente Woudenberg'
-        latitude: '52.08055000'
-        longitude: '5.39810000'
-      -
-        id: 78009
-        name: 'Gemeente Zeist'
-        latitude: '52.08847000'
-        longitude: '5.23275000'
-      -
         id: 78058
         name: Groenekan
         latitude: '52.12333000'
@@ -410766,66 +411792,6 @@ state_city:
         name: Domburg
         latitude: '51.56333000'
         longitude: '3.49583000'
-      -
-        id: 77737
-        name: 'Gemeente Borsele'
-        latitude: '51.44191000'
-        longitude: '3.81127000'
-      -
-        id: 77795
-        name: 'Gemeente Goes'
-        latitude: '51.51500000'
-        longitude: '3.83949000'
-      -
-        id: 77836
-        name: 'Gemeente Hulst'
-        latitude: '51.31897000'
-        longitude: '4.08690000'
-      -
-        id: 77840
-        name: 'Gemeente Kapelle'
-        latitude: '51.48223000'
-        longitude: '3.96524000'
-      -
-        id: 77872
-        name: 'Gemeente Middelburg'
-        latitude: '51.49719000'
-        longitude: '3.65459000'
-      -
-        id: 77886
-        name: 'Gemeente Noord-Beveland'
-        latitude: '51.57226000'
-        longitude: '3.78353000'
-      -
-        id: 77915
-        name: 'Gemeente Reimerswaal'
-        latitude: '51.42040000'
-        longitude: '4.13169000'
-      -
-        id: 77938
-        name: 'Gemeente Sluis'
-        latitude: '51.33490000'
-        longitude: '3.51974000'
-      -
-        id: 77949
-        name: 'Gemeente Terneuzen'
-        latitude: '51.28550000'
-        longitude: '3.82817000'
-      -
-        id: 77953
-        name: 'Gemeente Tholen'
-        latitude: '51.58336000'
-        longitude: '4.13373000'
-      -
-        id: 77970
-        name: 'Gemeente Veere'
-        latitude: '51.53902000'
-        longitude: '3.55688000'
-      -
-        id: 77977
-        name: 'Gemeente Vlissingen'
-        latitude: '51.45914000'
-        longitude: '3.62325000'
       -
         id: 78037
         name: Goes
@@ -485629,6 +486595,86 @@ state_city:
         name: Vouzela
         latitude: '40.68944000'
         longitude: '-8.11360000'
+  -
+    id: 5081
+    name: Arecibo
+    state_code: AR
+    latitude: '18.47055556'
+    longitude: '-66.72083333'
+    country_id: 178
+    cities: {  }
+  -
+    id: 5076
+    name: Bayamon
+    state_code: BY
+    latitude: '18.17777778'
+    longitude: '-66.11333333'
+    country_id: 178
+    cities: {  }
+  -
+    id: 5079
+    name: Caguas
+    state_code: CG
+    latitude: '18.23333333'
+    longitude: '-66.03333333'
+    country_id: 178
+    cities: {  }
+  -
+    id: 5077
+    name: Carolina
+    state_code: CL
+    latitude: '18.38888889'
+    longitude: '-65.96666667'
+    country_id: 178
+    cities: {  }
+  -
+    id: 5080
+    name: Guaynabo
+    state_code: GN
+    latitude: '18.36666667'
+    longitude: '-66.10000000'
+    country_id: 178
+    cities: {  }
+  -
+    id: 5083
+    name: Mayagüez
+    state_code: MG
+    latitude: '18.20111111'
+    longitude: '-67.13972222'
+    country_id: 178
+    cities: {  }
+  -
+    id: 5078
+    name: Ponce
+    state_code: PO
+    latitude: '18.00000000'
+    longitude: '-66.61666667'
+    country_id: 178
+    cities: {  }
+  -
+    id: 5075
+    name: 'San Juan'
+    state_code: SJ
+    latitude: '18.45000000'
+    longitude: '-66.06666667'
+    country_id: 178
+    cities: {  }
+  -
+    id: 5082
+    name: 'Toa Baja'
+    state_code: TB
+    latitude: '18.44388900'
+    longitude: '-66.25972200'
+    country_id: 178
+    cities: {  }
+  -
+    id: 5084
+    name: 'Trujillo Alto'
+    state_code: TA
+    latitude: '18.36277800'
+    longitude: '-66.01750000'
+    country_id: 178
+    cities: {  }
   -
     id: 3182
     name: 'Al Daayen'
@@ -776973,6 +778019,130 @@ state_city:
         name: 'Yên Bái'
         latitude: '21.72288000'
         longitude: '104.91130000'
+  -
+    id: 5074
+    name: 'Saint Croix'
+    state_code: SC
+    latitude: '17.72935200'
+    longitude: '-64.73437050'
+    country_id: 242
+    cities:
+      -
+        id: 149573
+        name: Christiansted
+        latitude: '17.74403640'
+        longitude: '-64.71060860'
+      -
+        id: 149574
+        name: 'East End'
+        latitude: '17.75238820'
+        longitude: '-64.67030100'
+      -
+        id: 149575
+        name: Frederiksted
+        latitude: '17.71246910'
+        longitude: '-64.88671920'
+      -
+        id: 149572
+        name: 'Good Hope'
+        latitude: '17.72234420'
+        longitude: '-64.71724940'
+      -
+        id: 149576
+        name: Northcentral
+        latitude: '17.75011450'
+        longitude: '-64.82384910'
+      -
+        id: 149577
+        name: Northwest
+        latitude: '17.73827820'
+        longitude: '-64.89063470'
+      -
+        id: 149578
+        name: 'Sion Farm'
+        latitude: '17.75432760'
+        longitude: '-64.77946110'
+      -
+        id: 149579
+        name: Southcentral
+        latitude: '17.70649170'
+        longitude: '-64.81448650'
+      -
+        id: 149580
+        name: Southwest
+        latitude: '17.69177870'
+        longitude: '-64.93559390'
+  -
+    id: 5073
+    name: 'Saint John'
+    state_code: SJ
+    latitude: '18.33561690'
+    longitude: '-64.80028000'
+    country_id: 242
+    cities:
+      -
+        id: 149568
+        name: Central
+        latitude: '18.33568380'
+        longitude: '-64.79470780'
+      -
+        id: 149569
+        name: 'Coral Bay'
+        latitude: '18.34800890'
+        longitude: '-64.72196820'
+      -
+        id: 149570
+        name: 'Cruz Bay'
+        latitude: '18.31820370'
+        longitude: '-64.80242110'
+      -
+        id: 149571
+        name: 'East End'
+        latitude: '18.34036470'
+        longitude: '-64.68062660'
+  -
+    id: 5072
+    name: 'Saint Thomas'
+    state_code: ST
+    latitude: '18.34284590'
+    longitude: '-65.07701800'
+    country_id: 242
+    cities:
+      -
+        id: 149561
+        name: 'Charlotte Amalie'
+        latitude: '18.34127610'
+        longitude: '-64.94838690'
+      -
+        id: 149562
+        name: 'East End'
+        latitude: '18.32901620'
+        longitude: '-64.87047310'
+      -
+        id: 149563
+        name: Northside
+        latitude: '18.37380810'
+        longitude: '-64.95589090'
+      -
+        id: 149564
+        name: Southside
+        latitude: '18.30529120'
+        longitude: '-64.91724450'
+      -
+        id: 149565
+        name: Tutu
+        latitude: '18.33884270'
+        longitude: '-64.89530720'
+      -
+        id: 149566
+        name: 'Water Island'
+        latitude: '18.32086530'
+        longitude: '-64.96932630'
+      -
+        id: 149567
+        name: 'West End'
+        latitude: '18.37243670'
+        longitude: '-65.06490130'
   -
     id: 1242
     name: '''Adan Governorate'
