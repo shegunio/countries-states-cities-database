@@ -300413,6 +300413,12 @@
                 "longitude": "98.68320000"
             },
             {
+                "id": 150090,
+                "name": "Bengkayang",
+                "latitude": "1.06911000",
+                "longitude": "109.66393000"
+            },
+            {
                 "id": 56217,
                 "name": "Bengkulu",
                 "latitude": "-3.80044000",
@@ -303299,6 +303305,12 @@
                 "longitude": "112.71917000"
             },
             {
+                "id": 150091,
+                "name": "Kapuas Hulu",
+                "latitude": "0.83333000",
+                "longitude": "112.80000000"
+            },
+            {
                 "id": 56698,
                 "name": "Karangampel",
                 "latitude": "-6.46222000",
@@ -303339,6 +303351,12 @@
                 "name": "Kawalu",
                 "latitude": "-7.38170000",
                 "longitude": "108.20820000"
+            },
+            {
+                "id": 150092,
+                "name": "Kayong Utara",
+                "latitude": "-1.06023000",
+                "longitude": "110.10402000"
             },
             {
                 "id": 56705,
@@ -303405,6 +303423,12 @@
                 "name": "Ketanggungan",
                 "latitude": "-6.93830000",
                 "longitude": "108.89100000"
+            },
+            {
+                "id": 150093,
+                "name": "Ketapang",
+                "latitude": "-1.85000000",
+                "longitude": "109.98333333"
             },
             {
                 "id": 56716,
@@ -304055,6 +304079,12 @@
                 "longitude": "114.38759000"
             },
             {
+                "id": 150094,
+                "name": "Kubu Raya",
+                "latitude": "-0.31924000",
+                "longitude": "109.51865000"
+            },
+            {
                 "id": 56824,
                 "name": "Kudus",
                 "latitude": "-6.80480000",
@@ -304131,6 +304161,12 @@
                 "name": "Lamongan",
                 "latitude": "-7.11667000",
                 "longitude": "112.41667000"
+            },
+            {
+                "id": 150095,
+                "name": "Landak",
+                "latitude": "0.42373000",
+                "longitude": "109.75917000"
             },
             {
                 "id": 56837,
@@ -304271,6 +304307,12 @@
                 "longitude": "108.26667000"
             },
             {
+                "id": 150096,
+                "name": "Manismata",
+                "latitude": "-2.46666667",
+                "longitude": "111.03333333"
+            },
+            {
                 "id": 56860,
                 "name": "Manokwari",
                 "latitude": "-0.86291000",
@@ -304323,6 +304365,18 @@
                 "name": "Melati",
                 "latitude": "-7.73333000",
                 "longitude": "110.36667000"
+            },
+            {
+                "id": 150097,
+                "name": "Melawi",
+                "latitude": "-0.33617000",
+                "longitude": "111.69800000"
+            },
+            {
+                "id": 150098,
+                "name": "Mempawah",
+                "latitude": "0.25000000",
+                "longitude": "109.16667000"
             },
             {
                 "id": 56869,
@@ -304691,6 +304745,12 @@
                 "longitude": "109.38263000"
             },
             {
+                "id": 150099,
+                "name": "Pemangkat",
+                "latitude": "1.17680000",
+                "longitude": "108.96240000"
+            },
+            {
                 "id": 56930,
                 "name": "Pematangsiantar",
                 "latitude": "2.95950000",
@@ -304731,6 +304791,12 @@
                 "name": "Ponorogo",
                 "latitude": "-7.86850000",
                 "longitude": "111.46200000"
+            },
+            {
+                "id": 150100,
+                "name": "Pontianak",
+                "latitude": "-0.02055556",
+                "longitude": "109.34138889"
             },
             {
                 "id": 56937,
@@ -304871,6 +304937,12 @@
                 "longitude": "117.14583000"
             },
             {
+                "id": 150101,
+                "name": "Sambas",
+                "latitude": "1.43333000",
+                "longitude": "109.35000000"
+            },
+            {
                 "id": 56960,
                 "name": "Sampang",
                 "latitude": "-7.18720000",
@@ -304883,10 +304955,22 @@
                 "longitude": "112.94960000"
             },
             {
+                "id": 150102,
+                "name": "Sanggau",
+                "latitude": "0.11944444",
+                "longitude": "110.58888889"
+            },
+            {
                 "id": 56962,
                 "name": "Sawangan",
                 "latitude": "-6.40278000",
                 "longitude": "106.77444000"
+            },
+            {
+                "id": 150103,
+                "name": "Sekadau",
+                "latitude": "0.03485000",
+                "longitude": "110.95066000"
             },
             {
                 "id": 56963,
@@ -305003,6 +305087,12 @@
                 "longitude": "115.08818000"
             },
             {
+                "id": 150104,
+                "name": "Singkawang",
+                "latitude": "0.90000000",
+                "longitude": "108.98333333"
+            },
+            {
                 "id": 56982,
                 "name": "Singkil",
                 "latitude": "2.28740000",
@@ -305025,6 +305115,12 @@
                 "name": "Sinjai",
                 "latitude": "-5.12410000",
                 "longitude": "120.25300000"
+            },
+            {
+                "id": 150105,
+                "name": "Sintang",
+                "latitude": "0.06805556",
+                "longitude": "111.49805556"
             },
             {
                 "id": 56986,

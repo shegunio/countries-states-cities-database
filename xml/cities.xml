@@ -644580,6 +644580,214 @@
     <wikiDataId>Q24825906</wikiDataId>
   </city>
   <city>
+    <id>150090</id>
+    <name>Bengkayang</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>1.06911000</latitude>
+    <longitude>109.66393000</longitude>
+    <wikiDataId>Q14156</wikiDataId>
+  </city>
+  <city>
+    <id>150091</id>
+    <name>Kapuas Hulu</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>0.83333000</latitude>
+    <longitude>112.80000000</longitude>
+    <wikiDataId>Q14157</wikiDataId>
+  </city>
+  <city>
+    <id>150092</id>
+    <name>Kayong Utara</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>-1.06023000</latitude>
+    <longitude>110.10402000</longitude>
+    <wikiDataId>Q14158</wikiDataId>
+  </city>
+  <city>
+    <id>150093</id>
+    <name>Ketapang</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>-1.85000000</latitude>
+    <longitude>109.98333333</longitude>
+    <wikiDataId>Q2625521</wikiDataId>
+  </city>
+  <city>
+    <id>150094</id>
+    <name>Kubu Raya</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>-0.31924000</latitude>
+    <longitude>109.51865000</longitude>
+    <wikiDataId>Q14160</wikiDataId>
+  </city>
+  <city>
+    <id>150095</id>
+    <name>Landak</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>0.42373000</latitude>
+    <longitude>109.75917000</longitude>
+    <wikiDataId>Q14161</wikiDataId>
+  </city>
+  <city>
+    <id>150096</id>
+    <name>Manismata</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>-2.46666667</latitude>
+    <longitude>111.03333333</longitude>
+    <wikiDataId>Q24879628</wikiDataId>
+  </city>
+  <city>
+    <id>150097</id>
+    <name>Melawi</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>-0.33617000</latitude>
+    <longitude>111.69800000</longitude>
+    <wikiDataId>Q14162</wikiDataId>
+  </city>
+  <city>
+    <id>150098</id>
+    <name>Mempawah</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>0.25000000</latitude>
+    <longitude>109.16667000</longitude>
+    <wikiDataId>Q14163</wikiDataId>
+  </city>
+  <city>
+    <id>150099</id>
+    <name>Pemangkat</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>1.17680000</latitude>
+    <longitude>108.96240000</longitude>
+    <wikiDataId>Q7161847</wikiDataId>
+  </city>
+  <city>
+    <id>150100</id>
+    <name>Pontianak</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>-0.02055556</latitude>
+    <longitude>109.34138889</longitude>
+    <wikiDataId>Q14168</wikiDataId>
+  </city>
+  <city>
+    <id>150101</id>
+    <name>Sambas</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>1.43333000</latitude>
+    <longitude>109.35000000</longitude>
+    <wikiDataId>Q14164</wikiDataId>
+  </city>
+  <city>
+    <id>150102</id>
+    <name>Sanggau</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>0.11944444</latitude>
+    <longitude>110.58888889</longitude>
+    <wikiDataId>Q14165</wikiDataId>
+  </city>
+  <city>
+    <id>150103</id>
+    <name>Sekadau</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>0.03485000</latitude>
+    <longitude>110.95066000</longitude>
+    <wikiDataId>Q14166</wikiDataId>
+  </city>
+  <city>
+    <id>150104</id>
+    <name>Singkawang</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>0.90000000</latitude>
+    <longitude>108.98333333</longitude>
+    <wikiDataId>Q14169</wikiDataId>
+  </city>
+  <city>
+    <id>150105</id>
+    <name>Sintang</name>
+    <state_id>1806</state_id>
+    <state_code>KB</state_code>
+    <state_name>Kalimantan Barat</state_name>
+    <country_id>102</country_id>
+    <country_code>ID</country_code>
+    <country_name>Indonesia</country_name>
+    <latitude>0.06805556</latitude>
+    <longitude>111.49805556</longitude>
+    <wikiDataId>Q14167</wikiDataId>
+  </city>
+  <city>
     <id>56181</id>
     <name>Amuntai</name>
     <state_id>1819</state_id>

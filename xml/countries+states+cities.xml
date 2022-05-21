@@ -313751,7 +313751,7 @@
       <state_code>AC</state_code>
       <latitude>4.69513500</latitude>
       <longitude>96.74939930</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56193</id>
         <name>Banda Aceh</name>
@@ -313951,7 +313951,7 @@
       <state_code>BA</state_code>
       <latitude>-8.34053890</latitude>
       <longitude>115.09195090</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56179</id>
         <name>Amlapura</name>
@@ -314121,7 +314121,7 @@
       <state_code>BT</state_code>
       <latitude>-6.40581720</latitude>
       <longitude>106.06401790</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56257</id>
         <name>Curug</name>
@@ -314219,7 +314219,7 @@
       <state_code>BE</state_code>
       <latitude>-3.79284510</latitude>
       <longitude>102.26076410</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56217</id>
         <name>Bengkulu</name>
@@ -314299,7 +314299,7 @@
       <state_code>YO</state_code>
       <latitude>-7.87538490</latitude>
       <longitude>110.42620880</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56192</id>
         <name>Bambanglipuro</name>
@@ -314415,7 +314415,7 @@
       <state_code>JK</state_code>
       <latitude>-6.20876340</latitude>
       <longitude>106.84559900</longitude>
-      <type></type>
+      <type>capital district</type>
       <cities>
         <id>56293</id>
         <name>Jakarta</name>
@@ -314459,7 +314459,7 @@
       <state_code>GO</state_code>
       <latitude>0.54354420</latitude>
       <longitude>123.05676930</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56285</id>
         <name>Gorontalo</name>
@@ -314509,7 +314509,7 @@
       <state_code>JA</state_code>
       <latitude>-1.61012290</latitude>
       <longitude>103.61312030</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56214</id>
         <name>Bejubang Dua</name>
@@ -314619,7 +314619,7 @@
       <state_code>JB</state_code>
       <latitude>-7.09091100</latitude>
       <longitude>107.66888700</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56182</id>
         <name>Arjawinangun</name>
@@ -315161,7 +315161,7 @@
       <state_code>JT</state_code>
       <latitude>-7.15097500</latitude>
       <longitude>110.14025940</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56174</id>
         <name>Adiwerna</name>
@@ -315847,7 +315847,7 @@
       <state_code>JI</state_code>
       <latitude>-7.53606390</latitude>
       <longitude>112.23840170</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56185</id>
         <name>Babat</name>
@@ -316512,11 +316512,106 @@
     <states>
       <id>1806</id>
       <name>Kalimantan Barat</name>
-      <state_code>KA</state_code>
-      <latitude>0.96188340</latitude>
-      <longitude>114.55484950</longitude>
-      <type></type>
-      <cities/>
+      <state_code>KB</state_code>
+      <latitude>0.47734750</latitude>
+      <longitude>106.61314050</longitude>
+      <type>province</type>
+      <cities>
+        <id>150090</id>
+        <name>Bengkayang</name>
+        <latitude>1.06911000</latitude>
+        <longitude>109.66393000</longitude>
+      </cities>
+      <cities>
+        <id>150091</id>
+        <name>Kapuas Hulu</name>
+        <latitude>0.83333000</latitude>
+        <longitude>112.80000000</longitude>
+      </cities>
+      <cities>
+        <id>150092</id>
+        <name>Kayong Utara</name>
+        <latitude>-1.06023000</latitude>
+        <longitude>110.10402000</longitude>
+      </cities>
+      <cities>
+        <id>150093</id>
+        <name>Ketapang</name>
+        <latitude>-1.85000000</latitude>
+        <longitude>109.98333333</longitude>
+      </cities>
+      <cities>
+        <id>150094</id>
+        <name>Kubu Raya</name>
+        <latitude>-0.31924000</latitude>
+        <longitude>109.51865000</longitude>
+      </cities>
+      <cities>
+        <id>150095</id>
+        <name>Landak</name>
+        <latitude>0.42373000</latitude>
+        <longitude>109.75917000</longitude>
+      </cities>
+      <cities>
+        <id>150096</id>
+        <name>Manismata</name>
+        <latitude>-2.46666667</latitude>
+        <longitude>111.03333333</longitude>
+      </cities>
+      <cities>
+        <id>150097</id>
+        <name>Melawi</name>
+        <latitude>-0.33617000</latitude>
+        <longitude>111.69800000</longitude>
+      </cities>
+      <cities>
+        <id>150098</id>
+        <name>Mempawah</name>
+        <latitude>0.25000000</latitude>
+        <longitude>109.16667000</longitude>
+      </cities>
+      <cities>
+        <id>150099</id>
+        <name>Pemangkat</name>
+        <latitude>1.17680000</latitude>
+        <longitude>108.96240000</longitude>
+      </cities>
+      <cities>
+        <id>150100</id>
+        <name>Pontianak</name>
+        <latitude>-0.02055556</latitude>
+        <longitude>109.34138889</longitude>
+      </cities>
+      <cities>
+        <id>150101</id>
+        <name>Sambas</name>
+        <latitude>1.43333000</latitude>
+        <longitude>109.35000000</longitude>
+      </cities>
+      <cities>
+        <id>150102</id>
+        <name>Sanggau</name>
+        <latitude>0.11944444</latitude>
+        <longitude>110.58888889</longitude>
+      </cities>
+      <cities>
+        <id>150103</id>
+        <name>Sekadau</name>
+        <latitude>0.03485000</latitude>
+        <longitude>110.95066000</longitude>
+      </cities>
+      <cities>
+        <id>150104</id>
+        <name>Singkawang</name>
+        <latitude>0.90000000</latitude>
+        <longitude>108.98333333</longitude>
+      </cities>
+      <cities>
+        <id>150105</id>
+        <name>Sintang</name>
+        <latitude>0.06805556</latitude>
+        <longitude>111.49805556</longitude>
+      </cities>
     </states>
     <states>
       <id>1819</id>
@@ -316524,7 +316619,7 @@
       <state_code>KS</state_code>
       <latitude>-3.09264150</latitude>
       <longitude>115.28375850</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56181</id>
         <name>Amuntai</name>
@@ -316634,7 +316729,7 @@
       <state_code>KT</state_code>
       <latitude>-1.68148780</latitude>
       <longitude>113.38235450</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56342</id>
         <name>Kabupaten Barito Selatan</name>
@@ -316750,7 +316845,7 @@
       <state_code>KI</state_code>
       <latitude>0.53865860</latitude>
       <longitude>116.41938900</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56190</id>
         <name>Balikpapan</name>
@@ -316848,7 +316943,7 @@
       <state_code>KU</state_code>
       <latitude>3.07309290</latitude>
       <longitude>116.04138890</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56381</id>
         <name>Kabupaten Bulungan</name>
@@ -316892,7 +316987,7 @@
       <state_code>BB</state_code>
       <latitude>-2.74105130</latitude>
       <longitude>106.44058720</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56329</id>
         <name>Kabupaten Bangka</name>
@@ -316972,7 +317067,7 @@
       <state_code>KR</state_code>
       <latitude>3.94565140</latitude>
       <longitude>108.14286690</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56361</id>
         <name>Kabupaten Bintan</name>
@@ -317034,7 +317129,7 @@
       <state_code>LA</state_code>
       <latitude>-4.55858490</latitude>
       <longitude>105.40680790</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56195</id>
         <name>Bandar Lampung</name>
@@ -317150,7 +317245,7 @@
       <state_code>MA</state_code>
       <latitude>-3.23846160</latitude>
       <longitude>130.14527340</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56175</id>
         <name>Amahai</name>
@@ -317242,7 +317337,7 @@
       <state_code>MU</state_code>
       <latitude>1.57099930</latitude>
       <longitude>127.80876930</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56271</id>
         <name>East Halmahera Regency</name>
@@ -317328,7 +317423,7 @@
       <state_code>NB</state_code>
       <latitude>-8.65293340</latitude>
       <longitude>117.36164760</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56221</id>
         <name>Bima</name>
@@ -317462,7 +317557,7 @@
       <state_code>NT</state_code>
       <latitude>-8.65738190</latitude>
       <longitude>121.07937050</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56184</id>
         <name>Atambua</name>
@@ -317668,7 +317763,7 @@
       <state_code>PA</state_code>
       <latitude>-5.01222020</latitude>
       <longitude>141.34701590</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56173</id>
         <name>Abepura</name>
@@ -317874,7 +317969,7 @@
       <state_code>PB</state_code>
       <latitude>-1.33611540</latitude>
       <longitude>133.17471620</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56405</id>
         <name>Kabupaten Fakfak</name>
@@ -317966,7 +318061,7 @@
       <state_code>RI</state_code>
       <latitude>0.29334690</latitude>
       <longitude>101.70682940</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56188</id>
         <name>Balaipungut</name>
@@ -318070,7 +318165,7 @@
       <state_code>SR</state_code>
       <latitude>-2.84413710</latitude>
       <longitude>119.23207840</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56509</id>
         <name>Kabupaten Majene</name>
@@ -318132,7 +318227,7 @@
       <state_code>SN</state_code>
       <latitude>-3.66879940</latitude>
       <longitude>119.97405340</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56273</id>
         <name>Galesong</name>
@@ -318338,7 +318433,7 @@
       <state_code>ST</state_code>
       <latitude>-1.43002540</latitude>
       <longitude>121.44561790</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56326</id>
         <name>Kabupaten Banggai</name>
@@ -318442,7 +318537,7 @@
       <state_code>SG</state_code>
       <latitude>-4.14491000</latitude>
       <longitude>122.17460500</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56372</id>
         <name>Kabupaten Bombana</name>
@@ -318564,7 +318659,7 @@
       <state_code>SA</state_code>
       <latitude>0.62469320</latitude>
       <longitude>123.97500180</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56368</id>
         <name>Kabupaten Bolaang Mongondow</name>
@@ -318686,7 +318781,7 @@
       <state_code>SB</state_code>
       <latitude>-0.73993970</latitude>
       <longitude>100.80000510</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56234</id>
         <name>Bukittinggi</name>
@@ -318844,7 +318939,7 @@
       <state_code>SS</state_code>
       <latitude>-3.31943740</latitude>
       <longitude>103.91439900</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56212</id>
         <name>Baturaja</name>
@@ -318990,7 +319085,7 @@
       <state_code>SU</state_code>
       <latitude>2.11535470</latitude>
       <longitude>99.54509740</longitude>
-      <type></type>
+      <type>province</type>
       <cities>
         <id>56177</id>
         <name>Ambarita</name>

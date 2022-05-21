@@ -300053,6 +300053,12 @@
       <longitude>98.68320000</longitude>
     </cities>
     <cities>
+      <id>150090</id>
+      <name>Bengkayang</name>
+      <latitude>1.06911000</latitude>
+      <longitude>109.66393000</longitude>
+    </cities>
+    <cities>
       <id>56217</id>
       <name>Bengkulu</name>
       <latitude>-3.80044000</latitude>
@@ -302939,6 +302945,12 @@
       <longitude>112.71917000</longitude>
     </cities>
     <cities>
+      <id>150091</id>
+      <name>Kapuas Hulu</name>
+      <latitude>0.83333000</latitude>
+      <longitude>112.80000000</longitude>
+    </cities>
+    <cities>
       <id>56698</id>
       <name>Karangampel</name>
       <latitude>-6.46222000</latitude>
@@ -302979,6 +302991,12 @@
       <name>Kawalu</name>
       <latitude>-7.38170000</latitude>
       <longitude>108.20820000</longitude>
+    </cities>
+    <cities>
+      <id>150092</id>
+      <name>Kayong Utara</name>
+      <latitude>-1.06023000</latitude>
+      <longitude>110.10402000</longitude>
     </cities>
     <cities>
       <id>56705</id>
@@ -303045,6 +303063,12 @@
       <name>Ketanggungan</name>
       <latitude>-6.93830000</latitude>
       <longitude>108.89100000</longitude>
+    </cities>
+    <cities>
+      <id>150093</id>
+      <name>Ketapang</name>
+      <latitude>-1.85000000</latitude>
+      <longitude>109.98333333</longitude>
     </cities>
     <cities>
       <id>56716</id>
@@ -303695,6 +303719,12 @@
       <longitude>114.38759000</longitude>
     </cities>
     <cities>
+      <id>150094</id>
+      <name>Kubu Raya</name>
+      <latitude>-0.31924000</latitude>
+      <longitude>109.51865000</longitude>
+    </cities>
+    <cities>
       <id>56824</id>
       <name>Kudus</name>
       <latitude>-6.80480000</latitude>
@@ -303771,6 +303801,12 @@
       <name>Lamongan</name>
       <latitude>-7.11667000</latitude>
       <longitude>112.41667000</longitude>
+    </cities>
+    <cities>
+      <id>150095</id>
+      <name>Landak</name>
+      <latitude>0.42373000</latitude>
+      <longitude>109.75917000</longitude>
     </cities>
     <cities>
       <id>56837</id>
@@ -303911,6 +303947,12 @@
       <longitude>108.26667000</longitude>
     </cities>
     <cities>
+      <id>150096</id>
+      <name>Manismata</name>
+      <latitude>-2.46666667</latitude>
+      <longitude>111.03333333</longitude>
+    </cities>
+    <cities>
       <id>56860</id>
       <name>Manokwari</name>
       <latitude>-0.86291000</latitude>
@@ -303963,6 +304005,18 @@
       <name>Melati</name>
       <latitude>-7.73333000</latitude>
       <longitude>110.36667000</longitude>
+    </cities>
+    <cities>
+      <id>150097</id>
+      <name>Melawi</name>
+      <latitude>-0.33617000</latitude>
+      <longitude>111.69800000</longitude>
+    </cities>
+    <cities>
+      <id>150098</id>
+      <name>Mempawah</name>
+      <latitude>0.25000000</latitude>
+      <longitude>109.16667000</longitude>
     </cities>
     <cities>
       <id>56869</id>
@@ -304331,6 +304385,12 @@
       <longitude>109.38263000</longitude>
     </cities>
     <cities>
+      <id>150099</id>
+      <name>Pemangkat</name>
+      <latitude>1.17680000</latitude>
+      <longitude>108.96240000</longitude>
+    </cities>
+    <cities>
       <id>56930</id>
       <name>Pematangsiantar</name>
       <latitude>2.95950000</latitude>
@@ -304371,6 +304431,12 @@
       <name>Ponorogo</name>
       <latitude>-7.86850000</latitude>
       <longitude>111.46200000</longitude>
+    </cities>
+    <cities>
+      <id>150100</id>
+      <name>Pontianak</name>
+      <latitude>-0.02055556</latitude>
+      <longitude>109.34138889</longitude>
     </cities>
     <cities>
       <id>56937</id>
@@ -304511,6 +304577,12 @@
       <longitude>117.14583000</longitude>
     </cities>
     <cities>
+      <id>150101</id>
+      <name>Sambas</name>
+      <latitude>1.43333000</latitude>
+      <longitude>109.35000000</longitude>
+    </cities>
+    <cities>
       <id>56960</id>
       <name>Sampang</name>
       <latitude>-7.18720000</latitude>
@@ -304523,10 +304595,22 @@
       <longitude>112.94960000</longitude>
     </cities>
     <cities>
+      <id>150102</id>
+      <name>Sanggau</name>
+      <latitude>0.11944444</latitude>
+      <longitude>110.58888889</longitude>
+    </cities>
+    <cities>
       <id>56962</id>
       <name>Sawangan</name>
       <latitude>-6.40278000</latitude>
       <longitude>106.77444000</longitude>
+    </cities>
+    <cities>
+      <id>150103</id>
+      <name>Sekadau</name>
+      <latitude>0.03485000</latitude>
+      <longitude>110.95066000</longitude>
     </cities>
     <cities>
       <id>56963</id>
@@ -304643,6 +304727,12 @@
       <longitude>115.08818000</longitude>
     </cities>
     <cities>
+      <id>150104</id>
+      <name>Singkawang</name>
+      <latitude>0.90000000</latitude>
+      <longitude>108.98333333</longitude>
+    </cities>
+    <cities>
       <id>56982</id>
       <name>Singkil</name>
       <latitude>2.28740000</latitude>
@@ -304665,6 +304755,12 @@
       <name>Sinjai</name>
       <latitude>-5.12410000</latitude>
       <longitude>120.25300000</longitude>
+    </cities>
+    <cities>
+      <id>150105</id>
+      <name>Sintang</name>
+      <latitude>0.06805556</latitude>
+      <longitude>111.49805556</longitude>
     </cities>
     <cities>
       <id>56986</id>
