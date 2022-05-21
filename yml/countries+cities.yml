@@ -37,7 +37,7 @@ country_city:
       tr: Afganistan
     latitude: '33.00000000'
     longitude: '65.00000000'
-    emoji: '??'
+    emoji: 🇦🇫
     emojiU: 'U+1F1E6 U+1F1EB'
     cities:
       -
@@ -538,7 +538,7 @@ country_city:
       tr: 'Åland Adalari'
     latitude: '60.11666700'
     longitude: '19.90000000'
-    emoji: '??'
+    emoji: 🇦🇽
     emojiU: 'U+1F1E6 U+1F1FD'
     cities: {  }
   -
@@ -579,7 +579,7 @@ country_city:
       tr: Arnavutluk
     latitude: '41.00000000'
     longitude: '20.00000000'
-    emoji: '??'
+    emoji: 🇦🇱
     emojiU: 'U+1F1E6 U+1F1F1'
     cities:
       -
@@ -1270,7 +1270,7 @@ country_city:
       tr: Cezayir
     latitude: '28.00000000'
     longitude: '3.00000000'
-    emoji: '??'
+    emoji: 🇩🇿
     emojiU: 'U+1F1E9 U+1F1FF'
     cities:
       -
@@ -2776,7 +2776,7 @@ country_city:
       tr: 'Amerikan Samoasi'
     latitude: '-14.33333333'
     longitude: '-170.00000000'
-    emoji: '??'
+    emoji: 🇦🇸
     emojiU: 'U+1F1E6 U+1F1F8'
     cities: {  }
   -
@@ -2817,7 +2817,7 @@ country_city:
       tr: Andorra
     latitude: '42.50000000'
     longitude: '1.50000000'
-    emoji: '??'
+    emoji: 🇦🇩
     emojiU: 'U+1F1E6 U+1F1E9'
     cities:
       -
@@ -2908,7 +2908,7 @@ country_city:
       tr: Angola
     latitude: '-12.50000000'
     longitude: '18.50000000'
-    emoji: '??'
+    emoji: 🇦🇴
     emojiU: 'U+1F1E6 U+1F1F4'
     cities:
       -
@@ -3189,7 +3189,7 @@ country_city:
       tr: Anguilla
     latitude: '18.25000000'
     longitude: '-63.16666666'
-    emoji: '??'
+    emoji: 🇦🇮
     emojiU: 'U+1F1E6 U+1F1EE'
     cities: {  }
   -
@@ -3284,7 +3284,7 @@ country_city:
       tr: Antartika
     latitude: '-74.65000000'
     longitude: '4.48000000'
-    emoji: '??'
+    emoji: 🇦🇶
     emojiU: 'U+1F1E6 U+1F1F6'
     cities: {  }
   -
@@ -3325,7 +3325,7 @@ country_city:
       tr: 'Antigua Ve Barbuda'
     latitude: '17.05000000'
     longitude: '-61.80000000'
-    emoji: '??'
+    emoji: 🇦🇬
     emojiU: 'U+1F1E6 U+1F1EC'
     cities:
       -
@@ -3477,7 +3477,7 @@ country_city:
       tr: Arjantin
     latitude: '-34.00000000'
     longitude: '-64.00000000'
-    emoji: '??'
+    emoji: 🇦🇷
     emojiU: 'U+1F1E6 U+1F1F7'
     cities:
       -
@@ -8333,7 +8333,7 @@ country_city:
       tr: Ermenistan
     latitude: '40.00000000'
     longitude: '45.00000000'
-    emoji: '??'
+    emoji: 🇦🇲
     emojiU: 'U+1F1E6 U+1F1F2'
     cities:
       -
@@ -9914,7 +9914,7 @@ country_city:
       tr: Aruba
     latitude: '12.50000000'
     longitude: '-69.96666666'
-    emoji: '??'
+    emoji: 🇦🇼
     emojiU: 'U+1F1E6 U+1F1FC'
     cities: {  }
   -
@@ -10027,7 +10027,7 @@ country_city:
       tr: Avustralya
     latitude: '-27.00000000'
     longitude: '133.00000000'
-    emoji: '??'
+    emoji: 🇦🇺
     emojiU: 'U+1F1E6 U+1F1FA'
     cities:
       -
@@ -30828,7 +30828,7 @@ country_city:
       tr: Avusturya
     latitude: '47.33333333'
     longitude: '13.33333333'
-    emoji: '??'
+    emoji: 🇦🇹
     emojiU: 'U+1F1E6 U+1F1F9'
     cities:
       -
@@ -42674,7 +42674,7 @@ country_city:
       tr: Azerbaycan
     latitude: '40.50000000'
     longitude: '47.50000000'
-    emoji: '??'
+    emoji: 🇦🇿
     emojiU: 'U+1F1E6 U+1F1FF'
     cities:
       -
@@ -43605,7 +43605,7 @@ country_city:
       tr: Bahreyn
     latitude: '26.00000000'
     longitude: '50.55000000'
-    emoji: '??'
+    emoji: 🇧🇭
     emojiU: 'U+1F1E7 U+1F1ED'
     cities:
       -
@@ -43691,7 +43691,7 @@ country_city:
       tr: Bangladeş
     latitude: '24.00000000'
     longitude: '90.00000000'
-    emoji: '??'
+    emoji: 🇧🇩
     emojiU: 'U+1F1E7 U+1F1E9'
     cities:
       -
@@ -44437,7 +44437,7 @@ country_city:
       tr: Barbados
     latitude: '13.16666666'
     longitude: '-59.53333333'
-    emoji: '??'
+    emoji: 🇧🇧
     emojiU: 'U+1F1E7 U+1F1E7'
     cities:
       -
@@ -44513,7 +44513,7 @@ country_city:
       tr: Belarus
     latitude: '53.00000000'
     longitude: '28.00000000'
-    emoji: '??'
+    emoji: 🇧🇾
     emojiU: 'U+1F1E7 U+1F1FE'
     cities:
       -
@@ -46199,7 +46199,7 @@ country_city:
       tr: Belçika
     latitude: '50.83333333'
     longitude: '4.00000000'
-    emoji: '??'
+    emoji: 🇧🇪
     emojiU: 'U+1F1E7 U+1F1EA'
     cities:
       -
@@ -48990,7 +48990,7 @@ country_city:
       tr: Belize
     latitude: '17.25000000'
     longitude: '-88.75000000'
-    emoji: '??'
+    emoji: 🇧🇿
     emojiU: 'U+1F1E7 U+1F1FF'
     cities:
       -
@@ -49096,7 +49096,7 @@ country_city:
       tr: Benin
     latitude: '9.50000000'
     longitude: '2.25000000'
-    emoji: '??'
+    emoji: 🇧🇯
     emojiU: 'U+1F1E7 U+1F1EF'
     cities:
       -
@@ -49317,7 +49317,7 @@ country_city:
       tr: Bermuda
     latitude: '32.33333333'
     longitude: '-64.75000000'
-    emoji: '??'
+    emoji: 🇧🇲
     emojiU: 'U+1F1E7 U+1F1F2'
     cities: {  }
   -
@@ -49358,7 +49358,7 @@ country_city:
       tr: Butan
     latitude: '27.50000000'
     longitude: '90.50000000'
-    emoji: '??'
+    emoji: 🇧🇹
     emojiU: 'U+1F1E7 U+1F1F9'
     cities:
       -
@@ -49519,7 +49519,7 @@ country_city:
       tr: Bolivya
     latitude: '-17.00000000'
     longitude: '-65.00000000'
-    emoji: '??'
+    emoji: 🇧🇴
     emojiU: 'U+1F1E7 U+1F1F4'
     cities:
       -
@@ -50696,7 +50696,7 @@ country_city:
       tr: 'Karayip Hollandasi'
     latitude: '12.15000000'
     longitude: '-68.26666700'
-    emoji: '??'
+    emoji: 🇧🇶
     emojiU: 'U+1F1E7 U+1F1F6'
     cities:
       -
@@ -50777,7 +50777,7 @@ country_city:
       tr: 'Bosna Hersek'
     latitude: '44.00000000'
     longitude: '18.00000000'
-    emoji: '??'
+    emoji: 🇧🇦
     emojiU: 'U+1F1E7 U+1F1E6'
     cities:
       -
@@ -51978,7 +51978,7 @@ country_city:
       tr: Botsvana
     latitude: '-22.00000000'
     longitude: '24.00000000'
-    emoji: '??'
+    emoji: 🇧🇼
     emojiU: 'U+1F1E7 U+1F1FC'
     cities:
       -
@@ -52394,7 +52394,7 @@ country_city:
       tr: 'Bouvet Adasi'
     latitude: '-54.43333333'
     longitude: '3.40000000'
-    emoji: '??'
+    emoji: 🇧🇻
     emojiU: 'U+1F1E7 U+1F1FB'
     cities: {  }
   -
@@ -52525,7 +52525,7 @@ country_city:
       tr: Brezilya
     latitude: '-10.00000000'
     longitude: '-55.00000000'
-    emoji: '??'
+    emoji: 🇧🇷
     emojiU: 'U+1F1E7 U+1F1F7'
     cities:
       -
@@ -80766,7 +80766,7 @@ country_city:
       tr: 'Britanya Hint Okyanusu Topraklari'
     latitude: '-6.00000000'
     longitude: '71.50000000'
-    emoji: '??'
+    emoji: 🇮🇴
     emojiU: 'U+1F1EE U+1F1F4'
     cities: {  }
   -
@@ -80807,7 +80807,7 @@ country_city:
       tr: Brunei
     latitude: '4.50000000'
     longitude: '114.66666666'
-    emoji: '??'
+    emoji: 🇧🇳
     emojiU: 'U+1F1E7 U+1F1F3'
     cities:
       -
@@ -80893,7 +80893,7 @@ country_city:
       tr: Bulgaristan
     latitude: '43.00000000'
     longitude: '25.00000000'
-    emoji: '??'
+    emoji: 🇧🇬
     emojiU: 'U+1F1E7 U+1F1EC'
     cities:
       -
@@ -83454,7 +83454,7 @@ country_city:
       tr: 'Burkina Faso'
     latitude: '13.00000000'
     longitude: '-2.00000000'
-    emoji: '??'
+    emoji: 🇧🇫
     emojiU: 'U+1F1E7 U+1F1EB'
     cities:
       -
@@ -83955,7 +83955,7 @@ country_city:
       tr: Burundi
     latitude: '-3.50000000'
     longitude: '30.00000000'
-    emoji: '??'
+    emoji: 🇧🇮
     emojiU: 'U+1F1E7 U+1F1EE'
     cities:
       -
@@ -84081,7 +84081,7 @@ country_city:
       tr: Kamboçya
     latitude: '13.00000000'
     longitude: '105.00000000'
-    emoji: '??'
+    emoji: 🇰🇭
     emojiU: 'U+1F1F0 U+1F1ED'
     cities:
       -
@@ -84652,7 +84652,7 @@ country_city:
       tr: Kamerun
     latitude: '6.00000000'
     longitude: '12.00000000'
-    emoji: '??'
+    emoji: 🇨🇲
     emojiU: 'U+1F1E8 U+1F1F2'
     cities:
       -
@@ -85550,7 +85550,7 @@ country_city:
       tr: Kanada
     latitude: '60.00000000'
     longitude: '-95.00000000'
-    emoji: '??'
+    emoji: 🇨🇦
     emojiU: 'U+1F1E8 U+1F1E6'
     cities:
       -
@@ -90991,7 +90991,7 @@ country_city:
       tr: 'Cabo Verde'
     latitude: '16.00000000'
     longitude: '-24.00000000'
-    emoji: '??'
+    emoji: 🇨🇻
     emojiU: 'U+1F1E8 U+1F1FB'
     cities:
       -
@@ -91152,7 +91152,7 @@ country_city:
       tr: 'Cayman Adalari'
     latitude: '19.50000000'
     longitude: '-80.50000000'
-    emoji: '??'
+    emoji: 🇰🇾
     emojiU: 'U+1F1F0 U+1F1FE'
     cities: {  }
   -
@@ -91193,7 +91193,7 @@ country_city:
       tr: 'Orta Afrika Cumhuriyeti'
     latitude: '7.00000000'
     longitude: '21.00000000'
-    emoji: '??'
+    emoji: 🇨🇫
     emojiU: 'U+1F1E8 U+1F1EB'
     cities:
       -
@@ -91449,7 +91449,7 @@ country_city:
       tr: Çad
     latitude: '15.00000000'
     longitude: '19.00000000'
-    emoji: '??'
+    emoji: 🇹🇩
     emojiU: 'U+1F1F9 U+1F1E9'
     cities:
       -
@@ -91707,7 +91707,7 @@ country_city:
       tr: Şili
     latitude: '-30.00000000'
     longitude: '-71.00000000'
-    emoji: '??'
+    emoji: 🇨🇱
     emojiU: 'U+1F1E8 U+1F1F1'
     cities:
       -
@@ -93484,7 +93484,7 @@ country_city:
       tr: Çin
     latitude: '35.00000000'
     longitude: '105.00000000'
-    emoji: '??'
+    emoji: 🇨🇳
     emojiU: 'U+1F1E8 U+1F1F3'
     cities:
       -
@@ -100010,7 +100010,7 @@ country_city:
       tr: 'Christmas Adasi'
     latitude: '-10.50000000'
     longitude: '105.66666666'
-    emoji: '??'
+    emoji: 🇨🇽
     emojiU: 'U+1F1E8 U+1F1FD'
     cities: {  }
   -
@@ -100051,7 +100051,7 @@ country_city:
       tr: 'Cocos Adalari'
     latitude: '-12.50000000'
     longitude: '96.83333333'
-    emoji: '??'
+    emoji: 🇨🇨
     emojiU: 'U+1F1E8 U+1F1E8'
     cities: {  }
   -
@@ -100092,7 +100092,7 @@ country_city:
       tr: Kolombiya
     latitude: '4.00000000'
     longitude: '-72.00000000'
-    emoji: '??'
+    emoji: 🇨🇴
     emojiU: 'U+1F1E8 U+1F1F4'
     cities:
       -
@@ -105748,7 +105748,7 @@ country_city:
       tr: Komorlar
     latitude: '-12.16666666'
     longitude: '44.25000000'
-    emoji: '??'
+    emoji: 🇰🇲
     emojiU: 'U+1F1F0 U+1F1F2'
     cities:
       -
@@ -106229,7 +106229,7 @@ country_city:
       tr: Kongo
     latitude: '-1.00000000'
     longitude: '15.00000000'
-    emoji: '??'
+    emoji: 🇨🇬
     emojiU: 'U+1F1E8 U+1F1EC'
     cities:
       -
@@ -106355,7 +106355,7 @@ country_city:
       tr: 'Cook Adalari'
     latitude: '-21.23333333'
     longitude: '-159.76666666'
-    emoji: '??'
+    emoji: 🇨🇰
     emojiU: 'U+1F1E8 U+1F1F0'
     cities: {  }
   -
@@ -106396,7 +106396,7 @@ country_city:
       tr: 'Kosta Rika'
     latitude: '10.00000000'
     longitude: '-84.00000000'
-    emoji: '??'
+    emoji: 🇨🇷
     emojiU: 'U+1F1E8 U+1F1F7'
     cities:
       -
@@ -107232,7 +107232,7 @@ country_city:
       tr: Kotdivuar
     latitude: '8.00000000'
     longitude: '-5.00000000'
-    emoji: '??'
+    emoji: 🇨🇮
     emojiU: 'U+1F1E8 U+1F1EE'
     cities:
       -
@@ -107698,7 +107698,7 @@ country_city:
       tr: Hirvatistan
     latitude: '45.16666666'
     longitude: '15.50000000'
-    emoji: '??'
+    emoji: 🇭🇷
     emojiU: 'U+1F1ED U+1F1F7'
     cities:
       -
@@ -111059,7 +111059,7 @@ country_city:
       tr: Küba
     latitude: '21.50000000'
     longitude: '-80.00000000'
-    emoji: '??'
+    emoji: 🇨🇺
     emojiU: 'U+1F1E8 U+1F1FA'
     cities:
       -
@@ -112032,7 +112032,7 @@ country_city:
       tr: Curaçao
     latitude: '12.11666700'
     longitude: '-68.93333300'
-    emoji: '??'
+    emoji: 🇨🇼
     emojiU: 'U+1F1E8 U+1F1FC'
     cities: {  }
   -
@@ -112079,7 +112079,7 @@ country_city:
       tr: 'Kuzey Kıbrıs Türk Cumhuriyeti'
     latitude: '35.00000000'
     longitude: '33.00000000'
-    emoji: '??'
+    emoji: 🇨🇾
     emojiU: 'U+1F1E8 U+1F1FE'
     cities:
       -
@@ -112595,7 +112595,7 @@ country_city:
       tr: Çekya
     latitude: '49.75000000'
     longitude: '15.50000000'
-    emoji: '??'
+    emoji: 🇨🇿
     emojiU: 'U+1F1E8 U+1F1FF'
     cities:
       -
@@ -119417,7 +119417,7 @@ country_city:
       tr: 'Kongo Demokratik Cumhuriyeti'
     latitude: '0.00000000'
     longitude: '25.00000000'
-    emoji: '??'
+    emoji: 🇨🇩
     emojiU: 'U+1F1E8 U+1F1E9'
     cities:
       -
@@ -119803,7 +119803,7 @@ country_city:
       tr: Danimarka
     latitude: '56.00000000'
     longitude: '10.00000000'
-    emoji: '??'
+    emoji: 🇩🇰
     emojiU: 'U+1F1E9 U+1F1F0'
     cities:
       -
@@ -121989,7 +121989,7 @@ country_city:
       tr: Cibuti
     latitude: '11.50000000'
     longitude: '43.00000000'
-    emoji: '??'
+    emoji: 🇩🇯
     emojiU: 'U+1F1E9 U+1F1EF'
     cities:
       -
@@ -122090,7 +122090,7 @@ country_city:
       tr: Dominika
     latitude: '15.41666666'
     longitude: '-61.33333333'
-    emoji: '??'
+    emoji: 🇩🇲
     emojiU: 'U+1F1E9 U+1F1F2'
     cities:
       -
@@ -122216,7 +122216,7 @@ country_city:
       tr: 'Dominik Cumhuriyeti'
     latitude: '19.00000000'
     longitude: '-70.66666666'
-    emoji: '??'
+    emoji: 🇩🇴
     emojiU: 'U+1F1E9 U+1F1F4'
     cities:
       -
@@ -123292,7 +123292,7 @@ country_city:
       tr: 'Doğu Timor'
     latitude: '-8.83333333'
     longitude: '125.91666666'
-    emoji: '??'
+    emoji: 🇹🇱
     emojiU: 'U+1F1F9 U+1F1F1'
     cities:
       -
@@ -123589,7 +123589,7 @@ country_city:
       tr: Ekvator
     latitude: '-2.00000000'
     longitude: '-77.50000000'
-    emoji: '??'
+    emoji: 🇪🇨
     emojiU: 'U+1F1EA U+1F1E8'
     cities:
       -
@@ -124205,7 +124205,7 @@ country_city:
       tr: Mısır
     latitude: '27.00000000'
     longitude: '30.00000000'
-    emoji: '??'
+    emoji: 🇪🇬
     emojiU: 'U+1F1EA U+1F1EC'
     cities:
       -
@@ -125031,7 +125031,7 @@ country_city:
       tr: 'El Salvador'
     latitude: '13.83333333'
     longitude: '-88.91666666'
-    emoji: '??'
+    emoji: 🇸🇻
     emojiU: 'U+1F1F8 U+1F1FB'
     cities:
       -
@@ -125572,7 +125572,7 @@ country_city:
       tr: 'Ekvator Ginesi'
     latitude: '2.00000000'
     longitude: '10.00000000'
-    emoji: '??'
+    emoji: 🇬🇶
     emojiU: 'U+1F1EC U+1F1F6'
     cities:
       -
@@ -125733,7 +125733,7 @@ country_city:
       tr: Eritre
     latitude: '15.00000000'
     longitude: '39.00000000'
-    emoji: '??'
+    emoji: 🇪🇷
     emojiU: 'U+1F1EA U+1F1F7'
     cities:
       -
@@ -125829,7 +125829,7 @@ country_city:
       tr: Estonya
     latitude: '59.00000000'
     longitude: '26.00000000'
-    emoji: '??'
+    emoji: 🇪🇪
     emojiU: 'U+1F1EA U+1F1EA'
     cities:
       -
@@ -126680,7 +126680,7 @@ country_city:
       tr: Etiyopya
     latitude: '8.00000000'
     longitude: '38.00000000'
-    emoji: '??'
+    emoji: 🇪🇹
     emojiU: 'U+1F1EA U+1F1F9'
     cities:
       -
@@ -127441,7 +127441,7 @@ country_city:
       tr: 'Falkland Adalari'
     latitude: '-51.75000000'
     longitude: '-59.00000000'
-    emoji: '??'
+    emoji: 🇫🇰
     emojiU: 'U+1F1EB U+1F1F0'
     cities: {  }
   -
@@ -127482,7 +127482,7 @@ country_city:
       tr: 'Faroe Adalari'
     latitude: '62.00000000'
     longitude: '-7.00000000'
-    emoji: '??'
+    emoji: 🇫🇴
     emojiU: 'U+1F1EB U+1F1F4'
     cities: {  }
   -
@@ -127523,7 +127523,7 @@ country_city:
       tr: Fiji
     latitude: '-18.00000000'
     longitude: '175.00000000'
-    emoji: '??'
+    emoji: 🇫🇯
     emojiU: 'U+1F1EB U+1F1EF'
     cities:
       -
@@ -127664,7 +127664,7 @@ country_city:
       tr: Finlandiya
     latitude: '64.00000000'
     longitude: '26.00000000'
-    emoji: '??'
+    emoji: 🇫🇮
     emojiU: 'U+1F1EB U+1F1EE'
     cities:
       -
@@ -129715,7 +129715,7 @@ country_city:
       tr: Fransa
     latitude: '46.00000000'
     longitude: '2.00000000'
-    emoji: '??'
+    emoji: 🇫🇷
     emojiU: 'U+1F1EB U+1F1F7'
     cities:
       -
@@ -174226,7 +174226,7 @@ country_city:
       tr: 'Fransiz Guyanasi'
     latitude: '4.00000000'
     longitude: '-53.00000000'
-    emoji: '??'
+    emoji: 🇬🇫
     emojiU: 'U+1F1EC U+1F1EB'
     cities: {  }
   -
@@ -174279,7 +174279,7 @@ country_city:
       tr: 'Fransiz Polinezyasi'
     latitude: '-15.00000000'
     longitude: '-140.00000000'
-    emoji: '??'
+    emoji: 🇵🇫
     emojiU: 'U+1F1F5 U+1F1EB'
     cities: {  }
   -
@@ -174320,7 +174320,7 @@ country_city:
       tr: 'Fransiz Güney Topraklari'
     latitude: '-49.25000000'
     longitude: '69.16700000'
-    emoji: '??'
+    emoji: 🇹🇫
     emojiU: 'U+1F1F9 U+1F1EB'
     cities: {  }
   -
@@ -174361,7 +174361,7 @@ country_city:
       tr: Gabon
     latitude: '-1.00000000'
     longitude: '11.75000000'
-    emoji: '??'
+    emoji: 🇬🇦
     emojiU: 'U+1F1EC U+1F1E6'
     cities:
       -
@@ -174542,7 +174542,7 @@ country_city:
       tr: Gambiya
     latitude: '13.46666666'
     longitude: '-16.56666666'
-    emoji: '??'
+    emoji: 🇬🇲
     emojiU: 'U+1F1EC U+1F1F2'
     cities:
       -
@@ -175103,7 +175103,7 @@ country_city:
       tr: Gürcistan
     latitude: '42.00000000'
     longitude: '43.50000000'
-    emoji: '??'
+    emoji: 🇬🇪
     emojiU: 'U+1F1EC U+1F1EA'
     cities:
       -
@@ -175710,7 +175710,7 @@ country_city:
       tr: Almanya
     latitude: '51.00000000'
     longitude: '9.00000000'
-    emoji: '??'
+    emoji: 🇩🇪
     emojiU: 'U+1F1E9 U+1F1EA'
     cities:
       -
@@ -211236,7 +211236,7 @@ country_city:
       tr: Gana
     latitude: '8.00000000'
     longitude: '-2.00000000'
-    emoji: '??'
+    emoji: 🇬🇭
     emojiU: 'U+1F1EC U+1F1ED'
     cities:
       -
@@ -211882,7 +211882,7 @@ country_city:
       tr: Cebelitarik
     latitude: '36.13333333'
     longitude: '-5.35000000'
-    emoji: '??'
+    emoji: 🇬🇮
     emojiU: 'U+1F1EC U+1F1EE'
     cities: {  }
   -
@@ -211923,7 +211923,7 @@ country_city:
       tr: Yunanistan
     latitude: '39.00000000'
     longitude: '22.00000000'
-    emoji: '??'
+    emoji: 🇬🇷
     emojiU: 'U+1F1EC U+1F1F7'
     cities:
       -
@@ -217107,7 +217107,7 @@ country_city:
       tr: Grönland
     latitude: '72.00000000'
     longitude: '-40.00000000'
-    emoji: '??'
+    emoji: 🇬🇱
     emojiU: 'U+1F1EC U+1F1F1'
     cities: {  }
   -
@@ -217148,7 +217148,7 @@ country_city:
       tr: Grenada
     latitude: '12.11666666'
     longitude: '-61.66666666'
-    emoji: '??'
+    emoji: 🇬🇩
     emojiU: 'U+1F1EC U+1F1E9'
     cities:
       -
@@ -217224,7 +217224,7 @@ country_city:
       tr: Guadeloupe
     latitude: '16.25000000'
     longitude: '-61.58333300'
-    emoji: '??'
+    emoji: 🇬🇵
     emojiU: 'U+1F1EC U+1F1F5'
     cities: {  }
   -
@@ -217265,7 +217265,7 @@ country_city:
       tr: Guam
     latitude: '13.46666666'
     longitude: '144.78333333'
-    emoji: '??'
+    emoji: 🇬🇺
     emojiU: 'U+1F1EC U+1F1FA'
     cities: {  }
   -
@@ -217306,7 +217306,7 @@ country_city:
       tr: Guatemala
     latitude: '15.50000000'
     longitude: '-90.25000000'
-    emoji: '??'
+    emoji: 🇬🇹
     emojiU: 'U+1F1EC U+1F1F9'
     cities:
       -
@@ -219257,7 +219257,7 @@ country_city:
       tr: Alderney
     latitude: '49.46666666'
     longitude: '-2.58333333'
-    emoji: '??'
+    emoji: 🇬🇬
     emojiU: 'U+1F1EC U+1F1EC'
     cities: {  }
   -
@@ -219298,7 +219298,7 @@ country_city:
       tr: Gine
     latitude: '11.00000000'
     longitude: '-10.00000000'
-    emoji: '??'
+    emoji: 🇬🇳
     emojiU: 'U+1F1EC U+1F1F3'
     cities:
       -
@@ -219609,7 +219609,7 @@ country_city:
       tr: Gine-bissau
     latitude: '12.00000000'
     longitude: '-15.00000000'
-    emoji: '??'
+    emoji: 🇬🇼
     emojiU: 'U+1F1EC U+1F1FC'
     cities:
       -
@@ -219720,7 +219720,7 @@ country_city:
       tr: Guyana
     latitude: '5.00000000'
     longitude: '-59.00000000'
-    emoji: '??'
+    emoji: 🇬🇾
     emojiU: 'U+1F1EC U+1F1FE'
     cities:
       -
@@ -219831,7 +219831,7 @@ country_city:
       tr: Haiti
     latitude: '19.00000000'
     longitude: '-72.41666666'
-    emoji: '??'
+    emoji: 🇭🇹
     emojiU: 'U+1F1ED U+1F1F9'
     cities:
       -
@@ -220492,7 +220492,7 @@ country_city:
       tr: 'Heard Adasi Ve Mcdonald Adalari'
     latitude: '-53.10000000'
     longitude: '72.51666666'
-    emoji: '??'
+    emoji: 🇭🇲
     emojiU: 'U+1F1ED U+1F1F2'
     cities: {  }
   -
@@ -220533,7 +220533,7 @@ country_city:
       tr: Honduras
     latitude: '15.00000000'
     longitude: '-86.50000000'
-    emoji: '??'
+    emoji: 🇭🇳
     emojiU: 'U+1F1ED U+1F1F3'
     cities:
       -
@@ -223299,7 +223299,7 @@ country_city:
       tr: 'Hong Kong'
     latitude: '22.25000000'
     longitude: '114.16666666'
-    emoji: '??'
+    emoji: 🇭🇰
     emojiU: 'U+1F1ED U+1F1F0'
     cities: {  }
   -
@@ -223340,7 +223340,7 @@ country_city:
       tr: Macaristan
     latitude: '47.00000000'
     longitude: '20.00000000'
-    emoji: '??'
+    emoji: 🇭🇺
     emojiU: 'U+1F1ED U+1F1FA'
     cities:
       -
@@ -228751,7 +228751,7 @@ country_city:
       tr: İzlanda
     latitude: '65.00000000'
     longitude: '-18.00000000'
-    emoji: '??'
+    emoji: 🇮🇸
     emojiU: 'U+1F1EE U+1F1F8'
     cities:
       -
@@ -229162,7 +229162,7 @@ country_city:
       tr: Hindistan
     latitude: '20.00000000'
     longitude: '77.00000000'
-    emoji: '??'
+    emoji: 🇮🇳
     emojiU: 'U+1F1EE U+1F1F3'
     cities:
       -
@@ -250431,7 +250431,7 @@ country_city:
       tr: Endonezya
     latitude: '-5.00000000'
     longitude: '120.00000000'
-    emoji: '??'
+    emoji: 🇮🇩
     emojiU: 'U+1F1EE U+1F1E9'
     cities:
       -
@@ -254916,7 +254916,7 @@ country_city:
       tr: İran
     latitude: '32.00000000'
     longitude: '53.00000000'
-    emoji: '??'
+    emoji: 🇮🇷
     emojiU: 'U+1F1EE U+1F1F7'
     cities:
       -
@@ -260407,7 +260407,7 @@ country_city:
       tr: Irak
     latitude: '33.00000000'
     longitude: '44.00000000'
-    emoji: '??'
+    emoji: 🇮🇶
     emojiU: 'U+1F1EE U+1F1F6'
     cities:
       -
@@ -260853,7 +260853,7 @@ country_city:
       tr: İrlanda
     latitude: '53.00000000'
     longitude: '-8.00000000'
-    emoji: '??'
+    emoji: 🇮🇪
     emojiU: 'U+1F1EE U+1F1EA'
     cities:
       -
@@ -262754,7 +262754,7 @@ country_city:
       tr: İsrail
     latitude: '31.50000000'
     longitude: '34.75000000'
-    emoji: '??'
+    emoji: 🇮🇱
     emojiU: 'U+1F1EE U+1F1F1'
     cities:
       -
@@ -263545,7 +263545,7 @@ country_city:
       tr: İtalya
     latitude: '42.83333333'
     longitude: '12.83333333'
-    emoji: '??'
+    emoji: 🇮🇹
     emojiU: 'U+1F1EE U+1F1F9'
     cities:
       -
@@ -313326,7 +313326,7 @@ country_city:
       tr: Jamaika
     latitude: '18.25000000'
     longitude: '-77.50000000'
-    emoji: '??'
+    emoji: 🇯🇲
     emojiU: 'U+1F1EF U+1F1F2'
     cities:
       -
@@ -317567,7 +317567,7 @@ country_city:
       tr: Japonya
     latitude: '36.00000000'
     longitude: '138.00000000'
-    emoji: '??'
+    emoji: 🇯🇵
     emojiU: 'U+1F1EF U+1F1F5'
     cities:
       -
@@ -325963,7 +325963,7 @@ country_city:
       tr: Jersey
     latitude: '49.25000000'
     longitude: '-2.16666666'
-    emoji: '??'
+    emoji: 🇯🇪
     emojiU: 'U+1F1EF U+1F1EA'
     cities: {  }
   -
@@ -326004,7 +326004,7 @@ country_city:
       tr: Ürdün
     latitude: '31.00000000'
     longitude: '36.00000000'
-    emoji: '??'
+    emoji: 🇯🇴
     emojiU: 'U+1F1EF U+1F1F4'
     cities:
       -
@@ -326491,7 +326491,7 @@ country_city:
       tr: Kazakistan
     latitude: '48.00000000'
     longitude: '68.00000000'
-    emoji: '??'
+    emoji: 🇰🇿
     emojiU: 'U+1F1F0 U+1F1FF'
     cities:
       -
@@ -327832,7 +327832,7 @@ country_city:
       tr: Kenya
     latitude: '1.00000000'
     longitude: '38.00000000'
-    emoji: '??'
+    emoji: 🇰🇪
     emojiU: 'U+1F1F0 U+1F1EA'
     cities:
       -
@@ -328435,7 +328435,7 @@ country_city:
       tr: Kiribati
     latitude: '1.41666666'
     longitude: '173.00000000'
-    emoji: '??'
+    emoji: 🇰🇮
     emojiU: 'U+1F1F0 U+1F1EE'
     cities:
       -
@@ -328656,7 +328656,7 @@ country_city:
       tr: Kosova
     latitude: '42.56129090'
     longitude: '20.34030350'
-    emoji: '??'
+    emoji: 🇽🇰
     emojiU: 'U+1F1FD U+1F1F0'
     cities: {  }
   -
@@ -328697,7 +328697,7 @@ country_city:
       tr: Kuveyt
     latitude: '29.50000000'
     longitude: '45.75000000'
-    emoji: '??'
+    emoji: 🇰🇼
     emojiU: 'U+1F1F0 U+1F1FC'
     cities:
       -
@@ -328863,7 +328863,7 @@ country_city:
       tr: Kirgizistan
     latitude: '41.00000000'
     longitude: '75.00000000'
-    emoji: '??'
+    emoji: 🇰🇬
     emojiU: 'U+1F1F0 U+1F1EC'
     cities:
       -
@@ -329169,7 +329169,7 @@ country_city:
       tr: Laos
     latitude: '18.00000000'
     longitude: '105.00000000'
-    emoji: '??'
+    emoji: 🇱🇦
     emojiU: 'U+1F1F1 U+1F1E6'
     cities:
       -
@@ -329590,7 +329590,7 @@ country_city:
       tr: Letonya
     latitude: '57.00000000'
     longitude: '25.00000000'
-    emoji: '??'
+    emoji: 🇱🇻
     emojiU: 'U+1F1F1 U+1F1FB'
     cities:
       -
@@ -330256,7 +330256,7 @@ country_city:
       tr: Lübnan
     latitude: '33.83333333'
     longitude: '35.83333333'
-    emoji: '??'
+    emoji: 🇱🇧
     emojiU: 'U+1F1F1 U+1F1E7'
     cities:
       -
@@ -330427,7 +330427,7 @@ country_city:
       tr: Lesotho
     latitude: '-29.50000000'
     longitude: '28.50000000'
-    emoji: '??'
+    emoji: 🇱🇸
     emojiU: 'U+1F1F1 U+1F1F8'
     cities:
       -
@@ -330528,7 +330528,7 @@ country_city:
       tr: Liberya
     latitude: '6.50000000'
     longitude: '-9.50000000'
-    emoji: '??'
+    emoji: 🇱🇷
     emojiU: 'U+1F1F1 U+1F1F7'
     cities:
       -
@@ -330659,7 +330659,7 @@ country_city:
       tr: Libya
     latitude: '25.00000000'
     longitude: '17.00000000'
-    emoji: '??'
+    emoji: 🇱🇾
     emojiU: 'U+1F1F1 U+1F1FE'
     cities:
       -
@@ -330955,7 +330955,7 @@ country_city:
       tr: Lihtenştayn
     latitude: '47.26666666'
     longitude: '9.53333333'
-    emoji: '??'
+    emoji: 🇱🇮
     emojiU: 'U+1F1F1 U+1F1EE'
     cities:
       -
@@ -331051,7 +331051,7 @@ country_city:
       tr: Litvanya
     latitude: '56.00000000'
     longitude: '24.00000000'
-    emoji: '??'
+    emoji: 🇱🇹
     emojiU: 'U+1F1F1 U+1F1F9'
     cities:
       -
@@ -331737,7 +331737,7 @@ country_city:
       tr: Lüksemburg
     latitude: '49.75000000'
     longitude: '6.16666666'
-    emoji: '??'
+    emoji: 🇱🇺
     emojiU: 'U+1F1F1 U+1F1FA'
     cities:
       -
@@ -332498,7 +332498,7 @@ country_city:
       tr: Makao
     latitude: '22.16666666'
     longitude: '113.55000000'
-    emoji: '??'
+    emoji: 🇲🇴
     emojiU: 'U+1F1F2 U+1F1F4'
     cities: {  }
   -
@@ -332539,7 +332539,7 @@ country_city:
       tr: 'Kuzey Makedonya'
     latitude: '41.83333333'
     longitude: '22.00000000'
-    emoji: '??'
+    emoji: 🇲🇰
     emojiU: 'U+1F1F2 U+1F1F0'
     cities:
       -
@@ -333565,7 +333565,7 @@ country_city:
       tr: Madagaskar
     latitude: '-20.00000000'
     longitude: '47.00000000'
-    emoji: '??'
+    emoji: 🇲🇬
     emojiU: 'U+1F1F2 U+1F1EC'
     cities:
       -
@@ -333651,7 +333651,7 @@ country_city:
       tr: Malavi
     latitude: '-13.50000000'
     longitude: '34.00000000'
-    emoji: '??'
+    emoji: 🇲🇼
     emojiU: 'U+1F1F2 U+1F1FC'
     cities:
       -
@@ -334003,7 +334003,7 @@ country_city:
       tr: Malezya
     latitude: '2.50000000'
     longitude: '112.50000000'
-    emoji: '??'
+    emoji: 🇲🇾
     emojiU: 'U+1F1F2 U+1F1FE'
     cities:
       -
@@ -334939,7 +334939,7 @@ country_city:
       tr: Maldivler
     latitude: '3.25000000'
     longitude: '73.00000000'
-    emoji: '??'
+    emoji: 🇲🇻
     emojiU: 'U+1F1F2 U+1F1FB'
     cities:
       -
@@ -335085,7 +335085,7 @@ country_city:
       tr: Mali
     latitude: '17.00000000'
     longitude: '-4.00000000'
-    emoji: '??'
+    emoji: 🇲🇱
     emojiU: 'U+1F1F2 U+1F1F1'
     cities:
       -
@@ -335361,7 +335361,7 @@ country_city:
       tr: Malta
     latitude: '35.83333333'
     longitude: '14.58333333'
-    emoji: '??'
+    emoji: 🇲🇹
     emojiU: 'U+1F1F2 U+1F1F9'
     cities:
       -
@@ -335742,7 +335742,7 @@ country_city:
       tr: 'Man Adasi'
     latitude: '54.25000000'
     longitude: '-4.50000000'
-    emoji: '??'
+    emoji: 🇮🇲
     emojiU: 'U+1F1EE U+1F1F2'
     cities: {  }
   -
@@ -335789,7 +335789,7 @@ country_city:
       tr: 'Marşal Adalari'
     latitude: '9.00000000'
     longitude: '168.00000000'
-    emoji: '??'
+    emoji: 🇲🇭
     emojiU: 'U+1F1F2 U+1F1ED'
     cities: {  }
   -
@@ -335830,7 +335830,7 @@ country_city:
       tr: Martinik
     latitude: '14.66666700'
     longitude: '-61.00000000'
-    emoji: '??'
+    emoji: 🇲🇶
     emojiU: 'U+1F1F2 U+1F1F6'
     cities: {  }
   -
@@ -335871,7 +335871,7 @@ country_city:
       tr: Moritanya
     latitude: '20.00000000'
     longitude: '-12.00000000'
-    emoji: '??'
+    emoji: 🇲🇷
     emojiU: 'U+1F1F2 U+1F1F7'
     cities:
       -
@@ -336107,7 +336107,7 @@ country_city:
       tr: Morityus
     latitude: '-20.28333333'
     longitude: '57.55000000'
-    emoji: '??'
+    emoji: 🇲🇺
     emojiU: 'U+1F1F2 U+1F1FA'
     cities:
       -
@@ -336633,7 +336633,7 @@ country_city:
       tr: Mayotte
     latitude: '-12.83333333'
     longitude: '45.16666666'
-    emoji: '??'
+    emoji: 🇾🇹
     emojiU: 'U+1F1FE U+1F1F9'
     cities: {  }
   -
@@ -336734,7 +336734,7 @@ country_city:
       tr: Meksika
     latitude: '23.00000000'
     longitude: '-102.00000000'
-    emoji: '??'
+    emoji: 🇲🇽
     emojiU: 'U+1F1F2 U+1F1FD'
     cities:
       -
@@ -383437,7 +383437,7 @@ country_city:
       tr: Mikronezya
     latitude: '6.91666666'
     longitude: '158.25000000'
-    emoji: '??'
+    emoji: 🇫🇲
     emojiU: 'U+1F1EB U+1F1F2'
     cities:
       -
@@ -383883,7 +383883,7 @@ country_city:
       tr: Moldova
     latitude: '47.00000000'
     longitude: '29.00000000'
-    emoji: '??'
+    emoji: 🇲🇩
     emojiU: 'U+1F1F2 U+1F1E9'
     cities:
       -
@@ -384284,7 +384284,7 @@ country_city:
       tr: Monako
     latitude: '43.73333333'
     longitude: '7.40000000'
-    emoji: '??'
+    emoji: 🇲🇨
     emojiU: 'U+1F1F2 U+1F1E8'
     cities: {  }
   -
@@ -384337,7 +384337,7 @@ country_city:
       tr: Moğolistan
     latitude: '46.00000000'
     longitude: '105.00000000'
-    emoji: '??'
+    emoji: 🇲🇳
     emojiU: 'U+1F1F2 U+1F1F3'
     cities:
       -
@@ -384568,7 +384568,7 @@ country_city:
       tr: Karadağ
     latitude: '42.50000000'
     longitude: '19.30000000'
-    emoji: '??'
+    emoji: 🇲🇪
     emojiU: 'U+1F1F2 U+1F1EA'
     cities:
       -
@@ -384779,7 +384779,7 @@ country_city:
       tr: Montserrat
     latitude: '16.75000000'
     longitude: '-62.20000000'
-    emoji: '??'
+    emoji: 🇲🇸
     emojiU: 'U+1F1F2 U+1F1F8'
     cities: {  }
   -
@@ -384820,7 +384820,7 @@ country_city:
       tr: Fas
     latitude: '32.00000000'
     longitude: '-5.00000000'
-    emoji: '??'
+    emoji: 🇲🇦
     emojiU: 'U+1F1F2 U+1F1E6'
     cities:
       -
@@ -385981,7 +385981,7 @@ country_city:
       tr: Mozambik
     latitude: '-18.25000000'
     longitude: '35.00000000'
-    emoji: '??'
+    emoji: 🇲🇿
     emojiU: 'U+1F1F2 U+1F1FF'
     cities:
       -
@@ -386212,7 +386212,7 @@ country_city:
       tr: Myanmar
     latitude: '22.00000000'
     longitude: '98.00000000'
-    emoji: '??'
+    emoji: 🇲🇲
     emojiU: 'U+1F1F2 U+1F1F2'
     cities:
       -
@@ -386623,7 +386623,7 @@ country_city:
       tr: Namibya
     latitude: '-22.00000000'
     longitude: '17.00000000'
-    emoji: '??'
+    emoji: 🇳🇦
     emojiU: 'U+1F1F3 U+1F1E6'
     cities:
       -
@@ -386904,7 +386904,7 @@ country_city:
       tr: Nauru
     latitude: '-0.53333333'
     longitude: '166.91666666'
-    emoji: '??'
+    emoji: 🇳🇷
     emojiU: 'U+1F1F3 U+1F1F7'
     cities:
       -
@@ -386980,7 +386980,7 @@ country_city:
       tr: Nepal
     latitude: '28.00000000'
     longitude: '84.00000000'
-    emoji: '??'
+    emoji: 🇳🇵
     emojiU: 'U+1F1F3 U+1F1F5'
     cities:
       -
@@ -387296,7 +387296,7 @@ country_city:
       tr: Hollanda
     latitude: '52.50000000'
     longitude: '5.75000000'
-    emoji: '??'
+    emoji: 🇳🇱
     emojiU: 'U+1F1F3 U+1F1F1'
     cities:
       -
@@ -395612,7 +395612,7 @@ country_city:
       tr: 'Yeni Kaledonya'
     latitude: '-21.50000000'
     longitude: '165.50000000'
-    emoji: '??'
+    emoji: 🇳🇨
     emojiU: 'U+1F1F3 U+1F1E8'
     cities: {  }
   -
@@ -395659,7 +395659,7 @@ country_city:
       tr: 'Yeni Zelanda'
     latitude: '-41.00000000'
     longitude: '174.00000000'
-    emoji: '??'
+    emoji: 🇳🇿
     emojiU: 'U+1F1F3 U+1F1FF'
     cities:
       -
@@ -396490,7 +396490,7 @@ country_city:
       tr: Nikaragua
     latitude: '13.00000000'
     longitude: '-85.00000000'
-    emoji: '??'
+    emoji: 🇳🇮
     emojiU: 'U+1F1F3 U+1F1EE'
     cities:
       -
@@ -397306,7 +397306,7 @@ country_city:
       tr: Nijer
     latitude: '16.00000000'
     longitude: '8.00000000'
-    emoji: '??'
+    emoji: 🇳🇪
     emojiU: 'U+1F1F3 U+1F1EA'
     cities:
       -
@@ -397697,7 +397697,7 @@ country_city:
       tr: Nijerya
     latitude: '10.00000000'
     longitude: '8.00000000'
-    emoji: '??'
+    emoji: 🇳🇬
     emojiU: 'U+1F1F3 U+1F1EC'
     cities:
       -
@@ -399858,7 +399858,7 @@ country_city:
       tr: Niue
     latitude: '-19.03333333'
     longitude: '-169.86666666'
-    emoji: '??'
+    emoji: 🇳🇺
     emojiU: 'U+1F1F3 U+1F1FA'
     cities: {  }
   -
@@ -399899,7 +399899,7 @@ country_city:
       tr: 'Norfolk Adasi'
     latitude: '-29.03333333'
     longitude: '167.95000000'
-    emoji: '??'
+    emoji: 🇳🇫
     emojiU: 'U+1F1F3 U+1F1EB'
     cities: {  }
   -
@@ -399940,7 +399940,7 @@ country_city:
       tr: 'Kuzey Kore'
     latitude: '40.00000000'
     longitude: '127.00000000'
-    emoji: '??'
+    emoji: 🇰🇵
     emojiU: 'U+1F1F0 U+1F1F5'
     cities:
       -
@@ -400381,7 +400381,7 @@ country_city:
       tr: 'Kuzey Mariana Adalari'
     latitude: '15.20000000'
     longitude: '145.75000000'
-    emoji: '??'
+    emoji: 🇲🇵
     emojiU: 'U+1F1F2 U+1F1F5'
     cities: {  }
   -
@@ -400422,7 +400422,7 @@ country_city:
       tr: Norveç
     latitude: '62.00000000'
     longitude: '10.00000000'
-    emoji: '??'
+    emoji: 🇳🇴
     emojiU: 'U+1F1F3 U+1F1F4'
     cities:
       -
@@ -403803,7 +403803,7 @@ country_city:
       tr: Umman
     latitude: '21.00000000'
     longitude: '57.00000000'
-    emoji: '??'
+    emoji: 🇴🇲
     emojiU: 'U+1F1F4 U+1F1F2'
     cities:
       -
@@ -403984,7 +403984,7 @@ country_city:
       tr: Pakistan
     latitude: '30.00000000'
     longitude: '70.00000000'
-    emoji: '??'
+    emoji: 🇵🇰
     emojiU: 'U+1F1F5 U+1F1F0'
     cities:
       -
@@ -406315,7 +406315,7 @@ country_city:
       tr: Palau
     latitude: '7.50000000'
     longitude: '134.50000000'
-    emoji: '??'
+    emoji: 🇵🇼
     emojiU: 'U+1F1F5 U+1F1FC'
     cities:
       -
@@ -406442,7 +406442,7 @@ country_city:
       tr: Filistin
     latitude: '31.90000000'
     longitude: '35.20000000'
-    emoji: '??'
+    emoji: 🇵🇸
     emojiU: 'U+1F1F5 U+1F1F8'
     cities: {  }
   -
@@ -406483,7 +406483,7 @@ country_city:
       tr: Panama
     latitude: '9.00000000'
     longitude: '-80.00000000'
-    emoji: '??'
+    emoji: 🇵🇦
     emojiU: 'U+1F1F5 U+1F1E6'
     cities:
       -
@@ -409530,7 +409530,7 @@ country_city:
       tr: 'Papua Yeni Gine'
     latitude: '-6.00000000'
     longitude: '147.00000000'
-    emoji: '??'
+    emoji: 🇵🇬
     emojiU: 'U+1F1F5 U+1F1EC'
     cities:
       -
@@ -410076,7 +410076,7 @@ country_city:
       tr: Paraguay
     latitude: '-23.00000000'
     longitude: '-58.00000000'
-    emoji: '??'
+    emoji: 🇵🇾
     emojiU: 'U+1F1F5 U+1F1FE'
     cities:
       -
@@ -410817,7 +410817,7 @@ country_city:
       tr: Peru
     latitude: '-10.00000000'
     longitude: '-76.00000000'
-    emoji: '??'
+    emoji: 🇵🇪
     emojiU: 'U+1F1F5 U+1F1EA'
     cities:
       -
@@ -413273,7 +413273,7 @@ country_city:
       tr: Filipinler
     latitude: '13.00000000'
     longitude: '122.00000000'
-    emoji: '??'
+    emoji: 🇵🇭
     emojiU: 'U+1F1F5 U+1F1ED'
     cities:
       -
@@ -445914,7 +445914,7 @@ country_city:
       tr: 'Pitcairn Adalari'
     latitude: '-25.06666666'
     longitude: '-130.10000000'
-    emoji: '??'
+    emoji: 🇵🇳
     emojiU: 'U+1F1F5 U+1F1F3'
     cities: {  }
   -
@@ -445955,7 +445955,7 @@ country_city:
       tr: Polonya
     latitude: '52.00000000'
     longitude: '20.00000000'
-    emoji: '??'
+    emoji: 🇵🇱
     emojiU: 'U+1F1F5 U+1F1F1'
     cities:
       -
@@ -461638,7 +461638,7 @@ country_city:
       tr: Portekiz
     latitude: '39.50000000'
     longitude: '-8.00000000'
-    emoji: '??'
+    emoji: 🇵🇹
     emojiU: 'U+1F1F5 U+1F1F9'
     cities:
       -
@@ -468244,7 +468244,7 @@ country_city:
       tr: 'Porto Riko'
     latitude: '18.25000000'
     longitude: '-66.50000000'
-    emoji: '??'
+    emoji: 🇵🇷
     emojiU: 'U+1F1F5 U+1F1F7'
     cities: {  }
   -
@@ -468285,7 +468285,7 @@ country_city:
       tr: Katar
     latitude: '25.50000000'
     longitude: '51.25000000'
-    emoji: '??'
+    emoji: 🇶🇦
     emojiU: 'U+1F1F6 U+1F1E6'
     cities:
       -
@@ -468401,7 +468401,7 @@ country_city:
       tr: Réunion
     latitude: '-21.15000000'
     longitude: '55.50000000'
-    emoji: '??'
+    emoji: 🇷🇪
     emojiU: 'U+1F1F7 U+1F1EA'
     cities: {  }
   -
@@ -468442,7 +468442,7 @@ country_city:
       tr: Romanya
     latitude: '46.00000000'
     longitude: '25.00000000'
-    emoji: '??'
+    emoji: 🇷🇴
     emojiU: 'U+1F1F7 U+1F1F4'
     cities:
       -
@@ -509038,7 +509038,7 @@ country_city:
       tr: Rusya
     latitude: '60.00000000'
     longitude: '100.00000000'
-    emoji: '??'
+    emoji: 🇷🇺
     emojiU: 'U+1F1F7 U+1F1FA'
     cities:
       -
@@ -536804,7 +536804,7 @@ country_city:
       tr: Ruanda
     latitude: '-2.00000000'
     longitude: '30.00000000'
-    emoji: '??'
+    emoji: 🇷🇼
     emojiU: 'U+1F1F7 U+1F1FC'
     cities:
       -
@@ -536905,7 +536905,7 @@ country_city:
       tr: 'Saint Helena'
     latitude: '-15.95000000'
     longitude: '-5.70000000'
-    emoji: '??'
+    emoji: 🇸🇭
     emojiU: 'U+1F1F8 U+1F1ED'
     cities: {  }
   -
@@ -536946,7 +536946,7 @@ country_city:
       tr: 'Saint Kitts Ve Nevis'
     latitude: '17.33333333'
     longitude: '-62.75000000'
-    emoji: '??'
+    emoji: 🇰🇳
     emojiU: 'U+1F1F0 U+1F1F3'
     cities:
       -
@@ -537052,7 +537052,7 @@ country_city:
       tr: 'Saint Lucia'
     latitude: '13.88333333'
     longitude: '-60.96666666'
-    emoji: '??'
+    emoji: 🇱🇨
     emojiU: 'U+1F1F1 U+1F1E8'
     cities:
       -
@@ -539498,7 +539498,7 @@ country_city:
       tr: 'Saint Pierre Ve Miquelon'
     latitude: '46.83333333'
     longitude: '-56.33333333'
-    emoji: '??'
+    emoji: 🇵🇲
     emojiU: 'U+1F1F5 U+1F1F2'
     cities: {  }
   -
@@ -539539,7 +539539,7 @@ country_city:
       tr: 'Saint Vincent Ve Grenadinler'
     latitude: '13.25000000'
     longitude: '-61.20000000'
-    emoji: '??'
+    emoji: 🇻🇨
     emojiU: 'U+1F1FB U+1F1E8'
     cities:
       -
@@ -539625,7 +539625,7 @@ country_city:
       tr: 'Saint Barthélemy'
     latitude: '18.50000000'
     longitude: '-63.41666666'
-    emoji: '??'
+    emoji: 🇧🇱
     emojiU: 'U+1F1E7 U+1F1F1'
     cities: {  }
   -
@@ -539666,7 +539666,7 @@ country_city:
       tr: 'Saint Martin'
     latitude: '18.08333333'
     longitude: '-63.95000000'
-    emoji: '??'
+    emoji: 🇲🇫
     emojiU: 'U+1F1F2 U+1F1EB'
     cities: {  }
   -
@@ -539707,7 +539707,7 @@ country_city:
       tr: Samoa
     latitude: '-13.58333333'
     longitude: '-172.33333333'
-    emoji: '??'
+    emoji: 🇼🇸
     emojiU: 'U+1F1FC U+1F1F8'
     cities:
       -
@@ -539848,7 +539848,7 @@ country_city:
       tr: 'San Marino'
     latitude: '43.76666666'
     longitude: '12.41666666'
-    emoji: '??'
+    emoji: 🇸🇲
     emojiU: 'U+1F1F8 U+1F1F2'
     cities:
       -
@@ -539934,7 +539934,7 @@ country_city:
       tr: 'Sao Tome Ve Prinsipe'
     latitude: '1.00000000'
     longitude: '7.00000000'
-    emoji: '??'
+    emoji: 🇸🇹
     emojiU: 'U+1F1F8 U+1F1F9'
     cities:
       -
@@ -540000,7 +540000,7 @@ country_city:
       tr: 'Suudi Arabistan'
     latitude: '25.00000000'
     longitude: '45.00000000'
-    emoji: '??'
+    emoji: 🇸🇦
     emojiU: 'U+1F1F8 U+1F1E6'
     cities:
       -
@@ -542856,7 +542856,7 @@ country_city:
       tr: Senegal
     latitude: '14.00000000'
     longitude: '-14.00000000'
-    emoji: '??'
+    emoji: 🇸🇳
     emojiU: 'U+1F1F8 U+1F1F3'
     cities:
       -
@@ -543262,7 +543262,7 @@ country_city:
       tr: Sirbistan
     latitude: '44.00000000'
     longitude: '21.00000000'
-    emoji: '??'
+    emoji: 🇷🇸
     emojiU: 'U+1F1F7 U+1F1F8'
     cities:
       -
@@ -544973,7 +544973,7 @@ country_city:
       tr: Seyşeller
     latitude: '-4.58333333'
     longitude: '55.66666666'
-    emoji: '??'
+    emoji: 🇸🇨
     emojiU: 'U+1F1F8 U+1F1E8'
     cities:
       -
@@ -545054,7 +545054,7 @@ country_city:
       tr: 'Sierra Leone'
     latitude: '8.50000000'
     longitude: '-11.50000000'
-    emoji: '??'
+    emoji: 🇸🇱
     emojiU: 'U+1F1F8 U+1F1F1'
     cities:
       -
@@ -545545,7 +545545,7 @@ country_city:
       tr: Singapur
     latitude: '1.36666666'
     longitude: '103.80000000'
-    emoji: '??'
+    emoji: 🇸🇬
     emojiU: 'U+1F1F8 U+1F1EC'
     cities:
       -
@@ -545593,7 +545593,7 @@ country_city:
       tr: 'Sint Maarten'
     latitude: '18.03333300'
     longitude: '-63.05000000'
-    emoji: '??'
+    emoji: 🇸🇽
     emojiU: 'U+1F1F8 U+1F1FD'
     cities: {  }
   -
@@ -545634,7 +545634,7 @@ country_city:
       tr: Slovakya
     latitude: '48.66666666'
     longitude: '19.50000000'
-    emoji: '??'
+    emoji: 🇸🇰
     emojiU: 'U+1F1F8 U+1F1F0'
     cities:
       -
@@ -546840,7 +546840,7 @@ country_city:
       tr: Slovenya
     latitude: '46.11666666'
     longitude: '14.81666666'
-    emoji: '??'
+    emoji: 🇸🇮
     emojiU: 'U+1F1F8 U+1F1EE'
     cities:
       -
@@ -548436,7 +548436,7 @@ country_city:
       tr: 'Solomon Adalari'
     latitude: '-8.00000000'
     longitude: '159.00000000'
-    emoji: '??'
+    emoji: 🇸🇧
     emojiU: 'U+1F1F8 U+1F1E7'
     cities:
       -
@@ -548512,7 +548512,7 @@ country_city:
       tr: Somali
     latitude: '10.00000000'
     longitude: '49.00000000'
-    emoji: '??'
+    emoji: 🇸🇴
     emojiU: 'U+1F1F8 U+1F1F4'
     cities:
       -
@@ -548783,7 +548783,7 @@ country_city:
       tr: 'Güney Afrika Cumhuriyeti'
     latitude: '-29.00000000'
     longitude: '24.00000000'
-    emoji: '??'
+    emoji: 🇿🇦
     emojiU: 'U+1F1FF U+1F1E6'
     cities:
       -
@@ -550394,7 +550394,7 @@ country_city:
       tr: 'Güney Georgia'
     latitude: '-54.50000000'
     longitude: '-37.00000000'
-    emoji: '??'
+    emoji: 🇬🇸
     emojiU: 'U+1F1EC U+1F1F8'
     cities: {  }
   -
@@ -550435,7 +550435,7 @@ country_city:
       tr: 'Güney Kore'
     latitude: '37.00000000'
     longitude: '127.50000000'
-    emoji: '??'
+    emoji: 🇰🇷
     emojiU: 'U+1F1F0 U+1F1F7'
     cities:
       -
@@ -552021,7 +552021,7 @@ country_city:
       tr: 'Güney Sudan'
     latitude: '7.00000000'
     longitude: '30.00000000'
-    emoji: '??'
+    emoji: 🇸🇸
     emojiU: 'U+1F1F8 U+1F1F8'
     cities:
       -
@@ -552079,7 +552079,7 @@ country_city:
       tr: İspanya
     latitude: '40.00000000'
     longitude: '-4.00000000'
-    emoji: '??'
+    emoji: 🇪🇸
     emojiU: 'U+1F1EA U+1F1F8'
     cities:
       -
@@ -585580,7 +585580,7 @@ country_city:
       tr: 'Sri Lanka'
     latitude: '7.00000000'
     longitude: '81.00000000'
-    emoji: '??'
+    emoji: 🇱🇰
     emojiU: 'U+1F1F1 U+1F1F0'
     cities:
       -
@@ -586356,7 +586356,7 @@ country_city:
       tr: Sudan
     latitude: '15.00000000'
     longitude: '30.00000000'
-    emoji: '??'
+    emoji: 🇸🇩
     emojiU: 'U+1F1F8 U+1F1E9'
     cities:
       -
@@ -586752,7 +586752,7 @@ country_city:
       tr: Surinam
     latitude: '4.00000000'
     longitude: '-56.00000000'
-    emoji: '??'
+    emoji: 🇸🇷
     emojiU: 'U+1F1F8 U+1F1F7'
     cities:
       -
@@ -586858,7 +586858,7 @@ country_city:
       tr: 'Svalbard Ve Jan Mayen'
     latitude: '78.00000000'
     longitude: '20.00000000'
-    emoji: '??'
+    emoji: 🇸🇯
     emojiU: 'U+1F1F8 U+1F1EF'
     cities: {  }
   -
@@ -586899,7 +586899,7 @@ country_city:
       tr: Esvatini
     latitude: '-26.50000000'
     longitude: '31.50000000'
-    emoji: '??'
+    emoji: 🇸🇿
     emojiU: 'U+1F1F8 U+1F1FF'
     cities:
       -
@@ -587110,7 +587110,7 @@ country_city:
       tr: İsveç
     latitude: '62.00000000'
     longitude: '15.00000000'
-    emoji: '??'
+    emoji: 🇸🇪
     emojiU: 'U+1F1F8 U+1F1EA'
     cities:
       -
@@ -591151,7 +591151,7 @@ country_city:
       tr: İsviçre
     latitude: '47.00000000'
     longitude: '8.00000000'
-    emoji: '??'
+    emoji: 🇨🇭
     emojiU: 'U+1F1E8 U+1F1ED'
     cities:
       -
@@ -598722,7 +598722,7 @@ country_city:
       tr: Suriye
     latitude: '35.00000000'
     longitude: '38.00000000'
-    emoji: '??'
+    emoji: 🇸🇾
     emojiU: 'U+1F1F8 U+1F1FE'
     cities:
       -
@@ -599473,7 +599473,7 @@ country_city:
       tr: Tayvan
     latitude: '23.50000000'
     longitude: '121.00000000'
-    emoji: '??'
+    emoji: 🇹🇼
     emojiU: 'U+1F1F9 U+1F1FC'
     cities:
       -
@@ -599714,7 +599714,7 @@ country_city:
       tr: Tacikistan
     latitude: '39.00000000'
     longitude: '71.00000000'
-    emoji: '??'
+    emoji: 🇹🇯
     emojiU: 'U+1F1F9 U+1F1EF'
     cities:
       -
@@ -600105,7 +600105,7 @@ country_city:
       tr: Tanzanya
     latitude: '-6.00000000'
     longitude: '35.00000000'
-    emoji: '??'
+    emoji: 🇹🇿
     emojiU: 'U+1F1F9 U+1F1FF'
     cities:
       -
@@ -601641,7 +601641,7 @@ country_city:
       tr: Tayland
     latitude: '15.00000000'
     longitude: '100.00000000'
-    emoji: '??'
+    emoji: 🇹🇭
     emojiU: 'U+1F1F9 U+1F1ED'
     cities:
       -
@@ -607882,7 +607882,7 @@ country_city:
       tr: Bahamalar
     latitude: '24.25000000'
     longitude: '-76.00000000'
-    emoji: '??'
+    emoji: 🇧🇸
     emojiU: 'U+1F1E7 U+1F1F8'
     cities:
       -
@@ -608028,7 +608028,7 @@ country_city:
       tr: Togo
     latitude: '8.00000000'
     longitude: '1.16666666'
-    emoji: '??'
+    emoji: 🇹🇬
     emojiU: 'U+1F1F9 U+1F1EC'
     cities:
       -
@@ -608179,7 +608179,7 @@ country_city:
       tr: Tokelau
     latitude: '-9.00000000'
     longitude: '-172.00000000'
-    emoji: '??'
+    emoji: 🇹🇰
     emojiU: 'U+1F1F9 U+1F1F0'
     cities: {  }
   -
@@ -608220,7 +608220,7 @@ country_city:
       tr: Tonga
     latitude: '-20.00000000'
     longitude: '-175.00000000'
-    emoji: '??'
+    emoji: 🇹🇴
     emojiU: 'U+1F1F9 U+1F1F4'
     cities:
       -
@@ -608301,7 +608301,7 @@ country_city:
       tr: 'Trinidad Ve Tobago'
     latitude: '11.00000000'
     longitude: '-61.00000000'
-    emoji: '??'
+    emoji: 🇹🇹
     emojiU: 'U+1F1F9 U+1F1F9'
     cities:
       -
@@ -608467,7 +608467,7 @@ country_city:
       tr: Tunus
     latitude: '34.00000000'
     longitude: '9.00000000'
-    emoji: '??'
+    emoji: 🇹🇳
     emojiU: 'U+1F1F9 U+1F1F3'
     cities:
       -
@@ -609178,7 +609178,7 @@ country_city:
       tr: Türkiye
     latitude: '39.00000000'
     longitude: '35.00000000'
-    emoji: '??'
+    emoji: 🇹🇷
     emojiU: 'U+1F1F9 U+1F1F7'
     cities:
       -
@@ -615954,7 +615954,7 @@ country_city:
       tr: Türkmenistan
     latitude: '40.00000000'
     longitude: '60.00000000'
-    emoji: '??'
+    emoji: 🇹🇲
     emojiU: 'U+1F1F9 U+1F1F2'
     cities:
       -
@@ -616145,7 +616145,7 @@ country_city:
       tr: 'Turks Ve Caicos Adalari'
     latitude: '21.75000000'
     longitude: '-71.58333333'
-    emoji: '??'
+    emoji: 🇹🇨
     emojiU: 'U+1F1F9 U+1F1E8'
     cities: {  }
   -
@@ -616186,7 +616186,7 @@ country_city:
       tr: Tuvalu
     latitude: '-8.00000000'
     longitude: '178.00000000'
-    emoji: '??'
+    emoji: 🇹🇻
     emojiU: 'U+1F1F9 U+1F1FB'
     cities:
       -
@@ -616272,7 +616272,7 @@ country_city:
       tr: Uganda
     latitude: '1.00000000'
     longitude: '32.00000000'
-    emoji: '??'
+    emoji: 🇺🇬
     emojiU: 'U+1F1FA U+1F1EC'
     cities:
       -
@@ -616786,7 +616786,7 @@ country_city:
       tr: Ukrayna
     latitude: '49.00000000'
     longitude: '32.00000000'
-    emoji: '??'
+    emoji: 🇺🇦
     emojiU: 'U+1F1FA U+1F1E6'
     cities:
       -
@@ -625847,7 +625847,7 @@ country_city:
       tr: 'Birleşik Arap Emirlikleri'
     latitude: '24.00000000'
     longitude: '54.00000000'
-    emoji: '??'
+    emoji: 🇦🇪
     emojiU: 'U+1F1E6 U+1F1EA'
     cities:
       -
@@ -626083,7 +626083,7 @@ country_city:
       tr: 'Birleşik Krallik'
     latitude: '54.00000000'
     longitude: '-2.00000000'
-    emoji: '??'
+    emoji: 🇬🇧
     emojiU: 'U+1F1EC U+1F1E7'
     cities:
       -
@@ -645647,7 +645647,7 @@ country_city:
       tr: Amerika
     latitude: '38.00000000'
     longitude: '-97.00000000'
-    emoji: '??'
+    emoji: 🇺🇸
     emojiU: 'U+1F1FA U+1F1F8'
     cities:
       -
@@ -744799,7 +744799,7 @@ country_city:
       tr: 'Abd Küçük Harici Adalari'
     latitude: '0.00000000'
     longitude: '0.00000000'
-    emoji: '??'
+    emoji: 🇺🇲
     emojiU: 'U+1F1FA U+1F1F2'
     cities: {  }
   -
@@ -744840,7 +744840,7 @@ country_city:
       tr: Uruguay
     latitude: '-33.00000000'
     longitude: '-56.00000000'
-    emoji: '??'
+    emoji: 🇺🇾
     emojiU: 'U+1F1FA U+1F1FE'
     cities:
       -
@@ -745662,7 +745662,7 @@ country_city:
       tr: Özbekistan
     latitude: '41.00000000'
     longitude: '64.00000000'
-    emoji: '??'
+    emoji: 🇺🇿
     emojiU: 'U+1F1FA U+1F1FF'
     cities:
       -
@@ -746378,7 +746378,7 @@ country_city:
       tr: Vanuatu
     latitude: '-16.00000000'
     longitude: '167.00000000'
-    emoji: '??'
+    emoji: 🇻🇺
     emojiU: 'U+1F1FB U+1F1FA'
     cities:
       -
@@ -746454,7 +746454,7 @@ country_city:
       tr: Vatikan
     latitude: '41.90000000'
     longitude: '12.45000000'
-    emoji: '??'
+    emoji: 🇻🇦
     emojiU: 'U+1F1FB U+1F1E6'
     cities: {  }
   -
@@ -746495,7 +746495,7 @@ country_city:
       tr: Venezuela
     latitude: '8.00000000'
     longitude: '-66.00000000'
-    emoji: '??'
+    emoji: 🇻🇪
     emojiU: 'U+1F1FB U+1F1EA'
     cities:
       -
@@ -747211,7 +747211,7 @@ country_city:
       tr: Vietnam
     latitude: '16.16666666'
     longitude: '107.83333333'
-    emoji: '??'
+    emoji: 🇻🇳
     emojiU: 'U+1F1FB U+1F1F3'
     cities:
       -
@@ -749587,7 +749587,7 @@ country_city:
       tr: 'Britanya Virjin Adalari'
     latitude: '18.43138300'
     longitude: '-64.62305000'
-    emoji: '??'
+    emoji: 🇻🇬
     emojiU: 'U+1F1FB U+1F1EC'
     cities: {  }
   -
@@ -749627,7 +749627,7 @@ country_city:
       tr: 'Abd Virjin Adalari'
     latitude: '18.34000000'
     longitude: '-64.93000000'
-    emoji: '??'
+    emoji: 🇻🇮
     emojiU: 'U+1F1FB U+1F1EE'
     cities:
       -
@@ -749768,7 +749768,7 @@ country_city:
       tr: 'Wallis Ve Futuna'
     latitude: '-13.30000000'
     longitude: '-176.20000000'
-    emoji: '??'
+    emoji: 🇼🇫
     emojiU: 'U+1F1FC U+1F1EB'
     cities: {  }
   -
@@ -749809,7 +749809,7 @@ country_city:
       tr: 'Bati Sahra'
     latitude: '24.50000000'
     longitude: '-13.00000000'
-    emoji: '??'
+    emoji: 🇪🇭
     emojiU: 'U+1F1EA U+1F1ED'
     cities: {  }
   -
@@ -749850,7 +749850,7 @@ country_city:
       tr: Yemen
     latitude: '15.00000000'
     longitude: '48.00000000'
-    emoji: '??'
+    emoji: 🇾🇪
     emojiU: 'U+1F1FE U+1F1EA'
     cities:
       -
@@ -751601,7 +751601,7 @@ country_city:
       tr: Zambiya
     latitude: '-15.00000000'
     longitude: '30.00000000'
-    emoji: '??'
+    emoji: 🇿🇲
     emojiU: 'U+1F1FF U+1F1F2'
     cities:
       -
@@ -751997,7 +751997,7 @@ country_city:
       tr: Zimbabve
     latitude: '-20.00000000'
     longitude: '30.00000000'
-    emoji: '??'
+    emoji: 🇿🇼
     emojiU: 'U+1F1FF U+1F1FC'
     cities:
       -
