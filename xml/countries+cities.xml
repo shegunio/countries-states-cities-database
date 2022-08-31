@@ -109459,6 +109459,12 @@
       <longitude>18.33530000</longitude>
     </cities>
     <cities>
+      <id>153256</id>
+      <name>Baguirmi Department</name>
+      <latitude>11.39833333</latitude>
+      <longitude>16.16750000</longitude>
+    </cities>
+    <cities>
       <id>105129</id>
       <name>Bébédja</name>
       <latitude>8.67610000</latitude>
@@ -109519,6 +109525,24 @@
       <longitude>15.37222000</longitude>
     </cities>
     <cities>
+      <id>153257</id>
+      <name>Bousso</name>
+      <latitude>10.48250000</latitude>
+      <longitude>16.71611111</longitude>
+    </cities>
+    <cities>
+      <id>153258</id>
+      <name>Chari Department</name>
+      <latitude>12.05000000</latitude>
+      <longitude>15.30000000</longitude>
+    </cities>
+    <cities>
+      <id>153259</id>
+      <name>Dababa</name>
+      <latitude>12.38000000</latitude>
+      <longitude>17.06000000</longitude>
+    </cities>
+    <cities>
       <id>105131</id>
       <name>Doba</name>
       <latitude>8.65000000</latitude>
@@ -109537,6 +109561,12 @@
       <longitude>19.10428000</longitude>
     </cities>
     <cities>
+      <id>153260</id>
+      <name>Gaoui</name>
+      <latitude>12.18070000</latitude>
+      <longitude>15.14760000</longitude>
+    </cities>
+    <cities>
       <id>105134</id>
       <name>Goundi</name>
       <latitude>9.36267000</latitude>
@@ -109549,16 +109579,16 @@
       <longitude>15.51320000</longitude>
     </cities>
     <cities>
-      <id>105136</id>
-      <name>Goz Beïda</name>
-      <latitude>12.22484000</latitude>
-      <longitude>21.41034000</longitude>
-    </cities>
-    <cities>
       <id>105137</id>
       <name>Goz Béïda</name>
       <latitude>13.94563000</latitude>
       <longitude>20.54680000</longitude>
+    </cities>
+    <cities>
+      <id>105136</id>
+      <name>Goz Beïda</name>
+      <latitude>12.22484000</latitude>
+      <longitude>21.41034000</longitude>
     </cities>
     <cities>
       <id>105138</id>
@@ -109603,6 +109633,18 @@
       <longitude>16.30066000</longitude>
     </cities>
     <cities>
+      <id>153261</id>
+      <name>Linia</name>
+      <latitude>12.05000000</latitude>
+      <longitude>15.30000000</longitude>
+    </cities>
+    <cities>
+      <id>153262</id>
+      <name>Mandjafa</name>
+      <latitude>11.19861111</latitude>
+      <longitude>15.36111111</longitude>
+    </cities>
+    <cities>
       <id>105145</id>
       <name>Mao</name>
       <latitude>14.12116000</latitude>
@@ -109619,6 +109661,12 @@
       <name>Massakory</name>
       <latitude>12.99600000</latitude>
       <longitude>15.72927000</longitude>
+    </cities>
+    <cities>
+      <id>153263</id>
+      <name>Massenya</name>
+      <latitude>11.40277778</latitude>
+      <longitude>16.17000000</longitude>
     </cities>
     <cities>
       <id>105148</id>
@@ -109655,6 +109703,12 @@
       <name>Moussoro</name>
       <latitude>13.64143000</latitude>
       <longitude>16.48941000</longitude>
+    </cities>
+    <cities>
+      <id>153264</id>
+      <name>N'Djamena</name>
+      <latitude>12.11000000</latitude>
+      <longitude>15.05000000</longitude>
     </cities>
     <cities>
       <id>105154</id>
@@ -114206,12 +114260,6 @@
       <name>Hongyang</name>
       <latitude>26.52861000</latitude>
       <longitude>119.46250000</longitude>
-    </cities>
-    <cities>
-      <id>19630</id>
-      <name>Hongzhou</name>
-      <latitude>26.12583000</latitude>
-      <longitude>109.40889000</longitude>
     </cities>
     <cities>
       <id>19631</id>
@@ -152668,10 +152716,34 @@
       <longitude>25.73333000</longitude>
     </cities>
     <cities>
+      <id>153349</id>
+      <name>Äetsä</name>
+      <latitude>61.28333000</latitude>
+      <longitude>22.68333000</longitude>
+    </cities>
+    <cities>
       <id>39130</id>
       <name>Ähtäri</name>
       <latitude>62.55403000</latitude>
       <longitude>24.06186000</longitude>
+    </cities>
+    <cities>
+      <id>153290</id>
+      <name>Aimala</name>
+      <latitude>61.33000000</latitude>
+      <longitude>23.69000000</longitude>
+    </cities>
+    <cities>
+      <id>153291</id>
+      <name>Aitoo</name>
+      <latitude>61.33897400</latitude>
+      <longitude>24.49431900</longitude>
+    </cities>
+    <cities>
+      <id>153292</id>
+      <name>Akaa</name>
+      <latitude>61.16666667</latitude>
+      <longitude>23.86805556</longitude>
     </cities>
     <cities>
       <id>38730</id>
@@ -152702,6 +152774,12 @@
       <name>Alavus</name>
       <latitude>62.58333000</latitude>
       <longitude>23.61667000</longitude>
+    </cities>
+    <cities>
+      <id>153293</id>
+      <name>Amuri</name>
+      <latitude>61.50000000</latitude>
+      <longitude>23.74500000</longitude>
     </cities>
     <cities>
       <id>38735</id>
@@ -152830,6 +152908,12 @@
       <longitude>25.36667000</longitude>
     </cities>
     <cities>
+      <id>153294</id>
+      <name>Haihara</name>
+      <latitude>61.47630000</latitude>
+      <longitude>23.87711000</longitude>
+    </cities>
+    <cities>
       <id>38756</id>
       <name>Hailuoto</name>
       <latitude>65.00900000</latitude>
@@ -152842,6 +152926,12 @@
       <longitude>23.08333000</longitude>
     </cities>
     <cities>
+      <id>153295</id>
+      <name>Hallila</name>
+      <latitude>61.46250000</latitude>
+      <longitude>23.82916667</longitude>
+    </cities>
+    <cities>
       <id>38758</id>
       <name>Halsua</name>
       <latitude>63.46667000</latitude>
@@ -152852,6 +152942,12 @@
       <name>Hämeenkoski</name>
       <latitude>61.02222000</latitude>
       <longitude>25.15417000</longitude>
+    </cities>
+    <cities>
+      <id>153297</id>
+      <name>Hämeenkyrö</name>
+      <latitude>61.63333333</latitude>
+      <longitude>23.20000000</longitude>
     </cities>
     <cities>
       <id>38781</id>
@@ -152932,6 +153028,12 @@
       <longitude>24.93545000</longitude>
     </cities>
     <cities>
+      <id>153296</id>
+      <name>Hervanta</name>
+      <latitude>61.44810000</latitude>
+      <longitude>23.85210000</longitude>
+    </cities>
+    <cities>
       <id>38771</id>
       <name>Hietalahti</name>
       <latitude>63.08480000</latitude>
@@ -152992,16 +153094,16 @@
       <longitude>25.37310000</longitude>
     </cities>
     <cities>
-      <id>38783</id>
-      <name>Iisalmi</name>
-      <latitude>63.55915000</latitude>
-      <longitude>27.19067000</longitude>
-    </cities>
-    <cities>
       <id>38784</id>
       <name>Iitti</name>
       <latitude>60.89488000</latitude>
       <longitude>26.33869000</longitude>
+    </cities>
+    <cities>
+      <id>153298</id>
+      <name>Ikaalinen</name>
+      <latitude>61.76944444</latitude>
+      <longitude>23.06805556</longitude>
     </cities>
     <cities>
       <id>38785</id>
@@ -153142,12 +153244,6 @@
       <longitude>28.50763000</longitude>
     </cities>
     <cities>
-      <id>38803</id>
-      <name>Juankoski</name>
-      <latitude>63.06667000</latitude>
-      <longitude>28.35000000</longitude>
-    </cities>
-    <cities>
       <id>38804</id>
       <name>Jurva</name>
       <latitude>62.68333000</latitude>
@@ -153158,6 +153254,12 @@
       <name>Juuka</name>
       <latitude>63.23333000</latitude>
       <longitude>29.25000000</longitude>
+    </cities>
+    <cities>
+      <id>153299</id>
+      <name>Juupajoki</name>
+      <latitude>61.79666667</latitude>
+      <longitude>24.37000000</longitude>
     </cities>
     <cities>
       <id>38806</id>
@@ -153182,12 +153284,6 @@
       <name>Kaarina</name>
       <latitude>60.40724000</latitude>
       <longitude>22.36904000</longitude>
-    </cities>
-    <cities>
-      <id>38815</id>
-      <name>Kaavi</name>
-      <latitude>62.98333000</latitude>
-      <longitude>28.50000000</longitude>
     </cities>
     <cities>
       <id>38816</id>
@@ -153220,10 +153316,10 @@
       <longitude>24.12177000</longitude>
     </cities>
     <cities>
-      <id>38820</id>
-      <name>Kangaslampi</name>
-      <latitude>62.29563000</latitude>
-      <longitude>28.25289000</longitude>
+      <id>153300</id>
+      <name>Kangasala</name>
+      <latitude>61.46388900</latitude>
+      <longitude>24.06500000</longitude>
     </cities>
     <cities>
       <id>38821</id>
@@ -153304,12 +153400,6 @@
       <longitude>24.78333000</longitude>
     </cities>
     <cities>
-      <id>38832</id>
-      <name>Karttula</name>
-      <latitude>62.89630000</latitude>
-      <longitude>26.97045000</longitude>
-    </cities>
-    <cities>
       <id>38833</id>
       <name>Karvia</name>
       <latitude>62.13333000</latitude>
@@ -153344,12 +153434,6 @@
       <name>Kaustinen</name>
       <latitude>63.54878000</latitude>
       <longitude>23.68845000</longitude>
-    </cities>
-    <cities>
-      <id>38839</id>
-      <name>Keitele</name>
-      <latitude>63.18333000</latitude>
-      <longitude>26.36667000</longitude>
     </cities>
     <cities>
       <id>38840</id>
@@ -153412,6 +153496,12 @@
       <longitude>24.70000000</longitude>
     </cities>
     <cities>
+      <id>153301</id>
+      <name>Kihniö</name>
+      <latitude>62.20833333</latitude>
+      <longitude>23.17916667</longitude>
+    </cities>
+    <cities>
       <id>38850</id>
       <name>Kiihtelysvaara</name>
       <latitude>62.49525000</latitude>
@@ -153422,6 +153512,18 @@
       <name>Kiikala</name>
       <latitude>60.46667000</latitude>
       <longitude>23.56667000</longitude>
+    </cities>
+    <cities>
+      <id>153302</id>
+      <name>Kiikka</name>
+      <latitude>61.32077778</latitude>
+      <longitude>22.77538889</longitude>
+    </cities>
+    <cities>
+      <id>153303</id>
+      <name>Kiikoinen</name>
+      <latitude>61.45000000</latitude>
+      <longitude>22.57500000</longitude>
     </cities>
     <cities>
       <id>38852</id>
@@ -153478,12 +153580,6 @@
       <longitude>22.08333000</longitude>
     </cities>
     <cities>
-      <id>38861</id>
-      <name>Kiuruvesi</name>
-      <latitude>63.65000000</latitude>
-      <longitude>26.61667000</longitude>
-    </cities>
-    <cities>
       <id>38862</id>
       <name>Kivijärvi</name>
       <latitude>63.11984000</latitude>
@@ -153506,6 +153602,12 @@
       <name>Kolari</name>
       <latitude>67.33047000</latitude>
       <longitude>23.77785000</longitude>
+    </cities>
+    <cities>
+      <id>153304</id>
+      <name>Kolho</name>
+      <latitude>62.13333333</latitude>
+      <longitude>24.51666667</longitude>
     </cities>
     <cities>
       <id>38866</id>
@@ -153580,6 +153682,12 @@
       <longitude>23.03387000</longitude>
     </cities>
     <cities>
+      <id>153305</id>
+      <name>Kuhmalahti</name>
+      <latitude>61.50500000</latitude>
+      <longitude>24.56666667</longitude>
+    </cities>
+    <cities>
       <id>38877</id>
       <name>Kuhmo</name>
       <latitude>64.13333000</latitude>
@@ -153604,12 +153712,6 @@
       <longitude>22.16145000</longitude>
     </cities>
     <cities>
-      <id>38881</id>
-      <name>Kuopio</name>
-      <latitude>62.89238000</latitude>
-      <longitude>27.67703000</longitude>
-    </cities>
-    <cities>
       <id>38882</id>
       <name>Kuortane</name>
       <latitude>62.80000000</latitude>
@@ -153620,6 +153722,12 @@
       <name>Kurikka</name>
       <latitude>62.61667000</latitude>
       <longitude>22.41667000</longitude>
+    </cities>
+    <cities>
+      <id>153306</id>
+      <name>Kuru</name>
+      <latitude>61.87558000</latitude>
+      <longitude>23.71948000</longitude>
     </cities>
     <cities>
       <id>38884</id>
@@ -153638,6 +153746,12 @@
       <name>Kuusjoki</name>
       <latitude>60.51667000</latitude>
       <longitude>23.20000000</longitude>
+    </cities>
+    <cities>
+      <id>153307</id>
+      <name>Kylmäkoski</name>
+      <latitude>61.15000000</latitude>
+      <longitude>23.69166667</longitude>
     </cities>
     <cities>
       <id>38887</id>
@@ -153676,16 +153790,16 @@
       <longitude>22.10000000</longitude>
     </cities>
     <cities>
+      <id>153312</id>
+      <name>Längelmäki</name>
+      <latitude>61.68890000</latitude>
+      <longitude>24.69194000</longitude>
+    </cities>
+    <cities>
       <id>38896</id>
       <name>Lapinjärvi</name>
       <latitude>60.62443000</latitude>
       <longitude>26.19720000</longitude>
-    </cities>
-    <cities>
-      <id>38897</id>
-      <name>Lapinlahti</name>
-      <latitude>63.36667000</latitude>
-      <longitude>27.40000000</longitude>
     </cities>
     <cities>
       <id>38898</id>
@@ -153754,16 +153868,22 @@
       <longitude>27.80571000</longitude>
     </cities>
     <cities>
+      <id>153308</id>
+      <name>Lempäälä</name>
+      <latitude>61.31388889</latitude>
+      <longitude>23.75277778</longitude>
+    </cities>
+    <cities>
       <id>38909</id>
       <name>Lemu</name>
       <latitude>60.56667000</latitude>
       <longitude>21.96667000</longitude>
     </cities>
     <cities>
-      <id>38910</id>
-      <name>Leppävirta</name>
-      <latitude>62.49009000</latitude>
-      <longitude>27.78262000</longitude>
+      <id>153309</id>
+      <name>Lentävänniemi</name>
+      <latitude>61.52801000</latitude>
+      <longitude>23.70575000</longitude>
     </cities>
     <cities>
       <id>38911</id>
@@ -153776,6 +153896,12 @@
       <name>Lieksa</name>
       <latitude>63.31667000</latitude>
       <longitude>30.01667000</longitude>
+    </cities>
+    <cities>
+      <id>153310</id>
+      <name>Lielahti</name>
+      <latitude>61.51666667</latitude>
+      <longitude>23.66666667</longitude>
     </cities>
     <cities>
       <id>38913</id>
@@ -153838,6 +153964,12 @@
       <longitude>25.18607000</longitude>
     </cities>
     <cities>
+      <id>153311</id>
+      <name>Luopioinen</name>
+      <latitude>61.36293000</latitude>
+      <longitude>24.66781000</longitude>
+    </cities>
+    <cities>
       <id>38923</id>
       <name>Luumäki</name>
       <latitude>60.92618000</latitude>
@@ -153850,12 +153982,6 @@
       <longitude>21.62556000</longitude>
     </cities>
     <cities>
-      <id>38926</id>
-      <name>Maaninka</name>
-      <latitude>63.15523000</latitude>
-      <longitude>27.29939000</longitude>
-    </cities>
-    <cities>
       <id>38927</id>
       <name>Malax</name>
       <latitude>62.94225000</latitude>
@@ -153866,6 +153992,12 @@
       <name>Mäntsälä</name>
       <latitude>60.63333000</latitude>
       <longitude>25.31667000</longitude>
+    </cities>
+    <cities>
+      <id>153315</id>
+      <name>Mänttä</name>
+      <latitude>62.03014000</latitude>
+      <longitude>24.62791000</longitude>
     </cities>
     <cities>
       <id>38947</id>
@@ -153916,6 +154048,12 @@
       <longitude>21.86667000</longitude>
     </cities>
     <cities>
+      <id>153313</id>
+      <name>Messukylä</name>
+      <latitude>61.48527778</latitude>
+      <longitude>23.84472222</longitude>
+    </cities>
+    <cities>
       <id>38935</id>
       <name>Miehikkälä</name>
       <latitude>60.66667000</latitude>
@@ -153932,6 +154070,12 @@
       <name>Mikkeli</name>
       <latitude>61.68857000</latitude>
       <longitude>27.27227000</longitude>
+    </cities>
+    <cities>
+      <id>153314</id>
+      <name>Mouhijärvi</name>
+      <latitude>61.50000000</latitude>
+      <longitude>23.01667000</longitude>
     </cities>
     <cities>
       <id>38938</id>
@@ -153994,6 +154138,12 @@
       <longitude>21.90972000</longitude>
     </cities>
     <cities>
+      <id>153316</id>
+      <name>Naistenmatka</name>
+      <latitude>61.46518000</latitude>
+      <longitude>23.65253000</longitude>
+    </cities>
+    <cities>
       <id>38950</id>
       <name>Nakkila</name>
       <latitude>61.36667000</latitude>
@@ -154006,16 +154156,22 @@
       <longitude>25.93333000</longitude>
     </cities>
     <cities>
-      <id>38952</id>
-      <name>Nilsiä</name>
-      <latitude>63.20746000</latitude>
-      <longitude>28.08222000</longitude>
+      <id>153317</id>
+      <name>Nekala</name>
+      <latitude>61.48333333</latitude>
+      <longitude>23.79055556</longitude>
     </cities>
     <cities>
       <id>38953</id>
       <name>Nivala</name>
       <latitude>63.91667000</latitude>
       <longitude>24.96667000</longitude>
+    </cities>
+    <cities>
+      <id>153318</id>
+      <name>Nokia</name>
+      <latitude>61.47666667</latitude>
+      <longitude>23.50527778</longitude>
     </cities>
     <cities>
       <id>38954</id>
@@ -154042,6 +154198,12 @@
       <longitude>29.13965000</longitude>
     </cities>
     <cities>
+      <id>153319</id>
+      <name>Nurmi</name>
+      <latitude>61.53779000</latitude>
+      <longitude>23.94178000</longitude>
+    </cities>
+    <cities>
       <id>38958</id>
       <name>Nurmijärvi</name>
       <latitude>60.46407000</latitude>
@@ -154052,6 +154214,12 @@
       <name>Nurmo</name>
       <latitude>62.82870000</latitude>
       <longitude>22.90990000</longitude>
+    </cities>
+    <cities>
+      <id>153320</id>
+      <name>Nuutajärvi</name>
+      <latitude>61.04000000</latitude>
+      <longitude>23.43000000</longitude>
     </cities>
     <cities>
       <id>38960</id>
@@ -154076,6 +154244,18 @@
       <name>Oripää</name>
       <latitude>60.85000000</latitude>
       <longitude>22.68333000</longitude>
+    </cities>
+    <cities>
+      <id>153321</id>
+      <name>Orivesi</name>
+      <latitude>61.67777778</latitude>
+      <longitude>24.35694444</longitude>
+    </cities>
+    <cities>
+      <id>153322</id>
+      <name>Osara</name>
+      <latitude>61.70866000</latitude>
+      <longitude>23.15871000</longitude>
     </cities>
     <cities>
       <id>38964</id>
@@ -154120,6 +154300,12 @@
       <longitude>22.68694000</longitude>
     </cities>
     <cities>
+      <id>153328</id>
+      <name>Pälkäne</name>
+      <latitude>61.35403000</latitude>
+      <longitude>24.51912000</longitude>
+    </cities>
+    <cities>
       <id>38971</id>
       <name>Paltamo</name>
       <latitude>64.41667000</latitude>
@@ -154136,6 +154322,12 @@
       <name>Parikkala</name>
       <latitude>61.55000000</latitude>
       <longitude>29.50000000</longitude>
+    </cities>
+    <cities>
+      <id>153323</id>
+      <name>Parkano</name>
+      <latitude>62.00972222</latitude>
+      <longitude>23.02500000</longitude>
     </cities>
     <cities>
       <id>38974</id>
@@ -154198,12 +154390,6 @@
       <longitude>27.13333000</longitude>
     </cities>
     <cities>
-      <id>38984</id>
-      <name>Pielavesi</name>
-      <latitude>63.23333000</latitude>
-      <longitude>26.75000000</longitude>
-    </cities>
-    <cities>
       <id>38985</id>
       <name>Pihtipudas</name>
       <latitude>63.38333000</latitude>
@@ -154222,10 +154408,28 @@
       <longitude>25.96667000</longitude>
     </cities>
     <cities>
+      <id>153324</id>
+      <name>Pirkkala</name>
+      <latitude>61.46666667</latitude>
+      <longitude>23.65000000</longitude>
+    </cities>
+    <cities>
+      <id>153325</id>
+      <name>Pispala</name>
+      <latitude>61.50611111</latitude>
+      <longitude>23.70250000</longitude>
+    </cities>
+    <cities>
       <id>38988</id>
       <name>Pohja</name>
       <latitude>60.09626000</latitude>
       <longitude>23.52757000</longitude>
+    </cities>
+    <cities>
+      <id>153326</id>
+      <name>Pohjaslahti</name>
+      <latitude>62.15631000</latitude>
+      <longitude>24.13190000</longitude>
     </cities>
     <cities>
       <id>38989</id>
@@ -154292,6 +154496,12 @@
       <name>Punkaharju</name>
       <latitude>61.75883000</latitude>
       <longitude>29.38843000</longitude>
+    </cities>
+    <cities>
+      <id>153327</id>
+      <name>Punkalaidun</name>
+      <latitude>61.11166667</latitude>
+      <longitude>23.10500000</longitude>
     </cities>
     <cities>
       <id>38999</id>
@@ -154402,18 +154612,6 @@
       <longitude>21.51127000</longitude>
     </cities>
     <cities>
-      <id>39017</id>
-      <name>Rautalampi</name>
-      <latitude>62.63333000</latitude>
-      <longitude>26.83333000</longitude>
-    </cities>
-    <cities>
-      <id>39018</id>
-      <name>Rautavaara</name>
-      <latitude>63.48333000</latitude>
-      <longitude>28.30000000</longitude>
-    </cities>
-    <cities>
       <id>39019</id>
       <name>Rautjärvi</name>
       <latitude>61.43333000</latitude>
@@ -154480,6 +154678,12 @@
       <longitude>26.46203000</longitude>
     </cities>
     <cities>
+      <id>153329</id>
+      <name>Ruovesi</name>
+      <latitude>61.98333300</latitude>
+      <longitude>24.08333300</longitude>
+    </cities>
+    <cities>
       <id>39030</id>
       <name>Rusko</name>
       <latitude>60.53333000</latitude>
@@ -154498,6 +154702,12 @@
       <longitude>21.94184000</longitude>
     </cities>
     <cities>
+      <id>153334</id>
+      <name>Sääksmäki</name>
+      <latitude>61.20000000</latitude>
+      <longitude>24.06666667</longitude>
+    </cities>
+    <cities>
       <id>39034</id>
       <name>Saari</name>
       <latitude>61.65000000</latitude>
@@ -154508,6 +154718,12 @@
       <name>Saarijärvi</name>
       <latitude>62.70486000</latitude>
       <longitude>25.25396000</longitude>
+    </cities>
+    <cities>
+      <id>153330</id>
+      <name>Sahalahti</name>
+      <latitude>61.46666667</latitude>
+      <longitude>24.31666667</longitude>
     </cities>
     <cities>
       <id>39064</id>
@@ -154538,6 +154754,12 @@
       <name>Särkisalo</name>
       <latitude>60.11389000</latitude>
       <longitude>22.95000000</longitude>
+    </cities>
+    <cities>
+      <id>153331</id>
+      <name>Sastamala</name>
+      <latitude>61.34166667</latitude>
+      <longitude>22.90833333</longitude>
     </cities>
     <cities>
       <id>39039</id>
@@ -154606,12 +154828,6 @@
       <longitude>24.75924000</longitude>
     </cities>
     <cities>
-      <id>39049</id>
-      <name>Siilinjärvi</name>
-      <latitude>63.08333000</latitude>
-      <longitude>27.66667000</longitude>
-    </cities>
-    <cities>
       <id>39050</id>
       <name>Simo</name>
       <latitude>65.66667000</latitude>
@@ -154642,12 +154858,6 @@
       <longitude>23.53333000</longitude>
     </cities>
     <cities>
-      <id>39055</id>
-      <name>Sonkajärvi</name>
-      <latitude>63.66667000</latitude>
-      <longitude>27.51667000</longitude>
-    </cities>
-    <cities>
       <id>39056</id>
       <name>Sotkamo</name>
       <latitude>64.13333000</latitude>
@@ -154664,6 +154874,12 @@
       <name>Sumiainen</name>
       <latitude>62.65736000</latitude>
       <longitude>26.04642000</longitude>
+    </cities>
+    <cities>
+      <id>153332</id>
+      <name>Suodenniemi</name>
+      <latitude>61.55810000</latitude>
+      <longitude>22.78526000</longitude>
     </cities>
     <cities>
       <id>39059</id>
@@ -154684,10 +154900,10 @@
       <longitude>28.90778000</longitude>
     </cities>
     <cities>
-      <id>39062</id>
-      <name>Suonenjoki</name>
-      <latitude>62.61667000</latitude>
-      <longitude>27.13333000</longitude>
+      <id>153333</id>
+      <name>Suoniemi</name>
+      <latitude>61.44111111</latitude>
+      <longitude>23.21500000</longitude>
     </cities>
     <cities>
       <id>39063</id>
@@ -154720,6 +154936,12 @@
       <longitude>23.76823000</longitude>
     </cities>
     <cities>
+      <id>153335</id>
+      <name>Tampere</name>
+      <latitude>61.49805556</latitude>
+      <longitude>23.76000000</longitude>
+    </cities>
+    <cities>
       <id>39071</id>
       <name>Tarvasjoki</name>
       <latitude>60.58333000</latitude>
@@ -154732,16 +154954,16 @@
       <longitude>21.69590000</longitude>
     </cities>
     <cities>
+      <id>153336</id>
+      <name>Teisko</name>
+      <latitude>61.67336111</latitude>
+      <longitude>23.84766944</longitude>
+    </cities>
+    <cities>
       <id>39073</id>
       <name>Tervakoski</name>
       <latitude>60.81412000</latitude>
       <longitude>24.62594000</longitude>
-    </cities>
-    <cities>
-      <id>39074</id>
-      <name>Tervo</name>
-      <latitude>62.95000000</latitude>
-      <longitude>26.75000000</longitude>
     </cities>
     <cities>
       <id>39075</id>
@@ -154768,6 +154990,12 @@
       <longitude>24.25000000</longitude>
     </cities>
     <cities>
+      <id>153337</id>
+      <name>Toijala</name>
+      <latitude>61.16780000</latitude>
+      <longitude>23.83819000</longitude>
+    </cities>
+    <cities>
       <id>39079</id>
       <name>Toivakka</name>
       <latitude>62.10000000</latitude>
@@ -154778,6 +155006,12 @@
       <name>Tornio</name>
       <latitude>65.84811000</latitude>
       <longitude>24.14662000</longitude>
+    </cities>
+    <cities>
+      <id>153338</id>
+      <name>Tottijärvi</name>
+      <latitude>61.39777778</latitude>
+      <longitude>23.34277778</longitude>
     </cities>
     <cities>
       <id>39087</id>
@@ -154804,12 +155038,6 @@
       <longitude>30.62731000</longitude>
     </cities>
     <cities>
-      <id>39084</id>
-      <name>Tuusniemi</name>
-      <latitude>62.81667000</latitude>
-      <longitude>28.50000000</longitude>
-    </cities>
-    <cities>
       <id>39085</id>
       <name>Tuusula</name>
       <latitude>60.40368000</latitude>
@@ -154832,6 +155060,12 @@
       <name>Ulvila</name>
       <latitude>61.42844000</latitude>
       <longitude>21.87103000</longitude>
+    </cities>
+    <cities>
+      <id>153339</id>
+      <name>Urjala</name>
+      <latitude>61.08333333</latitude>
+      <longitude>23.55000000</longitude>
     </cities>
     <cities>
       <id>39090</id>
@@ -154882,10 +155116,22 @@
       <longitude>22.30000000</longitude>
     </cities>
     <cities>
+      <id>153340</id>
+      <name>Valkeakoski</name>
+      <latitude>61.26666667</latitude>
+      <longitude>24.03055556</longitude>
+    </cities>
+    <cities>
       <id>39097</id>
       <name>Valtimo</name>
       <latitude>63.66667000</latitude>
       <longitude>28.80000000</longitude>
+    </cities>
+    <cities>
+      <id>153341</id>
+      <name>Vammala</name>
+      <latitude>61.34027778</latitude>
+      <longitude>22.90972222</longitude>
     </cities>
     <cities>
       <id>39098</id>
@@ -154898,18 +155144,6 @@
       <name>Vantaa</name>
       <latitude>60.29414000</latitude>
       <longitude>25.04099000</longitude>
-    </cities>
-    <cities>
-      <id>39100</id>
-      <name>Varkaus</name>
-      <latitude>62.31533000</latitude>
-      <longitude>27.87300000</longitude>
-    </cities>
-    <cities>
-      <id>39101</id>
-      <name>Varpaisjärvi</name>
-      <latitude>63.35932000</latitude>
-      <longitude>27.75506000</longitude>
     </cities>
     <cities>
       <id>39119</id>
@@ -154930,34 +155164,22 @@
       <longitude>21.66667000</longitude>
     </cities>
     <cities>
-      <id>39103</id>
-      <name>Vehmersalmi</name>
-      <latitude>62.76101000</latitude>
-      <longitude>28.02853000</longitude>
-    </cities>
-    <cities>
       <id>39104</id>
       <name>Velkua</name>
       <latitude>60.46667000</latitude>
       <longitude>21.66667000</longitude>
     </cities>
     <cities>
-      <id>39105</id>
-      <name>Vesanto</name>
-      <latitude>62.93333000</latitude>
-      <longitude>26.41667000</longitude>
+      <id>153342</id>
+      <name>Vesilahti</name>
+      <latitude>61.31666700</latitude>
+      <longitude>23.61666700</longitude>
     </cities>
     <cities>
       <id>39106</id>
       <name>Veteli</name>
       <latitude>63.47839000</latitude>
       <longitude>23.78285000</longitude>
-    </cities>
-    <cities>
-      <id>39107</id>
-      <name>Vieremä</name>
-      <latitude>63.75000000</latitude>
-      <longitude>27.01667000</longitude>
     </cities>
     <cities>
       <id>39108</id>
@@ -154972,10 +155194,28 @@
       <longitude>24.31965000</longitude>
     </cities>
     <cities>
+      <id>153343</id>
+      <name>Viiala</name>
+      <latitude>61.21023000</latitude>
+      <longitude>23.76738000</longitude>
+    </cities>
+    <cities>
       <id>39110</id>
       <name>Viitasaari</name>
       <latitude>63.06667000</latitude>
       <longitude>25.86667000</longitude>
+    </cities>
+    <cities>
+      <id>153344</id>
+      <name>Viljakkala</name>
+      <latitude>61.70601000</latitude>
+      <longitude>23.26688000</longitude>
+    </cities>
+    <cities>
+      <id>153345</id>
+      <name>Vilppula</name>
+      <latitude>62.02121000</latitude>
+      <longitude>24.50483000</longitude>
     </cities>
     <cities>
       <id>39111</id>
@@ -154988,6 +155228,12 @@
       <name>Virojoki</name>
       <latitude>60.57940000</latitude>
       <longitude>27.70354000</longitude>
+    </cities>
+    <cities>
+      <id>153346</id>
+      <name>Virrat</name>
+      <latitude>62.24027778</latitude>
+      <longitude>23.77083333</longitude>
     </cities>
     <cities>
       <id>39113</id>
@@ -155012,6 +155258,12 @@
       <name>Vuolijoki</name>
       <latitude>64.18538000</latitude>
       <longitude>26.99547000</longitude>
+    </cities>
+    <cities>
+      <id>153347</id>
+      <name>Vuores</name>
+      <latitude>61.43100000</latitude>
+      <longitude>23.81184000</longitude>
     </cities>
     <cities>
       <id>39116</id>
@@ -155066,6 +155318,12 @@
       <name>Ylivieska</name>
       <latitude>64.08333000</latitude>
       <longitude>24.55000000</longitude>
+    </cities>
+    <cities>
+      <id>153348</id>
+      <name>Ylöjärvi</name>
+      <latitude>61.55000000</latitude>
+      <longitude>23.58333333</longitude>
     </cities>
     <cities>
       <id>39129</id>
@@ -316480,6 +316738,12 @@
       <longitude>44.23444000</longitude>
     </cities>
     <cities>
+      <id>153202</id>
+      <name>Adamiyah</name>
+      <latitude>33.36917800</latitude>
+      <longitude>44.33955940</longitude>
+    </cities>
+    <cities>
       <id>134489</id>
       <name>Al ‘Amādīyah</name>
       <latitude>37.09214000</latitude>
@@ -316496,6 +316760,18 @@
       <name>Al ‘Azīzīyah</name>
       <latitude>32.90941000</latitude>
       <longitude>45.06359000</longitude>
+    </cities>
+    <cities>
+      <id>153203</id>
+      <name>Al Adel</name>
+      <latitude>33.35912830</latitude>
+      <longitude>44.28138680</longitude>
+    </cities>
+    <cities>
+      <id>153204</id>
+      <name>Al Baladiyat</name>
+      <latitude>33.34931610</latitude>
+      <longitude>44.41071530</longitude>
     </cities>
     <cities>
       <id>134477</id>
@@ -316540,6 +316816,12 @@
       <longitude>44.22765000</longitude>
     </cities>
     <cities>
+      <id>153205</id>
+      <name>Al Jamaa</name>
+      <latitude>33.34114470</latitude>
+      <longitude>44.34062690</longitude>
+    </cities>
+    <cities>
       <id>134482</id>
       <name>Al Kūt</name>
       <latitude>32.51280000</latitude>
@@ -316570,6 +316852,24 @@
       <longitude>44.29005000</longitude>
     </cities>
     <cities>
+      <id>153206</id>
+      <name>Al Saadoon Park</name>
+      <latitude>33.32480360</latitude>
+      <longitude>44.41470980</longitude>
+    </cities>
+    <cities>
+      <id>153207</id>
+      <name>Al Salhiah</name>
+      <latitude>33.32254010</latitude>
+      <longitude>44.38425050</longitude>
+    </cities>
+    <cities>
+      <id>153208</id>
+      <name>Al Za'franiya</name>
+      <latitude>33.31857750</latitude>
+      <longitude>44.48686390</longitude>
+    </cities>
+    <cities>
       <id>134492</id>
       <name>Al-Hamdaniya</name>
       <latitude>36.27093000</latitude>
@@ -316582,6 +316882,36 @@
       <longitude>47.20355000</longitude>
     </cities>
     <cities>
+      <id>153209</id>
+      <name>Al-Ubaidi</name>
+      <latitude>33.32036030</latitude>
+      <longitude>44.45955910</longitude>
+    </cities>
+    <cities>
+      <id>153210</id>
+      <name>Al-Wahda</name>
+      <latitude>33.31115820</latitude>
+      <longitude>44.43352280</longitude>
+    </cities>
+    <cities>
+      <id>153211</id>
+      <name>Ameria</name>
+      <latitude>33.29671020</latitude>
+      <longitude>44.27076790</longitude>
+    </cities>
+    <cities>
+      <id>153212</id>
+      <name>Amil District</name>
+      <latitude>33.27606090</latitude>
+      <longitude>44.31037170</longitude>
+    </cities>
+    <cities>
+      <id>153213</id>
+      <name>Amin</name>
+      <latitude>33.31248740</latitude>
+      <longitude>44.48634150</longitude>
+    </cities>
+    <cities>
       <id>134494</id>
       <name>Ar Rumaythah</name>
       <latitude>31.52845000</latitude>
@@ -316592,6 +316922,12 @@
       <name>Ar Ruţbah</name>
       <latitude>33.03718000</latitude>
       <longitude>40.28586000</longitude>
+    </cities>
+    <cities>
+      <id>153214</id>
+      <name>Arasat AlHindiya</name>
+      <latitude>33.29335790</latitude>
+      <longitude>44.42302450</longitude>
     </cities>
     <cities>
       <id>134496</id>
@@ -316636,16 +316972,46 @@
       <longitude>43.35202000</longitude>
     </cities>
     <cities>
+      <id>153215</id>
+      <name>At Taifiya</name>
+      <latitude>33.35643940</latitude>
+      <longitude>44.35791100</longitude>
+    </cities>
+    <cities>
       <id>134502</id>
       <name>Az Zubayr</name>
       <latitude>30.39213000</latitude>
       <longitude>47.70175000</longitude>
     </cities>
     <cities>
+      <id>153216</id>
+      <name>Bab Al Moatham</name>
+      <latitude>33.36014170</latitude>
+      <longitude>44.36507700</longitude>
+    </cities>
+    <cities>
+      <id>153217</id>
+      <name>Bab Al Sharqi</name>
+      <latitude>33.33249060</latitude>
+      <longitude>44.41407910</longitude>
+    </cities>
+    <cities>
       <id>134504</id>
       <name>Baghdad</name>
       <latitude>33.34058000</latitude>
       <longitude>44.40088000</longitude>
+    </cities>
+    <cities>
+      <id>153218</id>
+      <name>Baghdad Al Jadeeda</name>
+      <latitude>33.31335440</latitude>
+      <longitude>44.47157920</longitude>
+    </cities>
+    <cities>
+      <id>153219</id>
+      <name>Baijai</name>
+      <latitude>33.33254000</latitude>
+      <longitude>44.34509550</longitude>
     </cities>
     <cities>
       <id>134505</id>
@@ -316672,10 +317038,22 @@
       <longitude>47.78040000</longitude>
     </cities>
     <cities>
+      <id>153220</id>
+      <name>Bataween</name>
+      <latitude>33.32112350</latitude>
+      <longitude>44.40855680</longitude>
+    </cities>
+    <cities>
       <id>134509</id>
       <name>Batifa</name>
       <latitude>37.17454000</latitude>
       <longitude>43.01233000</longitude>
+    </cities>
+    <cities>
+      <id>153221</id>
+      <name>Bayaa</name>
+      <latitude>33.28255440</latitude>
+      <longitude>44.37528030</longitude>
     </cities>
     <cities>
       <id>134510</id>
@@ -316690,16 +317068,76 @@
       <longitude>45.94908000</longitude>
     </cities>
     <cities>
+      <id>153222</id>
+      <name>Binouk</name>
+      <latitude>33.39278120</latitude>
+      <longitude>44.41114480</longitude>
+    </cities>
+    <cities>
+      <id>153223</id>
+      <name>Bo'aitha</name>
+      <latitude>33.24194630</latitude>
+      <longitude>44.42695090</longitude>
+    </cities>
+    <cities>
+      <id>153224</id>
+      <name>Camp Sarah</name>
+      <latitude>33.30112930</latitude>
+      <longitude>44.44469600</longitude>
+    </cities>
+    <cities>
+      <id>153225</id>
+      <name>Daoudi</name>
+      <latitude>33.31214030</latitude>
+      <longitude>44.32584820</longitude>
+    </cities>
+    <cities>
       <id>134512</id>
       <name>Dihok</name>
       <latitude>36.86709000</latitude>
       <longitude>42.98845000</longitude>
     </cities>
     <cities>
+      <id>153226</id>
+      <name>Dora</name>
+      <latitude>33.23126860</latitude>
+      <longitude>44.36198120</longitude>
+    </cities>
+    <cities>
       <id>134513</id>
       <name>Erbil</name>
       <latitude>36.18333000</latitude>
       <longitude>44.01193000</longitude>
+    </cities>
+    <cities>
+      <id>153227</id>
+      <name>Ghadeer</name>
+      <latitude>33.33749740</latitude>
+      <longitude>44.46281840</longitude>
+    </cities>
+    <cities>
+      <id>153228</id>
+      <name>Ghazaliya</name>
+      <latitude>33.34143530</latitude>
+      <longitude>44.22354420</longitude>
+    </cities>
+    <cities>
+      <id>153229</id>
+      <name>Gherai'at</name>
+      <latitude>33.39208370</latitude>
+      <longitude>44.30443140</longitude>
+    </cities>
+    <cities>
+      <id>153230</id>
+      <name>Green Zone</name>
+      <latitude>33.31376100</latitude>
+      <longitude>44.35900560</longitude>
+    </cities>
+    <cities>
+      <id>153231</id>
+      <name>Habibiya</name>
+      <latitude>33.33920270</latitude>
+      <longitude>44.46846120</longitude>
     </cities>
     <cities>
       <id>134548</id>
@@ -316714,6 +317152,12 @@
       <longitude>45.98611000</longitude>
     </cities>
     <cities>
+      <id>153232</id>
+      <name>Harthiya</name>
+      <latitude>33.22626120</latitude>
+      <longitude>44.39826750</longitude>
+    </cities>
+    <cities>
       <id>134514</id>
       <name>Hīt</name>
       <latitude>33.63664000</latitude>
@@ -316726,10 +317170,34 @@
       <longitude>42.68228000</longitude>
     </cities>
     <cities>
+      <id>153233</id>
+      <name>Hurriya</name>
+      <latitude>33.34241870</latitude>
+      <longitude>44.30656300</longitude>
+    </cities>
+    <cities>
       <id>134516</id>
       <name>Imam Qasim</name>
       <latitude>32.29799000</latitude>
       <longitude>44.68282000</longitude>
+    </cities>
+    <cities>
+      <id>153234</id>
+      <name>Iskan</name>
+      <latitude>33.33405930</latitude>
+      <longitude>44.32303100</longitude>
+    </cities>
+    <cities>
+      <id>153235</id>
+      <name>Jadriyah</name>
+      <latitude>33.26076360</latitude>
+      <longitude>44.41117200</longitude>
+    </cities>
+    <cities>
+      <id>153236</id>
+      <name>Jamila</name>
+      <latitude>33.35108840</latitude>
+      <longitude>44.41495600</longitude>
     </cities>
     <cities>
       <id>134517</id>
@@ -316738,10 +317206,40 @@
       <longitude>44.83430000</longitude>
     </cities>
     <cities>
+      <id>153237</id>
+      <name>Jihad</name>
+      <latitude>33.25289200</latitude>
+      <longitude>44.29231180</longitude>
+    </cities>
+    <cities>
+      <id>153238</id>
+      <name>Kadhimiya</name>
+      <latitude>33.38129610</latitude>
+      <longitude>44.35139180</longitude>
+    </cities>
+    <cities>
+      <id>153239</id>
+      <name>Kamaliyah</name>
+      <latitude>33.35008480</latitude>
+      <longitude>44.50894110</longitude>
+    </cities>
+    <cities>
+      <id>153240</id>
+      <name>Karada</name>
+      <latitude>33.29336610</latitude>
+      <longitude>44.39641530</longitude>
+    </cities>
+    <cities>
       <id>134518</id>
       <name>Karbala</name>
       <latitude>32.61603000</latitude>
       <longitude>44.02488000</longitude>
+    </cities>
+    <cities>
+      <id>153241</id>
+      <name>Khadra</name>
+      <latitude>33.31972470</latitude>
+      <longitude>44.28764700</longitude>
     </cities>
     <cities>
       <id>134519</id>
@@ -316780,10 +317278,28 @@
       <longitude>45.55503000</longitude>
     </cities>
     <cities>
+      <id>153242</id>
+      <name>Mansour</name>
+      <latitude>33.31422960</latitude>
+      <longitude>44.33631230</longitude>
+    </cities>
+    <cities>
+      <id>153243</id>
+      <name>Mashtal</name>
+      <latitude>33.32443210</latitude>
+      <longitude>44.49314830</longitude>
+    </cities>
+    <cities>
       <id>134525</id>
       <name>Mosul</name>
       <latitude>36.33500000</latitude>
       <longitude>43.11889000</longitude>
+    </cities>
+    <cities>
+      <id>153244</id>
+      <name>Mustansiriya</name>
+      <latitude>33.36298920</latitude>
+      <longitude>44.38695430</longitude>
     </cities>
     <cities>
       <id>134529</id>
@@ -316828,6 +317344,12 @@
       <longitude>44.85821000</longitude>
     </cities>
     <cities>
+      <id>153245</id>
+      <name>Qadisiyah</name>
+      <latitude>33.32719630</latitude>
+      <longitude>44.31623840</longitude>
+    </cities>
+    <cities>
       <id>134533</id>
       <name>Ramadi</name>
       <latitude>33.42056000</latitude>
@@ -316846,16 +317368,46 @@
       <longitude>44.52372000</longitude>
     </cities>
     <cities>
+      <id>153246</id>
+      <name>Sadr City</name>
+      <latitude>33.37692330</latitude>
+      <longitude>44.40446380</longitude>
+    </cities>
+    <cities>
+      <id>153247</id>
+      <name>Saidiya</name>
+      <latitude>33.26500930</latitude>
+      <longitude>44.33159340</longitude>
+    </cities>
+    <cities>
       <id>134540</id>
       <name>Sāmarrā’</name>
       <latitude>34.19590000</latitude>
       <longitude>43.88568000</longitude>
     </cities>
     <cities>
+      <id>153248</id>
+      <name>Sha'ab</name>
+      <latitude>33.41309100</latitude>
+      <longitude>44.38611030</longitude>
+    </cities>
+    <cities>
       <id>134536</id>
       <name>Shaqlāwah</name>
       <latitude>36.40422000</latitude>
       <longitude>44.32563000</longitude>
+    </cities>
+    <cities>
+      <id>153249</id>
+      <name>Sheik Maaruf</name>
+      <latitude>33.33896010</latitude>
+      <longitude>44.34789580</longitude>
+    </cities>
+    <cities>
+      <id>153250</id>
+      <name>Shorjah</name>
+      <latitude>33.34613940</latitude>
+      <longitude>44.39504420</longitude>
     </cities>
     <cities>
       <id>134541</id>
@@ -316874,6 +317426,12 @@
       <name>Soran</name>
       <latitude>36.65320000</latitude>
       <longitude>44.54407000</longitude>
+    </cities>
+    <cities>
+      <id>153251</id>
+      <name>Suleikh</name>
+      <latitude>33.39343320</latitude>
+      <longitude>44.36144500</longitude>
     </cities>
     <cities>
       <id>134542</id>
@@ -316906,10 +317464,34 @@
       <longitude>47.91951000</longitude>
     </cities>
     <cities>
+      <id>153252</id>
+      <name>Ur District</name>
+      <latitude>33.41694000</latitude>
+      <longitude>44.39060790</longitude>
+    </cities>
+    <cities>
+      <id>153253</id>
+      <name>Wazireya</name>
+      <latitude>33.36366170</latitude>
+      <longitude>44.38196550</longitude>
+    </cities>
+    <cities>
+      <id>153254</id>
+      <name>Yarmouk</name>
+      <latitude>33.33938360</latitude>
+      <longitude>44.32212520</longitude>
+    </cities>
+    <cities>
       <id>134547</id>
       <name>Zaxo</name>
       <latitude>37.14871000</latitude>
       <longitude>42.68591000</longitude>
+    </cities>
+    <cities>
+      <id>153255</id>
+      <name>Ziyouna</name>
+      <latitude>33.32484340</latitude>
+      <longitude>44.45454600</longitude>
     </cities>
   </country_city>
   <country_city>
@@ -743730,6 +744312,12 @@
       <longitude>9.02117000</longitude>
     </cities>
     <cities>
+      <id>153265</id>
+      <name>Azmour</name>
+      <latitude>36.92440000</latitude>
+      <longitude>11.00690000</longitude>
+    </cities>
+    <cities>
       <id>106918</id>
       <name>Banbalah</name>
       <latitude>35.70000000</latitude>
@@ -743766,10 +744354,22 @@
       <longitude>10.80869000</longitude>
     </cities>
     <cities>
+      <id>153266</id>
+      <name>Beni Khalled</name>
+      <latitude>36.65038000</latitude>
+      <longitude>10.59004000</longitude>
+    </cities>
+    <cities>
       <id>106923</id>
       <name>Beni Kheddache</name>
       <latitude>33.25279000</latitude>
       <longitude>10.19883000</longitude>
+    </cities>
+    <cities>
+      <id>153268</id>
+      <name>Béni Khiar</name>
+      <latitude>36.46666667</latitude>
+      <longitude>10.78333333</longitude>
     </cities>
     <cities>
       <id>106924</id>
@@ -743802,6 +744402,12 @@
       <longitude>9.62175000</longitude>
     </cities>
     <cities>
+      <id>153267</id>
+      <name>Bou Argoub</name>
+      <latitude>36.53853000</latitude>
+      <longitude>10.55093000</longitude>
+    </cities>
+    <cities>
       <id>106929</id>
       <name>Bou Attouche</name>
       <latitude>33.89927000</latitude>
@@ -743830,6 +744436,12 @@
       <name>Chorbane</name>
       <latitude>35.28581000</latitude>
       <longitude>10.38580000</longitude>
+    </cities>
+    <cities>
+      <id>153269</id>
+      <name>Dar Chaabane</name>
+      <latitude>36.47000000</latitude>
+      <longitude>10.75000000</longitude>
     </cities>
     <cities>
       <id>106935</id>
@@ -743898,6 +744510,12 @@
       <longitude>9.79629000</longitude>
     </cities>
     <cities>
+      <id>153270</id>
+      <name>El Haouaria</name>
+      <latitude>37.05000000</latitude>
+      <longitude>11.01111111</longitude>
+    </cities>
+    <cities>
       <id>106946</id>
       <name>El Jem</name>
       <latitude>35.30000000</latitude>
@@ -743914,6 +744532,24 @@
       <name>El Ksour</name>
       <latitude>35.89607000</latitude>
       <longitude>8.88493000</longitude>
+    </cities>
+    <cities>
+      <id>153271</id>
+      <name>El Maâmoura</name>
+      <latitude>36.46666667</latitude>
+      <longitude>10.80000000</longitude>
+    </cities>
+    <cities>
+      <id>153272</id>
+      <name>El Mida</name>
+      <latitude>36.73333333</latitude>
+      <longitude>10.85000000</longitude>
+    </cities>
+    <cities>
+      <id>153273</id>
+      <name>El Mrezga</name>
+      <latitude>36.42163000</latitude>
+      <longitude>10.66411000</longitude>
     </cities>
     <cities>
       <id>106949</id>
@@ -743970,6 +744606,12 @@
       <longitude>10.78333000</longitude>
     </cities>
     <cities>
+      <id>153274</id>
+      <name>Grombalia</name>
+      <latitude>36.61000000</latitude>
+      <longitude>10.50000000</longitude>
+    </cities>
+    <cities>
       <id>106958</id>
       <name>Haffouz</name>
       <latitude>35.63235000</latitude>
@@ -743992,6 +744634,12 @@
       <name>Hammam-Lif</name>
       <latitude>36.72866000</latitude>
       <longitude>10.34163000</longitude>
+    </cities>
+    <cities>
+      <id>153275</id>
+      <name>Hammamet</name>
+      <latitude>36.41666667</latitude>
+      <longitude>10.60000000</longitude>
     </cities>
     <cities>
       <id>106962</id>
@@ -744048,10 +744696,28 @@
       <longitude>8.96903000</longitude>
     </cities>
     <cities>
+      <id>153276</id>
+      <name>Kelibia</name>
+      <latitude>36.84750000</latitude>
+      <longitude>11.09388889</longitude>
+    </cities>
+    <cities>
       <id>106971</id>
       <name>Kesra</name>
       <latitude>35.81363000</latitude>
       <longitude>9.36434000</longitude>
+    </cities>
+    <cities>
+      <id>153277</id>
+      <name>Korba</name>
+      <latitude>36.56666667</latitude>
+      <longitude>10.86666667</longitude>
+    </cities>
+    <cities>
+      <id>153278</id>
+      <name>Korbous</name>
+      <latitude>36.81638889</latitude>
+      <longitude>10.56861111</longitude>
     </cities>
     <cities>
       <id>106972</id>
@@ -744162,6 +744828,18 @@
       <longitude>9.78594000</longitude>
     </cities>
     <cities>
+      <id>153279</id>
+      <name>Menzel Bouzelfa</name>
+      <latitude>36.68170000</latitude>
+      <longitude>10.58470000</longitude>
+    </cities>
+    <cities>
+      <id>153280</id>
+      <name>Menzel Horr</name>
+      <latitude>36.73333333</latitude>
+      <longitude>10.95000000</longitude>
+    </cities>
+    <cities>
       <id>106990</id>
       <name>Menzel Jemil</name>
       <latitude>37.23618000</latitude>
@@ -744178,6 +744856,12 @@
       <name>Menzel Salem</name>
       <latitude>35.85673000</latitude>
       <longitude>8.47654000</longitude>
+    </cities>
+    <cities>
+      <id>153281</id>
+      <name>Menzel Temime</name>
+      <latitude>36.78333333</latitude>
+      <longitude>10.98333333</longitude>
     </cities>
     <cities>
       <id>106993</id>
@@ -744226,6 +744910,12 @@
       <name>Mu‘tamadīyat Manūbah</name>
       <latitude>36.80907000</latitude>
       <longitude>10.09467000</longitude>
+    </cities>
+    <cities>
+      <id>153282</id>
+      <name>Nabeul</name>
+      <latitude>36.45138900</latitude>
+      <longitude>10.73611100</longitude>
     </cities>
     <cities>
       <id>107001</id>
@@ -744396,6 +745086,12 @@
       <longitude>10.06999000</longitude>
     </cities>
     <cities>
+      <id>153283</id>
+      <name>Soliman</name>
+      <latitude>36.69512600</latitude>
+      <longitude>10.49125700</longitude>
+    </cities>
+    <cities>
       <id>107029</id>
       <name>Sousse</name>
       <latitude>35.82539000</latitude>
@@ -744420,6 +745116,12 @@
       <longitude>8.55276000</longitude>
     </cities>
     <cities>
+      <id>153284</id>
+      <name>Takelsa</name>
+      <latitude>36.79000000</latitude>
+      <longitude>10.63000000</longitude>
+    </cities>
+    <cities>
       <id>107033</id>
       <name>Tamaghzah</name>
       <latitude>34.38849000</latitude>
@@ -744430,6 +745132,12 @@
       <name>Tataouine</name>
       <latitude>32.92967000</latitude>
       <longitude>10.45177000</longitude>
+    </cities>
+    <cities>
+      <id>153285</id>
+      <name>Tazerka</name>
+      <latitude>36.55000000</latitude>
+      <longitude>10.80000000</longitude>
     </cities>
     <cities>
       <id>107035</id>
@@ -744474,6 +745182,12 @@
       <longitude>10.03876000</longitude>
     </cities>
     <cities>
+      <id>153286</id>
+      <name>Zaouiet Djedidi</name>
+      <latitude>36.65000000</latitude>
+      <longitude>10.60000000</longitude>
+    </cities>
+    <cities>
       <id>107042</id>
       <name>Zarzis</name>
       <latitude>33.50398000</latitude>
@@ -744484,6 +745198,12 @@
       <name>Zouila</name>
       <latitude>35.50056000</latitude>
       <longitude>11.06056000</longitude>
+    </cities>
+    <cities>
+      <id>153287</id>
+      <name>Zriba</name>
+      <latitude>36.35585000</latitude>
+      <longitude>10.20603400</longitude>
     </cities>
   </country_city>
   <country_city>
@@ -835622,6 +836342,12 @@
       <longitude>-71.89920000</longitude>
     </cities>
     <cities>
+      <id>153288</id>
+      <name>Hillsborough</name>
+      <latitude>40.49807090</latitude>
+      <longitude>-74.68498850</longitude>
+    </cities>
+    <cities>
       <id>118457</id>
       <name>Hillsborough County</name>
       <latitude>27.90623000</latitude>
@@ -858900,6 +859626,12 @@
       <name>Montgomery</name>
       <latitude>44.90255000</latitude>
       <longitude>-72.63818000</longitude>
+    </cities>
+    <cities>
+      <id>153289</id>
+      <name>Montgomery</name>
+      <latitude>40.42350110</latitude>
+      <longitude>-74.74351950</longitude>
     </cities>
     <cities>
       <id>141534</id>

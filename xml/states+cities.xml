@@ -53699,7 +53699,7 @@
   </state_city>
   <state_city>
     <id>1992</id>
-    <name>Capital Governorate</name>
+    <name>Capital</name>
     <state_code>13</state_code>
     <latitude></latitude>
     <longitude></longitude>
@@ -53725,7 +53725,7 @@
   </state_city>
   <state_city>
     <id>1996</id>
-    <name>Central Governorate</name>
+    <name>Central</name>
     <state_code>16</state_code>
     <latitude>26.14260930</latitude>
     <longitude>50.56532940</longitude>
@@ -53739,7 +53739,7 @@
   </state_city>
   <state_city>
     <id>1995</id>
-    <name>Muharraq Governorate</name>
+    <name>Muharraq</name>
     <state_code>15</state_code>
     <latitude>26.26856530</latitude>
     <longitude>50.64825170</longitude>
@@ -53759,7 +53759,7 @@
   </state_city>
   <state_city>
     <id>1994</id>
-    <name>Northern Governorate</name>
+    <name>Northern</name>
     <state_code>17</state_code>
     <latitude>26.15519140</latitude>
     <longitude>50.48251730</longitude>
@@ -53768,7 +53768,7 @@
   </state_city>
   <state_city>
     <id>1993</id>
-    <name>Southern Governorate</name>
+    <name>Southern</name>
     <state_code>14</state_code>
     <latitude>25.93810180</latitude>
     <longitude>50.57568870</longitude>
@@ -112961,7 +112961,7 @@
   </state_city>
   <state_city>
     <id>3590</id>
-    <name>Batha Region</name>
+    <name>Batha</name>
     <state_code>BA</state_code>
     <latitude>13.93717750</latitude>
     <longitude>18.42760470</longitude>
@@ -112994,13 +112994,60 @@
     </cities>
   </state_city>
   <state_city>
-    <id>3578</id>
-    <name>Ennedi Region</name>
-    <state_code>EN</state_code>
-    <latitude>17.54145780</latitude>
-    <longitude>21.85685860</longitude>
+    <id>5114</id>
+    <name>Chari-Baguirmi</name>
+    <state_code>CB</state_code>
+    <latitude>11.46186260</latitude>
+    <longitude>15.24463940</longitude>
     <country_id>43</country_id>
-    <cities/>
+    <cities>
+      <id>153256</id>
+      <name>Baguirmi Department</name>
+      <latitude>11.39833333</latitude>
+      <longitude>16.16750000</longitude>
+    </cities>
+    <cities>
+      <id>153257</id>
+      <name>Bousso</name>
+      <latitude>10.48250000</latitude>
+      <longitude>16.71611111</longitude>
+    </cities>
+    <cities>
+      <id>153258</id>
+      <name>Chari Department</name>
+      <latitude>12.05000000</latitude>
+      <longitude>15.30000000</longitude>
+    </cities>
+    <cities>
+      <id>153259</id>
+      <name>Dababa</name>
+      <latitude>12.38000000</latitude>
+      <longitude>17.06000000</longitude>
+    </cities>
+    <cities>
+      <id>153260</id>
+      <name>Gaoui</name>
+      <latitude>12.18070000</latitude>
+      <longitude>15.14760000</longitude>
+    </cities>
+    <cities>
+      <id>153261</id>
+      <name>Linia</name>
+      <latitude>12.05000000</latitude>
+      <longitude>15.30000000</longitude>
+    </cities>
+    <cities>
+      <id>153262</id>
+      <name>Mandjafa</name>
+      <latitude>11.19861111</latitude>
+      <longitude>15.36111111</longitude>
+    </cities>
+    <cities>
+      <id>153263</id>
+      <name>Massenya</name>
+      <latitude>11.40277778</latitude>
+      <longitude>16.17000000</longitude>
+    </cities>
   </state_city>
   <state_city>
     <id>3575</id>
@@ -113027,7 +113074,7 @@
   </state_city>
   <state_city>
     <id>3576</id>
-    <name>Guéra Region</name>
+    <name>Guéra</name>
     <state_code>GR</state_code>
     <latitude>11.12190150</latitude>
     <longitude>18.42760470</longitude>
@@ -113079,7 +113126,7 @@
   </state_city>
   <state_city>
     <id>3588</id>
-    <name>Kanem Region</name>
+    <name>Kanem</name>
     <state_code>KA</state_code>
     <latitude>14.87812620</latitude>
     <longitude>15.40680790</longitude>
@@ -113093,7 +113140,7 @@
   </state_city>
   <state_city>
     <id>3577</id>
-    <name>Lac Region</name>
+    <name>Lac</name>
     <state_code>LC</state_code>
     <latitude>13.69153770</latitude>
     <longitude>14.10013260</longitude>
@@ -113107,7 +113154,7 @@
   </state_city>
   <state_city>
     <id>3585</id>
-    <name>Logone Occidental Region</name>
+    <name>Logone Occidental</name>
     <state_code>LO</state_code>
     <latitude>8.75967600</latitude>
     <longitude>15.87600400</longitude>
@@ -113139,7 +113186,7 @@
   </state_city>
   <state_city>
     <id>3591</id>
-    <name>Logone Oriental Region</name>
+    <name>Logone Oriental</name>
     <state_code>LR</state_code>
     <latitude>8.31499490</latitude>
     <longitude>16.34637910</longitude>
@@ -113165,7 +113212,7 @@
   </state_city>
   <state_city>
     <id>3589</id>
-    <name>Mandoul Region</name>
+    <name>Mandoul</name>
     <state_code>MA</state_code>
     <latitude>8.60309100</latitude>
     <longitude>17.47951730</longitude>
@@ -113191,7 +113238,7 @@
   </state_city>
   <state_city>
     <id>3580</id>
-    <name>Mayo-Kebbi Est Region</name>
+    <name>Mayo-Kebbi Est</name>
     <state_code>ME</state_code>
     <latitude>9.40460390</latitude>
     <longitude>14.84546190</longitude>
@@ -113217,7 +113264,7 @@
   </state_city>
   <state_city>
     <id>3571</id>
-    <name>Mayo-Kebbi Ouest Region</name>
+    <name>Mayo-Kebbi Ouest</name>
     <state_code>MO</state_code>
     <latitude>10.41130140</latitude>
     <longitude>15.59433880</longitude>
@@ -113237,7 +113284,7 @@
   </state_city>
   <state_city>
     <id>3570</id>
-    <name>Moyen-Chari Region</name>
+    <name>Moyen-Chari</name>
     <state_code>MC</state_code>
     <latitude>9.06399980</latitude>
     <longitude>18.42760470</longitude>
@@ -113262,11 +113309,16 @@
     <latitude>12.13484570</latitude>
     <longitude>15.05574150</longitude>
     <country_id>43</country_id>
-    <cities/>
+    <cities>
+      <id>153264</id>
+      <name>N'Djamena</name>
+      <latitude>12.11000000</latitude>
+      <longitude>15.05000000</longitude>
+    </cities>
   </state_city>
   <state_city>
     <id>3582</id>
-    <name>Ouaddaï Region</name>
+    <name>Ouaddaï</name>
     <state_code>OD</state_code>
     <latitude>13.74847600</latitude>
     <longitude>20.71224650</longitude>
@@ -113292,7 +113344,7 @@
   </state_city>
   <state_city>
     <id>3592</id>
-    <name>Salamat Region</name>
+    <name>Salamat</name>
     <state_code>SA</state_code>
     <latitude>10.96916010</latitude>
     <longitude>20.71224650</longitude>
@@ -113306,7 +113358,7 @@
   </state_city>
   <state_city>
     <id>3572</id>
-    <name>Sila Region</name>
+    <name>Sila</name>
     <state_code>SI</state_code>
     <latitude>12.13074000</latitude>
     <longitude>21.28450250</longitude>
@@ -113320,7 +113372,7 @@
   </state_city>
   <state_city>
     <id>3579</id>
-    <name>Tandjilé Region</name>
+    <name>Tandjilé</name>
     <state_code>TA</state_code>
     <latitude>9.66257290</latitude>
     <longitude>16.72346390</longitude>
@@ -113346,7 +113398,7 @@
   </state_city>
   <state_city>
     <id>3587</id>
-    <name>Tibesti Region</name>
+    <name>Tibesti</name>
     <state_code>TI</state_code>
     <latitude>21.36500310</latitude>
     <longitude>16.91225100</longitude>
@@ -113360,7 +113412,7 @@
   </state_city>
   <state_city>
     <id>3581</id>
-    <name>Wadi Fira Region</name>
+    <name>Wadi Fira</name>
     <state_code>WF</state_code>
     <latitude>15.08924160</latitude>
     <longitude>21.47528510</longitude>
@@ -117524,12 +117576,6 @@
       <longitude>106.71667000</longitude>
     </cities>
     <cities>
-      <id>19630</id>
-      <name>Hongzhou</name>
-      <latitude>26.12583000</latitude>
-      <longitude>109.40889000</longitude>
-    </cities>
-    <cities>
       <id>19666</id>
       <name>Huaqiu</name>
       <latitude>28.11665000</latitude>
@@ -119191,8 +119237,8 @@
     <id>2258</id>
     <name>Hunan</name>
     <state_code>HN</state_code>
-    <latitude>36.73412940</latitude>
-    <longitude>-95.93449020</longitude>
+    <latitude>27.36830090</latitude>
+    <longitude>109.28193470</longitude>
     <country_id>45</country_id>
     <cities>
       <id>19280</id>
@@ -159238,15 +159284,6 @@
     </cities>
   </state_city>
   <state_city>
-    <id>1492</id>
-    <name>Eastern Finland Province</name>
-    <state_code>IS</state_code>
-    <latitude>62.56338910</latitude>
-    <longitude>28.50240420</longitude>
-    <country_id>74</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
     <id>1507</id>
     <name>Finland Proper</name>
     <state_code>19</state_code>
@@ -159723,7 +159760,7 @@
   <state_city>
     <id>1500</id>
     <name>Lapland</name>
-    <state_code>LL</state_code>
+    <state_code>10</state_code>
     <latitude>67.92223040</latitude>
     <longitude>26.50464380</longitude>
     <country_id>74</country_id>
@@ -160374,15 +160411,6 @@
     </cities>
   </state_city>
   <state_city>
-    <id>1499</id>
-    <name>Oulu Province</name>
-    <state_code>OL</state_code>
-    <latitude>65.01207480</latitude>
-    <longitude>25.46504960</longitude>
-    <country_id>74</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
     <id>1502</id>
     <name>Päijänne Tavastia</name>
     <state_code>16</state_code>
@@ -160470,154 +160498,364 @@
     <longitude>23.78955980</longitude>
     <country_id>74</country_id>
     <cities>
-      <id>38783</id>
-      <name>Iisalmi</name>
-      <latitude>63.55915000</latitude>
-      <longitude>27.19067000</longitude>
+      <id>153349</id>
+      <name>Äetsä</name>
+      <latitude>61.28333000</latitude>
+      <longitude>22.68333000</longitude>
     </cities>
     <cities>
-      <id>38803</id>
-      <name>Juankoski</name>
-      <latitude>63.06667000</latitude>
-      <longitude>28.35000000</longitude>
+      <id>153290</id>
+      <name>Aimala</name>
+      <latitude>61.33000000</latitude>
+      <longitude>23.69000000</longitude>
     </cities>
     <cities>
-      <id>38815</id>
-      <name>Kaavi</name>
-      <latitude>62.98333000</latitude>
-      <longitude>28.50000000</longitude>
+      <id>153291</id>
+      <name>Aitoo</name>
+      <latitude>61.33897400</latitude>
+      <longitude>24.49431900</longitude>
     </cities>
     <cities>
-      <id>38820</id>
-      <name>Kangaslampi</name>
-      <latitude>62.29563000</latitude>
-      <longitude>28.25289000</longitude>
+      <id>153292</id>
+      <name>Akaa</name>
+      <latitude>61.16666667</latitude>
+      <longitude>23.86805556</longitude>
     </cities>
     <cities>
-      <id>38832</id>
-      <name>Karttula</name>
-      <latitude>62.89630000</latitude>
-      <longitude>26.97045000</longitude>
+      <id>153293</id>
+      <name>Amuri</name>
+      <latitude>61.50000000</latitude>
+      <longitude>23.74500000</longitude>
     </cities>
     <cities>
-      <id>38839</id>
-      <name>Keitele</name>
-      <latitude>63.18333000</latitude>
-      <longitude>26.36667000</longitude>
+      <id>153294</id>
+      <name>Haihara</name>
+      <latitude>61.47630000</latitude>
+      <longitude>23.87711000</longitude>
     </cities>
     <cities>
-      <id>38861</id>
-      <name>Kiuruvesi</name>
-      <latitude>63.65000000</latitude>
-      <longitude>26.61667000</longitude>
+      <id>153295</id>
+      <name>Hallila</name>
+      <latitude>61.46250000</latitude>
+      <longitude>23.82916667</longitude>
     </cities>
     <cities>
-      <id>38881</id>
-      <name>Kuopio</name>
-      <latitude>62.89238000</latitude>
-      <longitude>27.67703000</longitude>
+      <id>153297</id>
+      <name>Hämeenkyrö</name>
+      <latitude>61.63333333</latitude>
+      <longitude>23.20000000</longitude>
     </cities>
     <cities>
-      <id>38897</id>
-      <name>Lapinlahti</name>
-      <latitude>63.36667000</latitude>
-      <longitude>27.40000000</longitude>
+      <id>153296</id>
+      <name>Hervanta</name>
+      <latitude>61.44810000</latitude>
+      <longitude>23.85210000</longitude>
     </cities>
     <cities>
-      <id>38910</id>
-      <name>Leppävirta</name>
-      <latitude>62.49009000</latitude>
-      <longitude>27.78262000</longitude>
+      <id>153298</id>
+      <name>Ikaalinen</name>
+      <latitude>61.76944444</latitude>
+      <longitude>23.06805556</longitude>
     </cities>
     <cities>
-      <id>38926</id>
-      <name>Maaninka</name>
-      <latitude>63.15523000</latitude>
-      <longitude>27.29939000</longitude>
+      <id>153299</id>
+      <name>Juupajoki</name>
+      <latitude>61.79666667</latitude>
+      <longitude>24.37000000</longitude>
     </cities>
     <cities>
-      <id>38952</id>
-      <name>Nilsiä</name>
-      <latitude>63.20746000</latitude>
-      <longitude>28.08222000</longitude>
+      <id>153300</id>
+      <name>Kangasala</name>
+      <latitude>61.46388900</latitude>
+      <longitude>24.06500000</longitude>
     </cities>
     <cities>
-      <id>38984</id>
-      <name>Pielavesi</name>
-      <latitude>63.23333000</latitude>
-      <longitude>26.75000000</longitude>
+      <id>153301</id>
+      <name>Kihniö</name>
+      <latitude>62.20833333</latitude>
+      <longitude>23.17916667</longitude>
     </cities>
     <cities>
-      <id>39017</id>
-      <name>Rautalampi</name>
-      <latitude>62.63333000</latitude>
-      <longitude>26.83333000</longitude>
+      <id>153302</id>
+      <name>Kiikka</name>
+      <latitude>61.32077778</latitude>
+      <longitude>22.77538889</longitude>
     </cities>
     <cities>
-      <id>39018</id>
-      <name>Rautavaara</name>
-      <latitude>63.48333000</latitude>
-      <longitude>28.30000000</longitude>
+      <id>153303</id>
+      <name>Kiikoinen</name>
+      <latitude>61.45000000</latitude>
+      <longitude>22.57500000</longitude>
     </cities>
     <cities>
-      <id>39049</id>
-      <name>Siilinjärvi</name>
-      <latitude>63.08333000</latitude>
-      <longitude>27.66667000</longitude>
+      <id>153304</id>
+      <name>Kolho</name>
+      <latitude>62.13333333</latitude>
+      <longitude>24.51666667</longitude>
     </cities>
     <cities>
-      <id>39055</id>
-      <name>Sonkajärvi</name>
-      <latitude>63.66667000</latitude>
-      <longitude>27.51667000</longitude>
+      <id>153305</id>
+      <name>Kuhmalahti</name>
+      <latitude>61.50500000</latitude>
+      <longitude>24.56666667</longitude>
     </cities>
     <cities>
-      <id>39062</id>
-      <name>Suonenjoki</name>
-      <latitude>62.61667000</latitude>
-      <longitude>27.13333000</longitude>
+      <id>153306</id>
+      <name>Kuru</name>
+      <latitude>61.87558000</latitude>
+      <longitude>23.71948000</longitude>
     </cities>
     <cities>
-      <id>39074</id>
-      <name>Tervo</name>
-      <latitude>62.95000000</latitude>
-      <longitude>26.75000000</longitude>
+      <id>153307</id>
+      <name>Kylmäkoski</name>
+      <latitude>61.15000000</latitude>
+      <longitude>23.69166667</longitude>
     </cities>
     <cities>
-      <id>39084</id>
-      <name>Tuusniemi</name>
-      <latitude>62.81667000</latitude>
-      <longitude>28.50000000</longitude>
+      <id>153312</id>
+      <name>Längelmäki</name>
+      <latitude>61.68890000</latitude>
+      <longitude>24.69194000</longitude>
     </cities>
     <cities>
-      <id>39100</id>
-      <name>Varkaus</name>
-      <latitude>62.31533000</latitude>
-      <longitude>27.87300000</longitude>
+      <id>153308</id>
+      <name>Lempäälä</name>
+      <latitude>61.31388889</latitude>
+      <longitude>23.75277778</longitude>
     </cities>
     <cities>
-      <id>39101</id>
-      <name>Varpaisjärvi</name>
-      <latitude>63.35932000</latitude>
-      <longitude>27.75506000</longitude>
+      <id>153309</id>
+      <name>Lentävänniemi</name>
+      <latitude>61.52801000</latitude>
+      <longitude>23.70575000</longitude>
     </cities>
     <cities>
-      <id>39103</id>
-      <name>Vehmersalmi</name>
-      <latitude>62.76101000</latitude>
-      <longitude>28.02853000</longitude>
+      <id>153310</id>
+      <name>Lielahti</name>
+      <latitude>61.51666667</latitude>
+      <longitude>23.66666667</longitude>
     </cities>
     <cities>
-      <id>39105</id>
-      <name>Vesanto</name>
-      <latitude>62.93333000</latitude>
-      <longitude>26.41667000</longitude>
+      <id>153311</id>
+      <name>Luopioinen</name>
+      <latitude>61.36293000</latitude>
+      <longitude>24.66781000</longitude>
     </cities>
     <cities>
-      <id>39107</id>
-      <name>Vieremä</name>
-      <latitude>63.75000000</latitude>
-      <longitude>27.01667000</longitude>
+      <id>153315</id>
+      <name>Mänttä</name>
+      <latitude>62.03014000</latitude>
+      <longitude>24.62791000</longitude>
+    </cities>
+    <cities>
+      <id>153313</id>
+      <name>Messukylä</name>
+      <latitude>61.48527778</latitude>
+      <longitude>23.84472222</longitude>
+    </cities>
+    <cities>
+      <id>153314</id>
+      <name>Mouhijärvi</name>
+      <latitude>61.50000000</latitude>
+      <longitude>23.01667000</longitude>
+    </cities>
+    <cities>
+      <id>153316</id>
+      <name>Naistenmatka</name>
+      <latitude>61.46518000</latitude>
+      <longitude>23.65253000</longitude>
+    </cities>
+    <cities>
+      <id>153317</id>
+      <name>Nekala</name>
+      <latitude>61.48333333</latitude>
+      <longitude>23.79055556</longitude>
+    </cities>
+    <cities>
+      <id>153318</id>
+      <name>Nokia</name>
+      <latitude>61.47666667</latitude>
+      <longitude>23.50527778</longitude>
+    </cities>
+    <cities>
+      <id>153319</id>
+      <name>Nurmi</name>
+      <latitude>61.53779000</latitude>
+      <longitude>23.94178000</longitude>
+    </cities>
+    <cities>
+      <id>153320</id>
+      <name>Nuutajärvi</name>
+      <latitude>61.04000000</latitude>
+      <longitude>23.43000000</longitude>
+    </cities>
+    <cities>
+      <id>153321</id>
+      <name>Orivesi</name>
+      <latitude>61.67777778</latitude>
+      <longitude>24.35694444</longitude>
+    </cities>
+    <cities>
+      <id>153322</id>
+      <name>Osara</name>
+      <latitude>61.70866000</latitude>
+      <longitude>23.15871000</longitude>
+    </cities>
+    <cities>
+      <id>153328</id>
+      <name>Pälkäne</name>
+      <latitude>61.35403000</latitude>
+      <longitude>24.51912000</longitude>
+    </cities>
+    <cities>
+      <id>153323</id>
+      <name>Parkano</name>
+      <latitude>62.00972222</latitude>
+      <longitude>23.02500000</longitude>
+    </cities>
+    <cities>
+      <id>153324</id>
+      <name>Pirkkala</name>
+      <latitude>61.46666667</latitude>
+      <longitude>23.65000000</longitude>
+    </cities>
+    <cities>
+      <id>153325</id>
+      <name>Pispala</name>
+      <latitude>61.50611111</latitude>
+      <longitude>23.70250000</longitude>
+    </cities>
+    <cities>
+      <id>153326</id>
+      <name>Pohjaslahti</name>
+      <latitude>62.15631000</latitude>
+      <longitude>24.13190000</longitude>
+    </cities>
+    <cities>
+      <id>153327</id>
+      <name>Punkalaidun</name>
+      <latitude>61.11166667</latitude>
+      <longitude>23.10500000</longitude>
+    </cities>
+    <cities>
+      <id>153329</id>
+      <name>Ruovesi</name>
+      <latitude>61.98333300</latitude>
+      <longitude>24.08333300</longitude>
+    </cities>
+    <cities>
+      <id>153334</id>
+      <name>Sääksmäki</name>
+      <latitude>61.20000000</latitude>
+      <longitude>24.06666667</longitude>
+    </cities>
+    <cities>
+      <id>153330</id>
+      <name>Sahalahti</name>
+      <latitude>61.46666667</latitude>
+      <longitude>24.31666667</longitude>
+    </cities>
+    <cities>
+      <id>153331</id>
+      <name>Sastamala</name>
+      <latitude>61.34166667</latitude>
+      <longitude>22.90833333</longitude>
+    </cities>
+    <cities>
+      <id>153332</id>
+      <name>Suodenniemi</name>
+      <latitude>61.55810000</latitude>
+      <longitude>22.78526000</longitude>
+    </cities>
+    <cities>
+      <id>153333</id>
+      <name>Suoniemi</name>
+      <latitude>61.44111111</latitude>
+      <longitude>23.21500000</longitude>
+    </cities>
+    <cities>
+      <id>153335</id>
+      <name>Tampere</name>
+      <latitude>61.49805556</latitude>
+      <longitude>23.76000000</longitude>
+    </cities>
+    <cities>
+      <id>153336</id>
+      <name>Teisko</name>
+      <latitude>61.67336111</latitude>
+      <longitude>23.84766944</longitude>
+    </cities>
+    <cities>
+      <id>153337</id>
+      <name>Toijala</name>
+      <latitude>61.16780000</latitude>
+      <longitude>23.83819000</longitude>
+    </cities>
+    <cities>
+      <id>153338</id>
+      <name>Tottijärvi</name>
+      <latitude>61.39777778</latitude>
+      <longitude>23.34277778</longitude>
+    </cities>
+    <cities>
+      <id>153339</id>
+      <name>Urjala</name>
+      <latitude>61.08333333</latitude>
+      <longitude>23.55000000</longitude>
+    </cities>
+    <cities>
+      <id>153340</id>
+      <name>Valkeakoski</name>
+      <latitude>61.26666667</latitude>
+      <longitude>24.03055556</longitude>
+    </cities>
+    <cities>
+      <id>153341</id>
+      <name>Vammala</name>
+      <latitude>61.34027778</latitude>
+      <longitude>22.90972222</longitude>
+    </cities>
+    <cities>
+      <id>153342</id>
+      <name>Vesilahti</name>
+      <latitude>61.31666700</latitude>
+      <longitude>23.61666700</longitude>
+    </cities>
+    <cities>
+      <id>153343</id>
+      <name>Viiala</name>
+      <latitude>61.21023000</latitude>
+      <longitude>23.76738000</longitude>
+    </cities>
+    <cities>
+      <id>153344</id>
+      <name>Viljakkala</name>
+      <latitude>61.70601000</latitude>
+      <longitude>23.26688000</longitude>
+    </cities>
+    <cities>
+      <id>153345</id>
+      <name>Vilppula</name>
+      <latitude>62.02121000</latitude>
+      <longitude>24.50483000</longitude>
+    </cities>
+    <cities>
+      <id>153346</id>
+      <name>Virrat</name>
+      <latitude>62.24027778</latitude>
+      <longitude>23.77083333</longitude>
+    </cities>
+    <cities>
+      <id>153347</id>
+      <name>Vuores</name>
+      <latitude>61.43100000</latitude>
+      <longitude>23.81184000</longitude>
+    </cities>
+    <cities>
+      <id>153348</id>
+      <name>Ylöjärvi</name>
+      <latitude>61.55000000</latitude>
+      <longitude>23.58333333</longitude>
     </cities>
   </state_city>
   <state_city>
@@ -325857,7 +326095,7 @@
   </state_city>
   <state_city>
     <id>3964</id>
-    <name>Al Anbar Governorate</name>
+    <name>Al Anbar</name>
     <state_code>AN</state_code>
     <latitude>32.55976140</latitude>
     <longitude>41.91964710</longitude>
@@ -325919,7 +326157,7 @@
   </state_city>
   <state_city>
     <id>3958</id>
-    <name>Al Muthanna Governorate</name>
+    <name>Al Muthanna</name>
     <state_code>MU</state_code>
     <latitude>29.91331710</latitude>
     <longitude>45.29938620</longitude>
@@ -325939,7 +326177,7 @@
   </state_city>
   <state_city>
     <id>3956</id>
-    <name>Al-Qādisiyyah Governorate</name>
+    <name>Al-Qādisiyyah</name>
     <state_code>QA</state_code>
     <latitude>32.04369100</latitude>
     <longitude>45.14945050</longitude>
@@ -325977,7 +326215,7 @@
   </state_city>
   <state_city>
     <id>3955</id>
-    <name>Babylon Governorate</name>
+    <name>Babylon</name>
     <state_code>BB</state_code>
     <latitude>32.46819100</latitude>
     <longitude>44.55019350</longitude>
@@ -326009,7 +326247,7 @@
   </state_city>
   <state_city>
     <id>3959</id>
-    <name>Baghdad Governorate</name>
+    <name>Baghdad</name>
     <state_code>BG</state_code>
     <latitude>33.31526180</latitude>
     <longitude>44.36606530</longitude>
@@ -326027,15 +326265,339 @@
       <longitude>44.18477000</longitude>
     </cities>
     <cities>
+      <id>153202</id>
+      <name>Adamiyah</name>
+      <latitude>33.36917800</latitude>
+      <longitude>44.33955940</longitude>
+    </cities>
+    <cities>
+      <id>153203</id>
+      <name>Al Adel</name>
+      <latitude>33.35912830</latitude>
+      <longitude>44.28138680</longitude>
+    </cities>
+    <cities>
+      <id>153204</id>
+      <name>Al Baladiyat</name>
+      <latitude>33.34931610</latitude>
+      <longitude>44.41071530</longitude>
+    </cities>
+    <cities>
+      <id>153205</id>
+      <name>Al Jamaa</name>
+      <latitude>33.34114470</latitude>
+      <longitude>44.34062690</longitude>
+    </cities>
+    <cities>
+      <id>153206</id>
+      <name>Al Saadoon Park</name>
+      <latitude>33.32480360</latitude>
+      <longitude>44.41470980</longitude>
+    </cities>
+    <cities>
+      <id>153207</id>
+      <name>Al Salhiah</name>
+      <latitude>33.32254010</latitude>
+      <longitude>44.38425050</longitude>
+    </cities>
+    <cities>
+      <id>153208</id>
+      <name>Al Za'franiya</name>
+      <latitude>33.31857750</latitude>
+      <longitude>44.48686390</longitude>
+    </cities>
+    <cities>
+      <id>153209</id>
+      <name>Al-Ubaidi</name>
+      <latitude>33.32036030</latitude>
+      <longitude>44.45955910</longitude>
+    </cities>
+    <cities>
+      <id>153210</id>
+      <name>Al-Wahda</name>
+      <latitude>33.31115820</latitude>
+      <longitude>44.43352280</longitude>
+    </cities>
+    <cities>
+      <id>153211</id>
+      <name>Ameria</name>
+      <latitude>33.29671020</latitude>
+      <longitude>44.27076790</longitude>
+    </cities>
+    <cities>
+      <id>153212</id>
+      <name>Amil District</name>
+      <latitude>33.27606090</latitude>
+      <longitude>44.31037170</longitude>
+    </cities>
+    <cities>
+      <id>153213</id>
+      <name>Amin</name>
+      <latitude>33.31248740</latitude>
+      <longitude>44.48634150</longitude>
+    </cities>
+    <cities>
+      <id>153214</id>
+      <name>Arasat AlHindiya</name>
+      <latitude>33.29335790</latitude>
+      <longitude>44.42302450</longitude>
+    </cities>
+    <cities>
+      <id>153215</id>
+      <name>At Taifiya</name>
+      <latitude>33.35643940</latitude>
+      <longitude>44.35791100</longitude>
+    </cities>
+    <cities>
+      <id>153216</id>
+      <name>Bab Al Moatham</name>
+      <latitude>33.36014170</latitude>
+      <longitude>44.36507700</longitude>
+    </cities>
+    <cities>
+      <id>153217</id>
+      <name>Bab Al Sharqi</name>
+      <latitude>33.33249060</latitude>
+      <longitude>44.41407910</longitude>
+    </cities>
+    <cities>
       <id>134504</id>
       <name>Baghdad</name>
       <latitude>33.34058000</latitude>
       <longitude>44.40088000</longitude>
     </cities>
+    <cities>
+      <id>153218</id>
+      <name>Baghdad Al Jadeeda</name>
+      <latitude>33.31335440</latitude>
+      <longitude>44.47157920</longitude>
+    </cities>
+    <cities>
+      <id>153219</id>
+      <name>Baijai</name>
+      <latitude>33.33254000</latitude>
+      <longitude>44.34509550</longitude>
+    </cities>
+    <cities>
+      <id>153220</id>
+      <name>Bataween</name>
+      <latitude>33.32112350</latitude>
+      <longitude>44.40855680</longitude>
+    </cities>
+    <cities>
+      <id>153221</id>
+      <name>Bayaa</name>
+      <latitude>33.28255440</latitude>
+      <longitude>44.37528030</longitude>
+    </cities>
+    <cities>
+      <id>153222</id>
+      <name>Binouk</name>
+      <latitude>33.39278120</latitude>
+      <longitude>44.41114480</longitude>
+    </cities>
+    <cities>
+      <id>153223</id>
+      <name>Bo'aitha</name>
+      <latitude>33.24194630</latitude>
+      <longitude>44.42695090</longitude>
+    </cities>
+    <cities>
+      <id>153224</id>
+      <name>Camp Sarah</name>
+      <latitude>33.30112930</latitude>
+      <longitude>44.44469600</longitude>
+    </cities>
+    <cities>
+      <id>153225</id>
+      <name>Daoudi</name>
+      <latitude>33.31214030</latitude>
+      <longitude>44.32584820</longitude>
+    </cities>
+    <cities>
+      <id>153226</id>
+      <name>Dora</name>
+      <latitude>33.23126860</latitude>
+      <longitude>44.36198120</longitude>
+    </cities>
+    <cities>
+      <id>153227</id>
+      <name>Ghadeer</name>
+      <latitude>33.33749740</latitude>
+      <longitude>44.46281840</longitude>
+    </cities>
+    <cities>
+      <id>153228</id>
+      <name>Ghazaliya</name>
+      <latitude>33.34143530</latitude>
+      <longitude>44.22354420</longitude>
+    </cities>
+    <cities>
+      <id>153229</id>
+      <name>Gherai'at</name>
+      <latitude>33.39208370</latitude>
+      <longitude>44.30443140</longitude>
+    </cities>
+    <cities>
+      <id>153230</id>
+      <name>Green Zone</name>
+      <latitude>33.31376100</latitude>
+      <longitude>44.35900560</longitude>
+    </cities>
+    <cities>
+      <id>153231</id>
+      <name>Habibiya</name>
+      <latitude>33.33920270</latitude>
+      <longitude>44.46846120</longitude>
+    </cities>
+    <cities>
+      <id>153232</id>
+      <name>Harthiya</name>
+      <latitude>33.22626120</latitude>
+      <longitude>44.39826750</longitude>
+    </cities>
+    <cities>
+      <id>153233</id>
+      <name>Hurriya</name>
+      <latitude>33.34241870</latitude>
+      <longitude>44.30656300</longitude>
+    </cities>
+    <cities>
+      <id>153234</id>
+      <name>Iskan</name>
+      <latitude>33.33405930</latitude>
+      <longitude>44.32303100</longitude>
+    </cities>
+    <cities>
+      <id>153235</id>
+      <name>Jadriyah</name>
+      <latitude>33.26076360</latitude>
+      <longitude>44.41117200</longitude>
+    </cities>
+    <cities>
+      <id>153236</id>
+      <name>Jamila</name>
+      <latitude>33.35108840</latitude>
+      <longitude>44.41495600</longitude>
+    </cities>
+    <cities>
+      <id>153237</id>
+      <name>Jihad</name>
+      <latitude>33.25289200</latitude>
+      <longitude>44.29231180</longitude>
+    </cities>
+    <cities>
+      <id>153238</id>
+      <name>Kadhimiya</name>
+      <latitude>33.38129610</latitude>
+      <longitude>44.35139180</longitude>
+    </cities>
+    <cities>
+      <id>153239</id>
+      <name>Kamaliyah</name>
+      <latitude>33.35008480</latitude>
+      <longitude>44.50894110</longitude>
+    </cities>
+    <cities>
+      <id>153240</id>
+      <name>Karada</name>
+      <latitude>33.29336610</latitude>
+      <longitude>44.39641530</longitude>
+    </cities>
+    <cities>
+      <id>153241</id>
+      <name>Khadra</name>
+      <latitude>33.31972470</latitude>
+      <longitude>44.28764700</longitude>
+    </cities>
+    <cities>
+      <id>153242</id>
+      <name>Mansour</name>
+      <latitude>33.31422960</latitude>
+      <longitude>44.33631230</longitude>
+    </cities>
+    <cities>
+      <id>153243</id>
+      <name>Mashtal</name>
+      <latitude>33.32443210</latitude>
+      <longitude>44.49314830</longitude>
+    </cities>
+    <cities>
+      <id>153244</id>
+      <name>Mustansiriya</name>
+      <latitude>33.36298920</latitude>
+      <longitude>44.38695430</longitude>
+    </cities>
+    <cities>
+      <id>153245</id>
+      <name>Qadisiyah</name>
+      <latitude>33.32719630</latitude>
+      <longitude>44.31623840</longitude>
+    </cities>
+    <cities>
+      <id>153246</id>
+      <name>Sadr City</name>
+      <latitude>33.37692330</latitude>
+      <longitude>44.40446380</longitude>
+    </cities>
+    <cities>
+      <id>153247</id>
+      <name>Saidiya</name>
+      <latitude>33.26500930</latitude>
+      <longitude>44.33159340</longitude>
+    </cities>
+    <cities>
+      <id>153248</id>
+      <name>Sha'ab</name>
+      <latitude>33.41309100</latitude>
+      <longitude>44.38611030</longitude>
+    </cities>
+    <cities>
+      <id>153249</id>
+      <name>Sheik Maaruf</name>
+      <latitude>33.33896010</latitude>
+      <longitude>44.34789580</longitude>
+    </cities>
+    <cities>
+      <id>153250</id>
+      <name>Shorjah</name>
+      <latitude>33.34613940</latitude>
+      <longitude>44.39504420</longitude>
+    </cities>
+    <cities>
+      <id>153251</id>
+      <name>Suleikh</name>
+      <latitude>33.39343320</latitude>
+      <longitude>44.36144500</longitude>
+    </cities>
+    <cities>
+      <id>153252</id>
+      <name>Ur District</name>
+      <latitude>33.41694000</latitude>
+      <longitude>44.39060790</longitude>
+    </cities>
+    <cities>
+      <id>153253</id>
+      <name>Wazireya</name>
+      <latitude>33.36366170</latitude>
+      <longitude>44.38196550</longitude>
+    </cities>
+    <cities>
+      <id>153254</id>
+      <name>Yarmouk</name>
+      <latitude>33.33938360</latitude>
+      <longitude>44.32212520</longitude>
+    </cities>
+    <cities>
+      <id>153255</id>
+      <name>Ziyouna</name>
+      <latitude>33.32484340</latitude>
+      <longitude>44.45454600</longitude>
+    </cities>
   </state_city>
   <state_city>
     <id>3960</id>
-    <name>Basra Governorate</name>
+    <name>Basra</name>
     <state_code>BA</state_code>
     <latitude>30.51142520</latitude>
     <longitude>47.82962530</longitude>
@@ -326079,7 +326641,7 @@
   </state_city>
   <state_city>
     <id>3954</id>
-    <name>Dhi Qar Governorate</name>
+    <name>Dhi Qar</name>
     <state_code>DQ</state_code>
     <latitude>31.10422920</latitude>
     <longitude>46.36246860</longitude>
@@ -326105,7 +326667,7 @@
   </state_city>
   <state_city>
     <id>3965</id>
-    <name>Diyala Governorate</name>
+    <name>Diyala</name>
     <state_code>DI</state_code>
     <latitude>33.77334870</latitude>
     <longitude>45.14945050</longitude>
@@ -326155,7 +326717,7 @@
   </state_city>
   <state_city>
     <id>3967</id>
-    <name>Dohuk Governorate</name>
+    <name>Dohuk</name>
     <state_code>DA</state_code>
     <latitude>36.90772520</latitude>
     <longitude>43.06316890</longitude>
@@ -326193,7 +326755,7 @@
   </state_city>
   <state_city>
     <id>3968</id>
-    <name>Erbil Governorate</name>
+    <name>Erbil</name>
     <state_code>AR</state_code>
     <latitude>36.55706280</latitude>
     <longitude>44.38512630</longitude>
@@ -326237,7 +326799,7 @@
   </state_city>
   <state_city>
     <id>3957</id>
-    <name>Karbala Governorate</name>
+    <name>Karbala</name>
     <state_code>KA</state_code>
     <latitude>32.40454930</latitude>
     <longitude>43.86732220</longitude>
@@ -326257,7 +326819,7 @@
   </state_city>
   <state_city>
     <id>3971</id>
-    <name>Kirkuk Governorate</name>
+    <name>Kirkuk</name>
     <state_code>KI</state_code>
     <latitude>35.32920140</latitude>
     <longitude>43.94367880</longitude>
@@ -326271,7 +326833,7 @@
   </state_city>
   <state_city>
     <id>3966</id>
-    <name>Maysan Governorate</name>
+    <name>Maysan</name>
     <state_code>MA</state_code>
     <latitude>31.87340020</latitude>
     <longitude>47.13621250</longitude>
@@ -326297,7 +326859,7 @@
   </state_city>
   <state_city>
     <id>3962</id>
-    <name>Najaf Governorate</name>
+    <name>Najaf</name>
     <state_code>NA</state_code>
     <latitude>31.35174860</latitude>
     <longitude>44.09603110</longitude>
@@ -326323,7 +326885,7 @@
   </state_city>
   <state_city>
     <id>3963</id>
-    <name>Nineveh Governorate</name>
+    <name>Nineveh</name>
     <state_code>NI</state_code>
     <latitude>36.22957400</latitude>
     <longitude>42.23624350</longitude>
@@ -326379,7 +326941,7 @@
   </state_city>
   <state_city>
     <id>3961</id>
-    <name>Saladin Governorate</name>
+    <name>Saladin</name>
     <state_code>SD</state_code>
     <latitude>34.53375270</latitude>
     <longitude>43.48373800</longitude>
@@ -326423,7 +326985,7 @@
   </state_city>
   <state_city>
     <id>3969</id>
-    <name>Sulaymaniyah Governorate</name>
+    <name>Sulaymaniyah</name>
     <state_code>SU</state_code>
     <latitude>35.54663480</latitude>
     <longitude>45.30036830</longitude>
@@ -326455,7 +327017,7 @@
   </state_city>
   <state_city>
     <id>3970</id>
-    <name>Wasit Governorate</name>
+    <name>Wasit</name>
     <state_code>WA</state_code>
     <latitude>32.60240940</latitude>
     <longitude>45.75209850</longitude>
@@ -406279,7 +406841,7 @@
   </state_city>
   <state_city>
     <id>963</id>
-    <name>Ajloun Governorate</name>
+    <name>Ajloun</name>
     <state_code>AJ</state_code>
     <latitude>32.33255840</latitude>
     <longitude>35.75168440</longitude>
@@ -406317,7 +406879,7 @@
   </state_city>
   <state_city>
     <id>965</id>
-    <name>Amman Governorate</name>
+    <name>Amman</name>
     <state_code>AM</state_code>
     <latitude>31.94536330</latitude>
     <longitude>35.92838950</longitude>
@@ -406379,7 +406941,7 @@
   </state_city>
   <state_city>
     <id>959</id>
-    <name>Aqaba Governorate</name>
+    <name>Aqaba</name>
     <state_code>AQ</state_code>
     <latitude>29.53208600</latitude>
     <longitude>35.00628210</longitude>
@@ -406399,7 +406961,7 @@
   </state_city>
   <state_city>
     <id>961</id>
-    <name>Balqa Governorate</name>
+    <name>Balqa</name>
     <state_code>BA</state_code>
     <latitude>32.03668060</latitude>
     <longitude>35.72884800</longitude>
@@ -406425,7 +406987,7 @@
   </state_city>
   <state_city>
     <id>960</id>
-    <name>Irbid Governorate</name>
+    <name>Irbid</name>
     <state_code>IR</state_code>
     <latitude>32.55696360</latitude>
     <longitude>35.84789650</longitude>
@@ -406595,7 +407157,7 @@
   </state_city>
   <state_city>
     <id>966</id>
-    <name>Jerash Governorate</name>
+    <name>Jerash</name>
     <state_code>JA</state_code>
     <latitude>32.27472370</latitude>
     <longitude>35.89609540</longitude>
@@ -406651,7 +407213,7 @@
   </state_city>
   <state_city>
     <id>956</id>
-    <name>Karak Governorate</name>
+    <name>Karak</name>
     <state_code>KA</state_code>
     <latitude>31.18535270</latitude>
     <longitude>35.70476820</longitude>
@@ -406713,7 +407275,7 @@
   </state_city>
   <state_city>
     <id>964</id>
-    <name>Ma'an Governorate</name>
+    <name>Ma'an</name>
     <state_code>MN</state_code>
     <latitude>30.19267890</latitude>
     <longitude>35.72493190</longitude>
@@ -406763,7 +407325,7 @@
   </state_city>
   <state_city>
     <id>958</id>
-    <name>Madaba Governorate</name>
+    <name>Madaba</name>
     <state_code>MD</state_code>
     <latitude>31.71960970</latitude>
     <longitude>35.79327540</longitude>
@@ -406777,7 +407339,7 @@
   </state_city>
   <state_city>
     <id>962</id>
-    <name>Mafraq Governorate</name>
+    <name>Mafraq</name>
     <state_code>MA</state_code>
     <latitude>32.34169230</latitude>
     <longitude>36.20201750</longitude>
@@ -406821,7 +407383,7 @@
   </state_city>
   <state_city>
     <id>957</id>
-    <name>Tafilah Governorate</name>
+    <name>Tafilah</name>
     <state_code>AT</state_code>
     <latitude>30.83380630</latitude>
     <longitude>35.61605130</longitude>
@@ -406841,7 +407403,7 @@
   </state_city>
   <state_city>
     <id>967</id>
-    <name>Zarqa Governorate</name>
+    <name>Zarqa</name>
     <state_code>AZ</state_code>
     <latitude>32.06085050</latitude>
     <longitude>36.09421210</longitude>
@@ -409917,7 +410479,7 @@
   </state_city>
   <state_city>
     <id>977</id>
-    <name>Al Ahmadi Governorate</name>
+    <name>Al Ahmadi</name>
     <state_code>AH</state_code>
     <latitude>28.57451250</latitude>
     <longitude>48.10247430</longitude>
@@ -409967,7 +410529,7 @@
   </state_city>
   <state_city>
     <id>975</id>
-    <name>Al Farwaniyah Governorate</name>
+    <name>Al Farwaniyah</name>
     <state_code>FA</state_code>
     <latitude>29.27335700</latitude>
     <longitude>47.94001540</longitude>
@@ -409987,7 +410549,7 @@
   </state_city>
   <state_city>
     <id>972</id>
-    <name>Al Jahra Governorate</name>
+    <name>Al Jahra</name>
     <state_code>JA</state_code>
     <latitude>29.99318310</latitude>
     <longitude>47.76347310</longitude>
@@ -410001,7 +410563,7 @@
   </state_city>
   <state_city>
     <id>976</id>
-    <name>Capital Governorate</name>
+    <name>Capital</name>
     <state_code>KU</state_code>
     <latitude>26.22851610</latitude>
     <longitude>50.58604970</longitude>
@@ -410039,7 +410601,7 @@
   </state_city>
   <state_city>
     <id>973</id>
-    <name>Hawalli Governorate</name>
+    <name>Hawalli</name>
     <state_code>HA</state_code>
     <latitude>29.30567160</latitude>
     <longitude>48.03076130</longitude>
@@ -410077,7 +410639,7 @@
   </state_city>
   <state_city>
     <id>974</id>
-    <name>Mubarak Al-Kabeer Governorate</name>
+    <name>Mubarak Al-Kabeer</name>
     <state_code>MU</state_code>
     <latitude>29.21224000</latitude>
     <longitude>48.06051080</longitude>
@@ -412820,7 +413382,7 @@
   </state_city>
   <state_city>
     <id>2285</id>
-    <name>Akkar Governorate</name>
+    <name>Akkar</name>
     <state_code>AK</state_code>
     <latitude>34.53287630</latitude>
     <longitude>36.13281320</longitude>
@@ -412834,7 +413396,7 @@
   </state_city>
   <state_city>
     <id>2283</id>
-    <name>Baalbek-Hermel Governorate</name>
+    <name>Baalbek-Hermel</name>
     <state_code>BH</state_code>
     <latitude>34.26585560</latitude>
     <longitude>36.34980970</longitude>
@@ -412854,7 +413416,7 @@
   </state_city>
   <state_city>
     <id>2286</id>
-    <name>Beirut Governorate</name>
+    <name>Beirut</name>
     <state_code>BA</state_code>
     <latitude>33.88861060</latitude>
     <longitude>35.49547720</longitude>
@@ -412874,7 +413436,7 @@
   </state_city>
   <state_city>
     <id>2287</id>
-    <name>Beqaa Governorate</name>
+    <name>Beqaa</name>
     <state_code>BI</state_code>
     <latitude>33.84626620</latitude>
     <longitude>35.90194890</longitude>
@@ -412894,7 +413456,7 @@
   </state_city>
   <state_city>
     <id>2282</id>
-    <name>Mount Lebanon Governorate</name>
+    <name>Mount Lebanon</name>
     <state_code>JL</state_code>
     <latitude>33.81008580</latitude>
     <longitude>35.59731390</longitude>
@@ -412938,7 +413500,7 @@
   </state_city>
   <state_city>
     <id>2288</id>
-    <name>Nabatieh Governorate</name>
+    <name>Nabatieh</name>
     <state_code>NA</state_code>
     <latitude>33.37716930</latitude>
     <longitude>35.48382930</longitude>
@@ -412982,7 +413544,7 @@
   </state_city>
   <state_city>
     <id>2284</id>
-    <name>North Governorate</name>
+    <name>North</name>
     <state_code>AS</state_code>
     <latitude>34.43806250</latitude>
     <longitude>35.83082330</longitude>
@@ -413008,7 +413570,7 @@
   </state_city>
   <state_city>
     <id>2281</id>
-    <name>South Governorate</name>
+    <name>South</name>
     <state_code>JA</state_code>
     <latitude>33.27214790</latitude>
     <longitude>35.20327780</longitude>
@@ -505584,7 +506146,7 @@
   </state_city>
   <state_city>
     <id>3058</id>
-    <name>Ad Dakhiliyah Governorate</name>
+    <name>Ad Dakhiliyah</name>
     <state_code>DA</state_code>
     <latitude>22.85887580</latitude>
     <longitude>57.53943560</longitude>
@@ -505628,7 +506190,7 @@
   </state_city>
   <state_city>
     <id>3047</id>
-    <name>Ad Dhahirah Governorate</name>
+    <name>Ad Dhahirah</name>
     <state_code>ZA</state_code>
     <latitude>23.21616740</latitude>
     <longitude>56.49074440</longitude>
@@ -505648,7 +506210,7 @@
   </state_city>
   <state_city>
     <id>3048</id>
-    <name>Al Batinah North Governorate</name>
+    <name>Al Batinah North</name>
     <state_code>BS</state_code>
     <latitude>24.34198460</latitude>
     <longitude>56.72989040</longitude>
@@ -505724,7 +506286,7 @@
   </state_city>
   <state_city>
     <id>3049</id>
-    <name>Al Batinah South Governorate</name>
+    <name>Al Batinah South</name>
     <state_code>BJ</state_code>
     <latitude>23.43149030</latitude>
     <longitude>57.42397960</longitude>
@@ -505733,7 +506295,7 @@
   </state_city>
   <state_city>
     <id>3059</id>
-    <name>Al Buraimi Governorate</name>
+    <name>Al Buraimi</name>
     <state_code>BU</state_code>
     <latitude>24.16714130</latitude>
     <longitude>56.11422530</longitude>
@@ -505747,7 +506309,7 @@
   </state_city>
   <state_city>
     <id>3056</id>
-    <name>Al Wusta Governorate</name>
+    <name>Al Wusta</name>
     <state_code>WU</state_code>
     <latitude>19.95710780</latitude>
     <longitude>56.27568460</longitude>
@@ -505761,7 +506323,7 @@
   </state_city>
   <state_city>
     <id>3053</id>
-    <name>Ash Sharqiyah North Governorate</name>
+    <name>Ash Sharqiyah North</name>
     <state_code>SS</state_code>
     <latitude>22.71411960</latitude>
     <longitude>58.53080640</longitude>
@@ -505784,7 +506346,7 @@
   </state_city>
   <state_city>
     <id>3054</id>
-    <name>Ash Sharqiyah South Governorate</name>
+    <name>Ash Sharqiyah South</name>
     <state_code>SJ</state_code>
     <latitude>22.01582490</latitude>
     <longitude>59.32519220</longitude>
@@ -505793,7 +506355,7 @@
   </state_city>
   <state_city>
     <id>3057</id>
-    <name>Dhofar Governorate</name>
+    <name>Dhofar</name>
     <state_code>ZU</state_code>
     <latitude>17.03221210</latitude>
     <longitude>54.14252140</longitude>
@@ -505807,7 +506369,7 @@
   </state_city>
   <state_city>
     <id>3052</id>
-    <name>Musandam Governorate</name>
+    <name>Musandam</name>
     <state_code>MU</state_code>
     <latitude>26.19861440</latitude>
     <longitude>56.24609490</longitude>
@@ -505833,7 +506395,7 @@
   </state_city>
   <state_city>
     <id>3055</id>
-    <name>Muscat Governorate</name>
+    <name>Muscat</name>
     <state_code>MA</state_code>
     <latitude>23.58803070</latitude>
     <longitude>58.38287170</longitude>
@@ -534371,7 +534933,7 @@
   </state_city>
   <state_city>
     <id>1304</id>
-    <name>Bicol Region</name>
+    <name>Bicol</name>
     <state_code>05</state_code>
     <latitude>13.42098850</latitude>
     <longitude>123.41367360</longitude>
@@ -544374,7 +544936,7 @@
   </state_city>
   <state_city>
     <id>1335</id>
-    <name>Cordillera Administrative Region</name>
+    <name>Cordillera Administrative</name>
     <state_code>15</state_code>
     <latitude>17.35125420</latitude>
     <longitude>121.17188510</longitude>
@@ -544970,6 +545532,1244 @@
     <longitude>124.23104390</longitude>
     <country_id>174</country_id>
     <cities/>
+  </state_city>
+  <state_city>
+    <id>1340</id>
+    <name>Davao</name>
+    <state_code>11</state_code>
+    <latitude>7.30416220</latitude>
+    <longitude>126.08934060</longitude>
+    <country_id>174</country_id>
+    <cities>
+      <id>81203</id>
+      <name>Alejal</name>
+      <latitude>7.38417000</latitude>
+      <longitude>125.66000000</longitude>
+    </cities>
+    <cities>
+      <id>81261</id>
+      <name>Andili</name>
+      <latitude>7.46200000</latitude>
+      <longitude>125.97010000</longitude>
+    </cities>
+    <cities>
+      <id>81262</id>
+      <name>Andop</name>
+      <latitude>7.86111000</latitude>
+      <longitude>125.75389000</longitude>
+    </cities>
+    <cities>
+      <id>81271</id>
+      <name>Anibongan</name>
+      <latitude>7.39333000</latitude>
+      <longitude>125.71889000</longitude>
+    </cities>
+    <cities>
+      <id>81321</id>
+      <name>Astorga</name>
+      <latitude>6.90722000</latitude>
+      <longitude>125.45583000</longitude>
+    </cities>
+    <cities>
+      <id>81347</id>
+      <name>Babag</name>
+      <latitude>7.73309000</latitude>
+      <longitude>126.07130000</longitude>
+    </cities>
+    <cities>
+      <id>81374</id>
+      <name>Baculin</name>
+      <latitude>7.45250000</latitude>
+      <longitude>126.58417000</longitude>
+    </cities>
+    <cities>
+      <id>81393</id>
+      <name>Baganga</name>
+      <latitude>7.57389000</latitude>
+      <longitude>126.56000000</longitude>
+    </cities>
+    <cities>
+      <id>81438</id>
+      <name>Balagunan</name>
+      <latitude>7.49222000</latitude>
+      <longitude>125.52111000</longitude>
+    </cities>
+    <cities>
+      <id>81445</id>
+      <name>Balangonan</name>
+      <latitude>5.57333000</latitude>
+      <longitude>125.35389000</longitude>
+    </cities>
+    <cities>
+      <id>81507</id>
+      <name>Balutakay</name>
+      <latitude>6.72111000</latitude>
+      <longitude>125.35167000</longitude>
+    </cities>
+    <cities>
+      <id>81547</id>
+      <name>Bansalan</name>
+      <latitude>6.78611000</latitude>
+      <longitude>125.21333000</longitude>
+    </cities>
+    <cities>
+      <id>81549</id>
+      <name>Bantacan</name>
+      <latitude>7.60400000</latitude>
+      <longitude>126.12980000</longitude>
+    </cities>
+    <cities>
+      <id>81561</id>
+      <name>Baon</name>
+      <latitude>6.79562000</latitude>
+      <longitude>126.08778000</longitude>
+    </cities>
+    <cities>
+      <id>81563</id>
+      <name>Baracatan</name>
+      <latitude>6.96750000</latitude>
+      <longitude>125.41583000</longitude>
+    </cities>
+    <cities>
+      <id>81603</id>
+      <name>Basiawan</name>
+      <latitude>6.53417000</latitude>
+      <longitude>125.48694000</longitude>
+    </cities>
+    <cities>
+      <id>81623</id>
+      <name>Batiano</name>
+      <latitude>7.55340000</latitude>
+      <longitude>126.49070000</longitude>
+    </cities>
+    <cities>
+      <id>81629</id>
+      <name>Bato</name>
+      <latitude>7.04306000</latitude>
+      <longitude>125.47306000</longitude>
+    </cities>
+    <cities>
+      <id>81633</id>
+      <name>Batobato</name>
+      <latitude>6.82522000</latitude>
+      <longitude>126.08458000</longitude>
+    </cities>
+    <cities>
+      <id>81665</id>
+      <name>Baylo</name>
+      <latitude>7.85514000</latitude>
+      <longitude>126.05563000</longitude>
+    </cities>
+    <cities>
+      <id>81684</id>
+      <name>Biao</name>
+      <latitude>7.16333000</latitude>
+      <longitude>125.52111000</longitude>
+    </cities>
+    <cities>
+      <id>81716</id>
+      <name>Bincoñgan</name>
+      <latitude>7.36667000</latitude>
+      <longitude>125.75000000</longitude>
+    </cities>
+    <cities>
+      <id>81743</id>
+      <name>Bitaogan</name>
+      <latitude>6.76842000</latitude>
+      <longitude>126.07738000</longitude>
+    </cities>
+    <cities>
+      <id>81753</id>
+      <name>Bobon</name>
+      <latitude>6.86782000</latitude>
+      <longitude>126.32838000</longitude>
+    </cities>
+    <cities>
+      <id>81768</id>
+      <name>Bolila</name>
+      <latitude>6.37167000</latitude>
+      <longitude>125.57139000</longitude>
+    </cities>
+    <cities>
+      <id>81801</id>
+      <name>Boston</name>
+      <latitude>7.87111000</latitude>
+      <longitude>126.36417000</longitude>
+    </cities>
+    <cities>
+      <id>81825</id>
+      <name>Buclad</name>
+      <latitude>7.52778000</latitude>
+      <longitude>125.75056000</longitude>
+    </cities>
+    <cities>
+      <id>81852</id>
+      <name>Buhangin</name>
+      <latitude>6.49111000</latitude>
+      <longitude>125.54750000</longitude>
+    </cities>
+    <cities>
+      <id>81858</id>
+      <name>Bukid</name>
+      <latitude>5.57167000</latitude>
+      <longitude>125.40556000</longitude>
+    </cities>
+    <cities>
+      <id>81861</id>
+      <name>Bulacan</name>
+      <latitude>6.56750000</latitude>
+      <longitude>125.42111000</longitude>
+    </cities>
+    <cities>
+      <id>81895</id>
+      <name>Bungabon</name>
+      <latitude>7.22210000</latitude>
+      <longitude>125.87310000</longitude>
+    </cities>
+    <cities>
+      <id>81927</id>
+      <name>Butulan</name>
+      <latitude>5.61444000</latitude>
+      <longitude>125.43167000</longitude>
+    </cities>
+    <cities>
+      <id>81961</id>
+      <name>Cabayangan</name>
+      <latitude>7.40722000</latitude>
+      <longitude>125.73306000</longitude>
+    </cities>
+    <cities>
+      <id>81969</id>
+      <name>Cabinuangan</name>
+      <latitude>7.68333000</latitude>
+      <longitude>126.03333000</longitude>
+    </cities>
+    <cities>
+      <id>81984</id>
+      <name>Caburan</name>
+      <latitude>5.91806000</latitude>
+      <longitude>125.64111000</longitude>
+    </cities>
+    <cities>
+      <id>82086</id>
+      <name>Cambanugoy</name>
+      <latitude>7.54130000</latitude>
+      <longitude>125.75530000</longitude>
+    </cities>
+    <cities>
+      <id>82097</id>
+      <name>Camudmud</name>
+      <latitude>7.17611000</latitude>
+      <longitude>125.69333000</longitude>
+    </cities>
+    <cities>
+      <id>82148</id>
+      <name>Caraga</name>
+      <latitude>7.32972000</latitude>
+      <longitude>126.56750000</longitude>
+    </cities>
+    <cities>
+      <id>82171</id>
+      <name>Carmen</name>
+      <latitude>7.36056000</latitude>
+      <longitude>125.70639000</longitude>
+    </cities>
+    <cities>
+      <id>82209</id>
+      <name>Cateel</name>
+      <latitude>7.79139000</latitude>
+      <longitude>126.45333000</longitude>
+    </cities>
+    <cities>
+      <id>82255</id>
+      <name>Cogon</name>
+      <latitude>7.15083000</latitude>
+      <longitude>125.71722000</longitude>
+    </cities>
+    <cities>
+      <id>82268</id>
+      <name>Compostela</name>
+      <latitude>7.67306000</latitude>
+      <longitude>126.08889000</longitude>
+    </cities>
+    <cities>
+      <id>82270</id>
+      <name>Compostela Valley</name>
+      <latitude>7.68333000</latitude>
+      <longitude>126.11667000</longitude>
+    </cities>
+    <cities>
+      <id>82275</id>
+      <name>Concepcion</name>
+      <latitude>7.75056000</latitude>
+      <longitude>125.71194000</longitude>
+    </cities>
+    <cities>
+      <id>82294</id>
+      <name>Corocotan</name>
+      <latitude>7.39980000</latitude>
+      <longitude>125.77270000</longitude>
+    </cities>
+    <cities>
+      <id>82296</id>
+      <name>Coronon</name>
+      <latitude>6.87917000</latitude>
+      <longitude>125.44889000</longitude>
+    </cities>
+    <cities>
+      <id>82305</id>
+      <name>Cuambog</name>
+      <latitude>7.30861000</latitude>
+      <longitude>125.84806000</longitude>
+    </cities>
+    <cities>
+      <id>82311</id>
+      <name>Culaman</name>
+      <latitude>5.96028000</latitude>
+      <longitude>125.65861000</longitude>
+    </cities>
+    <cities>
+      <id>82328</id>
+      <name>Dacudao</name>
+      <latitude>7.21528000</latitude>
+      <longitude>125.47139000</longitude>
+    </cities>
+    <cities>
+      <id>82395</id>
+      <name>Davan</name>
+      <latitude>6.91487000</latitude>
+      <longitude>126.15323000</longitude>
+    </cities>
+    <cities>
+      <id>82396</id>
+      <name>Davao</name>
+      <latitude>7.07306000</latitude>
+      <longitude>125.61278000</longitude>
+    </cities>
+    <cities>
+      <id>82411</id>
+      <name>Del Pilar</name>
+      <latitude>7.56306000</latitude>
+      <longitude>125.82667000</longitude>
+    </cities>
+    <cities>
+      <id>82425</id>
+      <name>Digos</name>
+      <latitude>6.74972000</latitude>
+      <longitude>125.35722000</longitude>
+    </cities>
+    <cities>
+      <id>82450</id>
+      <name>Dolo</name>
+      <latitude>6.81028000</latitude>
+      <longitude>125.19167000</longitude>
+    </cities>
+    <cities>
+      <id>82493</id>
+      <name>Dumlan</name>
+      <latitude>7.42750000</latitude>
+      <longitude>125.88190000</longitude>
+    </cities>
+    <cities>
+      <id>82517</id>
+      <name>Esperanza</name>
+      <latitude>7.49167000</latitude>
+      <longitude>125.72806000</longitude>
+    </cities>
+    <cities>
+      <id>82547</id>
+      <name>Gabi</name>
+      <latitude>7.62150000</latitude>
+      <longitude>126.09200000</longitude>
+    </cities>
+    <cities>
+      <id>82550</id>
+      <name>Gabuyan</name>
+      <latitude>7.60806000</latitude>
+      <longitude>125.66889000</longitude>
+    </cities>
+    <cities>
+      <id>82606</id>
+      <name>Goma</name>
+      <latitude>6.79194000</latitude>
+      <longitude>125.32083000</longitude>
+    </cities>
+    <cities>
+      <id>82621</id>
+      <name>Guihing Proper</name>
+      <latitude>6.68444000</latitude>
+      <longitude>125.35250000</longitude>
+    </cities>
+    <cities>
+      <id>82654</id>
+      <name>Gumalang</name>
+      <latitude>7.20833000</latitude>
+      <longitude>125.40361000</longitude>
+    </cities>
+    <cities>
+      <id>82657</id>
+      <name>Gupitan</name>
+      <latitude>7.77583000</latitude>
+      <longitude>125.64056000</longitude>
+    </cities>
+    <cities>
+      <id>82668</id>
+      <name>Hagonoy</name>
+      <latitude>6.68333000</latitude>
+      <longitude>125.32556000</longitude>
+    </cities>
+    <cities>
+      <id>82684</id>
+      <name>Hiju Maco</name>
+      <latitude>7.38541000</latitude>
+      <longitude>125.82822000</longitude>
+    </cities>
+    <cities>
+      <id>82720</id>
+      <name>Ignit</name>
+      <latitude>6.70083000</latitude>
+      <longitude>125.29194000</longitude>
+    </cities>
+    <cities>
+      <id>82724</id>
+      <name>Ilangay</name>
+      <latitude>6.91284000</latitude>
+      <longitude>126.05008000</longitude>
+    </cities>
+    <cities>
+      <id>82743</id>
+      <name>Inawayan</name>
+      <latitude>6.96083000</latitude>
+      <longitude>125.47333000</longitude>
+    </cities>
+    <cities>
+      <id>82814</id>
+      <name>Jovellar</name>
+      <latitude>7.06350000</latitude>
+      <longitude>126.45558000</longitude>
+    </cities>
+    <cities>
+      <id>82846</id>
+      <name>Kalbay</name>
+      <latitude>5.72333000</latitude>
+      <longitude>125.49861000</longitude>
+    </cities>
+    <cities>
+      <id>82848</id>
+      <name>Kalian</name>
+      <latitude>6.12306000</latitude>
+      <longitude>125.70028000</longitude>
+    </cities>
+    <cities>
+      <id>82851</id>
+      <name>Kaligutan</name>
+      <latitude>7.70306000</latitude>
+      <longitude>125.81306000</longitude>
+    </cities>
+    <cities>
+      <id>82866</id>
+      <name>Kapalong</name>
+      <latitude>7.77056000</latitude>
+      <longitude>125.55861000</longitude>
+    </cities>
+    <cities>
+      <id>82880</id>
+      <name>Katipunan</name>
+      <latitude>7.32028000</latitude>
+      <longitude>125.62028000</longitude>
+    </cities>
+    <cities>
+      <id>82895</id>
+      <name>Kiblawan</name>
+      <latitude>6.61417000</latitude>
+      <longitude>125.23667000</longitude>
+    </cities>
+    <cities>
+      <id>82905</id>
+      <name>Kinablangan</name>
+      <latitude>7.69280000</latitude>
+      <longitude>126.54912000</longitude>
+    </cities>
+    <cities>
+      <id>82908</id>
+      <name>Kinamayan</name>
+      <latitude>7.49944000</latitude>
+      <longitude>125.67361000</longitude>
+    </cities>
+    <cities>
+      <id>82909</id>
+      <name>Kinangan</name>
+      <latitude>6.30139000</latitude>
+      <longitude>125.58500000</longitude>
+    </cities>
+    <cities>
+      <id>82944</id>
+      <name>La Libertad</name>
+      <latitude>7.48028000</latitude>
+      <longitude>125.64722000</longitude>
+    </cities>
+    <cities>
+      <id>82949</id>
+      <name>La Paz</name>
+      <latitude>7.31583000</latitude>
+      <longitude>125.73333000</longitude>
+    </cities>
+    <cities>
+      <id>82954</id>
+      <name>La Union</name>
+      <latitude>6.70413000</latitude>
+      <longitude>126.08798000</longitude>
+    </cities>
+    <cities>
+      <id>82969</id>
+      <name>Lacaron</name>
+      <latitude>6.44889000</latitude>
+      <longitude>125.57917000</longitude>
+    </cities>
+    <cities>
+      <id>82972</id>
+      <name>Lacson</name>
+      <latitude>7.21194000</latitude>
+      <longitude>125.44222000</longitude>
+    </cities>
+    <cities>
+      <id>82983</id>
+      <name>Lais</name>
+      <latitude>6.33278000</latitude>
+      <longitude>125.64639000</longitude>
+    </cities>
+    <cities>
+      <id>83002</id>
+      <name>Lamitan</name>
+      <latitude>6.08722000</latitude>
+      <longitude>125.70222000</longitude>
+    </cities>
+    <cities>
+      <id>83038</id>
+      <name>Lapuan</name>
+      <latitude>6.14444000</latitude>
+      <longitude>125.70083000</longitude>
+    </cities>
+    <cities>
+      <id>83047</id>
+      <name>Lasang</name>
+      <latitude>7.26694000</latitude>
+      <longitude>125.66500000</longitude>
+    </cities>
+    <cities>
+      <id>83098</id>
+      <name>Libuganon</name>
+      <latitude>7.34880000</latitude>
+      <longitude>125.77820000</longitude>
+    </cities>
+    <cities>
+      <id>83116</id>
+      <name>Limao</name>
+      <latitude>7.07917000</latitude>
+      <longitude>125.67361000</longitude>
+    </cities>
+    <cities>
+      <id>83125</id>
+      <name>Limot</name>
+      <latitude>7.04050000</latitude>
+      <longitude>126.27268000</longitude>
+    </cities>
+    <cities>
+      <id>83133</id>
+      <name>Linao</name>
+      <latitude>7.01720000</latitude>
+      <longitude>125.99200000</longitude>
+    </cities>
+    <cities>
+      <id>83143</id>
+      <name>Linoan</name>
+      <latitude>7.62600000</latitude>
+      <longitude>125.97410000</longitude>
+    </cities>
+    <cities>
+      <id>83210</id>
+      <name>Lukatan</name>
+      <latitude>7.00960000</latitude>
+      <longitude>126.42118000</longitude>
+    </cities>
+    <cities>
+      <id>83232</id>
+      <name>Luna</name>
+      <latitude>7.57639000</latitude>
+      <longitude>125.66722000</longitude>
+    </cities>
+    <cities>
+      <id>83239</id>
+      <name>Lungaog</name>
+      <latitude>7.52944000</latitude>
+      <longitude>125.68778000</longitude>
+    </cities>
+    <cities>
+      <id>83246</id>
+      <name>Lupon</name>
+      <latitude>6.89814000</latitude>
+      <longitude>126.00961000</longitude>
+    </cities>
+    <cities>
+      <id>83253</id>
+      <name>Luzon</name>
+      <latitude>6.51904000</latitude>
+      <longitude>126.09408000</longitude>
+    </cities>
+    <cities>
+      <id>83277</id>
+      <name>Mabini</name>
+      <latitude>7.31139000</latitude>
+      <longitude>125.85278000</longitude>
+    </cities>
+    <cities>
+      <id>83287</id>
+      <name>Mabuhay</name>
+      <latitude>7.33306000</latitude>
+      <longitude>125.54750000</longitude>
+    </cities>
+    <cities>
+      <id>83306</id>
+      <name>Maco</name>
+      <latitude>7.36194000</latitude>
+      <longitude>125.85528000</longitude>
+    </cities>
+    <cities>
+      <id>83315</id>
+      <name>Maduao</name>
+      <latitude>7.29417000</latitude>
+      <longitude>125.62583000</longitude>
+    </cities>
+    <cities>
+      <id>83328</id>
+      <name>Magatos</name>
+      <latitude>7.55556000</latitude>
+      <longitude>125.72667000</longitude>
+    </cities>
+    <cities>
+      <id>83335</id>
+      <name>Magdug</name>
+      <latitude>6.54764000</latitude>
+      <longitude>126.09508000</longitude>
+    </cities>
+    <cities>
+      <id>83338</id>
+      <name>Magnaga</name>
+      <latitude>7.16940000</latitude>
+      <longitude>125.89310000</longitude>
+    </cities>
+    <cities>
+      <id>83342</id>
+      <name>Magsaysay</name>
+      <latitude>6.76667000</latitude>
+      <longitude>125.18333000</longitude>
+    </cities>
+    <cities>
+      <id>83349</id>
+      <name>Magugpo Poblacion</name>
+      <latitude>7.44750000</latitude>
+      <longitude>125.80460000</longitude>
+    </cities>
+    <cities>
+      <id>83357</id>
+      <name>Mahanob</name>
+      <latitude>7.57326000</latitude>
+      <longitude>126.50684000</longitude>
+    </cities>
+    <cities>
+      <id>83362</id>
+      <name>Mahayag</name>
+      <latitude>7.21667000</latitude>
+      <longitude>125.61944000</longitude>
+    </cities>
+    <cities>
+      <id>83393</id>
+      <name>Malagos</name>
+      <latitude>7.18500000</latitude>
+      <longitude>125.42222000</longitude>
+    </cities>
+    <cities>
+      <id>83397</id>
+      <name>Malalag</name>
+      <latitude>6.59583000</latitude>
+      <longitude>125.39917000</longitude>
+    </cities>
+    <cities>
+      <id>83436</id>
+      <name>Malinao</name>
+      <latitude>6.65917000</latitude>
+      <longitude>125.28667000</longitude>
+    </cities>
+    <cities>
+      <id>83445</id>
+      <name>Malita</name>
+      <latitude>6.41500000</latitude>
+      <longitude>125.61167000</longitude>
+    </cities>
+    <cities>
+      <id>83471</id>
+      <name>Mambago</name>
+      <latitude>7.10556000</latitude>
+      <longitude>125.69444000</longitude>
+    </cities>
+    <cities>
+      <id>83484</id>
+      <name>Managa</name>
+      <latitude>6.74611000</latitude>
+      <longitude>125.26806000</longitude>
+    </cities>
+    <cities>
+      <id>83487</id>
+      <name>Manaloal</name>
+      <latitude>7.36611000</latitude>
+      <longitude>125.66028000</longitude>
+    </cities>
+    <cities>
+      <id>83495</id>
+      <name>Manat</name>
+      <latitude>7.53270000</latitude>
+      <longitude>126.01730000</longitude>
+    </cities>
+    <cities>
+      <id>83499</id>
+      <name>Manay</name>
+      <latitude>7.21500000</latitude>
+      <longitude>126.53972000</longitude>
+    </cities>
+    <cities>
+      <id>83517</id>
+      <name>Mangili</name>
+      <latitude>6.00333000</latitude>
+      <longitude>125.68389000</longitude>
+    </cities>
+    <cities>
+      <id>83523</id>
+      <name>Manikling</name>
+      <latitude>6.87907000</latitude>
+      <longitude>126.06063000</longitude>
+    </cities>
+    <cities>
+      <id>83618</id>
+      <name>Matanao</name>
+      <latitude>6.67917000</latitude>
+      <longitude>125.25500000</longitude>
+    </cities>
+    <cities>
+      <id>83625</id>
+      <name>Mati</name>
+      <latitude>6.95508000</latitude>
+      <longitude>126.21655000</longitude>
+    </cities>
+    <cities>
+      <id>83626</id>
+      <name>Matiao</name>
+      <latitude>7.08280000</latitude>
+      <longitude>125.93620000</longitude>
+    </cities>
+    <cities>
+      <id>83632</id>
+      <name>Matti</name>
+      <latitude>6.77056000</latitude>
+      <longitude>125.30861000</longitude>
+    </cities>
+    <cities>
+      <id>83641</id>
+      <name>Mawab</name>
+      <latitude>7.56667000</latitude>
+      <longitude>125.98333000</longitude>
+    </cities>
+    <cities>
+      <id>83651</id>
+      <name>Mayo</name>
+      <latitude>7.00211000</latitude>
+      <longitude>126.33198000</longitude>
+    </cities>
+    <cities>
+      <id>83702</id>
+      <name>Monkayo</name>
+      <latitude>7.81528000</latitude>
+      <longitude>126.05444000</longitude>
+    </cities>
+    <cities>
+      <id>83707</id>
+      <name>Montevista</name>
+      <latitude>7.69333000</latitude>
+      <longitude>125.98889000</longitude>
+    </cities>
+    <cities>
+      <id>83739</id>
+      <name>Nabunturan</name>
+      <latitude>7.60778000</latitude>
+      <longitude>125.96639000</longitude>
+    </cities>
+    <cities>
+      <id>83772</id>
+      <name>Nangan</name>
+      <latitude>6.47264000</latitude>
+      <longitude>126.12438000</longitude>
+    </cities>
+    <cities>
+      <id>83775</id>
+      <name>Nanyo</name>
+      <latitude>7.33306000</latitude>
+      <longitude>125.63778000</longitude>
+    </cities>
+    <cities>
+      <id>83801</id>
+      <name>New Baclayon</name>
+      <latitude>6.58417000</latitude>
+      <longitude>125.36944000</longitude>
+    </cities>
+    <cities>
+      <id>83803</id>
+      <name>New Bohol</name>
+      <latitude>7.52330000</latitude>
+      <longitude>125.83630000</longitude>
+    </cities>
+    <cities>
+      <id>83805</id>
+      <name>New Corella</name>
+      <latitude>7.58660000</latitude>
+      <longitude>125.82370000</longitude>
+    </cities>
+    <cities>
+      <id>83808</id>
+      <name>New Leyte</name>
+      <latitude>7.50000000</latitude>
+      <longitude>125.75000000</longitude>
+    </cities>
+    <cities>
+      <id>83811</id>
+      <name>New Sibonga</name>
+      <latitude>7.56090000</latitude>
+      <longitude>125.92980000</longitude>
+    </cities>
+    <cities>
+      <id>83812</id>
+      <name>New Visayas</name>
+      <latitude>7.52333000</latitude>
+      <longitude>125.62333000</longitude>
+    </cities>
+    <cities>
+      <id>83830</id>
+      <name>Nuing</name>
+      <latitude>5.63278000</latitude>
+      <longitude>125.43528000</longitude>
+    </cities>
+    <cities>
+      <id>83876</id>
+      <name>Padada</name>
+      <latitude>6.64111000</latitude>
+      <longitude>125.34500000</longitude>
+    </cities>
+    <cities>
+      <id>83886</id>
+      <name>Pag-asa</name>
+      <latitude>7.57556000</latitude>
+      <longitude>125.68389000</longitude>
+    </cities>
+    <cities>
+      <id>83894</id>
+      <name>Pagsabangan</name>
+      <latitude>7.48111000</latitude>
+      <longitude>125.74944000</longitude>
+    </cities>
+    <cities>
+      <id>83926</id>
+      <name>Palma Gil</name>
+      <latitude>7.64222000</latitude>
+      <longitude>125.62917000</longitude>
+    </cities>
+    <cities>
+      <id>83943</id>
+      <name>Panabo</name>
+      <latitude>7.30806000</latitude>
+      <longitude>125.68417000</longitude>
+    </cities>
+    <cities>
+      <id>83964</id>
+      <name>Pandasan</name>
+      <latitude>7.28380000</latitude>
+      <longitude>125.85350000</longitude>
+    </cities>
+    <cities>
+      <id>83977</id>
+      <name>Pangian</name>
+      <latitude>6.46278000</latitude>
+      <longitude>125.54528000</longitude>
+    </cities>
+    <cities>
+      <id>83985</id>
+      <name>Panikian</name>
+      <latitude>7.01070000</latitude>
+      <longitude>126.02418000</longitude>
+    </cities>
+    <cities>
+      <id>84005</id>
+      <name>Pantukan</name>
+      <latitude>7.16333000</latitude>
+      <longitude>125.89917000</longitude>
+    </cities>
+    <cities>
+      <id>84028</id>
+      <name>Pasian</name>
+      <latitude>7.92806000</latitude>
+      <longitude>126.06722000</longitude>
+    </cities>
+    <cities>
+      <id>84156</id>
+      <name>Pondaguitan</name>
+      <latitude>6.36115000</latitude>
+      <longitude>126.17778000</longitude>
+    </cities>
+    <cities>
+      <id>84205</id>
+      <name>Province of Davao del Norte</name>
+      <latitude>7.45099000</latitude>
+      <longitude>125.81543000</longitude>
+    </cities>
+    <cities>
+      <id>84206</id>
+      <name>Province of Davao del Sur</name>
+      <latitude>6.79281000</latitude>
+      <longitude>125.30182000</longitude>
+    </cities>
+    <cities>
+      <id>84204</id>
+      <name>Province of Davao Oriental</name>
+      <latitude>7.16667000</latitude>
+      <longitude>126.33333000</longitude>
+    </cities>
+    <cities>
+      <id>84277</id>
+      <name>Pung-Pang</name>
+      <latitude>6.49750000</latitude>
+      <longitude>125.46333000</longitude>
+    </cities>
+    <cities>
+      <id>84424</id>
+      <name>Samal</name>
+      <latitude>7.07444000</latitude>
+      <longitude>125.70833000</longitude>
+    </cities>
+    <cities>
+      <id>84434</id>
+      <name>Sampao</name>
+      <latitude>7.59389000</latitude>
+      <longitude>125.66111000</longitude>
+    </cities>
+    <cities>
+      <id>84441</id>
+      <name>San Alfonso</name>
+      <latitude>7.78028000</latitude>
+      <longitude>126.42028000</longitude>
+    </cities>
+    <cities>
+      <id>84449</id>
+      <name>San Antonio</name>
+      <latitude>7.12000000</latitude>
+      <longitude>125.73972000</longitude>
+    </cities>
+    <cities>
+      <id>84496</id>
+      <name>San Ignacio</name>
+      <latitude>7.11890000</latitude>
+      <longitude>126.48838000</longitude>
+    </cities>
+    <cities>
+      <id>84539</id>
+      <name>San Luis</name>
+      <latitude>7.44139000</latitude>
+      <longitude>126.55111000</longitude>
+    </cities>
+    <cities>
+      <id>84551</id>
+      <name>San Mariano</name>
+      <latitude>7.50000000</latitude>
+      <longitude>126.00000000</longitude>
+    </cities>
+    <cities>
+      <id>84561</id>
+      <name>San Miguel</name>
+      <latitude>7.48500000</latitude>
+      <longitude>125.67639000</longitude>
+    </cities>
+    <cities>
+      <id>84584</id>
+      <name>San Pedro</name>
+      <latitude>7.34194000</latitude>
+      <longitude>126.51750000</longitude>
+    </cities>
+    <cities>
+      <id>84598</id>
+      <name>San Rafael</name>
+      <latitude>7.76389000</latitude>
+      <longitude>126.45583000</longitude>
+    </cities>
+    <cities>
+      <id>84603</id>
+      <name>San Remigio</name>
+      <latitude>6.92306000</latitude>
+      <longitude>125.77583000</longitude>
+    </cities>
+    <cities>
+      <id>84656</id>
+      <name>Santa Cruz</name>
+      <latitude>6.83694000</latitude>
+      <longitude>125.41306000</longitude>
+    </cities>
+    <cities>
+      <id>84688</id>
+      <name>Santa Maria</name>
+      <latitude>6.55361000</latitude>
+      <longitude>125.47083000</longitude>
+    </cities>
+    <cities>
+      <id>84710</id>
+      <name>Santiago</name>
+      <latitude>7.28889000</latitude>
+      <longitude>126.57333000</longitude>
+    </cities>
+    <cities>
+      <id>84728</id>
+      <name>Santo Niño</name>
+      <latitude>7.62361000</latitude>
+      <longitude>125.62528000</longitude>
+    </cities>
+    <cities>
+      <id>84749</id>
+      <name>Sarangani</name>
+      <latitude>5.40333000</latitude>
+      <longitude>125.46361000</longitude>
+    </cities>
+    <cities>
+      <id>84776</id>
+      <name>Sibulan</name>
+      <latitude>6.93361000</latitude>
+      <longitude>125.46222000</longitude>
+    </cities>
+    <cities>
+      <id>84784</id>
+      <name>Sigaboy</name>
+      <latitude>6.65413000</latitude>
+      <longitude>126.07268000</longitude>
+    </cities>
+    <cities>
+      <id>84803</id>
+      <name>Simod</name>
+      <latitude>7.47583000</latitude>
+      <longitude>125.34083000</longitude>
+    </cities>
+    <cities>
+      <id>84811</id>
+      <name>Sinawilan</name>
+      <latitude>6.75444000</latitude>
+      <longitude>125.24639000</longitude>
+    </cities>
+    <cities>
+      <id>84812</id>
+      <name>Sinayawan</name>
+      <latitude>6.71250000</latitude>
+      <longitude>125.30944000</longitude>
+    </cities>
+    <cities>
+      <id>84829</id>
+      <name>Sirib</name>
+      <latitude>7.13333000</latitude>
+      <longitude>125.40722000</longitude>
+    </cities>
+    <cities>
+      <id>84858</id>
+      <name>Sugal</name>
+      <latitude>5.66222000</latitude>
+      <longitude>125.46167000</longitude>
+    </cities>
+    <cities>
+      <id>84870</id>
+      <name>Sulop</name>
+      <latitude>6.59861000</latitude>
+      <longitude>125.34361000</longitude>
+    </cities>
+    <cities>
+      <id>84883</id>
+      <name>Surup</name>
+      <latitude>6.39035000</latitude>
+      <longitude>126.14558000</longitude>
+    </cities>
+    <cities>
+      <id>84887</id>
+      <name>Suz-on</name>
+      <latitude>7.66278000</latitude>
+      <longitude>125.63833000</longitude>
+    </cities>
+    <cities>
+      <id>84926</id>
+      <name>Tagakpan</name>
+      <latitude>7.11278000</latitude>
+      <longitude>125.42917000</longitude>
+    </cities>
+    <cities>
+      <id>84941</id>
+      <name>Tagdanua</name>
+      <latitude>7.20430000</latitude>
+      <longitude>125.88410000</longitude>
+    </cities>
+    <cities>
+      <id>84943</id>
+      <name>Tagnanan</name>
+      <latitude>7.28361000</latitude>
+      <longitude>125.84222000</longitude>
+    </cities>
+    <cities>
+      <id>84956</id>
+      <name>Takub</name>
+      <latitude>6.85639000</latitude>
+      <longitude>125.42250000</longitude>
+    </cities>
+    <cities>
+      <id>84964</id>
+      <name>Talagutong</name>
+      <latitude>6.26444000</latitude>
+      <longitude>125.66778000</longitude>
+    </cities>
+    <cities>
+      <id>84983</id>
+      <name>Talisay</name>
+      <latitude>6.71973000</latitude>
+      <longitude>126.09998000</longitude>
+    </cities>
+    <cities>
+      <id>84991</id>
+      <name>Talomo</name>
+      <latitude>7.52861000</latitude>
+      <longitude>125.72278000</longitude>
+    </cities>
+    <cities>
+      <id>85003</id>
+      <name>Tamayong</name>
+      <latitude>7.13306000</latitude>
+      <longitude>125.37972000</longitude>
+    </cities>
+    <cities>
+      <id>85011</id>
+      <name>Tambo</name>
+      <latitude>7.15694000</latitude>
+      <longitude>125.69917000</longitude>
+    </cities>
+    <cities>
+      <id>85015</id>
+      <name>Tamisan</name>
+      <latitude>6.84372000</latitude>
+      <longitude>126.29838000</longitude>
+    </cities>
+    <cities>
+      <id>85027</id>
+      <name>Tamugan</name>
+      <latitude>7.23083000</latitude>
+      <longitude>125.37639000</longitude>
+    </cities>
+    <cities>
+      <id>85040</id>
+      <name>Tanlad</name>
+      <latitude>6.60222000</latitude>
+      <longitude>125.44500000</longitude>
+    </cities>
+    <cities>
+      <id>85050</id>
+      <name>Tapia</name>
+      <latitude>7.75417000</latitude>
+      <longitude>126.01194000</longitude>
+    </cities>
+    <cities>
+      <id>85060</id>
+      <name>Tarragona</name>
+      <latitude>7.04910000</latitude>
+      <longitude>126.44708000</longitude>
+    </cities>
+    <cities>
+      <id>85067</id>
+      <name>Tawan tawan</name>
+      <latitude>7.16917000</latitude>
+      <longitude>125.37278000</longitude>
+    </cities>
+    <cities>
+      <id>85078</id>
+      <name>Taytayan</name>
+      <latitude>7.73389000</latitude>
+      <longitude>126.50194000</longitude>
+    </cities>
+    <cities>
+      <id>85093</id>
+      <name>Tibagon</name>
+      <latitude>7.23270000</latitude>
+      <longitude>125.86280000</longitude>
+    </cities>
+    <cities>
+      <id>85094</id>
+      <name>Tibanbang</name>
+      <latitude>6.63153000</latitude>
+      <longitude>126.10548000</longitude>
+    </cities>
+    <cities>
+      <id>85097</id>
+      <name>Tiblawan</name>
+      <latitude>6.47834000</latitude>
+      <longitude>126.10828000</longitude>
+    </cities>
+    <cities>
+      <id>85163</id>
+      <name>Tombongon</name>
+      <latitude>7.07920000</latitude>
+      <longitude>125.94860000</longitude>
+    </cities>
+    <cities>
+      <id>85182</id>
+      <name>Tubalan</name>
+      <latitude>6.49500000</latitude>
+      <longitude>125.56611000</longitude>
+    </cities>
+    <cities>
+      <id>85184</id>
+      <name>Tuban</name>
+      <latitude>6.82278000</latitude>
+      <longitude>125.38694000</longitude>
+    </cities>
+    <cities>
+      <id>85193</id>
+      <name>Tubod</name>
+      <latitude>7.37167000</latitude>
+      <longitude>125.64472000</longitude>
+    </cities>
+    <cities>
+      <id>85206</id>
+      <name>Tuganay</name>
+      <latitude>7.36889000</latitude>
+      <longitude>125.72306000</longitude>
+    </cities>
+    <cities>
+      <id>85217</id>
+      <name>Tuli</name>
+      <latitude>7.23333000</latitude>
+      <longitude>125.41667000</longitude>
+    </cities>
+    <cities>
+      <id>85245</id>
+      <name>Ula</name>
+      <latitude>7.13222000</latitude>
+      <longitude>125.49222000</longitude>
+    </cities>
+    <cities>
+      <id>85315</id>
+      <name>Wañgan</name>
+      <latitude>7.15972000</latitude>
+      <longitude>125.44528000</longitude>
+    </cities>
+    <cities>
+      <id>85316</id>
+      <name>Wines</name>
+      <latitude>7.19389000</latitude>
+      <longitude>125.38917000</longitude>
+    </cities>
   </state_city>
   <state_city>
     <id>1319</id>
@@ -546277,1244 +548077,6 @@
     <longitude>126.54198870</longitude>
     <country_id>174</country_id>
     <cities/>
-  </state_city>
-  <state_city>
-    <id>1340</id>
-    <name>Davao Region</name>
-    <state_code>11</state_code>
-    <latitude>7.30416220</latitude>
-    <longitude>126.08934060</longitude>
-    <country_id>174</country_id>
-    <cities>
-      <id>81203</id>
-      <name>Alejal</name>
-      <latitude>7.38417000</latitude>
-      <longitude>125.66000000</longitude>
-    </cities>
-    <cities>
-      <id>81261</id>
-      <name>Andili</name>
-      <latitude>7.46200000</latitude>
-      <longitude>125.97010000</longitude>
-    </cities>
-    <cities>
-      <id>81262</id>
-      <name>Andop</name>
-      <latitude>7.86111000</latitude>
-      <longitude>125.75389000</longitude>
-    </cities>
-    <cities>
-      <id>81271</id>
-      <name>Anibongan</name>
-      <latitude>7.39333000</latitude>
-      <longitude>125.71889000</longitude>
-    </cities>
-    <cities>
-      <id>81321</id>
-      <name>Astorga</name>
-      <latitude>6.90722000</latitude>
-      <longitude>125.45583000</longitude>
-    </cities>
-    <cities>
-      <id>81347</id>
-      <name>Babag</name>
-      <latitude>7.73309000</latitude>
-      <longitude>126.07130000</longitude>
-    </cities>
-    <cities>
-      <id>81374</id>
-      <name>Baculin</name>
-      <latitude>7.45250000</latitude>
-      <longitude>126.58417000</longitude>
-    </cities>
-    <cities>
-      <id>81393</id>
-      <name>Baganga</name>
-      <latitude>7.57389000</latitude>
-      <longitude>126.56000000</longitude>
-    </cities>
-    <cities>
-      <id>81438</id>
-      <name>Balagunan</name>
-      <latitude>7.49222000</latitude>
-      <longitude>125.52111000</longitude>
-    </cities>
-    <cities>
-      <id>81445</id>
-      <name>Balangonan</name>
-      <latitude>5.57333000</latitude>
-      <longitude>125.35389000</longitude>
-    </cities>
-    <cities>
-      <id>81507</id>
-      <name>Balutakay</name>
-      <latitude>6.72111000</latitude>
-      <longitude>125.35167000</longitude>
-    </cities>
-    <cities>
-      <id>81547</id>
-      <name>Bansalan</name>
-      <latitude>6.78611000</latitude>
-      <longitude>125.21333000</longitude>
-    </cities>
-    <cities>
-      <id>81549</id>
-      <name>Bantacan</name>
-      <latitude>7.60400000</latitude>
-      <longitude>126.12980000</longitude>
-    </cities>
-    <cities>
-      <id>81561</id>
-      <name>Baon</name>
-      <latitude>6.79562000</latitude>
-      <longitude>126.08778000</longitude>
-    </cities>
-    <cities>
-      <id>81563</id>
-      <name>Baracatan</name>
-      <latitude>6.96750000</latitude>
-      <longitude>125.41583000</longitude>
-    </cities>
-    <cities>
-      <id>81603</id>
-      <name>Basiawan</name>
-      <latitude>6.53417000</latitude>
-      <longitude>125.48694000</longitude>
-    </cities>
-    <cities>
-      <id>81623</id>
-      <name>Batiano</name>
-      <latitude>7.55340000</latitude>
-      <longitude>126.49070000</longitude>
-    </cities>
-    <cities>
-      <id>81629</id>
-      <name>Bato</name>
-      <latitude>7.04306000</latitude>
-      <longitude>125.47306000</longitude>
-    </cities>
-    <cities>
-      <id>81633</id>
-      <name>Batobato</name>
-      <latitude>6.82522000</latitude>
-      <longitude>126.08458000</longitude>
-    </cities>
-    <cities>
-      <id>81665</id>
-      <name>Baylo</name>
-      <latitude>7.85514000</latitude>
-      <longitude>126.05563000</longitude>
-    </cities>
-    <cities>
-      <id>81684</id>
-      <name>Biao</name>
-      <latitude>7.16333000</latitude>
-      <longitude>125.52111000</longitude>
-    </cities>
-    <cities>
-      <id>81716</id>
-      <name>Bincoñgan</name>
-      <latitude>7.36667000</latitude>
-      <longitude>125.75000000</longitude>
-    </cities>
-    <cities>
-      <id>81743</id>
-      <name>Bitaogan</name>
-      <latitude>6.76842000</latitude>
-      <longitude>126.07738000</longitude>
-    </cities>
-    <cities>
-      <id>81753</id>
-      <name>Bobon</name>
-      <latitude>6.86782000</latitude>
-      <longitude>126.32838000</longitude>
-    </cities>
-    <cities>
-      <id>81768</id>
-      <name>Bolila</name>
-      <latitude>6.37167000</latitude>
-      <longitude>125.57139000</longitude>
-    </cities>
-    <cities>
-      <id>81801</id>
-      <name>Boston</name>
-      <latitude>7.87111000</latitude>
-      <longitude>126.36417000</longitude>
-    </cities>
-    <cities>
-      <id>81825</id>
-      <name>Buclad</name>
-      <latitude>7.52778000</latitude>
-      <longitude>125.75056000</longitude>
-    </cities>
-    <cities>
-      <id>81852</id>
-      <name>Buhangin</name>
-      <latitude>6.49111000</latitude>
-      <longitude>125.54750000</longitude>
-    </cities>
-    <cities>
-      <id>81858</id>
-      <name>Bukid</name>
-      <latitude>5.57167000</latitude>
-      <longitude>125.40556000</longitude>
-    </cities>
-    <cities>
-      <id>81861</id>
-      <name>Bulacan</name>
-      <latitude>6.56750000</latitude>
-      <longitude>125.42111000</longitude>
-    </cities>
-    <cities>
-      <id>81895</id>
-      <name>Bungabon</name>
-      <latitude>7.22210000</latitude>
-      <longitude>125.87310000</longitude>
-    </cities>
-    <cities>
-      <id>81927</id>
-      <name>Butulan</name>
-      <latitude>5.61444000</latitude>
-      <longitude>125.43167000</longitude>
-    </cities>
-    <cities>
-      <id>81961</id>
-      <name>Cabayangan</name>
-      <latitude>7.40722000</latitude>
-      <longitude>125.73306000</longitude>
-    </cities>
-    <cities>
-      <id>81969</id>
-      <name>Cabinuangan</name>
-      <latitude>7.68333000</latitude>
-      <longitude>126.03333000</longitude>
-    </cities>
-    <cities>
-      <id>81984</id>
-      <name>Caburan</name>
-      <latitude>5.91806000</latitude>
-      <longitude>125.64111000</longitude>
-    </cities>
-    <cities>
-      <id>82086</id>
-      <name>Cambanugoy</name>
-      <latitude>7.54130000</latitude>
-      <longitude>125.75530000</longitude>
-    </cities>
-    <cities>
-      <id>82097</id>
-      <name>Camudmud</name>
-      <latitude>7.17611000</latitude>
-      <longitude>125.69333000</longitude>
-    </cities>
-    <cities>
-      <id>82148</id>
-      <name>Caraga</name>
-      <latitude>7.32972000</latitude>
-      <longitude>126.56750000</longitude>
-    </cities>
-    <cities>
-      <id>82171</id>
-      <name>Carmen</name>
-      <latitude>7.36056000</latitude>
-      <longitude>125.70639000</longitude>
-    </cities>
-    <cities>
-      <id>82209</id>
-      <name>Cateel</name>
-      <latitude>7.79139000</latitude>
-      <longitude>126.45333000</longitude>
-    </cities>
-    <cities>
-      <id>82255</id>
-      <name>Cogon</name>
-      <latitude>7.15083000</latitude>
-      <longitude>125.71722000</longitude>
-    </cities>
-    <cities>
-      <id>82268</id>
-      <name>Compostela</name>
-      <latitude>7.67306000</latitude>
-      <longitude>126.08889000</longitude>
-    </cities>
-    <cities>
-      <id>82270</id>
-      <name>Compostela Valley</name>
-      <latitude>7.68333000</latitude>
-      <longitude>126.11667000</longitude>
-    </cities>
-    <cities>
-      <id>82275</id>
-      <name>Concepcion</name>
-      <latitude>7.75056000</latitude>
-      <longitude>125.71194000</longitude>
-    </cities>
-    <cities>
-      <id>82294</id>
-      <name>Corocotan</name>
-      <latitude>7.39980000</latitude>
-      <longitude>125.77270000</longitude>
-    </cities>
-    <cities>
-      <id>82296</id>
-      <name>Coronon</name>
-      <latitude>6.87917000</latitude>
-      <longitude>125.44889000</longitude>
-    </cities>
-    <cities>
-      <id>82305</id>
-      <name>Cuambog</name>
-      <latitude>7.30861000</latitude>
-      <longitude>125.84806000</longitude>
-    </cities>
-    <cities>
-      <id>82311</id>
-      <name>Culaman</name>
-      <latitude>5.96028000</latitude>
-      <longitude>125.65861000</longitude>
-    </cities>
-    <cities>
-      <id>82328</id>
-      <name>Dacudao</name>
-      <latitude>7.21528000</latitude>
-      <longitude>125.47139000</longitude>
-    </cities>
-    <cities>
-      <id>82395</id>
-      <name>Davan</name>
-      <latitude>6.91487000</latitude>
-      <longitude>126.15323000</longitude>
-    </cities>
-    <cities>
-      <id>82396</id>
-      <name>Davao</name>
-      <latitude>7.07306000</latitude>
-      <longitude>125.61278000</longitude>
-    </cities>
-    <cities>
-      <id>82411</id>
-      <name>Del Pilar</name>
-      <latitude>7.56306000</latitude>
-      <longitude>125.82667000</longitude>
-    </cities>
-    <cities>
-      <id>82425</id>
-      <name>Digos</name>
-      <latitude>6.74972000</latitude>
-      <longitude>125.35722000</longitude>
-    </cities>
-    <cities>
-      <id>82450</id>
-      <name>Dolo</name>
-      <latitude>6.81028000</latitude>
-      <longitude>125.19167000</longitude>
-    </cities>
-    <cities>
-      <id>82493</id>
-      <name>Dumlan</name>
-      <latitude>7.42750000</latitude>
-      <longitude>125.88190000</longitude>
-    </cities>
-    <cities>
-      <id>82517</id>
-      <name>Esperanza</name>
-      <latitude>7.49167000</latitude>
-      <longitude>125.72806000</longitude>
-    </cities>
-    <cities>
-      <id>82547</id>
-      <name>Gabi</name>
-      <latitude>7.62150000</latitude>
-      <longitude>126.09200000</longitude>
-    </cities>
-    <cities>
-      <id>82550</id>
-      <name>Gabuyan</name>
-      <latitude>7.60806000</latitude>
-      <longitude>125.66889000</longitude>
-    </cities>
-    <cities>
-      <id>82606</id>
-      <name>Goma</name>
-      <latitude>6.79194000</latitude>
-      <longitude>125.32083000</longitude>
-    </cities>
-    <cities>
-      <id>82621</id>
-      <name>Guihing Proper</name>
-      <latitude>6.68444000</latitude>
-      <longitude>125.35250000</longitude>
-    </cities>
-    <cities>
-      <id>82654</id>
-      <name>Gumalang</name>
-      <latitude>7.20833000</latitude>
-      <longitude>125.40361000</longitude>
-    </cities>
-    <cities>
-      <id>82657</id>
-      <name>Gupitan</name>
-      <latitude>7.77583000</latitude>
-      <longitude>125.64056000</longitude>
-    </cities>
-    <cities>
-      <id>82668</id>
-      <name>Hagonoy</name>
-      <latitude>6.68333000</latitude>
-      <longitude>125.32556000</longitude>
-    </cities>
-    <cities>
-      <id>82684</id>
-      <name>Hiju Maco</name>
-      <latitude>7.38541000</latitude>
-      <longitude>125.82822000</longitude>
-    </cities>
-    <cities>
-      <id>82720</id>
-      <name>Ignit</name>
-      <latitude>6.70083000</latitude>
-      <longitude>125.29194000</longitude>
-    </cities>
-    <cities>
-      <id>82724</id>
-      <name>Ilangay</name>
-      <latitude>6.91284000</latitude>
-      <longitude>126.05008000</longitude>
-    </cities>
-    <cities>
-      <id>82743</id>
-      <name>Inawayan</name>
-      <latitude>6.96083000</latitude>
-      <longitude>125.47333000</longitude>
-    </cities>
-    <cities>
-      <id>82814</id>
-      <name>Jovellar</name>
-      <latitude>7.06350000</latitude>
-      <longitude>126.45558000</longitude>
-    </cities>
-    <cities>
-      <id>82846</id>
-      <name>Kalbay</name>
-      <latitude>5.72333000</latitude>
-      <longitude>125.49861000</longitude>
-    </cities>
-    <cities>
-      <id>82848</id>
-      <name>Kalian</name>
-      <latitude>6.12306000</latitude>
-      <longitude>125.70028000</longitude>
-    </cities>
-    <cities>
-      <id>82851</id>
-      <name>Kaligutan</name>
-      <latitude>7.70306000</latitude>
-      <longitude>125.81306000</longitude>
-    </cities>
-    <cities>
-      <id>82866</id>
-      <name>Kapalong</name>
-      <latitude>7.77056000</latitude>
-      <longitude>125.55861000</longitude>
-    </cities>
-    <cities>
-      <id>82880</id>
-      <name>Katipunan</name>
-      <latitude>7.32028000</latitude>
-      <longitude>125.62028000</longitude>
-    </cities>
-    <cities>
-      <id>82895</id>
-      <name>Kiblawan</name>
-      <latitude>6.61417000</latitude>
-      <longitude>125.23667000</longitude>
-    </cities>
-    <cities>
-      <id>82905</id>
-      <name>Kinablangan</name>
-      <latitude>7.69280000</latitude>
-      <longitude>126.54912000</longitude>
-    </cities>
-    <cities>
-      <id>82908</id>
-      <name>Kinamayan</name>
-      <latitude>7.49944000</latitude>
-      <longitude>125.67361000</longitude>
-    </cities>
-    <cities>
-      <id>82909</id>
-      <name>Kinangan</name>
-      <latitude>6.30139000</latitude>
-      <longitude>125.58500000</longitude>
-    </cities>
-    <cities>
-      <id>82944</id>
-      <name>La Libertad</name>
-      <latitude>7.48028000</latitude>
-      <longitude>125.64722000</longitude>
-    </cities>
-    <cities>
-      <id>82949</id>
-      <name>La Paz</name>
-      <latitude>7.31583000</latitude>
-      <longitude>125.73333000</longitude>
-    </cities>
-    <cities>
-      <id>82954</id>
-      <name>La Union</name>
-      <latitude>6.70413000</latitude>
-      <longitude>126.08798000</longitude>
-    </cities>
-    <cities>
-      <id>82969</id>
-      <name>Lacaron</name>
-      <latitude>6.44889000</latitude>
-      <longitude>125.57917000</longitude>
-    </cities>
-    <cities>
-      <id>82972</id>
-      <name>Lacson</name>
-      <latitude>7.21194000</latitude>
-      <longitude>125.44222000</longitude>
-    </cities>
-    <cities>
-      <id>82983</id>
-      <name>Lais</name>
-      <latitude>6.33278000</latitude>
-      <longitude>125.64639000</longitude>
-    </cities>
-    <cities>
-      <id>83002</id>
-      <name>Lamitan</name>
-      <latitude>6.08722000</latitude>
-      <longitude>125.70222000</longitude>
-    </cities>
-    <cities>
-      <id>83038</id>
-      <name>Lapuan</name>
-      <latitude>6.14444000</latitude>
-      <longitude>125.70083000</longitude>
-    </cities>
-    <cities>
-      <id>83047</id>
-      <name>Lasang</name>
-      <latitude>7.26694000</latitude>
-      <longitude>125.66500000</longitude>
-    </cities>
-    <cities>
-      <id>83098</id>
-      <name>Libuganon</name>
-      <latitude>7.34880000</latitude>
-      <longitude>125.77820000</longitude>
-    </cities>
-    <cities>
-      <id>83116</id>
-      <name>Limao</name>
-      <latitude>7.07917000</latitude>
-      <longitude>125.67361000</longitude>
-    </cities>
-    <cities>
-      <id>83125</id>
-      <name>Limot</name>
-      <latitude>7.04050000</latitude>
-      <longitude>126.27268000</longitude>
-    </cities>
-    <cities>
-      <id>83133</id>
-      <name>Linao</name>
-      <latitude>7.01720000</latitude>
-      <longitude>125.99200000</longitude>
-    </cities>
-    <cities>
-      <id>83143</id>
-      <name>Linoan</name>
-      <latitude>7.62600000</latitude>
-      <longitude>125.97410000</longitude>
-    </cities>
-    <cities>
-      <id>83210</id>
-      <name>Lukatan</name>
-      <latitude>7.00960000</latitude>
-      <longitude>126.42118000</longitude>
-    </cities>
-    <cities>
-      <id>83232</id>
-      <name>Luna</name>
-      <latitude>7.57639000</latitude>
-      <longitude>125.66722000</longitude>
-    </cities>
-    <cities>
-      <id>83239</id>
-      <name>Lungaog</name>
-      <latitude>7.52944000</latitude>
-      <longitude>125.68778000</longitude>
-    </cities>
-    <cities>
-      <id>83246</id>
-      <name>Lupon</name>
-      <latitude>6.89814000</latitude>
-      <longitude>126.00961000</longitude>
-    </cities>
-    <cities>
-      <id>83253</id>
-      <name>Luzon</name>
-      <latitude>6.51904000</latitude>
-      <longitude>126.09408000</longitude>
-    </cities>
-    <cities>
-      <id>83277</id>
-      <name>Mabini</name>
-      <latitude>7.31139000</latitude>
-      <longitude>125.85278000</longitude>
-    </cities>
-    <cities>
-      <id>83287</id>
-      <name>Mabuhay</name>
-      <latitude>7.33306000</latitude>
-      <longitude>125.54750000</longitude>
-    </cities>
-    <cities>
-      <id>83306</id>
-      <name>Maco</name>
-      <latitude>7.36194000</latitude>
-      <longitude>125.85528000</longitude>
-    </cities>
-    <cities>
-      <id>83315</id>
-      <name>Maduao</name>
-      <latitude>7.29417000</latitude>
-      <longitude>125.62583000</longitude>
-    </cities>
-    <cities>
-      <id>83328</id>
-      <name>Magatos</name>
-      <latitude>7.55556000</latitude>
-      <longitude>125.72667000</longitude>
-    </cities>
-    <cities>
-      <id>83335</id>
-      <name>Magdug</name>
-      <latitude>6.54764000</latitude>
-      <longitude>126.09508000</longitude>
-    </cities>
-    <cities>
-      <id>83338</id>
-      <name>Magnaga</name>
-      <latitude>7.16940000</latitude>
-      <longitude>125.89310000</longitude>
-    </cities>
-    <cities>
-      <id>83342</id>
-      <name>Magsaysay</name>
-      <latitude>6.76667000</latitude>
-      <longitude>125.18333000</longitude>
-    </cities>
-    <cities>
-      <id>83349</id>
-      <name>Magugpo Poblacion</name>
-      <latitude>7.44750000</latitude>
-      <longitude>125.80460000</longitude>
-    </cities>
-    <cities>
-      <id>83357</id>
-      <name>Mahanob</name>
-      <latitude>7.57326000</latitude>
-      <longitude>126.50684000</longitude>
-    </cities>
-    <cities>
-      <id>83362</id>
-      <name>Mahayag</name>
-      <latitude>7.21667000</latitude>
-      <longitude>125.61944000</longitude>
-    </cities>
-    <cities>
-      <id>83393</id>
-      <name>Malagos</name>
-      <latitude>7.18500000</latitude>
-      <longitude>125.42222000</longitude>
-    </cities>
-    <cities>
-      <id>83397</id>
-      <name>Malalag</name>
-      <latitude>6.59583000</latitude>
-      <longitude>125.39917000</longitude>
-    </cities>
-    <cities>
-      <id>83436</id>
-      <name>Malinao</name>
-      <latitude>6.65917000</latitude>
-      <longitude>125.28667000</longitude>
-    </cities>
-    <cities>
-      <id>83445</id>
-      <name>Malita</name>
-      <latitude>6.41500000</latitude>
-      <longitude>125.61167000</longitude>
-    </cities>
-    <cities>
-      <id>83471</id>
-      <name>Mambago</name>
-      <latitude>7.10556000</latitude>
-      <longitude>125.69444000</longitude>
-    </cities>
-    <cities>
-      <id>83484</id>
-      <name>Managa</name>
-      <latitude>6.74611000</latitude>
-      <longitude>125.26806000</longitude>
-    </cities>
-    <cities>
-      <id>83487</id>
-      <name>Manaloal</name>
-      <latitude>7.36611000</latitude>
-      <longitude>125.66028000</longitude>
-    </cities>
-    <cities>
-      <id>83495</id>
-      <name>Manat</name>
-      <latitude>7.53270000</latitude>
-      <longitude>126.01730000</longitude>
-    </cities>
-    <cities>
-      <id>83499</id>
-      <name>Manay</name>
-      <latitude>7.21500000</latitude>
-      <longitude>126.53972000</longitude>
-    </cities>
-    <cities>
-      <id>83517</id>
-      <name>Mangili</name>
-      <latitude>6.00333000</latitude>
-      <longitude>125.68389000</longitude>
-    </cities>
-    <cities>
-      <id>83523</id>
-      <name>Manikling</name>
-      <latitude>6.87907000</latitude>
-      <longitude>126.06063000</longitude>
-    </cities>
-    <cities>
-      <id>83618</id>
-      <name>Matanao</name>
-      <latitude>6.67917000</latitude>
-      <longitude>125.25500000</longitude>
-    </cities>
-    <cities>
-      <id>83625</id>
-      <name>Mati</name>
-      <latitude>6.95508000</latitude>
-      <longitude>126.21655000</longitude>
-    </cities>
-    <cities>
-      <id>83626</id>
-      <name>Matiao</name>
-      <latitude>7.08280000</latitude>
-      <longitude>125.93620000</longitude>
-    </cities>
-    <cities>
-      <id>83632</id>
-      <name>Matti</name>
-      <latitude>6.77056000</latitude>
-      <longitude>125.30861000</longitude>
-    </cities>
-    <cities>
-      <id>83641</id>
-      <name>Mawab</name>
-      <latitude>7.56667000</latitude>
-      <longitude>125.98333000</longitude>
-    </cities>
-    <cities>
-      <id>83651</id>
-      <name>Mayo</name>
-      <latitude>7.00211000</latitude>
-      <longitude>126.33198000</longitude>
-    </cities>
-    <cities>
-      <id>83702</id>
-      <name>Monkayo</name>
-      <latitude>7.81528000</latitude>
-      <longitude>126.05444000</longitude>
-    </cities>
-    <cities>
-      <id>83707</id>
-      <name>Montevista</name>
-      <latitude>7.69333000</latitude>
-      <longitude>125.98889000</longitude>
-    </cities>
-    <cities>
-      <id>83739</id>
-      <name>Nabunturan</name>
-      <latitude>7.60778000</latitude>
-      <longitude>125.96639000</longitude>
-    </cities>
-    <cities>
-      <id>83772</id>
-      <name>Nangan</name>
-      <latitude>6.47264000</latitude>
-      <longitude>126.12438000</longitude>
-    </cities>
-    <cities>
-      <id>83775</id>
-      <name>Nanyo</name>
-      <latitude>7.33306000</latitude>
-      <longitude>125.63778000</longitude>
-    </cities>
-    <cities>
-      <id>83801</id>
-      <name>New Baclayon</name>
-      <latitude>6.58417000</latitude>
-      <longitude>125.36944000</longitude>
-    </cities>
-    <cities>
-      <id>83803</id>
-      <name>New Bohol</name>
-      <latitude>7.52330000</latitude>
-      <longitude>125.83630000</longitude>
-    </cities>
-    <cities>
-      <id>83805</id>
-      <name>New Corella</name>
-      <latitude>7.58660000</latitude>
-      <longitude>125.82370000</longitude>
-    </cities>
-    <cities>
-      <id>83808</id>
-      <name>New Leyte</name>
-      <latitude>7.50000000</latitude>
-      <longitude>125.75000000</longitude>
-    </cities>
-    <cities>
-      <id>83811</id>
-      <name>New Sibonga</name>
-      <latitude>7.56090000</latitude>
-      <longitude>125.92980000</longitude>
-    </cities>
-    <cities>
-      <id>83812</id>
-      <name>New Visayas</name>
-      <latitude>7.52333000</latitude>
-      <longitude>125.62333000</longitude>
-    </cities>
-    <cities>
-      <id>83830</id>
-      <name>Nuing</name>
-      <latitude>5.63278000</latitude>
-      <longitude>125.43528000</longitude>
-    </cities>
-    <cities>
-      <id>83876</id>
-      <name>Padada</name>
-      <latitude>6.64111000</latitude>
-      <longitude>125.34500000</longitude>
-    </cities>
-    <cities>
-      <id>83886</id>
-      <name>Pag-asa</name>
-      <latitude>7.57556000</latitude>
-      <longitude>125.68389000</longitude>
-    </cities>
-    <cities>
-      <id>83894</id>
-      <name>Pagsabangan</name>
-      <latitude>7.48111000</latitude>
-      <longitude>125.74944000</longitude>
-    </cities>
-    <cities>
-      <id>83926</id>
-      <name>Palma Gil</name>
-      <latitude>7.64222000</latitude>
-      <longitude>125.62917000</longitude>
-    </cities>
-    <cities>
-      <id>83943</id>
-      <name>Panabo</name>
-      <latitude>7.30806000</latitude>
-      <longitude>125.68417000</longitude>
-    </cities>
-    <cities>
-      <id>83964</id>
-      <name>Pandasan</name>
-      <latitude>7.28380000</latitude>
-      <longitude>125.85350000</longitude>
-    </cities>
-    <cities>
-      <id>83977</id>
-      <name>Pangian</name>
-      <latitude>6.46278000</latitude>
-      <longitude>125.54528000</longitude>
-    </cities>
-    <cities>
-      <id>83985</id>
-      <name>Panikian</name>
-      <latitude>7.01070000</latitude>
-      <longitude>126.02418000</longitude>
-    </cities>
-    <cities>
-      <id>84005</id>
-      <name>Pantukan</name>
-      <latitude>7.16333000</latitude>
-      <longitude>125.89917000</longitude>
-    </cities>
-    <cities>
-      <id>84028</id>
-      <name>Pasian</name>
-      <latitude>7.92806000</latitude>
-      <longitude>126.06722000</longitude>
-    </cities>
-    <cities>
-      <id>84156</id>
-      <name>Pondaguitan</name>
-      <latitude>6.36115000</latitude>
-      <longitude>126.17778000</longitude>
-    </cities>
-    <cities>
-      <id>84205</id>
-      <name>Province of Davao del Norte</name>
-      <latitude>7.45099000</latitude>
-      <longitude>125.81543000</longitude>
-    </cities>
-    <cities>
-      <id>84206</id>
-      <name>Province of Davao del Sur</name>
-      <latitude>6.79281000</latitude>
-      <longitude>125.30182000</longitude>
-    </cities>
-    <cities>
-      <id>84204</id>
-      <name>Province of Davao Oriental</name>
-      <latitude>7.16667000</latitude>
-      <longitude>126.33333000</longitude>
-    </cities>
-    <cities>
-      <id>84277</id>
-      <name>Pung-Pang</name>
-      <latitude>6.49750000</latitude>
-      <longitude>125.46333000</longitude>
-    </cities>
-    <cities>
-      <id>84424</id>
-      <name>Samal</name>
-      <latitude>7.07444000</latitude>
-      <longitude>125.70833000</longitude>
-    </cities>
-    <cities>
-      <id>84434</id>
-      <name>Sampao</name>
-      <latitude>7.59389000</latitude>
-      <longitude>125.66111000</longitude>
-    </cities>
-    <cities>
-      <id>84441</id>
-      <name>San Alfonso</name>
-      <latitude>7.78028000</latitude>
-      <longitude>126.42028000</longitude>
-    </cities>
-    <cities>
-      <id>84449</id>
-      <name>San Antonio</name>
-      <latitude>7.12000000</latitude>
-      <longitude>125.73972000</longitude>
-    </cities>
-    <cities>
-      <id>84496</id>
-      <name>San Ignacio</name>
-      <latitude>7.11890000</latitude>
-      <longitude>126.48838000</longitude>
-    </cities>
-    <cities>
-      <id>84539</id>
-      <name>San Luis</name>
-      <latitude>7.44139000</latitude>
-      <longitude>126.55111000</longitude>
-    </cities>
-    <cities>
-      <id>84551</id>
-      <name>San Mariano</name>
-      <latitude>7.50000000</latitude>
-      <longitude>126.00000000</longitude>
-    </cities>
-    <cities>
-      <id>84561</id>
-      <name>San Miguel</name>
-      <latitude>7.48500000</latitude>
-      <longitude>125.67639000</longitude>
-    </cities>
-    <cities>
-      <id>84584</id>
-      <name>San Pedro</name>
-      <latitude>7.34194000</latitude>
-      <longitude>126.51750000</longitude>
-    </cities>
-    <cities>
-      <id>84598</id>
-      <name>San Rafael</name>
-      <latitude>7.76389000</latitude>
-      <longitude>126.45583000</longitude>
-    </cities>
-    <cities>
-      <id>84603</id>
-      <name>San Remigio</name>
-      <latitude>6.92306000</latitude>
-      <longitude>125.77583000</longitude>
-    </cities>
-    <cities>
-      <id>84656</id>
-      <name>Santa Cruz</name>
-      <latitude>6.83694000</latitude>
-      <longitude>125.41306000</longitude>
-    </cities>
-    <cities>
-      <id>84688</id>
-      <name>Santa Maria</name>
-      <latitude>6.55361000</latitude>
-      <longitude>125.47083000</longitude>
-    </cities>
-    <cities>
-      <id>84710</id>
-      <name>Santiago</name>
-      <latitude>7.28889000</latitude>
-      <longitude>126.57333000</longitude>
-    </cities>
-    <cities>
-      <id>84728</id>
-      <name>Santo Niño</name>
-      <latitude>7.62361000</latitude>
-      <longitude>125.62528000</longitude>
-    </cities>
-    <cities>
-      <id>84749</id>
-      <name>Sarangani</name>
-      <latitude>5.40333000</latitude>
-      <longitude>125.46361000</longitude>
-    </cities>
-    <cities>
-      <id>84776</id>
-      <name>Sibulan</name>
-      <latitude>6.93361000</latitude>
-      <longitude>125.46222000</longitude>
-    </cities>
-    <cities>
-      <id>84784</id>
-      <name>Sigaboy</name>
-      <latitude>6.65413000</latitude>
-      <longitude>126.07268000</longitude>
-    </cities>
-    <cities>
-      <id>84803</id>
-      <name>Simod</name>
-      <latitude>7.47583000</latitude>
-      <longitude>125.34083000</longitude>
-    </cities>
-    <cities>
-      <id>84811</id>
-      <name>Sinawilan</name>
-      <latitude>6.75444000</latitude>
-      <longitude>125.24639000</longitude>
-    </cities>
-    <cities>
-      <id>84812</id>
-      <name>Sinayawan</name>
-      <latitude>6.71250000</latitude>
-      <longitude>125.30944000</longitude>
-    </cities>
-    <cities>
-      <id>84829</id>
-      <name>Sirib</name>
-      <latitude>7.13333000</latitude>
-      <longitude>125.40722000</longitude>
-    </cities>
-    <cities>
-      <id>84858</id>
-      <name>Sugal</name>
-      <latitude>5.66222000</latitude>
-      <longitude>125.46167000</longitude>
-    </cities>
-    <cities>
-      <id>84870</id>
-      <name>Sulop</name>
-      <latitude>6.59861000</latitude>
-      <longitude>125.34361000</longitude>
-    </cities>
-    <cities>
-      <id>84883</id>
-      <name>Surup</name>
-      <latitude>6.39035000</latitude>
-      <longitude>126.14558000</longitude>
-    </cities>
-    <cities>
-      <id>84887</id>
-      <name>Suz-on</name>
-      <latitude>7.66278000</latitude>
-      <longitude>125.63833000</longitude>
-    </cities>
-    <cities>
-      <id>84926</id>
-      <name>Tagakpan</name>
-      <latitude>7.11278000</latitude>
-      <longitude>125.42917000</longitude>
-    </cities>
-    <cities>
-      <id>84941</id>
-      <name>Tagdanua</name>
-      <latitude>7.20430000</latitude>
-      <longitude>125.88410000</longitude>
-    </cities>
-    <cities>
-      <id>84943</id>
-      <name>Tagnanan</name>
-      <latitude>7.28361000</latitude>
-      <longitude>125.84222000</longitude>
-    </cities>
-    <cities>
-      <id>84956</id>
-      <name>Takub</name>
-      <latitude>6.85639000</latitude>
-      <longitude>125.42250000</longitude>
-    </cities>
-    <cities>
-      <id>84964</id>
-      <name>Talagutong</name>
-      <latitude>6.26444000</latitude>
-      <longitude>125.66778000</longitude>
-    </cities>
-    <cities>
-      <id>84983</id>
-      <name>Talisay</name>
-      <latitude>6.71973000</latitude>
-      <longitude>126.09998000</longitude>
-    </cities>
-    <cities>
-      <id>84991</id>
-      <name>Talomo</name>
-      <latitude>7.52861000</latitude>
-      <longitude>125.72278000</longitude>
-    </cities>
-    <cities>
-      <id>85003</id>
-      <name>Tamayong</name>
-      <latitude>7.13306000</latitude>
-      <longitude>125.37972000</longitude>
-    </cities>
-    <cities>
-      <id>85011</id>
-      <name>Tambo</name>
-      <latitude>7.15694000</latitude>
-      <longitude>125.69917000</longitude>
-    </cities>
-    <cities>
-      <id>85015</id>
-      <name>Tamisan</name>
-      <latitude>6.84372000</latitude>
-      <longitude>126.29838000</longitude>
-    </cities>
-    <cities>
-      <id>85027</id>
-      <name>Tamugan</name>
-      <latitude>7.23083000</latitude>
-      <longitude>125.37639000</longitude>
-    </cities>
-    <cities>
-      <id>85040</id>
-      <name>Tanlad</name>
-      <latitude>6.60222000</latitude>
-      <longitude>125.44500000</longitude>
-    </cities>
-    <cities>
-      <id>85050</id>
-      <name>Tapia</name>
-      <latitude>7.75417000</latitude>
-      <longitude>126.01194000</longitude>
-    </cities>
-    <cities>
-      <id>85060</id>
-      <name>Tarragona</name>
-      <latitude>7.04910000</latitude>
-      <longitude>126.44708000</longitude>
-    </cities>
-    <cities>
-      <id>85067</id>
-      <name>Tawan tawan</name>
-      <latitude>7.16917000</latitude>
-      <longitude>125.37278000</longitude>
-    </cities>
-    <cities>
-      <id>85078</id>
-      <name>Taytayan</name>
-      <latitude>7.73389000</latitude>
-      <longitude>126.50194000</longitude>
-    </cities>
-    <cities>
-      <id>85093</id>
-      <name>Tibagon</name>
-      <latitude>7.23270000</latitude>
-      <longitude>125.86280000</longitude>
-    </cities>
-    <cities>
-      <id>85094</id>
-      <name>Tibanbang</name>
-      <latitude>6.63153000</latitude>
-      <longitude>126.10548000</longitude>
-    </cities>
-    <cities>
-      <id>85097</id>
-      <name>Tiblawan</name>
-      <latitude>6.47834000</latitude>
-      <longitude>126.10828000</longitude>
-    </cities>
-    <cities>
-      <id>85163</id>
-      <name>Tombongon</name>
-      <latitude>7.07920000</latitude>
-      <longitude>125.94860000</longitude>
-    </cities>
-    <cities>
-      <id>85182</id>
-      <name>Tubalan</name>
-      <latitude>6.49500000</latitude>
-      <longitude>125.56611000</longitude>
-    </cities>
-    <cities>
-      <id>85184</id>
-      <name>Tuban</name>
-      <latitude>6.82278000</latitude>
-      <longitude>125.38694000</longitude>
-    </cities>
-    <cities>
-      <id>85193</id>
-      <name>Tubod</name>
-      <latitude>7.37167000</latitude>
-      <longitude>125.64472000</longitude>
-    </cities>
-    <cities>
-      <id>85206</id>
-      <name>Tuganay</name>
-      <latitude>7.36889000</latitude>
-      <longitude>125.72306000</longitude>
-    </cities>
-    <cities>
-      <id>85217</id>
-      <name>Tuli</name>
-      <latitude>7.23333000</latitude>
-      <longitude>125.41667000</longitude>
-    </cities>
-    <cities>
-      <id>85245</id>
-      <name>Ula</name>
-      <latitude>7.13222000</latitude>
-      <longitude>125.49222000</longitude>
-    </cities>
-    <cities>
-      <id>85315</id>
-      <name>Wañgan</name>
-      <latitude>7.15972000</latitude>
-      <longitude>125.44528000</longitude>
-    </cities>
-    <cities>
-      <id>85316</id>
-      <name>Wines</name>
-      <latitude>7.19389000</latitude>
-      <longitude>125.38917000</longitude>
-    </cities>
   </state_city>
   <state_city>
     <id>1291</id>
@@ -549091,17 +549653,8 @@
     <cities/>
   </state_city>
   <state_city>
-    <id>1298</id>
-    <name>Ilocos Norte</name>
-    <state_code>ILN</state_code>
-    <latitude>18.16472810</latitude>
-    <longitude>120.71155920</longitude>
-    <country_id>174</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
     <id>1355</id>
-    <name>Ilocos Region</name>
+    <name>Ilocos</name>
     <state_code>01</state_code>
     <latitude>16.08321440</latitude>
     <longitude>120.61998950</longitude>
@@ -551080,6 +551633,15 @@
       <latitude>16.38710000</latitude>
       <longitude>119.94430000</longitude>
     </cities>
+  </state_city>
+  <state_city>
+    <id>1298</id>
+    <name>Ilocos Norte</name>
+    <state_code>ILN</state_code>
+    <latitude>18.16472810</latitude>
+    <longitude>120.71155920</longitude>
+    <country_id>174</country_id>
+    <cities/>
   </state_city>
   <state_city>
     <id>1321</id>
@@ -556498,6 +557060,15 @@
     <state_code>TAW</state_code>
     <latitude>5.13381100</latitude>
     <longitude>119.95092600</longitude>
+    <country_id>174</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
+    <id>5115</id>
+    <name>Western Samar</name>
+    <state_code>WSA</state_code>
+    <latitude>12.00002060</latitude>
+    <longitude>124.99124520</longitude>
     <country_id>174</country_id>
     <cities/>
   </state_city>
@@ -755210,7 +755781,7 @@
   </state_city>
   <state_city>
     <id>2941</id>
-    <name>Al-Hasakah Governorate</name>
+    <name>Al-Hasakah</name>
     <state_code>HA</state_code>
     <latitude>36.40551500</latitude>
     <longitude>40.79691490</longitude>
@@ -755254,7 +755825,7 @@
   </state_city>
   <state_city>
     <id>2944</id>
-    <name>Al-Raqqah Governorate</name>
+    <name>Al-Raqqah</name>
     <state_code>RA</state_code>
     <latitude>35.95941060</latitude>
     <longitude>38.99810520</longitude>
@@ -755298,7 +755869,7 @@
   </state_city>
   <state_city>
     <id>2946</id>
-    <name>Aleppo Governorate</name>
+    <name>Aleppo</name>
     <state_code>HL</state_code>
     <latitude>36.22623930</latitude>
     <longitude>37.46813960</longitude>
@@ -755432,7 +756003,7 @@
   </state_city>
   <state_city>
     <id>2936</id>
-    <name>As-Suwayda Governorate</name>
+    <name>As-Suwayda</name>
     <state_code>SU</state_code>
     <latitude>32.79891560</latitude>
     <longitude>36.78195050</longitude>
@@ -755482,7 +756053,7 @@
   </state_city>
   <state_city>
     <id>2939</id>
-    <name>Damascus Governorate</name>
+    <name>Damascus</name>
     <state_code>DI</state_code>
     <latitude>33.51514440</latitude>
     <longitude>36.39313540</longitude>
@@ -755496,7 +756067,7 @@
   </state_city>
   <state_city>
     <id>2945</id>
-    <name>Daraa Governorate</name>
+    <name>Daraa</name>
     <state_code>DR</state_code>
     <latitude>32.92488130</latitude>
     <longitude>36.17626150</longitude>
@@ -755594,7 +756165,7 @@
   </state_city>
   <state_city>
     <id>2937</id>
-    <name>Deir ez-Zor Governorate</name>
+    <name>Deir ez-Zor</name>
     <state_code>DY</state_code>
     <latitude>35.28797980</latitude>
     <longitude>40.30886260</longitude>
@@ -755632,7 +756203,7 @@
   </state_city>
   <state_city>
     <id>2934</id>
-    <name>Hama Governorate</name>
+    <name>Hama</name>
     <state_code>HM</state_code>
     <latitude>35.18878650</latitude>
     <longitude>37.21158290</longitude>
@@ -755724,7 +756295,7 @@
   </state_city>
   <state_city>
     <id>2942</id>
-    <name>Homs Governorate</name>
+    <name>Homs</name>
     <state_code>HI</state_code>
     <latitude>34.25671230</latitude>
     <longitude>38.31657250</longitude>
@@ -755816,7 +756387,7 @@
   </state_city>
   <state_city>
     <id>2940</id>
-    <name>Idlib Governorate</name>
+    <name>Idlib</name>
     <state_code>ID</state_code>
     <latitude>35.82687980</latitude>
     <longitude>36.69572160</longitude>
@@ -755938,7 +756509,7 @@
   </state_city>
   <state_city>
     <id>2938</id>
-    <name>Latakia Governorate</name>
+    <name>Latakia</name>
     <state_code>LA</state_code>
     <latitude>35.61297910</latitude>
     <longitude>36.00232250</longitude>
@@ -755994,7 +756565,7 @@
   </state_city>
   <state_city>
     <id>2943</id>
-    <name>Quneitra Governorate</name>
+    <name>Quneitra</name>
     <state_code>QU</state_code>
     <latitude>33.07763180</latitude>
     <longitude>35.89341360</longitude>
@@ -756008,7 +756579,7 @@
   </state_city>
   <state_city>
     <id>2935</id>
-    <name>Rif Dimashq Governorate</name>
+    <name>Rif Dimashq</name>
     <state_code>RD</state_code>
     <latitude>33.51672890</latitude>
     <longitude>36.95410700</longitude>
@@ -756130,7 +756701,7 @@
   </state_city>
   <state_city>
     <id>2947</id>
-    <name>Tartus Governorate</name>
+    <name>Tartus</name>
     <state_code>TA</state_code>
     <latitude>35.00066520</latitude>
     <longitude>36.00232250</longitude>
@@ -768176,7 +768747,7 @@
   </state_city>
   <state_city>
     <id>2550</id>
-    <name>Ariana Governorate</name>
+    <name>Ariana</name>
     <state_code>12</state_code>
     <latitude>36.99227510</latitude>
     <longitude>10.12551640</longitude>
@@ -768196,7 +768767,7 @@
   </state_city>
   <state_city>
     <id>2566</id>
-    <name>Ben Arous Governorate</name>
+    <name>Ben Arous</name>
     <state_code>13</state_code>
     <latitude>36.64356060</latitude>
     <longitude>10.21515780</longitude>
@@ -768234,7 +768805,7 @@
   </state_city>
   <state_city>
     <id>2551</id>
-    <name>Bizerte Governorate</name>
+    <name>Bizerte</name>
     <state_code>23</state_code>
     <latitude>37.16093970</latitude>
     <longitude>9.63413500</longitude>
@@ -768320,7 +768891,7 @@
   </state_city>
   <state_city>
     <id>2558</id>
-    <name>Gabès Governorate</name>
+    <name>Gabès</name>
     <state_code>81</state_code>
     <latitude>33.94596480</latitude>
     <longitude>9.72326730</longitude>
@@ -768352,7 +768923,7 @@
   </state_city>
   <state_city>
     <id>2556</id>
-    <name>Gafsa Governorate</name>
+    <name>Gafsa</name>
     <state_code>71</state_code>
     <latitude>34.37885050</latitude>
     <longitude>8.66005860</longitude>
@@ -768390,7 +768961,7 @@
   </state_city>
   <state_city>
     <id>2552</id>
-    <name>Jendouba Governorate</name>
+    <name>Jendouba</name>
     <state_code>32</state_code>
     <latitude>36.71818620</latitude>
     <longitude>8.74811670</longitude>
@@ -768422,7 +768993,7 @@
   </state_city>
   <state_city>
     <id>2564</id>
-    <name>Kairouan Governorate</name>
+    <name>Kairouan</name>
     <state_code>41</state_code>
     <latitude>35.67116630</latitude>
     <longitude>10.10054690</longitude>
@@ -768448,7 +769019,7 @@
   </state_city>
   <state_city>
     <id>2570</id>
-    <name>Kasserine Governorate</name>
+    <name>Kasserine</name>
     <state_code>42</state_code>
     <latitude>35.08091480</latitude>
     <longitude>8.66005860</longitude>
@@ -768524,7 +769095,7 @@
   </state_city>
   <state_city>
     <id>2562</id>
-    <name>Kebili Governorate</name>
+    <name>Kebili</name>
     <state_code>73</state_code>
     <latitude>33.70715510</latitude>
     <longitude>8.97146230</longitude>
@@ -768556,7 +769127,7 @@
   </state_city>
   <state_city>
     <id>2561</id>
-    <name>Kef Governorate</name>
+    <name>Kef</name>
     <state_code>33</state_code>
     <latitude>36.12305120</latitude>
     <longitude>8.66005860</longitude>
@@ -768606,7 +769177,7 @@
   </state_city>
   <state_city>
     <id>2568</id>
-    <name>Mahdia Governorate</name>
+    <name>Mahdia</name>
     <state_code>53</state_code>
     <latitude>35.33525580</latitude>
     <longitude>10.89030990</longitude>
@@ -768668,7 +769239,7 @@
   </state_city>
   <state_city>
     <id>2555</id>
-    <name>Manouba Governorate</name>
+    <name>Manouba</name>
     <state_code>14</state_code>
     <latitude>36.84465040</latitude>
     <longitude>9.85714160</longitude>
@@ -768700,7 +769271,7 @@
   </state_city>
   <state_city>
     <id>2560</id>
-    <name>Medenine Governorate</name>
+    <name>Medenine</name>
     <state_code>82</state_code>
     <latitude>33.22805650</latitude>
     <longitude>10.89030990</longitude>
@@ -768756,7 +769327,7 @@
   </state_city>
   <state_city>
     <id>2553</id>
-    <name>Monastir Governorate</name>
+    <name>Monastir</name>
     <state_code>52</state_code>
     <latitude>35.76425150</latitude>
     <longitude>10.81128850</longitude>
@@ -768859,8 +769430,154 @@
     </cities>
   </state_city>
   <state_city>
+    <id>5116</id>
+    <name>Nabeul</name>
+    <state_code>21</state_code>
+    <latitude>36.45245910</latitude>
+    <longitude>10.68032220</longitude>
+    <country_id>224</country_id>
+    <cities>
+      <id>153265</id>
+      <name>Azmour</name>
+      <latitude>36.92440000</latitude>
+      <longitude>11.00690000</longitude>
+    </cities>
+    <cities>
+      <id>153266</id>
+      <name>Beni Khalled</name>
+      <latitude>36.65038000</latitude>
+      <longitude>10.59004000</longitude>
+    </cities>
+    <cities>
+      <id>153268</id>
+      <name>Béni Khiar</name>
+      <latitude>36.46666667</latitude>
+      <longitude>10.78333333</longitude>
+    </cities>
+    <cities>
+      <id>153267</id>
+      <name>Bou Argoub</name>
+      <latitude>36.53853000</latitude>
+      <longitude>10.55093000</longitude>
+    </cities>
+    <cities>
+      <id>153269</id>
+      <name>Dar Chaabane</name>
+      <latitude>36.47000000</latitude>
+      <longitude>10.75000000</longitude>
+    </cities>
+    <cities>
+      <id>153270</id>
+      <name>El Haouaria</name>
+      <latitude>37.05000000</latitude>
+      <longitude>11.01111111</longitude>
+    </cities>
+    <cities>
+      <id>153271</id>
+      <name>El Maâmoura</name>
+      <latitude>36.46666667</latitude>
+      <longitude>10.80000000</longitude>
+    </cities>
+    <cities>
+      <id>153272</id>
+      <name>El Mida</name>
+      <latitude>36.73333333</latitude>
+      <longitude>10.85000000</longitude>
+    </cities>
+    <cities>
+      <id>153273</id>
+      <name>El Mrezga</name>
+      <latitude>36.42163000</latitude>
+      <longitude>10.66411000</longitude>
+    </cities>
+    <cities>
+      <id>153274</id>
+      <name>Grombalia</name>
+      <latitude>36.61000000</latitude>
+      <longitude>10.50000000</longitude>
+    </cities>
+    <cities>
+      <id>153275</id>
+      <name>Hammamet</name>
+      <latitude>36.41666667</latitude>
+      <longitude>10.60000000</longitude>
+    </cities>
+    <cities>
+      <id>153276</id>
+      <name>Kelibia</name>
+      <latitude>36.84750000</latitude>
+      <longitude>11.09388889</longitude>
+    </cities>
+    <cities>
+      <id>153277</id>
+      <name>Korba</name>
+      <latitude>36.56666667</latitude>
+      <longitude>10.86666667</longitude>
+    </cities>
+    <cities>
+      <id>153278</id>
+      <name>Korbous</name>
+      <latitude>36.81638889</latitude>
+      <longitude>10.56861111</longitude>
+    </cities>
+    <cities>
+      <id>153279</id>
+      <name>Menzel Bouzelfa</name>
+      <latitude>36.68170000</latitude>
+      <longitude>10.58470000</longitude>
+    </cities>
+    <cities>
+      <id>153280</id>
+      <name>Menzel Horr</name>
+      <latitude>36.73333333</latitude>
+      <longitude>10.95000000</longitude>
+    </cities>
+    <cities>
+      <id>153281</id>
+      <name>Menzel Temime</name>
+      <latitude>36.78333333</latitude>
+      <longitude>10.98333333</longitude>
+    </cities>
+    <cities>
+      <id>153282</id>
+      <name>Nabeul</name>
+      <latitude>36.45138900</latitude>
+      <longitude>10.73611100</longitude>
+    </cities>
+    <cities>
+      <id>153283</id>
+      <name>Soliman</name>
+      <latitude>36.69512600</latitude>
+      <longitude>10.49125700</longitude>
+    </cities>
+    <cities>
+      <id>153284</id>
+      <name>Takelsa</name>
+      <latitude>36.79000000</latitude>
+      <longitude>10.63000000</longitude>
+    </cities>
+    <cities>
+      <id>153285</id>
+      <name>Tazerka</name>
+      <latitude>36.55000000</latitude>
+      <longitude>10.80000000</longitude>
+    </cities>
+    <cities>
+      <id>153286</id>
+      <name>Zaouiet Djedidi</name>
+      <latitude>36.65000000</latitude>
+      <longitude>10.60000000</longitude>
+    </cities>
+    <cities>
+      <id>153287</id>
+      <name>Zriba</name>
+      <latitude>36.35585000</latitude>
+      <longitude>10.20603400</longitude>
+    </cities>
+  </state_city>
+  <state_city>
     <id>2557</id>
-    <name>Sfax Governorate</name>
+    <name>Sfax</name>
     <state_code>61</state_code>
     <latitude>34.86065810</latitude>
     <longitude>10.34978950</longitude>
@@ -768904,7 +769621,7 @@
   </state_city>
   <state_city>
     <id>2567</id>
-    <name>Sidi Bouzid Governorate</name>
+    <name>Sidi Bouzid</name>
     <state_code>43</state_code>
     <latitude>35.03543860</latitude>
     <longitude>9.48393920</longitude>
@@ -768942,7 +769659,7 @@
   </state_city>
   <state_city>
     <id>2563</id>
-    <name>Siliana Governorate</name>
+    <name>Siliana</name>
     <state_code>34</state_code>
     <latitude>36.08872080</latitude>
     <longitude>9.36453350</longitude>
@@ -768986,7 +769703,7 @@
   </state_city>
   <state_city>
     <id>2571</id>
-    <name>Sousse Governorate</name>
+    <name>Sousse</name>
     <state_code>51</state_code>
     <latitude>35.90222670</latitude>
     <longitude>10.34978950</longitude>
@@ -769042,7 +769759,7 @@
   </state_city>
   <state_city>
     <id>2559</id>
-    <name>Tataouine Governorate</name>
+    <name>Tataouine</name>
     <state_code>83</state_code>
     <latitude>32.13441220</latitude>
     <longitude>10.08072980</longitude>
@@ -769062,7 +769779,7 @@
   </state_city>
   <state_city>
     <id>2569</id>
-    <name>Tozeur Governorate</name>
+    <name>Tozeur</name>
     <state_code>72</state_code>
     <latitude>33.97894910</latitude>
     <longitude>8.04651850</longitude>
@@ -769100,7 +769817,7 @@
   </state_city>
   <state_city>
     <id>2554</id>
-    <name>Tunis Governorate</name>
+    <name>Tunis</name>
     <state_code>11</state_code>
     <latitude>36.83749460</latitude>
     <longitude>10.19273890</longitude>
@@ -769144,7 +769861,7 @@
   </state_city>
   <state_city>
     <id>2565</id>
-    <name>Zaghouan Governorate</name>
+    <name>Zaghouan</name>
     <state_code>22</state_code>
     <latitude>36.40911880</latitude>
     <longitude>10.14231720</longitude>
@@ -881269,6 +881986,12 @@
       <longitude>-74.52321000</longitude>
     </cities>
     <cities>
+      <id>153288</id>
+      <name>Hillsborough</name>
+      <latitude>40.49807090</latitude>
+      <longitude>-74.68498850</longitude>
+    </cities>
+    <cities>
       <id>118461</id>
       <name>Hillsdale</name>
       <latitude>41.00260000</latitude>
@@ -881849,6 +882572,12 @@
       <name>Montclair</name>
       <latitude>40.82593000</latitude>
       <longitude>-74.20903000</longitude>
+    </cities>
+    <cities>
+      <id>153289</id>
+      <name>Montgomery</name>
+      <latitude>40.42350110</latitude>
+      <longitude>-74.74351950</longitude>
     </cities>
     <cities>
       <id>122187</id>
@@ -942677,7 +943406,7 @@
   </state_city>
   <state_city>
     <id>1242</id>
-    <name>'Adan Governorate</name>
+    <name>'Adan</name>
     <state_code>AD</state_code>
     <latitude>12.82574810</latitude>
     <longitude>44.79438040</longitude>
@@ -942733,7 +943462,7 @@
   </state_city>
   <state_city>
     <id>1250</id>
-    <name>'Amran Governorate</name>
+    <name>'Amran</name>
     <state_code>AM</state_code>
     <latitude>16.25692140</latitude>
     <longitude>43.94367880</longitude>
@@ -942861,7 +943590,7 @@
   </state_city>
   <state_city>
     <id>1237</id>
-    <name>Abyan Governorate</name>
+    <name>Abyan</name>
     <state_code>AB</state_code>
     <latitude>13.63434130</latitude>
     <longitude>46.05632120</longitude>
@@ -942947,7 +943676,7 @@
   </state_city>
   <state_city>
     <id>1240</id>
-    <name>Al Bayda' Governorate</name>
+    <name>Al Bayda'</name>
     <state_code>BA</state_code>
     <latitude>14.35886620</latitude>
     <longitude>45.44980650</longitude>
@@ -943081,7 +943810,7 @@
   </state_city>
   <state_city>
     <id>1241</id>
-    <name>Al Hudaydah Governorate</name>
+    <name>Al Hudaydah</name>
     <state_code>HU</state_code>
     <latitude>15.30530720</latitude>
     <longitude>43.01948970</longitude>
@@ -943245,7 +943974,7 @@
   </state_city>
   <state_city>
     <id>1243</id>
-    <name>Al Jawf Governorate</name>
+    <name>Al Jawf</name>
     <state_code>JA</state_code>
     <latitude>16.79018190</latitude>
     <longitude>45.29938620</longitude>
@@ -943331,7 +944060,7 @@
   </state_city>
   <state_city>
     <id>1251</id>
-    <name>Al Mahrah Governorate</name>
+    <name>Al Mahrah</name>
     <state_code>MR</state_code>
     <latitude>16.52384230</latitude>
     <longitude>51.68342750</longitude>
@@ -943399,7 +944128,7 @@
   </state_city>
   <state_city>
     <id>1235</id>
-    <name>Al Mahwit Governorate</name>
+    <name>Al Mahwit</name>
     <state_code>MW</state_code>
     <latitude>15.39632290</latitude>
     <longitude>43.56069460</longitude>
@@ -943461,7 +944190,7 @@
   </state_city>
   <state_city>
     <id>1246</id>
-    <name>Dhamar Governorate</name>
+    <name>Dhamar</name>
     <state_code>DH</state_code>
     <latitude>14.71953440</latitude>
     <longitude>44.24790150</longitude>
@@ -943547,7 +944276,7 @@
   </state_city>
   <state_city>
     <id>1238</id>
-    <name>Hadhramaut Governorate</name>
+    <name>Hadhramaut</name>
     <state_code>HD</state_code>
     <latitude>16.93041350</latitude>
     <longitude>49.36531490</longitude>
@@ -943759,7 +944488,7 @@
   </state_city>
   <state_city>
     <id>1244</id>
-    <name>Hajjah Governorate</name>
+    <name>Hajjah</name>
     <state_code>HJ</state_code>
     <latitude>16.11806310</latitude>
     <longitude>43.32946600</longitude>
@@ -943953,7 +944682,7 @@
   </state_city>
   <state_city>
     <id>1233</id>
-    <name>Ibb Governorate</name>
+    <name>Ibb</name>
     <state_code>IB</state_code>
     <latitude>14.14157170</latitude>
     <longitude>44.24790150</longitude>
@@ -944081,7 +944810,7 @@
   </state_city>
   <state_city>
     <id>1245</id>
-    <name>Lahij Governorate</name>
+    <name>Lahij</name>
     <state_code>LA</state_code>
     <latitude>13.14895880</latitude>
     <longitude>44.85054950</longitude>
@@ -944191,7 +944920,7 @@
   </state_city>
   <state_city>
     <id>1234</id>
-    <name>Ma'rib Governorate</name>
+    <name>Ma'rib</name>
     <state_code>MA</state_code>
     <latitude>15.51588800</latitude>
     <longitude>45.44980650</longitude>
@@ -944289,7 +945018,7 @@
   </state_city>
   <state_city>
     <id>1248</id>
-    <name>Raymah Governorate</name>
+    <name>Raymah</name>
     <state_code>RA</state_code>
     <latitude>14.62776820</latitude>
     <longitude>43.71424840</longitude>
@@ -944333,7 +945062,7 @@
   </state_city>
   <state_city>
     <id>1249</id>
-    <name>Saada Governorate</name>
+    <name>Saada</name>
     <state_code>SD</state_code>
     <latitude>16.84765280</latitude>
     <longitude>43.94367880</longitude>
@@ -944442,17 +945171,8 @@
     </cities>
   </state_city>
   <state_city>
-    <id>1232</id>
-    <name>Sana'a</name>
-    <state_code>SA</state_code>
-    <latitude>15.36944510</latitude>
-    <longitude>44.19100660</longitude>
-    <country_id>245</country_id>
-    <cities/>
-  </state_city>
-  <state_city>
     <id>1236</id>
-    <name>Sana'a Governorate</name>
+    <name>Sana'a</name>
     <state_code>SN</state_code>
     <latitude>15.31689130</latitude>
     <longitude>44.47480180</longitude>
@@ -944579,8 +945299,17 @@
     </cities>
   </state_city>
   <state_city>
+    <id>1232</id>
+    <name>Sana'a</name>
+    <state_code>SA</state_code>
+    <latitude>15.36944510</latitude>
+    <longitude>44.19100660</longitude>
+    <country_id>245</country_id>
+    <cities/>
+  </state_city>
+  <state_city>
     <id>1247</id>
-    <name>Shabwah Governorate</name>
+    <name>Shabwah</name>
     <state_code>SH</state_code>
     <latitude>14.75463030</latitude>
     <longitude>46.51626200</longitude>
@@ -944708,7 +945437,7 @@
   </state_city>
   <state_city>
     <id>1239</id>
-    <name>Socotra Governorate</name>
+    <name>Socotra</name>
     <state_code>SU</state_code>
     <latitude>12.46342050</latitude>
     <longitude>53.82373850</longitude>
@@ -944740,7 +945469,7 @@
   </state_city>
   <state_city>
     <id>1231</id>
-    <name>Ta'izz Governorate</name>
+    <name>Ta'izz</name>
     <state_code>TA</state_code>
     <latitude>13.57758860</latitude>
     <longitude>44.01779890</longitude>

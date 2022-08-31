@@ -109611,6 +109611,12 @@
                 "longitude": "18.33530000"
             },
             {
+                "id": 153256,
+                "name": "Baguirmi Department",
+                "latitude": "11.39833333",
+                "longitude": "16.16750000"
+            },
+            {
                 "id": 105129,
                 "name": "Bébédja",
                 "latitude": "8.67610000",
@@ -109671,6 +109677,24 @@
                 "longitude": "15.37222000"
             },
             {
+                "id": 153257,
+                "name": "Bousso",
+                "latitude": "10.48250000",
+                "longitude": "16.71611111"
+            },
+            {
+                "id": 153258,
+                "name": "Chari Department",
+                "latitude": "12.05000000",
+                "longitude": "15.30000000"
+            },
+            {
+                "id": 153259,
+                "name": "Dababa",
+                "latitude": "12.38000000",
+                "longitude": "17.06000000"
+            },
+            {
                 "id": 105131,
                 "name": "Doba",
                 "latitude": "8.65000000",
@@ -109689,6 +109713,12 @@
                 "longitude": "19.10428000"
             },
             {
+                "id": 153260,
+                "name": "Gaoui",
+                "latitude": "12.18070000",
+                "longitude": "15.14760000"
+            },
+            {
                 "id": 105134,
                 "name": "Goundi",
                 "latitude": "9.36267000",
@@ -109701,16 +109731,16 @@
                 "longitude": "15.51320000"
             },
             {
-                "id": 105136,
-                "name": "Goz Beïda",
-                "latitude": "12.22484000",
-                "longitude": "21.41034000"
-            },
-            {
                 "id": 105137,
                 "name": "Goz Béïda",
                 "latitude": "13.94563000",
                 "longitude": "20.54680000"
+            },
+            {
+                "id": 105136,
+                "name": "Goz Beïda",
+                "latitude": "12.22484000",
+                "longitude": "21.41034000"
             },
             {
                 "id": 105138,
@@ -109755,6 +109785,18 @@
                 "longitude": "16.30066000"
             },
             {
+                "id": 153261,
+                "name": "Linia",
+                "latitude": "12.05000000",
+                "longitude": "15.30000000"
+            },
+            {
+                "id": 153262,
+                "name": "Mandjafa",
+                "latitude": "11.19861111",
+                "longitude": "15.36111111"
+            },
+            {
                 "id": 105145,
                 "name": "Mao",
                 "latitude": "14.12116000",
@@ -109771,6 +109813,12 @@
                 "name": "Massakory",
                 "latitude": "12.99600000",
                 "longitude": "15.72927000"
+            },
+            {
+                "id": 153263,
+                "name": "Massenya",
+                "latitude": "11.40277778",
+                "longitude": "16.17000000"
             },
             {
                 "id": 105148,
@@ -109807,6 +109855,12 @@
                 "name": "Moussoro",
                 "latitude": "13.64143000",
                 "longitude": "16.48941000"
+            },
+            {
+                "id": 153264,
+                "name": "N'Djamena",
+                "latitude": "12.11000000",
+                "longitude": "15.05000000"
             },
             {
                 "id": 105154,
@@ -114366,12 +114420,6 @@
                 "name": "Hongyang",
                 "latitude": "26.52861000",
                 "longitude": "119.46250000"
-            },
-            {
-                "id": 19630,
-                "name": "Hongzhou",
-                "latitude": "26.12583000",
-                "longitude": "109.40889000"
             },
             {
                 "id": 19631,
@@ -152936,10 +152984,34 @@
                 "longitude": "25.73333000"
             },
             {
+                "id": 153349,
+                "name": "Äetsä",
+                "latitude": "61.28333000",
+                "longitude": "22.68333000"
+            },
+            {
                 "id": 39130,
                 "name": "Ähtäri",
                 "latitude": "62.55403000",
                 "longitude": "24.06186000"
+            },
+            {
+                "id": 153290,
+                "name": "Aimala",
+                "latitude": "61.33000000",
+                "longitude": "23.69000000"
+            },
+            {
+                "id": 153291,
+                "name": "Aitoo",
+                "latitude": "61.33897400",
+                "longitude": "24.49431900"
+            },
+            {
+                "id": 153292,
+                "name": "Akaa",
+                "latitude": "61.16666667",
+                "longitude": "23.86805556"
             },
             {
                 "id": 38730,
@@ -152970,6 +153042,12 @@
                 "name": "Alavus",
                 "latitude": "62.58333000",
                 "longitude": "23.61667000"
+            },
+            {
+                "id": 153293,
+                "name": "Amuri",
+                "latitude": "61.50000000",
+                "longitude": "23.74500000"
             },
             {
                 "id": 38735,
@@ -153098,6 +153176,12 @@
                 "longitude": "25.36667000"
             },
             {
+                "id": 153294,
+                "name": "Haihara",
+                "latitude": "61.47630000",
+                "longitude": "23.87711000"
+            },
+            {
                 "id": 38756,
                 "name": "Hailuoto",
                 "latitude": "65.00900000",
@@ -153110,6 +153194,12 @@
                 "longitude": "23.08333000"
             },
             {
+                "id": 153295,
+                "name": "Hallila",
+                "latitude": "61.46250000",
+                "longitude": "23.82916667"
+            },
+            {
                 "id": 38758,
                 "name": "Halsua",
                 "latitude": "63.46667000",
@@ -153120,6 +153210,12 @@
                 "name": "Hämeenkoski",
                 "latitude": "61.02222000",
                 "longitude": "25.15417000"
+            },
+            {
+                "id": 153297,
+                "name": "Hämeenkyrö",
+                "latitude": "61.63333333",
+                "longitude": "23.20000000"
             },
             {
                 "id": 38781,
@@ -153200,6 +153296,12 @@
                 "longitude": "24.93545000"
             },
             {
+                "id": 153296,
+                "name": "Hervanta",
+                "latitude": "61.44810000",
+                "longitude": "23.85210000"
+            },
+            {
                 "id": 38771,
                 "name": "Hietalahti",
                 "latitude": "63.08480000",
@@ -153260,16 +153362,16 @@
                 "longitude": "25.37310000"
             },
             {
-                "id": 38783,
-                "name": "Iisalmi",
-                "latitude": "63.55915000",
-                "longitude": "27.19067000"
-            },
-            {
                 "id": 38784,
                 "name": "Iitti",
                 "latitude": "60.89488000",
                 "longitude": "26.33869000"
+            },
+            {
+                "id": 153298,
+                "name": "Ikaalinen",
+                "latitude": "61.76944444",
+                "longitude": "23.06805556"
             },
             {
                 "id": 38785,
@@ -153410,12 +153512,6 @@
                 "longitude": "28.50763000"
             },
             {
-                "id": 38803,
-                "name": "Juankoski",
-                "latitude": "63.06667000",
-                "longitude": "28.35000000"
-            },
-            {
                 "id": 38804,
                 "name": "Jurva",
                 "latitude": "62.68333000",
@@ -153426,6 +153522,12 @@
                 "name": "Juuka",
                 "latitude": "63.23333000",
                 "longitude": "29.25000000"
+            },
+            {
+                "id": 153299,
+                "name": "Juupajoki",
+                "latitude": "61.79666667",
+                "longitude": "24.37000000"
             },
             {
                 "id": 38806,
@@ -153450,12 +153552,6 @@
                 "name": "Kaarina",
                 "latitude": "60.40724000",
                 "longitude": "22.36904000"
-            },
-            {
-                "id": 38815,
-                "name": "Kaavi",
-                "latitude": "62.98333000",
-                "longitude": "28.50000000"
             },
             {
                 "id": 38816,
@@ -153488,10 +153584,10 @@
                 "longitude": "24.12177000"
             },
             {
-                "id": 38820,
-                "name": "Kangaslampi",
-                "latitude": "62.29563000",
-                "longitude": "28.25289000"
+                "id": 153300,
+                "name": "Kangasala",
+                "latitude": "61.46388900",
+                "longitude": "24.06500000"
             },
             {
                 "id": 38821,
@@ -153572,12 +153668,6 @@
                 "longitude": "24.78333000"
             },
             {
-                "id": 38832,
-                "name": "Karttula",
-                "latitude": "62.89630000",
-                "longitude": "26.97045000"
-            },
-            {
                 "id": 38833,
                 "name": "Karvia",
                 "latitude": "62.13333000",
@@ -153612,12 +153702,6 @@
                 "name": "Kaustinen",
                 "latitude": "63.54878000",
                 "longitude": "23.68845000"
-            },
-            {
-                "id": 38839,
-                "name": "Keitele",
-                "latitude": "63.18333000",
-                "longitude": "26.36667000"
             },
             {
                 "id": 38840,
@@ -153680,6 +153764,12 @@
                 "longitude": "24.70000000"
             },
             {
+                "id": 153301,
+                "name": "Kihniö",
+                "latitude": "62.20833333",
+                "longitude": "23.17916667"
+            },
+            {
                 "id": 38850,
                 "name": "Kiihtelysvaara",
                 "latitude": "62.49525000",
@@ -153690,6 +153780,18 @@
                 "name": "Kiikala",
                 "latitude": "60.46667000",
                 "longitude": "23.56667000"
+            },
+            {
+                "id": 153302,
+                "name": "Kiikka",
+                "latitude": "61.32077778",
+                "longitude": "22.77538889"
+            },
+            {
+                "id": 153303,
+                "name": "Kiikoinen",
+                "latitude": "61.45000000",
+                "longitude": "22.57500000"
             },
             {
                 "id": 38852,
@@ -153746,12 +153848,6 @@
                 "longitude": "22.08333000"
             },
             {
-                "id": 38861,
-                "name": "Kiuruvesi",
-                "latitude": "63.65000000",
-                "longitude": "26.61667000"
-            },
-            {
                 "id": 38862,
                 "name": "Kivijärvi",
                 "latitude": "63.11984000",
@@ -153774,6 +153870,12 @@
                 "name": "Kolari",
                 "latitude": "67.33047000",
                 "longitude": "23.77785000"
+            },
+            {
+                "id": 153304,
+                "name": "Kolho",
+                "latitude": "62.13333333",
+                "longitude": "24.51666667"
             },
             {
                 "id": 38866,
@@ -153848,6 +153950,12 @@
                 "longitude": "23.03387000"
             },
             {
+                "id": 153305,
+                "name": "Kuhmalahti",
+                "latitude": "61.50500000",
+                "longitude": "24.56666667"
+            },
+            {
                 "id": 38877,
                 "name": "Kuhmo",
                 "latitude": "64.13333000",
@@ -153872,12 +153980,6 @@
                 "longitude": "22.16145000"
             },
             {
-                "id": 38881,
-                "name": "Kuopio",
-                "latitude": "62.89238000",
-                "longitude": "27.67703000"
-            },
-            {
                 "id": 38882,
                 "name": "Kuortane",
                 "latitude": "62.80000000",
@@ -153888,6 +153990,12 @@
                 "name": "Kurikka",
                 "latitude": "62.61667000",
                 "longitude": "22.41667000"
+            },
+            {
+                "id": 153306,
+                "name": "Kuru",
+                "latitude": "61.87558000",
+                "longitude": "23.71948000"
             },
             {
                 "id": 38884,
@@ -153906,6 +154014,12 @@
                 "name": "Kuusjoki",
                 "latitude": "60.51667000",
                 "longitude": "23.20000000"
+            },
+            {
+                "id": 153307,
+                "name": "Kylmäkoski",
+                "latitude": "61.15000000",
+                "longitude": "23.69166667"
             },
             {
                 "id": 38887,
@@ -153944,16 +154058,16 @@
                 "longitude": "22.10000000"
             },
             {
+                "id": 153312,
+                "name": "Längelmäki",
+                "latitude": "61.68890000",
+                "longitude": "24.69194000"
+            },
+            {
                 "id": 38896,
                 "name": "Lapinjärvi",
                 "latitude": "60.62443000",
                 "longitude": "26.19720000"
-            },
-            {
-                "id": 38897,
-                "name": "Lapinlahti",
-                "latitude": "63.36667000",
-                "longitude": "27.40000000"
             },
             {
                 "id": 38898,
@@ -154022,16 +154136,22 @@
                 "longitude": "27.80571000"
             },
             {
+                "id": 153308,
+                "name": "Lempäälä",
+                "latitude": "61.31388889",
+                "longitude": "23.75277778"
+            },
+            {
                 "id": 38909,
                 "name": "Lemu",
                 "latitude": "60.56667000",
                 "longitude": "21.96667000"
             },
             {
-                "id": 38910,
-                "name": "Leppävirta",
-                "latitude": "62.49009000",
-                "longitude": "27.78262000"
+                "id": 153309,
+                "name": "Lentävänniemi",
+                "latitude": "61.52801000",
+                "longitude": "23.70575000"
             },
             {
                 "id": 38911,
@@ -154044,6 +154164,12 @@
                 "name": "Lieksa",
                 "latitude": "63.31667000",
                 "longitude": "30.01667000"
+            },
+            {
+                "id": 153310,
+                "name": "Lielahti",
+                "latitude": "61.51666667",
+                "longitude": "23.66666667"
             },
             {
                 "id": 38913,
@@ -154106,6 +154232,12 @@
                 "longitude": "25.18607000"
             },
             {
+                "id": 153311,
+                "name": "Luopioinen",
+                "latitude": "61.36293000",
+                "longitude": "24.66781000"
+            },
+            {
                 "id": 38923,
                 "name": "Luumäki",
                 "latitude": "60.92618000",
@@ -154118,12 +154250,6 @@
                 "longitude": "21.62556000"
             },
             {
-                "id": 38926,
-                "name": "Maaninka",
-                "latitude": "63.15523000",
-                "longitude": "27.29939000"
-            },
-            {
                 "id": 38927,
                 "name": "Malax",
                 "latitude": "62.94225000",
@@ -154134,6 +154260,12 @@
                 "name": "Mäntsälä",
                 "latitude": "60.63333000",
                 "longitude": "25.31667000"
+            },
+            {
+                "id": 153315,
+                "name": "Mänttä",
+                "latitude": "62.03014000",
+                "longitude": "24.62791000"
             },
             {
                 "id": 38947,
@@ -154184,6 +154316,12 @@
                 "longitude": "21.86667000"
             },
             {
+                "id": 153313,
+                "name": "Messukylä",
+                "latitude": "61.48527778",
+                "longitude": "23.84472222"
+            },
+            {
                 "id": 38935,
                 "name": "Miehikkälä",
                 "latitude": "60.66667000",
@@ -154200,6 +154338,12 @@
                 "name": "Mikkeli",
                 "latitude": "61.68857000",
                 "longitude": "27.27227000"
+            },
+            {
+                "id": 153314,
+                "name": "Mouhijärvi",
+                "latitude": "61.50000000",
+                "longitude": "23.01667000"
             },
             {
                 "id": 38938,
@@ -154262,6 +154406,12 @@
                 "longitude": "21.90972000"
             },
             {
+                "id": 153316,
+                "name": "Naistenmatka",
+                "latitude": "61.46518000",
+                "longitude": "23.65253000"
+            },
+            {
                 "id": 38950,
                 "name": "Nakkila",
                 "latitude": "61.36667000",
@@ -154274,16 +154424,22 @@
                 "longitude": "25.93333000"
             },
             {
-                "id": 38952,
-                "name": "Nilsiä",
-                "latitude": "63.20746000",
-                "longitude": "28.08222000"
+                "id": 153317,
+                "name": "Nekala",
+                "latitude": "61.48333333",
+                "longitude": "23.79055556"
             },
             {
                 "id": 38953,
                 "name": "Nivala",
                 "latitude": "63.91667000",
                 "longitude": "24.96667000"
+            },
+            {
+                "id": 153318,
+                "name": "Nokia",
+                "latitude": "61.47666667",
+                "longitude": "23.50527778"
             },
             {
                 "id": 38954,
@@ -154310,6 +154466,12 @@
                 "longitude": "29.13965000"
             },
             {
+                "id": 153319,
+                "name": "Nurmi",
+                "latitude": "61.53779000",
+                "longitude": "23.94178000"
+            },
+            {
                 "id": 38958,
                 "name": "Nurmijärvi",
                 "latitude": "60.46407000",
@@ -154320,6 +154482,12 @@
                 "name": "Nurmo",
                 "latitude": "62.82870000",
                 "longitude": "22.90990000"
+            },
+            {
+                "id": 153320,
+                "name": "Nuutajärvi",
+                "latitude": "61.04000000",
+                "longitude": "23.43000000"
             },
             {
                 "id": 38960,
@@ -154344,6 +154512,18 @@
                 "name": "Oripää",
                 "latitude": "60.85000000",
                 "longitude": "22.68333000"
+            },
+            {
+                "id": 153321,
+                "name": "Orivesi",
+                "latitude": "61.67777778",
+                "longitude": "24.35694444"
+            },
+            {
+                "id": 153322,
+                "name": "Osara",
+                "latitude": "61.70866000",
+                "longitude": "23.15871000"
             },
             {
                 "id": 38964,
@@ -154388,6 +154568,12 @@
                 "longitude": "22.68694000"
             },
             {
+                "id": 153328,
+                "name": "Pälkäne",
+                "latitude": "61.35403000",
+                "longitude": "24.51912000"
+            },
+            {
                 "id": 38971,
                 "name": "Paltamo",
                 "latitude": "64.41667000",
@@ -154404,6 +154590,12 @@
                 "name": "Parikkala",
                 "latitude": "61.55000000",
                 "longitude": "29.50000000"
+            },
+            {
+                "id": 153323,
+                "name": "Parkano",
+                "latitude": "62.00972222",
+                "longitude": "23.02500000"
             },
             {
                 "id": 38974,
@@ -154466,12 +154658,6 @@
                 "longitude": "27.13333000"
             },
             {
-                "id": 38984,
-                "name": "Pielavesi",
-                "latitude": "63.23333000",
-                "longitude": "26.75000000"
-            },
-            {
                 "id": 38985,
                 "name": "Pihtipudas",
                 "latitude": "63.38333000",
@@ -154490,10 +154676,28 @@
                 "longitude": "25.96667000"
             },
             {
+                "id": 153324,
+                "name": "Pirkkala",
+                "latitude": "61.46666667",
+                "longitude": "23.65000000"
+            },
+            {
+                "id": 153325,
+                "name": "Pispala",
+                "latitude": "61.50611111",
+                "longitude": "23.70250000"
+            },
+            {
                 "id": 38988,
                 "name": "Pohja",
                 "latitude": "60.09626000",
                 "longitude": "23.52757000"
+            },
+            {
+                "id": 153326,
+                "name": "Pohjaslahti",
+                "latitude": "62.15631000",
+                "longitude": "24.13190000"
             },
             {
                 "id": 38989,
@@ -154560,6 +154764,12 @@
                 "name": "Punkaharju",
                 "latitude": "61.75883000",
                 "longitude": "29.38843000"
+            },
+            {
+                "id": 153327,
+                "name": "Punkalaidun",
+                "latitude": "61.11166667",
+                "longitude": "23.10500000"
             },
             {
                 "id": 38999,
@@ -154670,18 +154880,6 @@
                 "longitude": "21.51127000"
             },
             {
-                "id": 39017,
-                "name": "Rautalampi",
-                "latitude": "62.63333000",
-                "longitude": "26.83333000"
-            },
-            {
-                "id": 39018,
-                "name": "Rautavaara",
-                "latitude": "63.48333000",
-                "longitude": "28.30000000"
-            },
-            {
                 "id": 39019,
                 "name": "Rautjärvi",
                 "latitude": "61.43333000",
@@ -154748,6 +154946,12 @@
                 "longitude": "26.46203000"
             },
             {
+                "id": 153329,
+                "name": "Ruovesi",
+                "latitude": "61.98333300",
+                "longitude": "24.08333300"
+            },
+            {
                 "id": 39030,
                 "name": "Rusko",
                 "latitude": "60.53333000",
@@ -154766,6 +154970,12 @@
                 "longitude": "21.94184000"
             },
             {
+                "id": 153334,
+                "name": "Sääksmäki",
+                "latitude": "61.20000000",
+                "longitude": "24.06666667"
+            },
+            {
                 "id": 39034,
                 "name": "Saari",
                 "latitude": "61.65000000",
@@ -154776,6 +154986,12 @@
                 "name": "Saarijärvi",
                 "latitude": "62.70486000",
                 "longitude": "25.25396000"
+            },
+            {
+                "id": 153330,
+                "name": "Sahalahti",
+                "latitude": "61.46666667",
+                "longitude": "24.31666667"
             },
             {
                 "id": 39064,
@@ -154806,6 +155022,12 @@
                 "name": "Särkisalo",
                 "latitude": "60.11389000",
                 "longitude": "22.95000000"
+            },
+            {
+                "id": 153331,
+                "name": "Sastamala",
+                "latitude": "61.34166667",
+                "longitude": "22.90833333"
             },
             {
                 "id": 39039,
@@ -154874,12 +155096,6 @@
                 "longitude": "24.75924000"
             },
             {
-                "id": 39049,
-                "name": "Siilinjärvi",
-                "latitude": "63.08333000",
-                "longitude": "27.66667000"
-            },
-            {
                 "id": 39050,
                 "name": "Simo",
                 "latitude": "65.66667000",
@@ -154910,12 +155126,6 @@
                 "longitude": "23.53333000"
             },
             {
-                "id": 39055,
-                "name": "Sonkajärvi",
-                "latitude": "63.66667000",
-                "longitude": "27.51667000"
-            },
-            {
                 "id": 39056,
                 "name": "Sotkamo",
                 "latitude": "64.13333000",
@@ -154932,6 +155142,12 @@
                 "name": "Sumiainen",
                 "latitude": "62.65736000",
                 "longitude": "26.04642000"
+            },
+            {
+                "id": 153332,
+                "name": "Suodenniemi",
+                "latitude": "61.55810000",
+                "longitude": "22.78526000"
             },
             {
                 "id": 39059,
@@ -154952,10 +155168,10 @@
                 "longitude": "28.90778000"
             },
             {
-                "id": 39062,
-                "name": "Suonenjoki",
-                "latitude": "62.61667000",
-                "longitude": "27.13333000"
+                "id": 153333,
+                "name": "Suoniemi",
+                "latitude": "61.44111111",
+                "longitude": "23.21500000"
             },
             {
                 "id": 39063,
@@ -154988,6 +155204,12 @@
                 "longitude": "23.76823000"
             },
             {
+                "id": 153335,
+                "name": "Tampere",
+                "latitude": "61.49805556",
+                "longitude": "23.76000000"
+            },
+            {
                 "id": 39071,
                 "name": "Tarvasjoki",
                 "latitude": "60.58333000",
@@ -155000,16 +155222,16 @@
                 "longitude": "21.69590000"
             },
             {
+                "id": 153336,
+                "name": "Teisko",
+                "latitude": "61.67336111",
+                "longitude": "23.84766944"
+            },
+            {
                 "id": 39073,
                 "name": "Tervakoski",
                 "latitude": "60.81412000",
                 "longitude": "24.62594000"
-            },
-            {
-                "id": 39074,
-                "name": "Tervo",
-                "latitude": "62.95000000",
-                "longitude": "26.75000000"
             },
             {
                 "id": 39075,
@@ -155036,6 +155258,12 @@
                 "longitude": "24.25000000"
             },
             {
+                "id": 153337,
+                "name": "Toijala",
+                "latitude": "61.16780000",
+                "longitude": "23.83819000"
+            },
+            {
                 "id": 39079,
                 "name": "Toivakka",
                 "latitude": "62.10000000",
@@ -155046,6 +155274,12 @@
                 "name": "Tornio",
                 "latitude": "65.84811000",
                 "longitude": "24.14662000"
+            },
+            {
+                "id": 153338,
+                "name": "Tottijärvi",
+                "latitude": "61.39777778",
+                "longitude": "23.34277778"
             },
             {
                 "id": 39087,
@@ -155072,12 +155306,6 @@
                 "longitude": "30.62731000"
             },
             {
-                "id": 39084,
-                "name": "Tuusniemi",
-                "latitude": "62.81667000",
-                "longitude": "28.50000000"
-            },
-            {
                 "id": 39085,
                 "name": "Tuusula",
                 "latitude": "60.40368000",
@@ -155100,6 +155328,12 @@
                 "name": "Ulvila",
                 "latitude": "61.42844000",
                 "longitude": "21.87103000"
+            },
+            {
+                "id": 153339,
+                "name": "Urjala",
+                "latitude": "61.08333333",
+                "longitude": "23.55000000"
             },
             {
                 "id": 39090,
@@ -155150,10 +155384,22 @@
                 "longitude": "22.30000000"
             },
             {
+                "id": 153340,
+                "name": "Valkeakoski",
+                "latitude": "61.26666667",
+                "longitude": "24.03055556"
+            },
+            {
                 "id": 39097,
                 "name": "Valtimo",
                 "latitude": "63.66667000",
                 "longitude": "28.80000000"
+            },
+            {
+                "id": 153341,
+                "name": "Vammala",
+                "latitude": "61.34027778",
+                "longitude": "22.90972222"
             },
             {
                 "id": 39098,
@@ -155166,18 +155412,6 @@
                 "name": "Vantaa",
                 "latitude": "60.29414000",
                 "longitude": "25.04099000"
-            },
-            {
-                "id": 39100,
-                "name": "Varkaus",
-                "latitude": "62.31533000",
-                "longitude": "27.87300000"
-            },
-            {
-                "id": 39101,
-                "name": "Varpaisjärvi",
-                "latitude": "63.35932000",
-                "longitude": "27.75506000"
             },
             {
                 "id": 39119,
@@ -155198,34 +155432,22 @@
                 "longitude": "21.66667000"
             },
             {
-                "id": 39103,
-                "name": "Vehmersalmi",
-                "latitude": "62.76101000",
-                "longitude": "28.02853000"
-            },
-            {
                 "id": 39104,
                 "name": "Velkua",
                 "latitude": "60.46667000",
                 "longitude": "21.66667000"
             },
             {
-                "id": 39105,
-                "name": "Vesanto",
-                "latitude": "62.93333000",
-                "longitude": "26.41667000"
+                "id": 153342,
+                "name": "Vesilahti",
+                "latitude": "61.31666700",
+                "longitude": "23.61666700"
             },
             {
                 "id": 39106,
                 "name": "Veteli",
                 "latitude": "63.47839000",
                 "longitude": "23.78285000"
-            },
-            {
-                "id": 39107,
-                "name": "Vieremä",
-                "latitude": "63.75000000",
-                "longitude": "27.01667000"
             },
             {
                 "id": 39108,
@@ -155240,10 +155462,28 @@
                 "longitude": "24.31965000"
             },
             {
+                "id": 153343,
+                "name": "Viiala",
+                "latitude": "61.21023000",
+                "longitude": "23.76738000"
+            },
+            {
                 "id": 39110,
                 "name": "Viitasaari",
                 "latitude": "63.06667000",
                 "longitude": "25.86667000"
+            },
+            {
+                "id": 153344,
+                "name": "Viljakkala",
+                "latitude": "61.70601000",
+                "longitude": "23.26688000"
+            },
+            {
+                "id": 153345,
+                "name": "Vilppula",
+                "latitude": "62.02121000",
+                "longitude": "24.50483000"
             },
             {
                 "id": 39111,
@@ -155256,6 +155496,12 @@
                 "name": "Virojoki",
                 "latitude": "60.57940000",
                 "longitude": "27.70354000"
+            },
+            {
+                "id": 153346,
+                "name": "Virrat",
+                "latitude": "62.24027778",
+                "longitude": "23.77083333"
             },
             {
                 "id": 39113,
@@ -155280,6 +155526,12 @@
                 "name": "Vuolijoki",
                 "latitude": "64.18538000",
                 "longitude": "26.99547000"
+            },
+            {
+                "id": 153347,
+                "name": "Vuores",
+                "latitude": "61.43100000",
+                "longitude": "23.81184000"
             },
             {
                 "id": 39116,
@@ -155334,6 +155586,12 @@
                 "name": "Ylivieska",
                 "latitude": "64.08333000",
                 "longitude": "24.55000000"
+            },
+            {
+                "id": 153348,
+                "name": "Ylöjärvi",
+                "latitude": "61.55000000",
+                "longitude": "23.58333333"
             },
             {
                 "id": 39129,
@@ -316848,6 +317106,12 @@
                 "longitude": "44.23444000"
             },
             {
+                "id": 153202,
+                "name": "Adamiyah",
+                "latitude": "33.36917800",
+                "longitude": "44.33955940"
+            },
+            {
                 "id": 134489,
                 "name": "Al ‘Amādīyah",
                 "latitude": "37.09214000",
@@ -316864,6 +317128,18 @@
                 "name": "Al ‘Azīzīyah",
                 "latitude": "32.90941000",
                 "longitude": "45.06359000"
+            },
+            {
+                "id": 153203,
+                "name": "Al Adel",
+                "latitude": "33.35912830",
+                "longitude": "44.28138680"
+            },
+            {
+                "id": 153204,
+                "name": "Al Baladiyat",
+                "latitude": "33.34931610",
+                "longitude": "44.41071530"
             },
             {
                 "id": 134477,
@@ -316908,6 +317184,12 @@
                 "longitude": "44.22765000"
             },
             {
+                "id": 153205,
+                "name": "Al Jamaa",
+                "latitude": "33.34114470",
+                "longitude": "44.34062690"
+            },
+            {
                 "id": 134482,
                 "name": "Al Kūt",
                 "latitude": "32.51280000",
@@ -316938,6 +317220,24 @@
                 "longitude": "44.29005000"
             },
             {
+                "id": 153206,
+                "name": "Al Saadoon Park",
+                "latitude": "33.32480360",
+                "longitude": "44.41470980"
+            },
+            {
+                "id": 153207,
+                "name": "Al Salhiah",
+                "latitude": "33.32254010",
+                "longitude": "44.38425050"
+            },
+            {
+                "id": 153208,
+                "name": "Al Za'franiya",
+                "latitude": "33.31857750",
+                "longitude": "44.48686390"
+            },
+            {
                 "id": 134492,
                 "name": "Al-Hamdaniya",
                 "latitude": "36.27093000",
@@ -316950,6 +317250,36 @@
                 "longitude": "47.20355000"
             },
             {
+                "id": 153209,
+                "name": "Al-Ubaidi",
+                "latitude": "33.32036030",
+                "longitude": "44.45955910"
+            },
+            {
+                "id": 153210,
+                "name": "Al-Wahda",
+                "latitude": "33.31115820",
+                "longitude": "44.43352280"
+            },
+            {
+                "id": 153211,
+                "name": "Ameria",
+                "latitude": "33.29671020",
+                "longitude": "44.27076790"
+            },
+            {
+                "id": 153212,
+                "name": "Amil District",
+                "latitude": "33.27606090",
+                "longitude": "44.31037170"
+            },
+            {
+                "id": 153213,
+                "name": "Amin",
+                "latitude": "33.31248740",
+                "longitude": "44.48634150"
+            },
+            {
                 "id": 134494,
                 "name": "Ar Rumaythah",
                 "latitude": "31.52845000",
@@ -316960,6 +317290,12 @@
                 "name": "Ar Ruţbah",
                 "latitude": "33.03718000",
                 "longitude": "40.28586000"
+            },
+            {
+                "id": 153214,
+                "name": "Arasat AlHindiya",
+                "latitude": "33.29335790",
+                "longitude": "44.42302450"
             },
             {
                 "id": 134496,
@@ -317004,16 +317340,46 @@
                 "longitude": "43.35202000"
             },
             {
+                "id": 153215,
+                "name": "At Taifiya",
+                "latitude": "33.35643940",
+                "longitude": "44.35791100"
+            },
+            {
                 "id": 134502,
                 "name": "Az Zubayr",
                 "latitude": "30.39213000",
                 "longitude": "47.70175000"
             },
             {
+                "id": 153216,
+                "name": "Bab Al Moatham",
+                "latitude": "33.36014170",
+                "longitude": "44.36507700"
+            },
+            {
+                "id": 153217,
+                "name": "Bab Al Sharqi",
+                "latitude": "33.33249060",
+                "longitude": "44.41407910"
+            },
+            {
                 "id": 134504,
                 "name": "Baghdad",
                 "latitude": "33.34058000",
                 "longitude": "44.40088000"
+            },
+            {
+                "id": 153218,
+                "name": "Baghdad Al Jadeeda",
+                "latitude": "33.31335440",
+                "longitude": "44.47157920"
+            },
+            {
+                "id": 153219,
+                "name": "Baijai",
+                "latitude": "33.33254000",
+                "longitude": "44.34509550"
             },
             {
                 "id": 134505,
@@ -317040,10 +317406,22 @@
                 "longitude": "47.78040000"
             },
             {
+                "id": 153220,
+                "name": "Bataween",
+                "latitude": "33.32112350",
+                "longitude": "44.40855680"
+            },
+            {
                 "id": 134509,
                 "name": "Batifa",
                 "latitude": "37.17454000",
                 "longitude": "43.01233000"
+            },
+            {
+                "id": 153221,
+                "name": "Bayaa",
+                "latitude": "33.28255440",
+                "longitude": "44.37528030"
             },
             {
                 "id": 134510,
@@ -317058,16 +317436,76 @@
                 "longitude": "45.94908000"
             },
             {
+                "id": 153222,
+                "name": "Binouk",
+                "latitude": "33.39278120",
+                "longitude": "44.41114480"
+            },
+            {
+                "id": 153223,
+                "name": "Bo'aitha",
+                "latitude": "33.24194630",
+                "longitude": "44.42695090"
+            },
+            {
+                "id": 153224,
+                "name": "Camp Sarah",
+                "latitude": "33.30112930",
+                "longitude": "44.44469600"
+            },
+            {
+                "id": 153225,
+                "name": "Daoudi",
+                "latitude": "33.31214030",
+                "longitude": "44.32584820"
+            },
+            {
                 "id": 134512,
                 "name": "Dihok",
                 "latitude": "36.86709000",
                 "longitude": "42.98845000"
             },
             {
+                "id": 153226,
+                "name": "Dora",
+                "latitude": "33.23126860",
+                "longitude": "44.36198120"
+            },
+            {
                 "id": 134513,
                 "name": "Erbil",
                 "latitude": "36.18333000",
                 "longitude": "44.01193000"
+            },
+            {
+                "id": 153227,
+                "name": "Ghadeer",
+                "latitude": "33.33749740",
+                "longitude": "44.46281840"
+            },
+            {
+                "id": 153228,
+                "name": "Ghazaliya",
+                "latitude": "33.34143530",
+                "longitude": "44.22354420"
+            },
+            {
+                "id": 153229,
+                "name": "Gherai'at",
+                "latitude": "33.39208370",
+                "longitude": "44.30443140"
+            },
+            {
+                "id": 153230,
+                "name": "Green Zone",
+                "latitude": "33.31376100",
+                "longitude": "44.35900560"
+            },
+            {
+                "id": 153231,
+                "name": "Habibiya",
+                "latitude": "33.33920270",
+                "longitude": "44.46846120"
             },
             {
                 "id": 134548,
@@ -317082,6 +317520,12 @@
                 "longitude": "45.98611000"
             },
             {
+                "id": 153232,
+                "name": "Harthiya",
+                "latitude": "33.22626120",
+                "longitude": "44.39826750"
+            },
+            {
                 "id": 134514,
                 "name": "Hīt",
                 "latitude": "33.63664000",
@@ -317094,10 +317538,34 @@
                 "longitude": "42.68228000"
             },
             {
+                "id": 153233,
+                "name": "Hurriya",
+                "latitude": "33.34241870",
+                "longitude": "44.30656300"
+            },
+            {
                 "id": 134516,
                 "name": "Imam Qasim",
                 "latitude": "32.29799000",
                 "longitude": "44.68282000"
+            },
+            {
+                "id": 153234,
+                "name": "Iskan",
+                "latitude": "33.33405930",
+                "longitude": "44.32303100"
+            },
+            {
+                "id": 153235,
+                "name": "Jadriyah",
+                "latitude": "33.26076360",
+                "longitude": "44.41117200"
+            },
+            {
+                "id": 153236,
+                "name": "Jamila",
+                "latitude": "33.35108840",
+                "longitude": "44.41495600"
             },
             {
                 "id": 134517,
@@ -317106,10 +317574,40 @@
                 "longitude": "44.83430000"
             },
             {
+                "id": 153237,
+                "name": "Jihad",
+                "latitude": "33.25289200",
+                "longitude": "44.29231180"
+            },
+            {
+                "id": 153238,
+                "name": "Kadhimiya",
+                "latitude": "33.38129610",
+                "longitude": "44.35139180"
+            },
+            {
+                "id": 153239,
+                "name": "Kamaliyah",
+                "latitude": "33.35008480",
+                "longitude": "44.50894110"
+            },
+            {
+                "id": 153240,
+                "name": "Karada",
+                "latitude": "33.29336610",
+                "longitude": "44.39641530"
+            },
+            {
                 "id": 134518,
                 "name": "Karbala",
                 "latitude": "32.61603000",
                 "longitude": "44.02488000"
+            },
+            {
+                "id": 153241,
+                "name": "Khadra",
+                "latitude": "33.31972470",
+                "longitude": "44.28764700"
             },
             {
                 "id": 134519,
@@ -317148,10 +317646,28 @@
                 "longitude": "45.55503000"
             },
             {
+                "id": 153242,
+                "name": "Mansour",
+                "latitude": "33.31422960",
+                "longitude": "44.33631230"
+            },
+            {
+                "id": 153243,
+                "name": "Mashtal",
+                "latitude": "33.32443210",
+                "longitude": "44.49314830"
+            },
+            {
                 "id": 134525,
                 "name": "Mosul",
                 "latitude": "36.33500000",
                 "longitude": "43.11889000"
+            },
+            {
+                "id": 153244,
+                "name": "Mustansiriya",
+                "latitude": "33.36298920",
+                "longitude": "44.38695430"
             },
             {
                 "id": 134529,
@@ -317196,6 +317712,12 @@
                 "longitude": "44.85821000"
             },
             {
+                "id": 153245,
+                "name": "Qadisiyah",
+                "latitude": "33.32719630",
+                "longitude": "44.31623840"
+            },
+            {
                 "id": 134533,
                 "name": "Ramadi",
                 "latitude": "33.42056000",
@@ -317214,16 +317736,46 @@
                 "longitude": "44.52372000"
             },
             {
+                "id": 153246,
+                "name": "Sadr City",
+                "latitude": "33.37692330",
+                "longitude": "44.40446380"
+            },
+            {
+                "id": 153247,
+                "name": "Saidiya",
+                "latitude": "33.26500930",
+                "longitude": "44.33159340"
+            },
+            {
                 "id": 134540,
                 "name": "Sāmarrā’",
                 "latitude": "34.19590000",
                 "longitude": "43.88568000"
             },
             {
+                "id": 153248,
+                "name": "Sha'ab",
+                "latitude": "33.41309100",
+                "longitude": "44.38611030"
+            },
+            {
                 "id": 134536,
                 "name": "Shaqlāwah",
                 "latitude": "36.40422000",
                 "longitude": "44.32563000"
+            },
+            {
+                "id": 153249,
+                "name": "Sheik Maaruf",
+                "latitude": "33.33896010",
+                "longitude": "44.34789580"
+            },
+            {
+                "id": 153250,
+                "name": "Shorjah",
+                "latitude": "33.34613940",
+                "longitude": "44.39504420"
             },
             {
                 "id": 134541,
@@ -317242,6 +317794,12 @@
                 "name": "Soran",
                 "latitude": "36.65320000",
                 "longitude": "44.54407000"
+            },
+            {
+                "id": 153251,
+                "name": "Suleikh",
+                "latitude": "33.39343320",
+                "longitude": "44.36144500"
             },
             {
                 "id": 134542,
@@ -317274,10 +317832,34 @@
                 "longitude": "47.91951000"
             },
             {
+                "id": 153252,
+                "name": "Ur District",
+                "latitude": "33.41694000",
+                "longitude": "44.39060790"
+            },
+            {
+                "id": 153253,
+                "name": "Wazireya",
+                "latitude": "33.36366170",
+                "longitude": "44.38196550"
+            },
+            {
+                "id": 153254,
+                "name": "Yarmouk",
+                "latitude": "33.33938360",
+                "longitude": "44.32212520"
+            },
+            {
                 "id": 134547,
                 "name": "Zaxo",
                 "latitude": "37.14871000",
                 "longitude": "42.68591000"
+            },
+            {
+                "id": 153255,
+                "name": "Ziyouna",
+                "latitude": "33.32484340",
+                "longitude": "44.45454600"
             }
         ]
     },
@@ -744536,6 +745118,12 @@
                 "longitude": "9.02117000"
             },
             {
+                "id": 153265,
+                "name": "Azmour",
+                "latitude": "36.92440000",
+                "longitude": "11.00690000"
+            },
+            {
                 "id": 106918,
                 "name": "Banbalah",
                 "latitude": "35.70000000",
@@ -744572,10 +745160,22 @@
                 "longitude": "10.80869000"
             },
             {
+                "id": 153266,
+                "name": "Beni Khalled",
+                "latitude": "36.65038000",
+                "longitude": "10.59004000"
+            },
+            {
                 "id": 106923,
                 "name": "Beni Kheddache",
                 "latitude": "33.25279000",
                 "longitude": "10.19883000"
+            },
+            {
+                "id": 153268,
+                "name": "Béni Khiar",
+                "latitude": "36.46666667",
+                "longitude": "10.78333333"
             },
             {
                 "id": 106924,
@@ -744608,6 +745208,12 @@
                 "longitude": "9.62175000"
             },
             {
+                "id": 153267,
+                "name": "Bou Argoub",
+                "latitude": "36.53853000",
+                "longitude": "10.55093000"
+            },
+            {
                 "id": 106929,
                 "name": "Bou Attouche",
                 "latitude": "33.89927000",
@@ -744636,6 +745242,12 @@
                 "name": "Chorbane",
                 "latitude": "35.28581000",
                 "longitude": "10.38580000"
+            },
+            {
+                "id": 153269,
+                "name": "Dar Chaabane",
+                "latitude": "36.47000000",
+                "longitude": "10.75000000"
             },
             {
                 "id": 106935,
@@ -744704,6 +745316,12 @@
                 "longitude": "9.79629000"
             },
             {
+                "id": 153270,
+                "name": "El Haouaria",
+                "latitude": "37.05000000",
+                "longitude": "11.01111111"
+            },
+            {
                 "id": 106946,
                 "name": "El Jem",
                 "latitude": "35.30000000",
@@ -744720,6 +745338,24 @@
                 "name": "El Ksour",
                 "latitude": "35.89607000",
                 "longitude": "8.88493000"
+            },
+            {
+                "id": 153271,
+                "name": "El Maâmoura",
+                "latitude": "36.46666667",
+                "longitude": "10.80000000"
+            },
+            {
+                "id": 153272,
+                "name": "El Mida",
+                "latitude": "36.73333333",
+                "longitude": "10.85000000"
+            },
+            {
+                "id": 153273,
+                "name": "El Mrezga",
+                "latitude": "36.42163000",
+                "longitude": "10.66411000"
             },
             {
                 "id": 106949,
@@ -744776,6 +745412,12 @@
                 "longitude": "10.78333000"
             },
             {
+                "id": 153274,
+                "name": "Grombalia",
+                "latitude": "36.61000000",
+                "longitude": "10.50000000"
+            },
+            {
                 "id": 106958,
                 "name": "Haffouz",
                 "latitude": "35.63235000",
@@ -744798,6 +745440,12 @@
                 "name": "Hammam-Lif",
                 "latitude": "36.72866000",
                 "longitude": "10.34163000"
+            },
+            {
+                "id": 153275,
+                "name": "Hammamet",
+                "latitude": "36.41666667",
+                "longitude": "10.60000000"
             },
             {
                 "id": 106962,
@@ -744854,10 +745502,28 @@
                 "longitude": "8.96903000"
             },
             {
+                "id": 153276,
+                "name": "Kelibia",
+                "latitude": "36.84750000",
+                "longitude": "11.09388889"
+            },
+            {
                 "id": 106971,
                 "name": "Kesra",
                 "latitude": "35.81363000",
                 "longitude": "9.36434000"
+            },
+            {
+                "id": 153277,
+                "name": "Korba",
+                "latitude": "36.56666667",
+                "longitude": "10.86666667"
+            },
+            {
+                "id": 153278,
+                "name": "Korbous",
+                "latitude": "36.81638889",
+                "longitude": "10.56861111"
             },
             {
                 "id": 106972,
@@ -744968,6 +745634,18 @@
                 "longitude": "9.78594000"
             },
             {
+                "id": 153279,
+                "name": "Menzel Bouzelfa",
+                "latitude": "36.68170000",
+                "longitude": "10.58470000"
+            },
+            {
+                "id": 153280,
+                "name": "Menzel Horr",
+                "latitude": "36.73333333",
+                "longitude": "10.95000000"
+            },
+            {
                 "id": 106990,
                 "name": "Menzel Jemil",
                 "latitude": "37.23618000",
@@ -744984,6 +745662,12 @@
                 "name": "Menzel Salem",
                 "latitude": "35.85673000",
                 "longitude": "8.47654000"
+            },
+            {
+                "id": 153281,
+                "name": "Menzel Temime",
+                "latitude": "36.78333333",
+                "longitude": "10.98333333"
             },
             {
                 "id": 106993,
@@ -745032,6 +745716,12 @@
                 "name": "Mu‘tamadīyat Manūbah",
                 "latitude": "36.80907000",
                 "longitude": "10.09467000"
+            },
+            {
+                "id": 153282,
+                "name": "Nabeul",
+                "latitude": "36.45138900",
+                "longitude": "10.73611100"
             },
             {
                 "id": 107001,
@@ -745202,6 +745892,12 @@
                 "longitude": "10.06999000"
             },
             {
+                "id": 153283,
+                "name": "Soliman",
+                "latitude": "36.69512600",
+                "longitude": "10.49125700"
+            },
+            {
                 "id": 107029,
                 "name": "Sousse",
                 "latitude": "35.82539000",
@@ -745226,6 +745922,12 @@
                 "longitude": "8.55276000"
             },
             {
+                "id": 153284,
+                "name": "Takelsa",
+                "latitude": "36.79000000",
+                "longitude": "10.63000000"
+            },
+            {
                 "id": 107033,
                 "name": "Tamaghzah",
                 "latitude": "34.38849000",
@@ -745236,6 +745938,12 @@
                 "name": "Tataouine",
                 "latitude": "32.92967000",
                 "longitude": "10.45177000"
+            },
+            {
+                "id": 153285,
+                "name": "Tazerka",
+                "latitude": "36.55000000",
+                "longitude": "10.80000000"
             },
             {
                 "id": 107035,
@@ -745280,6 +745988,12 @@
                 "longitude": "10.03876000"
             },
             {
+                "id": 153286,
+                "name": "Zaouiet Djedidi",
+                "latitude": "36.65000000",
+                "longitude": "10.60000000"
+            },
+            {
                 "id": 107042,
                 "name": "Zarzis",
                 "latitude": "33.50398000",
@@ -745290,6 +746004,12 @@
                 "name": "Zouila",
                 "latitude": "35.50056000",
                 "longitude": "11.06056000"
+            },
+            {
+                "id": 153287,
+                "name": "Zriba",
+                "latitude": "36.35585000",
+                "longitude": "10.20603400"
             }
         ]
     },
@@ -836462,6 +837182,12 @@
                 "longitude": "-71.89920000"
             },
             {
+                "id": 153288,
+                "name": "Hillsborough",
+                "latitude": "40.49807090",
+                "longitude": "-74.68498850"
+            },
+            {
                 "id": 118457,
                 "name": "Hillsborough County",
                 "latitude": "27.90623000",
@@ -859740,6 +860466,12 @@
                 "name": "Montgomery",
                 "latitude": "44.90255000",
                 "longitude": "-72.63818000"
+            },
+            {
+                "id": 153289,
+                "name": "Montgomery",
+                "latitude": "40.42350110",
+                "longitude": "-74.74351950"
             },
             {
                 "id": 141534,
