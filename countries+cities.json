@@ -274984,6 +274984,12 @@
                 "longitude": "77.27495000"
             },
             {
+                "id": 153350,
+                "name": "Adra",
+                "latitude": "23.49601500",
+                "longitude": "86.67249000"
+            },
+            {
                 "id": 57596,
                 "name": "Adur",
                 "latitude": "9.15595000",
@@ -278579,7 +278585,7 @@
             },
             {
                 "id": 58000,
-                "name": "Bhubaneshwar",
+                "name": "Bhubaneswar",
                 "latitude": "20.27241000",
                 "longitude": "85.83385000"
             },

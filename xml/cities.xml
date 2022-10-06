@@ -615916,7 +615916,7 @@
   </city>
   <city>
     <id>58000</id>
-    <name>Bhubaneshwar</name>
+    <name>Bhubaneswar</name>
     <state_id>4013</state_id>
     <state_code>OR</state_code>
     <state_name>Odisha</state_name>
@@ -635959,6 +635959,19 @@
     <latitude>30.46944000</latitude>
     <longitude>77.77275000</longitude>
     <wikiDataId>Q2552200</wikiDataId>
+  </city>
+  <city>
+    <id>153350</id>
+    <name>Adra</name>
+    <state_id>4853</state_id>
+    <state_code>WB</state_code>
+    <state_name>West Bengal</state_name>
+    <country_id>101</country_id>
+    <country_code>IN</country_code>
+    <country_name>India</country_name>
+    <latitude>23.49601500</latitude>
+    <longitude>86.67249000</longitude>
+    <wikiDataId>Q490892</wikiDataId>
   </city>
   <city>
     <id>141852</id>

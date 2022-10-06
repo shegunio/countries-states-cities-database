@@ -298128,7 +298128,7 @@
     </cities>
     <cities>
       <id>58000</id>
-      <name>Bhubaneshwar</name>
+      <name>Bhubaneswar</name>
       <latitude>20.27241000</latitude>
       <longitude>85.83385000</longitude>
     </cities>
@@ -307458,6 +307458,12 @@
     <latitude>22.98675690</latitude>
     <longitude>87.85497550</longitude>
     <country_id>101</country_id>
+    <cities>
+      <id>153350</id>
+      <name>Adra</name>
+      <latitude>23.49601500</latitude>
+      <longitude>86.67249000</longitude>
+    </cities>
     <cities>
       <id>141852</id>
       <name>Ahmedpur</name>
@@ -348324,8 +348330,8 @@
     <id>1678</id>
     <name>Lazio</name>
     <state_code>62</state_code>
-    <latitude>45.69916670</latitude>
-    <longitude>-73.65583330</longitude>
+    <latitude>41.81224100</latitude>
+    <longitude>12.73851000</longitude>
     <country_id>107</country_id>
     <cities>
       <id>135252</id>
@@ -363825,8 +363831,8 @@
     <id>1670</id>
     <name>Marche</name>
     <state_code>57</state_code>
-    <latitude>30.55670700</latitude>
-    <longitude>-81.44930300</longitude>
+    <latitude>43.30456200</latitude>
+    <longitude>13.71947000</longitude>
     <country_id>107</country_id>
     <cities>
       <id>135267</id>

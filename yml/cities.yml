@@ -568537,7 +568537,7 @@ city:
     wikiDataId: Q796742
   -
     id: 58000
-    name: Bhubaneshwar
+    name: Bhubaneswar
     state_id: 4013
     state_code: OR
     state_name: Odisha
@@ -587039,6 +587039,18 @@ city:
     latitude: '30.46944000'
     longitude: '77.77275000'
     wikiDataId: Q2552200
+  -
+    id: 153350
+    name: Adra
+    state_id: 4853
+    state_code: WB
+    state_name: 'West Bengal'
+    country_id: 101
+    country_code: IN
+    country_name: India
+    latitude: '23.49601500'
+    longitude: '86.67249000'
+    wikiDataId: Q490892
   -
     id: 141852
     name: Ahmedpur

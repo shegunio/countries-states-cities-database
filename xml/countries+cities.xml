@@ -274628,6 +274628,12 @@
       <longitude>77.27495000</longitude>
     </cities>
     <cities>
+      <id>153350</id>
+      <name>Adra</name>
+      <latitude>23.49601500</latitude>
+      <longitude>86.67249000</longitude>
+    </cities>
+    <cities>
       <id>57596</id>
       <name>Adur</name>
       <latitude>9.15595000</latitude>
@@ -278223,7 +278229,7 @@
     </cities>
     <cities>
       <id>58000</id>
-      <name>Bhubaneshwar</name>
+      <name>Bhubaneswar</name>
       <latitude>20.27241000</latitude>
       <longitude>85.83385000</longitude>
     </cities>
