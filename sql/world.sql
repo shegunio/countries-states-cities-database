@@ -1,14 +1,10 @@
-DROP TABLE IF EXISTS `cities`;
-DROP TABLE IF EXISTS `states`;
-DROP TABLE IF EXISTS `countries`;
-
 -- -------------------------------------------------------------
--- TablePlus 4.8.2(436)
+-- TablePlus 4.8.6(446)
 --
 -- https://tableplus.com/
 --
 -- Database: world
--- Generation Time: 2022-08-31 16:30:43.7550
+-- Generation Time: 2022-10-06 12:11:26.5300
 -- -------------------------------------------------------------
 
 
@@ -22,6 +18,7 @@ DROP TABLE IF EXISTS `countries`;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 
+DROP TABLE IF EXISTS `cities`;
 CREATE TABLE `cities` (
   `id` mediumint(8) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
@@ -40,8 +37,9 @@ CREATE TABLE `cities` (
   KEY `cities_test_ibfk_2` (`country_id`),
   CONSTRAINT `cities_ibfk_1` FOREIGN KEY (`state_id`) REFERENCES `states` (`id`),
   CONSTRAINT `cities_ibfk_2` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=153350 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci ROW_FORMAT=COMPACT;
+) ENGINE=InnoDB AUTO_INCREMENT=153351 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci ROW_FORMAT=COMPACT;
 
+DROP TABLE IF EXISTS `countries`;
 CREATE TABLE `countries` (
   `id` mediumint(8) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
@@ -70,6 +68,7 @@ CREATE TABLE `countries` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=251 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+DROP TABLE IF EXISTS `states`;
 CREATE TABLE `states` (
   `id` mediumint(8) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
@@ -151581,7 +151580,7 @@ INSERT INTO `cities` (`id`, `name`, `state_id`, `state_code`, `country_id`, `cou
 (153347, 'Vuores', 1506, '11', 74, 'FI', 61.43100000, 23.81184000, '2022-08-31 16:25:16', '2022-08-31 16:25:16', 1, 'Q11901997'),
 (153348, 'Ylöjärvi', 1506, '11', 74, 'FI', 61.55000000, 23.58333333, '2022-08-31 16:25:16', '2022-08-31 16:25:16', 1, 'Q543800'),
 (153349, 'Äetsä', 1506, '11', 74, 'FI', 61.28333000, 22.68333000, '2022-08-31 16:25:16', '2022-08-31 16:25:16', 1, 'Q252873'),
-(153350, 'Adra', 4853, 'WB', 101, 'IN', 23.49601500, 86.67249000, '2022-09-06 09:01:23','2022-09-06 09:01:23',1,'Q490892');
+(153350, 'Adra', 4853, 'WB', 101, 'IN', 23.49601500, 86.67249000, '2022-09-06 09:01:23', '2022-09-06 09:01:23', 1, 'Q490892');
 
 INSERT INTO `countries` (`id`, `name`, `iso3`, `numeric_code`, `iso2`, `phonecode`, `capital`, `currency`, `currency_name`, `currency_symbol`, `tld`, `native`, `region`, `subregion`, `timezones`, `translations`, `latitude`, `longitude`, `emoji`, `emojiU`, `created_at`, `updated_at`, `flag`, `wikiDataId`) VALUES
 (1, 'Afghanistan', 'AFG', '004', 'AF', '93', 'Kabul', 'AFN', 'Afghan afghani', '؋', '.af', 'افغانستان', 'Asia', 'Southern Asia', '[{\"zoneName\":\"Asia/Kabul\",\"gmtOffset\":16200,\"gmtOffsetName\":\"UTC+04:30\",\"abbreviation\":\"AFT\",\"tzName\":\"Afghanistan Time\"}]', '{\"kr\":\"아프가니스탄\",\"pt-BR\":\"Afeganistão\",\"pt\":\"Afeganistão\",\"nl\":\"Afghanistan\",\"hr\":\"Afganistan\",\"fa\":\"افغانستان\",\"de\":\"Afghanistan\",\"es\":\"Afganistán\",\"fr\":\"Afghanistan\",\"ja\":\"アフガニスタン\",\"it\":\"Afghanistan\",\"cn\":\"阿富汗\",\"tr\":\"Afganistan\"}', 33.00000000, 65.00000000, '🇦🇫', 'U+1F1E6 U+1F1EB', '2018-07-21 07:11:03', '2022-05-21 21:06:00', 1, 'Q889'),
@@ -153462,7 +153461,7 @@ INSERT INTO `states` (`id`, `name`, `country_id`, `country_code`, `fips_code`, `
 (1667, 'Siracusa', 107, 'IT', '16', 'SR', 'free municipal consortium', 37.06569240, 15.28571090, '2019-10-05 23:18:43', '2022-05-08 20:12:08', 1, 'Q25510290'),
 (1668, 'Palermo', 107, 'IT', '16', 'PA', 'province', 38.11569000, 13.36148680, '2019-10-05 23:18:43', '2022-05-08 20:11:10', 1, 'Q20795016'),
 (1669, 'Campania', 107, 'IT', '04', '72', 'region', 40.66708870, 15.10681130, '2019-10-05 23:18:43', '2021-09-26 18:37:37', 1, 'Q1438'),
-(1670, 'Marche', 107, 'IT', '10', '57', 'region', 43.304562, 13.719470, '2019-10-05 23:18:43', '2022-09-22 15:00:00', 1, 'Q1279'),
+(1670, 'Marche', 107, 'IT', '10', '57', 'region', 43.30456200, 13.71947000, '2019-10-05 23:18:43', '2022-09-22 15:00:00', 1, 'Q1279'),
 (1671, 'Reggio Calabria', 107, 'IT', '10', 'RC', 'metropolitan city', 38.10843960, 15.64370480, '2019-10-05 23:18:43', '2022-05-08 20:12:08', 1, 'Q3678586'),
 (1672, 'Ancona', 107, 'IT', '10', 'AN', 'province', 43.54932450, 13.26634790, '2019-10-05 23:18:43', '2022-05-08 20:07:14', 1, 'Q16114'),
 (1673, 'Venice', 107, 'IT', '10', 'VE', 'metropolitan city', 45.44146850, 12.31526720, '2019-10-05 23:18:43', '2022-05-08 20:12:57', 1, 'Q3678587'),
@@ -153470,7 +153469,7 @@ INSERT INTO `states` (`id`, `name`, `country_id`, `country_code`, `fips_code`, `
 (1675, 'Lecce', 107, 'IT', '10', 'LE', 'province', 40.23473930, 18.14286690, '2019-10-05 23:18:43', '2022-05-08 20:09:31', 1, 'Q16197'),
 (1676, 'Pavia', 107, 'IT', '10', 'PV', 'province', 45.32181660, 8.84662360, '2019-10-05 23:18:43', '2022-05-08 20:11:10', 1, 'Q16231'),
 (1677, 'Lecco', 107, 'IT', '10', 'LC', 'province', 45.93829410, 9.38572900, '2019-10-05 23:18:43', '2022-05-08 20:09:31', 1, 'Q16199'),
-(1678, 'Lazio', 107, 'IT', '07', '62', 'region', 41.812241, 12.738510, '2019-10-05 23:18:43', '2022-09-22 15:00:00', 1, 'Q1282'),
+(1678, 'Lazio', 107, 'IT', '07', '62', 'region', 41.81224100, 12.73851000, '2019-10-05 23:18:43', '2022-09-22 15:00:00', 1, 'Q1282'),
 (1679, 'Abruzzo', 107, 'IT', '01', '65', 'region', 42.19201190, 13.72891670, '2019-10-05 23:18:43', '2021-09-26 18:37:37', 1, 'Q1284'),
 (1680, 'Florence', 107, 'IT', '01', 'FI', 'metropolitan city', 43.76791780, 11.25237920, '2019-10-05 23:18:43', '2022-05-08 20:08:42', 1, 'Q18288148'),
 (1681, 'Ascoli Piceno', 107, 'IT', '01', 'AP', 'province', 42.86389330, 13.58997330, '2019-10-05 23:18:43', '2022-05-08 20:07:14', 1, 'Q16117'),
@@ -155793,7 +155792,7 @@ INSERT INTO `states` (`id`, `name`, `country_id`, `country_code`, `fips_code`, `
 (4010, 'Manipur', 101, 'IN', '17', 'MN', 'state', 24.66371730, 93.90626880, '2019-10-05 23:18:57', '2022-03-13 12:57:52', 1, 'Q1193'),
 (4011, 'Puducherry', 101, 'IN', '22', 'PY', 'Union territory', 11.94159150, 79.80831330, '2019-10-05 23:18:57', '2022-03-13 12:57:52', 1, 'Q66743'),
 (4012, 'Telangana', 101, 'IN', '40', 'TG', 'state', 18.11243720, 79.01929970, '2019-10-05 23:18:57', '2022-03-13 12:57:52', 1, 'Q677037'),
-(4013, 'Odisha', 101, 'IN', '21', 'OD', 'state', 20.95166580, 85.09852360, '2019-10-05 23:18:57', '2022-03-13 12:57:52', 1, 'Q22048'),
+(4013, 'Odisha', 101, 'IN', '21', 'OR', 'state', 20.95166580, 85.09852360, '2019-10-05 23:18:57', '2022-10-06 12:09:54', 1, 'Q22048'),
 (4014, 'Rajasthan', 101, 'IN', '24', 'RJ', 'state', 27.02380360, 74.21793260, '2019-10-05 23:18:57', '2022-03-13 12:57:52', 1, 'Q1437'),
 (4015, 'Punjab', 101, 'IN', '23', 'PB', 'state', 31.14713050, 75.34121790, '2019-10-05 23:18:57', '2022-03-13 12:57:52', 1, 'Q22424'),
 (4016, 'Uttarakhand', 101, 'IN', '39', 'UT', 'state', 30.06675300, 79.01929970, '2019-10-05 23:18:57', '2022-03-13 12:57:52', 1, 'Q1499'),
