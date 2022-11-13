@@ -544414,11 +544414,6 @@ country_city:
         latitude: '24.01860000'
         longitude: '39.67310000'
       -
-        id: 148870
-        name: Abha
-        latitude: '18.21666667'
-        longitude: '42.50000000'
-      -
         id: 102804
         name: Abha
         latitude: '18.21639000'
@@ -544428,11 +544423,6 @@ country_city:
         name: Abqaiq
         latitude: '25.93402000'
         longitude: '49.66880000'
-      -
-        id: 148602
-        name: 'Abu `Urwah'
-        latitude: '21.65000000'
-        longitude: '39.70000000'
       -
         id: 148874
         name: 'Abu `Urwah'
@@ -544444,25 +544434,10 @@ country_city:
         latitude: '16.96887000'
         longitude: '42.83251000'
       -
-        id: 148802
-        name: 'Abu Dhiba'
-        latitude: '23.19890000'
-        longitude: '39.55780000'
-      -
         id: 148871
         name: 'Abu Hisani'
         latitude: '21.73060000'
         longitude: '39.78330000'
-      -
-        id: 148599
-        name: 'Abu Hisani'
-        latitude: '21.73060000'
-        longitude: '39.78330000'
-      -
-        id: 148600
-        name: 'Abu Qirfah'
-        latitude: '21.76670000'
-        longitude: '39.68330000'
       -
         id: 148872
         name: 'Abu Qirfah'
@@ -544484,22 +544459,12 @@ country_city:
         latitude: '21.58330000'
         longitude: '39.70000000'
       -
-        id: 148601
-        name: 'Abu Shu`ayb'
-        latitude: '21.58330000'
-        longitude: '39.70000000'
-      -
         id: 148803
         name: 'Abyar ''Ali'
         latitude: '24.41666667'
         longitude: '39.55000000'
       -
         id: 148875
-        name: 'Ad Dabbah'
-        latitude: '21.71670000'
-        longitude: '39.83330000'
-      -
-        id: 148603
         name: 'Ad Dabbah'
         latitude: '21.71670000'
         longitude: '39.83330000'
@@ -544513,11 +544478,6 @@ country_city:
         name: 'Ad Dawādimī'
         latitude: '24.50772000'
         longitude: '44.39237000'
-      -
-        id: 148604
-        name: 'Ad Dawh'
-        latitude: '21.77220000'
-        longitude: '39.70140000'
       -
         id: 148876
         name: 'Ad Dawh'
@@ -544535,11 +544495,6 @@ country_city:
         longitude: '39.53330000'
       -
         id: 148877
-        name: 'Ad Dur'
-        latitude: '21.81670000'
-        longitude: '39.76670000'
-      -
-        id: 148605
         name: 'Ad Dur'
         latitude: '21.81670000'
         longitude: '39.76670000'
@@ -544594,16 +544549,6 @@ country_city:
         latitude: '21.09810000'
         longitude: '39.91030000'
       -
-        id: 148663
-        name: 'Al Ābār'
-        latitude: '21.09810000'
-        longitude: '39.91030000'
-      -
-        id: 148606
-        name: 'Al Adl'
-        latitude: '21.44361000'
-        longitude: '39.85611000'
-      -
         id: 148878
         name: 'Al Adl'
         latitude: '21.44361000'
@@ -544618,11 +544563,6 @@ country_city:
         name: 'Al Arţāwīyah'
         latitude: '26.50387000'
         longitude: '45.34813000'
-      -
-        id: 148607
-        name: 'Al Ashraf'
-        latitude: '21.52360000'
-        longitude: '39.61670000'
       -
         id: 148879
         name: 'Al Ashraf'
@@ -544644,27 +544584,12 @@ country_city:
         latitude: '20.01288000'
         longitude: '41.46767000'
       -
-        id: 148592
-        name: 'Al Bahah'
-        latitude: '20.01288000'
-        longitude: '41.46767000'
-      -
-        id: 148608
-        name: 'Al Balad'
-        latitude: '21.48780000'
-        longitude: '39.19360000'
-      -
         id: 148880
         name: 'Al Balad'
         latitude: '21.48780000'
         longitude: '39.19360000'
       -
         id: 148881
-        name: 'Al Barabir'
-        latitude: '21.52030000'
-        longitude: '39.63250000'
-      -
-        id: 148609
         name: 'Al Barabir'
         latitude: '21.52030000'
         longitude: '39.63250000'
@@ -544678,11 +544603,6 @@ country_city:
         name: 'Al Baţţālīyah'
         latitude: '25.43333000'
         longitude: '49.63333000'
-      -
-        id: 148610
-        name: 'Al Bi''ar'
-        latitude: '22.64972222'
-        longitude: '39.67027778'
       -
         id: 148882
         name: 'Al Bi''ar'
@@ -544699,11 +544619,6 @@ country_city:
         latitude: '25.30000000'
         longitude: '45.96670000'
       -
-        id: 148611
-        name: 'Al Birk'
-        latitude: '18.21631000'
-        longitude: '41.53593000'
-      -
         id: 148883
         name: 'Al Birk'
         latitude: '18.21631000'
@@ -544713,11 +544628,6 @@ country_city:
         name: 'Al Bukayrīyah'
         latitude: '26.13915000'
         longitude: '43.65782000'
-      -
-        id: 148612
-        name: 'Al Buraykah'
-        latitude: '21.78610000'
-        longitude: '39.71670000'
       -
         id: 148884
         name: 'Al Buraykah'
@@ -544739,16 +544649,6 @@ country_city:
         latitude: '21.83280000'
         longitude: '40.16110000'
       -
-        id: 148613
-        name: 'Al Fawwarah'
-        latitude: '21.83280000'
-        longitude: '40.16110000'
-      -
-        id: 148614
-        name: 'Al Faydah'
-        latitude: '21.98440000'
-        longitude: '39.38470000'
-      -
         id: 148886
         name: 'Al Faydah'
         latitude: '21.98440000'
@@ -544759,30 +544659,15 @@ country_city:
         latitude: '21.98330000'
         longitude: '39.52220000'
       -
-        id: 148615
-        name: 'Al Fazz'
-        latitude: '21.98330000'
-        longitude: '39.52220000'
-      -
         id: 148811
         name: 'Al Furaysh'
         latitude: '24.22000000'
         longitude: '39.28140000'
       -
-        id: 148812
-        name: 'Al Fuwayliq'
-        latitude: '26.44360000'
-        longitude: '43.25164000'
-      -
         id: 102818
         name: 'Al Fuwayliq'
         latitude: '26.44360000'
         longitude: '43.25164000'
-      -
-        id: 148616
-        name: 'Al Gharith'
-        latitude: '21.60000000'
-        longitude: '41.88330000'
       -
         id: 148888
         name: 'Al Gharith'
@@ -544794,16 +544679,6 @@ country_city:
         latitude: '21.45000000'
         longitude: '39.86670000'
       -
-        id: 148617
-        name: 'Al Ghassalah'
-        latitude: '21.45000000'
-        longitude: '39.86670000'
-      -
-        id: 148618
-        name: 'Al Ghulah'
-        latitude: '21.95000000'
-        longitude: '39.31670000'
-      -
         id: 148890
         name: 'Al Ghulah'
         latitude: '21.95000000'
@@ -544813,11 +544688,6 @@ country_city:
         name: 'Al Hadā'
         latitude: '21.36753000'
         longitude: '40.28694000'
-      -
-        id: 148619
-        name: 'Al Hada'
-        latitude: '21.36860000'
-        longitude: '40.28470000'
       -
         id: 148749
         name: 'Al Hadrur'
@@ -544833,16 +544703,6 @@ country_city:
         name: 'Al Halaqah'
         latitude: '21.35000000'
         longitude: '40.45000000'
-      -
-        id: 148620
-        name: 'Al Halaqah'
-        latitude: '21.35000000'
-        longitude: '40.45000000'
-      -
-        id: 148621
-        name: 'Al Hamimah'
-        latitude: '21.51670000'
-        longitude: '39.63330000'
       -
         id: 148892
         name: 'Al Hamimah'
@@ -544864,22 +544724,12 @@ country_city:
         latitude: '21.95000000'
         longitude: '39.48333333'
       -
-        id: 148622
-        name: 'Al Harra'' Makkah'
-        latitude: '21.95000000'
-        longitude: '39.48333333'
-      -
         id: 148752
         name: 'Al Hasamah'
         latitude: '16.68333333'
         longitude: '42.92694444'
       -
         id: 148894
-        name: 'Al Hawiyah'
-        latitude: '21.42415000'
-        longitude: '40.49303000'
-      -
-        id: 148623
         name: 'Al Hawiyah'
         latitude: '21.42415000'
         longitude: '40.49303000'
@@ -544898,11 +544748,6 @@ country_city:
         name: 'Al Isawiyah'
         latitude: '30.71681000'
         longitude: '37.97767000'
-      -
-        id: 148624
-        name: 'Al Iskan'
-        latitude: '21.40000000'
-        longitude: '39.78330000'
       -
         id: 148895
         name: 'Al Iskan'
@@ -544924,20 +544769,10 @@ country_city:
         latitude: '21.67030000'
         longitude: '40.12640000'
       -
-        id: 148625
-        name: 'Al Jadidah'
-        latitude: '21.67030000'
-        longitude: '40.12640000'
-      -
         id: 102821
         name: 'Al Jafr'
         latitude: '25.37736000'
         longitude: '49.72154000'
-      -
-        id: 148626
-        name: 'Al Jami`ah'
-        latitude: '21.46670000'
-        longitude: '39.25000000'
       -
         id: 148897
         name: 'Al Jami`ah'
@@ -544959,11 +544794,6 @@ country_city:
         latitude: '21.93330000'
         longitude: '39.58330000'
       -
-        id: 148627
-        name: 'Al Jid`'
-        latitude: '21.93330000'
-        longitude: '39.58330000'
-      -
         id: 148756
         name: 'Al Jirbah'
         latitude: '16.92640000'
@@ -544975,11 +544805,6 @@ country_city:
         longitude: '40.30000000'
       -
         id: 148899
-        name: 'Al Ju`ranah'
-        latitude: '21.56670000'
-        longitude: '39.95000000'
-      -
-        id: 148628
         name: 'Al Ju`ranah'
         latitude: '21.56670000'
         longitude: '39.95000000'
@@ -545019,20 +544844,10 @@ country_city:
         latitude: '21.46777778'
         longitude: '39.90472222'
       -
-        id: 148629
-        name: 'Al Khadra'' Makkah'
-        latitude: '21.46777778'
-        longitude: '39.90472222'
-      -
         id: 102825
         name: 'Al Khafjī'
         latitude: '28.43905000'
         longitude: '48.49132000'
-      -
-        id: 148630
-        name: 'Al Khalas'
-        latitude: '21.70000000'
-        longitude: '39.80000000'
       -
         id: 148901
         name: 'Al Khalas'
@@ -545040,11 +544855,6 @@ country_city:
         longitude: '39.80000000'
       -
         id: 148902
-        name: 'Al Khamrah'
-        latitude: '22.43330000'
-        longitude: '39.46670000'
-      -
-        id: 148631
         name: 'Al Khamrah'
         latitude: '22.43330000'
         longitude: '39.46670000'
@@ -545079,16 +544889,6 @@ country_city:
         latitude: '21.46940000'
         longitude: '40.63060000'
       -
-        id: 148632
-        name: 'Al Khaydar'
-        latitude: '21.46940000'
-        longitude: '40.63060000'
-      -
-        id: 148633
-        name: 'Al Khayf'
-        latitude: '21.68330000'
-        longitude: '39.73330000'
-      -
         id: 148904
         name: 'Al Khayf'
         latitude: '21.68330000'
@@ -545104,16 +544904,6 @@ country_city:
         latitude: '21.68330000'
         longitude: '39.91670000'
       -
-        id: 148634
-        name: 'Al Khulasah'
-        latitude: '21.68330000'
-        longitude: '39.91670000'
-      -
-        id: 148635
-        name: 'Al Kidwah'
-        latitude: '21.78330000'
-        longitude: '39.68330000'
-      -
         id: 148906
         name: 'Al Kidwah'
         latitude: '21.78330000'
@@ -545125,11 +544915,6 @@ country_city:
         longitude: '42.94750000'
       -
         id: 148907
-        name: 'Al Kura`'
-        latitude: '21.80000000'
-        longitude: '39.13330000'
-      -
-        id: 148636
         name: 'Al Kura`'
         latitude: '21.80000000'
         longitude: '39.13330000'
@@ -545149,35 +544934,15 @@ country_city:
         latitude: '21.13330000'
         longitude: '40.60000000'
       -
-        id: 148637
-        name: 'Al Ma`rash'
-        latitude: '21.13330000'
-        longitude: '40.60000000'
-      -
         id: 148767
         name: 'Al Madaya'
         latitude: '16.76970000'
         longitude: '42.73110000'
       -
-        id: 148816
-        name: 'Al Madiq Al Madinah'
-        latitude: '23.32220000'
-        longitude: '39.62030000'
-      -
         id: 148909
         name: 'Al Madiq Makkah'
         latitude: '21.67580000'
         longitude: '40.13080000'
-      -
-        id: 148638
-        name: 'Al Madiq Makkah'
-        latitude: '21.67580000'
-        longitude: '40.13080000'
-      -
-        id: 148639
-        name: 'Al Maghal'
-        latitude: '21.96670000'
-        longitude: '39.55000000'
       -
         id: 148910
         name: 'Al Maghal'
@@ -545189,20 +544954,10 @@ country_city:
         latitude: '21.43330000'
         longitude: '39.20000000'
       -
-        id: 148640
-        name: 'Al Mahjar'
-        latitude: '21.43330000'
-        longitude: '39.20000000'
-      -
         id: 102827
         name: 'Al Majāridah'
         latitude: '19.12361000'
         longitude: '41.91111000'
-      -
-        id: 148912
-        name: 'Al Majāridah'
-        latitude: '19.12361111'
-        longitude: '41.91111111'
       -
         id: 148817
         name: 'Al Malbanah'
@@ -545219,20 +544974,10 @@ country_city:
         latitude: '21.26670000'
         longitude: '39.95000000'
       -
-        id: 148641
-        name: 'Al Maqrah'
-        latitude: '21.26670000'
-        longitude: '39.95000000'
-      -
         id: 102828
         name: 'Al Markaz'
         latitude: '25.40000000'
         longitude: '49.73333000'
-      -
-        id: 148642
-        name: 'Al Masarrah'
-        latitude: '21.36670000'
-        longitude: '40.46670000'
       -
         id: 148914
         name: 'Al Masarrah'
@@ -545244,27 +544989,12 @@ country_city:
         latitude: '21.41670000'
         longitude: '39.81670000'
       -
-        id: 148643
-        name: 'Al Masfalah'
-        latitude: '21.41670000'
-        longitude: '39.81670000'
-      -
-        id: 148644
-        name: 'Al Mashayikh'
-        latitude: '21.35000000'
-        longitude: '40.33330000'
-      -
         id: 148916
         name: 'Al Mashayikh'
         latitude: '21.35000000'
         longitude: '40.33330000'
       -
         id: 148917
-        name: 'Al Mathnah'
-        latitude: '21.26666667'
-        longitude: '40.38333333'
-      -
-        id: 148645
         name: 'Al Mathnah'
         latitude: '21.26666667'
         longitude: '40.38333333'
@@ -545279,20 +545009,10 @@ country_city:
         latitude: '20.15880000'
         longitude: '41.28337000'
       -
-        id: 148593
-        name: 'Al Mindak'
-        latitude: '20.15888889'
-        longitude: '41.28333333'
-      -
         id: 102830
         name: 'Al Mithnab'
         latitude: '25.86012000'
         longitude: '44.22228000'
-      -
-        id: 148646
-        name: 'Al Mubarak'
-        latitude: '21.70000000'
-        longitude: '39.90000000'
       -
         id: 148918
         name: 'Al Mubarak'
@@ -545303,11 +545023,6 @@ country_city:
         name: 'Al Mubarraz'
         latitude: '25.40768000'
         longitude: '49.59028000'
-      -
-        id: 148647
-        name: 'Al Mudawwarah'
-        latitude: '21.26670000'
-        longitude: '39.96670000'
       -
         id: 148919
         name: 'Al Mudawwarah'
@@ -545324,11 +545039,6 @@ country_city:
         latitude: '21.80000000'
         longitude: '40.35000000'
       -
-        id: 148648
-        name: 'Al Mulayha'''
-        latitude: '21.80000000'
-        longitude: '40.35000000'
-      -
         id: 148819
         name: 'Al Multasa'
         latitude: '24.08330000'
@@ -545339,11 +545049,6 @@ country_city:
         latitude: '25.38333000'
         longitude: '49.66667000'
       -
-        id: 148649
-        name: 'Al Mundassah'
-        latitude: '21.63330000'
-        longitude: '39.74860000'
-      -
         id: 148921
         name: 'Al Mundassah'
         latitude: '21.63330000'
@@ -545353,16 +545058,6 @@ country_city:
         name: 'Al Muqayti`'
         latitude: '21.54860000'
         longitude: '39.78610000'
-      -
-        id: 148650
-        name: 'Al Muqayti`'
-        latitude: '21.54860000'
-        longitude: '39.78610000'
-      -
-        id: 148651
-        name: 'Al Muqr'
-        latitude: '22.00000000'
-        longitude: '39.38330000'
       -
         id: 148923
         name: 'Al Muqr'
@@ -545384,11 +545079,6 @@ country_city:
         latitude: '22.43333000'
         longitude: '41.75829000'
       -
-        id: 148652
-        name: 'Al Muwayh'
-        latitude: '22.43333000'
-        longitude: '41.75829000'
-      -
         id: 148770
         name: 'Al Qa''im'
         latitude: '16.71944444'
@@ -545399,17 +545089,7 @@ country_city:
         latitude: '22.35000000'
         longitude: '39.15000000'
       -
-        id: 148653
-        name: 'Al Qadimah'
-        latitude: '22.35000000'
-        longitude: '39.15000000'
-      -
         id: 148594
-        name: 'Al Qahab'
-        latitude: '18.92560000'
-        longitude: '41.95500000'
-      -
-        id: 148925
         name: 'Al Qahab'
         latitude: '18.92560000'
         longitude: '41.95500000'
@@ -545418,11 +545098,6 @@ country_city:
         name: 'Al Qārah'
         latitude: '25.41667000'
         longitude: '49.66667000'
-      -
-        id: 148654
-        name: 'Al Qararah'
-        latitude: '21.42890000'
-        longitude: '39.82810000'
       -
         id: 148926
         name: 'Al Qararah'
@@ -545434,20 +545109,10 @@ country_city:
         latitude: '21.46670000'
         longitude: '39.20000000'
       -
-        id: 148655
-        name: 'Al Qaryat'
-        latitude: '21.46670000'
-        longitude: '39.20000000'
-      -
         id: 102835
         name: 'Al Qaţīf'
         latitude: '26.56542000'
         longitude: '50.00890000'
-      -
-        id: 148656
-        name: 'Al Qawba`iyah'
-        latitude: '21.66670000'
-        longitude: '39.98330000'
       -
         id: 148928
         name: 'Al Qawba`iyah'
@@ -545459,27 +545124,12 @@ country_city:
         latitude: '21.56670000'
         longitude: '39.70000000'
       -
-        id: 148657
-        name: 'Al Qirshan'
-        latitude: '21.56670000'
-        longitude: '39.70000000'
-      -
-        id: 148658
-        name: 'Al Qu`tubah'
-        latitude: '21.93330000'
-        longitude: '40.36670000'
-      -
         id: 148930
         name: 'Al Qu`tubah'
         latitude: '21.93330000'
         longitude: '40.36670000'
       -
         id: 148931
-        name: 'Al Qufayf'
-        latitude: '21.83330000'
-        longitude: '40.45000000'
-      -
-        id: 148659
         name: 'Al Qufayf'
         latitude: '21.83330000'
         longitude: '40.45000000'
@@ -545499,11 +545149,6 @@ country_city:
         latitude: '25.48333000'
         longitude: '49.60000000'
       -
-        id: 148660
-        name: 'Al Qushashiyah'
-        latitude: '21.43330000'
-        longitude: '39.83330000'
-      -
         id: 148932
         name: 'Al Qushashiyah'
         latitude: '21.43330000'
@@ -545513,11 +545158,6 @@ country_city:
         name: 'Al Quwah'
         latitude: '16.79940000'
         longitude: '43.22500000'
-      -
-        id: 148821
-        name: 'Al Thybiyah'
-        latitude: '26.02700000'
-        longitude: '43.15700000'
       -
         id: 148575
         name: 'Al Thybiyah'
@@ -545529,22 +545169,12 @@ country_city:
         latitude: '21.98417000'
         longitude: '50.93966000'
       -
-        id: 148661
-        name: 'Al Ukhaydir'
-        latitude: '21.93330000'
-        longitude: '40.01670000'
-      -
         id: 148933
         name: 'Al Ukhaydir'
         latitude: '21.93330000'
         longitude: '40.01670000'
       -
         id: 148934
-        name: 'Al Waht'
-        latitude: '21.23330000'
-        longitude: '40.35000000'
-      -
-        id: 148662
         name: 'Al Waht'
         latitude: '21.23330000'
         longitude: '40.35000000'
@@ -545599,16 +545229,6 @@ country_city:
         latitude: '16.56470000'
         longitude: '42.94390000'
       -
-        id: 102840
-        name: 'An Nimāş'
-        latitude: '19.14547000'
-        longitude: '42.12009000'
-      -
-        id: 148664
-        name: 'Ar Rabwah as Sufla'
-        latitude: '21.95530000'
-        longitude: '39.43670000'
-      -
         id: 148936
         name: 'Ar Rabwah as Sufla'
         latitude: '21.95530000'
@@ -545619,27 +545239,12 @@ country_city:
         latitude: '21.51670000'
         longitude: '40.20000000'
       -
-        id: 148665
-        name: 'Ar Rafah'
-        latitude: '21.51670000'
-        longitude: '40.20000000'
-      -
         id: 102841
         name: 'Ar Rass'
         latitude: '25.86944000'
         longitude: '43.49730000'
       -
-        id: 148826
-        name: 'Ar Rass'
-        latitude: '25.86666667'
-        longitude: '43.50000000'
-      -
         id: 148938
-        name: 'Ar Rawdah ash Shamaliyah'
-        latitude: '21.73330000'
-        longitude: '39.96670000'
-      -
-        id: 148666
         name: 'Ar Rawdah ash Shamaliyah'
         latitude: '21.73330000'
         longitude: '39.96670000'
@@ -545654,11 +545259,6 @@ country_city:
         latitude: '21.76670000'
         longitude: '39.68330000'
       -
-        id: 148667
-        name: 'Ar Rudaymah'
-        latitude: '21.76670000'
-        longitude: '39.68330000'
-      -
         id: 148778
         name: 'Ar Rukubah'
         latitude: '16.62220000'
@@ -545668,16 +545268,6 @@ country_city:
         name: Arar
         latitude: '30.97531000'
         longitude: '41.03808000'
-      -
-        id: 148576
-        name: Arar
-        latitude: '30.98333333'
-        longitude: '41.01666667'
-      -
-        id: 148668
-        name: Arya`
-        latitude: '21.08560000'
-        longitude: '40.62390000'
       -
         id: 148940
         name: Arya`
@@ -545690,11 +545280,6 @@ country_city:
         longitude: '39.18330000'
       -
         id: 148941
-        name: 'As Sadr'
-        latitude: '21.51890000'
-        longitude: '40.19750000'
-      -
-        id: 148669
         name: 'As Sadr'
         latitude: '21.51890000'
         longitude: '40.19750000'
@@ -545719,16 +545304,6 @@ country_city:
         latitude: '21.67500000'
         longitude: '39.75000000'
       -
-        id: 148670
-        name: 'As Samd ash Shamali'
-        latitude: '21.67500000'
-        longitude: '39.75000000'
-      -
-        id: 148671
-        name: 'As Sayl al Kabir'
-        latitude: '21.62640000'
-        longitude: '40.41530000'
-      -
         id: 148943
         name: 'As Sayl al Kabir'
         latitude: '21.62640000'
@@ -545739,27 +545314,12 @@ country_city:
         latitude: '21.50640000'
         longitude: '40.48220000'
       -
-        id: 148672
-        name: 'As Sayl as Saghir'
-        latitude: '21.50640000'
-        longitude: '40.48220000'
-      -
-        id: 148673
-        name: 'As Sifyani'
-        latitude: '21.47560000'
-        longitude: '39.84310000'
-      -
         id: 148945
         name: 'As Sifyani'
         latitude: '21.47560000'
         longitude: '39.84310000'
       -
         id: 148946
-        name: 'As Sudayrah Makkah'
-        latitude: '21.36190000'
-        longitude: '40.85470000'
-      -
-        id: 148674
         name: 'As Sudayrah Makkah'
         latitude: '21.36190000'
         longitude: '40.85470000'
@@ -545779,11 +545339,6 @@ country_city:
         latitude: '21.13390000'
         longitude: '40.51170000'
       -
-        id: 148675
-        name: 'As Suwadah'
-        latitude: '21.13390000'
-        longitude: '40.51170000'
-      -
         id: 148830
         name: 'As Suwayriqiyah'
         latitude: '23.35000000'
@@ -545793,11 +545348,6 @@ country_city:
         name: 'Ash Shafā'
         latitude: '21.07210000'
         longitude: '40.31185000'
-      -
-        id: 148676
-        name: 'Ash Shajwah'
-        latitude: '21.66440000'
-        longitude: '40.01140000'
       -
         id: 148948
         name: 'Ash Shajwah'
@@ -545809,16 +545359,6 @@ country_city:
         latitude: '21.84110000'
         longitude: '39.52440000'
       -
-        id: 148677
-        name: 'Ash Shamiyah'
-        latitude: '21.84110000'
-        longitude: '39.52440000'
-      -
-        id: 148678
-        name: 'Ash Shara''i`'
-        latitude: '21.46305556'
-        longitude: '39.94611111'
-      -
         id: 148950
         name: 'Ash Shara''i`'
         latitude: '21.46305556'
@@ -545829,27 +545369,12 @@ country_city:
         latitude: '21.69580000'
         longitude: '39.94170000'
       -
-        id: 148679
-        name: 'Ash Shaybi'
-        latitude: '21.69580000'
-        longitude: '39.94170000'
-      -
-        id: 148680
-        name: 'Ash Shi`b'
-        latitude: '21.96890000'
-        longitude: '39.48610000'
-      -
         id: 148952
         name: 'Ash Shi`b'
         latitude: '21.96890000'
         longitude: '39.48610000'
       -
         id: 148953
-        name: 'Ash Shishah'
-        latitude: '21.35030000'
-        longitude: '39.89190000'
-      -
-        id: 148681
         name: 'Ash Shishah'
         latitude: '21.35030000'
         longitude: '39.89190000'
@@ -545864,11 +545389,6 @@ country_city:
         latitude: '21.58330000'
         longitude: '39.68330000'
       -
-        id: 148682
-        name: 'Ash Shumaysi'
-        latitude: '21.58330000'
-        longitude: '39.68330000'
-      -
         id: 148779
         name: 'Ash Shuqayq'
         latitude: '17.70305556'
@@ -545879,20 +545399,10 @@ country_city:
         latitude: '21.37970000'
         longitude: '40.51940000'
       -
-        id: 148683
-        name: 'Ash Shuwaybit'
-        latitude: '21.37970000'
-        longitude: '40.51940000'
-      -
         id: 148832
         name: Asira
         latitude: '24.33330000'
         longitude: '38.63330000'
-      -
-        id: 148684
-        name: 'At Tan`im'
-        latitude: '21.48250000'
-        longitude: '39.80500000'
       -
         id: 148956
         name: 'At Tan`im'
@@ -545904,11 +545414,6 @@ country_city:
         latitude: '25.36232000'
         longitude: '49.72757000'
       -
-        id: 148685
-        name: 'At Tarfa'''
-        latitude: '21.70638889'
-        longitude: '39.87138889'
-      -
         id: 148957
         name: 'At Tarfa'''
         latitude: '21.70638889'
@@ -545918,11 +545423,6 @@ country_city:
         name: 'At Tūbī'
         latitude: '26.55778000'
         longitude: '49.99167000'
-      -
-        id: 148686
-        name: 'At Turqi'
-        latitude: '21.94920000'
-        longitude: '39.41310000'
       -
         id: 148958
         name: 'At Turqi'
@@ -545934,16 +545434,6 @@ country_city:
         latitude: '21.61860000'
         longitude: '40.11330000'
       -
-        id: 148687
-        name: 'Az Zaymah'
-        latitude: '21.61860000'
-        longitude: '40.11330000'
-      -
-        id: 148688
-        name: 'Az Zilal'
-        latitude: '21.48890000'
-        longitude: '39.59420000'
-      -
         id: 148960
         name: 'Az Zilal'
         latitude: '21.48890000'
@@ -545954,20 +545444,10 @@ country_city:
         latitude: '21.71670000'
         longitude: '39.94580000'
       -
-        id: 148689
-        name: 'Az Zughbah'
-        latitude: '21.71670000'
-        longitude: '39.94580000'
-      -
         id: 102847
         name: 'Az Zulfī'
         latitude: '26.29945000'
         longitude: '44.81542000'
-      -
-        id: 148690
-        name: 'Az Zurra`'
-        latitude: '21.91060000'
-        longitude: '39.40000000'
       -
         id: 148962
         name: 'Az Zurra`'
@@ -545979,32 +545459,12 @@ country_city:
         latitude: '21.91670000'
         longitude: '39.96940000'
       -
-        id: 148691
-        name: 'Az Zuwayb'
-        latitude: '21.91670000'
-        longitude: '39.96940000'
-      -
-        id: 102849
-        name: 'Badr Ḩunayn'
-        latitude: '23.78292000'
-        longitude: '38.79047000'
-      -
-        id: 148692
-        name: 'Bahrat al Qadimah'
-        latitude: '21.41330000'
-        longitude: '39.49390000'
-      -
         id: 148964
         name: 'Bahrat al Qadimah'
         latitude: '21.41330000'
         longitude: '39.49390000'
       -
         id: 148965
-        name: Bahwil
-        latitude: '22.42940000'
-        longitude: '39.42940000'
-      -
-        id: 148693
         name: Bahwil
         latitude: '22.42940000'
         longitude: '39.42940000'
@@ -546018,11 +545478,6 @@ country_city:
         name: 'Baq`a'''
         latitude: '24.21666667'
         longitude: '38.71666667'
-      -
-        id: 148694
-        name: Baranah
-        latitude: '21.55420000'
-        longitude: '39.82220000'
       -
         id: 148966
         name: Baranah
@@ -546039,16 +545494,6 @@ country_city:
         latitude: '21.98000000'
         longitude: '39.67560000'
       -
-        id: 148695
-        name: Barzah
-        latitude: '21.98000000'
-        longitude: '39.67560000'
-      -
-        id: 148696
-        name: Bashm
-        latitude: '21.48220000'
-        longitude: '39.82080000'
-      -
         id: 148968
         name: Bashm
         latitude: '21.48220000'
@@ -546064,11 +545509,6 @@ country_city:
         latitude: '23.82030000'
         longitude: '38.85970000'
       -
-        id: 148837
-        name: Buraidah
-        latitude: '26.33333333'
-        longitude: '43.96666667'
-      -
         id: 148577
         name: Buraidah
         latitude: '26.33333333'
@@ -546078,11 +545518,6 @@ country_city:
         name: Buraydah
         latitude: '26.32599000'
         longitude: '43.97497000'
-      -
-        id: 148697
-        name: Buraykah
-        latitude: '22.34440000'
-        longitude: '39.32000000'
       -
         id: 148969
         name: Buraykah
@@ -546094,16 +545529,6 @@ country_city:
         latitude: '21.63750000'
         longitude: '39.22640000'
       -
-        id: 148698
-        name: Burayman
-        latitude: '21.63750000'
-        longitude: '39.22640000'
-      -
-        id: 148699
-        name: 'CITY GHRAN'
-        latitude: '21.97380000'
-        longitude: '39.36820000'
-      -
         id: 148971
         name: 'CITY GHRAN'
         latitude: '21.97380000'
@@ -546113,16 +545538,6 @@ country_city:
         name: Dabyah
         latitude: '22.42470000'
         longitude: '39.44610000'
-      -
-        id: 148700
-        name: Dabyah
-        latitude: '22.42470000'
-        longitude: '39.44610000'
-      -
-        id: 148701
-        name: Dahaban
-        latitude: '21.93333333'
-        longitude: '39.11666667'
       -
         id: 148973
         name: Dahaban
@@ -546154,22 +545569,12 @@ country_city:
         latitude: '27.35134000'
         longitude: '35.69014000'
       -
-        id: 148702
-        name: Dughaybjah
-        latitude: '22.59030000'
-        longitude: '41.35970000'
-      -
         id: 148974
         name: Dughaybjah
         latitude: '22.59030000'
         longitude: '41.35970000'
       -
         id: 148578
-        name: Dukhnah
-        latitude: '25.35621000'
-        longitude: '43.62268000'
-      -
-        id: 148838
         name: Dukhnah
         latitude: '25.35621000'
         longitude: '43.62268000'
@@ -546183,11 +545588,6 @@ country_city:
         name: Farasān
         latitude: '16.70222000'
         longitude: '42.11833000'
-      -
-        id: 148703
-        name: Fayd
-        latitude: '21.91720000'
-        longitude: '39.38830000'
       -
         id: 148975
         name: Fayd
@@ -546209,25 +545609,10 @@ country_city:
         latitude: '21.98027000'
         longitude: '39.36521000'
       -
-        id: 148704
-        name: Ghran
-        latitude: '21.98027000'
-        longitude: '39.36521000'
-      -
-        id: 102856
-        name: 'Ha''il'
-        latitude: '27.52188000'
-        longitude: '41.69073000'
-      -
         id: 148564
         name: 'Ha''il '
         latitude: '27.51666667'
         longitude: '41.68333333'
-      -
-        id: 148705
-        name: 'Hadda'''
-        latitude: '21.45027778'
-        longitude: '39.55444444'
       -
         id: 148976
         name: 'Hadda'''
@@ -546239,16 +545624,6 @@ country_city:
         latitude: '21.79670000'
         longitude: '39.68330000'
       -
-        id: 148706
-        name: 'Haddat ash Sham'
-        latitude: '21.79670000'
-        longitude: '39.68330000'
-      -
-        id: 148707
-        name: Hadhah
-        latitude: '21.65250000'
-        longitude: '40.01420000'
-      -
         id: 148978
         name: Hadhah
         latitude: '21.65250000'
@@ -546259,20 +545634,10 @@ country_city:
         latitude: '28.43279000'
         longitude: '45.97077000'
       -
-        id: 148595
-        name: Hajrah
-        latitude: '20.23333333'
-        longitude: '41.05000000'
-      -
         id: 148708
         name: Hajrah
         latitude: '20.23333333'
         longitude: '41.05000000'
-      -
-        id: 148709
-        name: Hajur
-        latitude: '23.01780000'
-        longitude: '39.73030000'
       -
         id: 148979
         name: Hajur
@@ -546280,11 +545645,6 @@ country_city:
         longitude: '39.73030000'
       -
         id: 148980
-        name: Halamah
-        latitude: '21.95420000'
-        longitude: '39.70280000'
-      -
-        id: 148710
         name: Halamah
         latitude: '21.95420000'
         longitude: '39.70280000'
@@ -546319,11 +545679,6 @@ country_city:
         latitude: '24.25000000'
         longitude: '38.55000000'
       -
-        id: 148842
-        name: 'Hasa Al Madinah'
-        latitude: '24.28333333'
-        longitude: '38.60000000'
-      -
         id: 148843
         name: 'Haylat Radi al Baham'
         latitude: '24.08390000'
@@ -546333,11 +545688,6 @@ country_city:
         name: Husayniyah
         latitude: '23.86666667'
         longitude: '38.90000000'
-      -
-        id: 148711
-        name: Husnah
-        latitude: '21.80000000'
-        longitude: '39.59166667'
       -
         id: 148981
         name: Husnah
@@ -546359,16 +545709,6 @@ country_city:
         latitude: '21.43330000'
         longitude: '39.81670000'
       -
-        id: 148712
-        name: Jarwal
-        latitude: '21.43330000'
-        longitude: '39.81670000'
-      -
-        id: 148713
-        name: Jeddah
-        latitude: '21.54277778'
-        longitude: '39.17277778'
-      -
         id: 102858
         name: Jeddah
         latitude: '21.54238000'
@@ -546378,11 +545718,6 @@ country_city:
         name: Jizan
         latitude: '16.88917000'
         longitude: '42.55111000'
-      -
-        id: 148566
-        name: Jubbah
-        latitude: '28.00620000'
-        longitude: '40.94160000'
       -
         id: 148582
         name: Jubbah
@@ -546398,11 +545733,6 @@ country_city:
         name: Julayjilah
         latitude: '25.50000000'
         longitude: '49.60000000'
-      -
-        id: 148714
-        name: Julayyil
-        latitude: '21.95830000'
-        longitude: '39.75830000'
       -
         id: 148983
         name: Julayyil
@@ -546429,11 +545759,6 @@ country_city:
         latitude: '18.30000000'
         longitude: '42.73333000'
       -
-        id: 148984
-        name: 'Khamis Mushait'
-        latitude: '18.30000000'
-        longitude: '42.73333333'
-      -
         id: 148788
         name: 'Khatib Saudi Arabia'
         latitude: '16.89610000'
@@ -546454,11 +545779,6 @@ country_city:
         latitude: '21.37280000'
         longitude: '39.22610000'
       -
-        id: 148715
-        name: Khumrah
-        latitude: '21.37280000'
-        longitude: '39.22610000'
-      -
         id: 148789
         name: Khumsiyah
         latitude: '16.77140000'
@@ -546468,11 +545788,6 @@ country_city:
         name: Khushaym
         latitude: '16.88000000'
         longitude: '43.13720000'
-      -
-        id: 148716
-        name: Kulakh
-        latitude: '21.29640000'
-        longitude: '40.79690000'
       -
         id: 148986
         name: Kulakh
@@ -546484,11 +545799,6 @@ country_city:
         latitude: '22.28330000'
         longitude: '46.73330000'
       -
-        id: 148987
-        name: Ma`riyah
-        latitude: '18.85000000'
-        longitude: '41.96670000'
-      -
         id: 148596
         name: Ma`riyah
         latitude: '18.85000000'
@@ -546499,20 +545809,10 @@ country_city:
         latitude: '21.97970000'
         longitude: '39.98750000'
       -
-        id: 148717
-        name: Madrakah
-        latitude: '21.97970000'
-        longitude: '39.98750000'
-      -
         id: 148847
         name: Madsus
         latitude: '24.35000000'
         longitude: '38.55000000'
-      -
-        id: 148718
-        name: Mafruq
-        latitude: '21.52220000'
-        longitude: '40.17940000'
       -
         id: 148989
         name: Mafruq
@@ -546528,11 +545828,6 @@ country_city:
         name: 'Mahattat al Hafah'
         latitude: '23.75000000'
         longitude: '39.30000000'
-      -
-        id: 148719
-        name: Malakan
-        latitude: '21.21580000'
-        longitude: '39.95030000'
       -
         id: 148990
         name: Malakan
@@ -546569,11 +545864,6 @@ country_city:
         latitude: '24.03330000'
         longitude: '38.23330000'
       -
-        id: 148720
-        name: Mashajji
-        latitude: '21.73890000'
-        longitude: '39.96670000'
-      -
         id: 148991
         name: Mashajji
         latitude: '21.73890000'
@@ -546584,30 +545874,10 @@ country_city:
         latitude: '21.94170000'
         longitude: '39.88610000'
       -
-        id: 148721
-        name: 'Masihat Mahd al Hayl'
-        latitude: '21.94170000'
-        longitude: '39.88610000'
-      -
-        id: 148722
-        name: Maskar
-        latitude: '21.75000000'
-        longitude: '40.31640000'
-      -
         id: 148993
         name: Maskar
         latitude: '21.75000000'
         longitude: '40.31640000'
-      -
-        id: 148852
-        name: Mastoorah
-        latitude: '23.11090000'
-        longitude: '38.85068889'
-      -
-        id: 148723
-        name: Matiyah
-        latitude: '21.54170000'
-        longitude: '39.81940000'
       -
         id: 148994
         name: Matiyah
@@ -546619,11 +545889,6 @@ country_city:
         latitude: '24.20000000'
         longitude: '38.43330000'
       -
-        id: 148567
-        name: Mawqaq
-        latitude: '27.38398000'
-        longitude: '41.17635000'
-      -
         id: 148583
         name: Mawqaq
         latitude: '27.38398000'
@@ -546633,11 +545898,6 @@ country_city:
         name: Mecca
         latitude: '21.42664000'
         longitude: '39.82563000'
-      -
-        id: 148724
-        name: Mecca
-        latitude: '21.42250000'
-        longitude: '39.82611111'
       -
         id: 102865
         name: Medina
@@ -546649,20 +545909,10 @@ country_city:
         latitude: '18.89170000'
         longitude: '41.96330000'
       -
-        id: 148995
-        name: Mifa
-        latitude: '18.89170000'
-        longitude: '41.96330000'
-      -
         id: 148854
         name: Milhah
         latitude: '24.05000000'
         longitude: '38.30000000'
-      -
-        id: 148725
-        name: Mina
-        latitude: '21.41333333'
-        longitude: '39.89333333'
       -
         id: 148996
         name: Mina
@@ -546694,20 +545944,10 @@ country_city:
         latitude: '18.94640000'
         longitude: '41.91640000'
       -
-        id: 148997
-        name: Munayzir
-        latitude: '18.94640000'
-        longitude: '41.91640000'
-      -
         id: 148794
         name: Mundaraq
         latitude: '16.75420000'
         longitude: '43.14890000'
-      -
-        id: 148726
-        name: Murshidiyah
-        latitude: '21.48890000'
-        longitude: '39.79440000'
       -
         id: 148998
         name: Murshidiyah
@@ -546715,11 +545955,6 @@ country_city:
         longitude: '39.79440000'
       -
         id: 148999
-        name: Mushrif
-        latitude: '22.62920000'
-        longitude: '41.35670000'
-      -
-        id: 148727
         name: Mushrif
         latitude: '22.62920000'
         longitude: '41.35670000'
@@ -546734,11 +545969,6 @@ country_city:
         latitude: '24.07746000'
         longitude: '47.16590000'
       -
-        id: 149029
-        name: Najran
-        latitude: '17.49170000'
-        longitude: '44.13220000'
-      -
         id: 102869
         name: Najrān
         latitude: '17.49326000'
@@ -546749,20 +545979,10 @@ country_city:
         latitude: '27.46990000'
         longitude: '48.48440000'
       -
-        id: 148579
-        name: Nisab
-        latitude: '29.19274000'
-        longitude: '44.71598000'
-      -
         id: 148586
         name: Nisab
         latitude: '29.19274000'
         longitude: '44.71598000'
-      -
-        id: 148728
-        name: Nughayshiyah
-        latitude: '21.21670000'
-        longitude: '40.75000000'
       -
         id: 149000
         name: Nughayshiyah
@@ -546773,11 +545993,6 @@ country_city:
         name: Nujayl
         latitude: '24.26670000'
         longitude: '38.65000000'
-      -
-        id: 148729
-        name: 'Nuzlat al Faqin'
-        latitude: '22.00000000'
-        longitude: '39.41670000'
       -
         id: 149001
         name: 'Nuzlat al Faqin'
@@ -546794,17 +546009,7 @@ country_city:
         latitude: '28.31117000'
         longitude: '46.12729000'
       -
-        id: 102871
-        name: 'Qal‘at Bīshah'
-        latitude: '20.00054000'
-        longitude: '42.60520000'
-      -
         id: 148580
-        name: Qiba
-        latitude: '27.40285000'
-        longitude: '44.32770000'
-      -
-        id: 148857
         name: Qiba
         latitude: '27.40285000'
         longitude: '44.32770000'
@@ -546814,20 +546019,10 @@ country_city:
         latitude: '17.33330000'
         longitude: '43.25000000'
       -
-        id: 148730
-        name: Qiya
-        latitude: '21.06670000'
-        longitude: '41.01670000'
-      -
         id: 149002
         name: Qiya
         latitude: '21.06670000'
         longitude: '41.01670000'
-      -
-        id: 148569
-        name: Qufar
-        latitude: '27.41534000'
-        longitude: '41.61903000'
       -
         id: 148584
         name: Qufar
@@ -546844,11 +546039,6 @@ country_city:
         latitude: '16.73333333'
         longitude: '42.89027778'
       -
-        id: 148731
-        name: Quwayzah
-        latitude: '21.49030000'
-        longitude: '39.27670000'
-      -
         id: 149003
         name: Quwayzah
         latitude: '21.49030000'
@@ -546858,11 +546048,6 @@ country_city:
         name: Rābigh
         latitude: '22.79856000'
         longitude: '39.03493000'
-      -
-        id: 148732
-        name: 'Rabwah Ghran'
-        latitude: '21.98330000'
-        longitude: '39.41670000'
       -
         id: 149004
         name: 'Rabwah Ghran'
@@ -546878,11 +546063,6 @@ country_city:
         name: Rahwan
         latitude: '16.83330000'
         longitude: '43.21670000'
-      -
-        id: 148733
-        name: Raqiyah
-        latitude: '21.76670000'
-        longitude: '40.35000000'
       -
         id: 149005
         name: Raqiyah
@@ -546904,17 +546084,7 @@ country_city:
         latitude: '24.68773000'
         longitude: '46.72185000'
       -
-        id: 102876
-        name: 'Sabt Al Alayah'
-        latitude: '19.70000000'
-        longitude: '41.91667000'
-      -
         id: 149006
-        name: Sabuhah
-        latitude: '21.58330000'
-        longitude: '40.11670000'
-      -
-        id: 148734
         name: Sabuhah
         latitude: '21.58330000'
         longitude: '40.11670000'
@@ -546964,22 +546134,12 @@ country_city:
         latitude: '24.23333333'
         longitude: '38.53333333'
       -
-        id: 148735
-        name: 'Shi`b `amir'
-        latitude: '21.43330000'
-        longitude: '39.83330000'
-      -
         id: 149007
         name: 'Shi`b `amir'
         latitude: '21.43330000'
         longitude: '39.83330000'
       -
         id: 149008
-        name: Shira`ayn
-        latitude: '21.28330000'
-        longitude: '40.78330000'
-      -
-        id: 148736
         name: Shira`ayn
         latitude: '21.28330000'
         longitude: '40.78330000'
@@ -546994,37 +546154,17 @@ country_city:
         latitude: '24.50000000'
         longitude: '39.61670000'
       -
-        id: 148572
-        name: Simira
-        latitude: '26.49418000'
-        longitude: '42.12494000'
-      -
         id: 148585
         name: Simira
         latitude: '26.49418000'
         longitude: '42.12494000'
-      -
-        id: 148737
-        name: Sulaym
-        latitude: '22.58330000'
-        longitude: '39.63330000'
       -
         id: 149009
         name: Sulaym
         latitude: '22.58330000'
         longitude: '39.63330000'
       -
-        id: 102879
-        name: Sulţānah
-        latitude: '24.49258000'
-        longitude: '39.58572000'
-      -
         id: 149010
-        name: Sumaymah
-        latitude: '21.25000000'
-        longitude: '39.16670000'
-      -
-        id: 148738
         name: Sumaymah
         latitude: '21.25000000'
         longitude: '39.16670000'
@@ -547049,11 +546189,6 @@ country_city:
         latitude: '30.11713000'
         longitude: '40.38925000'
       -
-        id: 148739
-        name: Suways
-        latitude: '21.95000000'
-        longitude: '39.96670000'
-      -
         id: 149011
         name: Suways
         latitude: '21.95000000'
@@ -547063,16 +546198,6 @@ country_city:
         name: 'Ta''if'
         latitude: '21.27028000'
         longitude: '40.41583000'
-      -
-        id: 148740
-        name: 'Ta''if'
-        latitude: '21.26666667'
-        longitude: '40.41666667'
-      -
-        id: 149012
-        name: Tabālah
-        latitude: '19.95000000'
-        longitude: '42.40000000'
       -
         id: 102882
         name: Tabālah
@@ -547094,20 +546219,10 @@ country_city:
         latitude: '27.10000000'
         longitude: '44.13333000'
       -
-        id: 148864
-        name: Tanūmah
-        latitude: '27.10000000'
-        longitude: '44.13333333'
-      -
         id: 102888
         name: Tārūt
         latitude: '26.57330000'
         longitude: '50.04028000'
-      -
-        id: 148741
-        name: Tharwah
-        latitude: '21.51670000'
-        longitude: '39.61670000'
       -
         id: 149013
         name: Tharwah
@@ -547115,11 +546230,6 @@ country_city:
         longitude: '39.61670000'
       -
         id: 149014
-        name: Thuwal
-        latitude: '22.28333333'
-        longitude: '39.10000000'
-      -
-        id: 148742
         name: Thuwal
         latitude: '22.28333333'
         longitude: '39.10000000'
@@ -547159,11 +546269,6 @@ country_city:
         latitude: '25.02126000'
         longitude: '37.26850000'
       -
-        id: 148581
-        name: 'Umm Radamah'
-        latitude: '28.67985000'
-        longitude: '44.69549000'
-      -
         id: 148587
         name: 'Umm Radamah'
         latitude: '28.67985000'
@@ -547174,22 +546279,12 @@ country_city:
         latitude: '25.64310000'
         longitude: '50.21440000'
       -
-        id: 148743
-        name: Usfan
-        latitude: '21.92306000'
-        longitude: '39.35594000'
-      -
         id: 149015
         name: Usfan
         latitude: '21.92306000'
         longitude: '39.35594000'
       -
         id: 149016
-        name: 'Wadi al Jalil'
-        latitude: '21.46670000'
-        longitude: '39.85000000'
-      -
-        id: 148744
         name: 'Wadi al Jalil'
         latitude: '21.46670000'
         longitude: '39.85000000'
@@ -628653,7 +627748,7 @@ country_city:
         longitude: '37.69361000'
       -
         id: 108631
-        name: Umraniye
+        name: Ümraniye
         latitude: '41.01643000'
         longitude: '29.12476000'
       -
@@ -760243,6 +759338,11 @@ country_city:
         name: 'San Felipe'
         latitude: '10.33991000'
         longitude: '-68.74247000'
+      -
+        id: 153351
+        name: 'San Fernando de Apure'
+        latitude: '7.87266930'
+        longitude: '-67.48193280'
       -
         id: 130146
         name: 'San Fernando de Atabapo'

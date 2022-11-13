@@ -651921,12 +651921,6 @@
       <longitude>39.67310000</longitude>
     </cities>
     <cities>
-      <id>148870</id>
-      <name>Abha</name>
-      <latitude>18.21666667</latitude>
-      <longitude>42.50000000</longitude>
-    </cities>
-    <cities>
       <id>102804</id>
       <name>Abha</name>
       <latitude>18.21639000</latitude>
@@ -651937,12 +651931,6 @@
       <name>Abqaiq</name>
       <latitude>25.93402000</latitude>
       <longitude>49.66880000</longitude>
-    </cities>
-    <cities>
-      <id>148602</id>
-      <name>Abu `Urwah</name>
-      <latitude>21.65000000</latitude>
-      <longitude>39.70000000</longitude>
     </cities>
     <cities>
       <id>148874</id>
@@ -651957,28 +651945,10 @@
       <longitude>42.83251000</longitude>
     </cities>
     <cities>
-      <id>148802</id>
-      <name>Abu Dhiba</name>
-      <latitude>23.19890000</latitude>
-      <longitude>39.55780000</longitude>
-    </cities>
-    <cities>
       <id>148871</id>
       <name>Abu Hisani</name>
       <latitude>21.73060000</latitude>
       <longitude>39.78330000</longitude>
-    </cities>
-    <cities>
-      <id>148599</id>
-      <name>Abu Hisani</name>
-      <latitude>21.73060000</latitude>
-      <longitude>39.78330000</longitude>
-    </cities>
-    <cities>
-      <id>148600</id>
-      <name>Abu Qirfah</name>
-      <latitude>21.76670000</latitude>
-      <longitude>39.68330000</longitude>
     </cities>
     <cities>
       <id>148872</id>
@@ -652005,12 +651975,6 @@
       <longitude>39.70000000</longitude>
     </cities>
     <cities>
-      <id>148601</id>
-      <name>Abu Shu`ayb</name>
-      <latitude>21.58330000</latitude>
-      <longitude>39.70000000</longitude>
-    </cities>
-    <cities>
       <id>148803</id>
       <name>Abyar 'Ali</name>
       <latitude>24.41666667</latitude>
@@ -652018,12 +651982,6 @@
     </cities>
     <cities>
       <id>148875</id>
-      <name>Ad Dabbah</name>
-      <latitude>21.71670000</latitude>
-      <longitude>39.83330000</longitude>
-    </cities>
-    <cities>
-      <id>148603</id>
       <name>Ad Dabbah</name>
       <latitude>21.71670000</latitude>
       <longitude>39.83330000</longitude>
@@ -652039,12 +651997,6 @@
       <name>Ad Dawādimī</name>
       <latitude>24.50772000</latitude>
       <longitude>44.39237000</longitude>
-    </cities>
-    <cities>
-      <id>148604</id>
-      <name>Ad Dawh</name>
-      <latitude>21.77220000</latitude>
-      <longitude>39.70140000</longitude>
     </cities>
     <cities>
       <id>148876</id>
@@ -652066,12 +652018,6 @@
     </cities>
     <cities>
       <id>148877</id>
-      <name>Ad Dur</name>
-      <latitude>21.81670000</latitude>
-      <longitude>39.76670000</longitude>
-    </cities>
-    <cities>
-      <id>148605</id>
       <name>Ad Dur</name>
       <latitude>21.81670000</latitude>
       <longitude>39.76670000</longitude>
@@ -652137,18 +652083,6 @@
       <longitude>39.91030000</longitude>
     </cities>
     <cities>
-      <id>148663</id>
-      <name>Al Ābār</name>
-      <latitude>21.09810000</latitude>
-      <longitude>39.91030000</longitude>
-    </cities>
-    <cities>
-      <id>148606</id>
-      <name>Al Adl</name>
-      <latitude>21.44361000</latitude>
-      <longitude>39.85611000</longitude>
-    </cities>
-    <cities>
       <id>148878</id>
       <name>Al Adl</name>
       <latitude>21.44361000</latitude>
@@ -652165,12 +652099,6 @@
       <name>Al Arţāwīyah</name>
       <latitude>26.50387000</latitude>
       <longitude>45.34813000</longitude>
-    </cities>
-    <cities>
-      <id>148607</id>
-      <name>Al Ashraf</name>
-      <latitude>21.52360000</latitude>
-      <longitude>39.61670000</longitude>
     </cities>
     <cities>
       <id>148879</id>
@@ -652197,18 +652125,6 @@
       <longitude>41.46767000</longitude>
     </cities>
     <cities>
-      <id>148592</id>
-      <name>Al Bahah</name>
-      <latitude>20.01288000</latitude>
-      <longitude>41.46767000</longitude>
-    </cities>
-    <cities>
-      <id>148608</id>
-      <name>Al Balad</name>
-      <latitude>21.48780000</latitude>
-      <longitude>39.19360000</longitude>
-    </cities>
-    <cities>
       <id>148880</id>
       <name>Al Balad</name>
       <latitude>21.48780000</latitude>
@@ -652216,12 +652132,6 @@
     </cities>
     <cities>
       <id>148881</id>
-      <name>Al Barabir</name>
-      <latitude>21.52030000</latitude>
-      <longitude>39.63250000</longitude>
-    </cities>
-    <cities>
-      <id>148609</id>
       <name>Al Barabir</name>
       <latitude>21.52030000</latitude>
       <longitude>39.63250000</longitude>
@@ -652237,12 +652147,6 @@
       <name>Al Baţţālīyah</name>
       <latitude>25.43333000</latitude>
       <longitude>49.63333000</longitude>
-    </cities>
-    <cities>
-      <id>148610</id>
-      <name>Al Bi'ar</name>
-      <latitude>22.64972222</latitude>
-      <longitude>39.67027778</longitude>
     </cities>
     <cities>
       <id>148882</id>
@@ -652263,12 +652167,6 @@
       <longitude>45.96670000</longitude>
     </cities>
     <cities>
-      <id>148611</id>
-      <name>Al Birk</name>
-      <latitude>18.21631000</latitude>
-      <longitude>41.53593000</longitude>
-    </cities>
-    <cities>
       <id>148883</id>
       <name>Al Birk</name>
       <latitude>18.21631000</latitude>
@@ -652279,12 +652177,6 @@
       <name>Al Bukayrīyah</name>
       <latitude>26.13915000</latitude>
       <longitude>43.65782000</longitude>
-    </cities>
-    <cities>
-      <id>148612</id>
-      <name>Al Buraykah</name>
-      <latitude>21.78610000</latitude>
-      <longitude>39.71670000</longitude>
     </cities>
     <cities>
       <id>148884</id>
@@ -652311,18 +652203,6 @@
       <longitude>40.16110000</longitude>
     </cities>
     <cities>
-      <id>148613</id>
-      <name>Al Fawwarah</name>
-      <latitude>21.83280000</latitude>
-      <longitude>40.16110000</longitude>
-    </cities>
-    <cities>
-      <id>148614</id>
-      <name>Al Faydah</name>
-      <latitude>21.98440000</latitude>
-      <longitude>39.38470000</longitude>
-    </cities>
-    <cities>
       <id>148886</id>
       <name>Al Faydah</name>
       <latitude>21.98440000</latitude>
@@ -652335,34 +652215,16 @@
       <longitude>39.52220000</longitude>
     </cities>
     <cities>
-      <id>148615</id>
-      <name>Al Fazz</name>
-      <latitude>21.98330000</latitude>
-      <longitude>39.52220000</longitude>
-    </cities>
-    <cities>
       <id>148811</id>
       <name>Al Furaysh</name>
       <latitude>24.22000000</latitude>
       <longitude>39.28140000</longitude>
     </cities>
     <cities>
-      <id>148812</id>
-      <name>Al Fuwayliq</name>
-      <latitude>26.44360000</latitude>
-      <longitude>43.25164000</longitude>
-    </cities>
-    <cities>
       <id>102818</id>
       <name>Al Fuwayliq</name>
       <latitude>26.44360000</latitude>
       <longitude>43.25164000</longitude>
-    </cities>
-    <cities>
-      <id>148616</id>
-      <name>Al Gharith</name>
-      <latitude>21.60000000</latitude>
-      <longitude>41.88330000</longitude>
     </cities>
     <cities>
       <id>148888</id>
@@ -652377,18 +652239,6 @@
       <longitude>39.86670000</longitude>
     </cities>
     <cities>
-      <id>148617</id>
-      <name>Al Ghassalah</name>
-      <latitude>21.45000000</latitude>
-      <longitude>39.86670000</longitude>
-    </cities>
-    <cities>
-      <id>148618</id>
-      <name>Al Ghulah</name>
-      <latitude>21.95000000</latitude>
-      <longitude>39.31670000</longitude>
-    </cities>
-    <cities>
       <id>148890</id>
       <name>Al Ghulah</name>
       <latitude>21.95000000</latitude>
@@ -652399,12 +652249,6 @@
       <name>Al Hadā</name>
       <latitude>21.36753000</latitude>
       <longitude>40.28694000</longitude>
-    </cities>
-    <cities>
-      <id>148619</id>
-      <name>Al Hada</name>
-      <latitude>21.36860000</latitude>
-      <longitude>40.28470000</longitude>
     </cities>
     <cities>
       <id>148749</id>
@@ -652423,18 +652267,6 @@
       <name>Al Halaqah</name>
       <latitude>21.35000000</latitude>
       <longitude>40.45000000</longitude>
-    </cities>
-    <cities>
-      <id>148620</id>
-      <name>Al Halaqah</name>
-      <latitude>21.35000000</latitude>
-      <longitude>40.45000000</longitude>
-    </cities>
-    <cities>
-      <id>148621</id>
-      <name>Al Hamimah</name>
-      <latitude>21.51670000</latitude>
-      <longitude>39.63330000</longitude>
     </cities>
     <cities>
       <id>148892</id>
@@ -652461,12 +652293,6 @@
       <longitude>39.48333333</longitude>
     </cities>
     <cities>
-      <id>148622</id>
-      <name>Al Harra' Makkah</name>
-      <latitude>21.95000000</latitude>
-      <longitude>39.48333333</longitude>
-    </cities>
-    <cities>
       <id>148752</id>
       <name>Al Hasamah</name>
       <latitude>16.68333333</latitude>
@@ -652474,12 +652300,6 @@
     </cities>
     <cities>
       <id>148894</id>
-      <name>Al Hawiyah</name>
-      <latitude>21.42415000</latitude>
-      <longitude>40.49303000</longitude>
-    </cities>
-    <cities>
-      <id>148623</id>
       <name>Al Hawiyah</name>
       <latitude>21.42415000</latitude>
       <longitude>40.49303000</longitude>
@@ -652501,12 +652321,6 @@
       <name>Al Isawiyah</name>
       <latitude>30.71681000</latitude>
       <longitude>37.97767000</longitude>
-    </cities>
-    <cities>
-      <id>148624</id>
-      <name>Al Iskan</name>
-      <latitude>21.40000000</latitude>
-      <longitude>39.78330000</longitude>
     </cities>
     <cities>
       <id>148895</id>
@@ -652533,22 +652347,10 @@
       <longitude>40.12640000</longitude>
     </cities>
     <cities>
-      <id>148625</id>
-      <name>Al Jadidah</name>
-      <latitude>21.67030000</latitude>
-      <longitude>40.12640000</longitude>
-    </cities>
-    <cities>
       <id>102821</id>
       <name>Al Jafr</name>
       <latitude>25.37736000</latitude>
       <longitude>49.72154000</longitude>
-    </cities>
-    <cities>
-      <id>148626</id>
-      <name>Al Jami`ah</name>
-      <latitude>21.46670000</latitude>
-      <longitude>39.25000000</longitude>
     </cities>
     <cities>
       <id>148897</id>
@@ -652575,12 +652377,6 @@
       <longitude>39.58330000</longitude>
     </cities>
     <cities>
-      <id>148627</id>
-      <name>Al Jid`</name>
-      <latitude>21.93330000</latitude>
-      <longitude>39.58330000</longitude>
-    </cities>
-    <cities>
       <id>148756</id>
       <name>Al Jirbah</name>
       <latitude>16.92640000</latitude>
@@ -652594,12 +652390,6 @@
     </cities>
     <cities>
       <id>148899</id>
-      <name>Al Ju`ranah</name>
-      <latitude>21.56670000</latitude>
-      <longitude>39.95000000</longitude>
-    </cities>
-    <cities>
-      <id>148628</id>
       <name>Al Ju`ranah</name>
       <latitude>21.56670000</latitude>
       <longitude>39.95000000</longitude>
@@ -652647,22 +652437,10 @@
       <longitude>39.90472222</longitude>
     </cities>
     <cities>
-      <id>148629</id>
-      <name>Al Khadra' Makkah</name>
-      <latitude>21.46777778</latitude>
-      <longitude>39.90472222</longitude>
-    </cities>
-    <cities>
       <id>102825</id>
       <name>Al Khafjī</name>
       <latitude>28.43905000</latitude>
       <longitude>48.49132000</longitude>
-    </cities>
-    <cities>
-      <id>148630</id>
-      <name>Al Khalas</name>
-      <latitude>21.70000000</latitude>
-      <longitude>39.80000000</longitude>
     </cities>
     <cities>
       <id>148901</id>
@@ -652672,12 +652450,6 @@
     </cities>
     <cities>
       <id>148902</id>
-      <name>Al Khamrah</name>
-      <latitude>22.43330000</latitude>
-      <longitude>39.46670000</longitude>
-    </cities>
-    <cities>
-      <id>148631</id>
       <name>Al Khamrah</name>
       <latitude>22.43330000</latitude>
       <longitude>39.46670000</longitude>
@@ -652719,18 +652491,6 @@
       <longitude>40.63060000</longitude>
     </cities>
     <cities>
-      <id>148632</id>
-      <name>Al Khaydar</name>
-      <latitude>21.46940000</latitude>
-      <longitude>40.63060000</longitude>
-    </cities>
-    <cities>
-      <id>148633</id>
-      <name>Al Khayf</name>
-      <latitude>21.68330000</latitude>
-      <longitude>39.73330000</longitude>
-    </cities>
-    <cities>
       <id>148904</id>
       <name>Al Khayf</name>
       <latitude>21.68330000</latitude>
@@ -652749,18 +652509,6 @@
       <longitude>39.91670000</longitude>
     </cities>
     <cities>
-      <id>148634</id>
-      <name>Al Khulasah</name>
-      <latitude>21.68330000</latitude>
-      <longitude>39.91670000</longitude>
-    </cities>
-    <cities>
-      <id>148635</id>
-      <name>Al Kidwah</name>
-      <latitude>21.78330000</latitude>
-      <longitude>39.68330000</longitude>
-    </cities>
-    <cities>
       <id>148906</id>
       <name>Al Kidwah</name>
       <latitude>21.78330000</latitude>
@@ -652774,12 +652522,6 @@
     </cities>
     <cities>
       <id>148907</id>
-      <name>Al Kura`</name>
-      <latitude>21.80000000</latitude>
-      <longitude>39.13330000</longitude>
-    </cities>
-    <cities>
-      <id>148636</id>
       <name>Al Kura`</name>
       <latitude>21.80000000</latitude>
       <longitude>39.13330000</longitude>
@@ -652803,40 +652545,16 @@
       <longitude>40.60000000</longitude>
     </cities>
     <cities>
-      <id>148637</id>
-      <name>Al Ma`rash</name>
-      <latitude>21.13330000</latitude>
-      <longitude>40.60000000</longitude>
-    </cities>
-    <cities>
       <id>148767</id>
       <name>Al Madaya</name>
       <latitude>16.76970000</latitude>
       <longitude>42.73110000</longitude>
     </cities>
     <cities>
-      <id>148816</id>
-      <name>Al Madiq Al Madinah</name>
-      <latitude>23.32220000</latitude>
-      <longitude>39.62030000</longitude>
-    </cities>
-    <cities>
       <id>148909</id>
       <name>Al Madiq Makkah</name>
       <latitude>21.67580000</latitude>
       <longitude>40.13080000</longitude>
-    </cities>
-    <cities>
-      <id>148638</id>
-      <name>Al Madiq Makkah</name>
-      <latitude>21.67580000</latitude>
-      <longitude>40.13080000</longitude>
-    </cities>
-    <cities>
-      <id>148639</id>
-      <name>Al Maghal</name>
-      <latitude>21.96670000</latitude>
-      <longitude>39.55000000</longitude>
     </cities>
     <cities>
       <id>148910</id>
@@ -652851,22 +652569,10 @@
       <longitude>39.20000000</longitude>
     </cities>
     <cities>
-      <id>148640</id>
-      <name>Al Mahjar</name>
-      <latitude>21.43330000</latitude>
-      <longitude>39.20000000</longitude>
-    </cities>
-    <cities>
       <id>102827</id>
       <name>Al Majāridah</name>
       <latitude>19.12361000</latitude>
       <longitude>41.91111000</longitude>
-    </cities>
-    <cities>
-      <id>148912</id>
-      <name>Al Majāridah</name>
-      <latitude>19.12361111</latitude>
-      <longitude>41.91111111</longitude>
     </cities>
     <cities>
       <id>148817</id>
@@ -652887,22 +652593,10 @@
       <longitude>39.95000000</longitude>
     </cities>
     <cities>
-      <id>148641</id>
-      <name>Al Maqrah</name>
-      <latitude>21.26670000</latitude>
-      <longitude>39.95000000</longitude>
-    </cities>
-    <cities>
       <id>102828</id>
       <name>Al Markaz</name>
       <latitude>25.40000000</latitude>
       <longitude>49.73333000</longitude>
-    </cities>
-    <cities>
-      <id>148642</id>
-      <name>Al Masarrah</name>
-      <latitude>21.36670000</latitude>
-      <longitude>40.46670000</longitude>
     </cities>
     <cities>
       <id>148914</id>
@@ -652917,18 +652611,6 @@
       <longitude>39.81670000</longitude>
     </cities>
     <cities>
-      <id>148643</id>
-      <name>Al Masfalah</name>
-      <latitude>21.41670000</latitude>
-      <longitude>39.81670000</longitude>
-    </cities>
-    <cities>
-      <id>148644</id>
-      <name>Al Mashayikh</name>
-      <latitude>21.35000000</latitude>
-      <longitude>40.33330000</longitude>
-    </cities>
-    <cities>
       <id>148916</id>
       <name>Al Mashayikh</name>
       <latitude>21.35000000</latitude>
@@ -652936,12 +652618,6 @@
     </cities>
     <cities>
       <id>148917</id>
-      <name>Al Mathnah</name>
-      <latitude>21.26666667</latitude>
-      <longitude>40.38333333</longitude>
-    </cities>
-    <cities>
-      <id>148645</id>
       <name>Al Mathnah</name>
       <latitude>21.26666667</latitude>
       <longitude>40.38333333</longitude>
@@ -652959,22 +652635,10 @@
       <longitude>41.28337000</longitude>
     </cities>
     <cities>
-      <id>148593</id>
-      <name>Al Mindak</name>
-      <latitude>20.15888889</latitude>
-      <longitude>41.28333333</longitude>
-    </cities>
-    <cities>
       <id>102830</id>
       <name>Al Mithnab</name>
       <latitude>25.86012000</latitude>
       <longitude>44.22228000</longitude>
-    </cities>
-    <cities>
-      <id>148646</id>
-      <name>Al Mubarak</name>
-      <latitude>21.70000000</latitude>
-      <longitude>39.90000000</longitude>
     </cities>
     <cities>
       <id>148918</id>
@@ -652987,12 +652651,6 @@
       <name>Al Mubarraz</name>
       <latitude>25.40768000</latitude>
       <longitude>49.59028000</longitude>
-    </cities>
-    <cities>
-      <id>148647</id>
-      <name>Al Mudawwarah</name>
-      <latitude>21.26670000</latitude>
-      <longitude>39.96670000</longitude>
     </cities>
     <cities>
       <id>148919</id>
@@ -653013,12 +652671,6 @@
       <longitude>40.35000000</longitude>
     </cities>
     <cities>
-      <id>148648</id>
-      <name>Al Mulayha'</name>
-      <latitude>21.80000000</latitude>
-      <longitude>40.35000000</longitude>
-    </cities>
-    <cities>
       <id>148819</id>
       <name>Al Multasa</name>
       <latitude>24.08330000</latitude>
@@ -653031,12 +652683,6 @@
       <longitude>49.66667000</longitude>
     </cities>
     <cities>
-      <id>148649</id>
-      <name>Al Mundassah</name>
-      <latitude>21.63330000</latitude>
-      <longitude>39.74860000</longitude>
-    </cities>
-    <cities>
       <id>148921</id>
       <name>Al Mundassah</name>
       <latitude>21.63330000</latitude>
@@ -653047,18 +652693,6 @@
       <name>Al Muqayti`</name>
       <latitude>21.54860000</latitude>
       <longitude>39.78610000</longitude>
-    </cities>
-    <cities>
-      <id>148650</id>
-      <name>Al Muqayti`</name>
-      <latitude>21.54860000</latitude>
-      <longitude>39.78610000</longitude>
-    </cities>
-    <cities>
-      <id>148651</id>
-      <name>Al Muqr</name>
-      <latitude>22.00000000</latitude>
-      <longitude>39.38330000</longitude>
     </cities>
     <cities>
       <id>148923</id>
@@ -653085,12 +652719,6 @@
       <longitude>41.75829000</longitude>
     </cities>
     <cities>
-      <id>148652</id>
-      <name>Al Muwayh</name>
-      <latitude>22.43333000</latitude>
-      <longitude>41.75829000</longitude>
-    </cities>
-    <cities>
       <id>148770</id>
       <name>Al Qa'im</name>
       <latitude>16.71944444</latitude>
@@ -653103,19 +652731,7 @@
       <longitude>39.15000000</longitude>
     </cities>
     <cities>
-      <id>148653</id>
-      <name>Al Qadimah</name>
-      <latitude>22.35000000</latitude>
-      <longitude>39.15000000</longitude>
-    </cities>
-    <cities>
       <id>148594</id>
-      <name>Al Qahab</name>
-      <latitude>18.92560000</latitude>
-      <longitude>41.95500000</longitude>
-    </cities>
-    <cities>
-      <id>148925</id>
       <name>Al Qahab</name>
       <latitude>18.92560000</latitude>
       <longitude>41.95500000</longitude>
@@ -653125,12 +652741,6 @@
       <name>Al Qārah</name>
       <latitude>25.41667000</latitude>
       <longitude>49.66667000</longitude>
-    </cities>
-    <cities>
-      <id>148654</id>
-      <name>Al Qararah</name>
-      <latitude>21.42890000</latitude>
-      <longitude>39.82810000</longitude>
     </cities>
     <cities>
       <id>148926</id>
@@ -653145,22 +652755,10 @@
       <longitude>39.20000000</longitude>
     </cities>
     <cities>
-      <id>148655</id>
-      <name>Al Qaryat</name>
-      <latitude>21.46670000</latitude>
-      <longitude>39.20000000</longitude>
-    </cities>
-    <cities>
       <id>102835</id>
       <name>Al Qaţīf</name>
       <latitude>26.56542000</latitude>
       <longitude>50.00890000</longitude>
-    </cities>
-    <cities>
-      <id>148656</id>
-      <name>Al Qawba`iyah</name>
-      <latitude>21.66670000</latitude>
-      <longitude>39.98330000</longitude>
     </cities>
     <cities>
       <id>148928</id>
@@ -653175,18 +652773,6 @@
       <longitude>39.70000000</longitude>
     </cities>
     <cities>
-      <id>148657</id>
-      <name>Al Qirshan</name>
-      <latitude>21.56670000</latitude>
-      <longitude>39.70000000</longitude>
-    </cities>
-    <cities>
-      <id>148658</id>
-      <name>Al Qu`tubah</name>
-      <latitude>21.93330000</latitude>
-      <longitude>40.36670000</longitude>
-    </cities>
-    <cities>
       <id>148930</id>
       <name>Al Qu`tubah</name>
       <latitude>21.93330000</latitude>
@@ -653194,12 +652780,6 @@
     </cities>
     <cities>
       <id>148931</id>
-      <name>Al Qufayf</name>
-      <latitude>21.83330000</latitude>
-      <longitude>40.45000000</longitude>
-    </cities>
-    <cities>
-      <id>148659</id>
       <name>Al Qufayf</name>
       <latitude>21.83330000</latitude>
       <longitude>40.45000000</longitude>
@@ -653223,12 +652803,6 @@
       <longitude>49.60000000</longitude>
     </cities>
     <cities>
-      <id>148660</id>
-      <name>Al Qushashiyah</name>
-      <latitude>21.43330000</latitude>
-      <longitude>39.83330000</longitude>
-    </cities>
-    <cities>
       <id>148932</id>
       <name>Al Qushashiyah</name>
       <latitude>21.43330000</latitude>
@@ -653239,12 +652813,6 @@
       <name>Al Quwah</name>
       <latitude>16.79940000</latitude>
       <longitude>43.22500000</longitude>
-    </cities>
-    <cities>
-      <id>148821</id>
-      <name>Al Thybiyah</name>
-      <latitude>26.02700000</latitude>
-      <longitude>43.15700000</longitude>
     </cities>
     <cities>
       <id>148575</id>
@@ -653259,12 +652827,6 @@
       <longitude>50.93966000</longitude>
     </cities>
     <cities>
-      <id>148661</id>
-      <name>Al Ukhaydir</name>
-      <latitude>21.93330000</latitude>
-      <longitude>40.01670000</longitude>
-    </cities>
-    <cities>
       <id>148933</id>
       <name>Al Ukhaydir</name>
       <latitude>21.93330000</latitude>
@@ -653272,12 +652834,6 @@
     </cities>
     <cities>
       <id>148934</id>
-      <name>Al Waht</name>
-      <latitude>21.23330000</latitude>
-      <longitude>40.35000000</longitude>
-    </cities>
-    <cities>
-      <id>148662</id>
       <name>Al Waht</name>
       <latitude>21.23330000</latitude>
       <longitude>40.35000000</longitude>
@@ -653343,18 +652899,6 @@
       <longitude>42.94390000</longitude>
     </cities>
     <cities>
-      <id>102840</id>
-      <name>An Nimāş</name>
-      <latitude>19.14547000</latitude>
-      <longitude>42.12009000</longitude>
-    </cities>
-    <cities>
-      <id>148664</id>
-      <name>Ar Rabwah as Sufla</name>
-      <latitude>21.95530000</latitude>
-      <longitude>39.43670000</longitude>
-    </cities>
-    <cities>
       <id>148936</id>
       <name>Ar Rabwah as Sufla</name>
       <latitude>21.95530000</latitude>
@@ -653367,31 +652911,13 @@
       <longitude>40.20000000</longitude>
     </cities>
     <cities>
-      <id>148665</id>
-      <name>Ar Rafah</name>
-      <latitude>21.51670000</latitude>
-      <longitude>40.20000000</longitude>
-    </cities>
-    <cities>
       <id>102841</id>
       <name>Ar Rass</name>
       <latitude>25.86944000</latitude>
       <longitude>43.49730000</longitude>
     </cities>
     <cities>
-      <id>148826</id>
-      <name>Ar Rass</name>
-      <latitude>25.86666667</latitude>
-      <longitude>43.50000000</longitude>
-    </cities>
-    <cities>
       <id>148938</id>
-      <name>Ar Rawdah ash Shamaliyah</name>
-      <latitude>21.73330000</latitude>
-      <longitude>39.96670000</longitude>
-    </cities>
-    <cities>
-      <id>148666</id>
       <name>Ar Rawdah ash Shamaliyah</name>
       <latitude>21.73330000</latitude>
       <longitude>39.96670000</longitude>
@@ -653409,12 +652935,6 @@
       <longitude>39.68330000</longitude>
     </cities>
     <cities>
-      <id>148667</id>
-      <name>Ar Rudaymah</name>
-      <latitude>21.76670000</latitude>
-      <longitude>39.68330000</longitude>
-    </cities>
-    <cities>
       <id>148778</id>
       <name>Ar Rukubah</name>
       <latitude>16.62220000</latitude>
@@ -653425,18 +652945,6 @@
       <name>Arar</name>
       <latitude>30.97531000</latitude>
       <longitude>41.03808000</longitude>
-    </cities>
-    <cities>
-      <id>148576</id>
-      <name>Arar</name>
-      <latitude>30.98333333</latitude>
-      <longitude>41.01666667</longitude>
-    </cities>
-    <cities>
-      <id>148668</id>
-      <name>Arya`</name>
-      <latitude>21.08560000</latitude>
-      <longitude>40.62390000</longitude>
     </cities>
     <cities>
       <id>148940</id>
@@ -653452,12 +652960,6 @@
     </cities>
     <cities>
       <id>148941</id>
-      <name>As Sadr</name>
-      <latitude>21.51890000</latitude>
-      <longitude>40.19750000</longitude>
-    </cities>
-    <cities>
-      <id>148669</id>
       <name>As Sadr</name>
       <latitude>21.51890000</latitude>
       <longitude>40.19750000</longitude>
@@ -653487,18 +652989,6 @@
       <longitude>39.75000000</longitude>
     </cities>
     <cities>
-      <id>148670</id>
-      <name>As Samd ash Shamali</name>
-      <latitude>21.67500000</latitude>
-      <longitude>39.75000000</longitude>
-    </cities>
-    <cities>
-      <id>148671</id>
-      <name>As Sayl al Kabir</name>
-      <latitude>21.62640000</latitude>
-      <longitude>40.41530000</longitude>
-    </cities>
-    <cities>
       <id>148943</id>
       <name>As Sayl al Kabir</name>
       <latitude>21.62640000</latitude>
@@ -653511,18 +653001,6 @@
       <longitude>40.48220000</longitude>
     </cities>
     <cities>
-      <id>148672</id>
-      <name>As Sayl as Saghir</name>
-      <latitude>21.50640000</latitude>
-      <longitude>40.48220000</longitude>
-    </cities>
-    <cities>
-      <id>148673</id>
-      <name>As Sifyani</name>
-      <latitude>21.47560000</latitude>
-      <longitude>39.84310000</longitude>
-    </cities>
-    <cities>
       <id>148945</id>
       <name>As Sifyani</name>
       <latitude>21.47560000</latitude>
@@ -653530,12 +653008,6 @@
     </cities>
     <cities>
       <id>148946</id>
-      <name>As Sudayrah Makkah</name>
-      <latitude>21.36190000</latitude>
-      <longitude>40.85470000</longitude>
-    </cities>
-    <cities>
-      <id>148674</id>
       <name>As Sudayrah Makkah</name>
       <latitude>21.36190000</latitude>
       <longitude>40.85470000</longitude>
@@ -653559,12 +653031,6 @@
       <longitude>40.51170000</longitude>
     </cities>
     <cities>
-      <id>148675</id>
-      <name>As Suwadah</name>
-      <latitude>21.13390000</latitude>
-      <longitude>40.51170000</longitude>
-    </cities>
-    <cities>
       <id>148830</id>
       <name>As Suwayriqiyah</name>
       <latitude>23.35000000</latitude>
@@ -653575,12 +653041,6 @@
       <name>Ash Shafā</name>
       <latitude>21.07210000</latitude>
       <longitude>40.31185000</longitude>
-    </cities>
-    <cities>
-      <id>148676</id>
-      <name>Ash Shajwah</name>
-      <latitude>21.66440000</latitude>
-      <longitude>40.01140000</longitude>
     </cities>
     <cities>
       <id>148948</id>
@@ -653595,18 +653055,6 @@
       <longitude>39.52440000</longitude>
     </cities>
     <cities>
-      <id>148677</id>
-      <name>Ash Shamiyah</name>
-      <latitude>21.84110000</latitude>
-      <longitude>39.52440000</longitude>
-    </cities>
-    <cities>
-      <id>148678</id>
-      <name>Ash Shara'i`</name>
-      <latitude>21.46305556</latitude>
-      <longitude>39.94611111</longitude>
-    </cities>
-    <cities>
       <id>148950</id>
       <name>Ash Shara'i`</name>
       <latitude>21.46305556</latitude>
@@ -653619,18 +653067,6 @@
       <longitude>39.94170000</longitude>
     </cities>
     <cities>
-      <id>148679</id>
-      <name>Ash Shaybi</name>
-      <latitude>21.69580000</latitude>
-      <longitude>39.94170000</longitude>
-    </cities>
-    <cities>
-      <id>148680</id>
-      <name>Ash Shi`b</name>
-      <latitude>21.96890000</latitude>
-      <longitude>39.48610000</longitude>
-    </cities>
-    <cities>
       <id>148952</id>
       <name>Ash Shi`b</name>
       <latitude>21.96890000</latitude>
@@ -653638,12 +653074,6 @@
     </cities>
     <cities>
       <id>148953</id>
-      <name>Ash Shishah</name>
-      <latitude>21.35030000</latitude>
-      <longitude>39.89190000</longitude>
-    </cities>
-    <cities>
-      <id>148681</id>
       <name>Ash Shishah</name>
       <latitude>21.35030000</latitude>
       <longitude>39.89190000</longitude>
@@ -653661,12 +653091,6 @@
       <longitude>39.68330000</longitude>
     </cities>
     <cities>
-      <id>148682</id>
-      <name>Ash Shumaysi</name>
-      <latitude>21.58330000</latitude>
-      <longitude>39.68330000</longitude>
-    </cities>
-    <cities>
       <id>148779</id>
       <name>Ash Shuqayq</name>
       <latitude>17.70305556</latitude>
@@ -653679,22 +653103,10 @@
       <longitude>40.51940000</longitude>
     </cities>
     <cities>
-      <id>148683</id>
-      <name>Ash Shuwaybit</name>
-      <latitude>21.37970000</latitude>
-      <longitude>40.51940000</longitude>
-    </cities>
-    <cities>
       <id>148832</id>
       <name>Asira</name>
       <latitude>24.33330000</latitude>
       <longitude>38.63330000</longitude>
-    </cities>
-    <cities>
-      <id>148684</id>
-      <name>At Tan`im</name>
-      <latitude>21.48250000</latitude>
-      <longitude>39.80500000</longitude>
     </cities>
     <cities>
       <id>148956</id>
@@ -653709,12 +653121,6 @@
       <longitude>49.72757000</longitude>
     </cities>
     <cities>
-      <id>148685</id>
-      <name>At Tarfa'</name>
-      <latitude>21.70638889</latitude>
-      <longitude>39.87138889</longitude>
-    </cities>
-    <cities>
       <id>148957</id>
       <name>At Tarfa'</name>
       <latitude>21.70638889</latitude>
@@ -653725,12 +653131,6 @@
       <name>At Tūbī</name>
       <latitude>26.55778000</latitude>
       <longitude>49.99167000</longitude>
-    </cities>
-    <cities>
-      <id>148686</id>
-      <name>At Turqi</name>
-      <latitude>21.94920000</latitude>
-      <longitude>39.41310000</longitude>
     </cities>
     <cities>
       <id>148958</id>
@@ -653745,18 +653145,6 @@
       <longitude>40.11330000</longitude>
     </cities>
     <cities>
-      <id>148687</id>
-      <name>Az Zaymah</name>
-      <latitude>21.61860000</latitude>
-      <longitude>40.11330000</longitude>
-    </cities>
-    <cities>
-      <id>148688</id>
-      <name>Az Zilal</name>
-      <latitude>21.48890000</latitude>
-      <longitude>39.59420000</longitude>
-    </cities>
-    <cities>
       <id>148960</id>
       <name>Az Zilal</name>
       <latitude>21.48890000</latitude>
@@ -653769,22 +653157,10 @@
       <longitude>39.94580000</longitude>
     </cities>
     <cities>
-      <id>148689</id>
-      <name>Az Zughbah</name>
-      <latitude>21.71670000</latitude>
-      <longitude>39.94580000</longitude>
-    </cities>
-    <cities>
       <id>102847</id>
       <name>Az Zulfī</name>
       <latitude>26.29945000</latitude>
       <longitude>44.81542000</longitude>
-    </cities>
-    <cities>
-      <id>148690</id>
-      <name>Az Zurra`</name>
-      <latitude>21.91060000</latitude>
-      <longitude>39.40000000</longitude>
     </cities>
     <cities>
       <id>148962</id>
@@ -653799,24 +653175,6 @@
       <longitude>39.96940000</longitude>
     </cities>
     <cities>
-      <id>148691</id>
-      <name>Az Zuwayb</name>
-      <latitude>21.91670000</latitude>
-      <longitude>39.96940000</longitude>
-    </cities>
-    <cities>
-      <id>102849</id>
-      <name>Badr Ḩunayn</name>
-      <latitude>23.78292000</latitude>
-      <longitude>38.79047000</longitude>
-    </cities>
-    <cities>
-      <id>148692</id>
-      <name>Bahrat al Qadimah</name>
-      <latitude>21.41330000</latitude>
-      <longitude>39.49390000</longitude>
-    </cities>
-    <cities>
       <id>148964</id>
       <name>Bahrat al Qadimah</name>
       <latitude>21.41330000</latitude>
@@ -653824,12 +653182,6 @@
     </cities>
     <cities>
       <id>148965</id>
-      <name>Bahwil</name>
-      <latitude>22.42940000</latitude>
-      <longitude>39.42940000</longitude>
-    </cities>
-    <cities>
-      <id>148693</id>
       <name>Bahwil</name>
       <latitude>22.42940000</latitude>
       <longitude>39.42940000</longitude>
@@ -653845,12 +653197,6 @@
       <name>Baq`a'</name>
       <latitude>24.21666667</latitude>
       <longitude>38.71666667</longitude>
-    </cities>
-    <cities>
-      <id>148694</id>
-      <name>Baranah</name>
-      <latitude>21.55420000</latitude>
-      <longitude>39.82220000</longitude>
     </cities>
     <cities>
       <id>148966</id>
@@ -653871,18 +653217,6 @@
       <longitude>39.67560000</longitude>
     </cities>
     <cities>
-      <id>148695</id>
-      <name>Barzah</name>
-      <latitude>21.98000000</latitude>
-      <longitude>39.67560000</longitude>
-    </cities>
-    <cities>
-      <id>148696</id>
-      <name>Bashm</name>
-      <latitude>21.48220000</latitude>
-      <longitude>39.82080000</longitude>
-    </cities>
-    <cities>
       <id>148968</id>
       <name>Bashm</name>
       <latitude>21.48220000</latitude>
@@ -653901,12 +653235,6 @@
       <longitude>38.85970000</longitude>
     </cities>
     <cities>
-      <id>148837</id>
-      <name>Buraidah</name>
-      <latitude>26.33333333</latitude>
-      <longitude>43.96666667</longitude>
-    </cities>
-    <cities>
       <id>148577</id>
       <name>Buraidah</name>
       <latitude>26.33333333</latitude>
@@ -653917,12 +653245,6 @@
       <name>Buraydah</name>
       <latitude>26.32599000</latitude>
       <longitude>43.97497000</longitude>
-    </cities>
-    <cities>
-      <id>148697</id>
-      <name>Buraykah</name>
-      <latitude>22.34440000</latitude>
-      <longitude>39.32000000</longitude>
     </cities>
     <cities>
       <id>148969</id>
@@ -653937,18 +653259,6 @@
       <longitude>39.22640000</longitude>
     </cities>
     <cities>
-      <id>148698</id>
-      <name>Burayman</name>
-      <latitude>21.63750000</latitude>
-      <longitude>39.22640000</longitude>
-    </cities>
-    <cities>
-      <id>148699</id>
-      <name>CITY GHRAN</name>
-      <latitude>21.97380000</latitude>
-      <longitude>39.36820000</longitude>
-    </cities>
-    <cities>
       <id>148971</id>
       <name>CITY GHRAN</name>
       <latitude>21.97380000</latitude>
@@ -653959,18 +653269,6 @@
       <name>Dabyah</name>
       <latitude>22.42470000</latitude>
       <longitude>39.44610000</longitude>
-    </cities>
-    <cities>
-      <id>148700</id>
-      <name>Dabyah</name>
-      <latitude>22.42470000</latitude>
-      <longitude>39.44610000</longitude>
-    </cities>
-    <cities>
-      <id>148701</id>
-      <name>Dahaban</name>
-      <latitude>21.93333333</latitude>
-      <longitude>39.11666667</longitude>
     </cities>
     <cities>
       <id>148973</id>
@@ -654009,12 +653307,6 @@
       <longitude>35.69014000</longitude>
     </cities>
     <cities>
-      <id>148702</id>
-      <name>Dughaybjah</name>
-      <latitude>22.59030000</latitude>
-      <longitude>41.35970000</longitude>
-    </cities>
-    <cities>
       <id>148974</id>
       <name>Dughaybjah</name>
       <latitude>22.59030000</latitude>
@@ -654022,12 +653314,6 @@
     </cities>
     <cities>
       <id>148578</id>
-      <name>Dukhnah</name>
-      <latitude>25.35621000</latitude>
-      <longitude>43.62268000</longitude>
-    </cities>
-    <cities>
-      <id>148838</id>
       <name>Dukhnah</name>
       <latitude>25.35621000</latitude>
       <longitude>43.62268000</longitude>
@@ -654043,12 +653329,6 @@
       <name>Farasān</name>
       <latitude>16.70222000</latitude>
       <longitude>42.11833000</longitude>
-    </cities>
-    <cities>
-      <id>148703</id>
-      <name>Fayd</name>
-      <latitude>21.91720000</latitude>
-      <longitude>39.38830000</longitude>
     </cities>
     <cities>
       <id>148975</id>
@@ -654075,28 +653355,10 @@
       <longitude>39.36521000</longitude>
     </cities>
     <cities>
-      <id>148704</id>
-      <name>Ghran</name>
-      <latitude>21.98027000</latitude>
-      <longitude>39.36521000</longitude>
-    </cities>
-    <cities>
-      <id>102856</id>
-      <name>Ha'il</name>
-      <latitude>27.52188000</latitude>
-      <longitude>41.69073000</longitude>
-    </cities>
-    <cities>
       <id>148564</id>
       <name>Ha'il </name>
       <latitude>27.51666667</latitude>
       <longitude>41.68333333</longitude>
-    </cities>
-    <cities>
-      <id>148705</id>
-      <name>Hadda'</name>
-      <latitude>21.45027778</latitude>
-      <longitude>39.55444444</longitude>
     </cities>
     <cities>
       <id>148976</id>
@@ -654111,18 +653373,6 @@
       <longitude>39.68330000</longitude>
     </cities>
     <cities>
-      <id>148706</id>
-      <name>Haddat ash Sham</name>
-      <latitude>21.79670000</latitude>
-      <longitude>39.68330000</longitude>
-    </cities>
-    <cities>
-      <id>148707</id>
-      <name>Hadhah</name>
-      <latitude>21.65250000</latitude>
-      <longitude>40.01420000</longitude>
-    </cities>
-    <cities>
       <id>148978</id>
       <name>Hadhah</name>
       <latitude>21.65250000</latitude>
@@ -654135,22 +653385,10 @@
       <longitude>45.97077000</longitude>
     </cities>
     <cities>
-      <id>148595</id>
-      <name>Hajrah</name>
-      <latitude>20.23333333</latitude>
-      <longitude>41.05000000</longitude>
-    </cities>
-    <cities>
       <id>148708</id>
       <name>Hajrah</name>
       <latitude>20.23333333</latitude>
       <longitude>41.05000000</longitude>
-    </cities>
-    <cities>
-      <id>148709</id>
-      <name>Hajur</name>
-      <latitude>23.01780000</latitude>
-      <longitude>39.73030000</longitude>
     </cities>
     <cities>
       <id>148979</id>
@@ -654160,12 +653398,6 @@
     </cities>
     <cities>
       <id>148980</id>
-      <name>Halamah</name>
-      <latitude>21.95420000</latitude>
-      <longitude>39.70280000</longitude>
-    </cities>
-    <cities>
-      <id>148710</id>
       <name>Halamah</name>
       <latitude>21.95420000</latitude>
       <longitude>39.70280000</longitude>
@@ -654207,12 +653439,6 @@
       <longitude>38.55000000</longitude>
     </cities>
     <cities>
-      <id>148842</id>
-      <name>Hasa Al Madinah</name>
-      <latitude>24.28333333</latitude>
-      <longitude>38.60000000</longitude>
-    </cities>
-    <cities>
       <id>148843</id>
       <name>Haylat Radi al Baham</name>
       <latitude>24.08390000</latitude>
@@ -654223,12 +653449,6 @@
       <name>Husayniyah</name>
       <latitude>23.86666667</latitude>
       <longitude>38.90000000</longitude>
-    </cities>
-    <cities>
-      <id>148711</id>
-      <name>Husnah</name>
-      <latitude>21.80000000</latitude>
-      <longitude>39.59166667</longitude>
     </cities>
     <cities>
       <id>148981</id>
@@ -654255,18 +653475,6 @@
       <longitude>39.81670000</longitude>
     </cities>
     <cities>
-      <id>148712</id>
-      <name>Jarwal</name>
-      <latitude>21.43330000</latitude>
-      <longitude>39.81670000</longitude>
-    </cities>
-    <cities>
-      <id>148713</id>
-      <name>Jeddah</name>
-      <latitude>21.54277778</latitude>
-      <longitude>39.17277778</longitude>
-    </cities>
-    <cities>
       <id>102858</id>
       <name>Jeddah</name>
       <latitude>21.54238000</latitude>
@@ -654277,12 +653485,6 @@
       <name>Jizan</name>
       <latitude>16.88917000</latitude>
       <longitude>42.55111000</longitude>
-    </cities>
-    <cities>
-      <id>148566</id>
-      <name>Jubbah</name>
-      <latitude>28.00620000</latitude>
-      <longitude>40.94160000</longitude>
     </cities>
     <cities>
       <id>148582</id>
@@ -654301,12 +653503,6 @@
       <name>Julayjilah</name>
       <latitude>25.50000000</latitude>
       <longitude>49.60000000</longitude>
-    </cities>
-    <cities>
-      <id>148714</id>
-      <name>Julayyil</name>
-      <latitude>21.95830000</latitude>
-      <longitude>39.75830000</longitude>
     </cities>
     <cities>
       <id>148983</id>
@@ -654339,12 +653535,6 @@
       <longitude>42.73333000</longitude>
     </cities>
     <cities>
-      <id>148984</id>
-      <name>Khamis Mushait</name>
-      <latitude>18.30000000</latitude>
-      <longitude>42.73333333</longitude>
-    </cities>
-    <cities>
       <id>148788</id>
       <name>Khatib Saudi Arabia</name>
       <latitude>16.89610000</latitude>
@@ -654369,12 +653559,6 @@
       <longitude>39.22610000</longitude>
     </cities>
     <cities>
-      <id>148715</id>
-      <name>Khumrah</name>
-      <latitude>21.37280000</latitude>
-      <longitude>39.22610000</longitude>
-    </cities>
-    <cities>
       <id>148789</id>
       <name>Khumsiyah</name>
       <latitude>16.77140000</latitude>
@@ -654385,12 +653569,6 @@
       <name>Khushaym</name>
       <latitude>16.88000000</latitude>
       <longitude>43.13720000</longitude>
-    </cities>
-    <cities>
-      <id>148716</id>
-      <name>Kulakh</name>
-      <latitude>21.29640000</latitude>
-      <longitude>40.79690000</longitude>
     </cities>
     <cities>
       <id>148986</id>
@@ -654405,12 +653583,6 @@
       <longitude>46.73330000</longitude>
     </cities>
     <cities>
-      <id>148987</id>
-      <name>Ma`riyah</name>
-      <latitude>18.85000000</latitude>
-      <longitude>41.96670000</longitude>
-    </cities>
-    <cities>
       <id>148596</id>
       <name>Ma`riyah</name>
       <latitude>18.85000000</latitude>
@@ -654423,22 +653595,10 @@
       <longitude>39.98750000</longitude>
     </cities>
     <cities>
-      <id>148717</id>
-      <name>Madrakah</name>
-      <latitude>21.97970000</latitude>
-      <longitude>39.98750000</longitude>
-    </cities>
-    <cities>
       <id>148847</id>
       <name>Madsus</name>
       <latitude>24.35000000</latitude>
       <longitude>38.55000000</longitude>
-    </cities>
-    <cities>
-      <id>148718</id>
-      <name>Mafruq</name>
-      <latitude>21.52220000</latitude>
-      <longitude>40.17940000</longitude>
     </cities>
     <cities>
       <id>148989</id>
@@ -654457,12 +653617,6 @@
       <name>Mahattat al Hafah</name>
       <latitude>23.75000000</latitude>
       <longitude>39.30000000</longitude>
-    </cities>
-    <cities>
-      <id>148719</id>
-      <name>Malakan</name>
-      <latitude>21.21580000</latitude>
-      <longitude>39.95030000</longitude>
     </cities>
     <cities>
       <id>148990</id>
@@ -654507,12 +653661,6 @@
       <longitude>38.23330000</longitude>
     </cities>
     <cities>
-      <id>148720</id>
-      <name>Mashajji</name>
-      <latitude>21.73890000</latitude>
-      <longitude>39.96670000</longitude>
-    </cities>
-    <cities>
       <id>148991</id>
       <name>Mashajji</name>
       <latitude>21.73890000</latitude>
@@ -654525,34 +653673,10 @@
       <longitude>39.88610000</longitude>
     </cities>
     <cities>
-      <id>148721</id>
-      <name>Masihat Mahd al Hayl</name>
-      <latitude>21.94170000</latitude>
-      <longitude>39.88610000</longitude>
-    </cities>
-    <cities>
-      <id>148722</id>
-      <name>Maskar</name>
-      <latitude>21.75000000</latitude>
-      <longitude>40.31640000</longitude>
-    </cities>
-    <cities>
       <id>148993</id>
       <name>Maskar</name>
       <latitude>21.75000000</latitude>
       <longitude>40.31640000</longitude>
-    </cities>
-    <cities>
-      <id>148852</id>
-      <name>Mastoorah</name>
-      <latitude>23.11090000</latitude>
-      <longitude>38.85068889</longitude>
-    </cities>
-    <cities>
-      <id>148723</id>
-      <name>Matiyah</name>
-      <latitude>21.54170000</latitude>
-      <longitude>39.81940000</longitude>
     </cities>
     <cities>
       <id>148994</id>
@@ -654567,12 +653691,6 @@
       <longitude>38.43330000</longitude>
     </cities>
     <cities>
-      <id>148567</id>
-      <name>Mawqaq</name>
-      <latitude>27.38398000</latitude>
-      <longitude>41.17635000</longitude>
-    </cities>
-    <cities>
       <id>148583</id>
       <name>Mawqaq</name>
       <latitude>27.38398000</latitude>
@@ -654583,12 +653701,6 @@
       <name>Mecca</name>
       <latitude>21.42664000</latitude>
       <longitude>39.82563000</longitude>
-    </cities>
-    <cities>
-      <id>148724</id>
-      <name>Mecca</name>
-      <latitude>21.42250000</latitude>
-      <longitude>39.82611111</longitude>
     </cities>
     <cities>
       <id>102865</id>
@@ -654603,22 +653715,10 @@
       <longitude>41.96330000</longitude>
     </cities>
     <cities>
-      <id>148995</id>
-      <name>Mifa</name>
-      <latitude>18.89170000</latitude>
-      <longitude>41.96330000</longitude>
-    </cities>
-    <cities>
       <id>148854</id>
       <name>Milhah</name>
       <latitude>24.05000000</latitude>
       <longitude>38.30000000</longitude>
-    </cities>
-    <cities>
-      <id>148725</id>
-      <name>Mina</name>
-      <latitude>21.41333333</latitude>
-      <longitude>39.89333333</longitude>
     </cities>
     <cities>
       <id>148996</id>
@@ -654657,22 +653757,10 @@
       <longitude>41.91640000</longitude>
     </cities>
     <cities>
-      <id>148997</id>
-      <name>Munayzir</name>
-      <latitude>18.94640000</latitude>
-      <longitude>41.91640000</longitude>
-    </cities>
-    <cities>
       <id>148794</id>
       <name>Mundaraq</name>
       <latitude>16.75420000</latitude>
       <longitude>43.14890000</longitude>
-    </cities>
-    <cities>
-      <id>148726</id>
-      <name>Murshidiyah</name>
-      <latitude>21.48890000</latitude>
-      <longitude>39.79440000</longitude>
     </cities>
     <cities>
       <id>148998</id>
@@ -654682,12 +653770,6 @@
     </cities>
     <cities>
       <id>148999</id>
-      <name>Mushrif</name>
-      <latitude>22.62920000</latitude>
-      <longitude>41.35670000</longitude>
-    </cities>
-    <cities>
-      <id>148727</id>
       <name>Mushrif</name>
       <latitude>22.62920000</latitude>
       <longitude>41.35670000</longitude>
@@ -654705,12 +653787,6 @@
       <longitude>47.16590000</longitude>
     </cities>
     <cities>
-      <id>149029</id>
-      <name>Najran</name>
-      <latitude>17.49170000</latitude>
-      <longitude>44.13220000</longitude>
-    </cities>
-    <cities>
       <id>102869</id>
       <name>Najrān</name>
       <latitude>17.49326000</latitude>
@@ -654723,22 +653799,10 @@
       <longitude>48.48440000</longitude>
     </cities>
     <cities>
-      <id>148579</id>
-      <name>Nisab</name>
-      <latitude>29.19274000</latitude>
-      <longitude>44.71598000</longitude>
-    </cities>
-    <cities>
       <id>148586</id>
       <name>Nisab</name>
       <latitude>29.19274000</latitude>
       <longitude>44.71598000</longitude>
-    </cities>
-    <cities>
-      <id>148728</id>
-      <name>Nughayshiyah</name>
-      <latitude>21.21670000</latitude>
-      <longitude>40.75000000</longitude>
     </cities>
     <cities>
       <id>149000</id>
@@ -654751,12 +653815,6 @@
       <name>Nujayl</name>
       <latitude>24.26670000</latitude>
       <longitude>38.65000000</longitude>
-    </cities>
-    <cities>
-      <id>148729</id>
-      <name>Nuzlat al Faqin</name>
-      <latitude>22.00000000</latitude>
-      <longitude>39.41670000</longitude>
     </cities>
     <cities>
       <id>149001</id>
@@ -654777,19 +653835,7 @@
       <longitude>46.12729000</longitude>
     </cities>
     <cities>
-      <id>102871</id>
-      <name>Qal‘at Bīshah</name>
-      <latitude>20.00054000</latitude>
-      <longitude>42.60520000</longitude>
-    </cities>
-    <cities>
       <id>148580</id>
-      <name>Qiba</name>
-      <latitude>27.40285000</latitude>
-      <longitude>44.32770000</longitude>
-    </cities>
-    <cities>
-      <id>148857</id>
       <name>Qiba</name>
       <latitude>27.40285000</latitude>
       <longitude>44.32770000</longitude>
@@ -654801,22 +653847,10 @@
       <longitude>43.25000000</longitude>
     </cities>
     <cities>
-      <id>148730</id>
-      <name>Qiya</name>
-      <latitude>21.06670000</latitude>
-      <longitude>41.01670000</longitude>
-    </cities>
-    <cities>
       <id>149002</id>
       <name>Qiya</name>
       <latitude>21.06670000</latitude>
       <longitude>41.01670000</longitude>
-    </cities>
-    <cities>
-      <id>148569</id>
-      <name>Qufar</name>
-      <latitude>27.41534000</latitude>
-      <longitude>41.61903000</longitude>
     </cities>
     <cities>
       <id>148584</id>
@@ -654837,12 +653871,6 @@
       <longitude>42.89027778</longitude>
     </cities>
     <cities>
-      <id>148731</id>
-      <name>Quwayzah</name>
-      <latitude>21.49030000</latitude>
-      <longitude>39.27670000</longitude>
-    </cities>
-    <cities>
       <id>149003</id>
       <name>Quwayzah</name>
       <latitude>21.49030000</latitude>
@@ -654853,12 +653881,6 @@
       <name>Rābigh</name>
       <latitude>22.79856000</latitude>
       <longitude>39.03493000</longitude>
-    </cities>
-    <cities>
-      <id>148732</id>
-      <name>Rabwah Ghran</name>
-      <latitude>21.98330000</latitude>
-      <longitude>39.41670000</longitude>
     </cities>
     <cities>
       <id>149004</id>
@@ -654877,12 +653899,6 @@
       <name>Rahwan</name>
       <latitude>16.83330000</latitude>
       <longitude>43.21670000</longitude>
-    </cities>
-    <cities>
-      <id>148733</id>
-      <name>Raqiyah</name>
-      <latitude>21.76670000</latitude>
-      <longitude>40.35000000</longitude>
     </cities>
     <cities>
       <id>149005</id>
@@ -654909,19 +653925,7 @@
       <longitude>46.72185000</longitude>
     </cities>
     <cities>
-      <id>102876</id>
-      <name>Sabt Al Alayah</name>
-      <latitude>19.70000000</latitude>
-      <longitude>41.91667000</longitude>
-    </cities>
-    <cities>
       <id>149006</id>
-      <name>Sabuhah</name>
-      <latitude>21.58330000</latitude>
-      <longitude>40.11670000</longitude>
-    </cities>
-    <cities>
-      <id>148734</id>
       <name>Sabuhah</name>
       <latitude>21.58330000</latitude>
       <longitude>40.11670000</longitude>
@@ -654981,12 +653985,6 @@
       <longitude>38.53333333</longitude>
     </cities>
     <cities>
-      <id>148735</id>
-      <name>Shi`b `amir</name>
-      <latitude>21.43330000</latitude>
-      <longitude>39.83330000</longitude>
-    </cities>
-    <cities>
       <id>149007</id>
       <name>Shi`b `amir</name>
       <latitude>21.43330000</latitude>
@@ -654994,12 +653992,6 @@
     </cities>
     <cities>
       <id>149008</id>
-      <name>Shira`ayn</name>
-      <latitude>21.28330000</latitude>
-      <longitude>40.78330000</longitude>
-    </cities>
-    <cities>
-      <id>148736</id>
       <name>Shira`ayn</name>
       <latitude>21.28330000</latitude>
       <longitude>40.78330000</longitude>
@@ -655017,22 +654009,10 @@
       <longitude>39.61670000</longitude>
     </cities>
     <cities>
-      <id>148572</id>
-      <name>Simira</name>
-      <latitude>26.49418000</latitude>
-      <longitude>42.12494000</longitude>
-    </cities>
-    <cities>
       <id>148585</id>
       <name>Simira</name>
       <latitude>26.49418000</latitude>
       <longitude>42.12494000</longitude>
-    </cities>
-    <cities>
-      <id>148737</id>
-      <name>Sulaym</name>
-      <latitude>22.58330000</latitude>
-      <longitude>39.63330000</longitude>
     </cities>
     <cities>
       <id>149009</id>
@@ -655041,19 +654021,7 @@
       <longitude>39.63330000</longitude>
     </cities>
     <cities>
-      <id>102879</id>
-      <name>Sulţānah</name>
-      <latitude>24.49258000</latitude>
-      <longitude>39.58572000</longitude>
-    </cities>
-    <cities>
       <id>149010</id>
-      <name>Sumaymah</name>
-      <latitude>21.25000000</latitude>
-      <longitude>39.16670000</longitude>
-    </cities>
-    <cities>
-      <id>148738</id>
       <name>Sumaymah</name>
       <latitude>21.25000000</latitude>
       <longitude>39.16670000</longitude>
@@ -655083,12 +654051,6 @@
       <longitude>40.38925000</longitude>
     </cities>
     <cities>
-      <id>148739</id>
-      <name>Suways</name>
-      <latitude>21.95000000</latitude>
-      <longitude>39.96670000</longitude>
-    </cities>
-    <cities>
       <id>149011</id>
       <name>Suways</name>
       <latitude>21.95000000</latitude>
@@ -655099,18 +654061,6 @@
       <name>Ta'if</name>
       <latitude>21.27028000</latitude>
       <longitude>40.41583000</longitude>
-    </cities>
-    <cities>
-      <id>148740</id>
-      <name>Ta'if</name>
-      <latitude>21.26666667</latitude>
-      <longitude>40.41666667</longitude>
-    </cities>
-    <cities>
-      <id>149012</id>
-      <name>Tabālah</name>
-      <latitude>19.95000000</latitude>
-      <longitude>42.40000000</longitude>
     </cities>
     <cities>
       <id>102882</id>
@@ -655137,22 +654087,10 @@
       <longitude>44.13333000</longitude>
     </cities>
     <cities>
-      <id>148864</id>
-      <name>Tanūmah</name>
-      <latitude>27.10000000</latitude>
-      <longitude>44.13333333</longitude>
-    </cities>
-    <cities>
       <id>102888</id>
       <name>Tārūt</name>
       <latitude>26.57330000</latitude>
       <longitude>50.04028000</longitude>
-    </cities>
-    <cities>
-      <id>148741</id>
-      <name>Tharwah</name>
-      <latitude>21.51670000</latitude>
-      <longitude>39.61670000</longitude>
     </cities>
     <cities>
       <id>149013</id>
@@ -655162,12 +654100,6 @@
     </cities>
     <cities>
       <id>149014</id>
-      <name>Thuwal</name>
-      <latitude>22.28333333</latitude>
-      <longitude>39.10000000</longitude>
-    </cities>
-    <cities>
-      <id>148742</id>
       <name>Thuwal</name>
       <latitude>22.28333333</latitude>
       <longitude>39.10000000</longitude>
@@ -655215,12 +654147,6 @@
       <longitude>37.26850000</longitude>
     </cities>
     <cities>
-      <id>148581</id>
-      <name>Umm Radamah</name>
-      <latitude>28.67985000</latitude>
-      <longitude>44.69549000</longitude>
-    </cities>
-    <cities>
       <id>148587</id>
       <name>Umm Radamah</name>
       <latitude>28.67985000</latitude>
@@ -655233,12 +654159,6 @@
       <longitude>50.21440000</longitude>
     </cities>
     <cities>
-      <id>148743</id>
-      <name>Usfan</name>
-      <latitude>21.92306000</latitude>
-      <longitude>39.35594000</longitude>
-    </cities>
-    <cities>
       <id>149015</id>
       <name>Usfan</name>
       <latitude>21.92306000</latitude>
@@ -655246,12 +654166,6 @@
     </cities>
     <cities>
       <id>149016</id>
-      <name>Wadi al Jalil</name>
-      <latitude>21.46670000</latitude>
-      <longitude>39.85000000</longitude>
-    </cities>
-    <cities>
-      <id>148744</id>
       <name>Wadi al Jalil</name>
       <latitude>21.46670000</latitude>
       <longitude>39.85000000</longitude>
@@ -752767,7 +751681,7 @@
     </cities>
     <cities>
       <id>108631</id>
-      <name>Umraniye</name>
+      <name>Ümraniye</name>
       <latitude>41.01643000</latitude>
       <longitude>29.12476000</longitude>
     </cities>
@@ -910570,6 +909484,12 @@
       <name>San Felipe</name>
       <latitude>10.33991000</latitude>
       <longitude>-68.74247000</longitude>
+    </cities>
+    <cities>
+      <id>153351</id>
+      <name>San Fernando de Apure</name>
+      <latitude>7.87266930</latitude>
+      <longitude>-67.48193280</longitude>
     </cities>
     <cities>
       <id>130146</id>
