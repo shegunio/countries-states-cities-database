@@ -156662,9 +156662,8 @@ INSERT INTO `states` (`id`, `name`, `country_id`, `country_code`, `fips_code`, `
 (5130, 'Ramallah', 169, 'PS', NULL, 'RBH', 'governorate', NULL, NULL, '2022-11-06 19:34:06', '2022-11-06 19:34:06', 1, NULL),
 (5131, 'Salfit', 169, 'PS', NULL, 'SLT', 'governorate', NULL, NULL, '2022-11-06 19:34:06', '2022-11-06 19:34:06', 1, NULL),
 (5132, 'Tubas', 169, 'PS', NULL, 'TBS', 'governorate', NULL, NULL, '2022-11-06 19:34:06', '2022-11-06 19:34:06', 1, NULL),
-(5133, 'Tulkarm', 169, 'PS', NULL, 'TKM', 'governorate', NULL, NULL, '2022-11-06 19:34:06', '2022-11-06 19:34:06', 1, NULL);
-
-
+(5133, 'Tulkarm', 169, 'PS', NULL, 'TKM', 'governorate', NULL, NULL, '2022-11-06 19:34:06', '2022-11-06 19:34:06', 1, NULL),
+(5117, 'Jämtland County', 213, 'SE', '29', 0, 'SE-Z', 63.283062, 14.238281, '2022-11-04 09:51:51', '2022-11-04 09:51:51', 1, 'Q103679');
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
